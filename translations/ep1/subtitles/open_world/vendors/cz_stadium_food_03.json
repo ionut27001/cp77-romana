@@ -1,0 +1,62 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\vendors\\cz_stadium_food_03.json",
+ "entries": [
+  {
+   "key": "1935648808663166980",
+   "en": "Could use a drink.",
+   "ro": "Mi-ar prinde bine o băutură."
+  },
+  {
+   "key": "1979199944430952452",
+   "en": "What's on the menu?",
+   "ro": "Ce aveți în meniu?"
+  },
+  {
+   "key": "1979202558304428032",
+   "en": "Wanna talk to your manager.",
+   "ro": "Vreau să vorbesc cu managerul tău."
+  },
+  {
+   "key": "1979202635865497600",
+   "en": "Music in here's terrible.",
+   "ro": "Muzica de aici e groaznică."
+  },
+  {
+   "key": "1979204222990131200",
+   "en": "Music in here's god-awful.",
+   "ro": "Muzica de aici e de groază."
+  },
+  {
+   "key": "1979204932347600896",
+   "en": "Eh, I like it. Beat keeps me awake.",
+   "ro": "Eh, mie îmi place. Ritmul mă ține trează.",
+   "ro_m": "Eh, mie îmi place. Ritmul mă ține treaz."
+  },
+  {
+   "key": "1979205486868144128",
+   "en": "What've you got that's good?",
+   "ro": "Ce aveți bun?"
+  },
+  {
+   "key": "1979206603123433472",
+   "en": "See for yourself.",
+   "ro": "Vezi singură.",
+   "ro_m": "Vezi singur."
+  },
+  {
+   "key": "4108571656794812416",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "4108572562814808064",
+   "en": "[Step away from bar]",
+   "ro": "[Depărtează-te de bar]"
+  },
+  {
+   "key": "4115800971752124416",
+   "en": "[Sit at bar] Could use a drink.",
+   "ro": "[Stai la bar] Mi-ar prinde bine o băutură."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_016.json",
+ "entries": [
+  {
+   "key": "2156387014512467968",
+   "en": "<kiroshi l=\"rus\" o=\"Ну чё? Как тебе новая кислота?\" t=\"An' how... How you like this new acid, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну чё? Как тебе новая кислота?\" t=\"Și... cum îți place acidul ăsta nou, ha?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170811953511645184",
+   "en": "<kiroshi l=\"rus\" o=\"Это охренеть, чумба. На восемь из десяти.\" t=\"Choom... Nova, for sure. Give it an eight outta ten.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Это охренеть, чумба. На восемь из десяти.\" t=\"Choom... Mișto, sigur. Îi dau opt din zece.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170812207434809344",
+   "en": "<kiroshi l=\"rus\" o=\"Ух ты… Я прямо чувствую, как внутри что-то раскрывается… и это… кричит… по-жёлтому.\" t=\"'Ey, 'ey choom... I feel... I feel like something inside me's bursting open... and like... crying out in... in yellow.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ух ты… Я прямо чувствую, как внутри что-то раскрывается… и это… кричит… по-жёлтому.\" t=\"Hei, hei, choom... Simt... simt că ceva din mine explodează... și parcă... strigă în... în galben.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170812611446947840",
+   "en": "<kiroshi l=\"rus\" o=\"Жёлтый — это как молодость и грусть… как кирпичная дорога… и цифровая меланхолия.\" t=\"Yellow, like, a bitter belly... Like a brick road and... digital melancholy, man.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Жёлтый — это как молодость и грусть… как кирпичная дорога… и цифровая меланхолия.\" t=\"Galben, ca... un stomac amar... Ca o stradă de cărămidă și... melancolie digitală, omule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170814091600052224",
+   "en": "<kiroshi l=\"rus\" o=\"Я слышу… Слышу эпохи. Они зовут меня во тьме без начала и конца… Мой разум будто… убегает, улетает…\" t=\"I can hear... I hear eons. Calling in the dark, darkness with no beginning or end. Like my mind's... running, flying away.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я слышу… Слышу эпохи. Они зовут меня во тьме без начала и конца… Мой разум будто… убегает, улетает…\" t=\"Aud... aud eoni. Mă cheamă din întuneric, un întuneric fără început și fără sfârșit. Parcă mintea mi-o ia... fuge, zboară.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170814440280932352",
+   "en": "<kiroshi l=\"rus\" o=\"Смерть… Смерти нет. Есть только вечная жизнь.\" t=\"Death... No, no death. Just pure, everlasting life.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Смерть… Смерти нет. Есть только вечная жизнь.\" t=\"Moarte... Nu există moarte. Doar viață pură, veșnică.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2170814583893901312",
+   "en": "<kiroshi l=\"rus\" o=\"Бля… Чумба, я что, андроид? Только скажи правду, окей?\" t=\"Holy fuck, choom, am I... am I a fuckin' android? Just don't... don't lie to me, all right?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Бля… Чумба, я что, андроид? Только скажи правду, окей?\" t=\"Băi, pula mea, choom, sunt... sunt un android nenorocit? Doar nu... nu mă minți, bine?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

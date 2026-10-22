@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_025.json",
+ "entries": [
+  {
+   "key": "2167996713300054016",
+   "en": "<kiroshi l=\"mex\" o=\"Entonces me dice: «Un desayuno, por favor». Y yo le respondo: «Lo siento, pero ya no estamos sirviendo el desayuno».\" t=\"So he goes, \\\"One breakfast, please,\\\" and I say, \\\"Sorry, but we've already stopped serving breakfast.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Entonces me dice: «Un desayuno, por favor». Y yo le respondo: «Lo siento, pero ya no estamos sirviendo el desayuno».\" t=\"Așa că zice: «Un mic dejun, vă rog», și eu zic: «Scuze, dar nu mai servim mic dejun.»\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2214523272200294400",
+   "en": "And? What he say then?",
+   "ro": "Și? Ce-a zis atunci?"
+  },
+  {
+   "key": "2222912404488294400",
+   "en": "<kiroshi l=\"mex\" o=\"Que la otra chica, Sheila, ya se lo había dicho. Así que, le dije que lo sentía y se lo repetí: «Ya no estamos sirviendo el desayuno».\" t=\"He said the waitress, Sheila, already told him that. So I said I was sorry and told him again, we've stopped serving breakfast.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Que la otra chica, Sheila, ya se lo había dicho. Así que, le dije que lo sentía y se lo repetí: «Ya no estamos sirviendo el desayuno».\" t=\"A zis că ospătărița, Sheila, i-a spus deja asta. Așa că i-am zis că-mi pare rău și i-am repetat că nu mai servim mic dejun.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222912973722456064",
+   "en": "<kiroshi l=\"mex\" o=\"Le dije que era política de la empresa y que no podemos hacer excepciones.\" t=\"I said it's company policy and we can't make exceptions.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Le dije que era política de la empresa y que no podemos hacer excepciones.\" t=\"Am zis că e politica firmei și nu putem face excepții.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222913825166168064",
+   "en": "Good. That's good. So what then? He whip out his iron?",
+   "ro": "Bine. Asta e bine. Și apoi? Și-a scos fierul?"
+  },
+  {
+   "key": "2222922523632570368",
+   "en": "<kiroshi l=\"mex\" o=\"Sí, empezó a gritar y decía «El cliente siempre tiene la razón», mientras zarandeaba el arma.\" t=\"Yeah, started shouting that, \\\"The customer's always right\\\" and waving his piece around.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sí, empezó a gritar y decía «El cliente siempre tiene la razón», mientras zarandeaba el arma.\" t=\"Da, a început să țipe că «Clientul are întotdeauna dreptate» și să-și fluture arma.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222925137908699136",
+   "en": "Good thing nobody tried to play the hero. So d'you give him the breakfast in the end?",
+   "ro": "Bine că nimeni n-a încercat să facă pe eroul. Și până la urmă i-ai dat micul dejun?"
+  },
+  {
+   "key": "2222925273485381632",
+   "en": "<kiroshi l=\"mex\" o=\"No, cambió de opinión. Optó por el almuerzo y se fue. Un ciberpsicópata de pies a cabeza, la verdad.\" t=\"No, he changed his mind. Took the lunch and just walked out. Total cyberpsycho, I'm tellin' ya.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No, cambió de opinión. Optó por el almuerzo y se fue. Un ciberpsicópata de pies a cabeza, la verdad.\" t=\"Nu, s-a răzgândit. A luat prânzul și a plecat pur și simplu. Cyberpsycho total, îți zic.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

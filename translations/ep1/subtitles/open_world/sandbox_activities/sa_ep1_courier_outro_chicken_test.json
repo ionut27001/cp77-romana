@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\sandbox_activities\\sa_ep1_courier_outro_chicken_test.json",
+ "entries": [
+  {
+   "key": "3552010126445228036",
+   "en": "[db_db]intro",
+   "ro": "[db_db]intro"
+  },
+  {
+   "key": "3552011860806709248",
+   "en": "[db_db]docks",
+   "ro": "[db_db]docks"
+  },
+  {
+   "key": "3552012009553506304",
+   "en": "[db_db]end",
+   "ro": "[db_db]end"
+  }
+ ]
+}

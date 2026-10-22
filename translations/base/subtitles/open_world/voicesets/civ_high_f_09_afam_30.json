@@ -1,0 +1,180 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_high_f_09_afam_30.json",
+ "entries": [
+  {
+   "key": "1953227817398345732",
+   "en": "What do you want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1953227817415122948",
+   "en": "Are you looking for someone?",
+   "ro": "Cauți pe cineva?"
+  },
+  {
+   "key": "1953227817515786244",
+   "en": "Don't snoop around here!",
+   "ro": "Nu umbla pe aici!"
+  },
+  {
+   "key": "1953227817549340672",
+   "en": "You can't-- Please go away!",
+   "ro": "Nu poți-- Te rog, pleacă!"
+  },
+  {
+   "key": "1953227817616449540",
+   "en": "No! Don't do that!",
+   "ro": "Nu! Nu face asta!"
+  },
+  {
+   "key": "1953227817633226756",
+   "en": "You'll only make it worse!",
+   "ro": "Doar o să înrăutățești lucrurile!"
+  },
+  {
+   "key": "1953227817700335620",
+   "en": "You don't know what they can do to you!",
+   "ro": "Nu știi ce-ți pot face!"
+  },
+  {
+   "key": "1953227817717112836",
+   "en": "If they catch you, you're dead!",
+   "ro": "Dacă te prind, ești moartă!",
+   "ro_m": "Dacă te prind, ești mort!"
+  },
+  {
+   "key": "1953227817784221700",
+   "en": "Oh, good. Very good.",
+   "ro": "Oh, bine. Foarte bine."
+  },
+  {
+   "key": "1953227817800998916",
+   "en": "Much better.",
+   "ro": "Mult mai bine."
+  },
+  {
+   "key": "1953227817851330564",
+   "en": "What was that?",
+   "ro": "Ce-a fost asta?"
+  },
+  {
+   "key": "1953227817884884996",
+   "en": "Makes no sense!",
+   "ro": "N-are niciun sens!"
+  },
+  {
+   "key": "1953227817918439428",
+   "en": "I guess there's no one here…",
+   "ro": "Cred că nu e nimeni aici…"
+  },
+  {
+   "key": "1953227817951993860",
+   "en": "Am I mistaken…?",
+   "ro": "Mă înșel…?"
+  },
+  {
+   "key": "1953227818002325504",
+   "en": "Somewhere here... if anywhere.",
+   "ro": "Undeva aici... dacă e undeva."
+  },
+  {
+   "key": "1953227818019102724",
+   "en": "I heard you! Come out!",
+   "ro": "Te-am auzit! Ieși afară!"
+  },
+  {
+   "key": "1953227818069434372",
+   "en": "Don't touch me!",
+   "ro": "Nu mă atinge!"
+  },
+  {
+   "key": "1953227818086211588",
+   "en": "Filthy trash!",
+   "ro": "Gunoi murdar!"
+  },
+  {
+   "key": "1953227818119766020",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1953227818170097668",
+   "en": "Of course… Mhm, I don't care how…! Then find them… ! Uh-huh... I need flowers! That's it!",
+   "ro": "Sigur… Mhm, nu-mi pasă cum…! Atunci găsește-i…! Ăă-hm... Îmi trebuie flori! Gata!"
+  },
+  {
+   "key": "1953227818186874884",
+   "en": "Her birthday… She wanted them… What…? A-are you suggesting it's my idea…? Heh... do you hear yourself?",
+   "ro": "Ziua ei… Le-a vrut… Ce…? Sugerezi că ideea e a mea…? Heh... te auzi?"
+  },
+  {
+   "key": "1953227818220429316",
+   "en": "Just take care of it.",
+   "ro": "Doar ocupă-te de asta."
+  },
+  {
+   "key": "1953227818237206532",
+   "en": "Definitely someone!",
+   "ro": "Sigur cineva!"
+  },
+  {
+   "key": "1953227818589528068",
+   "en": "She's here!",
+   "en_m": "He's here!",
+   "ro": "Ea e aici!",
+   "ro_m": "El e aici!"
+  },
+  {
+   "key": "1953227818606305284",
+   "en": "Catch her!",
+   "en_m": "Catch him!",
+   "ro": "Prinde-o!",
+   "ro_m": "Prinde-l!"
+  },
+  {
+   "key": "1953227818706968580",
+   "en": "Save me!",
+   "ro": "Salvează-mă!"
+  },
+  {
+   "key": "1953227818723745796",
+   "en": "Do something!",
+   "ro": "Fă ceva!"
+  },
+  {
+   "key": "1953227818807631876",
+   "en": "Please…! I'm so scared!",
+   "ro": "Te rog…! Mi-e atât de frică!"
+  },
+  {
+   "key": "1953227818824409092",
+   "en": "Why do you want to kill me!?",
+   "ro": "De ce vrei să mă omori!?"
+  },
+  {
+   "key": "1953227818908295172",
+   "en": "Would you like me to call the police?",
+   "ro": "Vrei să chem poliția?"
+  },
+  {
+   "key": "1953227818925072388",
+   "en": "I've had quite enough of this!",
+   "ro": "M-am săturat!"
+  },
+  {
+   "key": "1957765447274758148",
+   "en": "[db_db]Voiceset Interrupt A",
+   "ro": "[db_db]Voiceset Interrupt A"
+  },
+  {
+   "key": "1957765447341867012",
+   "en": "[db_db]Voiceset Return A",
+   "ro": "[db_db]Voiceset Return A"
+  },
+  {
+   "key": "1957765447358644228",
+   "en": "[db_db]Voiceset Urgent A",
+   "ro": "[db_db]Voiceset Urgent A"
+  }
+ ]
+}

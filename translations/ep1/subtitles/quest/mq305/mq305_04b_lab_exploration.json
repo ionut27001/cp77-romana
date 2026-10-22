@@ -1,0 +1,479 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq305\\mq305_04b_lab_exploration.json",
+ "entries": [
+  {
+   "key": "3294326179800694824",
+   "en": "Hold it!",
+   "ro": "Stai!"
+  },
+  {
+   "key": "3294347608550162432",
+   "en": "Hey, chill! You hired me, said to meet here!",
+   "ro": "Hei, calmează-te! Tu m-ai angajat, ai zis să ne întâlnim aici!"
+  },
+  {
+   "key": "3294350456130256896",
+   "en": "This what you wanted?",
+   "ro": "Asta voiai?"
+  },
+  {
+   "key": "3294350468880941060",
+   "en": "Right, let's get this over with.",
+   "ro": "Bine, hai să terminăm odată."
+  },
+  {
+   "key": "3295583799626842116",
+   "en": "OK, let's see if this does the trick.",
+   "ro": "OK, să vedem dacă merge."
+  },
+  {
+   "key": "3296832653324075008",
+   "en": "Shit. Card's not working.",
+   "ro": "Rahat. Cardul nu merge."
+  },
+  {
+   "key": "3297140067655106564",
+   "en": "[Show card] Got the card, yes.",
+   "ro": "[Arată cardul] Da, îl am."
+  },
+  {
+   "key": "3297144312710184960",
+   "en": "[Give card] Little paranoid there, friend.",
+   "ro": "[Dă cardul] Cam paranoic, prietene."
+  },
+  {
+   "key": "3298196993876836352",
+   "en": "Some of the security measures might still be active, so... you go first.",
+   "ro": "Unele măsuri de securitate or mai fi active, așa că... mergi tu primul."
+  },
+  {
+   "key": "3298205793929281540",
+   "en": "Got turrets, but they're offline. C'mon in!",
+   "ro": "Am turele, dar sunt offline. Intră!"
+  },
+  {
+   "key": "3298218353118298116",
+   "en": "We've been lucky so far, but watch out. Can't know what these old systems'll do.",
+   "ro": "Până acum am avut noroc, dar ai grijă. Nu știi ce-or face sistemele astea vechi."
+  },
+  {
+   "key": "3298237055050072068",
+   "en": "All clear now.",
+   "ro": "E liber acum."
+  },
+  {
+   "key": "3298389411297378308",
+   "en": "Your face! Scanner didn't recognize you!",
+   "ro": "Ce față ai! Scanerul nu te-a recunoscut!"
+  },
+  {
+   "key": "3298391391679954948",
+   "en": "Heh. Well, at least we know the security's still up and running.",
+   "ro": "Heh. Păi, măcar știm că securitatea încă merge."
+  },
+  {
+   "key": "3298398502702956544",
+   "en": "Phew, we're almost there.",
+   "ro": "Uf, aproape am ajuns."
+  },
+  {
+   "key": "3298401087249858560",
+   "en": "We made it. The mainframe, the host.",
+   "ro": "Am reușit. Mainframe-ul, hostul."
+  },
+  {
+   "key": "3298489697039400960",
+   "en": "Bree, right? Hands sent me.",
+   "ro": "Bree, nu? Hands m-a trimis."
+  },
+  {
+   "key": "3298492616191098884",
+   "en": "Chill! You're my client!",
+   "ro": "Calmează-te! Ești clienta mea!",
+   "ro_m": "Calmează-te! Ești clientul meu!"
+  },
+  {
+   "key": "3298493126084247552",
+   "en": "Bree? Hands sent me.",
+   "ro": "Bree? Hands m-a trimis."
+  },
+  {
+   "key": "3298510637890650112",
+   "en": "Far as I know, nobody's been here in the last decade, and the systems date back to twenty-thirteen.",
+   "ro": "Din câte știu, n-a mai fost nimeni aici în ultimul deceniu, iar sistemele datează din 2013."
+  },
+  {
+   "key": "3298545690913914880",
+   "en": "Fingers crossed.",
+   "ro": "Să sperăm."
+  },
+  {
+   "key": "3298614721339572224",
+   "en": "Sorry, but uh, you know. I can't trust anyone.",
+   "ro": "Scuze, da' ăă, știi cum e. Nu pot avea încredere în nimeni."
+  },
+  {
+   "key": "3298620221984718848",
+   "en": "Ah, yes.",
+   "ro": "A, da."
+  },
+  {
+   "key": "3298628172304728064",
+   "en": "This way, let's go.",
+   "ro": "Pe aici, hai să mergem."
+  },
+  {
+   "key": "3307113942631464968",
+   "en": "Wait, don't I know you...? Ah! Merc at the border.",
+   "ro": "Stai, nu te cunosc de undeva? A! Merc de la graniță."
+  },
+  {
+   "key": "3307440290973990912",
+   "en": "Small zone, huh? If not for Hands vouching for you, would've thought you were stalking me, hehe.",
+   "ro": "Zonă mică, ha? Dacă nu te garanta Hands, credeam că mă urmărești, hehe."
+  },
+  {
+   "key": "3324791102540234756",
+   "en": "Chill, know exactly what I'm doin'.",
+   "ro": "Calmează-te, știu exact ce fac."
+  },
+  {
+   "key": "3324791990273064960",
+   "en": "Actually, system elements are linked.",
+   "ro": "De fapt, sistemele sunt legate între ele."
+  },
+  {
+   "key": "3324792522412802048",
+   "en": "Actually, turrets like these operate in sequential circuits. Hacking one triggers a feedback loop that boots up others.",
+   "ro": "De fapt, turelele de tipul ăsta merg pe circuite secvențiale. Dacă spargi una, pornește o buclă de feedback și le pornește pe celelalte."
+  },
+  {
+   "key": "3324792558500593668",
+   "en": "Please, I got this.",
+   "ro": "Lasă, mă descurc eu."
+  },
+  {
+   "key": "3327368713288171520",
+   "en": "S'posed to come after dark.",
+   "ro": "Trebuia să vină după ce se întunecă."
+  },
+  {
+   "key": "3327421951085527040",
+   "en": "Great, gimme the card, we'll go inside. Shouldn't remain in plain sight.",
+   "ro": "Bine, dă-mi cardul și intrăm. N-avem ce căuta la vedere."
+  },
+  {
+   "key": "3327760094398103552",
+   "en": "First time holding a gun?",
+   "ro": "Prima dată când ții o armă în mână?"
+  },
+  {
+   "key": "3327760457725493248",
+   "en": "Right, clearly don't know how to use it. So stash your pop-gun, please.",
+   "ro": "Bine, clar nu știi s-o folosești. Așa că bagă pistoletul ăla de jucărie la loc, te rog."
+  },
+  {
+   "key": "3327763063193583616",
+   "en": "[Give card] Here. Interesting as cards go.",
+   "ro": "[Dă cardul] Poftim. Destul de interesant, pentru un card."
+  },
+  {
+   "key": "3327766967385964544",
+   "en": "Not overdoin' it with the caution?",
+   "ro": "Nu cumva exagerezi cu prudența?"
+  },
+  {
+   "key": "3327767108079697920",
+   "en": "Here. Might've mentioned this was about Militech from the get-go.",
+   "ro": "Poftim. Poate ziceai de la început că e vorba de Militech."
+  },
+  {
+   "key": "3327779320483659780",
+   "en": "Fine, whatever.",
+   "ro": "Bine, oricum."
+  },
+  {
+   "key": "3327779514461831168",
+   "en": "Nah. First, some answers.",
+   "ro": "Nu. Mai întâi, niște răspunsuri."
+  },
+  {
+   "key": "3327779998501289984",
+   "en": "Nope. Not goin' anywhere till you explain a few things.",
+   "ro": "Nu. Nu plec nicăieri până nu explici câteva lucruri."
+  },
+  {
+   "key": "3327780419777183744",
+   "en": "Oh? Didn't think I was payin' you to ask questions, but OK. Whaddaya wanna know so badly?",
+   "ro": "A? Credeam că te plătesc ca să pui întrebări, dar bine. Ce vrei să știi atât de tare?"
+  },
+  {
+   "key": "3327782421936586752",
+   "en": "Where'd you get the card?",
+   "ro": "De unde ai luat cardul?"
+  },
+  {
+   "key": "3327782421936586772",
+   "en": "What're we lookin' for?",
+   "ro": "Ce căutăm?"
+  },
+  {
+   "key": "3327782422003695632",
+   "en": "Start with the card. Where'd you get it?",
+   "ro": "Începe cu cardul. De unde l-ai luat?"
+  },
+  {
+   "key": "3327782422003695644",
+   "en": "Borrowed it from the Militech archives. Pity for it to just keep gathering dust.",
+   "ro": "L-am împrumutat din arhivele Militech. Păcat să tot adune praf."
+  },
+  {
+   "key": "3327782422003695656",
+   "en": "Militech's not in the habit of sharing, so I'm gonna grab some of its secrets myself.",
+   "ro": "Militech nu împarte nimic cu nimeni, așa că îmi iau singur niște secrete de-ale lor."
+  },
+  {
+   "key": "3327782424117624832",
+   "en": "Let's go get 'em, then.",
+   "ro": "Hai să le luăm, atunci."
+  },
+  {
+   "key": "3327782424117624852",
+   "en": "Why do you care?",
+   "ro": "De ce-ți pasă?"
+  },
+  {
+   "key": "3327782431449268236",
+   "en": "Whaddaya plan to find down here, exactly?",
+   "ro": "Ce plănuiești să găsești aici jos, exact?"
+  },
+  {
+   "key": "3327782431449268248",
+   "en": "Well, if the files I \"borrowed\" from Militech are up-to-date, the lab inside's teeming with secrets.",
+   "ro": "Păi, dacă fișierele pe care le-am „împrumutat” de la Militech sunt la zi, laboratorul ăla e plin de secrete."
+  },
+  {
+   "key": "3327785271311843328",
+   "en": "I plan to learn them.",
+   "ro": "Vreau să le aflu."
+  },
+  {
+   "key": "3327794316647186432",
+   "en": "And you want to learn them because...?",
+   "ro": "Și de ce vrei să le afli...?"
+  },
+  {
+   "key": "3327794493562929152",
+   "en": "Aren't we curious... Militech, like any corp, has skeletons in closets. This here's one such closet.",
+   "ro": "Nu suntem curioși... Militech, ca orice corporație, are schelete în dulap. Ăsta-i unul dintre ele."
+  },
+  {
+   "key": "3327795345644175360",
+   "en": "So here we all are, chasin' each other's tails.",
+   "ro": "Deci ne învârtim toți în cerc."
+  },
+  {
+   "key": "3327797534584324096",
+   "en": "NetWatch's been hunting for these skeletons for ages. And I'm trying to hunt down this story.",
+   "ro": "NetWatch tot caută scheletele astea de-un secol. Iar eu vreau să dau de povestea asta."
+  },
+  {
+   "key": "3327799620579475456",
+   "en": "Now, inside. Scan if it's safe.",
+   "ro": "Acum, înăuntru. Scanează dacă e sigur."
+  },
+  {
+   "key": "3327801371365851136",
+   "en": "Check if it's safe in there. Please.",
+   "ro": "Verifică dacă e sigur înăuntru. Te rog."
+  },
+  {
+   "key": "3327805127130202112",
+   "en": "Hang on, lemme see if there's another route.",
+   "ro": "Stai, mă uit dacă e alt drum."
+  },
+  {
+   "key": "3327810416030105600",
+   "en": "So don't hack any of 'em. Go in.",
+   "ro": "Așa că nu hack-ui niciunul. Intră."
+  },
+  {
+   "key": "3327813498793213952",
+   "en": "Mercs first.",
+   "en_m": "Gents first.",
+   "ro": "Merci primii.",
+   "ro_m": "Domnilor primii."
+  },
+  {
+   "key": "3327823712359661568",
+   "en": "You even listenin' to me?",
+   "ro": "Mă asculți măcar?"
+  },
+  {
+   "key": "3327824036076044288",
+   "en": "Yeah, yeah. Let's go.",
+   "ro": "Da, da. Hai să mergem."
+  },
+  {
+   "key": "3327824939378130944",
+   "en": "Heh. We're in!",
+   "ro": "Heh. Am intrat!"
+  },
+  {
+   "key": "3328702848074629120",
+   "en": "You get the card?",
+   "ro": "Ai luat cardul?"
+  },
+  {
+   "key": "3328712908012109824",
+   "en": "Hope you're not tossing me into a minefield.",
+   "ro": "Sper că nu mă bagi într-un câmp minat."
+  },
+  {
+   "key": "3328810471281246208",
+   "en": "Hello?",
+   "ro": "Alo?"
+  },
+  {
+   "key": "3336276261853052928",
+   "en": "Sure did, but I'm not about to talk to the bad end of a barrel. Did ya even think to flip the safety?",
+   "en_m": "Sure did, but I'm not about to talk to the bad end of a barrel. D'you even think to flip the safety?",
+   "ro": "Sigur că da, dar nu vorbesc cu țeava-n nas. Ai pus măcar pistolul pe siguranță?"
+  },
+  {
+   "key": "3336282748260302848",
+   "en": "Eh, shoot. Point for you.",
+   "ro": "Ei, lasă-mă. Punct pentru tine."
+  },
+  {
+   "key": "3337311560783249408",
+   "en": "Doin' great, keep it up!",
+   "ro": "Te descurci tare, continuă!"
+  },
+  {
+   "key": "3338009092480417792",
+   "en": "Knew a media like you once.",
+   "ro": "Am cunoscut odată un media ca tine."
+  },
+  {
+   "key": "3338009452704022528",
+   "en": "Knew a media once. He liked to dig up megacorp dirt, too.",
+   "ro": "Am cunoscut odată un media. Îi plăcea să scormonească după mizeriile megacorporațiilor."
+  },
+  {
+   "key": "3338009830459817984",
+   "en": "WNS buzzer is. Don't know the man, but I envy him his job.",
+   "ro": "E reporter de la WNS. Nu-l cunosc, dar îi invidiez jobul."
+  },
+  {
+   "key": "3338010930407653376",
+   "en": "Tried to expose some veteran's aid scam, a glorified corp PR campaign. Max Jones, WNS. Any buzzers buzzin'?",
+   "ro": "A încercat să dea în vileag o înșelătorie cu ajutoarele pentru veterani, o campanie PR a corporației, mascată. Max Jones, WNS. Mai sunt reporteri pe fază?"
+  },
+  {
+   "key": "3338011834380828672",
+   "en": "Think his position's vacant now.",
+   "ro": "Cred că acum i s-a eliberat postul."
+  },
+  {
+   "key": "3338013588086439936",
+   "en": "Report was never made. Poking around the material cost Max his life.",
+   "ro": "Raportul n-a fost făcut niciodată. Că a scormonit prin material l-a costat viața pe Max."
+  },
+  {
+   "key": "3338013721649856512",
+   "en": "Max dropped it. I forced 'im to. Corp woulda zeroed 'im for it.",
+   "ro": "Max a lăsat baltă. L-am forțat eu. Corporația l-ar fi lichidat pentru asta."
+  },
+  {
+   "key": "3338014330360807424",
+   "en": "I see. Truly motivating tale, that. Thanks for sharing.",
+   "ro": "Înțeleg. O poveste chiar motivantă. Mersi că ai împărtășit-o."
+  },
+  {
+   "key": "3338015137596555264",
+   "en": "Now go in, see if it's safe.",
+   "ro": "Acum intră, vezi dacă e sigur."
+  },
+  {
+   "key": "3338018313288663040",
+   "en": "What, report didn't generate waves?",
+   "ro": "Ce, raportul n-a făcut valuri?"
+  },
+  {
+   "key": "3343612978557730820",
+   "en": "Found something.",
+   "ro": "Am găsit ceva."
+  },
+  {
+   "key": "3343615047205240832",
+   "en": "Got some old tech in here... cores or batteries. What for, though...?",
+   "ro": "Am niște tech vechi aici... nuclee sau baterii. Dar pentru ce...?"
+  },
+  {
+   "key": "3343615170920431616",
+   "en": "Hm, comp looks brand new, just this one.",
+   "ro": "Hm, calculatorul pare nou-nouț, doar ăsta."
+  },
+  {
+   "key": "3343617030775488512",
+   "en": "Told you, a Militech research expedition came here a few years back. Probably left it behind.",
+   "ro": "Ți-am spus, o expediție de cercetare Militech a venit aici acum câțiva ani. Probabil l-au lăsat în urmă."
+  },
+  {
+   "key": "3343617113772376064",
+   "en": "Mhm, very nice, but can we deal with that later?",
+   "ro": "Mhm, super, dar nu putem să ne ocupăm de asta mai târziu?"
+  },
+  {
+   "key": "3343619636948221952",
+   "en": "C'mon, we don't have time.",
+   "ro": "Hai, n-avem timp."
+  },
+  {
+   "key": "3389630896327507968",
+   "en": "These're… huh, some kinda old heat exchangers? Yeah. Highly flammable.",
+   "ro": "Astea sunt… hm, niște schimbătoare de căldură vechi? Da. Super inflamabile."
+  },
+  {
+   "key": "3446332932230332416",
+   "en": "Not another step!",
+   "ro": "Nu mai faci un pas!"
+  },
+  {
+   "key": "3549084374287400960",
+   "en": "Take 'em out!",
+   "ro": "Lichidează-i!"
+  },
+  {
+   "key": "3549085709686685704",
+   "en": "Holy shit!",
+   "ro": "Doamne!"
+  },
+  {
+   "key": "3549085858282487812",
+   "en": "They'll hit us!",
+   "ro": "Ne lovesc!"
+  },
+  {
+   "key": "3549151591733542912",
+   "en": "Keep it moving, let's go.",
+   "ro": "Mișcă, hai să mergem."
+  },
+  {
+   "key": "3660631057906679816",
+   "en": "[Show card] Got the card, yes.",
+   "ro": "[Arată cardul] Da, îl am."
+  },
+  {
+   "key": "3660631085136101384",
+   "en": "[Step closer] First time holding a gun?",
+   "ro": "[Apropie-te] Ți-e prima oară cu arma-n mână?"
+  },
+  {
+   "key": "3855074700892123136",
+   "en": "Can't have bad luck all the time.",
+   "ro": "Nu poți avea ghinion mereu."
+  }
+ ]
+}

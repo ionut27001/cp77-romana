@@ -1,0 +1,226 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_vdb_m_14_car_25_mt.json",
+ "entries": [
+  {
+   "key": "1949011042733432836",
+   "en": "<kiroshi l=\"creo\" o=\"Se lespri yo sèl ki ekziste, anyen lòt.\" t=\"Only the immaterial is real.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se lespri yo sèl ki ekziste, anyen lòt.\" t=\"Doar imaterialul e real.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042750210052",
+   "en": "<kiroshi l=\"creo\" o=\"Tout miray gen pou tonbe.\" t=\"Every wall must fall.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tout miray gen pou tonbe.\" t=\"Fiecare zid trebuie să cadă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042800541700",
+   "en": "<kiroshi l=\"creo\" o=\"Nou pa vle wè w la a.\" t=\"We don't want you here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nou pa vle wè w la a.\" t=\"Nu te vrem aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042817318916",
+   "en": "<kiroshi l=\"creo\" o=\"Ou pa gen okenn kote ou te dwe ale? Fout jete w.\" t=\"Don't you got somewhere else to be? Fuck off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou pa gen okenn kote ou te dwe ale? Fout jete w.\" t=\"N-ai altundeva de fost? Cară-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042867650564",
+   "en": "<kiroshi l=\"creo\" o=\"Demaske w devan m lan ak sa a!\" t=\"Outta my face with that!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Demaske w devan m lan ak sa a!\" t=\"Dă-te la o parte cu asta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042884427780",
+   "en": "<kiroshi l=\"creo\" o=\"Ou fout fou?! Lage sa a!\" t=\"You fuckin' crazy or what?! Drop it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou fout fou?! Lage sa a!\" t=\"Ești nebun de-a binelea?! Aruncă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042934759428",
+   "en": "<kiroshi l=\"creo\" o=\"Map pran w kom ti bèt mwen.\" t=\"Think I'll make you my little bitch.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Map pran w kom ti bèt mwen.\" t=\"Cred că te fac pizda mea mică.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011042968313860",
+   "en": "<kiroshi l=\"creo\" o=\"Papa Gede ap tann ou.\" t=\"Papa Guédé is waiting for you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Papa Gede ap tann ou.\" t=\"Papa Guédé te așteaptă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043001868292",
+   "en": "<kiroshi l=\"creo\" o=\"Ou menm jan ak yon chen.\" t=\"You obey like a dog.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou menm jan ak yon chen.\" t=\"Asculți ca un câine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043035422724",
+   "en": "<kiroshi l=\"creo\" o=\"Kounyen a fout disparèt la a.\" t=\"And now fuck off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kounyen a fout disparèt la a.\" t=\"Și acum, cară-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043068977156",
+   "en": "<kiroshi l=\"creo\" o=\"Eske Lwa yo ap pale avè m?\" t=\"Are the Loa speaking to me?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eske Lwa yo ap pale avè m?\" t=\"Îmi vorbesc Loa-urile?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043102531588",
+   "en": "<kiroshi l=\"creo\" o=\"Eyh, sa sa ye la a.\" t=\"Eh now, what's this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eyh, sa sa ye la a.\" t=\"Eh, ce-i asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043152863232",
+   "en": "<kiroshi l=\"creo\" o=\"M kwè gen yon bagay ki pa fin bon.\" t=\"Something's still not right.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"M kwè gen yon bagay ki pa fin bon.\" t=\"Ceva încă nu e în regulă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043169640452",
+   "en": "<kiroshi l=\"creo\" o=\"Papa Legba pwoteje m.\" t=\"Papa Legba protect me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Papa Legba pwoteje m.\" t=\"Papa Legba, protejează-mă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043219972100",
+   "en": "<kiroshi l=\"creo\" o=\"Soti tèt ou, pou yon ti moman tou kout.\" t=\"Head out the sand, just for a second.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Soti tèt ou, pou yon ti moman tou kout.\" t=\"Scoate capul din nisip, măcar o secundă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043236749316",
+   "en": "<kiroshi l=\"creo\" o=\"Ey, vini non, parèt tèt ou.\" t=\"Aw, come on, show yourself.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ey, vini non, parèt tèt ou.\" t=\"Ei, vino, arată-te.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043270303748",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen swete Bawon Samdi voye je sou ou. Kadav!\" t=\"Baron Samedi watch over you. Body!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen swete Bawon Samdi voye je sou ou. Kadav!\" t=\"Baron Samedi să vegheze asupra ta. Corp!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043303858180",
+   "en": "<kiroshi l=\"creo\" o=\"Baron Samedi a okipe nanm li.\" t=\"Baron Samedi guide his soul.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Baron Samedi a okipe nanm li.\" t=\"Baron Samedi să-i călăuzească sufletul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043404521476",
+   "en": "<kiroshi l=\"creo\" o=\"Nap kraze fòs nou!\" t=\"I will sap your strength!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nap kraze fòs nou!\" t=\"Îți voi slăbi puterile!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043438075908",
+   "en": "<kiroshi l=\"creo\" o=\"Proteje tèt nou!\" t=\"Protect yourselves!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Proteje tèt nou!\" t=\"Protejați-vă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043471630340",
+   "en": "<kiroshi l=\"creo\" o=\"Men grenad pa nou!\" t=\"Grenade for you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men grenad pa nou!\" t=\"Granată pentru tine!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043521961988",
+   "en": "<kiroshi l=\"creo\" o=\"Aarghhh! Koko manman!\" t=\"Aarghhh! Cunt!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Aarghhh! Koko manman!\" t=\"Aarghhh! Motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Aarghhh! Koko manman!\" t=\"Aarghhh! Pizdă!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Aarghhh! Koko manman!\" t=\"Aarghhh! Futu-i mama mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043555516420",
+   "en": "<kiroshi l=\"creo\" o=\"Kou langèt manman yo!\" t=\"Fuck them up!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kou langèt manman yo!\" t=\"Faceți-i praf!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043605848068",
+   "en": "<kiroshi l=\"creo\" o=\"Mesye mete gason sou nou!\" t=\"Get yourselves together!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mesye mete gason sou nou!\" t=\"Adunați-vă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043639402500",
+   "en": "<kiroshi l=\"creo\" o=\"Pa janm fè bak!\" t=\"Never retreat!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa janm fè bak!\" t=\"Niciodată înapoi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043706511364",
+   "en": "<kiroshi l=\"creo\" o=\"Eyh!\" t=\"Eh!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eyh!\" t=\"Eh!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043723288580",
+   "en": "<kiroshi l=\"creo\" o=\"Fout tonnè!\" t=\"Oh hell no!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fout tonnè!\" t=\"Nici dracu'!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043756843012",
+   "en": "<kiroshi l=\"creo\" o=\"Salu.\" t=\"Hi.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Salu.\" t=\"Salut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043807174660",
+   "en": "<kiroshi l=\"creo\" o=\"Wi… Nou sonje sa manzè fè pou Fèt Gede…?\" t=\"Well yeah… we remember what she did on Festival of Gede…?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Wi… Nou sonje sa manzè fè pou Fèt Gede…?\" t=\"Ei, da… ne amintim ce a făcut la Festivalul Gede…?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043823951876",
+   "en": "<kiroshi l=\"creo\" o=\"Non…Fout kijan… Gade kijan yo fout pirate nou? Nou achte gad la epi li fè travay la pou tèt li…\" t=\"No… How the… Look how they fucking hacked us? We bought the guard out and he hooked the gear up for himself…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Non…Fout kijan… Gade kijan yo fout pirate nou? Nou achte gad la epi li fè travay la pou tèt li…\" t=\"Nu… Cum naiba… Vezi cum ne-au hack-uit? L-am cumpărat pe gardian și și-a conectat echipamentul pentru el…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043891060740",
+   "en": "<kiroshi l=\"creo\" o=\"Atake l sou kote!\" t=\"Flank her!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Atake l sou kote!\" t=\"Flank him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Atake l sou kote!\" t=\"Atacați-o din flanc!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Atake l sou kote!\" t=\"Atacați-l din flanc!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043941392388",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen wè manzè, mwen wè l!\" t=\"I see her!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Mwen wè msye, mwen wè l!\" t=\"I see him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen wè manzè, mwen wè l!\" t=\"O văd!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Mwen wè msye, mwen wè l!\" t=\"Îl văd!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011043991724036",
+   "en": "<kiroshi l=\"creo\" o=\"Atansyon, grenad!\" t=\"Careful! Grenade!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Atansyon, grenad!\" t=\"Atenție! Granată!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044008501252",
+   "en": "<kiroshi l=\"creo\" o=\"Kenbe la.\" t=\"Stay put.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kenbe la.\" t=\"Stai pe loc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044042055684",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pa renmen sa a.\" t=\"I don't like this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pa renmen sa a.\" t=\"Nu-mi place asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044109164544",
+   "en": "<kiroshi l=\"creo\" o=\"Gen nèg kap eseye blo lespri m.\" t=\"Believe someone's playing tricks around here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gen nèg kap eseye blo lespri m.\" t=\"Cred că cineva face farse pe aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044125941764",
+   "en": "<kiroshi l=\"creo\" o=\"Eh, eh, eh. Annik fè atansyon.\" t=\"Eh, eh, eh. Just be careful.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eh, eh, eh. Annik fè atansyon.\" t=\"Eh, eh, eh. Aveți grijă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044176273412",
+   "en": "<kiroshi l=\"creo\" o=\"Se ou menm kap konmanse anvan.\" t=\"You first.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se ou menm kap konmanse anvan.\" t=\"Tu primul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044193050628",
+   "en": "<kiroshi l=\"creo\" o=\"Se nou ki gen rezon!\" t=\"The truth is on our side!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se nou ki gen rezon!\" t=\"Adevărul e de partea noastră!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949011044243382276",
+   "en": "<kiroshi l=\"creo\" o=\"Arggh... Pa gen anyen … pou… pè.\" t=\"Arggh... Nothing… to… fear.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Arggh... Pa gen anyen … pou… pè.\" t=\"Arggh... Nimic… de… temut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949019241121357824",
+   "en": "<kiroshi l=\"creo\" o=\"Se sa … Mm…Pa reflechi sou sa, li ka pwofite pou li souse tout fòs nan sèvèl ou …\" t=\"Exactly… Mm… Spare yourself from that one, before she sucks your life force out your skull…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se sa … Mm…Pa reflechi sou sa, li ka pwofite pou li souse tout fòs nan sèvèl ou …\" t=\"Exact… Mm… Ferește-te de aia, înainte să-ți sugă forța vitală din craniu…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949019656424562688",
+   "en": "<kiroshi l=\"creo\" o=\"Pa reflechi sou sa, se lavi pa w tou.\" t=\"Don't think about it, it's your life too.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa reflechi sou sa, se lavi pa w tou.\" t=\"Nu te gândi la asta, e și viața ta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949020708104347648",
+   "en": "<kiroshi l=\"creo\" o=\"Se sa menm, ha, ha, ha.\" t=\"Right, ha, ha, ha.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se sa menm, ha, ha, ha.\" t=\"Exact, ha, ha, ha.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

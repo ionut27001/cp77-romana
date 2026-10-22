@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_026.json",
+ "entries": [
+  {
+   "key": "2168020971862544384",
+   "en": "What a surprise – visiting hours canceled again. Those fuckers...",
+   "ro": "Ce surpriză – iar au anulat programul de vizite. Nenorociții ăia..."
+  },
+  {
+   "key": "2211115407160074240",
+   "en": "<kiroshi l=\"jpn\" o=\"そんな汚い言葉どこで覚えたの！？\" t=\"Who taught you to swear like that?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そんな汚い言葉どこで覚えたの！？\" t=\"Cine te-a învățat să înjuri așa?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2212920687040618496",
+   "en": "Hm, let's see, maybe my skull-sponged excuse of a dad who can't even get his own family to visit him?!",
+   "ro": "Hm, să vedem, poate tatăl meu ăla cu creierul de burete, care nici familia nu și-o poate aduce să-l vadă?!"
+  },
+  {
+   "key": "2212921360427737088",
+   "en": "<kiroshi l=\"jpn\" o=\"な… 何言ってるの？\" t=\"What? What does that mean?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"な… 何言ってるの？\" t=\"Ce? Ce înseamnă asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2212923417566076928",
+   "en": "Don't ask me to come here anymore. It's a fucking waste of time...",
+   "ro": "Nu mă mai ruga să vin aici. E o pierdere de timp de căcat..."
+  },
+  {
+   "key": "2212925494769967104",
+   "en": "<kiroshi l=\"jpn\" o=\"あなたのお父さんなのよ…\" t=\"But he's your father...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あなたのお父さんなのよ…\" t=\"Dar e tatăl tău...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2212925712185909248",
+   "en": "If he was a real father, he wouldn't have gotten himself thrown in jail! And then, we come all this way, and he can't even bribe the guards?!",
+   "ro": "Dacă ar fi fost un tată adevărat, nu s-ar fi lăsat băgat la închisoare! Și noi ne târâm până aici, iar el nici gardienii nu-i poate mitui?!"
+  }
+ ]
+}

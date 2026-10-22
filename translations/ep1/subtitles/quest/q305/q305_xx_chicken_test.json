@@ -1,0 +1,915 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_xx_chicken_test.json",
+ "entries": [
+  {
+   "key": "2607090478248218628",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2607091333533913088",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2607091520666980352",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "2607105469361803264",
+   "en": "[db_db]Q305 Maxtac Rescue",
+   "ro": "[db_db]Q305 Salvarea MaxTac"
+  },
+  {
+   "key": "2892425124970614784",
+   "en": "[db_db]Did V take the oath with Meyers?",
+   "ro": "[db_db]V a depus jurământul cu Meyers?"
+  },
+  {
+   "key": "2892425552454078468",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2892425919589896192",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2892426961387900932",
+   "en": "[GT]Detailed Setup",
+   "ro": "[GT]Configurare detaliată"
+  },
+  {
+   "key": "2892430643869372416",
+   "en": "[db_db]Start in what phase?",
+   "ro": "[db_db]Începe în ce fază?"
+  },
+  {
+   "key": "2892432329040056320",
+   "en": "[db_db]Normal start (after Q304)",
+   "ro": "[db_db]Start normal (după Q304)"
+  },
+  {
+   "key": "2892435922149298176",
+   "en": "[db_db]Meeting Netrunner (Choose Scene)",
+   "ro": "[db_db]Întâlnire cu netrunnerul (Alege scena)"
+  },
+  {
+   "key": "2892455862021509120",
+   "en": "[db_db]Pre-ambush scene",
+   "ro": "[db_db]Scenă înainte de ambuscadă"
+  },
+  {
+   "key": "2892456536683696128",
+   "en": "[db_db]Ambush",
+   "ro": "[db_db]Ambuscadă"
+  },
+  {
+   "key": "2892583261488926720",
+   "en": "[db_db]Chase (Choose Scene)",
+   "ro": "[db_db]Urmărire (Alege scena)"
+  },
+  {
+   "key": "2892583962692669440",
+   "en": "[db_db]More Options (Bunker & Denoument)",
+   "ro": "[db_db]Mai multe opțiuni (Buncăr și deznodământ)"
+  },
+  {
+   "key": "2892588284201521156",
+   "en": "[db_db]Outer Bunker (Choose Scene)",
+   "ro": "[db_db]Buncăr exterior (Alege scena)"
+  },
+  {
+   "key": "2892589052631568384",
+   "en": "[db_db]Inner Bunker (Choose Scene)",
+   "ro": "[db_db]Buncăr interior (Alege scena)"
+  },
+  {
+   "key": "2892589372438859776",
+   "en": "[db_db]Border Crossing (Choose Options and Scene)",
+   "ro": "[db_db]Trecerea frontierei (Alege opțiuni și scenă)"
+  },
+  {
+   "key": "2892590767414038528",
+   "en": "[db_db]After Quest consequences",
+   "ro": "[db_db]Consecințe după misiune"
+  },
+  {
+   "key": "2892591201356730368",
+   "en": "[db_db]Go back to previous options",
+   "ro": "[db_db]Înapoi la opțiunile anterioare"
+  },
+  {
+   "key": "2892592161432915968",
+   "en": "[db_db]Who did V contact?",
+   "ro": "[db_db]Pe cine a contactat V?"
+  },
+  {
+   "key": "2892593999527923716",
+   "en": "[db_db]Mr. Hands",
+   "ro": "[db_db]Mr. Hands"
+  },
+  {
+   "key": "2892594734487425024",
+   "en": "[db_db]Sandra",
+   "ro": "[db_db]Sandra"
+  },
+  {
+   "key": "2892599651369340928",
+   "en": "[db_db]Nix",
+   "ro": "[db_db]Nix"
+  },
+  {
+   "key": "2892606740498075648",
+   "en": "[db_db]Which Scene?",
+   "ro": "[db_db]Ce scenă?"
+  },
+  {
+   "key": "2892607525806002176",
+   "en": "[db_db]Arrival",
+   "ro": "[db_db]Sosire"
+  },
+  {
+   "key": "2892613274300960768",
+   "en": "[db_db]Johnny Scene",
+   "ro": "[db_db]Scenă cu Johnny"
+  },
+  {
+   "key": "2892758477565448192",
+   "en": "[db_db]Which Start Position",
+   "ro": "[db_db]Ce poziție de start?"
+  },
+  {
+   "key": "2892767280453242880",
+   "en": "[db_db]What scene?",
+   "ro": "[db_db]Ce scenă?"
+  },
+  {
+   "key": "2892767704983916548",
+   "en": "[db_db]Airlock after Chase",
+   "ro": "[db_db]Ecluză după urmărire"
+  },
+  {
+   "key": "2892773193868234752",
+   "en": "[db_db]Songbird Alive/Dead?",
+   "ro": "[db_db]Songbird În viață/Moartă?"
+  },
+  {
+   "key": "2892773388752375812",
+   "en": "[db_db]Songbird Dead",
+   "ro": "[db_db]Songbird moartă"
+  },
+  {
+   "key": "2892774497508249600",
+   "en": "[db_db]Songbird Alive",
+   "ro": "[db_db]Songbird În viață"
+  },
+  {
+   "key": "2892778160930803712",
+   "en": "[db_db]Did you get the shard from SB?",
+   "ro": "[db_db]Ai luat shard-ul de la SB?"
+  },
+  {
+   "key": "2892778552729128964",
+   "en": "[db_db]Yes, I have shard",
+   "ro": "[db_db]Da, am shard-ul"
+  },
+  {
+   "key": "2892780330057060352",
+   "en": "[db_db]No, she destroyed the shard",
+   "ro": "[db_db]Nu, l-a distrus"
+  },
+  {
+   "key": "2949239538004381696",
+   "en": "[db_db]Do You have Netrunner friends?",
+   "ro": "[db_db]Ai prieteni netrunneri?"
+  },
+  {
+   "key": "2949240525226102788",
+   "en": "[db_db]Nix, Sandra and Chang Hoon Nam",
+   "ro": "[db_db]Nix, Sandra și Chang Hoon Nam"
+  },
+  {
+   "key": "2949240864746622976",
+   "en": "[db_db]Nix",
+   "ro": "[db_db]Nix"
+  },
+  {
+   "key": "2949240983109881856",
+   "en": "[db_db]Sandra Dorsett",
+   "ro": "[db_db]Sandra Dorsett"
+  },
+  {
+   "key": "2949241223359614976",
+   "en": "[db_db]No Friends",
+   "ro": "[db_db]Fără prieteni"
+  },
+  {
+   "key": "3011544246843236352",
+   "en": "[db_db]Done any missions for Mr Hands?",
+   "ro": "[db_db]Ai făcut misiuni pentru Mr Hands?"
+  },
+  {
+   "key": "3011545291929575428",
+   "en": "[db_db]Yes, V have a favor",
+   "ro": "[db_db]Da, V are o favoare"
+  },
+  {
+   "key": "3011545691462197248",
+   "en": "[db_db]No, V have no favor",
+   "ro": "[db_db]Nu, V nu are nicio favoare"
+  },
+  {
+   "key": "3041607789118382080",
+   "en": "[db_db]Player Met Boz at the end of Q103?",
+   "ro": "[db_db]Jucătorul l-a întâlnit pe Boz la finalul Q103?"
+  },
+  {
+   "key": "3041608360768462852",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3041609735644536832",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3041610670286462976",
+   "en": "[db_db]Player killed the captain in Stadium Love?",
+   "ro": "[db_db]Jucătorul l-a ucis pe căpitan în Stadium Love?"
+  },
+  {
+   "key": "3041612085310414852",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3041612669627293696",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3041614088694554624",
+   "en": "[db_db]V impressed 6th Street with good shooting skills in mq008?",
+   "ro": "[db_db]V i-a impresionat pe 6th Street cu tras bun în mq008?"
+  },
+  {
+   "key": "3041614783908831236",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3041615199665020928",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3052373566960328704",
+   "en": "[db_db]Chang Hoon Nam",
+   "ro": "[db_db]Chang Hoon Nam"
+  },
+  {
+   "key": "3052379586088558592",
+   "en": "[db_db]Chang Hoon Nam",
+   "ro": "[db_db]Chang Hoon Nam"
+  },
+  {
+   "key": "3082262855080632324",
+   "en": "[db_db]After Elevator",
+   "ro": "[db_db]După lift"
+  },
+  {
+   "key": "3101272091597344768",
+   "en": "[db_db]Which Nix quest have you done?",
+   "ro": "[db_db]Care quest cu Nix ai făcut?"
+  },
+  {
+   "key": "3101276500398051328",
+   "en": "[db_db]Carol",
+   "ro": "[db_db]Carol"
+  },
+  {
+   "key": "3101530984156106752",
+   "en": "[db_db]Have you met Yoko before?",
+   "ro": "[db_db]Ai mai întâlnit-o pe Yoko?"
+  },
+  {
+   "key": "3101531719585370112",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3101531719585370124",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3101532603996311560",
+   "en": "[db_db]Have you met Yoko before?",
+   "ro": "[db_db]Ai mai întâlnit-o pe Yoko?"
+  },
+  {
+   "key": "3101532604415741952",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3101532604415741964",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3101594239125315584",
+   "en": "[db_db]Yes, use teleport after the hallucination",
+   "ro": "[db_db]Da, folosește teleportarea după halucinație"
+  },
+  {
+   "key": "3101594354334457856",
+   "en": "[db_db]Use teleport after the hallucinations?",
+   "ro": "[db_db]Folosești teleportarea după halucinații?"
+  },
+  {
+   "key": "3101596192295247872",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3124122740185763840",
+   "en": "[db_db]Before Elevator",
+   "ro": "[db_db]Înainte de lift"
+  },
+  {
+   "key": "3127361182017392640",
+   "en": "[db_db]Go back to previous options",
+   "ro": "[db_db]Înapoi la opțiunile anterioare"
+  },
+  {
+   "key": "3127363940174925824",
+   "en": "[db_db]Go back to previous options",
+   "ro": "[db_db]Înapoi la opțiunile anterioare"
+  },
+  {
+   "key": "3130319081517748224",
+   "en": "[db_db]Kurt and Somi after the crash hallucination",
+   "ro": "[db_db]Kurt și Somi după halucinația cu accidentul"
+  },
+  {
+   "key": "3130319081517748236",
+   "en": "[db_db]Tech Upgrade hallucination",
+   "ro": "[db_db]Halucinația cu upgrade-ul Tech"
+  },
+  {
+   "key": "3130319081517748248",
+   "en": "[db_db]Songbird's Oath hallucination",
+   "ro": "[db_db]Halucinația Jurământul Songbird"
+  },
+  {
+   "key": "3130319081517748260",
+   "en": "[db_db]Netrunners hallucination",
+   "ro": "[db_db]Halucinația netrunnerilor"
+  },
+  {
+   "key": "3130319081517748272",
+   "en": "[db_db]Flatline hallucination",
+   "ro": "[db_db]Halucinația cu lichidarea"
+  },
+  {
+   "key": "3130319081534525448",
+   "en": "[db_db]Brainhack Brooklyn",
+   "ro": "[db_db]Brainhack Brooklyn"
+  },
+  {
+   "key": "3130319081534525460",
+   "en": "[db_db]Go back to previous options",
+   "ro": "[db_db]Înapoi la opțiunile anterioare"
+  },
+  {
+   "key": "3130321601589809152",
+   "en": "[db_db]Hallucinations",
+   "ro": "[db_db]Halucinații"
+  },
+  {
+   "key": "3130321698796998656",
+   "en": "[db_db]Cynosure Core Finale",
+   "ro": "[db_db]Finalul Nucleului Cynosure"
+  },
+  {
+   "key": "3130322600706576392",
+   "en": "[db_db]What scene?",
+   "ro": "[db_db]Ce scenă?"
+  },
+  {
+   "key": "3130360839219843072",
+   "en": "[db_db]Before the Gate shuts down",
+   "ro": "[db_db]Înainte ca poarta să se închidă"
+  },
+  {
+   "key": "3231534918768914432",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231537628054417408",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231538997528227840",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231539430749499392",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231540825103921152",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231541530787180544",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231541987966316544",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231542159144251392",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231544354828840960",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231544651483574272",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231544922351726592",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231565740930625536",
+   "en": "[db_db]Water Treatment Plant",
+   "ro": "[db_db]Stația de tratare a apei"
+  },
+  {
+   "key": "3231597228778713088",
+   "en": "[GT]Quickstart",
+   "ro": "[GT]Pornire rapidă"
+  },
+  {
+   "key": "3231778174157058048",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231778942821986304",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231780339105787904",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3231782080446590976",
+   "en": "[db_db][reset the chicken test]",
+   "ro": "[db_db][resetează testul cu puiul]"
+  },
+  {
+   "key": "3233030240942813184",
+   "en": "[db_db]Who did V worked with?",
+   "ro": "[db_db]Cu cine a lucrat V?"
+  },
+  {
+   "key": "3233031075122769924",
+   "en": "[db_db]Sandra",
+   "ro": "[db_db]Sandra"
+  },
+  {
+   "key": "3233031346141917184",
+   "en": "[db_db]Chang",
+   "ro": "[db_db]Chang"
+  },
+  {
+   "key": "3233031436319453184",
+   "en": "[db_db]Mr Hands",
+   "ro": "[db_db]Mr Hands"
+  },
+  {
+   "key": "3233031562802884608",
+   "en": "[db_db]None of above",
+   "ro": "[db_db]Niciuna de mai sus"
+  },
+  {
+   "key": "3233033924598689792",
+   "en": "[db_db]Is Songbird dead?",
+   "ro": "[db_db]E Songbird moartă?"
+  },
+  {
+   "key": "3233035656980459524",
+   "en": "[db_db]SB dead",
+   "ro": "[db_db]SB moartă"
+  },
+  {
+   "key": "3233036512786247680",
+   "en": "[db_db]SB not dead",
+   "ro": "[db_db]SB nu e moartă"
+  },
+  {
+   "key": "3233061543838871552",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3233062123458129920",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3233359414987452416",
+   "en": "[GT]Normal chickentest",
+   "ro": "[GT]Test normal cu pui"
+  },
+  {
+   "key": "3233467750772764676",
+   "en": "[db_db]V used Sandra's quickhack",
+   "ro": "[db_db]V a folosit quickhack-ul Sandrei"
+  },
+  {
+   "key": "3233467818837929984",
+   "en": "[db_db]Did V used Sandra's quickhack?",
+   "ro": "[db_db]A folosit V quickhack-ul Sandrei?"
+  },
+  {
+   "key": "3233468509824348160",
+   "en": "[db_db]V didn't use Sandra's quickhack",
+   "ro": "[db_db]V nu a folosit quickhack-ul Sandrei"
+  },
+  {
+   "key": "3243501178004049920",
+   "en": "[db_db]Bridge Chase with Robot",
+   "ro": "[db_db]Urmărire pe pod cu robot"
+  },
+  {
+   "key": "3278082044154064896",
+   "en": "[db_db]Johnny post-credits scene",
+   "ro": "[db_db]Scena post-credits cu Johnny"
+  },
+  {
+   "key": "3278083878658748416",
+   "en": "[db_db]SB dead",
+   "ro": "[db_db]SB moartă"
+  },
+  {
+   "key": "3278083878675525644",
+   "en": "[db_db]SB not dead",
+   "ro": "[db_db]SB nu e moartă"
+  },
+  {
+   "key": "3278083878675525660",
+   "en": "[db_db][back]",
+   "ro": "[db_db][ÎNAPOI]"
+  },
+  {
+   "key": "3297250262007025664",
+   "en": "[db_db]Labs after unsuccessful shutdown",
+   "ro": "[db_db]Laboratoarele după oprirea eșuată"
+  },
+  {
+   "key": "3297252486934302720",
+   "en": "[db_db]After all sub-systems are down",
+   "ro": "[db_db]După ce toate subsistemele sunt oprite"
+  },
+  {
+   "key": "3347544628046729216",
+   "en": "[db_db]After Robot Introduction",
+   "ro": "[db_db]După introducerea robotului"
+  },
+  {
+   "key": "3444965893484711936",
+   "en": "[db_db]NEW SCREENS DEBUG TEST",
+   "ro": "[db_db]TEST DEBUG ECRANE NOI"
+  },
+  {
+   "key": "3444967603250794496",
+   "en": "[db_db]NEW SCREENS DEBUG TEST",
+   "ro": "[db_db]TEST DEBUG ECRANE NOI"
+  },
+  {
+   "key": "3459076530452172800",
+   "en": "[db_db]Introduction of Cerberus",
+   "ro": "[db_db]Introducerea lui Cerberus"
+  },
+  {
+   "key": "3491094165003833344",
+   "en": "[db_db]River",
+   "ro": "[db_db]River"
+  },
+  {
+   "key": "3491096178605297664",
+   "en": "[db_db]Yes, saved him",
+   "ro": "[db_db]Da, l-am salvat"
+  },
+  {
+   "key": "3491097634263666688",
+   "en": "[db_db]Finished SQ021 and saved Randy?",
+   "ro": "[db_db]Ai terminat SQ021 și l-ai salvat pe Randy?"
+  },
+  {
+   "key": "3491098425628168192",
+   "en": "[db_db]No he's dead/didn't do Sq021",
+   "ro": "[db_db]Nu, e mort / n-a făcut Sq021"
+  },
+  {
+   "key": "3569604281231077380",
+   "en": "[db_db]balcony",
+   "ro": "[db_db]balcon"
+  },
+  {
+   "key": "3569604957151555584",
+   "en": "[db_db]staircase",
+   "ro": "[db_db]scara"
+  },
+  {
+   "key": "3569605036658782208",
+   "en": "[db_db]collumn on the ground",
+   "ro": "[db_db]coloană pe sol"
+  },
+  {
+   "key": "3628740724444237824",
+   "en": "[db_db]Which Part you wish to test?",
+   "ro": "[db_db]Ce parte vrei să testezi?"
+  },
+  {
+   "key": "3628742702159237124",
+   "en": "[db_db]Netrunner wrap-ups",
+   "ro": "[db_db]Încheierile netrunnerilor"
+  },
+  {
+   "key": "3628743353836638208",
+   "en": "[db_db]Haunted Weapon crafting",
+   "ro": "[db_db]Fabricarea armei bântuite"
+  },
+  {
+   "key": "3628743626701279232",
+   "en": "[db_db]Giving medal to homeless",
+   "ro": "[db_db]Oferirea medaliei unui om al străzii"
+  },
+  {
+   "key": "3628807784335544324",
+   "en": "[db_db]std_arr_001",
+   "ro": "[db_db]std_arr_001"
+  },
+  {
+   "key": "3628808111105380352",
+   "en": "[db_db]Which Homeless you want to check?",
+   "ro": "[db_db]Pe ce om al străzii vrei să-l verifici?"
+  },
+  {
+   "key": "3628824481977208832",
+   "en": "[db_db]std_rcr_001",
+   "ro": "[db_db]std_rcr_001"
+  },
+  {
+   "key": "3628824548582756352",
+   "en": "[db_db]std_rcr_002",
+   "ro": "[db_db]std_rcr_002"
+  },
+  {
+   "key": "3628824581013114880",
+   "en": "[db_db]std_rcr_003",
+   "ro": "[db_db]std_rcr_003"
+  },
+  {
+   "key": "3628824619919478784",
+   "en": "[db_db]pac_wwd_001",
+   "ro": "[db_db]pac_wwd_001"
+  },
+  {
+   "key": "3628824673824673792",
+   "en": "[db_db]pac_wwd_002",
+   "ro": "[db_db]pac_wwd_002"
+  },
+  {
+   "key": "3628824730749767680",
+   "en": "[db_db]More Options",
+   "ro": "[db_db]Mai multe opțiuni"
+  },
+  {
+   "key": "3628824781920276480",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3628853399018934272",
+   "en": "[db_db]pac_cvi_001",
+   "ro": "[db_db]pac_cvi_001"
+  },
+  {
+   "key": "3628853848195338240",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3628853872639741952",
+   "en": "[db_db]More Options",
+   "ro": "[db_db]Mai multe opțiuni"
+  },
+  {
+   "key": "3628853901362335744",
+   "en": "[db_db]cct_dtn_003",
+   "ro": "[db_db]cct_dtn_003"
+  },
+  {
+   "key": "3628853934732218368",
+   "en": "[db_db]cct_dtn_002",
+   "ro": "[db_db]cct_dtn_002"
+  },
+  {
+   "key": "3628853969695936512",
+   "en": "[db_db]cct_dtn_001",
+   "ro": "[db_db]cct_dtn_001"
+  },
+  {
+   "key": "3628854008417751040",
+   "en": "[db_db]cct_cpz_002",
+   "ro": "[db_db]cct_cpz_002"
+  },
+  {
+   "key": "3628854073412685824",
+   "en": "[db_db]cct_cpz_001",
+   "ro": "[db_db]cct_cpz_001"
+  },
+  {
+   "key": "3628859446299332612",
+   "en": "[db_db]hey_glen_001",
+   "ro": "[db_db]hey_glen_001"
+  },
+  {
+   "key": "3628859673714495488",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3628859701916995584",
+   "en": "[db_db]More Options",
+   "ro": "[db_db]Mai multe opțiuni"
+  },
+  {
+   "key": "3628859716529950720",
+   "en": "[db_db]hey_spr_003",
+   "ro": "[db_db]hey_spr_003"
+  },
+  {
+   "key": "3628859727401586688",
+   "en": "[db_db]hey_spr_002",
+   "ro": "[db_db]hey_spr_002"
+  },
+  {
+   "key": "3628859739397296128",
+   "en": "[db_db]hey_spr_001",
+   "ro": "[db_db]hey_spr_001"
+  },
+  {
+   "key": "3628859777213140992",
+   "en": "[db_db]hey_glen_003",
+   "ro": "[db_db]hey_glen_003"
+  },
+  {
+   "key": "3628859814978654208",
+   "en": "[db_db]hey_glen_002",
+   "ro": "[db_db]hey_glen_002"
+  },
+  {
+   "key": "3628863739907674116",
+   "en": "[db_db]hey_rey_001",
+   "ro": "[db_db]hey_rey_001"
+  },
+  {
+   "key": "3628864123652935680",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3628864145194881024",
+   "en": "[db_db]wbr_jpn_002",
+   "ro": "[db_db]wbr_jpn_002"
+  },
+  {
+   "key": "3628864165948297216",
+   "en": "[db_db]hey_rey_004",
+   "ro": "[db_db]hey_rey_004"
+  },
+  {
+   "key": "3628864192691179520",
+   "en": "[db_db]More Options",
+   "ro": "[db_db]Mai multe opțiuni"
+  },
+  {
+   "key": "3628864209636167680",
+   "en": "[db_db]wbr_jpn_001",
+   "ro": "[db_db]wbr_jpn_001"
+  },
+  {
+   "key": "3628864230070816768",
+   "en": "[db_db]hey_rey_003",
+   "ro": "[db_db]hey_rey_003"
+  },
+  {
+   "key": "3628864384068882432",
+   "en": "[db_db]hey_rey_002",
+   "ro": "[db_db]hey_rey_002"
+  },
+  {
+   "key": "3628868367349059588",
+   "en": "[db_db]wat_kab_001",
+   "ro": "[db_db]wat_kab_001"
+  },
+  {
+   "key": "3628868531782553600",
+   "en": "[db_db]wat_nid_001",
+   "ro": "[db_db]wat_nid_001"
+  },
+  {
+   "key": "3628868612732620800",
+   "en": "[db_db]wat_lch_003",
+   "ro": "[db_db]wat_lch_003"
+  },
+  {
+   "key": "3628868705074417664",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3628868790940209152",
+   "en": "[db_db]wat_lch_002",
+   "ro": "[db_db]wat_lch_002"
+  },
+  {
+   "key": "3628868829913681920",
+   "en": "[db_db]wat_lch_001",
+   "ro": "[db_db]wat_lch_001"
+  },
+  {
+   "key": "3628868874692071424",
+   "en": "[db_db]wat_kab_002",
+   "ro": "[db_db]wat_kab_002"
+  },
+  {
+   "key": "3641914350307774468",
+   "en": "[db_db]Default",
+   "ro": "[db_db]Implicit"
+  },
+  {
+   "key": "3641915392390991872",
+   "en": "[db_db]Default or TGA?",
+   "ro": "[db_db]Implicit sau TGA?"
+  },
+  {
+   "key": "3641916300373921792",
+   "en": "[db_db]TGA",
+   "ro": "[db_db]TGA"
+  },
+  {
+   "key": "3650827193845420032",
+   "en": "[db_db]Breadcrumbs phase, or Weapon Testing?",
+   "ro": "[db_db]Faza Breadcrumbs sau testarea armelor?"
+  },
+  {
+   "key": "3650828295454199812",
+   "en": "[db_db]Testing Weapons",
+   "ro": "[db_db]Testare arme"
+  },
+  {
+   "key": "3650828622341476352",
+   "en": "[db_db]Testing Bredcrumbs",
+   "ro": "[db_db]Testare Breadcrumbs"
+  },
+  {
+   "key": "3659354946756546564",
+   "en": "[db_db]Haunted Gun",
+   "ro": "[db_db]Armă bântuită"
+  },
+  {
+   "key": "3659355357009809408",
+   "en": "[db_db]Haunted Deck",
+   "ro": "[db_db]Deck bântuit"
+  }
+ ]
+}

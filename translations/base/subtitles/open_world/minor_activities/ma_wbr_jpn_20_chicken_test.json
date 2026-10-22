@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\minor_activities\\ma_wbr_jpn_20_chicken_test.json",
+ "entries": [
+  {
+   "key": "2050408645363490820",
+   "en": "[db_db]Front spawn",
+   "ro": "[db_db]Spawn frontal"
+  },
+  {
+   "key": "2050411120220954624",
+   "en": "[db_db]Stairs spawn",
+   "ro": "[db_db]Spawn pe scări"
+  },
+  {
+   "key": "2050411190567821312",
+   "en": "[db_db]Side spawn",
+   "ro": "[db_db]Spawn lateral"
+  }
+ ]
+}

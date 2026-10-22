@@ -1,0 +1,533 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq002\\mq002_01_deal.json",
+ "entries": [
+  {
+   "key": "1811294652709363712",
+   "en": "You asked, you received. What's the problem?",
+   "ro": "Ai cerut, ai primit. Care-i problema?"
+  },
+  {
+   "key": "1811296135395827712",
+   "en": "The problem's that you were late! By three whole fucking days!",
+   "ro": "Problema e că ați întârziat! Cu trei zile întregi, pula mea!"
+  },
+  {
+   "key": "1811296831432187904",
+   "en": "I already explained. There was a sandstorm, we--",
+   "ro": "Am explicat deja. A fost o furtună de nisip, noi--"
+  },
+  {
+   "key": "1811297441334321152",
+   "en": "Guess what? That's none of my fucking concern.",
+   "ro": "Ei și? Nu e treaba mea, pula mea."
+  },
+  {
+   "key": "1811297985587208192",
+   "en": "We lost a lot of eddies because of you!",
+   "ro": "Am pierdut o grămadă de eddies din cauza ta!"
+  },
+  {
+   "key": "1811351888148193280",
+   "en": "How 'bout we get this over with, Roman? We were late. Our bad, granted. We'll scratch off ten percent.",
+   "ro": "Hai să terminăm odată, Roman. Am întârziat. Vina e a noastră, recunoaștem. Scădem zece la sută."
+  },
+  {
+   "key": "1811361280369254400",
+   "en": "Twenty.",
+   "ro": "Douăzeci."
+  },
+  {
+   "key": "1811364060974702592",
+   "en": "Who is this?!",
+   "ro": "Cine e asta?!",
+   "ro_m": "Cine e ăsta?!"
+  },
+  {
+   "key": "1811364425812041732",
+   "en": "They call me V.",
+   "ro": "Mă cheamă V."
+  },
+  {
+   "key": "1811364952767619072",
+   "en": "Why do you need to know?",
+   "ro": "De ce trebuie să știi?"
+  },
+  {
+   "key": "1811365471200370688",
+   "en": "I don't give an ass-licking fuck what they call you!",
+   "ro": "Mie-mi e fix pe pulă cum te cheamă!"
+  },
+  {
+   "key": "1811373667440812032",
+   "en": "They call me V.",
+   "ro": "Mă cheamă V."
+  },
+  {
+   "key": "1811374202885660676",
+   "en": "Why do you need to know? Were you gonna ask me out?",
+   "ro": "De ce trebuie să știi? Voiai să ieși cu mine?"
+  },
+  {
+   "key": "1811374202885660684",
+   "en": "Give me one good reason why I shouldn't rip your tongue out of your fucking cunt!",
+   "en_m": "Give me one good reason why I shouldn't rip your tongue out of your fucking dickslit!",
+   "ro": "Dă-mi un motiv bun pentru care n-ar trebui să-ți smulg limba din pizda aia nenorocită!",
+   "ro_m": "Dă-mi un motiv bun pentru care n-ar trebui să-ți smulg limba din pula aia nenorocită!"
+  },
+  {
+   "key": "1811382747471437824",
+   "en": "Simmer down now. She's with us.",
+   "en_m": "Simmer down now. He's with us.",
+   "ro": "Calmează-te. E cu noi."
+  },
+  {
+   "key": "1811384408029945856",
+   "en": "Fine, let's call it a fucking day already. I'll give the sig for the eddies.",
+   "ro": "Bine, s-o terminăm odată, pula mea. Dau eu semnătura pe eddies."
+  },
+  {
+   "key": "1811386585561587712",
+   "en": "Save us your patronizing, V. We knew the risk. But--",
+   "ro": "Lasă-ne cu morala ta, V. Știam riscul. Dar--"
+  },
+  {
+   "key": "1811386924981444608",
+   "en": "Fifteen.",
+   "ro": "Cincisprezece."
+  },
+  {
+   "key": "1811389718589235200",
+   "en": "Sorry to interrupt. How's it goin'? Close the deal yet?",
+   "ro": "Scuze că vă întrerup. Cum merge? Ați închis târgul?"
+  },
+  {
+   "key": "1851898186865467396",
+   "en": "Fuck... Sniper!",
+   "ro": "Futu-i... Sniper!"
+  },
+  {
+   "key": "1851902203800739840",
+   "en": "Don't know if there's gonna be a \"later.\"",
+   "en_m": "I don't know if there's gonna be a \"later.\"",
+   "ro": "Nu știu dacă o să mai fie un „mai târziu”."
+  },
+  {
+   "key": "1851904770748342276",
+   "en": "Have it your way.",
+   "ro": "Fă cum vrei."
+  },
+  {
+   "key": "1851905049954770944",
+   "en": "That had nothing to do with the Aldecaldos.",
+   "ro": "Asta n-a avut nimic de-a face cu Aldecaldos."
+  },
+  {
+   "key": "1851909487125749760",
+   "en": "Good. I was starting to get a headache from all your bitching.",
+   "ro": "Bine. Începusem să am migrenă de la toată smiorcăiala voastră."
+  },
+  {
+   "key": "1851909846594379776",
+   "en": "Kill them all!",
+   "ro": "Omorâți-i pe toți!"
+  },
+  {
+   "key": "1851917544601837568",
+   "en": "Now, now, that had nothing to do with the Aldecaldos.",
+   "en_m": "Now, now... that had nothing to do with the Aldecaldos.",
+   "ro": "Hai, hai, asta n-a avut nimic de-a face cu Aldecaldos."
+  },
+  {
+   "key": "1851917547269414912",
+   "en": "Said you were all together, yeah? Am I right, or did I fucking hear wrong?",
+   "ro": "Ziceați că sunteți toți împreună, nu? Sau am auzit prost, pula mea?"
+  },
+  {
+   "key": "1854485775794884608",
+   "en": "Well, I'll be damned... I know you! Saw you back at the Aldecaldo camp... They call you V, right?",
+   "ro": "Ia te uită... Te cunosc! Te-am văzut la tabăra Aldecaldos... Te cheamă V, nu?"
+  },
+  {
+   "key": "1854494758031118340",
+   "en": "I came here alone.",
+   "ro": "Am venit singură aici.",
+   "ro_m": "Am venit singur aici."
+  },
+  {
+   "key": "1854495287687827456",
+   "en": "The one and only.",
+   "ro": "Unica și inegalabila.",
+   "ro_m": "Unicul și inegalabilul."
+  },
+  {
+   "key": "1854497591921004544",
+   "en": "Did someone from the family send you here?",
+   "ro": "Te-a trimis cineva din familie aici?"
+  },
+  {
+   "key": "1854498395180552192",
+   "en": "Why do I get the feeling something isn't right?",
+   "ro": "De ce am senzația că ceva nu e în regulă?"
+  },
+  {
+   "key": "1854499200453365760",
+   "en": "Now, why do I get the feeling something's wrong? What've you gotten yourselves into?",
+   "ro": "Și de ce am senzația că s-a întâmplat ceva? În ce v-ați băgat?"
+  },
+  {
+   "key": "1854499968883412992",
+   "en": "Here by pure chance. No one sent me.",
+   "ro": "Aici din pură întâmplare. Nu m-a trimis nimeni."
+  },
+  {
+   "key": "1854500471260368896",
+   "en": "Why? Is this the kind of place I'm s'posed to be?",
+   "en_m": "Why? Is this the kind of place I'm supposed to be?",
+   "ro": "De ce? Ăsta-i genul de loc unde ar trebui să fiu?"
+  },
+  {
+   "key": "1854501091279163392",
+   "en": "Carol and Cass're here to close a deal with the Scavengers... We purloined some cyberware for 'em.",
+   "ro": "Carol și Cass sunt aici să facă un târg cu Hienele... Le-am furat niște cyberware."
+  },
+  {
+   "key": "1854527401644838912",
+   "en": "And…?",
+   "ro": "Și…?"
+  },
+  {
+   "key": "1854527570608181248",
+   "en": "And it's takin' 'em near eternity! Somethin' isn't right.",
+   "ro": "Și le ia o veșnicie! Ceva nu-i în regulă."
+  },
+  {
+   "key": "1854529575787483136",
+   "en": "I'll go and take a look – make sure everything's OK.",
+   "ro": "Mă duc să arunc o privire, să văd că e totul ok."
+  },
+  {
+   "key": "1854529656720773124",
+   "en": "I'll take a look and see what's going on.",
+   "ro": "Arunc o privire să văd ce se întâmplă."
+  },
+  {
+   "key": "1854530024812892160",
+   "en": "Dealing with the scavs never ends well.",
+   "ro": "Cu hienele nu se termină niciodată bine."
+  },
+  {
+   "key": "1854531234148175872",
+   "en": "Dealin' with scavs never ends well...",
+   "ro": "Cu hienele nu se termină niciodată bine..."
+  },
+  {
+   "key": "1854532012057350144",
+   "en": "Wait, wait! It's just... well, they could get real sore about--",
+   "ro": "Stai, stai! E doar... păi, s-ar putea să se supere rău de tot--"
+  },
+  {
+   "key": "1854532388420636672",
+   "en": "Next time just stick to retrofitting old clunkers in the Badlands.",
+   "en_m": "Next time, just stick to retrofitting old clunkers in the Badlands.",
+   "ro": "Data viitoare, rămâi la reparat rable vechi prin Badlands."
+  },
+  {
+   "key": "1854535917659017216",
+   "en": "Just keep a lookout.",
+   "ro": "Stai cu ochii în patru."
+  },
+  {
+   "key": "1854545027402092544",
+   "en": "V? What're you doin' here?!",
+   "ro": "V? Ce cauți aici?!"
+  },
+  {
+   "key": "1854545622104068096",
+   "en": "Oh, I thought I'd drop by, y'know – make sure everyone's playin' fair.",
+   "en_m": "Thought I'd drop by, y'know – make sure everyone's playin' fair.",
+   "ro": "Mi-a venit să dau o fugă pe aici, știi tu – să mă asigur că toată lumea joacă cinstit."
+  },
+  {
+   "key": "1854545826383450112",
+   "en": "Who the fuck is this?!",
+   "ro": "Cine pula mea e ăsta?!"
+  },
+  {
+   "key": "1854551140197519360",
+   "en": "Something about this deal stinks.",
+   "ro": "Ceva la afacerea asta miroase a căcat."
+  },
+  {
+   "key": "1854553193812643840",
+   "en": "Deals either go quickly, or they go badly. It's biz one-oh-one.",
+   "ro": "Târgurile fie merg repede, fie merg de-a dracu'. E ABC-ul afacerilor."
+  },
+  {
+   "key": "1854559794657284096",
+   "en": "Longer you drag out the convo, more peeps you'll drag in – just a reminder that there are more of us, case you were to pull a gonk move.",
+   "en_m": "Longer you drag out the convo, more peeps you'll drag in – just a reminder that there are more of us, in case you were to pull a gonk move.",
+   "ro": "Cu cât prelungești discuția, cu atât mai mulți aduci – doar ca să știi că suntem mai mulți, în caz că vrei să faci o mișcare de fraier."
+  },
+  {
+   "key": "1854562672285372416",
+   "en": "You think you're so fuckin' latest, don't you? And what if I do wanna pull a gonk move starting with your ugly face?",
+   "ro": "Crezi că ești tu-n fiță, nu? Și dacă vreau să-ți fac o mișcare de fraier, începând cu fața ta de căcat?"
+  },
+  {
+   "key": "1854563351292858368",
+   "en": "You can try.",
+   "ro": "Poți încerca."
+  },
+  {
+   "key": "1854564533063176192",
+   "en": "What're you trying to pull here, huh?! This some kinda scare tactic?",
+   "ro": "Ce ai de gând aici, ha?! Încerci să mă sperii?"
+  },
+  {
+   "key": "1854568580549758976",
+   "en": "Can you count to fucking three? One, two, three! That's how many you were supposed to be!",
+   "ro": "Știi să numeri până la trei, pula mea? Unu, doi, trei! Atâția ar fi trebuit să fiți!"
+  },
+  {
+   "key": "1854569262627475456",
+   "en": "Heap of money was also s'posed to be here. And I can't see any.",
+   "ro": "Și ar fi trebuit să fie aici o grămadă de bani. Și nu văd niciunul."
+  },
+  {
+   "key": "1854578656660475904",
+   "en": "You must be outside your mind, V. Why'd you come here?",
+   "ro": "Trebuie să fii ieșită din minte, V. De ce-ai venit aici?",
+   "ro_m": "Trebuie să fii ieșit din minte, V. De ce-ai venit aici?"
+  },
+  {
+   "key": "1854582881113133056",
+   "en": "You can't trust the scavs.",
+   "ro": "Nu poți avea încredere în hiene."
+  },
+  {
+   "key": "1854583493649289216",
+   "en": "Your guy outside was freaking out.",
+   "ro": "Tipul tău de afară o luase razna."
+  },
+  {
+   "key": "1854584219146440704",
+   "en": "You can't trust the scavs. Nothing ever ends well with them.",
+   "ro": "Pe hiene nu te poți baza. Nimic nu se termină bine cu ele."
+  },
+  {
+   "key": "1854584740917858304",
+   "en": "I could smell the trap from a mile away.",
+   "ro": "Am mirosit capcana de departe."
+  },
+  {
+   "key": "1854585533607759872",
+   "en": "Bumped into your man outside. Said it was takin' too long, so I figured I'd take a look.",
+   "ro": "Am dat peste omul tău de-afară. Zicea că ține prea mult, așa că m-am gândit să mă uit și eu."
+  },
+  {
+   "key": "1854590016244994048",
+   "en": "Dealin' with the scavs? On their turf? On their terms? You must really be desperate.",
+   "ro": "Afaceri cu hienele? Pe teritoriul lor? Pe regulile lor? Trebuie să fii chiar disperată.",
+   "ro_m": "Afaceri cu hienele? Pe teritoriul lor? Pe regulile lor? Trebuie să fii chiar disperat."
+  },
+  {
+   "key": "1854592057696636928",
+   "en": "And desperate people don't think straight.",
+   "ro": "Iar oamenii disperați nu gândesc limpede."
+  },
+  {
+   "key": "1854594125891162112",
+   "en": "We really need this money. Like, badly.",
+   "ro": "Chiar ne trebuie banii ăștia. Rău de tot."
+  },
+  {
+   "key": "1854595220117966848",
+   "en": "Hush up now! You can conversate all you want later.",
+   "ro": "Gura acum! Stați de vorbă cât vreți mai târziu."
+  },
+  {
+   "key": "1854596649519992832",
+   "en": "Sniper. Up there behind the silo.",
+   "ro": "Sniper. Sus, în spatele silozului."
+  },
+  {
+   "key": "1854597864207208448",
+   "en": "Damn it to heck...!",
+   "ro": "Fir-ar să fie...!"
+  },
+  {
+   "key": "1854617765441490944",
+   "en": "Funny.",
+   "ro": "Amuzant."
+  },
+  {
+   "key": "1854627911110545408",
+   "en": "Didn't like your ugly skinplate from the get-go. Now I know why.",
+   "ro": "Nu mi-a plăcut de la început placa aia urâtă de piele. Acum știu de ce."
+  },
+  {
+   "key": "1854630262085046272",
+   "en": "You're the one who flushed us out in Watson. Sandra Dorsett. Thought we'd forget, huh?",
+   "ro": "Tu ești cea care ne-a dat de gol în Watson. Sandra Dorsett. Credeai că uităm, ha?",
+   "ro_m": "Tu ești cel care ne-a dat de gol în Watson. Sandra Dorsett. Credeai că uităm, ha?"
+  },
+  {
+   "key": "1854635215138639872",
+   "en": "We're done here.",
+   "ro": "Am terminat aici."
+  },
+  {
+   "key": "1854681247776034816",
+   "en": "I'd think real hard about your next move.",
+   "ro": "Ai face bine să te gândești serios la următoarea mișcare."
+  },
+  {
+   "key": "1854686256278327296",
+   "en": "If I were you, I'd think real hard about your next move.",
+   "ro": "Eu în locul tău m-aș gândi bine la următoarea mișcare."
+  },
+  {
+   "key": "1854687005850783744",
+   "en": "You're right – I was the one who took out your chooms in Watson. Shot 'em like fish in a barrel.",
+   "en_m": "'Cause you're right – I was the one who took out your chooms in Watson. Shot 'em all like fish in a barrel.",
+   "ro": "Ai dreptate – eu am fost cea care le-a făcut praf chooms de-ai tăi în Watson. I-am împușcat ca la tir.",
+   "ro_m": "Ai dreptate – eu am fost cel care le-a făcut praf chooms de-ai tăi în Watson. I-am împușcat ca la tir."
+  },
+  {
+   "key": "1854687543644442624",
+   "en": "Why do you think this'll play out any different? 'Cause you got us surrounded?",
+   "en_m": "So why do you think this'll play out any different? 'Cause you got us surrounded?",
+   "ro": "Și de ce crezi că o să iasă altfel? Pentru că ne-ai înconjurat?"
+  },
+  {
+   "key": "1854689751391850496",
+   "en": "Cause you put some dipshit with a sniper on a roof?",
+   "en_m": "Cause you put some dipshit with a sniper rifle on a roof?",
+   "ro": "Pentru că ai pus un tâmpit cu sniper pe un acoperiș?"
+  },
+  {
+   "key": "1854690860248387584",
+   "en": "Take a look at me. A real good one. You see my implants? I could slice you into ribbons 'fore you can squeeze a trigger. I know it. You know it.",
+   "ro": "Uită-te bine la mine. Vezi implanturile? Te-aș tăia în fâșii până apuci să apeși trăgaciul. Știu eu, și tu știi."
+  },
+  {
+   "key": "1854693199982153728",
+   "en": "Agh... Give 'em the eddies.",
+   "ro": "Agh... Dă-le eddies-urile."
+  },
+  {
+   "key": "1854693442245152768",
+   "en": "What, are you fucking deaf?! I said give 'em the eddies!",
+   "ro": "Ce, ești surd, pula mea?! Ți-am zis să le dai eddies-urile!"
+  },
+  {
+   "key": "1854693778175348736",
+   "en": "This isn't over yet, merc.",
+   "ro": "Nu s-a terminat încă, merc."
+  },
+  {
+   "key": "1904094090133135396",
+   "en": "Well, I'll be damned... I know you! Saw you back at the Aldecaldo camp. They call you V, right?",
+   "ro": "Ia te uită... Te cunosc! Te-am văzut la tabăra Aldecaldo. Te cheamă V, nu?"
+  },
+  {
+   "key": "1904094090149912584",
+   "en": "The one and only.",
+   "ro": "Unica și inegalabila.",
+   "ro_m": "Unicul și inegalabilul."
+  },
+  {
+   "key": "1904094090166689792",
+   "en": "Did someone from the family send you here?",
+   "ro": "Te-a trimis cineva din familie aici?"
+  },
+  {
+   "key": "1904094090217021440",
+   "en": "I came here alone.",
+   "ro": "Am venit singură aici.",
+   "ro_m": "Am venit singur aici."
+  },
+  {
+   "key": "1904094090217021456",
+   "en": "Why do I get the feeling something isn't right?",
+   "ro": "De ce am senzația că ceva nu e în regulă?"
+  },
+  {
+   "key": "1904094090267353092",
+   "en": "Now, why do I get the feeling something's wrong? What've you gotten yourselves into?",
+   "ro": "Și de ce am senzația că s-a întâmplat ceva? În ce v-ați băgat?"
+  },
+  {
+   "key": "1904094090284130308",
+   "en": "Here by pure chance. No one sent me.",
+   "en_m": "I'm here by pure chance. No one sent me.",
+   "ro": "Sunt aici din întâmplare. Nu m-a trimis nimeni."
+  },
+  {
+   "key": "1904094090300907528",
+   "en": "Why? Is this the kind of place I'm supposed to be?",
+   "ro": "Cum adică? Asta-i genul de loc unde ar trebui să fiu?"
+  },
+  {
+   "key": "1904094090334461956",
+   "en": "Carol and Cass are here to close a deal with the Scavengers. W-we purloined some cyberware for them...",
+   "ro": "Carol și Cass au venit să facă târg cu Hienele. N-noi le-am furat niște cyberware..."
+  },
+  {
+   "key": "1904094090334461968",
+   "en": "And...?",
+   "ro": "Și...?"
+  },
+  {
+   "key": "1904094090351239172",
+   "en": "And it's takin' 'em near eternity! Something isn't right.",
+   "ro": "Și le ia o veșnicie! Ceva nu e în regulă."
+  },
+  {
+   "key": "1904094090384793604",
+   "en": "I'll go and take a look – make sure everything's OK.",
+   "ro": "Mă duc să arunc o privire, să văd că e totul ok."
+  },
+  {
+   "key": "1904094090384793616",
+   "en": "Wait, it's just... well, they could get real sore about--",
+   "ro": "Stai, e doar... păi, s-ar putea să se supere rău--"
+  },
+  {
+   "key": "1904094090401570824",
+   "en": "Just keep a lookout.",
+   "ro": "Stai cu ochii în patru."
+  },
+  {
+   "key": "1904094090418348032",
+   "en": "I'll take a look and see what's going on.",
+   "ro": "Arunc o privire să văd ce se întâmplă."
+  },
+  {
+   "key": "1904094090435125256",
+   "en": "Dealing with the scavs never ends well.",
+   "ro": "Cu hienele nu se termină niciodată bine."
+  },
+  {
+   "key": "1904094090468679684",
+   "en": "Dealin' with scavs never ends well...",
+   "en_m": "Dealin' with the scavs never ends well...",
+   "ro": "Cu hienele nu se termină niciodată bine..."
+  },
+  {
+   "key": "1904094090485456896",
+   "en": "Next time just stick to retrofitting old clunkers in the Badlands.",
+   "ro": "Data viitoare ține-te de treaba cu rablele vechi din Badlands."
+  },
+  {
+   "key": "1905339170919075840",
+   "en": "Oh no, we're done. Fuck 'em up!",
+   "ro": "Ba nu, am terminat. Dați-i zob!"
+  },
+  {
+   "key": "1905340563159568384",
+   "en": "Okay, but...",
+   "ro": "Bine, dar..."
+  }
+ ]
+}

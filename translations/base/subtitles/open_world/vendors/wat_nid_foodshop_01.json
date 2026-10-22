@@ -1,0 +1,37 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\wat_nid_foodshop_01.json",
+ "entries": [
+  {
+   "key": "1979334175077408772",
+   "en": "Anything good on the menu?",
+   "ro": "Ce e bun în meniu?"
+  },
+  {
+   "key": "1979334417407516672",
+   "en": "Aren't you a bit young to work here?",
+   "ro": "Nu ești cam tânăr să lucrezi aici?"
+  },
+  {
+   "key": "1979335435029553152",
+   "en": "Cookin' up anything good today?",
+   "en_m": "Ya cookin' up anything good today?",
+   "ro": "Gătești ceva bun azi?"
+  },
+  {
+   "key": "1979336530665644032",
+   "en": "I don't deal in anything less. Gotta respect yourself and your customers, too.",
+   "ro": "Nu mă cobor la mai puțin. Trebuie să te respecți pe tine și pe clienți."
+  },
+  {
+   "key": "1979337178752720896",
+   "en": "Aren't you a little young to run a business?",
+   "ro": "Nu ești cam tânără să conduci o afacere?",
+   "ro_m": "Nu ești cam tânăr să conduci o afacere?"
+  },
+  {
+   "key": "1979337785316188160",
+   "en": "Someone in the family's gotta be the scopwinner. I can count and I've got good hands. All you need.",
+   "ro": "Cineva din familie trebuie să fie scopwinner. Știu să număr și am mâini bune. Atât îți trebuie."
+  }
+ ]
+}

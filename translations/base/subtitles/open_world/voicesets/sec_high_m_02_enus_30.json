@@ -1,0 +1,353 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\sec_high_m_02_enus_30.json",
+ "entries": [
+  {
+   "key": "1896854484065722372",
+   "en": "Get away from me.",
+   "ro": "Pleacă de lângă mine."
+  },
+  {
+   "key": "1896854484099276804",
+   "en": "I'll be watchin' out for you.",
+   "ro": "O să te supraveghez."
+  },
+  {
+   "key": "1896854484183162884",
+   "en": "Keep your distance!",
+   "ro": "Ține-ți distanța!"
+  },
+  {
+   "key": "1896854484216717312",
+   "en": "Back away.",
+   "ro": "Dă-te înapoi."
+  },
+  {
+   "key": "1896854484250271748",
+   "en": "She's armed!",
+   "en_m": "He's armed!",
+   "ro": "E înarmată!",
+   "ro_m": "E înarmat!"
+  },
+  {
+   "key": "1896854484283826180",
+   "en": "Careful with that one!",
+   "ro": "Fii atent cu ea!",
+   "ro_m": "Fii atent cu el!"
+  },
+  {
+   "key": "1896854484350935044",
+   "en": "Don't make me repeat myself.",
+   "ro": "Nu mă face să mă repet."
+  },
+  {
+   "key": "1896854484384489476",
+   "en": "You have one last chance to comply.",
+   "ro": "Ai o ultimă șansă să cooperezi."
+  },
+  {
+   "key": "1896854484451598340",
+   "en": "Outta my sight.",
+   "ro": "Dispari din fața mea."
+  },
+  {
+   "key": "1896854484468375556",
+   "en": "Take a good look at yourself.",
+   "ro": "Uită-te bine în oglindă."
+  },
+  {
+   "key": "1896854484535484420",
+   "en": "Sweeping the area.",
+   "ro": "Scanăm zona."
+  },
+  {
+   "key": "1896854484552261636",
+   "en": "Suspicious activity detected.",
+   "ro": "Activitate suspectă detectată."
+  },
+  {
+   "key": "1896854484619370500",
+   "en": "No threat detected!",
+   "ro": "Nicio amenințare detectată!"
+  },
+  {
+   "key": "1896854484652924932",
+   "en": "All clear!",
+   "ro": "Zona e curată!"
+  },
+  {
+   "key": "1896854484720033796",
+   "en": "Surrender! You have no chance of escaping!",
+   "ro": "Predă-te! Nu ai nicio șansă să scapi!"
+  },
+  {
+   "key": "1896854484753588228",
+   "en": "Drop your weapon and come out!",
+   "ro": "Aruncă arma și ieși!"
+  },
+  {
+   "key": "1896854484803919872",
+   "en": "Body!",
+   "ro": "Un cadavru!"
+  },
+  {
+   "key": "1896854484854251524",
+   "en": "Understood.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1896854484921360388",
+   "en": "Halt!",
+   "ro": "Stați!"
+  },
+  {
+   "key": "1896854484954914820",
+   "en": "Surrender yourself!",
+   "ro": "Predă-te!"
+  },
+  {
+   "key": "1896854484988469252",
+   "en": "It's gonna blow!",
+   "ro": "O să explodeze!"
+  },
+  {
+   "key": "1896854485072355332",
+   "en": "Neutralize the target!",
+   "ro": "Neutralizați ținta!"
+  },
+  {
+   "key": "1896854485089132548",
+   "en": "Fire! Fire!",
+   "ro": "Foc! Foc!"
+  },
+  {
+   "key": "1896854485156241412",
+   "en": "Cover me! Reloading!",
+   "ro": "Acoperă-mă! Reîncarc!"
+  },
+  {
+   "key": "1896854485189795844",
+   "en": "Need backup!",
+   "ro": "Am nevoie de întăriri!"
+  },
+  {
+   "key": "1896854485256904708",
+   "en": "Watch yourself, asshole!",
+   "ro": "Fii atent, boule!"
+  },
+  {
+   "key": "1896854485273681924",
+   "en": "Careful.",
+   "ro": "Atenție."
+  },
+  {
+   "key": "1896854485340790788",
+   "en": "Hello?",
+   "ro": "Alo?"
+  },
+  {
+   "key": "1896854485407899652",
+   "en": "Understood… I'll take care of it tomorrow. Anything else?",
+   "ro": "Am înțeles... O să mă ocup de asta mâine. Altceva?"
+  },
+  {
+   "key": "1896854485441454080",
+   "en": "Yeah… We're still hiding him… For sure, it'll die down soon...",
+   "ro": "Da... Încă îl ascundem... Sigur, o să se potolească în curând..."
+  },
+  {
+   "key": "1896854485491785732",
+   "en": "Flank attack!",
+   "ro": "Atac pe flanc!"
+  },
+  {
+   "key": "1896854485542117380",
+   "en": "Roger!",
+   "ro": "Roger!"
+  },
+  {
+   "key": "1896854485575671812",
+   "en": "Get down!",
+   "ro": "Jos!"
+  },
+  {
+   "key": "1896854485592449028",
+   "en": "Goodbye.",
+   "ro": "La revedere."
+  },
+  {
+   "key": "1896854485626003460",
+   "en": "Eh?",
+   "ro": "Eh?"
+  },
+  {
+   "key": "1896854485676335108",
+   "en": "Pssst. Safety off.",
+   "ro": "Pssst. Scoate siguranța."
+  },
+  {
+   "key": "1896854485709889540",
+   "en": "Shh. Fire at will.",
+   "ro": "Șș. Foc la discreție."
+  },
+  {
+   "key": "1896854485760221188",
+   "en": "I'm on your six.",
+   "ro": "Sunt în spatele tău."
+  },
+  {
+   "key": "1896854485793775616",
+   "en": "Covering fire!",
+   "ro": "Foc de acoperire!"
+  },
+  {
+   "key": "1896854485827330052",
+   "en": "Ekhh… khh…  you… whore.",
+   "en_m": "Ekhh… khh…  you… cocksucker.",
+   "ro": "Ekhh... khh... tu... curvă.",
+   "ro_m": "Ekhh... khh... tu... sugaci de pulă."
+  },
+  {
+   "key": "1896861864111382528",
+   "en": "He's still hiding… Mm… It's a matter of a few days… Yeah.",
+   "ro": "Încă se ascunde... Mm... Mai e vorba de câteva zile... Da."
+  },
+  {
+   "key": "1896862352932347904",
+   "en": "No no, he's got everything he needs… Yeah.",
+   "ro": "Nu, nu, are tot ce-i trebuie... Da."
+  },
+  {
+   "key": "1959044096336109572",
+   "en": "OK... just don't take long.",
+   "ro": "Bine... doar să nu dureze mult."
+  },
+  {
+   "key": "1959044096386441220",
+   "en": "Look, let's just make this quick, OK?",
+   "ro": "Uite, hai să terminăm repede, OK?"
+  },
+  {
+   "key": "1959044096419995652",
+   "en": "'Kay... any day now...",
+   "ro": "Bine... când te decizi..."
+  },
+  {
+   "key": "2236494068434739204",
+   "en": "One of ours! Look out, possible intruder in the area!",
+   "ro": "Unul de-al nostru! Atenție, posibil intrus în zonă!"
+  },
+  {
+   "key": "2236494068501848068",
+   "en": "Always the same thing...",
+   "ro": "Mereu aceeași poveste..."
+  },
+  {
+   "key": "2236494068703174660",
+   "en": "Spread out. On the double.",
+   "ro": "Răspândiți-vă. Imediat!"
+  },
+  {
+   "key": "2236494068820615172",
+   "en": "We stay together, we stay alive!",
+   "ro": "Stăm împreună, rămânem în viață!"
+  },
+  {
+   "key": "2236494068921278464",
+   "en": "Careful! Target has corp cyberware!",
+   "ro": "Atenție! Ținta are cyberware de la corporație!"
+  },
+  {
+   "key": "2236494069021941764",
+   "en": "Someone take that position!",
+   "ro": "Cineva să ia poziția aia!"
+  },
+  {
+   "key": "2236494069122605060",
+   "en": "Last man standing!",
+   "ro": "Ultimul rămas în picioare!"
+  },
+  {
+   "key": "2236494069206491140",
+   "en": "I'm done playing.",
+   "ro": "Gata, m-am jucat."
+  },
+  {
+   "key": "2236494069491703812",
+   "en": "Hit confirmed!",
+   "ro": "Lovitură confirmată!"
+  },
+  {
+   "key": "2236494069609144320",
+   "en": "Target hit!",
+   "ro": "Țintă lovită!"
+  },
+  {
+   "key": "2236494069894356996",
+   "en": "Last push! Finish her!",
+   "en_m": "Last push! Finish him!",
+   "ro": "Ultimul efort! Termin-o!",
+   "ro_m": "Ultimul efort! Termină-l!"
+  },
+  {
+   "key": "2236494070011797508",
+   "en": "Received!",
+   "ro": "Recepționat!"
+  },
+  {
+   "key": "2236494070330564612",
+   "en": "Contact lost!",
+   "ro": "Contact pierdut!"
+  },
+  {
+   "key": "2236494070582222852",
+   "en": "Look out! Friendly lost!",
+   "ro": "Atenție! Camarad căzut!"
+  },
+  {
+   "key": "2236494070850658304",
+   "en": "Dark on visuals!",
+   "ro": "Nu văd nimic!"
+  },
+  {
+   "key": "2236494071186202624",
+   "en": "Stay sharp! We've got a netrunner!",
+   "ro": "Fiți atenți! Avem o netrunner!",
+   "ro_m": "Fiți atenți! Avem un netrunner!"
+  },
+  {
+   "key": "2236494071337197568",
+   "en": "Reentering combat!",
+   "ro": "Reintrăm în luptă!"
+  },
+  {
+   "key": "2236494071672741892",
+   "en": "Closing the gap!",
+   "ro": "Reducem distanța!"
+  },
+  {
+   "key": "2236494071790182404",
+   "en": "Firing at close range!",
+   "ro": "Foc de aproape!"
+  },
+  {
+   "key": "2236494071991508996",
+   "en": "Suppressive fire!",
+   "ro": "Foc de acoperire!"
+  },
+  {
+   "key": "2236494072125726724",
+   "en": "Position lost!",
+   "ro": "Poziție pierdută!"
+  },
+  {
+   "key": "2236494073283354628",
+   "en": "All units report! Opening fire!",
+   "ro": "Toate unitățile, raportați! Deschidem focul!"
+  },
+  {
+   "key": "2236494073484681220",
+   "en": "Suspicious activity. Commencing search.",
+   "ro": "Activitate suspectă. Începem căutarea."
+  }
+ ]
+}

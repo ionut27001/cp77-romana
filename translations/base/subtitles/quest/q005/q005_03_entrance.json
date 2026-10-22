@@ -1,0 +1,523 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_03_entrance.json",
+ "entries": [
+  {
+   "key": "1611407206705410048",
+   "en": "The name on the reservation is…?",
+   "ro": "Pe ce nume e rezervarea…?"
+  },
+  {
+   "key": "1618360178349846528",
+   "en": "We're out front, Bug.",
+   "ro": "Suntem în față, Bug."
+  },
+  {
+   "key": "1618361853001216000",
+   "en": "'Member, reservation's in your name… Ramón.",
+   "ro": "Ține minte, rezervarea e pe numele tău… Ramón."
+  },
+  {
+   "key": "1618383257205616640",
+   "en": "Welcome to Konpeki Plaza. Please come through single file.",
+   "ro": "Bun venit la Konpeki Plaza. Vă rog să intrați pe rând."
+  },
+  {
+   "key": "1618384330528010240",
+   "en": "You got it, holm-- uh, ahem, sir.",
+   "ro": "Ai înțeles, holm-- uh, ahem, domnule."
+  },
+  {
+   "key": "1618389928464232452",
+   "en": "We'd like to check in.",
+   "ro": "Vrem să ne cazăm."
+  },
+  {
+   "key": "1622943069616615424",
+   "en": "Gimme a sec, need to check somethin'.",
+   "ro": "Dă-mi o secundă, trebuie să verific ceva."
+  },
+  {
+   "key": "1622943980921434112",
+   "en": "All right, I'll be over by security.",
+   "ro": "Bine, o să fiu lângă pază."
+  },
+  {
+   "key": "1624367202455924736",
+   "en": "Victorino.",
+   "ro": "Victorino."
+  },
+  {
+   "key": "1624368794278178816",
+   "en": "Double room, two adults, one night. Correct?",
+   "ro": "Cameră dublă, doi adulți, o noapte. Corect?"
+  },
+  {
+   "key": "1624369099908722688",
+   "en": "That's the one.",
+   "ro": "Exact."
+  },
+  {
+   "key": "1624371770573074432",
+   "en": "Perfect... I will go ahead and notify Taki-san of your arrival.",
+   "ro": "Perfect... Îl anunț imediat pe Taki-san de sosirea dumneavoastră."
+  },
+  {
+   "key": "1624375881779523584",
+   "en": "Shit, no good, not part of the plan. Talk her up, V, stall!",
+   "ro": "Rahat, nu e bine, nu era în plan. Ține-o de vorbă, V, trage de timp!"
+  },
+  {
+   "key": "1624380179984822276",
+   "en": "That won't be necessary.",
+   "ro": "N-o să fie nevoie."
+  },
+  {
+   "key": "1624391902376636416",
+   "en": "That won't be necessary.",
+   "ro": "N-o să fie nevoie."
+  },
+  {
+   "key": "1624394466388226048",
+   "en": "You will be in the Lapis Lazuli Suite on level forty-two.",
+   "ro": "Veți fi în apartamentul Lapis Lazuli la etajul patruzeci și doi."
+  },
+  {
+   "key": "1624396421084884992",
+   "en": "Oh, one more little formality... Please validate your SID chip.",
+   "ro": "Încă o mică formalitate... Vă rog să validați cipul SID."
+  },
+  {
+   "key": "1624421744111398912",
+   "en": "Wait for you by the elevators. Ugh, this little bastard's heavier than I thought.",
+   "ro": "Te aștept la lifturi. Ugh, nenorocitul ăsta mic e mai greu decât credeam."
+  },
+  {
+   "key": "1631482970540658688",
+   "en": "This should only take a moment, ma'am.",
+   "en_m": "This should only take a moment, sir.",
+   "ro": "Ar trebui să dureze doar un moment, doamnă.",
+   "ro_m": "Ar trebui să dureze doar un moment, domnule."
+  },
+  {
+   "key": "1631483996450639872",
+   "en": "Ahem. Hold on, got something.",
+   "ro": "Ahem. Stai, am ceva."
+  },
+  {
+   "key": "1631489298352885760",
+   "en": "Care to explain why you’re bringing military equipment onto the premises, into Konpeki Plaza?",
+   "ro": "Ne explicați de ce aduceți echipament militar în Konpeki Plaza?"
+  },
+  {
+   "key": "1631490872911384576",
+   "en": "Go ahead.",
+   "ro": "Continuați."
+  },
+  {
+   "key": "1631546040910663680",
+   "en": "We'd like to check in.",
+   "ro": "Vrem să ne cazăm."
+  },
+  {
+   "key": "1631557606032855040",
+   "en": "Of course, just a moment, please.",
+   "ro": "Sigur, un moment, vă rog."
+  },
+  {
+   "key": "1631562400743084032",
+   "en": "<mothertongue l=\"mex\" m=\"Señorita\" b=\"\" a=\", do you know how long we been traveling? Eighteen hours from New Barcelona.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Señorita\" b=\"\" a=\", știi cât am călătorit? optsprezece ore din New Barcelona.\"/>"
+  },
+  {
+   "key": "1631562523367755776",
+   "en": "With a delay on MetaKey 'cause some cyberpsycho blew himself into bits inside the terminal…",
+   "ro": "Cu întârziere pe MetaKey pentru că un cyberpsycho s-a făcut bucăți în terminal…"
+  },
+  {
+   "key": "1631562979775139840",
+   "en": "Ugh, a nightmare…",
+   "ro": "Ugh, un coșmar…"
+  },
+  {
+   "key": "1631563135031496704",
+   "en": "Of course, I understand.",
+   "ro": "Sigur, înțeleg."
+  },
+  {
+   "key": "1631565204819857408",
+   "en": "What the hell, V?! I said stall!",
+   "ro": "Ce naiba, V?! Am zis să câștigi timp!"
+  },
+  {
+   "key": "1631565693959589888",
+   "en": "Hello, this is the reception desk. Apologies for any disturbance.",
+   "ro": "Alo, aici recepția. Ne cerem scuze pentru orice deranj."
+  },
+  {
+   "key": "1631565865942831104",
+   "en": "Stevie Shaviro – assistant to Taki-san. How can I help you?",
+   "ro": "Stevie Shaviro – asistentul lui Taki-san. Cu ce vă pot ajuta?"
+  },
+  {
+   "key": "1631566215680675840",
+   "en": "I'm in the process of checking in a Mr. …",
+   "ro": "Tocmai cazez un domn …"
+  },
+  {
+   "key": "1631566362800082944",
+   "en": "Victorino. Good, he's arrived. Please send him upstairs immediately.",
+   "ro": "Victorino. Bine, a ajuns. Trimiteți-l imediat sus."
+  },
+  {
+   "key": "1631566514919100416",
+   "en": "Of course, right away.",
+   "ro": "Sigur, imediat."
+  },
+  {
+   "key": "1631567084656578560",
+   "en": "Taki-san is expecting you, he awaits.",
+   "ro": "Taki-san vă așteaptă."
+  },
+  {
+   "key": "1631569380786360320",
+   "en": "What the hell, V?! I said stall! Do I gotta do everything?!",
+   "ro": "Ce naiba, V?! Am zis să câștigi timp! Trebuie să fac eu totul?!"
+  },
+  {
+   "key": "1631570805473988608",
+   "en": "Sorry. I just... blanked.",
+   "ro": "Scuze. Pur și simplu... am rămas blocată.",
+   "ro_m": "Scuze. Pur și simplu... am rămas blocat."
+  },
+  {
+   "key": "1661751726453870592",
+   "en": "You're there to meet Hajime Taki – military tech department rep. Papers are for the Flathead.",
+   "ro": "Ești acolo să-l întâlnești pe Hajime Taki – reprezentantul departamentului de tech militar. Actele sunt pentru Flathead."
+  },
+  {
+   "key": "1661776630234533888",
+   "en": "New Barcelona? Really?",
+   "ro": "New Barcelona? Serios?"
+  },
+  {
+   "key": "1661780865743376384",
+   "en": "It's called improvisin' – you should try it.",
+   "ro": "Se cheamă improvizație – ar trebui să încerci și tu."
+  },
+  {
+   "key": "1673436984802856964",
+   "en": "Not bad.",
+   "ro": "Nu-i rău."
+  },
+  {
+   "key": "1673437062632361984",
+   "en": "We nail the part or what? Heheheh. How do I look?",
+   "ro": "Am jucat bine rolul sau ce? Heheheh. Cum arăt?"
+  },
+  {
+   "key": "1673437169369010176",
+   "en": "Can't believe I'm sayin' this, but... not bad at all.",
+   "ro": "Nu-mi vine să cred că zic asta, dar... nu arată rău deloc."
+  },
+  {
+   "key": "1673437230454853632",
+   "en": "Like somebody put clothes on a dog.",
+   "ro": "Parcă a îmbrăcat cineva un câine."
+  },
+  {
+   "key": "1673437334641364992",
+   "en": "Like a solo cosplaying a suit.",
+   "ro": "Ca un solo deghizat în tip la costum."
+  },
+  {
+   "key": "1673441381087760384",
+   "en": "Yeah, I look good in everything.",
+   "ro": "Da, arăt bine în orice."
+  },
+  {
+   "key": "1673441825230999552",
+   "en": "Oh, yeah, 'cause you look so much better.",
+   "ro": "Oh, da, pentru că tu arăți mult mai bine."
+  },
+  {
+   "key": "1677620275231641600",
+   "en": "I just feel weird…",
+   "ro": "Doar că mă simt ciudat…"
+  },
+  {
+   "key": "1677623386734120960",
+   "en": "You can kick the rat outta the corp, but you'll never kick the corp outta the rat.",
+   "ro": "Poți scoate șobolanul din corporație, dar nu vei scoate niciodată corporația din șobolan."
+  },
+  {
+   "key": "1689436367934451712",
+   "en": "Other gate, please.",
+   "ro": "Cealaltă poartă, vă rog."
+  },
+  {
+   "key": "1711240145806438400",
+   "en": "Have I asked you to do that?",
+   "ro": "Ți-am cerut eu să faci asta?"
+  },
+  {
+   "key": "1711240912726536192",
+   "en": "Have I asked you to do that?",
+   "ro": "Ți-am cerut eu să faci asta?"
+  },
+  {
+   "key": "1711244395945013248",
+   "en": "Um, no... I just thought that since...",
+   "ro": "Ăă, nu... doar că m-am gândit că fiindcă..."
+  },
+  {
+   "key": "1711244993465561088",
+   "en": "Who asked you to think?",
+   "ro": "Cine te-a rugat să gândești?"
+  },
+  {
+   "key": "1711245840547196928",
+   "en": "Excuse me?",
+   "ro": "Poftim?"
+  },
+  {
+   "key": "1712779485304991744",
+   "en": "Welcome to Konpeki Plaza.",
+   "ro": "Bun venit la Konpeki Plaza."
+  },
+  {
+   "key": "1714207462123253760",
+   "en": "Welcome to Konpeki Plaza.",
+   "ro": "Bun venit la Konpeki Plaza."
+  },
+  {
+   "key": "1714210353139560448",
+   "en": "Or a couple of stools at the bar, if you prefer?",
+   "ro": "Sau câteva scaune la bar, dacă preferați?"
+  },
+  {
+   "key": "1725480866495123456",
+   "en": "Don't worry, got this.",
+   "ro": "Nu-ți face griji, mă ocup."
+  },
+  {
+   "key": "1725480943770980352",
+   "en": "No sweat.",
+   "ro": "Nicio grijă."
+  },
+  {
+   "key": "1725540639689199616",
+   "en": "I know damn well it wasn't me. Who was it?",
+   "ro": "Știu al naibii de bine că nu am fost eu. Cine a fost?"
+  },
+  {
+   "key": "1725541959888326656",
+   "en": "A word of advice, if I may. Do only what you're told to do.",
+   "ro": "Un sfat, dacă îmi permiteți. Faceți doar ce vi se spune."
+  },
+  {
+   "key": "1725544998997118976",
+   "en": "Now, what was that room number?",
+   "ro": "Deci, care era numărul camerei?"
+  },
+  {
+   "key": "1756320354372734976",
+   "en": "We don't do reservations weekdays, so feel free to grab any available table.",
+   "ro": "Nu facem rezervări în timpul săptămânii, așa că puteți lua orice masă liberă."
+  },
+  {
+   "key": "1771994452703571968",
+   "en": "Ah! You are here to see Taki-san, am I right?",
+   "ro": "Sunteți aici să-l vedeți pe Taki-san, nu?"
+  },
+  {
+   "key": "1772053325800009728",
+   "en": "<mothertongue l=\"jpn\" m=\"Youkoso.\" b=\"\" a=\" Greetings and welcome to Konpeki Plaza.\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"Youkoso.\" b=\"\" a=\" Salutări și bun venit la Konpeki Plaza.\"/>"
+  },
+  {
+   "key": "1785054331002474496",
+   "en": "Please accept my apologies for the confusion.",
+   "ro": "Vă rog să mă scuzați pentru confuzie."
+  },
+  {
+   "key": "1785060877992251392",
+   "en": "Didn't come on too strong?",
+   "ro": "N-am fost prea agresiv?"
+  },
+  {
+   "key": "1785202272895905792",
+   "en": "Whaddaya think, \"Hannah\"?",
+   "en_m": "Whaddaya think, \"Harry\"?",
+   "ro": "Ce zici, „Hannah”?",
+   "ro_m": "Ce zici, „Harry”?"
+  },
+  {
+   "key": "1785204494501294080",
+   "en": "Don't need that, Jack. Enough.",
+   "ro": "Nu mai trebuie, Jack. Ajunge."
+  },
+  {
+   "key": "1785207824325685248",
+   "en": "Bar don't look too shabby.",
+   "ro": "Barul nu arată rău deloc."
+  },
+  {
+   "key": "1785211297393946624",
+   "en": "Sheeit, look like some fuckin' travelin' salesman with this case.",
+   "ro": "Sheeit, arăt ca un nenorocit de comis voiajor cu geanta asta."
+  },
+  {
+   "key": "1785216124198989824",
+   "en": "Already? That was fast. Not your style?",
+   "ro": "Deja? A fost repede. Nu e stilul tău?"
+  },
+  {
+   "key": "1789937192904945668",
+   "en": "We're arms dealers.",
+   "ro": "Suntem traficanți de arme."
+  },
+  {
+   "key": "1789939079737765888",
+   "en": "We're arms dealers.",
+   "ro": "Suntem traficanți de arme."
+  },
+  {
+   "key": "1789939668316057600",
+   "en": "Excuse me?",
+   "ro": "Poftim?"
+  },
+  {
+   "key": "1790835882881503232",
+   "en": "I don't intend to explain myself.",
+   "ro": "Nu am de gând să mă explic."
+  },
+  {
+   "key": "1790836806635016192",
+   "en": "I don't intend to explain myself, to you or anyone else.",
+   "ro": "Nu am de gând să mă explic, nici ție, nici nimănui."
+  },
+  {
+   "key": "1790837470660448256",
+   "en": "Actually, we have rules, see, and they say you have to.",
+   "ro": "De fapt, avem reguli, vezi tu, și ele spun că trebuie."
+  },
+  {
+   "key": "1790882350032015360",
+   "en": "Could bring Misty here one day. When we, uh... close this deal.",
+   "ro": "Am putea s-o aducem pe Misty aici într-o zi. Când, ăă... încheiem treaba asta."
+  },
+  {
+   "key": "1790917708467720192",
+   "en": "Goin' upstairs.",
+   "ro": "Urc sus."
+  },
+  {
+   "key": "1867942095602053124",
+   "en": "[Place hand]",
+   "ro": "[Pune mâna]"
+  },
+  {
+   "key": "1867943081817141248",
+   "en": "Everything seems to be in order. We wish you a pleasant stay.",
+   "ro": "Totul pare în regulă. Vă dorim o ședere plăcută."
+  },
+  {
+   "key": "1902663343964737536",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1902663716486041600",
+   "en": "Honor's all yours, Hannah.",
+   "en_m": "Honor's all yours, Harry.",
+   "ro": "Onoarea e a ta, Hannah.",
+   "ro_m": "Onoarea e a ta, Harry."
+  },
+  {
+   "key": "1934254376646365184",
+   "en": "Apologies, but only hotel staff are authorized to be here.",
+   "ro": "Scuze, dar aici are acces doar personalul hotelului."
+  },
+  {
+   "key": "1934361222363238400",
+   "en": "About time.",
+   "ro": "Era și timpul."
+  },
+  {
+   "key": "1934424656631058432",
+   "en": "Welp, here we are. Lapis Lazuli.",
+   "ro": "Păi, am ajuns. Lapis Lazuli."
+  },
+  {
+   "key": "1967553783536623616",
+   "en": "Better get goin'.",
+   "ro": "Mai bine plecăm."
+  },
+  {
+   "key": "1983646104539701248",
+   "en": "Like to stop by our room first.",
+   "ro": "Ne-ar prinde bine să trecem întâi pe la cameră."
+  },
+  {
+   "key": "1983681542298083328",
+   "en": "Hmm?",
+   "ro": "Hmm?"
+  },
+  {
+   "key": "1983681780903649280",
+   "en": "Quaint, cozy. Not like the hotel we had in Zurich for that convention.",
+   "ro": "Drăguț, cochet. Nu ca hotelul din Zurich de la convenția aia."
+  },
+  {
+   "key": "1983703276896198656",
+   "en": "Suited up again? Right.",
+   "ro": "Iar te-ai echipat? Bine."
+  },
+  {
+   "key": "1987927328410116096",
+   "en": "We'll go freshen up first, notify him ourselves.",
+   "ro": "Ne prospătăm întâi, după aia îl anunțăm noi."
+  },
+  {
+   "key": "1987936720899612672",
+   "en": "But Taki-san is expecting you, no…?",
+   "ro": "Dar Taki-san te așteaptă, nu?"
+  },
+  {
+   "key": "1987952445127204864",
+   "en": "Trust me – places like this, you're either strong or you're nobody.",
+   "ro": "Crede-mă – în locuri din astea, ori ești puternică, ori nu ești nimeni.",
+   "ro_m": "Crede-mă – în locuri din astea, ori ești puternic, ori nu ești nimeni."
+  },
+  {
+   "key": "1989691410058387456",
+   "en": "What? I'm takin' this seriously!",
+   "ro": "Ce? Iau treaba asta în serios!"
+  },
+  {
+   "key": "1995491546781069316",
+   "en": "Gonna have a look around.",
+   "ro": "Mă uit puțin în jur."
+  },
+  {
+   "key": "1995491857813876736",
+   "en": "Wouldn't hurt to take a peek inside…",
+   "ro": "N-ar strica să aruncăm o privire înăuntru…"
+  },
+  {
+   "key": "1995492648758947840",
+   "en": "Room – let's go.",
+   "ro": "Camera – hai să mergem."
+  },
+  {
+   "key": "1995493594289287168",
+   "en": "You will, I'm sure. Now let's go check out our digs.",
+   "ro": "O să o faci, sunt sigur. Acum hai să vedem cazarea."
+  },
+  {
+   "key": "2433612114325393408",
+   "en": "Pff...",
+   "ro": "Pff..."
+  }
+ ]
+}

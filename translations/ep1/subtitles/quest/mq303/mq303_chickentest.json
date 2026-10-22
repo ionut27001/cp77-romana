@@ -1,0 +1,211 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq303\\mq303_chickentest.json",
+ "entries": [
+  {
+   "key": "3231929414214193152",
+   "en": "[db_db]Select where to start",
+   "ro": "[db_db]Selectează de unde să începi"
+  },
+  {
+   "key": "3231929414214193164",
+   "en": "[db_db]Choose debug options",
+   "ro": "[db_db]Alege opțiunile de debug"
+  },
+  {
+   "key": "3231929414650400768",
+   "en": "[db_db]Corpo Path",
+   "ro": "[db_db]Calea corpo"
+  },
+  {
+   "key": "3231929414667177984",
+   "en": "[db_db]Nomad Path",
+   "ro": "[db_db]Calea nomad"
+  },
+  {
+   "key": "3231929414667177996",
+   "en": "[db_db]Streetkid Path",
+   "ro": "[db_db]Calea Street Kid"
+  },
+  {
+   "key": "3231929414818172928",
+   "en": "[db_db]MaxSkillAllWeapons",
+   "ro": "[db_db]MaxSkillAllWeapons"
+  },
+  {
+   "key": "3231929414818172940",
+   "en": "[db_db]Netrunner",
+   "ro": "[db_db]Netrunner"
+  },
+  {
+   "key": "3231929414818172952",
+   "en": "[db_db]Solo",
+   "ro": "[db_db]Solo"
+  },
+  {
+   "key": "3231929414818172964",
+   "en": "[db_db]Techie",
+   "ro": "[db_db]Tehnician"
+  },
+  {
+   "key": "3231929414818172976",
+   "en": "[db_db]None",
+   "ro": "[db_db]Niciunul"
+  },
+  {
+   "key": "3231929414918836224",
+   "en": "[db_db]Start from beginning",
+   "ro": "[db_db]Începe de la capăt"
+  },
+  {
+   "key": "3231929414918836236",
+   "en": "[db_db]Lina's Mansion",
+   "ro": "[db_db]Conacul lui Lina"
+  },
+  {
+   "key": "3231929414918836248",
+   "en": "[db_db]Finale",
+   "ro": "[db_db]Final"
+  },
+  {
+   "key": "3444918784908517376",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3444919861133369344",
+   "en": "[db_db]NOPE",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3534690046848983052",
+   "en": "[db_db]SQ030 - V's dating Judy",
+   "ro": "[db_db]SQ030 - V are o relație cu Judy"
+  },
+  {
+   "key": "3534690049466228744",
+   "en": "[db_db]SQ030 - V broke up with Judy",
+   "ro": "[db_db]SQ030 - V s-a despărțit de Judy"
+  },
+  {
+   "key": "3534691028467113984",
+   "en": "[db_db]V's friendly with Judy",
+   "ro": "[db_db]V e prietenosă cu Judy",
+   "ro_m": "[db_db]V e prietenos cu Judy"
+  },
+  {
+   "key": "3534694150623125516",
+   "en": "[db_db]MQ006 - V fixed the rollercoaster",
+   "ro": "[db_db]MQ006 - V a reparat rollercoaster-ul"
+  },
+  {
+   "key": "3534694153290702856",
+   "en": "[db_db]V didn't fix the rollercoaster",
+   "ro": "[db_db]V n-a reparat rollercoaster-ul"
+  },
+  {
+   "key": "3534696066849628172",
+   "en": "[db_db]V visited the Jinguji store.",
+   "ro": "[db_db]V a vizitat magazinul Jinguji"
+  },
+  {
+   "key": "3534696069601091592",
+   "en": "[db_db]V hasn't been to the Jinguji store.",
+   "ro": "[db_db]V n-a fost la magazinul Jinguji"
+  },
+  {
+   "key": "3534853697316773892",
+   "en": "[db_db]MQ036 (Stefan) - done",
+   "ro": "[db_db]MQ036 (Stefan) - finalizat"
+  },
+  {
+   "key": "3534854476417130496",
+   "en": "[db_db]MQ036 (Stefan) - not done",
+   "ro": "[db_db]MQ036 (Stefan) - nefinalizat"
+  },
+  {
+   "key": "3534855112391057412",
+   "en": "[db_db]SQ023 - Passion was a hit",
+   "ro": "[db_db]SQ023 - Passion a fost un hit"
+  },
+  {
+   "key": "3534855466507755520",
+   "en": "[db_db]SQ023 - Passion was a flop",
+   "ro": "[db_db]SQ023 - Passion a fost un eșec"
+  },
+  {
+   "key": "3534855715934625792",
+   "en": "[db_db]Didn't finish SQ023",
+   "ro": "[db_db]N-a terminat SQ023"
+  },
+  {
+   "key": "3534856546524258316",
+   "en": "[db_db]SQ023 - V nailed Joshua to the cross",
+   "ro": "[db_db]SQ023 - V l-a răstignit pe Joshua"
+  },
+  {
+   "key": "3534856550466904072",
+   "en": "[db_db]V did not nail Joshua",
+   "ro": "[db_db]V nu l-a răstignit pe Joshua"
+  },
+  {
+   "key": "3534857752504098820",
+   "en": "[db_db]SQ017 - V has a picture with Kerry and Us Cracks",
+   "ro": "[db_db]SQ017 - V are o poză cu Kerry și Us Cracks"
+  },
+  {
+   "key": "3534858447416385536",
+   "en": "[db_db]V doesn't have any pictures with Kerry",
+   "ro": "[db_db]V nu are nicio poză cu Kerry"
+  },
+  {
+   "key": "3641006184356044800",
+   "en": "[db_db]Post content testing - message threads",
+   "ro": "[db_db]Testare conținut post - fire de mesaje"
+  },
+  {
+   "key": "3641008277733171200",
+   "en": "[db_db]Tool - FIA clone",
+   "ro": "[db_db]Tool - clonă FIA"
+  },
+  {
+   "key": "3641008468154572800",
+   "en": "[db_db]Tool cured",
+   "ro": "[db_db]Tool vindecat"
+  },
+  {
+   "key": "3641008495199444992",
+   "en": "[db_db]Lina & Toolina",
+   "ro": "[db_db]Lina & Toolina"
+  },
+  {
+   "key": "3646856612343898112",
+   "en": "[db_db]other options (for testing)",
+   "ro": "[db_db]Alte opțiuni (pentru testare)"
+  },
+  {
+   "key": "3646857155690815496",
+   "en": "[db_db]epilogue \"FIA clone\" - Tool run away",
+   "ro": "[db_db]epilog \"clonă FIA\" - Tool a fugit"
+  },
+  {
+   "key": "3646857181880049672",
+   "en": "[db_db]epilogue \"shock therapy\" - Tool woke up",
+   "ro": "[db_db]epilog \"terapie prin șoc\" - Tool s-a trezit"
+  },
+  {
+   "key": "3646857208908144648",
+   "en": "[db_db]epilogue \"twins\" - Lina and TooLina become costars",
+   "ro": "[db_db]epilog \"gemeni\" - Lina și TooLina devin co-staruri"
+  },
+  {
+   "key": "3646857262108696584",
+   "en": "[db_db]Finale upstairs - for testing",
+   "ro": "[db_db]Finalul de la etaj - pentru testare"
+  },
+  {
+   "key": "3940740723959848960",
+   "en": "[db_db]Post content - Meeting Lina&TooLina",
+   "ro": "[db_db]Conținut post - Întâlnirea cu Lina&TooLina"
+  }
+ ]
+}

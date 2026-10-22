@@ -1,0 +1,501 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq023\\sq023_11_01a_after_chase.json",
+ "entries": [
+  {
+   "key": "1559111705497067520",
+   "en": "Stop the damn car!",
+   "ro": "Oprește mașina aia nenorocită!"
+  },
+  {
+   "key": "1560251716485406720",
+   "en": "No! Stop! Stop the killing!",
+   "ro": "Nu! Oprește! Oprește măcelul!"
+  },
+  {
+   "key": "1560264606554677248",
+   "en": "It's not their fault! Shoot the girl and our deal is dead!",
+   "en_m": "It's not their fault! Shoot the guy and our deal is dead!",
+   "ro": "Nu e vina lor! Împușcă-o pe fată și afacerea noastră e moartă!",
+   "ro_m": "Nu e vina lor! Împușcă-l pe băiat și afacerea noastră e moartă!"
+  },
+  {
+   "key": "1560285676439494656",
+   "en": "Come with us. You'll find out all you need to know on the way.",
+   "ro": "Vino cu noi. O să afli tot ce trebuie pe drum."
+  },
+  {
+   "key": "1560286823581638656",
+   "en": "Noted. But you don't have a vote here.",
+   "ro": "Notat. Dar aici nu ai vot."
+  },
+  {
+   "key": "1560288335946997760",
+   "en": "Hah! That's it. Got no fuckin' idea what this is about, but if you don't go with them I'm never talking to you again.",
+   "ro": "Ha! Asta e. Habar n-am despre ce dracu' e vorba, dar dacă nu mergi cu ei, nu-ți mai vorbesc niciodată."
+  },
+  {
+   "key": "1563169581303750656",
+   "en": "Finally! Somethin' that isn't a complete snorefest. Could binge-watch this all day if I had some popcorn…",
+   "ro": "În sfârșit! Ceva care nu e un somnifer total. Aș sta toată ziua la asta dacă aș avea popcorn…"
+  },
+  {
+   "key": "1563172895642771456",
+   "en": "Well, this one time Rachel is right – we can't stay here.",
+   "ro": "Păi, de data asta Rachel are dreptate – nu putem sta aici."
+  },
+  {
+   "key": "1755039294645886976",
+   "en": "They're here to kill you!",
+   "ro": "Au venit să te omoare!"
+  },
+  {
+   "key": "1755041991331700736",
+   "en": "We take her with us.",
+   "en_m": "We take him with us.",
+   "ro": "O luăm cu noi.",
+   "ro_m": "Îl luăm cu noi."
+  },
+  {
+   "key": "1755045418463944704",
+   "en": "Ah, no thanks. Just be on my way, now.",
+   "en_m": "No thanks. Just be on my way, now.",
+   "ro": "Nu, mulțumesc. Îmi văd de drum acum."
+  },
+  {
+   "key": "1755045722852974592",
+   "en": "Ugh, wastin' time here!",
+   "ro": "Pff, pierdem timpul aici!"
+  },
+  {
+   "key": "1755045913458925568",
+   "en": "Please? I need you. Really.",
+   "ro": "Te rog? Am nevoie de tine. Chiar am."
+  },
+  {
+   "key": "1755048913460027392",
+   "en": "Answer's no.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1755049082003939328",
+   "en": "Why do you need me? Why so badly?",
+   "ro": "De ce mă vrei? Și de ce atât de tare?"
+  },
+  {
+   "key": "1755050212234649600",
+   "en": "Now can we go?",
+   "ro": "Acum putem pleca?"
+  },
+  {
+   "key": "1755052034408079360",
+   "en": "Want me to come... to come with you?",
+   "en_m": "You wa-- you want me to come with you?",
+   "ro": "Vrei să vin... să vin cu tine?",
+   "ro_m": "Tu vr-- vrei să vin cu tine?"
+  },
+  {
+   "key": "1755052977908375552",
+   "en": "Heh, I need you.",
+   "ro": "Heh, am nevoie de tine."
+  },
+  {
+   "key": "1755053834771128320",
+   "en": "Nobody and I mean nobody, will harm a hair on your head. I'm just uh, heh... borrowing you.",
+   "ro": "Nimeni, și zic nimeni, nu-ți cade un fir de păr din cap. Doar că, ăă, heh... te împrumut."
+  },
+  {
+   "key": "1755055933751844864",
+   "en": "What the hell is this?",
+   "ro": "Ce naiba e asta?"
+  },
+  {
+   "key": "1755087536876183552",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1755087879114612736",
+   "en": "Josh Stephenson. But you probably knew that already…",
+   "ro": "Josh Stephenson. Dar probabil știai deja…"
+  },
+  {
+   "key": "1755089781483134976",
+   "en": "Your... associate – what was his name?",
+   "ro": "Asociatul tău... cum îl cheamă?"
+  },
+  {
+   "key": "1755096294062841856",
+   "en": "It's OK. You don't need to tell me. My name is Joshua Stephenson.",
+   "ro": "E OK. Nu trebuie să-mi spui. Mă numesc Joshua Stephenson."
+  },
+  {
+   "key": "1755097256101961728",
+   "en": "Aaaand your... associate – what was his name?",
+   "ro": "Șiiii asociatul tău... cum îl cheamă?"
+  },
+  {
+   "key": "1755101055252193280",
+   "en": "Bill Jablonsky. Ring a bell?",
+   "ro": "Bill Jablonsky. Îți sună cunoscut?"
+  },
+  {
+   "key": "1755101818967842816",
+   "en": "Sadly, yes.",
+   "ro": "Din păcate, da."
+  },
+  {
+   "key": "1755101954242535424",
+   "en": "\"Teach us to number our days, that we may gain a heart of wisdom!\"",
+   "ro": "„Învață-ne să ne numărăm zilele, ca să căpătăm o inimă înțeleaptă!”"
+  },
+  {
+   "key": "1755102971864571904",
+   "en": "Already ID'd him. Bill Jablonsky.",
+   "ro": "L-am identificat deja. Bill Jablonsky."
+  },
+  {
+   "key": "1755105826189107200",
+   "en": "Wait a sec, you're V? Eh, I heard o' you!",
+   "ro": "Stai puțin, tu ești V? Păi, am auzit de tine!"
+  },
+  {
+   "key": "1755106202200072192",
+   "en": "Well I want to give her a job.",
+   "en_m": "Well I want to give him a job.",
+   "ro": "Păi, vreau să-i dau un job."
+  },
+  {
+   "key": "1755106404382302208",
+   "en": "Agh! Christ on a stick…",
+   "ro": "Agh! Doamne, ce naiba…"
+  },
+  {
+   "key": "1772116061515124736",
+   "en": "Gotta object, strongly.",
+   "ro": "Trebuie să obiectez, și serios."
+  },
+  {
+   "key": "1785261803226238976",
+   "en": "Fuck! Brake, I said! Brake!",
+   "ro": "Futu-i! Frână, am zis! Frână!"
+  },
+  {
+   "key": "1785275500145381376",
+   "en": "Stay close, I'm going to blow the motherfucker to bits myself!",
+   "ro": "Stai aproape, îl fac eu praf pe nenorocitul ăla!"
+  },
+  {
+   "key": "1790938824107331584",
+   "en": "This is it, let's go!",
+   "ro": "Asta e, hai să mergem!"
+  },
+  {
+   "key": "1801135282559356928",
+   "en": "First, gonna tell me what the hell's going on.",
+   "en_m": "First you're gonna tell me what the hell is going on.",
+   "ro": "Mai întâi, o să-mi spui ce naiba se întâmplă."
+  },
+  {
+   "key": "1802552528787705856",
+   "en": "The fuck are you doing? Stop!",
+   "ro": "Ce pula mea faci? Oprește!"
+  },
+  {
+   "key": "1802555133047836672",
+   "en": "NCPD! Stay where you are! And get that goddamn semi outta here!",
+   "ro": "NCPD! Stai pe loc! Și scoate naiba semiremorca aia de-aici!"
+  },
+  {
+   "key": "1802612284567031808",
+   "en": "Right, let's just all shoot holes in each other.",
+   "ro": "Bine, hai să ne facem sită unii pe alții."
+  },
+  {
+   "key": "1802613003755950080",
+   "en": "For crying out loud, fuck! We can't leave her here! Media vultures'll be here any minute!",
+   "en_m": "For crying out loud, fuck! We can't leave him here! Media vultures'll be here any minute!",
+   "ro": "Doamne, futu-i! Nu o putem lăsa aici! Vulturii de la presă o să fie aici în orice clipă!",
+   "ro_m": "Doamne, futu-i! Nu-l putem lăsa aici! Vulturii de la presă o să fie aici în orice clipă!"
+  },
+  {
+   "key": "1802618336310169600",
+   "en": "Gregor? Busted an attempted hit on my guy…",
+   "ro": "Gregor? Am stricat un atentat la omul meu…"
+  },
+  {
+   "key": "1804412503094484992",
+   "en": "Vasquez! Shoot!",
+   "ro": "Vasquez! Trage!"
+  },
+  {
+   "key": "1804425734043230208",
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "key": "1804426452644945920",
+   "en": "You're outta your fuckin' mind!",
+   "ro": "Ești ieșit din minți, pula mea!"
+  },
+  {
+   "key": "1804427281019985920",
+   "en": "Hey, another word from you and I'm callin' the studio. Don't make me ruin your career.",
+   "ro": "Hei, mai scoți un cuvânt și sun la studio. Nu mă face să-ți distrug cariera."
+  },
+  {
+   "key": "1804441986451136512",
+   "en": "Hhmm... What's your name?",
+   "ro": "Hm... Cum te cheamă?"
+  },
+  {
+   "key": "1804474842179198976",
+   "en": "We can't take her, out of the question. She's way too big a threat.",
+   "en_m": "We can't take him, out of the question. He's way too big a threat.",
+   "ro": "Nici vorbă s-o luăm. E o amenințare prea mare.",
+   "ro_m": "Nici vorbă să-l luăm. E o amenințare prea mare."
+  },
+  {
+   "key": "1804477268030414848",
+   "en": "Screw this, I'm out.",
+   "ro": "Dă-o naibii, mă car."
+  },
+  {
+   "key": "1804477986900566016",
+   "en": "Aahh... such a shame.",
+   "ro": "Aah... păcat."
+  },
+  {
+   "key": "1804478108736708608",
+   "en": "It's OK – go. Nobody's going to stop you.",
+   "ro": "E în regulă – du-te. Nimeni nu te oprește."
+  },
+  {
+   "key": "1804479647425519616",
+   "en": "Gonna tell me what it is you want from me?",
+   "ro": "Îmi spui ce vrei de la mine?"
+  },
+  {
+   "key": "1804480122556276736",
+   "en": "Can't say the same about you.",
+   "ro": "Nu pot zice același lucru despre tine."
+  },
+  {
+   "key": "1804487988772102144",
+   "en": "All right. I'll go with you.",
+   "ro": "Bine. Vin cu tine."
+  },
+  {
+   "key": "1804489174870941696",
+   "en": "I'm not goin' anywhere.",
+   "ro": "Nu mă duc nicăieri."
+  },
+  {
+   "key": "1804491309335470080",
+   "en": "Ugh, move it. We're running late.",
+   "ro": "Ugh, mișcă-te. Întârziem."
+  },
+  {
+   "key": "1804505357384966144",
+   "en": "Yeah. One cazh.",
+   "ro": "Da. Un cazh."
+  },
+  {
+   "key": "1812994947364184064",
+   "en": "Loo-- I can explain, just... don't go! I... I need you.",
+   "ro": "Loo-- pot să explic, doar... nu pleca! Am nevoie de tine."
+  },
+  {
+   "key": "1827265802063601664",
+   "en": "You're insane if you think I'm getting in that car.",
+   "ro": "Ești nebun dacă crezi că mă urc în mașina aia."
+  },
+  {
+   "key": "1827266797254500352",
+   "en": "Haha, I just, ah... I, um... I really need you, please…",
+   "ro": "Haha, doar că, ah... eu, ăă... chiar am nevoie de tine, te rog…"
+  },
+  {
+   "key": "1827266955933409280",
+   "en": "Ugh, ditch the bitch. We gotta go.",
+   "en_m": "Ugh, ditch the dick. We gotta go.",
+   "ro": "Ugh, scapă de curva aia. Trebuie să plecăm.",
+   "ro_m": "Ugh, scapă de boul ăla. Trebuie să plecăm."
+  },
+  {
+   "key": "1827267238830825472",
+   "en": "No. She's coming with us. She has to.",
+   "en_m": "No. He's coming with us. He has to.",
+   "ro": "Nu. Vine cu noi. Trebuie."
+  },
+  {
+   "key": "1827277033335971840",
+   "en": "Aughh... Such a shame...",
+   "ro": "Aughh... Păcat..."
+  },
+  {
+   "key": "1902535604594249728",
+   "en": "Lieutenant Vasquez, NCPD! Stop right there!",
+   "ro": "Locotenent Vasquez, NCPD! Stai pe loc!"
+  },
+  {
+   "key": "1902545920149393408",
+   "en": "You're protecting a murderer!",
+   "ro": "Protejezi un criminal!"
+  },
+  {
+   "key": "1902566478379454468",
+   "en": "Wait!",
+   "ro": "Stai!"
+  },
+  {
+   "key": "1938886351573192704",
+   "en": "Drop it, or I shoot!",
+   "ro": "Lasă arma jos, sau trag!"
+  },
+  {
+   "key": "1959291298781028352",
+   "en": "Want me to come... with you?",
+   "ro": "Vrei să vin... cu tine?"
+  },
+  {
+   "key": "1959291298781028368",
+   "en": "I'm not going anywhere.",
+   "ro": "Nu mă duc nicăieri."
+  },
+  {
+   "key": "1959291298864914432",
+   "en": "What the hell you want from me?",
+   "ro": "Ce naiba vrei de la mine?"
+  },
+  {
+   "key": "1959291298864914448",
+   "en": "Screw this, I'm out.",
+   "ro": "Dă-o naibii, mă car."
+  },
+  {
+   "key": "1959291299083018240",
+   "en": "Why me?",
+   "ro": "De ce eu?"
+  },
+  {
+   "key": "1959291299083018256",
+   "en": "Not about to go anywhere with you.",
+   "ro": "Nu mă duc nicăieri cu tine."
+  },
+  {
+   "key": "1959291299200458752",
+   "en": "Got no idea what's going on here.",
+   "ro": "N-am nicio idee ce se întâmplă aici."
+  },
+  {
+   "key": "1959291299200458768",
+   "en": "You're insane.",
+   "ro": "Ești nebun."
+  },
+  {
+   "key": "1959291299200458784",
+   "en": "No thanks, I'm outta here.",
+   "ro": "Nu, mersi, ies de-aici."
+  },
+  {
+   "key": "1959291299284344832",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1959291299284344864",
+   "en": "What's this about, tell me.",
+   "ro": "Despre ce e vorba? Zi-mi."
+  },
+  {
+   "key": "1959291299385008128",
+   "en": "Bill Jablonsky.",
+   "ro": "Bill Jablonsky."
+  },
+  {
+   "key": "1959291300928512000",
+   "en": "[Get in] So be it, I'll go.",
+   "ro": "[Urcă-te] Fie, vin."
+  },
+  {
+   "key": "1960500864785014784",
+   "en": "NCPD! Stop right there!",
+   "ro": "NCPD! Stai pe loc!"
+  },
+  {
+   "key": "1996611625131782144",
+   "en": "You fucking idiot!",
+   "ro": "Idiotule nenorocit!"
+  },
+  {
+   "key": "2086613906903871492",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2218695280691605504",
+   "en": "Bill Jablonsky. No priors, but run a deep sweep just to be sure.",
+   "ro": "Bill Jablonsky. Fără antecedente, dar fă o verificare amănunțită, ca să fim siguri."
+  },
+  {
+   "key": "2218695432105979904",
+   "en": "This… this… what a fuckin' mess…",
+   "ro": "Asta… asta… ce căcat de mizerie…"
+  },
+  {
+   "key": "2218716369232687104",
+   "en": "Told you drop it, dickhead…",
+   "ro": "Ți-am zis să arunci, boule…"
+  },
+  {
+   "key": "2218716736485945344",
+   "en": "Shoulda listened, shoulda fuckin' listened…",
+   "ro": "Trebuia să ascult, pula mea, trebuia să ascult…"
+  },
+  {
+   "key": "2218727630821486592",
+   "en": "We're clear to go. Boys from the precinct'll mop up here.",
+   "ro": "Putem pleca. Băieții din secție fac curat aici."
+  },
+  {
+   "key": "2218728539861381120",
+   "en": "I'm gonna do it... I'm gonna fucking kill him!",
+   "ro": "Gata, o fac... Îl omor, pula mea!"
+  },
+  {
+   "key": "2218738687191379968",
+   "en": "Olga? We've got a situation...",
+   "ro": "Olga? Avem o problemă..."
+  },
+  {
+   "key": "2218740669838880768",
+   "en": "Somebody just tried to drop our star.",
+   "ro": "Cineva tocmai a încercat să ne omoare steaua."
+  },
+  {
+   "key": "2218741137453445120",
+   "en": "That psycho's out hiring professionals! It was only matter of time.",
+   "ro": "Nebunul ăla angajează profesioniști! Mai devreme sau mai târziu trebuia să se întâmple."
+  },
+  {
+   "key": "2218741241606402048",
+   "en": "'Cause he's a fucking nutcase, that's why!",
+   "ro": "Că e un nebun de legat, pula mea, de-aia!"
+  },
+  {
+   "key": "2218741738211995648",
+   "en": "What a cunt!",
+   "ro": "Ce pizdă!"
+  },
+  {
+   "key": "2219983097342291968",
+   "en": "Thanks, I owe you. No patrol car and stay off the frequencies, too. Can't have this comin' back.",
+   "ro": "Mersi, rămân dator. Nicio mașină de patrulă și stai departe și de frecvențe. Asta nu trebuie să ajungă înapoi la noi."
+  },
+  {
+   "key": "2221547689587601408",
+   "en": "Out. Go. Now.",
+   "ro": "Afară. Pleacă. Acum."
+  }
+ ]
+}

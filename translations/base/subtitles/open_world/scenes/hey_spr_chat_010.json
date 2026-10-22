@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_010.json",
+ "entries": [
+  {
+   "key": "1963298421765873664",
+   "en": "<mothertongue l=\"mex\" m=\"bastardo\" b=\"Man, that Julio's a real \" a=\", man.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"bastardo\" b=\"Bă, Julio ăsta e un adevărat \" a=\", bă.\"/>"
+  },
+  {
+   "key": "1966203539990233088",
+   "en": "Maybe Santa Muerte should pay him a visit, hehehe.",
+   "ro": "Poate Santa Muerte ar trebui să-i facă o vizită, hehehe."
+  },
+  {
+   "key": "1966315462878543872",
+   "en": "'Ey! Watch your tongue!",
+   "ro": "Hei! Ai grijă la limbă!"
+  },
+  {
+   "key": "1966315844207886336",
+   "en": "Wha...? The hell, choom?",
+   "ro": "Ce...? Ce dracu', choom?"
+  },
+  {
+   "key": "1966316107006197760",
+   "en": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Did your \" a=\" teach you nothing? Santa Muerte ain't no joke!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Mamá \" a=\" ta nu te-a învățat nimic? Santa Muerte nu e de glumă!\"/>"
+  },
+  {
+   "key": "1966317552313024512",
+   "en": "She hears all, her judgment is final.",
+   "ro": "Ea aude tot. Judecata ei e fără apel."
+  },
+  {
+   "key": "1966317763320070144",
+   "en": "If she hears your call, it's Julio's blood on your hands!",
+   "ro": "Dacă îi auzi chemarea, sângele lui Julio e pe mâinile tale!"
+  }
+ ]
+}

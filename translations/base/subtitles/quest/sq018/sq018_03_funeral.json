@@ -1,0 +1,554 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq018\\sq018_03_funeral.json",
+ "entries": [
+  {
+   "key": "1701015549985595392",
+   "en": "V, it's good you're here.",
+   "ro": "V, bine că ești aici."
+  },
+  {
+   "key": "1701036886678478848",
+   "en": "My deepest condolences – he was a fine boy.",
+   "ro": "Condoleanțe sincere – a fost un băiat de treabă."
+  },
+  {
+   "key": "1701194367459303424",
+   "en": "Among the membership of the Night City Devils boxing club, we had this saying.",
+   "ro": "Printre membrii clubului de box Night City Devils, aveam o vorbă."
+  },
+  {
+   "key": "1701228292315455488",
+   "en": "Then go raise a glass to him, Padre. A few glasses.",
+   "ro": "Atunci du-te și ridică un pahar în cinstea lui, Padre. Câteva pahare."
+  },
+  {
+   "key": "1709616265364938752",
+   "en": "I, uh... I often think back to the first time me and Jack met.",
+   "ro": "Eu, ăă... mă gândesc des la prima dată când ne-am cunoscut eu și Jack."
+  },
+  {
+   "key": "1709617872420904960",
+   "en": "It feels like it happened a century ago. At another time, in another place. Jackie saved my life.",
+   "en_m": "Feels like it happened a century ago. At another time, in another place. Jackie saved my life.",
+   "ro": "Parcă s-a întâmplat acum un secol. Într-un alt timp, într-un alt loc. Jackie mi-a salvat viața."
+  },
+  {
+   "key": "1709618813656276992",
+   "en": "He'd bought some goods klepped from Arasaka. Top secret, priceless... a lizard, heh.",
+   "en_m": "He'd bought some goods klepped from Arasaka. Top secret, priceless... Heheheh, a lizard.",
+   "ro": "Cumpărase niște marfă ciordită de la Arasaka. Ultra secretă, neprețuită... o șopârlă, heh."
+  },
+  {
+   "key": "1709710379691450368",
+   "en": "I thank you all for coming today.",
+   "ro": "Vă mulțumesc tuturor că ați venit azi."
+  },
+  {
+   "key": "1709710379691450376",
+   "en": "Instead, I'll tell you a story.",
+   "ro": "În schimb, o să vă spun o poveste."
+  },
+  {
+   "key": "1725623255585169412",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1725638389305090048",
+   "en": "I'm not going to tell you what kind of man my son was or lament about how much I miss him.",
+   "ro": "Nu o să vă spun ce fel de bărbat a fost fiul meu și nici nu o să jelesc cât de mult îmi lipsește."
+  },
+  {
+   "key": "1725639810939265024",
+   "en": "Make your best friends among the fighters who knock you out cold.",
+   "ro": "Fă-ți cei mai buni prieteni printre luptătorii care te pun la pământ."
+  },
+  {
+   "key": "1725640208240517120",
+   "en": "<kiroshi l=\"mex\" o=\"Me mandó Campo Orta.\" t=\"Campo Orta sent me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Me mandó Campo Orta.\" t=\"Campo Orta m-a trimis.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1741399012064272384",
+   "en": "[Pour drink into fire]",
+   "ro": "[Toarnă băutura în foc]"
+  },
+  {
+   "key": "1742986048802037768",
+   "en": "I'm glad you're here. It was a beautiful ofrenda we gave him.",
+   "ro": "Mă bucur că ești aici. Ce ofrendă frumoasă i-am dat."
+  },
+  {
+   "key": "1856038944331583488",
+   "en": "<kiroshi l=\"mex\" o=\"De acuerdo.\" t=\"Agreed. I'll do just that.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"De acuerdo.\" t=\"De acord. O să fac exact asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856039595723771904",
+   "en": "We're about to start.",
+   "ro": "Ne apucăm acum."
+  },
+  {
+   "key": "1856156412475658240",
+   "en": "When he was about... nineteen years old?",
+   "ro": "Când avea cam... nouăsprezece ani?"
+  },
+  {
+   "key": "1856158365041610752",
+   "en": "Jackie was in the Valentinos. They were at war with Maelstrom back then.",
+   "ro": "Jackie era în gașca Valentinos. Pe atunci erau în război cu gașca Maelstrom."
+  },
+  {
+   "key": "1856158506087665664",
+   "en": "I get a call from the hospital. They tell me he got shot. Three times. Just by the heart.",
+   "ro": "Primesc un telefon de la spital. Zic că a fost împușcat. De trei ori. Chiar lângă inimă."
+  },
+  {
+   "key": "1856158611717017600",
+   "en": "<mothertongue l=\"mex\" m=\"pulpo\" b=\"He was conscious when I get there. So many tubes coming out of him, he look like a... like a \" a=\", like an octopus or something.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pulpo\" b=\"Era conștient când am ajuns acolo. Atâtea tuburi ieșeau din el, arăta ca un... ca un \" a=\", ca o caracatiță sau ceva.\"/>"
+  },
+  {
+   "key": "1856158787005370368",
+   "en": "<mothertongue l=\"mex\" m=\"No te preocupes mamá.\" b=\"He tell me, he said, \\\"\" a=\" Look, I'm bulletproof. Nothing bad'll ever happen to me.\\\" \"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"No te preocupes mamá.\" b=\"Îmi spune, zice, \\\"\" a=\" Uite, sunt invulnerabil. Nu mi se va întâmpla niciodată nimic rău.\\\" \"/>"
+  },
+  {
+   "key": "1856158884732653568",
+   "en": "And when I go, he take off his Valentinos ring. He swear he won't need it anymore.",
+   "ro": "Și când plec, își scoate inelul Valentinos. Jură că nu-i mai trebuie."
+  },
+  {
+   "key": "1856158994120101888",
+   "en": "But he was not scared. He just didn't want me to worry.",
+   "ro": "Dar nu i-a fost frică. Voia doar să nu mă îngrijorez."
+  },
+  {
+   "key": "1856159204825157632",
+   "en": "<kiroshi l=\"mex\" o=\"Hm. Descansa en paz, mi hijo.\" t=\"Hm. Rest in peace, my son.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Hm. Descansa en paz, mi hijo.\" t=\"Hm. Odihnește-te în pace, fiul meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856161373750087680",
+   "en": "And it's true. Jackie's arm was a cannon. No one's ever hit me as hard – heh, I can still almost feel it.",
+   "ro": "Și e adevărat. Brațul lui Jackie era un tun. Nimeni nu m-a lovit vreodată așa de tare – heh, parcă și acum o simt."
+  },
+  {
+   "key": "1856161567308828672",
+   "en": "Twelve rounds, buddy.",
+   "ro": "Douăsprezece reprize, prietene."
+  },
+  {
+   "key": "1856163297492783104",
+   "en": "<kiroshi l=\"mex\" o=\"Lamenta no estar aquí, todavía le quedan cuatro años que cumplir. Me pidió que leyera esto.\" t=\"He's sorry he can't be here – still has four years to serve. He asked me to read this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Lamenta no estar aquí, todavía le quedan cuatro años que cumplir. Me pidió que leyera esto.\" t=\"Îi pare rău că nu poate fi aici – mai are patru ani de ispășit. M-a rugat să citesc asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856163459107704832",
+   "en": "<kiroshi l=\"mex\" o=\"«Recuerdo cuando Jackie se nos unió. Era un niño fuerte».\" t=\"\\\"I remember when Jackie first came to us. He was a tough kid.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"«Recuerdo cuando Jackie se nos unió. Era un niño fuerte».\" t=\"\\\"Îmi amintesc când Jackie a venit prima dată la noi. Era un copil dur.\\\" \" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856163547557187584",
+   "en": "<kiroshi l=\"mex\" o=\"«Cuando decía que iba a hacer algo, cumplía. Tenía honor. Podría haber llegado lejos».\" t=\"\\\"When he said he would do something, he did it. He had honor. He would've made it far.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"«Cuando decía que iba a hacer algo, cumplía. Tenía honor. Podría haber llegado lejos».\" t=\"\\\"Când zicea că o să facă ceva, o făcea. Avea onoare. Ar fi ajuns departe.\\\" \" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856163713181863936",
+   "en": "<kiroshi l=\"mex\" o=\"«Mis condolencias a la familia».\" t=\"\\\"My condolences to the family.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"«Mis condolencias a la familia».\" t=\"\\\"Condoleanțe familiei.\\\" \" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856163837064826880",
+   "en": "<kiroshi l=\"mex\" o=\"«Que descanse en paz».\" t=\"\\\"May he rest in peace.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"«Que descanse en paz».\" t=\"\\\"Să se odihnească în pace.\\\" \" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1856342198181482496",
+   "en": "Jackie Welles.",
+   "ro": "Jackie Welles."
+  },
+  {
+   "key": "1856343144634568704",
+   "en": "[Set down ball] A Heywood kid with ambition...",
+   "ro": "[Pune jos mingea] Un copil din Heywood cu ambiție..."
+  },
+  {
+   "key": "1856343144634568720",
+   "en": "[Set down tequila] He always wanted more out of life...",
+   "ro": "[Pune jos tequila] Întotdeauna a vrut mai mult de la viață..."
+  },
+  {
+   "key": "1856352075163422724",
+   "en": "Rest easy, choom.",
+   "ro": "Odihnește-te în pace, choom."
+  },
+  {
+   "key": "1856384043812966400",
+   "en": "Thank you for your kind words, V.",
+   "ro": "Mulțumesc pentru cuvintele frumoase, V."
+  },
+  {
+   "key": "1856384113891397636",
+   "en": "D'you know what? You're a good woman.",
+   "en_m": "You know what? You're a good man.",
+   "ro": "Știi ceva? Ești o femeie bună.",
+   "ro_m": "Știi ceva? Ești un bărbat bun."
+  },
+  {
+   "key": "1856384414287450116",
+   "en": "[Take keys] Thank you.",
+   "ro": "[Ia cheile] Mulțumesc."
+  },
+  {
+   "key": "1856384516628467712",
+   "en": "You sure?",
+   "ro": "Ești sigură?",
+   "ro_m": "Ești sigur?"
+  },
+  {
+   "key": "1856384596387352580",
+   "en": "Thank you. I'll take such good care of it.",
+   "ro": "Mulțumesc. O să am mare grijă de ea."
+  },
+  {
+   "key": "1856384635746701316",
+   "en": "Uh... you sure?",
+   "en_m": "You... you sure?",
+   "ro": "Ăă... ești sigură?",
+   "ro_m": "Ăă... ești sigur?"
+  },
+  {
+   "key": "1856404934617780224",
+   "en": "And then, years later in Night City, he saved it again. At a time when I thought I'd lost absolutely everything.",
+   "ro": "Și apoi, ani mai târziu, în Night City, a salvat-o din nou. Când credeam că pierdusem absolut tot."
+  },
+  {
+   "key": "1856405046538588160",
+   "en": "I found my own freedom, then. But it would not have happened without him.",
+   "ro": "Atunci mi-am găsit libertatea. Dar nu s-ar fi întâmplat fără el."
+  },
+  {
+   "key": "1856405814951858176",
+   "en": "Half an hour later we were eatin' dinner at Mama Welles'. Turned out to have more in common than we thought – principles.",
+   "en_m": "Half an hour later... well, we're eatin' dinner at Mama Welles'. Turned out to have more in common than we thought – principles.",
+   "ro": "Peste o jumătate de oră stăteam la cină la Mama Welles. Se vede că aveam mai multe în comun decât credeam – principii."
+  },
+  {
+   "key": "1856408139200253952",
+   "en": "And I remember what he said then. That I came from a place where everyone's family, so he must be, too.",
+   "ro": "Și îmi amintesc ce a zis atunci. Că vin dintr-un loc unde toți sunt familie, deci și el trebuie să fie."
+  },
+  {
+   "key": "1857268243663474688",
+   "en": "I would like to say a toast.",
+   "ro": "Aș vrea să zic un toast."
+  },
+  {
+   "key": "1857270968400793600",
+   "en": "<kiroshi l=\"mex\" o=\"Por mi hijo.\" t=\"Here's to my son\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Por mi hijo.\" t=\"Pentru fiul meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1857288359176359936",
+   "en": "Jackie would want you to have this.",
+   "ro": "Jackie ar vrea să ai asta."
+  },
+  {
+   "key": "1857291401774813184",
+   "en": "<kiroshi l=\"mex\" o=\"Cuídate, V.\" t=\"Take care of yourself, V.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Cuídate, V.\" t=\"Ai grijă de tine, V.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1857291779614494720",
+   "en": "Jackie'd kill me if I got so much as a scratch on it.",
+   "ro": "Jackie m-ar omorî dacă i-aș face măcar o zgârietură."
+  },
+  {
+   "key": "1857291857326559232",
+   "en": "So don't get any scratches on it.",
+   "ro": "Deci nu-i face nicio zgârietură."
+  },
+  {
+   "key": "1892238155099983872",
+   "en": "Then some badges showed up. Beat the shit out of both of us – half my fault, half his. We hightailed it out together.",
+   "en_m": "Then some badges showed up. Beat the shit out of us both – it's half my fault, half his. And we hightailed it out together.",
+   "ro": "Ne-au făcut praf pe amândoi – jumătate din vină e a mea, jumătate a lui. Și-am tulit-o împreună."
+  },
+  {
+   "key": "1892238198183874560",
+   "en": "It all started when he put a heater to my head.",
+   "ro": "Totul a început când mi-a pus pistolul la tâmplă."
+  },
+  {
+   "key": "1892239992356130816",
+   "en": "I'd been hired to drive him and some contraband across the border.",
+   "ro": "Fusesem angajată să-l duc pe el și niște contrabandă peste graniță.",
+   "ro_m": "Fusesem angajat să-l duc pe el și niște contrabandă peste graniță."
+  },
+  {
+   "key": "1892438629442965508",
+   "en": "She was very important to him.",
+   "ro": "Era foarte importantă pentru el."
+  },
+  {
+   "key": "1892438716969701376",
+   "en": "Her name is Misty.",
+   "ro": "O cheamă Misty."
+  },
+  {
+   "key": "1892438754332561412",
+   "en": "Let it go, Mama Welles.",
+   "ro": "Las-o baltă, Mama Welles."
+  },
+  {
+   "key": "1892438849962692608",
+   "en": "What...?",
+   "ro": "Ce...?"
+  },
+  {
+   "key": "1892439027532746752",
+   "en": "Let it go, Mama Welles.",
+   "ro": "Las-o baltă, Mama Welles."
+  },
+  {
+   "key": "1892441958294278144",
+   "en": "Excuse me?",
+   "ro": "Poftim?"
+  },
+  {
+   "key": "1892442026611101696",
+   "en": "She's a good woman, and your son loved her.",
+   "ro": "E o femeie bună, și fiul tău a iubit-o."
+  },
+  {
+   "key": "1938725270667063296",
+   "en": "The best friend you could ask for, loyal to a fault.",
+   "en_m": "Best friend you could ask for, loyal to a fault.",
+   "ro": "Cel mai bun prieten pe care ți-l poți dori, loial până la capăt."
+  },
+  {
+   "key": "1938725290984271876",
+   "en": "His friends were everything.",
+   "ro": "Prietenii lui erau totul."
+  },
+  {
+   "key": "1938725478167670784",
+   "en": "He had principles.",
+   "ro": "Avea principii."
+  },
+  {
+   "key": "1938726244114690048",
+   "en": "An honorable man. He placed principles first and stuck hard to 'em.",
+   "ro": "Un om de cuvânt. Punea principiile pe primul loc și ținea la ele cu dinții."
+  },
+  {
+   "key": "1938727557200277504",
+   "en": "Once he set his mind on something, he was ready to die to achieve it.",
+   "en_m": "Once he set his mind to something, he was ready to die to achieve it.",
+   "ro": "Dacă își punea ceva în cap, era în stare să moară ca să-l obțină."
+  },
+  {
+   "key": "1938738185449172996",
+   "en": "He did not fear life.",
+   "ro": "Nu-i era frică de viață."
+  },
+  {
+   "key": "1938738266701230080",
+   "en": "<mothertongue l=\"mex\" m=\"Chica\" b=\"He... He once told me, \\\"\" a=\", the one thing we can't do is be afraid of others.\\\" \"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Bróder\" b=\"He once told me, \\\"\" a=\", the one thing we can't do is be afraid of others.\\\" \"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Chica\" b=\"El... mi-a zis odată, \\\"\" a=\", singurul lucru pe care nu-l putem face e să ne temem de alții.\\\" \"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Bróder\" b=\"Mi-a zis odată, \\\"\" a=\", singurul lucru pe care nu-l putem face e să ne temem de alții.\\\" \"/>"
+  },
+  {
+   "key": "1938739476137177088",
+   "en": "He wasn't who people thought he was.",
+   "ro": "Nu era omul pe care-l credeau ceilalți."
+  },
+  {
+   "key": "1938741214927843328",
+   "en": "Jackie loved life and had no fear. Heart on his sleeve, he... he didn't overthink things, he just went for it.",
+   "en_m": "Jackie loved life and had no fear. Heart on his sleeve, he didn't overthink things. He just went for it.",
+   "ro": "Jackie iubea viața și nu se temea de nimic. Cu inima pe mânecă, nu stătea să se gândească, se arunca direct."
+  },
+  {
+   "key": "1938741228836155392",
+   "en": "Everyone saw Jackie as a grinning charmer who saw the good in everyone, everything.",
+   "ro": "Lumea îl vedea pe Jackie ca pe un șmecher zâmbăreț, care vedea ce e bun în toți și în toate."
+  },
+  {
+   "key": "1938741526161977344",
+   "en": "Thought he was bulletproof and that he'd become legend at the Afterlife.",
+   "en_m": "Thought he was bulletproof and... and that he'd become legend at the Afterlife.",
+   "ro": "Credea că e de neatins și că o să devină legendă la Afterlife."
+  },
+  {
+   "key": "1938741913866661888",
+   "en": "And ultimately, he did what he set out to do – shit in the shoes of some powerful people.",
+   "ro": "Și, până la urmă, a făcut ce-și propusese – le-a băgat rahatul în pantofi unor oameni puternici."
+  },
+  {
+   "key": "1938742316402405376",
+   "en": "If he's watching, bet just about now he's flippin' 'em all the bird.",
+   "en_m": "And if he's watching, I bet just about now he's flippin' 'em all the bird.",
+   "ro": "Dacă ne privește, pariez că acum le arată tuturor degetul mijlociu."
+  },
+  {
+   "key": "1938743697335054336",
+   "en": "They were wrong. Jackie Welles was a helluvan ambitious choom who never gave up, and whose drive cost him his life.",
+   "en_m": "But they were wrong. Jackie Welles was a helluvan ambitious choom who never gave up, and whose drive cost him his life.",
+   "ro": "S-au înșelat. Jackie Welles a fost un choom al naibii de ambițios, care n-a renunțat niciodată, și a cărui ambiție l-a costat viața."
+  },
+  {
+   "key": "1938745003156107264",
+   "en": "But he did in life what he said he'd do – reached for fortune and fame, no fear in his eyes or heart.",
+   "en_m": "But he did in life what he said he'd do – reached for fortune and fame, no fear in eyes or heart.",
+   "ro": "Dar în viață a făcut ce zicea – a țintit averea și faima, fără frică în ochi sau în inimă."
+  },
+  {
+   "key": "1938881424185552896",
+   "en": "<mothertongue l=\"mex\" m=\"putita\" b=\"Lot of people come today... Even that \" a=\" Jackie was messing around with.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"putita\" b=\"Au venit mulți oameni azi... Chiar și \" a=\" aia cu care se juca Jackie.\"/>"
+  },
+  {
+   "key": "1938885004292452352",
+   "en": "Misty. She was very important to him. Do you understand?",
+   "en_m": "Misty. And she was very important to him. Do you understand?",
+   "ro": "Misty. Era foarte importantă pentru el. Înțelegi?"
+  },
+  {
+   "key": "1938890485123706880",
+   "en": "Go, invite her along for dinner. It's the least she deserves.",
+   "ro": "Du-te și invit-o la cină. E cel mai mic lucru pe care-l merită."
+  },
+  {
+   "key": "1942891821798432768",
+   "en": "[Set down belt] He wasn't afraid of anyone...",
+   "ro": "[Pune jos cureaua] Nu se temea de nimeni..."
+  },
+  {
+   "key": "1942891950764892160",
+   "en": "[Recite passage from book] ",
+   "ro": "[Recită pasaj din carte] "
+  },
+  {
+   "key": "1943191058796945408",
+   "en": "Anyone else...?",
+   "ro": "Altceva...?"
+  },
+  {
+   "key": "1954616294136279040",
+   "en": "A Heywood kid with a helluva drive.",
+   "ro": "Un puști din Heywood cu o ambiție cum rar vezi."
+  },
+  {
+   "key": "1954616317926371328",
+   "en": "He always wanted more than he got outta life.",
+   "ro": "Mereu a vrut mai mult decât i-a dat viața."
+  },
+  {
+   "key": "1954616331381698560",
+   "en": "He feared no one. And wasn't afraid. Lived life to the fullest.",
+   "en_m": "He feared no one. And wasn't afraid. He lived life to the fullest.",
+   "ro": "Nu se temea de nimeni. Și nu-i era frică de nimic. A trăit la maximum."
+  },
+  {
+   "key": "1954616339669643264",
+   "en": "\"When you go to war as a boy, you have a great illusion of immortality. Other people get killed, not you... Then, when you are badly wounded the first time, you lose that illusion.\"",
+   "ro": "„Când mergi la război ca băiat, ai iluzia asta a nemuririi. Pe alții îi omoară, nu pe tine... Apoi, când ești rănit grav prima oară, o pierzi.”"
+  },
+  {
+   "key": "1954666752167047168",
+   "en": "He aimed high.",
+   "ro": "A țintit sus."
+  },
+  {
+   "key": "1954666960372297728",
+   "en": "Always hungry for more. And never gave up, not once.",
+   "ro": "Mereu flămând de mai mult. Și niciodată nu s-a dat bătut."
+  },
+  {
+   "key": "1954671769041170436",
+   "en": "Never forgot where he came from.",
+   "ro": "Nu a uitat niciodată de unde a venit."
+  },
+  {
+   "key": "1954671940386877440",
+   "en": "He put his loved ones first.",
+   "ro": "Pe primul loc și-a pus mereu familia."
+  },
+  {
+   "key": "1954672623152459776",
+   "en": "Always, always knew what he wanted.",
+   "ro": "Mereu, mereu știa ce vrea."
+  },
+  {
+   "key": "1954675017496064000",
+   "en": "He kept Heywood in his heart, always. It made him who he was.",
+   "ro": "Heywood-ul i-a fost mereu în suflet. Asta l-a făcut omul care era."
+  },
+  {
+   "key": "1954675031639257088",
+   "en": "But most importantly…",
+   "ro": "Dar, cel mai important…"
+  },
+  {
+   "key": "1954675040547958784",
+   "en": "For his loved ones, he'd sacrifice his life, without hesitation.",
+   "ro": "Pentru cei dragi, și-ar fi dat viața fără să stea pe gânduri."
+  },
+  {
+   "key": "1954675454391545856",
+   "en": "He always knew what he wanted. And took it without askin'.",
+   "en_m": "He always knew what he wanted. And he took it without askin'.",
+   "ro": "Mereu a știut ce vrea. Și lua fără să ceară."
+  },
+  {
+   "key": "1959312160644308992",
+   "en": "It's so, so good to see you.",
+   "ro": "Ce bine să te văd."
+  },
+  {
+   "key": "1959312875957690372",
+   "en": "Jackie chose his friends well.",
+   "ro": "Jackie și-a ales bine prietenii."
+  },
+  {
+   "key": "1969073723778596868",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1969265292137791492",
+   "en": "[Stand] Always go back to the time we first met.",
+   "ro": "[Ridică-te] Mă întorc mereu la ziua în care ne-am cunoscut."
+  },
+  {
+   "key": "1969265620501463040",
+   "en": "[Stand and say nothing]",
+   "ro": "[Ridică-te și nu spune nimic]"
+  },
+  {
+   "key": "1970780234074619904",
+   "en": "Sit down, please.",
+   "ro": "Ia loc, te rog."
+  },
+  {
+   "key": "2037366793477095424",
+   "en": "I can't accept this.",
+   "ro": "Nu pot accepta asta."
+  },
+  {
+   "key": "2037367489530232832",
+   "en": "Thank you, but... I really can't accept this.",
+   "ro": "Mersi, dar... chiar nu pot s-o accept."
+  },
+  {
+   "key": "2262244236776882176",
+   "en": "I hope you can understand…",
+   "en_m": "I... hope you understand.",
+   "ro": "Sper că înțelegi…",
+   "ro_m": "Sper... că înțelegi."
+  }
+ ]
+}

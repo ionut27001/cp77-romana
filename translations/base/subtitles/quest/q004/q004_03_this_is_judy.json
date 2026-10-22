@@ -1,0 +1,454 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q004\\q004_03_this_is_judy.json",
+ "entries": [
+  {
+   "key": "1095391017180213264",
+   "en": "Hey, there you are.",
+   "ro": "Hei, ai ajuns."
+  },
+  {
+   "key": "1095392272904499200",
+   "en": "Enough, already. Gonna make me barf.",
+   "ro": "Ajunge, că mă faci să vomit."
+  },
+  {
+   "key": "1101183555417813012",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1185246544197988352",
+   "en": "Gotta create your sensory profile first.",
+   "ro": "Mai întâi trebuie să-ți fac profilul senzorial."
+  },
+  {
+   "key": "1185247331603066880",
+   "en": "[Start BD] OK, let's do it.",
+   "ro": "[Pornește BD-ul] OK, hai să facem asta."
+  },
+  {
+   "key": "1185253220120670208",
+   "en": "Be diving in in 3... 2... 1...",
+   "ro": "Intrăm în 3... 2... 1..."
+  },
+  {
+   "key": "1205294610376437760",
+   "en": "Look, I'm no BD virgin, but... the raw stuff – uncharted territory.",
+   "en_m": "Look, I'm no BD virgin, but the raw stuff – uncharted territory.",
+   "ro": "Uite, nu-s începătoare la BD-uri, dar... chestia brută e teritoriu necunoscut.",
+   "ro_m": "Uite, nu-s începător la BD-uri, dar... chestia brută e teritoriu necunoscut."
+  },
+  {
+   "key": "1205295480744849408",
+   "en": "Relax. I'll explain everything. It's less complicated than it sounds.",
+   "ro": "Relaxează-te. Îți explic totul. E mai puțin complicat decât pare."
+  },
+  {
+   "key": "1207971280065261568",
+   "en": "This is V. She's here for that BD roll. And V, this is Judy – best braindance editor I know.",
+   "en_m": "This is V. He's here for that BD roll. And V, this is Judy – best braindance editor I know.",
+   "ro": "Ea e V. E aici pentru BD-ul ăla. Și V, ea e Judy – cea mai bună editoare de braindance pe care o cunosc.",
+   "ro_m": "El e V. E aici pentru BD-ul ăla. Și V, ea e Judy – cea mai bună editoare de braindance pe care o cunosc."
+  },
+  {
+   "key": "1207999930718351360",
+   "en": "Hey, Judy.",
+   "ro": "Hei, Judy."
+  },
+  {
+   "key": "1208001059908874240",
+   "en": "Hey, Judy.",
+   "ro": "Hei, Judy."
+  },
+  {
+   "key": "1208002337594535952",
+   "en": "Impressive-looking setup. Need all this to process braindances?",
+   "ro": "Ce setup impresionant. Îți trebuie toate astea ca să procesezi braindance-uri?"
+  },
+  {
+   "key": "1208003389576310784",
+   "en": "Mhm. Analyzers, sensory sig amps, acoustic and emotive wave monitors, facial expression translators...",
+   "ro": "Aha. Analizoare, amplificatoare senzoriale, monitoare de unde sonore și emoționale, traducătoare de mimică..."
+  },
+  {
+   "key": "1209711106959470592",
+   "en": "Ahem. Judy...",
+   "ro": "Ahem. Judy..."
+  },
+  {
+   "key": "1209712251467591680",
+   "en": "All right, all right...",
+   "ro": "Bine, bine..."
+  },
+  {
+   "key": "1209713636141559824",
+   "en": "So, let's calibrate, tune it to her.",
+   "en_m": "So, let's calibrate, tune it to him.",
+   "ro": "Deci, hai să calibrăm, s-o reglăm pe ea.",
+   "ro_m": "Deci, hai să calibrăm, să-l reglăm pe el."
+  },
+  {
+   "key": "1212303062025760768",
+   "en": "Believe me, I've dealt with worse. Should see the Jig-Jig Street porn we gotta contend with sometimes.",
+   "ro": "Crede-mă, am văzut și mai rău. Ar trebui să vezi porno-ul de pe Jig-Jig Street cu care ne mai bătem capul uneori."
+  },
+  {
+   "key": "1212468254000934912",
+   "en": "OK, profile away.",
+   "ro": "OK, profilează."
+  },
+  {
+   "key": "1212468809863655424",
+   "en": "A what profile?",
+   "ro": "Ce profil?"
+  },
+  {
+   "key": "1212469212550393856",
+   "en": "OK, hit me. Just promise me it won't hurt.",
+   "en_m": "OK, Hit me. Just promise me it won't hurt.",
+   "ro": "OK, lovește-mă. Doar promite-mi că nu o să doară."
+  },
+  {
+   "key": "1212469756400627712",
+   "en": "It won't. Not this time.",
+   "ro": "Nu o să doară. Nu de data asta."
+  },
+  {
+   "key": "1212551858844463104",
+   "en": "Need to test your profile first. Tossing in a sample BD. You can use it to get to know the editor.",
+   "ro": "Trebuie să-ți testez profilul întâi. Pun un BD de probă. Ca să te obișnuiești cu editorul."
+  },
+  {
+   "key": "1212556388374016000",
+   "en": "Model of your perceptions and emotional responses. Need to adjust that so the raw BD won't overwhelm you.",
+   "ro": "Model al percepțiilor și răspunsurilor tale emoționale. Trebuie s-o ajustez, ca BD-ul brut să nu te copleșească."
+  },
+  {
+   "key": "1212600646619492352",
+   "en": "If I don't, best case scenario, you'll get nauseous as soon as you're in. Prolly barf like you would in a shoddy virtu enviro.",
+   "ro": "Dacă nu, în cel mai bun caz, o să ți se facă greață de cum intri. Probabil o să borăști ca într-un virtu de mântuială."
+  },
+  {
+   "key": "1212607428473516032",
+   "en": "Mhm. And worst case?",
+   "ro": "Mhm. Și în cel mai rău caz?"
+  },
+  {
+   "key": "1212607527190654976",
+   "en": "Your synapses sizzle like locusts in a deep fryer.",
+   "ro": "Sinapsele tale sfârâie ca lăcustele într-o friteuză."
+  },
+  {
+   "key": "1212607851292913664",
+   "en": "But we're not about to let that happen, nuh-uh.",
+   "ro": "Dar n-o să lăsăm să se întâmple asta, nici vorbă."
+  },
+  {
+   "key": "1299453107841675264",
+   "en": "What'd you choose?",
+   "ro": "Ce-ai ales?"
+  },
+  {
+   "key": "1307947014497628160",
+   "en": "Compiled your BD, Ev.",
+   "ro": "Am compilat BD-ul tău, Ev."
+  },
+  {
+   "key": "1308071991855149056",
+   "en": "Now, sit still, look at me. Gonna run the analysis soft. Should feel a slight tingling...",
+   "ro": "Acum stai nemișcată, privește-mă. Pornesc analiza, ușor. Ar trebui să simți o ușoară furnicătură...",
+   "ro_m": "Acum stai nemișcat, privește-mă. Pornesc analiza, ușor. Ar trebui să simți o ușoară furnicătură..."
+  },
+  {
+   "key": "1308090225199280128",
+   "en": "Am I gonna have to calibrate each time?",
+   "ro": "Trebuie să mă calibrezi de fiecare dată?"
+  },
+  {
+   "key": "1308092577599844352",
+   "en": "Am I gonna have to do this calibration dance every time?",
+   "ro": "Trebuie să trec prin tot circul ăsta de calibrare de fiecare dată?"
+  },
+  {
+   "key": "1308135852968898560",
+   "en": "Not necessarily. But it's worth the wait. Gimme two more minutes and you'll see exactly what BD analysis is capable of.",
+   "ro": "Nu neapărat. Dar merită așteptarea. Mai dă-mi două minute și o să vezi exact de ce e în stare analiza BD-ului."
+  },
+  {
+   "key": "1308150917147258880",
+   "en": "One more sec, need to get the pain receptor limiters in...",
+   "ro": "Încă o secundă, trebuie să pun limitatoarele pentru receptorii de durere..."
+  },
+  {
+   "key": "1308163796160344064",
+   "en": "OK. All set.",
+   "ro": "OK. Gata."
+  },
+  {
+   "key": "1451519348570714112",
+   "en": "Still pretty raw... but yeah, oughta do.",
+   "ro": "Tot e cam brut... Da, o să țină."
+  },
+  {
+   "key": "1451525201973604352",
+   "en": "So, we drop V inside? Let her look, let her rummage around, right?",
+   "en_m": "So, we drop V inside. Let him look, let him rummage around, right?",
+   "ro": "Deci, o băgăm pe V înăuntru? Să se uite, să scotocească, nu?",
+   "ro_m": "Deci, îl băgăm pe V înăuntru? Să se uite, să scotocească, nu?"
+  },
+  {
+   "key": "1451525849540587520",
+   "en": "How 'bout it, V? Raw braindance – ever taken a dip before?",
+   "ro": "Ce zici, V? Braindance brut – ai mai încercat vreodată?"
+  },
+  {
+   "key": "1451526554485649408",
+   "en": "No, never.",
+   "ro": "Nu, niciodată."
+  },
+  {
+   "key": "1451526858706907136",
+   "en": "Think I can take it.",
+   "ro": "Cred că rezist."
+  },
+  {
+   "key": "1451529165674770432",
+   "en": "Think I can handle it. Let's just do this.",
+   "ro": "Mă descurc. Hai s-o facem."
+  },
+  {
+   "key": "1451529803057983488",
+   "en": "Right-o.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1451536527181606912",
+   "en": "Siddown, settle in, and we'll get you goin'.",
+   "ro": "Așează-te, stai confortabil și pornim."
+  },
+  {
+   "key": "1461687719782117376",
+   "en": "Boot it up.",
+   "ro": "Pornește-l."
+  },
+  {
+   "key": "1461687988653780992",
+   "en": "What'd you choose?",
+   "ro": "Ce-ai ales?"
+  },
+  {
+   "key": "1461688549952319488",
+   "en": "Mhm... Lemme give you the tailored version first, let you get your bearings – then we'll jump into editing mode.",
+   "ro": "Mhm... Mai întâi îți dau versiunea personalizată, să te prinzi cum stă treaba – apoi trecem la editare."
+  },
+  {
+   "key": "1461689039561814016",
+   "en": "Corner store hold-up in Heywood.",
+   "ro": "Jaf la un magazin de cartier din Heywood."
+  },
+  {
+   "key": "1498105181783138304",
+   "en": "OK, now let's set the optics and other sensory sigs. Look smack into these two screens, pretend it's an eye exam.",
+   "ro": "OK, acum setăm optica și restul semnalelor senzoriale. Uită-te drept în ecranele astea, ca la oftalmolog."
+  },
+  {
+   "key": "1498106194472673280",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "1498117272988491776",
+   "en": "Look here, at me. Won't take long.",
+   "ro": "Uită-te aici, la mine. Nu ține mult."
+  },
+  {
+   "key": "1498117352109842432",
+   "en": "Hey, train your eyes on me for a sec.",
+   "ro": "Hei, uită-te la mine o secundă."
+  },
+  {
+   "key": "1508076081622228992",
+   "en": "Have a seat and we'll get started.",
+   "ro": "Așază-te și începem."
+  },
+  {
+   "key": "1508076118448218112",
+   "en": "V! Whatcha waitin' for?",
+   "ro": "V! Ce mai aștepți?"
+  },
+  {
+   "key": "1531376649791729664",
+   "en": "What do you think? Will it do?",
+   "ro": "Ce crezi? Merge?"
+  },
+  {
+   "key": "1531378377056448512",
+   "en": "Mhm. V needs to get deep inside, that's most important.",
+   "ro": "Mhm. Trebuie să intri adânc, asta contează cel mai mult."
+  },
+  {
+   "key": "1531419102473220096",
+   "en": "What do you mean by \"raw\"? How's this differ from the ready-mades?",
+   "ro": "Ce vrei să spui cu „brut”? Cu ce diferă de cele gata făcute?"
+  },
+  {
+   "key": "1531420289780019200",
+   "en": "Huh. Ready-mades, provided they're well made, should feed you feelings and impressions you'd never have the chance to experience yourself in realspace.",
+   "ro": "Hm. Cele gata făcute, dacă sunt bine lucrate, ar trebui să-ți dea senzații și impresii pe care n-ai avea cum să le trăiești în realitate."
+  },
+  {
+   "key": "1531440494648356864",
+   "en": "A raw one, well... it's more like a virtu enviro. Get to move around, look at things in detail.",
+   "ro": "Unul brut? Păi, e mai degrabă un mediu virtu. Te plimbi, te uiți la lucruri în detaliu."
+  },
+  {
+   "key": "1531468059127705600",
+   "en": "You do this often?",
+   "ro": "Faci asta des?"
+  },
+  {
+   "key": "1531468470203052032",
+   "en": "Get a lot of requests like this?",
+   "ro": "Ai multe cereri din astea?"
+  },
+  {
+   "key": "1531469144143818752",
+   "en": "All the time. But it's usually stuff the girls scroll at the club. I take that and do some routine porn tuning.",
+   "ro": "Tot timpul. Da' de obicei sunt chestii pe care fetele le derulează la club. Iau una și îi fac un tuning porno de rutină."
+  },
+  {
+   "key": "1531469922354982912",
+   "en": "More like cut out all the other shit. Fucking's business as usual for these guys. Their minds wander... to grocery lists, spouses' birthdays, late bills, whatever.",
+   "ro": "Mai degrabă tai toată rahatia aia. Pentru tipii ăștia, partea cu sexul e rutină. Mintea le fuge... la listele de cumpărături, zilele de naștere ale nevestelor, facturile întârziate, orice."
+  },
+  {
+   "key": "1531474389238411264",
+   "en": "Now, lemme see. Where could we...",
+   "ro": "Hai să vedem. Unde am putea..."
+  },
+  {
+   "key": "1531474913123758080",
+   "en": "Can't she just use my recording? Why're we wasting time?",
+   "en_m": "Can't he just use my recording? Why're we wasting time?",
+   "ro": "Nu poate și ea să folosească înregistrarea mea? De ce pierdem timpul?",
+   "ro_m": "Nu poate și el să folosească înregistrarea mea? De ce pierdem timpul?"
+  },
+  {
+   "key": "1531566322107412480",
+   "en": "But even then you can refigure things, mold the emotions into something unique, unforgettable. So, I can't complain.",
+   "ro": "Dar și așa poți reconfigura chestiile, să modelezi emoțiile în ceva unic, de neuitat. Deci nu mă plâng."
+  },
+  {
+   "key": "1531570673328713728",
+   "en": "Crank up the orgasms?",
+   "ro": "Amplificăm orgasmele?"
+  },
+  {
+   "key": "1531771899394842644",
+   "en": "Got quite the setup here.",
+   "ro": "Ai un setup destul de mișto aici."
+  },
+  {
+   "key": "1558808213139877888",
+   "en": "Not bad. This hardware's top-shelf.",
+   "ro": "Nu-i rău. Hardware-ul ăsta e de top."
+  },
+  {
+   "key": "1558864370424475648",
+   "en": "Sensory sig amps, acoustic and emotive wave monitors... Top-shelf hardware.",
+   "en_m": "Sensory sig amps, acoustic and emotive wave monitors... S'top-shelf hardware.",
+   "ro": "Amplificatoare de semnale senzoriale, monitoare de unde acustice și emoționale... Hardware de top."
+  },
+  {
+   "key": "1558875011860262912",
+   "en": "What do you think?",
+   "ro": "Ce crezi?"
+  },
+  {
+   "key": "1558880559045406720",
+   "en": "Expression translator – Fuyutsuki, right? Thought the matrices on that series were fucked up.",
+   "ro": "Translator de expresii – Fuyutsuki, nu? Credeam că matricile de pe seria aia sunt o porcărie totală."
+  },
+  {
+   "key": "1558897533242699776",
+   "en": "They were. But swappin' out matrices's simple. And this was the only model that'd support additional scanware.",
+   "ro": "Erau. Da' să schimbi matricile e simplu. Și ăsta era singurul model care accepta scanware în plus."
+  },
+  {
+   "key": "1558905175264587776",
+   "en": "Ahem...",
+   "ro": "Ahem..."
+  },
+  {
+   "key": "1558905760973975552",
+   "en": "All right, all right...",
+   "ro": "Bine, bine..."
+  },
+  {
+   "key": "1631578857614733312",
+   "en": "So we don't risk our necks. 'Sides, won't take a sec. Got somethin' here. Should be perfect.",
+   "ro": "Să nu ne riscăm gâturile, că oricum ia o secundă. Am ceva aici, ar trebui să fie perfect."
+  },
+  {
+   "key": "1631732358839922688",
+   "en": "Yeah, most of it's customized. Only thing factory are the casings. Hm.",
+   "ro": "Da, cam tot e customizat. Doar carcasele sunt de fabrică. Hm."
+  },
+  {
+   "key": "1631733124937936896",
+   "en": "Mod all this yourself?",
+   "ro": "Ți-ai modificat tot singură?",
+   "ro_m": "Ți-ai modificat tot singur?"
+  },
+  {
+   "key": "1631769761059303424",
+   "en": "What's so raw about it?",
+   "ro": "Ce e atât de brut la el?"
+  },
+  {
+   "key": "1631772718144286720",
+   "en": "But it's mass-market shit, so it's pre-crafted, hard-coded, fenced in and manageable.",
+   "ro": "Da' e marfă de masă, deci e prefabricat, hard-coded, îngrădit și ușor de controlat."
+  },
+  {
+   "key": "1631792460582219776",
+   "en": "Editors use those layers to fish for juicier emotes and impulses, then use 'em to pad the BDs that go to market.",
+   "ro": "Editorii trag din straturile alea emoții și impulsuri mai savuroase, apoi le bagă ca să umfle BD-urile de pe piață."
+  },
+  {
+   "key": "1664671191184121856",
+   "en": "A what profile, now?",
+   "ro": "Un profil de ce, acum?"
+  },
+  {
+   "key": "1719836086107840512",
+   "en": "Ahem...",
+   "ro": "Ahem..."
+  },
+  {
+   "key": "1964742450583564288",
+   "en": "Real amateurs. Don't even know where I got it. Suits our needs perfectly, though. You ready?",
+   "ro": "Amatori adevărați. Nici nu știu de unde l-am scos. Se potrivesc perfect nevoilor noastre, zic. Ești gata?"
+  },
+  {
+   "key": "1970361249193877504",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1970361281708122112",
+   "en": "Hellooo?",
+   "ro": "Aloo?"
+  },
+  {
+   "key": "1970361312964075520",
+   "en": "V, focus.",
+   "ro": "V, concentrare."
+  },
+  {
+   "key": "3043160229220868096",
+   "en": "[Skip Braindance tutorial]",
+   "ro": "[Sari tutorialul de braindance]"
+  }
+ ]
+}

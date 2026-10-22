@@ -1,0 +1,621 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q301\\q301_04_way_to_crashsite.json",
+ "entries": [
+  {
+   "key": "2584041553387282432",
+   "en": "Faster, c'mon!",
+   "ro": "Mai repede, hai!"
+  },
+  {
+   "key": "2584042204611698688",
+   "en": "Start haulin' off the top! Try to keep it stable, can't have it falling on 'em.",
+   "ro": "Începeți să trageți de sus! Țineți-l stabil, să nu cadă peste ei."
+  },
+  {
+   "key": "2584069538085560320",
+   "en": "<mothertongue l=\"rus\" m=\"Blyaaa\" b=\"\" a=\", I hope we get there first.\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Blyaaa\" b=\"\" a=\", sper să ajungem primii.\"/>"
+  },
+  {
+   "key": "2584097299042885632",
+   "en": "Not a chance. Hansen's peeps got the jump.",
+   "ro": "Nicio șansă. Oamenii lui Hansen au luat săritura."
+  },
+  {
+   "key": "2584115044891451392",
+   "en": "Nuh-uh, not that way. Back and around, friend.",
+   "ro": "Nu-nu, nu pe-acolo. Pe din spate și ocol, prietene."
+  },
+  {
+   "key": "2584116422200221696",
+   "en": "Around? There's no way around! I'm late, I got a client on the line!",
+   "ro": "Ocol? Ce ocol? Întârzii, am un client pe linie!"
+  },
+  {
+   "key": "2584116602085531648",
+   "en": "Not my call, choom.",
+   "ro": "Nu-i decizia mea, choom."
+  },
+  {
+   "key": "2867895586839814144",
+   "en": "Hold... hold still! You're fine, grit your teeth, it helps.",
+   "ro": "Stai... stai pe loc! Ești bine, strânge din dinți, ajută."
+  },
+  {
+   "key": "2867895619354058752",
+   "en": "Right, that's enough. Let's roll!",
+   "ro": "Bine, destul. Hai să mergem!"
+  },
+  {
+   "key": "2867922304321413124",
+   "en": "[Go down chute]",
+   "ro": "[Coboară pe tobogan]"
+  },
+  {
+   "key": "2867923068792037376",
+   "en": "Wunnerful!",
+   "en_m": "Wonderful!",
+   "ro": "Minunat!"
+  },
+  {
+   "key": "2867925055600287744",
+   "en": "Hop down the chute. Fastest way.",
+   "ro": "Sari pe tobogan. Cea mai rapidă cale."
+  },
+  {
+   "key": "2868867629106290688",
+   "en": "Ugh, fuck... augh, it's, like, this burning...",
+   "ro": "Ugh, futu-i... augh, arde... arde rău."
+  },
+  {
+   "key": "2868869182223507456",
+   "en": "Nah, c'mon choom... take the BD wreath at least.",
+   "ro": "Nu, hai choom... ia măcar coronița de BD."
+  },
+  {
+   "key": "2868916535060029440",
+   "en": "Focus now. You won't pass this way without a fight.",
+   "ro": "Concentrează-te acum. Nu treci pe aici fără luptă."
+  },
+  {
+   "key": "2868918215969300480",
+   "en": "Doin' the opposite of what I say on purpose, V, really?",
+   "ro": "Chiar faci invers decât zic, V, intenționat? Serios?"
+  },
+  {
+   "key": "2868919970798985216",
+   "en": "Hey, hey, pipe down. Already got one holowhiner in my head, don't need another.",
+   "ro": "Hei, hei, taci din gură. Am deja un holovăicăreț în cap, nu-mi mai trebuie altul."
+  },
+  {
+   "key": "2868928512398417920",
+   "en": "You're capable, I know, but I'd rather not take any chances.",
+   "ro": "Ești capabilă, știu, dar prefer să nu risc.",
+   "ro_m": "Ești capabil, știu, dar prefer să nu risc."
+  },
+  {
+   "key": "2982435790771392512",
+   "en": "Only us three, don't stand a chance.",
+   "ro": "Doar noi trei, nu avem nicio șansă."
+  },
+  {
+   "key": "2982440234821029888",
+   "en": "Need to grab some folks, get a line goin', clear some shit and pull 'em out in minutes.",
+   "ro": "Trebuie să adunăm niște oameni, să facem un lanț, să curățăm mizeria și să-i scoatem în câteva minute."
+  },
+  {
+   "key": "2982440897403621376",
+   "en": "Wanna do this with our bare hands? Be better if we had some gear, shovel, anything.",
+   "ro": "Chiar vrem s-o facem cu mâinile goale? Ar fi mai bine cu niște unelte, o lopată, orice."
+  },
+  {
+   "key": "2982441770137620480",
+   "en": "Folks ain't gonna help.",
+   "ro": "Oamenii n-o să ajute."
+  },
+  {
+   "key": "2982444407599861760",
+   "en": "A line? Choom, the hell for? Tellin' ya, they're dead.",
+   "ro": "O linie? Choom, de ce dracu'? Îți zic, sunt morți."
+  },
+  {
+   "key": "2982448583650250752",
+   "en": "Choom, they're neighbors, ours, theirs, 'course they'll help.",
+   "ro": "Choom, sunt vecini, și-ai noștri, și-ai lor. Sigur ajută!"
+  },
+  {
+   "key": "2982473251006386176",
+   "en": "What's it matter? Can't get much deader!",
+   "ro": "Ce mai contează? Mai morți de-atât nu pot fi!"
+  },
+  {
+   "key": "2982494338960265216",
+   "en": "Bleedin' from your ears, too. From the blast.",
+   "ro": "Îți curge sânge din urechi. De la explozie."
+  },
+  {
+   "key": "2982510135598321664",
+   "en": "You're gonna be fine, fine…",
+   "ro": "O să fii bine, bine…"
+  },
+  {
+   "key": "2982510560531648512",
+   "en": "Fucking plane...",
+   "ro": "Avionul dracului..."
+  },
+  {
+   "key": "2982512988245135360",
+   "en": "Aughh! Christ, be careful!",
+   "ro": "Aughh! Doamne, ai grijă!"
+  },
+  {
+   "key": "2982513255288082432",
+   "en": "Almost done, just hang in there…",
+   "ro": "Aproape gata, ține-te bine…"
+  },
+  {
+   "key": "2982513990063034368",
+   "en": "Wonder what happened…",
+   "ro": "Mă întreb ce s-a întâmplat…"
+  },
+  {
+   "key": "2982514104802414592",
+   "en": "The plane came down on our fuckin' heads. That's what happened.",
+   "ro": "Avionul ăla nenorocit ne-a căzut în cap. Asta s-a întâmplat."
+  },
+  {
+   "key": "2982516894064906240",
+   "en": "All by itself?",
+   "ro": "De unul singur?"
+  },
+  {
+   "key": "2982519463495536640",
+   "en": "'Ey, teeth, clench 'em!",
+   "ro": "Hei, strânge din dinți!"
+  },
+  {
+   "key": "2983970402752466944",
+   "en": "We'll lay low for now, wait till dark.",
+   "ro": "Ne ascundem deocamdată, așteptăm să se întunece."
+  },
+  {
+   "key": "2983976234512748544",
+   "en": "Eh, no cutting on site?",
+   "ro": "Eh, nu se taie pe loc?"
+  },
+  {
+   "key": "2983976486674305024",
+   "en": "Come on, you gonked? No time. Gotta secure the goods first.",
+   "ro": "Hai, ești țicnit? Nu e timp. Trebuie să asigurăm marfa întâi."
+  },
+  {
+   "key": "2983993754858754048",
+   "en": "OK. And from the wreck, we take what?",
+   "ro": "OK. Și din epavă, ce luăm?"
+  },
+  {
+   "key": "2983995853822693376",
+   "en": "Anythin' and everythin'. Electronics first, don't matter if it works.",
+   "ro": "Orice și tot. Electronicele întâi, nu contează dacă merg."
+  },
+  {
+   "key": "2983998309285695488",
+   "en": "Hm. Cables? Sheet metal? Personal items?",
+   "ro": "Hm. Cabluri? Tablă? Obiecte personale?"
+  },
+  {
+   "key": "2984015633321496576",
+   "en": "Yes, yes and yes.",
+   "ro": "Da, da și da."
+  },
+  {
+   "key": "2984024981032603648",
+   "en": "So stay low, go around?",
+   "ro": "Deci stăm jos, ocolim?"
+  },
+  {
+   "key": "2984064464381743104",
+   "en": "OK, but what's one guy? Not like anybody's lookin'…",
+   "ro": "OK, dar un singur tip? Oricum nu caută nimeni…"
+  },
+  {
+   "key": "2984064916796149760",
+   "en": "I'ma pretend I didn't hear that.",
+   "ro": "O să pretind că n-am auzit."
+  },
+  {
+   "key": "3065234701537447936",
+   "en": "No! Three-thirty, that's the rule. Three minutes, thirty secs, and we fuckin' delta.",
+   "ro": "Nu! Trei-treizeci, asta-i regula. Trei minute, treizeci de secunde, și o tăiem dracu'."
+  },
+  {
+   "key": "3065235139288567808",
+   "en": "Only reason we're still in the game.",
+   "ro": "Singurul motiv pentru care mai suntem în joc."
+  },
+  {
+   "key": "3065237334553726976",
+   "en": "Shit, someone's coming! Run!",
+   "ro": "Rahat, vine cineva! Fugiți!"
+  },
+  {
+   "key": "3091201985697767424",
+   "en": "Oh fuck, oh fuck, oh fuck…!",
+   "ro": "Futu-i, futu-i, futu-i…!"
+  },
+  {
+   "key": "3091203375773999104",
+   "en": "'Ey, you hit?",
+   "ro": "Hei, ești lovit?"
+  },
+  {
+   "key": "3091214525441990656",
+   "en": "Think we'll get City folk coming in for this?",
+   "ro": "Crezi că vin oameni din Oraș pentru asta?"
+  },
+  {
+   "key": "3091222361341386752",
+   "en": "Like who? Like NCPD?",
+   "ro": "Cum cine? NCPD?"
+  },
+  {
+   "key": "3153382877303889920",
+   "en": "Hey, what the hell're you doing?! Get to the crash site, now!",
+   "ro": "Hei, ce dracu' faci?! Du-te la locul prăbușirii, acum!"
+  },
+  {
+   "key": "3153382918693281792",
+   "en": "V! The President needs your help!",
+   "ro": "V! Președinta are nevoie de ajutorul tău!"
+  },
+  {
+   "key": "3153382957062774784",
+   "en": "Fucking motherfucking fuck!",
+   "ro": "Futu-i mama mă-sii!"
+  },
+  {
+   "key": "3153383024138084356",
+   "en": "The hell're you talkin' about?",
+   "ro": "Despre ce dracu' vorbești?"
+  },
+  {
+   "key": "3153383096129118208",
+   "en": "What' the hell're you spewin', Songbird?",
+   "ro": "Ce dracu' debitezi, Songbird?"
+  },
+  {
+   "key": "3153383144111955968",
+   "en": "Get a grip. Tried my best to help.",
+   "ro": "Revino-ți! Am încercat să ajut cât am putut."
+  },
+  {
+   "key": "3153383256737406976",
+   "en": "Nuh-uh, don't you dare blame me.",
+   "ro": "Nu-nu, nu îndrăzni să mă învinuiești."
+  },
+  {
+   "key": "3153383369329303552",
+   "en": "Pray we don't meet again, and I mean ever.",
+   "ro": "Roagă-te să nu ne mai vedem vreodată, și nu glumesc."
+  },
+  {
+   "key": "3153387759842844672",
+   "en": "You had one job – get to the plane, save her.",
+   "ro": "Ai avut o singură treabă: să ajungi la avion și s-o salvezi."
+  },
+  {
+   "key": "3153388218280271872",
+   "en": "Trying doesn't cut it, V.",
+   "ro": "Nu ajunge să încerci, V."
+  },
+  {
+   "key": "3155112660129222656",
+   "en": "Or corporats.",
+   "ro": "Sau corporațiile."
+  },
+  {
+   "key": "3155113647334166528",
+   "en": "Wonder why the fuck Hansen downed it.",
+   "ro": "Mă întreb de ce pula mea a doborât-o Hansen."
+  },
+  {
+   "key": "3155114220359979008",
+   "en": "Why? You think it just fell outta the sky? Right in our lap?",
+   "ro": "De ce? Crezi că a picat din cer, fix în poala noastră?"
+  },
+  {
+   "key": "3155114954983936000",
+   "en": "No way. It crashed, means someone somewhere pulled some trigger.",
+   "ro": "Nicio șansă. S-a prăbușit, deci cineva undeva a apăsat pe trăgaci."
+  },
+  {
+   "key": "3155116482381680640",
+   "en": "Hansen is no gonk. It wouldn't be like him to stick his neck out.",
+   "ro": "Hansen nu e fraier. Nu i-ar sta în fire să-și bage gâtul."
+  },
+  {
+   "key": "3155119261846278144",
+   "en": "Unless the price was right.",
+   "ro": "Doar dacă prețul era bun."
+  },
+  {
+   "key": "3155119727732789248",
+   "en": "Choom! The dust hasn't even settled! Where are you getting this tinfoil?",
+   "ro": "Choom! Nici nu s-a așezat praful! De unde scoți teoria asta, cu folia de staniol pe cap?"
+  },
+  {
+   "key": "3155248304927215616",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "3155249604674916352",
+   "en": "Congrats, V. You just killed Rosalind Myers and fucked the NUSA.",
+   "ro": "Felicitări, V. Tocmai ai omorât-o pe Rosalind Myers și ai futut NUSA-ul."
+  },
+  {
+   "key": "3155252653631934464",
+   "en": "You failed. You killed her, as if you pulled the trigger yourself.",
+   "ro": "Ai dat-o în bară. Ai omorât-o de parcă tu ai fi apăsat pe trăgaci."
+  },
+  {
+   "key": "3155255438649790464",
+   "en": "Ya sure she's dead, I mean, really sure?",
+   "en_m": "Sure she's dead, I mean, really sure?",
+   "ro": "Chiar ești sigură că e moartă? Adică, sigură-sigură?",
+   "ro_m": "Chiar ești sigur că e moartă? Adică, sigur-sigur?"
+  },
+  {
+   "key": "3155255647257694208",
+   "en": "I'm sure.",
+   "ro": "Sunt sigură.",
+   "ro_m": "Sunt sigur."
+  },
+  {
+   "key": "3155262868272123904",
+   "en": "No, no... Don't think so... But fuck that was close...",
+   "ro": "Nu, nu... Nu cred... Dar pula mea, a fost la mustață!"
+  },
+  {
+   "key": "3155262988782866432",
+   "en": "Thought I was a dead man.",
+   "ro": "Credeam că sunt mort."
+  },
+  {
+   "key": "3155263247823081472",
+   "en": "Best delta outta here. Thinkin' this shit ain't over yet.",
+   "ro": "Cel mai bine s-o tăiem de-aici. Cred că porcăria asta nu s-a terminat încă."
+  },
+  {
+   "key": "3155263920522334208",
+   "en": "What…? How?",
+   "ro": "Ce…? Cum?"
+  },
+  {
+   "key": "3155267806393995264",
+   "en": "We had one fuckin' blast from hell, could have another.",
+   "ro": "Tocmai am avut o explozie din iad, poate mai vine una."
+  },
+  {
+   "key": "3155268129724502016",
+   "en": "Shit, true... Hang on.",
+   "ro": "Rahat, adevărat... Stai."
+  },
+  {
+   "key": "3155268531471716352",
+   "en": "Scan my hands, choom. Phoo... gotta breathe, gotta breathe.",
+   "ro": "Scanează-mi mâinile, choom. Ffu... trebuie să respir, trebuie să respir."
+  },
+  {
+   "key": "3204197621849612288",
+   "en": "For on the third day, fire belched forth from the heavens! Fire!",
+   "ro": "Că în a treia zi, focul a țâșnit din ceruri! Foc!"
+  },
+  {
+   "key": "3204257606889594880",
+   "en": "Choom, how was I supposed to catch it? Happened so fast.",
+   "ro": "Choom, cum eram să-l prind? S-a întâmplat prea repede."
+  },
+  {
+   "key": "3204271422222327808",
+   "en": "End of the road, end of fucking story.",
+   "ro": "Ajunși la capăt, gata povestea, pula mea."
+  },
+  {
+   "key": "3207081875056562176",
+   "en": "If you're not gonna help, at least stop running your fucking gonk mouth! Won't know nothin' till we find 'em.",
+   "ro": "Dacă n-ajuți, măcar nu mai deschide gura aia de fraier! N-o să știm nimic până nu-i găsim."
+  },
+  {
+   "key": "3207130183472975872",
+   "en": "Chill. You don't need to keep sayin' it.",
+   "ro": "Calmează-te. Nu trebuie să tot repeți."
+  },
+  {
+   "key": "3207130919556550656",
+   "en": "Then why're you riding my ass right now?",
+   "ro": "Atunci de ce mă tot pisezi acum?"
+  },
+  {
+   "key": "3207131146871050240",
+   "en": "Just wanna know what happened. I got friends in there.",
+   "ro": "Vreau doar să știu ce s-a întâmplat. Am prieteni acolo."
+  },
+  {
+   "key": "3207131465722040320",
+   "en": "Plane fell outta the sky. That's it.",
+   "ro": "Avionul a picat din cer. Atâta e."
+  },
+  {
+   "key": "3207131926692827136",
+   "en": "Which plane? Why did it fall? What'd Hansen say?",
+   "ro": "Ce avion? De ce a căzut? Ce-a zis Hansen?"
+  },
+  {
+   "key": "3207132196822781952",
+   "en": "Nunya biz. Get lost.",
+   "ro": "Nu-i treaba ta. Cară-te."
+  },
+  {
+   "key": "3207151682569310208",
+   "en": "Whole thing took, like, five seconds.",
+   "ro": "Totul a durat, gen, cinci secunde."
+  },
+  {
+   "key": "3207152123659096064",
+   "en": "Yeah, scrolled some of what's going on down there, chooms stuck under rubble, hurt, dead…",
+   "ro": "Da, am prins ceva pe feed: chooms blocați sub dărâmături, răniți, morți…"
+  },
+  {
+   "key": "3207152600400465920",
+   "en": "Shit'll definitely sell.",
+   "ro": "Chestia asta o să se vândă sigur."
+  },
+  {
+   "key": "3207152782114492416",
+   "en": "Fuck, choom. I know! Think I didn't grab the crash on purpose?!",
+   "ro": "Pula mea, choom. Știu! Crezi că am filmat prăbușirea intenționat?!"
+  },
+  {
+   "key": "3207153646308888576",
+   "en": "I know! But I didn't get it, OK?",
+   "ro": "Știu! Dar n-am prins-o, OK?"
+  },
+  {
+   "key": "3207153844665913344",
+   "en": "Can't get the wreckage, dogs got it all cordoned off.",
+   "ro": "Nu ajung la epavă, ăia au blocat tot."
+  },
+  {
+   "key": "3207211091848794112",
+   "en": "Ugh, finally, some cash. A gift from God, this plane.",
+   "ro": "Ugh, în sfârșit, niște bani. Avionul ăsta a fost cadoul vieții."
+  },
+  {
+   "key": "3207250175866638336",
+   "en": "Hansen? You think it was him?",
+   "ro": "Hansen? Crezi că a fost el?"
+  },
+  {
+   "key": "3207254071989178368",
+   "en": "Them, yeah... or gangs.",
+   "ro": "Ei, da... sau găștile."
+  },
+  {
+   "key": "3207260667515441152",
+   "en": "White flames to cleanse you of your sins, vanities, your-your…",
+   "ro": "Flăcări albe să vă curețe de păcate, vanități, ale voastre-ale voastre…"
+  },
+  {
+   "key": "3207265265345040384",
+   "en": "Damn, dude, enough! You ain't got eyes? Fuckin' help out, nutjob.",
+   "ro": "Naiba, frate, destul! N-ai ochi? Ajută, dracu' să te ia, nebunule."
+  },
+  {
+   "key": "3207266002183589888",
+   "en": "You help out! For I bring aid for the soul!",
+   "ro": "Tu ajută! Eu vin cu ajutor pentru suflet!"
+  },
+  {
+   "key": "3207266480283914240",
+   "en": "I have begged, yet you have covered your ears!",
+   "ro": "Am cerșit, dar voi v-ați astupat urechile!"
+  },
+  {
+   "key": "3207266967292940288",
+   "en": "Ugh... Somebody get him out of here.",
+   "ro": "Ugh... Cineva să-l scoată de-aici."
+  },
+  {
+   "key": "3207267450376097792",
+   "en": "You shut your ears, your hearts away, deaf to the voice that wails among you riff-raff! The Lord is just in punishing you for it!",
+   "ro": "V-ați astupat urechile, v-ați închis inimile, surzi la glasul care se tânguie printre voi, gunoaiele! Domnul vă pedepsește pe bună dreptate!"
+  },
+  {
+   "key": "3207269296641609728",
+   "en": "Prepare to die! Death opens its dribbling, blood-slaked maw!",
+   "ro": "Pregătiți-vă să muriți! Moartea își deschide gura băloasă, înecată în sânge!"
+  },
+  {
+   "key": "3207269663341219840",
+   "en": "F-forgive me, Father, for I have sinned...",
+   "ro": "Iartă-mă, Părinte, că am păcătuit..."
+  },
+  {
+   "key": "3207270444370956288",
+   "en": "Too late, you fool! Too late! Be damned!",
+   "ro": "Prea târziu, nebunule! Prea târziu! Dracu' să te ia!"
+  },
+  {
+   "key": "3273929933222756352",
+   "en": "Augh, my head's on fire...",
+   "ro": "Augh, mă arde capul..."
+  },
+  {
+   "key": "3283975311101202432",
+   "en": "Then no need to rush.",
+   "ro": "Atunci nu te mai grăbi."
+  },
+  {
+   "key": "3283989166011387904",
+   "en": "Go in then, grab what we can. Any bodies, we load up.",
+   "ro": "Intră, ia ce se poate. Dacă sunt cadavre, le luăm și pe alea."
+  },
+  {
+   "key": "3284152002951974912",
+   "en": "Ugh... Can you at least tell me what happened?",
+   "ro": "Ugh... Poți măcar să-mi spui ce s-a întâmplat?"
+  },
+  {
+   "key": "3284152351767072768",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "3284152491756163072",
+   "en": "Sure, sure... Know-nothin'…",
+   "ro": "Da, da... Habar n-am nimic…"
+  },
+  {
+   "key": "3294084730449780736",
+   "en": "Ugh… huh?",
+   "ro": "Ugh… huh?"
+  },
+  {
+   "key": "3294085583621545984",
+   "en": "Still with us?",
+   "ro": "Ești încă cu noi?"
+  },
+  {
+   "key": "3305929681719988224",
+   "en": "Augh, what the... what happened?",
+   "en_m": "What the... what happened?",
+   "ro": "Augh, ce... ce s-a întâmplat?",
+   "ro_m": "Ce... ce s-a întâmplat?"
+  },
+  {
+   "key": "3305929833654456320",
+   "en": "Your presidential rescue op – miserable failure. Honestly, though? Good fuckin' riddance.",
+   "ro": "Operația ta de salvare a președintelui – fiasco lamentabil. Da' sincer? Bună scăpare, pula mea."
+  },
+  {
+   "key": "3305931077718577152",
+   "en": "Huh, ugh, OK... So now what?",
+   "en_m": "Huh, OK... So now what?",
+   "ro": "Huh, ugh, OK... Și acum ce?",
+   "ro_m": "Huh, OK... Și acum ce?"
+  },
+  {
+   "key": "3305932473364844544",
+   "en": "Huh. We go on livin', start by findin' us a drink.",
+   "ro": "Huh. Bine, trăim mai departe, hai să ne luăm ceva de băut."
+  },
+  {
+   "key": "3313071686820499456",
+   "en": "Daaaghhh…!",
+   "en_m": "Aaaaghhh…!",
+   "ro": "Daaaghhh…!",
+   "ro_m": "Aaaaghhh…!"
+  }
+ ]
+}

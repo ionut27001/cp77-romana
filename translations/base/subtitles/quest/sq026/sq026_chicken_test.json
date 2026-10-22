@@ -1,0 +1,148 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq026\\sq026_chicken_test.json",
+ "entries": [
+  {
+   "key": "1295391740562227200",
+   "en": "[db_db]Beginning (Judy's)",
+   "en_m": "[db_db]Beginning (Lizzies)",
+   "ro": "[db_db]Început (Judy's)",
+   "ro_m": "[db_db]Început (Lizzies)"
+  },
+  {
+   "key": "1295392691125731328",
+   "en": "[db_db]Dollhouse",
+   "ro": "[db_db]Dollhouse"
+  },
+  {
+   "key": "1295393359781675008",
+   "en": "[db_db]Judy's",
+   "en_m": "[db_db]Judy's ",
+   "ro": "[db_db]Judy's "
+  },
+  {
+   "key": "1737249322605461504",
+   "en": "[db_db]Hiromi",
+   "ro": "[db_db]Hiromi"
+  },
+  {
+   "key": "1737249490713165824",
+   "en": "[db_db]Ending",
+   "ro": "[db_db]Sfârșit"
+  },
+  {
+   "key": "1754910766255816704",
+   "en": "[db_db]Maiko (Hiromi alive)",
+   "ro": "[db_db]Maiko (Hiromi în viață)"
+  },
+  {
+   "key": "1754911598774829056",
+   "en": "[db_db]Judy (Hiromi killed)",
+   "ro": "[db_db]Judy (Hiromi ucisă)"
+  },
+  {
+   "key": "1775233113307201540",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "1775233527134011392",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "1775234675752550404",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "1775235420845490176",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "1775235805429612548",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "1775236217142493184",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "1883834444803981312",
+   "en": "[db_db]F",
+   "ro": "[db_db]F"
+  },
+  {
+   "key": "1883834444803981328",
+   "en": "[db_db]M",
+   "ro": "[db_db]M"
+  },
+  {
+   "key": "1988159287950557184",
+   "en": "[db_db]Text Messages",
+   "ro": "[db_db]Mesaje text"
+  },
+  {
+   "key": "2056285804053127172",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2056286642511273984",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2070746347862220800",
+   "en": "[db_db]RECORDING FOOTAGE",
+   "ro": "[db_db]ÎNREGISTRARE VIDEO"
+  },
+  {
+   "key": "2147297141348098048",
+   "en": "[db_db]Default Dialog",
+   "ro": "[db_db]Dialog implicit"
+  },
+  {
+   "key": "2147298023359897604",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "2147299591593385984",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "2147300167857201152",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "2147300167873978368",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "2147301797746958336",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "2147301797763735552",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "2147305497274081280",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "2147305497290858500",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  }
+ ]
+}

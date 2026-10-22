@@ -1,0 +1,78 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_02_vision_and_sobchuk.json",
+ "entries": [
+  {
+   "key": "1619975957529120768",
+   "en": "Urgh... Heavier than she looks.",
+   "en_m": "Urgh... Heavier than he looks.",
+   "ro": "Uf... Mai greu decât arată."
+  },
+  {
+   "key": "1619982210464632832",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカ様、お父様の殺害犯を見つけました\" t=\"Arasaka-sama, I've found your father's killer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカ様、お父様の殺害犯を見つけました\" t=\"Arasaka-sama, am găsit ucigașul tatălui tău.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1633093448555352064",
+   "en": "Now, listen, dawg. I have done exactly what you asked, so le'ss you an' me figure this--",
+   "ro": "Acum ascultă, bă. Am făcut exact ce-ai cerut, așa că hai să ne dăm seama..."
+  },
+  {
+   "key": "1634660074048245760",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1650327697092038656",
+   "en": "<kiroshi l=\"jpn\" o=\"クソ、ひどい臭いだ\" t=\"You smell like shit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソ、ひどい臭いだ\" t=\"Pute a căcat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1651625050885378048",
+   "en": "<kiroshi l=\"jpn\" o=\"1時間後には着くかと\" t=\"I expect to be there in an hour.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"1時間後には着くかと\" t=\"Ar trebui să ajung într-o oră.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1660499927754301444",
+   "en": "Help me...",
+   "ro": "Ajută-mă..."
+  },
+  {
+   "key": "1660501001882001408",
+   "en": "Fuck…",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1660501871797428260",
+   "en": "Help me...",
+   "ro": "Ajută-mă..."
+  },
+  {
+   "key": "1660503785993887760",
+   "en": "Argh! Fuck...",
+   "ro": "Argh! Futu-i..."
+  },
+  {
+   "key": "1660512436829773828",
+   "en": "Quiet!",
+   "ro": "Liniște!"
+  },
+  {
+   "key": "1661813504306892800",
+   "en": "<kiroshi l=\"jpn\" o=\"この女で間違いありません\" t=\"It's her, I have no doubt.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"この男で間違いありません\" t=\"It's him, I have no doubt.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"この女で間違いありません\" t=\"Ea e, n-am nicio îndoială.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"この男で間違いありません\" t=\"El e, n-am nicio îndoială.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1661813748482494464",
+   "en": "<kiroshi l=\"jpn\" o=\"はい\" t=\"Yes.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はい\" t=\"Da.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3743548582201815040",
+   "en": "My man, Dex DeShawn. How’s that quiet life workin' out for you now, choom?",
+   "ro": "Omul meu, Dex DeShawn. Și cum mai merge cu viața aia liniștită, choom?"
+  }
+ ]
+}

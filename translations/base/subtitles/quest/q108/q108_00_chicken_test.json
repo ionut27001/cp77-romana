@@ -1,0 +1,87 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q108\\q108_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "1166030397884137472",
+   "en": "[db_db]Start at Server Floor",
+   "en_m": "[db_db]Tower memory Start",
+   "ro": "[db_db]Start la etajul serverului",
+   "ro_m": "[db_db]Memoria turnului - Start"
+  },
+  {
+   "key": "1166031550227218432",
+   "en": "[db_db]Back...",
+   "ro": "[db_db]Înapoi..."
+  },
+  {
+   "key": "1166031873272512520",
+   "en": "[db_db]Combat Starts [Atlantis]",
+   "en_m": "[db_db]Porsche [Escape from Atlantis]",
+   "ro": "[db_db]Începe lupta [Atlantis]",
+   "ro_m": "[db_db]Porsche [Evadare din Atlantis]"
+  },
+  {
+   "key": "1166031873272512524",
+   "en": "[db_db]Back...",
+   "en_m": "[db_db]More...",
+   "ro": "[db_db]Înapoi...",
+   "ro_m": "[db_db]Mai mult..."
+  },
+  {
+   "key": "1529986213590507520",
+   "en": "[db_db]Mainframe Access",
+   "en_m": "[db_db]Tower memory Server Floor",
+   "ro": "[db_db]Acces la mainframe",
+   "ro_m": "[db_db]Memoria turnului - Etajul serverului"
+  },
+  {
+   "key": "1569159172087259136",
+   "en": "[db_db]Club Start At Entrance",
+   "en_m": "[db_db]Atlantis Memory",
+   "ro": "[db_db]Start club la intrare",
+   "ro_m": "[db_db]Memoria Atlantis"
+  },
+  {
+   "key": "1570541456510066688",
+   "en": "[db_db]Mainframe",
+   "en_m": "[db_db]Tower memory Mainframe",
+   "ro": "[db_db]Mainframe",
+   "ro_m": "[db_db]Memoria turnului - Mainframe"
+  },
+  {
+   "key": "1718802570225295360",
+   "en": "[db_db]Car Chase",
+   "ro": "[db_db]Urmărire auto"
+  },
+  {
+   "key": "1761945560888025092",
+   "en": "[db_db][Quickstart from begnining]",
+   "ro": "[db_db][Pornire rapidă de la început]"
+  },
+  {
+   "key": "1761945903227117568",
+   "en": "[db_db][Debug Options]",
+   "ro": "[db_db][Opțiuni de debug]"
+  },
+  {
+   "key": "1761961058707087360",
+   "en": "[db_db]Combat outside [Parking Lot]",
+   "ro": "[db_db]Luptă afară [Parcare]"
+  },
+  {
+   "key": "1995335047184293888",
+   "en": "[db_db]Hidden Alley",
+   "ro": "[db_db]Alee ascunsă"
+  },
+  {
+   "key": "2360481673038962688",
+   "en": "[db_db]Riots",
+   "ro": "[db_db]Revoltă"
+  },
+  {
+   "key": "2360483774804697088",
+   "en": "[db_db]Finale",
+   "ro": "[db_db]Final"
+  }
+ ]
+}

@@ -1,0 +1,799 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q301\\q301_00_holocall_hook.json",
+ "entries": [
+  {
+   "key": "3008267548610936832",
+   "en": "What the--?!",
+   "en_m": "What the-- augh!",
+   "ro": "Ce dracu'--?!",
+   "ro_m": "Ce dracu'-- augh!"
+  },
+  {
+   "key": "3023042397053849604",
+   "en": "OK, Got my attention.",
+   "ro": "OK, mi-ai atras atenția."
+  },
+  {
+   "key": "3023064876661018624",
+   "en": "This a prank?",
+   "ro": "E o farsă?"
+  },
+  {
+   "key": "3023066061635784704",
+   "en": "All right, Songbird… Got my full attention.",
+   "ro": "Bine, Songbird… mi-ai atras toată atenția."
+  },
+  {
+   "key": "3023066257040019460",
+   "en": "Oh, very funny... This a prank? Not in the mood if so.",
+   "en_m": "Veeery funny... This a prank? Not in the mood if so.",
+   "ro": "Ha, foarteee amuzant... E o farsă? Nu-s în toane, dacă da."
+  },
+  {
+   "key": "3023068470844002304",
+   "en": "Glad to hear that.",
+   "ro": "Mă bucur să aud asta."
+  },
+  {
+   "key": "3023084312193339392",
+   "en": "It's anything but.",
+   "ro": "Orice, numai asta nu."
+  },
+  {
+   "key": "3081139622244433920",
+   "en": "But first I need you to get to that swollen appendix of Night City called Dogtown.",
+   "ro": "Dar mai întâi trebuie să ajungi în apendicele ăsta umflat al Night City-ului, care se numește Dogtown."
+  },
+  {
+   "key": "3083937718663057432",
+   "en": "Dogtown? Chunk of Pacifica, exterritorial…",
+   "ro": "Dogtown? O bucată din Pacifica, extrateritorială…"
+  },
+  {
+   "key": "3083937718663057444",
+   "en": "Lord of the land's one Kurt Hansen, international arms dealer. Corpos give it a wide berth.",
+   "ro": "Stăpânul de-acolo e Kurt Hansen, traficant internațional de arme. Corpoii se țin departe."
+  },
+  {
+   "key": "3083937718679834628",
+   "en": "I skip anything?",
+   "ro": "Am sărit peste ceva?"
+  },
+  {
+   "key": "3083937718679834640",
+   "en": "Nope, more or less on the button.",
+   "ro": "Nu, cam exact."
+  },
+  {
+   "key": "3083937723041910800",
+   "en": "No-man's zone where you shoot first, ask questions later? That Dogtown?",
+   "ro": "Zonă fără stăpân unde tragi mai întâi și întrebi după? Aia e Dogtown?"
+  },
+  {
+   "key": "3083937723058688000",
+   "en": "What, the chance to live to a ripe old age not reason enough to go?",
+   "ro": "Ce, șansa să ajungi bătrân nu-ți e motiv destul să mergi?"
+  },
+  {
+   "key": "3085351143175905296",
+   "en": "Nargh, fuckin'… argh!",
+   "ro": "Nargh, pula mea… argh!"
+  },
+  {
+   "key": "3085351143192682500",
+   "en": "Ugh, what the f-- augh! Ugh, it's like... someone shoved my head in a vise! Augh!",
+   "ro": "Ugh, ce pula mea-- augh! Ugh, ca și cum cineva mi-ar fi băgat capul într-o menghină! Augh!"
+  },
+  {
+   "key": "3085351143192682512",
+   "en": "V... you OK? C'mon, get up.",
+   "ro": "V... ești bine? Hai, ridică-te."
+  },
+  {
+   "key": "3085360135948230672",
+   "en": "V? You're gonna be OK.",
+   "ro": "V? O să fii bine."
+  },
+  {
+   "key": "3085360135965007880",
+   "en": "Your nervous system took a big hit, broke down. Racing heart, cold sweat... It'll pass.",
+   "ro": "Sistemul nervos ți-a luat o lovitură zdravănă, s-a dat peste cap. Inima o ia la goană, sudoare rece... O să treacă."
+  },
+  {
+   "key": "3085360140058648580",
+   "en": "V, somethin' stinks here... Think she's… she's fuckin' with the Relic.",
+   "ro": "V, ceva nu miroase bine aici... Cred că umblă la Relic-ul ăla, pula mea."
+  },
+  {
+   "key": "3085360140058648604",
+   "en": "All true, Johnny. But don't you fret, you're both safe.",
+   "ro": "Totul e adevărat, Johnny. Dar nu vă fie frică, sunteți amândoi în siguranță."
+  },
+  {
+   "key": "3085360140058648616",
+   "en": "What the fuck... ?",
+   "ro": "Ce pula mea... ?"
+  },
+  {
+   "key": "3085360140058648628",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "3085360167892049920",
+   "en": "Who the hell are you?",
+   "ro": "Cine naiba ești?"
+  },
+  {
+   "key": "3085360167892049936",
+   "en": "[Touch Songbird] You look like a construct…",
+   "ro": "[Atinge-o pe Songbird] Arăți ca un construct…"
+  },
+  {
+   "key": "3085360170005979156",
+   "en": "Just who the hell are you, Songbird?",
+   "en_m": "Just... who the hell are you, Songbird?",
+   "ro": "Cine dracu' ești, Songbird?",
+   "ro_m": "Cine... cine dracu' ești, Songbird?"
+  },
+  {
+   "key": "3085360171918581772",
+   "en": "You a construct...? Like Johnny?",
+   "ro": "Ești un construct...? Ca Johnny?"
+  },
+  {
+   "key": "3111473682583150596",
+   "en": "[Stand] Don't know shit.",
+   "ro": "[Ridică-te] Nu știu un căcat."
+  },
+  {
+   "key": "3111537000031215616",
+   "en": "Ugh, you got... no fuckin' idea, lady...",
+   "ro": "Ugh, n-ai... nicio idee, pula mea, doamnă..."
+  },
+  {
+   "key": "3111726851426902048",
+   "en": "Naaugh… ugh!",
+   "en_m": "Aaaugh!",
+   "ro": "Naaugh… ugh!",
+   "ro_m": "Aaaugh!"
+  },
+  {
+   "key": "3130182955796971520",
+   "en": "I know about the bomb tickin' in your head.",
+   "ro": "Știu de bomba care ticăie în capul tău."
+  },
+  {
+   "key": "3130183347242975232",
+   "en": "If I could disarm it now, I would in a heartbeat.",
+   "ro": "Dacă aș putea s-o dezamorsez acum, aș face-o pe loc."
+  },
+  {
+   "key": "3130235235028090880",
+   "en": "Can't know how much I'd really love to believe you, but…",
+   "ro": "Nici nu știi cât mi-ar plăcea să te cred, dar…"
+  },
+  {
+   "key": "3130237230325612544",
+   "en": "Both of us on the biochip protocol at once can trigger shocks for V. Like you just saw now.",
+   "ro": "Dacă suntem amândoi pe protocolul biochipului odată, poate declanșa șocuri la V. Cum ai văzut chiar acum."
+  },
+  {
+   "key": "3214382433891192832",
+   "en": "Fine. Willin' to risk it.",
+   "ro": "Bine. Îmi asum riscul."
+  },
+  {
+   "key": "3214383229751988224",
+   "en": "Dogtown's a no-go.",
+   "ro": "Dogtown e exclus."
+  },
+  {
+   "key": "3214389563721453568",
+   "en": "Puttin' it plainly – you know me, I don't know you, but I'm supposed to haul ass to Night City's worst district?",
+   "ro": "Pe scurt – tu mă cunoști, eu pe tine nu, și trebuie să o tai spre cel mai rău district din Night City?"
+  },
+  {
+   "key": "3214390468617375744",
+   "en": "Fine. No clue what I'm steppin' into, but... no risk, no reward.",
+   "ro": "Bine. Habar n-am în ce mă bag, dar... cine nu riscă nu câștigă."
+  },
+  {
+   "key": "3214390897157804032",
+   "en": "Don't go to Dogtown on a whim.",
+   "ro": "Nu te duce în Dogtown pe nepusă masă."
+  },
+  {
+   "key": "3214517509639573504",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "3214525963628384264",
+   "en": "Uh... Thanks, I guess?",
+   "en_m": "Huh... Thanks, I guess?",
+   "ro": "Hm... Mersi, cred?"
+  },
+  {
+   "key": "3214536393637695488",
+   "en": "Your Relic's crowded with clusters of corrupted data. I'm dumpin' that, makin' room for stuff that'll actually be handy.",
+   "ro": "Relic-ul tău e plin de clustere de date corupte. Le arunc, fac loc pentru chestii care chiar o să-ți fie utile."
+  },
+  {
+   "key": "3214538033610559488",
+   "en": "I'm not being charitable – need you at your damned best.",
+   "ro": "Nu fac caritate – am nevoie de tine la maximum, fir-ar să fie."
+  },
+  {
+   "key": "3244803577307664384",
+   "en": "Dogtown's main gate – be there as soon as you can. I'll make contact again then.",
+   "ro": "Poarta principală din Dogtown – ajungi acolo cât de repede poți. Te contactez atunci."
+  },
+  {
+   "key": "3256460342742945792",
+   "en": "[Stand] Sure hope so.",
+   "ro": "[Ridică-te] Sper din tot sufletul."
+  },
+  {
+   "key": "3256461562647875584",
+   "en": "Aaghh… ugh, fuckin' hope so.",
+   "en_m": "Aaugh… ugh, fuckin' hope so.",
+   "ro": "Aaghh… ugh, sper și eu, pula mea.",
+   "ro_m": "Aaugh… ugh, sper și eu, pula mea."
+  },
+  {
+   "key": "3263623007677030404",
+   "en": "Would love to believe you.",
+   "ro": "Mi-ar plăcea să te cred."
+  },
+  {
+   "key": "3263623365803483136",
+   "en": "Why should I trust you? Gave me a seizure a second ago.",
+   "ro": "De ce ar trebui să am încredere în tine? Mi-ai dat o criză acum o secundă."
+  },
+  {
+   "key": "3263623705290448896",
+   "en": "How do I know I can trust you?",
+   "ro": "Și de unde știu că pot să mă bizui pe tine?"
+  },
+  {
+   "key": "3263790471471108096",
+   "en": "A side effect, I'm sorry. If it's any consolation, I will make it up to you.",
+   "ro": "Un efect secundar, scuze. Dacă te mai liniștește, o să mă revanșez."
+  },
+  {
+   "key": "3278164688703062016",
+   "en": "Feel my fingertips tingling.",
+   "ro": "Simt cum mi se furnică degetele."
+  },
+  {
+   "key": "3278165337645776896",
+   "en": "Decent soft!",
+   "ro": "Soft frumușel!"
+  },
+  {
+   "key": "3278168248626970624",
+   "en": "Feel a… tinglin' in my fingertips. Kinda nice, actually.",
+   "en_m": "Feel a… tingling in my fingertips. Kinda nice, actually.",
+   "ro": "Simt o… furnicătură în degete. Chiar e plăcut, de fapt."
+  },
+  {
+   "key": "3278174058778198024",
+   "en": "Militech firmware... Heh, my, my, solid soft!",
+   "ro": "Firmware Militech... Heh, ce soft solid!"
+  },
+  {
+   "key": "3294403839219142656",
+   "en": "Some preem Militech combat soft. It's just lyin' around, gatherin' dust.",
+   "ro": "Un soft de luptă Militech beton. Zace pe undeva, adunând praf."
+  },
+  {
+   "key": "3294418935425208320",
+   "en": "Oh, it goes a lot further than tingling, trust me.",
+   "ro": "A, merge mult mai departe de-atât, crede-mă."
+  },
+  {
+   "key": "3294419701741326336",
+   "en": "Well, a cushy government gig like mine just comes with all kinds of perks.",
+   "ro": "Păi, un gig la guvern, comod, ca al meu, vine cu tot felul de avantaje."
+  },
+  {
+   "key": "3302638460059254784",
+   "en": "Better?",
+   "ro": "Mai bine?"
+  },
+  {
+   "key": "3302638500660117504",
+   "en": "Try and get up.",
+   "ro": "Încearcă să te ridici."
+  },
+  {
+   "key": "3302644185804308480",
+   "en": "I'm on your side, V.",
+   "ro": "Sunt de partea ta, V."
+  },
+  {
+   "key": "3302644216405950464",
+   "en": "We'll get along, I'm certain.",
+   "ro": "O să ne înțelegem, sunt sigură."
+  },
+  {
+   "key": "3302645695502090240",
+   "en": "Don't wanna mess in your head more than I have to.",
+   "ro": "Nu vreau să mă bag în capul tău mai mult decât trebuie."
+  },
+  {
+   "key": "3302645721339002880",
+   "en": "Construct's really done a number on you...",
+   "ro": "Constructul ăsta chiar ți-a dat peste cap..."
+  },
+  {
+   "key": "3302647361580302336",
+   "en": "Take a moment, don't rush.",
+   "ro": "Ia-o ușor, nu te grăbi."
+  },
+  {
+   "key": "3302661001792454656",
+   "en": "Are you there?",
+   "ro": "Ești acolo?"
+  },
+  {
+   "key": "3302661117135814656",
+   "en": "Answer, please. I know you're on the line.",
+   "ro": "Hai, răspunde. Știu că ești pe fir."
+  },
+  {
+   "key": "3344757170529308672",
+   "en": "Easy to disappear in Dogtown.",
+   "ro": "E ușor să dispari în Dogtown."
+  },
+  {
+   "key": "3344757502181314560",
+   "en": "Dogtown... city within Night City. Know of clans who tried to establish footholds on the black market there.",
+   "ro": "Dogtown... oraș în Night City. Știu de niște clanuri care au încercat să pună piciorul pe piața neagră de-acolo."
+  },
+  {
+   "key": "3344767429092249600",
+   "en": "Never managed to stake any claims – hell, some plain never made it back.",
+   "en_m": "Never managed to stake any claims, hell – some plain never made it back.",
+   "ro": "N-am reușit niciodată să pun mâna pe ceva – naiba, unii nici n-au mai ajuns înapoi."
+  },
+  {
+   "key": "3344768154203525120",
+   "en": "Their mistake – one you won't repeat.",
+   "ro": "Greșeala lor – una pe care n-o să repeți."
+  },
+  {
+   "key": "3346136919679897600",
+   "en": "Consider this a... an advance.",
+   "ro": "Ia asta ca pe un... avans."
+  },
+  {
+   "key": "3346241974949056512",
+   "en": "Now, listen. What I gave you's the skeleton soft. But the firmware's fancy, it'll learn, grow with you. It'll improve if you feed it data.",
+   "ro": "Ce ți-am dat e softul pentru schelet. Dar firmware-ul ăsta e beton, învață, crește odată cu tine. Se mai îmbunătățește dacă-l hrănești cu date."
+  },
+  {
+   "key": "3346243401465401344",
+   "en": "Combat analyses, logs of legendary ops, shit that'd make the NCPD piss its boots. Look around Dogtown.",
+   "ro": "Analize de luptă, jurnale de operațiuni legendare, chestii care ar face NCPD-ul să-și ude bocancii. Caută prin Dogtown."
+  },
+  {
+   "key": "3348022624081350656",
+   "en": "Main entrance is a no-go. You don't have an entry pass, and I don't have time to produce a fake.",
+   "ro": "Intrarea principală nu e o opțiune. N-ai permis de intrare, iar eu n-am timp să-ți fac unul fals."
+  },
+  {
+   "key": "3348026194457464836",
+   "en": "Lead the way.",
+   "ro": "Tu condu."
+  },
+  {
+   "key": "3348038939923910656",
+   "en": "Guess so – after you.",
+   "ro": "Cred – după tine."
+  },
+  {
+   "key": "3355107218520457216",
+   "en": "Such as…?",
+   "ro": "Cum ar fi…?"
+  },
+  {
+   "key": "3357744907003826176",
+   "en": "Don't make me regret this.",
+   "ro": "Nu mă face să regret asta."
+  },
+  {
+   "key": "3357745910952431620",
+   "en": "Ugh, better not regret this…",
+   "en_m": "Hmph, better not regret this…",
+   "ro": "Ugh, mai bine să nu regret asta…",
+   "ro_m": "Hmph, mai bine să nu regret asta…"
+  },
+  {
+   "key": "3357746451732434944",
+   "en": "Leave it to me. I'll make damn sure you won't.",
+   "ro": "Lasă-mă pe mine. Am eu grijă, dracu', să nu o faci."
+  },
+  {
+   "key": "3489870989435969536",
+   "en": "Gotta cut you off – for your safety, for V's safety.",
+   "ro": "Trebuie să te întrerup – pentru siguranța ta și a lui V."
+  },
+  {
+   "key": "3492749303762755584",
+   "en": "V? Can you hear me?",
+   "ro": "V? Mă auzi?"
+  },
+  {
+   "key": "3492750102341459968",
+   "en": "Uh, loud and clear, whoever you are.",
+   "en_m": "Uh… uh, loud and clear, whoever you are.",
+   "ro": "Ăă, clar și tare, cine-o fi.",
+   "ro_m": "Ăă… ăă, clar și tare, cine-o fi."
+  },
+  {
+   "key": "3492750404062912512",
+   "en": "Good. It worked.",
+   "ro": "Bine. A funcționat."
+  },
+  {
+   "key": "3492750580861214720",
+   "en": "My name is So Mi. Just... call me Songbird, though.",
+   "ro": "Pe mine mă cheamă So Mi. Doar... zi-mi Songbird, da?"
+  },
+  {
+   "key": "3492762206851145728",
+   "en": "You must have questions. And I'll answer them in due course, shortly.",
+   "ro": "Sigur ai întrebări. O să ți le lămuresc pe rând, în curând."
+  },
+  {
+   "key": "3492769001170640896",
+   "en": "Nah, not convinced.",
+   "ro": "Nu, nu sunt convinsă.",
+   "ro_m": "Nu, nu sunt convins."
+  },
+  {
+   "key": "3492769532857393152",
+   "en": "I'll explain everything and prove I can help you. Right now, though – I'm beggin' you, V.",
+   "ro": "Îți explic totul și-ți dovedesc că pot să te ajut. Dar acum, te implor, V."
+  },
+  {
+   "key": "3492777502655750144",
+   "en": "Not exactly burstin' with excitement 'bout this plan.",
+   "ro": "Nu prea mă încântă planul ăsta."
+  },
+  {
+   "key": "3492778330057711616",
+   "en": "Thank you. I appreciate this, truly.",
+   "ro": "Mulțumesc. Chiar apreciez."
+  },
+  {
+   "key": "3492789606175580160",
+   "en": "Huh. This's one elaborate haze… or a fuckin' lifeline.",
+   "ro": "Hm. Ceață bine ticluită… sau colacul nostru de salvare, nenorocit."
+  },
+  {
+   "key": "3492808809343459328",
+   "en": "Expect you've already guessed – I'm a netrunner.",
+   "ro": "Bănuiesc că ți-ai dat seama – sunt netrunner."
+  },
+  {
+   "key": "3492809319840587776",
+   "en": "Hopped on the Relic's cognitive protocol to dial in. I see and hear what you do.",
+   "ro": "M-am conectat la protocolul cognitiv al Relic-ului ca să intru. Văd și aud ce faci."
+  },
+  {
+   "key": "3492819947821047808",
+   "en": "Guessin' you're a netrunner.",
+   "ro": "Bănuiesc că ești netrunner."
+  },
+  {
+   "key": "3492820370221015040",
+   "en": "Startin' to put two and two together. You gotta be a netrunner – damn good one at that.",
+   "ro": "Încep să pun cap la cap. Trebuie să fii netrunner – și al naibii de bun."
+  },
+  {
+   "key": "3492822493545472000",
+   "en": "Guilty as charged.",
+   "ro": "Vinovată, după cum se vede."
+  },
+  {
+   "key": "3492828509469253632",
+   "en": "Actually, I do.",
+   "ro": "De fapt, am."
+  },
+  {
+   "key": "3492846679865270272",
+   "en": "Had to mute him for now. He hears you fine, just can't talk back.",
+   "ro": "L-am pus pe mut deocamdată. Te aude bine, doar că nu poate răspunde."
+  },
+  {
+   "key": "3492864380314689536",
+   "en": "I know, V. You've hit a dead end, nowhere to turn. Been there, believe me.",
+   "ro": "Știu, V. Ești în fundătură, nicăieri de-ncolo. Crede-mă, am fost și eu acolo."
+  },
+  {
+   "key": "3495389756492455940",
+   "en": "How do I help?",
+   "ro": "Cum ajut?"
+  },
+  {
+   "key": "3495392624456867840",
+   "en": "Plane got hacked, right? You're a 'runner – can't override?",
+   "ro": "Avionul a fost hack-uit, nu? Ești 'runner – nu-l poți forța?"
+  },
+  {
+   "key": "3495394121454297088",
+   "en": "Plane – you can't \"unhack\" it?",
+   "ro": "Avionul – nu-l poți \"dezhack-ui\"?"
+  },
+  {
+   "key": "3495402713838362624",
+   "en": "I could. All I'd need is twenty-four hours, the right setup and a bottomless pot of coffee.",
+   "ro": "Aș putea. Tot ce mi-ar trebui sunt douăzeci și patru de ore, echipamentul potrivit și o oală fără fund de cafea."
+  },
+  {
+   "key": "3495408562124201984",
+   "en": "None of that's available just now.",
+   "ro": "Nimic din astea nu-i disponibil acum."
+  },
+  {
+   "key": "3495429109633622016",
+   "en": "How do I help? And how much time we got?",
+   "ro": "Cum ajut? Și cât timp mai avem?"
+  },
+  {
+   "key": "3495429430430769152",
+   "en": "Too little to avoid landing in Dogtown. Likely enough to minimize losses, save some folks.",
+   "ro": "Prea puțin cât să evităm aterizarea în Dogtown. Probabil destul cât să reducem pagubele, să salvăm pe câțiva."
+  },
+  {
+   "key": "3495430711975190528",
+   "en": "That's where you come in, V.",
+   "ro": "Aici intri tu, V."
+  },
+  {
+   "key": "3495430964220633088",
+   "en": "The president's life, her safety – that's your top priority.",
+   "ro": "Viața și siguranța președintei – asta e prioritatea numărul unu."
+  },
+  {
+   "key": "3495434303423488000",
+   "en": "She'll survive the landing. Dogtown, not so sure… You'll need to get 'er out of the plane before anyone else does.",
+   "ro": "Aterizarea o să-o supraviețuiască. Dogtown-ul, nu sunt sigură… Trebuie s-o scoți din avion înainte s-o facă altcineva."
+  },
+  {
+   "key": "3495454719567306752",
+   "en": "How in the--",
+   "ro": "Cum naiba--"
+  },
+  {
+   "key": "3495484542763245568",
+   "en": "Understand how serious this is?",
+   "ro": "Înțelegi cât de serioasă e situația?"
+  },
+  {
+   "key": "3495530134461849600",
+   "en": "You're all we've got, V.",
+   "ro": "Ești tot ce avem, V."
+  },
+  {
+   "key": "3495536421471887368",
+   "en": "Nothing's free, including my help.",
+   "ro": "Nimic nu-i gratis, nici ajutorul meu."
+  },
+  {
+   "key": "3495536421488664580",
+   "en": "Mentioned you could help me.",
+   "ro": "Ai menționat că m-ai putea ajuta."
+  },
+  {
+   "key": "3495538391922352128",
+   "en": "Man's got a thousand-and-one reasons to want Myers as a hostage.",
+   "ro": "Omul ăsta are o mie și unu de motive s-o vrea ostatică pe Myers."
+  },
+  {
+   "key": "3495541597494681600",
+   "en": "Tellin' me the NUS president, Rosalind Myers, is there with you?",
+   "ro": "Deci, președinta NUS, Rosalind Myers, e acolo cu tine?"
+  },
+  {
+   "key": "3495541716881350656",
+   "en": "You really with the president?",
+   "ro": "Chiar ești cu președinta?"
+  },
+  {
+   "key": "3495542190032396288",
+   "en": "Sitting right across from me.",
+   "ro": "Stă chiar în fața mea."
+  },
+  {
+   "key": "3495544311444250624",
+   "en": "She knows the situation. Waitin' for your \"yes.\"",
+   "ro": "Știe situația. Așteaptă un „da” de la tine."
+  },
+  {
+   "key": "3495550041333276672",
+   "en": "Nothin's for free, Songbird. We should talk biz.",
+   "ro": "Nimic nu-i gratis, Songbird. Hai să vorbim de afaceri."
+  },
+  {
+   "key": "3495550178738675712",
+   "en": "Said you could help me. That the plain truth?",
+   "ro": "Ai spus că m-ai putea ajuta. E adevărul gol-goluț?"
+  },
+  {
+   "key": "3495566901864931328",
+   "en": "\"Anyone else\"? Specifically? Meanin', you expectin' company?",
+   "en_m": "\"Anyone else\"? Specifically? Meanin' you expectin' company?",
+   "ro": "„Altcineva”? Cine anume? Adică aștepți companie?"
+  },
+  {
+   "key": "3495567209995280384",
+   "en": "Kurt Hansen, Dogtown's commander-in-chief.",
+   "ro": "Kurt Hansen, comandantul-șef al Dogtown-ului."
+  },
+  {
+   "key": "3495567839090548736",
+   "en": "Expectin' any company at the landing site?",
+   "ro": "Aștepți pe cineva la locul aterizării?"
+  },
+  {
+   "key": "3495569999777865728",
+   "en": "He couldn't've netjacked the plane on his own. Meaning Washington's got a mole problem.",
+   "ro": "N-ar fi putut să netjack-uiască avionul de unul singur. Adică Washington are o problemă cu cârtițele."
+  },
+  {
+   "key": "3495571009179066368",
+   "en": "Can we count on you?",
+   "ro": "Ne putem baza pe tine?"
+  },
+  {
+   "key": "3495614397240680448",
+   "en": "So – with me?",
+   "ro": "Deci – ești cu mine?"
+  },
+  {
+   "key": "3495776670215151616",
+   "en": "This is some heavy shit.",
+   "ro": "Asta-i o belea de rahat, serios."
+  },
+  {
+   "key": "3495777259179319296",
+   "en": "Heavy shit. 'M I really your one contact?",
+   "ro": "Belea, belea. Chiar sunt singurul tău contact?"
+  },
+  {
+   "key": "3495778432846241792",
+   "en": "You're my last and only hope.",
+   "ro": "Ești ultima și singura mea speranță."
+  },
+  {
+   "key": "3495786257572012032",
+   "en": "That one'll need solvin' later.",
+   "ro": "Pe aia o rezolvăm mai târziu."
+  },
+  {
+   "key": "3496867550334394368",
+   "en": "Just now, I'm on board Space Force One. Sitting right across from Rosalind Myers, president of the New United States of America.",
+   "ro": "Chiar acum sunt la bordul lui Space Force One. Stau chiar în fața lui Rosalind Myers, președinta Noilor State Unite ale Americii."
+  },
+  {
+   "key": "3496868678686056456",
+   "en": "The president? Fuck. I, uh... No, y-you're not joking.",
+   "en_m": "The president? Fuck. Hah, I... No, you're not jokin'.",
+   "ro": "Președintele? Futu-i. Eu, ăă... Nu, n-nu glumești.",
+   "ro_m": "Președintele? Futu-i. Ha, eu... Nu, nu glumești."
+  },
+  {
+   "key": "3496874812067127304",
+   "en": "The plane's been hacked, trajectory's set for Night City. They'll bring us down in Dogtown soon.",
+   "ro": "Avionul e hack-uit, traiectoria e setată spre Night City. O să ne aducă jos în Dogtown în curând."
+  },
+  {
+   "key": "3496875361000857608",
+   "en": "Right now… You're our one contact on the ground.",
+   "ro": "Chiar acum... Ești singurul nostru contact pe teren."
+  },
+  {
+   "key": "3496879015447601160",
+   "en": "Our comms are down, most likely jammed. The Relic was my only option.",
+   "ro": "Comunicațiile ne-au căzut, probabil sunt blocate. Relic-ul era singura mea opțiune."
+  },
+  {
+   "key": "3496903275905916940",
+   "en": "I know who you are – know your situation, your… problem.",
+   "ro": "Știu cine ești – îți știu situația, problema ta..."
+  },
+  {
+   "key": "3496903275922694148",
+   "en": "And I can save your life.",
+   "ro": "Și îți pot salva viața."
+  },
+  {
+   "key": "3498297124276510720",
+   "en": "Breathe deep, count to ten, recite a mantra…",
+   "ro": "Respiră adânc, numără până la zece, recită o mantră…"
+  },
+  {
+   "key": "3498301282828263424",
+   "en": "Whatever brings calm, helps you stabilize.",
+   "ro": "Orice te liniștește, te ajută să te stabilizezi."
+  },
+  {
+   "key": "3498307205068070912",
+   "en": "You'll feel better, any second now…",
+   "ro": "O să te simți mai bine, imediat…"
+  },
+  {
+   "key": "3498351600450510848",
+   "en": "Gotta get there first.",
+   "ro": "Trebuie să ajung acolo întâi."
+  },
+  {
+   "key": "3498357732053196800",
+   "en": "I'll be right beside you – as much as I can.",
+   "ro": "O să fiu chiar lângă tine – cât pot."
+  },
+  {
+   "key": "3520176878277468160",
+   "en": "[Stand] The hell you doin' to me?!",
+   "ro": "[Ridică-te] Ce dracu' îmi faci?!"
+  },
+  {
+   "key": "3520177219475709952",
+   "en": "The fff... fuck you doin'? This a trap?",
+   "en_m": "The fu... the fuck you doin'? This a trap?",
+   "ro": "Ce fff... ce dracu' faci? E o capcană?",
+   "ro_m": "Ce fu... ce dracu' faci? E o capcană?"
+  },
+  {
+   "key": "3520178524055248896",
+   "en": "Exact opposite. It's a helping hand.",
+   "ro": "Exact invers. Îți întind o mână de ajutor."
+  },
+  {
+   "key": "3537717869754556416",
+   "en": "I can cure you. Once and for all.",
+   "ro": "Te pot vindeca. O dată pentru totdeauna."
+  },
+  {
+   "key": "3537722690922455040",
+   "en": "Just got a taste of my abilities, I believe. There's more.",
+   "ro": "Ți-ai făcut o idee despre ce pot, cred. Mai e și altceva."
+  },
+  {
+   "key": "3559530549737791488",
+   "en": "No, V. I'm a netrunner.",
+   "ro": "Nu, V. Sunt netrunner."
+  },
+  {
+   "key": "3560735879696064512",
+   "en": "You'll slip in \"the back way,\" quiet as you can. We really don't need anyone spotting you, scanning you.",
+   "ro": "Intri pe „ușa din spate”, cât poți de tăcut. Nu vrem ca cineva să te vadă sau să te scaneze."
+  },
+  {
+   "key": "3602777166401695744",
+   "en": "Dead serious, yes.",
+   "ro": "Serios, da."
+  },
+  {
+   "key": "3727701745267482624",
+   "en": "Nah, fuck off!",
+   "ro": "Nah, du-te dracu'!"
+  },
+  {
+   "key": "3873706742357794816",
+   "en": "Riiiiight.",
+   "en_m": "Tsh.",
+   "ro": "Sigurrr...",
+   "ro_m": "Tsh."
+  },
+  {
+   "key": "3944937737493143552",
+   "en": "Aaaahh!",
+   "ro": "Aaaahh!"
+  }
+ ]
+}

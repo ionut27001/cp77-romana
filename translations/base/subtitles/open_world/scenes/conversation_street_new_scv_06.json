@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_06.json",
+ "entries": [
+  {
+   "key": "2276536542439841808",
+   "en": "I keep thinking about that house. And that hallway. It was so dark, and those strange voices, and that cold air...",
+   "ro": "Tot mă gândesc la casa aia. Și la holul ăla. Era atât de întuneric, și vocile alea ciudate, și aerul ăla rece..."
+  },
+  {
+   "key": "2276536542439841820",
+   "en": "<kiroshi l=\"rus\" o=\"Всё в этой стране не слава богу. Даже архитектура.\" t=\"Everything in this country is fucked up. Even the architecture.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Всё в этой стране не слава богу. Даже архитектура.\" t=\"Totul în țara asta e nasol rău. Chiar și arhitectura.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276536542439841832",
+   "en": "But that hallway shouldn't have been there! I saw the blueprints! Maybe... maybe the house was haunted?",
+   "ro": "Dar holul ăla n-ar fi trebuit să fie acolo! Am văzut planurile! Poate... poate casa era bântuită?"
+  }
+ ]
+}

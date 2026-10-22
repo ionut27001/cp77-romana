@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_009.json",
+ "entries": [
+  {
+   "key": "1832672751780487168",
+   "en": "When's the next hit?",
+   "ro": "Când e următoarea lovitură?"
+  },
+  {
+   "key": "1832675900058624000",
+   "en": "Hard to say. He upped security after the last one.",
+   "ro": "Greu de spus. A întărit securitatea după ultima."
+  },
+  {
+   "key": "1832676068636090368",
+   "en": "Locks us in a room, no phones, no Net, then finally gives us detes.",
+   "ro": "Ne închide într-o cameră, fără telefoane, fără Net, apoi ne dă detaliile."
+  },
+  {
+   "key": "1832676235602944000",
+   "en": "Then he keeps us there a while, sometimes the whole night, we start the op from there.",
+   "ro": "Apoi ne ține acolo o vreme, uneori toată noaptea, pornim operațiunea de acolo."
+  },
+  {
+   "key": "1832676545629118464",
+   "en": "Makes sense.",
+   "ro": "Are sens."
+  },
+  {
+   "key": "1832676695432880128",
+   "en": "Yep. So I gotta take him out?",
+   "ro": "Da. Deci trebuie să-l scot din joc?"
+  },
+  {
+   "key": "1832676858104766464",
+   "en": "Not yet.",
+   "ro": "Nu încă."
+  }
+ ]
+}

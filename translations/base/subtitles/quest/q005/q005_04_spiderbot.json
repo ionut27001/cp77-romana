@@ -1,0 +1,1106 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_04_spiderbot.json",
+ "entries": [
+  {
+   "key": "1612590475413172224",
+   "en": "We're in our room.",
+   "ro": "Suntem în cameră."
+  },
+  {
+   "key": "1628684857564344320",
+   "en": "All set.",
+   "ro": "Sunt pregătită.",
+   "ro_m": "Sunt pregătit."
+  },
+  {
+   "key": "1631719266018185216",
+   "en": "Where's the shaft?",
+   "ro": "Unde e puțul?"
+  },
+  {
+   "key": "1632849824085495808",
+   "en": "Neutralize him. Use the Flathead to jack into him.",
+   "ro": "Neutralizează-l. Folosește Flathead-ul ca să te conectezi la el."
+  },
+  {
+   "key": "1632852259801714688",
+   "en": "Didn't pick it for snazz. Offers quickest access to the dweller and servers.",
+   "ro": "Nu l-am ales pentru aspect. Oferă accesul cel mai rapid la locatar și servere."
+  },
+  {
+   "key": "1632853934184648704",
+   "en": "Dweller's inside.",
+   "ro": "Locatarul e înăuntru."
+  },
+  {
+   "key": "1632854178293141504",
+   "en": "Just as planned.",
+   "ro": "Exact ca în plan."
+  },
+  {
+   "key": "1632858024486686720",
+   "en": "Dweller won't realize somethin's up?",
+   "ro": "Locatarul n-o să-și dea seama că se întâmplă ceva?"
+  },
+  {
+   "key": "1632858587630718976",
+   "en": "Could drive a tank through here and he wouldn't feel a breeze. Dead to the world, that one.",
+   "ro": "Ai putea trece cu un tanc pe aici și n-ar simți nici o adiere. Doarme ca un buștean, ăla."
+  },
+  {
+   "key": "1661820112886091780",
+   "en": "[Take chip] Here goes nothin'.",
+   "ro": "[Ia cipul] Ei, să vedem ce iese."
+  },
+  {
+   "key": "1661820253328166912",
+   "en": "Here goes.",
+   "ro": "Hai că mergem."
+  },
+  {
+   "key": "1661820294985994240",
+   "en": "Why me? Why do I gotta slot it in?",
+   "ro": "De ce eu? De ce trebuie să-l introduc eu?"
+  },
+  {
+   "key": "1661834353135374336",
+   "en": "Why's it gotta be me?",
+   "ro": "De ce trebuie să fiu eu?"
+  },
+  {
+   "key": "1661848757298057216",
+   "en": "Unlike someone, I haven't run up my tab with Vik. Got last-gen firmware, low flow.",
+   "ro": "Nu ca unii, eu n-am datorii la Vik. Am firmware vechi, flux scăzut."
+  },
+  {
+   "key": "1661848972667179008",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Just do it, \" a=\", ain't got all day.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Just do it, \" a=\", ain't got all day.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Fă-o, \" a=\", n-am toată ziua.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Fă-o, \" a=\", n-am toată ziua.\"/>"
+  },
+  {
+   "key": "1661861711775059968",
+   "en": "Sounds simple enough.",
+   "ro": "Pare destul de simplu."
+  },
+  {
+   "key": "1661865472320917504",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1663543197695791104",
+   "en": "Penthouse security is neutralized.",
+   "ro": "Securitatea penthouse-ului e neutralizată."
+  },
+  {
+   "key": "1689374686667546628",
+   "en": "Flathead ready?",
+   "ro": "Flathead-ul e gata?"
+  },
+  {
+   "key": "1689600150489210880",
+   "en": "Flathead prepped to go?",
+   "ro": "Flathead-ul e gata de drum?"
+  },
+  {
+   "key": "1689607258643308544",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Almost there, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"carnal\" b=\"Almost there, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Aproape am terminat, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"carnal\" b=\"Aproape am terminat, \" a=\".\"/>"
+  },
+  {
+   "key": "1692123093500895232",
+   "en": "<mothertongue l=\"mex\" m=\"Mierda.\" b=\"\" a=\" Little gonk's stuck.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mierda.\" b=\"\" a=\" Fraierul ăsta mic s-a blocat.\"/>"
+  },
+  {
+   "key": "1692125566814855168",
+   "en": "Just gonna stand there and look at it? Gonna have to switch to manual control.",
+   "ro": "Stai doar acolo și te uiți la el? Trebuie să treci pe control manual."
+  },
+  {
+   "key": "1692126931054174208",
+   "en": "Here.",
+   "ro": "Uite."
+  },
+  {
+   "key": "1711262588604395520",
+   "en": "Patching you through to in-cam view. Might get a little disoriented, but don't freak.",
+   "ro": "Te conectez la vederea din cameră. S-ar putea să te dezorientezi puțin, dar nu intra în panică."
+  },
+  {
+   "key": "1734416745603411968",
+   "en": "What makes you think it was for you?",
+   "ro": "Ce te face să crezi că era pentru tine?"
+  },
+  {
+   "key": "1734419904602189824",
+   "en": "He addressed it to the kind housekeeper who finds him. Note inside said \"Sorry for the mess.\"",
+   "ro": "L-a adresat menajerei amabile care îl găsește. În notă scria \"Scuze pentru mizerie.\""
+  },
+  {
+   "key": "1734420849964756992",
+   "en": "Think he's single?",
+   "ro": "Crezi că e singur?"
+  },
+  {
+   "key": "1734597253666844672",
+   "en": "A week – that's all we can promise you.",
+   "ro": "O săptămână – asta e tot ce putem promite."
+  },
+  {
+   "key": "1734598919694725120",
+   "en": "We will try. And that is all I can promise you.",
+   "ro": "Încercăm. Și asta e tot ce pot să promit."
+  },
+  {
+   "key": "1735915118546268160",
+   "en": "'Kay…",
+   "ro": "'Bine…"
+  },
+  {
+   "key": "1740374204813815808",
+   "en": "Shaft may link both rooms, looks like.",
+   "ro": "Puțul ar putea lega ambele camere, se pare."
+  },
+  {
+   "key": "1740380922528542720",
+   "en": "Huh...? What the hell--?",
+   "ro": "Hm...? Ce naiba--?"
+  },
+  {
+   "key": "1743218606850584576",
+   "en": "You can't just go locking people out of their homes, places of work…",
+   "ro": "Nu poți să-i încui pe oameni afară din case, din locurile de muncă…"
+  },
+  {
+   "key": "1743220079319724032",
+   "en": "Arasaka will cover the cost of any and all penalties assessed.",
+   "ro": "Arasaka o să acopere costul oricăror penalități aplicate."
+  },
+  {
+   "key": "1743220351060291584",
+   "en": "This isn't about the money. It's election season. How d'ya think this'll make me look?",
+   "ro": "Nu e vorba de bani. E sezon electoral. Cum crezi că o să arăt?"
+  },
+  {
+   "key": "1743221599100612608",
+   "en": "People'll start saying I've lost control of Watson – district I'm from!",
+   "ro": "Oamenii o să înceapă să zică că am pierdut controlul asupra lui Watson – districtul de unde sunt!"
+  },
+  {
+   "key": "1744531208163700736",
+   "en": "Looks like he's havin' trouble.",
+   "ro": "Parcă are probleme."
+  },
+  {
+   "key": "1744533152424931328",
+   "en": "Shit...",
+   "ro": "Căcat..."
+  },
+  {
+   "key": "1744585383840985088",
+   "en": "OK, he's at it.",
+   "ro": "OK, s-a apucat."
+  },
+  {
+   "key": "1744586935163039744",
+   "en": "Now toggle over to the other cam.",
+   "ro": "Acum treci pe cealaltă cameră."
+  },
+  {
+   "key": "1754742975808548864",
+   "en": "Shit – think he mighta noticed that!",
+   "ro": "Fir-ar – cred că a băgat de seamă!"
+  },
+  {
+   "key": "1754771625119461376",
+   "en": "Hold, I'll use their internal comms.",
+   "ro": "Stai, mă bag pe comunicațiile lor interne."
+  },
+  {
+   "key": "1754775229117116416",
+   "en": "Grrugh... What now?",
+   "ro": "Grrugh... Și acum ce?"
+  },
+  {
+   "key": "1754779534385623040",
+   "en": "Now, V.",
+   "ro": "Acum, V."
+  },
+  {
+   "key": "1754813773898461184",
+   "en": "You know – good-lookin', filthy-rich, has that naughty look in his eye. He's stayin' in the penthouse.",
+   "ro": "Știi tu – arătos, bogat tun, cu privirea aia obraznică. Stă la penthouse."
+  },
+  {
+   "key": "1754814548871622656",
+   "en": "Mean Yorinobu Arasaka? Men like him're always single.",
+   "ro": "Vorbești de Yorinobu Arasaka? Tipii ca el sunt mereu singuri."
+  },
+  {
+   "key": "1761693959201804288",
+   "en": "Got a winner.",
+   "ro": "Am găsit ținta."
+  },
+  {
+   "key": "1761696735646502912",
+   "en": "Good. Jackie, how's the Flathead lookin'?",
+   "ro": "Bine. Jackie, cum arată Flathead-ul?"
+  },
+  {
+   "key": "1761790047149674496",
+   "en": "Boot up your scanner, look around.",
+   "ro": "Pornește scanerul, dă o tură cu privirea."
+  },
+  {
+   "key": "1761793063105908736",
+   "en": "Systems're operational, charge at a hundred…",
+   "ro": "Sistemele merg, încărcarea e la sută…"
+  },
+  {
+   "key": "1761796581002891264",
+   "en": "Simplicity's sometimes toughest to master.",
+   "ro": "Simplitatea e uneori cel mai greu de stăpânit."
+  },
+  {
+   "key": "1761875420311769088",
+   "en": "There was blood everywhere, but at least he left a tip.",
+   "ro": "Era sânge peste tot, dar măcar a lăsat bacșiș."
+  },
+  {
+   "key": "1761875514012520448",
+   "en": "Am I the only one that just gets puke and used condoms?",
+   "ro": "Sunt singurul care dă doar peste vomă și prezervative folosite?"
+  },
+  {
+   "key": "1761982858683797504",
+   "en": "I'd give him a ride and wipe him out…",
+   "ro": "I-aș da o tură și l-aș lichida…"
+  },
+  {
+   "key": "1761982969262428160",
+   "en": "Honey... stick to wipin' that glass, huh? You're leavin' streaks everywhere!",
+   "ro": "Dragă... mai bine ține-te de șters geamul, da? Lași dungi peste tot!",
+   "ro_m": "Dragule... mai bine ține-te de șters geamul, da? Lași dungi peste tot!"
+  },
+  {
+   "key": "1763051152224342016",
+   "en": "Dweller's just beyond the door.",
+   "ro": "Dweller e chiar dincolo de ușă."
+  },
+  {
+   "key": "1763054840728834048",
+   "en": "Gotta be another way. Lemme think...",
+   "ro": "Trebuie să fie altă cale. Stai să mă gândesc..."
+  },
+  {
+   "key": "1763057447891423232",
+   "en": "Let's figure it out.",
+   "ro": "Hai să ne dăm seama."
+  },
+  {
+   "key": "1763064933331554304",
+   "en": "Sit tight. Wait it out.",
+   "ro": "Stai cuminte. Ai răbdare."
+  },
+  {
+   "key": "1763112390740463616",
+   "en": "Eightieth floor?! Seriously?!",
+   "ro": "Etajul optzeci?! Serios?!"
+  },
+  {
+   "key": "1763170418533650432",
+   "en": "What do we do now?",
+   "ro": "Ce facem acum?"
+  },
+  {
+   "key": "1763170791843483648",
+   "en": "I'll flash-freeze him with a daemon... Old lingo, don't ask…",
+   "ro": "Îl bag în freezer cu un daemon... Expresie veche, nu mă întreba…"
+  },
+  {
+   "key": "1763171188322652160",
+   "en": "Gotta jack straight into his chair. He won't know what hit him, then.",
+   "ro": "Trebuie să mă bag direct în scaunul lui. Atunci n-o să știe ce l-a lovit."
+  },
+  {
+   "key": "1785245712882913280",
+   "en": "<mothertongue l=\"mex\" m=\"Perfecto.\" b=\"\" a=\" Let's start the show.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Perfecto.\" b=\"\" a=\" Să înceapă spectacolul.\"/>"
+  },
+  {
+   "key": "1796948036479901696",
+   "en": "Lemme neutralize him.",
+   "ro": "Lasă-mă să-l neutralizez."
+  },
+  {
+   "key": "1796950716656934912",
+   "en": "Flathead oughta be able to neutralize him.",
+   "ro": "Flathead-ul ar trebui să-l poată neutraliza."
+  },
+  {
+   "key": "1796953356602204160",
+   "en": "Good thinking. Lemme graft a demonoid onto your link.",
+   "ro": "Bună idee. Îți bag un demonoid pe link."
+  },
+  {
+   "key": "1796953471492579328",
+   "en": "And ya know ya gotta jack the Flathead directly into his chair, right?",
+   "ro": "Și știi că trebuie să conectezi Flathead-ul direct la scaunul lui, nu?"
+  },
+  {
+   "key": "1796955334451421184",
+   "en": "Make it sound like I'm new at this.",
+   "ro": "Fă să pară că sunt nouă în treaba asta.",
+   "ro_m": "Fă să pară că sunt nou în treaba asta."
+  },
+  {
+   "key": "1796955719085875200",
+   "en": "OK, sent. He's all yours.",
+   "ro": "OK, trimis. E al tău."
+  },
+  {
+   "key": "1877989485953560576",
+   "en": "OK, got a clear view.",
+   "ro": "OK, văd bine."
+  },
+  {
+   "key": "1877993335452217344",
+   "en": "Let's do this. Steer him outta the shaft.",
+   "ro": "Hai s-o facem. Scoate-l din puț."
+  },
+  {
+   "key": "1877996216033095680",
+   "en": "All set. T?",
+   "ro": "Gata. T?"
+  },
+  {
+   "key": "1878001056780005376",
+   "en": "Get him to the next vent.",
+   "ro": "Du-l la următoarea aerisire."
+  },
+  {
+   "key": "1878003925415505920",
+   "en": "OK, Flathead's in.",
+   "ro": "OK, Flathead-ul e înăuntru."
+  },
+  {
+   "key": "1878006360561299456",
+   "en": "Patching you into next cam now.",
+   "ro": "Te bag pe următoarea cameră."
+  },
+  {
+   "key": "1878018588886839296",
+   "en": "And? See anything?",
+   "ro": "Și? Vezi ceva?"
+  },
+  {
+   "key": "1878023181985263616",
+   "en": "Yep.",
+   "ro": "Da."
+  },
+  {
+   "key": "1878023487565475840",
+   "en": "Do your thing.",
+   "ro": "Fă ce ai de făcut."
+  },
+  {
+   "key": "1878024669100912640",
+   "en": "Uhhh, Bug? Got a hitch.",
+   "ro": "Ăă, Bug? Am o problemă."
+  },
+  {
+   "key": "1878028761768538112",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1878028901237534720",
+   "en": "Housekeeping's in my way.",
+   "ro": "Menajera îmi stă în cale."
+  },
+  {
+   "key": "1878029134054961152",
+   "en": "Gotta distract her. Hmm, let's see what's on the subnet...",
+   "ro": "Trebuie s-o distrag. Hm, să vedem ce-i pe subnet..."
+  },
+  {
+   "key": "1878032050572636160",
+   "en": "All right, on it.",
+   "ro": "Bine, mă ocup."
+  },
+  {
+   "key": "1878033876168617984",
+   "en": "Uhh... Kat? Something's up with the tank…",
+   "ro": "Ăă... Kat? Cam ceva nu e în regulă cu rezervorul…"
+  },
+  {
+   "key": "1878037445169000448",
+   "en": "Jesus Christ -- you got any idea how much those things cost?!",
+   "ro": "Doamne, Dumnezeule -- ai idee cât costă chestiile alea?!"
+  },
+  {
+   "key": "1878039815017869312",
+   "en": "Hey, Bug! It worked!",
+   "ro": "Hei, Bug! A funcționat!"
+  },
+  {
+   "key": "1878041200128045056",
+   "en": "Psh, ain't seen nothin' yet.",
+   "ro": "Psh, n-ai văzut nimic încă."
+  },
+  {
+   "key": "1883668063475085312",
+   "en": "Mighta found our way in!",
+   "ro": "Poate ne-am găsit intrarea!"
+  },
+  {
+   "key": "1883839217972162560",
+   "en": "Bingo.",
+   "ro": "Bingo."
+  },
+  {
+   "key": "1883873008879022080",
+   "en": "Got the port.",
+   "ro": "Am portul."
+  },
+  {
+   "key": "1883880860968431616",
+   "en": "Flathead, jack it in, we'll have eyes on the next room.",
+   "ro": "Flathead, conectează-l, o să avem ochi în camera următoare."
+  },
+  {
+   "key": "1883884640338325504",
+   "en": "OK, have the Flathead jack in.",
+   "ro": "OK, conectează Flathead-ul."
+  },
+  {
+   "key": "1883898006326882304",
+   "en": "Got another cam here.",
+   "ro": "Mai am o cameră aici."
+  },
+  {
+   "key": "1883901666393993216",
+   "en": "Can't breach it. You gotta jack the Flathead into the CCTV subnet.",
+   "ro": "Nu pot sparge. Trebuie să conectezi Flathead-ul la subnetul CCTV."
+  },
+  {
+   "key": "1883908162867572736",
+   "en": "Look around – CCTV access port's gotta be around there.",
+   "ro": "Uită-te în jur – portul de acces CCTV trebuie să fie pe-acolo."
+  },
+  {
+   "key": "1883910964796862464",
+   "en": "Wanna use it? You'll need to connect the Flathead to the CCTV port.",
+   "ro": "Vrei să-l folosești? Trebuie să conectezi Flathead-ul la portul CCTV."
+  },
+  {
+   "key": "1885182916375228416",
+   "en": "Second cam, maybe? Could see something.",
+   "ro": "Poate a doua cameră? Am putea vedea ceva."
+  },
+  {
+   "key": "1885197649354567680",
+   "en": "Look for the CCTV port. See anything?",
+   "ro": "Caută portul CCTV. Vezi ceva?"
+  },
+  {
+   "key": "1885219259130195968",
+   "en": "Jack the Flathead in, next cam's ours.",
+   "ro": "Conectează Flathead-ul, următoarea cameră e a noastră."
+  },
+  {
+   "key": "1885234857545445376",
+   "en": "Won't get anywhere without that next cam. Flathead into the CCTV subnet, jack it in now.",
+   "ro": "Fără camera aia n-ajungem nicăieri. Flathead-ul în subrețeaua CCTV, conectează-l acum."
+  },
+  {
+   "key": "1885237968024514560",
+   "en": "Send the Flathead over there, then toggle over to the second cam.",
+   "ro": "Trimite Flathead-ul acolo, apoi comută pe a doua cameră."
+  },
+  {
+   "key": "1902676293156917248",
+   "en": "Don't know yet.",
+   "ro": "Nu știu încă."
+  },
+  {
+   "key": "1902676417727746048",
+   "en": "Could always swap between cams…",
+   "ro": "Putem oricând să comutăm între camere…"
+  },
+  {
+   "key": "1903747572723142656",
+   "en": "Flathead into the chair, V, jack in.",
+   "ro": "Flathead-ul în scaun, V, conectează-te."
+  },
+  {
+   "key": "1906723507881783296",
+   "en": "V, take the control shard from Jackie. Gonna link your Kiroshis to surveillance so you can guide the bot.",
+   "ro": "V, ia shard-ul de control de la Jackie. O să-ți conectez Kiroshi-urile la supraveghere ca să ghidezi botul."
+  },
+  {
+   "key": "1906866251270860800",
+   "en": "Bug? How're you doin' on time?",
+   "ro": "Bug? Cum stai cu timpul?"
+  },
+  {
+   "key": "1906867303990833152",
+   "en": "You there, Bug?",
+   "ro": "Ești acolo, Bug?"
+  },
+  {
+   "key": "1906867725400944640",
+   "en": "Soooo listen, ICE is thicker than I thought. Piercing it'll take a couple hours.",
+   "ro": "Deci, ascultă, ICE-ul e mai gros decât credeam. O să-mi ia câteva ore să-l trec."
+  },
+  {
+   "key": "1906869149836914688",
+   "en": "A couple hours?! Can't do it any faster?",
+   "ro": "Câteva ore?! Nu poți mai repede?"
+  },
+  {
+   "key": "1906870133099212800",
+   "en": "Want my brain to burst into flames?",
+   "ro": "Vrei să-mi ia foc creierul?"
+  },
+  {
+   "key": "1906877967572545536",
+   "en": "And we are back in biz.",
+   "ro": "Și suntem iar în afaceri."
+  },
+  {
+   "key": "1924299966980698112",
+   "en": "Got another cam other side of the door, but it's disabled.",
+   "ro": "Mai e o cameră după ușă, dar e oprită."
+  },
+  {
+   "key": "1924307435710722048",
+   "en": "Yeah. Look around for a CCTV port.",
+   "ro": "Da. Caută un port CCTV pe-aici."
+  },
+  {
+   "key": "1924328472678641664",
+   "en": "You'll have to get the Flathead in there first, though.",
+   "ro": "Trebuie să bagi Flathead-ul acolo întâi, totuși."
+  },
+  {
+   "key": "1947607247701954560",
+   "en": "Weren't you supposed to look for the shaft?",
+   "ro": "Nu trebuia să cauți tu puțul?"
+  },
+  {
+   "key": "1947608298895200260",
+   "en": "Still nothin'? C'mon, can't be that hard.",
+   "ro": "Tot nimic? Hai, nu poate fi chiar așa de greu."
+  },
+  {
+   "key": "1953485893908967424",
+   "en": "Whoop! Got him! Love those daemons!",
+   "ro": "Ura! L-am prins! Ador daemonii ăștia!"
+  },
+  {
+   "key": "1966479712580268036",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1967602387584360448",
+   "en": "Surveillance cover the whole hotel?",
+   "ro": "Camerele de supraveghere acoperă tot hotelul?"
+  },
+  {
+   "key": "1967602775825915904",
+   "en": "Surveillance cover the whole hotel?",
+   "ro": "Camerele de supraveghere acoperă tot hotelul?"
+  },
+  {
+   "key": "1967603803866603520",
+   "en": "Mhm. Even the bedrooms in the suites.",
+   "ro": "Mhm. Până și dormitoarele din suite."
+  },
+  {
+   "key": "1967604836135149568",
+   "en": "Guests don't care?",
+   "ro": "Oaspeților nu le pasă?"
+  },
+  {
+   "key": "1967605219460980736",
+   "en": "You'd be surprised what people're willin' to give up to feel secure.",
+   "ro": "Te-ai mira ce-s oamenii în stare să dea ca să se simtă în siguranță."
+  },
+  {
+   "key": "1983916397552279552",
+   "en": "Aurelius? Aristotle? Who's it this time?",
+   "ro": "Aurelius? Aristotel? Cine e de data asta?"
+  },
+  {
+   "key": "1983958156311339008",
+   "en": "Yours truly, that one's mine.",
+   "ro": "Ăla e al meu, sigur."
+  },
+  {
+   "key": "1983959432990367744",
+   "en": "Pretty snazzy. Too bad we ain't stayin' the night. Nice choice, Bug.",
+   "ro": "Destul de șmecher. Păcat că nu rămânem peste noapte. Alegere bună, Bug."
+  },
+  {
+   "key": "1983963526345859072",
+   "en": "Lucky for us, Yorinobu's an exception. Penthouse is dark, no hotel security.",
+   "ro": "Ne-a ieșit, Yorinobu e excepția. Penthouse-ul e întunecat, fără pază de hotel."
+  },
+  {
+   "key": "1983979045539094528",
+   "en": "To keep an eye on the dweller, yeah.",
+   "ro": "Să țină un ochi pe locatar, da."
+  },
+  {
+   "key": "1983984477968080896",
+   "en": "What did you do?",
+   "ro": "Ce-ai făcut?"
+  },
+  {
+   "key": "1983985082249846784",
+   "en": "Called him upstairs, urgent business. Some poor psycho's threatening to jump.",
+   "ro": "L-am chemat sus, treabă urgentă. Un nebun amărât amenință că sare."
+  },
+  {
+   "key": "1986615758509907968",
+   "en": "Flathead can jimmy the lock.",
+   "ro": "Flathead-ul poate forța încuietoarea."
+  },
+  {
+   "key": "1986623751561486336",
+   "en": "Want me to enable?",
+   "ro": "Vrei să-l activez?"
+  },
+  {
+   "key": "1986640497571864576",
+   "en": "Still weird the hotel's only got one 'runner.",
+   "ro": "Tot e ciudat că hotelul are un singur runner."
+  },
+  {
+   "key": "1986640936648384512",
+   "en": "Decent dweller's as good as a dozen rank-and-file.",
+   "ro": "Un locatar decent face cât o duzină de soldați de rând."
+  },
+  {
+   "key": "1986677560220393472",
+   "en": "Flathead stays, right?",
+   "ro": "Flathead-ul rămâne, nu?"
+  },
+  {
+   "key": "1986686564870987776",
+   "en": "Punching into Konpeki's main net. You go ahead and log out.",
+   "ro": "Mă bag în rețeaua principală a Konpeki. Tu ieși din rețea."
+  },
+  {
+   "key": "1986689916790972416",
+   "en": "<kiroshi l=\"mex\" o=\"¡Así es cómo se hace!\" t=\"That's how it's done!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Así es cómo se hace!\" t=\"Așa se face!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1986691498244907008",
+   "en": "How ya feelin'?",
+   "ro": "Cum te simți?"
+  },
+  {
+   "key": "1986708467643916288",
+   "en": "Fine. Little dizzy, that's all.",
+   "ro": "Bine. Puțin amețită, atât.",
+   "ro_m": "Bine. Puțin amețit, atât."
+  },
+  {
+   "key": "1986708894506622976",
+   "en": "Take a few deep breaths, all right?",
+   "ro": "Respiră adânc de câteva ori, bine?"
+  },
+  {
+   "key": "1986716796105596928",
+   "en": "Yeah, yeah, I'm here.",
+   "ro": "Da, da, sunt aici."
+  },
+  {
+   "key": "1986722815082831872",
+   "en": "Just siddown and enjoy your snazzy suite.",
+   "ro": "Așază-te și bucură-te de suita ta șmecheră."
+  },
+  {
+   "key": "1986790410200883200",
+   "en": "Where's the damn justice in it?",
+   "ro": "Și unde naiba e dreptatea în toată treaba asta?"
+  },
+  {
+   "key": "1989557150605451264",
+   "en": "Now you fire up the Flathead and find the shaft entrance.",
+   "ro": "Acum pornește Flathead-ul și găsește intrarea în puț."
+  },
+  {
+   "key": "1989559098138238976",
+   "en": "<kiroshi l=\"mex\" o=\"Sí, sí, me acuerdo.\" t=\"Yeah, yeah. I remember.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sí, sí, me acuerdo.\" t=\"Da, da. Îmi amintesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1989572486490824704",
+   "en": "Can't see a thing from where I'm poised in the subnet. Need a scan of the room, V.",
+   "ro": "Din subrețea nu văd nimic. Îmi trebuie o scanare a camerei, V."
+  },
+  {
+   "key": "1989577721418424320",
+   "en": "Keep movin', no time for back-pattin'.",
+   "ro": "Mișcă, n-avem timp de tapșe pe spate."
+  },
+  {
+   "key": "1993484585923321856",
+   "en": "Whaddaya think? Why'd he give it all up?",
+   "ro": "Ce crezi? De ce a renunțat la toate?"
+  },
+  {
+   "key": "1993485655688945664",
+   "en": "Hmm? Who gave what up?",
+   "ro": "Hm? Cine a renunțat la ce?"
+  },
+  {
+   "key": "1993485821649166336",
+   "en": "Yorinobu Arasaka. The good life, I mean.",
+   "ro": "Yorinobu Arasaka. La viața bună, adică."
+  },
+  {
+   "key": "1993486522148265984",
+   "en": "Old news, I know. Just got to thinkin's all.",
+   "ro": "Știu, e veche povestea. Doar că m-am apucat să mă gândesc."
+  },
+  {
+   "key": "1993487484673925124",
+   "en": "Did the same with the Valentinos, didn't you?",
+   "ro": "Ai făcut la fel și cu Valentinos, nu?"
+  },
+  {
+   "key": "1993489100990914560",
+   "en": "It's like, think... You got everything, right? Eddies, education. Your pops can snap his fingers and turn half the fuckin' planet into a nuclear wasteland…",
+   "ro": "Adică, gândește-te... Ai de toate, nu? Eddies, educație. Taică-tu dă din degete și jumătate din planeta asta nenorocită ajunge deșert nuclear…"
+  },
+  {
+   "key": "1993489856905158656",
+   "en": "You can kick the rat outta the corp, but…",
+   "ro": "Poți scoate șobolanul din corporație, da'…"
+  },
+  {
+   "key": "1993490511317245952",
+   "en": "Maybe he wanted to ditch the system.",
+   "ro": "Poate voia să scape de sistem."
+  },
+  {
+   "key": "1993490899776905216",
+   "en": "Rich asshole's whim – why should I care?",
+   "ro": "Capriciul unui boule bogat – de ce să-mi pese?"
+  },
+  {
+   "key": "1993492055223771136",
+   "en": "Ehh, fuck 'im! Why do I need to care about some bougie prick and his street-kid fantasies?",
+   "ro": "Ehh, să-l ia dracu'! De ce să-mi pese de un bou bogătaș și de fanteziile lui de puști de cartier?"
+  },
+  {
+   "key": "1993494872940421120",
+   "en": "But instead you're like, \"Nah, fuck it,\" and whaddaya go do?",
+   "ro": "Dar tu ai zis „Ba, dă-o dracu'” și ce-ai făcut?"
+  },
+  {
+   "key": "1993497203933257728",
+   "en": "Heheh, musta been a hoot, huh? \"I'm Yorinobu Arasaka. Would you folks like to join my gang?\" Tsh... poser with corp protection.",
+   "ro": "Heheh, sigur a fost tare, nu? „Sunt Yorinobu Arasaka. Vreți să intrați în banda mea?” Tsh... fandosit cu pază de corporație."
+  },
+  {
+   "key": "1993498092790161408",
+   "en": "Heheh, and the name, too! Steel fuckin' Dragons?",
+   "ro": "Heheh, și numele! Steel Dragons ăia nenorociți?"
+  },
+  {
+   "key": "1993498673080508416",
+   "en": "Hah, oh man. A wannabe gangoon's wet dream.",
+   "ro": "Hah, of, frate. Visul umed al unui wannabe de gangoon."
+  },
+  {
+   "key": "1993499088249495552",
+   "en": "Got bored of bein' rich, then got bored of playin' tough.",
+   "en_m": "Got bored of bein' rich, an' then got bored of playin' tough.",
+   "ro": "M-am plictisit să fiu bogată, apoi m-am plictisit să mă dau dură.",
+   "ro_m": "M-am plictisit să fiu bogat, apoi m-am plictisit să mă dau dur."
+  },
+  {
+   "key": "1993499560729452544",
+   "en": "Tough to ditch the system when the system's your own family.",
+   "ro": "Greu să scapi de sistem când sistemul e chiar familia ta."
+  },
+  {
+   "key": "1993501933682106368",
+   "en": "Said it yourself – you can kick the rat outta the corp...",
+   "ro": "Ai spus-o tu însăți – poți să dai șobolanul afară din corporație...",
+   "ro_m": "Ai spus-o tu însuți – poți să dai șobolanul afară din corporație..."
+  },
+  {
+   "key": "1993502316722724864",
+   "en": "Black sheep's still a sheep, eh?",
+   "ro": "Oaia neagră tot oaie rămâne, nu?"
+  },
+  {
+   "key": "1993503085253435392",
+   "en": "One way to put it.",
+   "ro": "Așa se poate spune."
+  },
+  {
+   "key": "1993503806942158848",
+   "en": "But you'll never kick the corp outta the rat.",
+   "ro": "Dar n-o să scoți niciodată corporația din șobolan."
+  },
+  {
+   "key": "1993504285445136384",
+   "en": "Prolly just got bored – all one percenters do sooner or later.",
+   "ro": "Probabil s-a plictisit – toți ăia de pe un procent o pățesc mai devreme sau mai târziu."
+  },
+  {
+   "key": "1993507283617521664",
+   "en": "Went down the same road, didn't you?",
+   "ro": "Ai luat-o pe același drum, nu?"
+  },
+  {
+   "key": "1993510221626810368",
+   "en": "Hooked up with the Valentinos, spewed some lead, then walked away.",
+   "ro": "Te-ai legat de Valentinos, ai tras niște gloanțe, apoi ai plecat."
+  },
+  {
+   "key": "1993510411679113216",
+   "en": "Ey! That ain't the same thing!",
+   "ro": "Ey! Nu-i același lucru!"
+  },
+  {
+   "key": "1993512422613000192",
+   "en": "You ghost from your fam, chip some RealSkinn and play gang leader for a few years. For what?!",
+   "ro": "Ai fugit de la familie, ți-ai pus RealSkinn, ai jucat șeful unei bande câțiva ani. Și pentru ce?!"
+  },
+  {
+   "key": "1993514843414274048",
+   "en": "Thanks, I will! V, you take it easy, OK? Rest up a bit.",
+   "ro": "Mulțumesc, o să fac! V, ai grijă de tine, bine? Odihnește-te un pic."
+  },
+  {
+   "key": "1993520488343478272",
+   "en": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Don't be puttin' me on a level with that \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Nu mă pune pe același nivel cu ăla\" a=\".\"/>"
+  },
+  {
+   "key": "1993521647867207680",
+   "en": "Hey, Bug... were, uh... were you on comms that whole time?",
+   "ro": "Hei, Bug... ăă... ai fost pe comms tot timpul ăla?"
+  },
+  {
+   "key": "1993525601871142912",
+   "en": "Three and a half hours.",
+   "ro": "Trei ore și jumătate."
+  },
+  {
+   "key": "1993527059744104448",
+   "en": "Eehh... about that stick up the ass…",
+   "ro": "Eehh... despre bățul ăla din cur…"
+  },
+  {
+   "key": "1993527209447202816",
+   "en": "Mean the one up mine?",
+   "ro": "Pe ăla din cur-ul meu?"
+  },
+  {
+   "key": "1993527983464062976",
+   "en": "Ehh, slip of the tongue, y'know…",
+   "ro": "Ehh, scăpare de limbă, știi tu…"
+  },
+  {
+   "key": "1993529193705316352",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1993535709372030976",
+   "en": "Now's your chance to make up to me.",
+   "ro": "Acum ai ocazia să te revanșezi."
+  },
+  {
+   "key": "1993539141269004288",
+   "en": "Fuckin' tourist.",
+   "ro": "Turist nenorocit."
+  },
+  {
+   "key": "1993552388642643968",
+   "en": "Tourist or not, he just walked into the lobby.",
+   "ro": "Turist sau nu, tocmai a intrat în hol."
+  },
+  {
+   "key": "1993784626365931520",
+   "en": "Maybe he just wanted outta the system.",
+   "ro": "Poate voia doar să scape din sistem."
+  },
+  {
+   "key": "1993785241905209344",
+   "en": "So then why'd he come back?",
+   "ro": "Atunci de ce s-a întors?"
+  },
+  {
+   "key": "1995245796184629248",
+   "en": "Crawled back on all fours, tail between his legs, fuckin' cheap-ass rebel…",
+   "ro": "S-a târât înapoi în patru labe, cu coada între picioare, rebel nenorocit și ieftin…"
+  },
+  {
+   "key": "1995248105316753408",
+   "en": "Start a fuckin' gang! Steel Dragons or some shit!",
+   "ro": "Începe o bandă nenorocită! Steel Dragons sau ceva de genul!"
+  },
+  {
+   "key": "1999677341897138176",
+   "en": "And I paid a price for it too, 'member? Three slugs to the chest – feels like one's still in my left lung…",
+   "ro": "Și eu am plătit scump pentru asta, ții minte? Trei gloanțe în piept – parcă unul încă mi-e în plămânul stâng…"
+  },
+  {
+   "key": "1999683713229463552",
+   "en": "Heywood's not some fuckin' palace in Japan. I didn't have no choices.",
+   "ro": "Heywood nu e vreun palat nenorocit în Japonia. N-am avut de ales."
+  },
+  {
+   "key": "2006722462165573632",
+   "en": "Might wear expensive suits, but he's a biker at heart, always itchin' for a ride…",
+   "ro": "Poate poartă costume scumpe, dar în suflet e motociclist, mereu cu chef de-o tură cu motoru'…"
+  },
+  {
+   "key": "2006738584919154688",
+   "en": "Who?",
+   "ro": "Cine?"
+  },
+  {
+   "key": "2009877459444453376",
+   "en": "[Enter shaft]",
+   "ro": "[Intră în puț]"
+  },
+  {
+   "key": "2016959729335951360",
+   "en": "Got a smartroom panel. Useful?",
+   "ro": "Am un panou de cameră inteligentă. Util?"
+  },
+  {
+   "key": "2016960373480382464",
+   "en": "What would you say to a TV?",
+   "ro": "Ce-ai zice de un televizor?"
+  },
+  {
+   "key": "2016960839249453056",
+   "en": "Holoprojector, maybe?",
+   "ro": "Holoprojector, poate?"
+  },
+  {
+   "key": "2016961932436070400",
+   "en": "Terrarium's got a control panel.",
+   "ro": "Terariul are un panou de control."
+  },
+  {
+   "key": "2016962360557068288",
+   "en": "Terrarium's got a temp and air quality controller.",
+   "ro": "Terariul are un controler pentru temperatură și calitatea aerului."
+  },
+  {
+   "key": "2016966912668753920",
+   "en": "I'd say, \"Keep lookin'.\"",
+   "ro": "Aș zice „Caută în continuare.”"
+  },
+  {
+   "key": "2016967416337555456",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "2016968000285335552",
+   "en": "Hm, no, not in the least.",
+   "ro": "Hm, nu, deloc."
+  },
+  {
+   "key": "2016968952308457472",
+   "en": "Somehow I doubt it.",
+   "ro": "Parcă mă îndoiesc."
+  },
+  {
+   "key": "2017162786160791552",
+   "en": "[Lower temperature]",
+   "ro": "[Scade temperatura]"
+  },
+  {
+   "key": "2018348677466181632",
+   "en": "[Enter shaft]",
+   "ro": "[Intră în puț]"
+  },
+  {
+   "key": "2018689399939682304",
+   "en": "Smartoom panel?",
+   "ro": "Panou de cameră inteligentă?"
+  },
+  {
+   "key": "2018690501363912704",
+   "en": "How about the TV?",
+   "ro": "Ce zici de televizor?"
+  },
+  {
+   "key": "2018690559345971200",
+   "en": "Holoprojector?",
+   "ro": "Holoprojector?"
+  },
+  {
+   "key": "2018690823989776384",
+   "en": "Got a terrarium.",
+   "ro": "Am un terariu."
+  },
+  {
+   "key": "2018690923210231808",
+   "en": "Terrarium's temp control?",
+   "ro": "Controlul temperaturii terariului?"
+  },
+  {
+   "key": "2018738551360868352",
+   "en": "Preem, yeah. Sic the Flathead on it.",
+   "ro": "Beton, da. Dă-i drumul la Flathead."
+  },
+  {
+   "key": "2030259833497448452",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2101217224014848000",
+   "en": "[Send Flathead]",
+   "ro": "[Trimite Flathead-ul]"
+  },
+  {
+   "key": "2150498727529701376",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2150521666379603968",
+   "en": "[Jack in Flathead]",
+   "ro": "[Conectează Flathead-ul]"
+  },
+  {
+   "key": "2150533920407838720",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2239027744266887168",
+   "en": "We gonna stand here at attention? C'mon, take it.",
+   "ro": "Stăm aici ca proștii? Hai, ia-l."
+  },
+  {
+   "key": "2239027860281335808",
+   "en": "<mothertongue l=\"mex\" m=\"Híjole\" b=\"\" a=\", V... It's just a chip, not a live grenade.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Híjole\" b=\"\" a=\", V... E doar un cip, nu o granată adevărată.\"/>"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\mirror_scene_lizzies.json",
+ "entries": [
+  {
+   "key": "2413972943627247616",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2413972943828574208",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2421408742408871936",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2421408742475980800",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2520255265145511936",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2520255265145511948",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2520255265145511960",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2520255265145511972",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2520255265145511984",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "2520255415200931840",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2520255415200931852",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2520255415200931864",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2520255415200931876",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2520255415200931888",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  }
+ ]
+}

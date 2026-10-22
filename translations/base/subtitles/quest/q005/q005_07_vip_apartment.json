@@ -1,0 +1,777 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_07_vip_apartment.json",
+ "entries": [
+  {
+   "key": "1663598370073923584",
+   "en": "Come on!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "1663598398477750272",
+   "en": "Ass in gear, V!",
+   "ro": "Mișcă-te, V!"
+  },
+  {
+   "key": "1663599392175476736",
+   "en": "Are they here yet?",
+   "ro": "Au ajuns deja?"
+  },
+  {
+   "key": "1663612853827719168",
+   "en": "<kiroshi l=\"jpn\" o=\"私が… 気づかないとでも思ったのか？\" t=\"Did you think I wouldn't know it was taken from me?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私が… 気づかないとでも思ったのか？\" t=\"Credeai că n-o să știu că mi-a fost luat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1663613236381798400",
+   "en": "<kiroshi l=\"jpn\" o=\"これで、もう誰のことも許す必要はない\" t=\"You shall never have to forgive me for anything again.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"これで、もう誰のことも許す必要はない\" t=\"Nu o să mai trebuiască să mă ierți vreodată pentru nimic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1663613430024425472",
+   "en": "I wish... I wish to put the hotel on lockdown.",
+   "ro": "Aș vrea... Aș vrea să pun hotelul sub lockdown."
+  },
+  {
+   "key": "1669105523572396032",
+   "en": "Guys! Focus! The safe!",
+   "ro": "Băieți! Concentrare! Seiful!"
+  },
+  {
+   "key": "1669113526421868544",
+   "en": "Relic intact?",
+   "ro": "Relic-ul intact?"
+  },
+  {
+   "key": "1669113799504613376",
+   "en": "\"Bioshard integrity – one hundred percent.\" Guessin' that's a yes.",
+   "ro": "„Integritatea bioshard-ului – o sută la sută.” Bănuiesc că e un da."
+  },
+  {
+   "key": "1669114298526126080",
+   "en": "Good. Let's go!",
+   "ro": "Bine. Hai să mergem!"
+  },
+  {
+   "key": "1669131765235372032",
+   "en": "We're in.",
+   "ro": "Am intrat."
+  },
+  {
+   "key": "1669132168861634560",
+   "en": "Which don't solve our problem, T.",
+   "ro": "Dar asta nu ne rezolvă problema, T."
+  },
+  {
+   "key": "1669132359232704512",
+   "en": "I fuckin' know our problem's still there!",
+   "ro": "Știu prea bine, pula mea, că problema noastră e încă acolo!"
+  },
+  {
+   "key": "1669292099015331840",
+   "en": "What the fuck just happened in there?",
+   "ro": "Ce pula mea s-a întâmplat acolo?"
+  },
+  {
+   "key": "1669310433861619712",
+   "en": "Just lost T…",
+   "ro": "Tocmai l-am pierdut pe T…"
+  },
+  {
+   "key": "1670541338756304896",
+   "en": "They approach from the landing pad.",
+   "ro": "Vin de pe platforma de aterizare."
+  },
+  {
+   "key": "1670541551155859456",
+   "en": "Saburo Arasaka?!",
+   "ro": "Saburo Arasaka?!"
+  },
+  {
+   "key": "1670542808675307520",
+   "en": "<kiroshi l=\"jpn\" o=\"外してくれ\" t=\"Leave us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"外してくれ\" t=\"Lăsați-ne.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670543005572714496",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカ様、まだボディチェックが終わっていません\" t=\"Arasaka-sama, I still haven't done a full sweep.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカ様、まだボディチェックが終わっていません\" t=\"Arasaka-sama, încă nu am făcut o verificare completă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670543109406904320",
+   "en": "<kiroshi l=\"jpn\" o=\"私の息子だ\" t=\"This is my son.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私の息子だ\" t=\"Ăsta e fiul meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670544589442568192",
+   "en": "Saburo Arasaka has been murdered.",
+   "ro": "Saburo Arasaka a fost ucis."
+  },
+  {
+   "key": "1670545277073543168",
+   "en": "Code red initiated.",
+   "ro": "Cod roșu inițiat."
+  },
+  {
+   "key": "1670710884670689280",
+   "en": "<kiroshi l=\"jpn\" o=\"そもそも俺のことを気にしたことなんかないだろう\" t=\"Actually, I don't think of you at all. Ever.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そもそも俺のことを気にしたことなんかないだろう\" t=\"De fapt, nu mă gândesc la tine deloc. Niciodată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670713273846910976",
+   "en": "<kiroshi l=\"jpn\" o=\"あんたの問題点はそこだ。世界は自分中心に回ってると思ってる。傲慢だよ\" t=\"You see, that's your problem. You think the world revolves around you. Arrogant.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あんたの問題点はそこだ。世界は自分中心に回ってると思ってる。傲慢だよ\" t=\"Vezi tu, asta e problema ta. Crezi că lumea se învârte în jurul tău. Arogant.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670713556241010688",
+   "en": "<kiroshi l=\"jpn\" o=\"ヨリノブ…\" t=\"Yorinobu.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ヨリノブ…\" t=\"Yorinobu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670713778119692288",
+   "en": "<kiroshi l=\"jpn\" o=\"どうしてここへ？ 直々に俺に屈辱を味わせ、立場を思い知らせるためにか？\" t=\"Why did you come? To humiliate me? To personally see to it that your son knows his place?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どうしてここへ？ 直々に俺に屈辱を味わせ、立場を思い知らせるためにか？\" t=\"De ce ai venit? Să mă umilești? Să te asiguri personal că fiul tău își cunoaște locul?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670713992297631744",
+   "en": "<kiroshi l=\"jpn\" o=\"「出る杭は打たれる」とよく言うだろう\" t=\"\\\"The nail that protrudes from the wall gets hammered...\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"「出る杭は打たれる」とよく言うだろう\" t=\"\\\"Cuiul care iese din perete se bate...\\\"\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670714109452931072",
+   "en": "<kiroshi l=\"jpn\" o=\"自分の言葉じゃ何も言えないのか？\" t=\"Couldn't think of anything original to say?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"自分の言葉じゃ何も言えないのか？\" t=\"N-ai putut să găsești ceva original de spus?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670714210401439744",
+   "en": "<kiroshi l=\"jpn\" o=\"貴様こそ、自分が何をしようとしたかわかっているのか？ 私たちの功績を野蛮人に渡すなど… 私たちの未来を…\" t=\"And do you think it \\\"original\\\" to sell our greatest achievement to Westerners – our future to these... barbarians?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"貴様こそ、自分が何をしようとしたかわかっているのか？ 私たちの功績を野蛮人に渡すなど… 私たちの未来を…\" t=\"Și crezi că e „original” să vinzi cea mai mare realizare a noastră occidentalilor – viitorul nostru acestor... barbari?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670714331113508864",
+   "en": "<kiroshi l=\"jpn\" o=\"「俺たちの未来」？ 俺たち？ なんかの間違いだろう。あんたは自分のことしか考えてない。そしてこの会社のことしか\" t=\"Our future? Ours?! You are mistaken. You've only ever cared about yourself… and your sick schemes.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"「俺たちの未来」？ 俺たち？ なんかの間違いだろう。あんたは自分のことしか考えてない。そしてこの会社のことしか\" t=\"Viitorul nostru? Al nostru?! Te înșeli. Ți-ai păsat doar de tine… și de planurile tale bolnave.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670714795741728768",
+   "en": "<kiroshi l=\"jpn\" o=\"いつかこのような日が来ることはわかっていた… 貴様は、ついに超えてはならない一線を超えたのだ\" t=\"I knew this day would come. That sooner or later your impudence would cross the line.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いつかこのような日が来ることはわかっていた… 貴様は、ついに超えてはならない一線を超えたのだ\" t=\"Știam că ziua asta o să vină. Că mai devreme sau mai târziu îndrăzneala ta o să treacă de linie.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670714906689458176",
+   "en": "<kiroshi l=\"jpn\" o=\"これまでお前の愚行には目をつぶってきた。だが、それもここまでだ。この裏切りだけは決して許せん\" t=\"There is much for which I could forgive you, but for treason – no.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"これまでお前の愚行には目をつぶってきた。だが、それもここまでだ。この裏切りだけは決して許せん\" t=\"Sunt multe pe care ți le-aș putea ierta, dar trădarea – nu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1670715046057791488",
+   "en": "<kiroshi l=\"jpn\" o=\"貴様の母親が生きていなくてよかった。息子の不甲斐ない姿を目の当たりにして、心を痛めずに済んだのだからな…\" t=\"I'm just glad your mother didn't live to see this. The heart should break but once.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"貴様の母親が生きていなくてよかった。息子の不甲斐ない姿を目の当たりにして、心を痛めずに済んだのだからな…\" t=\"Mă bucur doar că mama ta n-a apucat să vadă asta. Inima se frânge o singură dată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1674948095494639616",
+   "en": "May I ask why?",
+   "ro": "Pot să întreb de ce?"
+  },
+  {
+   "key": "1674949184319180800",
+   "en": "Attention! Code Red has been initiated throughout Konpeki Plaza. Please remain in your rooms and follow all instructions given by staff.",
+   "ro": "Atenție! Codul Roșu a fost inițiat în tot Konpeki Plaza. Vă rugăm să rămâneți în camere și să urmați indicațiile personalului."
+  },
+  {
+   "key": "1679575694082715648",
+   "en": "Jack in your personal and make us rich!",
+   "ro": "Conectează-ți personalul și fă-ne bogați!"
+  },
+  {
+   "key": "1679578760202825728",
+   "en": "On it.",
+   "ro": "Mă ocup."
+  },
+  {
+   "key": "1679578963593015300",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1679580461144092672",
+   "en": "Your turn, Bug.",
+   "ro": "E rândul tău, Bug."
+  },
+  {
+   "key": "1679581217175777280",
+   "en": "Gimme two…",
+   "ro": "Dă-mi două…"
+  },
+  {
+   "key": "1679597175613304832",
+   "en": "How much longer, T?!",
+   "ro": "Cât mai durează, T?!"
+  },
+  {
+   "key": "1683569461462618112",
+   "en": "There. Under the floor.",
+   "ro": "Acolo. Sub podea."
+  },
+  {
+   "key": "1683575764578783232",
+   "en": "Lemme look to this, eh?",
+   "ro": "Lasă-mă să mă uit la chestia asta, nu?"
+  },
+  {
+   "key": "1683579060278317056",
+   "en": "Is tha--... Is that Adam Smasher?!",
+   "ro": "E aia--... E Adam Smasher?!"
+  },
+  {
+   "key": "1683579460314255360",
+   "en": "We wait...",
+   "ro": "Așteptăm..."
+  },
+  {
+   "key": "1683581645647302656",
+   "en": "Fuck are they talking about?",
+   "ro": "Despre ce dracu' vorbesc?"
+  },
+  {
+   "key": "1683581918495166464",
+   "en": "Bug, who we got incoming?",
+   "ro": "Bug, cine vine?"
+  },
+  {
+   "key": "1683582952726646784",
+   "en": "Nuh-uh, no fucking way...! This isn't happening...!",
+   "ro": "Nu, nu, pula mea, nu se poate...! Asta nu se întâmplă...!"
+  },
+  {
+   "key": "1683596019292229632",
+   "en": "Oh, shit...",
+   "ro": "Of, căcat..."
+  },
+  {
+   "key": "1683611953184690176",
+   "en": "<kiroshi l=\"jpn\" o=\"何の騒ぎです？\" t=\"What happened?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何の騒ぎです？\" t=\"Ce s-a întâmplat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612072151928832",
+   "en": "<kiroshi l=\"jpn\" o=\"誰かが… 誰かが父に毒を盛った\" t=\"Someone... someone poisoned my father.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"誰かが… 誰かが父に毒を盛った\" t=\"Cineva... cineva l-a otrăvit pe tatăl meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612481583108096",
+   "en": "<kiroshi l=\"jpn\" o=\"毒を？\" t=\"Poisoned?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"毒を？\" t=\"Otrăvit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612635480510464",
+   "en": "<kiroshi l=\"jpn\" o=\"タケムラ、お前の仕事は何だ？\" t=\"What is your job, Takemura?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"タケムラ、お前の仕事は何だ？\" t=\"Care e slujba ta, Takemura?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612718057967616",
+   "en": "<kiroshi l=\"jpn\" o=\"何の話です？\" t=\"I don't follow.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何の話です？\" t=\"Nu înțeleg.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612813050564608",
+   "en": "<kiroshi l=\"jpn\" o=\"単純な質問だ。答えろ\" t=\"It's a simple question. Answer it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"単純な質問だ。答えろ\" t=\"E o întrebare simplă. Răspunde.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683612919099346944",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカ家の家長を守ることです\" t=\"To protect the head of the Arasaka family.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカ家の家長を守ることです\" t=\"Să protejez capul familiei Arasaka.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683613044307709952",
+   "en": "<kiroshi l=\"jpn\" o=\"今後はもっとしっかり責任を果たすよう望んでいるぞ…\" t=\"I do sincerely hope you'll do a better job of executing your duties from now on…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"今後はもっとしっかり責任を果たすよう望んでいるぞ…\" t=\"Sper sincer că de acum încolo o să-ți îndeplinești mai bine îndatoririle…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1683783800849223680",
+   "en": "I been made…! Aaarrghhh!",
+   "ro": "M-au prins…! Aaarrghhh!"
+  },
+  {
+   "key": "1689569379041988608",
+   "en": "<kiroshi l=\"jpn\" o=\"そうだ\" t=\"It seems so.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そうだ\" t=\"Se pare că da.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1689569870446645248",
+   "en": "<kiroshi l=\"jpn\" o=\"ヨリノブさん… しかし…\" t=\"Yorinobu-san... I doubt...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ヨリノブさん… しかし…\" t=\"Yorinobu-san... Mă îndoiesc...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1693537740133179392",
+   "en": "Hurry up, V!",
+   "ro": "Grăbește-te, V!"
+  },
+  {
+   "key": "1693539624046764032",
+   "en": "Got no time for this!",
+   "ro": "N-avem timp pentru asta!"
+  },
+  {
+   "key": "1724398832082165764",
+   "en": "[Squeeze through]",
+   "ro": "[Strecoară-te]"
+  },
+  {
+   "key": "1724429980694945796",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "1725770918555078656",
+   "en": "<kiroshi l=\"jpn\" o=\"お許しください、アラサカ様。決して失望はさせません\" t=\"Forgive me, Arasaka-sama. I shall not disappoint.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お許しください、アラサカ様。決して失望はさせません\" t=\"Iartă-mă, Arasaka-sama. Nu te voi dezamăgi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1753419843738849280",
+   "en": "His own fuckin' pops...",
+   "ro": "Propriul lui tată, nenorocitul..."
+  },
+  {
+   "key": "1753421761693405188",
+   "en": "Gotta get us out of here, T.",
+   "ro": "Trebuie să ne scoți de aici, T."
+  },
+  {
+   "key": "1753421873027010560",
+   "en": "Bug, need you to get us out of here. Now!",
+   "ro": "Bug, scoate-ne de aici. Acum!"
+  },
+  {
+   "key": "1753421981927919616",
+   "en": "Where's Yorinobu?",
+   "ro": "Unde e Yorinobu?"
+  },
+  {
+   "key": "1753423684983115776",
+   "en": "Where's Yorinobu?!",
+   "ro": "Unde e Yorinobu?!"
+  },
+  {
+   "key": "1753427135066591232",
+   "en": "I don't... I don't know! I've lost camlinks!",
+   "ro": "Nu... nu știu! Am pierdut camlink-urile!"
+  },
+  {
+   "key": "1753427235864104960",
+   "en": "Whole building's being put on lockdown!",
+   "ro": "Toată clădirea e pusă în lockdown!"
+  },
+  {
+   "key": "1755954225607397376",
+   "en": "Window – now!",
+   "ro": "Fereastra – acum!"
+  },
+  {
+   "key": "1761836703027179520",
+   "en": "<mothertongue l=\"mex\" m=\"Chica\" b=\"\" a=\", wait up!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Mano\" b=\"\" a=\", wait up!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Chica\" b=\"\" a=\", stai puțin!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Mano\" b=\"\" a=\", stai puțin!\"/>"
+  },
+  {
+   "key": "1761838198145560576",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1761838731224821760",
+   "en": "Old man Arasaka – he never left... His AVs gotta be on the roof still, right?",
+   "ro": "Bătrânul Arasaka – n-a plecat... AV-urile lui trebuie să fie încă pe acoperiș, nu?"
+  },
+  {
+   "key": "1770551598183374848",
+   "en": "<kiroshi l=\"jpn\" o=\"首を突っ込まないでくれって言っただろう\" t=\"I thought I told you not to meddle in my affairs.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"首を突っ込まないでくれって言っただろう\" t=\"Credeam că ți-am spus să nu te bagi în treburile mele.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1770557061247557632",
+   "en": "<kiroshi l=\"jpn\" o=\"例のモノを回収しましょうか…?\" t=\"Of course. Should I retrieve what we came here to…?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"例のモノを回収しましょうか…?\" t=\"Sigur. Să recuperez chestia pentru care am venit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1770558243152093184",
+   "en": "<kiroshi l=\"jpn\" o=\"私がやる。行ってくれ\" t=\"I will handle it. You may go.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私がやる。行ってくれ\" t=\"Mă ocup eu. Poți pleca.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1783599541039017984",
+   "en": "<mothertongue l=\"mex\" m=\"Bien pensado.\" b=\"\" a=\" Old man Arasaka's AV should still be parked on the roof.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Bien pensado.\" b=\"\" a=\" AV-ul bătrânului Arasaka ar trebui să fie încă parcat pe acoperiș.\"/>"
+  },
+  {
+   "key": "1785244864375304192",
+   "en": "Think it's synthetic?",
+   "ro": "Crezi că e sintetic?"
+  },
+  {
+   "key": "1785246145147973632",
+   "en": "Check out that weird-ass lizard!",
+   "ro": "Uită-te la șopârla aia ciudată de nu se poate!"
+  },
+  {
+   "key": "1785249300120219648",
+   "en": "Look, V, another fuckin' iguana!",
+   "ro": "Uite, V, încă o iguană nenorocită!"
+  },
+  {
+   "key": "1785253540930662400",
+   "en": "Nah, no way, our guy had a saggier neck, many, many folds.",
+   "ro": "Nu, nici vorbă, tipul nostru avea gâtul mai lăsat, multe, multe cute."
+  },
+  {
+   "key": "1785258183320547328",
+   "en": "Saburo-fuckin'- Arasaka's dead. Feels weird to even say it.",
+   "ro": "Saburo Arasaka, nenorocitul, e mort. Ciudat chiar să zic asta."
+  },
+  {
+   "key": "1786325644392321024",
+   "en": "Nah, they could afford a real one, 'thout a doubt.",
+   "ro": "Nu, își puteau permite unul adevărat, fără discuție."
+  },
+  {
+   "key": "1786326823327289344",
+   "en": "That ain't no lizard, it's an iguana, ya twit. Know 'cause I've seen one before.",
+   "ro": "Nu e șopârlă, e iguană, tâmpitule. Știu, că am mai văzut una."
+  },
+  {
+   "key": "1786327972818243584",
+   "en": "Shit, you're right. Think it's the same one?",
+   "ro": "Căcat, ai dreptate. Crezi că e aceeași?"
+  },
+  {
+   "key": "1786751638324432896",
+   "en": "<kiroshi l=\"mex\" o=\"Pinche Dios Santo bendito!\" t=\"Jesus fucking Christ!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Pinche Dios Santo bendito!\" t=\"Futu-i Dumnezeii mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1896614816871964672",
+   "en": "And make it quick!",
+   "ro": "Și fă-o repede!"
+  },
+  {
+   "key": "1896627326568194048",
+   "en": "We got winged visitors... Bug...?",
+   "ro": "Avem vizitatori înaripați... Bug...?"
+  },
+  {
+   "key": "1896631821838671872",
+   "en": "Can't say I like this…",
+   "ro": "Nu pot spune că-mi place..."
+  },
+  {
+   "key": "1903845308092960768",
+   "en": "What is he, a fuckin' sorcerer?",
+   "ro": "Ce dracu' e ăsta, vrăjitor?"
+  },
+  {
+   "key": "1903846261860913152",
+   "en": "Some kinda dead zone's my guess – have him back in a sec. And you do your damn job!",
+   "ro": "Cred că e vreo zonă moartă – îl aduc înapoi într-o secundă. Și tu fă-ți naibii treaba!"
+  },
+  {
+   "key": "1904013745738010624",
+   "en": "Bodyguard?",
+   "ro": "Gardă de corp?"
+  },
+  {
+   "key": "1904014198638956544",
+   "en": "Worse. Night City legend. Bleak motherfuckin' one, too. What's the play?",
+   "ro": "Mai rău. Legendă din Night City. Și încă una sumbră ca dracu'. Care-i planul?"
+  },
+  {
+   "key": "1904018262013562880",
+   "en": "Un-fucking-believable… Saburo Arasaka.",
+   "ro": "De necrezut, pula mea… Saburo Arasaka."
+  },
+  {
+   "key": "1904023968934580224",
+   "en": "Know what this means?! Security's gonna swarm the place any second!",
+   "ro": "Știi ce înseamnă asta?! Securitatea o să dea năvală în orice secundă!"
+  },
+  {
+   "key": "1922742897924186112",
+   "en": "No, no, no, no – not now...!",
+   "ro": "Nu, nu, nu, nu – nu acum...!"
+  },
+  {
+   "key": "1927177368108027904",
+   "en": "Forget it. It'll be AI-guided, fully automated. You can forget about hacking, much less piloting the damn thing.",
+   "ro": "E ghidat de AI, complet automatizat. Uită de hacking, darmite de pilotat nenorocita."
+  },
+  {
+   "key": "1927181063893831680",
+   "en": "Figures. Still, let's head up to the roof anyway. Might find somethin' else.",
+   "ro": "Normal. Oricum, hai pe acoperiș. Poate găsim altceva."
+  },
+  {
+   "key": "1927182447309508608",
+   "en": "Forget it. It'll be AI-guided, fully automated. You can forget about hacking, much less piloting the damn thing.",
+   "ro": "E ghidat de AI, complet automatizat. Uită de hacking, darmite de pilotat nenorocita."
+  },
+  {
+   "key": "1954731148627931136",
+   "en": "Shit. Yorinobu's penthouse bound!",
+   "ro": "Căcat. Yorinobu urcă spre penthouse!"
+  },
+  {
+   "key": "1954731686253817856",
+   "en": "Fuck him! Open the safe!",
+   "ro": "Să-l ia dracu'! Deschide seiful!"
+  },
+  {
+   "key": "1954741306024259584",
+   "en": "Done!",
+   "ro": "Gata!"
+  },
+  {
+   "key": "1954741429420683264",
+   "en": "Preem!",
+   "ro": "Beton!"
+  },
+  {
+   "key": "1954981821558812672",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1956265762035068928",
+   "en": "Fat pillar – try that!",
+   "ro": "Stâlpul ăla gros – încearcă-l!"
+  },
+  {
+   "key": "1956267718845657088",
+   "en": "No! Inside it! Now!",
+   "ro": "Nu! Înăuntru! Acum!"
+  },
+  {
+   "key": "1957733671058296832",
+   "en": "Bingo, got somethin' ejectin! C'mere, V!",
+   "ro": "Bingo, ceva iese! Vino încoace, V!"
+  },
+  {
+   "key": "1966185056664625152",
+   "en": "Look around for a switch.",
+   "ro": "Caută un întrerupător pe-aici."
+  },
+  {
+   "key": "1966223004713951232",
+   "en": "Fuck, too late! Yorinobu's about to walk in – find cover!",
+   "ro": "Pula mea, prea târziu! Yorinobu intră chiar acum – ascunde-te!"
+  },
+  {
+   "key": "1967625938584543232",
+   "en": "Releasing the lock!",
+   "ro": "Deblochez încuietoarea!"
+  },
+  {
+   "key": "1967626687687237632",
+   "en": "Should see a ladder... Ladder... Oh fuck…",
+   "ro": "Ar trebui să vezi o scară... Scară... Ah, pula mea…"
+  },
+  {
+   "key": "1979271645854769152",
+   "en": "Dunno who. But staff's abuzz, all two hundred on their feet, can't keep still.",
+   "ro": "Nu știu cine. Da' personalul e în draci, toți două sute pe picioare, nu mai stau locului."
+  },
+  {
+   "key": "1979287311093669888",
+   "en": "Almost got it…",
+   "ro": "Aproape am reușit…"
+  },
+  {
+   "key": "1979319456356966400",
+   "en": "Where?!",
+   "ro": "Unde?!"
+  },
+  {
+   "key": "1979366484789239808",
+   "en": "Bug!",
+   "ro": "Bug!"
+  },
+  {
+   "key": "1979388689417838592",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1979400561814740992",
+   "en": "Oh my god, we're so fucked!",
+   "ro": "Doamne, ne-am futut!"
+  },
+  {
+   "key": "1979413081711517696",
+   "en": "Gimme a sec!",
+   "ro": "Stai o secundă!"
+  },
+  {
+   "key": "1979413978638262272",
+   "en": "We don't have a sec!",
+   "ro": "Nu avem nicio secundă!"
+  },
+  {
+   "key": "1979414195165011968",
+   "en": "OK, got somethin'!",
+   "ro": "OK, am ceva!"
+  },
+  {
+   "key": "1979417021672923136",
+   "en": "Fuck...!",
+   "ro": "Futu-i...!"
+  },
+  {
+   "key": "1982206738592243712",
+   "en": "Fuckin' major leagues! Happy now, Jackie?!",
+   "ro": "Din liga mare, pula mea! Ești fericit acum, Jackie?!"
+  },
+  {
+   "key": "1982210622031208448",
+   "en": "<mothertongue l=\"mex\" m=\"chica!\" b=\"Come on, \" a=\"\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"bróder!\" b=\"Come on, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica!\" b=\"Hai, \" a=\"\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"bróder!\" b=\"Hai, \" a=\"\"/>"
+  },
+  {
+   "key": "1982257411186827264",
+   "en": "The emperor?",
+   "ro": "Împăratul?"
+  },
+  {
+   "key": "1982274302655668224",
+   "en": "Sure as shit better'n bein' the son of Raúl Welles.",
+   "ro": "Clar, pula mea, mai bine decât să fii fiul lui Raúl Welles."
+  },
+  {
+   "key": "1989527454849245184",
+   "en": "Why, what's the rush?",
+   "ro": "Ce grabă e, de fapt?"
+  },
+  {
+   "key": "1989527901928497152",
+   "en": "Sig on Yorinobu's gone dark!",
+   "ro": "Semnalul lui Yorinobu a dispărut!"
+  },
+  {
+   "key": "1989536238208360448",
+   "en": "Lemme think for a sec, OK?",
+   "ro": "Lasă-mă să mă gândesc o secundă, OK?"
+  },
+  {
+   "key": "1989539552497049600",
+   "en": "Yorinobu... just offed Saburo!",
+   "ro": "Yorinobu... tocmai l-a omorât pe Saburo!"
+  },
+  {
+   "key": "1989540982603718656",
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "key": "1989544463892815872",
+   "en": "We ain't dyin' – not today!",
+   "ro": "Nu murim – nu azi!"
+  },
+  {
+   "key": "1993682839097122816",
+   "en": "Huh... not bad bein' heir to the Arasaka empire.",
+   "ro": "Hm... nu-i rău să fii moștenitorul imperiului Arasaka."
+  },
+  {
+   "key": "1993686958977392640",
+   "en": "You fuckin' kiddin'?!",
+   "ro": "Glumești, pula mea?!"
+  },
+  {
+   "key": "1995394489663762432",
+   "en": "Looks like Yorinobu left us a parting gift!",
+   "ro": "Parcă Yorinobu ne-a lăsat un cadou de rămas-bun!"
+  },
+  {
+   "key": "1995395768741933056",
+   "en": "Ain't much, but it'll have to do!",
+   "ro": "Nu e mult, da' o să ajungă!"
+  },
+  {
+   "key": "2159222147406782464",
+   "en": "<mothertongue l=\"mex\" m=\"¡Chica!\" b=\"\" a=\" Don't do this to me!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"¡Ese!\" b=\"\" a=\" Don't do this to me!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Chica!\" b=\"\" a=\" Nu-mi face asta!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"¡Ese!\" b=\"\" a=\" Nu-mi face asta!\"/>"
+  },
+  {
+   "key": "2193961239365545988",
+   "en": "Whoa...",
+   "ro": "Uau..."
+  },
+  {
+   "key": "2259019791086231552",
+   "en": "Hurry up! Yorinobu could be back any second!",
+   "ro": "Mișcă-te! Yorinobu poate da peste noi oricând!"
+  },
+  {
+   "key": "2259029973279285256",
+   "en": "You gonked!? You wanna die here?! Hide!",
+   "ro": "Ești țicnită?! Vrei să mori aici?! Ascunde-te!",
+   "ro_m": "Ești țicnit?! Vrei să mori aici?! Ascunde-te!"
+  },
+  {
+   "key": "2259031306614972424",
+   "en": "V, there's time for thinkin', time for gettin' the fuck out! Let's go!",
+   "ro": "V, gândim mai târziu, acum ne cărăm dracu' de-aici! Hai!"
+  },
+  {
+   "key": "2260751840230875136",
+   "en": "Shush. Doubt this cubby's soundproof.",
+   "ro": "Șșș. Nu cred că ăsta e izolat fonic."
+  },
+  {
+   "key": "2260754644878073856",
+   "en": "Yet another asslickin' legend…",
+   "ro": "Încă o legendă care linge funduri…"
+  },
+  {
+   "key": "2260756864084320256",
+   "en": "Oh fuck…",
+   "ro": "Futu-i…"
+  },
+  {
+   "key": "2260760105828327424",
+   "en": "Sshh.",
+   "ro": "Șșș."
+  },
+  {
+   "key": "2260764832188178432",
+   "en": "Wooo, close…",
+   "ro": "Uuuh, aproape…"
+  },
+  {
+   "key": "2260765630129348608",
+   "en": "Too close. If he'da sniffed us out…",
+   "ro": "Prea aproape. Dacă ne-ar fi mirosit…"
+  },
+  {
+   "key": "2260770057586319360",
+   "en": "<mothertongue l=\"mex\" m=\"cállate.\" b=\"But he didn't. Now \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cállate.\" b=\"Dar n-a făcut-o. Acum \" a=\"\"/>"
+  },
+  {
+   "key": "2260778513219297280",
+   "en": "Fuuuck me…",
+   "ro": "Fuuutu-i…"
+  },
+  {
+   "key": "2260780455920246784",
+   "en": "That's that. We done for.",
+   "ro": "Asta e. S-a zis cu noi."
+  },
+  {
+   "key": "2370915699438899204",
+   "en": "[Turn on]",
+   "ro": "[Pornește]"
+  }
+ ]
+}

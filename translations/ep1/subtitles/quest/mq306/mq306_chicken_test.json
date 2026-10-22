@@ -1,0 +1,110 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq306\\mq306_chicken_test.json",
+ "entries": [
+  {
+   "key": "3221962795285086212",
+   "en": "[db_db]Streetkid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3221963148764250112",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3221963270633947136",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "3221964141941882884",
+   "en": "[db_db]Intro: Boxing Ring",
+   "ro": "[db_db]Intro: Ring de box"
+  },
+  {
+   "key": "3221964992295075840",
+   "en": "[db_db]Tech Expo",
+   "ro": "[db_db]Expo Tech"
+  },
+  {
+   "key": "3221965401608814592",
+   "en": "[db_db]Tech Expo (skip Aaron chat)",
+   "ro": "[db_db]Expo Tech (sari peste dialogul cu Aaron)"
+  },
+  {
+   "key": "3221965498144915456",
+   "en": "[db_db]Ripperdoc Clinic",
+   "ro": "[db_db]Clinica ripperdoc-ului"
+  },
+  {
+   "key": "3221965645717307392",
+   "en": "[db_db]Aaron meeting",
+   "ro": "[db_db]Întâlnire cu Aaron"
+  },
+  {
+   "key": "3258218099551109120",
+   "en": "[db_db]Angie meeting",
+   "ro": "[db_db]Întâlnire cu Angie"
+  },
+  {
+   "key": "3262401520707960836",
+   "en": "[db_db]Killed Animals at clinic",
+   "ro": "[db_db]Animals uciși la clinică"
+  },
+  {
+   "key": "3262402449679187968",
+   "en": "[db_db]Told Aaron to fight clean",
+   "ro": "[db_db]I-am spus lui Aaron să lupte curat"
+  },
+  {
+   "key": "3262402692344840192",
+   "en": "[db_db]Told Aaron to take a dive",
+   "ro": "[db_db]I-am spus lui Aaron să se lase"
+  },
+  {
+   "key": "3265034951149355012",
+   "en": "[db_db]Skip waiting for texts.",
+   "ro": "[db_db]Sari peste așteptarea mesajelor."
+  },
+  {
+   "key": "3265037592789123072",
+   "en": "[db_db]No, don't skip waiting.",
+   "ro": "[db_db]Nu, nu sări peste așteptare."
+  },
+  {
+   "key": "3649223714865537028",
+   "en": "[db_db]Tank Build",
+   "ro": "[db_db]Build Tank"
+  },
+  {
+   "key": "3649228570275733504",
+   "en": "[db_db]Ranged Build",
+   "ro": "[db_db]Build la distanță"
+  },
+  {
+   "key": "3649228786047508480",
+   "en": "[db_db]Netrunner Build",
+   "ro": "[db_db]Build Netrunner"
+  },
+  {
+   "key": "3649233099520073728",
+   "en": "[db_db]MQ025 not started yet",
+   "ro": "[db_db]MQ025 nu a început încă"
+  },
+  {
+   "key": "3649235030376308736",
+   "en": "[db_db]MQ025 started, but not finished",
+   "ro": "[db_db]MQ025 a început, dar nu s-a terminat"
+  },
+  {
+   "key": "3649235392311189504",
+   "en": "[db_db]MQ025 finished, Fred not angry",
+   "ro": "[db_db]MQ025 terminat, Fred nu e supărat"
+  },
+  {
+   "key": "3649236359266033664",
+   "en": "[db_db]MQ025 finished, Fred angry",
+   "ro": "[db_db]MQ025 terminat, Fred e supărat"
+  }
+ ]
+}

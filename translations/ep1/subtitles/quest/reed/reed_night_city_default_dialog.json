@@ -1,0 +1,30 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\reed\\reed_night_city_default_dialog.json",
+ "entries": [
+  {
+   "key": "3952065488256647192",
+   "en": "Try me.",
+   "ro": "Spune-mi."
+  },
+  {
+   "key": "3952070798748827692",
+   "en": "Careful now.",
+   "ro": "Atenție acum."
+  },
+  {
+   "key": "3952076920704614492",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "3952079124660371456",
+   "en": "Stop there.",
+   "ro": "Oprește-te acolo."
+  },
+  {
+   "key": "3952079124710703132",
+   "en": "Hold up there.",
+   "ro": "Stai așa."
+  }
+ ]
+}

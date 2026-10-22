@@ -1,0 +1,906 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_11_shotgun.json",
+ "entries": [
+  {
+   "key": "1670855858122145792",
+   "en": "Think they make these motels especially for royal fuck-ups like us?",
+   "ro": "Crezi că motelurile astea sunt făcute special pentru niște căcați de lux ca noi?"
+  },
+  {
+   "key": "1670866674812731392",
+   "en": "I must make one thing clear. I still think you are mad, but…",
+   "ro": "Trebuie să clarific un lucru. Încă te cred nebună, dar…",
+   "ro_m": "Trebuie să clarific un lucru. Încă te cred nebun, dar…"
+  },
+  {
+   "key": "1670866951737458688",
+   "en": "But I can fool myself no longer. I believe you.",
+   "ro": "Dar nu mai pot să mă păcălesc. Te cred."
+  },
+  {
+   "key": "1670885442074984452",
+   "en": "Tracked down Hellman. Got the Relic's schematics.",
+   "ro": "L-am găsit pe Hellman. Am obținut schemele Relic-ului."
+  },
+  {
+   "key": "1670886715985772544",
+   "en": "Alt Cunningham told me about the constructs.",
+   "ro": "Alt Cunningham mi-a spus despre constructe."
+  },
+  {
+   "key": "1670887124645199872",
+   "en": "All I know about constructs is that one of 'em's killin' me.",
+   "ro": "Tot ce știu despre constructe e că unul dintre ele mă omoară."
+  },
+  {
+   "key": "1670912791990517760",
+   "en": "Tracked down your runaway. Hellman was hidin' under Kang Tao's wing.",
+   "ro": "L-am găsit pe fugarul tău. Hellman se ascundea sub aripa Kang Tao."
+  },
+  {
+   "key": "1670914416998105088",
+   "en": "All useful... Even more so given that Hellman is still alive.",
+   "ro": "Toate bune... Mai ales că Hellman e tot în viață."
+  },
+  {
+   "key": "1670916947857915904",
+   "en": "Managed to make contact with Alt Cunningham.",
+   "ro": "Am reușit să iau legătura cu Alt Cunningham."
+  },
+  {
+   "key": "1670916947857915912",
+   "en": "The Cunningham?",
+   "ro": "Cunningham?"
+  },
+  {
+   "key": "1670918353654398976",
+   "en": "All I know about constructs is that one of them's out to kill me.",
+   "ro": "Tot ce știu despre constructe e că unul dintre ele vrea să mă omoare."
+  },
+  {
+   "key": "1670918353654398984",
+   "en": "There is only one possibility – Soulkiller. Or rather its newer, more powerful version.",
+   "ro": "E o singură posibilitate – Soulkiller. Sau mai bine zis versiunea lui mai nouă și mai puternică."
+  },
+  {
+   "key": "1670920170123575296",
+   "en": "You must acquire it.",
+   "ro": "Trebuie să-l obții."
+  },
+  {
+   "key": "1670924036298784768",
+   "en": "Please wait. I must think a moment…",
+   "ro": "Stai un pic. Trebuie să mă gândesc o clipă…"
+  },
+  {
+   "key": "1670924406924263424",
+   "en": "I am sending you my private line.",
+   "ro": "Îți trimit linia mea privată."
+  },
+  {
+   "key": "1670925620604846080",
+   "en": "That's about the extent of what we got.",
+   "en_m": "That's about the extent of what we've got.",
+   "ro": "Asta e cam tot ce avem."
+  },
+  {
+   "key": "1670926860373999616",
+   "en": "Let us meet in person.",
+   "ro": "Hai să ne întâlnim față în față."
+  },
+  {
+   "key": "1670927996208300032",
+   "en": "Know what?",
+   "ro": "Știi ce?"
+  },
+  {
+   "key": "1670928826965704704",
+   "en": "Think I'd've rather had a wave of 'Saka 'lites barge in here.",
+   "ro": "Mai bine ar da buzna aici o haită de 'Saka 'lites."
+  },
+  {
+   "key": "1709731207883657216",
+   "en": "Who're you kiddin'? Been twenty-four hours since we split up. Complete radio silence.",
+   "ro": "Pe cine păcălești? Au trecut douăzeci și patru de ore de când ne-am despărțit. Nici un sunet pe radio."
+  },
+  {
+   "key": "1709732559791722500",
+   "en": "He's a big boy, he'll pull through.",
+   "ro": "E băiat mare, se descurcă."
+  },
+  {
+   "key": "1709733673966637056",
+   "en": "You'd like that, wouldn't you?",
+   "ro": "Ți-ar plăcea, nu?"
+  },
+  {
+   "key": "1709733775703674880",
+   "en": "Saw him fight. He's good. Even without implants.",
+   "ro": "L-am văzut luptând. E tare. Și fără implanturi."
+  },
+  {
+   "key": "1709736780721164288",
+   "en": "Hear that?",
+   "ro": "Auzi?"
+  },
+  {
+   "key": "1709749801401061376",
+   "en": "Rest in peace, bastard.",
+   "ro": "Odihnește-te în pace, nenorocitule."
+  },
+  {
+   "key": "1709750054518919168",
+   "en": "And if it's Goro?",
+   "ro": "Și dacă e Goro?"
+  },
+  {
+   "key": "1709750427778420736",
+   "en": "Not keen on us endin' up like Takemura.",
+   "ro": "Nu vreau să sfârșim ca Takemura."
+  },
+  {
+   "key": "1709751936922554368",
+   "en": "Ugh...",
+   "ro": "Ugh..."
+  },
+  {
+   "key": "1709752128954568704",
+   "en": "Who's there?",
+   "ro": "Cine-i acolo?"
+  },
+  {
+   "key": "1711225561643094016",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1711226128058683392",
+   "en": "At this hour? In this place?",
+   "ro": "La ora asta? În locul ăsta?"
+  },
+  {
+   "key": "1711243625470234624",
+   "en": "[Open door]",
+   "ro": "[Deschide ușa]"
+  },
+  {
+   "key": "1711244268373151744",
+   "en": "Who's there?!",
+   "ro": "Cine e acolo?!"
+  },
+  {
+   "key": "1711244840157450240",
+   "en": "I said, who's there!",
+   "ro": "Am zis, cine e acolo!"
+  },
+  {
+   "key": "1711251726835519488",
+   "en": "[Open door] Fine.",
+   "ro": "[Deschide ușa] Bine."
+  },
+  {
+   "key": "1711401608695123968",
+   "en": "Yorinobu planted a tanto in the corporation's very heart.",
+   "ro": "Yorinobu a înfipt un tanto chiar în inima corporației."
+  },
+  {
+   "key": "1715564690883559424",
+   "en": "Don't touch that door.",
+   "ro": "Nu atinge ușa aia."
+  },
+  {
+   "key": "1722748390922391552",
+   "en": "That on the wall... is that blood?",
+   "ro": "Ce e pe perete... e sânge?"
+  },
+  {
+   "key": "1722896114527375360",
+   "en": "Finger on the trig, V.",
+   "ro": "Degetul pe trăgaci, V."
+  },
+  {
+   "key": "1722897441957482496",
+   "en": "Car.",
+   "ro": "Mașina."
+  },
+  {
+   "key": "1723033911322087424",
+   "en": "Not a word.",
+   "ro": "Niciun cuvânt."
+  },
+  {
+   "key": "1755998869915570176",
+   "en": "Yeah. Knocked the last star off this dump.",
+   "ro": "Da. A dat jos ultima stea de la motelul ăsta."
+  },
+  {
+   "key": "1756028001588219904",
+   "en": "Finally...",
+   "ro": "În sfârșit..."
+  },
+  {
+   "key": "1756030544645066752",
+   "en": "[Open door] Don't try anything.",
+   "ro": "[Deschide ușa] Nu încerca nimic."
+  },
+  {
+   "key": "1756031391005282304",
+   "en": "All right. Gonna let you in.",
+   "ro": "Bine. Te las să intri."
+  },
+  {
+   "key": "1756031596643618816",
+   "en": "I'm armed. Don't try anything.",
+   "ro": "Sunt înarmată. Nu încerca nimic.",
+   "ro_m": "Sunt înarmat. Nu încerca nimic."
+  },
+  {
+   "key": "1756090337770475520",
+   "en": "OK. So what happens now?",
+   "ro": "OK. Și acum ce se întâmplă?"
+  },
+  {
+   "key": "1756091003490406400",
+   "en": "Damn shame Takemura can't hear this.",
+   "ro": "Păcat, fir-ar, că Takemura nu poate auzi asta."
+  },
+  {
+   "key": "1756091332055404544",
+   "en": "Heard from Takemura?",
+   "ro": "Ai vești de la Takemura?"
+  },
+  {
+   "key": "1756091975394529280",
+   "en": "Any word from Goro? We split up when we went on the run.",
+   "ro": "Nicio veste de la Goro? Ne-am despărțit când am luat-o la fugă."
+  },
+  {
+   "key": "1756092363048882176",
+   "en": "Damn shame you didn't believe me earlier.",
+   "ro": "Păcat, fir-ar, că nu m-ai crezut mai devreme."
+  },
+  {
+   "key": "1756093062121918464",
+   "en": "It's gotta be difficult for you.",
+   "ro": "Sigur ți-e greu."
+  },
+  {
+   "key": "1756094497161089024",
+   "en": "Goro might've still been alive had you.",
+   "ro": "Goro ar mai fi trăit dacă ai fi..."
+  },
+  {
+   "key": "1756094781434236928",
+   "en": "If you invoke his name, remember he did everything for this conversation to happen.",
+   "ro": "Dacă îi pomenești numele, ține minte că a făcut totul ca să avem conversația asta."
+  },
+  {
+   "key": "1756095246632882176",
+   "en": "How'd you find me?",
+   "ro": "Cum m-ai găsit?"
+  },
+  {
+   "key": "1756097323148906496",
+   "en": "How'd you find me?",
+   "ro": "Cum m-ai găsit?"
+  },
+  {
+   "key": "1756098475760422912",
+   "en": "I'm sorry. Know this must be difficult for you, painful.",
+   "en_m": "I'm sorry. I know this must be difficult for you, painful.",
+   "ro": "Îmi pare rău. Știu că e greu pentru tine, e dureros."
+  },
+  {
+   "key": "1756099848925220864",
+   "en": "Yet even had he not... when Arasaka wishes to find someone, it finds them.",
+   "ro": "Și chiar dacă n-ar fi... când Arasaka vrea să dea de cineva, îl găsește."
+  },
+  {
+   "key": "1756102360390569984",
+   "en": "Did you really think it would be enough to leave the city...?",
+   "ro": "Chiar credeai că e de ajuns să părăsești orașul...?"
+  },
+  {
+   "key": "1756103295351263232",
+   "en": "Porcelain bitch.",
+   "ro": "Curva de porțelan."
+  },
+  {
+   "key": "1756103985247162368",
+   "en": "Takemura is in a secure location. That is all you need to know at this time.",
+   "ro": "Takemura e în siguranță. Atât trebuie să știi deocamdată."
+  },
+  {
+   "key": "1756118089282228224",
+   "en": "OK, so now that you know, and believe – what's next?",
+   "ro": "OK, deci acum că știi și crezi – ce urmează?"
+  },
+  {
+   "key": "1756128449364103172",
+   "en": "Makin' demands? You're in no position.",
+   "ro": "Pretenții? Tu nu ești în poziția să ceri nimic."
+  },
+  {
+   "key": "1756129177595940864",
+   "en": "Gonna help each other.",
+   "ro": "Ne ajutăm unul pe altul."
+  },
+  {
+   "key": "1756129392830844928",
+   "en": "You're gonna help me first.",
+   "ro": "Mai întâi mă ajuți tu pe mine."
+  },
+  {
+   "key": "1756129460308807680",
+   "en": "Decided already, is that it? You're in no position to set conditions.",
+   "ro": "Deja ai hotărât, nu? Tu nu ești în poziția să pui condiții."
+  },
+  {
+   "key": "1756144792821960704",
+   "en": "I will contact him and explain that one does not leave Arasaka by the back door.",
+   "ro": "Îl contactez și îi explic că din Arasaka nu se iese pe ușa din dos."
+  },
+  {
+   "key": "1756145938202497024",
+   "en": "We chatted. Thinks sooner or later the engram'll completely consume me. Process can't be stopped.",
+   "ro": "Am vorbit. Crede că mai devreme sau mai târziu engramul o să mă consume complet. Procesul nu poate fi oprit."
+  },
+  {
+   "key": "1756146990452707328",
+   "en": "A surprisingly deterministic conclusion for a man of science.",
+   "ro": "O concluzie surprinzător de deterministă pentru un om de știință."
+  },
+  {
+   "key": "1756147461825368064",
+   "en": "At the very least, got my hands on the Relic's schematics. Got detailed information about its inner workings, project tech documentation…",
+   "en_m": "At the very least, I got my hands on the Relic's schematics. Got detailed information about its inner workings, project tech documentation…",
+   "ro": "Cel puțin am pus mâna pe schemele Relic-ului. Am detalii despre cum funcționează, documentația tehnică a proiectului…"
+  },
+  {
+   "key": "1756151044901834752",
+   "en": "And you will help me. You are living proof of his crime and treason.",
+   "ro": "Și o să mă ajuți. Ești dovada vie a crimei și trădării lui."
+  },
+  {
+   "key": "1756169247912759296",
+   "en": "Wanna know everything you know about Mikoshi.",
+   "ro": "Vreau să știu tot ce știi despre Mikoshi."
+  },
+  {
+   "key": "1756169919873814528",
+   "en": "Mikoshi... One of my father's flagship projects.",
+   "ro": "Mikoshi... Unul dintre proiectele de vârf ale tatălui meu."
+  },
+  {
+   "key": "1756171866316083200",
+   "en": "So much so that I could not look the truth in the eye.",
+   "ro": "Atât de tare încât n-am putut privi adevărul în față."
+  },
+  {
+   "key": "1756172063364485120",
+   "en": "What happens now?",
+   "ro": "Deci, ce facem acum?"
+  },
+  {
+   "key": "1756179666781999104",
+   "en": "I must act while the wound is fresh.",
+   "ro": "Trebuie să acționez cât mai e rana proaspătă."
+  },
+  {
+   "key": "1756197215515054080",
+   "en": "A data fortress with servers situated on orbital stations all around Earth.",
+   "ro": "O fortăreață de date, cu servere pe stații orbitale în jurul Pământului."
+  },
+  {
+   "key": "1756201355477651456",
+   "en": "Try a prison?",
+   "ro": "Încearcă o închisoare?"
+  },
+  {
+   "key": "1756201980378615808",
+   "en": "In any case, that is not where you will find salvation.",
+   "ro": "Oricum, nu acolo o să găsești salvarea."
+  },
+  {
+   "key": "1756206820118892544",
+   "en": "Not without extensive knowledge of the Relic and the construct creation procedure.",
+   "ro": "Nu fără cunoștințe serioase despre Relic și despre cum se creează constructele."
+  },
+  {
+   "key": "1756209082174148608",
+   "en": "Think of it as an archive of personality constructs, digitized psyches.",
+   "ro": "Gândește-te la ea ca la o arhivă cu constructe de personalitate, psihicuri digitalizate."
+  },
+  {
+   "key": "1756213948841857024",
+   "en": "And what if I... obliged you to cooperate?",
+   "ro": "Și dacă te-aș... obliga să cooperezi?"
+  },
+  {
+   "key": "1756214132200050688",
+   "en": "Have to send a swarm of proxies to do that.",
+   "ro": "Pentru asta trebuie să trimit un roi de proxy-uri."
+  },
+  {
+   "key": "1756214248701038592",
+   "en": "This here, talkin', is because you're alone. You don't have anyone else you can turn to.",
+   "ro": "Dacă vorbim acum e pentru că ești singură. Nu mai ai pe nimeni la care să apelezi.",
+   "ro_m": "Dacă vorbim acum e pentru că ești singur. Nu mai ai pe nimeni la care să apelezi."
+  },
+  {
+   "key": "1756215366164287488",
+   "en": "This is true.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1756224596803981312",
+   "en": "Perhaps I did not speak clearly – we must act quickly.",
+   "ro": "Poate n-am fost clar – trebuie să acționăm repede."
+  },
+  {
+   "key": "1756225031098994688",
+   "en": "Well I'm pretty tight on time, too. Dyin', in fact.",
+   "ro": "Păi, nici eu nu am prea mult timp. Mor, de fapt."
+  },
+  {
+   "key": "1756253302117240832",
+   "en": "My dead body'd make for a pretty lame-ass witness.",
+   "ro": "Un cadavru ca mine ar fi un martor de doi bani."
+  },
+  {
+   "key": "1756254417734995968",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1756306142697230336",
+   "en": "I got no idea how it wound up on the Relic... or how to remove it.",
+   "en_m": "Got no idea how it wound up on the Relic... ah, or how to remove it.",
+   "ro": "Habar n-am cum a ajuns pe Relic... sau cum să-l scot.",
+   "ro_m": "Habar n-am cum a ajuns pe Relic... ă, sau cum să-l scot."
+  },
+  {
+   "key": "1760154607139504128",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1763220490674061316",
+   "en": "[Sit] What'll start?",
+   "ro": "[Așează-te] Ce-o să înceapă?"
+  },
+  {
+   "key": "1763226012341059584",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1763471573187117056",
+   "en": "What's our move?",
+   "ro": "Care-i mutarea noastră?"
+  },
+  {
+   "key": "1763471590819971072",
+   "en": "My time doesn't come cheap.",
+   "ro": "Timpul meu nu-i ieftin."
+  },
+  {
+   "key": "1763478323567083520",
+   "en": "Ahem.",
+   "ro": "Ahem."
+  },
+  {
+   "key": "1764551210524819456",
+   "en": "What'll start?",
+   "ro": "Ce-o să înceapă?"
+  },
+  {
+   "key": "1771958089211056128",
+   "en": "AC's busted, dirty needles under the mattress, shitter's clogged…",
+   "ro": "AC-ul e picat, ace murdare sub saltea, veceul e înfundat…"
+  },
+  {
+   "key": "1771962330759696384",
+   "en": "No, for real – who fuckin' comes here to sleep?",
+   "ro": "Nu, pe bune – cine dracu' vine aici să doarmă?"
+  },
+  {
+   "key": "1771965059171225600",
+   "en": "Fuckin' losers, that's who. Fuck!",
+   "ro": "Fraieri, ăștia sunt. Pula mea!"
+  },
+  {
+   "key": "1771976538343739396",
+   "en": "Shut up. Please.",
+   "ro": "Taci, te rog."
+  },
+  {
+   "key": "1771977358044958720",
+   "en": "Yep, fuckin' losers.",
+   "ro": "Da, niște fraieri dracului."
+  },
+  {
+   "key": "1771977525582237696",
+   "en": "Johnny?",
+   "ro": "Johnny?"
+  },
+  {
+   "key": "1771977613176082432",
+   "en": "Yep, just two fuckin' losers.",
+   "ro": "Da, doi fraieri dracului."
+  },
+  {
+   "key": "1771978675308072960",
+   "en": "Yeah?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1771978729196490752",
+   "en": "Shut your gonk mouth. Please.",
+   "ro": "Ține-ți gura, fraiere. Te rog."
+  },
+  {
+   "key": "1771980385191596032",
+   "en": "Sayin' random shit ain't gonna help anyone.",
+   "ro": "Să tot dai din gură aiurea nu ajută pe nimeni."
+  },
+  {
+   "key": "1771981858650591232",
+   "en": "How the tables have turned...",
+   "ro": "Ia uite cum s-a întors roata..."
+  },
+  {
+   "key": "1771983780094808064",
+   "en": "Johnny, for cryin' out--",
+   "ro": "Johnny, mă, pentru Dumnezeu--"
+  },
+  {
+   "key": "1771985301033324544",
+   "en": "Now we're the ones sittin' around, waitin' for 'Saka assault squads to storm in.",
+   "ro": "Acum noi stăm aici și așteptăm să dea buzna escadroanele de asalt 'Saka."
+  },
+  {
+   "key": "1771988059123748864",
+   "en": "And I thought we were screwed when Goro kidnapped Hanako.",
+   "ro": "Și credeam că suntem în belea când Goro a răpit-o pe Hanako."
+  },
+  {
+   "key": "1771988765075443712",
+   "en": "We're a couple miles outside Night City…",
+   "ro": "Suntem la câteva mile de Night City…"
+  },
+  {
+   "key": "1771989680658452480",
+   "en": "Someone leavin' town just keeps drivin'. Somebody goin' there sleeps in the damn city!",
+   "ro": "Cine pleacă din oraș tot mai conduce. Cine se duce acolo doarme în orașul ăla al naibii!"
+  },
+  {
+   "key": "1771990524619526144",
+   "en": "What good's a motel in the middle of nowhere?",
+   "ro": "Ce treabă are un motel în mijlocul nicăieri?"
+  },
+  {
+   "key": "1771991883909566464",
+   "en": "I'll tell you who sleeps here.",
+   "ro": "Îți spun eu cine doarme aici."
+  },
+  {
+   "key": "1771998969968070656",
+   "en": "Mhm. See? Decide to cross a corp, this is what happens.",
+   "ro": "Mhm. Vezi? Te pui cu o corporație și uite ce păți."
+  },
+  {
+   "key": "1772012777566507008",
+   "en": "Contact me if you acquire more information about Soulkiller. And only then.",
+   "ro": "Dă-mi de știre dacă afli mai multe despre Soulkiller. Și numai atunci."
+  },
+  {
+   "key": "1772014257702834176",
+   "en": "Very same who invented Soulkiller. Using her own modified version now.",
+   "en_m": "The very same who invented Soulkiller. Using her modified version now.",
+   "ro": "Chiar aia care a inventat Soulkiller. Acum folosește propria versiune modificată."
+  },
+  {
+   "key": "1772016427181412352",
+   "en": "You think you just stepped in shit. Actually, you fell headfirst into a cesspit.",
+   "ro": "Crezi că ai călcat în rahat. Ba ai intrat cu capul înainte într-o hazna."
+  },
+  {
+   "key": "1772022154251866112",
+   "en": "Anyone knocks, blast the fuckin' door. No warning.",
+   "ro": "Dacă bate cineva, trage în ușa aia de căcat. Fără somație."
+  },
+  {
+   "key": "1772041400268754944",
+   "en": "I have a message for V.",
+   "ro": "Am un mesaj pentru V."
+  },
+  {
+   "key": "1772063690561818624",
+   "en": "Want the whole motel to hear, or you will you let me in?",
+   "ro": "Vrei să audă tot motelul, sau mă lași să intru?"
+  },
+  {
+   "key": "1772066866673356800",
+   "en": "Sittin' right here.",
+   "ro": "Stau chiar aici."
+  },
+  {
+   "key": "1772088101981523968",
+   "en": "That demands respect.",
+   "ro": "Asta impune respect."
+  },
+  {
+   "key": "1772088539782975488",
+   "en": "Fine.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1772096470691745792",
+   "en": "So what are your terms?",
+   "ro": "Deci, ce condiții ai?"
+  },
+  {
+   "key": "1772105014992310272",
+   "en": "From this moment onward, we both must exercise extreme caution.",
+   "ro": "De acum încolo, amândouă trebuie să fim super atente.",
+   "ro_m": "De acum încolo, amândoi trebuie să fim super atenți."
+  },
+  {
+   "key": "1772105920106336256",
+   "en": "Mmh...",
+   "ro": "Mmh..."
+  },
+  {
+   "key": "1772107555465465856",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1772111514905219072",
+   "en": "At Embers, in the city center. It is discreet.",
+   "ro": "La Embers, în City Center. E discret."
+  },
+  {
+   "key": "1772136630716338176",
+   "en": "You'd like that, wouldn't you?",
+   "ro": "Ți-ar plăcea, nu?"
+  },
+  {
+   "key": "1772137264542781440",
+   "en": "He was nothin' more than a means to an end. Even he knew that.",
+   "ro": "Era doar un mijloc pentru un scop. Și el știa asta."
+  },
+  {
+   "key": "1772138608716550144",
+   "en": "Saw him yourself. Even 'thout his implants, he was a good fighter.",
+   "ro": "L-ai văzut tu. Chiar și fără implanturi, era bun la bătaie.",
+   "ro_m": "L-ai văzut tu însuți. Chiar și fără implanturi, era un luptător bun."
+  },
+  {
+   "key": "1772139393487605760",
+   "en": "Doesn't matter how good you are in Night City. On your own, you're fucked.",
+   "ro": "Nu contează cât de bună ești în Night City. Singură, te-ai futut.",
+   "ro_m": "Nu contează cât de bun ești în Night City. Singur, te-ai futut."
+  },
+  {
+   "key": "1772140004413149184",
+   "en": "He'll pull through.",
+   "ro": "O să-și revină."
+  },
+  {
+   "key": "1772140809014874112",
+   "en": "He's a big boy, I'm sure he'll pull through.",
+   "ro": "E băiat mare, sigur o să se descurce."
+  },
+  {
+   "key": "1772143403309338624",
+   "en": "With a pack of Arasaka hounds at his heels?",
+   "ro": "Cu o haită de ogari Arasaka pe urmele lui?"
+  },
+  {
+   "key": "1772149543199969280",
+   "en": "Just remember one thing.",
+   "ro": "Ține minte un singur lucru."
+  },
+  {
+   "key": "1772150143975297024",
+   "en": "From now on we both must exercise extreme caution.",
+   "ro": "De acum încolo, amândoi trebuie să fim extrem de atenți."
+  },
+  {
+   "key": "1772151525595811840",
+   "en": "Well, that's my job done.",
+   "ro": "Păi, cu asta, treaba e gata."
+  },
+  {
+   "key": "1775051262028288000",
+   "en": "Just one?",
+   "ro": "Doar unul?"
+  },
+  {
+   "key": "1776303467997827072",
+   "en": "Hanako…? That you?",
+   "ro": "Hanako…? Tu ești?"
+  },
+  {
+   "key": "1776447494374166528",
+   "en": "That should be more than useful.",
+   "ro": "Ar trebui să fie mai mult decât util."
+  },
+  {
+   "key": "1776450923838443520",
+   "en": "Me? That's Arasaka tech.",
+   "ro": "Eu? E tehnologie Arasaka."
+  },
+  {
+   "key": "1776451605630947328",
+   "en": "Technology my brother does not allow even his closest associates to touch.",
+   "ro": "Tehnologie pe care fratele meu nu o lasă nici celor mai apropiați asociați s-o atingă."
+  },
+  {
+   "key": "1791048029689483264",
+   "en": "Who from?",
+   "ro": "De la cine?"
+  },
+  {
+   "key": "1791060876104437760",
+   "en": "So? You were saying? Got a message?",
+   "ro": "Și? Ce ziceai? Ai un mesaj?"
+  },
+  {
+   "key": "1793663615732944896",
+   "en": "It'll start soon.",
+   "ro": "O să înceapă în curând."
+  },
+  {
+   "key": "1793669041820143616",
+   "en": "My hands are tied in this matter.",
+   "ro": "Mâinile mi-s legate în chestiunea asta."
+  },
+  {
+   "key": "1793670793529266176",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1793671193414209536",
+   "en": "We got what we wanted.",
+   "ro": "Am obținut ce voiam."
+  },
+  {
+   "key": "1793671413598392320",
+   "en": "Same.",
+   "ro": "La fel."
+  },
+  {
+   "key": "1793672019037786112",
+   "en": "Got what we wanted. Don't tell me that proxy got to you?",
+   "en_m": "We got what we wanted. Don't tell me that proxy got to you?",
+   "ro": "Am obținut ce voiam. Nu-mi spune că proxy-ul ăla te-a afectat?"
+  },
+  {
+   "key": "1793672093226635264",
+   "en": "Right. 'Cause at least we've dealt with 'Saka henchmen before.",
+   "ro": "Ai dreptate. Cel puțin cu gărzile 'Saka ne-am mai întâlnit."
+  },
+  {
+   "key": "1793672860717158400",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "1793673039763607552",
+   "en": "C'mon, think about it.",
+   "ro": "Hai, gândește-te."
+  },
+  {
+   "key": "1793673567742595072",
+   "en": "Yesterday Hanako was living in a world that was completely safe for her.",
+   "ro": "Ieri, Hanako era în siguranță, în lumea ei."
+  },
+  {
+   "key": "1793673952679038976",
+   "en": "'N' what's she got on her hands now? A foreign city, a homicidal brother and a fuckin' thief.",
+   "en_m": "What's she got on her hands now? A foreign city, a homicidal brother and a fuckin' thief.",
+   "ro": "Și ce are acum pe cap? Un oraș străin, un frate homicid și un hoț nenorocit.",
+   "ro_m": "Ce are acum pe cap? Un oraș străin, un frate homicid și un hoț nenorocit."
+  },
+  {
+   "key": "1793674794492628992",
+   "en": "It's why she sent a proxy. She's alone. And she's shittin' herself more than we are.",
+   "ro": "De asta a trimis un proxy. E singură. Și se cacă pe ea de frică mai tare decât noi."
+  },
+  {
+   "key": "1793676709746053120",
+   "en": "Uh-huh.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1793681446491000832",
+   "en": "But this?",
+   "ro": "Dar asta?"
+  },
+  {
+   "key": "1793681707410264064",
+   "en": "It's somethin' new.",
+   "ro": "E ceva nou."
+  },
+  {
+   "key": "1793684373259554816",
+   "en": "Clink.",
+   "ro": "Clink."
+  },
+  {
+   "key": "1793686490695208960",
+   "en": "What? Did you say \"clink\"?",
+   "ro": "Ce? Ai zis „clink”?"
+  },
+  {
+   "key": "1793687003977355264",
+   "en": "Glad to see you get it.",
+   "ro": "Bine că ai prins."
+  },
+  {
+   "key": "1793700986327273472",
+   "en": "We've just landed on very thin ice. Crash landed.",
+   "ro": "Tocmai am aterizat pe gheață foarte subțire. Mai degrabă ne-am prăbușit."
+  },
+  {
+   "key": "1793705152076451840",
+   "en": "A matter of perspective.",
+   "ro": "Depinde de unde te uiți."
+  },
+  {
+   "key": "1793727644987953152",
+   "en": "Mhm. Sound of her attaching her leash.",
+   "ro": "Mhm. Sunetul cu care își pune lesa."
+  },
+  {
+   "key": "1793731929318494208",
+   "en": "It's a doll.",
+   "ro": "E o păpușă."
+  },
+  {
+   "key": "1793732442701303808",
+   "en": "Or a proxy.",
+   "ro": "Sau un proxy."
+  },
+  {
+   "key": "1883682323054018564",
+   "en": "Will you open it or not?",
+   "ro": "O deschizi sau nu?"
+  },
+  {
+   "key": "1883682323087572996",
+   "en": "You're costing time and money!",
+   "ro": "Ne costă timp și bani!"
+  },
+  {
+   "key": "1883684472450269188",
+   "en": "I have been at all unclear?",
+   "ro": "Am fost cumva neclar?"
+  },
+  {
+   "key": "1883684472534155268",
+   "en": "Will you sit silent, just so?",
+   "ro": "O să stai tăcută așa, pe bune?",
+   "ro_m": "O să stai tăcut așa, pe bune?"
+  },
+  {
+   "key": "1883724272804904964",
+   "en": "I know you're in there!",
+   "ro": "Știu că ești acolo!"
+  },
+  {
+   "key": "1883724272838459396",
+   "en": "Are you asleep? Time to wake up!",
+   "ro": "Dormi? Hai, trezește-te!"
+  },
+  {
+   "key": "1996635046071312384",
+   "en": "Takemura mentioned he had placed a tracker on you.",
+   "ro": "Takemura zicea că ți-a pus un tracker."
+  }
+ ]
+}

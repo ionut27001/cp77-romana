@@ -1,0 +1,142 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq017\\sq017_chicken_test.json",
+ "entries": [
+  {
+   "key": "1329705131754655744",
+   "en": "[db_db]Play from start",
+   "ro": "[db_db]Joacă de la început"
+  },
+  {
+   "key": "1329989438272442368",
+   "en": "[db_db]1. Truck",
+   "ro": "[db_db]1. Camion"
+  },
+  {
+   "key": "1329989984102387712",
+   "en": "[db_db]2. Idols",
+   "ro": "[db_db]2. Idoli"
+  },
+  {
+   "key": "1329990532180480000",
+   "en": "[db_db]3. Premiere",
+   "ro": "[db_db]3. Premieră"
+  },
+  {
+   "key": "1329992011746381824",
+   "en": "[db_db]Meeting Kerry",
+   "ro": "[db_db]Întâlnire cu Kerry"
+  },
+  {
+   "key": "1329992071859146752",
+   "en": "[db_db]Outside club",
+   "ro": "[db_db]În afara clubului"
+  },
+  {
+   "key": "1329992127509172224",
+   "en": "[db_db]Party",
+   "en_m": "[db_db]Pachinko parlor",
+   "ro": "[db_db]Petrecere",
+   "ro_m": "[db_db]Salon de pachinko"
+  },
+  {
+   "key": "1329992485132308480",
+   "en": "[db_db]Freeway heist",
+   "ro": "[db_db]Jaf pe autostradă"
+  },
+  {
+   "key": "1329992633895882752",
+   "en": "[db_db]Car chase",
+   "ro": "[db_db]Urmărire cu mașina"
+  },
+  {
+   "key": "1329992777341079552",
+   "en": "[db_db]Capitàn Caliente",
+   "ro": "[db_db]Capitàn Caliente"
+  },
+  {
+   "key": "1329994512457535488",
+   "en": "[db_db]Inside club",
+   "ro": "[db_db]În club"
+  },
+  {
+   "key": "1329994558594879488",
+   "en": "[db_db]Attack",
+   "ro": "[db_db]Atac"
+  },
+  {
+   "key": "1329995022518456320",
+   "en": "[db_db]Concert",
+   "ro": "[db_db]Concert"
+  },
+  {
+   "key": "1329995073118539776",
+   "en": "[db_db]Rooftop",
+   "ro": "[db_db]Acoperiș"
+  },
+  {
+   "key": "1355827735603187712",
+   "en": "[db_db]<- Back",
+   "ro": "[db_db]<- ÎNAPOI"
+  },
+  {
+   "key": "1355828111698038784",
+   "en": "[db_db]<- Back",
+   "ro": "[db_db]<- ÎNAPOI"
+  },
+  {
+   "key": "1355828255713660928",
+   "en": "[db_db]<- Back",
+   "ro": "[db_db]<- ÎNAPOI"
+  },
+  {
+   "key": "1396525690236440576",
+   "en": "[db_db]Yes (teleport).",
+   "ro": "[db_db]Da (teleportează)."
+  },
+  {
+   "key": "1396526238968844288",
+   "en": "[db_db]No (drive).",
+   "ro": "[db_db]Nu (condu)."
+  },
+  {
+   "key": "1761689470092079104",
+   "en": "[db_db]Coffee after phone call",
+   "ro": "[db_db]Cafea după telefon"
+  },
+  {
+   "key": "1761690829734440960",
+   "en": "[db_db]Club after phone",
+   "ro": "[db_db]Club după telefon"
+  },
+  {
+   "key": "1811402938936094724",
+   "en": "[db_db]Deal with Us Cracks",
+   "ro": "[db_db]Acord cu Us Cracks"
+  },
+  {
+   "key": "1811403429535444992",
+   "en": "[db_db]No deal with Us Cracks",
+   "ro": "[db_db]Fără acord cu Us Cracks"
+  },
+  {
+   "key": "2057488922608701444",
+   "en": "[db_db]LGBT censor",
+   "ro": "[db_db]Cenzură LGBT"
+  },
+  {
+   "key": "2057489620909985792",
+   "en": "[db_db]No LGBT censor",
+   "ro": "[db_db]Fără cenzură LGBT"
+  },
+  {
+   "key": "2131517091044691972",
+   "en": "[db_db]Kerry romanceable",
+   "ro": "[db_db]Kerry poate fi curtat"
+  },
+  {
+   "key": "2131517516330340352",
+   "en": "[db_db]Not romanceable",
+   "ro": "[db_db]Nu poate fi curtat"
+  }
+ ]
+}

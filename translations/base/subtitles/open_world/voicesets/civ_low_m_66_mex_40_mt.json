@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_66_mex_40_mt.json",
+ "entries": [
+  {
+   "key": "1922658313109512196",
+   "en": "<kiroshi l=\"mex\" o=\"Creo que no te había visto antes.\" t=\"I don't think I've seen you before.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Creo que no te había visto antes.\" t=\"Nu cred că te-am mai văzut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313143066628",
+   "en": "<kiroshi l=\"mex\" o=\"Qué pendejada, ¿eh?\" t=\"What a shitshow, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Qué pendejada, ¿eh?\" t=\"Ce circ de căcat, nu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313226952708",
+   "en": "<kiroshi l=\"mex\" o=\"¿Estás lurias?\" t=\"You nuts?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Estás lurias?\" t=\"Ești nebun?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313260507140",
+   "en": "<kiroshi l=\"mex\" o=\"¡Largo!\" t=\"Piss off!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Largo!\" t=\"Cară-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313310838788",
+   "en": "<kiroshi l=\"mex\" o=\"¿Y? ¿Lo viste?\" t=\"And? Did you watch?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Y? ¿Lo viste?\" t=\"Și? Ai văzut?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313394724868",
+   "en": "<kiroshi l=\"mex\" o=\"Es una pinche mentira... No es verdad... ¿Tú también?\" t=\"That's a bald-faced lie… Not fuckin' true… You too?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Es una pinche mentira... No es verdad... ¿Tú también?\" t=\"E o minciună sfruntată… Nu-i adevărat, pula mea… Și tu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313428279300",
+   "en": "<kiroshi l=\"mex\" o=\"Es un canal no oficial, por eso... Mmm... No lo están viendo... Entiendo.\" t=\"It's an unofficial channel, that's why… Mn-hmm… They're not watchin'… All clear.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Es un canal no oficial, por eso... Mmm... No lo están viendo... Entiendo.\" t=\"E un canal neoficial, de-aia… Mhm… Nu se uită… Totul e curat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313478610948",
+   "en": "<kiroshi l=\"mex\" o=\"Avísame.\" t=\"Let me know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Avísame.\" t=\"Anunță-mă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313646383108",
+   "en": "<kiroshi l=\"mex\" o=\"¡No! ¡Noooo!\" t=\"No! Noooo!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡No! ¡Noooo!\" t=\"Nu! Nuuuu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313663160324",
+   "en": "<kiroshi l=\"mex\" o=\"¡Sálvame!\" t=\"Save me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Sálvame!\" t=\"Salvează-mă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313763823620",
+   "en": "<kiroshi l=\"mex\" o=\"¡No puedes...!\" t=\"You can't…!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡No puedes...!\" t=\"Nu poți…!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313780600836",
+   "en": "<kiroshi l=\"mex\" o=\"Mi jefa... ¡Por favor!\" t=\"My wife… Please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Mi jefa... ¡Por favor!\" t=\"Soția mea… Te rog!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313881264132",
+   "en": "<kiroshi l=\"mex\" o=\"¿No tienes una vida?\" t=\"Got your own life?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿No tienes una vida?\" t=\"N-ai și tu o viață?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922658313898041348",
+   "en": "<kiroshi l=\"mex\" o=\"Largo, pendeja.\" t=\"Buzz off, kid.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"Largo, pendejo.\" t=\"Buzz off, kid.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Largo, pendeja.\" t=\"Cară-te, puștoaico.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Largo, pendejo.\" t=\"Cară-te, puștiule.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq042\\mq042_nomad_02_car_found.json",
+ "entries": [
+  {
+   "key": "1828421667858030592",
+   "en": "Ahh… Been a damned long while, old friend.",
+   "en_m": "Heh… Been a damned long while, old friend.",
+   "ro": "Ahh… Au trecut fir-ar de ani, prietene vechi.",
+   "ro_m": "Heh… Au trecut fir-ar de ani, prietene vechi."
+  },
+  {
+   "key": "1828425331951673344",
+   "en": "Let's see what we got here…",
+   "en_m": "Hm. Let's see what we got here…",
+   "ro": "Hai să vedem ce avem aici…",
+   "ro_m": "Hm. Hai să vedem ce avem aici…"
+  },
+  {
+   "key": "1828425863470653440",
+   "en": "Hey! What the--? Hands off my car!",
+   "ro": "Hei! Ce naiba--? Ia mâinile de pe mașina mea!"
+  },
+  {
+   "key": "1828442120475516932",
+   "en": "It broke down.",
+   "ro": "S-a stricat."
+  },
+  {
+   "key": "1828442340693254144",
+   "en": "Not your business!",
+   "ro": "Nu e treaba ta!"
+  },
+  {
+   "key": "1828443462669574144",
+   "en": "'Cause it broke down and I--",
+   "ro": "Că s-a stricat și eu--"
+  },
+  {
+   "key": "1828444680443797504",
+   "en": "Not your biz.",
+   "ro": "Nu-i treaba ta."
+  },
+  {
+   "key": "1828446233108029440",
+   "en": "And you abandoned it and now, outta nowhere, you remembered you'd left it? Likely story.",
+   "ro": "Și ai lăsat-o de izbeliște și acum, din senin, ți-ai adus aminte? Da, sigur."
+  },
+  {
+   "key": "1828450037643747328",
+   "en": "Not my biz?!",
+   "ro": "Nu-s afacerile mele?!"
+  },
+  {
+   "key": "1828452000628350976",
+   "en": "This last week, I've put in sweat, smarts... anything to get this heap running!",
+   "ro": "Săptămâna asta am muncit ca un dobitoc, sudoare, creier... orice, numai s-o pornesc rabla asta!"
+  },
+  {
+   "key": "1828454367742533636",
+   "en": "Almost hate to admit it, but good work.",
+   "ro": "Mă strâmb să recunosc, dar bravo."
+  },
+  {
+   "key": "1828454799000870912",
+   "en": "You're a piss poor mechanic, then.",
+   "ro": "Atunci ești un mecanic de doi lei."
+  },
+  {
+   "key": "1828456749922656256",
+   "en": "All in all… did a pretty good job. Here I thought the car was done for, gone, but… ehh.",
+   "en_m": "All in all… did a pretty good job. Here I thought the car was done for, gone, but… huh.",
+   "ro": "În total… ai făcut o treabă destul de bună. Credeam că mașina e de fier vechi, dar… ehh.",
+   "ro_m": "În total… ai făcut o treabă destul de bună. Credeam că mașina e de fier vechi, dar… hm."
+  },
+  {
+   "key": "1828459668285825024",
+   "en": "Took a week? Pff. Piss poor mechanic, then. I'da brought it back to life in a day if I'd set my heart on it.",
+   "ro": "A durat o săptămână? Pff. Mecanică de doi lei, atunci. Aș fi readus-o la viață într-o zi dacă mi-aș fi pus inima în ea.",
+   "ro_m": "A durat o săptămână? Pff. Mecanic de doi lei, atunci. Aș fi readus-o la viață într-o zi dacă mi-aș fi pus inima în ea."
+  },
+  {
+   "key": "1828466710857785344",
+   "en": "But you didn't. Missed your chance, now.",
+   "ro": "Dar n-ai făcut-o. Ți-ai ratat șansa, acum."
+  },
+  {
+   "key": "1828497559393280000",
+   "en": "Hahaha! Ah, like clockwork!",
+   "en_m": "Oh, yeah! It's like clockwork!",
+   "ro": "Hahaha! Ah, ca un ceasornic!",
+   "ro_m": "Oh, da! Ca un ceasornic!"
+  },
+  {
+   "key": "1828512707877150720",
+   "en": "Must not've wanted it… cared as much as I do.",
+   "ro": "Probabil n-a vrut-o… nu-i păsa cât îmi pasă mie."
+  },
+  {
+   "key": "1828516532243537924",
+   "en": "Buy the car off you.",
+   "ro": "Îți cumpăr mașina."
+  },
+  {
+   "key": "1828516976655212544",
+   "en": "They're my wheels. That's that.",
+   "ro": "Sunt roțile mele. Și gata."
+  },
+  {
+   "key": "1828517313608818688",
+   "en": "You can keep the car.",
+   "ro": "Poți păstra mașina."
+  },
+  {
+   "key": "1828518863957794816",
+   "en": "I'll buy this car off you. Pay you enough so you can get another.",
+   "ro": "Îți iau mașina asta. Îți dau destul cât să-ți iei alta."
+  },
+  {
+   "key": "1828520330236141568",
+   "en": "But... i-t's a wreck…",
+   "ro": "Dar... e o epavă…"
+  },
+  {
+   "key": "1828522153248432128",
+   "en": "Had enough of this convo. You ghost – now.",
+   "ro": "Gata cu discuția asta. Dispari, acum."
+  },
+  {
+   "key": "1828523318392528896",
+   "en": "Mhm. My damn wreck. C'mon, take the cash before I change my mind.",
+   "en_m": "Uh-huh. My damn wreck. C'mon, take the cash before I change my mind.",
+   "ro": "Mhm. Nenorocita mea de epavă. Hai, ia banii până nu mă răzgândesc.",
+   "ro_m": "Uh-huh. Nenorocita mea de epavă. Hai, ia banii până nu mă răzgândesc."
+  },
+  {
+   "key": "1828530463540387840",
+   "en": "Timing chain's about rusted through.",
+   "ro": "Lanțul de distribuție e ruginit până la os."
+  },
+  {
+   "key": "1828531189205311488",
+   "en": "So?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1828531519229927424",
+   "en": "You'll wanna replace it, else it's liable to snap if you open her up even a bit, take her over thirty.",
+   "ro": "O să vrei să-l schimbi, că altfel poate pocni dacă o ții peste treizeci."
+  },
+  {
+   "key": "1828532628271013888",
+   "en": "Hold on, hold on… Mean to say I can have her?",
+   "ro": "Stai, stai… Vrei să zici că pot s-o iau?"
+  },
+  {
+   "key": "1872242108275761152",
+   "en": "Well, definitely no guy or girl magnet... but seems healthy under the hood.",
+   "ro": "Păi, cu siguranță nu atrage nici băieți, nici fete... dar pare sănătoasă sub capotă."
+  },
+  {
+   "key": "1872243923067215872",
+   "en": "Don't know the half of it. Wait till I open 'er up.",
+   "ro": "Nu știi nici jumătate. Stai s-o deschid."
+  },
+  {
+   "key": "1872244276345053184",
+   "en": "Not afraid you might--? Ahh, what can it hurt. I'm dead anyway.",
+   "ro": "Nu ți-e frică că ai putea--? Ahh, ce mai poate să facă? Oricum sunt mort."
+  },
+  {
+   "key": "1872245231203524608",
+   "en": "Well, well... This nomad planted roots? Could it be?",
+   "ro": "Păi, păi... Nomadul ăsta s-a așezat la casă? Se poate?"
+  },
+  {
+   "key": "1872246049680007168",
+   "en": "Dunno. Hard to ruminate on that when you got a fuckin' time-bomb lodged in your head.",
+   "ro": "Nu știu. Greu să te gândești la asta când ai o bombă cu ceas nenorocită înfiptă în cap."
+  },
+  {
+   "key": "1875030682833833984",
+   "en": "New coil, plugs... Hm, an' somebody's clearly been tinkerin' with the camshaft. What's this, now?",
+   "en_m": "New coil, plugs... Somebody's clearly been tinkerin' with the camshaft. What's this, now?",
+   "ro": "Bobină nouă, bujii... Hm, și cineva a umblat clar la arborele cu came. Ce-i asta, acum?",
+   "ro_m": "Bobină nouă, bujii... Cineva a umblat clar la arborele cu came. Ce-i asta, acum?"
+  },
+  {
+   "key": "1875036734023323648",
+   "en": "Thi--? Wha--? N-no! It's my car!",
+   "en_m": "Thi--? Wha--? No! It's my car!",
+   "ro": "As--? Ce--? N-nu! E mașina mea!",
+   "ro_m": "As--? Ce--? Nu! E mașina mea!"
+  },
+  {
+   "key": "1875037002089680896",
+   "en": "No! Why would you leave it rusting in a yard?!",
+   "ro": "Nu! De ce ai lăsat-o să ruginească într-o curte?!"
+  },
+  {
+   "key": "1875058238823911424",
+   "en": "Don't get it, do you. Car's a sacred thing to a nomad. You tinkering with it? It's like you dug up one of my loved one's graves.",
+   "ro": "Nu pricepi, nu? Mașina e sfântă pentru un nomad. Să umbli tu la ea? E ca și cum ai deshumat mormântul unuia drag."
+  },
+  {
+   "key": "1875059673124884480",
+   "en": "Fuck your philosophy of life. I don't care. You're not gettin' the car back. It's that simple!",
+   "ro": "Mă piș pe filosofia ta de viață. Nu-mi pasă. Nu-ți mai iei mașina înapoi. Și-atât!"
+  },
+  {
+   "key": "1875070171300024320",
+   "en": "I need this car. To leave the city. Leave it and never come back.",
+   "ro": "Am nevoie de mașina asta ca să ies din oraș. Să-l las în urmă și să nu mă mai întorc niciodată."
+  },
+  {
+   "key": "1875071642611535872",
+   "en": "Why's that?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1875071774161686528",
+   "en": "'Cause... 'cause it's my ticket outta this fuckin' city. My only way out.",
+   "ro": "Pentru că... pentru că e biletul meu de ieșire din tâmpenia asta de oraș. Singura mea scăpare."
+  },
+  {
+   "key": "1875074241184190464",
+   "en": "Why you so desperate to leave?",
+   "ro": "De ce ești atât de disperat să pleci?"
+  },
+  {
+   "key": "1875074641555673088",
+   "en": "Seem desperate. Why you wanna leave?",
+   "ro": "Pari disperat. De ce vrei să pleci?"
+  },
+  {
+   "key": "1875075399785172992",
+   "en": "No way you'd understand if you have to ask.",
+   "ro": "N-ai cum să înțelegi dacă trebuie să întrebi."
+  },
+  {
+   "key": "1875075937578831872",
+   "en": "C'mon, try me, tell me.",
+   "ro": "Hai, zi-mi, nu te sfii."
+  },
+  {
+   "key": "1875076763688947712",
+   "en": "Tell you what, dammit? Look around you. Dirt, rot, shit and scum…",
+   "ro": "Ce să-ți zic, mă? Uită-te în jur. Mizerie, putreziciune, căcat și jeg…"
+  },
+  {
+   "key": "1875087525887135744",
+   "en": "Jeez... thanks... Not sure what to say.",
+   "ro": "Doamne... mulțumesc... Nu știu ce să zic."
+  },
+  {
+   "key": "1875088709788160000",
+   "en": "So give it a think… while I take this baby for a ride.",
+   "ro": "Deci gândește-te la asta cât iau bijuteria asta la o plimbare."
+  },
+  {
+   "key": "1875090592040800256",
+   "en": "I told you clearly that--",
+   "ro": "Ți-am spus clar că--"
+  },
+  {
+   "key": "1875090882320191488",
+   "en": "Need me to pull heat on you? Really want that? Step away from the car. Do it, now.",
+   "ro": "Vrei să-ți trag una? Chiar vrei asta? Dă-te de lângă mașină. Acum!"
+  },
+  {
+   "key": "1875093389742231552",
+   "en": "Fuck you! Fuck you sideways, you cunt!",
+   "en_m": "Fuck you! Fuck you sideways, asshole!",
+   "ro": "Futu-te! Du-te-n pula mea, pizdă!",
+   "ro_m": "Futu-te! Du-te-n pula mea, boule!"
+  },
+  {
+   "key": "1875093846099283968",
+   "en": "Thanks for the fixes. Clever girl.",
+   "ro": "Mulțumesc pentru reparații. Fată deșteaptă."
+  },
+  {
+   "key": "1875099313810755584",
+   "en": "Mean to say ya can. Wouldn't have a use for her here anyway. Not your typical urban vehicle.",
+   "ro": "Vreau să zic că poți. Oricum n-am ce să fac cu ea aici. Nu-i un vehicul urban tipic."
+  },
+  {
+   "key": "1875101482752462848",
+   "en": "Roads rise to meet you, clever girl.",
+   "ro": "Drumurile se ridică să te întâmpine, fată deșteaptă."
+  },
+  {
+   "key": "1875105427797364736",
+   "en": "I don't wanna live here. Not now.",
+   "ro": "Nu vreau să trăiesc aici. Nu acum."
+  },
+  {
+   "key": "1875110844623540224",
+   "en": "Hate to sound like your conscience, wouldn't ever want that job… but dick move, V.",
+   "ro": "Nu vreau să par conștiința ta, n-aș lua jobul ăla niciodată... dar ai fost un nesimțit, V."
+  },
+  {
+   "key": "1875112373380239360",
+   "en": "Not a nomad, no way you can understand. It's as if somebody klepped your guitar.",
+   "ro": "Nu ești nomad, n-ai cum să pricepi. E ca și cum ți-ar fi ciordit cineva chitara."
+  },
+  {
+   "key": "1875112888256221184",
+   "en": "Mhm. Somebody for who it was the last chance for a better life?",
+   "ro": "Mhm. Pentru cineva asta a fost ultima șansă la o viață mai bună?"
+  },
+  {
+   "key": "1875115676075872256",
+   "en": "Enjoy your fuckin' ride, V.",
+   "ro": "Bucură-te de plimbarea ta nenorocită, V."
+  },
+  {
+   "key": "1875118168113205248",
+   "en": "Floor it, V.",
+   "ro": "Apasă pedala la fund, V."
+  },
+  {
+   "key": "1875125058448707584",
+   "en": "If it's any consolation, fuckin' time-bomb feels shitty about it, too.",
+   "ro": "Dacă te consolează cu ceva, bomba asta de ceas se simte și ea nasol."
+  },
+  {
+   "key": "1875125684708626432",
+   "en": "I know, Johnny. C'mon, let's ghost. This place makes my skin crawl.",
+   "ro": "Știu, Johnny. Hai să ne tăiem. Locul ăsta mi-e pielea de găină."
+  },
+  {
+   "key": "1881961806684278784",
+   "en": "Shoulda started with the step motor.",
+   "ro": "Ar fi trebuit să încep cu motorul pas cu pas."
+  },
+  {
+   "key": "1881964272582709248",
+   "en": "Shoulda started with the step motor. Woulda been quicker.",
+   "ro": "Trebuia să încep cu motorul pas cu pas. Era mai rapid."
+  },
+  {
+   "key": "1881967289042259968",
+   "en": "Says who? And why?",
+   "ro": "Cine zice? Și de ce?"
+  },
+  {
+   "key": "1881970561958334464",
+   "en": "Cause it's iffy, starts stickin'. But clear the carbon deposits and it starts runnin' like new again.",
+   "ro": "Pentru că e șubred, începe să se tot blocheze. Dar curăți depunerile de carbon și pornește iar ca nou."
+  },
+  {
+   "key": "1881979761811836928",
+   "en": "Fuuuck… I replaced the entire throttle…",
+   "ro": "Fuuuck… am înlocuit tot acceleratorul…"
+  },
+  {
+   "key": "1881981099962585088",
+   "en": "Ah, see? Takes the owner to really know a set of wheels.",
+   "ro": "Aha, vezi? Ca să cunoști o mașină trebuie să fii stăpâna ei.",
+   "ro_m": "Aha, vezi? Ca să cunoști o mașină trebuie să fii stăpânul ei."
+  },
+  {
+   "key": "1881981663022731264",
+   "en": "Former owner. Car's mine now. Soon as I'm done doin' the basic fixes, I am leavin' this fuckin' city in a cloud of exhaust.",
+   "ro": "Fostul proprietar. Mașina e a mea acum. Imediat ce termin reparațiile de bază, ies din orașul ăsta nenorocit cu fum pe țeavă."
+  },
+  {
+   "key": "1927350610698313732",
+   "en": "[Lift hood]",
+   "ro": "[Ridică capota]"
+  },
+  {
+   "key": "1927362745708978176",
+   "en": "[Examine engine]",
+   "ro": "[Examinează motorul]"
+  },
+  {
+   "key": "1927363726471471104",
+   "en": "It's warm. Engine was runnin' just a short while ago.",
+   "ro": "E cald. Motorul a mers acum puțin."
+  },
+  {
+   "key": "1927364794123165696",
+   "en": "Fenders and trunk eaten away by rust... rest of the body's still holdin' up. Wonder what's under the hood...",
+   "ro": "Aripile și portbagajul sunt roase de rugină... restul caroseriei mai ține. Oare ce e sub capotă..."
+  },
+  {
+   "key": "1927385042561933316",
+   "en": "[Check radiator]",
+   "ro": "[Verifică radiatorul]"
+  },
+  {
+   "key": "1927385760794550272",
+   "en": "[Drop hood] What? This car's mine!",
+   "ro": "[Lasă capota] Ce? Mașina asta e a mea!"
+  },
+  {
+   "key": "1927394303417393152",
+   "en": "[Check oil pan]",
+   "ro": "[Verifică baia de ulei]"
+  },
+  {
+   "key": "1927399774719188992",
+   "en": "Someone cleaned the cooling fan and filled up the brake fluid... except... huh... with water.",
+   "en_m": "Someone cleaned the cooling fan, filled up the brake fluid... except... huh... with water.",
+   "ro": "Cineva a curățat ventilatorul și a umplut lichidul de frână... doar că... hm... cu apă.",
+   "ro_m": "Cineva a curățat ventilatorul, a umplut lichidul de frână... doar că... hm... cu apă."
+  },
+  {
+   "key": "1927400107814035456",
+   "en": "Haha. New, but used. Salvaged from some other junker.",
+   "en_m": "Huh. New, but used. Salvaged from some other junker.",
+   "ro": "Haha. Nou-nouț, da' la mâna a doua. Scos de la altă rablă.",
+   "ro_m": "Hm. Nou-nouț, da' la mâna a doua. Scos de la altă rablă."
+  },
+  {
+   "key": "1933092941841354752",
+   "en": "All right. Seen enough.",
+   "ro": "Bine. Am văzut destul."
+  }
+ ]
+}

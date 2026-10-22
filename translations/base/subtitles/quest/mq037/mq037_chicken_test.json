@@ -1,0 +1,50 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq037\\mq037_chicken_test.json",
+ "entries": [
+  {
+   "key": "1864975362508599300",
+   "en": "[db_db]Start",
+   "ro": "[db_db]Start"
+  },
+  {
+   "key": "1864975741908561920",
+   "en": "[db_db]Brendan gone",
+   "ro": "[db_db]Brendan gone"
+  },
+  {
+   "key": "2113021686314299392",
+   "en": "[db_db]Dumpster",
+   "ro": "[db_db]Dumpster"
+  },
+  {
+   "key": "2113022309587873792",
+   "en": "[db_db]Service Point",
+   "ro": "[db_db]Service Point"
+  },
+  {
+   "key": "2120271100309270528",
+   "en": "[db_db]Introduction",
+   "ro": "[db_db]Introduction"
+  },
+  {
+   "key": "2147717592712081408",
+   "en": "[db_db]Girlfriend",
+   "ro": "[db_db]Girlfriend"
+  },
+  {
+   "key": "2147724157284380672",
+   "en": "[db_db]Hooligan",
+   "ro": "[db_db]Hooligan"
+  },
+  {
+   "key": "2162140562855424000",
+   "en": "[db_db]Girlfriend: Final",
+   "ro": "[db_db]Girlfriend: Final"
+  },
+  {
+   "key": "2172116344361054208",
+   "en": "[db_db]Dumpster - Brendan not introduced",
+   "ro": "[db_db]Dumpster - Brendan not introduced"
+  }
+ ]
+}

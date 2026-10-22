@@ -1,0 +1,440 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_12_final_scene.json",
+ "entries": [
+  {
+   "key": "2759157992353554432",
+   "en": "Hey, hey! Careful with that. I'm linked to the 'runner, see?",
+   "ro": "Hei, hei! Ai grijă cu aia. Sunt conectat la netrunner, vezi?"
+  },
+  {
+   "key": "2760678434448990212",
+   "en": "Sure are confident.",
+   "ro": "Ce sigur te crezi."
+  },
+  {
+   "key": "2760678885034680320",
+   "en": "Wanna stop me? Try.",
+   "ro": "Vrei să mă oprești? Încearcă."
+  },
+  {
+   "key": "2760680387971244032",
+   "en": "Who’s gonna stop me? You?",
+   "ro": "Cine mă oprește? Tu?"
+  },
+  {
+   "key": "2760681460085678080",
+   "en": "Your plan kills my client.",
+   "ro": "Planul tău îmi omoară clientul."
+  },
+  {
+   "key": "2760683271706238976",
+   "en": "How can you be sure that'll work?",
+   "ro": "Cum poți fi sigur că o să meargă?"
+  },
+  {
+   "key": "2957978391965982720",
+   "en": "Because I'm a professional. Just like you.",
+   "ro": "Pentru că sunt profesionist. La fel ca tine."
+  },
+  {
+   "key": "2957980222242807808",
+   "en": "Think he cares about those poor saps the Voodoo Boys are hacking? Last thing on his mind.",
+   "ro": "Crezi că îi pasă de sărmanii ăia pe care îi hack-uiesc Voodoo Boys? Ultimul lucru la care se gândește."
+  },
+  {
+   "key": "3013028737008070660",
+   "en": "Fine, finish your op.",
+   "ro": "Bine, fă-ți treaba."
+  },
+  {
+   "key": "3013029409338224640",
+   "en": "Here to protect my client.",
+   "ro": "Sunt aici să-mi protejez clientul."
+  },
+  {
+   "key": "3013031294291996672",
+   "en": "Fine, keep doin' your thing here. Just know if you fuck this up, you’re next on my shitlist.",
+   "ro": "Bine, continuă-ți treaba aici. Dar să știi, dacă o belești, ești următoarea pe lista mea de rahat.",
+   "ro_m": "Bine, continuă-ți treaba aici. Dar să știi, dacă o belești, ești următorul pe lista mea de rahat."
+  },
+  {
+   "key": "3013034019079647232",
+   "en": "Guess you'll have to manage without Milko.",
+   "ro": "Bănuiesc că o să te descurci fără Milko."
+  },
+  {
+   "key": "3093856028172283904",
+   "en": "Don't want 'im to catch a ricochet, huh?",
+   "ro": "Nu vrei să ia vreun glonț rătăcit, nu?"
+  },
+  {
+   "key": "3211644635745677312",
+   "en": "Pulling Milko's plug will not save Indira's life. He'll just be replaced.",
+   "ro": "Dacă-l deconectezi pe Milko, nu-i salvezi viața Indirei. O să fie înlocuit oricum."
+  },
+  {
+   "key": "3211665348191907840",
+   "en": "Company men like him – all the same. Just out to be the next fake-smilin' employee of the month.",
+   "ro": "Tipii ăștia de companie sunt toți la fel. Vor doar să fie următorul angajat al lunii, cu zâmbetul ăla fals."
+  },
+  {
+   "key": "3223172884820717568",
+   "en": "You should go. The others could arrive any minute.",
+   "ro": "Ar fi bine să pleci. Ceilalți pot ajunge oricând."
+  },
+  {
+   "key": "3223173338141093888",
+   "en": "Go. I have to get back to work.",
+   "ro": "Pleacă. Trebuie să mă întorc la treabă."
+  },
+  {
+   "key": "3275165879385890820",
+   "en": "He’s a dead man anyway.",
+   "ro": "E mort oricum."
+  },
+  {
+   "key": "3275253731985629184",
+   "en": "Whoever you are, I advise you to step back.",
+   "ro": "Cine ești tu, te sfătuiesc să faci un pas în spate."
+  },
+  {
+   "key": "3275253775858049028",
+   "en": "Netrunner, blackmailer, murderer. He’s my hit.",
+   "ro": "Netrunner, șantajist, ucigaș. E ținta mea."
+  },
+  {
+   "key": "3275256283296866308",
+   "en": "Gimme one good reason.",
+   "ro": "Dă-mi un motiv bun."
+  },
+  {
+   "key": "3275256545944182784",
+   "en": "I can.",
+   "ro": "Pot."
+  },
+  {
+   "key": "3275292842561806340",
+   "en": "And my name’s Lizzy Wizzy.",
+   "ro": "Iar numele meu e Lizzy Wizzy."
+  },
+  {
+   "key": "3275293019980865536",
+   "en": "Maybe. Do you know Bryce Mosley?",
+   "ro": "Poate. Îl cunoști pe Bryce Mosley?"
+  },
+  {
+   "key": "3275293485884153856",
+   "en": "I’m Agent Alan Noël, NetWatch, organized crime specialist.",
+   "ro": "Sunt Agent Alan Noël, NetWatch, specialist în criminalitate organizată."
+  },
+  {
+   "key": "3275296540612534272",
+   "en": "An undercover NetWatch agent?",
+   "ro": "Un agent NetWatch sub acoperire?"
+  },
+  {
+   "key": "3275299254327222272",
+   "en": "A real pleasure, Alan. My chooms call me Lizzy Wizzy.",
+   "ro": "Ce plăcere, Alan. Chooms de-ai mei mă cheamă Lizzy Wizzy."
+  },
+  {
+   "key": "3275299294005338116",
+   "en": "First I've seen a NetWatch agent ditch the tie and button-up to get his hands dirty, live with the enemy.",
+   "ro": "Prima dată când văd un agent NetWatch care lasă cravata și cămașa-n cui și se murdărește pe mâini, trăind printre dușmani."
+  },
+  {
+   "key": "3275299331502415872",
+   "en": "Met a choom of yours recently. Likewise sniffin' around the Voodoo Boys.",
+   "ro": "Am dat zilele trecute peste un choom de-al tău. Și el își bagă nasul pe la Voodoo Boys."
+  },
+  {
+   "key": "3275311653042167808",
+   "en": "Did you greet him with a gun too?",
+   "ro": "Și pe el l-ai primit tot cu arma?"
+  },
+  {
+   "key": "3275314001399422976",
+   "en": "I know who you are. Everyone at the Igloo has been talkin' about what you did in Pacifica.",
+   "ro": "Știu cine ești. Toată lumea de la Igloo vorbește despre ce-ai făcut în Pacifica."
+  },
+  {
+   "key": "3275344991433957376",
+   "en": "Well, got fingers crossed for ya. But don't count on my help. Safety of my client's my only priority.",
+   "ro": "Păi, țin pumnii pentru tine. Dar nu te baza pe ajutorul meu. Siguranța clientului meu e singura mea prioritate."
+  },
+  {
+   "key": "3275347898606723072",
+   "en": "This client of yours... a corpo? Engineering type? That fits the Voodoos typical target profile.",
+   "ro": "Clientul ăsta de-al tău... un corpo? Tip inginer? Se potrivește cu ținta lor tipică."
+  },
+  {
+   "key": "3275354118642114560",
+   "en": "We tried recruitment. More than once. None ever agreed, no matter our terms. We underestimated their loyalty to each other.",
+   "ro": "Am încercat recrutarea. De mai multe ori. Niciunul n-a fost de acord, indiferent de termenii noștri. Am subestimat loialitatea lor unul față de celălalt."
+  },
+  {
+   "key": "3275362438195093504",
+   "en": "Well, Alan, NetWatch agent or not, if you stand in my way I'll be forced to remove you from it.",
+   "ro": "Păi, Alan, agent NetWatch sau nu, dacă-mi stai în cale, o să fiu nevoită să te dau la o parte.",
+   "ro_m": "Păi, Alan, agent NetWatch sau nu, dacă-mi stai în cale, o să fiu nevoit să te dau la o parte."
+  },
+  {
+   "key": "3275378356736401408",
+   "en": "The difference is, I intend to restore order, whereas you offer only more chaos.",
+   "ro": "Diferența e că eu vreau să restabilesc ordinea, pe când tu oferi doar mai mult haos."
+  },
+  {
+   "key": "3275382207644344320",
+   "en": "You think I don't know that?",
+   "ro": "Crezi că nu știu asta?"
+  },
+  {
+   "key": "3275386631276109828",
+   "en": "Why do the Voodoo Boys want this tech?",
+   "ro": "De ce vor Voodoo Boys tehnologia asta?"
+  },
+  {
+   "key": "3275387541406523392",
+   "en": "I'm still missin' the \"why\". They wanna open a museum, sell tickets?",
+   "en_m": "Still missin' the \"why\". They wanna open a museum, sell tickets?",
+   "ro": "Tot nu-mi intră în cap de ce. Vor să deschidă un muzeu, să vândă bilete?"
+  },
+  {
+   "key": "3275387595412381700",
+   "en": "Ya can't just find this stuff lyin' around the streets.",
+   "ro": "Nu poți găsi așa ceva aruncat pe străzi."
+  },
+  {
+   "key": "3275389087259205632",
+   "en": "No, but you can beneath them. Dogtown was built on an old Militech bunker complex. Why do you think they built that wall?",
+   "ro": "Ba da, dar sub ele. Dogtown a fost construit peste un complex vechi de buncăre Militech. De ce crezi că au ridicat zidul ăla?"
+  },
+  {
+   "key": "3275390362193403904",
+   "en": "There are plenty of people willing to pay good money for old hardware.",
+   "ro": "Sunt destui dispuși să plătească bine pentru hardware vechi."
+  },
+  {
+   "key": "3282521182276329472",
+   "en": "Stand back.",
+   "ro": "Dă-te în spate."
+  },
+  {
+   "key": "3282541443432226816",
+   "en": "Milko’s a corpse already, but you still got a choice.",
+   "ro": "Milko e deja cadavru, dar tu încă ai o șansă."
+  },
+  {
+   "key": "3282623505543634944",
+   "en": "You’d only waste your bullets on 'im. Trust me.",
+   "ro": "I-ai irosi gloanțele pe el. Crede-mă."
+  },
+  {
+   "key": "3282623933060653056",
+   "en": "He has some dirt under his nails, yes, but Milko is a no one. A small fish in a big pond.",
+   "ro": "Are ceva murdărie sub unghii, da, dar Milko e un nimeni. Un peștișor într-un iaz mare."
+  },
+  {
+   "key": "3282784554183991296",
+   "en": "Months I've suffered this place, holed up with these scabs on society. I aim to expose their web of blackmailers and murderers, like Milko.",
+   "ro": "Luni de zile am stat ascunsă în locul ăsta, cu ăștia, scursurile societății. Vreau să scot la lumină rețeaua de șantajiști și ucigași, ca Milko.",
+   "ro_m": "Luni de zile am stat ascuns în locul ăsta, cu ăștia, scursurile societății. Vreau să scot la lumină rețeaua de șantajiști și ucigași, ca Milko."
+  },
+  {
+   "key": "3282797171606724612",
+   "en": "Good luck with that.",
+   "ro": "Mult noroc, atunci."
+  },
+  {
+   "key": "3282800801105747968",
+   "en": "Milko's your source?",
+   "ro": "Milko e sursa ta?"
+  },
+  {
+   "key": "3282809297893236764",
+   "en": "This Milko guy work for you? Your source?",
+   "ro": "Tipul ăsta, Milko, lucrează pentru tine? E sursa ta?"
+  },
+  {
+   "key": "3282809297893236776",
+   "en": "I piggyback whenever he jacks into the Net, try to pin down who's feeding him orders.",
+   "ro": "Mă conectez pe ascuns când se conectează la Net, încerc să aflu cine îi dă ordine."
+  },
+  {
+   "key": "3284025214845231104",
+   "en": "Doubtful.",
+   "ro": "Mă îndoiesc."
+  },
+  {
+   "key": "3284025754853482496",
+   "en": "OK, Agent Alan NoëL, NetWatch, organized crime specialist. Get outta my way.",
+   "ro": "OK, agent Alan Noël, NetWatch, specialist în crima organizată. Dă-te la o parte."
+  },
+  {
+   "key": "3284026601314361344",
+   "en": "At least let me unplug from Milko.",
+   "ro": "Măcar lasă-mă să mă deconectez de la Milko."
+  },
+  {
+   "key": "3284031100007391232",
+   "en": "Agent Mosley? He speaks highly of you.",
+   "ro": "Agent Mosley? Vorbește frumos despre tine."
+  },
+  {
+   "key": "3284031265397186564",
+   "en": "I can prove it.",
+   "ro": "Pot s-o dovedesc."
+  },
+  {
+   "key": "3284054871929954304",
+   "en": "It's why I'm not gonna waste my breath on a corpo this time around.",
+   "en_m": "That's why I'm not gonna waste my breath on a corpo this time 'round.",
+   "ro": "De-aia nu o să-mi pierd vremea cu un corpo de data asta."
+  },
+  {
+   "key": "3284060286256324608",
+   "en": "You came to an understanding with our man back then.",
+   "ro": "Te-ai înțeles cu omul nostru atunci."
+  },
+  {
+   "key": "3284060741086650368",
+   "en": "Yeah, I thought so too. Till I learned your buddy secretly injected a tracking program in me. Class act.",
+   "ro": "Da, așa credeam și eu. Până am aflat că amicul tău mi-a injectat pe ascuns un program de urmărire. Clasă."
+  },
+  {
+   "key": "3284108144674250752",
+   "en": "But to do that, I have to find out who's pulling the strings first.",
+   "ro": "Dar pentru asta trebuie să aflu mai întâi cine trage sforile."
+  },
+  {
+   "key": "3284115599579848704",
+   "en": "He started it. Tried to scramble my brain first.",
+   "ro": "El a început. A încercat să-mi prăjească creierul primul."
+  },
+  {
+   "key": "3284124630654558208",
+   "en": "No need. I like corpos even less than I do gangoons.",
+   "ro": "Nu-i nevoie. Corpoii mi-s și mai antipatici decât gangsterii."
+  },
+  {
+   "key": "3284164396716564480",
+   "en": "The Voodoos get their hands on old military tech. They wanna dust it off, get it running, which means they need experts to reverse-engineer it.",
+   "ro": "Voodoo Boys pun mâna pe tehnologie militară veche. Vor s-o scoată din praf, s-o pună iar în funcțiune, deci le trebuie experți care s-o descifreze."
+  },
+  {
+   "key": "3284170541573251072",
+   "en": "Where'd they get the tech from?",
+   "ro": "De unde au luat tehnologia?"
+  },
+  {
+   "key": "3284172126181302272",
+   "en": "I have reports of victims all along the coast. Milko is only one of the 'runners working for the Voodoo Boys.",
+   "ro": "Am rapoarte despre victime de-a lungul coastei. Milko e doar unul dintre runnerii care lucrează pentru Voodoo Boys."
+  },
+  {
+   "key": "3284177346428837888",
+   "en": "I came across some combat bots.",
+   "ro": "Am dat peste niște boți de luptă."
+  },
+  {
+   "key": "3284181972930699264",
+   "en": "Smashed a few bots along the way. Those old military models?",
+   "ro": "Am spart câțiva boți pe drum. Modelele militare vechi?"
+  },
+  {
+   "key": "3284182955706458112",
+   "en": "Mhm. And the Voodoo Boys won't be happy to lose them. But they do have more.",
+   "ro": "Mhm. Și Voodoo Boys n-o să se bucure că-i pierd. Da' mai au."
+  },
+  {
+   "key": "3284185441569775616",
+   "en": "As soon as I find the head behind their operation, I can chop it off and end this for good.",
+   "ro": "Imediat ce dau de capul operațiunii, i-l tai și gata cu asta."
+  },
+  {
+   "key": "3285527314930507776",
+   "en": "Fuck! Do you have any idea what you just did?!",
+   "ro": "Futu-i! Ai habar ce tocmai ai făcut?!"
+  },
+  {
+   "key": "3285529160625594368",
+   "en": "You won't regret it. I give my word.",
+   "ro": "Nu o să regreți. Îți dau cuvântul."
+  },
+  {
+   "key": "3285594490567827456",
+   "en": "Developing countries rarely see better than bootleg corptech. A lot of buyers might not even realize the Voodoos' product is outdated, or even obsolete.",
+   "ro": "Țările în curs de dezvoltare rar văd mai mult decât corptech contrafăcut. Mulți cumpărători nici nu-și dau seama că produsul Voodoo Boys e depășit, sau chiar învechit."
+  },
+  {
+   "key": "3285611178512261120",
+   "en": "It started as a secret military project back in the twenties. A total failure. Militech cut their losses and filled it with quicklime, but some persistent groups have managed to scavenge the labs, even today.",
+   "ro": "A început ca proiect militar secret în anii douăzeci. Un eșec total. Militech și-a tăiat pierderile și l-a umplut cu var nestins, dar unele grupuri încăpățânate au reușit să jefuiască laboratoarele, chiar și azi."
+  },
+  {
+   "key": "3286725081048719360",
+   "en": "I’m sure we can work something out.",
+   "ro": "Sigur ne înțelegem noi cumva."
+  },
+  {
+   "key": "3286732930202116096",
+   "en": "You just ruined a NetWatch operation costing in the tens of thousands.",
+   "ro": "Tocmai ai stricat o operațiune NetWatch de zeci de mii."
+  },
+  {
+   "key": "3286745408021635072",
+   "en": "To you, these “victims” are numbers in a file, no names, no faces. Well, my client does have a name – Indira Barazza. And she'll die if I don't do my job.",
+   "ro": "Pentru tine, astea sunt niște „victime” pe hârtie, fără nume, fără fețe. Ei, clienta mea are nume – Indira Barazza. Și o să moară dacă nu-mi fac treaba."
+  },
+  {
+   "key": "3286935812864122880",
+   "en": "Mhmmm. Either help with the hackin' or get hacked, huh? What's the angle there?",
+   "ro": "Mhmmm. Ori ajuți cu hackul, ori ajungi hack-uit, nu? Care-i șmecheria?"
+  },
+  {
+   "key": "3286942743766933504",
+   "en": "Give me a chance. Do you realize how many more people you can save this way?",
+   "ro": "Dă-mi o șansă. Îți dai seama câți oameni poți salva așa?"
+  },
+  {
+   "key": "3286979207519182848",
+   "en": "I need Milko. His death alone won't change anything, understand?",
+   "ro": "Îmi trebuie Milko. Moartea lui de una singură nu schimbă nimic, înțelegi?"
+  },
+  {
+   "key": "3298371804179374080",
+   "en": "Do not do this!",
+   "ro": "Nu face asta!"
+  },
+  {
+   "key": "3298372176230916100",
+   "en": "You won't do it, right?",
+   "ro": "Nu o să faci asta, nu?"
+  },
+  {
+   "key": "3326224723717038156",
+   "en": "You can't kill Milko. Not yet.",
+   "ro": "Nu-l poți ucide pe Milko. Nu încă."
+  },
+  {
+   "key": "3326225303453736960",
+   "en": "Fine. But so much as a twitch and you're a flatline.",
+   "ro": "Bine. Dar la cea mai mică mișcare, ești mort."
+  },
+  {
+   "key": "3326234142966194176",
+   "en": "That's better. Now listen to me.",
+   "ro": "Așa e mai bine. Acum ascultă-mă."
+  },
+  {
+   "key": "3417283197223366656",
+   "en": "Aaaagh!",
+   "ro": "Aaaagh!"
+  },
+  {
+   "key": "3896884382817542148",
+   "en": "[Kick]",
+   "ro": "[Lovește]"
+  }
+ ]
+}

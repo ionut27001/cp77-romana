@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_22_sts_wat_lch_01.json",
+ "entries": [
+  {
+   "key": "2162145636835373056",
+   "en": "<kiroshi l=\"rus\" o=\"Брат, ты лучше туда не подключайся. Поймают — так даже разговаривать не станут.\" t=\"Choom, don't even try jackin' in there. They'll wipe you, no questions asked.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Брат, ты лучше туда не подключайся. Поймают — так даже разговаривать не станут.\" t=\"Choom, nici nu încerca să te conectezi acolo. Te șterg, fără întrebări.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2213047137121701888",
+   "en": "Last time I checked, server's ours. Not theirs.",
+   "ro": "Din câte știu, serverul e al nostru, nu al lor."
+  },
+  {
+   "key": "2218810156485283840",
+   "en": "<kiroshi l=\"rus\" o=\"«Тигриные когти».\" t=\"They're the Tyger Claws.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"«Тигриные когти».\" t=\"Sunt gașca Tyger Claws.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218817391743569920",
+   "en": "Yeah, so? Still don't know shit about subnets. No way they trace me.",
+   "ro": "Da, și? Tot nu știu un căcat de subrețele. Nu au cum să mă urmărească."
+  },
+  {
+   "key": "2218819461431267328",
+   "en": "<kiroshi l=\"rus\" o=\"Мне кажется, ты староват для игр в нетраннера. Успокойся уже.\" t=\"Aren't you too old to play netrunner? Grow up.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мне кажется, ты староват для игр в нетраннера. Успокойся уже.\" t=\"Nu ești prea bătrân să te joci de netrunner? Crește odată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218820854611283968",
+   "en": "\"Grow up?\" Yo, fuck you! You don't know me! Fuckin' Russki.",
+   "ro": "„Crește odată?” Yo, du-te-n pula mea! Nu mă cunoști! Russki-ul dracului."
+  },
+  {
+   "key": "2218823208001703936",
+   "en": "<kiroshi l=\"rus\" o=\"Просто… А, неважно. Обижайся, сколько хочешь.\" t=\"Just... Ehh, never mind. Be mad if you want.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Просто… А, неважно. Обижайся, сколько хочешь.\" t=\"Doar... Ei, lasă. Supără-te cât vrei.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,862 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq030\\sq030_06_lake_exploration.json",
+ "entries": [
+  {
+   "key": "1567666043014225920",
+   "en": "Don't venture off too far, OK? Our sets'll lose sync.",
+   "ro": "Nu te depărta prea mult, bine? Ne pierdem sincronizarea."
+  },
+  {
+   "key": "1746089458403360768",
+   "en": "Ah! Closed... Shame.",
+   "ro": "Ah! Închis... Păcat."
+  },
+  {
+   "key": "1776395142881591296",
+   "en": "Aaarrghhh!",
+   "ro": "Aaarrghhh!"
+  },
+  {
+   "key": "1796856857779462144",
+   "en": "Could look for another way inside.",
+   "ro": "Putem căuta altă intrare."
+  },
+  {
+   "key": "1796860026072817664",
+   "en": "Be my guest.",
+   "ro": "Poftim, fă-ți de cap."
+  },
+  {
+   "key": "1903851086149566468",
+   "en": "Why didn't they take 'em?",
+   "ro": "De ce nu le-au luat?"
+  },
+  {
+   "key": "1903852940132597764",
+   "en": "Fell off your diner, it seems.",
+   "ro": "Se pare că a căzut de la dinerul tău."
+  },
+  {
+   "key": "1903854839917428740",
+   "en": "And this?",
+   "ro": "Și asta?"
+  },
+  {
+   "key": "1903867984950050820",
+   "en": "Doesn't get any more out of place than this.",
+   "ro": "Nu poate fi mai nepotrivit decât asta."
+  },
+  {
+   "key": "1903871598896594944",
+   "en": "Found a photo camera.",
+   "ro": "Am găsit o cameră foto."
+  },
+  {
+   "key": "1903872880172580864",
+   "en": "A framed photo, here?",
+   "ro": "O fotografie încadrată, aici?"
+  },
+  {
+   "key": "1903873900411863044",
+   "en": "Hockey stick?",
+   "ro": "Băt de hochei?"
+  },
+  {
+   "key": "1903918596056137728",
+   "en": "Played this moment, coming back, so many times in my head.",
+   "ro": "Mi-am tot repetat momentul ăsta în cap, de atâtea ori."
+  },
+  {
+   "key": "1903920527063367680",
+   "en": "Taken me years... workin' up the nerve for this.",
+   "ro": "Mi-au trebuit ani... să-mi fac curaj pentru asta."
+  },
+  {
+   "key": "1903921931366678528",
+   "en": "Why didn't you come earlier?",
+   "ro": "De ce n-ai venit mai devreme?"
+  },
+  {
+   "key": "1903924017563156480",
+   "en": "Good question... Easy answer would be that I didn't have time, gear, stars weren't ever aligned…",
+   "ro": "Răspunsul simplu e că n-am avut timp, nici echipament, stelele nu s-au aliniat niciodată…"
+  },
+  {
+   "key": "1903925115111849984",
+   "en": "Heh. Church hasn't aged at all. Always looked old and... like it'd landed here from outer space.",
+   "ro": "Heh. Biserica nu s-a schimbat deloc. Arăta mereu bătrână și... parcă ar fi aterizat aici din spațiu."
+  },
+  {
+   "key": "1903926490491240448",
+   "en": "Bells were cracked too. Gave off this eerie, atonal clang.",
+   "ro": "Scoteau un sunet ciudat, dezacordat."
+  },
+  {
+   "key": "1903928679414611968",
+   "en": "You like going to this church?",
+   "en_m": "Did you like goin' to this church?",
+   "ro": "Ți-a plăcut să mergi la biserica asta?"
+  },
+  {
+   "key": "1903929065508683776",
+   "en": "Think I hear them, too.",
+   "ro": "Cred că aud și eu."
+  },
+  {
+   "key": "1903929588706164736",
+   "en": "Don't know how it's possible, but... think I hear those bells too.",
+   "en_m": "I don't know how it's possible, but... I think I hear those bells too.",
+   "ro": "Nu știu cum e posibil, dar... cred că aud și eu clopotele alea."
+  },
+  {
+   "key": "1903931688861286400",
+   "en": "Seriously? You can hear my memories...? Must be a side effect.",
+   "ro": "Serios? Poți auzi amintirile mele...? Trebuie să fie un efect secundar."
+  },
+  {
+   "key": "1903932919453302784",
+   "en": "Never actually \"went\" to church. Never even really paid attention to it, it was just... there, y'know?",
+   "ro": "N-am \"mers\" niciodată la biserică. Nici nu prea am băgat-o în seamă, era doar... acolo, știi?"
+  },
+  {
+   "key": "1903935569196466176",
+   "en": "We lookin' for anything in particular here?",
+   "ro": "Căutăm ceva anume aici?"
+  },
+  {
+   "key": "1903936876024152064",
+   "en": "Nah. Can't hurt to look around, though. Pickin' up very chill vibes.",
+   "ro": "Nah. Nu strică să ne uităm împrejur. Vibe-ul e foarte liniștit."
+  },
+  {
+   "key": "1903937237287944192",
+   "en": "After that we can see what lies up ahead.",
+   "ro": "După aia vedem ce ne așteaptă mai departe."
+  },
+  {
+   "key": "1903937643665670148",
+   "en": "Let's keep going.",
+   "ro": "Hai să mergem mai departe."
+  },
+  {
+   "key": "1903941034827563008",
+   "en": "I gotta say, don't really get why they left their wheels behind when they had to evacuate.",
+   "en_m": "Gotta say, I don't really get why they left their wheels behind when they had to evacuate.",
+   "ro": "Recunosc, nu pricep de ce și-au lăsat mașinile în urmă când au evacuat."
+  },
+  {
+   "key": "1903941492560347136",
+   "en": "This isn't yours?",
+   "en_m": "What, this isn't yours?",
+   "ro": "Asta nu e a ta?"
+  },
+  {
+   "key": "1903941849931825152",
+   "en": "And this? What is it?",
+   "ro": "Și asta? Ce e?"
+  },
+  {
+   "key": "1903942254480834560",
+   "en": "It's hard to imagine anything that could be more out of place in an underwater world.",
+   "en_m": "Hard to imagine anything that could be more out of place in an underwater world.",
+   "ro": "E greu să-ți imaginezi ceva mai nepotrivit într-o lume subacvatică."
+  },
+  {
+   "key": "1903952349700800512",
+   "en": "Hey, how old you think I am?! These hunks of metal have got half a century on 'em.",
+   "ro": "Hei, câți ani crezi că am?! Tablele astea au jumătate de secol pe ele."
+  },
+  {
+   "key": "1903952830351261696",
+   "en": "When I was about yea high they were already here... and not in much better shape.",
+   "ro": "Când eram cât un pui de om, erau deja aici... și nu arătau mult mai bine."
+  },
+  {
+   "key": "1903954142950309888",
+   "en": "Alvarez! Where's Fifi?! Give her baaack!",
+   "ro": "Alvarez! Unde e Fifi?! Dă-o înaaapoi!"
+  },
+  {
+   "key": "1903954771223494656",
+   "en": "Poor thing... Been here all alone for twenty years...",
+   "ro": "Sărmana... A stat aici singură douăzeci de ani..."
+  },
+  {
+   "key": "1903956035101507584",
+   "en": "I don't have your stupid doll! But we can look for it together.",
+   "ro": "N-am păpușa ta proastă! Dar putem s-o căutăm împreună."
+  },
+  {
+   "key": "1903958117221122048",
+   "en": "You took her doll?",
+   "ro": "I-ai luat păpușa?"
+  },
+  {
+   "key": "1903959935804227584",
+   "en": "As if!",
+   "ro": "Ca și cum!"
+  },
+  {
+   "key": "1903961504775913472",
+   "en": "Hid it... Was a monster…",
+   "ro": "Am ascuns-o... Era un monstru…"
+  },
+  {
+   "key": "1903962644787740672",
+   "en": "Oh, no way! Can't be! You found the Heart of Laguna Bend!",
+   "ro": "Nu se poate! Nu-i posibil! Ai găsit Inima din Laguna Bend!"
+  },
+  {
+   "key": "1903967342458552320",
+   "en": "Never noticed how... built-for-purpose this square was.",
+   "ro": "Niciodată n-am observat cât de... făcută anume pentru asta era piața."
+  },
+  {
+   "key": "1903967820122669056",
+   "en": "Ugh... I remember these beaters.",
+   "ro": "Ugh... Îmi amintesc de rablele astea."
+  },
+  {
+   "key": "1903968125719658500",
+   "en": "Wanna mosey around the square?",
+   "ro": "Vrei să ne plimbăm prin piață?"
+  },
+  {
+   "key": "1903968131692347392",
+   "en": "Holler if you wanna keep on movin'.",
+   "ro": "Strigă dacă vrei să mergem mai departe."
+  },
+  {
+   "key": "1903982361841745920",
+   "en": "Let's keep goin', Judy.",
+   "ro": "Hai să mergem mai departe, Judy."
+  },
+  {
+   "key": "1903984773885313028",
+   "en": "Whaddaya say we move on?",
+   "ro": "Ce zici să mergem mai departe?"
+  },
+  {
+   "key": "1904110028066897920",
+   "en": "Got no idea how weird it feels, swimming through here…",
+   "ro": "N-am idee cât de ciudat e să înoți prin aici…"
+  },
+  {
+   "key": "1904118133425160192",
+   "en": "Was this... a bar?",
+   "ro": "Asta a fost... un bar?"
+  },
+  {
+   "key": "1904118818355003392",
+   "en": "Flo's Diner – best eatery in town. Only one at that too... Burgers weren't amazing. Too greasy, big.",
+   "ro": "Flo's Diner – cel mai bun local din oraș. Și singurul, de altfel... Burgerii nu erau extraordinari. Prea unși, mari."
+  },
+  {
+   "key": "1904120023999299584",
+   "en": "What about your parents?",
+   "ro": "Dar părinții tăi?"
+  },
+  {
+   "key": "1904120580096901120",
+   "en": "Dad was never in the picture. Mom died when I was tiny. Can barely remember her.",
+   "ro": "Tata n-a fost niciodată prin preajmă. Mama a murit când eram mică. Abia mi-o mai amintesc.",
+   "ro_m": "Tata n-a fost niciodată prin preajmă. Mama a murit când eram mic. Abia mi-o mai amintesc."
+  },
+  {
+   "key": "1904120783956852736",
+   "en": "Still have her picture, but y'know... see a stranger there.",
+   "ro": "Mai am poza ei, dar... văd o străină acolo."
+  },
+  {
+   "key": "1904121263265136640",
+   "en": "Judy, Judy, watch out for her cooties!",
+   "ro": "Judy, Judy, ai grijă la microbii ei!"
+  },
+  {
+   "key": "1904122279846985728",
+   "en": "Alvarez is so poor, she can't even afford to have parents! Hahaha!",
+   "ro": "Alvarez e atât de săracă, că nici părinți nu-și permite! Hahaha!"
+  },
+  {
+   "key": "1904125290837164036",
+   "en": "I want to keep going.",
+   "ro": "Vreau să mergem mai departe."
+  },
+  {
+   "key": "1904125565530521600",
+   "en": "Wanna take a look around?",
+   "ro": "Vrei să ne uităm în jur?"
+  },
+  {
+   "key": "1904125809907449856",
+   "en": "What was it like – livin' with your grandparents? How were they?",
+   "ro": "Cum era – să trăiești cu bunicii tăi? Cum erau?"
+  },
+  {
+   "key": "1904127699340738560",
+   "en": "Here's where our gang used to play.",
+   "ro": "Aici se juca gașca noastră."
+  },
+  {
+   "key": "1904127699374292996",
+   "en": "Square seemed huge to me back then.",
+   "ro": "Piața mi se părea enormă pe atunci."
+  },
+  {
+   "key": "1904127699474956288",
+   "en": "Don't wanna stick around, sightsee?",
+   "ro": "Nu vrei să stăm un pic și să ne uităm împrejur?"
+  },
+  {
+   "key": "1904127699508510724",
+   "en": "Bored already? We can move on if you want.",
+   "ro": "Te-ai plictisit deja? Putem merge mai departe dacă vrei."
+  },
+  {
+   "key": "1904129752788090880",
+   "en": "Wanna see what's further on.",
+   "ro": "Vreau să văd ce e mai departe."
+  },
+  {
+   "key": "1904130163913768960",
+   "en": "Looks like this fell off your \"one and only\" eatery.",
+   "ro": "Se pare că asta a căzut de la singurul tău restaurant."
+  },
+  {
+   "key": "1904131091861585920",
+   "en": "Let's see now, your childhood tasted like scopdogs from Capitán Caliente. With habanero sauce, extra hot.",
+   "ro": "Hai să vedem, copilăria ta a avut gust de scopdogs de la Capitán Caliente. Cu sos habanero, extra iute."
+  },
+  {
+   "key": "1904131500336463876",
+   "en": "Gotta feel the burn.",
+   "ro": "Trebuie să simți arsura."
+  },
+  {
+   "key": "1904131792461348864",
+   "en": "You know what they say – it ain't Caliente if it don't burn on the way in... and out.",
+   "ro": "Știi ce se zice – nu e Caliente dacă nu arde pe drum... și la ieșire."
+  },
+  {
+   "key": "1904132405148499972",
+   "en": "I don't even know what's real anymore.",
+   "ro": "Nici nu mai știu ce e real."
+  },
+  {
+   "key": "1904132652494995460",
+   "en": "Now let's see... Childhood for you tasted like sushi with real rice.",
+   "ro": "Hai să vedem... Copilăria ta a avut gust de sushi cu orez adevărat."
+  },
+  {
+   "key": "1904132652562104320",
+   "en": "Even got real fish sometimes.",
+   "ro": "Chiar și pește adevărat, uneori."
+  },
+  {
+   "key": "1904132652629213188",
+   "en": "Bigger family gatherings were great – that's where we got even real fish.",
+   "ro": "Reuniunile de familie mai mari erau grozave – acolo primeam chiar și pește adevărat."
+  },
+  {
+   "key": "1904132769314750468",
+   "en": "Now, let's see... Childhood for you tasted like... toasted marshmallows.",
+   "ro": "Hai să vedem... Copilăria ta a avut gust de... marshmallows prăjite."
+  },
+  {
+   "key": "1904132769365082112",
+   "en": "Cuz others would've gladly taken 'em.",
+   "ro": "Că alții le-ar fi luat cu plăcere."
+  },
+  {
+   "key": "1904132769448968192",
+   "en": "Ah, that's nomad life for ya – can't be a fussy eater or you'll get no food at all.",
+   "en_m": "That's nomad life for ya – can't be a fussy eater or you'll get no food at all.",
+   "ro": "Păi, asta e viața de nomad – nu poți fi mofturos la mâncare, altfel nu primești nimic."
+  },
+  {
+   "key": "1904136932077584384",
+   "en": "I don't even know anymore. It's hard to separate actual memories from what you want to remember.",
+   "ro": "Nici nu mai știu. E greu să separi amintirile reale de ce vrei să-ți amintești."
+  },
+  {
+   "key": "1904137204707344388",
+   "en": "This tech's seriously next-level. You hear my thoughts?",
+   "en_m": "This tech is seriously next-level. You hear my thoughts?",
+   "ro": "Tehnologia asta e serios de nivel următor. Îmi auzi gândurile?"
+  },
+  {
+   "key": "1904137280087375872",
+   "en": "This tech can read minds? Wow.",
+   "ro": "Tehnologia asta poate citi gânduri? Uau."
+  },
+  {
+   "key": "1904141693317267456",
+   "en": "[Give camera] This is for you.",
+   "ro": "[Dă camera] Asta e pentru tine."
+  },
+  {
+   "key": "1904144961149845504",
+   "en": "Weird place for a framed picture.",
+   "en_m": "That's a weird place for a framed picture.",
+   "ro": "Loc ciudat pentru o poză încadrată.",
+   "ro_m": "E un loc ciudat pentru o poză încadrată."
+  },
+  {
+   "key": "1904145298673876992",
+   "en": "Hockey stick? Was there a skating rink here?",
+   "ro": "Băt de hochei? A fost un patinoar aici?"
+  },
+  {
+   "key": "1904145577494429700",
+   "en": "Quit schmoozin', Alvarez! We're losin' 'cause of you!",
+   "ro": "Lasă vorbăria, Alvarez! Pierdem din cauza ta!"
+  },
+  {
+   "key": "1904153246410194948",
+   "en": "Come on. Let's you and me swim a bit further.",
+   "ro": "Hai. Să înotăm noi doi puțin mai departe."
+  },
+  {
+   "key": "1904179373971324928",
+   "en": "Pfft, do I!",
+   "ro": "Pfft, și încă cum!"
+  },
+  {
+   "key": "1904179606436429824",
+   "en": "Just lemme know when you wanna forge ahead.",
+   "ro": "Spune-mi doar când vrei să mergem mai departe."
+  },
+  {
+   "key": "1904221634218147840",
+   "en": "Come on, then. Wanna show you somethin'.",
+   "ro": "Hai, atunci. Vreau să-ți arăt ceva."
+  },
+  {
+   "key": "1904223790711160832",
+   "en": "Ah, if it wa'n't so damned big, I'd take it home, hang it in my kitchen.",
+   "ro": "Ah, dacă n-ar fi atât de al naibii de mare, l-aș lua acasă și l-aș agăța în bucătărie."
+  },
+  {
+   "key": "1904225373792485376",
+   "en": "'Course, tasted even better when you stole 'em off the stand.",
+   "ro": "Sigur, aveau gust și mai bun când le furai de la tarabă."
+  },
+  {
+   "key": "1904227386957742080",
+   "en": "Used to stuff a few in your mouth at once and pretend you were a giant.",
+   "ro": "Băgai câteva în gură odată și te prefăceai că ești un uriaș."
+  },
+  {
+   "key": "1904229075198656512",
+   "en": "They always caught fire, burned, but that never bothered you.",
+   "ro": "Se aprindeau mereu, ardeau, dar nu te deranja niciodată."
+  },
+  {
+   "key": "1904230602361520128",
+   "en": "Get echoes... and sense intentions too.",
+   "ro": "Primesc ecouri... și simt și intențiile."
+  },
+  {
+   "key": "1904230818787606528",
+   "en": "Not all the time, though.",
+   "ro": "Nu tot timpul, totuși."
+  },
+  {
+   "key": "1904232669431971840",
+   "en": "Water probably carried it outta someone's house.",
+   "ro": "Apa l-a dus probabil din casa cuiva."
+  },
+  {
+   "key": "1904233189877989376",
+   "en": "I wish. Played street hockey on rollerblades.",
+   "ro": "Mi-ar plăcea. Jucam hochei pe role, pe stradă."
+  },
+  {
+   "key": "1904235149742030848",
+   "en": "Coming! They're dead meat anyway!",
+   "ro": "Vin! Oricum sunt morți!"
+  },
+  {
+   "key": "1904235881782296576",
+   "en": "So... will you go out with me?",
+   "ro": "Deci... ieși cu mine?"
+  },
+  {
+   "key": "1904239180099076096",
+   "en": "Aye, aye, cap'n. Follow me.",
+   "ro": "Da, da, căpitane. Urmează-mă."
+  },
+  {
+   "key": "1905358449901527040",
+   "en": "Truth is, the very idea just felt... weird.",
+   "ro": "Adevărul e că ideea asta părea... ciudată."
+  },
+  {
+   "key": "1905362795619901440",
+   "en": "'Sides, didn't wanna come here alone... or with some rando.",
+   "ro": "Și oricum, nu voiam să vin aici singură... sau cu vreun străin.",
+   "ro_m": "Și oricum, nu voiam să vin aici singur... sau cu vreun străin."
+  },
+  {
+   "key": "1905392379841175552",
+   "en": "Once we knew Laguna Bend was to be flooded, people gathered here to plan a protest.",
+   "ro": "După ce am aflat că Laguna Bend urma să fie inundat, oamenii s-au adunat aici să planifice un protest."
+  },
+  {
+   "key": "1905393473765990400",
+   "en": "Did it achieve anything?",
+   "ro": "A obținut ceva?"
+  },
+  {
+   "key": "1905424301447405568",
+   "en": "Look around...",
+   "ro": "Uită-te în jur..."
+  },
+  {
+   "key": "1905438114565545984",
+   "en": "Weird... I had no memory of that seconds ago. Now I can almost hear 'em.",
+   "ro": "Ciudat... Acum câteva secunde nu-mi aminteam nimic de asta. Acum aproape că-i aud."
+  },
+  {
+   "key": "1905448505769156608",
+   "en": "Feels like we're outside of time – like, in a snow globe.",
+   "ro": "Parcă suntem în afara timpului – ca într-un glob de zăpadă."
+  },
+  {
+   "key": "1905473292377743360",
+   "en": "S'good cover for playing MaxTac and psychos, though.",
+   "ro": "Acoperire bună pentru jocurile de-a MaxTac și psihopații, totuși."
+  },
+  {
+   "key": "1905479184250789888",
+   "en": "So it is yours?",
+   "en_m": "So it is yours.",
+   "ro": "Deci e a ta?",
+   "ro_m": "Deci e a ta."
+  },
+  {
+   "key": "1905482818615205888",
+   "en": "Nah... It was Jenni Chapman's.",
+   "ro": "Nah... Era a lui Jenni Chapman."
+  },
+  {
+   "key": "1905493886091616256",
+   "en": "You hid it? W-why?",
+   "en_m": "You hid it? Why?",
+   "ro": "Ai ascuns-o? D-de ce?",
+   "ro_m": "Ai ascuns-o? De ce?"
+  },
+  {
+   "key": "1905494038210633728",
+   "en": "'Cause I thought only losers played with dolls... What I really wanted was for her to notice me.",
+   "ro": "Pentru că credeam că doar ratații se joacă cu păpuși... Ce voiam de fapt era să mă bage în seamă."
+  },
+  {
+   "key": "1905502905220947968",
+   "en": "The most precious gem in all Cali, maybe even the world. Could buy all of Arasaka and Militech and then some for it!",
+   "ro": "Cea mai prețioasă piatră din toată California, poate din lume. Ai putea să cumperi Arasaka și Militech cu ea și încă ți-ar prisosi."
+  },
+  {
+   "key": "1905504112660406272",
+   "en": "For real?",
+   "ro": "Pe bune?"
+  },
+  {
+   "key": "1905504770344050688",
+   "en": "Pffttt... Hahaha! Nah, got no idea what that is.",
+   "ro": "Pffttt... Hahaha! Nah, n-am nicio idee ce e."
+  },
+  {
+   "key": "1905514827177746432",
+   "en": "Mmm... Bottled water?",
+   "ro": "Mmm... Apă îmbuteliată?"
+  },
+  {
+   "key": "1905515569854767104",
+   "en": "Haha, touché, Judy, touché.",
+   "en_m": "Heh... Touché, Judy, touché.",
+   "ro": "Haha, touché, Judy, touché.",
+   "ro_m": "Heh... touché, Judy, touché."
+  },
+  {
+   "key": "1905527410995716096",
+   "en": "Where you used to run as a kid. Where daily life grinded along. Can imagine it a bit.",
+   "ro": "Unde alergai când erai mic. Unde viața de zi cu zi se târa. Mi-o pot imagina un pic."
+  },
+  {
+   "key": "1905535228876382208",
+   "en": "Props to the urban planners.",
+   "ro": "Bravo planificatorilor urbani."
+  },
+  {
+   "key": "1905550677722750976",
+   "en": "'Course, I say that now. Back then they were the best thing I'd ever chewed and swallowed.",
+   "ro": "Sigur, asta zic acum. Pe atunci erau cel mai bun lucru pe care l-am mestecat și înghițit vreodată."
+  },
+  {
+   "key": "1905554708012687360",
+   "en": "And next door... That's where we lived.",
+   "ro": "Și alături... Acolo locuiam."
+  },
+  {
+   "key": "1905602017211670528",
+   "en": "Me and my grandparents.",
+   "ro": "Eu și bunicii mei."
+  },
+  {
+   "key": "1906726229313806336",
+   "en": "And grandma was... temperamental. Hot one second, cool as steel the next.",
+   "ro": "Iar bunica era... cu temperament. Fierbe într-o secundă, iar în următoarea e rece ca gheața."
+  },
+  {
+   "key": "1906734354469183488",
+   "en": "Grandad had a real knack for things technical. Taught me everything I know. And the stories he told… Ah, never got bored listening to 'em.",
+   "ro": "Bunicul se pricepea de minune la chestii tehnice. M-a învățat tot ce știu. Și poveștile pe care le spunea… Ah, nu m-am plictisit niciodată să le ascult."
+  },
+  {
+   "key": "1906742233737682948",
+   "en": "Where are your grandparents now?",
+   "ro": "Unde sunt bunicii tăi acum?"
+  },
+  {
+   "key": "1906743232955113472",
+   "en": "Now I know where your temper comes from.",
+   "ro": "Acum știu de unde vine temperamentul tău."
+  },
+  {
+   "key": "1906745973865668608",
+   "en": "Where'd your grandparents go? Night City?",
+   "ro": "Unde s-au dus bunicii tăi? În Night City?"
+  },
+  {
+   "key": "1906746282834878464",
+   "en": "Temperamental, huh? Ah, that explains a lot. Dominant family trait?",
+   "en_m": "Temperamental, huh? Explains a lot. Is that a dominant family trait?",
+   "ro": "Temperamentală, nu? Ah, asta explică multe. Trăsătură dominantă în familie?"
+  },
+  {
+   "key": "1906748677212037120",
+   "en": "Heh, no idea what you're talkin' about.",
+   "ro": "Heh, habar n-am despre ce vorbești."
+  },
+  {
+   "key": "1906760520433360896",
+   "en": "Yeah, for a couple years. Rented the unit that's mine now.",
+   "ro": "Da, câțiva ani. Apartamentul în care stau acum e al meu, l-am închiriat."
+  },
+  {
+   "key": "1906761091177472000",
+   "en": "But they hated the city. Moved up to Oregon. Still go and visit 'em sometimes.",
+   "ro": "Dar urau orașul. S-au mutat în Oregon. Mai trec pe la ei din când în când."
+  },
+  {
+   "key": "1906887961457942528",
+   "en": "Got somethin' here... Looks like an old photo cam.",
+   "ro": "Am ceva aici... Pare o cameră foto veche."
+  },
+  {
+   "key": "1906887964410732544",
+   "en": "DPI-350 – practically an antique.",
+   "ro": "DPI-350 – practic un antic."
+  },
+  {
+   "key": "1906887967111864320",
+   "en": "Like it?",
+   "en_m": "You like it?",
+   "ro": "Îți place?"
+  },
+  {
+   "key": "1906887969880104960",
+   "en": "You kidding? It's awesome!",
+   "ro": "Glumești? E genial!"
+  },
+  {
+   "key": "1906894298816405508",
+   "en": "Here, take this camera. Better off in your hands than sittin' here, collectin' algae.",
+   "ro": "Ia camera asta. Mai bine e la tine decât să stea aici și să adune alge."
+  },
+  {
+   "key": "1906894301802749952",
+   "en": "Gosh, thanks!",
+   "ro": "Doamne, mulțumesc!"
+  },
+  {
+   "key": "1906913328776306688",
+   "en": "Ahh, the days when dolls were just kids' toys and nothing else...",
+   "ro": "Ahh, pe vremea când păpușile erau doar jucării de copii, nimic mai mult..."
+  },
+  {
+   "key": "1906925152720609280",
+   "en": "Anything to make out?",
+   "ro": "Se mai vede ceva?"
+  },
+  {
+   "key": "1906925394329296896",
+   "en": "No, not much.",
+   "en_m": "Nah, not much.",
+   "ro": "Nu, nu prea.",
+   "ro_m": "Nah, nu prea."
+  },
+  {
+   "key": "1906959114956398592",
+   "en": "Sorry, gotta go. They're callin'!",
+   "ro": "Scuze, trebuie să plec. Mă strigă!"
+  },
+  {
+   "key": "1907079018598588416",
+   "en": "Feeder grub'd finally hit the spot – taste like my golden childhood days.",
+   "ro": "Mâncarea de la feeder a nimerit fix în țintă – are gust ca pe vremea copilăriei mele."
+  },
+  {
+   "key": "1907098894868373504",
+   "en": "Well, our brains weren't built with perfect memory.",
+   "ro": "Păi, creierul nostru nu e făcut cu memorie perfectă."
+  },
+  {
+   "key": "1907124896063512576",
+   "en": "Liked synthfish more, though. Real fish was just too stinky.",
+   "en_m": "I liked synthfish more, though. Real fish was just too... stinky.",
+   "ro": "Totuși, îmi plăcea mai mult synthfish-ul. Peștele adevărat mirosea prea tare."
+  },
+  {
+   "key": "1907133068027322368",
+   "en": "Anyway, all kinds of food tastes better with just a little burn.",
+   "en_m": "Anyway... all kinds of food tastes better with just a little burn.",
+   "ro": "Oricum, orice mâncare e mai bună cu un pic de arsură."
+  },
+  {
+   "key": "1918708624774905856",
+   "en": "Found an opening. Think we're safe to go through here.",
+   "en_m": "I found an opening. I think we're safe to go through here.",
+   "ro": "Am găsit o spărtură. Cred că putem trece pe aici, nu-i nicio problemă."
+  },
+  {
+   "key": "1918709624713756672",
+   "en": "Snuck in here once when no one was around.",
+   "ro": "M-am strecurat aici o dată când nu era nimeni."
+  },
+  {
+   "key": "1918709853471096836",
+   "en": "Didn't get chased out?",
+   "ro": "Nu te-au alungat?"
+  },
+  {
+   "key": "1918710177455915008",
+   "en": "Can't hear you too well.",
+   "ro": "Nu te aud prea bine."
+  },
+  {
+   "key": "1918710690889056256",
+   "en": "Didn't get... chased off?",
+   "en_m": "Y-ya didn't get... chased off?",
+   "ro": "Nu te-au... alungat?",
+   "ro_m": "N-nu te-au... alungat?"
+  },
+  {
+   "key": "1918710963904692228",
+   "en": "Readin' you worse and worse…",
+   "en_m": "I'm readin' you worse and worse…",
+   "ro": "Te aud din ce în ce mai rău…"
+  },
+  {
+   "key": "1919730230896869376",
+   "en": "On my way.",
+   "ro": "Sunt pe drum."
+  },
+  {
+   "key": "1919740208676323328",
+   "en": "Stood at the altar and tried to imagine what went through the padre's mind, lookin' at all those people.",
+   "ro": "Am stat la altar și am încercat să-mi imaginez ce-i trecea prin minte părintelui, uitându-se la toți oamenii ăia."
+  },
+  {
+   "key": "1919741893914116096",
+   "en": "Ran out myself. Echo I got back scared the living bejesus out of me.",
+   "ro": "Am fugit și eu. Ecoul care mi-a revenit m-a speriat de moarte."
+  },
+  {
+   "key": "1919776020113637376",
+   "en": "Huh? I read you loud 'n' clear. Everything all right?",
+   "ro": "Hm? Te aud clar. Totul e ok?"
+  },
+  {
+   "key": "1922980982322585600",
+   "en": "Then I screamed at the top of my lungs to check the acoustics.",
+   "ro": "Apoi am țipat cât am putut de tare ca să verific acustica."
+  },
+  {
+   "key": "1924149056576905216",
+   "en": "Thought it was that crush I had on Jenni Chapman. All that guilt I tried yelling out... flew right back in my face.",
+   "ro": "Credeam că era doar crush-ul meu pe Jenni Chapman. Toată vina pe care am încercat s-o strig... mi s-a întors direct în față."
+  },
+  {
+   "key": "1927022823539957760",
+   "en": "Back then I wondered how he could read people's thoughts, know everything about 'em.",
+   "ro": "Pe atunci mă întrebam cum de putea să-i citească pe oameni, să știe totul despre ei."
+  },
+  {
+   "key": "1985316830728380420",
+   "en": "What were those voices?",
+   "ro": "Ce erau vocile alea?"
+  },
+  {
+   "key": "1985317885411287040",
+   "en": "What was that? Those voices...?",
+   "ro": "Ce a fost asta? Vocile alea...?"
+  },
+  {
+   "key": "1985318683151130624",
+   "en": "Voices? Didn't hear anything but you just now.",
+   "ro": "Voci? N-am auzit nimic, doar pe tine acum."
+  },
+  {
+   "key": "1993932412566880256",
+   "en": "What about your parents?",
+   "ro": "Dar părinții tăi?"
+  },
+  {
+   "key": "1993932412583657476",
+   "en": "Did you like living with your grandparents?",
+   "ro": "Îți plăcea să stai cu bunicii?"
+  },
+  {
+   "key": "1993983730362859520",
+   "en": "This isn't your doll?",
+   "ro": "Asta nu e păpușa ta?"
+  },
+  {
+   "key": "1993983784100282384",
+   "en": "You took her doll?",
+   "ro": "I-ai luat păpușa?"
+  },
+  {
+   "key": "2010052584134107136",
+   "en": "Don't come up too quick, or you'll hurt yourself.",
+   "ro": "Nu urca prea repede, că te rănești."
+  },
+  {
+   "key": "2010052621278863360",
+   "en": "You're comin' up too fast, V!",
+   "ro": "Urci prea repede, V!"
+  },
+  {
+   "key": "2069224746865340416",
+   "en": "[Pick up]",
+   "ro": "[Ridică]"
+  },
+  {
+   "key": "2069448688574083072",
+   "en": "Wanna look around?",
+   "ro": "Vrei să arunci o privire?"
+  },
+  {
+   "key": "2070466812786192388",
+   "en": "[Pick up] For real?",
+   "ro": "[Ridică] Serios?"
+  },
+  {
+   "key": "2253460354965921792",
+   "en": "Hey, found a way in. Through the roof.",
+   "ro": "Hei, am găsit intrarea. Pe sus, prin acoperiș."
+  }
+ ]
+}

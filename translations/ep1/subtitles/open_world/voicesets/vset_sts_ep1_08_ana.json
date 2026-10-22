@@ -1,0 +1,25 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\voicesets\\vset_sts_ep1_08_ana.json",
+ "entries": [
+  {
+   "key": "3327428205481799688",
+   "en": "Please don't interrupt.",
+   "ro": "Te rog, nu întrerupe."
+  },
+  {
+   "key": "3327428205532131336",
+   "en": "Listen to me.",
+   "ro": "Ascultă-mă."
+  },
+  {
+   "key": "3327428205750235144",
+   "en": "Well?",
+   "ro": "Ei?"
+  },
+  {
+   "key": "3327428205800566792",
+   "en": "I'm waiting...",
+   "ro": "Aștept..."
+  }
+ ]
+}

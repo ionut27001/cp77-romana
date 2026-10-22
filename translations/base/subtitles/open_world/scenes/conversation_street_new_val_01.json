@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_01.json",
+ "entries": [
+  {
+   "key": "2276540670473838604",
+   "en": "<kiroshi l=\"mex\" o=\"¿El tuyo o el mío?\" t=\"Yours or mine?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿El tuyo o el mío?\" t=\"Al tău sau al meu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276540670473838616",
+   "en": "Yours.",
+   "ro": "Al tău."
+  }
+ ]
+}

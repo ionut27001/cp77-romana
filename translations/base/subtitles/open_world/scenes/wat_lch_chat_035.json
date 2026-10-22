@@ -1,0 +1,50 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_035.json",
+ "entries": [
+  {
+   "key": "2157366995591655424",
+   "en": "Can we pleeease stop talking about work?",
+   "ro": "Putem să nu mai vorbim despre job, te rooog?"
+  },
+  {
+   "key": "2222857333426962432",
+   "en": "What happened to going out, drinking to forget, huh?",
+   "ro": "Ce-a fost cu ieșitul ăla, să bem și să uităm, ha?"
+  },
+  {
+   "key": "2222858026695081984",
+   "en": "<kiroshi l=\"rus\" o=\"А о чём ещё говорить? О красивых бабах?\" t=\"Well... what else is there to talk about? Smoking hot babes?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А о чём ещё говорить? О красивых бабах?\" t=\"Păi... despre ce altceva să vorbim? Gagici fără cusur?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222858362944045056",
+   "en": "Sure, yeah, whatever. Anything but work, man.",
+   "ro": "Sigur, da, orice. Orice în afară de job, frate."
+  },
+  {
+   "key": "2222858944375242752",
+   "en": "<kiroshi l=\"rus\" o=\"Помнишь новенькую из контроля качества?\" t=\"You know that new chick from QA?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Помнишь новенькую из контроля качества?\" t=\"O cunoști pe tipa nouă de la QA?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222859432072134656",
+   "en": "You mean that blonde with the Kiroshies – the one by the window?",
+   "ro": "Blonda cu Kiroshi-urile? Aia de lângă geam?"
+  },
+  {
+   "key": "2222859949649248256",
+   "en": "<kiroshi l=\"rus\" o=\"Ага. Мало того что красивая, ещё и умная. Это она открыла ИБ-209-с.\" t=\"Yeah. Hot AND smart. She's the one that found YB-209-c.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ага. Мало того что красивая, ещё и умная. Это она открыла ИБ-209-с.\" t=\"Da. Superbă ȘI deșteaptă. Ea e cea care a găsit YB-209-c.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222860512189300736",
+   "en": "OK, I know who you're talking about. They fixed that one pretty quick, right?",
+   "ro": "OK, știu despre cine vorbești. Au rezolvat-o destul de repede, nu?"
+  },
+  {
+   "key": "2222860989215883264",
+   "en": "<kiroshi l=\"rus\" o=\"Да, жесть, конечно. Хорошо, что мы знали, что делать.\" t=\"Yeah, what a mess. Good thing we knew how to deal with it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да, жесть, конечно. Хорошо, что мы знали, что делать.\" t=\"Da, ce belea. Bine că știam cum să ne descurcăm.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

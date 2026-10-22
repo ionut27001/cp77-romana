@@ -1,0 +1,25 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_12_droid_den.json",
+ "entries": [
+  {
+   "key": "3043217782304468992",
+   "en": "Activating defense systems. Forty percent.",
+   "ro": "Se activează sistemele de apărare. Patruzeci la sută."
+  },
+  {
+   "key": "3069517108320202752",
+   "en": "Activating defense systems. One hundred percent.",
+   "ro": "Se activează sistemele de apărare. O sută la sută."
+  },
+  {
+   "key": "3400069109112172544",
+   "en": "System failure. System failure. Area scan in progress.",
+   "ro": "Defecțiune de sistem. Defecțiune de sistem. Scanare a zonei în desfășurare."
+  },
+  {
+   "key": "3400074634906365952",
+   "en": "Human life signature detected. Initiating evacuation protocol. Unlocking emergency exit.",
+   "ro": "Semnătură de viață umană detectată. Se inițiază protocolul de evacuare. Se deblochează ieșirea de urgență."
+  }
+ ]
+}

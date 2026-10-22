@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\bls_south_023.json",
+ "entries": [
+  {
+   "key": "2178301430946324480",
+   "en": "Security sys crashed again.",
+   "ro": "Sistemul de securitate a crăpat iar."
+  },
+  {
+   "key": "2188083722547085312",
+   "en": "Lemme guess, the bypass diodes disappeared again, too?",
+   "ro": "Lasă-mă să ghicesc, iar au dispărut diodele de bypass?"
+  },
+  {
+   "key": "2188084092669247488",
+   "en": "They did indeed.",
+   "ro": "Chiar așa."
+  },
+  {
+   "key": "2188084399725854720",
+   "en": "Got us runnin' in circles here. They klep the parts, we fix 'em, they klep the parts...",
+   "ro": "Ne țin în cerc aici. Ei ciordesc piesele, noi le reparăm, ei ciordesc piesele..."
+  },
+  {
+   "key": "2188084834608070656",
+   "en": "Fucking nomads. Typical. Think the whole world revolves around them. All theirs for the taking!",
+   "ro": "Nomazii ăștia de căcat. Tipic. Cred că toată lumea se învârte în jurul lor. Să zici că totul e doar de luat!"
+  },
+  {
+   "key": "2188085055513673728",
+   "en": "A solar farm?! More like an all-you-can-eat buffet! Be a real shame to let all these panels go to waste, huh?",
+   "ro": "O fermă solară?! Mai degrabă bufet deschis! Ar fi păcat să se piardă panourile astea, nu?"
+  },
+  {
+   "key": "2188085530644430848",
+   "en": "Yeah... And no worries, some poor gonk out there'll fix it!",
+   "ro": "Da... Și nu-ți face griji, vreun fraier de-acolo o s-o repare!"
+  }
+ ]
+}

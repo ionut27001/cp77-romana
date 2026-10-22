@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\fixers\\reggie_intro.json",
+ "entries": [
+  {
+   "key": "1795358798019854360",
+   "en": "Don't worry. Won't shoot. You're in the system. Go in.",
+   "ro": "Nu-ți face griji. Nu trag. Ești în sistem. Intră."
+  },
+  {
+   "key": "1908455793905606656",
+   "en": "Hello? Oh, it's you. They call you V, right?",
+   "ro": "Alo? Ah, tu ești. Te cheamă V, nu?"
+  },
+  {
+   "key": "1908456223536553984",
+   "en": "How d'you know me?",
+   "ro": "De unde mă știi?"
+  },
+  {
+   "key": "1908456389127675904",
+   "en": "City's smaller than you think. Anyway, come in.",
+   "ro": "Orașul e mai mic decât crezi. Oricum, intră."
+  }
+ ]
+}

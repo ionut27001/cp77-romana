@@ -1,0 +1,176 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq025\\sq025_04_briefing.json",
+ "entries": [
+  {
+   "key": "1724050932198711296",
+   "en": "This corridor links the shop to the office.",
+   "ro": "Coridorul ăsta leagă magazinul de birou."
+  },
+  {
+   "key": "1724068920108949504",
+   "en": "And here is where the magic happens.",
+   "ro": "Și aici se întâmplă magia."
+  },
+  {
+   "key": "1724071386108043264",
+   "en": "I'm fully aware customer service is less than satisfactory at the moment.",
+   "ro": "Știu foarte bine că serviciul pentru clienți e cam șubred momentan."
+  },
+  {
+   "key": "1725495417193537540",
+   "en": "Yeah, I'll help.",
+   "ro": "Da, te ajut."
+  },
+  {
+   "key": "1725496552390303744",
+   "en": "OK, sure, I'll go after your missin' wheels.",
+   "ro": "OK, sigur, o să caut mașinile tale dispărute."
+  },
+  {
+   "key": "1735817067214577664",
+   "en": "I'm pleased to hear it. I shall send you the coordinates of their last known locations.",
+   "ro": "Mă bucur. O să-ți trimit coordonatele ultimelor locații cunoscute."
+  },
+  {
+   "key": "1740049915157061632",
+   "en": "I'm pondering broadening my portfolio to include repair services.",
+   "ro": "Mă gândesc să-mi lărgesc gama și cu reparații."
+  },
+  {
+   "key": "1740190851337986048",
+   "en": "Discretion matters why?",
+   "ro": "De ce contează discreția?"
+  },
+  {
+   "key": "1740192397928865792",
+   "en": "Why's discretion a concern?",
+   "ro": "De ce e discreția o problemă?"
+  },
+  {
+   "key": "1740193674943438848",
+   "en": "Unnoticed – unbothered, right? In my case – broadly tolerated. Yet a marked increase in inspections suggests the authorities have begun monitoring me.",
+   "ro": "Neobservat – netulburat, nu? În cazul meu – tolerat, mai mult sau mai puțin. Doar că o grămadă de inspecții în ultima vreme sugerează că autoritățile au început să mă urmărească."
+  },
+  {
+   "key": "1740194270266171392",
+   "en": "Talkin' NCPD or NetWatch?",
+   "ro": "Vorbești de NCPD sau NetWatch?"
+  },
+  {
+   "key": "1740198382982569984",
+   "en": "The latter. My legal status does not fit neatly within current regulations. If I'm not careful, I could easily be categorized as an illegal immigrant.",
+   "ro": "Pe ultimul. Statutul meu legal nu intră prea bine în regulile actuale. Dacă nu fac atenție, ajung ușor încadrat ca imigrant ilegal."
+  },
+  {
+   "key": "1740200475420172288",
+   "en": "From beyond the Blackwall.",
+   "ro": "Dincolo de Blackwall."
+  },
+  {
+   "key": "1753299726442340352",
+   "en": "Alas, the shop is currently overwhelmed with work.",
+   "ro": "Din păcate, acum n-avem timp de nimic, suntem înecați în muncă."
+  },
+  {
+   "key": "1753300600082309120",
+   "en": "I'm still looking into the cause of the Delamain Network vehicle failures. My working hypothesis is an advanced virus.",
+   "ro": "Încă mă uit după cauza defecțiunilor de la vehiculele Delamain Network. Cred că e un virus avansat."
+  },
+  {
+   "key": "1753300668147474432",
+   "en": "I must resolve the situation quickly. This sudden rise in incidents is proving costly, aside from drawing unwanted attention to the company.",
+   "ro": "Trebuie să rezolv situația repede. Creșterea asta bruscă a incidentelor ne costă o grămadă, pe lângă că atrage atenție nedorită asupra companiei."
+  },
+  {
+   "key": "1753300962084298752",
+   "en": "The control room. I feel honored to have you here... rather surprisingly.",
+   "ro": "Sala de control. Mă simt onorat să te am aici... destul de surprinzător."
+  },
+  {
+   "key": "1925621326101897216",
+   "en": "Perhaps a guided tour will prove some form of compensation?",
+   "ro": "Poate un tur ghidat te compensează cumva?"
+  },
+  {
+   "key": "1925623917829447680",
+   "en": "The shop is fully automated.",
+   "ro": "Magazinul e complet automatizat."
+  },
+  {
+   "key": "1925638511306235904",
+   "en": "Think I know why.",
+   "ro": "Cred că știu de ce."
+  },
+  {
+   "key": "1925657080312127492",
+   "en": "What's with all the lights?",
+   "ro": "Ce-i cu toate luminile?"
+  },
+  {
+   "key": "1925657402485006336",
+   "en": "You don't need no control room.",
+   "ro": "Nu-ți trebuie nicio sală de control."
+  },
+  {
+   "key": "1925659478799704064",
+   "en": "Control rooms are for 'ganics. What good is it to you?",
+   "ro": "Sălile de control sunt pentru organici. Ce rost are pentru tine?"
+  },
+  {
+   "key": "1925659931985862656",
+   "en": "There was a time this facility was human-operated. I simply inherited their infrastructure.",
+   "ro": "Pe vremuri, locul ăsta era operat de oameni. Eu doar i-am moștenit infrastructura."
+  },
+  {
+   "key": "1925661270975471616",
+   "en": "All these lights, what're they for?",
+   "ro": "Toate luminile astea, la ce sunt bune?"
+  },
+  {
+   "key": "1925661674433961984",
+   "en": "That's what I wished to discuss with you. A green light denotes a vehicle with which I am in contact.",
+   "ro": "Asta voiam să discut cu tine. Lumina verde înseamnă un vehicul cu care sunt în contact."
+  },
+  {
+   "key": "1925663760965984256",
+   "en": "As you can see, that is no longer the case for some vehicles – those are the red lights.",
+   "ro": "După cum vezi, nu mai e cazul pentru unele vehicule – alea sunt luminile roșii."
+  },
+  {
+   "key": "1925666836179345408",
+   "en": "Repair drones can't take care of this?",
+   "ro": "Dronele de reparații nu se pot ocupa de asta?"
+  },
+  {
+   "key": "1925667839591079936",
+   "en": "This time, I fear, human intervention is required.",
+   "ro": "De data asta, mi-e teamă că trebuie intervenție umană."
+  },
+  {
+   "key": "1925668355809239040",
+   "en": "I'm aware you offer a broad range of services and are unusually discreet, thus I'd like you to assist me in recovering my missing vehicles.",
+   "ro": "Știu că oferi o gamă largă de servicii și ești neobișnuit de discretă, deci aș vrea să mă ajuți să-mi recuperez vehiculele dispărute.",
+   "ro_m": "Știu că oferi o gamă largă de servicii și ești neobișnuit de discret, deci aș vrea să mă ajuți să-mi recuperez vehiculele dispărute."
+  },
+  {
+   "key": "1925681224386895872",
+   "en": "From beyond, indeed.",
+   "ro": "Dincolo, într-adevăr."
+  },
+  {
+   "key": "1925721434055270400",
+   "en": "See what I can do.",
+   "ro": "Vezi ce pot face."
+  },
+  {
+   "key": "1934745093369520128",
+   "en": "You must simply deactivate each. I'll then reestablish the link and return them to my garage.",
+   "ro": "Trebuie doar să le dezactivezi pe rând. Apoi refac legătura și le trimit înapoi în garajul meu."
+  },
+  {
+   "key": "1944751224375123968",
+   "en": "Delamain vehicles are exceptionally secure. Be sure to have a scanner with decryption capability on your person.",
+   "ro": "Vehiculele Delamain sunt blindate tare. Ai grijă să ai la tine un scaner cu decriptare."
+  }
+ ]
+}

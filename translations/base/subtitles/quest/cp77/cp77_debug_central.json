@@ -1,0 +1,355 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\cp77\\cp77_debug_central.json",
+ "entries": [
+  {
+   "key": "1470503904646025216",
+   "en": "[db_db]Mange Sidequests",
+   "ro": "[db_db]Gestionează sidequest-urile"
+  },
+  {
+   "key": "1470505198907576320",
+   "en": "[db_db]Close",
+   "ro": "[db_db]Închide"
+  },
+  {
+   "key": "1470716149900529664",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470716149900529680",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470716893701623808",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470716893718401032",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470717628258471936",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470717628275249156",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470723173245800448",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470723173245800464",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470724247339945984",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470724247457386508",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470725735344787456",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470725735344787472",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470729662891053056",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470729662958161932",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470730480595783680",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470730480595783696",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470730991747223552",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470730991747223568",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470731667046944768",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470731667046944784",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470732195411808256",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470732195428585476",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470733131010035712",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470733131010035728",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470733621307396096",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470733621307396112",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470734108584857600",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470734108584857616",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470734904948969472",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470734904948969488",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470735609222942720",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470735609239719936",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470736325257744384",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470736325257744400",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470736973093163008",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470736973109940224",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1470737467685490688",
+   "en": "[db_db]Mark as enabled",
+   "ro": "[db_db]Marchează ca activat"
+  },
+  {
+   "key": "1470737467685490704",
+   "en": "[db_db]Start right now",
+   "ro": "[db_db]Începe acum"
+  },
+  {
+   "key": "1471921202028105728",
+   "en": "[db_db]Mange Open World",
+   "ro": "[db_db]Mange Open World"
+  },
+  {
+   "key": "1472075932989673472",
+   "en": "[db_db]sq004_riders",
+   "ro": "[db_db]sq004_riders"
+  },
+  {
+   "key": "1472076168776667136",
+   "en": "[db_db]sq005_machine",
+   "ro": "[db_db]sq005_machine"
+  },
+  {
+   "key": "1472076468786843648",
+   "en": "[db_db]sq006_dream_on",
+   "ro": "[db_db]sq006_dream_on"
+  },
+  {
+   "key": "1472076863303077888",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1472076980542263296",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "1472078386741399552",
+   "en": "[db_db]sq011_johnny",
+   "ro": "[db_db]sq011_johnny"
+  },
+  {
+   "key": "1472078643835457536",
+   "en": "[db_db]sq012_lost_girl",
+   "ro": "[db_db]sq012_lost_girl"
+  },
+  {
+   "key": "1472079165892087808",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1472079274121908224",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "1472079512173826048",
+   "en": "[db_db]sq017_kerry",
+   "ro": "[db_db]sq017_kerry"
+  },
+  {
+   "key": "1472080034196901888",
+   "en": "[db_db]sq018_jackie",
+   "ro": "[db_db]sq018_jackie"
+  },
+  {
+   "key": "1472080176350253056",
+   "en": "[db_db]sq019_medusa",
+   "ro": "[db_db]sq019_medusa"
+  },
+  {
+   "key": "1472080444164952064",
+   "en": "[db_db]sq021_sick_dreams",
+   "ro": "[db_db]sq021_sick_dreams"
+  },
+  {
+   "key": "1472080714563342336",
+   "en": "[db_db]sq022_head_hunter",
+   "ro": "[db_db]sq022_head_hunter"
+  },
+  {
+   "key": "1472080946072145920",
+   "en": "[db_db]sq023_passion",
+   "ro": "[db_db]sq023_passion"
+  },
+  {
+   "key": "1472081180298858496",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1472081351594233856",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "1472081743409336320",
+   "en": "[db_db]sq024_nc_underground",
+   "ro": "[db_db]sq024_nc_underground"
+  },
+  {
+   "key": "1472082118648549376",
+   "en": "[db_db]sq025_delamain",
+   "ro": "[db_db]sq025_delamain"
+  },
+  {
+   "key": "1472082316502257664",
+   "en": "[db_db]sq026_working_doll",
+   "ro": "[db_db]sq026_working_doll"
+  },
+  {
+   "key": "1472082557322416128",
+   "en": "[db_db]sq027_queen",
+   "ro": "[db_db]sq027_queen"
+  },
+  {
+   "key": "1472083043257700352",
+   "en": "[db_db]sq028_kerry_romance",
+   "ro": "[db_db]sq028_kerry_romance"
+  },
+  {
+   "key": "1472083547647922176",
+   "en": "[db_db]sq029_river_romance",
+   "ro": "[db_db]sq029_river_romance"
+  },
+  {
+   "key": "1472083776086495232",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1472083893644447744",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "1472085042296541184",
+   "en": "[db_db]sq030_judy_romance",
+   "ro": "[db_db]sq030_judy_romance"
+  },
+  {
+   "key": "1472085994973974528",
+   "en": "[db_db]sq031_rogue",
+   "ro": "[db_db]sq031_rogue"
+  },
+  {
+   "key": "1472086229519454208",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1472086375011471360",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  }
+ ]
+}

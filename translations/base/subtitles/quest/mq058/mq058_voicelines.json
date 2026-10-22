@@ -1,0 +1,27 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq058\\mq058_voicelines.json",
+ "entries": [
+  {
+   "key": "4911915282970079232",
+   "en": "Ugh, fucking fuck... Fixable, though, I think. Claire – gotta talk to 'er.",
+   "en_m": "Fuck... Fixable, though, I think. Claire – I'll call 'er.",
+   "ro": "Ugh, pula mea... Se poate repara, cred. Claire – trebuie să-i vorbesc.",
+   "ro_m": "Pula mea... Se poate repara, cred. Claire – o s-o sun."
+  },
+  {
+   "key": "4911937926255767552",
+   "en": "Hell yeah.",
+   "ro": "Da, bă!"
+  },
+  {
+   "key": "4911937964893696000",
+   "en": "Yes!",
+   "ro": "Da!"
+  },
+  {
+   "key": "4916218772236169216",
+   "en": "Fuckin' hell...",
+   "ro": "Pula mea..."
+  }
+ ]
+}

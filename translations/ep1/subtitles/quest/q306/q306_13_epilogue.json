@@ -1,0 +1,839 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_13_epilogue.json",
+ "entries": [
+  {
+   "key": "3008580590255976448",
+   "en": "Had to come, of course.",
+   "ro": "Trebuia să vin, normal."
+  },
+  {
+   "key": "3099976227534385152",
+   "en": "Was thinkin' of skippin'.",
+   "ro": "Mă gândeam să nu mai vin."
+  },
+  {
+   "key": "3100007499308707840",
+   "en": "A lotta shit went down. Think I need a kindred soul to hash things out.",
+   "en_m": "Lotta shit went down. Think I need a kindred soul to hash things out.",
+   "ro": "S-au întâmplat o grămadă de căcaturi. Cred că am nevoie de cineva care să mă înțeleagă, să lămurim lucrurile."
+  },
+  {
+   "key": "3100007523333681156",
+   "en": "Actually, didn't feel like comin'… at all, really.",
+   "ro": "De fapt, n-aveam chef să vin… deloc, sincer."
+  },
+  {
+   "key": "3103159204963659776",
+   "en": "Finally. Good.",
+   "ro": "În sfârșit. Bine."
+  },
+  {
+   "key": "3103169813750984708",
+   "en": "I killed him – had no choice.",
+   "ro": "L-am omorât – n-am avut de ales."
+  },
+  {
+   "key": "3103170225329647616",
+   "en": "Stubbornness killed him.",
+   "ro": "Încăpățânarea l-a omorât."
+  },
+  {
+   "key": "3103171098415968256",
+   "en": "Myers – she's responsible for his death.",
+   "ro": "Myers – ea e vinovată de moartea lui."
+  },
+  {
+   "key": "3103171564369588224",
+   "en": "I killed him. Had to. Reed, he… he gave me no damn choice.",
+   "ro": "L-am omorât. A trebuit. Reed… el… nu mi-a lăsat nicio nenorocită de alegere."
+  },
+  {
+   "key": "3103171797858103296",
+   "en": "Stubbornness killed Reed. The man just couldn't let go, even once he'd lost.",
+   "ro": "Încăpățânarea l-a omorât pe Reed. Omul pur și simplu nu putea să renunțe, nici după ce pierduse."
+  },
+  {
+   "key": "3103171983028236288",
+   "en": "He blindly followed orders. Gave me no choice.",
+   "ro": "A urmat orbește ordinele. Nu mi-a lăsat de ales."
+  },
+  {
+   "key": "3103175314480017408",
+   "en": "Really no other way? Really?",
+   "ro": "Chiar nu era altă cale? Chiar?"
+  },
+  {
+   "key": "3103177227317522432",
+   "en": "Familiar, this fuckin' jabber. It's war talk, a wind-up.",
+   "ro": "Trăncăneala asta nenorocită îmi sună cunoscut. E vorbărie de război, ca să ne încingă."
+  },
+  {
+   "key": "3103178370751901696",
+   "en": "Old grunt-cunt Myers knows how to escalate shit.",
+   "ro": "Bătrâna pizdă de infanterist Myers se pricepe să facă și mai mare rahatul."
+  },
+  {
+   "key": "3103181651922366464",
+   "en": "I think... he saw death as a possibility, from the moment Myers and I showed up.",
+   "ro": "Cred că… a luat în calcul moartea din clipa în care am apărut eu și Myers."
+  },
+  {
+   "key": "3103182673101172736",
+   "en": "For those no longer with us, for the fallen.",
+   "ro": "Pentru cei care nu mai sunt printre noi, pentru cei căzuți."
+  },
+  {
+   "key": "3103185571801444352",
+   "en": "[Drink] To Jackie.",
+   "ro": "[Bea] Pentru Jackie."
+  },
+  {
+   "key": "3103185792623161344",
+   "en": "[Drink] To Johnny.",
+   "ro": "[Bea] Pentru Johnny."
+  },
+  {
+   "key": "3103186017739845632",
+   "en": "[Drink] To T-Bug.",
+   "ro": "[Bea] Pentru T-Bug."
+  },
+  {
+   "key": "3103186166553751552",
+   "en": "[Drink] To Scorpion.",
+   "ro": "[Bea] Pentru Scorpion."
+  },
+  {
+   "key": "3103186411618545664",
+   "en": "[Drink] To Reed.",
+   "ro": "[Bea] Pentru Reed."
+  },
+  {
+   "key": "3103187187464122372",
+   "en": "To T-Bug.",
+   "ro": "Pentru T-Bug."
+  },
+  {
+   "key": "3103187287942868996",
+   "en": "To Johnny Silverhand.",
+   "ro": "Pentru Johnny Silverhand."
+  },
+  {
+   "key": "3103187431002189828",
+   "en": "To Jackie.",
+   "ro": "Pentru Jackie."
+  },
+  {
+   "key": "3103202455804424192",
+   "en": "One thing's sure – if they jump at each other, Militech'll rip 'Saka's throat out.",
+   "ro": "Un lucru e sigur – dacă sar unii la alții, Militech îi rupe gâtul lui 'Saka."
+  },
+  {
+   "key": "3103206235073654784",
+   "en": "For the fallen – body, soul or both.",
+   "ro": "Pentru cei căzuți – trup, suflet sau amândouă."
+  },
+  {
+   "key": "3103210434427596800",
+   "en": "To Reed.",
+   "ro": "Pentru Reed."
+  },
+  {
+   "key": "3103221059857920000",
+   "en": "[Drink] To Takemura.",
+   "ro": "[Bea] Pentru Takemura."
+  },
+  {
+   "key": "3103221307841949696",
+   "en": "To Goro Takemura.",
+   "ro": "Pentru Goro Takemura."
+  },
+  {
+   "key": "3103222013005115392",
+   "en": "To Jackie.",
+   "ro": "Pentru Jackie."
+  },
+  {
+   "key": "3103223502821896192",
+   "en": "Sure, to Silverhand.",
+   "ro": "Sigur, pentru Silverhand."
+  },
+  {
+   "key": "3103224312473563136",
+   "en": "To T-Bug.",
+   "ro": "Pentru T-Bug."
+  },
+  {
+   "key": "3103224802183720960",
+   "en": "Kanpai! Takemura-san!",
+   "ro": "Kanpai! Takemura-san!"
+  },
+  {
+   "key": "3103229861235765248",
+   "en": "A man of honor, a patriot, a comrade…",
+   "ro": "Un om de onoare, un patriot, un camarad…"
+  },
+  {
+   "key": "3103230041372733440",
+   "en": "Died for what he believed in.",
+   "ro": "A murit pentru ce credea."
+  },
+  {
+   "key": "3103230395120332800",
+   "en": "How'd it go down, V? How did he die?",
+   "ro": "Cum s-a întâmplat, V? Cum a murit?"
+  },
+  {
+   "key": "3103335635609956376",
+   "en": "Talkin' about you. The chances, huh?",
+   "ro": "Vorbeam despre tine. Ce șanse, nu?"
+  },
+  {
+   "key": "3109877073033207808",
+   "en": "I get that.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "3109877580711763968",
+   "en": "Good to see you, too, Alex. In spite of it all.",
+   "ro": "Și eu mă bucur să te văd, Alex. Chiar și așa."
+  },
+  {
+   "key": "3110000306550120448",
+   "en": "[Drink] To Evelyn.",
+   "ro": "[Bea] Pentru Evelyn."
+  },
+  {
+   "key": "3110000834294226944",
+   "en": "To Evelyn Parker.",
+   "ro": "Pentru Evelyn Parker."
+  },
+  {
+   "key": "3110027023897501700",
+   "en": "Nah, here's to you, V.",
+   "ro": "Nu, în cinstea ta, V."
+  },
+  {
+   "key": "3110115782366240768",
+   "en": "To Parker.",
+   "ro": "Pentru Parker."
+  },
+  {
+   "key": "3110139737529556992",
+   "en": "No. None.",
+   "ro": "Nu. Niciunul."
+  },
+  {
+   "key": "3110265099219542016",
+   "en": "So, within the FIA, was he liked, admired?",
+   "ro": "Deci, la FIA, era îndrăgit, admirat?"
+  },
+  {
+   "key": "3110266167240335360",
+   "en": "Gonna miss him?",
+   "ro": "O să-ți lipsească?"
+  },
+  {
+   "key": "3110267558558081024",
+   "en": "Coworkers like 'im?",
+   "ro": "Colegii îl plăceau?"
+  },
+  {
+   "key": "3110267623452352512",
+   "en": "Gonna miss 'im?",
+   "ro": "O să-ți lipsească?"
+  },
+  {
+   "key": "3110269607827906560",
+   "en": "Varied, I guess, as always. But not especially.",
+   "ro": "Variat, cred, ca mereu. Dar nu prea."
+  },
+  {
+   "key": "3110275766257360896",
+   "en": "Sol was already dead to me for seven years. Just need to remember that, settle back into that same feeling.",
+   "ro": "Sol era deja mort pentru mine de șapte ani. Trebuie doar să-mi amintesc și să simt iar la fel."
+  },
+  {
+   "key": "3110326713058762756",
+   "en": "I did.",
+   "ro": "Am făcut-o."
+  },
+  {
+   "key": "3110327236205912064",
+   "en": "No, can't say I did.",
+   "ro": "Nu, nu pot spune că da."
+  },
+  {
+   "key": "3110331172442775552",
+   "en": "Hell yeah.",
+   "ro": "Da, bă!"
+  },
+  {
+   "key": "3110331217690927108",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "3111456220050268160",
+   "en": "Guy died for a damned just cause.",
+   "ro": "Tipul a murit pentru o cauză dreaptă, fir-ar!"
+  },
+  {
+   "key": "3111462063504269312",
+   "en": "To Parker.",
+   "ro": "Pentru Parker."
+  },
+  {
+   "key": "3111462150611574788",
+   "en": "To T-Bug.",
+   "ro": "Pentru T-Bug."
+  },
+  {
+   "key": "3111462205993164804",
+   "en": "Legend – truly...",
+   "ro": "Legendă – pe bune..."
+  },
+  {
+   "key": "3233164485864173568",
+   "en": "Hh, fuckin' fate of an FIA agent.",
+   "ro": "Hh, soarta de căcat a unui agent FIA."
+  },
+  {
+   "key": "3233168127442792448",
+   "en": "So, here we are. Facing complicated dilemmas.",
+   "ro": "Deci, uite-ne-n bucluc. Cu dileme complicate."
+  },
+  {
+   "key": "3233214067251851264",
+   "en": "Mh, NUS is rollin' up its shit, breakin' camp. My bags're packed, too.",
+   "ro": "Mh, NUS își strânge rahaturile și pleacă. Și eu am bagajele făcute."
+  },
+  {
+   "key": "3233214434572218368",
+   "en": "Got one last assignment – eliminate you.",
+   "ro": "Am o ultimă misiune – să te elimin."
+  },
+  {
+   "key": "3233214669654568964",
+   "en": "Many have tried.",
+   "ro": "Mulți au încercat."
+  },
+  {
+   "key": "3233215246992125952",
+   "en": "Plan to kill me?",
+   "ro": "Plănuiești să mă omori?"
+  },
+  {
+   "key": "3233215711419019264",
+   "en": "Many have tried.",
+   "ro": "Mulți au încercat."
+  },
+  {
+   "key": "3233215760039391232",
+   "en": "So, what? Gonna kill me?",
+   "ro": "Și? O să mă omori?"
+  },
+  {
+   "key": "3233215802435416064",
+   "en": "Got a few months to live, right?",
+   "ro": "Mai ai câteva luni de trăit, nu?"
+  },
+  {
+   "key": "3233216847135879168",
+   "en": "So I'm content to wait. In-house contest, ya see. Already chalked up a few \"accidents\" and \"dieds of natural causes.\"",
+   "ro": "Așa că stau liniștit și aștept. E o întrecere internă, știi. Am bifat deja câteva „accidente” și „decese din cauze naturale”."
+  },
+  {
+   "key": "3233217399223726080",
+   "en": "Thanks, Alex.",
+   "ro": "Mulțumesc, Alex."
+  },
+  {
+   "key": "3233217839977967616",
+   "en": "Got the feeling you're not telling me everything…",
+   "ro": "Am senzația că nu-mi spui tot..."
+  },
+  {
+   "key": "3233218126583148544",
+   "en": "Sounds kinda risky.",
+   "ro": "Sună cam riscant."
+  },
+  {
+   "key": "3233218195772387328",
+   "en": "Assumin' you didn't ask me to come around just to zap me with news about my elimination.",
+   "ro": "Cred că nu m-ai chemat doar ca să-mi trântești vestea eliminării mele."
+  },
+  {
+   "key": "3233218491923804160",
+   "en": "Gotta say I'm curious – how'd it go down with Reed?",
+   "ro": "Recunosc, sunt curios – cum a mers cu Reed?"
+  },
+  {
+   "key": "3233222184035397632",
+   "en": "You should quit, get outta here.",
+   "ro": "Ar trebui să renunți și să ieși de-aici."
+  },
+  {
+   "key": "3233222589121277952",
+   "en": "What'll you do while you wait for me to flatline?",
+   "ro": "Ce-o să faci cât aștepți să mor?"
+  },
+  {
+   "key": "3233222637724872704",
+   "en": "Y'oughta quit this job, this life.",
+   "en_m": "You oughta quit this job, this life.",
+   "ro": "Ar trebui să renunți la jobul ăsta, la viața asta."
+  },
+  {
+   "key": "3233251556544983040",
+   "en": "Save the stale comebacks for the bozos at the Afterlife.",
+   "ro": "Lasă replicile alea răsuflate pentru clovnii de la Afterlife."
+  },
+  {
+   "key": "3233252681658642432",
+   "en": "Damn straight.",
+   "ro": "Normal că da!"
+  },
+  {
+   "key": "3233254388237053952",
+   "en": "Checked your hat size lately? You're not that important.",
+   "ro": "Ți-ai mai verificat mărimea pălăriei, pe bune? Nu ești chiar așa de important."
+  },
+  {
+   "key": "3233257106615808000",
+   "en": "You assume correctly.",
+   "ro": "Ai ghicit."
+  },
+  {
+   "key": "3233263679224393728",
+   "en": "Heh, how you know I'm not doin' that?",
+   "ro": "Heh, de unde știi că nu fac asta?"
+  },
+  {
+   "key": "3233265053563596800",
+   "en": "Gonna sit around bein' bored. Finally.",
+   "ro": "O să stau degeaba și-o să mă plictisesc. În sfârșit."
+  },
+  {
+   "key": "3236237199269146624",
+   "en": "What'll you do while you wait for me to die?",
+   "ro": "Ce-o să faci cât aștepți să mor?"
+  },
+  {
+   "key": "3236237726526713896",
+   "en": "You too. 'Member, it's my job to kill you. Don't let anyone beat me to it.",
+   "ro": "Și tu. Ține minte, meseria mea e să te omor. Nu lăsa pe nimeni s-o facă înaintea mea."
+  },
+  {
+   "key": "3236237726526713904",
+   "en": "Chick's pretty chill. Too bad she's on the wrong side.",
+   "ro": "Fata e tare relaxată. Păcat că e de partea greșită."
+  },
+  {
+   "key": "3236238673835438080",
+   "en": "So, what – Monaco bound?",
+   "ro": "Deci, ce – pleci spre Monaco?"
+  },
+  {
+   "key": "3237622636232019968",
+   "en": "She's not here. Guess we wait.",
+   "ro": "Nu e aici. Cred că așteptăm."
+  },
+  {
+   "key": "3278214218938413056",
+   "en": "Did you invite me here to debate the sorry state of the world?",
+   "en_m": "D'you invite me here to debate the sorry state of the world?",
+   "ro": "M-ai invitat aici ca să dezbatem starea jalnică a lumii?"
+  },
+  {
+   "key": "3278217198068658176",
+   "en": "But you won't…",
+   "ro": "Dar n-o să..."
+  },
+  {
+   "key": "3278219417526562816",
+   "en": "But you're not gonna…",
+   "ro": "Dar nu o să..."
+  },
+  {
+   "key": "3278228915863515136",
+   "en": "That's where you're wrong.",
+   "ro": "Aici greșești."
+  },
+  {
+   "key": "3278262943161348096",
+   "en": "Gee, thanks.",
+   "ro": "Mersi mult."
+  },
+  {
+   "key": "3278263154537492480",
+   "en": "Not a problem.",
+   "ro": "Nicio problemă."
+  },
+  {
+   "key": "3278263945985880064",
+   "en": "Sounds pretty risky.",
+   "ro": "Sună destul de riscant."
+  },
+  {
+   "key": "3278267604727590912",
+   "en": "FIA's chaos, an organizational clusterfuck. No one'll probe for a while.",
+   "ro": "La FIA e un haos total, un bordel în toată regula. Nimeni n-o să ancheteze o vreme."
+  },
+  {
+   "key": "3278292195999051776",
+   "en": "Whaddaya know?",
+   "ro": "Ia te uită!"
+  },
+  {
+   "key": "3278304787282882560",
+   "en": "To Scorpion.",
+   "ro": "Pentru Scorpion."
+  },
+  {
+   "key": "3278307834394406912",
+   "en": "To Scorpion.",
+   "ro": "Pentru Scorpion."
+  },
+  {
+   "key": "3278308037381943296",
+   "en": "To Scorpion.",
+   "ro": "Pentru Scorpion."
+  },
+  {
+   "key": "3278311197219581952",
+   "en": "[Don't drink] Thanks, nothing for me.",
+   "ro": "[Nu bea] Mersi, mie nimic."
+  },
+  {
+   "key": "3278311770480275456",
+   "en": "Thanks, nothin' for me.",
+   "en_m": "Thanks, er, nothin' for me.",
+   "ro": "Mersi, nimic pentru mine.",
+   "ro_m": "Mersi, ăă, nimic pentru mine."
+  },
+  {
+   "key": "3278312555083558912",
+   "en": "Well, I will drink to Reed. A man of honor, a patriot, and a fool of the kind they just don't make anymore.",
+   "ro": "Păi, eu beau în cinstea lui Reed. Un om de onoare, un patriot și un nebun de soiul ăla care nu se mai face."
+  },
+  {
+   "key": "3278313284758237184",
+   "en": "Died for what he believed in.",
+   "ro": "A murit pentru ce credea."
+  },
+  {
+   "key": "3278319459344150528",
+   "en": "Meaning?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "3278319561332846592",
+   "en": "Knew Myers well, her cynicism. Knew she might just play 'im. And he let 'er.",
+   "ro": "O cunoștea bine pe Myers, îi știa cinismul. Știa că s-ar putea să-l joace. Și el s-a lăsat."
+  },
+  {
+   "key": "3278321362400538624",
+   "en": "Sol was stubborn in defense of ideas. Whaddaya think – he die for Myers or So Mi?",
+   "ro": "Sol era încăpățânat când își apăra ideile. Ce zici – a murit pentru Myers sau pentru So Mi?"
+  },
+  {
+   "key": "3278323389121785860",
+   "en": "Died serving Myers.",
+   "ro": "A murit slujind-o pe Myers."
+  },
+  {
+   "key": "3278323870325895168",
+   "en": "He was out to save Song.",
+   "ro": "Voia să o salveze pe Song."
+  },
+  {
+   "key": "3278324328561995776",
+   "en": "Died for both.",
+   "ro": "A murit pentru ambele."
+  },
+  {
+   "key": "3278324926820741120",
+   "en": "Song all the way. I'd call it an obsession.",
+   "ro": "Song, fără discuție. Aș numi-o obsesie."
+  },
+  {
+   "key": "3278324977118834692",
+   "en": "Both. Did his damndest to save one but... had to stay loyal to the other.",
+   "ro": "Ambele. S-a dat peste cap să o salveze pe una, dar... a trebuit să rămână loial celeilalte."
+  },
+  {
+   "key": "3278324990070845444",
+   "en": "Served Myers till the last, even when he talked about So Mi.",
+   "ro": "A slujit-o pe Myers până la capăt, chiar și când vorbea despre So Mi."
+  },
+  {
+   "key": "3278352480847884288",
+   "en": "Ah, Reed through 'n' through…",
+   "ro": "Ah, Reed până în măduva oaselor..."
+  },
+  {
+   "key": "3278353622252220416",
+   "en": "Mutual friend once told me Reed gave his all to save others 'cause he just couldn't save himself.",
+   "ro": "Un prieten comun mi-a spus cândva că Reed a dat totul ca să-i salveze pe alții pentru că pur și simplu nu se putea salva pe el."
+  },
+  {
+   "key": "3278354829574238208",
+   "en": "Poor bastard.",
+   "ro": "Săracul de el."
+  },
+  {
+   "key": "3278356598580670464",
+   "en": "Fuckin' overgrown superego. If only his mind had been as big, he'd be alive today.",
+   "ro": "Superego al dracului, supracrescut. Dacă ar fi avut și mintea pe măsură, ar fi viu azi."
+  },
+  {
+   "key": "3278421826081222656",
+   "en": "Did you like 'im?",
+   "ro": "Ți-a plăcut de el?"
+  },
+  {
+   "key": "3278422999026724864",
+   "en": "Hard to say.",
+   "ro": "Greu de spus."
+  },
+  {
+   "key": "3278423837619089408",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "3278438751456817156",
+   "en": "[Drink] To those with principles.",
+   "ro": "[Bea] În cinstea celor cu principii."
+  },
+  {
+   "key": "3278438914581688320",
+   "en": "To all peeps with principles.",
+   "ro": "Pentru toți tipii cu principii."
+  },
+  {
+   "key": "3278439079250063364",
+   "en": "To all principled peeps.",
+   "ro": "În cinstea tuturor tipilor cu principii."
+  },
+  {
+   "key": "3278439411506049024",
+   "en": "[Do not drink] To those with principles.",
+   "ro": "[Nu bea] În cinstea celor cu principii."
+  },
+  {
+   "key": "3278446124976140288",
+   "en": "Peeps back at the firm'll wilt with envy when I post a \"died after a long, grueling illness.\"",
+   "ro": "Colegii de la firmă o să crape de invidie când postez „a decedat în urma unei boli îndelungate și chinuitoare”."
+  },
+  {
+   "key": "3278450976930230272",
+   "en": "Now you'll tell me how he died.",
+   "ro": "Acum o să-mi spui cum a murit."
+  },
+  {
+   "key": "3278455466664226816",
+   "en": "C'mon. Gotta find some new peeps you'll befriend, grow to like, and then murder.",
+   "ro": "Hai. Trebuie să-ți găsești oameni noi, de care să te atașezi, și apoi să-i omori."
+  },
+  {
+   "key": "3308230067915042816",
+   "en": "Guess what – your country just started another corp war.",
+   "ro": "Ghici ce – țara ta tocmai a început încă un război între corporații."
+  },
+  {
+   "key": "3308230473084809216",
+   "en": "Never thought I'd live to see the start of a fifth corp war.",
+   "ro": "Nu credeam să apuc vreodată începutul unui al cincilea război între corporații."
+  },
+  {
+   "key": "3308244673370763264",
+   "en": "No qualms whatsoever?",
+   "ro": "Nicio mustrare de conștiință?"
+  },
+  {
+   "key": "3339265322967801856",
+   "en": "Yeah, poor bastard.",
+   "ro": "Da, săracul."
+  },
+  {
+   "key": "3343157118462500864",
+   "en": "Close. Warm, sunny place, definitely.",
+   "ro": "Aproape. Un loc cald și însorit, cu siguranță."
+  },
+  {
+   "key": "3343157665617846272",
+   "en": "Good luck, Alex. Look out for yourself.",
+   "en_m": "Good luck, Alex. Look after yourself.",
+   "ro": "Baftă, Alex. Ai grijă de tine."
+  },
+  {
+   "key": "3343207727102337024",
+   "en": "Orbital Air's long sought a way to get rid of its competition. They'd be at each other's throats sooner or later anyway.",
+   "ro": "Orbital Air căuta de mult o cale să scape de concurență. Oricum ar fi ajuns să se ia de gât mai devreme sau mai târziu."
+  },
+  {
+   "key": "3343218041348857856",
+   "en": "The New United States was in no way involved in the recent events at NC International and Translunar.",
+   "ro": "Noile State Unite nu au avut nicio implicare în evenimentele recente de la NC International și Translunar."
+  },
+  {
+   "key": "3343221247340617728",
+   "en": "Nor was Night Corp.",
+   "ro": "Nici corporația Night Corp."
+  },
+  {
+   "key": "3343296752362364928",
+   "en": "Song didn't have any either.",
+   "ro": "Nici Song nu avea așa ceva."
+  },
+  {
+   "key": "3343298128966492160",
+   "en": "[Do not drink] Principles are another excuse.",
+   "ro": "[Nu bea] Principiile sunt doar o altă scuză."
+  },
+  {
+   "key": "3343299887839485952",
+   "en": "Aa, stickin' to your guns no matter the cost? Can be an excuse for bein' too damn scared to decide for yourself. And to take responsibility for it.",
+   "en_m": "Stickin' to your guns no matter the cost? Can be an excuse for bein' too damn scared to decide for yourself. And to take responsibility for it.",
+   "ro": "Aa, să rămâi pe poziție, orice-ar costa? Poate fi o scuză când ești al naibii de speriată să decizi singură. Și să eviți să-ți asumi responsabilitatea.",
+   "ro_m": "Aa, să rămâi pe poziție, orice-ar costa? Poate fi o scuză când ești al naibii de speriat să decizi singur. Și să eviți să-ți asumi responsabilitatea."
+  },
+  {
+   "key": "3343302066293874688",
+   "en": "Well, here's to all fools with principles.",
+   "ro": "Hai, noroc tuturor proștilor cu principii."
+  },
+  {
+   "key": "3343356117232558080",
+   "en": "Maybe. But that's not Reed.",
+   "ro": "Poate. Dar Reed nu e așa."
+  },
+  {
+   "key": "3357756279271350276",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "3368051553663533056",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3377853994936385540",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "3378088757160222720",
+   "en": "Grab a seat.",
+   "ro": "Ia loc."
+  },
+  {
+   "key": "3378096294693609472",
+   "en": "Couldn't be sure you'd show.",
+   "ro": "N-aveam de unde să știu că o să vii."
+  },
+  {
+   "key": "3378102239532326912",
+   "en": "Hm, my luck's in, then.",
+   "ro": "Hm, atunci am noroc."
+  },
+  {
+   "key": "3556541737126502400",
+   "en": "[Return token] Show 'em this as proof.",
+   "ro": "[Înapoiază tokenul] Arată-le asta ca dovadă."
+  },
+  {
+   "key": "3556555606163103744",
+   "en": "Here – token I got. In case anyone doubts you followed orders.",
+   "ro": "Na, tokenul pe care l-am primit eu. Ca să vadă cineva că ai urmat ordinele."
+  },
+  {
+   "key": "3556569275584389120",
+   "en": "Huh. Sure you don't wanna keep it?",
+   "ro": "Cum adică? Ești sigură că nu vrei să-l păstrezi?",
+   "ro_m": "Cum adică? Ești sigur că nu vrei să-l păstrezi?"
+  },
+  {
+   "key": "3557699738591993856",
+   "en": "Just take it.",
+   "ro": "Ia-l și gata."
+  },
+  {
+   "key": "3560769449697386496",
+   "en": "Legend of the Afterlife. My dear, dear friend.",
+   "ro": "Legenda de la Afterlife. Dragul meu, dragul meu prieten."
+  },
+  {
+   "key": "3560776418030166016",
+   "en": "World's last true rockerboy. Lived by, and died for, his ideals.",
+   "ro": "Ultimul rockerboy adevărat din lume. A trăit și a murit pentru idealurile lui."
+  },
+  {
+   "key": "3560777947273404416",
+   "en": "A woman with a passion. Shoulda wound up 'neath Greece's warm sun, studyin' the works of Aristotle.",
+   "ro": "O femeie plină de pasiune. Ar fi trebuit să ajungă sub soarele cald al Greciei, să studieze operele lui Aristotel."
+  },
+  {
+   "key": "3560782988206055424",
+   "en": "A gentle bear. Owe him my life.",
+   "ro": "Un urs blând. Îi datorez viața."
+  },
+  {
+   "key": "3560808287929016320",
+   "en": "A fearless man. Laid down his life for his family.",
+   "ro": "Un om fără frică. Și-a dat viața pentru familia lui."
+  },
+  {
+   "key": "3560824361340805120",
+   "en": "A beautiful riddle who had the courage to dream big.",
+   "ro": "O enigmă frumoasă care a avut curajul să viseze la scară mare."
+  },
+  {
+   "key": "3598516962168578048",
+   "en": "None too busy a day.",
+   "ro": "O zi deloc aglomerată."
+  },
+  {
+   "key": "3598544642897256448",
+   "en": "Quite the occasion today. No favorite tune to underline the mood?",
+   "ro": "Ocazie specială azi. N-ai vreo melodie preferată care să se potrivească stării?"
+  },
+  {
+   "key": "3598549906849439744",
+   "en": "Sad songs I just don't like. But this mood'll pass. It's gotta. I'll dance again before too long.",
+   "ro": "Melodiile triste nu-mi plac. Dar starea asta o să treacă, trebuie să treacă. O să dansez iar în curând."
+  },
+  {
+   "key": "3731945686780665856",
+   "en": "Well, I will drink to Reed.",
+   "ro": "Păi, eu beau pentru Reed."
+  },
+  {
+   "key": "3731946748728107012",
+   "en": "[Drink] To Reed – and I'm sorry.",
+   "ro": "[Bea] Pentru Reed – și îmi pare rău."
+  },
+  {
+   "key": "3731949979281711104",
+   "en": "[Drink] To Reed – RIP, choom.",
+   "ro": "[Bea] Pentru Reed – RIP, choom."
+  },
+  {
+   "key": "3731953314860687360",
+   "en": "May he rest in peace…",
+   "ro": "Dumnezeu să-l odihnească…"
+  },
+  {
+   "key": "3731961702931816448",
+   "en": "What would you say to a drink first?",
+   "ro": "Ce zici de un pahar mai întâi?"
+  },
+  {
+   "key": "3735074454385369088",
+   "en": "Damn sorry, Alex.",
+   "ro": "Îmi pare al naibii de rău, Alex."
+  }
+ ]
+}

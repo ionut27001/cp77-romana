@@ -1,0 +1,750 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q113\\q113_09_jungle_start.json",
+ "entries": [
+  {
+   "key": "1730332124934664192",
+   "en": "It's an island, just one.",
+   "ro": "E o singură insulă."
+  },
+  {
+   "key": "1730334429100732416",
+   "en": "And do not utter a word until I ask you to.",
+   "ro": "Și nu scoate un cuvânt până nu-ți cer eu."
+  },
+  {
+   "key": "1730334717266194432",
+   "en": "No matter what happens... you must trust me.",
+   "ro": "Orice s-ar întâmpla... trebuie să ai încredere în mine."
+  },
+  {
+   "key": "1730335383405555712",
+   "en": "With twelve thousand inhabitants.",
+   "ro": "Cu douăsprezece mii de locuitori."
+  },
+  {
+   "key": "1730335640147292160",
+   "en": "We could... relocate them. Archipelago, y'know, so there're other islands around.",
+   "ro": "Ar fi să-i mutăm... E arhipelag, știi, deci mai sunt insule pe-aproape."
+  },
+  {
+   "key": "1730336438491115520",
+   "en": "It sounds very costly.",
+   "ro": "Pare tare scump."
+  },
+  {
+   "key": "1730342228258025472",
+   "en": "I am late, apologies.",
+   "ro": "Scuze, am întârziat."
+  },
+  {
+   "key": "1730343109951057920",
+   "en": "Keep your weapon at hand.",
+   "ro": "Ține arma aproape."
+  },
+  {
+   "key": "1730343430211334144",
+   "en": "My brother – where is he?",
+   "ro": "Fratele meu – unde e?"
+  },
+  {
+   "key": "1730343735070126080",
+   "en": "Then begin without him we shall.",
+   "ro": "Atunci începem fără el."
+  },
+  {
+   "key": "1730345230624714752",
+   "en": "I wanna know what's goin' on.",
+   "ro": "Vreau să știu ce se-ntâmplă."
+  },
+  {
+   "key": "1730347484425580544",
+   "en": "Yorinobu murdered my father and exploited his death to justify his warmongering.",
+   "ro": "Yorinobu l-a ucis pe tatăl meu și i-a exploatat moartea ca să-și justifice războiul."
+  },
+  {
+   "key": "1730347754924634112",
+   "en": "I have an eyewitness.",
+   "ro": "Am un martor."
+  },
+  {
+   "key": "1730348236564951040",
+   "en": "It's true. I was there.",
+   "ro": "E adevărat. Am fost acolo."
+  },
+  {
+   "key": "1730348664350404608",
+   "en": "Lapped up Yorinobu's lies like dogs, you did.",
+   "ro": "Ați înghițit minciunile lui Yorinobu ca niște câini."
+  },
+  {
+   "key": "1730348783435083776",
+   "en": "You didn't even order a proper inquiry.",
+   "ro": "Nici măcar n-ați ordonat o anchetă serioasă."
+  },
+  {
+   "key": "1730349503261536256",
+   "en": "It's true – all of it. Saw it with my own eyes.",
+   "ro": "E adevărat – tot. Am văzut cu ochii mei."
+  },
+  {
+   "key": "1730349944670089216",
+   "en": "I can confirm this.",
+   "ro": "Pot confirma asta."
+  },
+  {
+   "key": "1730350205086035968",
+   "en": "Says a wanted man!",
+   "ro": "Zice un om căutat!"
+  },
+  {
+   "key": "1730350797221097472",
+   "en": "If our testimony is not enough, perhaps you will listen to my father.",
+   "ro": "Dacă nu ajunge mărturia noastră, poate îl ascultați pe tatăl meu."
+  },
+  {
+   "key": "1730352110474457088",
+   "en": "Oh?",
+   "ro": "Oh?"
+  },
+  {
+   "key": "1730354735387340800",
+   "en": "<kiroshi l=\"jpn\" o=\"見下げ果てた奴らめ\" t=\"You are all despicable.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"見下げ果てた奴らめ\" t=\"Sunteți niște nemernici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1761818864418570240",
+   "en": "It won't be much longer, V.",
+   "ro": "Nu o să mai dureze mult, V."
+  },
+  {
+   "key": "1761819092118945796",
+   "en": "Yeah, but we better hurry.",
+   "ro": "Da, dar mai bine ne grăbim."
+  },
+  {
+   "key": "1761819306749870080",
+   "en": "Do I have any fuckin' choice?!",
+   "ro": "Am eu vreo alegere, pula mea?!"
+  },
+  {
+   "key": "1761819467307827200",
+   "en": "It's getting worse.",
+   "ro": "Se face tot mai rău."
+  },
+  {
+   "key": "1761821759696289792",
+   "en": "Ugh, growin' weaker by the minute. We gotta hurry.",
+   "en_m": "Growin' weaker by the minute. We gotta hurry.",
+   "ro": "Ugh, slăbesc pe minut. Trebuie să ne grăbim."
+  },
+  {
+   "key": "1761822181324505088",
+   "en": "Don't have a fuckin' choice, now, do I?",
+   "ro": "N-am nicio alegere, pula mea, nu?!"
+  },
+  {
+   "key": "1761822710830219264",
+   "en": "Ahem, on a downward spiral, but... I gotta try.",
+   "en_m": "On a downward spiral… but I gotta try.",
+   "ro": "Cof, cof, sunt în cădere liberă, dar... trebuie să încerc."
+  },
+  {
+   "key": "1761823166230970368",
+   "en": "Dire moments are upon us.",
+   "ro": "Momentele grele sunt aici."
+  },
+  {
+   "key": "1762185025043841024",
+   "en": "Hanako-sama.",
+   "ro": "Hanako-sama."
+  },
+  {
+   "key": "1762186170172719104",
+   "en": "Got a good memory for faces, Oda.",
+   "ro": "Ai memorie bună pentru fețe, Oda."
+  },
+  {
+   "key": "1763182300645834752",
+   "en": "No, unacceptable.",
+   "ro": "Nu, e inacceptabil."
+  },
+  {
+   "key": "1763195064835653632",
+   "en": "A serious accusation, admittedly… but nothing more.",
+   "ro": "E o acuzație serioasă, recunosc... dar atât."
+  },
+  {
+   "key": "1763400557260718080",
+   "en": "They're here!",
+   "ro": "Sunt aici!"
+  },
+  {
+   "key": "1763607659929419776",
+   "en": "Spare no one.",
+   "ro": "Nu cruța pe nimeni."
+  },
+  {
+   "key": "1811268650187898880",
+   "en": "What... What are you doing? You cannot…",
+   "ro": "Ce... Ce faci? Nu poți…"
+  },
+  {
+   "key": "1811269326745911296",
+   "en": "V, this is your seat.",
+   "ro": "V, ăsta e locul tău."
+  },
+  {
+   "key": "1811423298689449988",
+   "en": "Move your ass.",
+   "ro": "Hai, mișcă-ți fundul!"
+  },
+  {
+   "key": "1811425393811406848",
+   "en": "May I...?",
+   "ro": "Pot să...?"
+  },
+  {
+   "key": "1811426227622264832",
+   "en": "What would her father say to this...?",
+   "ro": "Ce-ar spune tatăl ei la asta...?"
+  },
+  {
+   "key": "1811427691048484864",
+   "en": "Are you deaf?!",
+   "ro": "Ești surdă?!",
+   "ro_m": "Ești surd?!"
+  },
+  {
+   "key": "1811428200488648704",
+   "en": "Hear that? Plant your ass somewhere else.",
+   "ro": "Auzi? Așază-te altundeva."
+  },
+  {
+   "key": "1811428300732514308",
+   "en": "May I...? Everyone's waiting.",
+   "ro": "Pot...? Toată lumea așteaptă."
+  },
+  {
+   "key": "1811430041838436352",
+   "en": "This is outrageous…",
+   "ro": "E scandalos…"
+  },
+  {
+   "key": "1811434432335200256",
+   "en": "[Sit] Thank you.",
+   "ro": "[Așază-te] Mulțumesc."
+  },
+  {
+   "key": "1812536846438121472",
+   "en": "I will not let you treat me this way…",
+   "ro": "Nu te las să mă tratezi așa…"
+  },
+  {
+   "key": "1815589611446599680",
+   "en": "Protect the VIPs!",
+   "ro": "Protejați VIP-urile!"
+  },
+  {
+   "key": "1816945237225504768",
+   "en": "He... told us to start without him...",
+   "ro": "El... ne-a spus să începem fără el..."
+  },
+  {
+   "key": "1816945798020726784",
+   "en": "Hanako? What're you doing here?",
+   "ro": "Hanako? Ce cauți aici?"
+  },
+  {
+   "key": "1816947693426704384",
+   "en": "Begin what?",
+   "ro": "Să începem ce?"
+  },
+  {
+   "key": "1816959946733518848",
+   "en": "Hanako. I believe you owe us an explanation.",
+   "ro": "Hanako. Cred că ne datorezi o explicație."
+  },
+  {
+   "key": "1816975677135126528",
+   "en": "Give up your seat. Now.",
+   "ro": "Cedează locul. Acum."
+  },
+  {
+   "key": "1816977436226224128",
+   "en": "And why you dragged these… people in here.",
+   "ro": "Și de ce i-ai adus aici pe oamenii ăștia..."
+  },
+  {
+   "key": "1825551335476510720",
+   "en": "Much obliged.",
+   "ro": "Mulțumesc frumos."
+  },
+  {
+   "key": "1837123952670806016",
+   "en": "You in on this?",
+   "ro": "Ești implicată în asta?",
+   "ro_m": "Ești implicat în asta?"
+  },
+  {
+   "key": "1837124158661464064",
+   "en": "In on what?",
+   "ro": "Implicată în ce?",
+   "ro_m": "Implicat în ce?"
+  },
+  {
+   "key": "1837124208305246208",
+   "en": "Saburo's comeback.",
+   "ro": "Revenirea lui Saburo."
+  },
+  {
+   "key": "1837127671642722304",
+   "en": "Just spoke to his construct.",
+   "ro": "Tocmai am vorbit cu constructul lui."
+  },
+  {
+   "key": "1837130183661719552",
+   "en": "No... He would have told me.",
+   "ro": "Nu... Mi-ar fi spus."
+  },
+  {
+   "key": "1837130817957924864",
+   "en": "Feel that, Goro?",
+   "ro": "Simți asta, Goro?"
+  },
+  {
+   "key": "1837131082903719936",
+   "en": "Night City just gave you another kick in the nuts – running start this time.",
+   "ro": "Night City ți-a mai tras un șut în coaie, de data asta cu avânt."
+  },
+  {
+   "key": "1837131762313859072",
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "key": "1837132297792262144",
+   "en": "He digitized his engram, made copies. In case he died.",
+   "ro": "Și-a digitizat engramul, a făcut copii. Pentru cazul în care moare."
+  },
+  {
+   "key": "1837136196263612416",
+   "en": "Why? So you'd take your job as his bodyguard lightly?",
+   "ro": "De ce? Ca să iei în glumă slujba de gardă de corp?"
+  },
+  {
+   "key": "1837140337132179456",
+   "en": "<kiroshi l=\"jpn\" o=\"ありえん…\" t=\"It cannot be...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ありえん…\" t=\"Nu se poate...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1837156410191646720",
+   "en": "Then what? Need me to \"neutralize\" them, too?",
+   "ro": "Și apoi? Vrei să-i „neutralizez” și pe ei?"
+  },
+  {
+   "key": "1837177179026100224",
+   "en": "Fascinating.",
+   "ro": "Fascinant."
+  },
+  {
+   "key": "1837179497805123584",
+   "en": "Careful what you say.",
+   "ro": "Ai grijă ce spui."
+  },
+  {
+   "key": "1837192778481537024",
+   "en": "Yes, indeed – words and nothing else. Is this all you have?",
+   "ro": "Da, chiar așa – doar vorbe. Asta-i tot ce ai?"
+  },
+  {
+   "key": "1837194905530535936",
+   "en": "You lapped up Yorinobu's lies eagerly like the dogs you are.",
+   "ro": "Ați înghițit minciunile lui Yorinobu ca niște câini ce sunteți."
+  },
+  {
+   "key": "1837195050166915072",
+   "en": "Saburo Arasaka is murdered, and you don't order an inquiry into the cause of his death.",
+   "ro": "Saburo Arasaka e ucis, iar voi nu ordonați nicio anchetă despre cum a murit."
+  },
+  {
+   "key": "1837301592165847040",
+   "en": "Will you stay with us?",
+   "ro": "Rămâi cu noi?"
+  },
+  {
+   "key": "1837304529940254720",
+   "en": "Please, calm…",
+   "ro": "Te rog, liniștește-te…"
+  },
+  {
+   "key": "1837304977908699136",
+   "en": "I'll be calm when all this is over!",
+   "ro": "O să mă calmez când se termină totul!"
+  },
+  {
+   "key": "1837306949600677888",
+   "en": "Indeed we do.",
+   "ro": "Chiar, da."
+  },
+  {
+   "key": "1841477113854431232",
+   "en": "Of course, Hanako-sama.",
+   "ro": "Sigur, Hanako-sama."
+  },
+  {
+   "key": "1841525616517451776",
+   "en": "Forget relocation. Twelve thousand? I doubt anyone will notice.",
+   "ro": "Uită de relocare. Douăsprezece mii? Nu cred că o să observe cineva."
+  },
+  {
+   "key": "1843127674853003264",
+   "en": "A-Arasaka-sama?",
+   "ro": "A-Arasaka-sama?"
+  },
+  {
+   "key": "1843132983399026688",
+   "en": "<kiroshi l=\"jpn\" o=\"いずれにせよ、仮にも役員である者たちが、なんと情けない\" t=\"Whatever the case may be, you do not merit your positions.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いずれにせよ、仮にも役員である者たちが、なんと情けない\" t=\"Oricum ar fi, nu meritați pozițiile.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843133783890333696",
+   "en": "This...? Is this to convince us?",
+   "ro": "Asta...? E ca să ne convingă?"
+  },
+  {
+   "key": "1843134920429277184",
+   "en": "<kiroshi l=\"jpn\" o=\"バヘット。お前がミリテクとの全面戦争を憂慮していた時、私はこう言ったはずだ\" t=\"Barreto, I told you this once before, when you feared all-out war with Militech.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"バヘット。お前がミリテクとの全面戦争を憂慮していた時、私はこう言ったはずだ\" t=\"Barreto, ți-am spus asta odată, când te temeai de război total cu Militech.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843136731294863360",
+   "en": "A magic trick!",
+   "ro": "Un truc de magie!"
+  },
+  {
+   "key": "1843144370431070208",
+   "en": "<kiroshi l=\"jpn\" o=\"お前には3つのものが欠けている。自信、知性、そして根性だ\" t=\"You lack three things – confidence, intelligence and a dick.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前には3つのものが欠けている。自信、知性、そして根性だ\" t=\"Îți lipsesc trei lucruri – încrederea, inteligența și pula.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843151640200089600",
+   "en": "<kiroshi l=\"jpn\" o=\"見たところ、あれから何も変わっていないようだな\" t=\"It is clear nothing has changed in that regard.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"見たところ、あれから何も変わっていないようだな\" t=\"Se vede că nu s-a schimbat nimic în chestia aia.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843153757384085504",
+   "en": "It's... it's him…",
+   "ro": "E... e el…"
+  },
+  {
+   "key": "1843154157889785856",
+   "en": "Arasaka-sama... I...",
+   "ro": "Arasaka-sama... eu..."
+  },
+  {
+   "key": "1843157165960728576",
+   "en": "<kiroshi l=\"jpn\" o=\"赤子のようにまんまと騙されたか、日和見主義に走ったか…\" t=\"Either you let yourself be fooled like children or you were guided by opportunism.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"赤子のようにまんまと騙されたか、日和見主義に走ったか…\" t=\"Ori v-ați lăsat păcăliți ca niște copii, ori ați mers pe mâna oportunismului.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843188214396751872",
+   "en": "Arasaka-sama... what is your command?",
+   "ro": "Arasaka-sama... care e ordinul dumneavoastră?"
+  },
+  {
+   "key": "1843190186021621760",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコの指示に従え\" t=\"To follow Hanako's orders.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコの指示に従え\" t=\"Să urmați ordinele lui Hanako.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1843212599610445824",
+   "en": "Objections?",
+   "ro": "Obiecții?"
+  },
+  {
+   "key": "1845868980276695040",
+   "en": "You.",
+   "ro": "Tu."
+  },
+  {
+   "key": "1845869530049286144",
+   "en": "V is with us.",
+   "ro": "V e cu noi."
+  },
+  {
+   "key": "1845871355410386944",
+   "en": "To me or to my money?",
+   "ro": "Mie sau banilor mei?"
+  },
+  {
+   "key": "1845880640576032768",
+   "en": "This little stage show is starting to bore me. Will someone call security?",
+   "ro": "Spectacolul ăsta începe să mă plictisească. O să cheme cineva securitatea?"
+  },
+  {
+   "key": "1845882236408041472",
+   "en": "Great idea. They can go straight to Yorinobu and ask him what happened at Konpeki Plaza.",
+   "ro": "Idee bună. Să se ducă direct la Yorinobu și să-l întrebe ce s-a întâmplat la Konpeki Plaza."
+  },
+  {
+   "key": "1845885426243342336",
+   "en": "Just make sure they're armed. Your boss starts strangling people when he gets mad.",
+   "ro": "Doar fii sigur că sunt înarmați. Șefu' tău începe să sugrume oameni când se enervează."
+  },
+  {
+   "key": "1845889650041688064",
+   "en": "What did you see?",
+   "ro": "Ce ai văzut?"
+  },
+  {
+   "key": "1845889901028839424",
+   "en": "I saw Yorinobu strangle Saburo Arasaka.",
+   "ro": "L-am văzut pe Yorinobu sugrumându-l pe Saburo Arasaka."
+  },
+  {
+   "key": "1845890535610257408",
+   "en": "More interesting with each minute.",
+   "ro": "Tot mai interesant cu fiecare minut."
+  },
+  {
+   "key": "1845893248402198528",
+   "en": "Convenient to be so docile?",
+   "ro": "E comod să fii atât de docil?"
+  },
+  {
+   "key": "1845894798096863232",
+   "en": "Once again – who is this?",
+   "ro": "Încă o dată – cine e ăsta?"
+  },
+  {
+   "key": "1845998954392457216",
+   "en": "A serious accusation, admittedly… but nothing more.",
+   "ro": "E o acuzație serioasă, recunosc... dar atât."
+  },
+  {
+   "key": "1863401380156088320",
+   "en": "<kiroshi l=\"jpn\" o=\"周囲で怪しい動きがあれば直ちに報告しろ\" t=\"Report any suspicious activity on the premises.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"周囲で怪しい動きがあれば直ちに報告しろ\" t=\"Raportați orice activitate suspectă pe proprietate.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863407712498163712",
+   "en": "It is just these?",
+   "ro": "Ăștia-s toți?"
+  },
+  {
+   "key": "1863407943470096384",
+   "en": "The rest are in position, ready to do as instructed.",
+   "ro": "Restul sunt în poziție, gata să facă ce li s-a spus."
+  },
+  {
+   "key": "1863409061923201024",
+   "en": "These are the most effective by much. And loyal.",
+   "ro": "Ăștia sunt cei mai eficienți, de departe. Și loiali."
+  },
+  {
+   "key": "1863410370260836352",
+   "en": "I would say it's twenty percent to eighty, Hanako-sama.",
+   "ro": "Aș spune că e douăzeci la sută la optzeci, Hanako-sama."
+  },
+  {
+   "key": "1863411138456002560",
+   "en": "Very well. It will have to do.",
+   "ro": "Foarte bine. O să fie de ajuns."
+  },
+  {
+   "key": "1863412863774564352",
+   "en": "Now come.",
+   "ro": "Acum vino."
+  },
+  {
+   "key": "1865012892738068480",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコの発する言葉は、すべて私の言葉同然だ\" t=\"You will treat every word she speaks as if it came from my lips.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコの発する言葉は、すべて私の言葉同然だ\" t=\"O să tratați fiecare cuvânt de-al ei ca și cum ar veni de pe buzele mele.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1865019346614296576",
+   "en": "Is it you?! Is this your doing, Hanako?",
+   "ro": "Tu ești?! Tu ai făcut asta, Hanako?"
+  },
+  {
+   "key": "1865022177148739584",
+   "en": "To lock us in here so we devour each other like rats in a cage?",
+   "ro": "Ca să ne-nchizi aici și să ne mâncăm între noi ca șobolanii-n cușcă?"
+  },
+  {
+   "key": "1865022845267812352",
+   "en": "Have you brought more of this filth from the street?!",
+   "ro": "Ai mai adus din porcăria asta de pe stradă?!"
+  },
+  {
+   "key": "1865023541572608000",
+   "en": "Hear that?",
+   "ro": "Auzi?"
+  },
+  {
+   "key": "1865026292784373760",
+   "en": "I asked you a question!",
+   "ro": "Ți-am pus o întrebare!"
+  },
+  {
+   "key": "1865029326943887360",
+   "en": "What the hell's happening?",
+   "ro": "Ce naiba se întâmplă?"
+  },
+  {
+   "key": "1865029933725458432",
+   "en": "Clearly, someone objects.",
+   "ro": "Clar, cineva obiectează."
+  },
+  {
+   "key": "1865030265780117504",
+   "en": "Who activated the lockdown?!",
+   "ro": "Cine a activat blocarea?!"
+  },
+  {
+   "key": "1865038608200441856",
+   "en": "Aaaarrrghh!",
+   "ro": "Aaaarrrghh!"
+  },
+  {
+   "key": "1866466116045185024",
+   "en": "The removal of Yorinobu from his position as CEO of Arasaka.",
+   "ro": "Yorinobu dat afară din funcția de CEO la Arasaka."
+  },
+  {
+   "key": "1866473600847781888",
+   "en": "Did I hear you correctly?",
+   "ro": "Am auzit corect?"
+  },
+  {
+   "key": "1872075979106361344",
+   "en": "Used to work a few floors down – Abernathy's department.",
+   "ro": "Lucram câteva etaje mai jos – departamentul lui Abernathy."
+  },
+  {
+   "key": "1872076665529376768",
+   "en": "And I know \"shrugging your shoulders and finding a scapegoat\" just isn't correct procedure when the CEO dies.",
+   "ro": "Și știu că „a da din umeri și a găsi un țap ispășitor” nu e procedură corectă când moare CEO-ul."
+  },
+  {
+   "key": "1872078813432455168",
+   "en": "I'm an eyewitness to what happened. You should ask me questions, then proceed with apprehending Yorinobu.",
+   "ro": "Sunt martor ocular la ce s-a întâmplat. Ar trebui să-mi puneți întrebări, apoi să-l arestați pe Yorinobu."
+  },
+  {
+   "key": "1905582051571023872",
+   "en": "These your people?",
+   "ro": "Ăștia-s oamenii tăi?"
+  },
+  {
+   "key": "1905582686051778560",
+   "en": "In a manner of speaking.",
+   "ro": "Într-un fel."
+  },
+  {
+   "key": "1914104974943535108",
+   "en": "V? Your place.",
+   "ro": "V? La tine?"
+  },
+  {
+   "key": "1914104975060975620",
+   "en": "Will you sit?",
+   "ro": "O să stai?"
+  },
+  {
+   "key": "1914104975178416128",
+   "en": "Whether she sits or stands, this meeting is a farce.",
+   "en_m": "Whether he sits or stands, this meeting is a farce.",
+   "ro": "Fie că stă jos, fie că stă în picioare, întâlnirea asta e o farsă."
+  },
+  {
+   "key": "2000974106692755456",
+   "en": "Absurd!",
+   "ro": "Absurd!"
+  },
+  {
+   "key": "2007155863423098880",
+   "en": "And you knew of this. All of you.",
+   "ro": "Și știai de asta. Toți."
+  },
+  {
+   "key": "2025682974039416832",
+   "en": "Meaning?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "2025683231888449536",
+   "en": "To what extent they have faith in me, or my money – I do not know.",
+   "ro": "Nu știu în ce măsură au încredere în mine sau în banii mei."
+  },
+  {
+   "key": "2025683680225992704",
+   "en": "Guess it'd be all the same to them, wouldn't it?",
+   "ro": "Cred că pentru ei ar fi totuna, nu?"
+  },
+  {
+   "key": "2025720647395385344",
+   "en": "Anyway, motivations aside, what's important's that they shoot in the right direction.",
+   "ro": "Oricum, să lăsăm motivele deoparte. Important e să tragă în direcția bună."
+  },
+  {
+   "key": "2025739414993182720",
+   "en": "You are never one to mince words.",
+   "ro": "Nu ești niciodată una care să ocolească vorbele.",
+   "ro_m": "Nu ești niciodată unul care să ocolească vorbele."
+  },
+  {
+   "key": "2025740170622214144",
+   "en": "It's why you brought me here.",
+   "ro": "De asta m-ai adus aici."
+  },
+  {
+   "key": "2025748002562187264",
+   "en": "As a last resort – and only then.",
+   "ro": "Ca ultimă soluție – și numai atunci."
+  },
+  {
+   "key": "2025753643615854592",
+   "en": "You mean when the board rejects every word out of our mouths?",
+   "ro": "Adică atunci când consiliul respinge tot ce spunem?"
+  },
+  {
+   "key": "2025770605951655936",
+   "en": "\"If\" – not \"when.\"",
+   "ro": "„Dacă” – nu „când”."
+  },
+  {
+   "key": "2025797265853849600",
+   "en": "If we cannot convince them, we could lose control of the situation.",
+   "ro": "Dacă nu-i convingem, s-ar putea să pierdem controlul situației."
+  },
+  {
+   "key": "2085340488626421764",
+   "en": "You got a good memory.",
+   "ro": "Ai o memorie de elefant."
+  },
+  {
+   "key": "2257441266453553152",
+   "en": "Who is she?! And... a-am I seeing right, she's armed?!",
+   "en_m": "Who is he?! And... am I seeing right, he's armed?!",
+   "ro": "Ea cine e?! Și... stai, văd bine, e înarmată?!",
+   "ro_m": "El cine e?! Și... stai, văd bine, e înarmat?!"
+  },
+  {
+   "key": "2257444837886631944",
+   "en": "What this, now?!",
+   "ro": "Ce-i asta acum?!"
+  },
+  {
+   "key": "2257445247066152968",
+   "en": "Security? We've had an intrusion.",
+   "ro": "Securitate? Avem un intrus."
+  },
+  {
+   "key": "2257445434551541768",
+   "en": "Who is this… person?!",
+   "ro": "Cine e tipa asta...?!",
+   "ro_m": "Cine e tipul ăsta...?!"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_019.json",
+ "entries": [
+  {
+   "key": "2162117537582264320",
+   "en": "<kiroshi l=\"mex\" o=\"El güey de al lado estiró la pata. Murió de joven, además. Apenas pasaba los cuarenta.\" t=\"Ehhh, guy next door croaked. Dead, and young, too. Just over forty.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"El güey de al lado estiró la pata. Murió de joven, además. Apenas pasaba los cuarenta.\" t=\"Ehhh, vecinul de alături a bătut apa-n piua. Mort și tânăr, pe deasupra. Abia trecuse de patruzeci.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2213022632756219904",
+   "en": "<kiroshi l=\"mex\" o=\"Pues no era tan joven.\" t=\"Forty's not that young.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Pues no era tan joven.\" t=\"Patruzeci nu e chiar tânăr.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218651103259889664",
+   "en": "<kiroshi l=\"mex\" o=\"Oye, que ya pasé la flor de la vida pero nunca me sentí tan viva.\" t=\"Hey now, I'm over the hill, never felt younger!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Oye, que ya pasé la flor de la vida pero nunca me sentí tan viva.\" t=\"Hei, m-am dus de mult de la prima tinerețe, da' nu m-am simțit niciodată mai tânără!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218651296550195200",
+   "en": "<kiroshi l=\"mex\" o=\"Y... ¿Qué le pasó?\" t=\"Well, I... What happened to him?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Y... ¿Qué le pasó?\" t=\"Păi, eu... Ce i s-a întâmplat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218651901301723136",
+   "en": "<kiroshi l=\"mex\" o=\"Una neurodanza. Se pasaba sentado en su casa viviendo las vidas de otros. Estaba días enteros sin salir.\" t=\"Braindance. Just sat at home all the time, binging other people's lives. Wouldn't go out for days.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Una neurodanza. Se pasaba sentado en su casa viviendo las vidas de otros. Estaba días enteros sin salir.\" t=\"Braindance. Stătea acasă tot timpul, trăia viețile altora. Zile întregi nu ieșea afară.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218658762679750656",
+   "en": "<kiroshi l=\"mex\" o=\"Sí, pero todos lo hacen a veces... ¿Cuánto tardaron en encontrarlo?\" t=\"Yeah, but everyone does that sometimes... How long before they found him?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sí, pero todos lo hacen a veces... ¿Cuánto tardaron en encontrarlo?\" t=\"Da, da' toată lumea face asta uneori... Cât a durat până l-au găsit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218658893961465856",
+   "en": "<kiroshi l=\"mex\" o=\"No sé, no me dijeron. Parece que cuando la policía tiró la puerta abajo, ¡estaba repleto de bichos!\" t=\"Dunno. Wouldn't tell me. Apparently, when the cops busted down the door, the whole floor was crawling!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No sé, no me dijeron. Parece que cuando la policía tiró la puerta abajo, ¡estaba repleto de bichos!\" t=\"Nu știu, nu mi-au zis. Zice că, pe când a spart poliția ușa, era tot etajul plin de gândaci!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

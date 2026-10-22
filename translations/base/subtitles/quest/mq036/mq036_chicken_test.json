@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq036\\mq036_chicken_test.json",
+ "entries": [
+  {
+   "key": "1864934512068014084",
+   "en": "[db_db]Start.",
+   "ro": "[db_db]Începe."
+  },
+  {
+   "key": "1864934850716119040",
+   "en": "[db_db]Scavengers.",
+   "ro": "[db_db]Hienele."
+  },
+  {
+   "key": "1864934988842938368",
+   "en": "[db_db]Finale.",
+   "ro": "[db_db]Final."
+  }
+ ]
+}

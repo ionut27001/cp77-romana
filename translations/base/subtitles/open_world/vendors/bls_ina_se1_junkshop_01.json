@@ -1,0 +1,147 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_junkshop_01.json",
+ "entries": [
+  {
+   "key": "1934333451356778496",
+   "en": "Selling anything interesting?",
+   "ro": "Vinzi ceva interesant?"
+  },
+  {
+   "key": "1934333451356778512",
+   "en": "Nice dump.",
+   "ro": "Frumos depozit."
+  },
+  {
+   "key": "1934333452749287428",
+   "en": "Sellin' anything interesting?",
+   "en_m": "Selling anything interesting?",
+   "ro": "Vinzi ceva interesant?"
+  },
+  {
+   "key": "1934333452749287436",
+   "en": "Ahh, that depend on what you interested in.",
+   "ro": "Ahh, depinde de ce te interesează."
+  },
+  {
+   "key": "1934333452766064644",
+   "en": "What a beautiful dump you've got here.",
+   "en_m": "Wow. What a beautiful dump you've got here.",
+   "ro": "Ce cocină frumoasă ai aici.",
+   "ro_m": "Wow, ce cocină frumoasă ai aici."
+  },
+  {
+   "key": "1934333452782841856",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "1934336561768738816",
+   "en": "Looking for a training bot.",
+   "ro": "Caut un robot de antrenament."
+  },
+  {
+   "key": "1945761361623953412",
+   "en": "Looking for a training bot. Heard it might've passed through your hands.",
+   "en_m": "I'm lookin' for a training bot. Heard it might've passed through your hands.",
+   "ro": "Caut un robot de antrenament. Zice lumea că ar fi trecut prin mâinile tale."
+  },
+  {
+   "key": "1945761361623953424",
+   "en": "Training bot, you say. Let me see, hmm... Perhaps you want doll-bot? Slightly worn and torn, missing legs, but...",
+   "ro": "Robot de antrenament, zici? Hm, lasă-mă să văd... Poate te interesează un robot-păpușă? E cam uzat și rupt, fără picioare, dar..."
+  },
+  {
+   "key": "1945761361623953436",
+   "en": "Mm, tempting, but no. Thanks.",
+   "en_m": "Tempting, but no. Thanks.",
+   "ro": "Mda, tentant, da' nu. Mersi."
+  },
+  {
+   "key": "1945761361640730632",
+   "en": "Suit yourself. Training bot... Yes, I have one – but only for sale. And it won't be cheap.",
+   "ro": "Cum vrei. Robot de antrenament... Da, am unul – dar doar la vânzare. Și n-o să fie ieftin."
+  },
+  {
+   "key": "1945761361674285056",
+   "en": "Fine, I'll take it.",
+   "ro": "Bine, îl iau."
+  },
+  {
+   "key": "1945761361691062284",
+   "en": "Either I take the bot, or I take your life.",
+   "ro": "Ori iau robotul, ori îți iau viața."
+  },
+  {
+   "key": "1945761361691062300",
+   "en": "That's a total rip-off.",
+   "ro": "E o țeapă totală."
+  },
+  {
+   "key": "1945761361758171140",
+   "en": "Wonderful. They bring him here in a minute. If you change your mind about the doll-bot, then...",
+   "ro": "Super. Îl aduc aici imediat. Dacă te răzgândești cu robotul-păpușă, atunci..."
+  },
+  {
+   "key": "1945761361774948360",
+   "en": "Sure, I'll keep it in mind.",
+   "ro": "Sigur, o să țin minte."
+  },
+  {
+   "key": "1945761361858834432",
+   "en": "Here's another idea. Either let it go for free, or I let my trigger-finger slip. Whaddaya say?",
+   "en_m": "Well, here's another idea. Either let it go for free, or I let my trigger-finger slip. Whaddaya say?",
+   "ro": "Hai că am o idee. Ori îl lași pe gratis, ori îmi scapă degetul de pe trăgaci. Ce zici?"
+  },
+  {
+   "key": "1945761361858834444",
+   "en": "Hmm, I see. You look at this dump and think I'm some piece of loser-trash, huh? That you can just come here and try to fuck me?",
+   "ro": "Hm, deci. Te uiți la cocina asta și crezi că sunt un ratat de doi bani, nu? Că poți să vii aici și să încerci să mă futi?"
+  },
+  {
+   "key": "1945761361858834456",
+   "en": "Well, my friend, you are very, very mistaken.",
+   "ro": "Ei bine, prietene, te înșeli amarnic."
+  },
+  {
+   "key": "1945761361909166084",
+   "en": "Oh, whaddaya take me for – a gonk? Clunkers like that sell in Kabuki bazaars for ennies at the most.",
+   "en_m": "Whaddaya take me for – a gonk? Clunkers like that sell in Kabuki bazaars for ennies at the most.",
+   "ro": "Ptiu, pentru ce mă iei, pentru un fraier? D-astea se dau prin bazarurile din Kabuki pe ennies, cel mult."
+  },
+  {
+   "key": "1945761361925943296",
+   "en": "If you come here just for that, it must be worth more.",
+   "ro": "Dacă ai venit doar pentru asta, înseamnă că valorează mai mult."
+  },
+  {
+   "key": "1945761361925943308",
+   "en": "Maybe a little, but not as much as you're tryna fleece me for.",
+   "ro": "Poate puțin, da' nu cât încerci să mă jecmănești."
+  },
+  {
+   "key": "1945761361925943320",
+   "en": "OK, OK, fine. I peg it down a notch. Now hurry up and pay.",
+   "ro": "Bine, bine, mai scad puțin. Acum plătești și gata."
+  },
+  {
+   "key": "1945761361976274944",
+   "en": "Fine, I'll take it.",
+   "ro": "Bine, îl iau."
+  },
+  {
+   "key": "1945761361976274960",
+   "en": "Give me the bot, or bullets start flying.",
+   "ro": "Dă-mi robotul, sau încep să zboare gloanțele."
+  },
+  {
+   "key": "1945761362043383808",
+   "en": "Pricey for a rusted hunk o' metal. But fine, I'll take it.",
+   "ro": "Scump pentru o grămadă de fier ruginit. Da' bine, îl iau."
+  },
+  {
+   "key": "1945761362076938244",
+   "en": "That's more like it. Here.",
+   "ro": "Așa da. Poftim."
+  }
+ ]
+}

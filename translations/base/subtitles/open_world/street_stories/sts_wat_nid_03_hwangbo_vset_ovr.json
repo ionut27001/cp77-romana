@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_03_hwangbo_vset_ovr.json",
+ "entries": [
+  {
+   "key": "1895374851154526208",
+   "en": "<kiroshi l=\"kor\" o=\"씨발! 좀 조심해!\" t=\"Shhhh! Watch it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"씨발! 좀 조심해!\" t=\"Șșș! Ai grijă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1895374908448718848",
+   "en": "<kiroshi l=\"kor\" o=\"윽!\" t=\"Ufff!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"윽!\" t=\"Ufff!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

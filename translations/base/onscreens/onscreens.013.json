@@ -1,0 +1,10005 @@
+{
+ "depot": "base\\localization\\en-us\\onscreens\\onscreens.json",
+ "entries": [
+  {
+   "key": "36653",
+   "en": "Coordinates",
+   "ro": "Coordonate"
+  },
+  {
+   "key": "36654",
+   "en": "Laptop",
+   "ro": "Laptop"
+  },
+  {
+   "key": "36655",
+   "en": "Coordinates",
+   "ro": "Coordonate"
+  },
+  {
+   "key": "36656",
+   "en": "Stash",
+   "ro": "Depozit"
+  },
+  {
+   "key": "36657",
+   "en": "The Book of Spells",
+   "ro": "Cartea Vrăjilor"
+  },
+  {
+   "key": "36658",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36659",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36660",
+   "en": "Freezer",
+   "ro": "Congelator"
+  },
+  {
+   "key": "36661",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36662",
+   "en": "Freezer",
+   "ro": "Congelator"
+  },
+  {
+   "key": "36663",
+   "en": "Cyberdeck",
+   "ro": "Cyberdeck"
+  },
+  {
+   "key": "36664",
+   "en": "Coordinates",
+   "ro": "Coordonate"
+  },
+  {
+   "key": "36665",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36666",
+   "en": "The Afterlife",
+   "ro": "Afterlife"
+  },
+  {
+   "key": "36667",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36668",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36669",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36670",
+   "en": "Nix",
+   "ro": "Nix"
+  },
+  {
+   "key": "36671",
+   "en": "Kirk",
+   "ro": "Kirk"
+  },
+  {
+   "key": "36672",
+   "en": "Kirk",
+   "ro": "Kirk"
+  },
+  {
+   "key": "36673",
+   "en": "Kirk",
+   "ro": "Kirk"
+  },
+  {
+   "key": "36674",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "36675",
+   "en": "Thomas",
+   "ro": "Thomas"
+  },
+  {
+   "key": "36676",
+   "en": "Thomas",
+   "ro": "Thomas"
+  },
+  {
+   "key": "36677",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "36678",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "36679",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "36680",
+   "en": "Garage Area",
+   "ro": "Zona garajului"
+  },
+  {
+   "key": "36681",
+   "en": "Delivery Van",
+   "ro": "Dubă de livrare"
+  },
+  {
+   "key": "36682",
+   "en": "Container",
+   "ro": "Container"
+  },
+  {
+   "key": "36683",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "36684",
+   "en": "Kirk",
+   "ro": "Kirk"
+  },
+  {
+   "key": "36685",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36686",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "36687",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36688",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "36689",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36690",
+   "en": "V's Computer",
+   "ro": "Computerul lui V"
+  },
+  {
+   "key": "36691",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36692",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36693",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36694",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36695",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36696",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36697",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36698",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36699",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36700",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36701",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36702",
+   "en": "Signal Source",
+   "ro": "Sursa semnalului"
+  },
+  {
+   "key": "36703",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36704",
+   "en": "Swedenborg-Riviera",
+   "ro": "Swedenborg-Riviera"
+  },
+  {
+   "key": "36705",
+   "en": "Signal Source",
+   "ro": "Sursa semnalului"
+  },
+  {
+   "key": "36706",
+   "en": "Last Signal",
+   "ro": "Ultimul semnal"
+  },
+  {
+   "key": "36707",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36708",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36709",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36710",
+   "en": "Fortuneteller Bot",
+   "ro": "Automat de ghicit"
+  },
+  {
+   "key": "36711",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36712",
+   "en": "Fortuneteller Jack",
+   "ro": "Automatul de ghicit Jack"
+  },
+  {
+   "key": "36713",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36714",
+   "en": "No-Tell Motel",
+   "ro": "No-Tell Motel"
+  },
+  {
+   "key": "36715",
+   "en": "Room 210",
+   "ro": "Camera 210"
+  },
+  {
+   "key": "36716",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "36717",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "36718",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "36719",
+   "en": "Riot Bouncer",
+   "ro": "Bodyguardul de la Riot"
+  },
+  {
+   "key": "36720",
+   "en": "Riot Bartender",
+   "ro": "Barmanul de la Riot"
+  },
+  {
+   "key": "36721",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "36722",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "36723",
+   "en": "VIP Lounge",
+   "ro": "Zona VIP"
+  },
+  {
+   "key": "36724",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36725",
+   "en": "Liam",
+   "ro": "Liam"
+  },
+  {
+   "key": "36726",
+   "en": "Security",
+   "ro": "Securitate"
+  },
+  {
+   "key": "36727",
+   "en": "Security",
+   "ro": "Securitate"
+  },
+  {
+   "key": "36728",
+   "en": "Security Computer",
+   "ro": "Computer de pază"
+  },
+  {
+   "key": "36729",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "36730",
+   "en": "Room X",
+   "ro": "Camera X"
+  },
+  {
+   "key": "36731",
+   "en": "No-Tell Motel",
+   "ro": "No-Tell Motel"
+  },
+  {
+   "key": "36732",
+   "en": "Lizzy Wizzy",
+   "ro": "Lizzy Wizzy"
+  },
+  {
+   "key": "36733",
+   "en": "Liam's Body",
+   "ro": "Trupul lui Liam"
+  },
+  {
+   "key": "36734",
+   "en": "Broken-Down Car",
+   "ro": "Mașina stricată"
+  },
+  {
+   "key": "36735",
+   "en": "Dumpster",
+   "ro": "Tomberon"
+  },
+  {
+   "key": "36736",
+   "en": "Garbage Chute",
+   "ro": "Ghena de gunoi"
+  },
+  {
+   "key": "36737",
+   "en": "Lizzy Wizzy",
+   "ro": "Lizzy Wizzy"
+  },
+  {
+   "key": "36738",
+   "en": "Little China Hospital",
+   "ro": "Spitalul din Little China"
+  },
+  {
+   "key": "36739",
+   "en": "Contact",
+   "ro": "Contact"
+  },
+  {
+   "key": "36740",
+   "en": "Security",
+   "ro": "Securitate"
+  },
+  {
+   "key": "36741",
+   "en": "Contact",
+   "ro": "Contact"
+  },
+  {
+   "key": "36742",
+   "en": "Aldecaldo Camp",
+   "ro": "Tabăra Aldecaldo"
+  },
+  {
+   "key": "36743",
+   "en": "Bob",
+   "ro": "Bob"
+  },
+  {
+   "key": "36744",
+   "en": "Suitcase",
+   "ro": "Valiza"
+  },
+  {
+   "key": "36745",
+   "en": "Contact",
+   "ro": "Contact"
+  },
+  {
+   "key": "36746",
+   "en": "Gangster",
+   "ro": "Gangster"
+  },
+  {
+   "key": "36747",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "36748",
+   "en": "Diner Owner",
+   "ro": "Proprietarul restaurantului"
+  },
+  {
+   "key": "36749",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36750",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36751",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36752",
+   "en": "Rainbow Cadenza",
+   "ro": "Rainbow Cadenza"
+  },
+  {
+   "key": "36753",
+   "en": "Cook",
+   "ro": "Cook"
+  },
+  {
+   "key": "36754",
+   "en": "Record Vendor",
+   "ro": "Vânzătorul de discuri"
+  },
+  {
+   "key": "36755",
+   "en": "Record Vendor",
+   "ro": "Vânzătorul de discuri"
+  },
+  {
+   "key": "36756",
+   "en": "Cook",
+   "ro": "Cook"
+  },
+  {
+   "key": "36757",
+   "en": "Record Vendor",
+   "ro": "Vânzătorul de discuri"
+  },
+  {
+   "key": "36758",
+   "en": "Databank",
+   "ro": "Bază de date"
+  },
+  {
+   "key": "36759",
+   "en": "Sandra Dorsett",
+   "ro": "Sandra Dorsett"
+  },
+  {
+   "key": "36760",
+   "en": "Kabuki Fight",
+   "ro": "Lupta din Kabuki"
+  },
+  {
+   "key": "36761",
+   "en": "Kabuki Fight",
+   "ro": "Lupta din Kabuki"
+  },
+  {
+   "key": "36762",
+   "en": "Kabuki Fight",
+   "ro": "Lupta din Kabuki"
+  },
+  {
+   "key": "36763",
+   "en": "Contender",
+   "ro": "Pretendent"
+  },
+  {
+   "key": "36764",
+   "en": "Certo",
+   "ro": "Certo"
+  },
+  {
+   "key": "36765",
+   "en": "Esquerdo",
+   "ro": "Esquerdo"
+  },
+  {
+   "key": "36766",
+   "en": "Arroyo Fight",
+   "ro": "Lupta din Arroyo"
+  },
+  {
+   "key": "36767",
+   "en": "Buck",
+   "ro": "Buck"
+  },
+  {
+   "key": "36768",
+   "en": "Contender",
+   "ro": "Pretendent"
+  },
+  {
+   "key": "36769",
+   "en": "Glen Fight",
+   "ro": "Lupta din Glen"
+  },
+  {
+   "key": "36770",
+   "en": "César",
+   "ro": "César"
+  },
+  {
+   "key": "36771",
+   "en": "Contender",
+   "ro": "Pretendent"
+  },
+  {
+   "key": "36772",
+   "en": "Ozob",
+   "ro": "Ozob"
+  },
+  {
+   "key": "36773",
+   "en": "Pacifica Fight",
+   "ro": "Lupta din Pacifica"
+  },
+  {
+   "key": "36774",
+   "en": "Ozob",
+   "ro": "Ozob"
+  },
+  {
+   "key": "36775",
+   "en": "Announcer",
+   "ro": "Prezentator"
+  },
+  {
+   "key": "36776",
+   "en": "Rhino",
+   "ro": "Rhino"
+  },
+  {
+   "key": "36777",
+   "en": "Animals' Club",
+   "ro": "Clubul Animals"
+  },
+  {
+   "key": "36778",
+   "en": "Rhino",
+   "ro": "Rhino"
+  },
+  {
+   "key": "36779",
+   "en": "Final Fight",
+   "ro": "Lupta finală"
+  },
+  {
+   "key": "36780",
+   "en": "Final Fight",
+   "ro": "Lupta finală"
+  },
+  {
+   "key": "36781",
+   "en": "Coach Fred",
+   "ro": "Coach Fred"
+  },
+  {
+   "key": "36782",
+   "en": "Coach Fred",
+   "ro": "Coach Fred"
+  },
+  {
+   "key": "36783",
+   "en": "Razor",
+   "ro": "Razor"
+  },
+  {
+   "key": "36784",
+   "en": "Corner",
+   "ro": "Colț"
+  },
+  {
+   "key": "36785",
+   "en": "Coach Fred",
+   "ro": "Coach Fred"
+  },
+  {
+   "key": "36786",
+   "en": "Viktor",
+   "ro": "Viktor"
+  },
+  {
+   "key": "36787",
+   "en": "Bench",
+   "ro": "Banca"
+  },
+  {
+   "key": "36788",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "36789",
+   "en": "Coach",
+   "ro": "Antrenorul"
+  },
+  {
+   "key": "36790",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "36791",
+   "en": "Ring",
+   "ro": "Ring"
+  },
+  {
+   "key": "36792",
+   "en": "Razor",
+   "ro": "Razor"
+  },
+  {
+   "key": "36793",
+   "en": "Old Factory",
+   "ro": "Fabrica veche"
+  },
+  {
+   "key": "36794",
+   "en": "Conspirators",
+   "ro": "Conspiratori"
+  },
+  {
+   "key": "36795",
+   "en": "Mystery Package",
+   "ro": "Pachet misterios"
+  },
+  {
+   "key": "36796",
+   "en": "Mystery Package",
+   "ro": "Pachet misterios"
+  },
+  {
+   "key": "36797",
+   "en": "Mysterious Conspirators",
+   "ro": "Conspiratori misterioși"
+  },
+  {
+   "key": "36798",
+   "en": "Hiding Spot",
+   "ro": "Ascunzătoare"
+  },
+  {
+   "key": "36799",
+   "en": "Old Factory",
+   "ro": "Fabrica veche"
+  },
+  {
+   "key": "36800",
+   "en": "Prophet",
+   "ro": "Profetul"
+  },
+  {
+   "key": "36801",
+   "en": "Hiding Spot",
+   "ro": "Ascunzătoare"
+  },
+  {
+   "key": "36802",
+   "en": "Prophet's Disciple",
+   "ro": "Discipolul profetului"
+  },
+  {
+   "key": "36803",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36804",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36805",
+   "en": "Prophet's Disciple",
+   "ro": "Discipolul profetului"
+  },
+  {
+   "key": "36806",
+   "en": "Mysterious Chip",
+   "ro": "Cip misterios"
+  },
+  {
+   "key": "36807",
+   "en": "Crew",
+   "ro": "Echipă"
+  },
+  {
+   "key": "36808",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36809",
+   "en": "Start Area",
+   "ro": "Zona de start"
+  },
+  {
+   "key": "36810",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36811",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36812",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36813",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36814",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36815",
+   "en": "Stunt Bike",
+   "ro": "Motocicletă de cascadorii"
+  },
+  {
+   "key": "36816",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36817",
+   "en": "Stunt Bike",
+   "ro": "Motocicletă de cascadorii"
+  },
+  {
+   "key": "36818",
+   "en": "Start",
+   "ro": "Start"
+  },
+  {
+   "key": "36819",
+   "en": "Marker 1",
+   "ro": "Marker 1"
+  },
+  {
+   "key": "36820",
+   "en": "Marker 2",
+   "ro": "Marker 2"
+  },
+  {
+   "key": "36821",
+   "en": "Finish Line",
+   "ro": "Linie de sosire"
+  },
+  {
+   "key": "36822",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36823",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36824",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36825",
+   "en": "Starting Point",
+   "ro": "Punct de start"
+  },
+  {
+   "key": "36826",
+   "en": "Stunt Bike",
+   "ro": "Motocicletă de cascadorii"
+  },
+  {
+   "key": "36827",
+   "en": "Start",
+   "ro": "Start"
+  },
+  {
+   "key": "36828",
+   "en": "Marker 1",
+   "ro": "Marker 1"
+  },
+  {
+   "key": "36829",
+   "en": "Marker 2",
+   "ro": "Marker 2"
+  },
+  {
+   "key": "36830",
+   "en": "Finish Line",
+   "ro": "Linie de sosire"
+  },
+  {
+   "key": "36831",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36832",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36833",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36834",
+   "en": "Starting Point",
+   "ro": "Punct de start"
+  },
+  {
+   "key": "36835",
+   "en": "Stunt Bike",
+   "ro": "Motocicletă de cascadorii"
+  },
+  {
+   "key": "36836",
+   "en": "Starting Point",
+   "ro": "Punct de start"
+  },
+  {
+   "key": "36837",
+   "en": "Marker 1",
+   "ro": "Marker 1"
+  },
+  {
+   "key": "36838",
+   "en": "Marker 2",
+   "ro": "Marker 2"
+  },
+  {
+   "key": "36839",
+   "en": "Marker 3",
+   "ro": "Marker 3"
+  },
+  {
+   "key": "36840",
+   "en": "Marker 4",
+   "ro": "Marker 4"
+  },
+  {
+   "key": "36841",
+   "en": "Marker 5",
+   "ro": "Marker 5"
+  },
+  {
+   "key": "36842",
+   "en": "Marker 6",
+   "ro": "Marker 6"
+  },
+  {
+   "key": "36843",
+   "en": "Finish Line",
+   "ro": "Linie de sosire"
+  },
+  {
+   "key": "36844",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36845",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36846",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36847",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36848",
+   "en": "Starting Point",
+   "ro": "Punct de start"
+  },
+  {
+   "key": "36849",
+   "en": "Marker 1",
+   "ro": "Marker 1"
+  },
+  {
+   "key": "36850",
+   "en": "Marker 2",
+   "ro": "Marker 2"
+  },
+  {
+   "key": "36851",
+   "en": "Marker 3",
+   "ro": "Marker 3"
+  },
+  {
+   "key": "36852",
+   "en": "Marker 4",
+   "ro": "Marker 4"
+  },
+  {
+   "key": "36853",
+   "en": "Finish Line",
+   "ro": "Linie de sosire"
+  },
+  {
+   "key": "36854",
+   "en": "News 54 AV",
+   "ro": "AV News 54"
+  },
+  {
+   "key": "36855",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36856",
+   "en": "Starting Point",
+   "ro": "Punct de start"
+  },
+  {
+   "key": "36857",
+   "en": "Stunt Bike",
+   "ro": "Motocicletă de cascadorii"
+  },
+  {
+   "key": "36858",
+   "en": "Jessy",
+   "ro": "Jessy"
+  },
+  {
+   "key": "36859",
+   "en": "Bench",
+   "ro": "Banca"
+  },
+  {
+   "key": "36860",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "36861",
+   "en": "Young Woman",
+   "ro": "Tânără"
+  },
+  {
+   "key": "36862",
+   "en": "Young Woman",
+   "ro": "Tânără"
+  },
+  {
+   "key": "36863",
+   "en": "Agent Orange",
+   "ro": "Agent Orange"
+  },
+  {
+   "key": "36864",
+   "en": "Stalker",
+   "ro": "Stalker"
+  },
+  {
+   "key": "36865",
+   "en": "Stalker",
+   "ro": "Stalker"
+  },
+  {
+   "key": "36866",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "36867",
+   "en": "Young Woman",
+   "ro": "Tânără"
+  },
+  {
+   "key": "36868",
+   "en": "Young Woman",
+   "ro": "Tânără"
+  },
+  {
+   "key": "36869",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "36870",
+   "en": "Find out what happened to Josie.",
+   "ro": "Află ce s-a întâmplat cu Josie."
+  },
+  {
+   "key": "36871",
+   "en": "Find the stolen Tyger Claw bike.",
+   "ro": "Găsește motocicleta furată a găștii Tyger Claws."
+  },
+  {
+   "key": "36872",
+   "en": "Cyberpsycho",
+   "ro": "Cyberpsycho"
+  },
+  {
+   "key": "36873",
+   "en": "Melissa Rory",
+   "ro": "Melissa Rory"
+  },
+  {
+   "key": "36874",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "36875",
+   "en": "Melissa Rory",
+   "ro": "Melissa Rory"
+  },
+  {
+   "key": "36876",
+   "en": "Monk",
+   "ro": "Călugăr"
+  },
+  {
+   "key": "36877",
+   "en": "Maelstrom Warehouse",
+   "ro": "Depozitul Maelstrom"
+  },
+  {
+   "key": "36878",
+   "en": "Monk",
+   "ro": "Călugăr"
+  },
+  {
+   "key": "36879",
+   "en": "Maelstrom Gear",
+   "ro": "Echipament Maelstrom"
+  },
+  {
+   "key": "36880",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "36881",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "36882",
+   "en": "Viktor",
+   "ro": "Viktor"
+  },
+  {
+   "key": "36883",
+   "en": "Parking Spot",
+   "ro": "Loc de parcare"
+  },
+  {
+   "key": "36884",
+   "en": "Parking Spot",
+   "ro": "Loc de parcare"
+  },
+  {
+   "key": "36885",
+   "en": "Hideout",
+   "ro": "Ascunzătoare"
+  },
+  {
+   "key": "36886",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "36887",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "36888",
+   "en": "Ozob",
+   "ro": "Ozob"
+  },
+  {
+   "key": "36889",
+   "en": "Ozob",
+   "ro": "Ozob"
+  },
+  {
+   "key": "36890",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "36891",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "36892",
+   "en": "BD Player",
+   "ro": "Aparat BD"
+  },
+  {
+   "key": "36893",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "36894",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "36895",
+   "en": "Search the area.",
+   "ro": "Caută prin zonă."
+  },
+  {
+   "key": "36896",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "36897",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "36898",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "36899",
+   "en": "Stolen Equipment",
+   "ro": "Echipament furat"
+  },
+  {
+   "key": "36900",
+   "en": "Service Point",
+   "ro": "Punct de service"
+  },
+  {
+   "key": "36901",
+   "en": "Service Point Area",
+   "ro": "Zona punctului de service"
+  },
+  {
+   "key": "36902",
+   "en": "Backroom Door",
+   "ro": "Ușa din spate"
+  },
+  {
+   "key": "36903",
+   "en": "Brendan",
+   "ro": "Brendan"
+  },
+  {
+   "key": "36904",
+   "en": "Theo",
+   "ro": "Theo"
+  },
+  {
+   "key": "36905",
+   "en": "Clerk",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "36906",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "36907",
+   "en": "Dumpster",
+   "ro": "Tomberon"
+  },
+  {
+   "key": "36908",
+   "en": "Brendan",
+   "ro": "Brendan"
+  },
+  {
+   "key": "36909",
+   "en": "Hooligan",
+   "ro": "Huligan"
+  },
+  {
+   "key": "36910",
+   "en": "Brendan",
+   "ro": "Brendan"
+  },
+  {
+   "key": "36911",
+   "en": "Favela",
+   "ro": "Favela"
+  },
+  {
+   "key": "36912",
+   "en": "Container",
+   "ro": "Container"
+  },
+  {
+   "key": "36913",
+   "en": "\"Package\"",
+   "ro": "\"Pachet\""
+  },
+  {
+   "key": "36914",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "36915",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "36916",
+   "en": "Delivery Point",
+   "ro": "Punct de livrare"
+  },
+  {
+   "key": "36917",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "36918",
+   "en": "Dennis",
+   "ro": "Dennis"
+  },
+  {
+   "key": "36919",
+   "en": "Commotion",
+   "ro": "Agitație"
+  },
+  {
+   "key": "36920",
+   "en": "Gangsters",
+   "ro": "Gangsteri"
+  },
+  {
+   "key": "36921",
+   "en": "Valentino Troublemaker",
+   "ro": "Valentino scandalagiu"
+  },
+  {
+   "key": "36922",
+   "en": "Corpo",
+   "ro": "corpo"
+  },
+  {
+   "key": "36923",
+   "en": "Cynthia's Office",
+   "ro": "Biroul Cynthiei"
+  },
+  {
+   "key": "36924",
+   "en": "Pepe's Wife",
+   "ro": "Soția lui Pepe"
+  },
+  {
+   "key": "36925",
+   "en": "Wife's Work",
+   "ro": "Locul de muncă al soției"
+  },
+  {
+   "key": "36926",
+   "en": "Entrance",
+   "ro": "Intrare"
+  },
+  {
+   "key": "36927",
+   "en": "Sound Source",
+   "ro": "Sursă de sunet"
+  },
+  {
+   "key": "36928",
+   "en": "Wife",
+   "ro": "Soție"
+  },
+  {
+   "key": "36929",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "36930",
+   "en": "Pepe",
+   "ro": "Pepe"
+  },
+  {
+   "key": "36931",
+   "en": "Search the area.",
+   "ro": "Caută prin zonă."
+  },
+  {
+   "key": "36932",
+   "en": "Briefcase",
+   "ro": "Servietă"
+  },
+  {
+   "key": "36933",
+   "en": "Frank",
+   "ro": "Frank"
+  },
+  {
+   "key": "36934",
+   "en": "Frank",
+   "ro": "Frank"
+  },
+  {
+   "key": "36935",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36936",
+   "en": "Dumpster",
+   "ro": "Tomberon"
+  },
+  {
+   "key": "36937",
+   "en": "GPS",
+   "ro": "GPS"
+  },
+  {
+   "key": "36938",
+   "en": "V's Car",
+   "ro": "Mașina lui V"
+  },
+  {
+   "key": "36939",
+   "en": "Alicia",
+   "ro": "Alicia"
+  },
+  {
+   "key": "36940",
+   "en": "Alicia",
+   "ro": "Alicia"
+  },
+  {
+   "key": "36941",
+   "en": "V's Car",
+   "ro": "Mașina lui V"
+  },
+  {
+   "key": "36942",
+   "en": "Hood",
+   "ro": "Capotă"
+  },
+  {
+   "key": "36943",
+   "en": "Engine",
+   "ro": "Motor"
+  },
+  {
+   "key": "36944",
+   "en": "Hood",
+   "ro": "Capotă"
+  },
+  {
+   "key": "36945",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "36946",
+   "en": "GPS",
+   "ro": "GPS"
+  },
+  {
+   "key": "36947",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36948",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36949",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36950",
+   "en": "Van",
+   "ro": "Dubă"
+  },
+  {
+   "key": "36951",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "36952",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36953",
+   "en": "Aldecaldos Camp",
+   "ro": "Tabăra Aldecaldos"
+  },
+  {
+   "key": "36954",
+   "en": "Wraiths Camp",
+   "ro": "Tabăra Wraiths"
+  },
+  {
+   "key": "36955",
+   "en": "Lookout Spot",
+   "ro": "Punct de observație"
+  },
+  {
+   "key": "36956",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36957",
+   "en": "Parking Spot",
+   "ro": "Loc de parcare"
+  },
+  {
+   "key": "36958",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36959",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "36960",
+   "en": "Panam and Mitch",
+   "ro": "Panam și Mitch"
+  },
+  {
+   "key": "36961",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "36962",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "36963",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "36964",
+   "en": "Wraith Truck",
+   "ro": "Camionul Wraiths"
+  },
+  {
+   "key": "36965",
+   "en": "Main Building",
+   "ro": "Clădirea principală"
+  },
+  {
+   "key": "36966",
+   "en": "Passage",
+   "ro": "Pasaj"
+  },
+  {
+   "key": "36967",
+   "en": "Veterans",
+   "ro": "Veterani"
+  },
+  {
+   "key": "36968",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36969",
+   "en": "Lookout Spot",
+   "ro": "Punct de observație"
+  },
+  {
+   "key": "36970",
+   "en": "Take SuperJet.",
+   "ro": "Ia SuperJet."
+  },
+  {
+   "key": "36971",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "36972",
+   "en": "Wraiths Camp",
+   "ro": "Tabăra Wraiths"
+  },
+  {
+   "key": "36973",
+   "en": "Main Building",
+   "ro": "Clădirea principală"
+  },
+  {
+   "key": "36974",
+   "en": "Main Entrance",
+   "ro": "Intrarea principală"
+  },
+  {
+   "key": "36975",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "36976",
+   "en": "Van",
+   "ro": "Dubă"
+  },
+  {
+   "key": "36977",
+   "en": "Restricted Area",
+   "ro": "Zonă restricționată"
+  },
+  {
+   "key": "36978",
+   "en": "Security Room",
+   "ro": "Cameră de pază"
+  },
+  {
+   "key": "36979",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "36980",
+   "en": "Basement Entrance",
+   "ro": "Intrarea în subsol"
+  },
+  {
+   "key": "36981",
+   "en": "Prisoner Area",
+   "ro": "Zona prizonierilor"
+  },
+  {
+   "key": "36982",
+   "en": "Security Computer",
+   "ro": "Computer de pază"
+  },
+  {
+   "key": "36983",
+   "en": "Ventilation Grate",
+   "ro": "Grilă de ventilație"
+  },
+  {
+   "key": "36984",
+   "en": "Side Entrance",
+   "ro": "Intrare laterală"
+  },
+  {
+   "key": "36985",
+   "en": "Wraith Pursuit",
+   "ro": "Urmărire Wraiths"
+  },
+  {
+   "key": "36986",
+   "en": "Wraith Pursuit",
+   "ro": "Urmărire Wraiths"
+  },
+  {
+   "key": "36987",
+   "en": "Wraith Pursuit",
+   "ro": "Urmărire Wraiths"
+  },
+  {
+   "key": "36988",
+   "en": "Wraith Pursuit",
+   "ro": "Urmărire Wraiths"
+  },
+  {
+   "key": "36989",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36990",
+   "en": "Heater",
+   "ro": "Încălzitor"
+  },
+  {
+   "key": "36991",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "36992",
+   "en": "Shelter",
+   "ro": "Adăpost"
+  },
+  {
+   "key": "36993",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "36994",
+   "en": "Light Switch",
+   "ro": "Întrerupător"
+  },
+  {
+   "key": "36995",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "36996",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "36997",
+   "en": "Panam's Sniper",
+   "ro": "Sniperul Panamei"
+  },
+  {
+   "key": "36998",
+   "en": "Exterior Panel",
+   "ro": "Panoul exterior"
+  },
+  {
+   "key": "36999",
+   "en": "Talk to Johnny.",
+   "ro": "Vorbește cu Johnny."
+  },
+  {
+   "key": "37000",
+   "en": "Talk to Johnny.",
+   "ro": "Vorbește cu Johnny."
+  },
+  {
+   "key": "37001",
+   "en": "Apartment Building",
+   "ro": "Bloc de apartamente"
+  },
+  {
+   "key": "37002",
+   "en": "Intercom",
+   "ro": "Interfon"
+  },
+  {
+   "key": "37003",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37004",
+   "en": "Apartment",
+   "ro": "Apartament"
+  },
+  {
+   "key": "37005",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37006",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37007",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37008",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37009",
+   "en": "Jefferson",
+   "ro": "Jefferson"
+  },
+  {
+   "key": "37010",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37011",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "37012",
+   "en": "Jefferson",
+   "ro": "Jefferson"
+  },
+  {
+   "key": "37013",
+   "en": "City Park",
+   "ro": "Parcul orașului"
+  },
+  {
+   "key": "37014",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37015",
+   "en": "Bedroom",
+   "ro": "Dormitor"
+  },
+  {
+   "key": "37016",
+   "en": "Main Office",
+   "ro": "Birou principal"
+  },
+  {
+   "key": "37017",
+   "en": "Entertainment Room",
+   "ro": "Cameră de divertisment"
+  },
+  {
+   "key": "37018",
+   "en": "Security Office",
+   "ro": "Birou de securitate"
+  },
+  {
+   "key": "37019",
+   "en": "Kitchen",
+   "ro": "Bucătărie"
+  },
+  {
+   "key": "37020",
+   "en": "Break-In",
+   "ro": "Efracție"
+  },
+  {
+   "key": "37021",
+   "en": "Peralez's Apartment",
+   "ro": "Apartamentul Peralez"
+  },
+  {
+   "key": "37022",
+   "en": "Break-In",
+   "ro": "Efracție"
+  },
+  {
+   "key": "37023",
+   "en": "Locked Door",
+   "ro": "Ușă blocată"
+  },
+  {
+   "key": "37024",
+   "en": "Transmission Area",
+   "ro": "Zonă de transmisie"
+  },
+  {
+   "key": "37025",
+   "en": "Cable",
+   "ro": "Cablul"
+  },
+  {
+   "key": "37026",
+   "en": "Hidden Bloodstains",
+   "ro": "Urme de sânge ascunse"
+  },
+  {
+   "key": "37027",
+   "en": "Hidden Bloodstains",
+   "ro": "Urme de sânge ascunse"
+  },
+  {
+   "key": "37028",
+   "en": "Strange Equipment",
+   "ro": "Echipament ciudat"
+  },
+  {
+   "key": "37029",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "37030",
+   "en": "Security Office",
+   "ro": "Birou de securitate"
+  },
+  {
+   "key": "37031",
+   "en": "Unlocked Security Terminal",
+   "ro": "Terminal de securitate deblocat"
+  },
+  {
+   "key": "37032",
+   "en": "Main Terminal",
+   "ro": "Terminal principal"
+  },
+  {
+   "key": "37033",
+   "en": "Main Security Terminal",
+   "ro": "Terminal principal de securitate"
+  },
+  {
+   "key": "37034",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37035",
+   "en": "Signal Source",
+   "ro": "Sursa semnalului"
+  },
+  {
+   "key": "37036",
+   "en": "Surveillance Van",
+   "ro": "Dubă de supraveghere"
+  },
+  {
+   "key": "37037",
+   "en": "Exposed Access Point",
+   "ro": "Punct de acces expus"
+  },
+  {
+   "key": "37038",
+   "en": "Ambush Area",
+   "ro": "Zonă de ambuscadă"
+  },
+  {
+   "key": "37039",
+   "en": "Maelstrom Leader",
+   "ro": "Liderul Maelstrom"
+  },
+  {
+   "key": "37040",
+   "en": "Escape",
+   "ro": "Evadare"
+  },
+  {
+   "key": "37041",
+   "en": "Ramen Shop",
+   "ro": "Restaurant ramen"
+  },
+  {
+   "key": "37042",
+   "en": "Elizabeth",
+   "ro": "Elizabeth"
+  },
+  {
+   "key": "37043",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37044",
+   "en": "Barstool",
+   "ro": "Scaun de bar"
+  },
+  {
+   "key": "37045",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37046",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37047",
+   "en": "Red Dirt",
+   "ro": "Red Dirt"
+  },
+  {
+   "key": "37048",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37049",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37050",
+   "en": "Toilet",
+   "ro": "Toaletă"
+  },
+  {
+   "key": "37051",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37052",
+   "en": "Red Dirt",
+   "ro": "Red Dirt"
+  },
+  {
+   "key": "37053",
+   "en": "Totentanz",
+   "ro": "Totentanz"
+  },
+  {
+   "key": "37054",
+   "en": "Totentanz",
+   "ro": "Totentanz"
+  },
+  {
+   "key": "37055",
+   "en": "Totentanz",
+   "ro": "Totentanz"
+  },
+  {
+   "key": "37056",
+   "en": "Totentanz",
+   "ro": "Totentanz"
+  },
+  {
+   "key": "37057",
+   "en": "Dum Dum",
+   "ro": "Dum Dum"
+  },
+  {
+   "key": "37058",
+   "en": "Dum Dum",
+   "ro": "Dum Dum"
+  },
+  {
+   "key": "37059",
+   "en": "Royce",
+   "ro": "Royce"
+  },
+  {
+   "key": "37060",
+   "en": "Dum Dum",
+   "ro": "Dum Dum"
+  },
+  {
+   "key": "37061",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37062",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37063",
+   "en": "Ground Floor",
+   "ro": "Parter"
+  },
+  {
+   "key": "37064",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37065",
+   "en": "Network News 54",
+   "ro": "Network News 54"
+  },
+  {
+   "key": "37066",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37067",
+   "en": "Gangsters",
+   "ro": "Gangsteri"
+  },
+  {
+   "key": "37068",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "37069",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "37070",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "37071",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37072",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37073",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37074",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37075",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37076",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "37077",
+   "en": "Maelstrom",
+   "ro": "Maelstrom"
+  },
+  {
+   "key": "37078",
+   "en": "Maelstrom",
+   "ro": "Maelstrom"
+  },
+  {
+   "key": "37079",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37080",
+   "en": "Brick",
+   "ro": "Brick"
+  },
+  {
+   "key": "37081",
+   "en": "Toilet",
+   "ro": "Toaletă"
+  },
+  {
+   "key": "37082",
+   "en": "Window",
+   "ro": "Fereastră"
+  },
+  {
+   "key": "37083",
+   "en": "Balcony",
+   "ro": "Balcon"
+  },
+  {
+   "key": "37084",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37085",
+   "en": "Nancy's Car",
+   "ro": "Mașina lui Nancy"
+  },
+  {
+   "key": "37086",
+   "en": "Nancy",
+   "ro": "Nancy"
+  },
+  {
+   "key": "37087",
+   "en": "Nancy's Car",
+   "ro": "Mașina lui Nancy"
+  },
+  {
+   "key": "37088",
+   "en": "Denny's Mansion",
+   "ro": "Conacul lui Denny"
+  },
+  {
+   "key": "37089",
+   "en": "Denny's Mansion",
+   "ro": "Conacul lui Denny"
+  },
+  {
+   "key": "37090",
+   "en": "Denny",
+   "ro": "Denny"
+  },
+  {
+   "key": "37091",
+   "en": "Henry",
+   "ro": "Henry"
+  },
+  {
+   "key": "37092",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37093",
+   "en": "Denny's Intercom",
+   "ro": "Interfonul lui Denny"
+  },
+  {
+   "key": "37094",
+   "en": "Kerry's Mansion",
+   "ro": "Conacul lui Kerry"
+  },
+  {
+   "key": "37095",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37096",
+   "en": "Kerry's Mansion",
+   "ro": "Conacul lui Kerry"
+  },
+  {
+   "key": "37097",
+   "en": "Kerry's Guitar",
+   "ro": "Chitara lui Kerry"
+  },
+  {
+   "key": "37098",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37099",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37100",
+   "en": "North Oak",
+   "ro": "North Oak"
+  },
+  {
+   "key": "37101",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37102",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37103",
+   "en": "Sit Here",
+   "ro": "Așază-te aici"
+  },
+  {
+   "key": "37104",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37105",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37106",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37107",
+   "en": "Jefferson Peralez",
+   "ro": "Jefferson Peralez"
+  },
+  {
+   "key": "37108",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37109",
+   "en": "Chubby Buffalo's BBQ",
+   "ro": "Chubby Buffalo's BBQ"
+  },
+  {
+   "key": "37110",
+   "en": "Detective Ward",
+   "ro": "detectiv Ward"
+  },
+  {
+   "key": "37111",
+   "en": "River's Car",
+   "ro": "Mașina lui River"
+  },
+  {
+   "key": "37112",
+   "en": "Sex Shop",
+   "ro": "Sex shop"
+  },
+  {
+   "key": "37113",
+   "en": "Informant",
+   "ro": "Informator"
+  },
+  {
+   "key": "37114",
+   "en": "Informant",
+   "ro": "Informator"
+  },
+  {
+   "key": "37115",
+   "en": "Informant",
+   "ro": "Informator"
+  },
+  {
+   "key": "37116",
+   "en": "Informant Location",
+   "ro": "Locația informatorului"
+  },
+  {
+   "key": "37117",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37118",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37119",
+   "en": "River's Car",
+   "ro": "Mașina lui River"
+  },
+  {
+   "key": "37120",
+   "en": "Wait for River.",
+   "ro": "Așteaptă-l pe River."
+  },
+  {
+   "key": "37121",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37122",
+   "en": "Red Queen's Race",
+   "ro": "Red Queen's Race"
+  },
+  {
+   "key": "37123",
+   "en": "6th Street",
+   "ro": "6th Street"
+  },
+  {
+   "key": "37124",
+   "en": "Club Entrance",
+   "ro": "Intrarea în club"
+  },
+  {
+   "key": "37125",
+   "en": "Hidden Door",
+   "ro": "Ușă ascunsă"
+  },
+  {
+   "key": "37126",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37127",
+   "en": "Red Queen's Race",
+   "ro": "Red Queen's Race"
+  },
+  {
+   "key": "37128",
+   "en": "Office",
+   "ro": "Birou"
+  },
+  {
+   "key": "37129",
+   "en": "Animal Boss",
+   "ro": "Șeful Animal"
+  },
+  {
+   "key": "37130",
+   "en": "6th Street Boss",
+   "ro": "Șeful 6th Street"
+  },
+  {
+   "key": "37131",
+   "en": "Computer",
+   "ro": "Computer"
+  },
+  {
+   "key": "37132",
+   "en": "Warehouse",
+   "ro": "Depozit"
+  },
+  {
+   "key": "37133",
+   "en": "Entrance",
+   "ro": "Intrare"
+  },
+  {
+   "key": "37134",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37135",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37136",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37137",
+   "en": "Wait for River to get in the elevator.",
+   "ro": "Așteaptă ca River să intre în lift."
+  },
+  {
+   "key": "37138",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37139",
+   "en": "Listen in on the mayor's conversation.",
+   "ro": "Ascultă conversația primarului."
+  },
+  {
+   "key": "37140",
+   "en": "Security Monitor",
+   "ro": "Monitor de securitate"
+  },
+  {
+   "key": "37141",
+   "en": "Scan cyberpsycho.",
+   "ro": "Scanează cyberpsycho."
+  },
+  {
+   "key": "37142",
+   "en": "Jefferson Peralez",
+   "ro": "Jefferson Peralez"
+  },
+  {
+   "key": "37143",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37144",
+   "en": "Detective Han",
+   "ro": "Detectivul Han"
+  },
+  {
+   "key": "37145",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37146",
+   "en": "Chubby Buffalo's BBQ",
+   "ro": "Chubby Buffalo's BBQ"
+  },
+  {
+   "key": "37147",
+   "en": "The Peralezes' Apartment",
+   "ro": "Apartamentul familiei Peralez"
+  },
+  {
+   "key": "37148",
+   "en": "Intercom",
+   "ro": "Interfon"
+  },
+  {
+   "key": "37149",
+   "en": "Elevator Panel",
+   "ro": "Panou de lift"
+  },
+  {
+   "key": "37150",
+   "en": "Sit Here",
+   "ro": "Așază-te aici"
+  },
+  {
+   "key": "37151",
+   "en": "Elizabeth Peralez",
+   "ro": "Elizabeth Peralez"
+  },
+  {
+   "key": "37152",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37153",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "37154",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37155",
+   "en": "Japantown Market",
+   "ro": "Piața Japantown"
+  },
+  {
+   "key": "37156",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37157",
+   "en": "Tyger Claw",
+   "ro": "Tyger Claw"
+  },
+  {
+   "key": "37158",
+   "en": "Market",
+   "ro": "Piață"
+  },
+  {
+   "key": "37159",
+   "en": "River's Car",
+   "ro": "Mașina lui River"
+  },
+  {
+   "key": "37160",
+   "en": "River's Car",
+   "ro": "Mașina lui River"
+  },
+  {
+   "key": "37161",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37162",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37163",
+   "en": "Wait for River.",
+   "ro": "Așteaptă-l pe River."
+  },
+  {
+   "key": "37164",
+   "en": "Sit Here",
+   "ro": "Așază-te aici"
+  },
+  {
+   "key": "37165",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37166",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37167",
+   "en": "Get Ticket",
+   "ro": "Ia bilet"
+  },
+  {
+   "key": "37168",
+   "en": "Hack the guard.",
+   "ro": "Hack-uiește gardianul."
+  },
+  {
+   "key": "37169",
+   "en": "Grab the ladder.",
+   "ro": "Apucă scara."
+  },
+  {
+   "key": "37170",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "37171",
+   "en": "Stage Entrance",
+   "ro": "Intrarea pe scenă"
+  },
+  {
+   "key": "37173",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "37174",
+   "en": "Backstage",
+   "ro": "Culise"
+  },
+  {
+   "key": "37175",
+   "en": "Punch the guard.",
+   "ro": "Lovește gardianul."
+  },
+  {
+   "key": "37176",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "37177",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "37178",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "37179",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "37180",
+   "en": "Dressing Room",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "37181",
+   "en": "Dressing Room",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "37182",
+   "en": "Dressing Room",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "37183",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37184",
+   "en": "Riot",
+   "ro": "Riot"
+  },
+  {
+   "key": "37185",
+   "en": "Tech Room",
+   "ro": "Camera tehnică"
+  },
+  {
+   "key": "37186",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37187",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "37188",
+   "en": "Stool",
+   "ro": "Taburet"
+  },
+  {
+   "key": "37189",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37190",
+   "en": "Ladder",
+   "ro": "Scară"
+  },
+  {
+   "key": "37191",
+   "en": "Destination",
+   "ro": "Destinație"
+  },
+  {
+   "key": "37192",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "37193",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37194",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37195",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37196",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37197",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37198",
+   "en": "Coffee Cart",
+   "ro": "Cărucior de cafea"
+  },
+  {
+   "key": "37199",
+   "en": "Kerry's Car",
+   "ro": "Mașina lui Kerry"
+  },
+  {
+   "key": "37200",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37201",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37202",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37204",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37205",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37206",
+   "en": "Stinger Spot",
+   "ro": "Loc pentru țepi"
+  },
+  {
+   "key": "37207",
+   "en": "Keys",
+   "ro": "Chei"
+  },
+  {
+   "key": "37208",
+   "en": "Trunk",
+   "ro": "Portbagaj"
+  },
+  {
+   "key": "37209",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "37212",
+   "en": "Escape!",
+   "ro": "Scapă!"
+  },
+  {
+   "key": "37213",
+   "en": "Police",
+   "ro": "Poliție"
+  },
+  {
+   "key": "37214",
+   "en": "Police",
+   "ro": "Poliție"
+  },
+  {
+   "key": "37215",
+   "en": "Police",
+   "ro": "Poliție"
+  },
+  {
+   "key": "37216",
+   "en": "Destination",
+   "ro": "Destinație"
+  },
+  {
+   "key": "37217",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37218",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37219",
+   "en": "Gear",
+   "ro": "Echipament"
+  },
+  {
+   "key": "37220",
+   "en": "Kerry's Car",
+   "ro": "Mașina lui Kerry"
+  },
+  {
+   "key": "37221",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37222",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37223",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37224",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "37225",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37226",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37227",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37228",
+   "en": "Package",
+   "ro": "Pachet"
+  },
+  {
+   "key": "37229",
+   "en": "El Coyote Cojo",
+   "ro": "El Coyote Cojo"
+  },
+  {
+   "key": "37230",
+   "en": "Mama Welles",
+   "ro": "Mama Welles"
+  },
+  {
+   "key": "37231",
+   "en": "Jackie's Key",
+   "ro": "Cheia lui Jackie"
+  },
+  {
+   "key": "37232",
+   "en": "Stool",
+   "ro": "Taburet"
+  },
+  {
+   "key": "37233",
+   "en": "Jackie's Garage",
+   "ro": "Garajul lui Jackie"
+  },
+  {
+   "key": "37234",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "37235",
+   "en": "Jackie's Garage",
+   "ro": "Garajul lui Jackie"
+  },
+  {
+   "key": "37236",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "37237",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "37238",
+   "en": "El Coyote Cojo",
+   "ro": "El Coyote Cojo"
+  },
+  {
+   "key": "37239",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "37240",
+   "en": "Mama Welles",
+   "ro": "Mama Welles"
+  },
+  {
+   "key": "37241",
+   "en": "Ofrenda",
+   "ro": "Ofrenda"
+  },
+  {
+   "key": "37242",
+   "en": "Padre",
+   "ro": "Padre"
+  },
+  {
+   "key": "37243",
+   "en": "Pepe",
+   "ro": "Pepe"
+  },
+  {
+   "key": "37244",
+   "en": "Misty",
+   "ro": "Misty"
+  },
+  {
+   "key": "37245",
+   "en": "Viktor",
+   "ro": "Viktor"
+  },
+  {
+   "key": "37246",
+   "en": "El Coyoto Exit",
+   "ro": "Ieșire El Coyote Cojo"
+  },
+  {
+   "key": "37247",
+   "en": "Join Ceremony",
+   "ro": "Participă la ceremonie"
+  },
+  {
+   "key": "37248",
+   "en": "Glass",
+   "ro": "Pahar"
+  },
+  {
+   "key": "37249",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "37250",
+   "en": "Lab",
+   "ro": "Laborator"
+  },
+  {
+   "key": "37251",
+   "en": "Lab",
+   "ro": "Laborator"
+  },
+  {
+   "key": "37252",
+   "en": "River's Car",
+   "ro": "Mașina lui River"
+  },
+  {
+   "key": "37253",
+   "en": "Yawen",
+   "ro": "Yawen"
+  },
+  {
+   "key": "37254",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37255",
+   "en": "Room",
+   "ro": "Cameră"
+  },
+  {
+   "key": "37256",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37257",
+   "en": "Meeting Place",
+   "ro": "Loc de întâlnire"
+  },
+  {
+   "key": "37258",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37259",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37260",
+   "en": "Lab",
+   "ro": "Laborator"
+  },
+  {
+   "key": "37261",
+   "en": "Lab",
+   "ro": "Laborator"
+  },
+  {
+   "key": "37262",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37263",
+   "en": "Cabinets",
+   "ro": "Dulapuri"
+  },
+  {
+   "key": "37264",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37265",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37266",
+   "en": "Waiting Spot",
+   "ro": "Loc de așteptare"
+  },
+  {
+   "key": "37267",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37268",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "37269",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "37270",
+   "en": "Randy's Trailer",
+   "ro": "Rulota lui Randy"
+  },
+  {
+   "key": "37271",
+   "en": "Locked Cabinet",
+   "ro": "Dulap blocat"
+  },
+  {
+   "key": "37272",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37273",
+   "en": "Joss",
+   "ro": "Joss"
+  },
+  {
+   "key": "37274",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37275",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "37276",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37277",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "37278",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37279",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37280",
+   "en": "Randy's Computer",
+   "ro": "Computerul lui Randy"
+  },
+  {
+   "key": "37281",
+   "en": "Peter Pan",
+   "ro": "Peter Pan"
+  },
+  {
+   "key": "37282",
+   "en": "Young Anthony",
+   "ro": "Tânărul Anthony"
+  },
+  {
+   "key": "37283",
+   "en": "Young Anthony",
+   "ro": "Tânărul Anthony"
+  },
+  {
+   "key": "37284",
+   "en": "Barn",
+   "ro": "Hambar"
+  },
+  {
+   "key": "37285",
+   "en": "Roof Access Ladder",
+   "ro": "Scară de acces pe acoperiș"
+  },
+  {
+   "key": "37286",
+   "en": "Roof Access Ladder",
+   "ro": "Scară de acces pe acoperiș"
+  },
+  {
+   "key": "37287",
+   "en": "Computer",
+   "ro": "Computer"
+  },
+  {
+   "key": "37288",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "37289",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "37290",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "37291",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37292",
+   "en": "Security System",
+   "ro": "Sistem de securitate"
+  },
+  {
+   "key": "37293",
+   "en": "Restraint",
+   "ro": "Legătură"
+  },
+  {
+   "key": "37294",
+   "en": "Barn",
+   "ro": "Hambar"
+  },
+  {
+   "key": "37295",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37296",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37297",
+   "en": "Computer",
+   "ro": "Computer"
+  },
+  {
+   "key": "37298",
+   "en": "Restraint",
+   "ro": "Legătură"
+  },
+  {
+   "key": "37299",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37300",
+   "en": "Wraiths",
+   "ro": "Wraiths"
+  },
+  {
+   "key": "37301",
+   "en": "Barn",
+   "ro": "Hambar"
+  },
+  {
+   "key": "37302",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37303",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37304",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37305",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37335",
+   "en": "NCPD Patrol Car",
+   "ro": "Mașina de patrulare NCPD"
+  },
+  {
+   "key": "37336",
+   "en": "Gloria El-Ahmar's House",
+   "ro": "Casa Gloriei El-Ahmar"
+  },
+  {
+   "key": "37337",
+   "en": "Zuleikha El-Ahmar",
+   "ro": "Zuleikha El-Ahmar"
+  },
+  {
+   "key": "37338",
+   "en": "NCPD Patrol Car",
+   "ro": "Mașina de patrulare NCPD"
+  },
+  {
+   "key": "37339",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37340",
+   "en": "Zuleikha El-Ahmar",
+   "ro": "Zuleikha El-Ahmar"
+  },
+  {
+   "key": "37341",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37342",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37343",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37344",
+   "en": "Rachel Casich",
+   "ro": "Rachel Casich"
+  },
+  {
+   "key": "37345",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37346",
+   "en": "Bill Jablonsky",
+   "ro": "Bill Jablonsky"
+  },
+  {
+   "key": "37347",
+   "en": "Jablonsky's Truck",
+   "ro": "Camionul lui Jablonsky"
+  },
+  {
+   "key": "37348",
+   "en": "NCPD Patrol Car",
+   "ro": "Mașina de patrulare NCPD"
+  },
+  {
+   "key": "37349",
+   "en": "Bill Jablonsky",
+   "ro": "Bill Jablonsky"
+  },
+  {
+   "key": "37350",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37351",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37352",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37353",
+   "en": "Jablonsky's Truck",
+   "ro": "Camionul lui Jablonsky"
+  },
+  {
+   "key": "37354",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "37355",
+   "en": "Vasquez",
+   "ro": "Vasquez"
+  },
+  {
+   "key": "37356",
+   "en": "Braindance Studio",
+   "ro": "Studioul de braindance"
+  },
+  {
+   "key": "37357",
+   "en": "Rachel Casich",
+   "ro": "Rachel Casich"
+  },
+  {
+   "key": "37358",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37359",
+   "en": "Braindance Studio",
+   "ro": "Studioul de braindance"
+  },
+  {
+   "key": "37360",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37361",
+   "en": "Set",
+   "ro": "Platou"
+  },
+  {
+   "key": "37362",
+   "en": "Right Hand",
+   "ro": "Mâna dreaptă"
+  },
+  {
+   "key": "37363",
+   "en": "Left Hand",
+   "ro": "Mâna stângă"
+  },
+  {
+   "key": "37364",
+   "en": "Feet",
+   "ro": "Picioare"
+  },
+  {
+   "key": "37365",
+   "en": "Cross",
+   "ro": "Cross"
+  },
+  {
+   "key": "37366",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "37367",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "37368",
+   "en": "Hammer and Nail",
+   "ro": "Ciocan și cui"
+  },
+  {
+   "key": "37369",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37370",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37371",
+   "en": "Race Route",
+   "ro": "Traseul cursei"
+  },
+  {
+   "key": "37372",
+   "en": "Badlands Race",
+   "ro": "Cursa din Badlands"
+  },
+  {
+   "key": "37373",
+   "en": "Finish",
+   "ro": "Sosire"
+  },
+  {
+   "key": "37374",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37375",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37376",
+   "en": "Claire's Garage",
+   "ro": "Garajul lui Claire"
+  },
+  {
+   "key": "37377",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37378",
+   "en": "Waiting Spot",
+   "ro": "Loc de așteptare"
+  },
+  {
+   "key": "37379",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37380",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37381",
+   "en": "Race Route",
+   "ro": "Traseul cursei"
+  },
+  {
+   "key": "37382",
+   "en": "City Center Race",
+   "ro": "Cursa din City Center"
+  },
+  {
+   "key": "37383",
+   "en": "Race Start",
+   "ro": "Startul cursei"
+  },
+  {
+   "key": "37384",
+   "en": "Finish",
+   "ro": "Sosire"
+  },
+  {
+   "key": "37385",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37386",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37387",
+   "en": "Claire's Garage",
+   "ro": "Garajul lui Claire"
+  },
+  {
+   "key": "37388",
+   "en": "Shard",
+   "ro": "Shard"
+  },
+  {
+   "key": "37389",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37390",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37391",
+   "en": "Waiting Spot",
+   "ro": "Loc de așteptare"
+  },
+  {
+   "key": "37393",
+   "en": "Sampson",
+   "ro": "Sampson"
+  },
+  {
+   "key": "37394",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37395",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37396",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37397",
+   "en": "Santo Domingo Race",
+   "ro": "Cursa din Santo Domingo"
+  },
+  {
+   "key": "37398",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37399",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37400",
+   "en": "Race Route",
+   "ro": "Traseul cursei"
+  },
+  {
+   "key": "37401",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37402",
+   "en": "Parking Spot",
+   "ro": "Loc de parcare"
+  },
+  {
+   "key": "37403",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37404",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37405",
+   "en": "Claire's Garage",
+   "ro": "Garajul lui Claire"
+  },
+  {
+   "key": "37406",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37407",
+   "en": "Viewpoint",
+   "ro": "Punct de belvedere"
+  },
+  {
+   "key": "37408",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37409",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37410",
+   "en": "Meeting Place",
+   "ro": "Loc de întâlnire"
+  },
+  {
+   "key": "37411",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37412",
+   "en": "Finish",
+   "ro": "Sosire"
+  },
+  {
+   "key": "37413",
+   "en": "Sampson",
+   "ro": "Sampson"
+  },
+  {
+   "key": "37414",
+   "en": "The Big Race",
+   "ro": "Marea cursă"
+  },
+  {
+   "key": "37415",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37416",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37417",
+   "en": "Sampson",
+   "ro": "Sampson"
+  },
+  {
+   "key": "37418",
+   "en": "Race",
+   "ro": "Cursă"
+  },
+  {
+   "key": "37419",
+   "en": "Sampson",
+   "ro": "Sampson"
+  },
+  {
+   "key": "37420",
+   "en": "Stop",
+   "ro": "Oprește"
+  },
+  {
+   "key": "37421",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37422",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37423",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37424",
+   "en": "Meeting Place",
+   "ro": "Loc de întâlnire"
+  },
+  {
+   "key": "37425",
+   "en": "Main Entrance",
+   "ro": "Intrarea principală"
+  },
+  {
+   "key": "37426",
+   "en": "Backroom",
+   "ro": "Cameră din spate"
+  },
+  {
+   "key": "37427",
+   "en": "Corridor",
+   "ro": "Coridor"
+  },
+  {
+   "key": "37428",
+   "en": "Workshop",
+   "ro": "Atelier"
+  },
+  {
+   "key": "37429",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37430",
+   "en": "Delamain's Core",
+   "ro": "Nucleul lui Delamain"
+  },
+  {
+   "key": "37431",
+   "en": "Delamain's Core",
+   "ro": "Nucleul lui Delamain"
+  },
+  {
+   "key": "37432",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37433",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37434",
+   "en": "Window",
+   "ro": "Fereastră"
+  },
+  {
+   "key": "37435",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37436",
+   "en": "Primary Computer",
+   "ro": "Computerul principal"
+  },
+  {
+   "key": "37437",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37438",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37439",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37440",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37441",
+   "en": "Delamain's Core",
+   "ro": "Nucleul lui Delamain"
+  },
+  {
+   "key": "37442",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37443",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37444",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37445",
+   "en": "Stairs",
+   "ro": "Scări"
+  },
+  {
+   "key": "37446",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37447",
+   "en": "Left Side",
+   "ro": "Partea stângă"
+  },
+  {
+   "key": "37448",
+   "en": "Catwalk",
+   "ro": "Pasarelă"
+  },
+  {
+   "key": "37449",
+   "en": "Hangar",
+   "ro": "Hangar"
+  },
+  {
+   "key": "37450",
+   "en": "Shaft",
+   "ro": "Puț"
+  },
+  {
+   "key": "37451",
+   "en": "Traffic Jam",
+   "ro": "Ambuteiaj"
+  },
+  {
+   "key": "37452",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37453",
+   "en": "Epistrophy: Wellsprings",
+   "ro": "Epistrophy: Wellsprings"
+  },
+  {
+   "key": "37454",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37455",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37456",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37457",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37458",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37459",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37460",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37461",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37462",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37463",
+   "en": "Delamain's Garage",
+   "ro": "Garajul Delamain"
+  },
+  {
+   "key": "37464",
+   "en": "Delamain's Core",
+   "ro": "Nucleul lui Delamain"
+  },
+  {
+   "key": "37465",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37466",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37467",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37468",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37469",
+   "en": "Delamain's Core",
+   "ro": "Nucleul lui Delamain"
+  },
+  {
+   "key": "37470",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37471",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37472",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37473",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37474",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37475",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37476",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37477",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37478",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37479",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37480",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37481",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37482",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37483",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37484",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37485",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37486",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37487",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37488",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37489",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37490",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37491",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37492",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37493",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37494",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37495",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37496",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37497",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37498",
+   "en": "Flamingo",
+   "ro": "Flamingo"
+  },
+  {
+   "key": "37499",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37500",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37501",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37502",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37503",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37504",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37505",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37506",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37507",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37508",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37509",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37510",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37511",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "37512",
+   "en": "Human Nature",
+   "ro": "Natura umană"
+  },
+  {
+   "key": "37513",
+   "en": "Your car",
+   "ro": "Mașina ta"
+  },
+  {
+   "key": "37514",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37515",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37516",
+   "en": "Delamain HQ",
+   "ro": "Sediul Delamain"
+  },
+  {
+   "key": "37517",
+   "en": "Main Entrance",
+   "ro": "Intrarea principală"
+  },
+  {
+   "key": "37518",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "37519",
+   "en": "Delamain's Drone",
+   "ro": "Drona lui Delamain"
+  },
+  {
+   "key": "37520",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37521",
+   "en": "Delamain HQ",
+   "ro": "Sediul Delamain"
+  },
+  {
+   "key": "37522",
+   "en": "Delamain",
+   "ro": "Delamain"
+  },
+  {
+   "key": "37523",
+   "en": "Comms Interface",
+   "ro": "Interfață de comunicații"
+  },
+  {
+   "key": "37524",
+   "en": "Delamain",
+   "ro": "Delamain"
+  },
+  {
+   "key": "37525",
+   "en": "V's Car",
+   "ro": "Mașina lui V"
+  },
+  {
+   "key": "37526",
+   "en": "Delamain HQ",
+   "ro": "Sediul Delamain"
+  },
+  {
+   "key": "37527",
+   "en": "Case",
+   "ro": "Valiză"
+  },
+  {
+   "key": "37528",
+   "en": "Delamain",
+   "ro": "Delamain"
+  },
+  {
+   "key": "37529",
+   "en": "Judy's Apartment",
+   "ro": "Apartamentul lui Judy"
+  },
+  {
+   "key": "37530",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37531",
+   "en": "Bedroom",
+   "ro": "Dormitor"
+  },
+  {
+   "key": "37532",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "37533",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37534",
+   "en": "Bedroom",
+   "ro": "Dormitor"
+  },
+  {
+   "key": "37535",
+   "en": "Living Room",
+   "ro": "Sufragerie"
+  },
+  {
+   "key": "37536",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "37537",
+   "en": "Blanket",
+   "ro": "Pătură"
+  },
+  {
+   "key": "37538",
+   "en": "Street",
+   "ro": "Stradă"
+  },
+  {
+   "key": "37539",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "37540",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37541",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "37542",
+   "en": "Office",
+   "ro": "Birou"
+  },
+  {
+   "key": "37543",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37544",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37545",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37546",
+   "en": "Maiko",
+   "ro": "Maiko"
+  },
+  {
+   "key": "37547",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37548",
+   "en": "Megabuilding H8",
+   "ro": "Megablocul H8"
+  },
+  {
+   "key": "37549",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37550",
+   "en": "Clouds Level",
+   "ro": "Nivelul Clouds"
+  },
+  {
+   "key": "37551",
+   "en": "Upper Floor",
+   "ro": "Etajul superior"
+  },
+  {
+   "key": "37552",
+   "en": "Scaffolding",
+   "ro": "Schele"
+  },
+  {
+   "key": "37553",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37554",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37555",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37556",
+   "en": "Meeting Spot",
+   "ro": "Loc de întâlnire"
+  },
+  {
+   "key": "37557",
+   "en": "Wait until early morning.",
+   "ro": "Așteaptă până dimineața devreme."
+  },
+  {
+   "key": "37558",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37559",
+   "en": "!OUTDATED",
+   "ro": "!ÎNVECHIT"
+  },
+  {
+   "key": "37560",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37561",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37562",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37563",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37564",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "37565",
+   "en": "Elevator Doors",
+   "ro": "Ușile liftului"
+  },
+  {
+   "key": "37566",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37567",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37568",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "37569",
+   "en": "Judy's Apartment",
+   "ro": "Apartamentul lui Judy"
+  },
+  {
+   "key": "37570",
+   "en": "Intercom",
+   "ro": "Interfon"
+  },
+  {
+   "key": "37571",
+   "en": "Kitchen",
+   "ro": "Bucătărie"
+  },
+  {
+   "key": "37572",
+   "en": "Street",
+   "ro": "Stradă"
+  },
+  {
+   "key": "37573",
+   "en": "Judy's Apartment",
+   "ro": "Apartamentul lui Judy"
+  },
+  {
+   "key": "37574",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37575",
+   "en": "Bar Stool",
+   "ro": "Scaun de bar"
+  },
+  {
+   "key": "37576",
+   "en": "Bar Stool",
+   "ro": "Scaun de bar"
+  },
+  {
+   "key": "37577",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "37578",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "37579",
+   "en": "Coffee",
+   "ro": "Cafea"
+  },
+  {
+   "key": "37580",
+   "en": "Sandwich",
+   "ro": "Sandviș"
+  },
+  {
+   "key": "37581",
+   "en": "Railing",
+   "ro": "Balustradă"
+  },
+  {
+   "key": "37582",
+   "en": "Megabuilding H8",
+   "ro": "Megablocul H8"
+  },
+  {
+   "key": "37583",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37584",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37585",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37586",
+   "en": "Group",
+   "ro": "Grup"
+  },
+  {
+   "key": "37587",
+   "en": "Maintenance Level",
+   "ro": "Nivelul de mentenanță"
+  },
+  {
+   "key": "37588",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37589",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37590",
+   "en": "Railing",
+   "ro": "Balustradă"
+  },
+  {
+   "key": "37591",
+   "en": "Terrace",
+   "ro": "Terasă"
+  },
+  {
+   "key": "37592",
+   "en": "Officer Door",
+   "ro": "Ușa biroului"
+  },
+  {
+   "key": "37593",
+   "en": "Hiromi",
+   "ro": "Hiromi"
+  },
+  {
+   "key": "37594",
+   "en": "Hiromi's Apartment",
+   "ro": "Apartamentul lui Hiromi"
+  },
+  {
+   "key": "37595",
+   "en": "Apartment Door",
+   "ro": "Ușa apartamentului"
+  },
+  {
+   "key": "37596",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "37597",
+   "en": "Office",
+   "ro": "Birou"
+  },
+  {
+   "key": "37598",
+   "en": "Maiko",
+   "ro": "Maiko"
+  },
+  {
+   "key": "37599",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37600",
+   "en": "Maiko",
+   "ro": "Maiko"
+  },
+  {
+   "key": "37601",
+   "en": "Penthouse",
+   "ro": "Penthouse"
+  },
+  {
+   "key": "37602",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37603",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37604",
+   "en": "Aldecaldo Camp",
+   "ro": "Tabăra Aldecaldo"
+  },
+  {
+   "key": "37605",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37606",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37607",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37608",
+   "en": "Departure Point",
+   "ro": "Punct de plecare"
+  },
+  {
+   "key": "37609",
+   "en": "Departure Point",
+   "ro": "Punct de plecare"
+  },
+  {
+   "key": "37610",
+   "en": "Train Station",
+   "ro": "Gara"
+  },
+  {
+   "key": "37611",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37612",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37613",
+   "en": "Control Tower",
+   "ro": "Turnul de control"
+  },
+  {
+   "key": "37614",
+   "en": "Control Panel",
+   "ro": "Panou de control"
+  },
+  {
+   "key": "37615",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37616",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37617",
+   "en": "Nomads",
+   "ro": "Nomazii"
+  },
+  {
+   "key": "37618",
+   "en": "Bob",
+   "ro": "Bob"
+  },
+  {
+   "key": "37619",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "37620",
+   "en": "Generator",
+   "ro": "Generator"
+  },
+  {
+   "key": "37621",
+   "en": "Carol",
+   "ro": "Carol"
+  },
+  {
+   "key": "37622",
+   "en": "Teddy",
+   "ro": "Teddy"
+  },
+  {
+   "key": "37623",
+   "en": "Cassidy",
+   "ro": "Cassidy"
+  },
+  {
+   "key": "37624",
+   "en": "Control Tower Area",
+   "ro": "Zona turnului de control"
+  },
+  {
+   "key": "37625",
+   "en": "Approach",
+   "ro": "Apropiere"
+  },
+  {
+   "key": "37626",
+   "en": "Approach",
+   "ro": "Apropiere"
+  },
+  {
+   "key": "37627",
+   "en": "Approach",
+   "ro": "Apropiere"
+  },
+  {
+   "key": "37628",
+   "en": "Approach",
+   "ro": "Apropiere"
+  },
+  {
+   "key": "37629",
+   "en": "Search the area.",
+   "ro": "Caută prin zonă."
+  },
+  {
+   "key": "37630",
+   "en": "Stars",
+   "ro": "Stelele"
+  },
+  {
+   "key": "37631",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37632",
+   "en": "Train",
+   "ro": "Trenul"
+  },
+  {
+   "key": "37633",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37634",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37635",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37636",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37637",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37638",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37639",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37640",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37641",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37642",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "37643",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "37644",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "37645",
+   "en": "Nomad Camp",
+   "ro": "Tabăra nomazilor"
+  },
+  {
+   "key": "37646",
+   "en": "Position",
+   "ro": "Poziție"
+  },
+  {
+   "key": "37647",
+   "en": "Train Car Coupler",
+   "ro": "Cupla vagonului"
+  },
+  {
+   "key": "37648",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "37649",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37650",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37651",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "37652",
+   "en": "Call Panam back.",
+   "ro": "Sun-o înapoi pe Panam."
+  },
+  {
+   "key": "37653",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37654",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37655",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37656",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37657",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37658",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37659",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37660",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37661",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37662",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37663",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "37664",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37665",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37666",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37667",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37668",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37669",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37670",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "37671",
+   "en": "Destination",
+   "ro": "Destinație"
+  },
+  {
+   "key": "37672",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37673",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37674",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37675",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37676",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "37677",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37678",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "37679",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37680",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37681",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37682",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37683",
+   "en": "Seamurai",
+   "ro": "Seamurai"
+  },
+  {
+   "key": "37684",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37685",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37686",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37687",
+   "en": "Bottles",
+   "ro": "Sticle"
+  },
+  {
+   "key": "37688",
+   "en": "Bottles",
+   "ro": "Sticle"
+  },
+  {
+   "key": "37689",
+   "en": "Yacht",
+   "ro": "Iahtul"
+  },
+  {
+   "key": "37690",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37691",
+   "en": "Beach",
+   "ro": "Plaja"
+  },
+  {
+   "key": "37692",
+   "en": "Beach",
+   "ro": "Plaja"
+  },
+  {
+   "key": "37693",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37694",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37695",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37696",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "37697",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37698",
+   "en": "Joss",
+   "ro": "Joss"
+  },
+  {
+   "key": "37699",
+   "en": "Joss",
+   "ro": "Joss"
+  },
+  {
+   "key": "37700",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37701",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37702",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37703",
+   "en": "Wait here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37704",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37705",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37706",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37707",
+   "en": "Locked Gate",
+   "ro": "Poartă blocată"
+  },
+  {
+   "key": "37708",
+   "en": "Fenced Area",
+   "ro": "Zonă împrejmuită"
+  },
+  {
+   "key": "37709",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37710",
+   "en": "Tower",
+   "ro": "Turn"
+  },
+  {
+   "key": "37711",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37712",
+   "en": "Table",
+   "ro": "Masa"
+  },
+  {
+   "key": "37713",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37714",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37715",
+   "en": "Cooking Pot",
+   "ro": "Oală de gătit"
+  },
+  {
+   "key": "37716",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37717",
+   "en": "Cooking Pot",
+   "ro": "Oală de gătit"
+  },
+  {
+   "key": "37718",
+   "en": "Joss",
+   "ro": "Joss"
+  },
+  {
+   "key": "37719",
+   "en": "Kitchen",
+   "ro": "Bucătărie"
+  },
+  {
+   "key": "37720",
+   "en": "Rice",
+   "ro": "Orez"
+  },
+  {
+   "key": "37721",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37722",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37723",
+   "en": "Kids",
+   "ro": "Copiii"
+  },
+  {
+   "key": "37724",
+   "en": "AR Game Equipment",
+   "ro": "Echipament de joc AR"
+  },
+  {
+   "key": "37725",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37726",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37727",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37728",
+   "en": "El Chamuco Endiablado",
+   "ro": "El Chamuco Endiablado"
+  },
+  {
+   "key": "37729",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37730",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37731",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37732",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37733",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37734",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37735",
+   "en": "El Chamuco Endiablado",
+   "ro": "El Chamuco Endiablado"
+  },
+  {
+   "key": "37736",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37737",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37738",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37739",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37740",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37741",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37742",
+   "en": "AR Game Target",
+   "ro": "Țintă de joc AR"
+  },
+  {
+   "key": "37743",
+   "en": "El Chamuco Endiablado",
+   "ro": "El Chamuco Endiablado"
+  },
+  {
+   "key": "37744",
+   "en": "Crazed Renegade",
+   "ro": "Renegat nebun"
+  },
+  {
+   "key": "37745",
+   "en": "Checkpoint",
+   "ro": "Punct de control"
+  },
+  {
+   "key": "37746",
+   "en": "Checkpoint",
+   "ro": "Punct de control"
+  },
+  {
+   "key": "37747",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37748",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37749",
+   "en": "Combat Area",
+   "ro": "Zonă de luptă"
+  },
+  {
+   "key": "37750",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37751",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37752",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37753",
+   "en": "El Chamuco Endiablado",
+   "ro": "El Chamuco Endiablado"
+  },
+  {
+   "key": "37754",
+   "en": "Showdown Spot",
+   "ro": "Locul confruntării"
+  },
+  {
+   "key": "37755",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37756",
+   "en": "Lieutenant Henry Callahan",
+   "ro": "Locotenent Henry Callahan"
+  },
+  {
+   "key": "37757",
+   "en": "Captain Joan McClane",
+   "ro": "Căpitan Joan McClane"
+  },
+  {
+   "key": "37758",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "37759",
+   "en": "Adults' Score:",
+   "ro": "Scorul adulților:"
+  },
+  {
+   "key": "37760",
+   "en": "Kids' Score:",
+   "ro": "Scorul copiilor:"
+  },
+  {
+   "key": "37761",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37762",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37763",
+   "en": "Dam",
+   "ro": "Baraj"
+  },
+  {
+   "key": "37764",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37765",
+   "en": "Diving Gear",
+   "ro": "Echipament de scufundare"
+  },
+  {
+   "key": "37766",
+   "en": "Wetsuit",
+   "ro": "Costum de scufundare"
+  },
+  {
+   "key": "37767",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "37768",
+   "en": "Shard",
+   "ro": "Shard"
+  },
+  {
+   "key": "37769",
+   "en": "Water",
+   "ro": "Apă"
+  },
+  {
+   "key": "37770",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37771",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37772",
+   "en": "Railing",
+   "ro": "Balustradă"
+  },
+  {
+   "key": "37773",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37774",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37775",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37776",
+   "en": "Calibrate",
+   "ro": "Calibrează"
+  },
+  {
+   "key": "37777",
+   "en": "Correct Position",
+   "ro": "Poziția corectă"
+  },
+  {
+   "key": "37778",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37779",
+   "en": "Swim Around.",
+   "ro": "Înoată în jur."
+  },
+  {
+   "key": "37780",
+   "en": "Swim Around.",
+   "ro": "Înoată în jur."
+  },
+  {
+   "key": "37781",
+   "en": "Correct Position",
+   "ro": "Poziția corectă"
+  },
+  {
+   "key": "37782",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37783",
+   "en": "Diner and Judy's House",
+   "ro": "Restaurantul și casa lui Judy"
+  },
+  {
+   "key": "37784",
+   "en": "Gas Station",
+   "ro": "Benzinărie"
+  },
+  {
+   "key": "37785",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37786",
+   "en": "Gas Station",
+   "ro": "Benzinărie"
+  },
+  {
+   "key": "37787",
+   "en": "Diner and Judy's House",
+   "ro": "Restaurantul și casa lui Judy"
+  },
+  {
+   "key": "37788",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "37789",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37790",
+   "en": "V's Clothes",
+   "ro": "Hainele lui V"
+  },
+  {
+   "key": "37791",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37792",
+   "en": "V's Clothes",
+   "ro": "Hainele lui V"
+  },
+  {
+   "key": "37793",
+   "en": "Pier",
+   "ro": "Ponton"
+  },
+  {
+   "key": "37794",
+   "en": "Railing",
+   "ro": "Balustradă"
+  },
+  {
+   "key": "37795",
+   "en": "Ladder",
+   "ro": "Scară"
+  },
+  {
+   "key": "37796",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37797",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37798",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37799",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "37800",
+   "en": "Generator",
+   "ro": "Generator"
+  },
+  {
+   "key": "37801",
+   "en": "Cottage",
+   "ro": "Căsuță"
+  },
+  {
+   "key": "37802",
+   "en": "Movie Theater",
+   "ro": "Cinematograf"
+  },
+  {
+   "key": "37803",
+   "en": "Movie Theater",
+   "ro": "Cinematograf"
+  },
+  {
+   "key": "37804",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37805",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37806",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37807",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37808",
+   "en": "Movie Theater",
+   "ro": "Cinematograf"
+  },
+  {
+   "key": "37809",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37810",
+   "en": "Movie Theater Area",
+   "ro": "Zona cinematografului"
+  },
+  {
+   "key": "37811",
+   "en": "Storage",
+   "ro": "Depozit"
+  },
+  {
+   "key": "37812",
+   "en": "Projector",
+   "ro": "Proiector"
+  },
+  {
+   "key": "37813",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37814",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37815",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37816",
+   "en": "Control Panel",
+   "ro": "Panou de control"
+  },
+  {
+   "key": "37817",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37818",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37819",
+   "en": "The Afterlife",
+   "ro": "Afterlife"
+  },
+  {
+   "key": "37820",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37821",
+   "en": "Oil Fields",
+   "ro": "Câmpurile petrolifere"
+  },
+  {
+   "key": "37822",
+   "en": "Oil Fields",
+   "ro": "Câmpurile petrolifere"
+  },
+  {
+   "key": "37823",
+   "en": "Sit Here",
+   "ro": "Așază-te aici"
+  },
+  {
+   "key": "37824",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37825",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "37826",
+   "en": "Ebunike",
+   "ro": "Ebunike"
+  },
+  {
+   "key": "37827",
+   "en": "Ebunike",
+   "ro": "Ebunike"
+  },
+  {
+   "key": "37828",
+   "en": "Grayson",
+   "ro": "Grayson"
+  },
+  {
+   "key": "37829",
+   "en": "Grayson",
+   "ro": "Grayson"
+  },
+  {
+   "key": "37830",
+   "en": "Crane Control",
+   "ro": "Comanda macaralei"
+  },
+  {
+   "key": "37831",
+   "en": "Cargo",
+   "ro": "Încărcătură"
+  },
+  {
+   "key": "37832",
+   "en": "Canvas",
+   "ro": "Pânză"
+  },
+  {
+   "key": "37833",
+   "en": "Porsche 911 Turbo (930)",
+   "ro": "Porsche 911 Turbo (930)"
+  },
+  {
+   "key": "37834",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37835",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37836",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37837",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "37838",
+   "en": "Audio Database",
+   "ro": "Bază de date audio"
+  },
+  {
+   "key": "37839",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37840",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37841",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37842",
+   "en": "Rogue's Car",
+   "ro": "Mașina lui Rogue"
+  },
+  {
+   "key": "37843",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37844",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37845",
+   "en": "Gift",
+   "ro": "Cadou"
+  },
+  {
+   "key": "37846",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37847",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37848",
+   "en": "Claire",
+   "ro": "Claire"
+  },
+  {
+   "key": "37849",
+   "en": "Cassius",
+   "ro": "Cassius"
+  },
+  {
+   "key": "37850",
+   "en": "Stripper",
+   "ro": "Stripteuză"
+  },
+  {
+   "key": "37851",
+   "en": "Bartender",
+   "ro": "Barman"
+  },
+  {
+   "key": "37852",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "37853",
+   "en": "Toilet",
+   "ro": "Toaletă"
+  },
+  {
+   "key": "37854",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "37855",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "37856",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "37857",
+   "en": "Simone",
+   "ro": "Simone"
+  },
+  {
+   "key": "37858",
+   "en": "Simone",
+   "ro": "Simone"
+  },
+  {
+   "key": "37859",
+   "en": "Simone",
+   "ro": "Simone"
+  },
+  {
+   "key": "37860",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "37861",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37862",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37863",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37864",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "37865",
+   "en": "Window",
+   "ro": "Fereastră"
+  },
+  {
+   "key": "37866",
+   "en": "Cache",
+   "ro": "Cache"
+  },
+  {
+   "key": "37867",
+   "en": "Window",
+   "ro": "Fereastră"
+  },
+  {
+   "key": "37868",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "37869",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "37870",
+   "en": "Wakako",
+   "ro": "Wakako"
+  },
+  {
+   "key": "37871",
+   "en": "Wilson",
+   "ro": "Wilson"
+  },
+  {
+   "key": "37872",
+   "en": "!OUTDATED",
+   "ro": "!ÎNVECHIT"
+  },
+  {
+   "key": "37873",
+   "en": "Microphone",
+   "ro": "Microfon"
+  },
+  {
+   "key": "37874",
+   "en": "Stage",
+   "ro": "Scenă"
+  },
+  {
+   "key": "37875",
+   "en": "Kerry Eurodyne",
+   "ro": "Kerry Eurodyne"
+  },
+  {
+   "key": "37876",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "37877",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37878",
+   "en": "Helicopter",
+   "ro": "Elicopter"
+  },
+  {
+   "key": "37879",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "37880",
+   "en": "Helicopter",
+   "ro": "Elicopter"
+  },
+  {
+   "key": "37881",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "37882",
+   "en": "Nuclear Bomb",
+   "ro": "Bombă nucleară"
+  },
+  {
+   "key": "37883",
+   "en": "Elevator Mechanism",
+   "ro": "Mecanismul liftului"
+  },
+  {
+   "key": "37884",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37885",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37886",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37887",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37888",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37889",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37890",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37891",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37892",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37893",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37894",
+   "en": "Arasaka Soldier",
+   "ro": "Soldat Arasaka"
+  },
+  {
+   "key": "37895",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "37896",
+   "en": "Arasaka Forces",
+   "ro": "Forțele Arasaka"
+  },
+  {
+   "key": "37897",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "37898",
+   "en": "Spider Murphy",
+   "ro": "Spider Murphy"
+  },
+  {
+   "key": "37899",
+   "en": "Safety",
+   "ro": "Siguranță"
+  },
+  {
+   "key": "37900",
+   "en": "Arasaka Assassin",
+   "ro": "Asasin Arasaka"
+  },
+  {
+   "key": "37901",
+   "en": "Arasaka Assassin",
+   "ro": "Asasin Arasaka"
+  },
+  {
+   "key": "37902",
+   "en": "Arasaka Assassin",
+   "ro": "Asasin Arasaka"
+  },
+  {
+   "key": "37903",
+   "en": "Arasaka Assassin",
+   "ro": "Asasin Arasaka"
+  },
+  {
+   "key": "37904",
+   "en": "Talk",
+   "ro": "Discută"
+  },
+  {
+   "key": "37905",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37906",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37907",
+   "en": "Stranger",
+   "ro": "Străin"
+  },
+  {
+   "key": "37908",
+   "en": "Computer",
+   "ro": "Computer"
+  },
+  {
+   "key": "37909",
+   "en": "SCSM",
+   "ro": "SCSM"
+  },
+  {
+   "key": "37910",
+   "en": "Ammo Case",
+   "ro": "Cutie de muniție"
+  },
+  {
+   "key": "37911",
+   "en": "Omega Blockers",
+   "ro": "Blocante Omega"
+  },
+  {
+   "key": "37912",
+   "en": "Stranger",
+   "ro": "Străin"
+  },
+  {
+   "key": "37913",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37914",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37915",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37916",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37917",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "37918",
+   "en": "Stand",
+   "ro": "Ridică-te"
+  },
+  {
+   "key": "37919",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "37920",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "37921",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "37922",
+   "en": "The Afterlife",
+   "ro": "Afterlife"
+  },
+  {
+   "key": "37923",
+   "en": "The Afterlife",
+   "ro": "Afterlife"
+  },
+  {
+   "key": "37924",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37925",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37926",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "37927",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37928",
+   "en": "Sit Here",
+   "ro": "Așază-te aici"
+  },
+  {
+   "key": "37929",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37930",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37931",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37932",
+   "en": "Rocky Ridge",
+   "ro": "Rocky Ridge"
+  },
+  {
+   "key": "37933",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37934",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37935",
+   "en": "Raffen Shiv with Key",
+   "ro": "Raffen Shiv cu cheia"
+  },
+  {
+   "key": "37936",
+   "en": "Raffen Shiv",
+   "ro": "Raffen Shiv"
+  },
+  {
+   "key": "37937",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37938",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37939",
+   "en": "Rocky Ridge",
+   "ro": "Rocky Ridge"
+  },
+  {
+   "key": "37940",
+   "en": "Nomad Camp",
+   "ro": "Tabăra nomazilor"
+  },
+  {
+   "key": "37941",
+   "en": "Power Switch",
+   "ro": "Comutator de alimentare"
+  },
+  {
+   "key": "37942",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37943",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37944",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "37945",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37946",
+   "en": "Box",
+   "ro": "Cutie"
+  },
+  {
+   "key": "37947",
+   "en": "Trunk",
+   "ro": "Portbagaj"
+  },
+  {
+   "key": "37948",
+   "en": "Raffen Shiv",
+   "ro": "Raffen Shiv"
+  },
+  {
+   "key": "37949",
+   "en": "Raffen Shiv",
+   "ro": "Raffen Shiv"
+  },
+  {
+   "key": "37950",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37951",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37952",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "37953",
+   "en": "Scorpion",
+   "ro": "Scorpion"
+  },
+  {
+   "key": "37954",
+   "en": "Barrier",
+   "ro": "Barieră"
+  },
+  {
+   "key": "37955",
+   "en": "Windowpane",
+   "ro": "Geam"
+  },
+  {
+   "key": "37956",
+   "en": "Power substation",
+   "ro": "Stație de transformare"
+  },
+  {
+   "key": "37957",
+   "en": "Box",
+   "ro": "Cutie"
+  },
+  {
+   "key": "37958",
+   "en": "Battery",
+   "ro": "Baterie"
+  },
+  {
+   "key": "37959",
+   "en": "Power Switch",
+   "ro": "Comutator de alimentare"
+  },
+  {
+   "key": "37960",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37961",
+   "en": "Raffen Shiv",
+   "ro": "Raffen Shiv"
+  },
+  {
+   "key": "37962",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37963",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37964",
+   "en": "Raffen Shiv Tunnels",
+   "ro": "Tunelurile Raffen Shiv"
+  },
+  {
+   "key": "37965",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37966",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37967",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37968",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37969",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37970",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37971",
+   "en": "Sunset Motel",
+   "ro": "Sunset Motel"
+  },
+  {
+   "key": "37972",
+   "en": "Stool",
+   "ro": "Taburet"
+  },
+  {
+   "key": "37973",
+   "en": "Room",
+   "ro": "Cameră"
+  },
+  {
+   "key": "37974",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37975",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "37976",
+   "en": "Meeting Point",
+   "ro": "Punct de întâlnire"
+  },
+  {
+   "key": "37977",
+   "en": "Switchgear",
+   "ro": "Tablou electric"
+  },
+  {
+   "key": "37978",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "37979",
+   "en": "Transformer",
+   "ro": "Transformator"
+  },
+  {
+   "key": "37980",
+   "en": "Kang Tao AV",
+   "ro": "Kang Tao AV"
+  },
+  {
+   "key": "37981",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37982",
+   "en": "Hill",
+   "ro": "Hill"
+  },
+  {
+   "key": "37983",
+   "en": "Kang Tao AV",
+   "ro": "Kang Tao AV"
+  },
+  {
+   "key": "37984",
+   "en": "Cooling Terminal",
+   "ro": "Terminal de răcire"
+  },
+  {
+   "key": "37985",
+   "en": "Satwave Power Plant",
+   "ro": "Centrala Satwave"
+  },
+  {
+   "key": "37986",
+   "en": "Garage",
+   "ro": "Garaj"
+  },
+  {
+   "key": "37987",
+   "en": "Wait Here",
+   "ro": "Așteaptă aici"
+  },
+  {
+   "key": "37988",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "37989",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "37990",
+   "en": "Satwave Power Plant",
+   "ro": "Centrala Satwave"
+  },
+  {
+   "key": "37991",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37992",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37993",
+   "en": "Target",
+   "ro": "Țintă"
+  },
+  {
+   "key": "37994",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "37995",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "37996",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "37997",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "37998",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "37999",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38000",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38001",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38002",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38003",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38004",
+   "en": "Crash Site",
+   "ro": "Locul prăbușirii"
+  },
+  {
+   "key": "38005",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "38006",
+   "en": "Kang Tao AV",
+   "ro": "Kang Tao AV"
+  },
+  {
+   "key": "38007",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38008",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38009",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38010",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38011",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38012",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38013",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38014",
+   "en": "Crash Site",
+   "ro": "Locul prăbușirii"
+  },
+  {
+   "key": "38015",
+   "en": "Kang Tao",
+   "ro": "Kang Tao"
+  },
+  {
+   "key": "38016",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38017",
+   "en": "Control Panel",
+   "ro": "Panou de control"
+  },
+  {
+   "key": "38018",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38019",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38020",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38021",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38022",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38023",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38024",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38025",
+   "en": "Gas Station",
+   "ro": "Benzinărie"
+  },
+  {
+   "key": "38026",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38027",
+   "en": "Tracks",
+   "ro": "Urme"
+  },
+  {
+   "key": "38028",
+   "en": "Tracks",
+   "ro": "Urme"
+  },
+  {
+   "key": "38029",
+   "en": "Tracks",
+   "ro": "Urme"
+  },
+  {
+   "key": "38030",
+   "en": "Oil Tracks",
+   "ro": "Urme de ulei"
+  },
+  {
+   "key": "38031",
+   "en": "Oil Tracks",
+   "ro": "Urme de ulei"
+  },
+  {
+   "key": "38032",
+   "en": "Oil Tracks",
+   "ro": "Urme de ulei"
+  },
+  {
+   "key": "38033",
+   "en": "Oil Tracks",
+   "ro": "Urme de ulei"
+  },
+  {
+   "key": "38034",
+   "en": "Oil Tracks",
+   "ro": "Urme de ulei"
+  },
+  {
+   "key": "38035",
+   "en": "Pilot",
+   "ro": "Pilot"
+  },
+  {
+   "key": "38036",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38037",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38038",
+   "en": "Kang Tao Operative",
+   "ro": "Agent Kang Tao"
+  },
+  {
+   "key": "38039",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38040",
+   "en": "Aldecaldos",
+   "ro": "Aldecaldos"
+  },
+  {
+   "key": "38041",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38042",
+   "en": "Outside",
+   "ro": "Afară"
+  },
+  {
+   "key": "38043",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38044",
+   "en": "Pick Up",
+   "ro": "Ia"
+  },
+  {
+   "key": "38045",
+   "en": "Place Hellman",
+   "ro": "Așază-l pe Hellman"
+  },
+  {
+   "key": "38046",
+   "en": "Get On",
+   "ro": "Urcă-te"
+  },
+  {
+   "key": "38047",
+   "en": "Kang Tao Drone",
+   "ro": "Dronă Kang Tao"
+  },
+  {
+   "key": "38048",
+   "en": "Kang Tao",
+   "ro": "Kang Tao"
+  },
+  {
+   "key": "38049",
+   "en": "Kang Tao Pilot",
+   "ro": "Pilot Kang Tao"
+  },
+  {
+   "key": "38050",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38051",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38052",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38053",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38054",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38055",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38056",
+   "en": "Tire Tracks",
+   "ro": "Urme de anvelope"
+  },
+  {
+   "key": "38057",
+   "en": "Vantage Point",
+   "ro": "Punct de observație"
+  },
+  {
+   "key": "38058",
+   "en": "Gas Station",
+   "ro": "Benzinărie"
+  },
+  {
+   "key": "38059",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38060",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38061",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "38062",
+   "en": "Motorcycle",
+   "ro": "Motocicletă"
+  },
+  {
+   "key": "38063",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38064",
+   "en": "Kang Tao",
+   "ro": "Kang Tao"
+  },
+  {
+   "key": "38065",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38066",
+   "en": "Scorpion's Motorcycle",
+   "ro": "Motocicleta lui Scorpion"
+  },
+  {
+   "key": "38067",
+   "en": "Nomad Motorcycle",
+   "ro": "Motocicleta unui nomad"
+  },
+  {
+   "key": "38068",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38069",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38070",
+   "en": "Fingers' Clinic",
+   "ro": "Clinica lui Fingers"
+  },
+  {
+   "key": "38071",
+   "en": "Fingers' Clinic",
+   "ro": "Clinica lui Fingers"
+  },
+  {
+   "key": "38072",
+   "en": "Fingers",
+   "ro": "Fingers"
+  },
+  {
+   "key": "38073",
+   "en": "Alley",
+   "ro": "Alee"
+  },
+  {
+   "key": "38074",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38075",
+   "en": "Fingers",
+   "ro": "Fingers"
+  },
+  {
+   "key": "38076",
+   "en": "Fingers",
+   "ro": "Fingers"
+  },
+  {
+   "key": "38077",
+   "en": "Jig-Jig Street",
+   "ro": "Jig-Jig Street"
+  },
+  {
+   "key": "38078",
+   "en": "Fingers' Clinic",
+   "ro": "Clinica lui Fingers"
+  },
+  {
+   "key": "38079",
+   "en": "Goon",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38080",
+   "en": "Joytoy",
+   "ro": "Joytoy"
+  },
+  {
+   "key": "38081",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "38082",
+   "en": "Power Plant",
+   "ro": "Centrala electrică"
+  },
+  {
+   "key": "38083",
+   "en": "Main Building",
+   "ro": "Clădirea principală"
+  },
+  {
+   "key": "38084",
+   "en": "Studio",
+   "ro": "Studio"
+  },
+  {
+   "key": "38085",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "38086",
+   "en": "Meeting Spot",
+   "ro": "Loc de întâlnire"
+  },
+  {
+   "key": "38087",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38088",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "38089",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38090",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38091",
+   "en": "Main Building",
+   "ro": "Clădirea principală"
+  },
+  {
+   "key": "38092",
+   "en": "Level -1",
+   "ro": "Nivelul -1"
+  },
+  {
+   "key": "38094",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "38095",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "38096",
+   "en": "!OUTDATED",
+   "ro": "!ÎNVECHIT"
+  },
+  {
+   "key": "38097",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38098",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "38099",
+   "en": "Level -2 Access",
+   "ro": "Acces nivel -2"
+  },
+  {
+   "key": "38100",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "38101",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "38103",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "38104",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38105",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "38106",
+   "en": "Cable",
+   "ro": "Cablul"
+  },
+  {
+   "key": "38107",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38108",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38109",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38110",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38111",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38112",
+   "en": "Package",
+   "ro": "Pachet"
+  },
+  {
+   "key": "38113",
+   "en": "Wakako",
+   "ro": "Wakako"
+  },
+  {
+   "key": "38114",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38115",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38116",
+   "en": "Dealer",
+   "ro": "Dealer"
+  },
+  {
+   "key": "38117",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "38118",
+   "en": "Hatch",
+   "ro": "Trapă"
+  },
+  {
+   "key": "38119",
+   "en": "Pickup Point",
+   "ro": "Punct de preluare"
+  },
+  {
+   "key": "38120",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38121",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38122",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38123",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38124",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38125",
+   "en": "Dataterm",
+   "ro": "Dataterm"
+  },
+  {
+   "key": "38126",
+   "en": "Dealer",
+   "ro": "Dealer"
+  },
+  {
+   "key": "38127",
+   "en": "Jig-Jig Street",
+   "ro": "Jig-Jig Street"
+  },
+  {
+   "key": "38128",
+   "en": "Port",
+   "ro": "Port"
+  },
+  {
+   "key": "38129",
+   "en": "Judy's Van",
+   "ro": "Duba lui Judy"
+  },
+  {
+   "key": "38130",
+   "en": "Judy's Van",
+   "ro": "Duba lui Judy"
+  },
+  {
+   "key": "38131",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38132",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38133",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38134",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "38135",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38136",
+   "en": "Evelyn",
+   "ro": "Evelyn"
+  },
+  {
+   "key": "38137",
+   "en": "Editing Suite",
+   "ro": "Cameră de montaj"
+  },
+  {
+   "key": "38138",
+   "en": "Table",
+   "ro": "Masa"
+  },
+  {
+   "key": "38139",
+   "en": "Phone",
+   "ro": "Telefon"
+  },
+  {
+   "key": "38140",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "38141",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38142",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38143",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38144",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38145",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38146",
+   "en": "Lizzie's Bar",
+   "ro": "Lizzie's Bar"
+  },
+  {
+   "key": "38147",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38148",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "38149",
+   "en": "Judy",
+   "ro": "Judy"
+  },
+  {
+   "key": "38150",
+   "en": "Lizzie's Bar",
+   "ro": "Lizzie's Bar"
+  },
+  {
+   "key": "38151",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "38152",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38153",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38154",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38155",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38156",
+   "en": "Evelyn's Cigarette Case",
+   "ro": "Tabachera lui Evelyn"
+  },
+  {
+   "key": "38157",
+   "en": "Megabuilding H8",
+   "ro": "Megablocul H8"
+  },
+  {
+   "key": "38158",
+   "en": "Roxanne",
+   "ro": "Roxanne"
+  },
+  {
+   "key": "38159",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "38160",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38161",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38162",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38163",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38164",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38165",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38166",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "38167",
+   "en": "Roxanne",
+   "ro": "Roxanne"
+  },
+  {
+   "key": "38168",
+   "en": "Elevator Terminal",
+   "ro": "Terminal lift"
+  },
+  {
+   "key": "38169",
+   "en": "Elevator Panel",
+   "ro": "Panou de lift"
+  },
+  {
+   "key": "38170",
+   "en": "Clouds Entrance",
+   "ro": "Intrarea în Clouds"
+  },
+  {
+   "key": "38171",
+   "en": "Personal Link",
+   "ro": "Legătură personală"
+  },
+  {
+   "key": "38172",
+   "en": "Locker",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "38173",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "38174",
+   "en": "Reception",
+   "ro": "Recepție"
+  },
+  {
+   "key": "38175",
+   "en": "Booth 6",
+   "ro": "Cabina 6"
+  },
+  {
+   "key": "38176",
+   "en": "Booth 9",
+   "ro": "Cabina 9"
+  },
+  {
+   "key": "38177",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "38178",
+   "en": "Bed",
+   "ro": "Pat"
+  },
+  {
+   "key": "38179",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38180",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "38181",
+   "en": "Booth 6",
+   "ro": "Cabina 6"
+  },
+  {
+   "key": "38182",
+   "en": "Booth 9",
+   "ro": "Cabina 9"
+  },
+  {
+   "key": "38183",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38184",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "38185",
+   "en": "VIP Area",
+   "ro": "Zona VIP"
+  },
+  {
+   "key": "38186",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "38187",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "38188",
+   "en": "Reception",
+   "ro": "Recepție"
+  },
+  {
+   "key": "38189",
+   "en": "VIP Guard",
+   "ro": "Gardian VIP"
+  },
+  {
+   "key": "38190",
+   "en": "Bench",
+   "ro": "Banca"
+  },
+  {
+   "key": "38191",
+   "en": "Booth 11",
+   "ro": "Cabina 11"
+  },
+  {
+   "key": "38192",
+   "en": "Evelyn's Booth",
+   "ro": "Cabina lui Evelyn"
+  },
+  {
+   "key": "38193",
+   "en": "Projector Console",
+   "ro": "Consola proiectorului"
+  },
+  {
+   "key": "38194",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "38195",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "38196",
+   "en": "Woodman's Office",
+   "ro": "Biroul lui Woodman"
+  },
+  {
+   "key": "38197",
+   "en": "Woodman's Computer",
+   "ro": "Computerul lui Woodman"
+  },
+  {
+   "key": "38198",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "38199",
+   "en": "Woodman's Office",
+   "ro": "Biroul lui Woodman"
+  },
+  {
+   "key": "38200",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38201",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38202",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "38203",
+   "en": "Woodman",
+   "ro": "Woodman"
+  },
+  {
+   "key": "38204",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38205",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38206",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38207",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38208",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38209",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38210",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38211",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38212",
+   "en": "Locker",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "38213",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38214",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38215",
+   "en": "Kerry",
+   "ro": "Kerry"
+  },
+  {
+   "key": "38216",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38217",
+   "en": "Dressing Room",
+   "ro": "Vestiar"
+  },
+  {
+   "key": "38218",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38219",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38220",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38221",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38222",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38223",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "38224",
+   "en": "Ripperdoc",
+   "ro": "Ripperdoc"
+  },
+  {
+   "key": "38225",
+   "en": "Thompson",
+   "ro": "Thompson"
+  },
+  {
+   "key": "38226",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38227",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "38228",
+   "en": "Upstairs",
+   "ro": "Etaj"
+  },
+  {
+   "key": "38229",
+   "en": "Back Room",
+   "ro": "Camera din spate"
+  },
+  {
+   "key": "38230",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "38231",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "38232",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38233",
+   "en": "Staircase",
+   "ro": "Scări"
+  },
+  {
+   "key": "38234",
+   "en": "Staircase",
+   "ro": "Scări"
+  },
+  {
+   "key": "38235",
+   "en": "Bartender",
+   "ro": "Barman"
+  },
+  {
+   "key": "38236",
+   "en": "Bartender",
+   "ro": "Barman"
+  },
+  {
+   "key": "38237",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "38238",
+   "en": "Roxxi",
+   "ro": "Roxxi"
+  },
+  {
+   "key": "38239",
+   "en": "Couch",
+   "ro": "Canapea"
+  },
+  {
+   "key": "38240",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38241",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38242",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38243",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "38244",
+   "en": "Vending Machine",
+   "ro": "Automat de vânzare"
+  },
+  {
+   "key": "38245",
+   "en": "Johnny's Porsche",
+   "ro": "Porsche-ul lui Johnny"
+  },
+  {
+   "key": "38246",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38247",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38248",
+   "en": "Porsche",
+   "ro": "Porsche"
+  },
+  {
+   "key": "38249",
+   "en": "Arasaka Helicopter",
+   "ro": "Elicopter Arasaka"
+  },
+  {
+   "key": "38250",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38251",
+   "en": "Front Desk",
+   "ro": "Recepție"
+  },
+  {
+   "key": "38252",
+   "en": "Mainframe",
+   "ro": "Mainframe"
+  },
+  {
+   "key": "38253",
+   "en": "Server Room A",
+   "ro": "Sala de servere A"
+  },
+  {
+   "key": "38254",
+   "en": "Server Room B3",
+   "ro": "Sala de servere B3"
+  },
+  {
+   "key": "38255",
+   "en": "Server Room B",
+   "ro": "Sala de servere B"
+  },
+  {
+   "key": "38256",
+   "en": "Server Room C",
+   "ro": "Sala de servere C"
+  },
+  {
+   "key": "38257",
+   "en": "Mainframe",
+   "ro": "Mainframe"
+  },
+  {
+   "key": "38258",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38259",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38260",
+   "en": "Mainframe Turrets",
+   "ro": "Turele mainframe"
+  },
+  {
+   "key": "38261",
+   "en": "Mainframe Door",
+   "ro": "Ușa mainframe-ului"
+  },
+  {
+   "key": "38262",
+   "en": "Thompson",
+   "ro": "Thompson"
+  },
+  {
+   "key": "38263",
+   "en": "Mainframe Door",
+   "ro": "Ușa mainframe-ului"
+  },
+  {
+   "key": "38264",
+   "en": "Thompson",
+   "ro": "Thompson"
+  },
+  {
+   "key": "38265",
+   "en": "Thompson",
+   "ro": "Thompson"
+  },
+  {
+   "key": "38266",
+   "en": "Rogue",
+   "ro": "Rogue"
+  },
+  {
+   "key": "38267",
+   "en": "Explosives",
+   "ro": "Explozibili"
+  },
+  {
+   "key": "38268",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38269",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38270",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38271",
+   "en": "Arasaka Agents",
+   "ro": "Agenți Arasaka"
+  },
+  {
+   "key": "38272",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38273",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38274",
+   "en": "Chapel Entrance",
+   "ro": "Intrarea în capelă"
+  },
+  {
+   "key": "38275",
+   "en": "Pacifica Serenity Bible Church",
+   "ro": "Biserica Pacifica Serenity Bible"
+  },
+  {
+   "key": "38276",
+   "en": "Altar",
+   "ro": "Altar"
+  },
+  {
+   "key": "38277",
+   "en": "Voodoo Boys Contact",
+   "ro": "Contact Voodoo Boys"
+  },
+  {
+   "key": "38278",
+   "en": "Butcher Shop",
+   "ro": "Măcelărie"
+  },
+  {
+   "key": "38279",
+   "en": "Backroom",
+   "ro": "Cameră din spate"
+  },
+  {
+   "key": "38280",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38281",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38282",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "38283",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38284",
+   "en": "Chair",
+   "ro": "Scaun"
+  },
+  {
+   "key": "38285",
+   "en": "Camera",
+   "ro": "Cameră"
+  },
+  {
+   "key": "38286",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "38287",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38288",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38289",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38290",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38291",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38292",
+   "en": "Ice Bath",
+   "ro": "Cadă cu gheață"
+  },
+  {
+   "key": "38293",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38294",
+   "en": "Passage Behind Altar",
+   "ro": "Pasajul din spatele altarului"
+  },
+  {
+   "key": "38295",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38296",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38297",
+   "en": "Investigate the source of the noises.",
+   "ro": "Investighează sursa zgomotelor."
+  },
+  {
+   "key": "38298",
+   "en": "Noises",
+   "ro": "Zgomote"
+  },
+  {
+   "key": "38299",
+   "en": "Noises",
+   "ro": "Zgomote"
+  },
+  {
+   "key": "38300",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38301",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38302",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38303",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38304",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38305",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38306",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38307",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38308",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38309",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38310",
+   "en": "GIM Back Entrance",
+   "ro": "Intrarea din spate a GIM"
+  },
+  {
+   "key": "38311",
+   "en": "Main Hall",
+   "ro": "Sala principală"
+  },
+  {
+   "key": "38312",
+   "en": "Main Hall",
+   "ro": "Sala principală"
+  },
+  {
+   "key": "38313",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "38314",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38315",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38316",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38317",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38318",
+   "en": "NetWatch Agent",
+   "ro": "Agent NetWatch"
+  },
+  {
+   "key": "38319",
+   "en": "NetWatch Agent",
+   "ro": "Agent NetWatch"
+  },
+  {
+   "key": "38320",
+   "en": "NetWatch Agent",
+   "ro": "Agent NetWatch"
+  },
+  {
+   "key": "38321",
+   "en": "NetWatch Agent",
+   "ro": "Agent NetWatch"
+  },
+  {
+   "key": "38322",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38323",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38324",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38325",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38326",
+   "en": "Elevator Panel",
+   "ro": "Panou de lift"
+  },
+  {
+   "key": "38327",
+   "en": "Elevator Panel",
+   "ro": "Panou de lift"
+  },
+  {
+   "key": "38328",
+   "en": "Stairs",
+   "ro": "Scări"
+  },
+  {
+   "key": "38329",
+   "en": "Placide's Lackey",
+   "ro": "Lacheul lui Placide"
+  },
+  {
+   "key": "38330",
+   "en": "Voodoo Boys Lookout",
+   "ro": "Paznicul Voodoo Boys"
+  },
+  {
+   "key": "38331",
+   "en": "Placide's Lackey",
+   "ro": "Lacheul lui Placide"
+  },
+  {
+   "key": "38332",
+   "en": "Placide's Lackey",
+   "ro": "Lacheul lui Placide"
+  },
+  {
+   "key": "38333",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38334",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38335",
+   "en": "Sasquatch",
+   "ro": "Sasquatch"
+  },
+  {
+   "key": "38336",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "38337",
+   "en": "Van",
+   "ro": "Dubă"
+  },
+  {
+   "key": "38338",
+   "en": "Van",
+   "ro": "Dubă"
+  },
+  {
+   "key": "38339",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "38340",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38341",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38342",
+   "en": "Voodoo Boys' Turf",
+   "ro": "Teritoriul Voodoo Boys"
+  },
+  {
+   "key": "38343",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38344",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38345",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38346",
+   "en": "Placide",
+   "ro": "Placide"
+  },
+  {
+   "key": "38347",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38348",
+   "en": "Placide's Lackey",
+   "ro": "Lacheul lui Placide"
+  },
+  {
+   "key": "38349",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "38350",
+   "en": "Car",
+   "ro": "Mașină"
+  },
+  {
+   "key": "38351",
+   "en": "Brigitte",
+   "ro": "Brigitte"
+  },
+  {
+   "key": "38352",
+   "en": "Japantown Docks",
+   "ro": "Docurile din Japantown"
+  },
+  {
+   "key": "38353",
+   "en": "Tunnel",
+   "ro": "Tunel"
+  },
+  {
+   "key": "38354",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38355",
+   "en": "Takemura's Friend",
+   "ro": "Prietenul lui Takemura"
+  },
+  {
+   "key": "38356",
+   "en": "Wait.",
+   "ro": "Așteaptă."
+  },
+  {
+   "key": "38357",
+   "en": "Wakako's Parlor",
+   "ro": "Salonul lui Wakako"
+  },
+  {
+   "key": "38358",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38359",
+   "en": "Wakako",
+   "ro": "Wakako"
+  },
+  {
+   "key": "38360",
+   "en": "Passenger Seat",
+   "ro": "Scaun pasager"
+  },
+  {
+   "key": "38361",
+   "en": "Arasaka Industrial Park",
+   "ro": "Parcul Industrial Arasaka"
+  },
+  {
+   "key": "38362",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38363",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "38364",
+   "en": "Arasaka Industrial Park",
+   "ro": "Parcul Industrial Arasaka"
+  },
+  {
+   "key": "38365",
+   "en": "Floats",
+   "ro": "Barje"
+  },
+  {
+   "key": "38366",
+   "en": "Main Entrance",
+   "ro": "Intrarea principală"
+  },
+  {
+   "key": "38367",
+   "en": "Small gate",
+   "ro": "Poartă mică"
+  },
+  {
+   "key": "38368",
+   "en": "Hop Over",
+   "ro": "Sari peste"
+  },
+  {
+   "key": "38369",
+   "en": "Containers",
+   "ro": "Containere"
+  },
+  {
+   "key": "38370",
+   "en": "Guards",
+   "ro": "Gardieni"
+  },
+  {
+   "key": "38371",
+   "en": "Side Entrance",
+   "ro": "Intrare laterală"
+  },
+  {
+   "key": "38372",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38373",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38374",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38375",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38376",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38377",
+   "en": "Takemura's Sniper Rifle",
+   "ro": "Pușca de lunetist a lui Takemura"
+  },
+  {
+   "key": "38378",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38379",
+   "en": "Takemura's Van",
+   "ro": "Duba lui Takemura"
+  },
+  {
+   "key": "38380",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38381",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38382",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38383",
+   "en": "Road",
+   "ro": "Drum"
+  },
+  {
+   "key": "38384",
+   "en": "Code",
+   "ro": "Cod"
+  },
+  {
+   "key": "38385",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38386",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38387",
+   "en": "Compound",
+   "ro": "Complex"
+  },
+  {
+   "key": "38388",
+   "en": "Bridge",
+   "ro": "Pod"
+  },
+  {
+   "key": "38389",
+   "en": "Transformer",
+   "ro": "Transformator"
+  },
+  {
+   "key": "38390",
+   "en": "Terminal",
+   "ro": "Terminal"
+  },
+  {
+   "key": "38391",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38392",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38393",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38394",
+   "en": "Truck",
+   "ro": "Camion"
+  },
+  {
+   "key": "38395",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "38396",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "38397",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38398",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38399",
+   "en": "Truck Parking",
+   "ro": "Parcare camioane"
+  },
+  {
+   "key": "38400",
+   "en": "Warehouse",
+   "ro": "Depozit"
+  },
+  {
+   "key": "38401",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38402",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38403",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38404",
+   "en": "Seat",
+   "ro": "Scaun"
+  },
+  {
+   "key": "38405",
+   "en": "TV",
+   "ro": "TV"
+  },
+  {
+   "key": "38406",
+   "en": "Code",
+   "ro": "Cod"
+  },
+  {
+   "key": "38407",
+   "en": "Security Room",
+   "ro": "Cameră de pază"
+  },
+  {
+   "key": "38408",
+   "en": "Security Panel",
+   "ro": "Panou de securitate"
+  },
+  {
+   "key": "38409",
+   "en": "Wait.",
+   "ro": "Așteaptă."
+  },
+  {
+   "key": "38410",
+   "en": "Bazaar",
+   "ro": "Bazar"
+  },
+  {
+   "key": "38411",
+   "en": "Upper Level",
+   "ro": "Nivelul superior"
+  },
+  {
+   "key": "38412",
+   "en": "First Sniper",
+   "ro": "Primul sniper"
+  },
+  {
+   "key": "38413",
+   "en": "Second Sniper",
+   "ro": "Al doilea sniper"
+  },
+  {
+   "key": "38414",
+   "en": "Third Sniper",
+   "ro": "Al treilea sniper"
+  },
+  {
+   "key": "38415",
+   "en": "Green neon",
+   "ro": "Neon verde"
+  },
+  {
+   "key": "38416",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38417",
+   "en": "Waypoint: Maintenance Bridge",
+   "ro": "Punct de orientare: Podul de întreținere"
+  },
+  {
+   "key": "38418",
+   "en": "Waypoint: Maintenance Bridge",
+   "ro": "Punct de orientare: Podul de întreținere"
+  },
+  {
+   "key": "38419",
+   "en": "Descent",
+   "ro": "Coborâre"
+  },
+  {
+   "key": "38420",
+   "en": "Way Down",
+   "ro": "Calea de coborâre"
+  },
+  {
+   "key": "38421",
+   "en": "Staircase",
+   "ro": "Scări"
+  },
+  {
+   "key": "38422",
+   "en": "Balcony",
+   "ro": "Balcon"
+  },
+  {
+   "key": "38423",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38424",
+   "en": "Construction Elevator",
+   "ro": "Lift de șantier"
+  },
+  {
+   "key": "38425",
+   "en": "Catwalk",
+   "ro": "Pasarelă"
+  },
+  {
+   "key": "38426",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38427",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38428",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "38429",
+   "en": "Access Point",
+   "ro": "Punct de acces"
+  },
+  {
+   "key": "38430",
+   "en": "Escape",
+   "ro": "Evadare"
+  },
+  {
+   "key": "38431",
+   "en": "Escape",
+   "ro": "Evadare"
+  },
+  {
+   "key": "38432",
+   "en": "Escape",
+   "ro": "Evadare"
+  },
+  {
+   "key": "38433",
+   "en": "Escape",
+   "ro": "Evadare"
+  },
+  {
+   "key": "38434",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38435",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38436",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38437",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "38438",
+   "en": "!NOT NEEDED",
+   "ro": "!NU ESTE NECESAR"
+  },
+  {
+   "key": "38439",
+   "en": "Safehouse",
+   "ro": "Adăpost"
+  },
+  {
+   "key": "38440",
+   "en": "Third Floor",
+   "ro": "Etajul trei"
+  },
+  {
+   "key": "38441",
+   "en": "Unit 303",
+   "ro": "Apartamentul 303"
+  },
+  {
+   "key": "38442",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "38443",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38444",
+   "en": "Hanako Arasaka",
+   "ro": "Hanako Arasaka"
+  },
+  {
+   "key": "38445",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38446",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38447",
+   "en": "Hallway",
+   "ro": "Coridor"
+  },
+  {
+   "key": "38448",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38449",
+   "en": "Safe Area",
+   "ro": "Zonă sigură"
+  },
+  {
+   "key": "38450",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38451",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38452",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38453",
+   "en": "Exit",
+   "ro": "Ieșire"
+  },
+  {
+   "key": "38454",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38455",
+   "en": "Proxy",
+   "ro": "Proxy"
+  },
+  {
+   "key": "38456",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "38457",
+   "en": "Johnny",
+   "ro": "Johnny"
+  },
+  {
+   "key": "38458",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38459",
+   "en": "!NOT NEEDED",
+   "ro": "!NU ESTE NECESAR"
+  },
+  {
+   "key": "38460",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38461",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38462",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38463",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38464",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38465",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38466",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38467",
+   "en": "Leader",
+   "ro": "Lider"
+  },
+  {
+   "key": "38468",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38469",
+   "en": "Executive",
+   "ro": "Executiv"
+  },
+  {
+   "key": "38470",
+   "en": "Armchair",
+   "ro": "Fotoliu"
+  },
+  {
+   "key": "38471",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38472",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38473",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38474",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38475",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38476",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38477",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38478",
+   "en": "Soldier",
+   "ro": "Soldat"
+  },
+  {
+   "key": "38479",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38480",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38481",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38482",
+   "en": "Jackie",
+   "ro": "Jackie"
+  },
+  {
+   "key": "38483",
+   "en": "Armchair",
+   "ro": "Fotoliu"
+  },
+  {
+   "key": "38484",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38485",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38493",
+   "en": "Yorinobu",
+   "ro": "Yorinobu"
+  },
+  {
+   "key": "38496",
+   "en": "Adam Smasher",
+   "ro": "Adam Smasher"
+  },
+  {
+   "key": "38497",
+   "en": "Elevator",
+   "ro": "Lift"
+  },
+  {
+   "key": "38498",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38499",
+   "en": "!NOT NEEDED",
+   "ro": "!NU ESTE NECESAR"
+  },
+  {
+   "key": "38501",
+   "en": "Residence",
+   "ro": "Reședință"
+  },
+  {
+   "key": "38502",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38503",
+   "en": "Anders Hellman",
+   "ro": "Anders Hellman"
+  },
+  {
+   "key": "38504",
+   "en": "Residence",
+   "ro": "Reședință"
+  },
+  {
+   "key": "38505",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38506",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38507",
+   "en": "Enter",
+   "ro": "Intră"
+  },
+  {
+   "key": "38508",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38509",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38510",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38511",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38512",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38513",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38514",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38515",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38516",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38517",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38518",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38519",
+   "en": "Takemura",
+   "ro": "Takemura"
+  },
+  {
+   "key": "38520",
+   "en": "Hanako",
+   "ro": "Hanako"
+  },
+  {
+   "key": "38521",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38522",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "38523",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38524",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38525",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38526",
+   "en": "Panam's Car",
+   "ro": "Mașina lui Panam"
+  },
+  {
+   "key": "38527",
+   "en": "Nomad Camp",
+   "ro": "Tabăra nomazilor"
+  },
+  {
+   "key": "38528",
+   "en": "Dakota",
+   "ro": "Dakota"
+  },
+  {
+   "key": "38529",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38530",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38531",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38532",
+   "en": "Alt",
+   "ro": "Alt"
+  },
+  {
+   "key": "38533",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38534",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38535",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "38536",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38537",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38538",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38539",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38540",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38541",
+   "en": "Wreck",
+   "ro": "Epavă"
+  },
+  {
+   "key": "38542",
+   "en": "Wreck",
+   "ro": "Epavă"
+  },
+  {
+   "key": "38543",
+   "en": "Wreck",
+   "ro": "Epavă"
+  },
+  {
+   "key": "38544",
+   "en": "Wreck",
+   "ro": "Epavă"
+  },
+  {
+   "key": "38545",
+   "en": "Training Area",
+   "ro": "Zonă de antrenament"
+  },
+  {
+   "key": "38546",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38547",
+   "en": "Boulders",
+   "ro": "Bolovani"
+  },
+  {
+   "key": "38548",
+   "en": "Nomad Camp",
+   "ro": "Tabăra nomazilor"
+  },
+  {
+   "key": "38549",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38550",
+   "en": "Carol",
+   "ro": "Carol"
+  },
+  {
+   "key": "38551",
+   "en": "Dakota",
+   "ro": "Dakota"
+  },
+  {
+   "key": "38552",
+   "en": "Bathtub",
+   "ro": "Cadă"
+  },
+  {
+   "key": "38553",
+   "en": "Cassidy",
+   "ro": "Cassidy"
+  },
+  {
+   "key": "38554",
+   "en": "Veterans",
+   "ro": "Veterani"
+  },
+  {
+   "key": "38555",
+   "en": "Benedict",
+   "ro": "Benedict"
+  },
+  {
+   "key": "38556",
+   "en": "Dakota",
+   "ro": "Dakota"
+  },
+  {
+   "key": "38557",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38558",
+   "en": "Iris Tanner",
+   "ro": "Iris Tanner"
+  },
+  {
+   "key": "38559",
+   "en": "Scooter",
+   "ro": "Scooter"
+  },
+  {
+   "key": "38560",
+   "en": "Bruce Welby",
+   "ro": "Bruce Welby"
+  },
+  {
+   "key": "38561",
+   "en": "Party",
+   "ro": "Petrecere"
+  },
+  {
+   "key": "38562",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38563",
+   "en": "Shooting Line",
+   "ro": "Linia de tragere"
+  },
+  {
+   "key": "38564",
+   "en": "Bottles",
+   "ro": "Sticle"
+  },
+  {
+   "key": "38565",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "38566",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38567",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38568",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38569",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38570",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38571",
+   "en": "Valley",
+   "ro": "Vale"
+  },
+  {
+   "key": "38572",
+   "en": "Comms Tower",
+   "ro": "Turnul de comunicații"
+  },
+  {
+   "key": "38573",
+   "en": "Militech Checkpoint",
+   "ro": "Punctul de control Militech"
+  },
+  {
+   "key": "38574",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "38575",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38576",
+   "en": "Tunnel Entrance",
+   "ro": "Intrarea în tunel"
+  },
+  {
+   "key": "38577",
+   "en": "Arasaka Tower Sub-level",
+   "ro": "Subnivelul Turnului Arasaka"
+  },
+  {
+   "key": "38578",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38579",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38580",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38581",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38582",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38583",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38584",
+   "en": "Strike Team",
+   "ro": "Echipa de atac"
+  },
+  {
+   "key": "38585",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "38586",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "38587",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38588",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38589",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38590",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38591",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38592",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38593",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38594",
+   "en": "Turret",
+   "ro": "Turelă"
+  },
+  {
+   "key": "38595",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38596",
+   "en": "Gate",
+   "ro": "Poartă"
+  },
+  {
+   "key": "38597",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38598",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38599",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38600",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38601",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38602",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38603",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38604",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38605",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38606",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "38607",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "38608",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38609",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38610",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "38611",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38612",
+   "en": "Tunnel",
+   "ro": "Tunel"
+  },
+  {
+   "key": "38613",
+   "en": "Tech Vehicle",
+   "ro": "Vehicul tech"
+  },
+  {
+   "key": "38614",
+   "en": "Tech Vehicle",
+   "ro": "Vehicul tech"
+  },
+  {
+   "key": "38615",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38616",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38617",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38618",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38619",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38620",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38621",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38622",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38623",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38624",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38625",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38626",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38627",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38628",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38629",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38630",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38631",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38632",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38633",
+   "en": "Protect the SERC.",
+   "ro": "Protejează SERC."
+  },
+  {
+   "key": "38634",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38635",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38636",
+   "en": "Park Basilisk",
+   "ro": "Parchează Basilisk"
+  },
+  {
+   "key": "38637",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38638",
+   "en": "Carol",
+   "ro": "Carol"
+  },
+  {
+   "key": "38639",
+   "en": "Control Room",
+   "ro": "Sala de control"
+  },
+  {
+   "key": "38640",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38641",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38642",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38643",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38644",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38645",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38646",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38647",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38648",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "38649",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38650",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38651",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38652",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38653",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38654",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38655",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38656",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38657",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38658",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38659",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38660",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38661",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38662",
+   "en": "Enemy",
+   "ro": "Inamic"
+  },
+  {
+   "key": "38663",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "38664",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38665",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38666",
+   "en": "Construction Site",
+   "ro": "Șantier"
+  },
+  {
+   "key": "38667",
+   "en": "Nomad Car",
+   "ro": "Mașină de nomazi"
+  },
+  {
+   "key": "38668",
+   "en": "Nomad Car",
+   "ro": "Mașină de nomazi"
+  },
+  {
+   "key": "38669",
+   "en": "Tunnel Gate",
+   "ro": "Poarta tunelului"
+  },
+  {
+   "key": "38670",
+   "en": "Basilisk",
+   "ro": "Basilisk"
+  },
+  {
+   "key": "38671",
+   "en": "Tunnel Entrance",
+   "ro": "Intrarea în tunel"
+  },
+  {
+   "key": "38672",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38673",
+   "en": "SERC",
+   "ro": "SERC"
+  },
+  {
+   "key": "38674",
+   "en": "SERC",
+   "ro": "SERC"
+  },
+  {
+   "key": "38675",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38676",
+   "en": "SERC Controls",
+   "ro": "Controale SERC"
+  },
+  {
+   "key": "38677",
+   "en": "Drill Direction",
+   "ro": "Direcția de forare"
+  },
+  {
+   "key": "38678",
+   "en": "Hole",
+   "ro": "Gaură"
+  },
+  {
+   "key": "38679",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38680",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38681",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38682",
+   "en": "SERC Controls",
+   "ro": "Controale SERC"
+  },
+  {
+   "key": "38683",
+   "en": "Panam",
+   "ro": "Panam"
+  },
+  {
+   "key": "38684",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38685",
+   "en": "Mitch",
+   "ro": "Mitch"
+  },
+  {
+   "key": "38686",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38687",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38688",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38689",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38690",
+   "en": "Waypoint",
+   "ro": "Punct de traseu"
+  },
+  {
+   "key": "38691",
+   "en": "Saul",
+   "ro": "Saul"
+  },
+  {
+   "key": "38692",
+   "en": "Netrunner Nest",
+   "ro": "Cuib de netrunneri"
+  },
+  {
+   "key": "38693",
+   "en": "Main Exit",
+   "ro": "Ieșirea principală"
+  },
+  {
+   "key": "38694",
+   "en": "Side Exit",
+   "ro": "Ieșire laterală"
+  },
+  {
+   "key": "38695",
+   "en": "Security Terminal",
+   "ro": "Terminal de securitate"
+  },
+  {
+   "key": "38696",
+   "en": "Shaft",
+   "ro": "Puț"
+  },
+  {
+   "key": "38697",
+   "en": "Area",
+   "ro": "Zonă"
+  },
+  {
+   "key": "38698",
+   "en": "Guard",
+   "ro": "Gardian"
+  }
+ ]
+}

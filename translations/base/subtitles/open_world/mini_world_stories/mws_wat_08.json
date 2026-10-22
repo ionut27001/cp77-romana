@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\mini_world_stories\\mws_wat_08.json",
+ "entries": [
+  {
+   "key": "3963818500598415364",
+   "en": "[db_db][DEBUG ONLY] Teleport me to my apartment",
+   "ro": "[db_db][DEBUG ONLY] Teleportează-mă la apartamentul meu."
+  },
+  {
+   "key": "3963819538738987008",
+   "en": "[db_db][DEBUG ONLY] Don't teleport",
+   "ro": "[db_db][DEBUG ONLY] Nu teleporta."
+  },
+  {
+   "key": "3963831223163961356",
+   "en": "[db_db][DEBUG ONLY] Skip playing Trauma Drama game",
+   "ro": "[db_db][DEBUG ONLY] Sari peste jocul Trauma Drama."
+  },
+  {
+   "key": "3963831231770673160",
+   "en": "[db_db][DEBUG ONLY] Don't skip Trauma Drama game",
+   "ro": "[db_db][DEBUG ONLY] Nu sări peste jocul Trauma Drama."
+  },
+  {
+   "key": "3965595181180928004",
+   "en": "[Scan hand]",
+   "ro": "[Scanează mâna]"
+  },
+  {
+   "key": "3978050234118455296",
+   "en": "[db_db][DEBUG ONLY] Test Toy AV",
+   "ro": "[db_db][DEBUG ONLY] Testează AV-ul de jucărie."
+  }
+ ]
+}

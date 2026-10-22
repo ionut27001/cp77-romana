@@ -1,0 +1,308 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q003\\q003_05_transition.json",
+ "entries": [
+  {
+   "key": "1166370918024331264",
+   "en": "What the f--?",
+   "ro": "Ce pula mea--?"
+  },
+  {
+   "key": "1166371356949856256",
+   "en": "Move!",
+   "ro": "Mișcă-te!"
+  },
+  {
+   "key": "1176894076183318528",
+   "en": "You find 'em?!",
+   "ro": "I-ai găsit?!"
+  },
+  {
+   "key": "1222488279239823360",
+   "en": "Looking now! All exits covered?",
+   "ro": "Caut acum! Ai acoperit toate ieșirile?"
+  },
+  {
+   "key": "1222489478458445824",
+   "en": "Yeah! And what about Kurt and Tommy?!",
+   "ro": "Da! Dar Kurt și Tommy?!"
+  },
+  {
+   "key": "1222491224614309888",
+   "en": "Nah, man... Someone found their bodies.",
+   "ro": "Nu, frate... Le-a găsit cineva. Sunt morți."
+  },
+  {
+   "key": "1222491451928809472",
+   "en": "Motherfuckers... And the boss?",
+   "ro": "Pizdele alea... Și șefu'?"
+  },
+  {
+   "key": "1222497728520196096",
+   "en": "Tried to raise him, no answer. But you know Royce – prolly wants to take 'em out on his own, fuckin' lone wolf style.",
+   "ro": "Am încercat să-l sun, nimic. Dar îl știi pe Royce, probabil vrea să-i scoată singur, ca lupu' singuratic, nenorocitul."
+  },
+  {
+   "key": "1267750039982903296",
+   "en": "I'll check over here!",
+   "ro": "Verific aici!"
+  },
+  {
+   "key": "1693718786106679296",
+   "en": "Careful. They could be anywhere.",
+   "ro": "Atenție. Ar putea fi oriunde."
+  },
+  {
+   "key": "1693721938881110016",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Not far now, \" a=\". Exit's close.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Not far now, \" a=\". Exit's close.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Nu mai e mult, \" a=\". Ieșirea e aproape.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Nu mai e mult, \" a=\". Ieșirea e aproape.\"/>"
+  },
+  {
+   "key": "1769758841409069056",
+   "en": "Cargo manifests. Stamped LOA.",
+   "ro": "Manifeste de marfă. Ștampilate LOA."
+  },
+  {
+   "key": "1769760716413952000",
+   "en": "LOA?",
+   "ro": "LOA?"
+  },
+  {
+   "key": "1769760846303158272",
+   "en": "Lost on arrival. Someone knew they'd slip outta Militech's grip soon as they crossed the border in to the state.",
+   "ro": "Pierdute la sosire. Cineva știa că o să scape de Militech imediat ce trec granița în stat."
+  },
+  {
+   "key": "1771154629947252736",
+   "en": "Oh shit, I know this fool! It's Brick!",
+   "ro": "Ah, căcat, îl știu pe prostul ăsta! E Brick!"
+  },
+  {
+   "key": "1771155553465884672",
+   "en": "Hey, you! Hey, hey! Help me out over here!",
+   "ro": "Hei, tu! Hei, hei! Ajută-mă aici!"
+  },
+  {
+   "key": "1771158664834146304",
+   "en": "God... Felt like a fuckin' eternity, that.",
+   "ro": "Doamne... Parcă a durat o veșnicie, pula mea."
+  },
+  {
+   "key": "1771159410480734208",
+   "en": "So you're Brick, yeah?",
+   "ro": "Deci tu ești Brick, da?"
+  },
+  {
+   "key": "1771159547919687680",
+   "en": "I'm Brick.",
+   "ro": "Sunt Brick."
+  },
+  {
+   "key": "1771160050682519552",
+   "en": "W-Well, I'm Jackie Welles. And this is V.",
+   "ro": "P-Păi, eu sunt Jackie Welles. Și ăsta e V."
+  },
+  {
+   "key": "1771161361066975232",
+   "en": "Manage here by yourself?",
+   "ro": "Te descurci singură aici?",
+   "ro_m": "Te descurci singur aici?"
+  },
+  {
+   "key": "1771161612574220288",
+   "en": "Sure you'll manage all right?",
+   "ro": "Sigur te descurci?"
+  },
+  {
+   "key": "1771162050073681920",
+   "en": "This is my home.",
+   "ro": "Aici e casa mea."
+  },
+  {
+   "key": "1777817212291051520",
+   "en": "Signed by one Anthony Gilchrist. We have our mole, heheh.",
+   "ro": "Semnat de un Anthony Gilchrist. Avem cârtița noastră, heheh."
+  },
+  {
+   "key": "1778034913596862464",
+   "en": "Lookin' a little like we mighta saved your skin.",
+   "ro": "Se pare că ți-am salvat pielea."
+  },
+  {
+   "key": "1778034930172751872",
+   "en": "Been in here a while?",
+   "ro": "Ai stat aici de ceva vreme?"
+  },
+  {
+   "key": "1778034979766202368",
+   "en": "You owe us.",
+   "ro": "Ne ești dator."
+  },
+  {
+   "key": "1778035307660111872",
+   "en": "They been holding you long?",
+   "ro": "Te-au ținut mult?"
+  },
+  {
+   "key": "1778038676424421376",
+   "en": "Few days... Kinda lost count.",
+   "ro": "Câteva zile... Am pierdut șirul."
+  },
+  {
+   "key": "1778039356824416256",
+   "en": "Some guys loyal enough to care slipped me stuff, tried to help out. Royce threw 'em in the microwave dryer. Made me watch.",
+   "ro": "Câțiva tipi destul de loiali cât să le pese mi-au strecurat chestii, au încercat să mă ajute. Royce i-a băgat în uscătorul cu microunde. M-a pus să privesc."
+  },
+  {
+   "key": "1778040269202976768",
+   "en": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Think we're due a favor, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Cred că ne datorezi o favoare, \" a=\".\"/>"
+  },
+  {
+   "key": "1778040789514776576",
+   "en": "Jesus, slow down, maybe? I'll get you, but kinda caught me at a bad time.",
+   "ro": "Doamne, mai încet, poate? Te scot de aici, dar m-ai prins cam prost acum."
+  },
+  {
+   "key": "1778041234194886656",
+   "en": "We ever meet again, I'll have you covered.",
+   "ro": "Dacă ne mai vedem vreodată, te acopăr eu."
+  },
+  {
+   "key": "1778043337151803392",
+   "en": "Quit fuckin' sweatin' it.",
+   "ro": "Lasă dracu' grija asta."
+  },
+  {
+   "key": "1947556115045564420",
+   "en": "Royce did this?",
+   "ro": "Royce a făcut asta?"
+  },
+  {
+   "key": "1947556115045564428",
+   "en": "The twisted fuck.",
+   "ro": "Nenorocitul ăla bolnav."
+  },
+  {
+   "key": "1947678752937754624",
+   "en": "Got it. Brick's cell code.",
+   "ro": "Am. Codul celulei lui Brick."
+  },
+  {
+   "key": "1947679354367393792",
+   "en": "<kiroshi l=\"mex\" o=\"Buen trabajo, V.\" t=\"Good work, V.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Buen trabajo, V.\" t=\"Bună treabă, V.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1947686332279963648",
+   "en": "Ooph, tough... But all said an' done, guy was a goon, ruthless at that.",
+   "ro": "Uf, dur... Dar, până la urmă, tipu' era un bătăuș, nemilos pe deasupra."
+  },
+  {
+   "key": "1947838946023981056",
+   "en": "<mothertongue l=\"mex\" m=\"Cabrones\" b=\"\" a=\". Left you for dead...\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Cabrones\" b=\"\" a=\". Te-au lăsat să mori...\"/>"
+  },
+  {
+   "key": "1968221086230179840",
+   "en": "Dex sent us.",
+   "ro": "Ne-a trimis Dex."
+  },
+  {
+   "key": "1968221264806866944",
+   "en": "Guess it's kinda your fault we're here. Came for some tech Dex bought.",
+   "ro": "Cred că e cumva vina ta că suntem aici. Venisem după niște tech pe care l-a cumpărat Dex."
+  },
+  {
+   "key": "1968221753913044992",
+   "en": "He tell you to free me?",
+   "ro": "Ți-a zis să mă eliberezi?"
+  },
+  {
+   "key": "1968221900260700160",
+   "en": "No. Just to pick up the bot.",
+   "ro": "Nu. Doar să iau botul."
+  },
+  {
+   "key": "1968221990589231104",
+   "en": "Classic fuckin' Dex... Hahaha...",
+   "ro": "Clasicul nenorocit de Dex... Hahaha..."
+  },
+  {
+   "key": "1975542416688431104",
+   "en": "[Pick up] Detonator...",
+   "ro": "[Ia] Detonatorul..."
+  },
+  {
+   "key": "1975543659829805056",
+   "en": "Detonator, armed.",
+   "ro": "Detonator, înarmat."
+  },
+  {
+   "key": "1975544432638705664",
+   "en": "Linked to a fat-ass firecracker… attached to our new amigo here.",
+   "ro": "Legat de o petardă cât casa… prinsă de amicul nostru nou."
+  },
+  {
+   "key": "1975545594276364304",
+   "en": "It's your call, V. Whaddaya wanna do?",
+   "ro": "E decizia ta, V. Ce facem?"
+  },
+  {
+   "key": "1975571406190952448",
+   "en": "[Set off charge] Bye-bye, Brick.",
+   "ro": "[Detonează încărcarea] Pa-pa, Brick."
+  },
+  {
+   "key": "1975572042198433792",
+   "en": "[Disarm charge] Gotta free 'im.",
+   "ro": "[Dezamorsează încărcarea] Tre' să-l eliberez."
+  },
+  {
+   "key": "1975572394234757120",
+   "en": "Need to think.",
+   "ro": "Tre' să mă gândesc."
+  },
+  {
+   "key": "1975573170214551552",
+   "en": "Buh-bye, Brick.",
+   "ro": "Pa, Brick."
+  },
+  {
+   "key": "1975575573282308100",
+   "en": "A gentle touch… and he'll be free.",
+   "ro": "O atingere ușoară… și-o să fie liber."
+  },
+  {
+   "key": "1975575596501975044",
+   "en": "Need to think this through…",
+   "ro": "Tre' să mă gândesc bine…"
+  },
+  {
+   "key": "1975652885277327360",
+   "en": "Careful! I move an inch away from this laser, I'm ground beef. It's linked to a mine.",
+   "ro": "Atenție! Mă mișc un centimetru de lângă laserul ăsta și devin carne tocată. E legat de o mină."
+  },
+  {
+   "key": "1995267968533983232",
+   "en": "Think faasst.",
+   "ro": "Gândește repede."
+  },
+  {
+   "key": "2018669372727713792",
+   "en": "[Inspect]",
+   "ro": "[Inspectează]"
+  },
+  {
+   "key": "2052337224479817728",
+   "en": "[Set off charge]",
+   "ro": "[Detonează încărcarea]"
+  },
+  {
+   "key": "2052337224479817744",
+   "en": "[Disarm charge]",
+   "ro": "[Dezamorsează încărcarea]"
+  }
+ ]
+}

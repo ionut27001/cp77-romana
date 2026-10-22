@@ -1,0 +1,215 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_03_haruo.json",
+ "entries": [
+  {
+   "key": "1364794049638580224",
+   "en": "<kiroshi l=\"kor\" o=\"어이! 여기! 여기야!\" t=\"Hey! Pssst! Hey, you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"어이! 여기! 여기야!\" t=\"Hei! Pssst! Hei, tu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1364794841405734912",
+   "en": "Are you Hwangbo?",
+   "ro": "Ești Hwangbo?"
+  },
+  {
+   "key": "1364798434145878016",
+   "en": "You Hwangbo?",
+   "ro": "Tu ești Hwangbo?"
+  },
+  {
+   "key": "1364809131500126208",
+   "en": "<kiroshi l=\"kor\" o=\"그래. 근데 다들 날 \\\"치타\\\"라고 불러. 내가 또 치타처럼 존나 빠르거든.\" t=\"Yeah. But everyone calls me \\\"Cheetah.\\\" 'Cuz y'know, I'm fast like a cheetah.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"그래. 근데 다들 날 \\\"치타\\\"라고 불러. 내가 또 치타처럼 존나 빠르거든.\" t=\"Da. Dar toată lumea îmi spune „Cheetah”. Pentru că, știi tu, sunt rapid ca un ghepard.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1426918455311220736",
+   "en": "<kiroshi l=\"kor\" o=\"이런 개씨발! 놈들이야!\" t=\"Shit, shit, shit, they're here!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"이런 개씨발! 놈들이야!\" t=\"Căcat, căcat, căcat, sunt aici!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1426918859507908608",
+   "en": "Do I look blind or deaf to you?",
+   "ro": "Arăt orb sau surd?"
+  },
+  {
+   "key": "1426920158752292864",
+   "en": "<kiroshi l=\"kor\" o=\"으... 씨발 존나 아슬아슬했는데 그래도 우리가 해냈어.\" t=\"Uff... That was a close call, but we did it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"으... 씨발 존나 아슬아슬했는데 그래도 우리가 해냈어.\" t=\"Uff... A fost pe muchie, dar am reușit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1426923088624631808",
+   "en": "Not my concern.",
+   "ro": "Nu e treaba mea."
+  },
+  {
+   "key": "1426923384306286592",
+   "en": "Regina knows what she's doing.",
+   "ro": "Regina știe ce face."
+  },
+  {
+   "key": "1426924195786670080",
+   "en": "Not my concern.",
+   "ro": "Nu e treaba mea."
+  },
+  {
+   "key": "1426927457948549120",
+   "en": "<kiroshi l=\"kor\" o=\"야, 야. 그럼 이건 어때? 날 다시 도시로 데려다주면...\" t=\"'Ey, wait, how about this – you take me back to the city and...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"야, 야. 그럼 이건 어때? 날 다시 도시로 데려다주면...\" t=\"Hei, stai, ce-ar fi să mă duci înapoi în oraș și...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1426927554971189248",
+   "en": "Out, or I'll harvest those kidneys myself.",
+   "ro": "Afară, sau îți scot eu rinichii."
+  },
+  {
+   "key": "1426927926401974272",
+   "en": "Reggie hired 'em direct. Ran the spec herself.",
+   "ro": "Reggie i-a angajat direct. A gestionat specificațiile singură."
+  },
+  {
+   "key": "1426929005227294720",
+   "en": "Regina sends her regards.",
+   "ro": "Regina te salută."
+  },
+  {
+   "key": "1548802757639946248",
+   "en": "<kiroshi l=\"kor\" o=\"알았어, 알았다고. 내리면 되잖아. 그리고... 모텔에서 도와줘서 고마웠어.\" t=\"OK. OK. I'm going. And... thanks for your help back at the motel.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"알았어, 알았다고. 내리면 되잖아. 그리고... 모텔에서 도와줘서 고마웠어.\" t=\"OK. OK. Plec. Și... mulțumesc pentru ajutorul de la motel.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1548802757639946256",
+   "en": "Any time.",
+   "ro": "Oricând."
+  },
+  {
+   "key": "1660163554252570624",
+   "en": "Let me do the driving.",
+   "ro": "Eu conduc."
+  },
+  {
+   "key": "1660164105920987136",
+   "en": "<kiroshi l=\"kor\" o=\"그럼 난? 난 뭐 하면 되는데?\" t=\"And me? What am I supposed to do?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"그럼 난? 난 뭐 하면 되는데?\" t=\"Și eu? Ce ar trebui să fac?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1660166368647331840",
+   "en": "<kiroshi l=\"kor\" o=\"어이, 넌 별명 같은 거 없어?\" t=\"'Ey, you got some kinda nickname?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"어이, 넌 별명 같은 거 없어?\" t=\"Hei, ai vreun fel de poreclă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734305507411640320",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1734306220711755776",
+   "en": "<kiroshi l=\"kor\" o=\"저런, 그럼 이참에 뭐라도 생각해 놔. 길거리에서 존나 잘 먹힐 테니까.\" t=\"Damn, well you gotta come up with something. Street cred'll thank you for it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"저런, 그럼 이참에 뭐라도 생각해 놔. 길거리에서 존나 잘 먹힐 테니까.\" t=\"La naiba, ei bine, trebuie să-ți găsești ceva. Reputația îți va mulțumi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734311526573424640",
+   "en": "Is that so?",
+   "ro": "Așa?"
+  },
+  {
+   "key": "1734314080233472000",
+   "en": "<kiroshi l=\"kor\" o=\"당연하지. 그냥 입에 착 붙는 거로 아무거나 지어내 봐. 그럼 사람들이 금방 기억할 거야.\" t=\"Totally. Just start calling yourself something and people'll catch onto it in no time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"당연하지. 그냥 입에 착 붙는 거로 아무거나 지어내 봐. 그럼 사람들이 금방 기억할 거야.\" t=\"Total. Începe să-ți spui cumva și oamenii vor prinde repede.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734314970382221312",
+   "en": "<kiroshi l=\"kor\" o=\"난 효과 좀 봤거든.\" t=\"Worked for me, it did.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"난 효과 좀 봤거든.\" t=\"La mine a funcționat, da.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1893899385084104708",
+   "en": "Nobody calls you that.",
+   "ro": "Nimeni nu-ți spune așa."
+  },
+  {
+   "key": "1893899668770050048",
+   "en": "OK, \"Cheetah.\"",
+   "ro": "OK, „Cheetah”."
+  },
+  {
+   "key": "1893900846027296768",
+   "en": "Nobody calls you that.",
+   "ro": "Nimeni nu-ți spune așa."
+  },
+  {
+   "key": "1893901031247761408",
+   "en": "OK, \"Cheetah,\" whatever. I don't care. Long as you're good for it.",
+   "ro": "OK, „Cheetah”, fie. Nu mă interesează. Important e să fii de treabă."
+  },
+  {
+   "key": "1893901216535334912",
+   "en": "How'd you get here?",
+   "ro": "Cum ai ajuns aici?"
+  },
+  {
+   "key": "1893904999763988480",
+   "en": "Shut your trap if you don't wanna eat lead.",
+   "ro": "Ține-ți gura dacă nu vrei să mănânci plumb."
+  },
+  {
+   "key": "1893907126947205124",
+   "en": "\"We?\"",
+   "ro": "„Noi”?"
+  },
+  {
+   "key": "1893907456216846336",
+   "en": "You deserve a medal.",
+   "ro": "Meriți o medalie."
+  },
+  {
+   "key": "1893911366398693376",
+   "en": "\"We?\" If it wasn't for me, you'd be a stain on a motel floor.",
+   "ro": "„Noi”? Dacă nu eram eu, ai fi fost o pată pe podeaua unui motel."
+  },
+  {
+   "key": "1893912985030938624",
+   "en": "You want a medal or something?",
+   "ro": "Vrei o medalie sau ceva?"
+  },
+  {
+   "key": "1893916284253687808",
+   "en": "Just don't dirty up my ride, OK?",
+   "ro": "Doar nu-mi murdări mașina, bine?"
+  },
+  {
+   "key": "1893917687818801156",
+   "en": "Don't dirty up my ride.",
+   "ro": "Nu-mi murdări mașina."
+  },
+  {
+   "key": "1893918169861771264",
+   "en": "Just stay quiet.",
+   "ro": "Stai cuminte."
+  },
+  {
+   "key": "1893918970319523840",
+   "en": "Just stay put an' quiet.",
+   "ro": "Stai pe loc și fii cuminte."
+  },
+  {
+   "key": "1893930130053844992",
+   "en": "OK, we're here. Get out.",
+   "ro": "Gata, am ajuns. Coboară."
+  },
+  {
+   "key": "1893931545933434880",
+   "en": "<kiroshi l=\"kor\" o=\"잠깐, 근데... 저 새끼들 믿어도 돼? 너 가면 내 콩팥 떼 가고 그러는 건 아니지?\" t=\"Wait, but... Are those guys cool? They won't harvest my kidneys the second you leave?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"잠깐, 근데... 저 새끼들 믿어도 돼? 너 가면 내 콩팥 떼 가고 그러는 건 아니지?\" t=\"Stai, dar... Sunt ăia mișto? Nu-mi scot rinichii în secunda în care pleci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1912421337310576640",
+   "en": "<kiroshi l=\"kor\" o=\"차 타고 왔지. 걸어왔겠냐? 이 근처에 주차해 뒀어.\" t=\"By car. Parked not too far from here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"kor\" o=\"차 타고 왔지. 걸어왔겠냐? 이 근처에 주차해 뒀어.\" t=\"Cu mașina. Parcată nu prea departe de aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1912511732094652416",
+   "en": "You drive, then. I'll make sure you stay alive.",
+   "ro": "Atunci tu conduci. Eu am grijă să rămâi în viață."
+  }
+ ]
+}

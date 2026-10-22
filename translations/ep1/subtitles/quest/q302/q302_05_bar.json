@@ -1,0 +1,816 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q302\\q302_05_bar.json",
+ "entries": [
+  {
+   "key": "3032536289942867976",
+   "en": "Antique, junky variety. Wonder if it even works.",
+   "ro": "Antic, model de rahat. Mă întreb dacă merge măcar."
+  },
+  {
+   "key": "3032539597872992256",
+   "en": "The customer you are trying to reach is unavailable. Please leave a message.",
+   "ro": "Abonatul pe care încercați să-l sunați nu e disponibil. Vă rugăm să lăsați un mesaj după semnal."
+  },
+  {
+   "key": "3032540176703721472",
+   "en": "Who is this?",
+   "ro": "Cine-i ăsta?"
+  },
+  {
+   "key": "3059286866928181248",
+   "en": "Hello? Yeah, nineteen ninety-seven here – we'd like our phone back.",
+   "ro": "Alo? Da, aici 1997 – vrem telefonul înapoi."
+  },
+  {
+   "key": "3059314092490989568",
+   "en": "Hello? Anyone there?",
+   "ro": "Alo? E cineva acolo?"
+  },
+  {
+   "key": "3059320343060914176",
+   "en": "Uh, anyone there?",
+   "ro": "Ăă, e cineva acolo?"
+  },
+  {
+   "key": "3059326009917939712",
+   "en": "Name's V.",
+   "ro": "Mă numesc V."
+  },
+  {
+   "key": "3059326442333904896",
+   "en": "A friend.",
+   "ro": "O prietenă.",
+   "ro_m": "Un prieten."
+  },
+  {
+   "key": "3059326661494677504",
+   "en": "Not important.",
+   "ro": "Nu contează."
+  },
+  {
+   "key": "3059329859097829376",
+   "en": "Reed? Don't have time for games.",
+   "ro": "Reed? N-am timp de jocuri."
+  },
+  {
+   "key": "3059330053411545088",
+   "en": "Reed…? Listen, got no time to play games.",
+   "ro": "Reed…? Ascultă, n-am timp de jocuri."
+  },
+  {
+   "key": "3059332380881166336",
+   "en": "Call me V.",
+   "ro": "Spune-mi V."
+  },
+  {
+   "key": "3059332613765701632",
+   "en": "A friend.",
+   "ro": "O prietenă.",
+   "ro_m": "Un prieten."
+  },
+  {
+   "key": "3059332710519906304",
+   "en": "Doe'n't matter who I am. Matters who sent me.",
+   "ro": "Nu contează cine sunt. Contează cine m-a trimis."
+  },
+  {
+   "key": "3059353433955213312",
+   "en": "Daytime, note it.",
+   "ro": "Ziua, notează."
+  },
+  {
+   "key": "3059850859656941644",
+   "en": "Not exactly loquacious, our man of mystery…",
+   "ro": "Nu prea vorbăreț, misteriosul nostru…"
+  },
+  {
+   "key": "3072141777446469632",
+   "en": "Fossil's prolly busted.",
+   "ro": "Fosila e probabil stricată."
+  },
+  {
+   "key": "3072314369146978304",
+   "en": "Or you flubbed the number.",
+   "ro": "Sau ai greșit numărul."
+  },
+  {
+   "key": "3072342146227208240",
+   "en": "Ah, c'mon. Answer.",
+   "ro": "Ah, hai. Răspunde odată."
+  },
+  {
+   "key": "3072491299737534464",
+   "en": "I'll have a double cheeseburg while you're at it.",
+   "ro": "Iau și eu un cheeseburger dublu, cât ești acolo."
+  },
+  {
+   "key": "3090292662738522112",
+   "en": "Capitán Caliente. Guy clearly went down with this place.",
+   "ro": "Capitán Caliente. Tipul a picat odată cu locul ăsta."
+  },
+  {
+   "key": "3107355339864313856",
+   "en": "The fuck do we do now?",
+   "en_m": "What the fuck do we do now?",
+   "ro": "Ce dracu' facem acum?",
+   "ro_m": "Ce pula mea facem acum?"
+  },
+  {
+   "key": "3107361204021399564",
+   "en": "Hello...?",
+   "ro": "Alo...?"
+  },
+  {
+   "key": "3242019588783054848",
+   "en": "C'mon, pick up.",
+   "ro": "Hai, răspunde."
+  },
+  {
+   "key": "3339113649821556736",
+   "en": "Stash house, by the looks of it.",
+   "ro": "Pare o casă de depozit."
+  },
+  {
+   "key": "3346221553821261824",
+   "en": "Ain't nothin' without your health! Check out Ronald's preem stims!",
+   "ro": "Fără sănătate nu ești nimic! Vezi stimurile beton ale lui Ronald!"
+  },
+  {
+   "key": "3346230414724669448",
+   "en": "Get your fresh-klepped shards here!",
+   "ro": "Shard-uri proaspăt ciordite, aici!"
+  },
+  {
+   "key": "3346232688054214664",
+   "en": "Best prices in Dogtown! Certified resale!",
+   "ro": "Cele mai bune prețuri din Dogtown! Revânzare certificată!"
+  },
+  {
+   "key": "3346234534302949384",
+   "en": "Man, fuck the corps – shop local! Shop with Ronald! Ronnie! The Ronster!",
+   "ro": "Bă, bag pula-n corpo – cumpără local! Cumpără de la Ronald! Ronnie! Ronsterul!"
+  },
+  {
+   "key": "3346239708379586564",
+   "en": "Show me what you got.",
+   "ro": "Arată-mi ce poți."
+  },
+  {
+   "key": "3346239835047567360",
+   "en": "I'll be damned! A real, live customer! Heh. What can I getcha?",
+   "ro": "Ia te uită! Un client adevărat, în carne și oase! Hehe. Ce-ți pun?"
+  },
+  {
+   "key": "3346241331357130760",
+   "en": "Whaddaya need, angel?",
+   "en_m": "Whaddaya need, boss?",
+   "ro": "Ce-ți trebuie, angel?",
+   "ro_m": "Ce-ți trebuie, boss?"
+  },
+  {
+   "key": "3346253788171575296",
+   "en": "How's biz?",
+   "ro": "Cum merg afacerile?"
+  },
+  {
+   "key": "3346254611848994816",
+   "en": "Caliente closed?",
+   "ro": "Caliente e închis?"
+  },
+  {
+   "key": "3346255958941999112",
+   "en": "Let's see whatcha got.",
+   "ro": "Hai să vedem ce ai."
+  },
+  {
+   "key": "3346256799178530816",
+   "en": "Preemest shit you ever seen!",
+   "ro": "Cel mai beton rahat pe care l-ai văzut vreodată!"
+  },
+  {
+   "key": "3346257785645277184",
+   "en": "'Ey yo, I love a good loiter… but you gonna buy some shit or not?",
+   "ro": "'Ey yo, îmi place să stau degeaba… da' cumperi ceva d-astea sau nu?"
+  },
+  {
+   "key": "3346285655184744448",
+   "en": "Hey, Capitán Caliente – closed?",
+   "ro": "Hei, Capitán Caliente – închis?"
+  },
+  {
+   "key": "3346309385399148556",
+   "en": "How's biz? Eddies flowin'?",
+   "ro": "Cum merg afacerile? Curg eddies-urile?"
+  },
+  {
+   "key": "3346309385399148568",
+   "en": "But tomorrow's another day. Peeps know Ronald's shop always got what they need!",
+   "ro": "Dar mâine e altă zi. Lumea știe că la Ronald găsești mereu ce-ți trebuie!"
+  },
+  {
+   "key": "3346319045552349184",
+   "en": "Nah, choom, delta crash got everyone skezzin'.",
+   "ro": "Nah, choom, crash-ul ăla a speriat pe toată lumea."
+  },
+  {
+   "key": "3346322479630360576",
+   "en": "Shut 'n boarded. Owner talked shit about Kurt. Mad disrespect. Had no choice – hanged hisself out back.",
+   "ro": "Închis și bătut în cuie. Proprietarul a vorbit căcaturi despre Kurt. Lipsă totală de respect. N-a avut încotro – s-a spânzurat în curte."
+  },
+  {
+   "key": "3346391286365396996",
+   "en": "Know a way inside? Pay you for your trouble.",
+   "ro": "Știi o cale să intri? Te plătesc pentru bătaia de cap."
+  },
+  {
+   "key": "3346394999045857280",
+   "en": "Ey, you a fresh face, so listen up – here in Dtown, ya watch whatcha say. Talk shit to the wrong choom – blam, ya dead.",
+   "ro": "Ey, ești față nouă, așa că ascultă – aici în Dtown ai grijă ce vorbești. Vorbești aiurea cu un choom greșit – blam, ești mort."
+  },
+  {
+   "key": "3346397831291576320",
+   "en": "Anyone inside?",
+   "ro": "E cineva înăuntru?"
+  },
+  {
+   "key": "3346399200043966464",
+   "en": "Man of biz y'are, so let's cut a deal. I slip ya a few eds, you tell me how to slip inside.",
+   "ro": "Ești om de afaceri, așa că hai să facem un târg. Îți strecor câteva eddies, tu-mi spui cum intru."
+  },
+  {
+   "key": "3346399306830946304",
+   "en": "Anyone inside right now?",
+   "ro": "E cineva înăuntru chiar acum?"
+  },
+  {
+   "key": "3346401421297033216",
+   "en": "You payin' for trouble, but OK. Don't ever bail on eddies, huh? Hah…",
+   "ro": "Plătești pentru bătaia de cap, dar OK. Nu scăpa niciodată eddies din mână, huh? Hah…"
+  },
+  {
+   "key": "3346415613513146368",
+   "en": "Could just prefer text. Damn sure I do.",
+   "ro": "Aș prefera mai degrabă un mesaj. Al naibii de sigur că da."
+  },
+  {
+   "key": "3346423726706368512",
+   "en": "The new – ahem – \"owners\" are drainin' power from down the road.",
+   "ro": "Noii – ahem – „proprietari” trag curent de pe drum."
+  },
+  {
+   "key": "3346424440828567552",
+   "en": "Don't know, don't care. Buy somethin' or get off my ass.",
+   "ro": "Nu știu, nu-mi pasă. Cumpără ceva sau cară-te."
+  },
+  {
+   "key": "3346426314289946624",
+   "en": "Check the cables on the wall – sure to connect somewhere. Tinker 'round, reset the power, betcha security trinkets just might go dark.",
+   "ro": "Verifică cablurile de pe perete – sigur se leagă undeva. Mai bâjbâi, resetezi curentul și pariez că gadgeturile de securitate se sting."
+  },
+  {
+   "key": "3346429012351492096",
+   "en": "Sounds promising.",
+   "ro": "Sună promițător."
+  },
+  {
+   "key": "3346432580026474508",
+   "en": "If you ain't a payin' customer, you a leavin' customer.",
+   "ro": "Dacă nu ești client plătitor, ești client plecător."
+  },
+  {
+   "key": "3346435514109894656",
+   "en": "Half a Dogtown's chasin' Rosalind Myers like bitches in heat. Shit's fake news.",
+   "ro": "Jumătate din Dogtown e după Rosalind Myers ca javrele în călduri. Toată chestia asta e fake news."
+  },
+  {
+   "key": "3346441767213178888",
+   "en": "You blockin' my light, choom.",
+   "ro": "Blochezi lumina, choom."
+  },
+  {
+   "key": "3498595798216957956",
+   "en": "[Hang up]",
+   "ro": "[Închide]"
+  },
+  {
+   "key": "3549358326762807296",
+   "en": "We know she's in there! Set her free! Or we will!",
+   "ro": "Știm că e acolo! Eliberați-o! Sau o facem noi!"
+  },
+  {
+   "key": "3549367269354479632",
+   "en": "WHERE IS MYERS?! WHERE IS MYERS?!",
+   "ro": "UNDE E MYERS?! UNDE E MYERS?!"
+  },
+  {
+   "key": "3549371522965938192",
+   "en": "Dogtown will PAY!",
+   "ro": "Dogtown o să PLĂTEASCĂ!"
+  },
+  {
+   "key": "3549373105795604484",
+   "en": "Hansen, you fucking shitstain!",
+   "ro": "Hansen, nenorocitule de căcat!"
+  },
+  {
+   "key": "3549374694765731840",
+   "en": "Move the fuck back! Now!",
+   "ro": "Dă-te dracu' înapoi! Acum!"
+  },
+  {
+   "key": "3549378034404794384",
+   "en": "Give me a reason, you Washington whores!",
+   "ro": "Dă-mi un motiv, curvelor din Washington!"
+  },
+  {
+   "key": "3549378851975307272",
+   "en": "You playin' rough? Come on, then!",
+   "ro": "Vrei să te joci dur? Hai, atunci!"
+  },
+  {
+   "key": "3549379459276972048",
+   "en": "Wanna eat lead, fuckers?! Huh?!",
+   "ro": "Vreți să mâncați plumb, nenorociților?! Huh?!"
+  },
+  {
+   "key": "3562010744637988864",
+   "en": "Tell me about the 'hood.",
+   "ro": "Spune-mi despre cartier."
+  },
+  {
+   "key": "3562011395996622848",
+   "en": "Longshore Stacks –  whaddaya know?",
+   "ro": "Longshore Stacks – ce știi?"
+  },
+  {
+   "key": "3562011976068866048",
+   "en": "Look like a choom who's been around Dtown.",
+   "ro": "Arăți ca un choom care a umblat prin Dtown."
+  },
+  {
+   "key": "3562012238951063552",
+   "en": "OK, Longshore Stacks – whaddaya know?",
+   "ro": "OK, Longshore Stacks – ce știi?"
+  },
+  {
+   "key": "3562014614135087104",
+   "en": "Like whatcha see, huh? Big fan myself. Place got a real history, y'know?",
+   "ro": "Îți place ce vezi, huh? Și eu sunt fan mare. Locul ăsta are istorie, știi?"
+  },
+  {
+   "key": "3562015063697367040",
+   "en": "Everythin' ya see here, every lil' piece of fuckin' scrap metal 'n' shit is pre-war, choom.",
+   "ro": "Tot ce vezi aici, fiecare nenorocită de bucată de fier vechi și d-astea e de dinainte de război, choom."
+  },
+  {
+   "key": "3562015670093062144",
+   "en": "Them containers – used to hold bricks 'n' beams for buildin' the 'hood. Shit got klepped, obvi, but them big-ass boxes? Ain't gone nowhere.",
+   "ro": "Containerele alea țineau cărămizi și grinzi pentru construit cartierul. S-a ciordit ce era înăuntru, evident, da' cutiile alea cât casa? N-au plecat nicăieri."
+  },
+  {
+   "key": "3562016116434116608",
+   "en": "Now, we Dtowners, we resourceful. Some clever chooms grabbed 'em and behold – preem livin' space. In highrises, no less! Ain't no shit go to waste here, y'know?",
+   "ro": "Acum, noi, dtownerii, ne descurcăm. Niște chooms deștepți le-au luat și, uite – spațiu de locuit beton. În zgârie-nori, mai și! Aici nu se pierde nimic, știi?"
+  },
+  {
+   "key": "3562019034864394240",
+   "en": "Gotta say, first time I'm in the 'hood. Sooo, Terra – got any, uh, travel tips?",
+   "en_m": "Gotta say, first time in the 'hood. Sooo, Terra – got any… travel tips?",
+   "ro": "Trebuie să zic, prima dată când sunt în cartier. Deci, Terra – ai ceva sfaturi de călătorie, ăă?",
+   "ro_m": "Trebuie să zic, prima dată în cartier. Deci, Terra – ai… sfaturi de călătorie?"
+  },
+  {
+   "key": "3562021923951321088",
+   "en": "Hmph. The place was a fuckin' quant's paradise years back – talkin' space flight, chrome o' the future, all sortsa tech. Shit'd fry your skullsponge.",
+   "ro": "Hmph. Locul era un nenorocit de paradis al quant-ilor acum ani – zbor spațial, chrome-ul viitorului, tot felul de tech. Ți-ar fi prăjit creierul, pe bune."
+  },
+  {
+   "key": "3562022263723499520",
+   "en": "Now, nothin' but dirt 'n dust 'n' scavs. Rat-ass motherfuckers runnin' the place.",
+   "ro": "Acum, nimic altceva decât praf, pământ și hiene. Niște jigodii de șobolani dau tonul aici."
+  },
+  {
+   "key": "3562022754608062464",
+   "en": "Ya go to Terra Cognita – you a corpse incognita… Hahah! Geddit? Incognita…",
+   "ro": "Dacă mergi la Terra Cognita – ești un cadavru incognita… Hahah! Ai prins? Incognita…"
+  },
+  {
+   "key": "3562023680307732480",
+   "en": "What's up with this tree?",
+   "ro": "Ce-i cu copacul ăsta?"
+  },
+  {
+   "key": "3562023992011628544",
+   "en": "Been wantin' to ask, Ronnie… What's up with all the pics on that tree?",
+   "ro": "Voiam să te întreb, Ronnie… Ce-i cu toate pozele de pe copacul ăla?"
+  },
+  {
+   "key": "3562024972488908800",
+   "en": "Tha'ss whatcha call tradition, choom.",
+   "ro": "Asta e ce numești tradiție, choom."
+  },
+  {
+   "key": "3562025723856527360",
+   "en": "See any badges 'round here? Mm-mm. So your chooms go missin', yeah? Whatcha gon' do? Call Hansen? Nah, best go on you own hunt.",
+   "ro": "Vezi vreun polițai pe aici? Mm-mm. Deci dacă chooms de-ai tăi dispar, da? Ce faci? Îl suni pe Hansen? Nu, mai bine te duci singur la vânătoare."
+  },
+  {
+   "key": "3562026412829679616",
+   "en": "So you don't call no BARGHEST dogs when someone near 'n' dear go missin'. Ya pin a pic to that tree. Attach you's detes, sit tight 'n' pray fo' contact.",
+   "ro": "Deci nu chemi niciun câine BARGHEST când dispare cineva drag. Îți prinzi o poză de copacul ăla. Atașezi detaliile, stai liniștită și speri la un contact.",
+   "ro_m": "Deci nu chemi niciun câine BARGHEST când dispare cineva drag. Îți prinzi o poză de copacul ăla. Atașezi detaliile, stai liniștit și speri la un contact."
+  },
+  {
+   "key": "3562026862173855744",
+   "en": "Peeps ever find their chooms? Well, sometimes. Maybe. Not really. Not 'bout that. 'S 'bout hope, feel me?",
+   "ro": "Găsesc oamenii vreodată chooms? Ba uneori. Poate. Nu prea. Nu despre asta e vorba. E despre speranță, pricepi?"
+  },
+  {
+   "key": "3562027813878210560",
+   "en": "Hang a pic and ya feel like ya done somethin'. Better than sittin' on your ass, yeah?",
+   "ro": "Agăți o poză și te simți ca și cum ai făcut ceva. Mai bine decât să stai degeaba, nu?"
+  },
+  {
+   "key": "3562036751000510464",
+   "en": "Been to the stadium. Quite a sight.",
+   "ro": "Am fost la stadion. Un spectacol."
+  },
+  {
+   "key": "3562038891051851776",
+   "en": "Been to the Stadium. Interesting place.",
+   "ro": "Am fost la Stadion. Loc interesant."
+  },
+  {
+   "key": "3562040541879574528",
+   "en": "Around? Sheeit, gurl, this is my home turf! Who d'ya think I am?",
+   "en_m": "Around? Sheeit, playah, this is my home turf! Who d'ya think I am?",
+   "ro": "Prin zonă? Sheeit, fată, ăsta e terenul meu! Cine crezi că sunt?",
+   "ro_m": "Prin zonă? Sheeit, bă, ăsta e terenul meu! Cine crezi că sunt?"
+  },
+  {
+   "key": "3562042347997208576",
+   "en": "Hmph! You talkin' to the \"Pacifica Typhoon,\" choom! Ay-kay-ay \"The DT Prodigy\"!... Yeeeah, OK, that one ain't my fave.",
+   "ro": "Hmph! Vorbești cu „Pacifica Typhoon”, choom! Sau, cum îi zic alții, „The DT Prodigy”!... Yeeeah, OK, ăla nu e preferatul meu."
+  },
+  {
+   "key": "3562053945549758464",
+   "en": "When they was pumpin' me wit boosters, could blast a hundred meters in six-point-oh! Yeah, ya heard right!",
+   "ro": "Când mă pompau cu boostere, făceam o sută de metri în șase virgulă zero! Da, ai auzit bine!"
+  },
+  {
+   "key": "3562056620458745856",
+   "en": "Now I ain't do hardly a hundred a DAY no more. But what'm sayin' is – hell yeah, I been around!",
+   "ro": "Acum nu mai fac nici o sută pe zi. Da’ ce vreau să zic e – normal că am fost pe-aici!"
+  },
+  {
+   "key": "3562067176280399872",
+   "en": "\"Pacifica Typhoon\"? Seriously?",
+   "ro": "„Pacifica Typhoon”? Serios?"
+  },
+  {
+   "key": "3562068869067939840",
+   "en": "\"Typhoon Ronnie,\" huh? You serious?",
+   "ro": "„Typhoon Ronnie”? Cum adică? Ești serios?"
+  },
+  {
+   "key": "3562072095460794368",
+   "en": "Scan the old screamers if you a doubter! Ol' Ronnie was a LEGEND... i-in the makin'.",
+   "ro": "Dacă n-ai încredere, scanează vechile screamers! Ronnie era o LEGENDĂ... în devenire."
+  },
+  {
+   "key": "3562073298185854976",
+   "en": "Hm... How'd your risin' star suddenly flop?",
+   "en_m": "Hm... How'd your, uh, risin' star suddenly flop?",
+   "ro": "Hm... Cum de steaua ta în ascensiune s-a prăbușit brusc?",
+   "ro_m": "Hm... Cum de steaua ta, ăă, în ascensiune s-a prăbușit brusc?"
+  },
+  {
+   "key": "3562083767218970624",
+   "en": "Well… there's this chick, Fiona. Had this, uhm, center for gifted youth 'n' shit. Future sports stars. All good, right?",
+   "ro": "Păi… e o tipă, Fiona. Avea un, uhm, centru pentru puști talentați și d-alea. Viitoare vedete ale sportului. Totul bine, nu?"
+  },
+  {
+   "key": "3562087168094871552",
+   "en": "We talkin' a roof overhead, real food, trainin', boosters 'n' chrome. And heaps of chrome, choom.",
+   "ro": "Vorbim de un acoperiș deasupra capului, mâncare adevărată, antrenament, boostere și chrome. Și chrome cât cuprinde, choom."
+  },
+  {
+   "key": "3562089165858643968",
+   "en": "Shit was all rainbows 'n' roses till ya stumbled. And choom, I fuckin' wiped out. Landed in the Dtown street with mean-ass migraines 'n' insomnia. An' I was lucky, too.",
+   "ro": "Totul era roz până ai dat de belea. Și choom, m-am prăbușit de tot. Am aterizat pe strada din Dtown cu migrene de căcat și insomnie. Și am avut noroc, zic eu."
+  },
+  {
+   "key": "3562155781740929024",
+   "en": "Since I got you…",
+   "ro": "De când te am aici…"
+  },
+  {
+   "key": "3562156290577113088",
+   "en": "Since I got you, was gonna ask…",
+   "ro": "De când ești aici, voiam să te întreb…"
+  },
+  {
+   "key": "3562156831675883520",
+   "en": "Hit me, choom. Day's slower 'n' a molasses flood.",
+   "ro": "Spune, choom. Ziua e mai lentă decât o inundație de melasă."
+  },
+  {
+   "key": "3562158427122016256",
+   "en": "Tell me about the 'hood.",
+   "ro": "Spune-mi despre cartier."
+  },
+  {
+   "key": "3562159324166201344",
+   "en": "Got some questions 'bout D-town, actually…",
+   "ro": "Am câteva întrebări despre D-town, de fapt…"
+  },
+  {
+   "key": "3562160109356687360",
+   "en": "Sure thing, toss 'em up.",
+   "ro": "Sigur, aruncă-le."
+  },
+  {
+   "key": "3562164016166313984",
+   "en": "Uh-huh. Had big plans to set up shop there, y'know? But wooo, the competition whooped my typhoon ass.",
+   "ro": "Aha. Aveam planuri mari să deschid acolo, știi? Dar vaaai, concurența m-a făcut praf."
+  },
+  {
+   "key": "3562172481110646784",
+   "en": "Y'know, Nighthawks was roostin' there while Hansen was still shittin' his diapers. How's it go…? Good times make bad chooms, then bad chooms fuck shit up?",
+   "ro": "Știi, Nighthawks își făceau cuibul acolo când Hansen încă purta scutece. Cum era vorba…? Vremurile bune fac chooms răi, iar chooms răi fac praf tot?"
+  },
+  {
+   "key": "3570877043782819840",
+   "en": "Bottom line – 's all 'bout the eddies. Who got the most scratch? Hansen! Stadium ain't his main biz, oh no. But I ain't gonna say no more on that, hah!",
+   "ro": "Până la urmă, totul se reduce la eddies. Cine are cei mai mulți eddies? Hansen! Stadionul nu e principala lui afacere, nu-nu. Da’ despre asta nu mai zic nimic, hah!"
+  },
+  {
+   "key": "3599764987007950848",
+   "en": "Dtown districts – tell me what you know.",
+   "ro": "Districtele din Dtown – spune-mi ce știi."
+  },
+  {
+   "key": "3599765079450411008",
+   "en": "Some points of interest caught my eye…",
+   "ro": "Mi-au sărit în ochi câteva locuri interesante…"
+  },
+  {
+   "key": "3599766631527440384",
+   "en": "Dtown's districts – whaddaya know?",
+   "ro": "Districtele din Dtown – ce știi?"
+  },
+  {
+   "key": "3599770858966441984",
+   "en": "Golden Pacific sounds grandiose.",
+   "ro": "Golden Pacific sună grandios."
+  },
+  {
+   "key": "3599770941191577600",
+   "en": "Luxor Heights – what's the story?",
+   "ro": "Luxor Heights – care e povestea?"
+  },
+  {
+   "key": "3599775607002456064",
+   "en": "Since we're already talkin'…",
+   "ro": "De când tot vorbim…"
+  },
+  {
+   "key": "3599776769780965376",
+   "en": "Came through an expo hall recently.",
+   "ro": "Am trecut recent printr-o sală Expo."
+  },
+  {
+   "key": "3599776922940170240",
+   "en": "There's this skyscraper…",
+   "ro": "E zgârie-norul ăsta…"
+  },
+  {
+   "key": "3599777640770134016",
+   "en": "Got a pyramid here, right?",
+   "ro": "Avem o piramidă pe aici, nu?"
+  },
+  {
+   "key": "3599785568692559872",
+   "en": "Hah! Which ones, baby girl?",
+   "en_m": "Hah! Which ones, mah man?",
+   "ro": "Hah! Care dintre ele, fată?",
+   "ro_m": "Hah! Care dintre ele, bă?"
+  },
+  {
+   "key": "3599786380441378816",
+   "en": "Got some pretty unique places 'round here...",
+   "ro": "Pe aici sunt locuri cam ciudate..."
+  },
+  {
+   "key": "3599787314294775808",
+   "en": "This 'hood just exudin' clever, now, ain't it? Hahah!",
+   "ro": "Cartierul ăsta chiar se dă deștept, nu? Hahah!"
+  },
+  {
+   "key": "3599787974662774784",
+   "en": "Luxor Heights – know anything about 'em?",
+   "ro": "Luxor Heights – știi ceva despre ele?"
+  },
+  {
+   "key": "3599788026839916544",
+   "en": "Golden Pacific. Grandiose name, am I right?",
+   "ro": "Golden Pacific. Nume grandios, nu?"
+  },
+  {
+   "key": "3599789201630912512",
+   "en": "Ey, best not snoop 'round there. Them Voodoo Boys been doin' voodoo shit since they made it their crib.",
+   "ro": "Hei, mai bine nu te bagi pe acolo. Voodoo Boys fac tot felul de vrăji de când și-au făcut cuib acolo."
+  },
+  {
+   "key": "3599789824870932480",
+   "en": "Sheeit, choom, suits promised eddies rainin' down from every window, peeps shittin' solid gold!",
+   "ro": "Căcat, choom, costumele promiteau că plouă cu eddies din fiecare fereastră, lumea cacă aur curat!"
+  },
+  {
+   "key": "3599790316745351168",
+   "en": "Yeah, yeah, w-whacha thinkin'?",
+   "ro": "Da, da, la ce te gândeai?"
+  },
+  {
+   "key": "3599790718794555392",
+   "en": "Came through this kinda… expo hall? Some curious mockups of all kinds of buildings there.",
+   "ro": "Am trecut printr-o chestie de genul… sală Expo? Sunt machete ciudate de tot felul de clădiri."
+  },
+  {
+   "key": "3599790741846450176",
+   "en": "Even got a pyramid. Hard to miss, that one.",
+   "ro": "Au și o piramidă. Greu de ratat, aia."
+  },
+  {
+   "key": "3599790767465259008",
+   "en": "Big skyscraper – know anything about it?",
+   "ro": "Zgârie-norul ăla mare – știi ceva despre el?"
+  },
+  {
+   "key": "3599791864208646144",
+   "en": "Ho-ho! You got guts, girl! Liked whatcha saw? Them suits musta been trippin BALLS comin' up with them district plans, hahaha!",
+   "en_m": "Ho-ho! You got guts, man! Liked whatcha saw? Them suits musta been trippin BALLS comin' up with them district plans, hahaha!",
+   "ro": "Ho-ho! Ai nervi, fată! Ți-a plăcut ce-ai văzut? Costumele alea trebuie că erau praf de tot când au făcut planurile de district, hahaha!",
+   "ro_m": "Ho-ho! Ai nervi, băiete! Ți-a plăcut ce-ai văzut? Costumele alea trebuie că erau praf de tot când au făcut planurile de district, hahaha!"
+  },
+  {
+   "key": "3599792064914481152",
+   "en": "Pretty preem, hmm? Fixers think so fo' sure. Biz talks get drowned out by wild party hubbub and tracks that're fire. Privacy guaranteed, hmm?",
+   "ro": "Destul de beton, nu? Fixerii zic sigur la fel. Discuțiile de afaceri se pierd în harmalaia petrecerii și în piesele alea care sunt foc. Intimitate garantată, nu?"
+  },
+  {
+   "key": "3599792221731119104",
+   "en": "Suits called it the Black Sapphire way back when. Folks call it the \"hotel\" or \"tower\" these days. Place's gilded, I hear. Pretty much outta reach for us mortals.",
+   "ro": "Costumele îi ziceau Black Sapphire pe vremuri. Lumea îi spune acum „hotel” sau „turnul”. Locul e aurit, am auzit. Practic de neatins pentru noi, muritorii."
+  },
+  {
+   "key": "3601238246454943744",
+   "en": "Thanks, real helpful. Seem to really know your way around.",
+   "ro": "Mersi, super util. Parcă știi bine pe unde te învârți."
+  },
+  {
+   "key": "3601240265072795652",
+   "en": "Fuck it, why not?",
+   "ro": "Dă-o dracu', de ce nu?"
+  },
+  {
+   "key": "3601240759749009408",
+   "en": "Nah, pass.",
+   "ro": "Nu, las' baltă."
+  },
+  {
+   "key": "3601241206006177792",
+   "en": "Know what? Fuck it, why not. Be nice to know what the street's sayin'.",
+   "ro": "Știi ce? Dă-o dracu', de ce nu. Ar fi mișto să știu ce zic pe stradă."
+  },
+  {
+   "key": "3601241237195022336",
+   "en": "Eh, thanks, think I got it from here. Later, Ronnie.",
+   "en_m": "Thanks, think I got it from here. Later, Ronnie.",
+   "ro": "Mersi, cred că mă descurc de aici. Ne auzim, Ronnie.",
+   "ro_m": "Mulțumesc, cred că mă descurc de aici. Pe mai târziu, Ronnie."
+  },
+  {
+   "key": "3601248446918385664",
+   "en": "Well, shit! In my line o' work, it's all about the gossip. The juicier, the better. Could send some real spicy ones your way, if you's so inclined!",
+   "ro": "Ei, căcat! În meseria mea, bârfa e tot. Cu cât mai picantă, cu atât mai bună. Îți pot trimite câteva bombă, dacă vrei!"
+  },
+  {
+   "key": "3601249217596579840",
+   "en": "Yeeeah, startin' to get me now, hah! Gotta get a leg up whatevah way you can in good old Dtown! Stay in touch, choom.",
+   "ro": "Yeeeah, acum începi să prinzi, hah! Trebuie să tragi folos cum poți în Dtown-ul ăsta drag! Ne auzim, choom."
+  },
+  {
+   "key": "3601249587651633152",
+   "en": "OK, OK… Well, good luck to ya, sister.",
+   "en_m": "Okay, okay… Well, good luck to ya, bruh.",
+   "ro": "OK, OK… Păi, noroc, soro.",
+   "ro_m": "OK, OK… Păi, noroc, frate."
+  },
+  {
+   "key": "3610244809664835584",
+   "en": "Now, they hop 'tween two beds – scavs' 'n' Hansen's. 'Fore ya visit, it's good to know who they be fuckin' 'round with at the time. Askin' for trouble otherwise.",
+   "ro": "Acum, sar între două paturi – ale hienelor și ale lui Hansen. Înainte să mergi pe-acolo, n-ar strica să știi cu cine dracu' se combină. Altfel îți cauți necazuri."
+  },
+  {
+   "key": "3610248979960639488",
+   "en": "Proved true 'nuff fo' my man Hansen. He the only one makin' fat stacks in that place, huh.",
+   "ro": "Se vede că e adevărat. Hansen, omul meu, e singurul care face bani grei acolo, huh."
+  },
+  {
+   "key": "3611394699262504960",
+   "en": "Expo ain't no place for civvies. Ya got pre-war goods 'n' shit there… Best stay clear, 'specially since peeps been hearin' blasts 'n explosions. No thank you.",
+   "ro": "Expo nu e loc pentru civili. Ai acolo marfă pre-război și d-alea… Mai bine stai departe, mai ales că lumea tot aude explozii. Nu, mersi."
+  },
+  {
+   "key": "3611510899300708352",
+   "en": "Heheh! Then WHAM! Reality kicked in. Gonks prolly woke up face-down in the streets, thinkin' \"where'd it all go wrong?!\"",
+   "ro": "Heheh! Apoi BUM! Realitatea i-a lovit. Fraierii probabil s-au trezit cu fața în asfalt, gândindu-se „ce dracu' a mers prost?!”"
+  },
+  {
+   "key": "3611642815463108608",
+   "en": "Bangin' tunes, dense lines o' snow-white, and the biz is IN, choom! Tha'ss how ya get in them major leagues!",
+   "ro": "Muzică beton, linii groase de alb și afacerile merg ca unse, choom! Așa intri în liga mare!"
+  },
+  {
+   "key": "3611658401714876416",
+   "en": "Bottom's open to all the riff-raff. Upper levels, though? Shit's for VIPs. Big playas, big biz, feel me? Maybe gonna visit myself, hahahahahaaa!",
+   "ro": "Parterul e deschis la toată lumea. Etajele de sus, în schimb, sunt pentru VIP-uri. Jucători mari, afaceri mari, prinzi ideea? Poate mă duc și eu, hahahahahaaa!"
+  },
+  {
+   "key": "3611691739032924160",
+   "en": "Apple o' Hansen's eye, his golden egg. He wanna make chooms witchu, he gon' invite you there.",
+   "ro": "Mărul ochiului lui Hansen, gâsca lui cu ouă de aur. Dacă vrea să fiți chooms, te invită acolo."
+  },
+  {
+   "key": "3611701124559876096",
+   "en": "Hear the view from the top's mothafuckin' nova. Might be a lil' crazy, but... I ain't cray-cray enough to find out fo' myself.",
+   "ro": "Se zice că priveliștea de sus e beton de tot. Poate e cam nebunatic, da'... eu nu sunt chiar atât de nebun să aflu singur."
+  },
+  {
+   "key": "3611725948430659584",
+   "en": "Golden Pacific's a BARGHEST breedin' ground. Got their biz, logistics, fun times – all in one helluva dangerous place if you's not one of them dawgs.",
+   "ro": "Golden Pacific e cuibul BARGHEST. Au afaceri, logistică, distracție – toate în același loc, al naibii de periculos dacă nu ești unul dintre câinii lor."
+  },
+  {
+   "key": "3701627712465903616",
+   "en": "Andrew Jackson. Basketball court.",
+   "ro": "Andrew Jackson. Teren de baschet."
+  },
+  {
+   "key": "3852224994352668672",
+   "en": "Why avoid Terra Cognita? Any tips?",
+   "ro": "De ce să evit Terra Cognita? Sfaturi?"
+  },
+  {
+   "key": "3852262683714101248",
+   "en": "As I says, steer the fuck clear o' Terra Cognita. ",
+   "ro": "Cum ziceam, stai dracu' departe de Terra Cognita."
+  },
+  {
+   "key": "3852266325628264448",
+   "en": "Golden Pacific be in the north of Dtown. Got this hill there, Luxor Heights. Name makes a promise and delivers – preem views, ten outta ten.",
+   "ro": "Golden Pacific e în nordul Dtown-ului. E dealul ăla, Luxor Heights. Numele promite și chiar livrează – priveliști beton, zece din zece."
+  },
+  {
+   "key": "3852273629035601920",
+   "en": "Longshore Stacks is the west side. Place got history, feel me? South is Terra Cognita – ya best stay the fuck clear o' there.",
+   "ro": "Longshore Stacks e pe latura de vest. Locul are istorie, prinzi ideea? La sud e Terra Cognita – mai bine stai dracu' departe de ea."
+  },
+  {
+   "key": "3852343846164078592",
+   "en": "Mmm, everythin' there's pre-Unity-War-shit, get me…? Start seein' containers, means ya found the place. ",
+   "ro": "Mmm, acolo e totul d-alea de dinainte de Războiul Unității, mă prinzi…? Când începi să vezi containere, înseamnă că ai ajuns la fața locului."
+  },
+  {
+   "key": "3852383191000522752",
+   "en": "Now, we Dtowners, we resourceful. Some clever chooms grabbed 'em and behold – preem livin' space. In highrises, no less! Ain't no shit go to waste here, y'know?",
+   "ro": "Acum, noi, dtownerii, ne descurcăm. Niște chooms deștepți le-au luat și, uite – spațiu de locuit beton. În zgârie-nori, mai și! Aici nu se pierde nimic, știi?"
+  },
+  {
+   "key": "3860694541749559296",
+   "en": "Huh...",
+   "ro": "Hm..."
+  },
+  {
+   "key": "3860809452509044736",
+   "en": "U-S-A! U-S-A!",
+   "ro": "U-S-A! U-S-A!"
+  },
+  {
+   "key": "3860812347853873152",
+   "en": "Terrorists!",
+   "ro": "Teroriști!"
+  },
+  {
+   "key": "3860814782378909696",
+   "en": "Powerful and united!",
+   "ro": "Puternici și uniți!"
+  },
+  {
+   "key": "3860823152582303744",
+   "en": "Damn you all!",
+   "ro": "Dracu' să vă ia pe toți!"
+  }
+ ]
+}

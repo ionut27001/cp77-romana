@@ -1,0 +1,196 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_04_give_the_shard.json",
+ "entries": [
+  {
+   "key": "1669164865124929536",
+   "en": "Shard is secured.",
+   "ro": "Shard-ul e asigurat."
+  },
+  {
+   "key": "1669195853666291712",
+   "en": "Nice work. Sendin' you the drop-off coordinates.",
+   "ro": "Bună treabă. Îți trimit coordonatele de predare."
+  },
+  {
+   "key": "1669197707565436932",
+   "en": "[Hand over shard]",
+   "ro": "[Predă shard-ul]"
+  },
+  {
+   "key": "1669215967149133824",
+   "en": "<kiroshi l=\"chin\" o=\"等等吖。\" t=\"Wait\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"等等吖。\" t=\"Așteaptă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669216442128896000",
+   "en": "<kiroshi l=\"chin\" o=\"驗驗貨。\" t=\"See if it checks out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"驗驗貨。\" t=\"Vezi dacă e în regulă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669295180774477824",
+   "en": "Client'll be waitin' for you there.",
+   "ro": "Clientul te așteaptă acolo."
+  },
+  {
+   "key": "1669317482593488900",
+   "en": "On my way.",
+   "ro": "Sunt pe drum."
+  },
+  {
+   "key": "1669317584447967232",
+   "en": "I'm en route.",
+   "ro": "Sunt pe drum."
+  },
+  {
+   "key": "1669327723020259328",
+   "en": "Who am I meeting?",
+   "ro": "Cu cine mă întâlnesc?"
+  },
+  {
+   "key": "1669328836188540928",
+   "en": "V – wait.",
+   "ro": "V – stai."
+  },
+  {
+   "key": "1669329209783586816",
+   "en": "Yeah?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1669329286707122176",
+   "en": "When you get there – no questions. Makes them real cranky.",
+   "ro": "Când ajungi acolo – fără întrebări. Se enervează rău."
+  },
+  {
+   "key": "1669329389853446144",
+   "en": "Try my best.",
+   "ro": "Fac tot ce pot."
+  },
+  {
+   "key": "1669330407643254784",
+   "en": "Why do I feel like a corpo agent right now? What's all this about?",
+   "ro": "De ce mă simt acum ca o agentă corpo? Despre ce e vorba?",
+   "ro_m": "De ce mă simt acum ca un agent corpo? Despre ce e vorba?"
+  },
+  {
+   "key": "1669355441111797760",
+   "en": "China. They're the client.",
+   "ro": "China. Ei sunt clientul."
+  },
+  {
+   "key": "1669356213601931264",
+   "en": "China, huh? Thought you never liked swimmin' with the sharks?",
+   "ro": "China, hm? Nu ziceai că nu te bagi cu rechinii?"
+  },
+  {
+   "key": "1669358699951788032",
+   "en": "<kiroshi l=\"chin\" o=\"有喇，陸軍中校。\" t=\"Got a winner, Lieutenant Colonel.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"有喇，陸軍中校。\" t=\"Am un câștigător, locotenent-colonel.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669361524228329472",
+   "en": "<kiroshi l=\"chin\" o=\"數據呢。\" t=\"And the data?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"數據呢。\" t=\"Și datele?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669361801404715008",
+   "en": "<kiroshi l=\"chin\" o=\"俄式套層加密，要攞返去先可以解。\" t=\"Matryoshka-encrypted. Won't be able to extract it here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"俄式套層加密，要攞返去先可以解。\" t=\"Criptat în stil matrioșka. Nu putem extrage datele aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669363989153681408",
+   "en": "<kiroshi l=\"chin\" o=\"明喇。\" t=\"... Understood.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"明喇。\" t=\"... Înțeles.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1675084511728472064",
+   "en": "Everyone's got debts, V. You do what you gotta do.",
+   "ro": "Toată lumea are datorii, V. Faci ce trebuie."
+  },
+  {
+   "key": "1675144467592876036",
+   "en": "What kind of debt?",
+   "ro": "Ce fel de datorie?"
+  },
+  {
+   "key": "1675144714503163904",
+   "en": "What happens if you can't pay it off?",
+   "ro": "Ce se întâmplă dacă nu o poți plăti?"
+  },
+  {
+   "key": "1675164956751138816",
+   "en": "What happens if you can't pay it off?",
+   "ro": "Ce se întâmplă dacă nu o poți plăti?"
+  },
+  {
+   "key": "1675165924444180480",
+   "en": "What kind of debt?",
+   "ro": "Ce fel de datorie?"
+  },
+  {
+   "key": "1675167117992103936",
+   "en": "Why do you think we're scrapin' the barrel-end of gigs here? So I don't have to find out.",
+   "ro": "De ce crezi că ne mulțumim cu gig-urile de mâna a treia? Ca să nu aflu."
+  },
+  {
+   "key": "1675171374153699328",
+   "en": "Just somethin' from my muckrakin' days. Needed help, and fast too...",
+   "ro": "Doar ceva din zilele mele de jurnalist de scandal. Aveam nevoie de ajutor, și repede..."
+  },
+  {
+   "key": "1675171979827974144",
+   "en": "Help for what?",
+   "ro": "Ajutor pentru ce?"
+  },
+  {
+   "key": "1675172088326230016",
+   "en": "I'm sorry, do you hear me pokin' 'round your personal biz? Diggin' through your past?",
+   "ro": "Ce, mă auzi băgându-mi nasul în afacerile tale personale? Scotocind prin trecutul tău?"
+  },
+  {
+   "key": "1675172672626331648",
+   "en": "No... suppose not.",
+   "ro": "Nu... cred că nu."
+  },
+  {
+   "key": "1675172741127704576",
+   "en": "Just teasin', V... sort of. If it's all the same to you, I'd rather just get this over with and move on.",
+   "ro": "Glumeam, V... cam așa. Dacă nu ai nimic împotrivă, hai să terminăm odată și să mergem mai departe."
+  },
+  {
+   "key": "1675182792676577280",
+   "en": "So you headin' to the meet or what?",
+   "ro": "Deci te duci la întâlnire sau ce?"
+  },
+  {
+   "key": "1675220382247129088",
+   "en": "Is there some kinda password?",
+   "ro": "E vreo parolă?"
+  },
+  {
+   "key": "1740478983395708928",
+   "en": "<kiroshi l=\"chin\" o=\"你可以走了。\" t=\"We're done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"你可以走了。\" t=\"Am terminat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1753138766703595520",
+   "en": "Dimly-lit corner, runt limo, suits-and-ties... is there a code-word I'm missin'?",
+   "ro": "Colț întunecat, limuzină mică, costume și cravate... e vreun cuvânt de cod pe care-l ratez?"
+  },
+  {
+   "key": "1753140703364747264",
+   "en": "<kiroshi l=\"chin\" o=\"芯片。\" t=\"Shard.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"芯片。\" t=\"Shard.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1753140813943377920",
+   "en": "Not one for small talk, eh?",
+   "ro": "Nu te prea omori cu vorba, nu?"
+  },
+  {
+   "key": "1753140992721391616",
+   "en": "<kiroshi l=\"chin\" o=\"快啲。\" t=\"Hurry.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"快啲。\" t=\"Grăbește-te.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

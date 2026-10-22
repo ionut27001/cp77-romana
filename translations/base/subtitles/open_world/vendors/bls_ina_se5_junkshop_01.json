@@ -1,0 +1,42 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se5_junkshop_01.json",
+ "entries": [
+  {
+   "key": "1935698783862435840",
+   "en": "What've you got for sale?",
+   "ro": "Ce ai de vânzare?"
+  },
+  {
+   "key": "1935698783879213060",
+   "en": "You all by yourself?",
+   "ro": "Ești singură?",
+   "ro_m": "Ești singur?"
+  },
+  {
+   "key": "1935698784449638404",
+   "en": "Whaddaya trade in?",
+   "ro": "Cu ce faci comerț?"
+  },
+  {
+   "key": "1935698784449638412",
+   "en": "Va--... Various item. Please... uh, p-please have a look.",
+   "ro": "Va--... Obiecte diverse. Te rog... ăă, t-te rog, aruncă o privire."
+  },
+  {
+   "key": "1935698784483192836",
+   "en": "You here all by yourself?",
+   "ro": "Ești singură aici?",
+   "ro_m": "Ești singur aici?"
+  },
+  {
+   "key": "1935698784483192844",
+   "en": "I... I am now, yes. Uh, they all, uh... They're all... g-gone. No one left.",
+   "ro": "Sunt... sunt acum, da. Ăă, au dispărut toți... Toți... d-dispăruți. N-a mai rămas nimeni."
+  },
+  {
+   "key": "1976362317302255616",
+   "en": "A-are y-you b-buying anything? If not... leave me in peace!",
+   "ro": "C-cumperi ceva? D-dacă nu... lasă-mă în pace!"
+  }
+ ]
+}

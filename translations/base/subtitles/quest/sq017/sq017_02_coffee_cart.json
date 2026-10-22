@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq017\\sq017_02_coffee_cart.json",
+ "entries": [
+  {
+   "key": "1334245288012943360",
+   "en": "Get in, take ya for a ride.",
+   "ro": "Urcă, facem un tur."
+  },
+  {
+   "key": "1764883740299178000",
+   "en": "Ah, you're here. That's nova.",
+   "ro": "A, ai venit. Mișto."
+  },
+  {
+   "key": "2098303916644274176",
+   "en": "[Wait for Kerry]",
+   "ro": "[Așteaptă-l pe Kerry]"
+  },
+  {
+   "key": "2140125427944206340",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

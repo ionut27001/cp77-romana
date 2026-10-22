@@ -1,0 +1,1072 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_09c_confrontation.json",
+ "entries": [
+  {
+   "key": "1632917027321876480",
+   "en": "You return. How? How you manage dis?",
+   "ro": "Te-ai întors. Cum? Cum ai reușit?"
+  },
+  {
+   "key": "1632917406201745408",
+   "en": "Disappointed?",
+   "ro": "Dezamăgit?"
+  },
+  {
+   "key": "1632917406218522632",
+   "en": "Exactly what I want to talk to Brigitte about.",
+   "ro": "Exact ce vreau să discut cu Brigitte."
+  },
+  {
+   "key": "1632926942773972996",
+   "en": "Wanna talk to Brigitte.",
+   "ro": "Vreau să vorbesc cu Brigitte."
+  },
+  {
+   "key": "1632930939660472320",
+   "en": "Tried to set me up, you shit.",
+   "ro": "Ai încercat să mă înșeli, căcatule."
+  },
+  {
+   "key": "1632935719237652480",
+   "en": "Wanna talk to Brigitte, your boss.",
+   "ro": "Vreau să vorbesc cu Brigitte, șefa ta."
+  },
+  {
+   "key": "1632936664499556352",
+   "en": "Do that to every merc you hire – try to set 'em up?",
+   "ro": "Așa faci cu toți mercenarii pe care-i angajezi? Încerci să-i tragi pe sfoară?"
+  },
+  {
+   "key": "1632946533982081024",
+   "en": "<mothertongue l=\"creo\" m=\"Koulèv Sal!\" b=\"\" a=\" You believe netfachis?! What he say?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Koulèv Sal!\" b=\"\" a=\" Crezi în netfachiști?! Ce-a zis?\"/>"
+  },
+  {
+   "key": "1633021026482065412",
+   "en": "That the other guy?",
+   "ro": "Ăla e celălalt?"
+  },
+  {
+   "key": "1633027715893628928",
+   "en": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"You think I let you near my \" a=\" after NetPig hack you? <Rich color=\\\"MainColors.ActiveBlue\\\">Bouzan Sal!</>\"/>",
+   "en_m": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"You think I let you near my \" a=\" after NetPig hack you? <Rich color=\\\"MainColors.ActiveBlue\\\">Salopri!</>\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"Crezi că te las lângă \" a=\" după ce NetPig te-a hack-uit? <Rich color=\\\"MainColors.ActiveBlue\\\">Bouzan Sal!</>\"/>",
+   "ro_m": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"Crezi că te las lângă \" a=\" după ce NetPig te-a hack-uit? <Rich color=\\\"MainColors.ActiveBlue\\\">Salopri!</>\"/>"
+  },
+  {
+   "key": "1633083694232440832",
+   "en": "That him? That the scopsucker you sent into the mechdragon's den first?",
+   "ro": "Ăla e? Ăla e jegosul pe care l-ai trimis primul în vizuina mechdragonului?"
+  },
+  {
+   "key": "1633096262246273024",
+   "en": "He gonna, ugh... pull through?",
+   "ro": "O să-și revină, ăă...?"
+  },
+  {
+   "key": "1633101003554623488",
+   "en": "Best you worry about yourself, not him!",
+   "ro": "Mai bine ai grijă de tine, nu de el!"
+  },
+  {
+   "key": "1633244523393257472",
+   "en": "Disappointed? You needed me to do my little trick and then you needed me to die.",
+   "ro": "Dezamăgit? Ai avut nevoie de trucul meu și apoi ai vrut să mor."
+  },
+  {
+   "key": "1633245064961789952",
+   "en": "Exactly what I aim to talk about… with Brigitte.",
+   "ro": "Exact asta vreau să discut cu Brigitte."
+  },
+  {
+   "key": "1633246144676302848",
+   "en": "That the other one?",
+   "ro": "Ăla e celălalt?"
+  },
+  {
+   "key": "1633246144726634496",
+   "en": "That the other guy you sent to the GIM?",
+   "ro": "Ăla e celălalt pe care l-ai trimis la GIM?"
+  },
+  {
+   "key": "1633246144743411728",
+   "en": "Didn't make it, looks like.",
+   "ro": "Se pare că n-a reușit."
+  },
+  {
+   "key": "1633253164481581056",
+   "en": "You talk wid me now.",
+   "ro": "Acum vorbești cu mine."
+  },
+  {
+   "key": "1660690973198716928",
+   "en": "What de fuck you do in de GIM?",
+   "ro": "Ce căcat ai făcut în GIM?"
+  },
+  {
+   "key": "1660697025763938304",
+   "en": "You were to hack de agent, not cut deal wid him!",
+   "ro": "Trebuia să hack-uiești agentul, nu să te înțelegi cu el!"
+  },
+  {
+   "key": "1660717488766521344",
+   "en": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"No, you say what happen. You say or I open you, see wid my own eyes what worm crawl \" a=\"\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"Nu, tu spui ce s-a întâmplat. Spui sau te deschid, să văd cu ochii mei ce vierme se târăște \" a=\"\"/>"
+  },
+  {
+   "key": "1661803289399070720",
+   "en": "<mothertongue l=\"creo\" m=\"anndan\" b=\"You say or I open you, see wid my own eyes what worm crawl \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"anndan\" b=\"Spui sau te deschid, să văd cu ochii mei ce vierme se târăște \" a=\".\"/>"
+  },
+  {
+   "key": "1661825630443212800",
+   "en": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"She's back.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"He's back.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"S-a întors.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1661839049380663308",
+   "en": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" We must head under.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" Trebuie să mergem jos.\"/>"
+  },
+  {
+   "key": "1661839049380663320",
+   "en": "I hope you will not lead her to de crypt?",
+   "en_m": "I hope you will not lead him to de crypt?",
+   "ro": "Sper că n-o duci la criptă?",
+   "ro_m": "Sper că nu-l duci la criptă?"
+  },
+  {
+   "key": "1661839049380663332",
+   "en": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"She is \" a=\". Nothing special. You see de scans.\"/>",
+   "en_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"He is \" a=\". Nothing special. You see de scans.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Ea e \" a=\". Nimic special. Vezi scanările.\"/>",
+   "ro_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"El e \" a=\". Nimic special. Vezi scanările.\"/>"
+  },
+  {
+   "key": "1661851562398781444",
+   "en": "[Punch] Give it your best shot.",
+   "ro": "[Lovește] Dă tot ce ai."
+  },
+  {
+   "key": "1661856725637337088",
+   "en": "Haven't turned coat, not on NetWatch's side, here.",
+   "ro": "N-am trădat. Nu-s cu NetWatch, aici."
+  },
+  {
+   "key": "1661858016157569024",
+   "en": "I fucking dare you.",
+   "en_m": "I fuckin' dare you.",
+   "ro": "Te provoc, pula mea."
+  },
+  {
+   "key": "1661859329729695744",
+   "en": "Listen, I didn't turn coat, didn't pick a side. We made a deal, is all.",
+   "ro": "Ascultă, n-am trădat, n-am luat nicio parte. Am avut o înțelegere, atât."
+  },
+  {
+   "key": "1661861193510621184",
+   "en": "Did what you wanted, 'cept 'stead of gettin' my circuits acid-fried, I'm still breathin'. That so damn wrong?",
+   "en_m": "Did what you wanted, except 'stead of gettin' my circuits acid-fried, I'm still breathin'. That so damn wrong?",
+   "ro": "Am făcut ce-ai vrut. În loc să-mi prăjească acidul circuitele, sunt tot aici, respir. Ce-i așa de al naibii de greșit?"
+  },
+  {
+   "key": "1661866629999693824",
+   "en": "<kiroshi l=\"creo\" o=\"Bouzen estipid.\" t=\"Stupid bitch.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Bata estipid.\" t=\"Stupid fucker.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Bouzen estipid.\" t=\"Proasto.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Bata estipid.\" t=\"Tâmpitule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1661874087103107072",
+   "en": "He bend you over, poke you, an' you come back smiling.",
+   "ro": "Te-a întors pe dos, te-a futut, și tu te-ai întors zâmbind."
+  },
+  {
+   "key": "1661879896650354688",
+   "en": "Tsss…",
+   "ro": "Tsss…"
+  },
+  {
+   "key": "1661928162754629632",
+   "en": "What did you do to me in the GIM?",
+   "ro": "Ce mi-ai făcut în GIM?"
+  },
+  {
+   "key": "1661931354720636928",
+   "en": "Shoulda cut a deal with NetWatch, maybe.",
+   "ro": "Poate ar fi trebuit să fac o înțelegere cu NetWatch."
+  },
+  {
+   "key": "1661935994795266048",
+   "en": "Exact. And now I will know what went wrong.",
+   "ro": "Exact. Și acum o să aflu ce n-a mers."
+  },
+  {
+   "key": "1661936252375863296",
+   "en": "<mothertongue l=\"creo\" m=\"kamyonèt avec kamera\" b=\"You no do your trick. You did not check \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"kamyonèt avec kamera\" b=\"N-ai făcut trucul. N-ai verificat \" a=\".\"/>"
+  },
+  {
+   "key": "1661974495502864384",
+   "en": "Ten NetWatch scum dead, network and BBSes destroyed…. but you walk out alive.",
+   "ro": "Zece jigodii NetWatch morți, rețeaua și BBS-urile făcute praf… dar tu ieși vie.",
+   "ro_m": "Zece jigodii NetWatch morți, rețeaua și BBS-urile făcute praf… dar tu ieși viu."
+  },
+  {
+   "key": "1661976561801564160",
+   "en": "You let loose in the GIM... with what, exactly? A virus? A… vectored electromag impulse?",
+   "en_m": "You let loose in the GIM? With... what, exactly? A-a virus? A vectored electromag impulse?",
+   "ro": "Ai dat drumul în GIM... cu ce, exact? Un virus? Un… impuls electromag vectorizat?"
+  },
+  {
+   "key": "1662001020633681920",
+   "en": "Plain to see you fucked up, somewhere…",
+   "ro": "Se vede că ai futut-o undeva…"
+  },
+  {
+   "key": "1662001588827656192",
+   "en": "I maybe shoulda cut a deal with NetWatch.",
+   "ro": "Poate ar fi trebuit să fac o înțelegere cu NetWatch."
+  },
+  {
+   "key": "1662003976879804416",
+   "en": "And you do better wid Netpigs? Dey make you champion, not treat you like rotten meat?",
+   "ro": "Și cu Netpigs o duci mai bine? Te fac campioană, nu te tratează ca pe carne stricată?",
+   "ro_m": "Și cu Netpigs o duci mai bine? Te fac campion, nu te tratează ca pe carne stricată?"
+  },
+  {
+   "key": "1662008165429219328",
+   "en": "I would've... if somebody hadn't flatlined me. Sorry, but lost the heart to do anything after that.",
+   "ro": "Aș fi... dacă nu m-ar fi terminat cineva. Scuze, dar după aia mi-a trecut cheful de orice."
+  },
+  {
+   "key": "1662016066055114752",
+   "en": "Looks like you fucked up.",
+   "ro": "Se vede că ai futut-o."
+  },
+  {
+   "key": "1662017451433725952",
+   "en": "What's Brigitte make of it all?",
+   "ro": "Ce zice Brigitte de toate astea?"
+  },
+  {
+   "key": "1662019859584978944",
+   "en": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"You no do your job. De \" a=\" to check.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"N-ai făcut treaba. De \" a=\" de verificat.\"/>"
+  },
+  {
+   "key": "1662019859584978960",
+   "en": "I would've... if somebody hadn't flatlined me. Sorry, but lost the heart to do anything after that.",
+   "ro": "Aș fi... dacă nu m-ar fi terminat cineva. Scuze, dar după aia mi-a trecut cheful de orice."
+  },
+  {
+   "key": "1662021473217613824",
+   "en": "<mothertongue l=\"creo\" m=\"Di m kijan.\" b=\"Yet you live. \" a=\" Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe…\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Di m kijan.\" b=\"Totuși trăiești. \" a=\" Zece jigodii NetWatch morți, rețeaua, BBS-urile distruse… dar tu mergi, respiri…\"/>"
+  },
+  {
+   "key": "1662044919058206752",
+   "en": "Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe… How?",
+   "ro": "Zece jigodii NetWatch morți, rețeaua, BBS-urile distruse… dar tu mergi, respiri… Cum?"
+  },
+  {
+   "key": "1663299823525498880",
+   "en": "I will know what went wrong.",
+   "ro": "O să aflu ce n-a mers."
+  },
+  {
+   "key": "1663301342819848192",
+   "en": "'Cause dealing with you's gotten me shit. A slug to the brain, fell foul of NetWatch, and now I got you on my ass about who knows what.",
+   "ro": "Pentru că de când mă ocup de tine n-am avut decât rahat. Un glonț în creier, NetWatch m-a pus pe lista neagră, și acum mă tot sâcâi cu cine știe ce."
+  },
+  {
+   "key": "1663372139181707264",
+   "en": "<mothertongue l=\"creo\" m=\"Di m kijan.\" b=\"Yet you live. \" a=\" Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe…\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Di m kijan.\" b=\"Totuși trăiești. \" a=\" Zece jigodii NetWatch morți, rețeaua, BBS-urile distruse… dar tu mergi, respiri…\"/>"
+  },
+  {
+   "key": "1663373747294638080",
+   "en": "<mothertongue l=\"creo\" m=\"\\\"Ki vale limyè\\\"\" b=\"It is called \" a=\" – he who swallow de light.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"\\\"Ki vale limyè\\\"\" b=\"Se numește \" a=\" – cel care înghite lumina.\"/>"
+  },
+  {
+   "key": "1663375302710333440",
+   "en": "Ten NetWatch agent swallow it. It destroy de grid, de BBSes. But not you. You vomit light back up.",
+   "ro": "Zece agenți NetWatch o înghit. Distruge rețeaua, BBS-urile. Dar nu pe tine. Tu vomiți lumina înapoi."
+  },
+  {
+   "key": "1663378837552304128",
+   "en": "Saw it before my own fuses popped – your guys shredding tags on the NetWatch agents in Mosley's grid.",
+   "ro": "Am văzut înainte să-mi sară siguranțele: oamenii tăi le rupeau etichetele agenților NetWatch din gridul lui Mosley."
+  },
+  {
+   "key": "1692401179394330624",
+   "en": "Then, after you.",
+   "ro": "Bine, după tine."
+  },
+  {
+   "key": "1692401179411107844",
+   "en": "Looks like I got no choice.",
+   "ro": "Ce să fac, n-am de ales."
+  },
+  {
+   "key": "1692401866018672640",
+   "en": "No. Rather check out my other options first.",
+   "ro": "Nu. Mai întâi verific alte variante."
+  },
+  {
+   "key": "1692458521536253952",
+   "en": "Don't think I'm that desperate yet.",
+   "ro": "Nu-s încă chiar așa de disperată.",
+   "ro_m": "Nu-s încă chiar așa de disperat."
+  },
+  {
+   "key": "1692462416316616704",
+   "en": "You said no other could help you.",
+   "ro": "Ai zis că nimeni altul nu te poate ajuta."
+  },
+  {
+   "key": "1692463441287073792",
+   "en": "Maybe I got other options I don't know about yet.",
+   "ro": "Poate mai am și alte variante pe care nu le văd încă."
+  },
+  {
+   "key": "1692464879765573636",
+   "en": "OK, fine. I'll give you access.",
+   "ro": "Bine, bine. Îți dau acces."
+  },
+  {
+   "key": "1692470015170727936",
+   "en": "How do I know you won't screw me again?",
+   "ro": "De unde știu că nu mă mai lăsați baltă?"
+  },
+  {
+   "key": "1692476593282240512",
+   "en": "Then... after you.",
+   "ro": "Atunci... după tine."
+  },
+  {
+   "key": "1692476951240921088",
+   "en": "Looks like I got no choice.",
+   "ro": "Ce să fac, n-am de ales."
+  },
+  {
+   "key": "1692476951240921096",
+   "en": "Follow me.",
+   "ro": "Urmează-mă."
+  },
+  {
+   "key": "1692577113770577920",
+   "en": "Did you change your mind?",
+   "ro": "Ți-ai schimbat părerea?"
+  },
+  {
+   "key": "1692595933662957568",
+   "en": "Does this mean...?",
+   "ro": "Asta înseamnă...?"
+  },
+  {
+   "key": "1696630994602627072",
+   "en": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" We must head under.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" Trebuie să mergem jos.\"/>"
+  },
+  {
+   "key": "1696630994619404296",
+   "en": "You are worried about agents? Then shoot her in de head.",
+   "en_m": "You worried about agents? Then shoot him in de head.",
+   "ro": "Te îngrijorează agenții? Atunci împușcă-o în cap.",
+   "ro_m": "Te îngrijorează agenții? Atunci împușcă-l în cap."
+  },
+  {
+   "key": "1696630994619404316",
+   "en": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"I know. I scanned her. Only a normal, filthy \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"I know. I scanned him. Only a normal, filthy \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Știu. Am scanat-o. Doar o normală, mizerabilă \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Știu. L-am scanat. Doar un normal, mizerabil \" a=\".\"/>"
+  },
+  {
+   "key": "1696630994636181520",
+   "en": "<kiroshi l=\"creo\" o=\"Ale. Mennen moun yo nan kavo a.\" t=\"Go. Take the others to the crypt.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ale. Mennen moun yo nan kavo a.\" t=\"Du-te. Ia-i pe ceilalți la criptă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1696642493421260800",
+   "en": "I do not know what dey put in her, what corruption is in her system!",
+   "en_m": "I do not know what dey put in him, what corruption is in his system!",
+   "ro": "Nu știu ce i-au băgat în ea, ce corupție e în sistemul ei!",
+   "ro_m": "Nu știu ce i-au băgat în el, ce corupție e în sistemul lui!"
+  },
+  {
+   "key": "1696649956212150272",
+   "en": "You don't know what was in there to begin with. How much it is worth.",
+   "ro": "Nu știi ce era acolo de la început. Cât valorează."
+  },
+  {
+   "key": "1696700790354546688",
+   "en": "You know about the biochip, don't you?",
+   "ro": "Știi de biochip, nu?"
+  },
+  {
+   "key": "1696756929620414464",
+   "en": "You know about the biochip, don't you?",
+   "ro": "Știi de biochip, nu?"
+  },
+  {
+   "key": "1696761027354759168",
+   "en": "If it is functional, we offer you good price for it.",
+   "ro": "Dacă merge, îți dăm un preț bun pe el."
+  },
+  {
+   "key": "1696785943684780036",
+   "en": "Biochip's not for sale.",
+   "ro": "Biochipul nu e de vânzare."
+  },
+  {
+   "key": "1696786597291560960",
+   "en": "Biochip's busted. That's why I'm here.",
+   "ro": "Biochipul e stricat. De-aia sunt aici."
+  },
+  {
+   "key": "1696791447383379968",
+   "en": "Biochip's not for sale.",
+   "ro": "Biochipul nu e de vânzare."
+  },
+  {
+   "key": "1696795079784861696",
+   "en": "Biochip's busted. That's why I'm here.",
+   "ro": "Biochipul e stricat. De-aia sunt aici."
+  },
+  {
+   "key": "1696798555705249792",
+   "en": "Plus, do you no good to take it by force. It's in shitty shape already.",
+   "ro": "Și, oricum, nu-ți face bine să-l iei cu forța. E deja-n stare de căcat."
+  },
+  {
+   "key": "1696806521745510400",
+   "en": "Haven't found a single soul capable of gettin' this thing outta me without scramblin' my brain.",
+   "ro": "N-am găsit niciun suflet capabil să scoată chestia asta din mine fără să-mi prăjească creierul."
+  },
+  {
+   "key": "1696808200893173760",
+   "en": "You commissioned the heist, so I figured you must know somethin'. You've gotta.",
+   "ro": "Tu ai comandat jaful, așa că m-am gândit că trebuie să știi ceva. Trebuie."
+  },
+  {
+   "key": "1696809727988928512",
+   "en": "How do you know all dis? How did you find us?",
+   "ro": "Cum știi toate astea? Cum ne-ai găsit?"
+  },
+  {
+   "key": "1696810956265689092",
+   "en": "Remember Evelyn Parker?",
+   "ro": "Îți amintești de Evelyn Parker?"
+  },
+  {
+   "key": "1696812301395759104",
+   "en": "Can you help me or not?",
+   "ro": "Mă poți ajuta sau nu?"
+  },
+  {
+   "key": "1696817313085722624",
+   "en": "Evelyn Parker – name ring a bell?",
+   "ro": "Evelyn Parker – îți spune ceva numele?"
+  },
+  {
+   "key": "1696818675664097280",
+   "en": "Listen, can you help me or not?",
+   "ro": "Ascultă, mă poți ajuta sau nu?"
+  },
+  {
+   "key": "1696819641763303424",
+   "en": "Yes, of course. But not here. We will go to de crypt… where you must give us access to de chip.",
+   "ro": "Da, sigur. Dar nu aici. Mergem la criptă… unde trebuie să ne dai acces la cip."
+  },
+  {
+   "key": "1696827100510883840",
+   "en": "Ah, de doll... de whore.",
+   "ro": "Ah, păpușa... curva."
+  },
+  {
+   "key": "1696831452520714240",
+   "en": "You found us because she led you to us. She has proved not completely useless after all.",
+   "ro": "Ne-ai găsit pentru că ea te-a adus la noi. S-a dovedit că nu e complet inutilă, până la urmă."
+  },
+  {
+   "key": "1696900420384133120",
+   "en": "Seriously? You gonna hold me here by force?",
+   "en_m": "Heh, seriously? You gonna hold me here by force?",
+   "ro": "Serios? Mă țineți aici cu forța?",
+   "ro_m": "Heh, serios? Mă țineți aici cu forța?"
+  },
+  {
+   "key": "1696905614492766208",
+   "en": "Leave her.",
+   "en_m": "Leave him.",
+   "ro": "Las-o.",
+   "ro_m": "Lasă-l."
+  },
+  {
+   "key": "1696913563520929792",
+   "en": "That why you're talkin' to me now? 'Cause you know I got the biochip?",
+   "ro": "De-aia vorbiți cu mine acum? Pentru că știți că am biochipul?"
+  },
+  {
+   "key": "1696913563655147520",
+   "en": "Not 'cause I saved your frozen ass?",
+   "ro": "Nu pentru că v-am salvat curul înghețat?"
+  },
+  {
+   "key": "1696913563688701952",
+   "en": "If I was any ordinary \"ranyon,\" you'd have dealt with me already.",
+   "ro": "Dacă eram un ranyon oarecare, v-ați fi ocupat deja de mine."
+  },
+  {
+   "key": "1696913563705479176",
+   "en": "Placide saw in you common trash from de streets. This is why he chose you.",
+   "ro": "Placide a văzut în tine gunoi obișnuit de pe străzi. De-aia te-a ales."
+  },
+  {
+   "key": "1696913563705479196",
+   "en": "But you knew about de chip. And still put yourself in danger in de GIM.",
+   "ro": "Dar știai de cip. Și tot te-ai pus în pericol în GIM."
+  },
+  {
+   "key": "1696913563705479220",
+   "en": "Mhm. Just like you. Only I came out of there on my own.",
+   "en_m": "Hmph. Just like you. Only I came out of there on my own.",
+   "ro": "Mhm. La fel ca tine. Doar că eu am ieșit de acolo pe cont propriu.",
+   "ro_m": "Hmph. La fel ca tine. Doar că eu am ieșit de acolo pe cont propriu."
+  },
+  {
+   "key": "1696952602173181952",
+   "en": "I saw them.",
+   "ro": "I-am văzut."
+  },
+  {
+   "key": "1696956756799066116",
+   "en": "Shoulda thought about that before you tried to kill me.",
+   "ro": "Ar fi trebuit să te gândești la asta înainte să încerci să mă omori."
+  },
+  {
+   "key": "1696957641361002496",
+   "en": "Not gonna let you dig around in my head.",
+   "ro": "Nu vă las să scormoniți prin capul meu."
+  },
+  {
+   "key": "1696960530246602752",
+   "en": "You wanna dig around in my head? I dunno, I'm startin' to have some trust issues with you guys.",
+   "en_m": "You wanna dig around in my head? Huh, I dunno, I'm startin' to have some trust issues with you guys.",
+   "ro": "Vreți să scormoniți prin capul meu? Nu știu, încep să nu mai am încredere în voi.",
+   "ro_m": "Vreți să scormoniți prin capul meu? Hm, nu știu, încep să nu mai am încredere în voi."
+  },
+  {
+   "key": "1696960530246602772",
+   "en": "You came to us in a bad time.",
+   "ro": "Ai picat la noi într-un moment prost."
+  },
+  {
+   "key": "1696960530246602792",
+   "en": "That s'posed to be an apology?",
+   "ro": "Asta ar fi o scuză?"
+  },
+  {
+   "key": "1696964978222108672",
+   "en": "Shoulda thought about that before you tried to kill me.",
+   "ro": "Ar fi trebuit să te gândești la asta înainte să încerci să mă omori."
+  },
+  {
+   "key": "1705567597547032576",
+   "en": "Once we have de data we need, we will do our best to help you.",
+   "ro": "Când avem datele de care e nevoie, o să facem tot ce putem să te ajutăm."
+  },
+  {
+   "key": "1705586853076602880",
+   "en": "Seriously? Haven't I done enough for you already?",
+   "ro": "Serios? N-am făcut deja destul pentru voi?"
+  },
+  {
+   "key": "1705587421287354368",
+   "en": "Seriously? Haven't done enough for you already?",
+   "ro": "Serios? N-am făcut destul pentru voi?"
+  },
+  {
+   "key": "1705621747219632128",
+   "en": "There is no other way. To remove it, we must first examine it.",
+   "ro": "Nu e altă cale. Ca să-l scoatem, întâi trebuie să-l examinăm."
+  },
+  {
+   "key": "1705624205132107776",
+   "en": "'Cause if you fuck up you're left empty-handed? That it?",
+   "ro": "Pentru că dacă o dați-n bară rămâneți cu mâna goală? Asta e tot?"
+  },
+  {
+   "key": "1705624544535187456",
+   "en": "I gave my word. We will help you.",
+   "ro": "Ți-am dat cuvântul. O să te ajutăm."
+  },
+  {
+   "key": "1709618509182423040",
+   "en": "How do I know you won't cheat me again?",
+   "ro": "De unde știu că nu mă mai înșelați?"
+  },
+  {
+   "key": "1709828481878396928",
+   "en": "Come with me.",
+   "ro": "Vino cu mine."
+  },
+  {
+   "key": "1709865163264692224",
+   "en": "If I was here, da chip would never be in danger.",
+   "ro": "Dacă eram aici, cipul n-ar fi fost niciodată în pericol."
+  },
+  {
+   "key": "1709949921424379904",
+   "en": "I thought you dead.",
+   "ro": "Te credeam moartă.",
+   "ro_m": "Te credeam mort."
+  },
+  {
+   "key": "1709955692635688964",
+   "en": "What the hell happened?",
+   "ro": "Ce naiba s-a întâmplat?"
+  },
+  {
+   "key": "1709958286141624320",
+   "en": "That was your plan, right?",
+   "ro": "Asta a fost planul tău, nu?"
+  },
+  {
+   "key": "1709959026654384128",
+   "en": "What the hell happened?",
+   "ro": "Ce naiba s-a întâmplat?"
+  },
+  {
+   "key": "1709973252794028032",
+   "en": "Well, that was your plan, wasn't it? I outlive your need for me, you get me outta the picture. Flatline.",
+   "ro": "Păi, ăsta a fost planul tău, nu? Dacă rămân în viață și nu mai ai nevoie de mine, mă scoți din joc. Mă lichidezi."
+  },
+  {
+   "key": "1709974277982588932",
+   "en": "Your people? Who?",
+   "ro": "Oamenii tăi? Cine?"
+  },
+  {
+   "key": "1709976335271923712",
+   "en": "Bullshit.",
+   "ro": "Pe dracu'!"
+  },
+  {
+   "key": "1709978916933144576",
+   "en": "No. You are confused. Mosley mess wid your head.",
+   "ro": "Nu. Ești confuză. Mosley ți-a zăpăcit mintea.",
+   "ro_m": "Nu. Ești confuz. Mosley ți-a zăpăcit mintea."
+  },
+  {
+   "key": "1709979672260186112",
+   "en": "Fuck Mosley. Got eyes, I can see. I'm right, aren't I?",
+   "ro": "Futu-l pe Mosley. Am ochii în cap, nu-s oarbă. Am dreptate, nu?",
+   "ro_m": "Futu-l pe Mosley. Am ochii în cap, nu-s orb. Am dreptate, nu?"
+  },
+  {
+   "key": "1709982003185913868",
+   "en": "We lose de link. Dat was not our plan.",
+   "ro": "Am pierdut legătura. Nu asta era planul nostru."
+  },
+  {
+   "key": "1709982003185913892",
+   "en": "Saw you zeroin' agent tags. Don't tell me you didn't know what was goin' on. Don't tell me I didn't see what I saw.",
+   "ro": "Te-am văzut ștergând etichete de agent. Nu-mi spune că nu știai ce se întâmplă. Nu-mi spune că n-am văzut ce am văzut."
+  },
+  {
+   "key": "1709982003202691072",
+   "en": "You walk into war zone. You got hit. It is dat simple.",
+   "ro": "Intri în zonă de război. Ai fost lovită. E atât de simplu.",
+   "ro_m": "Intri în zonă de război. Ai fost lovit. E atât de simplu."
+  },
+  {
+   "key": "1709982003202691084",
+   "en": "I had to free my people. Dey are most important to me. We try to save you too, but... Mosley... he was stronger than we think.",
+   "ro": "Trebuia să-mi eliberez oamenii. Sunt pe primul loc pentru mine. Am încercat să te scoatem și pe tine, dar... Mosley... a fost mai tare decât ne așteptam."
+  },
+  {
+   "key": "1709987428367142912",
+   "en": "I wanna talk with Brigitte.",
+   "ro": "Vreau să vorbesc cu Brigitte."
+  },
+  {
+   "key": "1709989493726318592",
+   "en": "Bullshit.",
+   "ro": "Pe dracu'!"
+  },
+  {
+   "key": "1709990151661621248",
+   "en": "<mothertongue l=\"creo\" m=\"Um byen?\" b=\"\" a=\" Whatchu gonna do about it?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Um byen?\" b=\"\" a=\" Ce-o să faci în privința asta?\"/>"
+  },
+  {
+   "key": "1709994868676562944",
+   "en": "Your people? Who?",
+   "ro": "Oamenii tăi? Cine?"
+  },
+  {
+   "key": "1709995518357475328",
+   "en": "Brigitte, and others. NetWatch hold her frozen in ICE.",
+   "ro": "Brigitte și alții. NetWatch o ține înghețată în ICE."
+  },
+  {
+   "key": "1709995930070355968",
+   "en": "So you see – dis whole rotten job was in your interest. It was de only way you could talk wid Brigitte.",
+   "ro": "Deci vezi – toată chestia asta de rahat a fost pentru binele tău. Era singura cale să vorbești cu Brigitte."
+  },
+  {
+   "key": "1709996723045470208",
+   "en": "Jesus... Mighta been good to know that before you threw me into the fucking fire.",
+   "ro": "Doamne... Ar fi fost bine să știu asta înainte să mă arunci în focul dracului."
+  },
+  {
+   "key": "1710001987920400384",
+   "en": "Brigitte – wanna talk to her.",
+   "ro": "Brigitte – vreau să vorbesc cu ea."
+  },
+  {
+   "key": "1710004639643275264",
+   "en": "I did the GIM job. That was our deal. You and me – our biz is done.",
+   "en_m": "I did the job. That was our deal. You and me – our biz is done.",
+   "ro": "Am făcut treaba de la GIM. Asta a fost înțelegerea noastră. Tu și cu mine – afacerile noastre s-au terminat.",
+   "ro_m": "Am făcut treaba. Asta a fost înțelegerea noastră. Tu și cu mine – afacerile noastre s-au terminat."
+  },
+  {
+   "key": "1710006963254136832",
+   "en": "For now, you talk wid me.",
+   "ro": "Deocamdată, vorbești cu mine."
+  },
+  {
+   "key": "1710020727466692612",
+   "en": "Want to dig around in my head again?",
+   "ro": "Vrei să mai sapi prin capul meu?"
+  },
+  {
+   "key": "1710023361405718528",
+   "en": "Hope I get along better with you than with Placide.",
+   "ro": "Sper să mă înțeleg mai bine cu tine decât cu Placide."
+  },
+  {
+   "key": "1710032456267403264",
+   "en": "Placide and I... We never quite saw eye to eye.",
+   "ro": "Cu Placide nu ne-am înțeles niciodată prea bine."
+  },
+  {
+   "key": "1710033919274192896",
+   "en": "Don't like bein' kept in the dark. And I swear, if I hear any more moody fuckin' mumblin'... Which reminds me – just what the fuck is a \"ranyon\"?",
+   "en_m": "Don't like bein' kept in the dark. Ugh, and I swear, if I hear any more moody fuckin' mumblin'... Which reminds me – just what the fuck is a \"ranyon\"?",
+   "ro": "Nu-mi place să fiu ținută în întuneric. Jur că, dacă mai aud un mormăit posac nenorocit... Vorbind de asta, ce pula mea e un „ranyon”?",
+   "ro_m": "Nu-mi place să fiu ținut în întuneric. Uf, jur că, dacă mai aud un mormăit posac nenorocit... Vorbind de asta, ce pula mea e un „ranyon”?"
+  },
+  {
+   "key": "1710036667600277504",
+   "en": "I will explain all, first we must verify if the biochip is in good condition. If yes, we will offer a fair price for it.",
+   "ro": "O să explic totul, dar mai întâi trebuie să verificăm dacă biochipul e în stare bună. Dacă da, oferim un preț corect pentru el."
+  },
+  {
+   "key": "1710049050309758976",
+   "en": "And put the chip at risk? Again?",
+   "ro": "Și să punem cipul în pericol iar?"
+  },
+  {
+   "key": "1710051802024841216",
+   "en": "I hope you return before your time runs out.",
+   "ro": "Sper să te întorci înainte să-ți expire timpul."
+  },
+  {
+   "key": "1710056565915324416",
+   "en": "OK, fine. I'll give you access.",
+   "en_m": "Fine. I'll give you access.",
+   "ro": "Bine, bine. O să-ți dau acces.",
+   "ro_m": "Bine. O să-ți dau acces."
+  },
+  {
+   "key": "1710056565915324428",
+   "en": "<mothertongue l=\"creo\" m=\"Finalman.\" b=\"\" a=\" Come with me.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Finalman.\" b=\"\" a=\" Vino cu mine.\"/>"
+  },
+  {
+   "key": "1712776200410435584",
+   "en": "You cannnot fault me for Placide's actions, his decisions while I was trapped in de Net.",
+   "ro": "Nu mă poți face vinovată pentru ce a făcut Placide, pentru deciziile lui cât eram blocată în Net.",
+   "ro_m": "Nu mă poți face vinovat pentru ce a făcut Placide, pentru deciziile lui cât eram blocat în Net."
+  },
+  {
+   "key": "1712784631934554112",
+   "en": "I have been honest with you all along.",
+   "ro": "Am fost sinceră cu tine tot timpul.",
+   "ro_m": "Am fost sincer cu tine tot timpul."
+  },
+  {
+   "key": "1719852599180857344",
+   "en": "Tell me what is going on, or I break you open and see myself!",
+   "ro": "Spune-mi ce se întâmplă, sau te sparg și văd singur!"
+  },
+  {
+   "key": "1722582296215765008",
+   "en": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"You say what happen. You say or I open you, see wid my own eyes what worm crawls \" a=\"\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"Spui ce s-a întâmplat. Spui, sau te deschid și văd cu ochii mei ce vierme se târăște \" a=\"\"/>"
+  },
+  {
+   "key": "1740295214932373504",
+   "en": "You set me up!",
+   "ro": "M-ai tras pe sfoară!"
+  },
+  {
+   "key": "1740295495078326272",
+   "en": "[Punch] You set me up.",
+   "ro": "[Lovește] M-ai tras pe sfoară."
+  },
+  {
+   "key": "1751915404054564864",
+   "en": "<kiroshi l=\"creo\" o=\"Bouzen sal!\" t=\"You dirty bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Bata sal!\" t=\"You dirty bastard!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Bouzen sal!\" t=\"Curvo murdară!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Bata sal!\" t=\"Nenorocit murdar!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754528032341954560",
+   "en": "<kiroshi l=\"creo\" o=\"Ase!\" t=\"Enough!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ase!\" t=\"Destul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754528032341954580",
+   "en": "<kiroshi l=\"creo\" o=\"Men, ou te wè --\" t=\"But you saw--\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men, ou te wè --\" t=\"Dar ai văzut--\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754528032358731784",
+   "en": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Yes. But I also saw her scans. She is no \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Yes. But I also saw his scans. He is no \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Da. Dar i-am văzut și scanările ei. Ea nu e \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Da. Dar i-am văzut și scanările lui. El nu e \" a=\".\"/>"
+  },
+  {
+   "key": "1754532446846914560",
+   "en": "<kiroshi l=\"creo\" o=\"Kite nou.\" t=\"Leave us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kite nou.\" t=\"Lasă-ne.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754534625871728640",
+   "en": "<kiroshi l=\"creo\" o=\"Voye pèp nou an anba a.\" t=\"Move our people down below.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Voye pèp nou an anba a.\" t=\"Mută oamenii noștri jos.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1755980873667915780",
+   "en": "How much you know from my scans?",
+   "ro": "Cât știi din scanările mele?"
+  },
+  {
+   "key": "1762182389980008448",
+   "en": "This is not over. NetWatch will return.",
+   "ro": "Nu s-a terminat. NetWatch o să se întoarcă."
+  },
+  {
+   "key": "1762184829789868032",
+   "en": "Think you more clever than NetPig?",
+   "ro": "Crezi că ești mai deșteaptă decât NetPig?",
+   "ro_m": "Crezi că ești mai deștept decât NetPig?"
+  },
+  {
+   "key": "1762189361819226112",
+   "en": "I do not know what NetWatch plans, but they are not done.",
+   "ro": "Nu știu ce plănuiește NetWatch, dar nu s-au terminat."
+  },
+  {
+   "key": "1762195610291998720",
+   "en": "We are not safe here.",
+   "ro": "Aici nu suntem în siguranță."
+  },
+  {
+   "key": "1763422519877242884",
+   "en": "You must be Brigitte.",
+   "ro": "Tu trebuie să fii Brigitte."
+  },
+  {
+   "key": "1763423560635060224",
+   "en": "Sending Placide away just for little ol' me?",
+   "ro": "L-ai trimis pe Placide afară doar pentru biata de mine?",
+   "ro_m": "L-ai trimis pe Placide afară doar pentru biatu' de mine?"
+  },
+  {
+   "key": "1763430815573020672",
+   "en": "You must be Brigitte. Hard woman to find.",
+   "ro": "Tu trebuie să fii Brigitte. Greu de găsit, știi?"
+  },
+  {
+   "key": "1763432975002046464",
+   "en": "You have something for me.",
+   "ro": "Ai ceva pentru mine."
+  },
+  {
+   "key": "1763433464779313152",
+   "en": "You know about the biochip, don't you?",
+   "ro": "Știi de biochip, nu?"
+  },
+  {
+   "key": "1763435881084293120",
+   "en": "Yes, and we must check its condition.",
+   "ro": "Da, și trebuie să-i verificăm starea."
+  },
+  {
+   "key": "1763445173464141824",
+   "en": "Sendin' Placide away just for little ol' me?",
+   "en_m": "Heh. Sending Placide away just for little ol' me?",
+   "ro": "L-ai trimis pe Placide afară doar pentru biata de mine?",
+   "ro_m": "Heh. L-ai trimis pe Placide afară doar pentru biatu' de mine?"
+  },
+  {
+   "key": "1763446135167717376",
+   "en": "<kiroshi l=\"creo\" o=\"Soti, kounye a. Fè tout moun soti.\" t=\"Out, now. Get everyone out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Soti, kounye a. Fè tout moun soti.\" t=\"Afară, acum. Scoate pe toată lumea afară.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1763448084395003904",
+   "en": "I did not want him to harm you. That we cannot allow.",
+   "ro": "Nu voiam să te rănească. Asta nu putem lăsa."
+  },
+  {
+   "key": "1763466409980268544",
+   "en": "How much you know from my scans?",
+   "ro": "Cât știi din scanările mele?"
+  },
+  {
+   "key": "1763467254914420736",
+   "en": "More than Placide, I am sure.",
+   "ro": "Mai mult decât Placide, sunt sigură."
+  },
+  {
+   "key": "1763468160246550528",
+   "en": "You recognized the biochip 'cause you've been looking for it.",
+   "en_m": "You recognized the biochip 'cause you were lookin' for it.",
+   "ro": "Ai recunoscut biochipul pentru că îl căutai."
+  },
+  {
+   "key": "1763547424874631168",
+   "en": "We must examine you. If you survived the GIM, it is at the chip's cost.",
+   "ro": "Trebuie să te verificăm. Dacă ai scăpat din GIM, e pe costul cipului."
+  },
+  {
+   "key": "1770436649037402112",
+   "en": "You must be Brigitte.",
+   "ro": "Tu trebuie să fii Brigitte."
+  },
+  {
+   "key": "1770437864446038016",
+   "en": "You must be Brigitte. Hard woman to find.",
+   "ro": "Tu trebuie să fii Brigitte. Greu de găsit, știi?"
+  },
+  {
+   "key": "1770439217947938816",
+   "en": "You have something for me.",
+   "ro": "Ai ceva pentru mine."
+  },
+  {
+   "key": "1770449282801143808",
+   "en": "That why you're talkin' to me? The biochip?",
+   "ro": "De-aia vorbești cu mine? Biochipul?"
+  },
+  {
+   "key": "1770586022681579520",
+   "en": "Well?",
+   "ro": "Ei?"
+  },
+  {
+   "key": "1770587458375061504",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "1947342633826013184",
+   "en": "If it is in good condition, we offer you a fair price. Perhaps more for the... emotional toll.",
+   "ro": "Dacă e în stare bună, îți oferim un preț corect. Poate și ceva în plus pentru... ce-ai pățit."
+  },
+  {
+   "key": "1947346639554105344",
+   "en": "You will get apology when you say how much you want for the chip. If it is in good condition, of course.",
+   "ro": "O să primești scuze când spui cât vrei pe cip. Dacă e în stare bună, sigur."
+  },
+  {
+   "key": "1947352380734197764",
+   "en": "Biochip's not for sale.",
+   "ro": "Biochipul nu e de vânzare."
+  },
+  {
+   "key": "1947353864393740288",
+   "en": "Biochip was already damaged.",
+   "ro": "Biochipul era deja avariat."
+  },
+  {
+   "key": "1947354982058315780",
+   "en": "Hh, biochip's not for sale.",
+   "en_m": "Heh, biochip's not for sale.",
+   "ro": "Hh, biochipul nu e de vânzare.",
+   "ro_m": "Heh, biochipul nu e de vânzare."
+  },
+  {
+   "key": "1947354983031394304",
+   "en": "And you're not rippin' it outta me. Thing was in shit shape already before I strolled into the GIM.",
+   "ro": "Și nu-l scoți din mine. Chestia era deja varză înainte să intru în GIM."
+  },
+  {
+   "key": "1947354985094991876",
+   "en": "Chip's already taken some damage. That's why I'm here to begin with.",
+   "ro": "Cipul a luat deja niște daune. De-aia am și venit."
+  },
+  {
+   "key": "1947354986974040068",
+   "en": "Not that bad. Problem is, no one I've talked to can yank it out without risk of death.",
+   "ro": "Nu chiar așa de rău. Problema e că nimeni cu care am vorbit nu-l scoate fără să riști să mori."
+  },
+  {
+   "key": "1947354987896786944",
+   "en": "Seein' as you commissioned the thing's theft, figured you might know a way to help.",
+   "ro": "Din moment ce tu ai comandat furtul, m-am gândit că poate știi cum să ajuți."
+  },
+  {
+   "key": "1947354988853088256",
+   "en": "How do you know all dis? How did you find us?",
+   "ro": "Cum știi toate astea? Cum ne-ai găsit?"
+  },
+  {
+   "key": "1947357988602531840",
+   "en": "It does not function?",
+   "ro": "Nu funcționează?"
+  },
+  {
+   "key": "1973792356107571200",
+   "en": "I'll give you access.",
+   "ro": "O să-ți dau acces."
+  },
+  {
+   "key": "1973792721683107840",
+   "en": "Access is all yours. Want this thing outta my head ASAP.",
+   "ro": "Accesul e al tău. Vreau chestia asta scoasă din capul meu cât mai repede."
+  },
+  {
+   "key": "1973796997457268736",
+   "en": "Oh?",
+   "ro": "Oh?"
+  },
+  {
+   "key": "1973797272670720000",
+   "en": "Meant nothin' but problems ever since Konpeki…",
+   "ro": "N-a însemnat decât probleme de la Konpeki încoace..."
+  },
+  {
+   "key": "1973800683294183424",
+   "en": "I'll give you access.",
+   "ro": "O să-ți dau acces."
+  },
+  {
+   "key": "2251965429256372224",
+   "en": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"You tell me, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Spune-mi tu, \" a=\"!\"/>"
+  }
+ ]
+}

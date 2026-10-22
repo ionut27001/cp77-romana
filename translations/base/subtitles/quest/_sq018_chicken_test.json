@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\_sq018_chicken_test.json",
+ "entries": [
+  {
+   "key": "2189352474527047680",
+   "en": "[db_db]After Funeral",
+   "ro": "[db_db]După înmormântare"
+  },
+  {
+   "key": "2395357980058886148",
+   "en": "[db_db]Misty invited",
+   "ro": "[db_db]Misty invitată"
+  },
+  {
+   "key": "2395358287736250368",
+   "en": "[db_db]Misty not invited",
+   "ro": "[db_db]Misty neinvitată"
+  },
+  {
+   "key": "2444804707311292416",
+   "en": "[db_db]Left at No tell motell..",
+   "ro": "[db_db]A plecat de la No tell motell.."
+  }
+ ]
+}

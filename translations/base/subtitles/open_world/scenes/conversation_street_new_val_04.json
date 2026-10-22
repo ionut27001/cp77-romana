@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_04.json",
+ "entries": [
+  {
+   "key": "2276541230329536528",
+   "en": "The only reason you're alive is 'cause I know your pops, understand?",
+   "ro": "Singurul motiv pentru care mai ești în viață e că îl cunosc pe taică-tu, înțelegi?"
+  },
+  {
+   "key": "2276541230329536540",
+   "en": "<kiroshi l=\"mex\" o=\"Sí, lo entiendo, pues, lo siento mucho...\" t=\"I understand, I'm really sorry...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sí, lo entiendo, pues, lo siento mucho...\" t=\"Înțeleg, îmi pare foarte rău...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276541230346313732",
+   "en": "Don't apologize. Just use that skull-sponge o' yours.",
+   "ro": "Nu te mai scuza. Folosește buretele ăla de craniu."
+  }
+ ]
+}

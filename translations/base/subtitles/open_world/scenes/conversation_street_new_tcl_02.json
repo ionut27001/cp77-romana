@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_02.json",
+ "entries": [
+  {
+   "key": "2276538937135767568",
+   "en": "<kiroshi l=\"jpn\" o=\"死体はどうしやす？\" t=\"What do we do with the bodies?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"死体はどうしやす？\" t=\"Ce facem cu cadavrele?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538937135767580",
+   "en": "<kiroshi l=\"jpn\" o=\"溶かしてから海にでも流せ。一度に全部やるなよ\" t=\"Dissolve them. Just make sure to spread it out along the docks.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"溶かしてから海にでも流せ。一度に全部やるなよ\" t=\"Dizolvă-le și aruncă-le în mare. Da' nu tot deodată, pe la docuri.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538937135767592",
+   "en": "<kiroshi l=\"jpn\" o=\"了解っす\" t=\"Consider it done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"了解っす\" t=\"Am înțeles, e rezolvat.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

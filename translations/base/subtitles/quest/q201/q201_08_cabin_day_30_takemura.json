@@ -1,0 +1,673 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q201\\q201_08_cabin_day_30_takemura.json",
+ "entries": [
+  {
+   "key": "2004115944562987008",
+   "en": "You look just as you did when I found you in the rubbish. Get up.",
+   "ro": "Arăți la fel ca atunci când te-am găsit în gunoi. Ridică-te."
+  },
+  {
+   "key": "2004115944579764232",
+   "en": "Takemura? What're you doin' here?",
+   "ro": "Takemura? Ce cauți aici?"
+  },
+  {
+   "key": "2004115944630095872",
+   "en": "[Sit] What're you doin' here?",
+   "ro": "[Stai jos] Ce cauți aici?"
+  },
+  {
+   "key": "2004115944646873112",
+   "en": "[Sit] Blunt, as usual.",
+   "ro": "[Stai jos] Direct, ca de obicei."
+  },
+  {
+   "key": "2004115944680427532",
+   "en": "Takemura. Blunt as usual.",
+   "ro": "Takemura. Direct, ca de obicei."
+  },
+  {
+   "key": "2004115944680427548",
+   "en": "They say you demanded someone tell you the truth.",
+   "ro": "Se spune că ai cerut cuiva să-ți spună adevărul."
+  },
+  {
+   "key": "2004115944713981952",
+   "en": "It is an awful place... It is no wonder you are losing your mind.",
+   "ro": "E un loc groaznic... Nu-i de mirare că-ți pierzi mințile."
+  },
+  {
+   "key": "2004115944764313604",
+   "en": "Come all the way here to take me home?",
+   "ro": "Ai venit până aici să mă duci acasă?"
+  },
+  {
+   "key": "2004115944764313620",
+   "en": "They asked me to speak with you.",
+   "ro": "M-au rugat să vorbesc cu tine."
+  },
+  {
+   "key": "2004115944781090816",
+   "en": "What'd you want to talk about?",
+   "ro": "Despre ce voiai să vorbești?"
+  },
+  {
+   "key": "2004115944781090832",
+   "en": "Your beloved boss is back.",
+   "ro": "Șeful tău drag s-a întors."
+  },
+  {
+   "key": "2004115944797868040",
+   "en": "What exactly are you up to now?",
+   "ro": "Ce faci acum, mai exact?"
+  },
+  {
+   "key": "2004115944797868056",
+   "en": "Who was it asked you to talk to me?",
+   "ro": "Cine te-a rugat să vorbești cu mine?"
+  },
+  {
+   "key": "2004115944831422508",
+   "en": "What're you gonna do now? Still aim to protect Saburo's ass?",
+   "ro": "Ce-o să faci acum? Tot vrei să-i protejezi curul lui Saburo?"
+  },
+  {
+   "key": "2004115944831422524",
+   "en": "I have been transferred to Japan. I will fly from here to Takamatsu.",
+   "ro": "Am fost transferat în Japonia. O să zbor de aici spre Takamatsu."
+  },
+  {
+   "key": "2004115944831422540",
+   "en": "Why?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "2004115944831422556",
+   "en": "New times, new duties. But we say far too much about me.",
+   "ro": "Vremuri noi, altă treabă. Dar hai să nu vorbim doar despre mine."
+  },
+  {
+   "key": "2004115944864976932",
+   "en": "Fine, so what is it you got to tell me?",
+   "ro": "Bine, zi-mi ce ai de spus."
+  },
+  {
+   "key": "2004115944864976948",
+   "en": "I am sorry to say it is not good.",
+   "ro": "Îmi pare rău, dar nu sunt vești bune."
+  },
+  {
+   "key": "2004115944898531368",
+   "en": "Who asked you? Who wanted you to talk to me? Hanako?",
+   "ro": "Cine te-a rugat? Cine a vrut să vorbești cu mine? Hanako?"
+  },
+  {
+   "key": "2004115944898531408",
+   "en": "And what did they say?",
+   "ro": "Și ce-au spus?"
+  },
+  {
+   "key": "2004115944948862988",
+   "en": "I will be blunt – the surgery did not help.",
+   "ro": "O să fiu direct – operația n-a ajutat."
+  },
+  {
+   "key": "2004115944948863004",
+   "en": "You will be dead before winter.",
+   "ro": "Până la iarnă o să fii moartă.",
+   "ro_m": "Până la iarnă o să fii mort."
+  },
+  {
+   "key": "2004115944965640192",
+   "en": "But they've got experts, the best specialists...",
+   "ro": "Dar au experți, cei mai buni specialiști..."
+  },
+  {
+   "key": "2004115944982417420",
+   "en": "Sorry, don't believe you.",
+   "ro": "Scuze, nu te cred."
+  },
+  {
+   "key": "2004115944982417436",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "2004115945015971856",
+   "en": "How... How is that possible? Arasaka's got the best and brightest.",
+   "en_m": "How... How's that possible? Arasaka's got the best and brightest.",
+   "ro": "Cum... Cum e posibil? Arasaka are cei mai buni și mai deștepți."
+  },
+  {
+   "key": "2004115945049526284",
+   "en": "Sorry, don't believe you.",
+   "ro": "Scuze, nu te cred."
+  },
+  {
+   "key": "2004115945049526300",
+   "en": "You wished to know the truth. There it is.",
+   "ro": "Voiai adevărul. Uite-l."
+  },
+  {
+   "key": "2004115945049526316",
+   "en": "I... I really thought it'd all work out, end better than well.",
+   "ro": "Eu... chiar am crezut că o să iasă totul bine, și chiar mai bine."
+  },
+  {
+   "key": "2004115945083080732",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "2004115945099857920",
+   "en": "Still got options?",
+   "ro": "Mai am opțiuni?"
+  },
+  {
+   "key": "2004115945099857936",
+   "en": "A few months, that's all I got, right?",
+   "ro": "Câteva luni, atât am, nu?"
+  },
+  {
+   "key": "2004115945099857952",
+   "en": "You promised Arasaka would fix me.",
+   "ro": "Ai promis că Arasaka o să mă repare."
+  },
+  {
+   "key": "2004115945133412368",
+   "en": "Dead in a few months – that's me, huh?",
+   "ro": "Moartă în câteva luni – asta sunt eu, nu?",
+   "ro_m": "Mort în câteva luni – asta sunt eu, nu?"
+  },
+  {
+   "key": "2004115945133412384",
+   "en": "You will feel better at first, but then the illness will grow fierce, attack in full force.",
+   "ro": "La început o să te simți mai bine, dar apoi boala o să se înrăutățească și o să atace cu toată forța."
+  },
+  {
+   "key": "2004115945133412400",
+   "en": "Your final weeks you will spend in bed.",
+   "ro": "Ultimele săptămâni le o să le petreci în pat."
+  },
+  {
+   "key": "2004115945183744028",
+   "en": "Said Arasaka would fix me if I helped you – you promised.",
+   "ro": "Ai spus că Arasaka o să mă repare dacă te ajut – ai promis."
+  },
+  {
+   "key": "2004115945183744044",
+   "en": "I believed truly they could.",
+   "ro": "Chiar am crezut că pot."
+  },
+  {
+   "key": "2004115945183744060",
+   "en": "Said you had powerful friends. Where're those friends now?",
+   "ro": "Ai spus că ai prieteni puternici. Unde sunt acum prietenii ăia?"
+  },
+  {
+   "key": "2004115945183744076",
+   "en": "I did not come with empty hands. We must speak about your options.",
+   "ro": "N-am venit cu mâinile goale. Trebuie să vorbim despre opțiunile tale."
+  },
+  {
+   "key": "2004115945183744092",
+   "en": "Hanako Arasaka promised to save my life.",
+   "ro": "Hanako Arasaka a promis să-mi salveze viața."
+  },
+  {
+   "key": "2004115945200521216",
+   "en": "It is the reason she sent me here – to discuss the alternative.",
+   "ro": "Din cauza asta m-a trimis aici – să discutăm o alternativă."
+  },
+  {
+   "key": "2004115945234075720",
+   "en": "What're you talkin' about? Trusted you all once already. You let me down.",
+   "ro": "Despre ce vorbești? Am mai avut încredere în voi o dată. M-ați lăsat baltă."
+  },
+  {
+   "key": "2004115945234075780",
+   "en": "You may join the \"Secure Your Soul\" program. Hanako Arasaka has agreed to it.",
+   "ro": "Te poți înscrie în programul \"Secure Your Soul\". Hanako Arasaka a zis da."
+  },
+  {
+   "key": "2004115945250852876",
+   "en": "You will leave your body. Arasaka will store your engram in Mikoshi until a way is found to transfer it to a new body.",
+   "ro": "Ai să-ți părăsești corpul. Arasaka o să-ți stocheze engramul în Mikoshi până se găsește o cale să-l transfere într-un corp nou."
+  },
+  {
+   "key": "2004115945250852900",
+   "en": "Store? Can't I get a new body right off?",
+   "ro": "Stocare? Nu pot primi un corp nou chiar acum?"
+  },
+  {
+   "key": "2004115945250852912",
+   "en": "With technology as it is now, this is impossible.",
+   "ro": "Cu tehnologia de acum, e imposibil."
+  },
+  {
+   "key": "2004115945250852928",
+   "en": "Seemed pretty damn possible for Saburo Arasaka.",
+   "ro": "Părea al naibii de posibil pentru Saburo Arasaka."
+  },
+  {
+   "key": "2004115945250852940",
+   "en": "He returned in his son's body. Tissue compatibility made things easier.",
+   "ro": "S-a întors în corpul fiului său. Compatibilitatea țesuturilor a făcut lucrurile mai ușoare."
+  },
+  {
+   "key": "2004115945284407296",
+   "en": "Don't wanna land in Mikoshi.",
+   "ro": "Nu vreau să ajung în Mikoshi."
+  },
+  {
+   "key": "2004115945284407312",
+   "en": "Arasaka just wants another soul in its collection.",
+   "ro": "Arasaka vrea doar încă un suflet în colecția sa."
+  },
+  {
+   "key": "2004115945317961760",
+   "en": "Sorry, not buyin' it. Arasaka's out to lock me up.",
+   "ro": "Nu mă prinzi tu pe mine. Arasaka vrea să mă bage la zdup."
+  },
+  {
+   "key": "2004115945317961776",
+   "en": "You overstate your importance. To the Arasakas, I fear you are nobody – were nobody.",
+   "ro": "Îți exagerezi importanța. Pentru Arasaka ești nimeni – ba chiar ai fost nimeni."
+  },
+  {
+   "key": "2004115945317961788",
+   "en": "With this offer, Hanako Arasaka rewards you generously for your service. There is not, as you say, \"more to the story.\"",
+   "ro": "Cu oferta asta, Hanako Arasaka te răsplătește generos pentru servicii. Nu e „mai mult la poveste”, cum zici tu."
+  },
+  {
+   "key": "2004115945385070624",
+   "en": "There will be a contract to protect you. Sign it, and you will live.",
+   "ro": "O să ai un contract care să te protejeze. Semnează-l și trăiești."
+  },
+  {
+   "key": "2004115945418625064",
+   "en": "Saw Saburo Arasaka's back. In Yorinobu's body.",
+   "ro": "L-am văzut pe Saburo Arasaka cum s-a întors. În corpul lui Yorinobu."
+  },
+  {
+   "key": "2004115945418625080",
+   "en": "Yes. Justice has been done.",
+   "ro": "Da. S-a făcut dreptate."
+  },
+  {
+   "key": "2004115945418625096",
+   "en": "So – got your revenge? Feel satisfied?",
+   "ro": "Deci, ți-ai luat revanșa? Ești împăcată?",
+   "ro_m": "Deci, ți-ai luat revanșa? Ești împăcat?"
+  },
+  {
+   "key": "2004115945435402240",
+   "en": "I believe Hanako Arasaka chose the best solution.",
+   "ro": "Cred că Hanako Arasaka a ales cea mai bună soluție."
+  },
+  {
+   "key": "2004115945452179456",
+   "en": "Whole family's fucked up.",
+   "ro": "Toată familia e dusă cu capul."
+  },
+  {
+   "key": "2004115945452179472",
+   "en": "Saburo Arasaka should've stayed dead.",
+   "ro": "Saburo Arasaka ar fi trebuit să rămână mort."
+  },
+  {
+   "key": "2004115945452179488",
+   "en": "Feel bad for Yorinobu Arasaka.",
+   "ro": "Îmi pare rău pentru Yorinobu Arasaka."
+  },
+  {
+   "key": "2004115945485733924",
+   "en": "Whole family's all kinds of fucked up. You know that.",
+   "ro": "Toată familia e dusă cu capul, da' rău de tot. Știi și tu."
+  },
+  {
+   "key": "2004115945502511108",
+   "en": "Please watch what you say.",
+   "ro": "Ai grijă ce spui.",
+   "ro_m": "Te rog să fii atent la ce spui."
+  },
+  {
+   "key": "2004115945502511124",
+   "en": "Sister kills brother to plant her murdered dad in the brother's corpse? Straight-to-feeder flick right there.",
+   "ro": "Sora îl omoară pe frate ca să-i planteze tatăl ucis în cadavrul fratelui? Film direct pe feeder."
+  },
+  {
+   "key": "2004115945502511136",
+   "en": "They are diferrent from you and me. We do not have the right to judge them.",
+   "ro": "Sunt diferiți de noi. Nu avem dreptul să-i judecăm."
+  },
+  {
+   "key": "2004115945536065564",
+   "en": "Saburo shoulda stayed dead.",
+   "ro": "Saburo ar fi trebuit să rămână mort."
+  },
+  {
+   "key": "2004115945536065580",
+   "en": "Many wish him dead, but he will survive them all.",
+   "ro": "Mulți îl vor mort, da' o să-i supraviețuiască pe toți."
+  },
+  {
+   "key": "2004115945586397224",
+   "en": "Y'know, the Arasakas belong in some sad old tragedy. Some Shakespeare-level shit there.",
+   "ro": "Știi, Arasakii ăștia parcă sunt dintr-o tragedie veche. Ceva de nivel Shakespeare, pe bune."
+  },
+  {
+   "key": "2004115945586397240",
+   "en": "Yorinobu 'specially.",
+   "ro": "Mai ales Yorinobu."
+  },
+  {
+   "key": "2004115945586397256",
+   "en": "You regret his fate?",
+   "ro": "Regreți soarta lui?"
+  },
+  {
+   "key": "2004115945603174412",
+   "en": "Wanted out of his dad's shadow, whatever the cost. Died at the hand of his worst nightmare.",
+   "ro": "Voia să scape de umbra tatălui, orice-ar fi costat. A murit ucis de cel mai mare coșmar al lui."
+  },
+  {
+   "key": "2004115945670283268",
+   "en": "You must accept the truth, then listen to what I say. There are options.",
+   "ro": "Trebuie să accepți adevărul, apoi să mă asculți. Sunt și alte variante."
+  },
+  {
+   "key": "2004115945787723808",
+   "en": "They have kept you here in this cell? For days? It is barbaric.",
+   "ro": "Te-au ținut aici, în celula asta? Zile întregi? E barbar."
+  },
+  {
+   "key": "2004115945854832640",
+   "en": "[Sit on bed]",
+   "ro": "[Așază-te pe pat]"
+  },
+  {
+   "key": "2004115945905164288",
+   "en": "[Take contract]",
+   "ro": "[Ia contractul]"
+  },
+  {
+   "key": "2004115945989050372",
+   "en": "It is written here that you relinquish all rights, but do not worry. The law is simply behind the times – an engram is not legally a person.",
+   "ro": "Aici scrie că renunți la toate drepturile, da' nu-ți face griji. Legea e cam rămasă în urmă – un engram, legal vorbind, nu e persoană."
+  },
+  {
+   "key": "2004115945989050388",
+   "en": "So I get to be corporate property first?",
+   "ro": "Deci întâi devin proprietate corporatistă?"
+  },
+  {
+   "key": "2004115945989050404",
+   "en": "Like many braindance stars and politicians, from what I know. The program is a success, there have been no complaints.",
+   "ro": "Ca mulți staruri de braindance și politicieni, din câte știu. Programul e un succes, n-a fost nicio plângere."
+  },
+  {
+   "key": "2004115945989050420",
+   "en": "And if I say no?",
+   "ro": "Și dacă spun nu?"
+  },
+  {
+   "key": "2004115945989050436",
+   "en": "This is not a prison. You will take your things and return to Night City.",
+   "ro": "Nu e închisoare. Îți iei lucrurile și te întorci în Night City."
+  },
+  {
+   "key": "2004116215800238112",
+   "en": "Hey. What's your name?",
+   "ro": "Hei. Cum te cheamă?"
+  },
+  {
+   "key": "2004116215800238128",
+   "en": "Hajime.",
+   "ro": "Hajime."
+  },
+  {
+   "key": "2004116215800238144",
+   "en": "Hajime, lemme ask you somethin'. What would you say to a person who walked right into their greatest foe's jail to save their life?",
+   "ro": "Hajime, o întrebare. Ce i-ai spune unei persoane care a intrat direct în închisoarea celui mai mare dușman al ei ca să-și salveze viața?"
+  },
+  {
+   "key": "2004116215800238160",
+   "en": "Hm. I would say, \"All right. But do not forget the way home.\"",
+   "ro": "Hm. Aș spune: „Bine. Dar nu uita drumul spre casă.”"
+  },
+  {
+   "key": "2004116216051896320",
+   "en": "[Stand] See you around?",
+   "ro": "[Ridică-te] Ne mai vedem?"
+  },
+  {
+   "key": "2004116216085450752",
+   "en": "[Sign contract]",
+   "ro": "[Semnează contractul]"
+  },
+  {
+   "key": "2004116216085450764",
+   "en": "[Take things and return to Earth]",
+   "ro": "[Ia-ți lucrurile și întoarce-te pe Pământ]"
+  },
+  {
+   "key": "2004116216119005188",
+   "en": "Were I you, I would sign. But the choice is yours. Think it through carefully.",
+   "ro": "Dacă aș fi în locul tău, aș semna. Dar alegerea e a ta. Gândește-te bine."
+  },
+  {
+   "key": "2004116216337108992",
+   "en": "[Take cube]",
+   "ro": "[Ia cubul]"
+  },
+  {
+   "key": "2004116216404217880",
+   "en": "Arasaka keeps its word, always.",
+   "ro": "Arasaka își ține mereu cuvântul."
+  },
+  {
+   "key": "2004116216504881156",
+   "en": "Don't wanna die.",
+   "ro": "Nu vreau să mor."
+  },
+  {
+   "key": "2004116216504881168",
+   "en": "A good choice.",
+   "ro": "O alegere bună."
+  },
+  {
+   "key": "2004116216504881180",
+   "en": "The engram station is ready for you. We should not wait for your condition to worsen.",
+   "ro": "Stația de engram e gata pentru tine. Nu ar trebui să așteptăm până ți se agravează starea."
+  },
+  {
+   "key": "2004116216605544448",
+   "en": "[Surrender to Arasaka]",
+   "ro": "[Predă-te Arasaka]"
+  },
+  {
+   "key": "2004116216722984964",
+   "en": "Made my decision.",
+   "ro": "Am luat decizia."
+  },
+  {
+   "key": "2004116216739762176",
+   "en": "Goin' back to Earth, goin' home.",
+   "ro": "Mă întorc pe Pământ, mă întorc acasă."
+  },
+  {
+   "key": "2004116216739762188",
+   "en": "You will die there.",
+   "ro": "O să mori acolo."
+  },
+  {
+   "key": "2004116217192747008",
+   "en": "[Show middle finger]",
+   "ro": "[Arată degetul mijlociu]"
+  },
+  {
+   "key": "2004116217293410304",
+   "en": "[Return to Earth]",
+   "ro": "[Întoarce-te pe Pământ]"
+  },
+  {
+   "key": "2004116217545068544",
+   "en": "Gonna see each other again?",
+   "ro": "O să ne mai vedem?"
+  },
+  {
+   "key": "2004116217545068560",
+   "en": "I believe we will.",
+   "ro": "Cred că da."
+  },
+  {
+   "key": "2004116217545068576",
+   "en": "So… see you.",
+   "ro": "Așa că... ne vedem."
+  },
+  {
+   "key": "2004116217628954628",
+   "en": "You're all right, Takemura, I like you. Thanks for comin' all the way up here to help.",
+   "ro": "Ești ok, Takemura, îmi placi. Mersi că ai venit până aici să ajuți."
+  },
+  {
+   "key": "2004116217628954640",
+   "en": "What is that?",
+   "ro": "Ce e aia?"
+  },
+  {
+   "key": "2004116217662509056",
+   "en": "[Stand] Goodbye, Takemura.",
+   "ro": "[Ridică-te] La revedere, Takemura."
+  },
+  {
+   "key": "2004116217796726792",
+   "en": "(\"A thing of beauty will never fade away.\")",
+   "ro": "(\"Un lucru frumos nu o să dispară niciodată.\")"
+  },
+  {
+   "key": "2004116217830281224",
+   "en": "(\"I see your eyes, I know you see me, you're like a ghost how you're everywhere.\")",
+   "ro": "(\"Îți văd ochii, știu că mă vezi, ești ca o fantomă, ești peste tot.\")"
+  },
+  {
+   "key": "2018716791898398720",
+   "en": "I have come to speak with you.",
+   "ro": "Am venit să vorbesc cu tine."
+  },
+  {
+   "key": "2018794699115487232",
+   "en": "Sorry, guess I'll never understand what you see in the guy.",
+   "ro": "Scuze, cred că nu o să înțeleg niciodată ce vezi la tipul ăsta."
+  },
+  {
+   "key": "2018795035968430080",
+   "en": "You did not spend your life at his side and-- well... I did not come here to talk about the Arasakas.",
+   "ro": "Nu ți-ai petrecut viața alături de el și-- ei, mă rog... n-am venit aici să vorbesc despre Arasaka."
+  },
+  {
+   "key": "2018845020630048768",
+   "en": "She has forgotten you already. They called from here, from the clinic.",
+   "ro": "Te-a uitat deja. Au sunat de aici, de la clinică."
+  },
+  {
+   "key": "2018845795351552000",
+   "en": "They said someone should talk with you. Someone you know.",
+   "ro": "Au spus că ar trebui să vorbească cineva cu tine. Cineva pe care-l cunoști."
+  },
+  {
+   "key": "2018876965657272320",
+   "en": "No, no – the operation was a success, and that is why. But the changes the chip made were too great – even for the corporate neurosurgeons.",
+   "ro": "Nu, nu – operația a reușit, și tocmai de-asta. Dar modificările făcute de cip au fost prea mari – chiar și pentru neurochirurgii corporatiști."
+  },
+  {
+   "key": "2018877801548505088",
+   "en": "This is fuckin' Arasaka! They should figure somethin' out!",
+   "ro": "E Arasaka, pula mea! Să se prindă ei ceva!"
+  },
+  {
+   "key": "2018886455924383744",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "2018886547477651456",
+   "en": "Please, feel no anger. I wish to speak about an alternative.",
+   "ro": "Te rog, nu te supăra. Vreau să discutăm o alternativă."
+  },
+  {
+   "key": "2018907086330028032",
+   "en": "Nope, doesn't sound good to me at all. I agree to this, and they'll do whatever they want with me.",
+   "en_m": "Nope, doesn't sound good at all to me. I agree to this, and they'll do whatever they want with me.",
+   "ro": "Nu, nu sună deloc bine pentru mine. Dacă sunt de acord cu asta, o să facă ce vor cu mine."
+  },
+  {
+   "key": "2018919758379376640",
+   "en": "Visit me in Kagawa – I will show you what is real food.",
+   "ro": "Vino să mă vizitezi în Kagawa – îți arăt ce înseamnă mâncare adevărată."
+  },
+  {
+   "key": "2018923194051223552",
+   "en": "But one thing you never understood and never will.",
+   "ro": "Dar un lucru pe care nu l-ai înțeles niciodată și nu o să-l înțelegi."
+  },
+  {
+   "key": "2018924516079067136",
+   "en": "Got no idea how sweet it is to be free.",
+   "ro": "N-ai nicio idee cât de dulce e să fii liberă.",
+   "ro_m": "N-ai nicio idee cât de dulce e să fii liber."
+  },
+  {
+   "key": "2018925922160762880",
+   "en": "You speak out of bitterness. Please reconsider.",
+   "ro": "Vorbești din amărăciune. Te rog să te răzgândești."
+  },
+  {
+   "key": "2018926809893593088",
+   "en": "No. This here's goodbye. But I'm not gonna forget you, what we did together.",
+   "ro": "Nu. Aici ne despărțim. Dar n-o să te uit, ce-am făcut împreună.",
+   "ro_m": "Nu. Aici ne despărțim. Dar n-o să uit ce-am făcut împreună."
+  },
+  {
+   "key": "2018927814093856768",
+   "en": "Goodbye, V.",
+   "ro": "La revedere, V."
+  },
+  {
+   "key": "2025631369722880000",
+   "en": "Yet your phenotype, thanks to the chip, is unique. Arasaka cannot provide a suitable body at this time.",
+   "ro": "Totuși, fenotipul tău, datorită cipului, e unic. Arasaka nu poate oferi un corp potrivit acum."
+  },
+  {
+   "key": "2066552551861358596",
+   "en": "[Take bag]",
+   "ro": "[Ia geanta]"
+  },
+  {
+   "key": "2221684586083348480",
+   "en": "Rise, V, please – let us talk.",
+   "ro": "Ridică-te, V, te rog – să vorbim."
+  },
+  {
+   "key": "2221685564731912192",
+   "en": "V-san?",
+   "ro": "V-san?"
+  },
+  {
+   "key": "2221685689738948608",
+   "en": "Please, look.",
+   "ro": "Te rog, uită-te."
+  },
+  {
+   "key": "2221685976293797888",
+   "en": "Any thoughts?",
+   "ro": "Idei?"
+  },
+  {
+   "key": "2221686084255182848",
+   "en": "You need not delay. There is nothing for you here any longer.",
+   "ro": "Nu e nevoie să amâni. Nu mai e nimic pentru tine aici."
+  }
+ ]
+}

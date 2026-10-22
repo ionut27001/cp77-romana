@@ -1,0 +1,720 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_04_netrunners_den.json",
+ "entries": [
+  {
+   "key": "1550187474488782848",
+   "en": "Dis not our way.",
+   "ro": "Nu-i felul nostru."
+  },
+  {
+   "key": "1550187626926567424",
+   "en": "How's that been workin' out for ya?",
+   "ro": "Cum ți-a mers cu asta?"
+  },
+  {
+   "key": "1550187698129072128",
+   "en": "Work good. Good more than bad.",
+   "ro": "Merge bine. Mai mult bine decât rău."
+  },
+  {
+   "key": "1550190623941324800",
+   "en": "Your chrome shaman – it is Viktor?",
+   "ro": "Șamanul tău de chrome – e Viktor?"
+  },
+  {
+   "key": "1550192272101470212",
+   "en": "Why's that matter?",
+   "ro": "De ce contează?"
+  },
+  {
+   "key": "1550192664352780288",
+   "en": "You know him?",
+   "ro": "Îl cunoști?"
+  },
+  {
+   "key": "1550193318227996672",
+   "en": "That at all relevant? Or just a cheap scare tactic?",
+   "en_m": "Is that at all relevant? Or just a cheap scare tactic?",
+   "ro": "Are vreo importanță? Sau e doar un truc ieftin de intimidare?"
+  },
+  {
+   "key": "1550193652681797632",
+   "en": "You two know each other?",
+   "ro": "Voi doi vă cunoașteți?"
+  },
+  {
+   "key": "1550193872429772800",
+   "en": "No. No need.",
+   "ro": "Nu. Nu-i nevoie."
+  },
+  {
+   "key": "1550194682198880256",
+   "en": "I need you to be able. I need know.",
+   "ro": "Trebuie să fii în stare. Trebuie să știu."
+  },
+  {
+   "key": "1550195380147843072",
+   "en": "Dis chip – it have no signature. What is it?",
+   "ro": "Cipul ăsta – n-are semnătură. Ce e?"
+  },
+  {
+   "key": "1550196000518959108",
+   "en": "Unimportant. Busted anyway.",
+   "ro": "Nu contează. Oricum e stricat."
+  },
+  {
+   "key": "1550196352840495104",
+   "en": "Besides that, everything's OK?",
+   "ro": "Și în rest, totul e ok?"
+  },
+  {
+   "key": "1550198236317872128",
+   "en": "Got a bullet to the brain. Hasn't worked since. That's how.",
+   "ro": "Am luat un glonț în cap. De atunci nu mai merge. Așa e."
+  },
+  {
+   "key": "1550199386362474500",
+   "en": "So... Am I the merc you're looking for?",
+   "ro": "Deci... Sunt merc-ul pe care-l căutați?"
+  },
+  {
+   "key": "1550199903889256448",
+   "en": "GIM – what do I do once I'm in?",
+   "ro": "GIM – ce fac când ajung înăuntru?"
+  },
+  {
+   "key": "1550200357528399872",
+   "en": "So... Am I right for the job, good to go?",
+   "ro": "Deci... Mă potrivesc pentru treabă? Gata de drum?"
+  },
+  {
+   "key": "1550200449903751168",
+   "en": "Once inside, what do I do?",
+   "ro": "Și odată înăuntru, ce fac?"
+  },
+  {
+   "key": "1550201565672501248",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1550203415327010820",
+   "en": "Pretty advanced tech for the Animals.",
+   "ro": "Tech destul de avansat pentru Animals."
+  },
+  {
+   "key": "1550214146185359360",
+   "en": "Recordings all your handiwork?",
+   "ro": "Toate înregistrările sunt opera ta?"
+  },
+  {
+   "key": "1550226466433265664",
+   "en": "You record all this on your own?",
+   "ro": "Filmezi tot asta pe cont propriu?"
+  },
+  {
+   "key": "1550226870059528192",
+   "en": "Mhm, local cam signals, corp sats, we capture through all.",
+   "ro": "Mhm, camere locale, sateliți corporatiști, prindem prin toate."
+  },
+  {
+   "key": "1550227183273373696",
+   "en": "But from inside the GIM – squat, right?",
+   "ro": "Dar din interiorul GIM-ului – nimic, nu?"
+  },
+  {
+   "key": "1550228574742114304",
+   "en": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"We try to learn where de \" a=\" come from.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"Încercăm să aflăm de unde vine \" a=\".\"/>"
+  },
+  {
+   "key": "1550228850760871936",
+   "en": "20:35:07… three second before... poof.",
+   "ro": "20:35:07… trei secunde înainte... puf."
+  },
+  {
+   "key": "1550229360838569984",
+   "en": "It disappear, from in front of all de eyes.",
+   "ro": "Dispare chiar de sub ochii tuturor."
+  },
+  {
+   "key": "1550230611261255680",
+   "en": "<kiroshi l=\"creo\" o=\"Placide, batmann kè li ap desann ankò…\" t=\"Placide, her heart rate's dipping again…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide, batmann kè li ap desann ankò…\" t=\"Placide, pulsul ei scade iar…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1550231567814225920",
+   "en": "<kiroshi l=\"creo\" o=\"Fèmen pòt la!\" t=\"Close the door!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fèmen pòt la!\" t=\"Închide ușa!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1550232106161532932",
+   "en": "Animals aren't the focus, are they?",
+   "ro": "Animals nu sunt ținta, nu?"
+  },
+  {
+   "key": "1550235567972282368",
+   "en": "Animals aren't the play here, are they?",
+   "ro": "Animals nu sunt miza aici, nu?"
+  },
+  {
+   "key": "1550236065014083584",
+   "en": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"Mhm. Start with the \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"Mhm. Începem cu \" a=\".\"/>"
+  },
+  {
+   "key": "1550238062710747140",
+   "en": "Gonna keep tabs on me, aren't you.",
+   "ro": "Mă ții sub ochi, nu?"
+  },
+  {
+   "key": "1550240533441015808",
+   "en": "Got it. So I do this and you put me in front of Brigitte, right?",
+   "ro": "Am înțeles. Deci fac asta și mă pui în fața lui Brigitte, nu?"
+  },
+  {
+   "key": "1550241187047796736",
+   "en": "My pay – how much we talkin', and how'm I gonna collect?",
+   "ro": "Plata mea – cât e și cum o iau?"
+  },
+  {
+   "key": "1550241362520698880",
+   "en": "Hands say you not in dis for cash.",
+   "ro": "Hands zice că nu ești aici pentru bani."
+  },
+  {
+   "key": "1550241630452838400",
+   "en": "You in dis for problem. Do GIM for us, Brigitte can solve it.",
+   "ro": "Ești aici pentru problemă. Fă GIM-ul pentru noi, Brigitte o rezolvă."
+  },
+  {
+   "key": "1550241827601903616",
+   "en": "Uh-huh, 'cept then I found out you need me to be a bullet trap on enemy turf.",
+   "ro": "Aha, da, numai că pe urmă am aflat că vrei să fiu carne de tun pe teritoriu inamic."
+  },
+  {
+   "key": "1550621570139967488",
+   "en": "You have now sync wid Rezo Agwe, our subnet.",
+   "ro": "Acum ești sincronizată cu Rezo Agwe, subnetul nostru.",
+   "ro_m": "Acum ești sincronizat cu Rezo Agwe, subnetul nostru."
+  },
+  {
+   "key": "1551636874756657152",
+   "en": "You sit.",
+   "ro": "Stai jos."
+  },
+  {
+   "key": "1551637188893249540",
+   "en": "[Sit] When do I see Brigitte?",
+   "ro": "[Așează-te] Când o văd pe Brigitte?"
+  },
+  {
+   "key": "1557518992371159040",
+   "en": "[Rip hand away] The hell?!",
+   "ro": "[Smulge mâna] Ce naiba?!"
+  },
+  {
+   "key": "1557530129523347456",
+   "en": "What da hell...?!",
+   "ro": "Ce naiba...?!"
+  },
+  {
+   "key": "1557530425523769344",
+   "en": "Could fuckin' tell me what you plan to do first.",
+   "ro": "Ai putea să-mi spui, dracu' să te ia, ce vrei să faci întâi."
+  },
+  {
+   "key": "1557601882018746372",
+   "en": "Why not send your own goons?",
+   "ro": "De ce nu-ți trimiți oamenii tăi?"
+  },
+  {
+   "key": "1557615533052203008",
+   "en": "Why not send your own goons to the GIM?",
+   "ro": "De ce nu-ți trimiți oamenii la GIM?"
+  },
+  {
+   "key": "1558795582010888192",
+   "en": "Got a feeling we're not gonna be best friends.",
+   "ro": "Cam bănuiesc că nu o să ne împrietenim."
+  },
+  {
+   "key": "1558796249710530560",
+   "en": "Got a feelin' we're not gonna become best friends.",
+   "en_m": "Got a feeling we're not gonna become best friends.",
+   "ro": "Am senzația că n-o să devenim cei mai buni prieteni."
+  },
+  {
+   "key": "1558800826501500928",
+   "en": "I will survive.",
+   "ro": "O să supraviețuiesc."
+  },
+  {
+   "key": "1558962120777076736",
+   "en": "Find our people near mall. Dey will show you how to get inside de beast.",
+   "ro": "Găsește-i pe ai noștri lângă mall. Ei îți arată cum să intri în bestie."
+  },
+  {
+   "key": "1558965014528069632",
+   "en": "<mothertongue l=\"creo\" m=\"Soti\" b=\"\" a=\" at end of de hall. Go down. My people will let you pass.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Soti\" b=\"\" a=\" la capătul holului. Coboară. Oamenii mei te lasă să treci.\"/>"
+  },
+  {
+   "key": "1559102248195526656",
+   "en": "Hm. We will see. No promise.",
+   "ro": "Hm. O să vedem. Nu promit nimic."
+  },
+  {
+   "key": "1561859197400059904",
+   "en": "<kiroshi l=\"creo\" o=\"De kamyonèt.\" t=\"The vehicle.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"De kamyonèt.\" t=\"Vehiculul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1561859699626020864",
+   "en": "<kiroshi l=\"creo\" o=\"De kamyonèt\" t=\"The vehicle.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"De kamyonèt\" t=\"Vehiculul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1561891631080476672",
+   "en": "Why? What for?",
+   "ro": "De ce? Pentru ce?"
+  },
+  {
+   "key": "1561891919229161472",
+   "en": "You are my vessel now. Through Agwe I see what you see, hear what you hear.",
+   "ro": "Acum ești vasul meu. Prin Agwe văd ce vezi, aud ce auzi."
+  },
+  {
+   "key": "1561894908190855168",
+   "en": "I will guide you through GIM.",
+   "ro": "O să te ghidez prin GIM."
+  },
+  {
+   "key": "1561908387845050368",
+   "en": "So, aim to keep an eye on me. Shows trust.",
+   "en_m": "So, aim to keep an eye on me. Heh, shows trust.",
+   "ro": "Deci, încearcă să mă ții sub observație. Arată încredere.",
+   "ro_m": "Deci, încearcă să mă ții sub observație. Heh, arată încredere."
+  },
+  {
+   "key": "1561912502339833856",
+   "en": "All right, anything else I should know?",
+   "ro": "Bine, mai e ceva ce ar trebui să știu?"
+  },
+  {
+   "key": "1562233320290717696",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1562233949419540480",
+   "en": "All ears, what?",
+   "ro": "Sunt toată urechea. Ce-i?"
+  },
+  {
+   "key": "1562234041677451264",
+   "en": "I check stability. Da link on your end clear?",
+   "ro": "Verific stabilitatea. Conexiunea e bună la tine?"
+  },
+  {
+   "key": "1562236881389031424",
+   "en": "Mhm. Seems so.",
+   "ro": "Mhm. Se pare că da."
+  },
+  {
+   "key": "1599404091148406784",
+   "en": "This hardware is shit. You should replace.",
+   "ro": "Hardware-ul ăsta e rahat. Ar trebui să-l schimbi."
+  },
+  {
+   "key": "1611056633909415936",
+   "en": "The chip's why I'm here.",
+   "ro": "Cipul m-a adus aici."
+  },
+  {
+   "key": "1611057903172915200",
+   "en": "Doesn't look at all familiar?",
+   "ro": "Nu-ți pare deloc familiar?"
+  },
+  {
+   "key": "1611058603906895872",
+   "en": "It should? Why? I see only it is damaged.",
+   "ro": "Ar trebui? De ce? Eu văd doar că e avariat."
+  },
+  {
+   "key": "1630195134848372736",
+   "en": "Whoa, what the hell're you doin'?!",
+   "ro": "Hei, ce naiba faci?!"
+  },
+  {
+   "key": "1660593143492460544",
+   "en": "Well?",
+   "ro": "Ei?"
+  },
+  {
+   "key": "1660593176107368448",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1664984176420786176",
+   "en": "Time for a break? Think you might be needed.",
+   "ro": "Pauză? Cred că ai putea fi de folos."
+  },
+  {
+   "key": "1664985937223159808",
+   "en": "Dey will manage fine.",
+   "ro": "O să se descurce."
+  },
+  {
+   "key": "1664990010898976768",
+   "en": "You focus.",
+   "ro": "Concentrează-te."
+  },
+  {
+   "key": "1680624582005166080",
+   "en": "Evelyn Parker. Ring a bell?",
+   "ro": "Evelyn Parker. Îți spune ceva?"
+  },
+  {
+   "key": "1680628628518670336",
+   "en": "Evelyn Parker. Ring a bell?",
+   "ro": "Evelyn Parker. Îți spune ceva?"
+  },
+  {
+   "key": "1680630333922676736",
+   "en": "Not one of us.",
+   "ro": "Nu e una dintre noi."
+  },
+  {
+   "key": "1680630926846267392",
+   "en": "She did work for you once.",
+   "ro": "A lucrat pentru voi odată."
+  },
+  {
+   "key": "1693922771048108036",
+   "en": "Time for a break? Think someone needs your help.",
+   "ro": "Pauză? Cred că cineva îți cere ajutorul."
+  },
+  {
+   "key": "1695373943591211008",
+   "en": "They're hired muscle. Someone else needed them.",
+   "ro": "Sunt mușchi plătiți. Cineva îi voia pe ei."
+  },
+  {
+   "key": "1695383584937152512",
+   "en": "Someone with a van full of netrunner tech. And that's where I come in? To sniff out who?",
+   "ro": "Cineva cu o dubă plină de tech de netrunner. Și aici intru eu? Să dau de urma cui?"
+  },
+  {
+   "key": "1695392382707896320",
+   "en": "<mothertongue l=\"creo\" m=\"sitiyasyon.\" b=\"Hide from all eyes. Only see de \" a=\"\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"sitiyasyon.\" b=\"Ascunde-te de toți ochii. Vezi doar \" a=\"\"/>"
+  },
+  {
+   "key": "1695586565930422272",
+   "en": "We know who the 'runner inside is?",
+   "ro": "Știm cine e netrunnerul dinăuntru?"
+  },
+  {
+   "key": "1695587318656995328",
+   "en": "Know who the 'runner is?",
+   "ro": "Știi cine e netrunnerul?"
+  },
+  {
+   "key": "1695588978594746368",
+   "en": "What he wants?",
+   "ro": "Ce vrea el?"
+  },
+  {
+   "key": "1695589620692357120",
+   "en": "This I hope you tell me.",
+   "ro": "Asta sper să-mi zici tu."
+  },
+  {
+   "key": "1705303501702500352",
+   "en": "Y'know what? Fuck this.",
+   "ro": "Știi ce? Bag pula-n asta!"
+  },
+  {
+   "key": "1705308830548955136",
+   "en": "Y'know what? Fuck this.",
+   "ro": "Știi ce? Bag pula-n asta!"
+  },
+  {
+   "key": "1705316087114305536",
+   "en": "You think you free? Can just stand and walk away?",
+   "ro": "Crezi că ești liberă? Că poți să te ridici și să pleci, așa, pur și simplu?",
+   "ro_m": "Crezi că ești liber? Că poți să te ridici și să pleci, așa, pur și simplu?"
+  },
+  {
+   "key": "1705319528456851456",
+   "en": "Remember why we're here, V.",
+   "ro": "Amintește-ți de ce suntem aici, V."
+  },
+  {
+   "key": "1705328326781243392",
+   "en": "No denyin' the guy's a fuckin' tool, but we need 'im. Can't find Alt without a little voodoo.",
+   "ro": "Nu zic nimic, tipul e un tool nenorocit, dar ne trebuie. Fără un pic de voodoo nu dăm de Alt."
+  },
+  {
+   "key": "1705330097683501056",
+   "en": "Finished? We can continue?",
+   "ro": "Gata? Continuăm?"
+  },
+  {
+   "key": "1705330541004656640",
+   "en": "No denyin' the guy's a fuckin' tool, but we need 'im. Can't find Alt without a little voodoo.",
+   "ro": "Nu zic nimic, tipul e un tool nenorocit, dar ne trebuie. Fără un pic de voodoo nu dăm de Alt."
+  },
+  {
+   "key": "1705330541021433868",
+   "en": "Finished? We can continue?",
+   "ro": "Gata? Continuăm?"
+  },
+  {
+   "key": "1705343596681826304",
+   "en": "Dis chip I see – it have no signature. What is it?",
+   "ro": "Cipul ăsta pe care-l văd – n-are semnătură. Ce e?"
+  },
+  {
+   "key": "1714257492254498820",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1714259114846167040",
+   "en": "Or what? Got other volunteers lined up?",
+   "ro": "Sau ce? Ai alți voluntari la rând?"
+  },
+  {
+   "key": "1714268185297002496",
+   "en": "V...",
+   "ro": "V..."
+  },
+  {
+   "key": "1714268570334109696",
+   "en": "Home stretch. Almost there. Do not fuck this up.",
+   "ro": "Ultimii metri. Aproape am ajuns. N-o da-n bară, pula mea."
+  },
+  {
+   "key": "1714275043084705792",
+   "en": "You take job. You do what I say.",
+   "ro": "Iei jobul. Faci ce zic eu."
+  },
+  {
+   "key": "1714298174134394880",
+   "en": "Dammit, here goes nothin'…",
+   "ro": "La naiba, hai să vedem ce iese…"
+  },
+  {
+   "key": "1714300264609062912",
+   "en": "Or what? You got a line of volunteers waitin'?",
+   "en_m": "Or you'll do what? You got a line of volunteers waitin'?",
+   "ro": "Sau ce? Ai o coadă de voluntari care așteaptă?",
+   "ro_m": "Sau ce o să faci? Ai o coadă de voluntari care așteaptă?"
+  },
+  {
+   "key": "1721466349593640964",
+   "en": "[Jack out and stand] Do this, and I get to talk to Brigitte, right?",
+   "ro": "[Deconectează-te și ridică-te] Dacă fac asta, am voie să vorbesc cu Brigitte, nu?"
+  },
+  {
+   "key": "1721470902158311424",
+   "en": "My pay – how much we talkin'?",
+   "ro": "Plata mea – cât vorbim?"
+  },
+  {
+   "key": "1744642096804204544",
+   "en": "When do I see Brigitte?",
+   "ro": "Când o văd pe Brigitte?"
+  },
+  {
+   "key": "1744642377319256064",
+   "en": "You do job. Dat is first.",
+   "ro": "Întâi jobul. Aia e prima."
+  },
+  {
+   "key": "1744677546289860608",
+   "en": "So you jack in. Now.",
+   "ro": "Deci te conectezi. Acum."
+  },
+  {
+   "key": "1744698268735311872",
+   "en": "No chemistry.",
+   "en_m": "No chemistry, hmph.",
+   "ro": "Nicio chimie.",
+   "ro_m": "Nicio chimie, hmph."
+  },
+  {
+   "key": "1746030561217683456",
+   "en": "We are done.",
+   "ro": "Am terminat."
+  },
+  {
+   "key": "1746030561251237888",
+   "en": "Exit is over dere.",
+   "ro": "Ieșirea e dincolo."
+  },
+  {
+   "key": "1746030561268015104",
+   "en": "Well? Go!",
+   "ro": "Ei? Du-te!"
+  },
+  {
+   "key": "1751738457794088960",
+   "en": "Another voice in your head. Just what the ripperdoc ordered.",
+   "ro": "Încă o voce în cap. Fix ce-ți trebuia."
+  },
+  {
+   "key": "1751795804935622656",
+   "en": "Besides that, everything's OK?",
+   "ro": "Și în rest, totul e ok?"
+  },
+  {
+   "key": "1751796616885768192",
+   "en": "Neural net problem, cortex spikes, other trash…",
+   "ro": "Problemă de rețea neurală, spike-uri corticale, alte rahaturi…"
+  },
+  {
+   "key": "1751798126281560064",
+   "en": "Any of that a dealbreaker?",
+   "ro": "Vreuna din alea e o problemă?"
+  },
+  {
+   "key": "1751802895607861248",
+   "en": "I ask you about de chip.",
+   "ro": "Te întreb despre cip."
+  },
+  {
+   "key": "1751811303358664704",
+   "en": "That means my fee's just gone up.",
+   "ro": "Atunci tariful meu tocmai a crescut."
+  },
+  {
+   "key": "1753428268619730944",
+   "en": "Oh, so now you're a ripperdoc, too?",
+   "ro": "A, deci acum ești și ripperdoc?"
+  },
+  {
+   "key": "1755880988180422656",
+   "en": "Tech looks pretty advanced. Doesn't scream meathead to me.",
+   "ro": "Tech-ul pare destul de avansat. Nu arată a fi de bou."
+  },
+  {
+   "key": "1755882116683079680",
+   "en": "They watch it very close. It is important, whatever it is.",
+   "ro": "O păzesc ca pe ochii din cap. E important, orice ar fi."
+  },
+  {
+   "key": "1760670932035903488",
+   "en": "I lose patience.",
+   "ro": "Îmi pierd răbdarea."
+  },
+  {
+   "key": "1760670965405786112",
+   "en": "I am waiting.",
+   "ro": "Aștept."
+  },
+  {
+   "key": "1760670997383159808",
+   "en": "You have no choice.",
+   "ro": "Nu ai de ales."
+  },
+  {
+   "key": "1762117255609782272",
+   "en": "Well, at least he's not likely to talk your ears bloody.",
+   "ro": "Măcar nu-i genul care vorbește până-ți crapă urechile."
+  },
+  {
+   "key": "1770574980219998208",
+   "en": "Mhh.",
+   "ro": "Mhh."
+  },
+  {
+   "key": "1792529682641784832",
+   "en": "Haven't asked to see my résumé.",
+   "ro": "N-ai cerut să vezi CV-ul meu."
+  },
+  {
+   "key": "1792531558418419712",
+   "en": "Definitely a custom job, that van.",
+   "ro": "Duba aia e clar făcută la comandă."
+  },
+  {
+   "key": "1792542122058256384",
+   "en": "Yes.",
+   "ro": "Da."
+  },
+  {
+   "key": "1792545249985630208",
+   "en": "We are done.",
+   "ro": "Am terminat."
+  },
+  {
+   "key": "1802427320676065280",
+   "en": "You have now sync wid Rezo Agwe, our subnet.",
+   "ro": "Acum ești sincronizată cu Rezo Agwe, subnetul nostru.",
+   "ro_m": "Acum ești sincronizat cu Rezo Agwe, subnetul nostru."
+  },
+  {
+   "key": "1802428630389432320",
+   "en": "You are my vessel now. Through Agwe I see what you see, hear what you hear.",
+   "ro": "Acum ești vasul meu. Prin Agwe văd ce vezi, aud ce auzi."
+  },
+  {
+   "key": "1802429677438705664",
+   "en": "I will guide you through GIM.",
+   "ro": "O să te ghidez prin GIM."
+  },
+  {
+   "key": "1973543317881507840",
+   "en": "Chip's why I'm here, why I wanna word with Brigitte.",
+   "ro": "Cipul e motivul pentru care sunt aici. Vreau să vorbesc cu Brigitte."
+  },
+  {
+   "key": "1973545863018729472",
+   "en": "Ah, unimportant. Busted anyway.",
+   "en_m": "Mah, unimportant. Busted anyway.",
+   "ro": "Mda, nu contează. Oricum e stricat."
+  },
+  {
+   "key": "1973547461384097792",
+   "en": "Mh. How?",
+   "ro": "Mh. Cum?"
+  },
+  {
+   "key": "1973551774906994688",
+   "en": "Huh, haven't asked about my experience, what I can do…",
+   "en_m": "You know, you haven't asked about my experience, what I can do…",
+   "ro": "Hm, n-ai întrebat nimic de experiența mea, ce pot face…",
+   "ro_m": "Știi, n-ai întrebat nimic de experiența mea, ce pot face…"
+  },
+  {
+   "key": "1973552622223511552",
+   "en": "We are not corp, do not offer career.",
+   "ro": "Noi nu suntem corporație, n-oferim cariere."
+  },
+  {
+   "key": "1973555888395145216",
+   "en": "You do for us only one simple thing.",
+   "ro": "Faci un singur lucru simplu pentru noi."
+  },
+  {
+   "key": "1973561751730147328",
+   "en": "Van's definitely a custom job.",
+   "ro": "Duba e clar o lucrare personalizată."
+  },
+  {
+   "key": "1973562907344785408",
+   "en": "I see you not know also.",
+   "ro": "Văd că nici tu nu știi."
+  },
+  {
+   "key": "1973579108531851264",
+   "en": "Hey, just tryin' to piece facts together.",
+   "en_m": "Hey, just tryin' to piece the facts together.",
+   "ro": "Hei, doar încerc să pun faptele cap la cap."
+  }
+ ]
+}

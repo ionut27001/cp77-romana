@@ -1,0 +1,572 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq024\\sq024_05_big_race.json",
+ "entries": [
+  {
+   "key": "1388242201008414720",
+   "en": "Claire, hey.",
+   "ro": "Claire, hei."
+  },
+  {
+   "key": "1389347495155343360",
+   "en": "Fuck me... This isn't happening.",
+   "ro": "Futu-i... Nu se poate."
+  },
+  {
+   "key": "1389360633812623360",
+   "en": "You satisfied? Was it worth it?",
+   "ro": "Ești mulțumită? A meritat?",
+   "ro_m": "Ești mulțumit? A meritat?"
+  },
+  {
+   "key": "1395319513533128704",
+   "en": "OK, folks. Get to your rigs. Time to crunch some steel and bash some heads!",
+   "ro": "Bine, băieți. La mașini! E timpul să îndoim tabla și să spargem niște capete!"
+  },
+  {
+   "key": "1399625779895652352",
+   "en": "Three!",
+   "ro": "Trei!"
+  },
+  {
+   "key": "1399626150705680384",
+   "en": "Two!",
+   "ro": "Doi!"
+  },
+  {
+   "key": "1399626228753289216",
+   "en": "One!",
+   "ro": "Unu!"
+  },
+  {
+   "key": "1399626321279635456",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1399643428201484288",
+   "en": "No offense, but I need to be alone, walk this off. OK?",
+   "ro": "Fără supărare, da' am nevoie de liniște, să mă calmez. OK?"
+  },
+  {
+   "key": "1399675823562739712",
+   "en": "'Course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1399682503126077440",
+   "en": "We won.",
+   "ro": "Am câștigat."
+  },
+  {
+   "key": "1399682779614597120",
+   "en": "Calm down.",
+   "ro": "Calmează-te."
+  },
+  {
+   "key": "1399683462447288320",
+   "en": "Yeah, we won.",
+   "ro": "Da, am câștigat."
+  },
+  {
+   "key": "1399683525076635648",
+   "en": "Claire, calm down. Did what I did to keep you outta trouble.",
+   "en_m": "Claire, calm down. I did what I did to keep you outta trouble.",
+   "ro": "Claire, calmează-te. Am făcut ce-am făcut ca să te țin departe de belele."
+  },
+  {
+   "key": "1399683683034124288",
+   "en": "I'm outta here.",
+   "ro": "Plec de-aici."
+  },
+  {
+   "key": "1399743264733057024",
+   "en": "Not what I was racing for!",
+   "ro": "Nu pentru asta am concurat!"
+  },
+  {
+   "key": "1405263834904055808",
+   "en": "Everyone ready?",
+   "ro": "Toți gata?"
+  },
+  {
+   "key": "1405322960346599424",
+   "en": "I can't fuckin' handle it…",
+   "ro": "Nu mai pot cu rahatul ăsta…"
+  },
+  {
+   "key": "1754678470284156928",
+   "en": "You're done, Sampson.",
+   "ro": "Ești terminat, Sampson."
+  },
+  {
+   "key": "1754679086729404416",
+   "en": "No remorse, not a bit?",
+   "ro": "Nicio remușcare, nici cât negru sub unghie?"
+  },
+  {
+   "key": "1754679377562443776",
+   "en": "None whatsoever.",
+   "ro": "Niciuna."
+  },
+  {
+   "key": "1754682517233868800",
+   "en": "Hhhh. Do somethin' for me, V?",
+   "ro": "Hhhh. Mi-o faci o favoare, V?"
+  },
+  {
+   "key": "1754685178989518848",
+   "en": "After him, V! Don't let him slip away!",
+   "ro": "După el, V! Nu-l lăsa să scape!"
+  },
+  {
+   "key": "1754687656262901760",
+   "en": "Got one shot at this!",
+   "ro": "Avem o singură șansă!"
+  },
+  {
+   "key": "1754688223819341824",
+   "en": "Let's take the wind out of his sails.",
+   "en_m": "Let's take the wind outta his sails.",
+   "ro": "Să-i tăiem elanul."
+  },
+  {
+   "key": "1754688948863508480",
+   "en": "We missed the turn.",
+   "ro": "Am ratat virajul."
+  },
+  {
+   "key": "1754689783228014592",
+   "en": "I'm headin' for the finish line, Claire.",
+   "ro": "Mă duc direct spre linia de sosire, Claire."
+  },
+  {
+   "key": "1754691364765835264",
+   "en": "What the fuck did you just do?!",
+   "ro": "Ce pula mea tocmai ai făcut?!"
+  },
+  {
+   "key": "1754691804362448896",
+   "en": "I finished the race.",
+   "ro": "Am terminat cursa."
+  },
+  {
+   "key": "1754692123364433920",
+   "en": "That was my ONE chance, don't you get it?!",
+   "ro": "Asta era ȘANSA mea, nu înțelegi?!"
+  },
+  {
+   "key": "1754693115904532480",
+   "en": "That prick hasn't lost us yet. Still got a chance…",
+   "ro": "Nenorocitul ăla nu ne-a scos din cursă. Mai avem o șansă…"
+  },
+  {
+   "key": "1754693692688441344",
+   "en": "There he is!",
+   "ro": "Uite-l!"
+  },
+  {
+   "key": "1754693850293608448",
+   "en": "After him, V!",
+   "ro": "După el, V!"
+  },
+  {
+   "key": "1766172875084013568",
+   "en": "Get away from me, you whack.",
+   "ro": "Cară-te de lângă mine, nebunule."
+  },
+  {
+   "key": "1834161703744446464",
+   "en": "Final's upon us, V. Big day's here.",
+   "ro": "Finala e aici, V. Azi e ziua cea mare."
+  },
+  {
+   "key": "1834162228737089536",
+   "en": "We'll take mine.",
+   "ro": "Mergem cu a mea."
+  },
+  {
+   "key": "1834162479187369984",
+   "en": "Beast it is.",
+   "ro": "Atunci Beast."
+  },
+  {
+   "key": "1834162657747279872",
+   "en": "Let's go with mine. Got a better feel for it.",
+   "en_m": "Let's go with mine. I got a better feel for it.",
+   "ro": "Hai cu a mea. Am mai bun feeling cu ea."
+  },
+  {
+   "key": "1834162664424611840",
+   "en": "Beast's my choice. Whaddaya say?",
+   "ro": "Beast e alegerea mea. Ce zici?"
+  },
+  {
+   "key": "1834162747673157632",
+   "en": "We meetin' at the starting line?",
+   "en_m": "We meetin' at the startin' line?",
+   "ro": "Ne vedem la linia de start?"
+  },
+  {
+   "key": "1834163220455104512",
+   "en": "No problem.",
+   "ro": "N-ai de ce."
+  },
+  {
+   "key": "1834163456627974144",
+   "en": "We won't be sorry.",
+   "ro": "N-o să regretăm."
+  },
+  {
+   "key": "1861561520321859584",
+   "en": "Sure is. Wanna meet up? I'm already here.",
+   "ro": "Sigur. Ne vedem? Sunt deja aici."
+  },
+  {
+   "key": "1861562249543553024",
+   "en": "Yep, but listen... this'll be highway drivin', so we'll want a machine that runs on lightning.",
+   "ro": "Da, dar ascultă... o să fie drum lung pe autostradă, deci o să vrem o mașină care merge ca fulgerul."
+  },
+  {
+   "key": "1861564217561321472",
+   "en": "Your choice – your rig or my Beast?",
+   "ro": "Alegerea ta – mașina ta sau Beast-ul meu?"
+  },
+  {
+   "key": "1861566484112871424",
+   "en": "That's right. Wait for me there.",
+   "ro": "Așa e. Așteaptă-mă acolo."
+  },
+  {
+   "key": "1861575844423667716",
+   "en": "Claire, leave the prick alone.",
+   "ro": "Claire, lasă-l în pace pe căcatul ăla."
+  },
+  {
+   "key": "1861575891416649728",
+   "en": "Claire, drop it. Leave the corporat alone.",
+   "ro": "Claire, las-o baltă. Lasă corpo-ul în pace."
+  },
+  {
+   "key": "1861575918646071296",
+   "en": "What's goin' on here?",
+   "ro": "Ce se întâmplă aici?"
+  },
+  {
+   "key": "1861576028016742400",
+   "en": "What's going on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1861578017408684032",
+   "en": "Think you'll leave here alive, asswipe?",
+   "ro": "Crezi că pleci de aici în viață, jegosule?"
+  },
+  {
+   "key": "1861579283769724928",
+   "en": "Claire!",
+   "ro": "Claire!"
+  },
+  {
+   "key": "1861579852819337216",
+   "en": "Sampson... Dickspurt thinks I'm gonna let him go.",
+   "ro": "Sampson... Dickspurt crede că-l las să plece."
+  },
+  {
+   "key": "1861580429720686592",
+   "en": "You're dead, you hear me?",
+   "ro": "Ești moartă, mă auzi?",
+   "ro_m": "Ești mort, mă auzi?"
+  },
+  {
+   "key": "1861581142450376704",
+   "en": "This your new driver?",
+   "ro": "Asta e noul tău șofer?"
+  },
+  {
+   "key": "1861581918983819264",
+   "en": "I'd get out while I could if I were you. Claire can't seem to keep her partners alive for long.",
+   "ro": "Eu, în locul tău, aș fugi cât mai am timp. Claire nu pare în stare să-și țină partenerii în viață mult timp."
+  },
+  {
+   "key": "1861586390044774400",
+   "en": "You motherfucker!",
+   "ro": "Futu-ți mama!"
+  },
+  {
+   "key": "1861587199981654020",
+   "en": "Claire! Stop!",
+   "ro": "Claire! Oprește-te!"
+  },
+  {
+   "key": "1861588294208458752",
+   "en": "Claire, stop it! We got a race comin' up, dammit!",
+   "ro": "Claire, gata! Avem cursa peste puțin, la naiba!"
+  },
+  {
+   "key": "1861660028634796032",
+   "en": "Truth is, Dean was as shit a husband as he was a driver.",
+   "ro": "Adevărul e că Dean a fost un soț de căcat și un șofer la fel de prost."
+  },
+  {
+   "key": "1861660215063220224",
+   "en": "Head swelled lots larger than he could manage, and he paid for it. Face the facts.",
+   "ro": "I s-a umflat capul mai tare decât putea duce, și a plătit pentru asta. Uite cum stau lucrurile."
+  },
+  {
+   "key": "1861660478146744320",
+   "en": "I didn't kill him – his ego did.",
+   "ro": "Nu l-am ucis eu – ego-ul lui a făcut-o."
+  },
+  {
+   "key": "1861660826055872512",
+   "en": "You're a waste of organic matter, Sampson...",
+   "ro": "Ești o risipă de carne, Sampson..."
+  },
+  {
+   "key": "1861765741822480384",
+   "en": "You're done...",
+   "ro": "S-a terminat cu tine..."
+  },
+  {
+   "key": "1861765896021872640",
+   "en": "Fuck off.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1861766097935667200",
+   "en": "Claire, c'mon. Save some steam for later.",
+   "ro": "Claire, hai. Păstrează-ți energia pentru mai târziu."
+  },
+  {
+   "key": "1861768726321434624",
+   "en": "You're corpo trash.",
+   "ro": "Ești gunoi de corpo."
+  },
+  {
+   "key": "1861769866635251712",
+   "en": "Got a dozen bullets with your name on 'em.",
+   "ro": "Am o duzină de gloanțe cu numele tău pe ele."
+  },
+  {
+   "key": "1861770330894372864",
+   "en": "Fuck off.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1861770462830399488",
+   "en": "Claire, enough, c'mon.",
+   "ro": "Claire, destul, hai."
+  },
+  {
+   "key": "1861773095158812672",
+   "en": "Yeah?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1861773173105758208",
+   "en": "Come in close on his tail and stay there.",
+   "ro": "Ține-te pe coada lui și nu-l slăbi."
+  },
+  {
+   "key": "1861814408164020224",
+   "en": "Get on his butt.",
+   "ro": "Stai pe coada lui."
+  },
+  {
+   "key": "1861816914294214656",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1861820501262995456",
+   "en": "Stop. I'm getting out.",
+   "ro": "Oprește. Mă dau jos."
+  },
+  {
+   "key": "1861823944249708548",
+   "en": "It's your thirst for revenge, not mine.",
+   "ro": "E setea ta de răzbunare, nu a mea."
+  },
+  {
+   "key": "1861824099103412224",
+   "en": "Saved your ass.",
+   "ro": "Ți-am salvat pielea."
+  },
+  {
+   "key": "1861824150424915968",
+   "en": "Wanted to win.",
+   "ro": "Am vrut să câștig."
+  },
+  {
+   "key": "1861825885994356736",
+   "en": "This's your hunt for vengeance, not mine. Enlisted me to race, not to kill in cold blood.",
+   "ro": "Asta e vânătoarea ta de răzbunare, nu a mea. M-ai luat să concurez, nu să omor pe sânge rece."
+  },
+  {
+   "key": "1861825907469193216",
+   "en": "Claire, I saved your ass.",
+   "ro": "Claire, ți-am salvat pielea."
+  },
+  {
+   "key": "1861825931762601984",
+   "en": "I came out here to win this race.",
+   "ro": "Am venit aici să câștig cursa asta."
+  },
+  {
+   "key": "1861827048001114112",
+   "en": "Fuck the race! He killed my husband! The only man I ever loved!",
+   "ro": "Bag pula-n cursă! Mi-a ucis soțul! Singurul bărbat pe care l-am iubit vreodată!"
+  },
+  {
+   "key": "1861827395658584064",
+   "en": "The only man who ever loved me…",
+   "ro": "Singurul bărbat care m-a iubit vreodată…"
+  },
+  {
+   "key": "1861828206048448512",
+   "en": "You saved my…? No, you saved his ass! And now he's outta my reach for good!",
+   "ro": "Mi-ai salvat...? Nu, pe el l-ai salvat! Și acum a scăpat de mine pe veci!"
+  },
+  {
+   "key": "1861828829758230528",
+   "en": "Didn't give a thought to Trauma Team? He gets in an accident, they swoop in, chromed to the teeth and packin' iron!",
+   "ro": "Nu te-ai gândit nici o secundă la Trauma Team? Dacă pățește ceva, apar ei cu toții, chromați până-n dinți și înarmați!"
+  },
+  {
+   "key": "1861830506120876032",
+   "en": "And you did. Oh happy fucking day.",
+   "ro": "Și tu ai făcut-o. Ce zi minunată, pula mea."
+  },
+  {
+   "key": "1861832992923717632",
+   "en": "Claire...",
+   "ro": "Claire..."
+  },
+  {
+   "key": "1861833071273316352",
+   "en": "Justice – you took that away from me.",
+   "ro": "Dreptatea – mi-ai luat-o."
+  },
+  {
+   "key": "1861833420507844608",
+   "en": "You robbed me of my one chance to find justice for the man I loved!",
+   "ro": "Mi-ai furat singura șansă să-i fac dreptate bărbatului pe care l-am iubit!"
+  },
+  {
+   "key": "1861834211050262528",
+   "en": "Hope you're pleased with yourself.",
+   "ro": "Sper că ești mulțumită de tine.",
+   "ro_m": "Sper că ești mulțumit de tine."
+  },
+  {
+   "key": "1861834881316818944",
+   "en": "That scum who got away murdered the only man I ever loved. You get that?",
+   "ro": "Nenorocitul ăla care a scăpat a ucis singurul bărbat pe care l-am iubit vreodată. Înțelegi?"
+  },
+  {
+   "key": "1861835971315765248",
+   "en": "I don't like to lose, Claire. That's it. Your vengeance isn't my biz.",
+   "ro": "Nu-mi place să pierd, Claire. Asta e. Răzbunarea ta nu-i afacerea mea."
+  },
+  {
+   "key": "1861837409878151168",
+   "en": "Well, your victory? I hope you fuckin' choke on it.",
+   "ro": "Păi, victoria ta? Sper să te înăbuși cu ea, pula mea."
+  },
+  {
+   "key": "1887814515837378560",
+   "en": "His car's damaged! He's pullin' off!",
+   "ro": "Mașina lui e avariată! Pleacă!"
+  },
+  {
+   "key": "1887851474987261952",
+   "en": "We can still get him! Turn back!",
+   "ro": "Îl mai prindem! Întoarce!"
+  },
+  {
+   "key": "2054867889689804800",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2054869672252227584",
+   "en": "[Lean and wait]",
+   "ro": "[Sprijină-te și așteaptă]"
+  },
+  {
+   "key": "2237419384292380680",
+   "en": "Not to worry, sugar! Champagne gonna give you your favorite massage afterwards!",
+   "ro": "Nu te speria, dulceață! Champagne o să-ți facă masajul ăla preferat după."
+  },
+  {
+   "key": "2237419384376266760",
+   "en": "Remember – tires not people. Bust their rubber, then I'll ram 'em.",
+   "ro": "Ține minte: cauciucuri, nu oameni. Spargeți-le cauciucurile, apoi le intru eu în plin."
+  },
+  {
+   "key": "2237419384476930056",
+   "en": "Claire 'n' V – that's who's gon' win this! Y'all got no chance! None!",
+   "ro": "Claire și V – ăștia câștigă! N-aveți nicio șansă! Deloc!"
+  },
+  {
+   "key": "2237419384577593352",
+   "en": "Hope you wreck 'round the first bend, motherfucker! Lose your arms! And your legs!",
+   "ro": "Sper să te faci praf la prima curbă, nenorocitule! Să-ți pierzi brațele! Și picioarele!"
+  },
+  {
+   "key": "2237419384661479432",
+   "en": "<mothertongue l=\"mex\" m=\"Madre\" b=\"Holy \" a=\" of the Angels, Queen of the Heavens, send your heavenly hosts so they may carry us to victory.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Madre\" b=\"Sfântă \" a=\" a Îngerilor, Regină a Cerurilor, trimite-ți oștirile cerești ca să ne poarte spre victorie.\"/>"
+  },
+  {
+   "key": "2237419384745365512",
+   "en": "You kick butt out there, Sampson! Race is yours!",
+   "ro": "Dă tot ce ai acolo, Sampson! Cursa e a ta!"
+  },
+  {
+   "key": "2237435603112300552",
+   "en": "And in one piece! Impressive!",
+   "ro": "Și întreg! Impresionant!"
+  },
+  {
+   "key": "2237435603212963848",
+   "en": "Thank you! Thanks for fucking nothing!",
+   "ro": "Mulțumesc! Mulțumesc pentru nimic, pula mea!"
+  },
+  {
+   "key": "2237435603313627144",
+   "en": "Woot! Yeah! What a chase! I mean –  what a race!!",
+   "ro": "Woo! Da! Ce urmărire! Adică – ce cursă!!"
+  },
+  {
+   "key": "2250141057290473472",
+   "en": "Bring some friends. We'll celebrate.",
+   "ro": "Adu niște prieteni. Sărbătorim."
+  },
+  {
+   "key": "2250142137810292736",
+   "en": "If you win today, we gon' take you straight to paradise, muffin!",
+   "ro": "Dacă câștigi azi, te ducem direct în rai, muffin!"
+  },
+  {
+   "key": "2250143657423409152",
+   "en": "No fucking \"if\" about it.",
+   "ro": "Nici vorbă de „dacă”, pula mea."
+  },
+  {
+   "key": "2250156757711196160",
+   "en": "Ruslana and her crew're positioned along the route. They’ll clean up.",
+   "ro": "Ruslana și oamenii ei sunt pe traseu. Se ocupă ei de curățenie."
+  },
+  {
+   "key": "2250157929314521088",
+   "en": "And Trauma, what then? There's at least one prick here, maybe more, who must have gold if not platinum.",
+   "ro": "Și Trauma, ce facem atunci? Mai e cel puțin un cretin pe-aici, poate și mai mulți, care sigur au aur, dacă nu platină."
+  },
+  {
+   "key": "2250159247936589824",
+   "en": "Ruslana's people know what to do. We provide bodies – the more the better – they take it from there.",
+   "ro": "Oamenii Ruslanei știu ce au de făcut. Noi le aducem cadavrele – cu cât mai multe, cu atât mai bine – și ei se descurcă de-acolo."
+  }
+ ]
+}

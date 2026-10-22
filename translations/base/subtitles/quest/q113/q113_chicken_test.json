@@ -1,0 +1,225 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q113\\q113_chicken_test.json",
+ "entries": [
+  {
+   "key": "1682325500624642052",
+   "en": "[db_db]Takemura is Alive",
+   "ro": "[db_db]Takemura este în viață"
+  },
+  {
+   "key": "1682325812747968512",
+   "en": "[db_db]Takemura is Dead",
+   "ro": "[db_db]Takemura este mort"
+  },
+  {
+   "key": "1682326219998109696",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "1682326219998109712",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "1682326519001653248",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "1711254074320494596",
+   "en": "[db_db]Beginning of the Quest",
+   "ro": "[db_db]Începutul misiunii"
+  },
+  {
+   "key": "1711254563191791616",
+   "en": "[db_db]Before getting to Arasaka Tower",
+   "ro": "[db_db]Înainte de a ajunge la Turnul Arasaka"
+  },
+  {
+   "key": "1711254857984253952",
+   "en": "[db_db]Inside the Arasaka Tower",
+   "ro": "[db_db]În Turnul Arasaka"
+  },
+  {
+   "key": "1711256555804958724",
+   "en": "[db_db]Saburo Office",
+   "ro": "[db_db]Biroul lui Saburo"
+  },
+  {
+   "key": "1711256702421049344",
+   "en": "[db_db]Drive to Estate",
+   "ro": "[db_db]Drum spre proprietate"
+  },
+  {
+   "key": "1711256752148717568",
+   "en": "[db_db]Estate",
+   "ro": "[db_db]Proprietate"
+  },
+  {
+   "key": "1711256785719926784",
+   "en": "[db_db]Flight to Arasaka Tower",
+   "ro": "[db_db]Zbor spre Turnul Arasaka"
+  },
+  {
+   "key": "1711257020751945728",
+   "en": "[db_db]Mikoshi",
+   "ro": "[db_db]Mikoshi"
+  },
+  {
+   "key": "1711257320510464000",
+   "en": "[db_db]Jungle",
+   "ro": "[db_db]Jungle"
+  },
+  {
+   "key": "1711257379146833920",
+   "en": "[db_db]Atrium",
+   "ro": "[db_db]Atrium"
+  },
+  {
+   "key": "1711257497224880128",
+   "en": "[db_db]Ceo Floor",
+   "ro": "[db_db]Etajul CEO"
+  },
+  {
+   "key": "1711257555559260160",
+   "en": "[db_db]Adam Smasher (bossfight)",
+   "ro": "[db_db]Adam Smasher (lupta cu șeful)"
+  },
+  {
+   "key": "1711257588023173120",
+   "en": "[db_db]Confronting Yorinobu",
+   "ro": "[db_db]Confruntarea cu Yorinobu"
+  },
+  {
+   "key": "1711258288186728452",
+   "en": "[db_db]Meeting",
+   "ro": "[db_db]Întâlnire"
+  },
+  {
+   "key": "1711258395275698176",
+   "en": "[db_db]Lockdown",
+   "ro": "[db_db]Blocare"
+  },
+  {
+   "key": "1711259299097878528",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1711259528341757952",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1711259645597720576",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1724130542351302660",
+   "en": "[db_db]Yes, V spared Oda.",
+   "ro": "[db_db]Da, V l-a cruțat pe Oda."
+  },
+  {
+   "key": "1724130992299458560",
+   "en": "[db_db]No, V killed Oda.",
+   "ro": "[db_db]Nu, V l-a ucis pe Oda."
+  },
+  {
+   "key": "1937125822213144580",
+   "en": "[db_db]Estate Start",
+   "ro": "[db_db]Începutul proprietății"
+  },
+  {
+   "key": "1937186224502489088",
+   "en": "[db_db]Skip to Hanako Scene",
+   "ro": "[db_db]Sari la scena cu Hanako"
+  },
+  {
+   "key": "2020146984282767364",
+   "en": "[db_db]Yes (Jackie appears in Mikoshi)",
+   "ro": "[db_db]Da (Jackie apare în Mikoshi)"
+  },
+  {
+   "key": "2020147787475206144",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3508655611262087172",
+   "en": "[db_db]Tank",
+   "ro": "[db_db]Tank"
+  },
+  {
+   "key": "3508656301845852160",
+   "en": "[db_db]MidArmor",
+   "ro": "[db_db]MidArmor"
+  },
+  {
+   "key": "3508656609976201216",
+   "en": "[db_db]GlassCanon",
+   "ro": "[db_db]GlassCanon"
+  },
+  {
+   "key": "3508657110188896256",
+   "en": "[db_db]MaxAllSkillsWeapon",
+   "ro": "[db_db]MaxAllSkillsWeapon"
+  },
+  {
+   "key": "3508662555066576900",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508663549838045184",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508663717643759616",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508663858756923392",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508668143322345472",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508668294971600896",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508668583170617344",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508669604903071748",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508670113571483648",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508670251832520704",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508670388164177920",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  }
+ ]
+}

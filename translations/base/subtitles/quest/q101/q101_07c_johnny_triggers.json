@@ -1,0 +1,510 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_07c_johnny_triggers.json",
+ "entries": [
+  {
+   "key": "1531611843562201088",
+   "en": "Need a smoke. Where'd you stash yours?",
+   "ro": "Îmi trebuie o țigară. Unde ți-ai ascuns-o?"
+  },
+  {
+   "key": "1531745063764807680",
+   "en": "Gotta get out of here, understand?",
+   "ro": "Trebuie să ies de-aici, pricepi?"
+  },
+  {
+   "key": "1531745948058308608",
+   "en": "And I'll kill anyone who gets in my way. You included.",
+   "ro": "Și omor pe oricine îmi stă în cale. Și pe tine, la fel."
+  },
+  {
+   "key": "1531771635402067972",
+   "en": "How did you get here?",
+   "ro": "Cum ai ajuns aici?"
+  },
+  {
+   "key": "1531772520551206912",
+   "en": "I don't smoke.",
+   "ro": "Nu fumez."
+  },
+  {
+   "key": "1531775927802449920",
+   "en": "Then go out and get some. Just need one last one!",
+   "ro": "Atunci du-te și ia. Mai îmi trebuie doar una!"
+  },
+  {
+   "key": "1531776637948448768",
+   "en": "Jesus fucking Christ, man!",
+   "en_m": "Jesus fuckin' Christ, man!",
+   "ro": "Futu-i Dumnezeii mă-sii, frate!"
+  },
+  {
+   "key": "1531784168183746560",
+   "en": "The fuck kinda joytoy are you supposed to be?",
+   "ro": "Ce pula mea de joytoy ar trebui să fii tu?"
+  },
+  {
+   "key": "1531798393618747392",
+   "en": "Who you work for? Start talkin'!",
+   "ro": "Pentru cine lucrezi? Vorbește!"
+  },
+  {
+   "key": "1531799943867060224",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1531800673709510656",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1531800921139892224",
+   "en": "Fucking chip...",
+   "ro": "Cipul ăla nenorocit..."
+  },
+  {
+   "key": "1531827162819645440",
+   "en": "See you never, asshole.",
+   "ro": "Să nu mai dai ochii cu mine, boule."
+  },
+  {
+   "key": "1531833199161298944",
+   "en": "[Take meds]",
+   "ro": "[Ia medicamentele]"
+  },
+  {
+   "key": "1532744625648357376",
+   "en": "Don't smoke.",
+   "ro": "Nu fuma."
+  },
+  {
+   "key": "1553261098178404352",
+   "en": "Where did you even come from?",
+   "en_m": "Where'd you even come from?",
+   "ro": "De unde ai apărut, de fapt?"
+  },
+  {
+   "key": "1640255507798315008",
+   "en": "Not somethin' to focus on, V. Let it go. Here, got some meds for ya.",
+   "ro": "Nu te gândi la asta, V. Las-o baltă. Poftim, am niște medicamente pentru tine."
+  },
+  {
+   "key": "1640255507798315016",
+   "en": "Here, got one more thing for ya.",
+   "ro": "Poftim, mai am ceva pentru tine."
+  },
+  {
+   "key": "1640255507815092224",
+   "en": "Vik pulled this outta your skull – a lucky charm?",
+   "ro": "Vik a scos asta din craniul tău – un talisman norocos?"
+  },
+  {
+   "key": "1653125477661462528",
+   "en": "He was my best friend.",
+   "ro": "Era cel mai bun prieten al meu."
+  },
+  {
+   "key": "1653126780949155840",
+   "en": "Jack... was the best friend I ever had. I'm 'onna miss him somethin' awful.",
+   "en_m": "Jack... was the best friend I ever had. I'm gonna miss him somethin' awful.",
+   "ro": "Jack... a fost cel mai bun prieten pe care l-am avut vreodată. O să-mi fie al naibii de dor de el."
+  },
+  {
+   "key": "1653127023094714368",
+   "en": "If he was here, he'd tell you to get your ass out of bed in the morning and do what you need to do.",
+   "ro": "Dacă ar fi aici, ți-ar zice să te scoli din pat dimineață și să te apuci de ce ai de făcut."
+  },
+  {
+   "key": "1653130307939389440",
+   "en": "He talked about you, lots.",
+   "ro": "Vorbea mult despre tine."
+  },
+  {
+   "key": "1653133702926487552",
+   "en": "He talked about you, like, lots.",
+   "ro": "Vorbea despre tine, gen, mult."
+  },
+  {
+   "key": "1653140217888559104",
+   "en": "We got into a fight... right before he went off to do this job.",
+   "ro": "Ne-am certat... chiar înainte să plece la treaba asta."
+  },
+  {
+   "key": "1653141035140304896",
+   "en": "He wa'n't mad at you. I hope you know that.",
+   "en_m": "He wasn't mad at you. I hope you know that.",
+   "ro": "Nu era supărat pe tine. Sper că știi asta."
+  },
+  {
+   "key": "1653141880728768512",
+   "en": "I know. I just wish our last moments together could've been... different.",
+   "ro": "Știu. Doar că mi-aș fi dorit ca ultimele noastre clipe împreună să fie altfel..."
+  },
+  {
+   "key": "1653148212466864132",
+   "en": "[Lie down] I'm exhausted.",
+   "ro": "[Întinde-te] Sunt epuizată.",
+   "ro_m": "[Întinde-te] Sunt epuizat."
+  },
+  {
+   "key": "1653148644480176128",
+   "en": "Givin' me pills' that'll kill me?",
+   "ro": "Îmi dai pastile care mă omoară?"
+  },
+  {
+   "key": "1653148806229315584",
+   "en": "You're lovely, Misty. Thanks.",
+   "ro": "Ești drăguță, Misty. Mulțumesc."
+  },
+  {
+   "key": "1653148869361979392",
+   "en": "Misty, wait. Umm... about Jackie...",
+   "ro": "Misty, stai. Umm... despre Jackie..."
+  },
+  {
+   "key": "1653150122200584192",
+   "en": "G'night, V. Sweet, peaceful dreams.",
+   "ro": "Noapte bună, V. Vise dulci și liniștite."
+  },
+  {
+   "key": "1653150838956806144",
+   "en": "Yeah?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1654744294154096640",
+   "en": "And then he died... and I thought I was gonna die... with him, in my sleep.",
+   "ro": "Și apoi a murit... și credeam că o să mor... cu el, în somn."
+  },
+  {
+   "key": "1654776913927393280",
+   "en": "Can't actually tell if I'm awake now. I mean, I could be dead already, right?",
+   "ro": "Nu pot să-mi dau seama dacă sunt trează acum. Adică, aș putea fi deja moartă, nu?",
+   "ro_m": "Nu pot să-mi dau seama dacă sunt treaz acum. Adică, aș putea fi deja mort, nu?"
+  },
+  {
+   "key": "1680714883322662912",
+   "en": "You're lovely.",
+   "ro": "Ești drăguță.",
+   "ro_m": "Ești drăguț."
+  },
+  {
+   "key": "1680714883322662928",
+   "en": "About Jackie...",
+   "ro": "Despre Jackie..."
+  },
+  {
+   "key": "1680723670523760640",
+   "en": "Didn't you hear? My condition's terminal. What good can this do?",
+   "ro": "N-ai auzit? Condiția mea e terminală. Ce rost are?"
+  },
+  {
+   "key": "1680747371126378496",
+   "en": "Givin' me a pill to prod that sonofabitch? So he can kill me faster?",
+   "ro": "Îmi dai o pastilă ca să-l provoci pe nenorocitul ăla? Ca să mă omoare mai repede?"
+  },
+  {
+   "key": "1680749834860548096",
+   "en": "Your psyche's gonna die, V. You'll feel your old self slipping away. At some point, you won't recognize yourself.",
+   "ro": "Psihicul tău o să moară, V. O să simți cum persoana de dinainte se pierde. La un moment dat, n-o să te mai recunoști."
+  },
+  {
+   "key": "1680750977925828608",
+   "en": "It'll be terrifying. It'll be painful. But it doesn't have to be.",
+   "ro": "O să fie groaznic. O să doară. Dar nu trebuie să fie așa."
+  },
+  {
+   "key": "1680754164607012864",
+   "en": "But right now you need rest. So sleep, please sleep.",
+   "ro": "Dar acum îți trebuie odihnă. Așa că dormi, te rog, dormi."
+  },
+  {
+   "key": "1680853239671083008",
+   "en": "How the fuck should I know?",
+   "ro": "De unde pula mea să știu?"
+  },
+  {
+   "key": "1680856361256669184",
+   "en": "How're we even talking?",
+   "ro": "Cum vorbim noi doi, de fapt?"
+  },
+  {
+   "key": "1693928484547289100",
+   "en": "I can feel it... our minds... touching...",
+   "ro": "Le simt... mințile noastre... cum se ating..."
+  },
+  {
+   "key": "1725750154300542976",
+   "en": "Don't be silly. As long as you're alive, there's hope. And don't let anyone tell you otherwise.",
+   "ro": "Nu fi prostuță. Cât timp ești în viață, mai e speranță. Și nu lăsa pe nimeni să-ți spună altfel.",
+   "ro_m": "Nu fi prostuț. Cât timp ești în viață, mai e speranță. Și nu lăsa pe nimeni să-ți spună altfel."
+  },
+  {
+   "key": "1725751755551592448",
+   "en": "Really think I can make it, survive this?",
+   "en_m": "You really think I can make it, survive this?",
+   "ro": "Chiar crezi că o scot la capăt? Că supraviețuiesc?"
+  },
+  {
+   "key": "1725752858032787456",
+   "en": "'Course you can. I mean, you did already die and come back once, didn't ya?",
+   "ro": "Sigur că da. Adică, ai murit deja o dată și te-ai întors, nu?"
+  },
+  {
+   "key": "1735537728094892032",
+   "en": "Helloooooo Night City!",
+   "ro": "Bunăăăă Night City!"
+  },
+  {
+   "key": "1735538628830064640",
+   "en": "Smack-dab between two Californ-I-As, it's prime real estate, baby, and boy are we open for business!",
+   "ro": "Fix între două Californ-I-A, e loc de vis, baby, și, băieți, suntem deschiși la afaceri!"
+  },
+  {
+   "key": "1741406203971530752",
+   "en": "Your man Stan here! Smog reports comin' in ten times the usual. But my, my, what a gorgeous day this is!",
+   "ro": "Stan al vostru aici! Rapoartele de smog sunt de zece ori peste normal. Dar, of, ce zi frumoasă e azi!"
+  },
+  {
+   "key": "1754851376491094016",
+   "en": "[Take meds]",
+   "ro": "[Ia medicamentele]"
+  },
+  {
+   "key": "1754851939937116160",
+   "en": "Ugh. Fuck me...",
+   "ro": "Ugh. Futu-i..."
+  },
+  {
+   "key": "1755975805704888320",
+   "en": "Rip the thing out myself!",
+   "ro": "Îmi smulg chestia asta singură!",
+   "ro_m": "Îmi smulg chestia asta singur!"
+  },
+  {
+   "key": "1755977876432773120",
+   "en": "No, wait!",
+   "ro": "Nu, stai!"
+  },
+  {
+   "key": "1755979911341301760",
+   "en": "Ugh...",
+   "ro": "Ugh..."
+  },
+  {
+   "key": "1756064483307446272",
+   "en": "I'd puke if I fuckin' could!",
+   "ro": "Aș vomita dacă aș putea, pula mea!"
+  },
+  {
+   "key": "1756065191691837440",
+   "en": "I'm like mold on fruit... creepin' into you… nothin' I can do about it.",
+   "ro": "Sunt ca mucegaiul de pe fructe... mă strecor în tine… n-am ce face."
+  },
+  {
+   "key": "1756066248757108736",
+   "en": "You hear me?!",
+   "ro": "Mă auzi?!"
+  },
+  {
+   "key": "1756069344270901252",
+   "en": "I'm gonna kill you.",
+   "ro": "O să te omor."
+  },
+  {
+   "key": "1756070011198791680",
+   "en": "Get out of my head.",
+   "ro": "Ieși din capul meu."
+  },
+  {
+   "key": "1756070917755658240",
+   "en": "I'm... gonna kill you!",
+   "ro": "O să... te omor!"
+  },
+  {
+   "key": "1756071035716263936",
+   "en": "Leave me alone!",
+   "ro": "Lasă-mă în pace!"
+  },
+  {
+   "key": "1756095520016195584",
+   "en": "Do it. What're you waiting for?!",
+   "ro": "Fă-o. Ce aștepți?!"
+  },
+  {
+   "key": "1756099862261686272",
+   "en": "Get out! Just get the fuck out!",
+   "ro": "Ieși! Cară-te dracu' de-aici!"
+  },
+  {
+   "key": "1756172889003417600",
+   "en": "Not like that!",
+   "ro": "Nu așa!"
+  },
+  {
+   "key": "1756173216477896704",
+   "en": "Stick some iron in your mouth and pull the trigger.",
+   "ro": "Bagă-ți fierul în gură și trage de trăgaci."
+  },
+  {
+   "key": "1756194282554286080",
+   "en": "If Watson's the place you haunt, you borged up ghouls, I got good news – cop cordon 'round your 'hood's packed up an' left.",
+   "ro": "Dacă Watson e locul unde bântuiți, ghouli borgați, am vești bune – cordonul de poliție din jurul cartierului vostru și-a făcut bagajele și a plecat."
+  },
+  {
+   "key": "1756197792817635328",
+   "en": "So you peeps open up and let it all hang out today. Could catch a break, start in on a new chapter, a new book, a new life.",
+   "ro": "Așa că, puștilor, dați-i drumu' azi. Poate prindeți o pauză, să începeți un capitol nou, o carte nouă, o viață nouă."
+  },
+  {
+   "key": "1756198964001529856",
+   "en": "Now let's hear what the Rubicones have to say about it! Hit it!",
+   "ro": "Acum să vedem ce zic Rubicones! Dă-i drumu'!"
+  },
+  {
+   "key": "1756204778397392896",
+   "en": "So leave last night's blue dreams and screams in bed, take that first sip of joe with a hot splash of sunshine and seize the day in Night City!",
+   "ro": "Așa că lăsați visele și țipetele albastre de aseară în pat, luați prima gură de cafea cu un strop fierbinte de soare și prindeți ziua de coadă în Night City!"
+  },
+  {
+   "key": "1756420060462211072",
+   "en": "Fuck, fuck, fuck, fuckin' fuck...",
+   "ro": "Futu-i, futu-i, futu-i, pula mea..."
+  },
+  {
+   "key": "1756420575841509376",
+   "en": "It's just a copy of the engram – I'm out there somewhere, gotta be...",
+   "ro": "E doar o copie a engramului – eu sunt undeva pe-acolo, trebuie să fiu..."
+  },
+  {
+   "key": "1756420811678834688",
+   "en": "Lead to the head, only thing that'll fix this.",
+   "ro": "Un glonț în cap, doar asta rezolvă problema."
+  },
+  {
+   "key": "1756424308100980736",
+   "en": "Hear me, bitch?! A bullet to the fucking brain!",
+   "en_m": "Hear me, asshole?! A bullet to the fucking brain!",
+   "ro": "Mă auzi, curvo?! Un glonț în creierul dracului!",
+   "ro_m": "Mă auzi, boule?! Un glonț în creierul dracului!"
+  },
+  {
+   "key": "1774717953086349312",
+   "en": "Listen, you're likely to be fine for a while. But some time down the road, it could turn into pure agony. I'm givin' you options, honey.",
+   "ro": "Ascultă, probabil o să fii bine o vreme. Dar la un moment dat, s-ar putea să devină agonie pură. Îți dau opțiuni, dragă.",
+   "ro_m": "Ascultă, probabil o să fii bine o vreme. Dar la un moment dat, s-ar putea să devină agonie pură. Îți dau opțiuni, dragule."
+  },
+  {
+   "key": "1774718837564399616",
+   "en": "The brain can be tricked. Plain old painkillers do that.",
+   "ro": "Creierul poate fi păcălit. Analgezicele obișnuite fac asta."
+  },
+  {
+   "key": "1774726692237500416",
+   "en": "The fuck I need pills for? Oughta just stick a gun in my mouth, pull the trigger.",
+   "en_m": "The fuck I need pills for? Oughta just stick a gun in my mouth and pull the trigger.",
+   "ro": "La ce mama dracului îmi trebuie pastile? Mai bine-mi bag pistolul în gură și apăs pe trăgaci."
+  },
+  {
+   "key": "1774726997968707584",
+   "en": "Well, that way you'd kill two souls. Is that what you want?",
+   "ro": "Păi așa ai omorî două suflete. Asta vrei?"
+  },
+  {
+   "key": "1774732426488602624",
+   "en": "I'm so fucking sorry he's gone.",
+   "ro": "Îmi pare al dracului de rău că nu mai e."
+  },
+  {
+   "key": "1774759857421312000",
+   "en": "I'm so fucking sorry Jack's not here anymore.",
+   "ro": "Îmi pare al dracului de rău că Jackie nu mai e aici."
+  },
+  {
+   "key": "1774768516259930112",
+   "en": "Jackie was special. Really spiritually rich. He touched so many people with his love. Don't worry, he'll be around.",
+   "ro": "Jackie a fost special. Avea o viață sufletească foarte bogată. A atins atâta lume cu dragostea lui. Nu-ți face griji, o să fie pe-aici."
+  },
+  {
+   "key": "1774769616828522496",
+   "en": "Sure you'll be all right?",
+   "ro": "Sigur o să fii bine?"
+  },
+  {
+   "key": "1774769918566752256",
+   "en": "I'll be fine. Life is so beautifully powerful, so much more powerful than death.",
+   "ro": "O să fiu bine. Viața e atât de puternică, mult mai puternică decât moartea."
+  },
+  {
+   "key": "1782045434573447168",
+   "en": "[Get up]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1801308235405942784",
+   "en": "Omega blockers – taken regularly, they'll keep things from progressing too quickly.",
+   "ro": "Omega blockers – luate regulat, o să țină lucrurile să nu progreseze prea repede."
+  },
+  {
+   "key": "1801308235892482048",
+   "en": "Also, they should keep that guest of yours calm, and quiet.",
+   "ro": "Și ar trebui să-l ții pe oaspetele ăsta calm și liniștit."
+  },
+  {
+   "key": "1801308236899115008",
+   "en": "Pseudoendotrizine's from me. Effect'll be opposite. It'll speed things up, free the demon, so to speak.",
+   "ro": "Pseudoendotrizina e de la mine. Efectul o să fie opus. O să accelereze lucrurile, o să elibereze demonul, ca să zic așa."
+  },
+  {
+   "key": "1801319726121181184",
+   "en": "Gotta lie down...",
+   "en_m": "I gotta lie down...",
+   "ro": "Trebuie să mă întind..."
+  },
+  {
+   "key": "1801327129218736128",
+   "en": "Promise you'll try to get some sleep?",
+   "ro": "Promiți că încerci să dormi un pic?"
+  },
+  {
+   "key": "1801330165878054912",
+   "en": "Got a terminal case of bad luck.",
+   "ro": "Am ghinion în stare terminală."
+  },
+  {
+   "key": "1802321539337052160",
+   "en": "Sleep's a... small hint of death, the inevitable.",
+   "ro": "Somnul e... o mică previzualizare a morții. Inevitabilă."
+  },
+  {
+   "key": "1879531836931792900",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "1879681356235759620",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2010204369420050432",
+   "en": "Fuckin' ghost off!",
+   "ro": "Fantomă, cară-te dracu'!"
+  },
+  {
+   "key": "2463536371112120320",
+   "en": "I'll take control.",
+   "ro": "O să preiau controlul."
+  },
+  {
+   "key": "2463538192413134848",
+   "en": "I'll find a way!",
+   "ro": "O să găsesc eu o soluție!"
+  },
+  {
+   "key": "2463538600804126720",
+   "en": "You hear me?!",
+   "ro": "Mă auzi?!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\cz_stadium_chat_023.json",
+ "entries": [
+  {
+   "key": "3266477392324534272",
+   "en": "<kiroshi l=\"jpn\" o=\"第1世代サイバーデッキは？ いくらだ？\" t=\"How much? For a first-gen cyberdeck?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"第1世代サイバーデッキは？ いくらだ？\" t=\"Cât? Pentru un cyberdeck de primă generație?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3293002169611362304",
+   "en": "<kiroshi l=\"jpn\" o=\"フユツキは玄人向けのテックよ。さらに、このデッキは特殊なカスタマイズが施されてて…\" t=\"The Fuyutsuki is connoisseur tech. On top of that, this deck here is uniquely personalized for…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"フユツキは玄人向けのテックよ。さらに、このデッキは特殊なカスタマイズが施されてて…\" t=\"Fuyutsuki e tech pentru cunoscători. Pe deasupra, deck-ul ăsta e personalizat special pentru…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3293002547098722304",
+   "en": "<kiroshi l=\"jpn\" o=\"まったく同じモデルをあのパキスタン人の店で見たぞ。半額で売ってた\" t=\"I’ve seen the same exact model at the Pakistani vendor’s stand for half the price.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"まったく同じモデルをあのパキスタン人の店で見たぞ。半額で売ってた\" t=\"Același model l-am văzut la pakistanezul ăla, cu jumătate de preț.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3388031991571456000",
+   "en": "<kiroshi l=\"jpn\" o=\"アッバス？ あいつは詐欺師よ。シリアル番号を剥がして、バカに中古品のゴミを売りつけてる\" t=\"Abbas? He’s an old crook. Files off the serial numbers and sells second-hand trash to ignorant suckers.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アッバス？ あいつは詐欺師よ。シリアル番号を剥がして、バカに中古品のゴミを売りつけてる\" t=\"Abbas? E un escroc. Șterge numerele de serie și vinde rebut la fraierii ăia.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3388032477070532608",
+   "en": "<kiroshi l=\"jpn\" o=\"おかしいな。向こうもあんたについて同じことを言ってたぞ\" t=\"That’s funny. He said the exact same thing about you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"おかしいな。向こうもあんたについて同じことを言ってたぞ\" t=\"Ciudat. A zis fix același lucru despre tine.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

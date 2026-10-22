@@ -1,0 +1,605 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq006\\sq006_02b_investigation.json",
+ "entries": [
+  {
+   "key": "1480762812946567168",
+   "en": "Discharged booster.",
+   "ro": "Booster descărcat."
+  },
+  {
+   "key": "1480767497178828800",
+   "en": "Either of you use energy boosters?",
+   "ro": "Vreunul dintre voi folosește boostere energetice?"
+  },
+  {
+   "key": "1480767853157797888",
+   "en": "I don't, and not that I know of. Jeff, maybe? He works so hard…",
+   "ro": "Eu nu, cel puțin nu că știu. Jeff, poate? Muncește atât de mult…"
+  },
+  {
+   "key": "1480772046723600384",
+   "en": "Bullet holes – caulked up…",
+   "ro": "Găuri de glonț – astupate…"
+  },
+  {
+   "key": "1480773714261430272",
+   "en": "Someone tried to patch up the bullet holes. Assuming neither of you had anything to do with this?",
+   "ro": "Cineva a încercat să acopere găurile de glonț. Presupun că niciunul dintre voi n-a avut treabă cu asta?"
+  },
+  {
+   "key": "1480775975310053376",
+   "en": "Bloodstains... Not quite scrubbed clean.",
+   "ro": "Pete de sânge... Nu sunt curățate de tot."
+  },
+  {
+   "key": "1480777778005135360",
+   "en": "Where's the blood from? It yours?",
+   "ro": "De unde e sângele? E al vostru?"
+  },
+  {
+   "key": "1480778288770699264",
+   "en": "I'm one hundred percent sure it's not ours. Maybe the intruder's?",
+   "ro": "Sunt sigur de tot că nu e al nostru. Poate al intrusului?"
+  },
+  {
+   "key": "1480781217284083712",
+   "en": "Why's this door concealed?",
+   "ro": "De ce e ascunsă ușa asta?"
+  },
+  {
+   "key": "1480781864700071936",
+   "en": "Where? There's no door here.",
+   "ro": "Unde? Nu e nicio ușă aici."
+  },
+  {
+   "key": "1480783259524255744",
+   "en": "Right here. It's closed.",
+   "ro": "Aici. E închisă."
+  },
+  {
+   "key": "1480799761157705728",
+   "en": "Department of Law at Asukaga-Berkeley? Hm, classy…",
+   "ro": "Facultatea de Drept la Asukaga-Berkeley? Hm, fițos…"
+  },
+  {
+   "key": "1480802759934070784",
+   "en": "You and Jeff graduate from the same school? Must've been expensive…",
+   "ro": "Tu și Jeff ați absolvit aceeași școală? Trebuie să fi fost scump…"
+  },
+  {
+   "key": "1480804062030581760",
+   "en": "We were lucky. On full scholarships, funded by the Night Foundation.",
+   "ro": "Ne-a ieșit norocul. Cu bursă integrală, finanțată de Fundația Night."
+  },
+  {
+   "key": "1480816357448208384",
+   "en": "Broken?",
+   "ro": "Stricat?"
+  },
+  {
+   "key": "1480817729203720192",
+   "en": "It was fine a couple days ago. We rarely use it, though.",
+   "ro": "Mergea perfect acum câteva zile. Oricum nu-l prea folosim."
+  },
+  {
+   "key": "1482283658366275584",
+   "en": "Wedding pic? Interesting backdrop…",
+   "ro": "Poză de nuntă? Fundal interesant…"
+  },
+  {
+   "key": "1482284114136125440",
+   "en": "Blue roses. You sure? Roses in this picture look pretty red to me.",
+   "en_m": "Heh, blue roses. Wha-you sure? 'Cause the roses in this picture look pretty red to me.",
+   "ro": "Trandafiri albaștri? Ești sigură? Trandafirii din poză mi se par destul de roșii.",
+   "ro_m": "Heh, trandafiri albaștri. Ce, ești sigur? Că trandafirii din poză mi se par destul de roșii."
+  },
+  {
+   "key": "1486391934406217728",
+   "en": "Odd... tech's practically prehistoric, but it doesn't look older than a day…",
+   "ro": "Ciudat... tehnologia e veche de milenii, dar nu pare mai veche de o zi…"
+  },
+  {
+   "key": "1486393443936227328",
+   "en": "Saw somethin' like this back in the war. Transmitters – Militech was using 'em.",
+   "ro": "Am mai văzut chestii de-astea în război. Transmițătoare – Militech le folosea."
+  },
+  {
+   "key": "1486640443730546688",
+   "en": "Got a vizh on our receiver – black van parked next to it. Gotta be our winner.",
+   "en_m": "Got a vizh on the receiver – black van parked next to it. Gotta be our winner.",
+   "ro": "Am vizual pe receptorul nostru – o dubă neagră parcată lângă el. Trebuie să fie ăla pe care-l vrem.",
+   "ro_m": "Am vizual pe receptor – o dubă neagră parcată lângă el. Trebuie să fie ăla pe care-l vrem."
+  },
+  {
+   "key": "1487892179334057984",
+   "en": "Tight bites? You and Jeff must be puttin' in serious overtime.",
+   "en_m": "Heh, tight bites? You and Jeff must be puttin' in serious overtime.",
+   "ro": "Porții mici? Tu și Jeff trebuie să faceți ore suplimentare serioase.",
+   "ro_m": "Heh, porții mici? Tu și Jeff trebuie să faceți ore suplimentare serioase."
+  },
+  {
+   "key": "1487893337582718976",
+   "en": "Elections. You don't even have time to think about food, so you just order whatever's quickest.",
+   "ro": "Alegeri. Nu ai timp nici să te gândești la mâncare, așa că iei ce e mai repede."
+  },
+  {
+   "key": "1488024540461780992",
+   "en": "Weird hardware... What's it for?",
+   "ro": "Hardware ciudat... La ce e?"
+  },
+  {
+   "key": "1488024607453204480",
+   "en": "Used meds. Intruder make a beeline here after Jeff tagged him?",
+   "ro": "Medicamente folosite. Intrusul s-a dus drept aici după ce Jeff l-a marcat?"
+  },
+  {
+   "key": "1488064098553417728",
+   "en": "Fresh fruit... tasty, by the looks of it.",
+   "ro": "Fructe proaspete... par gustoase."
+  },
+  {
+   "key": "1488065021853945856",
+   "en": "They deliver it to us –  it's included in the rent.",
+   "ro": "Ni le livrează – sunt incluse în chirie."
+  },
+  {
+   "key": "1633140891756122112",
+   "en": "What was that?",
+   "ro": "Ce-a fost asta?"
+  },
+  {
+   "key": "1633141135864614912",
+   "en": "No fuckin' clue. Felt kinda good, but weird. Like tripping on acid.",
+   "ro": "Habar n-am, pula mea. M-am simțit cumva bine, dar ciudat. Parcă eram pe acid."
+  },
+  {
+   "key": "1633141809251733504",
+   "en": "That happen to the screen a lot? Or to any of the others?",
+   "en_m": "Does that happen to the screen a lot? Or to any of the others?",
+   "ro": "Ți se întâmplă des cu ecranul? Sau cu vreunul dintre celelalte?"
+  },
+  {
+   "key": "1638778464184684544",
+   "en": "Wonder how long they've been keepin' this from you.",
+   "en_m": "Wonder how long they been keepin' this from you.",
+   "ro": "Mă întreb de cât timp ți-au ascuns asta."
+  },
+  {
+   "key": "1638779317926875136",
+   "en": "Jesus Christ…",
+   "ro": "Doamne, Dumnezeule…"
+  },
+  {
+   "key": "1643252495780794368",
+   "en": "Looks like it's been enhanced. What have we got here…?",
+   "en_m": "Looks like it's been enhanced. What've we got here…?",
+   "ro": "Pare că a fost îmbunătățit. Ce avem aici…?"
+  },
+  {
+   "key": "1643252887411347456",
+   "en": "There's some weird chem stuff in here... Enhanced food?",
+   "ro": "E ceva chimic ciudat aici... Mâncare îmbunătățită?"
+  },
+  {
+   "key": "1643256514964213760",
+   "en": "It's \"SmartFood.\" It's enhanced for improved mental performance.",
+   "ro": "E „SmartFood.” E făcută să-ți îmbunătățească performanța mentală."
+  },
+  {
+   "key": "1643258037999882240",
+   "en": "Fresh Fruit for Rotting Vegetables...",
+   "ro": "Fresh Fruit for Rotting Vegetables..."
+  },
+  {
+   "key": "1648636202004385792",
+   "en": "Scanner's showin' somethin' different.",
+   "ro": "Scanerul arată altceva."
+  },
+  {
+   "key": "1648636673309937664",
+   "en": "Wait... you mean here?",
+   "ro": "Stai... aici vrei să zici?"
+  },
+  {
+   "key": "1661897254661918720",
+   "en": "Line-of-sight? Let's look around, see if we can't spot where our receiver's camping out…",
+   "ro": "Linie de vedere? Hai să ne uităm pe-aici, să vedem dacă nu dăm de locul unde s-a ascuns receptorul nostru…"
+  },
+  {
+   "key": "1661907198433955840",
+   "en": "Connected to the wall-mounted screens. Wonder where else these cables run…",
+   "ro": "Conectat la ecranele montate pe perete. Mă întreb unde mai merg cablurile astea…"
+  },
+  {
+   "key": "1661914703738310656",
+   "en": "But yes, it's true Jeff hasn't eaten anything else recently...",
+   "ro": "Dar da, e adevărat că Jeff n-a mai mâncat altceva recent..."
+  },
+  {
+   "key": "1661926884198453248",
+   "en": "Glutamine, noradrenaline, dopamine, serotonin... all neurotransmitters. Know anything about this?",
+   "ro": "Glutamină, noradrenalină, dopamină, serotonină... toate sunt neurotransmițători. Știi ceva despre ele?"
+  },
+  {
+   "key": "1661937713690054656",
+   "en": "I don't know if it really works, but people believe it. Other than that... it isn't half bad.",
+   "ro": "Nu știu dacă chiar merge, da' lumea crede în ea. Altfel... nu e rea deloc."
+  },
+  {
+   "key": "1661942280079151104",
+   "en": "What? It was a sick album.",
+   "ro": "Ce? A fost un album bestial."
+  },
+  {
+   "key": "1664710546488954880",
+   "en": "But it wouldn't be like him. He's always been against using any... substances.",
+   "ro": "Dar nu i-ar sta în fire. Dintotdeauna a fost împotriva oricăror... substanțe."
+  },
+  {
+   "key": "1664718232785915904",
+   "en": "No, of course not.",
+   "ro": "Nu, sigur că nu."
+  },
+  {
+   "key": "1664728649558003712",
+   "en": "No. Open it…  somehow, please.",
+   "ro": "Nu. Deschide-o… cumva, te rog."
+  },
+  {
+   "key": "1664743579401195520",
+   "en": "A charity founded by Richard Night's widow.",
+   "ro": "O organizație caritabilă fondată de văduva lui Richard Night."
+  },
+  {
+   "key": "1664745936381939712",
+   "en": "They helped a lot of underprivileged kids with ambitions.",
+   "ro": "Au ajutat mulți copii defavorizați cu ambiții."
+  },
+  {
+   "key": "1664778545300377600",
+   "en": "Any? Nicotine's a substance.",
+   "ro": "Oricare? Nicotina e o substanță."
+  },
+  {
+   "key": "1664779378138157056",
+   "en": "Jefferson has never smoked.",
+   "ro": "Jefferson n-a fumat niciodată."
+  },
+  {
+   "key": "1664780090112872448",
+   "en": "Really? Could've sworn I've seen him smoking…",
+   "en_m": "Really? Could've sworn I've seen him smokin'…",
+   "ro": "Serios? Aș fi jurat că l-am văzut fumând…"
+  },
+  {
+   "key": "1664780797490630656",
+   "en": "Jeff? No, never. He doesn't go near the stuff.",
+   "ro": "Jeff? Nu, niciodată. Nici nu se atinge de așa ceva."
+  },
+  {
+   "key": "1664786355513856000",
+   "en": "I wanted blue roses. So we ordered a whole truckload.",
+   "ro": "Am vrut trandafiri albaștri. Așa că am comandat un camion întreg."
+  },
+  {
+   "key": "1664792629337001984",
+   "en": "Hmm... of course, you're right. They didn't have blue roses, I forgot…",
+   "ro": "Hmm... desigur, ai dreptate. Nu aveau trandafiri albaștri, am uitat…"
+  },
+  {
+   "key": "1664805357422252032",
+   "en": "I don't understand...",
+   "ro": "Nu înțeleg..."
+  },
+  {
+   "key": "1664805695869030400",
+   "en": "What just happened a second ago. Didn't see it?",
+   "en_m": "What just happened a second ago. You didn't see it?",
+   "ro": "Ce s-a întâmplat acum o secundă. N-ai văzut?"
+  },
+  {
+   "key": "1664805969102770176",
+   "en": "No... what?",
+   "ro": "Nu... ce?"
+  },
+  {
+   "key": "1664806128939307008",
+   "en": "Uh, never mind.",
+   "en_m": "OK, never mind.",
+   "ro": "Ăă, lasă.",
+   "ro_m": "Ok, lasă."
+  },
+  {
+   "key": "1664816284372701184",
+   "en": "Too long. This ends now. I'm not letting any more of those freaks set foot--",
+   "ro": "Prea mult. Se termină acum. Nu mai las niciunul dintre ciudații ăia să pună piciorul--"
+  },
+  {
+   "key": "1680962689146933248",
+   "en": "Iron... This Jeff's?",
+   "ro": "Fier... E al lui Jeff?"
+  },
+  {
+   "key": "1680963841188024320",
+   "en": "Mh. Mine, actually. But yes, that's the one Jeff used that night.",
+   "ro": "Mh. Al meu, de fapt. Dar da, ăsta e cel pe care l-a folosit Jeff în noaptea aia."
+  },
+  {
+   "key": "1683548107256221700",
+   "en": "[Fix screen]",
+   "ro": "[Repară ecranul]"
+  },
+  {
+   "key": "1751626915565932544",
+   "en": "Probably.",
+   "ro": "Probabil."
+  },
+  {
+   "key": "1751629051540410368",
+   "en": "Previous owners, left over, maybe?",
+   "ro": "Foști proprietari, poate? Au rămas de la ei?"
+  },
+  {
+   "key": "1805040482042122240",
+   "en": "Think we're safe puttin' your security at the top of our list of suspects.",
+   "ro": "Zic că putem să-i punem securității tale primul loc pe lista de suspecți."
+  },
+  {
+   "key": "1805040659175968768",
+   "en": "They violated our privacy... The sons of bitches! Under my own roof!",
+   "ro": "Javrele dracului! Sub propriul meu acoperiș!"
+  },
+  {
+   "key": "1805043086235144192",
+   "en": "Don't worry about me. Do what you have to do.",
+   "ro": "Nu-ți face griji pentru mine. Fă ce trebuie să faci."
+  },
+  {
+   "key": "1805048941768740864",
+   "en": "Someone's been pullin' all-nighters.",
+   "ro": "Cineva a tras nopți albe."
+  },
+  {
+   "key": "1805052260704718848",
+   "en": "Talkin' to yourself again?",
+   "ro": "Iar vorbești singură?",
+   "ro_m": "Iar vorbești singur?"
+  },
+  {
+   "key": "1805052452250193920",
+   "en": "More and more – ever since this terrorist started stalking me…",
+   "ro": "Din ce în ce mai mult – de când teroristul ăsta a început să mă urmărească…"
+  },
+  {
+   "key": "1805060167924060160",
+   "en": "Short range UHF. Signal only travels line-of-sight, but it can't be intercepted.",
+   "ro": "UHF cu rază scurtă. Semnalul merge doar în linie dreaptă, dar nu poate fi interceptat."
+  },
+  {
+   "key": "1825773946382979076",
+   "en": "Wonder how long they've been hiding this from you.",
+   "ro": "Mă întreb de cât timp ți-au ascuns asta."
+  },
+  {
+   "key": "1825774043606945792",
+   "en": "Never noticed anything, had any reason to suspect?",
+   "ro": "N-ai observat niciodată nimic, n-ai avut niciun motiv să suspectezi?"
+  },
+  {
+   "key": "1825775079801360384",
+   "en": "Ever noticed anything out of the ordinary, suspicious?",
+   "ro": "Ai observat vreodată ceva ciudat, ceva suspect?"
+  },
+  {
+   "key": "1825814020642443264",
+   "en": "That they're violating our trust, watching our every move?",
+   "ro": "Că ne încalcă încrederea, ne urmăresc fiecare mișcare?"
+  },
+  {
+   "key": "1825814344627261440",
+   "en": "That they'd concealed a goddamn secret room full of spy stuff in our own apartment?",
+   "ro": "Că au ascuns o nenorocită de cameră secretă plină de chestii de spionaj în propriul nostru apartament?"
+  },
+  {
+   "key": "1825814714933972992",
+   "en": "So you didn't notice – OK.",
+   "ro": "Deci n-ai observat – OK."
+  },
+  {
+   "key": "1825819453104984064",
+   "en": "Ugh... my head...",
+   "ro": "Ugh... capul meu..."
+  },
+  {
+   "key": "1825819712950505472",
+   "en": "Something wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "1922876675990343680",
+   "en": "The hell is this all for, though...?",
+   "en_m": "The hell is all this for, though...?",
+   "ro": "La ce dracu' e toată chestia asta...?"
+  },
+  {
+   "key": "1922879068337459200",
+   "en": "Fuck if I know. But my gut tells me we should see what this bad boy's hooked up to. See these cables?",
+   "ro": "Habar n-am. Da' instinctul meu zice că ar trebui să vedem la ce e conectat nenorocitul ăsta. Vezi cablurile ălea?"
+  },
+  {
+   "key": "1928874587015221248",
+   "en": "You and Jefferson – you've come a long way.",
+   "ro": "Tu și Jefferson – ați ajuns departe."
+  },
+  {
+   "key": "1928883586901086208",
+   "en": "To get from Heywood all the way here... it's no easy thing.",
+   "ro": "Să ajungi din Heywood până aici... nu-i deloc ușor."
+  },
+  {
+   "key": "1928884172073603072",
+   "en": "Yes. If you aren't born with a silver shard, your chances are slim.",
+   "ro": "Da. Dacă nu te naști cu un shard de argint, șansele tale sunt mici."
+  },
+  {
+   "key": "1928885103309754368",
+   "en": "And if you're born in Heywood, they're almost nonexistent...",
+   "ro": "Iar dacă te naști în Heywood, practic nu mai ai nicio șansă..."
+  },
+  {
+   "key": "1979436983508389888",
+   "en": "It looks like SSI's employees knew about the break-in.",
+   "ro": "Se pare că ăia de la SSI știau de spargere."
+  },
+  {
+   "key": "1979437984957190144",
+   "en": "Maybe it's worth checking their office downstairs...",
+   "ro": "Poate merită să verificăm biroul lor de la parter..."
+  },
+  {
+   "key": "1984988646961451008",
+   "en": "This is Jeff's personal machine. I doubt you'll find anything on it relating to the break-in.",
+   "ro": "Asta e laptopul personal al lui Jeff. Mi-e greu să cred că o să găsești ceva pe el despre spargere."
+  },
+  {
+   "key": "2065161993199407108",
+   "en": "Is this Jeff's gun?",
+   "ro": "Asta e arma lui Jeff?"
+  },
+  {
+   "key": "2065198471816269828",
+   "en": "Law department  at Asukaga... Not bad.",
+   "ro": "Departamentul juridic de la Asukaga... Nu-i rău."
+  },
+  {
+   "key": "2065199648821858308",
+   "en": "Wedding photo?",
+   "ro": "Poză de nuntă?"
+  },
+  {
+   "key": "2065201749899726852",
+   "en": "TV's broken?",
+   "ro": "Televizorul e stricat?"
+  },
+  {
+   "key": "2065203547679084548",
+   "en": "Right here.",
+   "ro": "Aici."
+  },
+  {
+   "key": "2065211674730287108",
+   "en": "Bloodstains...?",
+   "ro": "Pete de sânge...?"
+  },
+  {
+   "key": "2065214448658403328",
+   "en": "Bloodstains...?",
+   "ro": "Pete de sânge...?"
+  },
+  {
+   "key": "2065216193757302784",
+   "en": "Bloodstains...?",
+   "ro": "Pete de sânge...?"
+  },
+  {
+   "key": "2065216918046494720",
+   "en": "Bloodstains...?",
+   "ro": "Pete de sânge...?"
+  },
+  {
+   "key": "2065217268824526848",
+   "en": "Bloodstains...?",
+   "ro": "Pete de sânge...?"
+  },
+  {
+   "key": "2065217887618584580",
+   "en": "Caulked-up bullet holes?",
+   "ro": "Găuri de glonț astupate?"
+  },
+  {
+   "key": "2065219867061637124",
+   "en": "Tech's prehistoric, but it looks new...",
+   "ro": "Tehnica e preistorică, dar pare nouă..."
+  },
+  {
+   "key": "2065221899487137792",
+   "en": "Wonder what this is for.",
+   "ro": "Oare la ce e asta?"
+  },
+  {
+   "key": "2065224013500239876",
+   "en": "Fresh fruit... must be tasty.",
+   "ro": "Fructe proaspete... sigur sunt bune."
+  },
+  {
+   "key": "2066214215811190788",
+   "en": "Used meds?",
+   "ro": "Medicamente deja luate?"
+  },
+  {
+   "key": "2066237066245165060",
+   "en": "Tight bites?",
+   "ro": "Mușcături strânse?"
+  },
+  {
+   "key": "2066238973781069824",
+   "en": "Tight bites? Really?",
+   "ro": "Mușcături strânse? Serios?"
+  },
+  {
+   "key": "2066239405056184320",
+   "en": "Cheap grub?",
+   "ro": "Mâncare ieftină?"
+  },
+  {
+   "key": "2066267568733802500",
+   "en": "Discharged booster?",
+   "ro": "Booster descărcat?"
+  },
+  {
+   "key": "2228681610181611520",
+   "en": "I find this so hard to believe…",
+   "ro": "Nu-mi vine să cred asta…"
+  },
+  {
+   "key": "2228684993911197700",
+   "en": "How could they do this to us? The gall…",
+   "ro": "Cum au putut să ne facă asta? Ce tupeu…"
+  },
+  {
+   "key": "2228712606323052544",
+   "en": "Seems a happy fam. That your daughter?",
+   "ro": "Pare o familie fericită. Aia e fiica ta?"
+  },
+  {
+   "key": "2228738181964107776",
+   "en": "Xochi… oh, we miss her. Her studies took her abroad.",
+   "ro": "Xochi… ah, ne e tare dor de ea. A plecat la studii în străinătate."
+  },
+  {
+   "key": "2228738400739004416",
+   "en": "Huh, where to?",
+   "ro": "Hm, unde?"
+  },
+  {
+   "key": "2228738614682062848",
+   "en": "Europe. An excellent school, she'll get a good education…",
+   "ro": "Europa. Are o școală excelentă, o să primească o educație bună…"
+  },
+  {
+   "key": "2228738897227157504",
+   "en": "I know, it's an ocean away… But with Jeff running for mayor… it's just safer this way.",
+   "ro": "Știu, e peste ocean… Dar cu Jeff candidând la primărie… e mai sigur așa."
+  },
+  {
+   "key": "2228758519707996160",
+   "en": "Cables lead here... Gotta be another way inside. Sharp eye, Johnny!",
+   "ro": "Cablurile duc aici... Trebuie să existe altă intrare. Ai ochi de vultur, Johnny!"
+  },
+  {
+   "key": "2238888116641976324",
+   "en": "That your daughter?",
+   "ro": "Aia e fiica ta?"
+  }
+ ]
+}

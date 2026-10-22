@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_07.json",
+ "entries": [
+  {
+   "key": "2276541826893783056",
+   "en": "<kiroshi l=\"mex\" o=\"Man, fue un pinche baño de sangre... Los pendejos se lo chingaron en el quinceañera de su hija.\" t=\"It was a bloodbath, man – motherfuckers offed him at his daughter's quinceañera.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Man, fue un pinche baño de sangre... Los pendejos se lo chingaron en el quinceañera de su hija.\" t=\"A fost un măcel, frate – jigodiile alea l-au ucis chiar la quinceañera fiicei lui.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276541826893783068",
+   "en": "<kiroshi l=\"mex\" o=\"Madres. ¿Y los demás? ¿Escaparon con vida?\" t=\"Shit. And the rest? They make it out alive?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Madres. ¿Y los demás? ¿Escaparon con vida?\" t=\"Căcat. Și restul? Au scăpat cu viață?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276541826893783080",
+   "en": "<kiroshi l=\"mex\" o=\"Ninguno de los nuestros.\" t=\"Not any of ours.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ninguno de los nuestros.\" t=\"Niciunul dintre ai noștri.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

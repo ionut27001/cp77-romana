@@ -1,0 +1,56 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_02.json",
+ "entries": [
+  {
+   "key": "1863266873962283008",
+   "en": "What's there to drink?",
+   "ro": "Ce e de băut?"
+  },
+  {
+   "key": "1863266873962283024",
+   "en": "Interesting place you got here.",
+   "ro": "Local interesant ai aici."
+  },
+  {
+   "key": "1863266874029391876",
+   "en": "Whatcha got in the way of drink?",
+   "ro": "Ce ai de băut?"
+  },
+  {
+   "key": "1863266874029391884",
+   "en": "The full gamut, for all tastes. Place like this, you want people to let loose, get a little excited, even.",
+   "ro": "Tot ce vrei, pentru orice gust. Într-un loc ca ăsta vrei ca lumea să se dezlănțuie, să se și încingă un pic."
+  },
+  {
+   "key": "1863266874096500740",
+   "en": "Quirky joint. Like workin' here?",
+   "en_m": "Quirky joint. You like working here?",
+   "ro": "Local ciudat. Îți place să lucrezi aici?"
+  },
+  {
+   "key": "1863266874096500748",
+   "en": "For the most part. Only con is the glitter. I can't ever get it off me, not completely.",
+   "ro": "Cam da. Singurul minus e sclipiciul. Nu-l scot de pe mine niciodată, nu complet."
+  },
+  {
+   "key": "1935648808663166980",
+   "en": "Could use a drink.",
+   "ro": "Mi-ar prinde bine o băutură."
+  },
+  {
+   "key": "4108827857818365964",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "4108827871894450184",
+   "en": "[Step away from bar]",
+   "ro": "[Depărtează-te de bar]"
+  },
+  {
+   "key": "4115800971752124416",
+   "en": "[Sit at bar] Could use a drink.",
+   "ro": "[Stai la bar] Mi-ar prinde bine o băutură."
+  }
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq032\\sq032_03_third_episode.json",
+ "entries": [
+  {
+   "key": "1814003168238804992",
+   "en": "Gah, fuck!",
+   "ro": "Gah, futu-i!"
+  },
+  {
+   "key": "1814003554198659076",
+   "en": "What a performance, huh? Know what it was about?",
+   "ro": "Ce spectacol, nu? Știi despre ce era?"
+  },
+  {
+   "key": "1814003838220148736",
+   "en": "Jesus... the fuck do you want from me?",
+   "ro": "Doamne... Ce pula mea vrei de la mine?"
+  },
+  {
+   "key": "1814006118914891776",
+   "en": "It's all goin' too slow.",
+   "ro": "Merge totul prea încet."
+  },
+  {
+   "key": "1814222139227545600",
+   "en": "You don't care if I live.",
+   "ro": "Nu-ți pasă dacă trăiesc."
+  },
+  {
+   "key": "1814225625163931648",
+   "en": "Still don't see how Mikoshi's linked to my chip problem.",
+   "ro": "Tot nu văd ce legătură are Mikoshi cu problema mea cu cipul."
+  },
+  {
+   "key": "1814226536384864256",
+   "en": "Not the brightest bulb on stage, are ya?",
+   "ro": "Nu ești tocmai becul cel mai luminos de pe scenă, nu?"
+  },
+  {
+   "key": "1814226885552283652",
+   "en": "What do Soulkiller and Mikoshi have to do with me?",
+   "ro": "Ce legătură au Soulkiller și Mikoshi cu mine?"
+  },
+  {
+   "key": "1863683300736393216",
+   "en": "Leave me alone.",
+   "ro": "Lasă-mă în pace."
+  },
+  {
+   "key": "1863685585373782016",
+   "en": "Wanted me dead, said so yourself.",
+   "ro": "M-ai vrut moartă, ai spus-o chiar tu.",
+   "ro_m": "M-ai vrut mort, ai spus-o chiar tu."
+  },
+  {
+   "key": "1863686203597414400",
+   "en": "Made it pretty clear since that I changed my mind. Want you to live now.",
+   "ro": "De-atunci ți-am tot zis: m-am răzgândit. Vreau să trăiești acum."
+  },
+  {
+   "key": "1863686776958771200",
+   "en": "Asked you already... what the hell ya want from me?",
+   "ro": "Te-am mai întrebat... ce naiba vrei de la mine?"
+  },
+  {
+   "key": "1863691067094228992",
+   "en": "See, me and Arasaka, we got a half-century-old score needs settling, and I plan to do it.",
+   "ro": "Vezi, eu cu Arasaka avem o socoteală de jumătate de secol de încheiat, și am de gând s-o fac."
+  },
+  {
+   "key": "1863695602713911300",
+   "en": "Gonna make a terrorist of me?",
+   "ro": "Vrei să mă faci teroristă?",
+   "ro_m": "Vrei să mă faci terorist?"
+  },
+  {
+   "key": "1863698666250330112",
+   "en": "Funny guy.",
+   "ro": "Ce tip amuzant."
+  },
+  {
+   "key": "1863698945456758784",
+   "en": "Never been recruited into a terrorist cell before. Feel kinda honored, actually.",
+   "ro": "Până acum nu mă recrutase nimeni într-o celulă teroristă. Chiar mă simt onorată, de fapt.",
+   "ro_m": "Până acum nu mă recrutase nimeni într-o celulă teroristă. Chiar mă simt onorat, de fapt."
+  },
+  {
+   "key": "1863703184203603968",
+   "en": "Listen, I know things, where we can save your life, who can help us do that.",
+   "ro": "Ascultă, știu chestii: unde ți-am putea salva viața, cine ne-ar putea ajuta."
+  },
+  {
+   "key": "1863704887040696320",
+   "en": "You'll get rid of the chip, I'll smash 'Saka – win-win, kid.",
+   "ro": "Scapi de cip, eu sparg 'Saka – win-win, puștiule."
+  },
+  {
+   "key": "1863707995489722368",
+   "en": "It's honestly as if you were tryin' to make exactly no sense.",
+   "ro": "Serios, parcă te chinui special să nu ai niciun sens."
+  },
+  {
+   "key": "1863710163122806784",
+   "en": "Soulkiller's what we need and Mikoshi's how we grab it.",
+   "ro": "Soulkiller e ce ne trebuie, iar Mikoshi e cum punem mâna pe el."
+  },
+  {
+   "key": "1863716674343559172",
+   "en": "Mikoshi – what's that, exactly?",
+   "ro": "Mikoshi – ce e, mai exact?"
+  },
+  {
+   "key": "1863716875905032192",
+   "en": "But I don't trust you.",
+   "ro": "Dar eu nu am încredere în tine."
+  },
+  {
+   "key": "1863718324919623680",
+   "en": "You're just a hallucination.",
+   "ro": "Ești doar o halucinație."
+  },
+  {
+   "key": "1863720343487143936",
+   "en": "You know you're just an irritating hallucination, right? Should just ignore you.",
+   "ro": "Știi că ești doar o halucinație enervantă, nu? Ar trebui să te ignor."
+  },
+  {
+   "key": "1863720796941737984",
+   "en": "And you're a walkin' corpse. Should just wait till your mind shrivels to nothing and frees up space for me.",
+   "ro": "Iar tu ești un cadavru ambulant. Ar trebui doar să aștept până ți se usucă mintea de tot și să-mi faci loc."
+  },
+  {
+   "key": "1863723631167168512",
+   "en": "OK, so, this Mikoshi – what is it, exactly?",
+   "ro": "OK, deci, Mikoshi ăsta – ce e, mai exact?"
+  },
+  {
+   "key": "1863724911453298688",
+   "en": "Don't trust you – clear, right? So why would I trust in your plan?",
+   "ro": "Nu am încredere în tine – clar, nu? Deci de ce să am încredere în planul tău?"
+  },
+  {
+   "key": "1863726168351989760",
+   "en": "'Cause you've heard your death knell but you'd rather live.",
+   "ro": "Pentru că ai auzit clopotul morții, dar preferi să trăiești."
+  },
+  {
+   "key": "1863729497740173312",
+   "en": "So if you're done bitchin', I'd be happy to explain – sound good?",
+   "ro": "Deci dacă ai terminat cu scâncitul, îți explic cu drag – ce zici?"
+  },
+  {
+   "key": "1863736361148243972",
+   "en": "Mikoshi – what's that, exactly?",
+   "ro": "Mikoshi – ce e, mai exact?"
+  },
+  {
+   "key": "1863736773951643648",
+   "en": "Not particularly.",
+   "ro": "Nu prea."
+  },
+  {
+   "key": "1863737072586088448",
+   "en": "Not really, no.",
+   "ro": "Nu chiar, nu."
+  },
+  {
+   "key": "1864880346440949760",
+   "en": "I got a get-outta-jail-free card. I'd be a fuckin' fool not to take advantage.",
+   "ro": "Am un bilet de ieșire din bucluc. Aș fi un nenorocit de prost să nu profit de el."
+  },
+  {
+   "key": "1864886551561396224",
+   "en": "OK, basics. If you're jacked in, cruisin' the Net, Arasaka can use Soulkiller, an AI, to trap, fry and pack away your psyche, your mind and your soul.",
+   "ro": "OK, bazele. Dacă ești conectată, plimbându-te pe Net, Arasaka poate folosi Soulkiller, un AI, să te prindă, să te prăjească și să-ți împacheteze psihicul, mintea și sufletul.",
+   "ro_m": "OK, bazele. Dacă ești conectat, plimbându-te pe Net, Arasaka poate folosi Soulkiller, un AI, să te prindă, să te prăjească și să-ți împacheteze psihicul, mintea și sufletul."
+  },
+  {
+   "key": "1864888403229171712",
+   "en": "Followin' so far?",
+   "ro": "Ții pasul până acum?"
+  },
+  {
+   "key": "1864889590535970816",
+   "en": "Yeah, seen the memories – did a real number on ya.",
+   "ro": "Da, am văzut amintirile – te-au făcut praf."
+  },
+  {
+   "key": "1864889878282002432",
+   "en": "OK... Seems we got a few more things to broach than I thought, but that'll come later.",
+   "ro": "OK... Se pare că avem mai multe de discutat decât credeam, dar asta o lăsăm pe mai târziu."
+  },
+  {
+   "key": "1864890691641434112",
+   "en": "Anyway, when Soulkiller fries, roasts and boils you, you die. But the contents of your mind get copied to an engram first.",
+   "ro": "Oricum, când Soulkiller te prăjește, te frige și te fierbe, mori. Dar înainte, mintea ta e copiată pe un engram."
+  },
+  {
+   "key": "1864892098796871680",
+   "en": "Sure. That's how you became a construct.",
+   "ro": "Sigur. Asta e cum ai ajuns construct."
+  },
+  {
+   "key": "1864898411023065088",
+   "en": "Exactly. Now, Mikoshi's the place Soulkiller operates out of, where it stores its victims' engrams.",
+   "ro": "Exact. Mikoshi e locul din care operează Soulkiller și unde își ține engramele victimelor."
+  },
+  {
+   "key": "1864899650993545220",
+   "en": "Me and Mikoshi – how're we linked at all?",
+   "ro": "Eu și Mikoshi – cum suntem legați, de fapt?"
+  },
+  {
+   "key": "1864899843696648192",
+   "en": "Cut to the chase.",
+   "ro": "Hai la subiect."
+  },
+  {
+   "key": "1864899994741923840",
+   "en": "C'mon, c'mon – you got more to say, so just say it.",
+   "ro": "Hai, hai – ai mai ceva de zis, deci zi-o odată."
+  },
+  {
+   "key": "1864905855325462528",
+   "en": "And, uh, how you plan to smash Arasaka this time? Got another nuke tucked away?",
+   "ro": "Și, ăă, cum vrei să spargi Arasaka de data asta? Mai ai o bombă nucleară ascunsă pe undeva?"
+  },
+  {
+   "key": "1864911452187942912",
+   "en": "Fifty years back, ops on the human mind – Mikoshi was the sole place on Earth where they did anything like that.",
+   "ro": "Acum cincizeci de ani, operațiuni pe mintea umană – Mikoshi era singurul loc de pe Pământ unde făceau așa ceva."
+  },
+  {
+   "key": "1864936543554658304",
+   "en": "Bet it still is today. Tellin' ya, all roads lead there. It's where we'll settle our biz – you yours, me mine.",
+   "ro": "Pariez că încă e. Îți spun, toate drumurile duc acolo. E locul unde ne rezolvăm afacerile – tu ale tale, eu ale mele."
+  },
+  {
+   "key": "1866211050235912192",
+   "en": "Leave me alone.",
+   "en_m": "Lemme alone.",
+   "ro": "Lasă-mă în pace."
+  },
+  {
+   "key": "1866216751385567232",
+   "en": "Can't find the words to describe exactly how fucked up you are.",
+   "ro": "Nu găsesc cuvintele să descriu exact cât de dus cu capul ești."
+  },
+  {
+   "key": "1866224779165982720",
+   "en": "I just needed a calmer moment to think. And yeah, figured since fate gave me another shot, I'll take it.",
+   "ro": "Aveam nevoie doar de un pic de liniște să mă gândesc. Și da, zic că, de vreme ce soarta mi-a dat a doua șansă, o iau."
+  },
+  {
+   "key": "1866226424138457088",
+   "en": "To live life to the fullest? See the northern lights, run with the mechbulls or with gazelles on a safari?",
+   "ro": "Să trăiești la maximum? Să vezi aurora boreală, să alergi cu taurii mecanici sau să te joci cu gazelele pe safari?"
+  },
+  {
+   "key": "1866227557489729536",
+   "en": "To finish what I started. I'm back in the game. Want 'Saka out, so I'm gonna need you in.",
+   "ro": "Să termin ce am început. Sunt iar în joc. Vreau 'Saka afară, deci am nevoie de tine înăuntru."
+  },
+  {
+   "key": "1866228843245232128",
+   "en": "Might even laugh if it didn't hurt so much.",
+   "ro": "Aș râde, dacă nu m-ar durea atât de tare."
+  },
+  {
+   "key": "1866308089368043524",
+   "en": "Arasaka – how you plan to destroy it this time?",
+   "ro": "Arasaka – cum plănuiești să o distrugi de data asta?"
+  },
+  {
+   "key": "1866422988131819520",
+   "en": "Distracting you. That was Hanako Arasaka, attemptin' to--",
+   "ro": "Te distrăgea. Era Hanako Arasaka, încercând să--"
+  },
+  {
+   "key": "1866429772317876224",
+   "en": "W-what's goin' on?",
+   "ro": "C-ce se întâmplă?"
+  },
+  {
+   "key": "1866445261865771008",
+   "en": "So, you found Hellman and got what to show for it? Empty promises.",
+   "ro": "Deci l-ai găsit pe Hellman și ce ai de arătat? Doar promisiuni goale."
+  },
+  {
+   "key": "1866446074436673536",
+   "en": "Ah, fuck...!",
+   "ro": "Ah, futu-i...!"
+  },
+  {
+   "key": "1866448933257502720",
+   "en": "Ugh, the hell's that?",
+   "ro": "Ugh, ce naiba e aia?"
+  },
+  {
+   "key": "1866470373734244352",
+   "en": "Well, sooner or later, Mikoshi's where we're headed.",
+   "ro": "Păi, mai devreme sau mai târziu, ajungem la Mikoshi."
+  },
+  {
+   "key": "1866471602900197376",
+   "en": "Already got my plan, thanks. And I'm gonna stick to it.",
+   "ro": "Am deja planul meu, mersi. Și mă țin de el."
+  },
+  {
+   "key": "1866473099176206336",
+   "en": "Tellin' ya, sooner or later, Mikoshi's where we're headed.",
+   "ro": "Îți spun, mai devreme sau mai târziu, la Mikoshi ajungem."
+  },
+  {
+   "key": "1916037551582031872",
+   "en": "Asked you – what the hell do you want?",
+   "ro": "Te-am întrebat – ce naiba vrei?"
+  },
+  {
+   "key": "1916043830555783168",
+   "en": "Fucked in the head worse than me.",
+   "ro": "Dus cu pluta mai rău decât mine."
+  },
+  {
+   "key": "1916053337449115648",
+   "en": "For some ideal? Or to square a grudge?",
+   "ro": "Pentru un ideal? Sau să reglezi o răfuială?"
+  },
+  {
+   "key": "1916054396678647808",
+   "en": "But why? Fightin' for some dated ideal? Pursuin' a personal vendetta?",
+   "ro": "Dar de ce? Lupți pentru un ideal învechit? Cauți o răzbunare personală?"
+  },
+  {
+   "key": "1916065586494517248",
+   "en": "Ravings of a lunatic.",
+   "ro": "Deliruri de nebun."
+  },
+  {
+   "key": "1916082396644192260",
+   "en": "Following.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1916083048120266752",
+   "en": "Don't care.",
+   "ro": "Nu-mi pasă."
+  },
+  {
+   "key": "1916087250544439296",
+   "en": "Yep, saw what happened to you.",
+   "ro": "Da, am văzut ce-ai pățit."
+  },
+  {
+   "key": "1947684874621575168",
+   "en": "Agh, fuck!",
+   "ro": "Agh, pula mea!"
+  },
+  {
+   "key": "1947692891563909124",
+   "en": "[Sit] Dunno.",
+   "ro": "[Așează-te] Habar n-am."
+  },
+  {
+   "key": "1947692955602542596",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1947693299686465536",
+   "en": "Aghh... Not sure...",
+   "ro": "Aghh... Nu-s sigur..."
+  },
+  {
+   "key": "1947693657427042304",
+   "en": "Ugh... No idea...",
+   "ro": "Ugh... Nicio idee..."
+  },
+  {
+   "key": "1947745534776729600",
+   "en": "Hell's wrong with you?",
+   "ro": "Ce dracu' ai?"
+  },
+  {
+   "key": "1947746372597342208",
+   "en": "Still wanna find Parker, shape you're in?",
+   "ro": "Tot vrei să-l găsești pe Parker, în halul ăsta?"
+  },
+  {
+   "key": "1947746827830321152",
+   "en": "Really think you'll find Hellman or Parker, condition you're in?",
+   "ro": "Chiar crezi că-i dai de Hellman sau de Parker, în halul ăsta?"
+  },
+  {
+   "key": "1947750224914571264",
+   "en": "To croak in the shadow of some megablock?",
+   "ro": "Să crepi în umbra unui megabloc?"
+  },
+  {
+   "key": "1947750332792070144",
+   "en": "To sell yourself to the 'Sakas? They'll end you, plain as that.",
+   "ro": "Să te vinzi 'Sakilor? Te termină, punct."
+  },
+  {
+   "key": "1947750376664489984",
+   "en": "To croak outside some flea-ridden motel?",
+   "ro": "Să crepi în fața unui motel plin de purici?"
+  },
+  {
+   "key": "1947809595019255808",
+   "en": "You don't need to know. Here to get me from point A to point B.",
+   "ro": "Nu-i treaba ta. Ești aici să mă duci din A în B."
+  },
+  {
+   "key": "1947834468986806272",
+   "en": "This time bomb's named Alt Cunningham.",
+   "ro": "Bomba asta cu ceas se numește Alt Cunningham."
+  },
+  {
+   "key": "1947836553992101888",
+   "en": "Not yet. But you will once we find what we need.",
+   "ro": "Nu încă. Dar o să afli când găsim ce ne trebuie."
+  },
+  {
+   "key": "1947846786500026368",
+   "en": "Enough to know this is bullshit.",
+   "ro": "Destul cât să-mi dau seama că-i vrăjeală."
+  },
+  {
+   "key": "1947889810999369728",
+   "en": "For now, we got no time to lose, need to get inside Mikoshi.",
+   "ro": "Deocamdată, n-avem timp de pierdut, trebuie să intrăm în Mikoshi."
+  },
+  {
+   "key": "1947895809793613824",
+   "en": "You fuckin' asshole…",
+   "ro": "Nenorocitule…"
+  },
+  {
+   "key": "1947896493213507584",
+   "en": "But as should be obvious, I've decided to help you. Need to find somethin' first – seven letters, starts with an M…",
+   "ro": "Dar, evident, m-am răzgândit și te ajut. Am nevoie de ceva întâi – șapte litere, începe cu M…"
+  },
+  {
+   "key": "1947903429099151360",
+   "en": "[Stand] OK, talked enough.",
+   "ro": "[Ridică-te] OK, am vorbit destul."
+  },
+  {
+   "key": "1947903684028948480",
+   "en": "Feelin' a bit better now, so scram. Got somethin' important needs doin'.",
+   "ro": "Mă simt mai bine acum, așa că valea. Am treabă importantă de făcut."
+  },
+  {
+   "key": "1947904623888588800",
+   "en": "One last thing. Alt Cunningham – she's the ace up my sleeve.",
+   "ro": "Încă ceva. Alt Cunningham – e asul din mânecă."
+  },
+  {
+   "key": "1947906161000341504",
+   "en": "Oh, fuck off. Tired of hearing your voice.",
+   "en_m": "Oh, fuck off. I'm tired of hearing your voice.",
+   "ro": "Du-te dracu'. Am obosit de vocea ta."
+  },
+  {
+   "key": "1947906559358558208",
+   "en": "Don't blame ya, but you'll hear me yet. And don't get killed in the meantime, will ya?",
+   "ro": "Nu te cert, da' o să mă mai auzi. Și nu te lăsa omorât între timp, bine?"
+  },
+  {
+   "key": "1954588837820260352",
+   "en": "I'm s'posed to know who that is?",
+   "ro": "Ar trebui să știu cine e?"
+  },
+  {
+   "key": "1956200325843058688",
+   "en": "Gonna decomish before we learn how to rip the chip out.",
+   "ro": "O să mă decomisionez înainte să învățăm cum scoatem cipul."
+  },
+  {
+   "key": "1956363546109476864",
+   "en": "That's what I need you for.",
+   "ro": "De-aia am nevoie de tine."
+  },
+  {
+   "key": "1957365879334789120",
+   "en": "No, no, dammit!",
+   "ro": "Nu, nu, fir-ar!"
+  },
+  {
+   "key": "1957367139656032256",
+   "en": "What the fuck you gawkin' at?",
+   "ro": "Ce pula mea te holbezi?"
+  },
+  {
+   "key": "1957368517937881088",
+   "en": "Whaddaya want?!",
+   "ro": "Ce vrei?!"
+  },
+  {
+   "key": "1957368653296459776",
+   "en": "Fuck off, not your biz.",
+   "ro": "Du-te dracu', nu e treaba ta."
+  },
+  {
+   "key": "1957368975066685440",
+   "en": "Man, if I only had some heat in my hand…",
+   "ro": "Băi, dacă aș avea ceva fier în mână…"
+  },
+  {
+   "key": "1957369053047185408",
+   "en": "The fuck--?!",
+   "ro": "Ce pula mea--?!"
+  },
+  {
+   "key": "1973200741042171908",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2054991439189454852",
+   "en": "What do you want from me?",
+   "ro": "Ce vrei de la mine?"
+  }
+ ]
+}

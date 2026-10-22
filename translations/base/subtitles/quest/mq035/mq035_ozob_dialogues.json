@@ -1,0 +1,392 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq035\\mq035_ozob_dialogues.json",
+ "entries": [
+  {
+   "key": "1805525809770672128",
+   "en": "Hey. You're V, yes?",
+   "ro": "Hei. Tu ești V, da?"
+  },
+  {
+   "key": "1805526479332585472",
+   "en": "Ho, fuck...",
+   "ro": "Ho, pula mea..."
+  },
+  {
+   "key": "1805526901145350144",
+   "en": "You didn't answer my question.",
+   "ro": "Nu mi-ai răspuns la întrebare."
+  },
+  {
+   "key": "1805530603625263104",
+   "en": "Doesn't it bother you?",
+   "ro": "Nu te deranjează?"
+  },
+  {
+   "key": "1805530809884356608",
+   "en": "Nice out here. Lotta stuff has changed.",
+   "ro": "Frumos pe-aici. S-a schimbat o grămadă de chestii."
+  },
+  {
+   "key": "1805530982169587712",
+   "en": "Tyger Claws. Heard of 'em?",
+   "ro": "Tyger Claws. Ai auzit de ei?"
+  },
+  {
+   "key": "1805533376848736256",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1805533460231499776",
+   "en": "The grenade. You know, the one in your face?",
+   "en_m": "The grenade. You know, the one on your face?",
+   "ro": "Granata. Știi, cea de pe fața ta?"
+  },
+  {
+   "key": "1805534541892169728",
+   "en": "Eh, you get used to it. I just gotta be careful not to pull the pin when I wanna pick my nose.",
+   "ro": "Eh, te obișnuiești. Trebuie doar să am grijă să nu trag de cui când vreau să-mi scot mucii din nas."
+  },
+  {
+   "key": "1805537560079773696",
+   "en": "Where are you from?",
+   "ro": "De unde ești?"
+  },
+  {
+   "key": "1805538827598442496",
+   "en": "Brazil. Y'know, down in South Am--",
+   "ro": "Brazilia. Știi tu, jos în America de Sud--"
+  },
+  {
+   "key": "1805539568228642816",
+   "en": "I know where Brazil is.",
+   "ro": "Știu unde e Brazilia."
+  },
+  {
+   "key": "1805539835993010176",
+   "en": "Hm. You never know with you gringos.",
+   "ro": "Hm. Nu știi niciodată cu voi, gringos."
+  },
+  {
+   "key": "1805544324619710464",
+   "en": "Heh, who hasn't.",
+   "ro": "Heh, cine nu?"
+  },
+  {
+   "key": "1805544486452736000",
+   "en": "Got any friends in there?",
+   "ro": "Ai prieteni acolo?"
+  },
+  {
+   "key": "1805545674044747776",
+   "en": "No, why?",
+   "ro": "Nu, de ce?"
+  },
+  {
+   "key": "1805545953502834688",
+   "en": "Just asking. Can't help being curious.",
+   "ro": "Doar întreb. Nu pot să nu fiu curios."
+  },
+  {
+   "key": "1805546980822102016",
+   "en": "This is the place. Wait for me here, and keep the engine runnin'.",
+   "ro": "Așteaptă-mă aici și lasă motorul pornit."
+  },
+  {
+   "key": "1805548491560071168",
+   "en": "We came all this way to get takeout?",
+   "en_m": "We came all this way to get takeout...",
+   "ro": "Am venit până aici ca să luăm mâncare la pachet?"
+  },
+  {
+   "key": "1805549430882840576",
+   "en": "What the fuck was that? You got grenades up your ass, too?",
+   "ro": "Ce pula mea a fost aia? Ai grenade și-n cur?"
+  },
+  {
+   "key": "1805549861855965184",
+   "en": "Don't talk, just drive! Drive!!!",
+   "ro": "Nu vorbi, condu! Condu!!!"
+  },
+  {
+   "key": "1805552125186289664",
+   "en": "Get out. We're here.",
+   "ro": "Ieși. Am ajuns."
+  },
+  {
+   "key": "1805555397565493248",
+   "en": "Oh, great. A dead end. This was your plan?",
+   "ro": "Ei, super. Fundătură. Asta era planul tău?"
+  },
+  {
+   "key": "1805555491954110464",
+   "en": "Oh, yeah. We lure them in here and give them a nice surprise.",
+   "ro": "Ah, da. Îi atragem aici și le pregătim o surpriză."
+  },
+  {
+   "key": "1805556354437230592",
+   "en": "You got some kinda plan?",
+   "ro": "Ai vreun plan?"
+  },
+  {
+   "key": "1805557151757643776",
+   "en": "I do. But I like to keep things flexible.",
+   "ro": "Am. Dar îmi place să las lucrurile flexibile."
+  },
+  {
+   "key": "1805557807830675456",
+   "en": "Great...",
+   "ro": "Minunat..."
+  },
+  {
+   "key": "1805559795947548672",
+   "en": "Just drive. I'll take care of the rest.",
+   "ro": "Tu doar condu. Restul e pe mine."
+  },
+  {
+   "key": "1805561285143572480",
+   "en": "Hm, it's true what they say. You're good. Really fucking good. Got a stick up your ass, though.",
+   "ro": "Hm, e adevărat ce spun. Ești bună. Chiar al dracului de bună. Dar ai un băț în cur, da'.",
+   "ro_m": "Hm, e adevărat ce spun. Ești bun. Chiar al dracului de bun. Dar ai un băț în cur, da'."
+  },
+  {
+   "key": "1885241089158598660",
+   "en": "Yeah, that's me.",
+   "ro": "Da, asta sunt."
+  },
+  {
+   "key": "1885241498086461440",
+   "en": "There's something on your face.",
+   "ro": "Ai ceva pe față."
+  },
+  {
+   "key": "1885242214708465664",
+   "en": "Yeah, that's me.",
+   "ro": "Da, asta sunt."
+  },
+  {
+   "key": "1885242570922315776",
+   "en": "Good. Then let's go.",
+   "ro": "Bine. Atunci hai."
+  },
+  {
+   "key": "1885242803118985216",
+   "en": "Where to?",
+   "ro": "Unde mergem?"
+  },
+  {
+   "key": "1885242964465471488",
+   "en": "Little China. I have a craving for Kung Pao chicken. Extra spicy.",
+   "ro": "Little China. Am poftă de pui Kung Pao. Extra picant."
+  },
+  {
+   "key": "1885244027654426624",
+   "en": "Uh, there's something on your face...?",
+   "en_m": "Uh, there's, uh... something on your face.",
+   "ro": "Ăă, ai ceva pe față...?"
+  },
+  {
+   "key": "1885246492059684864",
+   "en": "The grenade.",
+   "ro": "Granata."
+  },
+  {
+   "key": "1885246913369133056",
+   "en": "Can I ask why? You have a juggling accident, or something?",
+   "ro": "Pot să întreb de ce? Ai avut vreun accident cu jonglatul, sau ce?"
+  },
+  {
+   "key": "1885247959864758272",
+   "en": "Not cool. You ask personal questions, and yet you haven't even introduced yourself. You are V, correct?",
+   "ro": "Nu-i tocmai mișto. Întrebi de personale și nici măcar nu te-ai prezentată. Tu ești V, nu?",
+   "ro_m": "Nu-i tocmai mișto. Întrebi de personale și nici măcar nu te-ai prezentat. Tu ești V, nu?"
+  },
+  {
+   "key": "1885264810531409920",
+   "en": "You could say that.",
+   "ro": "Așa s-ar putea spune."
+  },
+  {
+   "key": "1885269135261487104",
+   "en": "Where?!",
+   "ro": "Unde?!"
+  },
+  {
+   "key": "1885269242233016320",
+   "en": "Here, the coordinates. Step on it!",
+   "ro": "Aici, coordonatele. Dă-i gaz!"
+  },
+  {
+   "key": "1885289474985086980",
+   "en": "What about my payment?",
+   "ro": "Dar plata mea?"
+  },
+  {
+   "key": "1885289997930909696",
+   "en": "Ha! Not bad, right?",
+   "ro": "Ha! Nu-i rău, nu?"
+  },
+  {
+   "key": "1885290915007090688",
+   "en": "Would've been even better if you told me what you were plannin' from the get-go.",
+   "en_m": "It would've been even better if you told me what you were plannin' from the get-go.",
+   "ro": "Și mai bine era dacă-mi ziceai de la început ce plănuiai."
+  },
+  {
+   "key": "1885294169820549120",
+   "en": "This is where we part ways. Good luck, V. And, uh, relax a bit, OK?",
+   "ro": "Aici ne despărțim. Noroc, V. Și, ăă, mai relaxează-te puțin, ok?"
+  },
+  {
+   "key": "1885294832285700096",
+   "en": "How did you get the grenade?",
+   "ro": "Cum ai pus mâna pe granată?"
+  },
+  {
+   "key": "1885295321576427520",
+   "en": "What about my payment?",
+   "ro": "Dar plata mea?"
+  },
+  {
+   "key": "1885295756274094080",
+   "en": "Now are you gonna tell me about the grenade?",
+   "ro": "Acum o să-mi spui despre granată?"
+  },
+  {
+   "key": "1885296353056444416",
+   "en": "Phew! Got 'em by a nose! Hahaha!",
+   "ro": "Uf! Abia i-am prins! Hahaha!"
+  },
+  {
+   "key": "1885296447445061632",
+   "en": "Anyone wanna play \"Got Your Nose?\" Hahaha!",
+   "ro": "Cine vrea să ne jucăm „Ți-am furat nasul?” Hahaha!"
+  },
+  {
+   "key": "1885296720292925440",
+   "en": "Haha! You see what I did to him?!",
+   "ro": "Haha! Ai văzut ce i-am făcut?!"
+  },
+  {
+   "key": "1885296956163805184",
+   "en": "Want a taste of this, assholes?!",
+   "ro": "Vreți și voi o porție, nesimțiților?!"
+  },
+  {
+   "key": "1885297343700717568",
+   "en": "Whose ass is next?! Fuckin' step forward!",
+   "ro": "Cine-i următorul?! Pășiți în față, pula mea!"
+  },
+  {
+   "key": "1892145996998430720",
+   "en": "Oh, that. My brother ripped it off during a fight. With pliers.",
+   "ro": "Aia? Frate-meu mi l-a smuls într-o bătaie. Cu cleștele."
+  },
+  {
+   "key": "1892146170525175808",
+   "en": "One happy family...",
+   "en_m": "Ooh, one happy family...",
+   "ro": "Ce familie fericită..."
+  },
+  {
+   "key": "1892147292132397056",
+   "en": "You don't know the half of it. I could've chipped another one, but... I dunno. I think this matches my style more.",
+   "ro": "Nici pe jumătate nu știi. Aș fi putut să-mi mai pun unul, da'... Nu știu. Cred că ăsta se potrivește mai bine cu stilul meu."
+  },
+  {
+   "key": "1892148221858598912",
+   "en": "Uh-huh...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "1892149271139241984",
+   "en": "Besides, it's a real icebreaker with the ladies. \"Got any powder for my nose?\" Hehehe.",
+   "ro": "Și e și un start bun cu fetele. „N-ai niște praf pentru nasul meu?” Hehehe."
+  },
+  {
+   "key": "1892152245236322304",
+   "en": "And? Does it work?",
+   "ro": "Și? Merge?"
+  },
+  {
+   "key": "1892152413847343104",
+   "en": "Not really.",
+   "ro": "Nu prea."
+  },
+  {
+   "key": "1892153842964156416",
+   "en": "What about it? Here. Like I said before – the best don't come cheap.",
+   "ro": "Ce-i cu el? Ia. Cum ziceam și înainte, ce-i bun nu-i ieftin."
+  },
+  {
+   "key": "1892154558462087168",
+   "en": "Take care, V. And hey... Keep your nose to the ground!",
+   "ro": "Ai grijă, V. Și hei... Ține-ți nasul la pământ!"
+  },
+  {
+   "key": "1934630661397557248",
+   "en": "Jesus, whatever. I'm outta here then.",
+   "ro": "Doamne, fie. Plec eu atunci."
+  },
+  {
+   "key": "1934632333767225344",
+   "en": "Hey, hey! No funny business! Get back in!",
+   "ro": "Hei, hei! Fără farse! Urcă înapoi!"
+  },
+  {
+   "key": "1934632623677517824",
+   "en": "You go fuckin' bananas?! Get behind the wheel!",
+   "ro": "Ți-ai ieșit din minți, dracu'?! La volan!"
+  },
+  {
+   "key": "1934632876526940160",
+   "en": "This a joke? You see me laughin'? C'mon, we gotta go!",
+   "ro": "Glumești? Mă vezi râzând? Hai, trebuie să plecăm!"
+  },
+  {
+   "key": "1936039023620272132",
+   "en": "[Honk]",
+   "ro": "V! Ce dracu' te-a apucat?!"
+  },
+  {
+   "key": "1936124838694236160",
+   "en": "Let's make our way to Little China.",
+   "ro": "Hai să mergem spre Little China."
+  },
+  {
+   "key": "1936127292429185024",
+   "en": "C'mon, c'mon. We gotta hurry.",
+   "ro": "Hai, hai! Trebuie să ne grăbim, V!"
+  },
+  {
+   "key": "1957639134095749120",
+   "en": "V! What's the big fuckin' idea?!",
+   "ro": "V! Ce pula mea e asta?!"
+  },
+  {
+   "key": "1957639538728644612",
+   "en": "Hey, what gives?! Get back in the car!",
+   "ro": "Ce-i cu tine?! Hai, mișcă-te, naiba!"
+  },
+  {
+   "key": "1957639679405600772",
+   "en": "This ain't a good time to dick around, V!",
+   "ro": "Nu-i momentul să te proștești, V!"
+  },
+  {
+   "key": "1957644565098672128",
+   "en": "Quit dickin' around! Drive!",
+   "ro": "Lasă prostiile! Condu!"
+  },
+  {
+   "key": "1957644833114697732",
+   "en": "What gives?! Let's move, dammit!",
+   "ro": "Ce mama dracului?! Hai, mișcă, odată!"
+  },
+  {
+   "key": "1957646908808638464",
+   "en": "Aghhh! I've been fuckin' hit!",
+   "ro": "Aghhh! M-au lovit, pula mea!"
+  }
+ ]
+}

@@ -1,0 +1,860 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_v.json",
+ "entries": [
+  {
+   "key": "1969017759361646596",
+   "en": "I'ma fucking destroy you.",
+   "ro": "Te distrug, pula mea!"
+  },
+  {
+   "key": "1969017759395201028",
+   "en": "Will you die already?",
+   "ro": "Mori odată, naiba!"
+  },
+  {
+   "key": "1969017759713968132",
+   "en": "Right, I'm out.",
+   "ro": "Bine, plec."
+  },
+  {
+   "key": "1969017759730745348",
+   "en": "We'll talk later.",
+   "ro": "Vorbim mai târziu."
+  },
+  {
+   "key": "1969017759797854212",
+   "en": "Hey there... What were we talking about?",
+   "ro": "Hei... Despre ce vorbeam?"
+  },
+  {
+   "key": "1969017759831408644",
+   "en": "So, where were we?",
+   "ro": "Deci, unde rămăsesem?"
+  },
+  {
+   "key": "1969022867604488196",
+   "en": "I gotta go.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "1969022868946665476",
+   "en": "Call you back.",
+   "ro": "Te sun înapoi."
+  },
+  {
+   "key": "1969023968995164164",
+   "en": "OK. Waiting.",
+   "ro": "OK. Aștept."
+  },
+  {
+   "key": "1969023970253455364",
+   "en": "Everything flows...",
+   "ro": "Totul curge..."
+  },
+  {
+   "key": "1969131489089011716",
+   "en": "'Scuse me, just a sec.",
+   "ro": "Scuză-mă, un moment."
+  },
+  {
+   "key": "1969132448846430212",
+   "en": "Gotta get goin'.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "1969132492249088004",
+   "en": "We'll come back to this.",
+   "ro": "Revenim la asta."
+  },
+  {
+   "key": "1969132599992369156",
+   "en": "Hang on... be right back.",
+   "ro": "Stai... revin imediat."
+  },
+  {
+   "key": "1969132676714577924",
+   "en": "Gotta run.",
+   "ro": "Trebuie să fug."
+  },
+  {
+   "key": "1969135385731645444",
+   "en": "Nice talkin' to ya.",
+   "ro": "Plăcere să vorbim."
+  },
+  {
+   "key": "1969135387023491076",
+   "en": "Got somewhere else to be.",
+   "ro": "Am altceva de făcut."
+  },
+  {
+   "key": "1969135388315336708",
+   "en": "Welp, duty calls.",
+   "ro": "Ei bine, datoria cheamă."
+  },
+  {
+   "key": "1969137731253551108",
+   "en": "Hang on... Gotta go.",
+   "ro": "Stai... Trebuie să plec."
+  },
+  {
+   "key": "1969137732612505604",
+   "en": "Can't talk right now.",
+   "ro": "Nu pot vorbi acum."
+  },
+  {
+   "key": "1969137810072911876",
+   "en": "Sorry, really gotta go.",
+   "ro": "Scuze, chiar trebuie să plec."
+  },
+  {
+   "key": "1969137811498975236",
+   "en": "Finish this another time.",
+   "ro": "Terminăm altă dată."
+  },
+  {
+   "key": "1969137940347994112",
+   "en": "Gotta delta. Later.",
+   "ro": "Trebuie s-o tai. Pe mai târziu."
+  },
+  {
+   "key": "1969144122617872384",
+   "en": "Back to our chat.",
+   "ro": "Înapoi la discuție."
+  },
+  {
+   "key": "1969144123960049668",
+   "en": "OK, I'm back. Talk.",
+   "ro": "OK, m-am întors. Vorbește."
+  },
+  {
+   "key": "1969144232743518212",
+   "en": "Right, go ahead.",
+   "ro": "Bine, spune."
+  },
+  {
+   "key": "1969144234102472708",
+   "en": "As you were saying.",
+   "ro": "Cum spuneai."
+  },
+  {
+   "key": "1969144397093126144",
+   "en": "OK, you were sayin'?",
+   "ro": "OK, ce spuneai?"
+  },
+  {
+   "key": "1969145749957492740",
+   "en": "We were talking about...",
+   "ro": "Vorbeam despre..."
+  },
+  {
+   "key": "1969145751299670016",
+   "en": "Right, so then what?",
+   "ro": "Bine, și apoi?"
+  },
+  {
+   "key": "1969145752759287808",
+   "en": "Now we can talk. Go ahead.",
+   "ro": "Acum putem vorbi. Spune."
+  },
+  {
+   "key": "1969316958644977668",
+   "en": "Gonna regret this.",
+   "ro": "O să regreți asta."
+  },
+  {
+   "key": "1969316958678532100",
+   "en": "Wanna play rough? Gonna get rough.",
+   "ro": "Vrei pe urâtelea? Bine, pe urâtelea."
+  },
+  {
+   "key": "1969317898588504064",
+   "en": "No more nice V.",
+   "ro": "Gata, nu mai sunt de treabă."
+  },
+  {
+   "key": "1969317898622058500",
+   "en": "Any last words?",
+   "ro": "Ultimele cuvinte?"
+  },
+  {
+   "key": "1969317898739499012",
+   "en": "Not gonna let this go, hear me?!",
+   "ro": "N-o las așa, m-auzi?!"
+  },
+  {
+   "key": "1969317898789830660",
+   "en": "It hurt? Huh?",
+   "ro": "Te-a durut? Ha?"
+  },
+  {
+   "key": "1969317983934201860",
+   "en": "Here you fuckin' go!",
+   "ro": "Poftim, pula mea!"
+  },
+  {
+   "key": "1969317983984533508",
+   "en": "Want more?!",
+   "ro": "Mai vrei?!"
+  },
+  {
+   "key": "1969334941605937156",
+   "en": "You ok?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "1969335837794484228",
+   "en": "Hangin' in there?",
+   "ro": "Reziști?"
+  },
+  {
+   "key": "1969335893595504644",
+   "en": "All OK?",
+   "ro": "Totul OK?"
+  },
+  {
+   "key": "1969336112286515204",
+   "en": "Take cover!",
+   "ro": "La adăpost!"
+  },
+  {
+   "key": "1969336675464101892",
+   "en": "Outta the line of fire!",
+   "ro": "Ieși din linia de foc!"
+  },
+  {
+   "key": "1969336729553846276",
+   "en": "Hide or you'll get hit!",
+   "ro": "Ascunde-te sau te lovește!"
+  },
+  {
+   "key": "1969340145579573252",
+   "en": "Shhhh. Slow down.",
+   "ro": "Șșș. Încetinește."
+  },
+  {
+   "key": "1969346375278641156",
+   "en": "Can't let 'em hear us, got it?",
+   "ro": "Nu-i putem lăsa să ne audă, înțeles?"
+  },
+  {
+   "key": "1969346425476071428",
+   "en": "We do this quietly.",
+   "ro": "Facem asta liniștit."
+  },
+  {
+   "key": "1969346745065259008",
+   "en": "Careful!",
+   "ro": "Atenție!"
+  },
+  {
+   "key": "1969347549381771268",
+   "en": "Watch it!",
+   "ro": "Ai grijă!"
+  },
+  {
+   "key": "1969347590653722628",
+   "en": "'Ey! Watch out!",
+   "ro": "Hei! Ai grijă!"
+  },
+  {
+   "key": "1969392866252800004",
+   "en": "Nothin' personal.",
+   "ro": "Nimic personal."
+  },
+  {
+   "key": "1969393691926708228",
+   "en": "In a hurry.",
+   "ro": "Sunt pe fugă."
+  },
+  {
+   "key": "1969393751787814916",
+   "en": "Sorry. Higher need.",
+   "ro": "Scuze. Priorități."
+  },
+  {
+   "key": "1969393898101915652",
+   "en": "Goddamnit.",
+   "ro": "Fir-ar al dracului!"
+  },
+  {
+   "key": "1969394507903385604",
+   "en": "Oops.",
+   "ro": "Ups."
+  },
+  {
+   "key": "1969394572646662148",
+   "en": "Ugh, not again...",
+   "ro": "Ugh, nu din nou..."
+  },
+  {
+   "key": "1969394770785583108",
+   "en": "Not goin' anywhere...",
+   "ro": "Nu plec nicăieri..."
+  },
+  {
+   "key": "1969395619930816516",
+   "en": "That's one for the scrap heap...",
+   "ro": "Asta e pentru fier vechi..."
+  },
+  {
+   "key": "1969395819562909696",
+   "en": "Learn to drive!",
+   "ro": "Învață să conduci!"
+  },
+  {
+   "key": "1969396474495090688",
+   "en": "Ugh, fuck's sake...",
+   "ro": "Ugh, pula mea..."
+  },
+  {
+   "key": "1969396532326154244",
+   "en": "Man, I liked this car...",
+   "ro": "Măi, îmi plăcea mașina asta..."
+  },
+  {
+   "key": "1969437372146761732",
+   "en": "Patience is a virtue...",
+   "ro": "Răbdarea e o virtute..."
+  },
+  {
+   "key": "1969437427226361860",
+   "en": "Right. I'll wait.",
+   "ro": "Bine. Aștept."
+  },
+  {
+   "key": "1969437492724613124",
+   "en": "This won't take long.",
+   "ro": "Nu durează mult."
+  },
+  {
+   "key": "1969446931116572676",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1969447697415913472",
+   "en": "'Preciate it. Thanks.",
+   "ro": "Apreciez. Mulțumesc."
+  },
+  {
+   "key": "1969447758837301252",
+   "en": "Thanks a lot.",
+   "ro": "Mulțumesc mult."
+  },
+  {
+   "key": "1969447945047621636",
+   "en": "Fuck off.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1969448560553345028",
+   "en": "Kiss my ass.",
+   "ro": "Pupă-mă-n cur!"
+  },
+  {
+   "key": "1969448609710587904",
+   "en": "Get lost.",
+   "ro": "Cară-te."
+  },
+  {
+   "key": "1969448687540092928",
+   "en": "Fuckin' gonked?",
+   "ro": "Ți-a luat-o razna de tot?"
+  },
+  {
+   "key": "1969448784025862148",
+   "en": "Eh, fuck you.",
+   "ro": "Eh, du-te-n pula mea!"
+  },
+  {
+   "key": "1969451310053834756",
+   "en": "Hey, what's  up?",
+   "ro": "Hei, ce mai zici?"
+  },
+  {
+   "key": "1969452192636059652",
+   "en": "Hello.",
+   "ro": "Salut."
+  },
+  {
+   "key": "1969452771936550916",
+   "en": "Later.",
+   "ro": "Pe mai târziu."
+  },
+  {
+   "key": "1969453819438809092",
+   "en": "Take care.",
+   "ro": "Ai grijă de tine."
+  },
+  {
+   "key": "1969453982697897988",
+   "en": "Outta the way.",
+   "ro": "Dă-te la o parte."
+  },
+  {
+   "key": "1969454780337078272",
+   "en": "Get the hell out.",
+   "ro": "Cară-te naibii!"
+  },
+  {
+   "key": "1973372418012463108",
+   "en": "What's going on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1973373235767525380",
+   "en": "Fuck me...",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1973373272526405636",
+   "en": "The hell is this?",
+   "ro": "Ce căcat e asta?"
+  },
+  {
+   "key": "1973373956013408260",
+   "en": "Oh. Interesting.",
+   "ro": "Oh. Interesant."
+  },
+  {
+   "key": "1973374808950292480",
+   "en": "Well, well, well...",
+   "ro": "Ei, ei, ei..."
+  },
+  {
+   "key": "1973374837287010308",
+   "en": "Who woulda thought.",
+   "ro": "Cine ar fi crezut."
+  },
+  {
+   "key": "1973374880068911108",
+   "en": "Hm, what's this...",
+   "ro": "Hm, ce-i asta..."
+  },
+  {
+   "key": "1973374915334619140",
+   "en": "Huh...",
+   "ro": "Hm..."
+  },
+  {
+   "key": "1973376717811597316",
+   "en": "Goddamnit...",
+   "ro": "Mama dracului..."
+  },
+  {
+   "key": "1973377369874874372",
+   "en": "Oh-ho. This'll be fun.",
+   "ro": "Oh-ho. O să fie distractiv."
+  },
+  {
+   "key": "1973377419602542596",
+   "en": "Lucky, lucky me.",
+   "ro": "Norocul meu."
+  },
+  {
+   "key": "1973377471477694468",
+   "en": "Well, of course.",
+   "ro": "Ei, desigur."
+  },
+  {
+   "key": "1973377520651714564",
+   "en": "Just what I needed.",
+   "ro": "Exact ce-mi trebuia."
+  },
+  {
+   "key": "1973379168375652352",
+   "en": "Oh fuck.",
+   "ro": "Oh, pula mea."
+  },
+  {
+   "key": "1973425649686134788",
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "key": "1973425682032607236",
+   "en": "Oh shit...",
+   "ro": "Oh, căcat..."
+  },
+  {
+   "key": "1973426302252728324",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "1973427252329693184",
+   "en": "Great. Just great.",
+   "ro": "Minunat. Chiar minunat."
+  },
+  {
+   "key": "1973427312241131524",
+   "en": "Fan-fucking-tastic.",
+   "ro": "Fenomenal, pula mea."
+  },
+  {
+   "key": "1973427355677343748",
+   "en": "Fucking hell...",
+   "ro": "Pula mea..."
+  },
+  {
+   "key": "1973427396982849540",
+   "en": "Goddamnit all...",
+   "ro": "Fir-ar al dracului..."
+  },
+  {
+   "key": "1973428705404370948",
+   "en": "Well, well, well.",
+   "ro": "Ei, ei, ei."
+  },
+  {
+   "key": "1973429324013879300",
+   "en": "Gonna be a good day.",
+   "ro": "O să fie o zi bună."
+  },
+  {
+   "key": "1973429378036514820",
+   "en": "Can't have bad luck all the time.",
+   "ro": "Nu poți avea ghinion tot timpul."
+  },
+  {
+   "key": "1973430133162229764",
+   "en": "What in the fuck...",
+   "ro": "Ce dracu'..."
+  },
+  {
+   "key": "1973431106475638788",
+   "en": "No... Don't believe it...",
+   "ro": "Nu... Nu cred..."
+  },
+  {
+   "key": "1973431155028901892",
+   "en": "What the hell...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "key": "1973431853967720452",
+   "en": "Ugh...",
+   "ro": "Ugh..."
+  },
+  {
+   "key": "1973433782877798400",
+   "en": "Ugh... gonna puke...",
+   "ro": "Ugh... o să vomit..."
+  },
+  {
+   "key": "1973433852687794180",
+   "en": "No... just not the shakes...",
+   "ro": "Nu... nu și tremurăturile..."
+  },
+  {
+   "key": "1973433940734623748",
+   "en": "Shit... Not good...",
+   "ro": "Rahat... Nu e bine..."
+  },
+  {
+   "key": "1973435048433532932",
+   "en": "Better look around...",
+   "ro": "Mai bine mă uit în jur..."
+  },
+  {
+   "key": "1973438320510746628",
+   "en": "Better not miss anything...",
+   "ro": "Mai bine să nu ratez nimic..."
+  },
+  {
+   "key": "1973438351263383556",
+   "en": "Right, let's see what's here...",
+   "ro": "Bine, să vedem ce e aici..."
+  },
+  {
+   "key": "1973438385522458628",
+   "en": "Let's use our head here.",
+   "ro": "Hai să folosim capul."
+  },
+  {
+   "key": "1978165394148409344",
+   "en": "You're violating my airspace.",
+   "ro": "Îmi încalci spațiul aerian."
+  },
+  {
+   "key": "1978166138134052868",
+   "en": "Move it, rockerboy.",
+   "ro": "Mișcă-te, rockerboy."
+  },
+  {
+   "key": "1978166173466869760",
+   "en": "In my way.",
+   "ro": "Îmi stai în drum."
+  },
+  {
+   "key": "1978167655096369156",
+   "en": "Ah... Kinda cathartic.",
+   "ro": "Ah... oarecum catartic."
+  },
+  {
+   "key": "1978167655163478020",
+   "en": "I know you can't feel it... Just can't help myself.",
+   "ro": "Știu că nu simți... Pur și simplu nu mă pot abține."
+  },
+  {
+   "key": "1978167655213809668",
+   "en": "Don't take it personally.",
+   "ro": "Nu lua personal."
+  },
+  {
+   "key": "1978174991806480384",
+   "en": "Fuck... gettin' worse...",
+   "ro": "Futu-i... se agravează..."
+  },
+  {
+   "key": "1978175517839310852",
+   "en": "Ooof... c'mon... breathe... agh....",
+   "ro": "Ooof... hai... respiră... agh...."
+  },
+  {
+   "key": "1978175696868982788",
+   "en": "Ughh... I--I can't...",
+   "ro": "Ughh... nu... nu pot..."
+  },
+  {
+   "key": "1978175770420297732",
+   "en": "Agh, shit....",
+   "ro": "Agh, rahat...."
+  },
+  {
+   "key": "1978177105718919172",
+   "en": "It-it's too much... fuck...",
+   "ro": "E-e prea mult... futu-i..."
+  },
+  {
+   "key": "1978177105769250820",
+   "en": "Ughh... ngh... fooo...",
+   "ro": "Ughh... ngh... fooo..."
+  },
+  {
+   "key": "2238797448236195840",
+   "en": "Right. No need to thank me.",
+   "ro": "Bine. Nu e nevoie să-mi mulțumești."
+  },
+  {
+   "key": "2238798067600678916",
+   "en": "All over now. You better delta.",
+   "ro": "S-a terminat. Mai bine s-o tai."
+  },
+  {
+   "key": "2238798148131315716",
+   "en": "Worked out this time. Don't get used to it.",
+   "ro": "A mers de data asta. Nu te obișnui."
+  },
+  {
+   "key": "2250501189895012352",
+   "en": "Fuuuuuu-uuu--uuuuck! Aaaaaaaaaaugh!",
+   "ro": "Futu-iiiii! Aaaaaaaaaaugh!"
+  },
+  {
+   "key": "2250501820097576960",
+   "en": "Aaaah... Aaah... WHOAAAAAAA!",
+   "ro": "Aaaah... Aaah... WHOAAAAAAA!"
+  },
+  {
+   "key": "2250501890343780360",
+   "en": "Whoooooooo... Aaaaaaah!",
+   "ro": "Whoooooooo... Aaaaaaah!"
+  },
+  {
+   "key": "2262114161341980672",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "2262117290443759624",
+   "en": "Maybe, who knows...",
+   "ro": "Poate, cine știe..."
+  },
+  {
+   "key": "2262117375403581448",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "2262117440264298504",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "2262117530290839560",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "2262117605251440640",
+   "en": "Riiiiight.",
+   "ro": "Sigur..."
+  },
+  {
+   "key": "2262117695009546248",
+   "en": "Hmm?",
+   "ro": "Hmm?"
+  },
+  {
+   "key": "2262117767168352256",
+   "en": "Huh?!",
+   "ro": "Huh?!"
+  },
+  {
+   "key": "2262117868972498944",
+   "en": "Hey!",
+   "ro": "Hei!"
+  },
+  {
+   "key": "2262117941366185988",
+   "en": "Hm.",
+   "ro": "Hm."
+  },
+  {
+   "key": "2262118194786033672",
+   "en": "Ha!",
+   "ro": "Ha!"
+  },
+  {
+   "key": "2262118194987360264",
+   "en": "Hehe.",
+   "ro": "Hehe."
+  },
+  {
+   "key": "2262118195205464072",
+   "en": "Oh no...",
+   "ro": "Oh, nu..."
+  },
+  {
+   "key": "2262118195423567872",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "2262118195608117256",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "2262118195842998280",
+   "en": "Yeah!",
+   "ro": "Da!"
+  },
+  {
+   "key": "2262118196111433736",
+   "en": "Yes!",
+   "ro": "Da!"
+  },
+  {
+   "key": "2262118196396646408",
+   "en": "Ouch.",
+   "ro": "Au."
+  },
+  {
+   "key": "2262118196665081864",
+   "en": "Tsh.",
+   "ro": "Tsh."
+  },
+  {
+   "key": "2262118196866408456",
+   "en": "Woah!",
+   "ro": "Uau!"
+  },
+  {
+   "key": "2262179491082887176",
+   "en": "Heh...",
+   "ro": "Heh..."
+  },
+  {
+   "key": "2262179491300990984",
+   "en": "Heh…",
+   "ro": "Heh…"
+  },
+  {
+   "key": "2262179491535872008",
+   "en": "Hahahaha!",
+   "ro": "Hahahaha!"
+  },
+  {
+   "key": "2262179491753975816",
+   "en": "Heh...",
+   "ro": "Heh..."
+  },
+  {
+   "key": "2262179491972079624",
+   "en": "Heh...",
+   "ro": "Heh..."
+  },
+  {
+   "key": "2262179492156629000",
+   "en": "Mh.",
+   "ro": "Mh."
+  },
+  {
+   "key": "2262179492357955592",
+   "en": "Mh!",
+   "ro": "Mh!"
+  },
+  {
+   "key": "2262179492559282184",
+   "en": "I guess...",
+   "ro": "Presupun..."
+  },
+  {
+   "key": "2262179492794163208",
+   "en": "Umm...",
+   "ro": "Umm..."
+  },
+  {
+   "key": "2262179493045821448",
+   "en": "Well well!",
+   "ro": "Ei, ei!"
+  },
+  {
+   "key": "2262191844197359624",
+   "en": "Aaaahh!",
+   "ro": "Aaaahh!"
+  },
+  {
+   "key": "2262191844415463432",
+   "en": "Khe-khe-khe...",
+   "ro": "Khe-khe-khe..."
+  },
+  {
+   "key": "2262191844650344456",
+   "en": "Argh!",
+   "ro": "Argh!"
+  },
+  {
+   "key": "2262191844868448260",
+   "en": "Hrrngh...",
+   "ro": "Hrrngh..."
+  },
+  {
+   "key": "2312942171265605632",
+   "en": "I'm V.",
+   "ro": "Eu sunt V."
+  },
+  {
+   "key": "2527325114661249024",
+   "en": "Got anything that might interest me?",
+   "ro": "Ai ceva care să mă intereseze?"
+  },
+  {
+   "key": "2527325620376870916",
+   "en": "Show me the range.",
+   "ro": "Arată-mi raza."
+  },
+  {
+   "key": "2527325766858743808",
+   "en": "OK, let's see, show me.",
+   "ro": "OK, hai să vedem, arată-mi."
+  },
+  {
+   "key": "2530251720828559368",
+   "en": "Whaddaya recommend?",
+   "ro": "Ce recomanzi?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\cct_dtn_stylist_01.json",
+ "entries": [
+  {
+   "key": "2211661270124830724",
+   "en": "[db_db]use",
+   "ro": "[db_db]use"
+  },
+  {
+   "key": "2211662550696173568",
+   "en": "[db_db]fluff",
+   "ro": "[db_db]fluff"
+  }
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q004\\q004_07_lets_meet_dex.json",
+ "entries": [
+  {
+   "key": "1154762624163786752",
+   "en": "How're things lookin', Miss V?",
+   "en_m": "How're things lookin', Mr. V?",
+   "ro": "Cum stau lucrurile, domnișoară V?",
+   "ro_m": "Cum stau lucrurile, domnule V?"
+  },
+  {
+   "key": "1215565923732811776",
+   "en": "I got the Konpeki recording.",
+   "ro": "Am înregistrarea de la Konpeki."
+  },
+  {
+   "key": "1215566598948646912",
+   "en": "I met with Evelyn Parker.",
+   "ro": "M-am întâlnit cu Evelyn Parker."
+  },
+  {
+   "key": "1215568661657022464",
+   "en": "Let's just say it was an interesting meet.",
+   "ro": "Zic doar că a fost o întâlnire interesantă."
+  },
+  {
+   "key": "1215570546191364096",
+   "en": "We'll talk about the rest at The Afterlife. See you there.",
+   "ro": "Restul o discutăm la Afterlife. Ne vedem acolo."
+  },
+  {
+   "key": "1215590451166965760",
+   "en": "You run into any problems?",
+   "ro": "Ai avut probleme?"
+  },
+  {
+   "key": "1215590970522464256",
+   "en": "Evelyn surprised me. A few times.",
+   "ro": "Evelyn m-a surprins. De câteva ori."
+  },
+  {
+   "key": "1215594362170896384",
+   "en": "She's sleeping with Yorinobu.",
+   "ro": "Se culcă cu Yorinobu."
+  },
+  {
+   "key": "1215597704108437504",
+   "en": "Evelyn threw a few surprises my way.",
+   "ro": "Evelyn mi-a pregătit câteva surprize."
+  },
+  {
+   "key": "1215598318657859584",
+   "en": "No shock to me.",
+   "ro": "Nu mă miră deloc."
+  },
+  {
+   "key": "1215599321616609280",
+   "en": "Girl's got her secrets. Just like anybody who means a damn thing in this town.",
+   "ro": "Fata are secretele ei, ca oricine care face doi bani în orașul ăsta."
+  },
+  {
+   "key": "1215600472198082560",
+   "en": "Now, if her info was trash, that's when I'd start to worry...",
+   "ro": "Acum, dacă informațiile ei ar fi fost de doi bani, atunci aș începe să-mi fac griji..."
+  },
+  {
+   "key": "1215614221579579408",
+   "en": "She's slottin' Yorinobu Arasaka. Who also happens to be the guy we're gonna scrape the chip from.",
+   "en_m": "She's slotting Yorinobu Arasaka. Who also happens to be the guy we're gonna scrape the chip from.",
+   "ro": "Se culcă cu Yorinobu Arasaka. Care, apropo, e și tipul de la care scoatem cipul."
+  },
+  {
+   "key": "1216693981575507968",
+   "en": "Well, well, Yorinobu and Evelyn Parker... Goin' all nasty on each other. Seems Arasaka's prodigal son is hungry for attention again. Wonder whose toes he'll step on this time.",
+   "ro": "Ei, ei, Yorinobu și Evelyn Parker... Se trag unul cu altul de zor. Se pare că fiul risipitor al Arasaka e iar înfometat de atenție. Mă întreb pe cine o să mai calce pe nervi de data asta."
+  },
+  {
+   "key": "1216694658536173568",
+   "en": "Should it?",
+   "ro": "Ar trebui?"
+  },
+  {
+   "key": "1216695553315434496",
+   "en": "This doesn't concern you at all?",
+   "ro": "Nu te privește deloc?"
+  },
+  {
+   "key": "1216769627995631616",
+   "en": "We ain't here to sniff out all of Night City's dirtiest secrets. Let the media do that.",
+   "ro": "Nu suntem aici să scormonim prin toate mizeriile din Night City. Lasă presa pe ele."
+  },
+  {
+   "key": "1216773214511427584",
+   "en": "We got a job to do. So how 'bout we focus on that.",
+   "ro": "Avem treabă. Hai să ne concentrăm pe ea."
+  },
+  {
+   "key": "1451452170718801920",
+   "en": "Great, be there in no time.",
+   "ro": "Super, ajung imediat."
+  },
+  {
+   "key": "1631817613672312832",
+   "en": "See ya, Miss V.",
+   "en_m": "See ya, Mr. V.",
+   "ro": "Ne vedem, domnișoară V.",
+   "ro_m": "Ne vedem, domnule V."
+  },
+  {
+   "key": "1638588265817305088",
+   "en": "Turns out Evelyn's recording from Konpeki was worth our time.",
+   "ro": "Până la urmă, înregistrarea Evelynei de la Konpeki a meritat timpul."
+  },
+  {
+   "key": "1638588265817305100",
+   "en": "Beautiful. T-Bug already called, said she's workin' her magic.",
+   "ro": "Perfect. T-Bug a sunat, zice că-și vede de treabă."
+  },
+  {
+   "key": "1709714750776762376",
+   "en": "Got the bot.",
+   "ro": "Am botul."
+  },
+  {
+   "key": "1709714750843871232",
+   "en": "Did it without Militech holdin' my hand. Didn't wanna risk it.",
+   "ro": "Am făcut-o fără ca Militech să mă țină de mână. N-am vrut să risc."
+  },
+  {
+   "key": "1709714750860648448",
+   "en": "I met Stout.",
+   "ro": "M-am întâlnit cu Stout."
+  },
+  {
+   "key": "1709714750877425664",
+   "en": "Poor Meredith. No doubt in my mind she'll be left pickin' up the tab after your bad date.",
+   "ro": "Săraca Meredith. Sigur o să rămână ea să plătească nota după întâlnirea ta de rahat."
+  },
+  {
+   "key": "1709714750894202880",
+   "en": "Met with Stout, managed to strike a deal.",
+   "en_m": "Met with Stout. Managed to strike a deal.",
+   "ro": "M-am văzut cu Stout, am reușit să ne înțelegem."
+  },
+  {
+   "key": "1709714750927757312",
+   "en": "You got some balls, Miss V.",
+   "en_m": "You got some balls, Mr. V.",
+   "ro": "Ai coaie, domnișoară V.",
+   "ro_m": "Ai coaie, domnule V."
+  },
+  {
+   "key": "1709714750961311744",
+   "en": "She just forgot to mention the chip was packin' a virus.",
+   "ro": "A uitat doar să menționeze că cipul avea un virus."
+  },
+  {
+   "key": "1709714750994866176",
+   "en": "One thing Stout forgot to mention. Chip was carryin' a virus.",
+   "ro": "Un lucru pe care Stout a uitat să-l menționeze. Cipul avea un virus."
+  },
+  {
+   "key": "1709714751028420608",
+   "en": "I warned Royce. We made a deal.",
+   "ro": "L-am avertizat pe Royce. Am bătut palma."
+  },
+  {
+   "key": "1709714751045197824",
+   "en": "Virus attacked their systems, scorched a handful of Maelstromers. I took care of the rest.",
+   "ro": "Virusul le-a atacat sistemele, a prăjit câțiva Maelstromeri. De restul m-am ocupat eu."
+  },
+  {
+   "key": "1709714751112306688",
+   "en": "No. Paid the gang out of my own pocket.",
+   "ro": "Nu. Am plătit banda din buzunarul meu."
+  },
+  {
+   "key": "1709714751145861120",
+   "en": "Only way I know that always works. Brute force.",
+   "ro": "Singura metodă pe care o știu și care merge mereu. Forța brută."
+  },
+  {
+   "key": "1709714751229747200",
+   "en": "Sure. 'Course there was trouble. Royce couldn't've given two shits that you and Brick had shaken on it.",
+   "ro": "Sigur. Normal că au fost probleme. Lui Royce i se rupea că tu și Brick bătuserăți palma."
+  },
+  {
+   "key": "1709714751229747208",
+   "en": "How'd you get him on board? You use the corpo woman?",
+   "ro": "Cum l-ai convins să intre în joc? Te-ai folosit de femeia aia corpo?"
+  },
+  {
+   "key": "1709714751280078848",
+   "en": "So you paid for the Flathead with corp cash.",
+   "ro": "Așa că ai plătit Flathead-ul cu bani de corpo."
+  },
+  {
+   "key": "1709767130352410624",
+   "en": "I got the Flathead.",
+   "ro": "Am Flathead-ul."
+  },
+  {
+   "key": "1709830280498077696",
+   "en": "On second thought, never mind.",
+   "ro": "Stai, mai bine uită."
+  },
+  {
+   "key": "1709830665166086144",
+   "en": "Know what? Not important.",
+   "ro": "Știi ce? Nu-i important."
+  },
+  {
+   "key": "1709835583440510976",
+   "en": "Everything's ready to roll. What now?",
+   "ro": "Gata de drum. Ce facem acum?"
+  },
+  {
+   "key": "1709837325318184960",
+   "en": "We're all set, ready to go. What now?",
+   "ro": "Suntem gata. Ce facem acum?"
+  },
+  {
+   "key": "1710018392968880128",
+   "en": "What about the meet with Evelyn Parker?",
+   "ro": "Dar întâlnirea cu Evelyn Parker?"
+  },
+  {
+   "key": "1710019229933854720",
+   "en": "Still on the to-do list.",
+   "ro": "Încă pe lista de făcut."
+  },
+  {
+   "key": "1710019622822699008",
+   "en": "And the Flathead?",
+   "ro": "Și Flathead-ul?"
+  },
+  {
+   "key": "1710019622822699016",
+   "en": "Nothin' yet. On it now.",
+   "ro": "Nimic încă. Mă ocup acum."
+  },
+  {
+   "key": "1715339194024980480",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1715342502106099712",
+   "en": "T-Bug says no chance at that chip without that bot. To work, then, Miss V.",
+   "en_m": "T-Bug says no chance at that chip without that bot. To work, then, Mr. V.",
+   "ro": "T-Bug zice că n-ai nicio șansă la cipul ăla fără botul ăla. Deci, la treabă, domnișoară V.",
+   "ro_m": "T-Bug zice că n-ai nicio șansă la cipul ăla fără botul ăla. Deci, la treabă, domnule V."
+  },
+  {
+   "key": "1715356835552817152",
+   "en": "Gave me the chip with the scratch for Maelstrom.",
+   "ro": "Mi-a dat cipul cu scratch-ul pentru Maelstrom."
+  },
+  {
+   "key": "1715358211838177280",
+   "en": "Well, well.",
+   "ro": "Ei, ei."
+  },
+  {
+   "key": "1715358902119952384",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1715359223437193216",
+   "en": "Didn't exactly hit it off.",
+   "ro": "Nu prea ne-am înțeles."
+  },
+  {
+   "key": "1715366004083257344",
+   "en": "No. Decided I could use the eddies myself.",
+   "ro": "Nu. Am decis că mai bine îmi țin eddies-urile.",
+   "ro_m": "Nu. Am decis că pot folosi eddies-urile eu însumi."
+  },
+  {
+   "key": "1715382763565740032",
+   "en": "Oldest corpo trick in the book. I assume Royce was less than understanding.",
+   "ro": "Cel mai vechi truc corpo din carte. Presupun că Royce n-a fost prea înțelegător."
+  },
+  {
+   "key": "1715392757048668160",
+   "en": "Mhm. That meet's the only thing that'll get you a chance at grabbin' that chip.",
+   "ro": "Mhm. Întâlnirea aia e singura care-ți dă o șansă să pui mâna pe cipul ăla."
+  },
+  {
+   "key": "1783643374451879936",
+   "en": "And how'd it go? Run into any trouble? And what about the Militech angle?",
+   "ro": "Și cum a mers? Ai dat de belele? Și ce-i cu Militech?"
+  },
+  {
+   "key": "1783738871623643136",
+   "en": "So Militech financed our Flathead?",
+   "ro": "Deci Militech ne-a finanțat Flathead-ul?"
+  },
+  {
+   "key": "1783739671880069120",
+   "en": "And I'll be sure to scan the Militech scratch before I try and use it.",
+   "ro": "Și o să scanez scratch-ul Militech înainte să încerc să-l folosesc."
+  },
+  {
+   "key": "1792362895505289216",
+   "en": "Paid out of my own pocket.",
+   "ro": "Din buzunarul meu."
+  },
+  {
+   "key": "1792365460724838400",
+   "en": "That bot ain't no bargain basement tech.",
+   "ro": "Botul ăla nu-i tehnologie de duzină."
+  },
+  {
+   "key": "1792365962447482880",
+   "en": "That it is not.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1792385695590838272",
+   "en": "And I just grabbed the bot.",
+   "ro": "Și l-am luat pe bot, pur și simplu."
+  },
+  {
+   "key": "1792387975950036992",
+   "en": "Jus' like that…?",
+   "ro": "Așa, pur și simplu…?"
+  },
+  {
+   "key": "1792388065422929920",
+   "en": "Not just. Had to use violence.",
+   "ro": "Nu chiar. A fost nevoie de bătaie."
+  },
+  {
+   "key": "1792453099415072768",
+   "en": "So how'd you get that cat Royce to hand over the Flathead?",
+   "ro": "Și cum l-ai convins pe tipul ăla, Royce, să-ți dea Flathead-ul?"
+  },
+  {
+   "key": "1968888629290463232",
+   "en": "Now we do the job I hired you to do – grabbing that biochip.",
+   "ro": "Acum trecem la treaba pentru care te-am angajat – să pui mâna pe biochip."
+  },
+  {
+   "key": "1968899191705563136",
+   "en": "Parker'll be waiting for you at Lizzie's Bar. Good luck.",
+   "ro": "Parker te așteaptă la Lizzie's Bar. Baftă."
+  }
+ ]
+}

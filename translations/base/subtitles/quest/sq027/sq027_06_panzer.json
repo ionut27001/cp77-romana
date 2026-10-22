@@ -1,0 +1,783 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq027\\sq027_06_panzer.json",
+ "entries": [
+  {
+   "key": "1357560447766646784",
+   "en": "It's not the latest model, but Mitch and Bob did what they could.",
+   "ro": "Nu e ultimul model, dar Mitch și Bob au făcut ce-au putut."
+  },
+  {
+   "key": "1760222280052133888",
+   "en": "Hey, V. No, not yet.",
+   "ro": "Hei, V. Nu, încă nu."
+  },
+  {
+   "key": "1760244381416968192",
+   "en": "Carol still needs to check if Militech left any ICE in the systems.",
+   "ro": "Carol mai trebuie să verifice dacă Militech a lăsat vreun ICE în sisteme."
+  },
+  {
+   "key": "1760244996570370048",
+   "en": "Corpos haven't shown up in person to report the loss?",
+   "ro": "Corpoii n-au venit în persoană să raporteze pierderea?"
+  },
+  {
+   "key": "1760295676345602048",
+   "en": "Always wanted to take one these suckers for a spin.",
+   "ro": "Mereu mi-am dorit să fac o tură cu una din jucăriile astea."
+  },
+  {
+   "key": "1788403527928532992",
+   "en": "With just a little more time…",
+   "ro": "Cu încă puțin timp…"
+  },
+  {
+   "key": "1788403743800971268",
+   "en": "Everything ready?",
+   "ro": "Totul pregătit?"
+  },
+  {
+   "key": "1788409814401699844",
+   "en": "Always wanted to take one of these for a spin.",
+   "ro": "Mereu mi-am dorit să fac o tură cu una din ele."
+  },
+  {
+   "key": "1788410723106050048",
+   "en": "What about Saul?",
+   "ro": "Dar Saul?"
+  },
+  {
+   "key": "1788411418890752000",
+   "en": "And Saul – what about him?",
+   "ro": "Și Saul – ce cu el?"
+  },
+  {
+   "key": "1788413365752451072",
+   "en": "Go on, hop in. Everything is set.",
+   "ro": "Hai, urcă. Totul e pregătit."
+  },
+  {
+   "key": "1788416622797279232",
+   "en": "Yeah, yeah, you'd turn it into a goddamn rocket ship, I know.",
+   "ro": "Da, da, l-ai transforma într-o nenorocită de rachetă, știu."
+  },
+  {
+   "key": "1788417289423179776",
+   "en": "All ready to go?",
+   "ro": "Ești gata să plecăm?"
+  },
+  {
+   "key": "1788420763128975360",
+   "en": "Nothing, for now. We're staying out of each other's hair.",
+   "ro": "Nimic, deocamdată. Nu ne călcăm pe nervi."
+  },
+  {
+   "key": "1788432486275764228",
+   "en": "[Jack in] Sure.",
+   "ro": "[Conectează-te] Sigur."
+  },
+  {
+   "key": "1788436591928954880",
+   "en": "OK. This will do fine.",
+   "ro": "OK. Aici merge."
+  },
+  {
+   "key": "1788452734731309056",
+   "en": "OK. Startin' to understand what you meant.",
+   "ro": "OK. Încep să pricep ce voiai să zici."
+  },
+  {
+   "key": "1788453154631471104",
+   "en": "Warm up. Don't worry, I'm not going to watch.",
+   "ro": "Încălzește-te. Nu-ți face griji, nu mă uit."
+  },
+  {
+   "key": "1788473337404215296",
+   "en": "Just put it through a few turns.",
+   "ro": "Doar fă-i câteva viraje."
+  },
+  {
+   "key": "1788473650332848132",
+   "en": "Now, let's do some shooting. Stop and I'll activate the system.",
+   "ro": "Acum, hai să tragem un pic. Oprește-te și activez sistemul."
+  },
+  {
+   "key": "1788475276212850688",
+   "en": "Soft ride, seems a boat.",
+   "ro": "Merge lin, pare o barcă."
+  },
+  {
+   "key": "1788476704792793088",
+   "en": "Don't get excited. The Basilisk is a cargo ship by design.",
+   "ro": "Nu te entuziasma. Basilisk-ul e o navă de transport, așa e construit."
+  },
+  {
+   "key": "1788477132897013760",
+   "en": "But it should still be a good time.",
+   "ro": "Dar tot o să ne distrăm."
+  },
+  {
+   "key": "1788478267590463488",
+   "en": "What's on the menu?",
+   "ro": "Ce aveți în meniu?"
+  },
+  {
+   "key": "1788479138126647296",
+   "en": "All right. I can see you've grown bored.",
+   "ro": "Bine. Văd că te-ai plictisit."
+  },
+  {
+   "key": "1788479741468889088",
+   "en": "Now take her along the line of turbines.",
+   "ro": "Acum ia-o de-a lungul liniei de turbine."
+  },
+  {
+   "key": "1788497844638601216",
+   "en": "Head towards that wreck.",
+   "ro": "Mergi spre epava aia."
+  },
+  {
+   "key": "1788525218780434432",
+   "en": "Left!",
+   "ro": "Stânga!"
+  },
+  {
+   "key": "1788525745786343424",
+   "en": "Very good!",
+   "ro": "Foarte bine!"
+  },
+  {
+   "key": "1788525976506617860",
+   "en": "Oh well.",
+   "ro": "Eh, na."
+  },
+  {
+   "key": "1788529183672782848",
+   "en": "When I say so, swerve right or left.",
+   "ro": "Când spun eu, virează dreapta sau stânga."
+  },
+  {
+   "key": "1788530454798553088",
+   "en": "Keep her going!",
+   "ro": "Ține-o așa!"
+  },
+  {
+   "key": "1788530577255452672",
+   "en": "One more time.",
+   "ro": "Încă o dată."
+  },
+  {
+   "key": "1788530836647989252",
+   "en": "Right!",
+   "ro": "Bine!"
+  },
+  {
+   "key": "1788533249178095620",
+   "en": "Right!",
+   "ro": "Bine!"
+  },
+  {
+   "key": "1788549720981655552",
+   "en": "Bullseye.",
+   "ro": "Direct în țintă."
+  },
+  {
+   "key": "1788552724153651204",
+   "en": "Good!",
+   "ro": "Bine!"
+  },
+  {
+   "key": "1788552818089283588",
+   "en": "They're deader than dirt now.",
+   "ro": "Acum sunt morți de-a binelea."
+  },
+  {
+   "key": "1788553145815420928",
+   "en": "OK, practice is over.",
+   "ro": "OK, s-a terminat antrenamentul."
+  },
+  {
+   "key": "1791369425043869700",
+   "en": "Excellent.",
+   "ro": "Excelent."
+  },
+  {
+   "key": "1791369425094201348",
+   "en": "There's room for improvement.",
+   "ro": "Mai e loc de îmbunătățire."
+  },
+  {
+   "key": "1791371031848177664",
+   "en": "Mhm. She'll fly right over any bumps, all types of terrain.",
+   "ro": "Mhm. Zboară peste orice denivelare, orice tip de teren."
+  },
+  {
+   "key": "1804444579789557764",
+   "en": "Fuck. Made it look like it just came back from a corpo war tour.",
+   "ro": "Futu-i. Arată de parcă s-ar fi întors dintr-un tur de război corpo."
+  },
+  {
+   "key": "1810915570740432896",
+   "en": "No. I think we managed to keep them off our scent.",
+   "ro": "Nu. Cred că i-am ținut departe de urma noastră."
+  },
+  {
+   "key": "1810916770663698432",
+   "en": "We left the trucks with the big corpo logos down by the Raffen camp.",
+   "ro": "Am lăsat camioanele cu logo-urile corpo mari jos, la tabăra Raffens."
+  },
+  {
+   "key": "1810920808453050368",
+   "en": "Everything's fine. Clean as a whistle.",
+   "ro": "Totul e bine. Curat ca lacrima."
+  },
+  {
+   "key": "1810925938573381632",
+   "en": "Which was almost as much fun as leaving a bag of flaming dog shit on their doorstep.",
+   "ro": "Și a fost aproape la fel de tare ca să lași o pungă cu rahat de câine aprinsă pe pragul lor."
+  },
+  {
+   "key": "1810929473750896640",
+   "en": "So he's not planning a family council?",
+   "ro": "Deci nu plănuiește un consiliu de familie?"
+  },
+  {
+   "key": "1810929892392767488",
+   "en": "Of course he is. He just wants to keep me in the dark a while longer.",
+   "ro": "Sigur că da. Vrea doar să mă mai țină în beznă un pic."
+  },
+  {
+   "key": "1810935990927560704",
+   "en": "Nice touch.",
+   "ro": "Frumoasă mișcare."
+  },
+  {
+   "key": "1810938341147086848",
+   "en": "Which is exactly how all those naive gonks landed at the front. Didn't even need to be recruited.",
+   "ro": "Exact așa au ajuns toți fraierii ăia naivi pe front. Nici nu trebuiau recrutați."
+  },
+  {
+   "key": "1810939732162842624",
+   "en": "They just showed you the tech.",
+   "ro": "Ți-au arătat doar tehnologia."
+  },
+  {
+   "key": "1810950487230713856",
+   "en": "What do you think?",
+   "ro": "Ce crezi?"
+  },
+  {
+   "key": "1810950778365743104",
+   "en": "Now I get why they called them coffins.",
+   "ro": "Acum înțeleg de ce le ziceau sicrie."
+  },
+  {
+   "key": "1810953862320033792",
+   "en": "Not how I imagined it.",
+   "ro": "Nu așa mi le-am imaginat."
+  },
+  {
+   "key": "1810954115605663744",
+   "en": "Nice and cozy in here.",
+   "ro": "Chiar drăguț și comod aici."
+  },
+  {
+   "key": "1810957733679403008",
+   "en": "Well, least now I know why people call 'em coffins.",
+   "ro": "Ei, măcar acum știu de ce le zic sicrie."
+  },
+  {
+   "key": "1810958741654540288",
+   "en": "Not exactly how I imagined a corpo panzer.",
+   "ro": "Nu chiar așa mi-am imaginat un panzer corpo."
+  },
+  {
+   "key": "1810963119266402304",
+   "en": "I mean, least since I stopped watching all those anime BDs.",
+   "ro": "Adică, măcar de când nu mă mai uit la toate BD-urile alea anime."
+  },
+  {
+   "key": "1810967661412421632",
+   "en": "Nice and cozy in here.",
+   "ro": "Chiar drăguț și comod aici."
+  },
+  {
+   "key": "1810995488169988096",
+   "en": "You steer directly from your seat. All you have to do is jack in.",
+   "ro": "Conduci direct de pe scaun. Tot ce trebuie să faci e să te conectezi."
+  },
+  {
+   "key": "1811000242564567040",
+   "en": "No, none. The impulse runs directly to your cerebral cortex. In a sense, the Basilisk becomes an extension of your body.",
+   "ro": "Nu, niciunul. Impulsul merge direct în cortexul tău cerebral. Într-un sens, Basilisk-ul devine o extensie a corpului tău."
+  },
+  {
+   "key": "1811020903051759616",
+   "en": "What, no knobs, buttons, blinky doo-dads?",
+   "ro": "Ce, nici butoane, comutatoare, chestii care clipesc?"
+  },
+  {
+   "key": "1811023938670891012",
+   "en": "What's the second pilot for? Support?",
+   "ro": "La ce e al doilea pilot? Suport?"
+  },
+  {
+   "key": "1811025598910631936",
+   "en": "Ever fly something like this?",
+   "ro": "Ai mai pilotat așa ceva?"
+  },
+  {
+   "key": "1811029197321474048",
+   "en": "It's like a mystical oneness.",
+   "ro": "E ca o simbioză mistică."
+  },
+  {
+   "key": "1811030874204213248",
+   "en": "If it's so mystical and shit, why the co-pilot? Extra support?",
+   "ro": "Dacă e atât de mistic și d-astea, de ce copilot? Suport suplimentar?"
+  },
+  {
+   "key": "1811039261654585344",
+   "en": "Ever piloted anything like this?",
+   "ro": "Ai mai pilotat vreodată așa ceva?"
+  },
+  {
+   "key": "1811040988415987712",
+   "en": "No, why? Don't you trust me?",
+   "ro": "Nu, de ce? Nu ai încredere în mine?"
+  },
+  {
+   "key": "1811041262857687040",
+   "en": "Can I still get out?",
+   "ro": "Mai pot ieși?"
+  },
+  {
+   "key": "1811043757042503680",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1811043815393660928",
+   "en": "Then I trust you.",
+   "ro": "Atunci am încredere în tine."
+  },
+  {
+   "key": "1811044683480371200",
+   "en": "OK. If you want full functionality in an engagement, you need a second person to handle sensory overload.",
+   "ro": "OK. Dacă vrei funcționalitate completă într-o confruntare, îți trebuie o a doua persoană ca să gestioneze supraîncărcarea senzorială."
+  },
+  {
+   "key": "1811048338648535040",
+   "en": "One pilot steers, the other handles the gun.",
+   "ro": "Un pilot conduce, celălalt se ocupă de tun."
+  },
+  {
+   "key": "1811064927993270272",
+   "en": "A dry run first – I'll disconnect for now.",
+   "ro": "Mai întâi o rulare de probă – mă deconectez deocamdată."
+  },
+  {
+   "key": "1811065899293413376",
+   "en": "Are you ready?",
+   "ro": "Ești gata?"
+  },
+  {
+   "key": "1811080480103403520",
+   "en": "Doesn't need two pilots?",
+   "ro": "Nu-i trebuie doi piloți?"
+  },
+  {
+   "key": "1811080713659027456",
+   "en": "You won't be steering and firing.",
+   "ro": "Nu o să conduci și tragi în același timp."
+  },
+  {
+   "key": "1811090796262526976",
+   "en": "All right.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1812387472474443776",
+   "en": "All right. Blast those wrecks.",
+   "ro": "Bine. Distrugeți epavele alea."
+  },
+  {
+   "key": "1812400623295205376",
+   "en": "Good. Now, I'm going to connect. It could feel strange.",
+   "ro": "Bine. Acum mă conectez. S-ar putea să pară ciudat."
+  },
+  {
+   "key": "1812401348674916352",
+   "en": "Meanin'?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "1812403625947107328",
+   "en": "Basilisk pilots have to be fully synchronized. That means our nervous systems will be linked.",
+   "ro": "Piloții de Basilisk trebuie să fie complet sincronizați. Asta înseamnă că sistemele noastre nervoase vor fi conectate."
+  },
+  {
+   "key": "1812590716165361664",
+   "en": "It's as if you booked a room with two beds but got a double bed with a blanket wide enough for half.",
+   "ro": "E ca atunci când ai rezervat o cameră cu două paturi, dar ai primit un pat dublu cu o pătură cât pentru jumătate."
+  },
+  {
+   "key": "1812592710540136452",
+   "en": "OK. Let's try this.",
+   "ro": "OK. Hai să încercăm."
+  },
+  {
+   "key": "1812593063113330688",
+   "en": "Know exactly what you mean.",
+   "ro": "Știu exact la ce te referi."
+  },
+  {
+   "key": "1812593566245261312",
+   "en": "Know exactly what you mean.",
+   "en_m": "I know exactly what you mean.",
+   "ro": "Știu exact la ce te referi."
+  },
+  {
+   "key": "1812594495686250496",
+   "en": "Hmm?",
+   "ro": "Hmm?"
+  },
+  {
+   "key": "1812595360350408704",
+   "en": "Tell ya later.",
+   "ro": "Îți spun mai târziu."
+  },
+  {
+   "key": "1812597559491104768",
+   "en": "OK, let's try this. Guess I'll get to know you better than I'd planned.",
+   "ro": "OK, hai să încercăm. Cred că o să te cunosc mai bine decât plănuisem."
+  },
+  {
+   "key": "1812616681037828096",
+   "en": "All right. Let me just say, it can be difficult at first.",
+   "ro": "Bine. Doar ca să știi, la început poate fi greu."
+  },
+  {
+   "key": "1812617215895474176",
+   "en": "You'll experience feedback, sensory echoes as our systems overlap.",
+   "ro": "O să simți feedback, ecouri senzoriale pe măsură ce sistemele noastre se suprapun."
+  },
+  {
+   "key": "1812620902588026880",
+   "en": "Probably comes naturally in combat.",
+   "ro": "Probabil vine natural în luptă."
+  },
+  {
+   "key": "1812622424734502912",
+   "en": "Mhm. Right, starting now...",
+   "ro": "Mhm. Bine, începem acum..."
+  },
+  {
+   "key": "1812622858710749188",
+   "en": "They're Raffen!",
+   "ro": "Sunt Raffens!"
+  },
+  {
+   "key": "1812622871914418176",
+   "en": "Take them out. Then haul ass here and make yourselves useful.",
+   "ro": "Eliminați-i. Apoi veniți încoace și faceți-vă utili."
+  },
+  {
+   "key": "1812631457889587200",
+   "en": "OK. Here we go.",
+   "ro": "OK. Hai să mergem."
+  },
+  {
+   "key": "1812631855526383616",
+   "en": "Good. Now, I'm going to connect. It could feel strange.",
+   "ro": "Bine. Acum mă conectez. S-ar putea să pară ciudat."
+  },
+  {
+   "key": "1812638169195417600",
+   "en": "Are you ready?",
+   "ro": "Ești gata?"
+  },
+  {
+   "key": "1812638893719490560",
+   "en": "What's happening?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1812641158224220160",
+   "en": "Nice, but I've had enough, thanks.",
+   "ro": "Mișto, dar am avut destul, mulțumesc."
+  },
+  {
+   "key": "1812642783198253056",
+   "en": "Um, it's cool, uh, but I'm good.",
+   "en_m": "Um, it's cool, but I'm good.",
+   "ro": "Ăă, e mișto, da' sunt bine."
+  },
+  {
+   "key": "1812645365698334720",
+   "en": "I jacked in. Our nervous systems are now linked.",
+   "ro": "M-am conectat. Sistemele noastre nervoase sunt acum conectate."
+  },
+  {
+   "key": "1812649193185284096",
+   "en": "Right, Basilisk pilots working in harmony.",
+   "en_m": "Right, Basilisk pilots workin' in harmony.",
+   "ro": "Bine, piloții de Basilisk lucrează în armonie."
+  },
+  {
+   "key": "1812651995114573824",
+   "en": "That why I'm feelin' everything doubled?",
+   "ro": "De asta simt totul dublu?"
+  },
+  {
+   "key": "1812654482940825600",
+   "en": "It's sensory feedback. Our systems are intertwined. Would you like to... try it out?",
+   "ro": "E feedback senzorial. Sistemele noastre sunt legate. Vrei să... încerci?"
+  },
+  {
+   "key": "1812696415125966848",
+   "en": "Of course. I understand. I didn't want you to feel…",
+   "ro": "Sigur. Înțeleg. N-am vrut să te fac să te simți…"
+  },
+  {
+   "key": "1812775199137140736",
+   "en": "Basilisk pilots have to be fully synchronized. That means our nervous systems will be linked.",
+   "ro": "Piloții de Basilisk trebuie să fie complet sincronizați. Asta înseamnă că sistemele noastre nervoase vor fi conectate."
+  },
+  {
+   "key": "1812781984631820288",
+   "en": "Meanin'?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "1812782687110631424",
+   "en": "Hm, sounds familiar.",
+   "en_m": "Huh, sounds familiar.",
+   "ro": "Hm, parcă mai știu."
+  },
+  {
+   "key": "1812783459802091520",
+   "en": "OK, pretty intense. Really... personal.",
+   "en_m": "OK, OK, pretty intense. Really, uh... personal.",
+   "ro": "OK, destul de tare. Chiar... personal.",
+   "ro_m": "OK, OK, destul de tare. Chiar, ăă... personal."
+  },
+  {
+   "key": "1812793105526886400",
+   "en": "In combat it's probably easier, less about thinking and more about acting on instinct, in harmony.",
+   "ro": "În luptă probabil e mai ușor, nu mai gândești, acționezi pe instinct, în armonie."
+  },
+  {
+   "key": "1812810286402703360",
+   "en": "Anyone ever have sex in a Basilisk?",
+   "ro": "A făcut cineva sex într-un Basilisk?"
+  },
+  {
+   "key": "1812813666810400768",
+   "en": "Let's get back to camp.",
+   "ro": "Hai să ne întoarcem la tabără."
+  },
+  {
+   "key": "1812825373045755904",
+   "en": "Anyone ever try gettin' it on in a Basilisk?",
+   "ro": "A încercat cineva să se giugiulească într-un Basilisk?"
+  },
+  {
+   "key": "1812827078533648384",
+   "en": "Let's get back to camp.",
+   "ro": "Hai să ne întoarcem la tabără."
+  },
+  {
+   "key": "1812831171872362496",
+   "en": "Most likely. You should ask Carol or Cassidy.",
+   "ro": "Cel mai probabil. Ar trebui să-i întrebi pe Carol sau Cassidy."
+  },
+  {
+   "key": "1812833686609268736",
+   "en": "All right. I just want to check--",
+   "ro": "Bine. Vreau doar să verific--"
+  },
+  {
+   "key": "1812852561413476352",
+   "en": "Let's get back to camp. I still want--",
+   "ro": "Hai să ne întoarcem la tabără. Încă vreau--"
+  },
+  {
+   "key": "1812856450388922368",
+   "en": "Hm. OK.",
+   "ro": "Hm. OK."
+  },
+  {
+   "key": "1812860043766599680",
+   "en": "You'll experience feedback, sensory echoes as our systems overlap.",
+   "ro": "O să simți feedback, ecouri senzoriale pe măsură ce sistemele noastre se suprapun."
+  },
+  {
+   "key": "1814477562995036160",
+   "en": "Oh, fuck.",
+   "ro": "Ah, futu-i."
+  },
+  {
+   "key": "1814482989535219712",
+   "en": "They found us. We have to get back to camp.",
+   "ro": "Ne-au găsit. Trebuie să ne întoarcem la tabără."
+  },
+  {
+   "key": "1814487946145583104",
+   "en": "We'll go straight to camp! We have to help the family.",
+   "ro": "Mergem direct la tabără! Trebuie să ajutăm familia."
+  },
+  {
+   "key": "1823018900568477696",
+   "en": "OK...",
+   "ro": "OK..."
+  },
+  {
+   "key": "1874797157625384960",
+   "en": "[Let Panam touch you] Oh, yeah. Let's go.",
+   "ro": "[Las-o pe Panam să te atingă] Aham, hai să mergem."
+  },
+  {
+   "key": "1874799173407887360",
+   "en": "OK. I could go for that.",
+   "ro": "OK. Mi-ar prinde bine."
+  },
+  {
+   "key": "1874816065111609344",
+   "en": "Can you feel that?",
+   "ro": "Simți asta?"
+  },
+  {
+   "key": "1874817042870980608",
+   "en": "Mhm. Honestly, no idea how people can focus in combat.",
+   "en_m": "Uhm. Yeah. Honestly, uh, no idea how people can focus in combat.",
+   "ro": "Mhm. Sincer, n-am habar cum se pot concentra oamenii în luptă.",
+   "ro_m": "Mhm. Da. Sincer, ăă, n-am habar cum se pot concentra oamenii în luptă."
+  },
+  {
+   "key": "1874821239758671872",
+   "en": "It's probably not always this intense. How about this?",
+   "ro": "Probabil nu e mereu așa de intens. Ce zici de asta?"
+  },
+  {
+   "key": "1874843383234318336",
+   "en": "They're here too, Saul! In full force!",
+   "ro": "Sunt și aici, Saul! Cu tot ce-au!"
+  },
+  {
+   "key": "1883865335886270464",
+   "en": "V, do you remember what I said about impulses?",
+   "ro": "V, îți amintești ce am spus despre impulsuri?"
+  },
+  {
+   "key": "1883866389193445376",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1883866768744402944",
+   "en": "Well, watch out, now.",
+   "ro": "Păi, ai grijă acum."
+  },
+  {
+   "key": "1886501929822736384",
+   "en": "I'll tell you once we're a bit further from camp. We'll practice.",
+   "ro": "Îți zic când ne depărtăm puțin de tabără. O să exersăm."
+  },
+  {
+   "key": "2003721616179720192",
+   "en": "Whole group of them, ready for a fight!",
+   "ro": "Un grup întreg, gata de bătaie!"
+  },
+  {
+   "key": "2227474362553417728",
+   "en": "Well, V? Will you link up?",
+   "ro": "Păi, V? Te conectezi?"
+  },
+  {
+   "key": "2227483708301590528",
+   "en": "Wonderful, isn't she? Let me show you the ropes.",
+   "ro": "Frumoasă, nu? Lasă-mă să-ți arăt cum se face."
+  },
+  {
+   "key": "2227483873540390912",
+   "en": "Well? Hop inside!",
+   "ro": "Ei? Urcă, hai!"
+  },
+  {
+   "key": "2227484015307866112",
+   "en": "So? What do you think? Impressive, huh?",
+   "ro": "Și? Ce zici? Impresionant, nu?"
+  },
+  {
+   "key": "2227538001167728640",
+   "en": "It's oddly pleasant, you'll see.",
+   "ro": "E ciudat de plăcut, o să vezi."
+  },
+  {
+   "key": "2228970144355926016",
+   "en": "All right, let's fire her up! Hold on to your head!",
+   "ro": "Bine, hai s-o pornim! Ține-te bine!"
+  },
+  {
+   "key": "2229265183929876480",
+   "en": "Dammit.",
+   "ro": "Mama dracului."
+  },
+  {
+   "key": "2229268519072645124",
+   "en": "Anybody get it running earlier?",
+   "ro": "A mai pornit-o cineva mai devreme?"
+  },
+  {
+   "key": "2229269287922122752",
+   "en": "Got a bad feeling about this…",
+   "ro": "Am o senzație proastă cu asta…"
+  },
+  {
+   "key": "2229271754021879808",
+   "en": "Anybody get this thing up and running earlier? Maybe you oughta…",
+   "ro": "A mai pornit-o cineva mai devreme? Poate ar trebui să…"
+  },
+  {
+   "key": "2229272179324305408",
+   "en": "Got a bad feeling about this...",
+   "ro": "Am un presentiment rău..."
+  },
+  {
+   "key": "2229276664612339712",
+   "en": "Everything is dandy. Give me a moment.",
+   "ro": "Totul e OK. Dă-mi un minut."
+  },
+  {
+   "key": "2229278451016744960",
+   "en": "Oh ye-ee-eees!",
+   "ro": "Ooo, daaa!"
+  },
+  {
+   "key": "2229290614615785472",
+   "en": "Panam...? Is this, uh… as designed?",
+   "ro": "Panam...? Asta e... cum trebuie?"
+  },
+  {
+   "key": "2229295102403624960",
+   "en": "Neural synchronization doesn't happen at the snap of one's fingers. It'll be over soon. There – see?",
+   "ro": "Sincronizarea neurală nu se face din senin. Gata-i în curând. Gata, vezi?"
+  },
+  {
+   "key": "2235203834722668548",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "2237246627956473856",
+   "en": "Yes! That's the way to do it!",
+   "ro": "Da! Așa se face!"
+  },
+  {
+   "key": "2237248048164585472",
+   "en": "Hm, poor at best. Buuut, that is why we're practicing…",
+   "ro": "Hm, slăbuț, în cel mai bun caz. Daaar, tocmai de asta exersăm…"
+  }
+ ]
+}

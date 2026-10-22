@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\mirror_scene_sts_cct_dtn_02.json",
+ "entries": [
+  {
+   "key": "2413972943627247616",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2446176429752082432",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2520260809763741696",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2520260809763741708",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2520260809763741720",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2520260809780518912",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2520260809780518924",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  }
+ ]
+}

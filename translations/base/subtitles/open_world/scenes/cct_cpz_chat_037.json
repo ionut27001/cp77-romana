@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_037.json",
+ "entries": [
+  {
+   "key": "2172381338322722816",
+   "en": "<kiroshi l=\"jpn\" o=\"ええ、わかる。気持ちはすっごくよくわかるわ\" t=\"Yeah, yeah, I know. Know exactly how you feel.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ええ、わかる。気持ちはすっごくよくわかるわ\" t=\"Da, da, știu. Chiar știu cum te simți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2217238725256765440",
+   "en": "<kiroshi l=\"jpn\" o=\"でもジェンキンスが決めたことだから\" t=\"But Jenkins made up his mind.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"でもジェンキンスが決めたことだから\" t=\"Dar Jenkins s-a decis deja.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2217241571729563648",
+   "en": "<kiroshi l=\"jpn\" o=\"どうしようもないでしょ\" t=\"Nothing we can do.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どうしようもないでしょ\" t=\"Nu e nimic de făcut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2217241711685099520",
+   "en": "<kiroshi l=\"jpn\" o=\"ええ、ひどいわよね。ホント、できることがあれば助けてあげたいんだけど…\" t=\"I knowwww, I'm sorry, really. Believe me, if there were anything I could do...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ええ、ひどいわよね。ホント、できることがあれば助けてあげたいんだけど…\" t=\"Știu, știu, îmi pare tare rău. Crede-mă, dacă aș putea face ceva...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2217241865817382912",
+   "en": "<kiroshi l=\"jpn\" o=\"そろそろ仕事に戻らないと。じゃあね！\" t=\"Gotta get back to work. Byeee!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そろそろ仕事に戻らないと。じゃあね！\" t=\"Trebuie să fug la treabă. Pa!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2217259835104911360",
+   "en": "<kiroshi l=\"jpn\" o=\"うん… うん\" t=\"Yeah... Yeah.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"うん… うん\" t=\"Da... Da.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

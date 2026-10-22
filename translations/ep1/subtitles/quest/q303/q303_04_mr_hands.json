@@ -1,0 +1,493 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q303\\q303_04_mr_hands.json",
+ "entries": [
+  {
+   "key": "2928832545452630016",
+   "en": "V, my favorite merc. Splendid.",
+   "ro": "V, mercenara mea preferată. Splendid.",
+   "ro_m": "V, mercenarul meu preferat. Splendid."
+  },
+  {
+   "key": "3021453322456309760",
+   "en": "Ah, if it isn't V…",
+   "ro": "Ah, uite cine e, V…"
+  },
+  {
+   "key": "3021532826327490560",
+   "en": "Yes, honey bunny? Dad’s working…",
+   "ro": "Da, iepurașule? Tati lucrează…"
+  },
+  {
+   "key": "3021539073357422592",
+   "en": "Mhm? Now? I see... and what is it your mother can't help you with?",
+   "ro": "Mhm? Acum? Aha... și cu ce nu te poate ajuta mami?"
+  },
+  {
+   "key": "3080970752905842688",
+   "en": "Not to worry. I’ll find him the moment I get home. Can that be our deal?",
+   "ro": "Nu-ți fie teamă. Îl găsesc imediat ce ajung acasă. Ne învoim?"
+  },
+  {
+   "key": "3080972255456530432",
+   "en": "You've my word, sugarbear... Yeah... I love you, too. Buh-bye now.",
+   "ro": "Îți dau cuvântul, ursulețule... Da... Și eu te iubesc. Pa-pa acum."
+  },
+  {
+   "key": "3205570052190355456",
+   "en": "Let's table politics for now, huh? Go straight to biz.",
+   "ro": "Lăsăm politica deoparte, da? Trecem direct la afaceri."
+  },
+  {
+   "key": "3205571854516338688",
+   "en": "Business... Of course…",
+   "ro": "Afaceri... Sigur…"
+  },
+  {
+   "key": "3205613812169293824",
+   "en": "The shard – Black Sapphire info and blueprints, all nooks and crannies.",
+   "ro": "Shard-ul – informații și planuri de la Black Sapphire, până în cele mai mici detalii."
+  },
+  {
+   "key": "3210514747423330308",
+   "en": "[Take shard] Thanks.",
+   "ro": "[Ia shard-ul] Mulțumesc."
+  },
+  {
+   "key": "3210516364042309632",
+   "en": "Thanks, Hands.",
+   "ro": "Mulțumesc, Hands."
+  },
+  {
+   "key": "3210521391335084032",
+   "en": "I only hope this won't mark the end of our collaboration. Truth be told, a few new assignments seem imminent…",
+   "ro": "Sper doar că nu o să fie sfârșitul colaborării noastre. Sincer, vin câteva misiuni noi…"
+  },
+  {
+   "key": "3210522344029294592",
+   "en": "Lemme guess – more local politico-gaming?",
+   "ro": "Lasă-mă să ghicesc – iar jocuri de culise politice locale?"
+  },
+  {
+   "key": "3210525305493131264",
+   "en": "And V – whatever happens at the Black Sapphire... make sure you come back alive, mh?",
+   "ro": "Și V – orice se întâmplă la Black Sapphire... ai grijă să te întorci în viață, mh?"
+  },
+  {
+   "key": "3298322135282487300",
+   "en": "Politics – couldn't care less.",
+   "ro": "Politica – nu mă interesează deloc."
+  },
+  {
+   "key": "3300311214480035840",
+   "en": "Your father must get back to work now, OK? OK.",
+   "ro": "Tati trebuie să se întoarcă la treabă, OK? OK."
+  },
+  {
+   "key": "3300412645618880512",
+   "en": "Were I to have more virtuosos like you, I wager I'd have more than Dogtown in my grasp…",
+   "ro": "Dacă aș avea mai mulți virtuozi ca tine, pun pariu că aș ține mai mult decât Dogtown…"
+  },
+  {
+   "key": "3300433914431148032",
+   "en": "How's this gonna help you with Hansen?",
+   "ro": "Și asta cum te ajută cu Hansen?"
+  },
+  {
+   "key": "3300435774017769472",
+   "en": "Gigs you had me do… how'll they solve your Hansen sitch?",
+   "ro": "Gig-urile alea pe care mi le-ai dat... cum îți rezolvă scandalul cu Hansen?"
+  },
+  {
+   "key": "3300437038617202688",
+   "en": "Take a boxer. He can't knock out his opponent. What then? He goes to work on the body.",
+   "ro": "Ia un boxer. Nu-l poate doborî pe adversar. Și atunci? Lucrează la corp."
+  },
+  {
+   "key": "3300437823405035520",
+   "en": "Once his adversary's stamina wanes, he looks for his opening, connects fist with jaw.",
+   "ro": "Când scade stamina adversarului, își caută breșa și-i trage pumnul în bărbie."
+  },
+  {
+   "key": "3300439740252295168",
+   "en": "Hope all that hard work won't go to waste.",
+   "ro": "Sper că toată munca aia nu o să se irosească."
+  },
+  {
+   "key": "3300441187958263808",
+   "en": "Profit for me means profit for you – nothing simpler.",
+   "ro": "Profitul meu e și profitul tău – nimic mai simplu."
+  },
+  {
+   "key": "3300441909244334080",
+   "en": "You may not know this, but I hasten to assure you no one has ever regretted doing business with me.",
+   "ro": "Poate nu știi, dar n-a regretat nimeni vreodată că a făcut afaceri cu mine."
+  },
+  {
+   "key": "3300444166350311424",
+   "en": "Sure hope this'll be worth my while.",
+   "ro": "Sper să merite pe bune."
+  },
+  {
+   "key": "3300449037195546624",
+   "en": "The Black Sapphire... Hansen’s stronghold, guarded by elite soldiers. Military quarters are situated on lower levels while top floors are a decadent haven for the ultra-rich.",
+   "ro": "Black Sapphire... fortăreața lui Hansen, păzită de soldați de elită. Cazărmile sunt pe nivelurile de jos, iar etajele de sus sunt un refugiu decadent pentru ultra-bogați."
+  },
+  {
+   "key": "3300450501410295808",
+   "en": "The building's blueprint was not easily procured, I should say…",
+   "ro": "Planul clădirii nu a fost ușor de luat, trebuie să zic…"
+  },
+  {
+   "key": "3300451265797033984",
+   "en": "Hansen guards his hotel's secrets as if they were an embarrassing rectal itch…",
+   "ro": "Hansen își păzește secretele hotelului ca pe o mâncărime de cur jenantă…"
+  },
+  {
+   "key": "3300451793725689856",
+   "en": "But given a will, ways are usually found... You help a client of mine, they reciprocate and I gain latitude... Quid pro quo in full effect.",
+   "ro": "Dar unde-i vrere, se găsește și cale... Ajuți un client de-al meu, ei fac și ei la fel, iar eu capăt mai mult spațiu de manevră... Quid pro quo în toată regula."
+  },
+  {
+   "key": "3300453296863580160",
+   "en": "The building plans are yours. I'll even throw in vulnerabilities to watch for. A token of my appreciation.",
+   "ro": "Planurile clădirii sunt ale tale. Îți arunc și vulnerabilitățile de urmărit. Un semn de apreciere."
+  },
+  {
+   "key": "3300465398890237952",
+   "en": "And – though this goes without saying – the data, its source, are completely secure. No one knows you have it.",
+   "ro": "Și – deși e clar – datele și sursa lor sunt în siguranță. Nimeni nu știe că le ai."
+  },
+  {
+   "key": "3300465858753728512",
+   "en": "Data leaks, or lack thereof, are the difference between myself and, say, the late Mr. DeShawn.",
+   "ro": "Scurgerile de date, sau lipsa lor, fac diferența dintre mine și, zic eu, regretatul domn DeShawn."
+  },
+  {
+   "key": "3302934803291336708",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3302934990239854592",
+   "en": "Interest you in some tea? It's my own blend.",
+   "ro": "Vrei niște ceai? E amestecul meu, de casă."
+  },
+  {
+   "key": "3302937047143313408",
+   "en": "No thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "3302937572119179264",
+   "en": "Sure, why not.",
+   "ro": "Sigur, de ce nu."
+  },
+  {
+   "key": "3302938180343590912",
+   "en": "'M good, thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "3305589817132322816",
+   "en": "Great, but what about our deal?",
+   "ro": "Bun, dar ce facem cu înțelegerea noastră?"
+  },
+  {
+   "key": "3305593126790500376",
+   "en": "'S all well and good chit-chattin', but what about our deal? Did my part – time you did yours.",
+   "ro": "Sigur, e bine și frumos să bârfim, dar ce facem cu înțelegerea? Mi-am făcut partea, acum e rândul tău."
+  },
+  {
+   "key": "3305593126790500392",
+   "en": "Ah, indeed, yes…",
+   "ro": "A, da, sigur…"
+  },
+  {
+   "key": "3346430687137894400",
+   "en": "What you completed for me… significantly shifted the playing field vis-à-vis Hansen. Excellent work, precisely as requested.",
+   "ro": "Ce ai completat pentru mine... a schimbat mult terenul de joc față de Hansen. Treabă excelentă, exact cum am cerut."
+  },
+  {
+   "key": "3346453145874206724",
+   "en": "Aim to undermine Hansen, run 'im outta D-town?",
+   "ro": "Vrei să-l subminezi pe Hansen și să-l scoți din D-town?"
+  },
+  {
+   "key": "3346453571679948800",
+   "en": "Sounds like politics, the grimy kind.",
+   "ro": "Sună a politică, de cea murdară."
+  },
+  {
+   "key": "3346454306119356416",
+   "en": "Take it you'd prefer Dogtown with no Hansen at the helm.",
+   "ro": "Înțeleg că ai prefera Dogtown fără Hansen la cârmă."
+  },
+  {
+   "key": "3346455287502606336",
+   "en": "Hansen wields much power, greedily so. He's also clever. These traits I tolerate, even value – when occurring in isolation.",
+   "ro": "Hansen are multă putere și e lacom de ea. E și deștept. Trăsăturile astea le tolerez, chiar le apreciez – când apar pe rând."
+  },
+  {
+   "key": "3346456962137198592",
+   "en": "But all at once? No. Especially not in one who grips an entire district in the palm of his hand. It makes business... trying.",
+   "ro": "Dar toate odată? Nu. Mai ales la cineva care ține un întreg district în palmă. Face afacerile... complicate."
+  },
+  {
+   "key": "3346477253760520192",
+   "en": "Sounds like you're out to get your hands dirty in local politics. Pun intended.",
+   "ro": "Parcă vrei să-ți murdărești mâinile cu politica locală. Glumă cu intenție."
+  },
+  {
+   "key": "3346481268061769728",
+   "en": "I trust it's all you need to waltz in and perform your planned pirouettes. Yet, a word of caution... Even fully prepared, you’ll be marching into a pit full of vipers. Watch your step.",
+   "ro": "Sper că e tot ce-ți trebuie ca să intri și să-ți faci piruetele planificate. Totuși, un sfat... Chiar și complet pregătită, o să intri într-o groapă plină de vipere. Ai grijă pe unde calci.",
+   "ro_m": "Sper că e tot ce-ți trebuie ca să intri și să-ți faci piruetele planificate. Totuși, un sfat... Chiar și complet pregătit, o să intri într-o groapă plină de vipere. Ai grijă pe unde calci."
+  },
+  {
+   "key": "3347685598534176768",
+   "en": "Yes, well, Dogtown is a political arena like any other. It has its relations, arrangements, power struggles…",
+   "ro": "Păi, Dogtown e o arenă politică ca oricare alta. Are relațiile, aranjamentele, luptele pentru putere…"
+  },
+  {
+   "key": "3347688245307772928",
+   "en": "A careless businessman might easily drown in the mud. Me – I prefer to stay dry.",
+   "ro": "Un om de afaceri neglijent s-ar putea îneca ușor în noroi. Eu, unul, prefer să rămân uscat."
+  },
+  {
+   "key": "3347713588416614400",
+   "en": "Activity is abundant in Dogtown. And behind closed doors – plots and schemes.",
+   "ro": "Forfotă multă în Dogtown. Iar în spatele ușilor închise – intrigi și comploturi."
+  },
+  {
+   "key": "3347714808405430272",
+   "en": "Should change ever occur... as it inevitably must…",
+   "ro": "Dacă vreodată se schimbă ceva... cum sigur trebuie să se întâmple…"
+  },
+  {
+   "key": "3347716004872589312",
+   "en": "Someone really ought to pave the way for a smooth transition…",
+   "ro": "Cineva ar trebui să pregătească terenul pentru o tranziție lină…"
+  },
+  {
+   "key": "3347717065544962052",
+   "en": "[Get up] Lookin' forward to those new gigs.",
+   "ro": "[Ridică-te] Abia aștept noile gig-uri."
+  },
+  {
+   "key": "3347717517120507904",
+   "en": "[Get up] Preem to meet you in person.",
+   "ro": "[Ridică-te] Beton că te cunosc în persoană."
+  },
+  {
+   "key": "3347718367456923648",
+   "en": "Be lookin' forward to those new gigs, then.",
+   "ro": "Atunci abia aștept noile gig-uri."
+  },
+  {
+   "key": "3347718446829932544",
+   "en": "Nice meetin' you, finally pinnin' a face on the name.",
+   "ro": "Mi-a fost plăcut să te cunosc, în sfârșit îi pun o față numelui."
+  },
+  {
+   "key": "3347719789476974592",
+   "en": "You will hear from me soon, this I guarantee you.",
+   "ro": "O să auzi de mine curând, asta ți-o garantez."
+  },
+  {
+   "key": "3347721200608612352",
+   "en": "You should count yourself lucky. Few have done so and lived to tell the tale.",
+   "ro": "Ar trebui să te consideri norocoasă. Puțini au făcut-o și au trăit să povestească.",
+   "ro_m": "Ar trebui să te consideri norocos. Puțini au făcut-o și au trăit să povestească."
+  },
+  {
+   "key": "3347722363739443200",
+   "en": "You're going where local and international politics mix – strong currents, both.",
+   "ro": "Mergi acolo unde se amestecă politica locală cu cea internațională – curenți puternici, amândoi."
+  },
+  {
+   "key": "3347724251578896384",
+   "en": "Make sure to plant my feet firmly, then. Later, Hands.",
+   "ro": "Ai grijă să-mi pui bine picioarele la pământ. Pe curând, Hands."
+  },
+  {
+   "key": "3353389181002977280",
+   "en": "So, how did this combat zone become \"Dogtown\" – do you know?",
+   "ro": "Deci cum a ajuns Combat Zone să se numească „Dogtown” – tu știi?"
+  },
+  {
+   "key": "3353391647253729284",
+   "en": "Dunno. Unification War?",
+   "ro": "Habar n-am. Războiul Unificării?"
+  },
+  {
+   "key": "3353393114119278592",
+   "en": "Don't really care.",
+   "ro": "Nu-mi pasă prea mult."
+  },
+  {
+   "key": "3353395279940423680",
+   "en": "Heard this 'n' that… Somethin' to do with the war?",
+   "ro": "Am auzit una-alta… Ceva cu războiul?"
+  },
+  {
+   "key": "3353397454234062848",
+   "en": "Twenty-sixty-nine. Colonel Hansen led an operation colorfully called \"Midnight Storm.\" The objective – to occupy this combat zone and establish an NUSA staging ground in Night City.",
+   "ro": "Două mii șaizeci și nouă. Colonelul Hansen a condus o operațiune numită pompos „Midnight Storm”. Scopul – să ocupe Combat Zone și să înființeze o bază NUSA în Night City."
+  },
+  {
+   "key": "3353398688550621184",
+   "en": "Soon after, the sides agreed to a ceasefire. Hansen's force was left to fend for itself. Headquarters, the public, everyone – feigned ignorance, pretending Hansen and company were never here.",
+   "ro": "Curând după, părțile au convenit la un armistițiu. Forțele lui Hansen au fost lăsate să se descurce singure. Cartierul general, publicul, toată lumea s-a făcut că nu știe, de parcă Hansen și ai lui n-ar fi fost niciodată aici."
+  },
+  {
+   "key": "3353405322211495936",
+   "en": "But our good colonel decided to put down roots. He declared this combat zone an NUSA territory. In our terms, he carved out an enclave for himself and went from soldier to arms dealer overnight.",
+   "ro": "Dar colonelul nostru cel bun a decis să prindă rădăcini. A declarat Combat Zone teritoriu NUSA. Pe românește, și-a făcut o enclavă și a trecut de la soldat la traficant de arme peste noapte."
+  },
+  {
+   "key": "3353406976679874560",
+   "en": "Marooned, he was. Two weeks for a bullet to reach his brain, everyone thought. But his brain remained intact, and he became a force to be reckoned with.",
+   "ro": "Abandonat, așa era. Toată lumea credea că în două săptămâni îi ajunge un glonț în creier. Dar creierul i-a rămas intact și a ajuns o forță de luat în seamă."
+  },
+  {
+   "key": "3359355202868219904",
+   "en": "Dogtown, Pacifica, then I'd line up the rest, snort and it'd be done.",
+   "ro": "Dogtown, Pacifica, apoi îi mai aliniam pe ceilalți, trăgeam o linie și gata."
+  },
+  {
+   "key": "3359355901035286528",
+   "en": "Working with bona fide professionals – positively a treat.",
+   "ro": "Să lucrezi cu profesioniști adevărați – chiar o plăcere."
+  },
+  {
+   "key": "3359357067337011204",
+   "en": "Didn’t expect a face-to-face with the elusive Mr. Hands.",
+   "ro": "Nu mă așteptam să dau față în față cu evazivul domn Hands."
+  },
+  {
+   "key": "3359371551074029568",
+   "en": "C'mon, Hands – flattery, really? Seems a little beneath you.",
+   "ro": "Hai, Hands – lingușeli? Serios? Pare cam sub nivelul tău."
+  },
+  {
+   "key": "3359371597563695104",
+   "en": "Maybe the one thing I didn't expect – to see the man behind the holo-curtain. The elusive Mr. Hands in the flesh.",
+   "ro": "Poate singurul lucru la care nu mă așteptam – să-l văd pe omul din spatele cortinei holo. Evazivul domn Hands, în carne și oase."
+  },
+  {
+   "key": "3359372495916503040",
+   "en": "An overused tactic, agreed – unnecessary. No, V, this is strictly business.",
+   "ro": "O tactică suprautilizată, de acord – inutilă. Nu, V, e strict afaceri."
+  },
+  {
+   "key": "3359373000071843840",
+   "en": "For those who do their work well, praise is a mere restating of the facts.",
+   "ro": "Pentru cei care își fac bine treaba, lauda nu e decât o simplă constatare a faptelor."
+  },
+  {
+   "key": "3359386788460367872",
+   "en": "A man whose existence is a threat to many is a dangerous man, indeed.",
+   "ro": "Un om a cărui simplă existență e o amenințare pentru mulți e, într-adevăr, periculos."
+  },
+  {
+   "key": "3359437264476311552",
+   "en": "Flattery? Really?",
+   "ro": "Lingușeli? Serios?"
+  },
+  {
+   "key": "3363515627715510276",
+   "en": "[Sit and drink]",
+   "ro": "[Așează-te și bea]"
+  },
+  {
+   "key": "3478118900188471296",
+   "en": "Not only did you rescue those clowns in blue, you also managed to eliminate Dodger.",
+   "ro": "Nu doar că ai salvat clovnii ăia în albastru, ci ai reușit și să-l elimini pe Dodger."
+  },
+  {
+   "key": "3478142757137965060",
+   "en": "Not only did you rescue those clowns in blue, you also managed to reach an accord with Dodger.",
+   "ro": "Nu doar că ai salvat clovnii ăia în albastru, ci ai reușit și să ajungi la o înțelegere cu Dodger."
+  },
+  {
+   "key": "3478143494731489288",
+   "en": "Despite some setbacks, you retrieved the Zetatech blueprints.",
+   "ro": "În ciuda unor piedici, ai recuperat planurile Zetatech."
+  },
+  {
+   "key": "3478143629536419840",
+   "en": "You retrieved the Zetatech blueprints… and the coveted prototype.",
+   "ro": "Ai recuperat planurile Zetatech… și prototipul râvnit."
+  },
+  {
+   "key": "3479773786487787520",
+   "en": "[Take shard] Was countin' on somethin' juicier.",
+   "ro": "[Ia shard-ul] Mă așteptam la ceva mai suculent."
+  },
+  {
+   "key": "3479775964388528128",
+   "en": "Honestly? Was countin' on more than hotel blueprints.",
+   "ro": "Sincer? Mă așteptam la mai mult decât planurile unui hotel."
+  },
+  {
+   "key": "3479778289878437888",
+   "en": "I have no doubt an industrious individual like yourself will make the best of them. The same goes for some new assignments I will line up for you soon.",
+   "ro": "Nu am nicio îndoială că o persoană harnică ca tine o să scoată maximum din ele. La fel și cu noile misiuni pe care o să ți le pregătesc în curând."
+  },
+  {
+   "key": "3479786304438407168",
+   "en": "[Take shard] Was countin' on somethin' juicier.",
+   "ro": "[Ia shard-ul] Mă așteptam la ceva mai suculent."
+  },
+  {
+   "key": "3530329526100955136",
+   "en": "You have proven to be a person I can trust. Hence my decision to drop the veil and meet in person. A rare occurrence, I assure you.",
+   "ro": "Ai dovedit că ești o persoană de încredere. De aceea am decis să ridic vălul și să ne vedem față în față. Nu fac asta des, te asigur."
+  },
+  {
+   "key": "3530388714994929664",
+   "en": "Calm, collected and professional. Bravo.",
+   "ro": "Calm, cu sânge rece și profesionist. Bravo."
+  },
+  {
+   "key": "3530389274716409856",
+   "en": "Your head in the game throughout. Well done.",
+   "ro": "Cu mintea la treabă tot timpul. Bine lucrat."
+  },
+  {
+   "key": "3530389974292762624",
+   "en": "Not all prove willing and able to follow through no matter the cost. I respect that.",
+   "ro": "Nu toți sunt dispuși și capabili să ducă lucrurile până la capăt, orice ar costa. Respect asta."
+  },
+  {
+   "key": "3530390672996700160",
+   "en": "Making impossible decisions under immense pressure – an invaluable skill that few possess.",
+   "ro": "Deciziile imposibile luate sub presiune uriașă sunt o abilitate rară, pe care puțini o au."
+  },
+  {
+   "key": "3530402189112643584",
+   "en": "I know it may not seem all that clear from where you stand, but…",
+   "ro": "Știu că poate nu se vede atât de clar de unde ești, dar…"
+  },
+  {
+   "key": "3530403085401853952",
+   "en": "The gigs you have completed will allow me to audaciously shift some of the pawns and figures on the... chessboard that is Dogtown. Checkmate is but a few moves away.",
+   "ro": "Gig-urile pe care le-ai terminat o să-mi permită să mut cu îndrăzneală câteva piese pe... tabla de șah care e Dogtown. Matul e la doar câteva mutări distanță."
+  },
+  {
+   "key": "3559482698268753924",
+   "en": "[Knock]",
+   "ro": "[Bate la ușă]"
+  },
+  {
+   "key": "3873950319433093132",
+   "en": "Lookin' forward to those new gigs.",
+   "ro": "Abia aștept noile gig-uri."
+  },
+  {
+   "key": "3873950319449870336",
+   "en": "Preem to meet you in person.",
+   "ro": "Beton să te cunosc față în față."
+  }
+ ]
+}

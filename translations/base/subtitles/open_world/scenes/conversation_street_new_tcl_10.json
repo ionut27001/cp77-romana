@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_10.json",
+ "entries": [
+  {
+   "key": "2276540470522978316",
+   "en": "<kiroshi l=\"jpn\" o=\"もし払いたくないとかいい出したら？\" t=\"And what if he doesn't wanna fork out?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もし払いたくないとかいい出したら？\" t=\"Și dacă nu vrea să scoată banii?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276540470522978328",
+   "en": "<kiroshi l=\"jpn\" o=\"指をへし折って、インプラントを何個かぶっ壊してやりな。返済が少し遅れるけど、ナメられるよりマシだ\" t=\"You break his fingers, bust some of his implants – just he'll take longer to pay us off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"指をへし折って、インプラントを何個かぶっ壊してやりな。返済が少し遅れるけど、ナメられるよりマシだ\" t=\"Îi rupi degetele, îi spargi câteva implanturi. Întârzie cu plata, dar măcar nu ne ia peste picior.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

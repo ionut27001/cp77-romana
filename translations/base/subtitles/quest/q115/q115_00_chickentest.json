@@ -1,0 +1,354 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q115\\q115_00_chickentest.json",
+ "entries": [
+  {
+   "key": "1264703158795280384",
+   "en": "[db_db]Yes, finished Rogue sidequest sq031.",
+   "en_m": "[db_db]Had sex with Rogue in sq031",
+   "ro": "[db_db]Da, am terminat misiunea secundară sq031 a lui Rogue.",
+   "ro_m": "[db_db]Am făcut sex cu Rogue în sq031."
+  },
+  {
+   "key": "1264703158795280400",
+   "en": "[db_db]No, Did NOT do sq031.",
+   "en_m": "[db_db]Rogue is just a friend",
+   "ro": "[db_db]Nu, NU am făcut sq031.",
+   "ro_m": "[db_db]Rogue e doar o prietenă."
+  },
+  {
+   "key": "1695590529633361924",
+   "en": "[db_db]Waking up",
+   "ro": "[db_db]Trezire"
+  },
+  {
+   "key": "1695590684235407360",
+   "en": "[db_db]Roof",
+   "ro": "[db_db]Acoperiș"
+  },
+  {
+   "key": "1705650255687589892",
+   "en": "[db_db]Hanako meeting in Restaurant",
+   "ro": "[db_db]Întâlnire cu Hanako în restaurant"
+  },
+  {
+   "key": "1705650531135922176",
+   "en": "[db_db]Johnny in elevator",
+   "ro": "[db_db]Johnny în lift"
+  },
+  {
+   "key": "1721065173643436036",
+   "en": "[db_db]Yes, finished Panam sidequest sq027.",
+   "ro": "[db_db]Da, am terminat misiunea secundară sq027 a lui Panam."
+  },
+  {
+   "key": "1721065706219380736",
+   "en": "[db_db]No, Did NOT do sq027.",
+   "ro": "[db_db]Nu, NU am făcut sq027."
+  },
+  {
+   "key": "1775008451707019264",
+   "en": "[db_db]Hanako meeting was set up in Q112.",
+   "ro": "[db_db]Întâlnirea cu Hanako a fost stabilită în Q112."
+  },
+  {
+   "key": "1775008451707019280",
+   "en": "[db_db]Hanako meeting was NOT set up in Q112.",
+   "ro": "[db_db]Întâlnirea cu Hanako NU a fost stabilită în Q112."
+  },
+  {
+   "key": "1775017356214411264",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1775017458958082048",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1775017568546856960",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1864480660980244484",
+   "en": "[db_db]No lover",
+   "ro": "[db_db]Fără partener"
+  },
+  {
+   "key": "1864480784829652992",
+   "en": "[db_db]River",
+   "ro": "[db_db]River"
+  },
+  {
+   "key": "1864480871400087552",
+   "en": "[db_db]Judy",
+   "ro": "[db_db]Judy"
+  },
+  {
+   "key": "1864480905222955008",
+   "en": "[db_db]Kerry",
+   "ro": "[db_db]Kerry"
+  },
+  {
+   "key": "1864480965872590848",
+   "en": "[db_db]Panam",
+   "ro": "[db_db]Panam"
+  },
+  {
+   "key": "1864863616789913604",
+   "en": "[db_db]Alt is pissed at Johnny.",
+   "ro": "[db_db]Alt e nervoasă pe Johnny."
+  },
+  {
+   "key": "1864863829323685888",
+   "en": "[db_db]Alt is not pissed at Johnny.",
+   "ro": "[db_db]Alt nu e nervoasă pe Johnny."
+  },
+  {
+   "key": "1864864516283572224",
+   "en": "[db_db]Beginning of the Quest",
+   "ro": "[db_db]Începutul misiunii"
+  },
+  {
+   "key": "1864864796345638912",
+   "en": "[db_db]Hanako Meeting",
+   "ro": "[db_db]Întâlnire cu Hanako"
+  },
+  {
+   "key": "1864864941166567424",
+   "en": "[db_db]Ripperdoc",
+   "ro": "[db_db]Ripperdoc"
+  },
+  {
+   "key": "1864865037920772096",
+   "en": "[db_db]Afterlife",
+   "ro": "[db_db]Afterlife"
+  },
+  {
+   "key": "1864865152442048512",
+   "en": "[db_db]Attack on Arasaka Tower",
+   "ro": "[db_db]Atac asupra Turnului Arasaka"
+  },
+  {
+   "key": "1866047982157176832",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "1866048200546197504",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "1866048255340584960",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "1866325744201768964",
+   "en": "[db_db]Jungle",
+   "ro": "[db_db]Jungle"
+  },
+  {
+   "key": "1866325999852986368",
+   "en": "[db_db]Atrium",
+   "ro": "[db_db]Atrium"
+  },
+  {
+   "key": "1866326039765983232",
+   "en": "[db_db]Netrunner's Nest",
+   "ro": "[db_db]Cuibul netrunnerului"
+  },
+  {
+   "key": "1866326111186591744",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1866326738251816964",
+   "en": "[db_db]Start of Afterlife",
+   "ro": "[db_db]Începutul Afterlife"
+  },
+  {
+   "key": "1866327376910098432",
+   "en": "[db_db]After waking up",
+   "ro": "[db_db]După trezire"
+  },
+  {
+   "key": "1866327506782527488",
+   "en": "[db_db]Nix",
+   "ro": "[db_db]Nix"
+  },
+  {
+   "key": "1866327634843017216",
+   "en": "[db_db]After Alt",
+   "ro": "[db_db]După Alt"
+  },
+  {
+   "key": "1866327767030702080",
+   "en": "[db_db]AV",
+   "ro": "[db_db]AV"
+  },
+  {
+   "key": "1866327815516856320",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1867883506945761284",
+   "en": "[db_db]Saved Weyland",
+   "ro": "[db_db]L-am salvat pe Weyland"
+  },
+  {
+   "key": "1867883737598926848",
+   "en": "[db_db]Did NOT save Weyland",
+   "ro": "[db_db]NU l-am salvat pe Weyland"
+  },
+  {
+   "key": "1867883999709372416",
+   "en": "[db_db]Saved Weyland",
+   "ro": "[db_db]L-am salvat pe Weyland"
+  },
+  {
+   "key": "1867883999709372432",
+   "en": "[db_db]Did NOT save Weyland",
+   "ro": "[db_db]NU l-am salvat pe Weyland"
+  },
+  {
+   "key": "1904101899893743620",
+   "en": "[db_db]V and Johnny are friends (Tapeworm Breakthrough).",
+   "ro": "[db_db]V și Johnny sunt prieteni (Tapeworm Breakthrough)."
+  },
+  {
+   "key": "1904102055267540992",
+   "en": "[db_db]There was no Tapeworm Breakthroug.",
+   "ro": "[db_db]Nu a existat Tapeworm Breakthrough."
+  },
+  {
+   "key": "1905316550719578116",
+   "en": "[db_db]Claire likes V",
+   "ro": "[db_db]Claire îl/o place pe V"
+  },
+  {
+   "key": "1905316976424656896",
+   "en": "[db_db]Claire is Angry at V",
+   "ro": "[db_db]Claire e furioasă pe V"
+  },
+  {
+   "key": "1918451089210531840",
+   "en": "[db_db]Picked Panam",
+   "ro": "[db_db]Am ales-o pe Panam"
+  },
+  {
+   "key": "1918451309562486784",
+   "en": "[db_db]Picked Hanako",
+   "ro": "[db_db]Am ales-o pe Hanako"
+  },
+  {
+   "key": "1918451809238310916",
+   "en": "[db_db]Takemura is alive",
+   "ro": "[db_db]Takemura e în viață"
+  },
+  {
+   "key": "1918477113575006208",
+   "en": "[db_db]Takemura died",
+   "ro": "[db_db]Takemura a murit"
+  },
+  {
+   "key": "1918497932556558340",
+   "en": "[db_db]Panam is a lover",
+   "ro": "[db_db]Panam e iubită"
+  },
+  {
+   "key": "1918498144385687552",
+   "en": "[db_db]Not in relationship with Panam",
+   "ro": "[db_db]Nu sunt în relație cu Panam"
+  },
+  {
+   "key": "1918540661609127936",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1918540963062145024",
+   "en": "[db_db][BACK]",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "1922858652244385792",
+   "en": "[db_db][...........]",
+   "ro": "[db_db][...........]"
+  },
+  {
+   "key": "1960535499316666368",
+   "en": "[db_db]Taking Pills",
+   "ro": "[db_db]Iau pastile"
+  },
+  {
+   "key": "1996855027335962624",
+   "en": "[db_db]Normal",
+   "ro": "[db_db]NORMAL"
+  },
+  {
+   "key": "1996855546154590208",
+   "en": "[db_db]Skip starting scenes",
+   "ro": "[db_db]Sari peste scenele de început"
+  },
+  {
+   "key": "2015281710577491972",
+   "en": "[db_db]Roof",
+   "ro": "[db_db]Acoperiș"
+  },
+  {
+   "key": "2015281820552142848",
+   "en": "[db_db]Tower Lobby",
+   "ro": "[db_db]Holul turnului"
+  },
+  {
+   "key": "2015281909387501568",
+   "en": "[db_db]Netrunner's Nest",
+   "ro": "[db_db]Cuibul netrunnerului"
+  },
+  {
+   "key": "2015281999179161600",
+   "en": "[db_db]Adam Smasher",
+   "ro": "[db_db]Adam Smasher"
+  },
+  {
+   "key": "2015282133380112384",
+   "en": "[db_db]Mikoshi",
+   "ro": "[db_db]Mikoshi"
+  },
+  {
+   "key": "2064657015104348164",
+   "en": "[db_db]Start of Atrium",
+   "ro": "[db_db]Începutul atriumului"
+  },
+  {
+   "key": "2064657820175835136",
+   "en": "[db_db]Connecting Alt",
+   "ro": "[db_db]Conectare Alt"
+  },
+  {
+   "key": "2064892952455421952",
+   "en": "[db_db]Cyberspace",
+   "ro": "[db_db]Ciberspațiu"
+  },
+  {
+   "key": "2332874343774691332",
+   "en": "[db_db]Player is Immortal",
+   "ro": "[db_db]Jucătorul e nemuritor"
+  },
+  {
+   "key": "2332874705994784768",
+   "en": "[db_db]Normal",
+   "ro": "[db_db]NORMAL"
+  },
+  {
+   "key": "2518273836678045696",
+   "en": "[db_db]RECORDING (don't pick to play)",
+   "ro": "[db_db]ÎNREGISTRARE (nu alege pentru a juca)"
+  }
+ ]
+}

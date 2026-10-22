@@ -1,0 +1,637 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q113\\q113_07_mikoshi.json",
+ "entries": [
+  {
+   "key": "1715518415144230912",
+   "en": "Though earlier... soon after you abducted me...",
+   "ro": "Deși mai devreme... la scurt timp după ce m-ai răpit..."
+  },
+  {
+   "key": "1760692181418393600",
+   "en": "It is done. We may go.",
+   "ro": "S-a terminat. Putem pleca."
+  },
+  {
+   "key": "1760734771220070400",
+   "en": "I... Johnny, fuck no... Not now!",
+   "en_m": "I-- Johnny, fuck no... not now!",
+   "ro": "Eu... Johnny, nici în pula mea... nu acum!"
+  },
+  {
+   "key": "1761764088704155648",
+   "en": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Father.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Tată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1761764752712810496",
+   "en": "Fuck you. Silverhand sends his regards.",
+   "ro": "Futu-te. Silverhand îți transmite salutări."
+  },
+  {
+   "key": "1761765033244639232",
+   "en": "Why'm I here?",
+   "ro": "De ce sunt aici?"
+  },
+  {
+   "key": "1761765192963735552",
+   "en": "Not about to talk to you.",
+   "ro": "N-am de gând să vorbesc cu tine."
+  },
+  {
+   "key": "1761769029325832192",
+   "en": "It's an honor…",
+   "ro": "E o onoare…"
+  },
+  {
+   "key": "1761770557881204736",
+   "en": "Why am I here?",
+   "en_m": "Why'm I here?",
+   "ro": "De ce sunt aici?"
+  },
+  {
+   "key": "1761771222292512768",
+   "en": "Got that right, you bastard!",
+   "ro": "Așa e, nenorocitule!"
+  },
+  {
+   "key": "1761771565218807808",
+   "en": "<kiroshi l=\"jpn\" o=\"ハッ\" t=\"Ha.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハッ\" t=\"Ha.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1761772564369129472",
+   "en": "If you think I'll talk to you – forget it.",
+   "ro": "Dacă crezi că o să vorbesc cu tine, uită de asta."
+  },
+  {
+   "key": "1761773175395336192",
+   "en": "It's an honor to finally make your acquaintance…",
+   "ro": "E o onoare să te cunosc în sfârșit…"
+  },
+  {
+   "key": "1761773726761762816",
+   "en": "I used to work for Arasaka counterintel in Night City, before…",
+   "ro": "Lucram pentru contrainformațiile Arasaka în Night City, înainte de…"
+  },
+  {
+   "key": "1761783469928628224",
+   "en": "Silverhand sends his regards.",
+   "ro": "Silverhand îți transmite salutări."
+  },
+  {
+   "key": "1824104557170266112",
+   "en": "<kiroshi l=\"jpn\" o=\"お前は我が社から盗みを働いた\" t=\"You stole from my company.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前は我が社から盗みを働いた\" t=\"Ai furat din compania mea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824105142477000704",
+   "en": "<kiroshi l=\"jpn\" o=\"さらには娘の誘拐に加担し――\" t=\"You aided in my daughter's abduction.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さらには娘の誘拐に加担し――\" t=\"Ai ajutat la răpirea fiicei mele.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824105491141103616",
+   "en": "<kiroshi l=\"jpn\" o=\"今度は息子を葬り去ろうとしている\" t=\"And now you will bring my son to his demise.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"今度は息子を葬り去ろうとしている\" t=\"Și acum o să-l duci pe fiul meu la pieire.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824117826253623296",
+   "en": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"She is one of a kind.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"He is one of a kind.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"E unică.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"E unic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824123159579594752",
+   "en": "<kiroshi l=\"jpn\" o=\"私のテクノロジーと己の愚行によって身を滅ぼす前のことか\" t=\"Before you became a victim of my technology and your stupidity.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私のテクノロジーと己の愚行によって身を滅ぼす前のことか\" t=\"Înainte să devii victima tehnologiei mele și a prostiei tale.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824172674714046464",
+   "en": "<kiroshi l=\"jpn\" o=\"生と死…\" t=\"Life, death...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"生と死…\" t=\"Viață, moarte...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824176913259565056",
+   "en": "<kiroshi l=\"jpn\" o=\"私たちの使命は――\" t=\"That is what we are doing.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私たちの使命は――\" t=\"Asta facem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824177960426278912",
+   "en": "<kiroshi l=\"jpn\" o=\"その境界を限りなく薄くすることだ\" t=\"Making the dividing line thinner and thinner.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"その境界を限りなく薄くすることだ\" t=\"Să subțiem linia despărțitoare tot mai mult.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824178288722841600",
+   "en": "<kiroshi l=\"jpn\" o=\"お前はそのプロセスの一部となった。感謝しなくてはな\" t=\"And you became a part of this process. I suppose I should thank you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前はそのプロセスの一部となった。感謝しなくてはな\" t=\"Și ai devenit parte din acest proces. Cred că ar trebui să-ți mulțumesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824212573248950272",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコの言うとおりだな\" t=\"You were right, Hanako.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコの言うとおりだな\" t=\"Ai avut dreptate, Hanako.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824218436953051136",
+   "en": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"It is she.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"It is he.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"Ea este.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"El este.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1824245662985621504",
+   "en": "Never signed on for this!",
+   "ro": "N-am semnat pentru asta!"
+  },
+  {
+   "key": "1824246559107059712",
+   "en": "Could've warned me.",
+   "ro": "Puteai să mă avertizezi."
+  },
+  {
+   "key": "1824249633246679040",
+   "en": "Never signed up for this!",
+   "ro": "N-am semnat pentru asta!"
+  },
+  {
+   "key": "1824249670257217536",
+   "en": "Could've given me a heads up.",
+   "ro": "Puteai măcar să mă anunți din timp."
+  },
+  {
+   "key": "1825862985198735360",
+   "en": "Executive floor's up top…",
+   "ro": "Etajul executiv e sus…"
+  },
+  {
+   "key": "1825863062692696064",
+   "en": "We're going down…?",
+   "en_m": "We're goin' down…",
+   "ro": "Mergem în jos…?"
+  },
+  {
+   "key": "1825865485138137088",
+   "en": "I told you – Mikoshi can be accessed only from a room beneath Arasaka Tower.",
+   "ro": "Ți-am spus – la Mikoshi se poate ajunge doar dintr-o cameră de sub Turnul Arasaka."
+  },
+  {
+   "key": "1825865869789368320",
+   "en": "Before we interrupt this board meeting, we must do one more thing.",
+   "ro": "Înainte să întrerupem ședința consiliului, trebuie să mai facem un lucru."
+  },
+  {
+   "key": "1825866592149180416",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1825867694076727296",
+   "en": "So why're we descending?",
+   "ro": "Atunci de ce coborâm?"
+  },
+  {
+   "key": "1825867824788017152",
+   "en": "Correct.",
+   "ro": "Corect."
+  },
+  {
+   "key": "1825868995686699008",
+   "en": "Keep gettin' this weird feeling you're not telling me the whole truth.",
+   "en_m": "Keep getting this weird feeling you're not telling me the whole truth.",
+   "ro": "Tot am senzația asta ciudată că nu-mi spui tot adevărul."
+  },
+  {
+   "key": "1825870677183172608",
+   "en": "There is trust between us now. That is why you are here.",
+   "ro": "Acum e încredere între noi. De-asta ești aici."
+  },
+  {
+   "key": "1825874072505815040",
+   "en": "Because I am not telling you the whole truth.",
+   "ro": "Pentru că nu-ți spun tot adevărul."
+  },
+  {
+   "key": "1825874324063391744",
+   "en": "I am cautious.",
+   "ro": "Sunt precaut."
+  },
+  {
+   "key": "1825877092404695040",
+   "en": "Thought you said we trusted each other.",
+   "ro": "Ziceai că ne putem încrede unul în altul."
+  },
+  {
+   "key": "1825899115017277440",
+   "en": "His office is not the only replica he created.",
+   "ro": "Biroul lui nu-i singura replică pe care a făcut-o."
+  },
+  {
+   "key": "1825901745399533568",
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "key": "1825906453237338112",
+   "en": "I sought his counsel.",
+   "ro": "I-am cerut sfatul."
+  },
+  {
+   "key": "1825925022780100608",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "1825927783135449088",
+   "en": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼女がバカなことをしでかす前に\" t=\"We should go... before she does something stupid.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼がバカなことをしでかす前に\" t=\"We should go... before he does something stupid.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼女がバカなことをしでかす前に\" t=\"Ar trebui să mergem... înainte să facă vreo prostie.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼がバカなことをしでかす前に\" t=\"Ar trebui să mergem... înainte să facă vreo prostie.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841697679718879232",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカにずいぶんと恨みがあるようだな\" t=\"One might think you have a grudge against Arasaka.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカにずいぶんと恨みがあるようだな\" t=\"Parcă ai o ranchiună pe Arasaka.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841703054048366592",
+   "en": "<kiroshi l=\"jpn\" o=\"そのはざまに…\" t=\"And in between...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そのはざまに…\" t=\"Iar între ele...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841705595041615872",
+   "en": "<kiroshi l=\"jpn\" o=\"ガラスがある\" t=\"Glass.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ガラスがある\" t=\"Sticlă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841711470842089476",
+   "en": "In this for myself and alone.",
+   "ro": "Fac asta pentru mine, pe cont propriu."
+  },
+  {
+   "key": "1841711580330201088",
+   "en": "Thanks won't be near enough.",
+   "ro": "Un mersi nu ajunge."
+  },
+  {
+   "key": "1841712794312773632",
+   "en": "Doin' this for myself alone.",
+   "ro": "Fac asta doar pentru mine."
+  },
+  {
+   "key": "1841712875212509184",
+   "en": "Thanks won't be near enough.",
+   "ro": "Un mersi nu ajunge."
+  },
+  {
+   "key": "1841713039008468992",
+   "en": "And not about to end up beyond a glass pane.",
+   "ro": "Și nu vreau să ajung dincolo de un geam."
+  },
+  {
+   "key": "1841723310456311808",
+   "en": "<kiroshi l=\"jpn\" o=\"さて、時間を無駄にするのはよそう\" t=\"Let us not waste any more time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さて、時間を無駄にするのはよそう\" t=\"Să nu mai pierdem timpul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841749823373316096",
+   "en": "<kiroshi l=\"jpn\" o=\"準備はいいぞ、ハナコ\" t=\"I am ready, Hanako.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"準備はいいぞ、ハナコ\" t=\"Sunt pregătit, Hanako.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841752511217537024",
+   "en": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Father.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Tată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841755617804292096",
+   "en": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"This I know. You will be compensated appropriately.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"Știu asta. Vei fi compensată corespunzător.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"Știu asta. Vei fi compensat corespunzător.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1841769802772647936",
+   "en": "Fuck me dizzy…",
+   "ro": "Futu-i mama mă-sii…"
+  },
+  {
+   "key": "1841781785127424000",
+   "en": "Uh, whose?",
+   "ro": "Ăă, al cui?"
+  },
+  {
+   "key": "1841781826332266496",
+   "en": "Father's.",
+   "ro": "Al tatălui."
+  },
+  {
+   "key": "1843279128821633024",
+   "en": "<kiroshi l=\"jpn\" o=\"大胆さと傲慢さの境界もまた薄いものだ\" t=\"The border between boldness and insolence is also thin.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"大胆さと傲慢さの境界もまた薄いものだ\" t=\"Granița dintre îndrăzneală și nesimțire e și ea subțire.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844422167308931072",
+   "en": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"Let's begin.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"Să începem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844439463662325760",
+   "en": "I could not reveal anything until now.",
+   "ro": "N-am putut spune nimic până acum."
+  },
+  {
+   "key": "1844440694170456064",
+   "en": "No, I could not have.",
+   "ro": "Nu, n-aș fi putut."
+  },
+  {
+   "key": "1844450271377100800",
+   "en": "Why?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1844450332328726528",
+   "en": "<kiroshi l=\"jpn\" o=\"私が口外を禁じたからだ\" t=\"I forbade her from doing so.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私が口外を禁じたからだ\" t=\"I-am interzis să vorbească.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844451479621865472",
+   "en": "Bullshit!",
+   "ro": "Pe dracu'!"
+  },
+  {
+   "key": "1844452084172066816",
+   "en": "V... You are being disrespectful.",
+   "ro": "V... Nu ai pic de respect."
+  },
+  {
+   "key": "1844485967118733312",
+   "en": "<kiroshi l=\"jpn\" o=\"お前を自らの目で見てみたかった\" t=\"I wished to see you with my own eyes.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前を自らの目で見てみたかった\" t=\"Am vrut să te văd cu ochii mei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844489113719148544",
+   "en": "<kiroshi l=\"jpn\" o=\"お前の意見は関係ない\" t=\"What you want is of no importance.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前の意見は関係ない\" t=\"Ce vrei tu nu contează.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844498747179798528",
+   "en": "Made a deal with Hanako, not you.",
+   "ro": "Am făcut o înțelegere cu Hanako, nu cu tine."
+  },
+  {
+   "key": "1844499144732708864",
+   "en": "<kiroshi l=\"jpn\" o=\"ほう。それはどうかな\" t=\"Ah. Is this what you think?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ほう。それはどうかな\" t=\"Ah. Asta crezi?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1844499507103797248",
+   "en": "Because…?",
+   "ro": "Pentru că…?"
+  },
+  {
+   "key": "1844513504922308608",
+   "en": "We all make mistakes – I'm here to fix mine.",
+   "ro": "Toți greșim, eu sunt aici să-mi repar greșeala."
+  },
+  {
+   "key": "1844516918330789888",
+   "en": "<kiroshi l=\"jpn\" o=\"ごくありふれた人間が、時に重要な役割を担う――運命のいたずらとでも言うべきか\" t=\"It never ceases to amaze me how so much can at times depend on an ordinary individual.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ごくありふれた人間が、時に重要な役割を担う――運命のいたずらとでも言うべきか\" t=\"Nu încetează să mă uimească cât de mult poate depinde, uneori, de un individ obișnuit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1846017255449432064",
+   "en": "<kiroshi l=\"jpn\" o=\"ならば道は誤っていない\" t=\"Then you are on the right path.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ならば道は誤っていない\" t=\"Atunci ești pe drumul cel bun.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1896453856763658244",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1896458874057211908",
+   "en": "[Stand] Let's go.",
+   "ro": "[Ridică-te] Hai să mergem."
+  },
+  {
+   "key": "1912733334420418560",
+   "en": "Wait a sec – wanna talk to Jackie Welles.",
+   "ro": "Stai o secundă – vreau să vorbesc cu Jackie Welles."
+  },
+  {
+   "key": "1912733705096228864",
+   "en": "Who?",
+   "ro": "Cine?"
+  },
+  {
+   "key": "1912733891256217600",
+   "en": "You took his body, Arasaka did. Goro said you interrogate the dead. Think I might understand how that's possible, now.",
+   "ro": "Arasaka i-a luat corpul. Goro zicea că interoghezi morții. Acum cred că înțeleg cum e posibil."
+  },
+  {
+   "key": "1912734187122421760",
+   "en": "I'm afraid these are two wholly different things. But let us see…",
+   "ro": "Mi-e teamă că-s lucruri total diferite. Hai să vedem..."
+  },
+  {
+   "key": "1912734340751388672",
+   "en": "Jackie Welles...",
+   "ro": "Jackie Welles..."
+  },
+  {
+   "key": "1951816865171709952",
+   "en": "That's not all. Wanna talk to Jackie Welles.",
+   "ro": "Mai e ceva. Vreau să vorbesc cu Jackie Welles."
+  },
+  {
+   "key": "2008157582990843904",
+   "en": "Let's get out of here.",
+   "ro": "Hai să plecăm de aici."
+  },
+  {
+   "key": "2008158247939022848",
+   "en": "Let's get outta here.",
+   "ro": "Hai să ne cărăm de aici."
+  },
+  {
+   "key": "2008322358689853440",
+   "en": "<mothertongue l=\"mex\" m=\"Chica!\" b=\"\" a=\" Finally!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Hermano!\" b=\"\" a=\" Finally!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Chica!\" b=\"\" a=\" În sfârșit!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Hermano!\" b=\"\" a=\" În sfârșit!\"/>"
+  },
+  {
+   "key": "2008322397562662912",
+   "en": "Hey... never did get the chance to thank you.",
+   "ro": "Hei... n-am avut niciodată ocazia să-ți mulțumesc."
+  },
+  {
+   "key": "2008322403585683456",
+   "en": "Jackie! How... how do you feel?",
+   "ro": "Jackie! Cum... cum te simți?"
+  },
+  {
+   "key": "2008322408534962176",
+   "en": "Misty misses you... loads.",
+   "ro": "Misty îți duce dorul... și încă cum."
+  },
+  {
+   "key": "2008322412796375040",
+   "en": "Take it easy, amigo.",
+   "ro": "Stai liniștit, amigo."
+  },
+  {
+   "key": "2008322552768688132",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "2008322581474504704",
+   "en": "Know damn well I didn't.",
+   "ro": "Știu bine ca dracu' că n-am făcut-o."
+  },
+  {
+   "key": "2008322587933732864",
+   "en": "Go fuck yourself, Hanako.",
+   "ro": "Du-te-n pula mea, Hanako!"
+  },
+  {
+   "key": "2008322777835040768",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "2008323120207687680",
+   "en": "Never got a chance to thank you.",
+   "ro": "N-am apucat niciodată să-ți mulțumesc."
+  },
+  {
+   "key": "2008323201392635904",
+   "en": "Misty misses you.",
+   "ro": "Misty îți duce dorul."
+  },
+  {
+   "key": "2008323233252569088",
+   "en": "Take it easy, old friend.",
+   "ro": "Stai liniștit, bătrâne."
+  },
+  {
+   "key": "2008325810165837824",
+   "en": "Afterlife – see you there!",
+   "ro": "Afterlife – ne vedem acolo!"
+  },
+  {
+   "key": "2008326252916568064",
+   "en": "Oh, Misty...",
+   "ro": "Vai, Misty..."
+  },
+  {
+   "key": "2008326330108538880",
+   "en": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Listen, \" a=\", I got this thing. Mind if I borrow your wheels?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Listen, \" a=\", I got this thing. Mind if I borrow your wheels?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Ascultă, \" a=\", am o treabă. Te superi dacă ți-o împrumut?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Ascultă, \" a=\", am o treabă. Te superi dacă ți-o împrumut?\"/>"
+  },
+  {
+   "key": "2008329878103846912",
+   "en": "Got a date with Misty, but... can't take the metro! How's that gonna look for me?",
+   "ro": "Am întâlnire cu Misty, dar... nu pot să iau metroul! Ce-o să zică de mine?"
+  },
+  {
+   "key": "2008332149470457856",
+   "en": "Checkin' to see if I'm not rotting in some dumpster, like most o' the Welles boys?",
+   "ro": "Verifici dacă nu putrezesc prin vreun container, ca majoritatea băieților Welles?"
+  },
+  {
+   "key": "2008342351712284672",
+   "en": "<mothertongue l=\"mex\" m=\"Mama\" b=\"\" a=\" told me things come to those who wait – and some're even good!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mama\" b=\"\" a=\" mi-a zis că lucrurile vin la cei care așteaptă – și unele sunt chiar bune!\"/>"
+  },
+  {
+   "key": "2008349190340407296",
+   "en": "The biochip... Hold on to it. For me.",
+   "ro": "Biochipul... Ține-l bine. Pentru mine."
+  },
+  {
+   "key": "2008351852079280128",
+   "en": "Knew I could always count on you, Jack.",
+   "ro": "Știam că pot conta pe tine, Jack."
+  },
+  {
+   "key": "2008352407992332288",
+   "en": "Shot of vodka on the rocks, lime juice, ginger beer and, most importantly... a splash of love.",
+   "ro": "Un shot de vodcă cu gheață, suc de lime, bere de ghimbir și, cel mai important... un strop de dragoste."
+  },
+  {
+   "key": "2008369670422196224",
+   "en": "Thing is, the more I say everythin's OK, the more I feel like I'm straight-up lyin'.",
+   "ro": "Problema e că, cu cât zic mai des că totul e ok, cu atât simt că mint de zor."
+  },
+  {
+   "key": "2008377331100348416",
+   "en": "Did you get what you expected?",
+   "ro": "Ai obținut ce așteptai?"
+  },
+  {
+   "key": "2008378069683728384",
+   "en": "I warned you it would be something wholly different.",
+   "ro": "Ți-am zis că o să fie cu totul altceva."
+  },
+  {
+   "key": "2012906519069007872",
+   "en": "It's really you...",
+   "ro": "Ești chiar tu..."
+  },
+  {
+   "key": "2012906519069007888",
+   "en": "Jackie! How's things?",
+   "ro": "Jackie! Ce mai faci?"
+  },
+  {
+   "key": "2012910597224341504",
+   "en": "Remember anything? 'Bout what happened?",
+   "ro": "Îți amintești ceva? Din ce s-a întâmplat?"
+  },
+  {
+   "key": "2012911267876773888",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Hit the major leagues, \" a=\"! Runnin' with Dex! Fat-assed Black Jesus of the Afterlife. A heap of partly gold-plated cool. Not bad, eh?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Hit the major leagues, \" a=\"! Runnin' with Dex! Fat-assed Black Jesus of the Afterlife. A heap of partly gold-plated cool. Not bad, eh?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ai ajuns în liga mare, \" a=\"! Te miști cu Dex! Iisusul Negru cu fund mare de la Afterlife. O grămadă de cool parțial placat cu aur. Nu-i rău, nu?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Ai ajuns în liga mare, \" a=\"! Te miști cu Dex! Iisusul Negru cu fund mare de la Afterlife. O grămadă de cool parțial placat cu aur. Nu-i rău, nu?\"/>"
+  },
+  {
+   "key": "2012913148921454608",
+   "en": "Jackie... it's really you!",
+   "ro": "Jackie... ești chiar tu!"
+  },
+  {
+   "key": "2012915225840132096",
+   "en": "Something – well said.",
+   "ro": "Așa e – bine zis."
+  },
+  {
+   "key": "2012916045272915968",
+   "en": "And so we must move on.",
+   "ro": "Deci trebuie să mergem mai departe."
+  },
+  {
+   "key": "2012918795679375360",
+   "en": "Seen enough. It's not him.",
+   "ro": "Am văzut destul. Nu e el."
+  },
+  {
+   "key": "2012927704783724544",
+   "en": "Huh... not bad bein' heir to the Arasaka empire.",
+   "ro": "Hm... nu-i rău să fii moștenitorul imperiului Arasaka."
+  },
+  {
+   "key": "2066592079971172352",
+   "en": "Seen enough. It's not Jackie.",
+   "ro": "Am văzut destul. Nu e Jackie."
+  },
+  {
+   "key": "2252097794813042688",
+   "en": "Sit down, please. I will need a moment.",
+   "ro": "Ia loc, te rog. Îmi trebuie un moment."
+  }
+ ]
+}

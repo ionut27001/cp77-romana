@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq060\\mq060_connecttoterminal.json",
+ "entries": [
+  {
+   "key": "4866943948536311808",
+   "en": "[Connect to robot]",
+   "ro": "[Conectează-te la robot]"
+  },
+  {
+   "key": "4881179811885510660",
+   "en": "[Disconnect from robot]",
+   "ro": "[Deconectează-te de la robot]"
+  }
+ ]
+}

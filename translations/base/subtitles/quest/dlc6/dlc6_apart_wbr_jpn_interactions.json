@@ -1,0 +1,200 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_apart_wbr_jpn_interactions.json",
+ "entries": [
+  {
+   "key": "2028697799592157188",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2028698177566056448",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2028699165173653504",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2028737051734482948",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "2078186557357858816",
+   "en": "[Leave shower]",
+   "ro": "[Ieși din duș]"
+  },
+  {
+   "key": "2086887489105780736",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2086931518929461248",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2123159550320091136",
+   "en": "[Turn on TV]",
+   "ro": "[Pornește televizorul]"
+  },
+  {
+   "key": "2318488737380474884",
+   "en": "[Switch to next channel]",
+   "ro": "[Schimbă pe canalul următor]"
+  },
+  {
+   "key": "2318489634374328320",
+   "en": "[Switch to previous channel]",
+   "ro": "[Schimbă pe canalul anterior]"
+  },
+  {
+   "key": "2318490007398948864",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2531839124031037440",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2531839124031037460",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2531839124031037480",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2531839124047814664",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2531839124047814684",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "2736102100211507200",
+   "en": "[Turn on]",
+   "ro": "[Pornește]"
+  },
+  {
+   "key": "2736102100396056576",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2837536351264780292",
+   "en": "[Play guitar]",
+   "ro": "[Cântă la chitară]"
+  },
+  {
+   "key": "2856450658467655680",
+   "en": "[Continue playing \"Archangel\"]",
+   "ro": "[Continuă să cânți \"Archangel\"]"
+  },
+  {
+   "key": "2857715227366338560",
+   "en": "[Play \"Chippin' In\"]",
+   "ro": "[Cântă \"Chippin' In\"]"
+  },
+  {
+   "key": "2857715275751829504",
+   "en": "[Play \"Never Fade Away\"]",
+   "ro": "[Cântă \"Never Fade Away\"]"
+  },
+  {
+   "key": "2857724039196389376",
+   "en": "[Play \"Archangel\"]",
+   "ro": "[Cântă \"Archangel\"]"
+  },
+  {
+   "key": "2857724186215133184",
+   "en": "[Continue playing \"Chippin' In\"]",
+   "ro": "[Continuă să cânți \"Chippin' In\"]"
+  },
+  {
+   "key": "2857724358752022528",
+   "en": "[Continue playing \"Never Fade Away\"]",
+   "ro": "[Continuă să cânți \"Never Fade Away\"]"
+  },
+  {
+   "key": "2857735307663847424",
+   "en": "[Stop playing]",
+   "ro": "[Oprește cântatul]"
+  },
+  {
+   "key": "2898434580129144832",
+   "en": "[Change appearance]",
+   "ro": "[Schimbă aspectul]"
+  },
+  {
+   "key": "2898434580145922060",
+   "en": "[Change facial expression]",
+   "ro": "[Schimbă expresia facială]"
+  },
+  {
+   "key": "2898436784839876608",
+   "en": "[Back]",
+   "ro": "[Înapoi]"
+  },
+  {
+   "key": "3003957558610141184",
+   "en": "[Rent apartment]",
+   "ro": "[Închiriază apartament]"
+  },
+  {
+   "key": "3069651657045651456",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "3069658357177856000",
+   "en": "[Take a drag]",
+   "ro": "[Trage un fum]"
+  },
+  {
+   "key": "3069659024374181888",
+   "en": "[Flick ash]",
+   "ro": "[Scutură cenușa]"
+  },
+  {
+   "key": "3069661786356920320",
+   "en": "[Put out]",
+   "ro": "[Stinge]"
+  },
+  {
+   "key": "3073684748726775808",
+   "en": "[Burn incense]",
+   "ro": "[Arde tămâie]"
+  },
+  {
+   "key": "3075402093564342272",
+   "en": "[Smoke]",
+   "ro": "[Fumează]"
+  },
+  {
+   "key": "3075402093564342292",
+   "en": "[Drink whiskey]",
+   "ro": "[Bea whiskey]"
+  },
+  {
+   "key": "3075402093564342308",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3357982746706075648",
+   "en": "[Open Wardrobe]",
+   "ro": "[Deschide garderoba]"
+  }
+ ]
+}

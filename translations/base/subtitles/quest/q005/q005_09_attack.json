@@ -1,0 +1,489 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_09_attack.json",
+ "entries": [
+  {
+   "key": "1615901533600964608",
+   "en": "Move, V, fuck!",
+   "ro": "Mișcă-te, V, pula mea!"
+  },
+  {
+   "key": "1615901855908061184",
+   "en": "How long you gonna make me wait, V?!",
+   "ro": "Cât mă mai faci să aștept, V?!"
+  },
+  {
+   "key": "1615924083907321856",
+   "en": "Luckily all clear for now. Shouldn't stick around, though.",
+   "ro": "Deocamdată e liniște. Da' nu ar fi bine să stăm pe loc."
+  },
+  {
+   "key": "1615926851090997248",
+   "en": "This is the first place they're gonna come lookin'.",
+   "ro": "Aici o să se uite primii, sigur."
+  },
+  {
+   "key": "1615929993396445184",
+   "en": "<kiroshi l=\"mex\" o=\"¡Más rápido, más rápido!\" t=\"Faster, faster!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Más rápido, más rápido!\" t=\"Mai repede, mai repede!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1616116426350485504",
+   "en": "<kiroshi l=\"mex\" o=\"¡Ahh! ¡Pero qué chingados!\" t=\"Ahh! Fuck me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Ahh! ¡Pero qué chingados!\" t=\"Ahh! Futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1616176656287490048",
+   "en": "<kiroshi l=\"mex\" o=\"¡Come los huevos pinches culeros!\" t=\"Eat my balls motherfuckers!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Come los huevos pinches culeros!\" t=\"Sugeți-mi pula, nenorociților!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1616176656354598912",
+   "en": "Give 'em everything you got!",
+   "ro": "Dă-le tot ce ai!"
+  },
+  {
+   "key": "1616245625509863424",
+   "en": "We gotta somehow… reach the lobby. Only chance to hit the garage.",
+   "ro": "Trebuie să ajungem cumva… în lobby. Singura șansă e să ajungem la garaj."
+  },
+  {
+   "key": "1616247819348959232",
+   "en": "And we'd best be quick.",
+   "ro": "Și ar fi bine să ne grăbim."
+  },
+  {
+   "key": "1618991084284370944",
+   "en": "This way, hurry up, V!",
+   "ro": "Pe aici, grăbește-te, V!"
+  },
+  {
+   "key": "1619019759599968256",
+   "en": "What the fuck're you waiting for? We're about to get swarmed!",
+   "ro": "Ce pula mea aștepți? Ne vin peste cap!"
+  },
+  {
+   "key": "1619019790872698880",
+   "en": "Get your ass movin', now!",
+   "ro": "Mișcă-ți fundul, acum!"
+  },
+  {
+   "key": "1634605830155063296",
+   "en": "<kiroshi l=\"mex\" o=\"Jo, jo. Ahora sí...\" t=\"Oh-ho, that's the shit...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Jo, jo. Ahora sí...\" t=\"Oho, asta e rahat de tare...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1693937686263046144",
+   "en": "You go first! I'll, uh… keep a lookout!",
+   "ro": "Tu mergi prima! Eu, ăă… țin de pază!",
+   "ro_m": "Tu mergi primul! Eu, ăă… țin de pază!"
+  },
+  {
+   "key": "1694021467921653760",
+   "en": "<kiroshi l=\"jpn\" o=\"セキュリティプロトコル違反の容疑者発見！\" t=\"Suspects in violation of security protocols!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"セキュリティプロトコル違反の容疑者発見！\" t=\"Suspecți care încalcă protocoalele de securitate!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1694027791589908480",
+   "en": "Time to bail!",
+   "ro": "E timpul să ne cărăm!"
+  },
+  {
+   "key": "1694028164799078400",
+   "en": "Jump!",
+   "ro": "Sari!"
+  },
+  {
+   "key": "1694030247422009344",
+   "en": "[Jump]",
+   "ro": "[Săritură]"
+  },
+  {
+   "key": "1695238193871003648",
+   "en": "Oh shit…",
+   "ro": "Ah, căcat…"
+  },
+  {
+   "key": "1695238636118417408",
+   "en": "The Relic!",
+   "ro": "Relic-ul!"
+  },
+  {
+   "key": "1695245106151104512",
+   "en": "Oof… Close one…",
+   "ro": "Uf… La mustață!"
+  },
+  {
+   "key": "1725832259982643200",
+   "en": "Ugh, fine!",
+   "ro": "Ugh, bine!"
+  },
+  {
+   "key": "1760345306758324224",
+   "en": "Come on, go!",
+   "ro": "Hai, mergi!"
+  },
+  {
+   "key": "1760345331404054528",
+   "en": "Ain't no time to fuck around, V!",
+   "ro": "Nu e timp de pizdării, V!"
+  },
+  {
+   "key": "1760345360562855936",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Need to get movin', \" a=\". Now!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Need to get movin', \" a=\". Now!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Trebuie să ne mișcăm, \" a=\". Acum!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Trebuie să ne mișcăm, \" a=\". Acum!\"/>"
+  },
+  {
+   "key": "1762126253616148480",
+   "en": "Shit, got two guards…",
+   "ro": "Căcat, doi paznici…"
+  },
+  {
+   "key": "1762127358882361344",
+   "en": "So let's do our thing.",
+   "ro": "Deci hai să ne vedem de treabă."
+  },
+  {
+   "key": "1762127651024023552",
+   "en": "'Thout any iron?",
+   "ro": "Fără fier?"
+  },
+  {
+   "key": "1762127919375593472",
+   "en": "Element of surprise, V. C'mon, get to it. I got a Relic to protect.",
+   "ro": "Factorul surpriză, V. Hai, pune mâna. Am un Relic de protejat."
+  },
+  {
+   "key": "1762169959371124736",
+   "en": "See, what did I say? Chickenfeed.",
+   "ro": "Vezi, ce-am zis? Mărunțiș."
+  },
+  {
+   "key": "1762171932891820032",
+   "en": "Joyride in the AV!",
+   "ro": "Plimbare cu AV-ul!"
+  },
+  {
+   "key": "1763353799410200576",
+   "en": "Welp, forget tryna pilot this thing, dunno what I was expectin'.",
+   "ro": "Ei, uită de pilotatul ăsta, nu știu ce speram."
+  },
+  {
+   "key": "1763355246344417280",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Fucking hell!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1763359106379165696",
+   "en": "Gotta get outta here! Now!",
+   "ro": "Trebuie să ne cărăm de-aici! Acum!"
+  },
+  {
+   "key": "1763469019407331332",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1763551140960415744",
+   "en": "Unauthorized access attempt detected. Remain where you are, security personnel will arrive shortly.",
+   "ro": "Tentativă de acces neautorizat detectată. Rămâneți pe loc, personalul de securitate o să sosească în curând."
+  },
+  {
+   "key": "1763554959136010240",
+   "en": "The fuck did you do?!",
+   "ro": "Ce pula mea ai făcut?!"
+  },
+  {
+   "key": "1763555221229678592",
+   "en": "Fuck! Knew somethin' was up with that firewall!",
+   "ro": "Futu-i! Știam că e ceva cu firewall-ul ăla!"
+  },
+  {
+   "key": "1763560490852560896",
+   "en": "We gotta get the fuck outta here! Now!",
+   "ro": "Trebuie să ne cărăm dracu' de-aici! Acum!"
+  },
+  {
+   "key": "1763593836206895104",
+   "en": "<kiroshi l=\"jpn\" o=\"コードレッド？\" t=\"Code red?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"コードレッド？\" t=\"Cod roșu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1763595285187932160",
+   "en": "<kiroshi l=\"jpn\" o=\"何かトラブルが起きたのか…\" t=\"That can't be good...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何かトラブルが起きたのか…\" t=\"Asta nu e bine...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1763595743625359360",
+   "en": "<kiroshi l=\"jpn\" o=\"そのようだな\" t=\"You can say that again.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そのようだな\" t=\"Așa e.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1763599386294497280",
+   "en": "Yeah, thanks.",
+   "ro": "Da, mersi."
+  },
+  {
+   "key": "1763600143685136384",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1764807612976328704",
+   "en": "Jack, you're bleedin'!",
+   "ro": "Jack, sângerezi!"
+  },
+  {
+   "key": "1764807612976328720",
+   "en": "What about the biochip?!",
+   "ro": "Dar biochipul?!"
+  },
+  {
+   "key": "1764807613009883136",
+   "en": "Jackie! You're bleedin'!",
+   "ro": "Jackie! Sângerezi!"
+  },
+  {
+   "key": "1764807613009883148",
+   "en": "Worry about me later! Check the Relic!",
+   "ro": "Mai târziu te ocupi de mine! Verifică Relic-ul!"
+  },
+  {
+   "key": "1764807613060214784",
+   "en": "How's the biochip…?",
+   "ro": "Cum e biochipul…?"
+  },
+  {
+   "key": "1764807613060214796",
+   "en": "I dunno…",
+   "ro": "Nu știu…"
+  },
+  {
+   "key": "1764807613076992000",
+   "en": "\"Container depressurized. Biochip integrity at ninety-four percent.\"",
+   "ro": "\"Container depresurizat. Integritate biochip: nouăzeci și patru la sută.\""
+  },
+  {
+   "key": "1764807613076992012",
+   "en": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"And fuckin' droppin'! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"Și cădea dracului! \" a=\"\"/>"
+  },
+  {
+   "key": "1764807613110546432",
+   "en": "<mothertongue l=\"mex\" m=\"¡Madres!\" b=\"\" a=\" Agh… Oh, this ain't good. Agh…\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Madres!\" b=\"\" a=\" Agh… Ah, asta nu e bine. Agh…\"/>"
+  },
+  {
+   "key": "1764807613144100864",
+   "en": "Parker! Call her!",
+   "ro": "Parker! Sun-o!"
+  },
+  {
+   "key": "1764807613144100876",
+   "en": "An' tell her we fried the case?!",
+   "ro": "Și să-i spui că am prăjit carcasa?!"
+  },
+  {
+   "key": "1764807613144100888",
+   "en": "Just do it!",
+   "ro": "Fă-o odată!"
+  },
+  {
+   "key": "1764807613177655296",
+   "en": "V?! Konpeki's all over the feeds! What the fuck's going on there?!",
+   "ro": "V?! Konpeki e peste tot în feed-uri! Ce pula mea se întâmplă acolo?!"
+  },
+  {
+   "key": "1764807613177655308",
+   "en": "Got a problem! Cryocase is damaged! Biochip integrity's at… Jackie?",
+   "en_m": "Got a problem! Cryocase is damaged! Biochip's integrity at… Jackie?",
+   "ro": "Am o problemă! Carcasa criogenică e avariată! Integritatea biochipului e la… Jackie?"
+  },
+  {
+   "key": "1764807613177655320",
+   "en": "One of you's gotta slot the Relic into your neural port!",
+   "ro": "Unul dintre voi trebuie să conecteze Relic-ul în portul neural!"
+  },
+  {
+   "key": "1764807613194432512",
+   "en": "What're you talking about?!",
+   "ro": "Despre ce vorbești?!"
+  },
+  {
+   "key": "1764807613227986956",
+   "en": "Is that even safe?",
+   "ro": "E sigur așa ceva?"
+  },
+  {
+   "key": "1764807613261541376",
+   "en": "What the hell are you talkin' about?",
+   "ro": "Despre ce naiba vorbești?"
+  },
+  {
+   "key": "1764807613261541388",
+   "en": "The Relic can't be isolated – it has to be nested in a safe environment!",
+   "ro": "Relic-ul nu poate fi izolat – trebuie ținut într-un mediu sigur!"
+  },
+  {
+   "key": "1764807613278318592",
+   "en": "That doesn't sound safe.",
+   "ro": "Nu sună sigur."
+  },
+  {
+   "key": "1764807613429313544",
+   "en": "The longer you wait, the greater the risk we'll lose it!",
+   "ro": "Cu cât aștepți mai mult, cu atât mai mare e riscul să-l pierdem!"
+  },
+  {
+   "key": "1764807613462867968",
+   "en": "Well, someone's gotta do it.",
+   "ro": "Păi, cineva trebuie să o facă."
+  },
+  {
+   "key": "1764807613462867980",
+   "en": "<kiroshi l=\"mex\" o=\"En el nombre del Padre, del Hijo y del Espíritu Santo, amén.\" t=\"In the name of the Father, Son, and the Holy Spirit – Amen.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"En el nombre del Padre, del Hijo y del Espíritu Santo, amén.\" t=\"În numele Tatălui, al Fiului și al Sfântului Duh – Amin.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1764807613630640128",
+   "en": "Dunno… I guess… Don't feel any different.",
+   "ro": "Nu știu… Cred că… Nu simt nicio diferență."
+  },
+  {
+   "key": "1764807613664194560",
+   "en": "Once you're back, we'll take out the Relic and run a full brain scan and sweep.",
+   "ro": "Când vă întoarceți, scoatem Relic-ul și facem o scanare cerebrală completă și verificare."
+  },
+  {
+   "key": "1764807613781635072",
+   "en": "Del, we'll be there in a couple. Be ready, got it?",
+   "ro": "Del, ajungem în câteva. Fii gata, ai înțeles?"
+  },
+  {
+   "key": "1764807613781635084",
+   "en": "Certainly, Mr. Welles.",
+   "ro": "Sigur, domnule Welles."
+  },
+  {
+   "key": "1764807613798412296",
+   "en": "Better be fuckin' certain.",
+   "ro": "Mai bine fii sigur dracului."
+  },
+  {
+   "key": "1764858180830752768",
+   "en": "Went straight through.",
+   "ro": "A trecut direct prin el."
+  },
+  {
+   "key": "1764858180830752780",
+   "en": "It's junk now!",
+   "ro": "E vechitură acum!"
+  },
+  {
+   "key": "1766328191537639424",
+   "en": "You can do it, Jackie... just don't look down!",
+   "ro": "Poți s-o faci, Jackie... doar nu te uita în jos!"
+  },
+  {
+   "key": "1766570777078657028",
+   "en": "[Call Evelyn Parker]",
+   "ro": "[Sună-o pe Evelyn Parker]"
+  },
+  {
+   "key": "1786424011323658240",
+   "en": "<kiroshi l=\"jpn\" o=\"タケムラさんと連絡がつかない。何が起きてるんだ？\" t=\"Takemura-san isn't answering. What the hell's going on?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"タケムラさんと連絡がつかない。何が起きてるんだ？\" t=\"Takemura-san nu răspunde. Ce dracu' se întâmplă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863373519542169600",
+   "en": "The ladder – where is it?!",
+   "ro": "Scara – unde e?!"
+  },
+  {
+   "key": "1863374583855198208",
+   "en": "Check 'round the bend!",
+   "ro": "Verifică după colț!"
+  },
+  {
+   "key": "1896667032668430336",
+   "en": "Shit! That Trauma?",
+   "ro": "Rahat! Trauma aia?"
+  },
+  {
+   "key": "1896669616007372800",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Oh, fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Ah, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1904087395887534080",
+   "en": "If they're here for Saburo, they're a little late!",
+   "ro": "Dacă-s aici pentru Saburo, au întârziat puțin!"
+  },
+  {
+   "key": "1915486047528955904",
+   "en": "Great… Now let's get outta here.",
+   "ro": "Super… Hai să ne cărăm dracu' de-aici."
+  },
+  {
+   "key": "1922765687523975168",
+   "en": "Jackie…? You OK?",
+   "ro": "Jackie…? Ești bine?"
+  },
+  {
+   "key": "1982365384986927104",
+   "en": "Eighty-six percent!",
+   "ro": "Optzeci și șase la sută!"
+  },
+  {
+   "key": "1982367132417859584",
+   "en": "Eighty-six percent and droppin'!",
+   "ro": "Optzeci și șase la sută și scade!"
+  },
+  {
+   "key": "1982368248018837504",
+   "en": "Shit…!",
+   "ro": "Rahat…!"
+  },
+  {
+   "key": "1982380058927243264",
+   "en": "But you two need to get the fuck out of there first!",
+   "ro": "Dar voi doi trebuie să vă cărați dracu' de-acolo mai întâi!"
+  },
+  {
+   "key": "1982380655256608768",
+   "en": "We're workin' on it!",
+   "ro": "Lucrăm la asta!"
+  },
+  {
+   "key": "1982384545624563712",
+   "en": "OK, listen to me. There's only one thing you can do.",
+   "ro": "Ascultă-mă. Un singur lucru mai poți face."
+  },
+  {
+   "key": "1984025659943231488",
+   "en": "Just hope they didn't see us!",
+   "ro": "Sperăm doar că nu ne-au văzut!"
+  },
+  {
+   "key": "1984026284978413568",
+   "en": "Yep, that's fuckin' high...!",
+   "ro": "Da, e al dracului de sus...!"
+  },
+  {
+   "key": "2001041894161588224",
+   "en": "Unauthorized access attempt detected. Remain where you are, security personnel will arrive shortly.",
+   "ro": "Tentativă de acces neautorizat detectată. Rămâneți pe loc, personalul de securitate o să sosească în curând."
+  },
+  {
+   "key": "2032959575885082628",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2181035513762701316",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  }
+ ]
+}

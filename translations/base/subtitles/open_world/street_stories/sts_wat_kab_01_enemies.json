@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_01_enemies.json",
+ "entries": [
+  {
+   "key": "1162145720628125696",
+   "en": "Stop – this area's restricted.",
+   "ro": "Stop – zona e restricționată."
+  },
+  {
+   "key": "1164583150639620112",
+   "en": "Fire on sight!",
+   "ro": "Trageți pe vedere!"
+  },
+  {
+   "key": "1164856352871784464",
+   "en": "Target in sight!",
+   "ro": "Țintă în vizor!"
+  },
+  {
+   "key": "1400830310622928896",
+   "en": "Sector one and two clear.",
+   "ro": "Sectoarele unu și doi sunt libere."
+  },
+  {
+   "key": "1400834335225389056",
+   "en": "No... No signs.",
+   "ro": "Nu... Niciun semn."
+  },
+  {
+   "key": "1417043610452860928",
+   "en": "Copy that. Move to sector three.",
+   "ro": "Primit. Mutați-vă în sectorul trei."
+  },
+  {
+   "key": "1430027684662452224",
+   "en": "Standing by for orders.",
+   "ro": "Aștept ordine."
+  },
+  {
+   "key": "1492205566638264320",
+   "en": "Roger.",
+   "ro": "Am înțeles."
+  }
+ ]
+}

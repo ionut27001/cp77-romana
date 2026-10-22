@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_114_car_30_mt.json",
+ "entries": [
+  {
+   "key": "1922945583389614084",
+   "en": "<kiroshi l=\"creo\" o=\"Sak pase menn.\" t=\"How ya doin'.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sak pase menn.\" t=\"Ce faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583406391300",
+   "en": "<kiroshi l=\"creo\" o=\"Ou pèdi chemen w?\" t=\"Are you lost or what?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou pèdi chemen w?\" t=\"Te-ai rătăcit sau ce?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583473500164",
+   "en": "<kiroshi l=\"creo\" o=\"Ey!\" t=\"Hey!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ey!\" t=\"Hei!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583507054596",
+   "en": "<kiroshi l=\"creo\" o=\"Fé atansyon kote w prale!\" t=\"Watch where you're going!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fé atansyon kote w prale!\" t=\"Uită-te pe unde mergi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583557386244",
+   "en": "<kiroshi l=\"creo\" o=\"Alo. Se mwen.\" t=\"Hi. It's me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Alo. Se mwen.\" t=\"Salut. Sunt eu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583624495108",
+   "en": "<kiroshi l=\"creo\" o=\"Gen yon fèt. Wap vini…? Ou konnen kote' monsieur... Jacked and Coke.\" t=\"There's a party. You goin'…? You know where…! Of course…! At Jacked and Coke.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gen yon fèt. Wap vini…? Ou konnen kote' monsieur... Jacked and Coke.\" t=\"E o petrecere. Mergi…? Știi unde…! Desigur…! La Jacked and Coke.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583641272324",
+   "en": "<kiroshi l=\"creo\" o=\"Ann aleee… M vle di …! Ou toujou sou travay, ou pa jan m sou plezi … Se sa…! Ha, ha!\" t=\"Aw, c'mon… I mean…! All work and no play… Right…! Ha, ha!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ann aleee… M vle di …! Ou toujou sou travay, ou pa jan m sou plezi … Se sa…! Ha, ha!\" t=\"Hai, mă… Adică…! Numai muncă și nicio distracție… Așa e…! Ha, ha!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583691603972",
+   "en": "<kiroshi l=\"creo\" o=\"Na wè!\" t=\"See you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Na wè!\" t=\"Ne vedem!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583876153348",
+   "en": "<kiroshi l=\"creo\" o=\"Kou langèt, kou langèèt, Kou langèèèt!\" t=\"Fuck, fuck, fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kou langèt, kou langèèt, Kou langèèèt!\" t=\"Futu-i, futu-i, futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945583909707780",
+   "en": "<kiroshi l=\"creo\" o=\"Manzé ap touye m!\" t=\"She'll kill me!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"L'ap touye m!\" t=\"He'll kill me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Manzé ap touye m!\" t=\"Mă omoară!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"L'ap touye m!\" t=\"Mă omoară!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945584027148292",
+   "en": "<kiroshi l=\"creo\" o=\"Sa w bezwen de menm?\" t=\"What do you want from me?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sa w bezwen de menm?\" t=\"Ce vrei de la mine?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945584043925508",
+   "en": "<kiroshi l=\"creo\" o=\"Kite m trankil!\" t=\"Leave me alone!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kite m trankil!\" t=\"Lasă-mă în pace!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945584161366016",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen dezole, mwen pa fè w konfyans.\" t=\"Sorry, but I don't trust you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen dezole, mwen pa fè w konfyans.\" t=\"Scuze, dar nu am încredere în tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922945584178143236",
+   "en": "<kiroshi l=\"creo\" o=\"Pa vanse pre, ou tande?\" t=\"Not so close, ok?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa vanse pre, ou tande?\" t=\"Nu așa aproape, ok?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

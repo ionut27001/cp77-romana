@@ -1,0 +1,266 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_kid_03_back_to_bar.json",
+ "entries": [
+  {
+   "key": "1811097561995288576",
+   "en": "If I hadn't come, you'd be cruisin' Night City in sexy wheels right now.",
+   "ro": "Dacă nu veneam eu, acum cutreierai Night City-ul cu niște roți de vis."
+  },
+  {
+   "key": "1811108553437356036",
+   "en": "Unlikely it woulda worked anyway.",
+   "ro": "Oricum, n-ar fi mers."
+  },
+  {
+   "key": "1811108953204858880",
+   "en": "Nah, all my fault.",
+   "ro": "Nah, toată vina e a mea."
+  },
+  {
+   "key": "1834404534633295872",
+   "en": "Nah, it was all my fault.",
+   "en_m": "Nah, was all my fault.",
+   "ro": "Nah, toată vina a fost a mea."
+  },
+  {
+   "key": "1834404721212715008",
+   "en": "Nah, c'mon. Job was toxic from the start.",
+   "ro": "Nah, hai. Treaba a fost toxică de la început."
+  },
+  {
+   "key": "1834405845722394624",
+   "en": "Wait, what?",
+   "ro": "Stai, ce?"
+  },
+  {
+   "key": "1834405931521077248",
+   "en": "Pigs didn't waddle in outta nowhere. My tech musta triggered the alarm.",
+   "ro": "Ba nu, porcii n-au apărut de nicăieri. Tech-ul meu trebuie să fi declanșat alarma."
+  },
+  {
+   "key": "1834411491054252032",
+   "en": "Even Kabuki under-the-counter magic can't get around an alarm like that. Shoulda known I'd have the PD on my ass.",
+   "ro": "Nici magia sub tejghea din Kabuki nu poate ocoli o alarmă ca asta. Trebuia să-mi dau seama că o să am poliția pe cap."
+  },
+  {
+   "key": "1834413685296001024",
+   "en": "So, maybe now, as God ordained.",
+   "ro": "Deci, poate acum, cum a vrut Dumnezeu."
+  },
+  {
+   "key": "1834414070970642432",
+   "en": "Jackie Welles.",
+   "ro": "Jackie Welles."
+  },
+  {
+   "key": "1834414625759621120",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1834415835061350400",
+   "en": "I know you… You hang at the Coyote.",
+   "ro": "Te cunosc… Stai pe la Coyote."
+  },
+  {
+   "key": "1834416382048923652",
+   "en": "Mhm, Coyote's where I got this job, in fact.",
+   "ro": "Mhm, de fapt la Coyote am luat treaba asta."
+  },
+  {
+   "key": "1834416387082088448",
+   "en": "Wait, Welles…? Like Mama Welles? Thought I recognized the name.",
+   "en_m": "Wait, Welles... like Mama Welles. Heh, thought I recognized the name.",
+   "ro": "Stai, Welles…? Ca Mama Welles? Credeam că recunosc numele.",
+   "ro_m": "Stai, Welles... ca Mama Welles. Heh, credeam că recunosc numele."
+  },
+  {
+   "key": "1834416392031367168",
+   "en": "Got the job to steal those wheels at the Coyote. From Kirk.",
+   "ro": "Am luat treaba să fur roțile alea de la Coyote. De la Kirk."
+  },
+  {
+   "key": "1834416643085627392",
+   "en": "Welles? Name's familiar.",
+   "ro": "Welles? Mi se pare cunoscut numele."
+  },
+  {
+   "key": "1834417684413870080",
+   "en": "She's my blood, all right. Coyote's her dive.",
+   "ro": "E din familia mea, da. Coyote e barul ei."
+  },
+  {
+   "key": "1834418332232511488",
+   "en": "It's strange you and I never met before.",
+   "ro": "Ciudat că nu ne-am cunoscut până acum."
+  },
+  {
+   "key": "1834419844077776896",
+   "en": "You work with that sewer slug?",
+   "ro": "Lucrezi cu jegosul ăla de canal?"
+  },
+  {
+   "key": "1834420112194465792",
+   "en": "Pepe owes him big and can’t afford to pay, so I stepped up.",
+   "ro": "Pepe îi datorează mare lucru și n-are cu ce plăti, așa că am sărit eu."
+  },
+  {
+   "key": "1834442081690382336",
+   "en": "Man, gotta wonder about Pepe, lettin' slimy Kirk boss him around like that.",
+   "ro": "Măi, ce să mai zici de Pepe, să-l lase pe Kirk ăla jegos să-l comande așa."
+  },
+  {
+   "key": "1834498104186826752",
+   "en": "Heard what they say – he's backed by cartels.",
+   "ro": "Am auzit ce se zice – că are cartelurile în spate."
+  },
+  {
+   "key": "1834498478939500544",
+   "en": "Cartels? No, no, listen, I know those cartel types, and I guarantee you none of 'em have even heard of Kirk.",
+   "ro": "Cartele? Nu, nu, ascultă, îi cunosc pe ăia de cartel, și pun mâna în foc că niciunul n-a auzit de Kirk."
+  },
+  {
+   "key": "1834500545020096512",
+   "en": "C'mon, let's go have some lunch.",
+   "ro": "Hai să mâncăm ceva."
+  },
+  {
+   "key": "1834500753359564804",
+   "en": "We buddies all of a sudden?",
+   "ro": "Ne-am făcut prieteni dintr-o dată?"
+  },
+  {
+   "key": "1834501791516913664",
+   "en": "Lunch?",
+   "ro": "Prânz?"
+  },
+  {
+   "key": "1834501994990989312",
+   "en": "Just like that? You put a barrel to my skull not so long ago.",
+   "ro": "Așa, din senin? Mi-ai pus pistolul la tâmplă nu demult."
+  },
+  {
+   "key": "1834502006315610112",
+   "en": "Lunch?",
+   "ro": "Prânz?"
+  },
+  {
+   "key": "1834502468175589376",
+   "en": "Gettin' one of my good feelings.",
+   "ro": "Am o senzație bună."
+  },
+  {
+   "key": "1834509321097900032",
+   "en": "You help my homies, you're OK in my book. No harm, no foul?",
+   "ro": "Dacă-mi ajuți băieții, ești ok cu mine. Fără supărare?"
+  },
+  {
+   "key": "1834510021076905984",
+   "en": "None at all.",
+   "ro": "Deloc."
+  },
+  {
+   "key": "1834510440641523712",
+   "en": "'Bout what?",
+   "ro": "Despre ce?"
+  },
+  {
+   "key": "1834510517900603392",
+   "en": "'Bout us. Sense a kind of chemistry, y'know?",
+   "ro": "Despre noi. Simt chimia asta, știi?"
+  },
+  {
+   "key": "1834512408575406080",
+   "en": "C'mon. I'm fuckin' starved.",
+   "ro": "Hai. Mor de foame, pula mea."
+  },
+  {
+   "key": "1834512730798616576",
+   "en": "<mothertongue l=\"mex\" m=\"El cabrón\" b=\"\" a=\"'s gotta learn... he don't do people in Heywood dirty.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"El cabrón\" b=\"\" a=\"trebuie să învețe... nu face oamenii din Heywood murdari.\"/>"
+  },
+  {
+   "key": "1917219479049138176",
+   "en": "Haha, you would not believe my mama's chili – best in town.",
+   "ro": "Haha, n-ai crede cât de bun e chili-ul mamei – cel mai bun din oraș."
+  },
+  {
+   "key": "1918251650891313156",
+   "en": "Stints wouldn't do that.",
+   "ro": "Stints n-ar face așa ceva."
+  },
+  {
+   "key": "1918251744810168320",
+   "en": "Honestly, for a sec there, things looked iffy. Wasn't sure we'd worm outta that alive.",
+   "ro": "Serios, pentru o secundă, arăta cam prost. Nu eram sigură că scăpăm vii din asta.",
+   "ro_m": "Serios, pentru o secundă, arăta cam prost. Nu eram sigur că scăpăm vii din asta."
+  },
+  {
+   "key": "1918251757594406912",
+   "en": "Nah, Stints wouldn't do us like that.",
+   "ro": "Nah, Stints nu ne-ar face așa."
+  },
+  {
+   "key": "1918251761419612160",
+   "en": "Man, same. Stints is out to get people, wound tight. Though, he does have a little honor left.",
+   "ro": "Frate, la fel. Stints e pus pe căpătuială, tot încordat. Totuși, mai are un pic de onoare."
+  },
+  {
+   "key": "1918462213323943936",
+   "en": "Same here.",
+   "ro": "La fel."
+  },
+  {
+   "key": "1918516194251304960",
+   "en": "You sure about that?",
+   "ro": "Ești sigură?",
+   "ro_m": "Ești sigur?"
+  },
+  {
+   "key": "1918521098382536704",
+   "en": "Uh-huh. He's Heywood-born, bred and grown like us. Hates suits as much as you do.",
+   "en_m": "Mhm. He's Heywood-born, bred and grown like us. Hates suits as much as you do.",
+   "ro": "Mhm. E din Heywood, de-al nostru. Urăște costumele la fel de mult ca tine."
+  },
+  {
+   "key": "1918521310228443136",
+   "en": "Did what he had to do, that's it.",
+   "ro": "A făcut ce trebuia, atât."
+  },
+  {
+   "key": "1918521914040446976",
+   "en": "Really think his sense of honor saved us?",
+   "ro": "Chiar crezi că simțul onoarei ne-a salvat?"
+  },
+  {
+   "key": "1918522049935896576",
+   "en": "Well… and the fact he's Heywood-born and bred like us.",
+   "ro": "Păi… și faptu' că e din Heywood, crescut ca noi."
+  },
+  {
+   "key": "2044614879570333696",
+   "en": "[Get up] Let's get movin'.",
+   "ro": "[Ridică-te] Hai să ne mișcăm."
+  },
+  {
+   "key": "2239013707474714624",
+   "en": "C'mon, no fear. Trust me.",
+   "ro": "Hai, nu-ți fie frică. Crede-mă."
+  },
+  {
+   "key": "2239013722221887488",
+   "en": "Ready to mosey?",
+   "ro": "Ce zici, plecăm?"
+  },
+  {
+   "key": "2260271998481645568",
+   "en": "OK, food it is. Let's go.",
+   "ro": "Bun, mâncare atunci. Hai."
+  },
+  {
+   "key": "2260272088508186624",
+   "en": "Motherfucker… Agh!",
+   "ro": "Futu-i mama… Agh!"
+  }
+ ]
+}

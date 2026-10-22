@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\pac_cvi_medicstore_01.json",
+ "entries": [
+  {
+   "key": "1885214881622552576",
+   "en": "I need medical advice.",
+   "ro": "Am nevoie de sfaturi medicale."
+  },
+  {
+   "key": "1885214881622552592",
+   "en": "You sell hormones?",
+   "ro": "Vinzi hormoni?"
+  },
+  {
+   "key": "1885214881656107012",
+   "en": "Need an injector.",
+   "ro": "Am nevoie de un injector."
+  },
+  {
+   "key": "1885214881656107020",
+   "en": "I recommend enhanced somatotropin. You should do something about those biceps of yours.",
+   "ro": "Recomand somatotropină îmbunătățită. Ar trebui să faci ceva cu bicepșii ăia ai tăi."
+  },
+  {
+   "key": "1885214881689661444",
+   "en": "You sell modded hormones?",
+   "ro": "Vinzi hormoni modificați?"
+  },
+  {
+   "key": "1885214881689661452",
+   "en": "On occasion. To certain clients. The kind who have unleashed their inner beast... if you know what I mean.",
+   "ro": "Din când în când. Unor clienți anume. Genul care și-a dezlănțuit bestia interioară... dacă mă înțelegi."
+  }
+ ]
+}

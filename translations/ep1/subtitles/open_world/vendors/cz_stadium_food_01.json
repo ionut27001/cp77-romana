@@ -1,0 +1,37 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\vendors\\cz_stadium_food_01.json",
+ "entries": [
+  {
+   "key": "1884976962712518656",
+   "en": "Can I get a bite?",
+   "ro": "Pot să iau o gustare?"
+  },
+  {
+   "key": "1884976962712518672",
+   "en": "Serve authentic meat here?",
+   "ro": "Serviți carne autentică aici?"
+  },
+  {
+   "key": "1884976962762850308",
+   "en": "Whatcha got to eat?",
+   "ro": "Ce aveți de mâncare?"
+  },
+  {
+   "key": "1884976962762850316",
+   "en": "See for yourself.",
+   "ro": "Vezi singură.",
+   "ro_m": "Vezi singur."
+  },
+  {
+   "key": "1884976962846736388",
+   "en": "You, uh, got any real meat back there?",
+   "ro": "Aveți, uh, carne adevărată pe acolo?"
+  },
+  {
+   "key": "1884976962846736396",
+   "en": "You mean... from animals...? Don't be ridiculous!",
+   "ro": "Adică... de la animale...? Nu fi ridicolă!",
+   "ro_m": "Adică... de la animale...? Nu fi ridicol!"
+  }
+ ]
+}

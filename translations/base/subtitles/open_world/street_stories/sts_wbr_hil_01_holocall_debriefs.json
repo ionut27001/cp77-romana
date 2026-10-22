@@ -1,0 +1,22 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_hil_01_holocall_debriefs.json",
+ "entries": [
+  {
+   "key": "2328653895436414976",
+   "en": "Discreet and with finesse – something I cannot say about Mr. Gutierrez's divorce. Marvellous work, V. Closing the contract.",
+   "ro": "Discret și cu finețe – lucru pe care nu-l pot spune despre divorțul domnului Gutierrez. Muncă excelentă, V. Închid contractul."
+  },
+  {
+   "key": "2342903326335930368",
+   "en": "Mr. Gutierrez insisted on discretion.",
+   "ro": "Domnul Gutierrez a insistat asupra discreției."
+  },
+  {
+   "key": "2342904435460902912",
+   "en": "Instead, you make noise. First his wife betrays him, now you. It seems our client has no luck with women. I am closing the contract.",
+   "en_m": "Perhaps you are not aware, but raising the alarm and discretion are not the same thing. Keep that in mind for the future. I am closing the contract.",
+   "ro": "În schimb, faci zgomot. Mai întâi soția îl trădează, acum tu. Se pare că clientul nostru n-are noroc cu femeile. Închid contractul.",
+   "ro_m": "Poate nu ți-ai dat seama, dar a da alarma și a fi discret nu sunt același lucru. Ține minte asta pe viitor. Închid contractul."
+  }
+ ]
+}

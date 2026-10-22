@@ -1,0 +1,342 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q201\\q201_06_cabin_day_8_to_29.json",
+ "entries": [
+  {
+   "key": "1714235090963238912",
+   "en": "Fuck! No! Enough!",
+   "ro": "Futu-i! Nu! Destul!"
+  },
+  {
+   "key": "1714235090980016128",
+   "en": "I've had it! Fucking hate this place!",
+   "ro": "M-am săturat! Urăsc locul ăsta al dracului!"
+  },
+  {
+   "key": "1714235703834939392",
+   "en": "[Throw cube] Fuck! Enough!",
+   "ro": "[Aruncă cubul] Futu-i! Destul!"
+  },
+  {
+   "key": "1714237057840156672",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "1714237348270542848",
+   "en": "Shit. It worked.",
+   "ro": "Rahat, a mers."
+  },
+  {
+   "key": "1723263524049477632",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "1727052667929976832",
+   "en": "Please respond to each term with the first thing that comes to mind.",
+   "ro": "Vă rog să răspundeți la fiecare termen cu primul lucru care vă vine în minte."
+  },
+  {
+   "key": "1727402776551186436",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1730134453564170244",
+   "en": "No more tests.",
+   "ro": "Nu mai vreau teste."
+  },
+  {
+   "key": "1730135119804194816",
+   "en": "Enough. No more tests. I refuse to take any.",
+   "ro": "Destul. Nu mai vreau teste. Nu mai fac niciunul."
+  },
+  {
+   "key": "1731259826146979852",
+   "en": "Hey, listen. These tests gonna go on much longer?",
+   "en_m": "Hey, listen. These tests – gonna go on much longer?",
+   "ro": "Hei, ascultă. Testele astea mai durează mult?"
+  },
+  {
+   "key": "1731259826146979864",
+   "en": "We need very precise data.",
+   "ro": "Ne trebuie date foarte precise."
+  },
+  {
+   "key": "1731259826264420352",
+   "en": "I can't stand this anymore.",
+   "en_m": "Can't stand this anymore.",
+   "ro": "Nu mai suport asta."
+  },
+  {
+   "key": "1731852006640541696",
+   "en": "Respond to the keywords – no thinking, just the first word that comes to mind.",
+   "ro": "Răspunde la cuvintele-cheie – fără să te gândești, primul cuvânt care-ți vine în minte."
+  },
+  {
+   "key": "1731852006640541708",
+   "en": "Loyalty.",
+   "ro": "Loialitate."
+  },
+  {
+   "key": "1731852006875422720",
+   "en": "Nope. Had enough.",
+   "ro": "Nu. M-am săturat."
+  },
+  {
+   "key": "1731852006908977152",
+   "en": "No. Wanna talk to Hanako Arasaka.",
+   "ro": "Nu. Vreau să vorbesc cu Hanako Arasaka."
+  },
+  {
+   "key": "1731893622373834752",
+   "en": "As quickly as you can, without thinking about it.",
+   "ro": "Cât de repede poți, fără să te gândești."
+  },
+  {
+   "key": "1731893622659047424",
+   "en": "No!",
+   "ro": "Nu!"
+  },
+  {
+   "key": "1731893622726156288",
+   "en": "No!",
+   "ro": "Nu!"
+  },
+  {
+   "key": "1731901695284961280",
+   "en": "Cognitive function test.",
+   "ro": "Test de funcție cognitivă."
+  },
+  {
+   "key": "1731901695301738496",
+   "en": "Solve the cube.",
+   "ro": "Rezolvă cubul."
+  },
+  {
+   "key": "1732772968405688320",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1732773112555528192",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1732773211843092480",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1732773322455277568",
+   "en": "Betrayal.",
+   "ro": "Trădare."
+  },
+  {
+   "key": "1732773401341747200",
+   "en": "Dunno.",
+   "ro": "Nu știu."
+  },
+  {
+   "key": "1732773636776419328",
+   "en": "Johnny!",
+   "ro": "Johnny!"
+  },
+  {
+   "key": "1732773714337488896",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1732773845887639552",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1732773957170913280",
+   "en": "Betrayal.",
+   "ro": "Trădare."
+  },
+  {
+   "key": "1732774250654752768",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1732782215654825984",
+   "en": "Humanity.",
+   "ro": "Umanitate."
+  },
+  {
+   "key": "1732783082953007104",
+   "en": "Quick as I can, no thinking, right.",
+   "ro": "Cât de repede pot, fără să mă gândesc, nu?"
+  },
+  {
+   "key": "1732783482133307392",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1732783551943303168",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1732783644268322816",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1732783852289024000",
+   "en": "Nothing.",
+   "ro": "Nimic."
+  },
+  {
+   "key": "1732783993251192832",
+   "en": "No clue.",
+   "ro": "N-am habar."
+  },
+  {
+   "key": "1732784433267236864",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1732784508227837952",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1732784618756136960",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1732784726650413056",
+   "en": "Got nothin'.",
+   "ro": "N-am nimic."
+  },
+  {
+   "key": "1732784851472900096",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1732804514537824256",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1732805835240267776",
+   "en": "Wanna talk to Hanako Arasaka.",
+   "ro": "Vreau să vorbesc cu Hanako Arasaka."
+  },
+  {
+   "key": "1732806304784211968",
+   "en": "Hanako Arasaka – wanna talk to her now.",
+   "ro": "Hanako Arasaka – vreau să vorbesc cu ea acum."
+  },
+  {
+   "key": "1740150574157619200",
+   "en": "Please sit up.",
+   "ro": "Vă rog să stați drept."
+  },
+  {
+   "key": "1740328812800598016",
+   "en": "Please step onto the treadmill.",
+   "ro": "Te rog, urcă pe banda de alergare."
+  },
+  {
+   "key": "1740339966847442944",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1741637333408243716",
+   "en": "[Smash]",
+   "ro": "[Zdrobește]"
+  },
+  {
+   "key": "1741641836144582656",
+   "en": "Fuck you all!",
+   "ro": "Futu-vă pe toți!"
+  },
+  {
+   "key": "1741725796967079936",
+   "en": "[Shove things off desk]",
+   "ro": "[Împinge lucrurile de pe birou]"
+  },
+  {
+   "key": "1741726202354950144",
+   "en": "Aaaaaughhhh!",
+   "ro": "Aaaaaughhhh!"
+  },
+  {
+   "key": "1788147374000660480",
+   "en": "Cognitive function test.",
+   "ro": "Test de funcție cognitivă."
+  },
+  {
+   "key": "1788147374000660492",
+   "en": "Solve the cube.",
+   "ro": "Rezolvă cubul."
+  },
+  {
+   "key": "1788184065671389188",
+   "en": "This gotta go on much longer?",
+   "ro": "Mai durează mult asta?"
+  },
+  {
+   "key": "1793845924663615488",
+   "en": "[Smash]",
+   "ro": "[Zdrobește]"
+  },
+  {
+   "key": "1793846395449073664",
+   "en": "Enough! I'm done!",
+   "ro": "Destul! Am terminat!"
+  },
+  {
+   "key": "1793868707401523200",
+   "en": "[Topple]",
+   "ro": "[Răstoarnă]"
+  },
+  {
+   "key": "1793868707468632068",
+   "en": "Fuuuuck!",
+   "ro": "Fuuutu-i!"
+  },
+  {
+   "key": "1869314405919580164",
+   "en": "[Go to sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2049075605376675840",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2049078972899471360",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2049079019103924224",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2085368315636953088",
+   "en": "[Step onto treadmill]",
+   "ro": "[Urcă pe bandă]"
+  },
+  {
+   "key": "2182516815318822912",
+   "en": "No.",
+   "ro": "Nu."
+  }
+ ]
+}

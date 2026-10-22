@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_01.json",
+ "entries": [
+  {
+   "key": "2276538543491948560",
+   "en": "<kiroshi l=\"jpn\" o=\"連中は何か企んでる。こっちも手を打っておかねえと\" t=\"Heard they're planning something big. Gotta make sure we're prepped.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"連中は何か企んでる。こっちも手を打っておかねえと\" t=\"Am auzit că pun ceva la cale. Trebuie să fim pregătiți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538543508725760",
+   "en": "<kiroshi l=\"jpn\" o=\"私に3人ほどつけてよ。こっちから仕掛けてやる\" t=\"Give me three people. I'll handle it – they won't know what hit 'em.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私に3人ほどつけてよ。こっちから仕掛けてやる\" t=\"Dă-mi trei oameni. Mă ocup eu, habar n-au ce i-a lovit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538543508725772",
+   "en": "<kiroshi l=\"jpn\" o=\"今4人も失うリスクは負えねえよ。普段ならお前がどこで死のうが知ったこっちゃねえがな\" t=\"Believe me, I'd love to get rid of four gonks. But sadly, that's a luxury I can't afford.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"今4人も失うリスクは負えねえよ。普段ならお前がどこで死のうが知ったこっちゃねえがな\" t=\"Crede-mă, aș scăpa bucuros de patru fraieri. Da' acum nu-mi permit să pierd patru oameni.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

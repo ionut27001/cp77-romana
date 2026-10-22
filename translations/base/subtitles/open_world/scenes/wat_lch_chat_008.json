@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_008.json",
+ "entries": [
+  {
+   "key": "1827234610655387648",
+   "en": "<kiroshi l=\"chin\" o=\"等我喺度出人頭地，我就會翻返去。\" t=\"I'll go back to China once I make something of myself here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"等我喺度出人頭地，我就會翻返去。\" t=\"Mă întorc în China după ce fac ceva din mine aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827236932420755456",
+   "en": "<kiroshi l=\"chin\" o=\"我唔想返去。\" t=\"I'm never going back.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"我唔想返去。\" t=\"Nu mă mai întorc niciodată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827237118731739136",
+   "en": "<kiroshi l=\"chin\" o=\"你想將時間都浪費喺度呀？人哋一世咋。\" t=\"You wanna waste what time you got? Here? You only get one life.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"你想將時間都浪費喺度呀？人哋一世咋。\" t=\"Vrei să-ți risipești timpul? Aici? Ai o singură viață.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827237874629206016",
+   "en": "<kiroshi l=\"chin\" o=\"係吖，咁你做咗啲咩？除咗搵雞叫，增加閱歷…\" t=\"Well yeah… and what're you doing with yours? Besides having fun, collecting \\\"experiences\\\"…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"係吖，咁你做咗啲咩？除咗搵雞叫，增加閱歷…\" t=\"Păi da… și tu ce faci cu a ta? În afară de distracție, de colecționat „experiențe”…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827238055806361600",
+   "en": "<kiroshi l=\"chin\" o=\"你一定要做啲咩？留低啲乜嘢？\" t=\"You gotta do something. Leave something behind.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"你一定要做啲咩？留低啲乜嘢？\" t=\"Trebuie să faci ceva. Să lași ceva în urmă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827238239147778048",
+   "en": "<kiroshi l=\"chin\" o=\"圍邊個？\" t=\"For what?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"圍邊個？\" t=\"Pentru ce?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827238995900882944",
+   "en": "<kiroshi l=\"chin\" o=\"為咗屋企人囉。\" t=\"For your family.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"為咗屋企人囉。\" t=\"Pentru familia ta.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

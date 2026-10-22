@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_voodoo_boys_conversation_005.json",
+ "entries": [
+  {
+   "key": "3373611753951440896",
+   "en": "<kiroshi l=\"creo\" o=\"Pont yo fiks ak chaje. Scavs di kliyan an pral pran tout la.\" t=\"Decks are patched and packed. Scavs say the client'll take the whole lot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pont yo fiks ak chaje. Scavs di kliyan an pral pran tout la.\" t=\"Deck-urile sunt patch-uite și împachetate. Hienele zic că clientul ia tot lotul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395569317290790912",
+   "en": "<kiroshi l=\"creo\" o=\"M’byen kontinye, vann yo epi tounen ak lajan nou.\" t=\"Go on then, sell them and come back with our eddies.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"M’byen kontinye, vann yo epi tounen ak lajan nou.\" t=\"Hai, vinde-le și vino înapoi cu eddies-urile noastre.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395569577941618688",
+   "en": "<kiroshi l=\"creo\" o=\"Jis... Fè atansyon. Ou pa janm konnen ak scavs.\" t=\"Just... Be careful. You never know with scavs.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Jis... Fè atansyon. Ou pa janm konnen ak scavs.\" t=\"Doar... Ai grijă. Cu hienele nu știi niciodată.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

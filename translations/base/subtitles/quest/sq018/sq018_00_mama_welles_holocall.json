@@ -1,0 +1,223 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq018\\sq018_00_mama_welles_holocall.json",
+ "entries": [
+  {
+   "key": "1825530058927558656",
+   "en": "I was going to call you. I prepared an ofrenda for Jaquito. We can't let him go without a proper goodbye.",
+   "ro": "Voiam să te sun. Am pregătit o ofrendă pentru Jaquito. Nu-l putem lăsa să plece fără un adio cum se cuvine."
+  },
+  {
+   "key": "1825530720839061504",
+   "en": "The ceremony will be at the Coyote Cojo. Many of his friends will be there.",
+   "ro": "Ceremonia o să fie la Coyote Cojo. Mulți dintre prietenii lui vor veni."
+  },
+  {
+   "key": "1825530971842990084",
+   "en": "I'll be there, too.",
+   "ro": "O să fiu și eu acolo."
+  },
+  {
+   "key": "1825531192731815936",
+   "en": "Do my best to make it, too.",
+   "ro": "Fac tot ce pot să ajung și eu."
+  },
+  {
+   "key": "1825531854408437760",
+   "en": "Say no more, Mama Welles. I'll be there.",
+   "ro": "Gata, Mama Welles, nu mai spune. O să fiu acolo."
+  },
+  {
+   "key": "1825531889103720452",
+   "en": "Do my best to make it.",
+   "ro": "Fac tot ce pot să ajung."
+  },
+  {
+   "key": "1825533183029727232",
+   "en": "Mhm. Do your best…",
+   "ro": "Mhm. Fă ce poți…"
+  },
+  {
+   "key": "1825533377376997376",
+   "en": "<kiroshi l=\"mex\" o=\"Ahí te veo, V.\" t=\"See you, V.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ahí te veo, V.\" t=\"Ne vedem, V.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1864630254302973952",
+   "en": "V? Good to hear you. Finally.",
+   "ro": "V? Ce bine că te aud. În sfârșit."
+  },
+  {
+   "key": "1895149357484527616",
+   "en": "Been a long time since we talk. Since when Jackie pass away.",
+   "ro": "Au trecut ani de când n-am mai vorbit. De când a murit Jackie."
+  },
+  {
+   "key": "1895153995428450304",
+   "en": "Wanted to offer my condolences.",
+   "ro": "Voiam să-ți ofer condoleanțe."
+  },
+  {
+   "key": "1895153995428450324",
+   "en": "How're you doing?",
+   "ro": "Ce mai faci?"
+  },
+  {
+   "key": "1895158468771106816",
+   "en": "Sorry, really should've called.",
+   "ro": "Scuze, chiar trebuia să sun."
+  },
+  {
+   "key": "1895158821545627648",
+   "en": "I'm sorry, I-- I should've called before.",
+   "en_m": "Sorry, I-- I should've called before.",
+   "ro": "Îmi pare rău, ar fi trebuit să sun înainte.",
+   "ro_m": "Scuze, ar fi trebuit să sun înainte."
+  },
+  {
+   "key": "1895162179589296128",
+   "en": "Yes, you should have. But better late than never, hm?",
+   "ro": "Da, trebuia. Dar mai bine mai târziu decât niciodată, hm?"
+  },
+  {
+   "key": "1895162505453162496",
+   "en": "How're you doin'?",
+   "ro": "Ce mai faci?"
+  },
+  {
+   "key": "1895162715772342272",
+   "en": "Callin' to offer my condolences.",
+   "ro": "Sun să-ți transmit condoleanțe."
+  },
+  {
+   "key": "1895169828607283200",
+   "en": "Hm, I did not doubt it for a second.",
+   "ro": "Hm, nu m-am îndoit nicio clipă."
+  },
+  {
+   "key": "1895171821824430080",
+   "en": "Hm. \"Offer your condolences.\"",
+   "ro": "Hm. „Să-ți ofer condoleanțe.”"
+  },
+  {
+   "key": "1895181748601147392",
+   "en": "Don't know if that's something for me.",
+   "ro": "Nu știu dacă e ceva pentru mine."
+  },
+  {
+   "key": "1895183899591233536",
+   "en": "<mothertongue l=\"mex\" m=\"Jesucristo\" b=\"\" a=\" V, you lived under our roof!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Jesucristo\" b=\"\" a=\" V, ai trăit sub acoperișul nostru!\"/>"
+  },
+  {
+   "key": "1895184080768389120",
+   "en": "How you think? My son is dead.",
+   "ro": "Cum crezi? Fiul meu e mort."
+  },
+  {
+   "key": "1895185954330431488",
+   "en": "Don't know that that's... somethin' for me.",
+   "en_m": "I don't know that... that's something for me.",
+   "ro": "Nu știu dacă asta e... ceva pentru mine.",
+   "ro_m": "Nu știu dacă... asta e ceva pentru mine."
+  },
+  {
+   "key": "1895186516803375104",
+   "en": "It is for you. So you can say goodbye. Like a human being.",
+   "ro": "E pentru tine. Ca să poți spune adio. Ca un om."
+  },
+  {
+   "key": "1896648400763265024",
+   "en": "V? Hm, been a long time since you call... Since Jackie passed away.",
+   "ro": "V? Hm, a trecut mult de când ai sunat... De când a murit Jackie."
+  },
+  {
+   "key": "1896670306790973440",
+   "en": "You had other important things on your mind, hm?",
+   "ro": "Aveai alte lucruri importante în minte, hm?"
+  },
+  {
+   "key": "1923980998550155264",
+   "en": "But I am hanging in there.",
+   "ro": "Dar mă țin bine."
+  },
+  {
+   "key": "1924055077659537408",
+   "en": "Have the decency not to treat me like some stranger you just met!",
+   "ro": "Ai decența să nu mă tratezi ca pe un străin pe care tocmai l-ai cunoscut!"
+  },
+  {
+   "key": "1924197459868708868",
+   "en": "Just wanted to know how you're holding up.",
+   "ro": "Voiam doar să știu cum te descurci."
+  },
+  {
+   "key": "1924197464868319232",
+   "en": "Um... just wanted to explain why I didn't, y'know...",
+   "ro": "Ăă... voiam doar să explic de ce n-am..."
+  },
+  {
+   "key": "1924197469297504256",
+   "en": "Just wanted to know how, you know, you were holdin' up.",
+   "ro": "Voiam doar să văd cum te mai descurci, știi."
+  },
+  {
+   "key": "1924200201987223552",
+   "en": "Wanted to call you before, Mama Welles, but... Eh, you know how it is…",
+   "en_m": "Wanted to call you before, Mama Welles, but, uh... y-you know how it is…",
+   "ro": "Voiam să te sun înainte, Mama Welles, dar... Eh, știi cum e…",
+   "ro_m": "Voiam să te sun înainte, Mama Welles, dar, ăă... ș-știi cum e…"
+  },
+  {
+   "key": "1924202385877430272",
+   "en": "<mothertongue l=\"mex\" m=\"Mi vida\" b=\"\" a=\", what's the matter?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mi vida\" b=\"\" a=\", ce s-a întâmplat?\"/>"
+  },
+  {
+   "key": "1924202697430331392",
+   "en": "Wanted to explain myself.",
+   "ro": "Voiam să mă explic."
+  },
+  {
+   "key": "1924208339574517760",
+   "en": "I suppose you still do what you... hehh, what you did before.",
+   "ro": "Presupun că tot faci ce... hehh, ce făceai înainte."
+  },
+  {
+   "key": "1924210039072944128",
+   "en": "No good, V. Parents should not bury their own children. Hmm, and I can't even do this.",
+   "ro": "Nu e bine, V. Părinții nu ar trebui să-și îngroape propriii copii. Hmm, și nici măcar asta nu pot face."
+  },
+  {
+   "key": "1924315354019852288",
+   "en": "It's OK, V. You don't need to. I know how things are.",
+   "ro": "E în regulă, V. Nu trebuie. Știu cum stau lucrurile."
+  },
+  {
+   "key": "1924320041959878656",
+   "en": "I was with Jackie when he...",
+   "ro": "Eram cu Jackie când..."
+  },
+  {
+   "key": "1924320232129622016",
+   "en": "V, listen. This is the path my son chose. He knew what he signed up for.",
+   "ro": "V, ascultă. Asta e calea pe care a ales-o fiul meu. Știa în ce se băga."
+  },
+  {
+   "key": "1924321279984201728",
+   "en": "<mothertongue l=\"mex\" m=\"mija\" b=\"Just promise me you won't get yourself killed, OK? May He watch over you, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mijo\" b=\"Just promise me you won't get yourself killed, OK? May He watch over you, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mija\" b=\"Promite-mi că nu te lași ucisă, OK? Să te aibă Dumnezeu în pază, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mijo\" b=\"Promite-mi că nu te lași ucis, OK? Să te aibă Dumnezeu în pază, \" a=\".\"/>"
+  },
+  {
+   "key": "1924322117670596608",
+   "en": "<mothertongue l=\"mex\" m=\"Mira\" b=\"\" a=\", don't worry. I take care of myself.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mira\" b=\"\" a=\", nu-ți face griji. Am grijă de mine.\"/>"
+  },
+  {
+   "key": "1924383116222197760",
+   "en": "If he could have been saved, you would have done it, I know.",
+   "ro": "Dacă ar fi putut fi salvat, ai fi făcut-o, știu."
+  }
+ ]
+}

@@ -1,0 +1,470 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_03_reconnaissance.json",
+ "entries": [
+  {
+   "key": "1650550777023840256",
+   "en": "Are you mad? Get back here!",
+   "ro": "Ești nebună? Întoarce-te aici!",
+   "ro_m": "Ești nebun? Întoarce-te aici!"
+  },
+  {
+   "key": "1650566746131677184",
+   "en": "We must finish the reconnaissance first!",
+   "ro": "Mai întâi terminăm recunoașterea!"
+  },
+  {
+   "key": "1650568890696089600",
+   "en": "Shit... too late!",
+   "ro": "Rahat... prea târziu!"
+  },
+  {
+   "key": "1650570808784863232",
+   "en": "Come.",
+   "ro": "Vino."
+  },
+  {
+   "key": "1650583235081551872",
+   "en": "Fortune smiles to us. It seems no one is here today.",
+   "ro": "Avem noroc. Pare că azi nu e nimeni pe-aici."
+  },
+  {
+   "key": "1654808777535090692",
+   "en": "[Change position] Done.",
+   "ro": "[Schimbă poziția] Gata."
+  },
+  {
+   "key": "1654809715515682816",
+   "en": "Camouflaged turrets by the gate.",
+   "ro": "Turele camuflate la poartă."
+  },
+  {
+   "key": "1654810085805617152",
+   "en": "A last resort. I do not wish to die there.",
+   "ro": "Ultima variantă. Nu vreau să mor acolo."
+  },
+  {
+   "key": "1654816514851565568",
+   "en": "Transformer by the wall – see it?",
+   "ro": "Transformatorul de lângă perete – îl vezi?"
+  },
+  {
+   "key": "1654816658279985152",
+   "en": "Arasaka SUV packed with security.",
+   "ro": "SUV Arasaka plin de gorile."
+  },
+  {
+   "key": "1654816681566760960",
+   "en": "Pipes. See 'em?",
+   "ro": "Țevi. Le vezi?"
+  },
+  {
+   "key": "1660310067094581248",
+   "en": "Think I've seen everything...",
+   "ro": "Cred că am văzut totul..."
+  },
+  {
+   "key": "1660312976733597696",
+   "en": "You wished to come for this reconnaissance. Do your job.",
+   "ro": "Ai vrut să vii la recunoașterea asta. Fă-ți treaba."
+  },
+  {
+   "key": "1660313572861636612",
+   "en": "Nothing more to do.",
+   "ro": "Nu mai e nimic de făcut."
+  },
+  {
+   "key": "1660313878139858944",
+   "en": "[Continue recon] Lemme look around some more.",
+   "ro": "[Continuă recunoașterea] Stai să mă mai uit pe-aici."
+  },
+  {
+   "key": "1660314202577661952",
+   "en": "All right, quit moanin'. I'll give it another glance.",
+   "ro": "Bine, gata cu văicărelile. Mai arunc un ochi."
+  },
+  {
+   "key": "1660314820247646208",
+   "en": "Told you, there's nothing left.",
+   "ro": "Ți-am spus, nu mai e nimic."
+  },
+  {
+   "key": "1660315328429518848",
+   "en": "We have what we came for.",
+   "ro": "Avem ce ne trebuie."
+  },
+  {
+   "key": "1680620426843144192",
+   "en": "I would call this is a beautiful view of the city, if...",
+   "ro": "Ar fi o priveliște frumoasă a orașului, dacă..."
+  },
+  {
+   "key": "1680621120950124544",
+   "en": "Now. You must look for vulnerabilities, weaknesses, while I try to think of a diversion.",
+   "ro": "Acum. Tu cauți puncte slabe, eu mă gândesc la o diversiune."
+  },
+  {
+   "key": "1681008278714204160",
+   "en": "Armored door. Sealed tight.",
+   "ro": "Ușă blindată. Sigilată bine."
+  },
+  {
+   "key": "1682352937914875904",
+   "en": "Looks like a service tunnel by the road there.",
+   "ro": "Pare un tunel de serviciu pe acolo, lângă drum."
+  },
+  {
+   "key": "1683875873238827008",
+   "en": "This is not bad.",
+   "ro": "Nu e rău."
+  },
+  {
+   "key": "1683876900876861440",
+   "en": "Well. I believe we have all we need.",
+   "ro": "Păi, cred că avem tot ce ne trebuie."
+  },
+  {
+   "key": "1712753113502334976",
+   "en": "I have found a good place. To observe.",
+   "ro": "Am găsit un loc bun de pândă."
+  },
+  {
+   "key": "1712820608846282752",
+   "en": "Arasaka cannot discover our intentions. A bit of sabotage is just what we need to divert their attention.",
+   "ro": "Arasaka nu trebuie să ne ghicească planul. Un pic de sabotaj le ia atenția exact unde trebuie."
+  },
+  {
+   "key": "1712877971137642496",
+   "en": "Got eyes on the comms system. Lotta guards.",
+   "en_m": "Got eyes on the comms system. S' lotta guards.",
+   "ro": "Am ochii pe sistemul de comunicații. O grămadă de gărzi."
+  },
+  {
+   "key": "1712877971137642504",
+   "en": "I could use comms for a diversion.",
+   "ro": "Pot folosi comunicațiile ca diversiune."
+  },
+  {
+   "key": "1720132378855084032",
+   "en": "If?",
+   "ro": "Dacă?"
+  },
+  {
+   "key": "1720132478981509120",
+   "en": "If there was anything to admire.",
+   "ro": "Dacă ar fi ceva de admirat."
+  },
+  {
+   "key": "1720156845840928768",
+   "en": "They are well armed. Best to keep a safe distance.",
+   "ro": "Sunt bine înarmați. Cel mai bine e să păstrăm distanța."
+  },
+  {
+   "key": "1720160241281011712",
+   "en": "It could lead to the warehouses.",
+   "ro": "Ar putea duce la depozite."
+  },
+  {
+   "key": "1720163643733970944",
+   "en": "We should use it to step up.",
+   "ro": "Ar trebui să-l folosim ca să urcăm."
+  },
+  {
+   "key": "1720171438764068864",
+   "en": "I expected you to be more useful than this.",
+   "ro": "Mă așteptam să fii mai utilă decât atât.",
+   "ro_m": "Mă așteptam să fii mai util decât atât."
+  },
+  {
+   "key": "1720183468782915584",
+   "en": "Let us analyze what we know already.",
+   "ro": "Să analizăm ce știm deja."
+  },
+  {
+   "key": "1722935226277052416",
+   "en": "Antenna – security hub's liable to be in that building.",
+   "ro": "Antena – hub-ul de securitate e probabil în clădirea aia."
+  },
+  {
+   "key": "1722943318414868480",
+   "en": "Perfect for sabotage!",
+   "ro": "Perfect pentru sabotaj!"
+  },
+  {
+   "key": "1740045371480829952",
+   "en": "You will have the best view on the left.",
+   "ro": "O să ai cea mai bună vedere din stânga."
+  },
+  {
+   "key": "1740045927628763136",
+   "en": "I will try here. This old scope should be good for something.",
+   "ro": "Încerc aici. Luneta asta veche trebuie să fie bună la ceva."
+  },
+  {
+   "key": "1740076845907144704",
+   "en": "Overheard one of the guards. Stepped in some shit, he's worried about disciplinary action.",
+   "ro": "Am auzit un gardian. S-a băgat în rahat, se teme de sancțiuni."
+  },
+  {
+   "key": "1740078541177712640",
+   "en": "Someone's stepped in quicksand, has serious trouble.",
+   "ro": "Cineva s-a băgat în belea, are probleme serioase."
+  },
+  {
+   "key": "1740078906753249280",
+   "en": "I cannot help with this. The procedures here I do not know.",
+   "ro": "Cu asta nu te pot ajuta. Nu știu procedurile de aici."
+  },
+  {
+   "key": "1740085235270119424",
+   "en": "Why the fuck do you think I'm callin' from a burner?",
+   "ro": "De ce pula mea crezi că sun de pe un burner?"
+  },
+  {
+   "key": "1740085664884289536",
+   "en": "Your gonk-ass runner was s'posed to fry the gear and wipe our tracks.",
+   "ro": "Tâmpitul ăla de runner trebuia să prăjească echipamentul și să șteargă urmele."
+  },
+  {
+   "key": "1740085920317403136",
+   "en": "Anyone goes through the system logs, counterintel'll fuckin' disembowel me.",
+   "ro": "Dacă cineva se uită prin log-urile sistemului, contrainformațiile o să mă facă praf, pula mea."
+  },
+  {
+   "key": "1740086140417699840",
+   "en": "Hear me? I'm fuckin' dead!",
+   "ro": "Mă auzi? Sunt mort, pula mea!"
+  },
+  {
+   "key": "1740086682120450048",
+   "en": "Could say I'm acting on her behalf, squeeze him. Still know my way around corpo procedures.",
+   "en_m": "Could say I'm acting on her behalf and squeeze him. Still know my way around corpo procedures.",
+   "ro": "Aș putea spune că lucrez pentru ea și îl storc. Tot mă descurc cu procedurile corpo."
+  },
+  {
+   "key": "1744704944005320704",
+   "en": "We could use them to get inside.",
+   "ro": "Am putea să le folosim ca să intrăm."
+  },
+  {
+   "key": "1764893628805550080",
+   "en": "A guard?",
+   "ro": "Un gardian?"
+  },
+  {
+   "key": "1770585507924676608",
+   "en": "<kiroshi l=\"jpn\" o=\"戦場に子供を連れてきた俺の責任か…\" t=\"This is what happens when you recruit children for war...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"戦場に子供を連れてきた俺の責任か…\" t=\"Asta se întâmplă când recrutezi copii pentru război...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1770603989923926016",
+   "en": "An interesting proposal.",
+   "ro": "O propunere interesantă."
+  },
+  {
+   "key": "1771006970582405120",
+   "en": "Stay where you are, I'll come to you!",
+   "ro": "Stai unde ești, vin eu la tine!"
+  },
+  {
+   "key": "1773253519043596288",
+   "en": "'Cept he only fucking wiped his own!",
+   "ro": "Doar și-a șters al lui, pula mea!"
+  },
+  {
+   "key": "1773289084677918720",
+   "en": "And this helps us how?",
+   "ro": "Și asta ne ajută cum?"
+  },
+  {
+   "key": "1773289253003726848",
+   "en": "Know of a woman – Abernathy. Head of counterintel in Night City.",
+   "en_m": "I know of a woman – Abernathy. Head of counterintel in Night City.",
+   "ro": "Știu de o femeie – Abernathy. Șefa contraspionajului în Night City."
+  },
+  {
+   "key": "1785237707065147392",
+   "en": "Trucks drive up regularly.",
+   "ro": "Camioanele vin regulat."
+  },
+  {
+   "key": "1785238588607184896",
+   "en": "Are we to hijack one…?",
+   "ro": "Să deturnăm unul…?"
+  },
+  {
+   "key": "1827042546073747456",
+   "en": "Footbridge, but it's guarded.",
+   "ro": "Pasarelă, dar e păzită."
+  },
+  {
+   "key": "1827043150523285504",
+   "en": "We will use it to enter if there is no other way.",
+   "ro": "O folosim ca să intrăm dacă nu e altă cale."
+  },
+  {
+   "key": "1906771210339893252",
+   "en": "[Lean] Let's do this.",
+   "ro": "[Sprijină-te] Hai să facem asta."
+  },
+  {
+   "key": "1906771418025050112",
+   "en": "Shall we begin?",
+   "ro": "Începem?"
+  },
+  {
+   "key": "1906775303242399744",
+   "en": "Mind runnin' out, getting a pizza?",
+   "ro": "Te superi să ieși să iei o pizza?"
+  },
+  {
+   "key": "1906775561846407168",
+   "en": "Oh, can you run and grab us a pizza?",
+   "ro": "A, poți să fugi și să ne iei o pizza?"
+  },
+  {
+   "key": "1906776545276477440",
+   "en": "Let's do this.",
+   "ro": "Hai s-o facem."
+  },
+  {
+   "key": "1908139041174339584",
+   "en": "We must just climb up here.",
+   "ro": "Trebuie doar să urcăm aici."
+  },
+  {
+   "key": "1908140258361360384",
+   "en": "Now this way.",
+   "ro": "Acum pe aici."
+  },
+  {
+   "key": "1908141579063803904",
+   "en": "Why do you wait?",
+   "ro": "Ce mai aștepți?"
+  },
+  {
+   "key": "1908161235300401152",
+   "en": "You like to complicate things.",
+   "ro": "Îți place să complici lucrurile."
+  },
+  {
+   "key": "1915814116827406336",
+   "en": "Take-out food? No, just no.",
+   "ro": "Mâncare la pachet? Nu, nici vorbă."
+  },
+  {
+   "key": "1994036756080508928",
+   "en": "Do you see the three antennas?",
+   "ro": "Vezi cele trei antene?"
+  },
+  {
+   "key": "1994037554340446208",
+   "en": "Perfect for sabotage. Once they lose communications…",
+   "ro": "Perfect pentru sabotaj. Odată ce pierd comunicațiile…"
+  },
+  {
+   "key": "1996781339317968896",
+   "en": "<kiroshi l=\"jpn\" o=\"混乱するなぁ\" t=\"Pure chaos.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"混乱するなぁ\" t=\"Haos curat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2005488461689618436",
+   "en": "Side-entrance is blocked.",
+   "ro": "Intrarea laterală e blocată."
+  },
+  {
+   "key": "2005494037748350980",
+   "en": "Gate's guarded.",
+   "ro": "Poarta e păzită."
+  },
+  {
+   "key": "2005497001275785220",
+   "en": "Got a guard freaking out.",
+   "ro": "Am un paznic care o ia razna."
+  },
+  {
+   "key": "2005505303497900036",
+   "en": "See the transformer?",
+   "ro": "Vezi transformatorul?"
+  },
+  {
+   "key": "2005510545153163264",
+   "en": "That a service tunnel?",
+   "ro": "Asta e un tunel de serviciu?"
+  },
+  {
+   "key": "2005531173109334020",
+   "en": "Arasaka SUV…",
+   "ro": "SUV Arasaka…"
+  },
+  {
+   "key": "2005534128801808388",
+   "en": "The pipes...",
+   "ro": "Țevile..."
+  },
+  {
+   "key": "2005577997614546948",
+   "en": "Comms system.",
+   "ro": "Sistem de comunicații."
+  },
+  {
+   "key": "2005585227302797316",
+   "en": "Footbridge…",
+   "ro": "Pasarelă…"
+  },
+  {
+   "key": "2005587993261735940",
+   "en": "Security hub's gotta be in that building.",
+   "ro": "Centrul de securitate trebuie să fie în clădirea aia."
+  },
+  {
+   "key": "2005609569046724608",
+   "en": "Trucks come regularly.",
+   "ro": "Camioanele vin des."
+  },
+  {
+   "key": "2012720965190754304",
+   "en": "If I had time and ingredients, I would prepare some onigiri with cod... or with grilled salmon.",
+   "ro": "Dacă aș avea timp și ingrediente, aș face niște onigiri cu cod... sau cu somon la grătar."
+  },
+  {
+   "key": "2012729391329386496",
+   "en": "No. Even better. With umeboshi plums. Mm. Arasaka-sama's favorite appetizer. Simple, tasty and filling.",
+   "ro": "Nu. Și mai bine. Cu prune umeboshi. Mm. Gustarea preferată a lui Arasaka-sama. Simplu, gustos și sățios."
+  },
+  {
+   "key": "2012743383091322880",
+   "en": "I found him chewing once, pride on his face.",
+   "ro": "L-am prins o dată ronțăind, tare mândru de el."
+  },
+  {
+   "key": "2012755587677102080",
+   "en": "It was a protein bar.",
+   "ro": "Era o bară proteică."
+  },
+  {
+   "key": "2012756024304148480",
+   "en": "Saburo Arasaka with a protein bar? Get outta here…",
+   "ro": "Saburo Arasaka cu o bară proteică? Pe bune?!"
+  },
+  {
+   "key": "2012756510994407424",
+   "en": "Like a true soldier.",
+   "ro": "Ca un adevărat soldat."
+  },
+  {
+   "key": "2012758565465169920",
+   "en": "OK, enough, or we will both grow hungry.",
+   "ro": "OK, destul, că o să ne fie foame amândurora."
+  },
+  {
+   "key": "2012761440408903680",
+   "en": "Hate Night City that much?",
+   "ro": "Chiar atât de mult urăști Night City?"
+  },
+  {
+   "key": "2012761996053520384",
+   "en": "Hm. Perhaps I am simply \"homesick,\" as you say.",
+   "ro": "Hm. Poate mi-e pur și simplu dor de casă, cum zici tu."
+  }
+ ]
+}

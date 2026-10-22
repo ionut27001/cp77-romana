@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_001.json",
+ "entries": [
+  {
+   "key": "1959255275444391936",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pap mande li anyen ankò.\" t=\"I won't ask him for anything anymore.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pap mande li anyen ankò.\" t=\"Nu-i mai cer nimic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964698558920413184",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen te kwè se te yonn renmen lòt.\" t=\"I thought you liked each other.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen te kwè se te yonn renmen lòt.\" t=\"Credeam că vă placeți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964699379527602176",
+   "en": "<kiroshi l=\"creo\" o=\"Se sa menm. Mwen pa vle kraze sa a.\" t=\"Exactly. I don't want to fuck it up.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se sa menm. Mwen pa vle kraze sa a.\" t=\"Exact. N-o să-o belesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964700019477729280",
+   "en": "<kiroshi l=\"creo\" o=\"Si mesye di non, li pral santi li wont, si mesye di wi se mwen kap santi m dròl.\" t=\"If he says no, he'll feel ashamed, and if he says yes, then I'll feel awkward.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Si mesye di non, li pral santi li wont, si mesye di wi se mwen kap santi m dròl.\" t=\"Dacă zice nu, o să-i fie rușine, iar dacă zice da, mi-e penibil.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964700768395874304",
+   "en": "<kiroshi l=\"creo\" o=\"Wa p ekzajere. An jeneral, Jean-ki-ri... Renmen tout moun.\" t=\"You're exaggerating. In general, Jean-ki-ri... likes everyone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Wa p ekzajere. An jeneral, Jean-ki-ri... Renmen tout moun.\" t=\"Exagerezi. În general, Jean-ki-ri... place tuturor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964701993552072704",
+   "en": "<kiroshi l=\"creo\" o=\"Se konsa sa ye? E ben ou pral pale ak mesye.\" t=\"Is that so? Then you go talk to him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se konsa sa ye? E ben ou pral pale ak mesye.\" t=\"Așa e? Atunci du-te și vorbește cu el.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

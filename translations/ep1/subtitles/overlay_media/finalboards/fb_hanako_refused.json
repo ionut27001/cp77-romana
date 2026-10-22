@@ -1,0 +1,66 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\overlay_media\\finalboards\\fb_hanako_refused.json",
+ "entries": [
+  {
+   "key": "1790692327141842948",
+   "en": "Hello, V.",
+   "ro": "Salut, V."
+  },
+  {
+   "key": "1800966060728107008",
+   "en": "From what I understand, you have less than six months to live.",
+   "ro": "Din câte înțeleg, mai ai mai puțin de șase luni de trăit."
+  },
+  {
+   "key": "1800966255226372096",
+   "en": "I do not know how you plan to spend this time.",
+   "ro": "Nu știu cum plănuiești să-ți petreci timpul ăsta."
+  },
+  {
+   "key": "1800966538291560448",
+   "en": "Perhaps you have chosen to put your feet up, rest, ponder life's meaning…",
+   "ro": "Poate ai ales să te odihnești, să te relaxezi, să te gândești la rostul vieții…"
+  },
+  {
+   "key": "1800966693732466688",
+   "en": "Or perhaps you continue to do what you are good at.",
+   "ro": "Sau poate continui să faci ce știi cel mai bine."
+  },
+  {
+   "key": "1800967466658807808",
+   "en": "If that is the case... my father and I would gladly retain your services. You would be compensated generously.",
+   "ro": "Dacă e așa... tatăl meu și cu mine am fi încântați să te păstrăm în echipă. Ai fi plătită generos.",
+   "ro_m": "Dacă e așa... tatăl meu și cu mine am fi încântați să te păstrăm în echipă. Ai fi plătit generos."
+  },
+  {
+   "key": "1800967908251910144",
+   "en": "Six months will pass faster than you imagine. It would be a shame to let this time go to waste.",
+   "ro": "Șase luni o să treacă mai repede decât îți imaginezi. Ar fi păcat să-ți irosești timpul ăsta."
+  },
+  {
+   "key": "3191385222111469568",
+   "en": "[db_db]Hanako tells V that she needs to deal with a complicated work situation",
+   "ro": "[db_db]Hanako îi spune lui V că are o chestiune complicată de rezolvat la serviciu"
+  },
+  {
+   "key": "3191391105847566336",
+   "en": "[db_db]Hanako mentions other people that are currenlty not available or indisposed for various reasons (hint that implant V ousted them)",
+   "ro": "[db_db]Hanako menționează alte persoane care momentan nu sunt disponibile sau sunt indisponibile din diverse motive (indiciu că implantul lui V le-a scos din joc)"
+  },
+  {
+   "key": "3191391720044666880",
+   "en": "[db_db]Hanako mentions something about V being the only capable person",
+   "ro": "[db_db]Hanako spune că V e singura persoană capabilă de asta"
+  },
+  {
+   "key": "3191392433713881088",
+   "en": "[db_db]Hanako says she saw Vs request to high level access to some super database and will grant it temporarily",
+   "ro": "[db_db]Hanako spune că a văzut cererea lui V pentru acces de nivel înalt la o superbază de date și o să i-l acorde temporar"
+  },
+  {
+   "key": "3191392922182524928",
+   "en": "[db_db]Hanako says something about not betraying her trust before hanging up",
+   "ro": "[db_db]Hanako îi cere lui V să nu-i trădeze încrederea, înainte să închidă"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_09a_lookout_intercept.json",
+ "entries": [
+  {
+   "key": "1537210499962261504",
+   "en": "<mothertongue l=\"creo\" m=\"Li vivan.\" b=\"Oh fuck! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Li vivan.\" b=\"Futu-i! \" a=\"\"/>"
+  },
+  {
+   "key": "1537221144149512192",
+   "en": "Lead the way.",
+   "ro": "Tu condu."
+  },
+  {
+   "key": "1537221773295112192",
+   "en": "I'll find him.",
+   "ro": "O să-l găsesc."
+  },
+  {
+   "key": "1537222439602245632",
+   "en": "Sure. Yes.",
+   "ro": "Sigur. Da."
+  },
+  {
+   "key": "1599616870304256000",
+   "en": "I'll find him myself.",
+   "ro": "O să-l găsesc singură.",
+   "ro_m": "O să-l găsesc singur."
+  },
+  {
+   "key": "1599621569736675328",
+   "en": "<kiroshi l=\"creo\" o=\"Placide? Nou gon pwoblèm.\" t=\"Placide? We have a problem.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide? Nou gon pwoblèm.\" t=\"Placide? Avem o problemă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1599622118854955008",
+   "en": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"She survived... I dunno. Like a fuckin' zombie.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"He survived... I dunno. Like a fuckin' zombie.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"A supraviețuit... Nu știu. Ca un zombi al dracului.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1599623438483656704",
+   "en": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"She's headed your way.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"He's headed your way.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"Vine spre tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1624186312661684224",
+   "en": "We are to take you to Placide.",
+   "ro": "Te ducem la Placide."
+  },
+  {
+   "key": "1624186312695238656",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1624186312712015872",
+   "en": "I'll find him.",
+   "en_m": "I'll find 'im.",
+   "ro": "O să-l găsesc."
+  },
+  {
+   "key": "1624186312712015884",
+   "en": "Sure. Yes.",
+   "ro": "Sigur. Da."
+  },
+  {
+   "key": "1624186312728793116",
+   "en": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"She's headed your way.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"He's headed your way.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"Vine spre tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1643211308855742464",
+   "en": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Ain't it better to kill her here and now?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Ain't it better to kill him here and now?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Nu-i mai bine să o omorâm aici și acum?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Nu-i mai bine să-l omorâm aici și acum?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1643227357101707264",
+   "en": "Lead the way.",
+   "ro": "Tu condu."
+  },
+  {
+   "key": "1643227780374089728",
+   "en": "I'll find him myself.",
+   "ro": "O să-l găsesc singură.",
+   "ro_m": "O să-l găsesc singur."
+  },
+  {
+   "key": "1643227780374089744",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1643235998139699200",
+   "en": "<kiroshi l=\"creo\" o=\"Rantre.\" t=\"Get in.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Rantre.\" t=\"Intră.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1648863460483682304",
+   "en": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"No, they wanna hear her out.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"No, they wanna hear him out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"Nu, vor să o asculte.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"Nu, vor să-l asculte.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1666251122131619840",
+   "en": "<kiroshi l=\"creo\" o=\"E nou sipoze pran fin ranyon sa?\" t=\"We supposed to deal with the rag?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"E nou sipoze pran fin ranyon sa?\" t=\"Noi trebuia să ne ocupăm de zdreanță?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1666251122131619848",
+   "en": "<kiroshi l=\"creo\" o=\"Non, Placide deja okipe li.\" t=\"No, Placide already handled it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Non, Placide deja okipe li.\" t=\"Nu, Placide s-a ocupat deja.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1671900358616879104",
+   "en": "<kiroshi l=\"creo\" o=\"A bien 'sa nap fè ak kadav la?\" t=\"What about the body?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"A bien 'sa nap fè ak kadav la?\" t=\"Dar cadavrul?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1671900651177971712",
+   "en": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"She's just a street junkie.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"He's just a street junkie.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"E doar o drogată de stradă.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"E doar un drogat de stradă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1671900882804215808",
+   "en": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral gade pou li.\" t=\"No one's going to come looking for her.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral chache li.\" t=\"No one's going to come looking for him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral gade pou li.\" t=\"Nimeni n-o să vină s-o caute.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral chache li.\" t=\"Nimeni n-o să vină să-l caute.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1671907732891176960",
+   "en": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Who? If Placide see's her, he'll fucking burn her.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Who? If Placide see's him, he'll fucking burn him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Cine? Dacă Placide o vede, o arde de viu, pula mea.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Cine? Dacă Placide îl vede, îl arde de viu, pula mea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1671909154072367104",
+   "en": "<kiroshi l=\"creo\" o=\"Dwe vle di Brigitte reyèlman tounen.\" t=\"Must mean Brigitte's really back.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Dwe vle di Brigitte reyèlman tounen.\" t=\"Înseamnă că Brigitte chiar s-a întors.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699551586426134552",
+   "en": "You wish to talk with Placide? Is that what you want?",
+   "ro": "Vrei să vorbești cu Placide? Asta vrei?"
+  },
+  {
+   "key": "1699551586426134564",
+   "en": "Be-because I can take you.",
+   "ro": "P-pentru că te pot duce."
+  },
+  {
+   "key": "1770663921073852416",
+   "en": "<kiroshi l=\"creo\" o=\"Animal yo ap pake. Li fini.\" t=\"The Animals are packing up. It's over.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Animal yo ap pake. Li fini.\" t=\"Animals se retrag. S-a terminat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2505343847431774208",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

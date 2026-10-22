@@ -1,0 +1,55 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\mirror_scene_joss_trailer.json",
+ "entries": [
+  {
+   "key": "2413972943627247616",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2413972943828574208",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2520253623914356736",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2520253623914356748",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2520253623914356760",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2520253623914356772",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2520253623931133960",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "3151840484787642368",
+   "en": "[Change appearance]",
+   "ro": "[Schimbă aspectul]"
+  },
+  {
+   "key": "3151840484787642388",
+   "en": "[Change facial expression]",
+   "ro": "[Schimbă expresia facială]"
+  },
+  {
+   "key": "3151963043441041408",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  }
+ ]
+}

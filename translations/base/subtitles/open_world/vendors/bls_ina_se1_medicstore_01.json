@@ -1,0 +1,22 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_medicstore_01.json",
+ "entries": [
+  {
+   "key": "1935675942454603776",
+   "en": "I need your help.",
+   "ro": "Am nevoie de ajutorul tău."
+  },
+  {
+   "key": "1935675942504935428",
+   "en": "Hi, uh... Uh, I need your help.",
+   "en_m": "Hi, um... I need your help.",
+   "ro": "Salut, ăă... Am nevoie de ajutorul tău.",
+   "ro_m": "Salut, um... Am nevoie de ajutorul tău."
+  },
+  {
+   "key": "1935675942504935436",
+   "en": "If I had an eddy for every time I heard that... Anyway, what can I do for you?",
+   "ro": "Dacă aș primi un eddy de fiecare dată când aud asta... Oricum, cu ce te pot ajuta?"
+  }
+ ]
+}

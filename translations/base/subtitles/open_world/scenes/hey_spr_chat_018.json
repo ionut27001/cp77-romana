@@ -1,0 +1,50 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_018.json",
+ "entries": [
+  {
+   "key": "2162108800612151296",
+   "en": "<kiroshi l=\"rus\" o=\"Найди меню «Кироси», выбери вкладку «Переводчик» и нажми «Обновить драйверы».\" t=\"OK, so open the Kiroshi panel, select the Translator tab and hit \\\"Update Drivers.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Найди меню «Кироси», выбери вкладку «Переводчик» и нажми «Обновить драйверы».\" t=\"Bine, deschide panoul Kiroshi, selectează fila Translator și apasă pe „Update Drivers”.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2213021445466198016",
+   "en": "<kiroshi l=\"jpn\" o=\"え？ キロシ？ 全然わからない\" t=\"Kiroshi? What? I don't understand.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え？ キロシ？ 全然わからない\" t=\"Kiroshi? Ce? Nu înțeleg nimic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218601229344673792",
+   "en": "<kiroshi l=\"rus\" o=\"Ну, я хотя бы нормально тебя слышу. Попробуй сбросить настройки.\" t=\"Well, I can hear you just fine. Dunno, try... Try resetting something.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну, я хотя бы нормально тебя слышу. Попробуй сбросить настройки.\" t=\"Păi, eu te aud perfect. Habar n-am, încearcă... Resetează ceva.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218601463453945856",
+   "en": "<kiroshi l=\"jpn\" o=\"え？ もう、何言ってるの？ 翻訳されないんだってば！\" t=\"What?! I can't understand you, it's not translating!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え？ もう、何言ってるの？ 翻訳されないんだってば！\" t=\"Ce?! Nu te înțeleg, nu mai traduce!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218601713082142720",
+   "en": "<kiroshi l=\"rus\" o=\"Не кричи на меня! Я не виноват, что ты выбрала такого хуёвого рипера. Поставил тебе какую-то несовместимую херь…\" t=\"Don't yell at me! Not my fault you went to a shit ripper. Probably put in some incompatible second-hand hardware...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не кричи на меня! Я не виноват, что ты выбрала такого хуёвого рипера. Поставил тебе какую-то несовместимую херь…\" t=\"Nu țipa la mine! Nu e vina mea că te-ai dus la un ripper de rahat. Probabil ți-a pus niște hardware incompatibil de mâna a doua...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218604317510045696",
+   "en": "<kiroshi l=\"rus\" o=\"Так… Спокойно. НАЙ-ДИ МЕ-НЮ «КИ-РО-СИ»…\" t=\"Ehhh... All right, let's stay calm. OPEEEN. THE. KIROOOSHIII. PAANEL...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Так… Спокойно. НАЙ-ДИ МЕ-НЮ «КИ-РО-СИ»…\" t=\"Ehhh... Bine, hai să rămânem calmi. DES-CHI-DE. PA-NOU-L. KI-RO-SHI...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218604652769153024",
+   "en": "<kiroshi l=\"jpn\" o=\"ロ・シ・ア・語・は・話せませーん\" t=\"I. DOOON'T. SPEEEAK. RUUUSSIAAAN.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ロ・シ・ア・語・は・話せませーん\" t=\"NU. VOR-BESC. RU-SĂ.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218605092466429952",
+   "en": "<kiroshi l=\"rus\" o=\"Сука, блядь!..\" t=\"Fuuuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Сука, блядь!..\" t=\"Fuuutu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2218605717149290496",
+   "en": "<kiroshi l=\"jpn\" o=\"スーカブリャーチはそっちでしょ！\" t=\"You're a \\\"suka blyat\\\"!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"スーカブリャーチはそっちでしょ！\" t=\"Tu ești \\\"suka blyat\\\"!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

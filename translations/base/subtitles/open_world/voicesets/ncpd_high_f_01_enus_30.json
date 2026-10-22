@@ -1,0 +1,333 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\ncpd_high_f_01_enus_30.json",
+ "entries": [
+  {
+   "key": "1856074544447086596",
+   "en": "Back off.",
+   "ro": "Dă-te înapoi."
+  },
+  {
+   "key": "1856074544463863812",
+   "en": "You're in my way.",
+   "ro": "Îmi stai în cale."
+  },
+  {
+   "key": "1856074544530972676",
+   "en": "Stop! Move back!",
+   "ro": "Stai! Dă-te înapoi!"
+  },
+  {
+   "key": "1856074544547749892",
+   "en": "I will disarm you.",
+   "ro": "Te dezarmez."
+  },
+  {
+   "key": "1856074544581304324",
+   "en": "Drop your weapon!",
+   "ro": "Aruncă arma!"
+  },
+  {
+   "key": "1856074544598081540",
+   "en": "'Ey, 'ey, 'ey! The hell's that?!",
+   "ro": "Hei, hei, hei! Ce dracu' e aia?!"
+  },
+  {
+   "key": "1856074544648413188",
+   "en": "You will provoke me.",
+   "ro": "Mă provoci."
+  },
+  {
+   "key": "1856074544665190404",
+   "en": "I won't be gentle, got it?",
+   "ro": "Nu o să fiu blândă, ai înțeles?"
+  },
+  {
+   "key": "1856074544698744836",
+   "en": "No fast moves.",
+   "ro": "Fără mișcări bruste."
+  },
+  {
+   "key": "1856074544715522052",
+   "en": "Good. That I like.",
+   "ro": "Bine. Asta îmi place."
+  },
+  {
+   "key": "1856074544765853700",
+   "en": "Don't like that.",
+   "ro": "Nu-mi place asta."
+  },
+  {
+   "key": "1856074544782630916",
+   "en": "I got a bad feeling.",
+   "ro": "Am un presentiment rău."
+  },
+  {
+   "key": "1856074544816185348",
+   "en": "Mission complete.",
+   "ro": "Misiune îndeplinită."
+  },
+  {
+   "key": "1856074544832962564",
+   "en": "No threat detected.",
+   "ro": "Nicio amenințare detectată."
+  },
+  {
+   "key": "1856074544883294212",
+   "en": "Gotta find her.",
+   "en_m": "Gotta find him.",
+   "ro": "Trebuie s-o găsesc.",
+   "ro_m": "Trebuie să-l găsesc."
+  },
+  {
+   "key": "1856074544900071428",
+   "en": "We'll get you, you hear? You don't mess with us!",
+   "ro": "Te prindem noi, ai auzit? Nu te pui cu noi!"
+  },
+  {
+   "key": "1856074544933625860",
+   "en": "Body here!",
+   "ro": "Cadavru aici!"
+  },
+  {
+   "key": "1856074544950403076",
+   "en": "Roger.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1856074545000734724",
+   "en": "Neutralize the threat!",
+   "ro": "Neutralizează amenințarea!"
+  },
+  {
+   "key": "1856074545017511940",
+   "en": "I'm under fire!",
+   "ro": "Trag în mine!"
+  },
+  {
+   "key": "1856074545051066372",
+   "en": "Watch out!",
+   "ro": "Atenție!"
+  },
+  {
+   "key": "1856074545101398016",
+   "en": "No mercy!",
+   "ro": "Fără milă!"
+  },
+  {
+   "key": "1856074545118175236",
+   "en": "Aaaah!",
+   "ro": "Aaaah!"
+  },
+  {
+   "key": "1856074545151729668",
+   "en": "Need backup!",
+   "ro": "Am nevoie de întăriri!"
+  },
+  {
+   "key": "1856074545168506884",
+   "en": "We're under fire!",
+   "ro": "Suntem sub foc!"
+  },
+  {
+   "key": "1856074545218838532",
+   "en": "Try that again. Just try it.",
+   "ro": "Mai încearcă o dată. Încearcă."
+  },
+  {
+   "key": "1856074545235615748",
+   "en": "Initiating observation of the suspect.",
+   "ro": "Inițiez observarea suspectului."
+  },
+  {
+   "key": "1856074545269170180",
+   "en": "Hello?",
+   "ro": "Alo?"
+  },
+  {
+   "key": "1856074545319501828",
+   "en": "Yeah... of course... everything according to plan... yes sir... yeah...",
+   "ro": "Da... sigur... totul conform planului... da, domnule... da..."
+  },
+  {
+   "key": "1856074545353056260",
+   "en": "Still waiting... mhm... we'll try... understood...",
+   "ro": "Încă aștept... mhm... încercăm... înțeles..."
+  },
+  {
+   "key": "1856074545403387908",
+   "en": "Flank! Flank! Flank!",
+   "ro": "Flanc! Flanc! Flanc!"
+  },
+  {
+   "key": "1856074545453719556",
+   "en": "Roger that!",
+   "ro": "Am înțeles!"
+  },
+  {
+   "key": "1856074545487273988",
+   "en": "Take cover!",
+   "ro": "La adăpost!"
+  },
+  {
+   "key": "1856074545520828420",
+   "en": "Over and out.",
+   "ro": "Terminat."
+  },
+  {
+   "key": "1856074545537605636",
+   "en": "Head on a swivel.",
+   "ro": "Ochi în patru."
+  },
+  {
+   "key": "1856074545571160068",
+   "en": "Go, go, go, move!",
+   "ro": "Hai, hai, hai, mișcă!"
+  },
+  {
+   "key": "1856074545604714500",
+   "en": "Move it!",
+   "ro": "Mișcă-te!"
+  },
+  {
+   "key": "1856074545621491716",
+   "en": "Go check it out.",
+   "ro": "Du-te și verifică."
+  },
+  {
+   "key": "1856074545638268940",
+   "en": "Don't slow down!",
+   "ro": "Nu încetini!"
+  },
+  {
+   "key": "1856074545671823364",
+   "en": "Echhha... ech... leave me... ech...",
+   "ro": "Echhha... ech... lasă-mă... ech..."
+  },
+  {
+   "key": "2235051798921617412",
+   "en": "Get behind cover!",
+   "ro": "Adăpostește-te!"
+  },
+  {
+   "key": "2235051798988726272",
+   "en": "Move up!",
+   "ro": "Avansează!"
+  },
+  {
+   "key": "2235051799055835140",
+   "en": "Vitals stable! Heads on a swivel!",
+   "ro": "Semne vitale stabile! Ochi în patru!"
+  },
+  {
+   "key": "2235051799089389572",
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "key": "2235051799190052868",
+   "en": "Wires must've gotten crossed. Spread out.",
+   "ro": "S-au încurcat firele. Răspândiți-vă!"
+  },
+  {
+   "key": "2235051799257161732",
+   "en": "Keep her back! Aim for center mass!",
+   "en_m": "Keep him back! Aim for center mass!",
+   "ro": "Țineți-o la distanță! Țintiți în centru de masă!",
+   "ro_m": "Țineți-l la distanță! Țintiți în centru de masă!"
+  },
+  {
+   "key": "2235051799408156676",
+   "en": "Officer down!",
+   "ro": "Ofițer doborât!"
+  },
+  {
+   "key": "2235051799475265540",
+   "en": "Give yourself up!",
+   "ro": "Predă-te!"
+  },
+  {
+   "key": "2235051799542374404",
+   "en": "Control! I'm the last one standing! Please advise!",
+   "ro": "Control! Sunt ultimul în picioare! Sfătuiți-mă!"
+  },
+  {
+   "key": "2235051799827587076",
+   "en": "Target hit!",
+   "ro": "Țintă lovită!"
+  },
+  {
+   "key": "2235051800028913668",
+   "en": "She's got a death warrant! Kill her!",
+   "en_m": "He's got a death warrant! Kill him!",
+   "ro": "Are mandat de execuție! Ucideți-o!",
+   "ro_m": "Are mandat de execuție! Ucideți-l!"
+  },
+  {
+   "key": "2235051800112799744",
+   "en": "Understood!",
+   "ro": "Înțeles!"
+  },
+  {
+   "key": "2235051800196685828",
+   "en": "She's hiding! Don't let her get away!",
+   "en_m": "He's hiding! Don't let him get away!",
+   "ro": "Se ascunde! Nu o lăsați să scape!",
+   "ro_m": "Se ascunde! Nu-l lăsați să scape!"
+  },
+  {
+   "key": "2235051800364457988",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2235051800448344068",
+   "en": "Neutralize the threat!",
+   "ro": "Neutralizează amenințarea!"
+  },
+  {
+   "key": "2235051800616116228",
+   "en": "She blinded me!",
+   "en_m": "He blinded me!",
+   "ro": "M-a orbit!"
+  },
+  {
+   "key": "2235051800800665604",
+   "en": "She's a netrunner!",
+   "en_m": "He's a netrunner!",
+   "ro": "E netrunner!"
+  },
+  {
+   "key": "2235051800918106116",
+   "en": "Oooof!",
+   "ro": "Oooof!"
+  },
+  {
+   "key": "2235051801119432704",
+   "en": "Moving to restrain!",
+   "ro": "Mă apropii să o imobilizez!",
+   "ro_m": "Mă apropii să-l imobilizez!"
+  },
+  {
+   "key": "2235051801203318788",
+   "en": "Close proximity!",
+   "ro": "E în apropiere!"
+  },
+  {
+   "key": "2235051801454977024",
+   "en": "Covering fire!",
+   "ro": "Foc de acoperire!"
+  },
+  {
+   "key": "2235051801555640324",
+   "en": "Cop-killer! Neutralize her!",
+   "en_m": "Cop-killer! Neutralize him!",
+   "ro": "Ucigaș de polițiști! Neutralizează-o!",
+   "ro_m": "Ucigaș de polițiști! Neutralizează-l!"
+  },
+  {
+   "key": "2235051801907961860",
+   "en": "Something's up. Moving to investigate.",
+   "ro": "Se întâmplă ceva. Mă duc să investighez."
+  }
+ ]
+}

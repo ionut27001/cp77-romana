@@ -1,0 +1,344 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q003\\q003_07aa_final_traitor.json",
+ "entries": [
+  {
+   "key": "1328609197984731136",
+   "en": "Looks like you two lucked out a bit.",
+   "ro": "Se pare că v-a surâs norocul, amândoi."
+  },
+  {
+   "key": "1329900622692683776",
+   "en": "Dealin' with Maelstrom, heh. Never ends well, does it.",
+   "ro": "Afaceri cu Maelstrom, heh. Nu se termină niciodată bine, nu?"
+  },
+  {
+   "key": "1329943770605228032",
+   "en": "What happened to Stout?",
+   "ro": "Ce s-a întâmplat cu Stout?"
+  },
+  {
+   "key": "1329943995956793344",
+   "en": "Think we're done here.",
+   "ro": "Cred că am terminat aici."
+  },
+  {
+   "key": "1336877988778283008",
+   "en": "What do you want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1336878780998422528",
+   "en": "And you? Why're you here?",
+   "ro": "Iar tu? De ce ești aici?"
+  },
+  {
+   "key": "1336880564852690944",
+   "en": "Well, I still don't know who the mole is.",
+   "ro": "Păi, tot nu știu cine e cârtița."
+  },
+  {
+   "key": "1337059132949860352",
+   "en": "Think we're done here. And doubt you'll find much inside.",
+   "ro": "Cred că am terminat aici. Și mă îndoiesc că o să găsești mare lucru înăuntru."
+  },
+  {
+   "key": "1337059190294384640",
+   "en": "What happened to Stout?",
+   "ro": "Ce s-a întâmplat cu Stout?"
+  },
+  {
+   "key": "1339002559011512320",
+   "en": "She placed some bad bets. Her clock ran out. Simple as that.",
+   "ro": "A pariat prost. I-a expirat timpul. Simplu."
+  },
+  {
+   "key": "1345654002611150848",
+   "en": "I was hoping the Maelstromers would shed some light on it.",
+   "ro": "Speram că Maelstromerii o să arunce puțină lumină pe chestia asta."
+  },
+  {
+   "key": "1345679903847636992",
+   "en": "It's been a pleasure.",
+   "ro": "A fost o plăcere."
+  },
+  {
+   "key": "1698516624497926152",
+   "en": "Aw, had enough for one day, lemme tell you.",
+   "ro": "Of, mi-ajunge pentru o zi, zic eu."
+  },
+  {
+   "key": "1698516624514703364",
+   "en": "Let Dex know we got his toy for him. Fatso oughta crack open a bottle for us after what we did for him today.",
+   "ro": "Spune-i lui Dex că i-am adus jucăria. Grasul ar trebui să ne deschidă o sticlă după ce am muncit azi pentru el."
+  },
+  {
+   "key": "1698516624514703372",
+   "en": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\", V.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\", V.\"/>"
+  },
+  {
+   "key": "1698516624766361600",
+   "en": "We did it.",
+   "ro": "Am reușit."
+  },
+  {
+   "key": "1698520584021565440",
+   "en": "You know this guy?",
+   "ro": "Îl cunoști pe tipul ăsta?"
+  },
+  {
+   "key": "1698520584021565448",
+   "en": "Yep. Familiar face, definitely.",
+   "en_m": "Yeah. Familiar face, definitely.",
+   "ro": "Da. Față cunoscută, sigur."
+  },
+  {
+   "key": "1717332283180670976",
+   "en": "So, you're the mole after all.",
+   "ro": "Deci tu ești cârtița, până la urmă."
+  },
+  {
+   "key": "1717333981706018816",
+   "en": "I know you're the mole. Saw the manifests. LOA? Old trick... but still effective.",
+   "ro": "Știu că ești cârtița. Am văzut manifestele. LOA? Truc vechi... dar tot funcționează."
+  },
+  {
+   "key": "1717333981706018836",
+   "en": "Ah yes, that.",
+   "ro": "A, da, aia."
+  },
+  {
+   "key": "1717333981706018856",
+   "en": "I suggest we part amicably. No accusations, no bad blood.",
+   "ro": "Propun să ne despărțim pe bune. Fără acuzații, fără ranchiună."
+  },
+  {
+   "key": "1717339265472094208",
+   "en": "I know how to take care of my friends. Goes for you, too. You won't regret keeping a lid on this.",
+   "ro": "Știu să am grijă de prietenii mei. Și de tine, la fel. N-o să regreți că ții gura."
+  },
+  {
+   "key": "1717339482636378112",
+   "en": "We'll see.",
+   "ro": "Vedem noi."
+  },
+  {
+   "key": "1717389829937520640",
+   "en": "Business with Maelstrom – hardly ever ends well, does it.",
+   "ro": "Afaceri cu Maelstrom – nu se termină niciodată bine, nu?"
+  },
+  {
+   "key": "1717391644577980416",
+   "en": "By the way, where's Royce? Need a word with him, too.",
+   "ro": "Apropo, unde e Royce? Am și eu o vorbă cu el."
+  },
+  {
+   "key": "1759158941929893888",
+   "en": "Suffice to say, you won't be seeing her again.",
+   "ro": "Să zicem că n-o să o mai vezi."
+  },
+  {
+   "key": "1759165151580188672",
+   "en": "Think we're done. What now?",
+   "ro": "Cred că am terminat. Și acum?"
+  },
+  {
+   "key": "1759169851901800448",
+   "en": "Yeah, I doubt that…",
+   "ro": "Da, mă îndoiesc…"
+  },
+  {
+   "key": "1769688478654357504",
+   "en": "Wait!",
+   "ro": "Stai!"
+  },
+  {
+   "key": "1769690365571063808",
+   "en": "Hold your fire!",
+   "ro": "Nu trageți!"
+  },
+  {
+   "key": "1769690602213695488",
+   "en": "I'd like a word with them.",
+   "ro": "Aș vrea să vorbesc cu ei."
+  },
+  {
+   "key": "1769716229243363328",
+   "en": "You were followed… but I'm sure you know that.",
+   "ro": "Ai fost urmărită… dar sunt sigur că știi asta.",
+   "ro_m": "Ai fost urmărit… dar sunt sigur că știi asta."
+  },
+  {
+   "key": "1769719021240541184",
+   "en": "Stout's people were on your tail, my people were on theirs.",
+   "ro": "Oamenii lui Stout erau pe urmele tale, ai mei pe ale lor."
+  },
+  {
+   "key": "1769719970411536384",
+   "en": "In the end, she lost her nerve. Thought you'd hopped in bed with Maelstrom behind her back. Hit the big, red button prematurely.",
+   "ro": "Până la urmă i-au cedat nervii. Credea că te-ai culcat cu Maelstrom pe la spate. A apăsat prea repede pe butonul roșu."
+  },
+  {
+   "key": "1769720540853657600",
+   "en": "Classic. When you don't know what to do, why not order an all-out assault on a food factory.",
+   "ro": "Clasic. Când nu știi ce să faci, de ce să nu dai un asalt total peste o fabrică de mâncare?"
+  },
+  {
+   "key": "1769722760278007808",
+   "en": "Mhm. 'Bout sums it up. I made sure it blew up in her face.",
+   "ro": "Mhm. Cam asta e. M-am asigurat că i-a explodat în față."
+  },
+  {
+   "key": "1778005321121198084",
+   "en": "They shot first.",
+   "ro": "Ei au tras primii."
+  },
+  {
+   "key": "1778005816015515648",
+   "en": "Gilchrist... got it right?",
+   "ro": "Gilchrist... am nimerit?"
+  },
+  {
+   "key": "1778006396205199360",
+   "en": "Anthony Gilchrist... still alive. And not hogtied for a change.",
+   "ro": "Anthony Gilchrist... tot în viață. Și nu legat, pentru o dată."
+  },
+  {
+   "key": "1778007339772604416",
+   "en": "Have a good memory for... names.",
+   "ro": "Am memorie bună pentru... nume."
+  },
+  {
+   "key": "1778007507158888448",
+   "en": "But that's nowhere near enough when Militech personnel get shot up.",
+   "ro": "Dar asta nu ajunge nici pe departe când îi împușcă pe oamenii Militech."
+  },
+  {
+   "key": "1778011511142150144",
+   "en": "Gotta admit, didn't expect to see you here.",
+   "ro": "Trebuie să recunosc, nu mă așteptam să te văd aici."
+  },
+  {
+   "key": "1778017334295719936",
+   "en": "Rather tough to get corpses to talk.",
+   "en_m": "Pretty tough to get corpses to talk.",
+   "ro": "Destul de greu să faci morții să vorbească."
+  },
+  {
+   "key": "1778017900291878912",
+   "en": "You'd be surprised. I'm sure I'll manage something.",
+   "ro": "Ai fi surprinsă. Sunt sigur că mă descurc cu ceva.",
+   "ro_m": "Ai fi surprins. Sunt sigur că mă descurc cu ceva."
+  },
+  {
+   "key": "1787289355481210884",
+   "en": "Had it coming, I guess...",
+   "ro": "A avut ce a meritat, cred..."
+  },
+  {
+   "key": "1789896624355143684",
+   "en": "We make a good team, Jack.",
+   "ro": "Suntem o echipă bună, Jack."
+  },
+  {
+   "key": "1789898054042382336",
+   "en": "We make a good pair.",
+   "ro": "Ne prindem bine împreună."
+  },
+  {
+   "key": "1790908479355510784",
+   "en": "Think you might be right.",
+   "ro": "Cred că s-ar putea să ai dreptate."
+  },
+  {
+   "key": "1790908590454235136",
+   "en": "In any case, I don't regret switchin' my life up the way I did.",
+   "ro": "Oricum, nu regret că mi-am dat viața peste cap."
+  },
+  {
+   "key": "1790928503768113152",
+   "en": "That'd the sweet taste of success, my friend. Call up Dex, let him know we got his toy, meetin' to celebrate at the Afterlife.",
+   "ro": "Asta e gustul dulce al succesului, frate. Sună-l pe Dex, zi-i că avem jucăria lui și ne vedem la Afterlife să sărbătorim."
+  },
+  {
+   "key": "1790930025243500544",
+   "en": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\", V.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\", V.\"/>"
+  },
+  {
+   "key": "1793674227068366848",
+   "en": "Who's that? Friend of yours?",
+   "ro": "Cine e ăla? Prieten de-al tău?"
+  },
+  {
+   "key": "1793674522414477312",
+   "en": "Corporat. Schemer. Had some dealings with 'im.",
+   "ro": "Corporatist. Un șmecher. Am avut de-a face cu el."
+  },
+  {
+   "key": "1793676094288621568",
+   "en": "Long past.",
+   "ro": "De mult."
+  },
+  {
+   "key": "1968170658197073920",
+   "en": "You shot at my people.",
+   "ro": "Ai tras în oamenii mei."
+  },
+  {
+   "key": "1968174867567013888",
+   "en": "They drew and fired first.",
+   "ro": "Ei au tras primii."
+  },
+  {
+   "key": "1968175233310322688",
+   "en": "A fact of no consequence to Militech management.",
+   "ro": "Pentru conducerea Militech, asta nu contează."
+  },
+  {
+   "key": "1968175722684936192",
+   "en": "Buuut, if you'd worked with Stout, I'd be dead by now. Might not've intended it, but you saved my life.",
+   "ro": "Daaar, dacă lucrai cu Stout, eram mort până acum. Poate n-ai vrut, da' mi-ai salvat viața."
+  },
+  {
+   "key": "1968176027392733184",
+   "en": "Now I'm saving yours. Makes us even.",
+   "ro": "Acum îți salvez eu viața. Suntem chit."
+  },
+  {
+   "key": "1968177022768181252",
+   "en": "Rather unexpected rescue.",
+   "ro": "Salvare cam neașteptată."
+  },
+  {
+   "key": "1968177271423299584",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1968177682129547264",
+   "en": "'Preciate it. You're not half-bad.",
+   "ro": "Mersi. Nu ești chiar de lepădat."
+  },
+  {
+   "key": "1968179153290063872",
+   "en": "Carin' for my interests, not yours.",
+   "ro": "Îmi văd de-ale mele, nu de-ale tale."
+  },
+  {
+   "key": "1968505885079519232",
+   "en": "Holy shit, V. Wasn't sure we'd walk out in one piece.",
+   "ro": "Ce dracu', V. Nu eram sigur că mai ieșim întregi."
+  },
+  {
+   "key": "1968509277248045056",
+   "en": "Not in the  mood to chat? Isn't that a damn shame.",
+   "ro": "Nu ești în toane de vorbă? Ce păcat, fir-ar."
+  },
+  {
+   "key": "2025575265290043392",
+   "en": "I knew him.",
+   "ro": "Îl cunoșteam."
+  }
+ ]
+}

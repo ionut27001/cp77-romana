@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q110_01_netwatch_blackout.json",
+ "entries": [
+  {
+   "key": "1744334830032183296",
+   "en": "Hello, it's time for your local news. A raid on an organic meat trafficking ring, and a malaria outbreak in the Glen.",
+   "ro": "Salut, e timpul pentru știrile locale. Un raid asupra unei rețele de trafic cu carne organică și un focar de malarie în Glen."
+  },
+  {
+   "key": "1744341886478901248",
+   "en": "Most of the district was cut off from the world for several hours as residents could not connect to the Net, local subnets or comm systems.",
+   "ro": "Cea mai mare parte a districtului a rămas izolată de restul lumii câteva ore, pentru că oamenii nu s-au putut conecta la Net, la subrețelele locale sau la sistemele de comunicații."
+  },
+  {
+   "key": "1744350285975314432",
+   "en": "The NCPD has urged calm, claiming the outage was a result of standard maintenance work.",
+   "ro": "NCPD cere calm și spune că întreruperea a fost doar o lucrare de întreținere de rutină."
+  },
+  {
+   "key": "1744350608886390784",
+   "en": "We continue our look at local news after the break.",
+   "ro": "Continuăm cu știrile locale după pauză."
+  },
+  {
+   "key": "1744352399770312704",
+   "en": "But first we turn to a mysterious connectivity failure in Pacifica.",
+   "ro": "Dar mai întâi, o defecțiune misterioasă a conexiunii din Pacifica."
+  }
+ ]
+}

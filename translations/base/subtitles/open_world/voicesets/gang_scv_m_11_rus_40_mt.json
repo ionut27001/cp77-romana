@@ -1,0 +1,345 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_scv_m_11_rus_40_mt.json",
+ "entries": [
+  {
+   "key": "1898039435680407556",
+   "en": "<kiroshi l=\"rus\" o=\"Нет у меня времени на болтовню.\" t=\"Don't got time for chit-chat.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Нет у меня времени на болтовню.\" t=\"N-am timp de povești.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435697184772",
+   "en": "<kiroshi l=\"rus\" o=\"Ты ссыкло. Я это чувствую.\" t=\"You're weak. I can feel it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты ссыкло. Я это чувствую.\" t=\"Ești o fricoasă. Simt asta.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Ты ссыкло. Я это чувствую.\" t=\"Ești un fricos. Simt asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435747516420",
+   "en": "<kiroshi l=\"rus\" o=\"Слышь, тебе тут не рады.\" t=\"You don't belong here, trash.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Слышь, тебе тут не рады.\" t=\"Nu te vrea nimeni aici, gunoi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435764293636",
+   "en": "<kiroshi l=\"rus\" o=\"Отъебись.\" t=\"Fuck off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Отъебись.\" t=\"Du-te-n pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435814625284",
+   "en": "<kiroshi l=\"rus\" o=\"А ну убери это!\" t=\"Put that away!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А ну убери это!\" t=\"Pune-o la loc!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435831402500",
+   "en": "<kiroshi l=\"rus\" o=\"Я тебе эту херню в жопу запихаю!\" t=\"I will stick that up your ass!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я тебе эту херню в жопу запихаю!\" t=\"Ți-o bag în cur!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435881734148",
+   "en": "<kiroshi l=\"rus\" o=\"Я тебе ракету в жопу запихаю и в космос запущу, будешь новым спутником.\" t=\"I'll stick a rocket up your ass and shoot you to the moon like Soyuz.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я тебе ракету в жопу запихаю и в космос запущу, будешь новым спутником.\" t=\"Îți bag o rachetă-n cur și te trimit pe Lună ca pe un Soyuz.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435898511364",
+   "en": "<kiroshi l=\"rus\" o=\"Ща получишь.\" t=\"Want a black eye?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ща получишь.\" t=\"Vrei un ochi vânăt?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435932065796",
+   "en": "<kiroshi l=\"rus\" o=\"Тебе в табло прописать?\" t=\"Piss off or I'll smack ya!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Тебе в табло прописать?\" t=\"Cară-te, pula mea, sau îți trag una!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435948843012",
+   "en": "<kiroshi l=\"rus\" o=\"Чё ждёшь-то? Проваливай!\" t=\"What you waiting for? Buzz off!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Чё ждёшь-то? Проваливай!\" t=\"Ce mai aștepți? Șterge-o!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039435999174660",
+   "en": "<kiroshi l=\"rus\" o=\"Ну, чё там ещё?\" t=\"What now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну, чё там ещё?\" t=\"Ce mai vrei?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436015951876",
+   "en": "<kiroshi l=\"rus\" o=\"Э-э-эх...\" t=\"Uhh…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Э-э-эх...\" t=\"Eee…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436066283524",
+   "en": "<kiroshi l=\"rus\" o=\"Ложная тревога.\" t=\"False alarm.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ложная тревога.\" t=\"Alarmă falsă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436083060740",
+   "en": "<kiroshi l=\"rus\" o=\"А-а, бля, нужен перекур.\" t=\"I need a break.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А-а, бля, нужен перекур.\" t=\"A, căcat, îmi trebuie o pauză.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436133392388",
+   "en": "<kiroshi l=\"rus\" o=\"Вот ты гнида.\" t=\"Fuckin' cockroach.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вот ты гнида.\" t=\"Ce gângănie jegoasă ești!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436150169604",
+   "en": "<kiroshi l=\"rus\" o=\"Молись, чтобы мы тебя не нашли.\" t=\"Pray we don't find you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Молись, чтобы мы тебя не нашли.\" t=\"Roagă-te să nu te găsim.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436183724036",
+   "en": "<kiroshi l=\"rus\" o=\"Пацаны, у нас жмур!\" t=\"This one's ripe for the picking!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пацаны, у нас жмур!\" t=\"Ăsta e bun de luat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436217278468",
+   "en": "<kiroshi l=\"rus\" o=\"Лады, лады.\" t=\"Fine, fine.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Лады, лады.\" t=\"Bine, bine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436267610116",
+   "en": "<kiroshi l=\"rus\" o=\"Пиздец тебе, подруга!\" t=\"I'm taking you out, girlfriend!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Пиздец тебе, засранец!\" t=\"I'm taking you out, asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пиздец тебе, подруга!\" t=\"Te omor, fată!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Пиздец тебе, засранец!\" t=\"Te omor, nenorocitule!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436284387332",
+   "en": "<kiroshi l=\"rus\" o=\"Я тебя урою нахер!\" t=\"I will fucking kill!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я тебя урою нахер!\" t=\"Te omor, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436317941764",
+   "en": "<kiroshi l=\"rus\" o=\"На, паскуда!\" t=\"Eat this, asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"На, паскуда!\" t=\"Na, ia asta, jigodie!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436385050628",
+   "en": "<kiroshi l=\"rus\" o=\"Не сдаёмся, блядь!\" t=\"Fight, dumbfuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не сдаёмся, блядь!\" t=\"Nu cedăm, pula mea! Luptați!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436401827844",
+   "en": "<kiroshi l=\"rus\" o=\"Долбоёбы, в укрытие!\" t=\"Cover your stupid asses!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Долбоёбы, в укрытие!\" t=\"Idioților, la adăpost!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436452159492",
+   "en": "<kiroshi l=\"rus\" o=\"Блядь, нет!\" t=\"Oh hell no!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Блядь, нет!\" t=\"Nici dracu'!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436485713924",
+   "en": "<kiroshi l=\"rus\" o=\"Нет, сука, только не это!\" t=\"No, no, fucking no!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Нет, сука, только не это!\" t=\"Nu, nu, nici în pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436519268356",
+   "en": "<kiroshi l=\"rus\" o=\"Я тебя запомнил.\" t=\"I will remember you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я тебя запомнил.\" t=\"O să te țin minte.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436552822788",
+   "en": "<kiroshi l=\"rus\" o=\"Мы ещё встретимся.\" t=\"We will meet again.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мы ещё встретимся.\" t=\"Ne mai întâlnim.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436569600004",
+   "en": "<kiroshi l=\"rus\" o=\"Слушаю тебя.\" t=\"Talk to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Слушаю тебя.\" t=\"Vorbește.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436619931652",
+   "en": "<kiroshi l=\"rus\" o=\"А откуда дровишки? Если хороший товар, я ещё закажу...\" t=\"The source…? If it's good, you'll get more…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А откуда дровишки? Если хороший товар, я ещё закажу...\" t=\"Sursa…? Dacă e bună, mai primești…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436636708868",
+   "en": "<kiroshi l=\"rus\" o=\"Да, да, ясно... Ага... Вот мы «Сайтеху» жопу-то надерём.\" t=\"Yeah… yeah… Uh-huh… We can use 'em to beat Cytech's numbers…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да, да, ясно... Ага... Вот мы «Сайтеху» жопу-то надерём.\" t=\"Da… da… Aha… Le putem folosi ca să-i depășim pe cei de la Cytech…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436687040516",
+   "en": "<kiroshi l=\"rus\" o=\"Шевелитесь, придурки!\" t=\"Move your stupid asses!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Шевелитесь, придурки!\" t=\"Mișcați-vă, idioților!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436720594948",
+   "en": "<kiroshi l=\"rus\" o=\"Да слышу я, слышу!\" t=\"Yeah, yeah, I hear you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да слышу я, слышу!\" t=\"Da, da, te aud!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436754149380",
+   "en": "<kiroshi l=\"rus\" o=\"Все назад!\" t=\"Back off!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Все назад!\" t=\"Dă-te înapoi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436770926596",
+   "en": "<kiroshi l=\"rus\" o=\"Ладно, на связи.\" t=\"Stay in touch.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ладно, на связи.\" t=\"Rămânem în legătură.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436787703812",
+   "en": "<kiroshi l=\"rus\" o=\"Не нравится мне это.\" t=\"I don’t like this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не нравится мне это.\" t=\"Nu-mi place asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436871589892",
+   "en": "<kiroshi l=\"rus\" o=\"Эй, слышь, с предохранителя сними.\" t=\"Hey, freak, safety off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Эй, слышь, с предохранителя сними.\" t=\"Hei, ciudatule, scoate siguranța.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436888367108",
+   "en": "<kiroshi l=\"rus\" o=\"Двинули.\" t=\"We're up.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Двинули.\" t=\"Suntem pe fază.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436921921540",
+   "en": "<kiroshi l=\"rus\" o=\"В темпе вальса! Ну, вперёд!\" t=\"Move your ass! Hup!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"В темпе вальса! Ну, вперёд!\" t=\"Mișcă-ți fundul! Hai!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436955475972",
+   "en": "<kiroshi l=\"rus\" o=\"Мочи суку, мочи!\" t=\"Run the motherfucker down!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Мочи говнюка, мочи!\" t=\"Run the motherfucker down!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мочи суку, мочи!\" t=\"Călcați-o pe jigodia aia!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Мочи говнюка, мочи!\" t=\"Călcați-l pe jigodia aia!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898039436989030400",
+   "en": "<kiroshi l=\"rus\" o=\"Ах-х-х... Ну давай... давай.\" t=\"Ekhh… ekkhhh… argh… more… more.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ах-х-х... Ну давай... давай.\" t=\"Eh… eh… argh… mai mult… mai mult.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898049857754095616",
+   "en": "<kiroshi l=\"rus\" o=\"Хм... Пиздец какой... Да, беру, беру.\" t=\"Hm… It's a mess…. Yes, yes I'll take it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Хм... Пиздец какой... Да, беру, беру.\" t=\"Hm… E un căcat… Da, da, o iau.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1898050677555978240",
+   "en": "<kiroshi l=\"rus\" o=\"Да прокатит. Прокатит, отвечаю. Не парься ваще. Угу.\" t=\"It'll pass. It'll pass, don't worry… Hmm.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да прокатит. Прокатит, отвечаю. Не парься ваще. Угу.\" t=\"Merge, zic eu. Nu te stresa… Hmm.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151299427803140",
+   "en": "<kiroshi l=\"rus\" o=\"А?\" t=\"Huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А?\" t=\"Ha?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151299612352516",
+   "en": "<kiroshi l=\"rus\" o=\"Бей падлу!\" t=\"Attack!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Бей падлу!\" t=\"Atacă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151299713015812",
+   "en": "<kiroshi l=\"rus\" o=\"У нас тут крыса! Глядеть в оба!\" t=\"We're not alone! Eyes peeled!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У нас тут крыса! Глядеть в оба!\" t=\"Nu suntem singuri! Ochii în patru!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151299763347460",
+   "en": "<kiroshi l=\"rus\" o=\"Ох ты ж господи...\" t=\"Jesus fucking christ...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ох ты ж господи...\" t=\"Futu-i Dumnezeii mă-sii…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151299947896836",
+   "en": "<kiroshi l=\"rus\" o=\"Съебите отсюда! Ну? Быстро!\" t=\"Fuck outta here! C'mon, hop to it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Съебите отсюда! Ну? Быстро!\" t=\"Cărați-vă dracu' de-aici! Hai, mișcați-vă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151300199555076",
+   "en": "<kiroshi l=\"rus\" o=\"Да не высовывайтесь, придурки!\" t=\"Keep your fucking heads down!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да не высовывайтесь, придурки!\" t=\"Jos capetele, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151300283441156",
+   "en": "<kiroshi l=\"rus\" o=\"Я сам тебя урою!\" t=\"I'll end you myself!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я сам тебя урою!\" t=\"Te termin eu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151300350550020",
+   "en": "<kiroshi l=\"rus\" o=\"Пора тебя кончать!\" t=\"Time to finish this!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пора тебя кончать!\" t=\"Gata, să terminăm odată!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151300669317124",
+   "en": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"She's hit!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"He's hit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"A fost lovită!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"A fost lovit!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151300769980420",
+   "en": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! I did it! I hit her!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! I did it! I hit him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! Da! Am nimerit-o!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! Da! Am nimerit-l!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301004861444",
+   "en": "<kiroshi l=\"rus\" o=\"Мы ей кровь пустили! Добиваем!\" t=\"She's wounded! Don't stop now!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Мы ему кровь пустили! Добиваем!\" t=\"He's wounded! Don't stop now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мы ей кровь пустили! Добиваем!\" t=\"E rănită! Nu vă opriți!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Мы ему кровь пустили! Добиваем!\" t=\"E rănit! Nu vă opriți!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301071970308",
+   "en": "<kiroshi l=\"rus\" o=\"Вот так!\" t=\"All right!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вот так!\" t=\"Bine!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301139079172",
+   "en": "<kiroshi l=\"rus\" o=\"Сразу обоссалась!\" t=\"She's pissing herself!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Сразу обоссался!\" t=\"He's pissing herself!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Сразу обоссалась!\" t=\"Se scapă pe ea de frică, pula mea!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Сразу обоссался!\" t=\"Se scapă pe el de frică, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301206188036",
+   "en": "<kiroshi l=\"rus\" o=\"Прикройте! Перезаряжаюсь!\" t=\"Cover me! I'm reloading!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Прикройте! Перезаряжаюсь!\" t=\"Acoperiți-mă! Reîncarc!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301273296896",
+   "en": "<kiroshi l=\"rus\" o=\"Это уже всё, только пристрелить!\" t=\"Drop the psycho! Can't help 'em!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Это уже всё, только пристрелить!\" t=\"Trage-i, e pierdut! Nu mai poate fi ajutat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301474623492",
+   "en": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Она меня ослепила!\" t=\"Can't see anything! She blinded me!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Он меня ослепил!\" t=\"Can't see anything! He blinded me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Она меня ослепила!\" t=\"Nu văd nimic! M-a orbit!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Он меня ослепил!\" t=\"Nu văd nimic! M-a orbit!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301541732356",
+   "en": "<kiroshi l=\"rus\" o=\"Опять нетраннер!\" t=\"Fucking netrunner\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Опять нетраннер!\" t=\"Nenorocit de netrunner!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301625618436",
+   "en": "<kiroshi l=\"rus\" o=\"Ну чё, я как новенький! Ха-ха!\" t=\"Ahh! Feel brand new again! Haha!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну чё, я как новенький! Ха-ха!\" t=\"Ahh! Mă simt ca nou! Haha!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301709504516",
+   "en": "<kiroshi l=\"rus\" o=\"Наших всех сюда!\" t=\"Need reinforcements!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Наших всех сюда!\" t=\"Ne trebuie întăriri!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301776613380",
+   "en": "<kiroshi l=\"rus\" o=\"Всё, тебе каюк!\" t=\"Your ass is finished!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Всё, тебе каюк!\" t=\"Ești terminat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301877276676",
+   "en": "<kiroshi l=\"rus\" o=\"Шутки кончились!\" t=\"Fun and games are over!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Шутки кончились!\" t=\"S-a terminat cu joaca!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151301944385540",
+   "en": "<kiroshi l=\"rus\" o=\"Прикрываю огнём!\" t=\"Giving cover fire!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Прикрываю огнём!\" t=\"Vă acopăr cu focul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232151302045048836",
+   "en": "<kiroshi l=\"rus\" o=\"Потому что нельзя подставляться.\" t=\"Fucking amateurs!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Потому что нельзя подставляться.\" t=\"Niște amatori de căcat!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

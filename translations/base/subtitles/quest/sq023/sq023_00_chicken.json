@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq023\\sq023_00_chicken.json",
+ "entries": [
+  {
+   "key": "1905522620214775808",
+   "en": "Street Kid.",
+   "ro": "Street Kid."
+  },
+  {
+   "key": "1905522620214775824",
+   "en": "Corporate.",
+   "ro": "Corporatist."
+  },
+  {
+   "key": "1905522620214775840",
+   "en": "Nomad.",
+   "ro": "Nomad."
+  },
+  {
+   "key": "1905522620248330240",
+   "en": "Techie.",
+   "ro": "Tehnician."
+  },
+  {
+   "key": "1905522620248330256",
+   "en": "Netrunner.",
+   "ro": "Netrunner."
+  },
+  {
+   "key": "1905522620248330272",
+   "en": "Solo.",
+   "ro": "Solo."
+  },
+  {
+   "key": "2304140485509222400",
+   "en": "[db_db]Bill's car",
+   "ro": "[db_db]Mașina lui Bill"
+  }
+ ]
+}

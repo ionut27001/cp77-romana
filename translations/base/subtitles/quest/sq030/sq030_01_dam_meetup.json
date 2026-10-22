@@ -1,0 +1,332 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq030\\sq030_01_dam_meetup.json",
+ "entries": [
+  {
+   "key": "1392412829519167504",
+   "en": "Hmmm-hmmm, hmmm-hmmm…",
+   "ro": "Hmmm-hmmm, hmmm-hmmm…"
+  },
+  {
+   "key": "1392413464419352576",
+   "en": "Think I need to pass. Diving's not really my thing.",
+   "ro": "Cred că o las baltă. Scufundările nu-s chiar genul meu."
+  },
+  {
+   "key": "1392428470733094912",
+   "en": "[Stand] Hell yeah, I'm in!",
+   "ro": "[Ridică-te] Clar, frate, intru în joc!"
+  },
+  {
+   "key": "1392493040248012800",
+   "en": "[Stand] Diving's not my thing.",
+   "ro": "[Ridică-te] Scufundările nu-s genul meu."
+  },
+  {
+   "key": "1392493694324555776",
+   "en": "Hell yeah, I'm in!",
+   "ro": "Normal, intru!"
+  },
+  {
+   "key": "1393665946961297408",
+   "en": "Awesome! So, uh... let's go! Got the hardware here.",
+   "ro": "Super! Așa că... hai să mergem! Am echipamentul aici."
+  },
+  {
+   "key": "1404001566564487168",
+   "en": "Could ask around, make some calls, see if anybody else'd bite.",
+   "en_m": "You could ask around, make some calls, see if anybody else would bite.",
+   "ro": "Aș putea întreba în stânga și-n dreapta, să fac câteva telefoane, să văd dacă mai mușcă cineva.",
+   "ro_m": "Ai putea întreba în stânga și-n dreapta, să faci câteva telefoane, să vezi dacă mai mușcă cineva."
+  },
+  {
+   "key": "1404002064260599808",
+   "en": "Nah... Nah, it's fine. Don't worry about it.",
+   "ro": "Nah... Nah, e în regulă. Nu-ți face griji."
+  },
+  {
+   "key": "1404003691197566976",
+   "en": "I'll figure it out, do it myself.",
+   "ro": "Mă descurc eu, o fac singur."
+  },
+  {
+   "key": "1740289813051850752",
+   "en": "Hey.",
+   "ro": "Hei."
+  },
+  {
+   "key": "1740290255299264512",
+   "en": "V! Lookin' good.",
+   "en_m": "Hey, V.",
+   "ro": "V! Arăți bine.",
+   "ro_m": "Hei, V."
+  },
+  {
+   "key": "1740290382604779524",
+   "en": "What're we doing here?",
+   "ro": "Ce facem aici?"
+  },
+  {
+   "key": "1740291030641524736",
+   "en": "How're things at Clouds?",
+   "ro": "Cum merge la Clouds?"
+  },
+  {
+   "key": "1740292017057939456",
+   "en": "The Mox – any news?",
+   "ro": "Mox – noutăți?"
+  },
+  {
+   "key": "1740292865515307008",
+   "en": "So... ready to tell me what we're doing here?",
+   "ro": "Deci... ești gata să-mi spui ce facem aici?"
+  },
+  {
+   "key": "1740293426276974592",
+   "en": "So what's the latest from Clouds? Know anything?",
+   "ro": "Deci care-s ultimele noutăți de la Clouds? Știi ceva?"
+  },
+  {
+   "key": "1740294280455372800",
+   "en": "Any news from the Moxes? Events, ideas?",
+   "ro": "Noutăți de la Mox? Evenimente, idei?"
+  },
+  {
+   "key": "1740319804892364800",
+   "en": "Dunno. Don't see all that much of 'em.",
+   "ro": "Nu știu. Nu-i văd prea des."
+  },
+  {
+   "key": "1740324377572917248",
+   "en": "Well, been tinkerin' with virtus a lot lately and figured out a way to scroll two actors' experiences at the same time.",
+   "ro": "Păi, tot lucrez la virtu-uri și am găsit o metodă să derulez experiențele a doi actori în același timp."
+  },
+  {
+   "key": "1740325008765337600",
+   "en": "Thought we could try it out. If you're down, of course.",
+   "ro": "M-am gândit să încercăm. Dacă ești pe fază, sigur."
+  },
+  {
+   "key": "1740326339903209472",
+   "en": "How does one marry two separate neural tracks?",
+   "ro": "Cum unești două piste neuronale separate?"
+  },
+  {
+   "key": "1740327230723047424",
+   "en": "No, we're gonna scroll under water.",
+   "ro": "Nu, o să derulăm sub apă."
+  },
+  {
+   "key": "1740329393289412608",
+   "en": "Well, at first I tried to create a single profile out of two data streams. Didn't turn out so great.",
+   "ro": "Păi, la început am vrut să fac un singur profil din două fluxuri de date. N-a ieșit prea bine."
+  },
+  {
+   "key": "1740330120732721152",
+   "en": "Must've gotten tangled up – interference, white noise…",
+   "ro": "Trebuie să se fi încurcat – interferențe, zgomot alb…"
+  },
+  {
+   "key": "1754747665059323904",
+   "en": "What do I gotta do?",
+   "ro": "Ce trebuie să fac?"
+  },
+  {
+   "key": "1763356428702040064",
+   "en": "Whaddaya say? You in?",
+   "ro": "Ce zici? Intri?"
+  },
+  {
+   "key": "1773381435330879488",
+   "en": "You mean considering the shit we've been through?",
+   "en_m": "After all that went down, thought you and I'd be ancient history.",
+   "ro": "Adică ținând cont de porcăriile prin care am trecut?",
+   "ro_m": "După tot ce s-a întâmplat, credeam că tu și cu mine suntem istorie veche."
+  },
+  {
+   "key": "1773389418534232064",
+   "en": "Well, factor that in and you look fuckin' amazin'.",
+   "en_m": "Don't be a gonk...",
+   "ro": "Păi, ținând cont de asta, arăți al dracului de bine.",
+   "ro_m": "Nu fi fraier..."
+  },
+  {
+   "key": "1773420775385817088",
+   "en": "How come?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1773420867962494976",
+   "en": "You know how they are. Piss me off sometimes, is all.",
+   "ro": "Știi cum sunt. Mă scoate din sărite uneori, atât."
+  },
+  {
+   "key": "1773513361828044800",
+   "en": "Sounds like we could do this anywhere. Why did we come all the way out here? What is this place?",
+   "ro": "Pare că am putea face asta oriunde. De ce am venit până aici? Ce loc e ăsta?"
+  },
+  {
+   "key": "1773531654328639488",
+   "en": "Why here of all places? Where are we?",
+   "ro": "De ce tocmai aici? Unde suntem?"
+  },
+  {
+   "key": "1773552673546264576",
+   "en": "How do you blend two separate experience tracks?",
+   "ro": "Cum amesteci două piste de experiență separate?"
+  },
+  {
+   "key": "1773553907560833024",
+   "en": "Just tell me what to do.",
+   "ro": "Spune-mi doar ce să fac."
+  },
+  {
+   "key": "1773661006965989376",
+   "en": "You, my friend, are just gonna scroll me a virtu.",
+   "ro": "Tu, frate, o să-mi derulezi un virtu."
+  },
+  {
+   "key": "1773674296249114624",
+   "en": "That's it?",
+   "ro": "Asta e tot?"
+  },
+  {
+   "key": "1773674432446554112",
+   "en": "Now, now, let's not get ahead of ourselves. This could be my greatest work – ever.",
+   "ro": "Stai, stai, să nu ne luăm după entuziasm. Asta ar putea fi cea mai mare treabă a mea – vreodată."
+  },
+  {
+   "key": "1773704441651486720",
+   "en": "Yeah, effect was kinda like a bad arthouse. Couple tries in, though, I managed to isolate specific sensations.",
+   "ro": "Da, efectul era cam ca un film arthouse prost. După câteva încercări, am reușit totuși să izolez senzații specifice."
+  },
+  {
+   "key": "1834514647880523776",
+   "en": "Nothin' of any interest.",
+   "ro": "Nimic interesant."
+  },
+  {
+   "key": "1834535362759450624",
+   "en": "Why the long face?",
+   "ro": "Ce-i cu fața asta lungă?"
+  },
+  {
+   "key": "1834535708453986304",
+   "en": "Somethin' got you down all of the sudden?",
+   "ro": "Ce ți-e, dintr-odată?"
+  },
+  {
+   "key": "1834539052589342720",
+   "en": "Um... no.",
+   "ro": "Ăă... nu."
+  },
+  {
+   "key": "1834540353159127040",
+   "en": "Got a new situation, an' everybody's tryin' to adapt. Me too.",
+   "ro": "Ne-a picat ceva nou, și toți încearcă să se adapteze. Și eu."
+  },
+  {
+   "key": "1834546095714951168",
+   "en": "Doesn't sound like it's all OK…",
+   "ro": "Nu pare chiar totul în ordine…"
+  },
+  {
+   "key": "1834549333314985984",
+   "en": "Judy…",
+   "ro": "Judy…"
+  },
+  {
+   "key": "1834549417469501440",
+   "en": "Can we please not talk about Clouds, the Mox, or Arasaka and Militech and how the world's goin' to shit?",
+   "ro": "Te rog, putem să nu vorbim despre Clouds, Mox, Arasaka și Militech și despre cum se duce lumea în rahat?"
+  },
+  {
+   "key": "1834568849528938496",
+   "en": "Doesn't mean it isn't.",
+   "ro": "Nu înseamnă că nu e."
+  },
+  {
+   "key": "1835782486994149376",
+   "en": "Just... rather not think about any of that today, anything dark.",
+   "ro": "Doar... prefer să nu mă gândesc la nimic din astea azi, nimic întunecat."
+  },
+  {
+   "key": "1902378277690630144",
+   "en": "Cottage belonged to someone I knew. Sits empty now. I take the liberty to use it from time to time.",
+   "ro": "Căsuța era a unui cunoscut de-al meu. Acum stă goală. O mai folosesc din când în când."
+  },
+  {
+   "key": "1902379965059129344",
+   "en": "And that's where we're gonna scroll?",
+   "ro": "Și acolo o să derulăm?"
+  },
+  {
+   "key": "1902518254768447488",
+   "en": "Nope. No way. Bad idea. Tell 'er to find some other yes-woman.",
+   "en_m": "Nope. No way. Bad idea. Tell 'er to find some other yes-man.",
+   "ro": "Nu. Nici vorbă. Idee proastă. Spune-i să găsească altă slugă.",
+   "ro_m": "Nu. Nici vorbă. Idee proastă. Spune-i să-și găsească alt lingău."
+  },
+  {
+   "key": "1902533985203609604",
+   "en": "Why?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1902536073950224384",
+   "en": "Why would you say that?",
+   "ro": "De ce ai spune asta?"
+  },
+  {
+   "key": "1902541150886780928",
+   "en": "I dunno. Don't like the idea, that's all.",
+   "ro": "Nu știu. Nu-mi place ideea, atât."
+  },
+  {
+   "key": "1918565809914601472",
+   "en": "So you load 'em onto separate neural tracks – no emo bogeys. Not bad.",
+   "ro": "Deci le încarci pe piste neuronale separate – fără emo bogeys. Nu-i rău."
+  },
+  {
+   "key": "1928785933200220160",
+   "en": "It's just... when I think about the dark, the deep... palms that I don't fuckin' have get clammy with sweat I don't secrete.",
+   "ro": "E doar că... când mă gândesc la întuneric, la adânc... palmele pe care nu le am, dracu' să le ia, se umezesc de o transpirație pe care nu o produc."
+  },
+  {
+   "key": "1928788332174336000",
+   "en": "You're more than welcome to stay on shore.",
+   "en_m": "You're more'n welcome to stay on shore.",
+   "ro": "Ești binevenită să rămâi pe mal, nicio problemă.",
+   "ro_m": "Ești binevenit să rămâi pe mal, nicio problemă."
+  },
+  {
+   "key": "2189588777486508032",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "2253559970273124352",
+   "en": "Don't overthink this shit, huh?",
+   "ro": "Nu te gândi prea mult la rahatul ăsta, bine?"
+  },
+  {
+   "key": "2253561366691143688",
+   "en": "How you doin' there?",
+   "ro": "Ce mai faci acolo?"
+  },
+  {
+   "key": "2253561427156230152",
+   "en": "C'mon. Gung-ho, onward.",
+   "ro": "Hai, cu tot curajul, înainte!"
+  },
+  {
+   "key": "2255002567583006724",
+   "en": "[Sit] Thought you'd had it with me.",
+   "ro": "[Stai jos] Credeam că te-ai săturat de mine."
+  },
+  {
+   "key": "2255042866204180480",
+   "en": "[Sit] Considering what we went through?",
+   "ro": "[Stai jos] Cu tot ce-am trecut?"
+  }
+ ]
+}

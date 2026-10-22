@@ -1,0 +1,52 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_00cd_boss_clean.json",
+ "entries": [
+  {
+   "key": "1650497555567460352",
+   "en": "Run him down!",
+   "ro": "Prinde-l!"
+  },
+  {
+   "key": "1653073643615272960",
+   "en": "We outta options, here! Bug, you got eyes on this shithole? Anything?!",
+   "ro": "Am rămas fără variante! Bug, vezi ceva în cocina asta? Orice?!"
+  },
+  {
+   "key": "1653073643615272976",
+   "en": "Room he's in looks out on the balcony.",
+   "ro": "Camera în care e se dă spre balcon."
+  },
+  {
+   "key": "1653073643632050176",
+   "en": "OK, V, flank him and draw his fire! I'll do the rest!",
+   "en_m": "<mothertongue l=\"mex\" m=\"Mano\" b=\"\" a=\", get his attention! I'll do the rest!\"/>",
+   "ro": "OK, V, flanchează-l și atrage-i focul! Restul îl fac eu!",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Mano\" b=\"\" a=\", atrage-i atenția! Restul îl fac eu!\"/>"
+  },
+  {
+   "key": "1653076167042777088",
+   "en": "Got a window on the left. Gimme two secs to grease the lock.",
+   "ro": "Am o fereastră în stânga. Dă-mi două secunde să ung lacătul."
+  },
+  {
+   "key": "1653096651570528256",
+   "en": "Don't see any movement on the sensors. Looks like you got 'im. You're clear to go.",
+   "ro": "Nu mai e nicio mișcare pe senzori. Pare că l-ai luat. Poți să pleci."
+  },
+  {
+   "key": "1653098456983519232",
+   "en": "Shit, where the hell's our target?!",
+   "ro": "La naiba, unde dracu' e ținta noastră?!"
+  },
+  {
+   "key": "1653098618749435904",
+   "en": "Look around, gotta be there somewhere.",
+   "ro": "Uită-te în jur, trebuie să fie pe undeva."
+  },
+  {
+   "key": "1703910314692734976",
+   "en": "Hack on the door's just cleared. Watch yourselves.",
+   "ro": "Ușa a fost hack-uită. Aveți grijă."
+  }
+ ]
+}

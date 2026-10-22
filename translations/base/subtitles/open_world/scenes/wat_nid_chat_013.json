@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_013.json",
+ "entries": [
+  {
+   "key": "2156371184353533952",
+   "en": "<kiroshi l=\"mex\" o=\"Ey, ¿has visto a Chuckie? ¿Dónde andará metido?\" t=\"Ey, you seen Chuckie? Where's he been?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ey, ¿has visto a Chuckie? ¿Dónde andará metido?\" t=\"Hei, l-ai văzut pe Chuckie? Unde dracu' s-a băgat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2167881766734712832",
+   "en": "You didn't hear? Scavs got 'im.",
+   "ro": "N-ai auzit? Hienele l-au prins."
+  },
+  {
+   "key": "2167883624693944320",
+   "en": "<kiroshi l=\"mex\" o=\"¡¿Qué?! ¡¿Cómo?!\" t=\"What?! How?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡¿Qué?! ¡¿Cómo?!\" t=\"Ce?! Cum?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2167883700459851776",
+   "en": "Ehh... He found a Kiroshi. New model, barely used, a real find. Told 'im to sell it... but no. Gonk had to have those peepers for himself.",
+   "ro": "Ehh... A găsit un Kiroshi. Model nou, abia folosit, chiar o găselniță. I-am zis să-l vândă... dar nu. Fraierul ăla a vrut ochii pentru el."
+  },
+  {
+   "key": "2167885388751097856",
+   "en": "Anyways, we was just walkin'... Suddenly this black van zooms over. They brain me, Chuck gets a bag over his head, in he goes.",
+   "ro": "Oricum, doar mergeam... Deodată, apare o dubă neagră din senin. Mi-au tras una în cap, lui Chuck i-au pus o pungă pe cap și l-au zvârlit înăuntru."
+  },
+  {
+   "key": "2167886900864798720",
+   "en": "Million eds say it was those optics. You know how it goes – cut 'em outta him, tossed the meat.",
+   "ro": "Zic un milion de eddies că au fost opticile. Știi cum e – le-au scos din el și au aruncat restul."
+  }
+ ]
+}

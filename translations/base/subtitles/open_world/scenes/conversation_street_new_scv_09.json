@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_09.json",
+ "entries": [
+  {
+   "key": "2276537296105938956",
+   "en": "<kiroshi l=\"rus\" o=\"У меня в печенье было: «Завтрашний день принесёт тебе слёзы радости». А у тебя?\" t=\"Mine said, \\\"Tomorrow you will weep with joy.\\\" So sweet! How about yours?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У меня в печенье было: «Завтрашний день принесёт тебе слёзы радости». А у тебя?\" t=\"Al meu a zis: «Mâine o să plângi de bucurie.» Ce drăguț! Tu ce-ai avut?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276537296122716160",
+   "en": "\"Choose Trauma Team. You can't put a price on health.\" Hm, now what could that possibly mean?",
+   "ro": "„Alege Trauma Team. Nu poți pune preț pe sănătate.” Hm, ce naiba să fi vrut să zică cu asta?"
+  }
+ ]
+}

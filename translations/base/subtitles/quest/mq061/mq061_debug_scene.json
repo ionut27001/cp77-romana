@@ -1,0 +1,60 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq061\\mq061_debug_scene.json",
+ "entries": [
+  {
+   "key": "5122167278938255364",
+   "en": "[db_db]00_Hook",
+   "ro": "[db_db]00_Hook"
+  },
+  {
+   "key": "5122167647533690880",
+   "en": "[db_db]01_NC_Tower",
+   "ro": "[db_db]01_NC_Tower"
+  },
+  {
+   "key": "5122167819181387776",
+   "en": "[db_db]02_Corpo_Plaza",
+   "ro": "[db_db]02_Corpo_Plaza"
+  },
+  {
+   "key": "5122168279816630272",
+   "en": "[db_db]03_Arasaka_Memorial",
+   "ro": "[db_db]03_Arasaka_Memorial"
+  },
+  {
+   "key": "5122168557580218368",
+   "en": "[db_db]04_City_Hall",
+   "ro": "[db_db]04_City_Hall"
+  },
+  {
+   "key": "5122168722047266816",
+   "en": "[db_db]05_Biofarms",
+   "ro": "[db_db]05_Biofarms"
+  },
+  {
+   "key": "5122169018735554560",
+   "en": "[db_db]06_NCART",
+   "ro": "[db_db]06_NCART"
+  },
+  {
+   "key": "5122169179813605376",
+   "en": "[db_db]07_Rancho_Coronado",
+   "ro": "[db_db]07_Rancho_Coronado"
+  },
+  {
+   "key": "5122169795705204736",
+   "en": "[db_db]10_Med_Center",
+   "ro": "[db_db]10_Med_Center"
+  },
+  {
+   "key": "5122170027583107072",
+   "en": "[db_db]12_Kabuki",
+   "ro": "[db_db]12_Kabuki"
+  },
+  {
+   "key": "5122170224765726720",
+   "en": "[db_db]13_End",
+   "ro": "[db_db]13_End"
+  }
+ ]
+}

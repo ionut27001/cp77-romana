@@ -1,0 +1,35 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_12_q110_chicken_test.json",
+ "entries": [
+  {
+   "key": "3041934431010484228",
+   "en": "[db_db]Beginning",
+   "ro": "[db_db]Început"
+  },
+  {
+   "key": "3041935037691392000",
+   "en": "[db_db]Final Scene",
+   "ro": "[db_db]Scenă finală"
+  },
+  {
+   "key": "3044520162618830848",
+   "en": "[db_db]Droid Den",
+   "ro": "[db_db]Droid Den"
+  },
+  {
+   "key": "3272461290918440960",
+   "en": "[db_db]STS finished - Cleanup and Consequences",
+   "ro": "[db_db]STS terminat - Curățare și consecințe"
+  },
+  {
+   "key": "3465137098068652036",
+   "en": "[db_db]Milko is dead",
+   "ro": "[db_db]Milko e mort"
+  },
+  {
+   "key": "3465137443343757312",
+   "en": "[db_db]Milko is alive",
+   "ro": "[db_db]Milko e în viață"
+  }
+ ]
+}

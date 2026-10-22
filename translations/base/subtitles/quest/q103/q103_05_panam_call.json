@@ -1,0 +1,151 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q103\\q103_05_panam_call.json",
+ "entries": [
+  {
+   "key": "1521421058123501568",
+   "en": "Hello.",
+   "ro": "Salut."
+  },
+  {
+   "key": "1521421357361926148",
+   "en": "V here.",
+   "ro": "V aici."
+  },
+  {
+   "key": "1521421537280790528",
+   "en": "This Panam? V here.",
+   "ro": "Ești Panam? V la telefon."
+  },
+  {
+   "key": "1521438042605228032",
+   "en": "V who? V where? How did you even get this number?",
+   "ro": "V cine? V unde? Cum ai făcut rost de numărul ăsta?"
+  },
+  {
+   "key": "1655921405405556736",
+   "en": "Got your number from Rogue.",
+   "ro": "Am numărul de la Rogue."
+  },
+  {
+   "key": "1655927466627821568",
+   "en": "Hey, Panam. Got your number from Rogue. Name's V.",
+   "ro": "Hei, Panam. Am numărul de la Rogue. Mă numesc V."
+  },
+  {
+   "key": "1655929578107564032",
+   "en": "Great. Where's that old war horse want to kick me now?",
+   "ro": "Super. Ce mai vrea bătrânul ăla să-mi tragă acum?"
+  },
+  {
+   "key": "1655930413461925892",
+   "en": "From Rogue.",
+   "ro": "De la Rogue."
+  },
+  {
+   "key": "1655930649785790464",
+   "en": "From the Afterlife. We can help each other.",
+   "ro": "De la Afterlife. Ne putem ajuta unul pe altul."
+  },
+  {
+   "key": "1655931160249364480",
+   "en": "From Rogue.",
+   "ro": "De la Rogue."
+  },
+  {
+   "key": "1655931248749178880",
+   "en": "From someone at the Afterlife.",
+   "ro": "De la cineva de la Afterlife."
+  },
+  {
+   "key": "1655931579394551808",
+   "en": "Oh. Great. Fuck.",
+   "ro": "Ei, super. Futu-i!"
+  },
+  {
+   "key": "1655931913009491968",
+   "en": "Mhm... So what is it you want?",
+   "ro": "Mhm... Deci ce vrei?"
+  },
+  {
+   "key": "1655933042049019904",
+   "en": "Where's that old war horse want to kick me now?",
+   "ro": "Ce mai vrea bătrânul ăla să-mi tragă acum?"
+  },
+  {
+   "key": "1655936522465701888",
+   "en": "Is that so?",
+   "ro": "Așa?"
+  },
+  {
+   "key": "1655936947029929988",
+   "en": "The merch and your car – want 'em back?",
+   "ro": "Marfa și mașina ta – le vrei înapoi?"
+  },
+  {
+   "key": "1655937540909821952",
+   "en": "Forget Rogue. I can help you.",
+   "ro": "Uită de Rogue. Te pot ajuta."
+  },
+  {
+   "key": "1655942143688699904",
+   "en": "This thing between you and Rogue? Couldn't care less. Got a job for you.",
+   "ro": "Ce-i între tine și Rogue? Nu-mi pasă. Am o treabă pentru tine."
+  },
+  {
+   "key": "1655942228463972352",
+   "en": "Forget Rogue for a minute. I wanna help you.",
+   "ro": "Uită de Rogue o clipă. Vreau să te ajut."
+  },
+  {
+   "key": "1655949177368735744",
+   "en": "Good, but I'm overextended at the moment.",
+   "ro": "Bine, dar sunt până peste cap acum."
+  },
+  {
+   "key": "1655949610237685760",
+   "en": "With the merch and your car? Getting 'em back? I can help with that.",
+   "ro": "Marfa și mașina ta? Vrei să le recuperezi? Te pot ajuta cu asta."
+  },
+  {
+   "key": "1655958989305409536",
+   "en": "How very kind. But it's far too little, far too late. So do tell Rogue she can eat my shorts.",
+   "ro": "Ce drăguț. Dar e prea puțin, prea târziu. Așa că spune-i lui Rogue să-mi pupe fundul."
+  },
+  {
+   "key": "1655959079466168320",
+   "en": "Tell it to your therapist. Callin' about your ride and the merch you lost.",
+   "ro": "Spune-i terapeutului tău. Sun în legătură cu mașina ta și cu marfa pe care ai pierdut-o."
+  },
+  {
+   "key": "1655959825112756224",
+   "en": "Interested? Or are you gonna tell me to eat your shorts, too?",
+   "ro": "Interesată? Sau o să-mi zici și mie să-mi pup fundul?",
+   "ro_m": "Interesat? Sau o să-mi zici și mie să-mi pup fundul?"
+  },
+  {
+   "key": "1655959998756941824",
+   "en": "The rail freight yard on Bonita Street, the one hugging the city line. We'll meet there.",
+   "ro": "Depoul de marfă de pe Bonita Street, cel de lângă limita orașului. Ne vedem acolo."
+  },
+  {
+   "key": "1655961097161273344",
+   "en": "See ya.",
+   "ro": "Ne vedem."
+  },
+  {
+   "key": "1660740827299311616",
+   "en": "Actually, wanted to talk about what you want.",
+   "ro": "De fapt, voiam să vorbim despre ce vrei tu."
+  },
+  {
+   "key": "1773639249735315456",
+   "en": "The merch you lost and your ride… You want 'em back? Let's talk.",
+   "ro": "Marfa pe care ai pierdut-o și mașina ta… Le vrei înapoi? Hai să vorbim."
+  },
+  {
+   "key": "2228646398897876992",
+   "en": "Hm. Is that so? Ugh, Rogue and confidentiality – I might've known…",
+   "ro": "Hm. Deci așa? Ugh, Rogue și confidențialitatea – ar fi trebuit să bănuiesc."
+  }
+ ]
+}

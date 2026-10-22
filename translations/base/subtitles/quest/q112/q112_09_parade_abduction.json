@@ -1,0 +1,275 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_09_parade_abduction.json",
+ "entries": [
+  {
+   "key": "1669447913484337152",
+   "en": "<kiroshi l=\"jpn\" o=\"危険だと警告されたの。オダとも連絡が取れないし、何か変だわ\" t=\"I was alerted of a threat. Oda is not answering. Something isn't right.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"危険だと警告されたの。オダとも連絡が取れないし、何か変だわ\" t=\"Am fost alertată de o amenințare. Oda nu răspunde. Ceva nu e în regulă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669449579881316352",
+   "en": "<kiroshi l=\"jpn\" o=\"私が参加したのは、あくまでもお父様を追悼するため\" t=\"I only agreed to this to honor the memory of our father.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私が参加したのは、あくまでもお父様を追悼するため\" t=\"Am acceptat doar pentru a onora memoria tatălui nostru.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1669450106887225344",
+   "en": "<kiroshi l=\"jpn\" o=\"操り人形になるためじゃないわ\" t=\"But now I've started to feel like your puppet.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"操り人形になるためじゃないわ\" t=\"Dar acum am început să mă simt ca o marionetă a ta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714211719007453184",
+   "en": "<kiroshi l=\"jpn\" o=\"パレードを中止すれば、弱さを露呈したと思われる\" t=\"If we cancel the celebrations, it will be taken as a sign of weakness.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"パレードを中止すれば、弱さを露呈したと思われる\" t=\"Dacă anulăm sărbătorile, va fi considerat un semn de slăbiciune.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714212267806965760",
+   "en": "<kiroshi l=\"jpn\" o=\"弱さ？ 誰の？ あなたの？\" t=\"Weakness? Whose? Yours?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"弱さ？ 誰の？ あなたの？\" t=\"Slăbiciune? A cui? A ta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714212716832374784",
+   "en": "<kiroshi l=\"jpn\" o=\"だが、お前が言うなら中止してもいい。全部やめだ。お前の安全が第一だからな\" t=\"But I understand. One word from you and we can end this, it can all be over. Your safety is most important to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"だが、お前が言うなら中止してもいい。全部やめだ。お前の安全が第一だからな\" t=\"Dar înțeleg. Un cuvânt de la tine și putem pune capăt, totul se poate termina. Siguranța ta e cea mai importantă pentru mine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714220354475409408",
+   "en": "<kiroshi l=\"jpn\" o=\"お父様…\" t=\"For father.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お父様…\" t=\"Pentru tată.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714224100794187776",
+   "en": "<kiroshi l=\"jpn\" o=\"お許しを。どうか、話だけでもお聞きください\" t=\"Please forgive me, Hanako-sama. I only ask that you listen to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お許しを。どうか、話だけでもお聞きください\" t=\"Iartă-mă, Hanako-sama. Te rog doar să mă asculți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714225132743966720",
+   "en": "<kiroshi l=\"jpn\" o=\"サブロウ様は…\" t=\"Your father...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"サブロウ様は…\" t=\"Tatăl tău...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714225355629281280",
+   "en": "<kiroshi l=\"jpn\" o=\"父のことを口にしないで！\" t=\"How dare you speak of him?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"父のことを口にしないで！\" t=\"Cum îndrăznești să vorbești despre el?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714225488303505408",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ様、無礼を働きたくありません。しかし…\" t=\"Hanako-sama, please. Don't make me do this...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ様、無礼を働きたくありません。しかし…\" t=\"Hanako-sama, te rog. Nu mă face să fac asta...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714227320375492608",
+   "en": "V, run!",
+   "ro": "V, fugi!"
+  },
+  {
+   "key": "1714228292917149696",
+   "en": "Shit! Shit! Shit!",
+   "ro": "Căcat! Căcat! Căcat!"
+  },
+  {
+   "key": "1724068500475875328",
+   "en": "<kiroshi l=\"jpn\" o=\"兄さん…\" t=\"Yorinobu?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"兄さん…\" t=\"Yorinobu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724113942068727808",
+   "en": "<kiroshi l=\"jpn\" o=\"やり終えましょう\" t=\"We must finish it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やり終えましょう\" t=\"Trebuie să terminăm.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724116336999534592",
+   "en": "<kiroshi l=\"jpn\" o=\"ありがとう、ハナコ。せっかくの式典だ――やり終えなければ、悔いが残る\" t=\"Thank you, Hanako. It would have been a shame not to finish so heartwarming a ceremony.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ありがとう、ハナコ。せっかくの式典だ――やり終えなければ、悔いが残る\" t=\"Mulțumesc, Hanako. Ar fi fost păcat să nu terminăm o ceremonie atât de emoționantă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724118030575603712",
+   "en": "Thsp…",
+   "ro": "Thsp…"
+  },
+  {
+   "key": "1724119896722116608",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ様\" t=\"Hanako-sama.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ様\" t=\"Hanako-sama.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724121657927143424",
+   "en": "<kiroshi l=\"jpn\" o=\"あなたは…\" t=\"It's you...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あなたは…\" t=\"Tu ești...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724149966509576192",
+   "en": "<kiroshi l=\"jpn\" o=\"これが、俺にできる最後のご奉仕なのです\" t=\"This is the last thing I can do for him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"これが、俺にできる最後のご奉仕なのです\" t=\"Asta e ultimul lucru pe care-l pot face pentru el.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724150642950148096",
+   "en": "<kiroshi l=\"jpn\" o=\"サブロウ様の死について真実を明かすことが\" t=\"To reveal to you the truth about his death.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"サブロウ様の死について真実を明かすことが\" t=\"Să-ți dezvălui adevărul despre moartea lui.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724223690596290560",
+   "en": "<kiroshi l=\"jpn\" o=\"この見せ物では、みんなに役割がある。ミチコは文句を言ってないぞ\" t=\"Everyone has their role to play in this spectacle. Michiko has no problem with that.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"この見せ物では、みんなに役割がある。ミチコは文句を言ってないぞ\" t=\"Fiecare are rolul său în acest spectacol. Michiko nu are nicio problemă cu asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724231251970101248",
+   "en": "<kiroshi l=\"jpn\" o=\"なぜ止まったんだ？\" t=\"Why did you stop?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なぜ止まったんだ？\" t=\"De ce te-ai oprit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1724233151520051200",
+   "en": "<kiroshi l=\"jpn\" o=\"俺たちだ\" t=\"Ours.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"俺たちだ\" t=\"Al nostru.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1771027611004047360",
+   "en": "Whatever he did, now we're really fucked!",
+   "ro": "Orice ar fi făcut, acum ne-am futut de-a binelea!"
+  },
+  {
+   "key": "1773724698127908864",
+   "en": "Hanako's inside.",
+   "ro": "Hanako e înăuntru."
+  },
+  {
+   "key": "1773725998731247616",
+   "en": "Tryna call someone, I think.",
+   "ro": "Cred că încearcă să sune pe cineva."
+  },
+  {
+   "key": "1773726175479218176",
+   "en": "Try to listen.",
+   "ro": "Încearcă să asculți."
+  },
+  {
+   "key": "1773726519227596800",
+   "en": "Do not forget to disarm the alarms. I must be able to enter.",
+   "ro": "Nu uita să dezactivezi alarmele. Trebuie să intru."
+  },
+  {
+   "key": "1773729105720655872",
+   "en": "Goro? All systems jammed. It's now or never.",
+   "ro": "Goro? Toate sistemele sunt blocate. Acum sau niciodată."
+  },
+  {
+   "key": "1780695188894519296",
+   "en": "What is she doing?",
+   "ro": "Ce face ea?"
+  },
+  {
+   "key": "1790741196538200068",
+   "en": "Hurry, V!",
+   "ro": "Grăbește-te, V!"
+  },
+  {
+   "key": "1790741196554977284",
+   "en": "V, it will be too late soon!",
+   "ro": "V, o să fie prea târziu!"
+  },
+  {
+   "key": "1795474982084558848",
+   "en": "You have no right to keep us here!",
+   "ro": "Nu aveți dreptul să ne țineți aici!"
+  },
+  {
+   "key": "1795475678641012736",
+   "en": "On the ground! Everyone!",
+   "ro": "La pământ! Toată lumea!"
+  },
+  {
+   "key": "1795476053259468800",
+   "en": "Go fuck yourself! This is a violation of our civil rights!",
+   "ro": "Du-te-n pula mea! Asta e o încălcare a drepturilor noastre civile!"
+  },
+  {
+   "key": "1795479668128759808",
+   "en": "Halt!",
+   "ro": "Stați!"
+  },
+  {
+   "key": "1795483864295030784",
+   "en": "Does anyone else have anything to say about civil rights?! You can join him!",
+   "ro": "Mai are cineva ceva de zis despre drepturile civile?! Hai, alătură-te lui!"
+  },
+  {
+   "key": "1801295829407907840",
+   "en": "I almost got trampled... Broken ribs, I think…",
+   "ro": "Era cât p-ai clipi să fiu călcat în picioare... Cred că am coaste rupte…"
+  },
+  {
+   "key": "1801296487729086464",
+   "en": "We need to get out of here!",
+   "ro": "Trebuie să ieșim de-aici!"
+  },
+  {
+   "key": "1801297323049893888",
+   "en": "I look OK to you? We're about to go live.",
+   "ro": "Arăt eu bine? Intrăm în direct imediat."
+  },
+  {
+   "key": "1801298631119093760",
+   "en": "Three, two, one...",
+   "ro": "Trei, doi, unu..."
+  },
+  {
+   "key": "1801299000486281216",
+   "en": "This is Gillean Jordan of N54 News coming to you live from Japantown, where a commemorative parade in honor of Saburo Arasaka descended into chaos today.",
+   "ro": "Aici Gillean Jordan, de la N54 News, în direct din Japantown. O paradă comemorativă în onoarea lui Saburo Arasaka a degenerat în haos astăzi."
+  },
+  {
+   "key": "1801299245702070272",
+   "en": "Eyewitnesses we've spoken to described a shootout on one of the celebratory floats. The float in question is said to have been transporting Hanako Arasaka.",
+   "ro": "Martorii oculari cu care am vorbit povestesc despre un schimb de focuri pe una dintre platformele festive. Se zice că platforma în cauză ar fi transportat-o pe Hanako Arasaka."
+  },
+  {
+   "key": "1801300495923429376",
+   "en": "Unfortunately, I have no further details to report at this time.",
+   "ro": "Din păcate, deocamdată nu am alte detalii."
+  },
+  {
+   "key": "1801300622893400064",
+   "en": "We are still awaiting an official statement from the Arasaka Corporation regarding these events.",
+   "ro": "Încă așteptăm o declarație oficială de la Corporația Arasaka despre ce s-a întâmplat."
+  },
+  {
+   "key": "1801303594255794176",
+   "en": "Hey! Stay out of the shot!",
+   "ro": "Hei! Ieși din cadru!"
+  },
+  {
+   "key": "1801304953780715520",
+   "en": "Ugh, dammit... Let's do it again!",
+   "ro": "Ugh, la naiba... Hai s-o luăm de la capăt!"
+  },
+  {
+   "key": "1801305575091355648",
+   "en": "Thank you! People're working here!",
+   "ro": "Mersi! Lucrăm și noi aici!"
+  },
+  {
+   "key": "1863315822830493696",
+   "en": "As the situation continues to be brought under control, we urge everyone to avoid Kanzaki Street.",
+   "ro": "Situația e tot mai sub control, așa că vă rugăm să evitați strada Kanzaki."
+  },
+  {
+   "key": "1906936140640829440",
+   "en": "Knew we couldn't trust him! What happened to keepin' him on his leash?!",
+   "ro": "Știam că nu-i putem da încredere! Ce, nu-l mai ținea nimeni în lesă?!"
+  },
+  {
+   "key": "1906937283303456768",
+   "en": "We'd best delta the fuck outta here.",
+   "ro": "Hai s-o tăiem dracu' de-aici!"
+  },
+  {
+   "key": "2007084788928552960",
+   "en": "He shot her?!",
+   "ro": "Chiar a împușcat-o?!"
+  },
+  {
+   "key": "2034753975066525696",
+   "en": "[Deactivate  security measures]",
+   "ro": "[Dezactivează măsurile de securitate]"
+  }
+ ]
+}

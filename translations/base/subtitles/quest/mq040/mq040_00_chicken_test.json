@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq040\\mq040_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "2217603782381023236",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2217604713818501120",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2231460280244776964",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2231460899324047360",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  }
+ ]
+}

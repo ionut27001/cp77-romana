@@ -1,0 +1,171 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_02_fixer.json",
+ "entries": [
+  {
+   "key": "1660181490404708352",
+   "en": "Come in, come in! Ah, raised you, finally.",
+   "ro": "Intră, intră! A, în sfârșit ai răspuns."
+  },
+  {
+   "key": "1660184273073754116",
+   "en": "I need your help.",
+   "ro": "Am nevoie de ajutorul tău."
+  },
+  {
+   "key": "1660184978924785664",
+   "en": "Then why don't you?",
+   "ro": "Atunci de ce nu o faci?"
+  },
+  {
+   "key": "1660185210450366464",
+   "en": "Why can't you?",
+   "ro": "De ce nu poți?"
+  },
+  {
+   "key": "1660185810588160000",
+   "en": "I need your help. One last time.",
+   "ro": "Am nevoie de tine. Încă o dată, ultima oară."
+  },
+  {
+   "key": "1660187335687426048",
+   "en": "Hm. Right place, right time – you were there?",
+   "ro": "Hm. Locul și momentul potrivite – ai fost acolo?"
+  },
+  {
+   "key": "1660189879465693184",
+   "en": "Huh, actually left a message. He's waiting on a farm. Flickin' you the geoloc data.",
+   "ro": "Hm, chiar a lăsat un mesaj. Așteaptă la o fermă. Îți trimit geolocația."
+  },
+  {
+   "key": "1724481400795492352",
+   "en": "Willie McCoy. It's good to hear your voice.",
+   "ro": "Willie McCoy. Ce bine e să-ți aud vocea."
+  },
+  {
+   "key": "1724481817440874496",
+   "en": "V. Wish I could say the same.",
+   "ro": "V. Mi-ar plăcea să zic și eu la fel."
+  },
+  {
+   "key": "1724484226196107264",
+   "en": "You abandoned the clan, I can't help you anymore.",
+   "ro": "Ai abandonat clanul, nu te mai pot ajuta."
+  },
+  {
+   "key": "1724484972060798976",
+   "en": "Nomads get the work in these parts because it's nomad turf. Wouldn't be a problem if you were still a Bakker.",
+   "ro": "Nomazii au treabă pe aici pentru că e teritoriul lor. N-ar fi fost problemă dacă erai încă Bakker."
+  },
+  {
+   "key": "1724524392512155648",
+   "en": "Thanks, Willie. I owe ya one.",
+   "ro": "Îți mulțumesc, Willie. Îți rămân datoare.",
+   "ro_m": "Îți mulțumesc, Willie. Îți rămân dator."
+  },
+  {
+   "key": "1724524780283949056",
+   "en": "You do. Just don't get yourself killed. And don't call again.",
+   "ro": "Așa e. Doar să nu te omori. Și nu mai suna."
+  },
+  {
+   "key": "1724525246589890560",
+   "en": "\"One last time\" – again?",
+   "ro": "„Ultima oară” – iar?"
+  },
+  {
+   "key": "1724527191505432576",
+   "en": "I have to find the client with my payload, but I-I don't know where he is.",
+   "en_m": "I have to find the client with my payload, but I don't know where he is.",
+   "ro": "Trebuie să dau de clientul cu marfa mea, da' nu știu unde e."
+  },
+  {
+   "key": "1866531651072225280",
+   "en": "You shoulda stuck with 'em, and joined up with the Snake Nation like the rest.",
+   "ro": "Trebuia să rămâi cu ei și să intri în clanul Snake Nation, ca ceilalți."
+  },
+  {
+   "key": "1866531844630966272",
+   "en": "The Snake Nation can kiss my ass.",
+   "ro": "Snake Nation poate să mă pupe-n cur."
+  },
+  {
+   "key": "1866541904434229248",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1866541918006996992",
+   "en": "'Course I was.",
+   "en_m": "Of course I was.",
+   "ro": "Sigur că am fost.",
+   "ro_m": "Desigur că am fost."
+  },
+  {
+   "key": "1866541920422916096",
+   "en": "My car gave out. The electric coupling – it's a miracle I made it here.",
+   "ro": "Mașina mi-a dat colțul. Cuplajul electric... e fix miracol că am ajuns aici."
+  },
+  {
+   "key": "1866542194512293888",
+   "en": "My car broke down.",
+   "ro": "Mi s-a stricat mașina."
+  },
+  {
+   "key": "1866543409031737344",
+   "en": "Maybe the client left a message. Could you check for me?",
+   "ro": "Poate a lăsat clientul un mesaj. Mi-ai arunca un ochi?"
+  },
+  {
+   "key": "1866544138756747264",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1866544210630340608",
+   "en": "Sure. Last time, though. I mean it. Client's name?",
+   "ro": "Sigur. Ultima oară, da'. Serios. Cum îl cheamă pe client?"
+  },
+  {
+   "key": "1866544430713860096",
+   "en": "Jackie Welles.",
+   "ro": "Jackie Welles."
+  },
+  {
+   "key": "1867959073169756164",
+   "en": "[Connect to radio station]",
+   "ro": "[Conectează-te la postul de radio]"
+  },
+  {
+   "key": "2018693902054125568",
+   "en": "Never knew you to be so cautious.",
+   "en_m": "I never knew you to be so cautious.",
+   "ro": "Nu te știam atât de precaută.",
+   "ro_m": "Nu te știam atât de precaut."
+  },
+  {
+   "key": "2018694172955832320",
+   "en": "Try loyal. Rules are rules, the system won't work without 'em. It can't.",
+   "ro": "Încearcă loial. Regulile sunt reguli, sistemul nu merge fără ele. Nu poate."
+  },
+  {
+   "key": "2022800567014891524",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2030222077312737284",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2030226930843885568",
+   "en": "[Kick]",
+   "ro": "[Lovește]"
+  },
+  {
+   "key": "2034227073180082180",
+   "en": "[Stop leaning]",
+   "ro": "[Nu te mai sprijini]"
+  }
+ ]
+}

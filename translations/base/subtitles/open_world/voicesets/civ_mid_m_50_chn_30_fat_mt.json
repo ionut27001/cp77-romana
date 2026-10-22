@@ -1,0 +1,103 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_m_50_chn_30_fat_mt.json",
+ "entries": [
+  {
+   "key": "1948969782609567748",
+   "en": "<kiroshi l=\"chin\" o=\"嚇親我呀！\" t=\"Aah! You scared me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"嚇親我呀！\" t=\"Aah! M-ai speriat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782626344964",
+   "en": "<kiroshi l=\"chin\" o=\"知道我想同你講咩嘛？躝，聽倒未呀？\" t=\"Wanna hear what I got to say to you? Is \\\"fuck off\\\" enough?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"知道我想同你講咩嘛？躝，聽倒未呀？\" t=\"Vrei să auzi ce am de zis? Ajunge «Du-te-n pula mea»?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782676676612",
+   "en": "<kiroshi l=\"chin\" o=\"你躝開啲呀。\" t=\"You'll bounce off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"你躝開啲呀。\" t=\"O să te dai la o parte.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782710231044",
+   "en": "<kiroshi l=\"chin\" o=\"咁係啦，唔係呢？！\" t=\"Of course! What else?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"咁係啦，唔係呢？！\" t=\"Bineînțeles! Ce altceva?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782743785476",
+   "en": "<kiroshi l=\"chin\" o=\"講啦。\" t=\"Talk to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"講啦。\" t=\"Vorbește-mi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782777339908",
+   "en": "<kiroshi l=\"chin\" o=\"六個月前我就將嗰樣嘢賣咗啦！哦，好啦，隨你點鬧啦，我而家唔賣都賣咗喇。\" t=\"I sold that shit six months ago… Oh fine, let him fly, I'm short-selling now.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"六個月前我就將嗰樣嘢賣咗啦！哦，好啦，隨你點鬧啦，我而家唔賣都賣咗喇。\" t=\"Am vândut porcăria aia acum șase luni… Ei, bine, lasă-l să zboare, acum vând în lipsă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782810894336",
+   "en": "<kiroshi l=\"chin\" o=\"其實呢，我對屋企嗰啲雞毛蒜皮嘅事冇興趣，我哋可唔可以講啲其他嘢？\" t=\"Hey, know what? Family matters don't interest me, can we talk about something else…?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"其實呢，我對屋企嗰啲雞毛蒜皮嘅事冇興趣，我哋可唔可以講啲其他嘢？\" t=\"Hei, știi ce? Treaba de familie nu mă taie. Hai să vorbim de altceva…?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782827671556",
+   "en": "<kiroshi l=\"chin\" o=\"好吖，再傾過。\" t=\"Great. Bye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"好吖，再傾過。\" t=\"Super. Pa.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782978666500",
+   "en": "<kiroshi l=\"chin\" o=\"屌佢老母黐線嘅！\" t=\"Fucking psychos!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"屌佢老母黐線嘅！\" t=\"Psihopații dracului!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969782995443716",
+   "en": "<kiroshi l=\"chin\" o=\"掉咗佢嘅武器！\" t=\"Disarm her!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"chin\" o=\"掉咗佢嘅武器！\" t=\"Disarm him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"掉咗佢嘅武器！\" t=\"Dezarmează-o!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"chin\" o=\"掉咗佢嘅武器！\" t=\"Dezarmează-l!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969783062552580",
+   "en": "<kiroshi l=\"chin\" o=\"放過我啦，唔好殺我呀！\" t=\"Mercy, please don't kill me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"放過我啦，唔好殺我呀！\" t=\"Milă, te rog, nu mă omorî!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969783079329796",
+   "en": "<kiroshi l=\"chin\" o=\"我只係經過架咋，唔好殺我呀！\" t=\"I was just walking by! Please, no!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"我只係經過架咋，唔好殺我呀！\" t=\"Doar treceam pe aici! Te rog, nu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969783163215872",
+   "en": "<kiroshi l=\"chin\" o=\"我老咗一腳踢鳩你，等你猴年再落地。\" t=\"I'll kick you so hard you'll land in the year of the monkey.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"我老咗一腳踢鳩你，等你猴年再落地。\" t=\"Te trântesc atât de tare că aterizezi în anul maimuței.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948969783179993092",
+   "en": "<kiroshi l=\"chin\" o=\"躝開啦，臭雞。\" t=\"Fuck off, loser.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"躝開啦，臭雞。\" t=\"Du-te-n pula mea, ratată.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"chin\" o=\"躝開啦，臭雞。\" t=\"Du-te-n pula mea, ratatule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948972079980863488",
+   "en": "<kiroshi l=\"chin\" o=\"呃，我已經用唔倒喇，新神經傳感器好好用喎。\" t=\"Uh,moving  forward… The new neural processor is doing its thing, ha, ha, ha.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"呃，我已經用唔倒喇，新神經傳感器好好用喎。\" t=\"Ăă, hai mai departe… Noul procesor neuronal își face treaba, ha, ha, ha.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1948972546991448064",
+   "en": "<kiroshi l=\"chin\" o=\"呢個人係掂喎，你仔細確認過嗱？好，聽日，好，我知喇\" t=\"That's a subject, ha, ha, ha… Did you double check? Ha, ha, ha… Sure, tomorrow…? Yeah, I know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"呢個人係掂喎，你仔細確認過嗱？好，聽日，好，我知喇\" t=\"Subiectul e ok, ha, ha, ha… Ai verificat de două ori? Ha, ha, ha… Sigur, mâine…? Da, da, știu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1958920614600286212",
+   "en": "<kiroshi l=\"chin\" o=\"喂，我喺度講緊呀！\" t=\"Hey, I was talking!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"喂，我喺度講緊呀！\" t=\"Hei, vorbeam eu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1958920614650617860",
+   "en": "<kiroshi l=\"chin\" o=\"哦，係吖，我啱啱講到…\" t=\"Right, so I was saying...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"哦，係吖，我啱啱講到…\" t=\"Bine, deci ziceam...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1958920614684172292",
+   "en": "<kiroshi l=\"chin\" o=\"都係唔好浪費時間喇我哋。\" t=\"Let's not waste time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"chin\" o=\"都係唔好浪費時間喇我哋。\" t=\"Să nu pierdem timpul.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_03_market.json",
+ "entries": [
+  {
+   "key": "1508436663636873216",
+   "en": "Dis way.",
+   "ro": "Pe aici."
+  },
+  {
+   "key": "1508439916084744192",
+   "en": "You know Pacifica well?",
+   "ro": "Cunoști bine Pacifica?"
+  },
+  {
+   "key": "1508441961277706240",
+   "en": "Nah. You guys aren't exactly great at rollin' out the welcome mat for outsiders.",
+   "ro": "Nah. Voi nu prea îi primiți cu brațele deschise pe străini."
+  },
+  {
+   "key": "1508444466082500608",
+   "en": "Grann Ertha.",
+   "ro": "Grann Ertha."
+  },
+  {
+   "key": "1508446044684308480",
+   "en": "<kiroshi l=\"creo\" o=\"Placide, pitit mwen.\" t=\"Placide, my child.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide, pitit mwen.\" t=\"Placide, copilul meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508455182663438336",
+   "en": "<kiroshi l=\"creo\" o=\"Pou ou.\" t=\"For you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pou ou.\" t=\"Pentru tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508457259179462656",
+   "en": "<kiroshi l=\"creo\" o=\"Ou pa t 'bezwen…\" t=\"You didn't have to…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou pa t 'bezwen…\" t=\"Nu trebuia…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508457755449511936",
+   "en": "<kiroshi l=\"creo\" o=\"Petèt, men sa se pou ou. P’ap pran “non” pou yon repons.\" t=\"Maybe. But this is yours. Won't take \\\"no\\\" for an answer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Petèt, men sa se pou ou. P’ap pran “non” pou yon repons.\" t=\"Poate. Dar asta e a ta. Nu acceptă „nu” ca răspuns.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508471457569591296",
+   "en": "<mothertongue l=\"creo\" m=\"Vini nan.\" b=\"\" a=\" We talk here.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Vini nan.\" b=\"\" a=\" Vorbim aici.\"/>"
+  },
+  {
+   "key": "1533136402835116032",
+   "en": "<kiroshi l=\"creo\" o=\"Gen lòt ki genyen li pi mal…\" t=\"Others have it worse…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gen lòt ki genyen li pi mal…\" t=\"Alții o duc mai rău…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1533138365215739904",
+   "en": "<kiroshi l=\"creo\" o=\"Mèsi.\" t=\"Thank you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mèsi.\" t=\"Mulțumesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1533138839725740032",
+   "en": "Let's go. Not far now.",
+   "ro": "Hai. Nu mai e mult."
+  },
+  {
+   "key": "1551666024883965952",
+   "en": "<kiroshi l=\"creo\" o=\"Aye, Placide.\" t=\"Hey, Placide.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Aye, Placide.\" t=\"Hei, Placide.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551668439360229376",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pral deplase yo ankò.\" t=\"Gonna move 'em all over again.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pral deplase yo ankò.\" t=\"O să-i mut iar pe toți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551669307061063680",
+   "en": "<kiroshi l=\"creo\" o=\"Ki etaj?\" t=\"Which floor?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ki etaj?\" t=\"Ce etaj?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551669342511321088",
+   "en": "<kiroshi l=\"creo\" o=\"Dezyèm.\" t=\"Second.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Dezyèm.\" t=\"Doi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551679075746074624",
+   "en": "<kiroshi l=\"creo\" o=\"Placide! Mwen gen sa ou te bay lòd.\" t=\"Placide! Got your order ready.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide! Mwen gen sa ou te bay lòd.\" t=\"Placide! Comanda ta e gata.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551683851112173568",
+   "en": "<kiroshi l=\"creo\" o=\"Li pa konekte ak Agwè depi Josue ... ou konnen kisa pou w fè.\" t=\"She hasn't jacked into Agwe since Josue... So you know what to do.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li pa konekte ak Agwè depi Josue ... ou konnen kisa pou w fè.\" t=\"Nu s-a mai conectat la Agwe de pe vremea lui Josue... Deci știi ce ai de făcut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551685002213740544",
+   "en": "<kiroshi l=\"creo\" o=\"Li si sansib ke sa?\" t=\"She's that sensitive?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li si sansib ke sa?\" t=\"E atât de sensibilă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551685035482959872",
+   "en": "<kiroshi l=\"creo\" o=\"Li pa ta pran yon souf san li pa di-sa.\" t=\"She wouldn't take a breath without his say-so.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li pa ta pran yon souf san li pa di-sa.\" t=\"N-ar respira fără să-i dea voie el.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551707325071380480",
+   "en": "<kiroshi l=\"creo\" o=\"Oke mwen pral vini pita.\" t=\"OK! I'll come later.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Oke mwen pral vini pita.\" t=\"OK! Vin mai târziu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1551746421957349376",
+   "en": "You deal wid Animal before?",
+   "ro": "Ai mai avut de-a face cu Animals?"
+  },
+  {
+   "key": "1557400095127048192",
+   "en": "<kiroshi l=\"creo\" o=\"Sibil pa ap renmen sa.\" t=\"Sibil won't like that.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sibil pa ap renmen sa.\" t=\"Sibil n-o să-i placă asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1557400628072091648",
+   "en": "<kiroshi l=\"creo\" o=\"Ki diferans ki genyen?\" t=\"What's the difference?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ki diferans ki genyen?\" t=\"Care-i diferența?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1557401238695645184",
+   "en": "<kiroshi l=\"creo\" o=\"Li pa leve pou yon anè, nenpòt jan.\" t=\"She hasn't got up for a year now, anyway.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li pa leve pou yon anè, nenpòt jan.\" t=\"Oricum, nu s-a mai ridicat de un an.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1557481057944932352",
+   "en": "Yeah. A few times.",
+   "ro": "Da. De câteva ori."
+  },
+  {
+   "key": "1590989069116313600",
+   "en": "<kiroshi l=\"creo\" o=\"Lovelie? Oh tanpri. Josue te toujou genyen li nan yon kòd.\" t=\"Lovelie? Oh please. Josue always had her on a leash.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Lovelie? Oh tanpri. Josue te toujou genyen li nan yon kòd.\" t=\"Lovelie? Of, te rog. Josue o ținea mereu în lesă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1662078064263274496",
+   "en": "Pacifica's biggest, ugliest temple to greed... but never finished.",
+   "ro": "Cel mai mare și mai urât templu al lăcomiei din Pacifica... dar n-a fost niciodată terminat."
+  },
+  {
+   "key": "1662079130774118400",
+   "en": "Until last week it was deserted, empty.",
+   "ro": "Până săptămâna trecută era pustiu de tot."
+  },
+  {
+   "key": "1662079919991136256",
+   "en": "But now?",
+   "ro": "Dar acum?"
+  },
+  {
+   "key": "1662080467515580416",
+   "en": "De Animals crawled in, made a nest.",
+   "ro": "Gașca Animals s-a strecurat înăuntru și și-a făcut cuib."
+  },
+  {
+   "key": "1695268657450782720",
+   "en": "I mean, it makes no sense, them being here.",
+   "ro": "Adică, nu e normal să fie ei aici."
+  },
+  {
+   "key": "1695269540066562048",
+   "en": "You want the Animals out of the GIM? Extinct?",
+   "ro": "Vrei ca Animals să iasă din GIM? Să-i ștergem de pe hartă?"
+  },
+  {
+   "key": "1695270130960109568",
+   "en": "They tryna provoke you? Make you do somethin' stupid?",
+   "ro": "Să te provoace? Să faci vreo prostie?"
+  },
+  {
+   "key": "1695276575457873920",
+   "en": "That why you hired me?",
+   "ro": "De-asta m-ai angajat?"
+  },
+  {
+   "key": "1695277157425942528",
+   "en": "You learn everyt'ing soon.",
+   "ro": "Ai să afli tot în curând."
+  },
+  {
+   "key": "1695280975316324352",
+   "en": "Middle of Pacifica, no backup, cut off…",
+   "ro": "În mijlocul Pacificăi, fără backup, izolat…"
+  },
+  {
+   "key": "1695282075633258496",
+   "en": "It's your turf. Hell, even badges don't patrol around here.",
+   "ro": "E teritoriul tău. Fir-ar, nici gaborii nu patrulează pe-aici."
+  },
+  {
+   "key": "1695283186318512128",
+   "en": "Dey do not leave GIM.",
+   "ro": "Nu ies din GIM."
+  },
+  {
+   "key": "1695283651919810560",
+   "en": "How many we talkin' about in there?",
+   "ro": "Câți sunt înăuntru?"
+  },
+  {
+   "key": "1695284081986965504",
+   "en": "Thirty. Maybe more.",
+   "ro": "Treizeci. Poate mai mulți."
+  },
+  {
+   "key": "1699656813256921088",
+   "en": "<kiroshi l=\"creo\" o=\"Oke, jijman ta dwe pase pa kounye a.\" t=\"Well, judgment should be passed by now.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Oke, jijman ta dwe pase pa kounye a.\" t=\"Păi, judecata ar fi trebuit să fie dată până acum.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699657598044753920",
+   "en": "<kiroshi l=\"creo\" o=\"Menm si li mache alè, li p'ap janm mete konfyans lan neg lan.\" t=\"Even if he walks away from this, she'll never trust him again.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Menm si li mache alè, li p'ap janm mete konfyans lan neg lan.\" t=\"Chiar dacă scapă din asta, ea n-o să mai aibă niciodată încredere în el.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699657640088457216",
+   "en": "<kiroshi l=\"creo\" o=\"Hm. E li te tèlman enpòtan.\" t=\"Hm. And he was so important.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Hm. E li te tèlman enpòtan.\" t=\"Hm. Și era atât de important.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714450419366862848",
+   "en": "<kiroshi l=\"creo\" o=\"Placide! Ou gen yon minit?\" t=\"Placide! Do you have a minute?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide! Ou gen yon minit?\" t=\"Placide! Ai un minut?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714450419366862868",
+   "en": "<kiroshi l=\"creo\" o=\"Pa jodi a.\" t=\"Not today.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa jodi a.\" t=\"Nu azi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714450419366862888",
+   "en": "<kiroshi l=\"creo\" o=\"Men, ou te di…\" t=\"But you said…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men, ou te di…\" t=\"Dar ai zis…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1714450419366862908",
+   "en": "<kiroshi l=\"creo\" o=\"Pita, Emilie, mwen pap bliye.\" t=\"Later, Emilie – I haven't forgotten.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pita, Emilie, mwen pap bliye.\" t=\"Mai târziu, Emilie – n-am uitat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1760464909770006528",
+   "en": "Our interest is now in de GIM – de Grand Imperial Mall.",
+   "ro": "Acum ne interesează GIM – Grand Imperial Mall."
+  },
+  {
+   "key": "1760483650608144424",
+   "en": "Was to be its own city, where suits would burn their eddies.",
+   "ro": "Urma să fie propriul oraș, unde corporatiștii își ardeau eddies-urile."
+  },
+  {
+   "key": "1760483650608144440",
+   "en": "A closed circle. De corps feed their sheep, they spit de cash back out. All de toys here are grown from corpo cash.",
+   "ro": "Un cerc vicios. Corpoii își hrănesc oile, apoi scuipă banii înapoi. Toate jucăriile de aici se trag din banii corpoilor."
+  },
+  {
+   "key": "1760644622408851456",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1760644677471674368",
+   "en": "I must wait long?",
+   "ro": "Trebuie să aștept mult?"
+  },
+  {
+   "key": "1760644752985923584",
+   "en": "You are coming?",
+   "ro": "Vii?"
+  },
+  {
+   "key": "1773591285874053120",
+   "en": "Welcome to Pacifica.",
+   "ro": "Bun venit în Pacifica."
+  },
+  {
+   "key": "1773592293530423296",
+   "en": "<kiroshi l=\"creo\" o=\"Tonnè, fout nou deyò, banfout sèpan! Tounen nan vil la! Se Pasifika!\" t=\"Get the fuck out, snakes! Back to the city! This is Pacifica!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tonnè, fout nou deyò, banfout sèpan! Tounen nan vil la! Se Pasifika!\" t=\"Cară-te dracu' de-aici, șerpi! Înapoi în oraș! Asta e Pacifica!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1780462637419614208",
+   "en": "Has Holt's campaign promise, and I quote…",
+   "ro": "Promisiunea de campanie a lui Holt, citez…"
+  },
+  {
+   "key": "1780464028821245952",
+   "en": "Pacifica – a hotbed of controversy, a city within the city.",
+   "ro": "Pacifica – un focar de controverse, un oraș în oraș."
+  },
+  {
+   "key": "1780464106617196544",
+   "en": "All that and more...",
+   "ro": "Toate astea și încă ceva..."
+  },
+  {
+   "key": "1795071582414376960",
+   "en": "\"I will clean up Pacifica, set it straight.\"",
+   "ro": "„O să curăț Pacifica, o pun la punct.”"
+  },
+  {
+   "key": "1795072093632925696",
+   "en": "Already proved to be false?",
+   "ro": "S-a dovedit deja falsă?"
+  },
+  {
+   "key": "1795072908418420736",
+   "en": "We decided to take a closer look.",
+   "ro": "Am decis să privim mai de aproape."
+  },
+  {
+   "key": "1795077384848084992",
+   "en": "A dirty stain on Night City's map…",
+   "ro": "O pată murdară pe harta Night City-ului…"
+  },
+  {
+   "key": "1795077829091987456",
+   "en": "Or a chance at urban renewal?",
+   "ro": "Sau o șansă de renaștere urbană?"
+  },
+  {
+   "key": "1973686555258933248",
+   "en": "Uh-huh.",
+   "ro": "Mhm."
+  }
+ ]
+}

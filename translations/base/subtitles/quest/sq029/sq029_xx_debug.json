@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq029\\sq029_xx_debug.json",
+ "entries": [
+  {
+   "key": "1427218559893360640",
+   "en": "Default Start",
+   "ro": "Start implicit"
+  },
+  {
+   "key": "1427219519264903168",
+   "en": "BBQ Dinner",
+   "ro": "Cină la grătar"
+  },
+  {
+   "key": "1427219988456525824",
+   "en": "Conclusion",
+   "ro": "Concluzie"
+  },
+  {
+   "key": "1427220671893196800",
+   "en": "Yes",
+   "ro": "Da"
+  },
+  {
+   "key": "1427220933030563840",
+   "en": "No",
+   "ro": "Nu"
+  },
+  {
+   "key": "2208206991357259780",
+   "en": "[db_db]Sex scene",
+   "ro": "[db_db]Scenă de sex"
+  },
+  {
+   "key": "2208207725427568640",
+   "en": "[db_db]Morning after",
+   "ro": "[db_db]Dimineața de după"
+  }
+ ]
+}

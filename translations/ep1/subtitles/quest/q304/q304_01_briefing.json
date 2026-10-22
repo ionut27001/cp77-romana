@@ -1,0 +1,941 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_01_briefing.json",
+ "entries": [
+  {
+   "key": "2889744952298852352",
+   "en": "V's here. Hey.",
+   "ro": "V e aici. Hei."
+  },
+  {
+   "key": "2889746351870988288",
+   "en": "It's about time, too. We're nearly done finalizing the plan.",
+   "ro": "Era și timpul. Suntem aproape gata cu planul."
+  },
+  {
+   "key": "2889750446753206276",
+   "en": "Kurt Hansen...",
+   "ro": "Kurt Hansen..."
+  },
+  {
+   "key": "2889751332472770560",
+   "en": "Used to be a football stadium?",
+   "ro": "Înainte era stadion de fotbal?"
+  },
+  {
+   "key": "2889751422398648320",
+   "en": "BARGHEST command structure – tell me.",
+   "ro": "Structura de comandă BARGHEST – zi-mi."
+  },
+  {
+   "key": "2889752759341436928",
+   "en": "Kurt Hansen... bit younger, looks like. Guess the royal asshole look is nothin' new.",
+   "ro": "Kurt Hansen... mai tânăr, parcă. Ptiu, boul ăla regal nu-i nimic nou."
+  },
+  {
+   "key": "2889753310187769856",
+   "en": "Nighthawks, huh?",
+   "ro": "Nighthawks, așa?"
+  },
+  {
+   "key": "2889753466685640704",
+   "en": "So, they get exfilled? What, Hansen loved NC so much he came back years later?",
+   "ro": "Deci i-au evacuat? Ce, lui Hansen i-a plăcut atât de mult NC-ul că s-a întors ani mai târziu?"
+  },
+  {
+   "key": "2889753876754354176",
+   "en": "A pro football dream team, funded by big Pacifica investors. Won every game they played.",
+   "ro": "O echipă de fotbal profesionist de vis, finanțată de investitori grei din Pacifica. Câștigau tot ce jucau."
+  },
+  {
+   "key": "2889753963391897612",
+   "en": "BARGHEST's core, inner circle – ex-Militech commandos?",
+   "ro": "Nucleul BARGHEST, cercul interior – foști comandouri Militech?"
+  },
+  {
+   "key": "2889799740076085248",
+   "en": "They're drivin' a rental while in NC. An exploitable openin'.",
+   "ro": "Conduc o mașină închiriată cât sunt în NC. O breșă exploatabilă."
+  },
+  {
+   "key": "2889804446521380864",
+   "en": "And your role in all this, Reed?",
+   "ro": "Și rolul tău în toată treaba asta, Reed?"
+  },
+  {
+   "key": "3028682092087472128",
+   "en": "OK, back to Night City, folks. With our sights trained on a new target.",
+   "ro": "Bun, înapoi la Night City, băieți. Ochii pe o țintă nouă."
+  },
+  {
+   "key": "3030390136841093120",
+   "en": "I do... And yes, the ruse is not that different, but the stakes are.",
+   "ro": "Da... Și da, tertipul nu e chiar atât de diferit, dar mizele sunt."
+  },
+  {
+   "key": "3030392084004782080",
+   "en": "Mhm, yeah-yeah. So like Medellín. Or Night City a few years later.",
+   "ro": "Mhm, da-da. Ca la Medellín. Sau Night City câțiva ani mai târziu."
+  },
+  {
+   "key": "3030392609030979584",
+   "en": "A classic copy-and-paste with ID-matching, bioscans, behaviorals – all bases covered.",
+   "ro": "Un copy-paste clasic, cu potrivire de ID-uri, bioscanări, comportamentale – toate bazele acoperite."
+  },
+  {
+   "key": "3030393253645172736",
+   "en": "Lemme see… Global arms trade – check. Personality theft – check. Oh, and gross overconfidence – biiig check.",
+   "ro": "Lasă-mă să văd… Comerț global cu arme – bifat. Furt de personalitate – bifat. Și, a, supraîncredere cât casa – bifat, bifat rău."
+  },
+  {
+   "key": "3030453411121381376",
+   "en": "A still from the Unification War days. Night City, Operation Midnight Storm – he was in command.",
+   "ro": "Un cadru din zilele Războiului Unificării. Night City, Operațiunea Midnight Storm – el comanda."
+  },
+  {
+   "key": "3030454563397353472",
+   "en": "His unit was spread out along the bottom of an open storm channel, awaitin' reinforcements. An Arasaka supercarrier docked in the bay instead.",
+   "ro": "Unitatea lui era împrăștiată pe fundul unui canal de furtună, cu ochii pe întăriri. Dar în loc de ele, a acostat în golf un supercarrier Arasaka."
+  },
+  {
+   "key": "3030460843428069376",
+   "en": "No. NUS-Militech Command left them to die. The op got swept under the rug, so Hansen did eventually claim the zone... just not for us.",
+   "ro": "Nu. Comandamentul NUS-Militech i-a lăsat să moară. Operațiunea a fost bătută sub covor, iar până la urmă Hansen a luat zona... doar că nu pentru noi."
+  },
+  {
+   "key": "3030464136594243584",
+   "en": "The man he is today, the situation we're in... it's all the fruit of poor decisions we've made.",
+   "ro": "Omul de azi, ce-a ajuns, situația asta... toate-s din cauza deciziilor proaste pe care le-am luat."
+  },
+  {
+   "key": "3031537465396740096",
+   "en": "Been here before, Reed. 'S exactly like then.",
+   "ro": "Mai fost pe-aici, Reed. E exact ca atunci."
+  },
+  {
+   "key": "3031760876928679936",
+   "en": "A specific op brought them to NC under Hansen's command. They're only a dozen or so strong.",
+   "ro": "Un job anume i-a adus în NC sub comanda lui Hansen. Sunt vreo duzină, nu mai mult."
+  },
+  {
+   "key": "3031761226985291776",
+   "en": "Outside lookin' in, they seem rock-solid. Actually, they're anything but. Without Hansen, the command structure crumbles.",
+   "ro": "Din afară par să țină bine. De fapt, nu țin deloc. Fără Hansen, structura de comandă se duce pe apa sâmbetei."
+  },
+  {
+   "key": "3031860569864060928",
+   "en": "What happened in Medellín? What was the op there?",
+   "ro": "Ce s-a întâmplat la Medellín? Ce operațiune a fost acolo?"
+  },
+  {
+   "key": "3031870453271674880",
+   "en": "So... what happened?",
+   "en_m": "So, what happened?",
+   "ro": "Deci... ce s-a întâmplat?",
+   "ro_m": "Deci, ce s-a întâmplat?"
+  },
+  {
+   "key": "3031891841319616512",
+   "en": "We had our sights trained on a guy who sat in the Colombian president's back pocket, sold 'im smuggled corptech.",
+   "ro": "Aveam ochii pe un tip care-l avea la mână pe președintele columbian. Îi vindea corptech de contrabandă."
+  },
+  {
+   "key": "3031893629569515520",
+   "en": "You sayin' the FIA pulls strings overseas?",
+   "ro": "Vrei să spui că FIA trage sforile peste mări?"
+  },
+  {
+   "key": "3031893834469654528",
+   "en": "A lot of what we do doesn't get printed in the normsheets.",
+   "ro": "Multe din ce facem nu apare în normsheet-uri."
+  },
+  {
+   "key": "3031895580323528704",
+   "en": "Anyway, we used stolen identities on that mission, too. Things didn't go exactly as planned, but that's... a long story.",
+   "ro": "Oricum, am folosit identități furate și pe misiunea aia. Lucrurile n-au mers chiar ca la carte, dar e... o poveste lungă."
+  },
+  {
+   "key": "3033287155951779840",
+   "en": "Well, So Mi had put together Hernandez's dossier...",
+   "ro": "Păi, So Mi pusese la punct dosarul lui Hernandez..."
+  },
+  {
+   "key": "3033287807595626496",
+   "en": "Problem was, an important detail slipped through the cracks – the engineer's abject fear of dogs. Cold sweat, shaky hands, soggy pantleg – that kind of fear.",
+   "ro": "Problema e că a scăpat un detaliu important: îi era frică de moarte de câini, inginerul ăla. Sudoare rece, mâini tremurânde, pantaloni uzi – frica aia."
+  },
+  {
+   "key": "3033288381107978240",
+   "en": "When the doberman sniffed Alex's knee, she... pats 'im on the head and says \"who's a good boy?\" Then, she went to pull up a chair at Hernandez's table...",
+   "ro": "Când dobermanul i-a adulmecat genunchiul lui Alex, ea... l-a mângâiat pe cap și a zis: „Cine-i băiatul bun?” Apoi s-a dus să tragă un scaun la masa lui Hernandez..."
+  },
+  {
+   "key": "3033289160980086784",
+   "en": "Before she could sit down, they had two barrels to her head and one trained at the base of her spine.",
+   "ro": "Înainte să apuce să se așeze, aveau două țevi la cap și una la baza coloanei."
+  },
+  {
+   "key": "3033295375948759044",
+   "en": "What did you do?",
+   "ro": "Ce-ai făcut?"
+  },
+  {
+   "key": "3033295383431397376",
+   "en": "How'd you get 'er out?",
+   "ro": "Cum ai scos-o?"
+  },
+  {
+   "key": "3033295714865299456",
+   "en": "Worked out, though, right? We're all here, now, together.",
+   "ro": "A mers până la urmă, nu? Suntem toți aici, acum, împreună."
+  },
+  {
+   "key": "3033295728270295040",
+   "en": "What'd you do?",
+   "ro": "Ce-ai făcut?"
+  },
+  {
+   "key": "3033309668945608704",
+   "en": "Well, my hands are bound, got a sack on my head, hear a collapsible baton snap into place – thwack. I did what anyone'd do in that sitch.",
+   "ro": "Păi, aveam mâinile legate, sac pe cap, aud o bâtă telescopică cum se desface – thwack. Am făcut ce ar fi făcut oricine în situația aia."
+  },
+  {
+   "key": "3033310513225449472",
+   "en": "I lied my fuckin' ass off. Don't sit quite straight to this day, though.",
+   "ro": "Am mințit de mi-a sărit curul. Nici acum nu stau chiar drept."
+  },
+  {
+   "key": "3033313486819213312",
+   "en": "Mhh... Which can't be said for Hernandez and his men. We took any possibility of that from them.",
+   "ro": "Mhm... Ce nu se poate spune și despre Hernandez și oamenii lui. Noi le-am luat orice șansă de-asta."
+  },
+  {
+   "key": "3033313756445851648",
+   "en": "All thought of subterfuge went \"poof.\" We had to kick the door down. A \"rival cartel\" wiped 'em out – that was the official version.",
+   "ro": "Tot planul de șiretlicuri s-a dus pe apa sâmbetei. Am fost nevoiți să dăm ușa de perete. Un „cartel rival” i-a șters de pe fața pământului – asta a fost versiunea oficială."
+  },
+  {
+   "key": "3033351197823254528",
+   "en": "Yeah, all four of 'em.",
+   "ro": "Da, toți patru."
+  },
+  {
+   "key": "3033353395705659392",
+   "en": "Franchise went belly up, like everything else here. A few years later. Hansen moved in.",
+   "ro": "Franciza a dat faliment, ca tot ce e pe-aici. Câțiva ani mai încolo, Hansen s-a mutat înăuntru."
+  },
+  {
+   "key": "3033397535889866752",
+   "en": "I'll provide transport, make sure the path's clear and problem-free.",
+   "ro": "O să fac rost de transport și mă ocup ca drumul să fie liber, fără belele."
+  },
+  {
+   "key": "3033466660754472960",
+   "en": "Our person of interest was one Luis Hernandez, arms tradin' heavyweight. We aimed to plant our own SA in his organization.",
+   "ro": "Ținta noastră era Luis Hernandez, mare traficant de arme. Voiam să băgăm un om de-al nostru de la SA în organizația lui."
+  },
+  {
+   "key": "3033466987524308992",
+   "en": "Alex had adopted the identity of an engineer from Hernandez's entourage. She was our ticket in.",
+   "ro": "Alex își luase identitatea unui inginer din anturajul lui Hernandez. Ea ne era biletul de intrare."
+  },
+  {
+   "key": "3033467256412749824",
+   "en": "She walks in to attend a meeting one day, she sees one of Luis's bikini-model girlfriends prancing out, on her way to walk his doberman. Spending big money on kitsch luxury – it was kind of his MO.",
+   "ro": "Intră la o întâlnire într-o zi și vede una dintre iubitele-model în bikini ale lui Luis ieșind pe ușă, ducând dobermanul la plimbare. Arunca bani grei pe lux kitsch – asta era stilul lui."
+  },
+  {
+   "key": "3043485779304460288",
+   "en": "So you say.",
+   "ro": "Așa zici tu."
+  },
+  {
+   "key": "3052282951904706560",
+   "en": "Can do a lot more than play dress-up, thank you.",
+   "ro": "Pot face mult mai mult decât să mă costumez, mulțumesc."
+  },
+  {
+   "key": "3052283151134146560",
+   "en": "Plus, element of total surprise in my corner. Still, sweet of you to worry.",
+   "ro": "Și, plus că am factorul surpriză de partea mea. Oricum, drăguț din partea ta că te faci griji."
+  },
+  {
+   "key": "3239020710227787776",
+   "en": "'Member last time we had this convo?",
+   "ro": "Ții minte ultima oară când am avut conversația asta?"
+  },
+  {
+   "key": "3239023502745059328",
+   "en": "Thought you didn't believe in coincidences.",
+   "ro": "Credeam că nu crezi în coincidențe."
+  },
+  {
+   "key": "3239025243582545920",
+   "en": "Alex...",
+   "ro": "Alex..."
+  },
+  {
+   "key": "3239048104300953600",
+   "en": "Gave 'er free rein back then, too.",
+   "ro": "I-am lăsat și atunci mână liberă."
+  },
+  {
+   "key": "3239048501333770240",
+   "en": "That's not exactly the same, not an adequate comparison…",
+   "ro": "Nu e chiar același lucru, nu e o comparație potrivită…"
+  },
+  {
+   "key": "3239048816980312064",
+   "en": "You know I'm right.",
+   "ro": "Știi că am dreptate."
+  },
+  {
+   "key": "3239061860695326720",
+   "en": "Mhm... So you say.",
+   "ro": "Mhm... Așa zici tu."
+  },
+  {
+   "key": "3239061871348858880",
+   "en": "Op not sittin' well with ya, Alex?",
+   "ro": "Ce, nu-ți place operațiunea, Alex?"
+  },
+  {
+   "key": "3239061950084333568",
+   "en": "Before NC, we worked an op in Colombia. Medellín – Song's first mission.",
+   "ro": "Înainte de NC, am lucrat o operațiune în Columbia. Medellín – prima misiune a lui Song."
+  },
+  {
+   "key": "3239062000650862596",
+   "en": "Yeah, shouldn't waste time.",
+   "ro": "Da, n-ar trebui să pierdem timpul."
+  },
+  {
+   "key": "3239062146310651904",
+   "en": "Nah, 'cmon, Colombia – tell me.",
+   "ro": "Nu, hai, Columbia – zi-mi."
+  },
+  {
+   "key": "3239083130581336064",
+   "en": "Just a small difference of opinion to iron out.",
+   "ro": "Doar un mic dezacord de lămurit."
+  },
+  {
+   "key": "3239084490727014404",
+   "en": "Mission not to your liking, Alex?",
+   "ro": "Misiunea nu-ți place, Alex?"
+  },
+  {
+   "key": "3239096059338866688",
+   "en": "Reminds me of a few other sitches we handled. One in particular sticks out.",
+   "ro": "Îmi aduce aminte de alte câteva treburi de-ale noastre. Una mi-a rămas în cap."
+  },
+  {
+   "key": "3239101555487719424",
+   "en": "Not now, Alex. We have enough to do without diggin' up ancient history.",
+   "ro": "Nu acum, Alex. Avem destul de lucru fără să scormonim prin vechituri."
+  },
+  {
+   "key": "3239106614455877632",
+   "en": "Let's hear it.",
+   "ro": "Hai, povestește."
+  },
+  {
+   "key": "3239107512204705792",
+   "en": "Maybe another time.",
+   "ro": "Poate altă dată."
+  },
+  {
+   "key": "3239108438458023936",
+   "en": "Think we can spare sixty seconds. Hell, might even learn somethin' about So Mi that'll prove useful.",
+   "ro": "Cred că ne permitem șaizeci de secunde. Ce naiba, poate chiar aflăm ceva despre So Mi care ne e util."
+  },
+  {
+   "key": "3239108458506797056",
+   "en": "Tale for another time, sounds like. Got a lot on our plate as it is.",
+   "ro": "Povestea asta rămâne pentru altădată, se pare. Avem destul pe cap."
+  },
+  {
+   "key": "3239111529794289664",
+   "en": "C'mon, lemme show you what we have.",
+   "ro": "Hai, lasă-mă să-ți arăt ce avem."
+  },
+  {
+   "key": "3239195679578570752",
+   "en": "We've parsed the intel from the shard So Mi gave us.",
+   "ro": "Am analizat informațiile de pe shard-ul pe care ni l-a dat So Mi."
+  },
+  {
+   "key": "3239204982981050368",
+   "en": "It's a solid foundation for the mission we wanna run.",
+   "ro": "E o bază solidă pentru misiunea pe care vrem s-o ducem la capăt."
+  },
+  {
+   "key": "3239205533407952896",
+   "en": "Surveillance, recon, data gatherin', plannin' – it's all done.",
+   "ro": "Supraveghere, recunoaștere, colectare de date, planificare – totul e gata."
+  },
+  {
+   "key": "3240538351266349056",
+   "en": "That's where you come in, V. We'll need you to breach the rental firm's trackin' system. Alex'll fill you in later.",
+   "ro": "Aici intri tu, V. O să ai nevoie să spargi sistemul de urmărire al firmei de închirieri. Alex te lămurește mai târziu."
+  },
+  {
+   "key": "3240550573401096192",
+   "en": "All clear? If you have any questions, now's the time to ask.",
+   "ro": "Totul clar? Dacă ai întrebări, acum e momentul să le pui."
+  },
+  {
+   "key": "3240550832911073280",
+   "en": "Things couldn't be clearer. Let's get to work.",
+   "ro": "Nu ar putea fi mai clar. Hai să ne apucăm de treabă."
+  },
+  {
+   "key": "3240550835947749376",
+   "en": "So, time we talked about nabbin' the 'runners?",
+   "en_m": "So, time we talked nabbin' the 'runners?",
+   "ro": "Deci, ce zici să vorbim despre prinderea runnerilor?"
+  },
+  {
+   "key": "3240561601333608448",
+   "en": "Cover that in a minute.",
+   "ro": "Revenim la asta într-un minut."
+  },
+  {
+   "key": "3243307593623425024",
+   "en": "Describe the BARGHEST rank-and-file?",
+   "ro": "Descrie soldații de rând din BARGHEST?"
+  },
+  {
+   "key": "3243308217366761472",
+   "en": "Honestly, that this one choom managed to build an army inside NC? That's just wild to me.",
+   "ro": "Serios, un singur choom a reușit să pună o armată pe picioare în NC? Nebunie curată."
+  },
+  {
+   "key": "3243309004083974144",
+   "en": "The bulk of his force are local thugs. Hansen's inner circle equipped 'em, trained 'em, albeit minimally.",
+   "ro": "Majoritatea din trupele lui sunt bătăuși locali. Cercul lui Hansen i-a echipat, i-a antrenat, minimal, ce-i drept."
+  },
+  {
+   "key": "3243311682633617408",
+   "en": "Gear's not standard issue.",
+   "ro": "Echipamentul nu e de serie."
+  },
+  {
+   "key": "3243312445812396032",
+   "en": "His gear – not exactly standard issue Militech spec ops...",
+   "ro": "Echipamentul lui – nu chiar standard pentru operațiunile speciale Militech..."
+  },
+  {
+   "key": "3243313753478942720",
+   "en": "Good eye. That's a Yakut knife. Useful for you name it – skinnnin' animals, cleanin' fish, combat... A souvenir from Siberia. Same goes for his pistol.",
+   "ro": "Ai ochi buni. E un cuțit yakut. Bun la toate – jupuit animale, curățat pește, luptă... Un suvenir din Siberia. Și pistolul lui e tot de-acolo."
+  },
+  {
+   "key": "3243319880535003136",
+   "en": "What's the stadium used for now?",
+   "ro": "La ce se folosește stadionul acum?"
+  },
+  {
+   "key": "3243320910941278208",
+   "en": "Stadium – what's it used for now?",
+   "ro": "Stadionul – la ce se folosește acum?"
+  },
+  {
+   "key": "3243321447258542080",
+   "en": "Hansen's made it a one-stop shop for the world's smugglers and warlords.",
+   "ro": "Hansen l-a transformat în magazinul universal al contrabandiștilor și al șefilor de război din lume."
+  },
+  {
+   "key": "3259212252842213376",
+   "en": "All right...",
+   "ro": "Bine..."
+  },
+  {
+   "key": "3259290382944616448",
+   "en": "They're overgrown kids. They do somethin' street-level to get noticed, they get a gun. Stayin' alive gets 'em a bulletproof vest or some other contraband toy. That's how it works.",
+   "ro": "Sunt copii mari. Fac ceva de stradă ca să-i bage cineva în seamă și primesc un pistol. Dacă rămân în viață, li se dă o vestă antiglonț sau altă jucărie de contrabandă. Așa merge."
+  },
+  {
+   "key": "3259290748134277120",
+   "en": "Goons with prototype iron that \"fell off the back of the truck\". Nova.",
+   "en_m": "Goons with prototype iron that \"fell off the back of a truck\". Nova.",
+   "ro": "Bătăuși cu arme prototip care au picat de pe camion. Mișto."
+  },
+  {
+   "key": "3259309908352483328",
+   "en": "Fightin' a war at the edge of the world and short a panzer company or two? No problem.",
+   "ro": "Ții un război la capătul lumii și-ți mai trebuie una-două companii de tancuri? Nicio problemă."
+  },
+  {
+   "key": "3259310494246420480",
+   "en": "You meet with Hansen, transfer the eds, he gives the signal. Before you know it, your new tanks are bein' delivered in international waters, droppin' out of orbit if necessary.",
+   "ro": "Te întâlnești cu Hansen, transferi eddie-urile, el dă semnalul și până clipești, tancurile noi sunt livrate în ape internaționale, chiar și din orbită dacă e nevoie."
+  },
+  {
+   "key": "3282369769965113344",
+   "en": "Gotta hand to 'im – Hansen knows what he's doin'.",
+   "ro": "Trebuie să-i dai credit – Hansen își știe meseria."
+  },
+  {
+   "key": "3286897474563035188",
+   "en": "I agree.",
+   "ro": "Sunt de acord."
+  },
+  {
+   "key": "3289594179986046976",
+   "en": "Leading a gang of wannabe-soldier thugs?",
+   "ro": "Conduce o bandă de bătăuși care vor să fie soldați?"
+  },
+  {
+   "key": "3289597329321148416",
+   "en": "Night City could be the tip of an iceberg. Stockpiles of high-demand product, massive supply chains, bought-off politicians...",
+   "ro": "Night City ar putea fi doar vârful. Stocuri de marfă la mare căutare, lanțuri de aprovizionare uriașe, politicieni cumpărați..."
+  },
+  {
+   "key": "3289598981960810496",
+   "en": "Impressive enterprise.",
+   "ro": "Treabă serioasă."
+  },
+  {
+   "key": "3289600703202508800",
+   "en": "No, Hansen is just not your average thug with a military past.",
+   "en_m": "No, Hansen is not just your average thug with a military past.",
+   "ro": "Nu, Hansen nu e doar un bătăuș obișnuit cu trecut militar."
+  },
+  {
+   "key": "3289663702739107840",
+   "en": "Globetrotter, is he?",
+   "ro": "Umblă prin lume, nu?"
+  },
+  {
+   "key": "3289666240930562048",
+   "en": "Mhm. He picked up a few things on his overseas ops. Blade fetish, knife-fightin' skills. He's known to be good.",
+   "ro": "Mhm. A prins câte ceva prin operațiunile lui de peste hotare. Are o chestie cu lamele, se pricepe la luptă cu cuțitul. Se zice că e bun."
+  },
+  {
+   "key": "3295660302962872324",
+   "en": "Right. Let's get to work.",
+   "ro": "Bine. Hai să ne apucăm de treabă."
+  },
+  {
+   "key": "3296891517934063616",
+   "en": "Story for another time, maybe.",
+   "ro": "Poveste pentru altă dată, poate."
+  },
+  {
+   "key": "3297003551568777216",
+   "en": "Are you even listenin'?",
+   "ro": "Chiar asculți?"
+  },
+  {
+   "key": "3297004331977756680",
+   "en": "You with us, V?",
+   "ro": "Ești cu noi, V?"
+  },
+  {
+   "key": "3297004544880627720",
+   "en": "Followin' along all right?",
+   "ro": "Ții pasul?"
+  },
+  {
+   "key": "3353579753921925120",
+   "en": "You've had a look at everything. Good.",
+   "ro": "Ai aruncat o privire la tot. Bine."
+  },
+  {
+   "key": "3353663271372935168",
+   "en": "V, join us.",
+   "ro": "V, hai cu noi."
+  },
+  {
+   "key": "3353663571416666112",
+   "en": "Ya gonna keep us waitin'?",
+   "ro": "Ne ții în așteptare?"
+  },
+  {
+   "key": "3480913353885532160",
+   "en": "Right, our objective – to free So Mi from under Hansen's duress. Unfortunately, this ain't a normal rescue op, because...",
+   "ro": "Bine, treaba noastră – s-o scoatem pe So Mi de sub presiunea lui Hansen. Din păcate, nu e o misiune de salvare obișnuită, pentru că..."
+  },
+  {
+   "key": "3480920171189813248",
+   "en": "...Well, she's been infected with somethin' from beyond the Blackwall. A consequence of her service to the NUS and President Myers.",
+   "ro": "...Păi, a fost infectată cu ceva de dincolo de Blackwall. Asta vine din serviciul ei pentru NUS și pentru președinta Myers."
+  },
+  {
+   "key": "3481044354716581888",
+   "en": "I'm not about to pretend I understand the tech whys and hows. The important thing is – if she doesn't get treatment, it'll kill 'er.",
+   "ro": "Nu mă dau eu expert în partea tehnică, de ce și cum. Important e că – dacă nu primește tratament, o să o omoare."
+  },
+  {
+   "key": "3481047780506648580",
+   "en": "[Take shard] Alex has it right.",
+   "ro": "[Ia shard-ul] Alex are dreptate."
+  },
+  {
+   "key": "3481047835821129728",
+   "en": "Alex nailed it. If anyone's to blame, it's Myers, not you.",
+   "ro": "Alex a nimerit-o. Dacă cineva e de vină, e Myers, nu tu."
+  },
+  {
+   "key": "3481047844142628864",
+   "en": "Stop worryin', Reed. We'll get 'er out, save 'er.",
+   "ro": "Nu-ți face griji, Reed. O scoatem de acolo, o salvăm."
+  },
+  {
+   "key": "3481055170266316800",
+   "en": "[Take shard] We'll get 'er out of this.",
+   "ro": "[Ia shard-ul] O scoatem din asta."
+  },
+  {
+   "key": "3481071947515871232",
+   "en": "It's high time we... righted some of the wrongs of the past.",
+   "ro": "E timpul să... îndreptăm câteva dintre greșelile trecutului."
+  },
+  {
+   "key": "3481072531715309568",
+   "en": "Fuck off, Reed, give it a rest, will, ya? Nothin' here's your fault.",
+   "ro": "Du-te dracu', Reed, lasă-ne, vrei? Nimic din ce e aici nu e vina ta."
+  },
+  {
+   "key": "3481072701836279808",
+   "en": "Woman's an adult, made her own decisions. Consequences caught up to 'er.",
+   "ro": "E adultă, și-a luat singură deciziile. Consecințele i-au ajuns din urmă."
+  },
+  {
+   "key": "3481072886251438080",
+   "en": "No, she was manipulated. There was no one around who could've had her back.",
+   "ro": "Nu, a fost manipulată. Nu era nimeni lângă ea care s-o fi sprijinit.",
+   "ro_m": "Nu, a fost manipulat. Nu era nimeni lângă el care să-l fi sprijinit."
+  },
+  {
+   "key": "3481073055734874112",
+   "en": "Here, V. Mission details on this.",
+   "ro": "Uite, V. Detalii despre misiune aici."
+  },
+  {
+   "key": "3481073905702191104",
+   "en": "You might be right. But so am I.",
+   "ro": "Poate ai dreptate. Dar și eu am dreptate."
+  },
+  {
+   "key": "3481074352546562048",
+   "en": "I know. And not just her – latter goes for you, too.",
+   "ro": "Știu. Și nu doar ea – la fel e și cu tine."
+  },
+  {
+   "key": "3481075701149515776",
+   "en": "The cure is an AI that \"lives\" on a neural matrix. Hansen possesses said matrix now. We aim to seize it.",
+   "ro": "Leacul e un AI care „trăiește” pe o matrice neurală. Hansen o are acum. Vrem s-o capturăm."
+  },
+  {
+   "key": "3481078872496324612",
+   "en": "What's the plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "3481078905111232512",
+   "en": "So, this neural matrix – how much do we know?",
+   "ro": "Deci, matricea asta neurală – cât știm despre ea?"
+  },
+  {
+   "key": "3481078916502962176",
+   "en": "All right – plan, lemme hear it.",
+   "ro": "Bine – hai cu planul."
+  },
+  {
+   "key": "3481079191112433664",
+   "en": "What do we know about the neural matrix?",
+   "ro": "Ce știm despre matricea neurală?"
+  },
+  {
+   "key": "3481090096084729856",
+   "en": "Experimental tech nested in a mainframe that someone dragged up from deep beneath Dogtown...",
+   "ro": "Tehnologie experimentală într-un mainframe scos de cineva din adâncurile de sub Dogtown..."
+  },
+  {
+   "key": "3481092195015114752",
+   "en": "From a bunker, to be exact. Part of Project Cynosure – a joint US-Militech operation mounted in a bid to counter Arasaka's Soulkiller.",
+   "ro": "Dintr-un buncăr, ca să fiu exact. Parte din Proiectul Cynosure – o operațiune comună SUA-Militech, menită să contracareze Soulkiller-ul Arasaka."
+  },
+  {
+   "key": "3481093418795581440",
+   "en": "The matrix itself is a functional container. It houses an AI from beyond the Blackwall, and its design lets the user deploy the AI for a specific purpose – in our case, to fix you and Songbird.",
+   "ro": "Matricea în sine e un container funcțional. Găzduiește un AI de dincolo de Blackwall, iar designul permite să-l folosești pentru un scop anume – în cazul nostru, să te repare pe tine și pe Songbird."
+  },
+  {
+   "key": "3481106761849683968",
+   "en": "Hansen'll meet with the netrunners you already know. The meeting itself is our chance to get close – to Song and the matrix.",
+   "ro": "Hansen o să se întâlnească cu netrunnerii pe care îi știi deja. Întâlnirea e șansa noastră să ne apropiem de Song și de matrice."
+  },
+  {
+   "key": "3481107512378441728",
+   "en": "Hansen hired the French duo 'cause they worked for Militech years back. They know its security protocols inside out.",
+   "ro": "Hansen i-a angajat pe duo-ul francez pentru că au lucrat pentru Militech acum câțiva ani. Le știu protocoalele de securitate pe dinafară."
+  },
+  {
+   "key": "3481108338522112000",
+   "en": "Also, they're sellin' Hansen access codes. Handy when Songbird goes to extract the matrix from the Cynosure mainframe.",
+   "ro": "Și îi vând lui Hansen coduri de acces. Bune de avut când Songbird o scoate pe matrice din mainframe-ul Cynosure."
+  },
+  {
+   "key": "3481111485609066496",
+   "en": "Runners' scans and behaviorals we have. Now we just need to take those twins outta the equation.",
+   "ro": "Scanările și comportamentele netrunnerilor le avem. Acum trebuie doar să-i scoatem pe gemeni din ecuație."
+  },
+  {
+   "key": "3481111845094473732",
+   "en": "A kidnapping, then.",
+   "ro": "Deci o răpire."
+  },
+  {
+   "key": "3481112010534600704",
+   "en": "Twins – who are they, exactly?",
+   "ro": "Gemenii – cine sunt, exact?"
+  },
+  {
+   "key": "3481113101322076160",
+   "en": "Aymeric and Aurore Cassel... we know anything more beyond what we saw firsthand?",
+   "ro": "Aymeric și Aurore Cassel... știm ceva mai mult decât ce-am văzut cu ochii noștri?"
+  },
+  {
+   "key": "3481117451335417856",
+   "en": "Yep. Songbird put together full profiles for both.",
+   "ro": "Da. Songbird a făcut profiluri complete pentru amândoi."
+  },
+  {
+   "key": "3481117884070150144",
+   "en": "Super short brief – they got their start at Militech, and dove in deep. That is, till they learned the pay's better on the dark side...",
+   "ro": "Scurt pe scurt – și-au început cariera la Militech și s-au afundat adânc. Asta până au aflat că plata e mai bună pe partea întunecată..."
+  },
+  {
+   "key": "3481118348815810560",
+   "en": "I buy that. Sure didn't hide their love of eddies.",
+   "ro": "Cumpăr asta. Sigur nu și-au ascuns dragostea pentru eddies."
+  },
+  {
+   "key": "3481118606178304000",
+   "en": "Mhm. Gonna miss that next paycheck 'cause they ran into us. We're gonna nab 'em before they reach Hansen.",
+   "ro": "Mhm. O să rateze salariul următor, pentru că au dat de noi. O să-i prindem înainte să ajungă la Hansen."
+  },
+  {
+   "key": "3481119280504946688",
+   "en": "So, we kidnap 'em. How we wanna do this?",
+   "ro": "Deci îi răpim. Cum o facem?"
+  },
+  {
+   "key": "3481123833556156416",
+   "en": "We're gonna track their ride and hijack it. Before they reach Hansen at the stadium.",
+   "ro": "Le urmărim mașina și o deturnăm. Înainte să ajungă la Hansen, la Stadion."
+  },
+  {
+   "key": "3481171304621719552",
+   "en": "Once we have the 'runners, you'll take their place. The behavioral imprints are tuned already.",
+   "ro": "Odată ce-i avem pe netrunneri, o să le iei locul. Imprinturile comportamentale sunt deja calibrate."
+  },
+  {
+   "key": "3481172118266363908",
+   "en": "The last stage – meet with Hansen?",
+   "ro": "Ultima etapă – întâlnirea cu Hansen?"
+  },
+  {
+   "key": "3481172444784541696",
+   "en": "What's your role in this?",
+   "ro": "Care e rolul tău în asta?"
+  },
+  {
+   "key": "3481183100279635968",
+   "en": "I'm drawin' up your exfil route. Once you complete the mission, you'll need to get out in a hurry.",
+   "ro": "Îți trasez ruta de extracție. Când termini misiunea, trebuie să ieși repede de acolo."
+  },
+  {
+   "key": "3481187678899322880",
+   "en": "Brings us to the final stage, right? Meeting with Hansen?",
+   "en_m": "Brings us to the final stage, right? Meetin' with Hansen.",
+   "ro": "Deci ajungem la etapa finală, nu? Întâlnirea cu Hansen."
+  },
+  {
+   "key": "3481188001290305536",
+   "en": "Right, where you'll sell 'im the access codes to the mainframe. In other words – the key to unlockin' your medicine cabinet.",
+   "ro": "Exact, unde o să-i vinzi codurile de acces la mainframe. Cu alte cuvinte – cheia ca să-ți deschizi dulapul cu medicamente."
+  },
+  {
+   "key": "3481188754922848256",
+   "en": "One of you will join So Mi in the lab to feed in the codes when needed. Hansen's likely to keep the other at his side. Collateral.",
+   "ro": "Unul dintre voi o să se alăture lui So Mi în laborator ca să introducă codurile când e nevoie. Hansen probabil îl ține pe celălalt lângă el. Colateral."
+  },
+  {
+   "key": "3481189565010722816",
+   "en": "I'll stay with Hansen, you'll join Songbird.",
+   "ro": "Eu rămân cu Hansen, tu te alături lui Songbird."
+  },
+  {
+   "key": "3481191722225156096",
+   "en": "Once the data floodgates're open, you'll signal me. Gonna disarm Hansen, take him and his guards out.",
+   "ro": "Când se deschid porțile de date, îmi dai semn. Îl dezarmez pe Hansen și îi bag pe el și pe gărzi la pământ."
+  },
+  {
+   "key": "3481192007202947072",
+   "en": "You mean to kill Hansen.",
+   "ro": "Vrei să-l omori pe Hansen."
+  },
+  {
+   "key": "3481193625197658112",
+   "en": "Hansen and his goons – aim to handle 'em on your own...?",
+   "ro": "Hansen și gărzile lui – vrei să te descurci singură cu ei...?",
+   "ro_m": "Hansen și gărzile lui – vrei să te descurci singur cu ei...?"
+  },
+  {
+   "key": "3481196182078930944",
+   "en": "Sounds like flatlinin' Hansen's set in stone...",
+   "ro": "Pare că Hansen e deja terminat..."
+  },
+  {
+   "key": "3481196632127750144",
+   "en": "Order came directly from Myers. Confirmed at this stage... He took a potentially lethal swipe at the President of the NUS.",
+   "ro": "Ordinul a venit direct de la Myers. Confirmat deocamdată... A încercat o lovitură cu potențial letal asupra Președintelui NUS."
+  },
+  {
+   "key": "3481197044360724480",
+   "en": "And... Songbird?",
+   "ro": "Și... Songbird?"
+  },
+  {
+   "key": "3481198036061962240",
+   "en": "We have to rescue her. Myers told you as much herself.",
+   "ro": "Trebuie s-o salvăm. Myers ți-a spus chiar ea."
+  },
+  {
+   "key": "3481199616341491716",
+   "en": "All clear.",
+   "ro": "Totul curat."
+  },
+  {
+   "key": "3481199823456223232",
+   "en": "Tell me again – what's first?",
+   "ro": "Zi-mi iar, ce e primul?"
+  },
+  {
+   "key": "3481199923062554624",
+   "en": "What's our overall goal again?",
+   "ro": "Care e obiectivul nostru general, iar?"
+  },
+  {
+   "key": "3481200124624027648",
+   "en": "How much does Myers know? What'd you tell 'er?",
+   "ro": "Cât știe Myers? Ce i-ai spus?"
+  },
+  {
+   "key": "3481201265256611840",
+   "en": "First step – what was it again?",
+   "ro": "Primul pas – care era, iar?"
+  },
+  {
+   "key": "3481201278493835264",
+   "en": "Main goal – wanna make sure I'm clear.",
+   "ro": "Obiectivul principal – vreau să mă asigur că am înțeles."
+  },
+  {
+   "key": "3481201310420877312",
+   "en": "How much've you told Myers? What's she know?",
+   "ro": "Cât i-ai spus lui Myers? Ce știe?"
+  },
+  {
+   "key": "3481223085468860416",
+   "en": "Securing a trace on the netrunners' car. This bit's on you. Alex will expand on that in a minute.",
+   "ro": "Securizarea unei urme pe mașina netrunnerilor. Partea asta e pe tine. Alex o să detalieze într-un minut."
+  },
+  {
+   "key": "3481223485118922752",
+   "en": "Meanwhile we'll make sure the personality data and imprints are airtight.",
+   "ro": "Între timp ne asigurăm că datele de personalitate și imprinturile sunt etanșe."
+  },
+  {
+   "key": "3481225624817942528",
+   "en": "We're springing Songbird free of Hansen's iron grip. And seizin' tech that's gonna save your lives.",
+   "ro": "O eliberăm pe Songbird din strânsoarea de fier a lui Hansen. Și punem mâna pe tehnologia care o să vă salveze viețile."
+  },
+  {
+   "key": "3481226676598390784",
+   "en": "You 'n' Alex enter the stadium as Hansen's visiting netrunners. Disguises are key to the op.",
+   "ro": "Tu și Alex intrați la Stadion ca netrunneri în vizită la Hansen. Deghizările sunt cruciale pentru operațiune."
+  },
+  {
+   "key": "3481227844863049728",
+   "en": "That So Mi's fallen into the hands of the man who organized the downing of Space Force One.",
+   "ro": "Că So Mi a căzut în mâinile omului care a organizat doborârea lui Space Force One."
+  },
+  {
+   "key": "3481228471743725568",
+   "en": "Is that all?",
+   "en_m": "'S that all?",
+   "ro": "Asta e tot?",
+   "ro_m": "Asta-i tot?"
+  },
+  {
+   "key": "3481229082350501888",
+   "en": "All for now.",
+   "ro": "Deocamdată atât."
+  },
+  {
+   "key": "3481243971928375296",
+   "en": "Think you'll be OK on your own?",
+   "ro": "Crezi că te descurci singură?",
+   "ro_m": "Crezi că te descurci singur?"
+  },
+  {
+   "key": "3515714787713503236",
+   "en": "Hansen built his own army.",
+   "ro": "Hansen și-a făcut armata lui."
+  },
+  {
+   "key": "3515743596307304448",
+   "en": "Hm, stadium.",
+   "ro": "Hm, stadion."
+  },
+  {
+   "key": "3515752895314153476",
+   "en": "The stadium.",
+   "ro": "Stadionul."
+  },
+  {
+   "key": "3556454590481518592",
+   "en": "Ah, V, you're here.",
+   "ro": "Ah, V, ai ajuns."
+  },
+  {
+   "key": "3589504037386473472",
+   "en": "So, BARGHEST – it's ex-Militech at its core?",
+   "ro": "Deci, BARGHEST – de fapt e ex-Militech?"
+  },
+  {
+   "key": "3597089498397327360",
+   "en": "Hansen's gunnin' for data from what he knows was a secret Militech-NUS research project. He has no idea the neural matrix is in there, too.",
+   "ro": "Hansen vrea date din ce crede el că a fost un proiect secret Militech-NUS. N-are habar că matricea neurală e și acolo."
+  },
+  {
+   "key": "3730529373929885696",
+   "en": "How's it goin'?",
+   "ro": "Cum merge?"
+  },
+  {
+   "key": "3730531029287456768",
+   "en": "And? How's progress?",
+   "ro": "Și? Cum merge?"
+  },
+  {
+   "key": "3730532411394510848",
+   "en": "Trust restored between you two?",
+   "ro": "Ați recăpătat încrederea, între voi doi?"
+  },
+  {
+   "key": "3730535875067531264",
+   "en": "Back on the same page, are we?",
+   "ro": "Iar suntem pe aceeași lungime de undă, nu?"
+  },
+  {
+   "key": "3730538242886356992",
+   "en": "Not exactly... Brings back a lot of memories, all this. One in particular sticks out.",
+   "ro": "Nu chiar... Mi-au revenit o grămadă de amintiri. Una anume îmi stă în cap."
+  }
+ ]
+}

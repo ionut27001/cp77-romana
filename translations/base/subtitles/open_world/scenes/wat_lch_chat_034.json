@@ -1,0 +1,52 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_034.json",
+ "entries": [
+  {
+   "key": "2156556172271054848",
+   "en": "This all you got? Pretty limited selection, if you ask me...",
+   "ro": "Asta-i tot? Alegerea e cam slabă, dacă mă întrebi..."
+  },
+  {
+   "key": "2222839145498755072",
+   "en": "Well, how about number thirty-four? It's our dish-of-the-day this week.",
+   "ro": "Păi, ce zici de numărul treizeci și patru? E specialitatea zilei săptămâna asta."
+  },
+  {
+   "key": "2222843656002945024",
+   "en": "Dish-of-the-day? Ew, I'll pass. Prolly leftovers from last week thrown into a pot.",
+   "ro": "Specialitatea zilei? Pff, pas. Probabil resturi de săptămâna trecută, aruncate-n oală."
+  },
+  {
+   "key": "2222847685504352256",
+   "en": "OK... how about number twenty-eight? It's a favorite with our regulars. Comes with sesame sauce.",
+   "ro": "OK... ce zici de numărul douăzeci și opt? E preferatul clienților fideli. Vine cu sos de susan."
+  },
+  {
+   "key": "2222848300305432576",
+   "en": "I'm allergic to sesame.",
+   "ro": "Sunt alergică la susan.",
+   "ro_m": "Sunt alergic la susan."
+  },
+  {
+   "key": "2222848953962545152",
+   "en": "OK, sir, well maybe the  chef can make you something special?",
+   "ro": "OK, doamnă, poate vă face bucătarul ceva special?",
+   "ro_m": "OK, domnule, poate vă face bucătarul ceva special?"
+  },
+  {
+   "key": "2222849676305580032",
+   "en": "A completely new, one-of-a-kind, signature dish.",
+   "ro": "Ceva complet nou, unic, specialitatea casei."
+  },
+  {
+   "key": "2222850137192480768",
+   "en": "Ooooh... really?",
+   "ro": "Ooooh... chiar?"
+  },
+  {
+   "key": "2222850960098148352",
+   "en": "No. Just pick something.",
+   "ro": "Nu. Alege ceva."
+  }
+ ]
+}

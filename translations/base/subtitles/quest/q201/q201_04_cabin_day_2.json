@@ -1,0 +1,701 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q201\\q201_04_cabin_day_2.json",
+ "entries": [
+  {
+   "key": "1721925890459000832",
+   "en": "Cognitive function test.",
+   "ro": "Test de funcție cognitivă."
+  },
+  {
+   "key": "1721925890459000844",
+   "en": "Solve the cube.",
+   "ro": "Rezolvă cubul."
+  },
+  {
+   "key": "1721925890559664128",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "1730403911457267712",
+   "en": "Please get ready. Testing will begin shortly.",
+   "ro": "Pregătește-te. Testarea începe în curând."
+  },
+  {
+   "key": "1730403911457267724",
+   "en": "Any results from the tests you already did?",
+   "ro": "Ai rezultate de la testele pe care le-ai făcut deja?"
+  },
+  {
+   "key": "1730403911457267736",
+   "en": "No. We are not done yet. Today we begin a new series of tests.",
+   "ro": "Nu. Încă nu am terminat. Azi începem o serie nouă de teste."
+  },
+  {
+   "key": "1730403911490822156",
+   "en": "The patient is ready to be examined.",
+   "ro": "Pacienta e gata de examinare.",
+   "ro_m": "Pacientul e gata de examinare."
+  },
+  {
+   "key": "1730403911541153792",
+   "en": "Let's begin.",
+   "ro": "Să începem."
+  },
+  {
+   "key": "1730403911557931020",
+   "en": "Same thing? Again?",
+   "ro": "La fel? Iar?"
+  },
+  {
+   "key": "1730403911557931036",
+   "en": "Why can't I solve the goddamn cube?",
+   "ro": "De ce nu pot rezolva nenorocitul de cub?"
+  },
+  {
+   "key": "1730403911591485440",
+   "en": "Let's start this thing.",
+   "ro": "Hai să începem odată."
+  },
+  {
+   "key": "1730403911591485464",
+   "en": "Device calibration.",
+   "ro": "Calibrarea aparatului."
+  },
+  {
+   "key": "1730403911591485476",
+   "en": "Please respond to each keyword with your initial association.",
+   "ro": "Te rog, răspunde la fiecare cuvânt-cheie cu prima asociere care-ți vine."
+  },
+  {
+   "key": "1730403911591485488",
+   "en": "As quick as I can, no thinking, got it.",
+   "ro": "Cât mai repede, fără să mă gândesc. Am înțeles."
+  },
+  {
+   "key": "1730403911591485500",
+   "en": "Illness.",
+   "ro": "Boală."
+  },
+  {
+   "key": "1730403911625039888",
+   "en": "\"A shadow gradually covers the ground.\"",
+   "ro": "„O umbră acoperă treptat pământul.”"
+  },
+  {
+   "key": "1730403911625039904",
+   "en": "That's enough.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "1730403911658594328",
+   "en": "Measurements complete. We will now move on to the motor function test.",
+   "ro": "Gata cu măsurătorile. Trecem la testul de funcție motorie."
+  },
+  {
+   "key": "1730403911692148736",
+   "en": "Cognitive function test.",
+   "ro": "Test de funcție cognitivă."
+  },
+  {
+   "key": "1730403911692148748",
+   "en": "Solve the cube.",
+   "ro": "Rezolvă cubul."
+  },
+  {
+   "key": "1730403911742480384",
+   "en": "What about results for the tests you already did?",
+   "ro": "Și rezultatele de la testele de până acum?"
+  },
+  {
+   "key": "1730403911759257600",
+   "en": "Fine. Hit me. Let's get this done.",
+   "ro": "Bine. Dă-mi. Să terminăm odată."
+  },
+  {
+   "key": "1730403912111579136",
+   "en": "The hell is this?",
+   "ro": "Ce căcat e asta?"
+  },
+  {
+   "key": "1730403912128356352",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "1730403912212242432",
+   "en": "Same thing? Again?",
+   "ro": "La fel? Iar?"
+  },
+  {
+   "key": "1730403912279351304",
+   "en": "We need very precise data.",
+   "ro": "Ne trebuie date foarte precise."
+  },
+  {
+   "key": "1730403912312905728",
+   "en": "Why can't I solve the fucking cube?",
+   "ro": "De ce nu pot rezolva cubul ăsta de căcat?"
+  },
+  {
+   "key": "1730403912312905740",
+   "en": "That is what I am trying to determine.",
+   "ro": "Asta încerc să aflu."
+  },
+  {
+   "key": "1730403912346460160",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1730403912346460176",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912346460192",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1730403912346460208",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1730403912346460224",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403912363237380",
+   "en": "Dunno.",
+   "ro": "Nu știu."
+  },
+  {
+   "key": "1730403912380014592",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1730403912413569024",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1730403912430346240",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912463900672",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1730403912480677888",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1730403912514232320",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403912547786752",
+   "en": "Dunno. Nothin'.",
+   "ro": "Habar n-am. Nimic."
+  },
+  {
+   "key": "1730403912581341184",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1730403912581341200",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912581341216",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1730403912581341232",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403912598118408",
+   "en": "Nothing.",
+   "ro": "Nimic."
+  },
+  {
+   "key": "1730403912598118424",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1730403912631672832",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1730403912648450048",
+   "en": "I. Me.",
+   "ro": "Eu. Eu."
+  },
+  {
+   "key": "1730403912732336128",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912765890560",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1730403912782667776",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403912816222208",
+   "en": "No association.",
+   "ro": "Nicio asociere."
+  },
+  {
+   "key": "1730403912849776640",
+   "en": "Uh, drawin' a blank.",
+   "ro": "Ăă, n-am nimic în cap."
+  },
+  {
+   "key": "1730403912883331072",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912883331088",
+   "en": "Emptiness.",
+   "ro": "Goliciune."
+  },
+  {
+   "key": "1730403912883331104",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403912900108296",
+   "en": "Transformation.",
+   "ro": "Transformare."
+  },
+  {
+   "key": "1730403912900108312",
+   "en": "Solitude.",
+   "ro": "Singurătate."
+  },
+  {
+   "key": "1730403912900108328",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1730403912933662720",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1730403912983994368",
+   "en": "The present.",
+   "ro": "Prezentul."
+  },
+  {
+   "key": "1730403913017548800",
+   "en": "Emptiness.",
+   "ro": "Goliciune."
+  },
+  {
+   "key": "1730403913051103232",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403913084657664",
+   "en": "Transformation.",
+   "ro": "Transformare."
+  },
+  {
+   "key": "1730403913118212096",
+   "en": "Solitude.",
+   "ro": "Singurătate."
+  },
+  {
+   "key": "1730403913151766528",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1730403913185320960",
+   "en": "Hell.",
+   "ro": "Iadul."
+  },
+  {
+   "key": "1730403913185320976",
+   "en": "A void.",
+   "ro": "Un vid."
+  },
+  {
+   "key": "1730403913185320992",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1730403913185321008",
+   "en": "Solitude.",
+   "ro": "Singurătate."
+  },
+  {
+   "key": "1730403913202098184",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403913202098200",
+   "en": "No notion.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1730403913235652608",
+   "en": "Hell.",
+   "ro": "Iadul."
+  },
+  {
+   "key": "1730403913269207040",
+   "en": "A void.",
+   "ro": "Un vid."
+  },
+  {
+   "key": "1730403913285984256",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1730403913319538688",
+   "en": "Solitude.",
+   "ro": "Singurătate."
+  },
+  {
+   "key": "1730403913353093120",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403913369870336",
+   "en": "Nothing. I dunno.",
+   "ro": "Nimic. Nu știu."
+  },
+  {
+   "key": "1730403913403424768",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1730403913403424784",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1730403913403424800",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1730403913420201984",
+   "en": "No association.",
+   "ro": "Nicio asociere."
+  },
+  {
+   "key": "1730403913420202000",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1730403913420202016",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403913470533632",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "1730403913504088064",
+   "en": "You're in a cornfield. Tall green plants as far as the eye can see.",
+   "ro": "Ești într-un lan de porumb. Plante verzi înalte cât vezi cu ochii."
+  },
+  {
+   "key": "1730403913504088076",
+   "en": "The sun is in your eyes, bright, blinding. The stalks of corn part as you walk forward.",
+   "ro": "Soarele îți bate în ochi, strălucitor, orbitor. Firele de porumb se despart pe măsură ce mergi înainte."
+  },
+  {
+   "key": "1730403913504088088",
+   "en": "You come across a clearing left by an automated combine in its wake.",
+   "ro": "Dai peste o poiană lăsată în urma unei combine automate."
+  },
+  {
+   "key": "1730403913554419712",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1730403913587974144",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1730403913638305792",
+   "en": "Nothing comes to mind.",
+   "ro": "Nu-mi vine nimic în minte."
+  },
+  {
+   "key": "1730403913671860224",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1730403913705414656",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1730403913738969088",
+   "en": "The future.",
+   "ro": "Viitorul."
+  },
+  {
+   "key": "1730403913806077952",
+   "en": "\"The heat's made your mouth dry and sticky. You spot a rodents' nest at your feet.\"",
+   "ro": "„Căldura ți-a uscat gura și ți-a făcut-o lipicioasă. Zărești un cuib de rozătoare la picioarele tale.”"
+  },
+  {
+   "key": "1730403913839632388",
+   "en": "The machine has torn through the soft soil. You spot blind, newborn field mice around their mother. The machine has left her sliced in two.",
+   "ro": "Utilajul a brăzdat pământul moale. Vezi pui de șoarece de câmp, orbi, nou-născuți, lângă mama lor. Utilajul a tăiat-o în două."
+  },
+  {
+   "key": "1730403913839632400",
+   "en": "They lie in perfect symmetry, a tiny rodent rosette. Your mouth begins to water.",
+   "ro": "Sunt aranjați perfect simetric, ca o rozetă minusculă. Ți se face gura apă."
+  },
+  {
+   "key": "1730403913856409600",
+   "en": "\"A shadow gradually covers the ground. The first raincloud of the year.\"",
+   "ro": "„O umbră acoperă treptat pământul. Primul nor de ploaie al anului.”"
+  },
+  {
+   "key": "1730403913889964032",
+   "en": "Right. Enough.",
+   "ro": "Bine. Destul."
+  },
+  {
+   "key": "1730403914309394432",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1730403914359726080",
+   "en": "Higher-order representation formation – initiating test.",
+   "ro": "Formarea reprezentărilor de ordin superior – inițiere test."
+  },
+  {
+   "key": "1730403914997260288",
+   "en": "Next test. Please connect your personal link.",
+   "ro": "Următorul test. Te rog, conectează-ți legătura personală."
+  },
+  {
+   "key": "1730403915953561600",
+   "en": "Please step onto the treadmill.",
+   "ro": "Te rog, urcă pe banda de alergare."
+  },
+  {
+   "key": "1730403916071002112",
+   "en": "Personal link.",
+   "ro": "Legătură personală."
+  },
+  {
+   "key": "1730403916138110976",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1730403916188442624",
+   "en": "Really aced it last time, didn't I?",
+   "ro": "Data trecută mi-a ieșit de minune, nu?"
+  },
+  {
+   "key": "1730403916272328704",
+   "en": "Slow walk.",
+   "ro": "Mergi încet."
+  },
+  {
+   "key": "1730403916322660352",
+   "en": "Nope. Not doing it.",
+   "ro": "Nu. Nu fac."
+  },
+  {
+   "key": "1730403916372992000",
+   "en": "Not bad so far, huh?",
+   "ro": "Nu-i rău până acum, nu?"
+  },
+  {
+   "key": "1730403916406546432",
+   "en": "No. No point to this.",
+   "ro": "Nu. N-are rost."
+  },
+  {
+   "key": "1730403916607873024",
+   "en": "The tests are necessary, they must be performed.",
+   "ro": "Testele-s necesare, trebuie făcute."
+  },
+  {
+   "key": "1730403916658204672",
+   "en": "Try a little faster.",
+   "ro": "Încearcă puțin mai repede."
+  },
+  {
+   "key": "1730403916658204680",
+   "en": "Accelerate by three.",
+   "ro": "Accelerează cu trei."
+  },
+  {
+   "key": "1730403916859531264",
+   "en": "I... I can't. Gotta stop.",
+   "ro": "Eu... nu mai pot. Trebuie să mă opresc."
+  },
+  {
+   "key": "1730403916976971776",
+   "en": "[Disconnect and stand]",
+   "ro": "[Deconectează-te și ridică-te]"
+  },
+  {
+   "key": "1731534439074394112",
+   "en": "Stop treadmill.",
+   "ro": "Oprește banda de alergat."
+  },
+  {
+   "key": "1731538952665591824",
+   "en": "Communications have been unlocked. You may now phone home. Earth.",
+   "ro": "Comunicațiile au fost deblocate. Acum poți suna acasă. Pe Pământ."
+  },
+  {
+   "key": "1731538952665591840",
+   "en": "Testing concluded for today.",
+   "ro": "Testele s-au terminat pentru azi."
+  },
+  {
+   "key": "1731638061099724800",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1731879734913556480",
+   "en": "The heat has made your mouth dry and sticky. You spot a rodents' nest at your feet.",
+   "ro": "Căldura ți-a uscat gura și ți-a lăsat-o lipicioasă. Vezi un cuib de rozătoare chiar lângă picioare."
+  },
+  {
+   "key": "1731880946547318784",
+   "en": "\"The heat's made your mouth dry...\"",
+   "ro": "„Căldura ți-a uscat gura...”"
+  },
+  {
+   "key": "1731909262394286080",
+   "en": "A shadow gradually falls over the ground. The first raincloud of the year.",
+   "ro": "O umbră cade treptat peste pământ. Primul nor de ploaie al anului."
+  },
+  {
+   "key": "1737610241595105280",
+   "en": "Hm.",
+   "ro": "Hm."
+  },
+  {
+   "key": "1741588737833644032",
+   "en": "Motor function test.",
+   "ro": "Test de funcție motorie."
+  },
+  {
+   "key": "1741754627824889856",
+   "en": "[Lie down]",
+   "ro": "[Culcă-te]"
+  },
+  {
+   "key": "1743185584847138816",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1783739860895371264",
+   "en": "I know my limits.",
+   "ro": "Îmi cunosc limitele."
+  },
+  {
+   "key": "1783740341696827392",
+   "en": "Look, I know my body. Won't last long on this thing.",
+   "ro": "Uite, îmi cunosc corpul. Nu rezist mult pe chestia asta."
+  },
+  {
+   "key": "1857574168197554176",
+   "en": "Startin' to get sick of this.",
+   "ro": "Mă satur de asta, pe bune."
+  },
+  {
+   "key": "1857574519680229376",
+   "en": "The tests may be tiresome, but they are essential to ensuring the patient's health and safety.",
+   "ro": "Testele pot fi obositoare, dar sunt esențiale pentru sănătatea și siguranța pacientului."
+  },
+  {
+   "key": "1862225560516190208",
+   "en": "This is startin' to get old.",
+   "ro": "Asta începe să mă enerveze."
+  },
+  {
+   "key": "1955178222206869504",
+   "en": "The tests are necessary, they must be performed.",
+   "ro": "Testele-s necesare, trebuie făcute."
+  },
+  {
+   "key": "2048954274446389248",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2048955946480513024",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2048955983776264192",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2048995014794883072",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2048995084336443392",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2048995134215106560",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  }
+ ]
+}

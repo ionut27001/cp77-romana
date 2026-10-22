@@ -1,0 +1,430 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq301\\mq301_chicken_test.json",
+ "entries": [
+  {
+   "key": "2955781978357927936",
+   "en": "Fireplace.",
+   "ro": "Șemineu."
+  },
+  {
+   "key": "2955782420135579648",
+   "en": "Initiation.",
+   "ro": "Inițiere."
+  },
+  {
+   "key": "2955782619146915840",
+   "en": "Delivery.",
+   "ro": "Livrare."
+  },
+  {
+   "key": "3227454173383245828",
+   "en": "Immortal.",
+   "ro": "Nemuritor."
+  },
+  {
+   "key": "3227459746069757952",
+   "en": "Invulnerable.",
+   "ro": "Invulnerabil."
+  },
+  {
+   "key": "3227461540812439552",
+   "en": "Mortal.",
+   "ro": "Muritor."
+  },
+  {
+   "key": "3361351316336447488",
+   "en": "Framing Jurij.",
+   "ro": "Înscenarea lui Jurij."
+  },
+  {
+   "key": "3361351443541299200",
+   "en": "Driving Paco.",
+   "ro": "Conducându-l pe Paco."
+  },
+  {
+   "key": "3361351531990781952",
+   "en": "Using contacts.",
+   "ro": "Folosind contactele."
+  },
+  {
+   "key": "3396225144707256324",
+   "en": "[db_db]Yes (Rogue will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Rogue o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3396228351655317504",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3396228718606585856",
+   "en": "[db_db]Yes (River will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (River o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3396228718623363076",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3396229762736623616",
+   "en": "[db_db]Yes (Panam will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Panam o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3396229762736623628",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400505340134330368",
+   "en": "[db_db]Yes (Rogue will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Rogue o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400505340134330380",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400507381099433984",
+   "en": "[db_db]Yes (River will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (River o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400507381099433996",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400508472306339840",
+   "en": "[db_db]Yes (Panam will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Panam o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400508472306339852",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400510815982751744",
+   "en": "[db_db]Yes (Rogue will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Rogue o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400510815982751756",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400510816033083392",
+   "en": "[db_db]Yes (River will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (River o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400510816033083404",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400510816066637824",
+   "en": "[db_db]Yes (Panam will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Panam o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400510816066637836",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400510816100192256",
+   "en": "[db_db]Yes (Rogue will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Rogue o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400510816116969472",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400510816234409984",
+   "en": "[db_db]Yes (River will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (River o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400510816234409996",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400510816267964416",
+   "en": "[db_db]Yes (Panam will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Panam o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400510816267964428",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400511083126362112",
+   "en": "[db_db]Yes (Rogue will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Rogue o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511083126362124",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511083159916544",
+   "en": "[db_db]Yes (River will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (River o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511083176693764",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511083210248192",
+   "en": "[db_db]Yes (Panam will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Panam o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511083210248204",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511083243802624",
+   "en": "[db_db]Yes (Rogue will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Rogue o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511083243802636",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511083361243136",
+   "en": "[db_db]Yes (River will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (River o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511083378020360",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400511083411574784",
+   "en": "[db_db]Yes (Panam will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Panam o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511083411574796",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400511112503267328",
+   "en": "[db_db]Yes (Rogue will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Rogue o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511112503267340",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511112553598976",
+   "en": "[db_db]Yes (River will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (River o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511112553598988",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511112603930624",
+   "en": "[db_db]Yes (Panam will be a Contact to use in MQ301).",
+   "ro": "[db_db]Da (Panam o să fie un contact de folosit în MQ301)."
+  },
+  {
+   "key": "3400511112603930636",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511112654262272",
+   "en": "[db_db]Yes (Rogue will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Rogue o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511112654262284",
+   "en": "[db_db]No, didn't play that yet.",
+   "ro": "[db_db]Nu, nu am jucat încă."
+  },
+  {
+   "key": "3400511112771702784",
+   "en": "[db_db]Yes (River will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (River o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511112771702796",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3400511112822034432",
+   "en": "[db_db]Yes (Panam will have a variant of messages in MQ301).",
+   "ro": "[db_db]Da (Panam o să aibă o variantă de mesaje în MQ301)."
+  },
+  {
+   "key": "3400511112822034444",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3401884059079970816",
+   "en": "[db_db]Yes (variant conversation with Paco in Run path will be played).",
+   "ro": "[db_db]Da (o să fie jucată varianta de conversație cu Paco pe traseul Run)."
+  },
+  {
+   "key": "3401884059096748040",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3401886162389209088",
+   "en": "[db_db]Yes (variant conversation with Paco in Run path will be played).",
+   "ro": "[db_db]Da (o să fie jucată varianta de conversație cu Paco pe traseul Run)."
+  },
+  {
+   "key": "3401886162389209100",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3401887026399055872",
+   "en": "[db_db]Yes (variant conversation with Paco in Run path will be played).",
+   "ro": "[db_db]Da (o să fie jucată varianta de conversație cu Paco pe traseul Run)."
+  },
+  {
+   "key": "3401887026399055884",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3401887059836047360",
+   "en": "[db_db]Yes (variant conversation with Paco in Run path will be played).",
+   "ro": "[db_db]Da (o să fie jucată varianta de conversație cu Paco pe traseul Run)."
+  },
+  {
+   "key": "3401887059836047372",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "3507151136595132416",
+   "en": "Back ->",
+   "ro": "ÎNAPOI ->"
+  },
+  {
+   "key": "3508655611262087172",
+   "en": "[db_db]Tank",
+   "ro": "[db_db]Tank"
+  },
+  {
+   "key": "3508656301845852160",
+   "en": "[db_db]MidArmor",
+   "ro": "[db_db]MidArmor"
+  },
+  {
+   "key": "3508656609976201216",
+   "en": "[db_db]GlassCanon",
+   "ro": "[db_db]GlassCanon"
+  },
+  {
+   "key": "3508662555066576900",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508663549838045184",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508663717643759616",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508663858756923392",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508668143322345472",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508668294971600896",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508668583170617344",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508669604903071748",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508670113571483648",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508670251832520704",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508670388164177920",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3511629845460959232",
+   "en": "Back ->",
+   "ro": "ÎNAPOI ->"
+  },
+  {
+   "key": "3528966562303983616",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3528968566929637376",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3528969128563720192",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3528969605707743232",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_prnd_f_03_car_30.json",
+ "entries": [
+  {
+   "key": "1957769160409784324",
+   "en": "Password.",
+   "ro": "Parolă."
+  },
+  {
+   "key": "1957769160443338756",
+   "en": "Don't trust anyone.",
+   "ro": "Nu avea încredere în nimeni."
+  },
+  {
+   "key": "1957769160493670400",
+   "en": "You'll never get me!",
+   "ro": "Nu mă vei prinde niciodată!"
+  },
+  {
+   "key": "1957769160510447620",
+   "en": "Don't even try!",
+   "ro": "Nici nu încerca!"
+  },
+  {
+   "key": "1957769160544002052",
+   "en": "<mothertongue l=\"creo\" m=\"Ou poukont ou?\" b=\"\" a=\" Are you alone?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Ou poukont ou?\" b=\"\" a=\" Ești singură?\"/>",
+   "ro_m": "<mothertongue l=\"creo\" m=\"Ou poukont ou?\" b=\"\" a=\" Ești singur?\"/>"
+  },
+  {
+   "key": "1957769160594333700",
+   "en": "It's started… You still asking…? They've taken her… How else can I explain it?",
+   "ro": "A început… Încă întrebi…? Au luat-o… Cum altfel să-ți explic?"
+  },
+  {
+   "key": "1957769160611110916",
+   "en": "One day she's acting normal… The next… You saw it yourself… Are you fuckin' crazy…? We can't… They're in it too.",
+   "ro": "Ieri se purta normal… A doua zi… Ai văzut-o și tu… Ești nebună de-a binelea?… Nu putem… Sunt și ei implicați.",
+   "ro_m": "Ieri se purta normal… A doua zi… Ai văzut-o și tu… Ești nebun de-a binelea?… Nu putem… Sunt și ei implicați."
+  },
+  {
+   "key": "1957769160644665348",
+   "en": "Watch yourself.",
+   "ro": "Ai grijă la tine."
+  },
+  {
+   "key": "1957769160795660292",
+   "en": "They have her!",
+   "en_m": "They have him!",
+   "ro": "O au!",
+   "ro_m": "Îl au!"
+  },
+  {
+   "key": "1957769160829214720",
+   "en": "Don't approach her!",
+   "en_m": "Don't approach him!",
+   "ro": "Nu te apropia de ea!",
+   "ro_m": "Nu te apropia de el!"
+  },
+  {
+   "key": "1957769160896323588",
+   "en": "You can overcome this!",
+   "ro": "Poți depăși asta!"
+  },
+  {
+   "key": "1957769160913100804",
+   "en": "They are your enemies, not me!",
+   "ro": "Ei sunt dușmanii tăi, nu eu!"
+  },
+  {
+   "key": "1957769160996986884",
+   "en": "Know the password? No? Then scram.",
+   "ro": "Știi parola? Nu? Atunci valea!"
+  },
+  {
+   "key": "1957769161013764100",
+   "en": "Tell them they'll never get me.",
+   "ro": "Spune-le că nu mă vor prinde niciodată."
+  }
+ ]
+}

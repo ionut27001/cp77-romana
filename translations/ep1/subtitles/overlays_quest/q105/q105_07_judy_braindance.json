@@ -1,0 +1,466 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\overlays_quest\\q105\\q105_07_judy_braindance.json",
+ "entries": [
+  {
+   "key": "1400612802859524096",
+   "en": "Never did tell me why you're looking for her.",
+   "ro": "Nu mi-ai zis niciodată de ce o cauți."
+  },
+  {
+   "key": "1520059669000732672",
+   "en": "Preem tech. Guessin' nothing here's factory-made?",
+   "ro": "Tech beton. Pun pariu că nimic de-aici nu-i de fabrică?"
+  },
+  {
+   "key": "1520060137068281856",
+   "en": "Still can't shake it... that virtu sample we saw, with the Death's Head moth…",
+   "ro": "Tot nu-mi scot din cap... mostra aia de virtu pe care am văzut-o, cu molia cap-de-mort…"
+  },
+  {
+   "key": "1520060529571250176",
+   "en": "Sweetly customized.",
+   "ro": "Personalizat cu gust."
+  },
+  {
+   "key": "1520063162302316544",
+   "en": "Mhm, good eye, V. Thing looked totally different when I bought it.",
+   "ro": "Mhm, ochi bun, V. Arăta complet altfel când l-am cumpărat."
+  },
+  {
+   "key": "1520064809959145472",
+   "en": "Stop it. They'd have to be utter gonks to waste her on something like that.",
+   "ro": "Gata. Trebuie să fie niște fraieri ca s-o irosească pe așa ceva."
+  },
+  {
+   "key": "1520065289133211648",
+   "en": "Aaaand here we are.",
+   "ro": "Și-am ajuns!"
+  },
+  {
+   "key": "1520129647557197824",
+   "en": "We need to get to level minus 2.",
+   "ro": "Trebuie să ajungem la minus 2."
+  },
+  {
+   "key": "1635918572900302852",
+   "en": "Gotta find out who hired her.",
+   "ro": "Trebuie să aflăm cine a angajat-o."
+  },
+  {
+   "key": "1635969745472700416",
+   "en": "Try to find a way to the lower levels.",
+   "ro": "Caută o cale spre etajele de jos."
+  },
+  {
+   "key": "1636213558082519040",
+   "en": "Found a way down. You see my position?",
+   "ro": "Am găsit o cale în jos. Îmi vezi poziția?"
+  },
+  {
+   "key": "1636214390567976960",
+   "en": "Yep. Be there in a sec. Wait for me.",
+   "ro": "Da. Ajung într-o sec. Așteaptă-mă."
+  },
+  {
+   "key": "1636217200382558208",
+   "en": "I'm here.",
+   "ro": "Sunt aici."
+  },
+  {
+   "key": "1636218906742865920",
+   "en": "V, hold up. I'm close.",
+   "ro": "V, stai. Sunt aproape."
+  },
+  {
+   "key": "1636310009240338432",
+   "en": "Ugh... looks like snuffs're are only the tip of the iceberg.",
+   "ro": "Ugh... se pare că snuff-urile sunt doar vârful aisbergului."
+  },
+  {
+   "key": "1638704097042350080",
+   "en": "I see a way down.",
+   "ro": "Văd o cale în jos."
+  },
+  {
+   "key": "1638704398243708928",
+   "en": "Show's about to start. Find cover.",
+   "ro": "Începe showul. Adăpostește-te!"
+  },
+  {
+   "key": "1638704430724399104",
+   "en": "Now! Take 'em out!",
+   "ro": "Acum! Dă-le jos!"
+  },
+  {
+   "key": "1638704529928077312",
+   "en": "Beautiful.",
+   "ro": "Frumos."
+  },
+  {
+   "key": "1638823327079317504",
+   "en": "I'll distract 'em – you take 'em down.",
+   "ro": "Eu îi distrag – tu îi dai jos."
+  },
+  {
+   "key": "1639104496509370368",
+   "en": "Think that's a maintenance room. See what I can stir up.",
+   "ro": "Cred că e o cameră de întreținere. Să vedem ce pot să stârnesc."
+  },
+  {
+   "key": "1639105311563300864",
+   "en": "Where are you?",
+   "ro": "Unde ești?"
+  },
+  {
+   "key": "1639105445093163008",
+   "en": "You really don't fuck around, do you.",
+   "ro": "Chiar nu te joci, frate, nu?"
+  },
+  {
+   "key": "1639105480258207744",
+   "en": "You don't waste an ounce of lead. I'm impressed.",
+   "ro": "Nu irosești niciun glonț. Sunt impresionată.",
+   "ro_m": "Nu irosești niciun glonț. Sunt impresionat."
+  },
+  {
+   "key": "1639105530455638016",
+   "en": "Wait one sec for me.",
+   "ro": "Mai stai o secundă."
+  },
+  {
+   "key": "1639109960647294976",
+   "en": "Let's find her. Hang in there, Ev.",
+   "ro": "Să o găsim. Ține-te bine, Ev."
+  },
+  {
+   "key": "1639109960865398784",
+   "en": "All right, I'm here.",
+   "ro": "Bine, sunt aici."
+  },
+  {
+   "key": "1639123593007710208",
+   "en": "Freed up the elevator. Should be easier to get out of here.",
+   "ro": "Am deschis liftul. Ar trebui să ieșim mai ușor de aici."
+  },
+  {
+   "key": "1651898424396308496",
+   "en": "It's not gonna be pretty in there.",
+   "ro": "Nu o să arate bine înăuntru."
+  },
+  {
+   "key": "1651898424396308504",
+   "en": "So?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1651898424396308512",
+   "en": "If you mean to tell me to hang back altogether, don't bother.",
+   "ro": "Dacă vrei să-mi spui să stau deoparte, nu te obosi."
+  },
+  {
+   "key": "1662047475435528192",
+   "en": "Full custom, by the look of things.",
+   "ro": "Custom din cap până-n picioare, se vede."
+  },
+  {
+   "key": "1662049256420892672",
+   "en": "Display went dark after two months, so I swapped it out for my own...",
+   "ro": "Afișajul s-a stins după două luni, așa că l-am înlocuit cu al meu..."
+  },
+  {
+   "key": "1662049429226217472",
+   "en": "Then you just went with it? Processor, subassemblies... gutted it like a fish?",
+   "ro": "Și tu ai rămas cu el așa? Procesor, subansambluri... l-ai despicat ca pe un pește?"
+  },
+  {
+   "key": "1662049567252373504",
+   "en": "Mh, that's one way to put it. Final flourish was the casing. Now it finally runs how it should.",
+   "ro": "Mh, așa s-ar putea zice. Ultima chestie a fost carcasa. Acum merge cum trebuie."
+  },
+  {
+   "key": "1662081165511319552",
+   "en": "If all they scroll is snuff, then...",
+   "ro": "Dacă tot ce derulează e snuff, atunci..."
+  },
+  {
+   "key": "1662086647332429824",
+   "en": "What do you mean?",
+   "ro": "Ce vrei să spui?"
+  },
+  {
+   "key": "1662086943970385920",
+   "en": "We're talkin' about a girl who's not only a natural at what she does, but also's got a doll's implant.",
+   "ro": "Vorbim de-o fată care nu doar că-i nativă în meseria asta, dar are și un implant de păpușă."
+  },
+  {
+   "key": "1662087711293136896",
+   "en": "I mean, that's not a package you find lying out in the street.",
+   "ro": "Adică, nu-i un pachet pe care îl găsești pe stradă."
+  },
+  {
+   "key": "1662242471514169344",
+   "en": "How do I know you won't be any worse than whatever's going on in there...?",
+   "ro": "De unde să știu că n-o să fii și mai rău decât ce e acolo...?"
+  },
+  {
+   "key": "1662248938392739840",
+   "en": "Wait...",
+   "ro": "Stai..."
+  },
+  {
+   "key": "1662256483442319360",
+   "en": "This is not the time to discuss this.",
+   "ro": "Nu-i momentul să discutăm despre asta."
+  },
+  {
+   "key": "1662257176307785728",
+   "en": "Doubt it's the best time to discuss this…",
+   "ro": "Nu cred că e momentul potrivit să discutăm asta…"
+  },
+  {
+   "key": "1662257832095604736",
+   "en": "Right about that. Should've just told me when I asked you the first time.",
+   "ro": "Pe bune. Trebuia să-mi spui când te-am întrebat prima oară."
+  },
+  {
+   "key": "1662258214934896640",
+   "en": "I need to know your intentions are good. Simple.",
+   "ro": "Trebuie să știu că intențiile tale sunt bune. Simplu."
+  },
+  {
+   "key": "1662259233563566080",
+   "en": "Gotta find out who hired her. Whoever they are, I need their help… and quick.",
+   "ro": "Trebuie să aflu cine a angajat-o. Cine-o fi, îmi trebuie ajutor… și repede."
+  },
+  {
+   "key": "1662264138852425728",
+   "en": "Otherwise, I'm screwed.",
+   "ro": "Altfel, am belit-o."
+  },
+  {
+   "key": "1662268289753767936",
+   "en": "Figures. Wouldn't expect anything less from a merc.",
+   "ro": "Normal. De la un merc nu te așteptai la altceva."
+  },
+  {
+   "key": "1673622752724738048",
+   "en": "Bet that's where they're keepin' her.",
+   "ro": "Pariez că acolo o țin."
+  },
+  {
+   "key": "1679647970429722624",
+   "en": "Great, I'm glad. Now can we go?",
+   "ro": "Perfect. Acum plecăm?"
+  },
+  {
+   "key": "1679658108783910912",
+   "en": "Careful, two live ones there.",
+   "ro": "Atenție, mai sunt doi vii acolo."
+  },
+  {
+   "key": "1679676518792126464",
+   "en": "Close to the studio, I think. You find anything useful?",
+   "ro": "Aproape de studio, cred. Ai găsit ceva util?"
+  },
+  {
+   "key": "1704198898927230976",
+   "en": "They wouldn't just off her like that. Not yet...",
+   "ro": "N-ar omorî-o pur și simplu așa. Nu încă..."
+  },
+  {
+   "key": "1731271302933626880",
+   "en": "Need to get into the hallway past this room.",
+   "ro": "Trebuie să trecem în hol, dincolo de camera asta."
+  },
+  {
+   "key": "1731297934801092608",
+   "en": "What about them...?",
+   "ro": "Dar ei...?"
+  },
+  {
+   "key": "1731353608465661952",
+   "en": "Take 'em out quick.",
+   "ro": "Scapă de ei, repede."
+  },
+  {
+   "key": "1731355214514995200",
+   "en": "Eat it, assholes. Looks like you got 'em all.",
+   "ro": "Na, jigodiilor! Parcă i-ați luat pe toți."
+  },
+  {
+   "key": "1731355512058920960",
+   "en": "Think there's a way through here.",
+   "ro": "Cred că-i o cale pe aici."
+  },
+  {
+   "key": "1731357975524655104",
+   "en": "If I didn't know you, I'd say you were all over the damn place.",
+   "ro": "Dacă nu te cunoșteam, aș zice că erai peste tot în locul ăsta afurisit."
+  },
+  {
+   "key": "1731359502184202240",
+   "en": "All right. On my way.",
+   "ro": "Bine. Sunt pe drum."
+  },
+  {
+   "key": "1731361560731828224",
+   "en": "Building's a monster…",
+   "ro": "Clădirea e un monstru…"
+  },
+  {
+   "key": "1731364905605382144",
+   "en": "All clear. Hallway on your left.",
+   "ro": "Liber. Holul e pe stânga."
+  },
+  {
+   "key": "1732941372546072576",
+   "en": "Clear. Keep going.",
+   "ro": "Curat. Continuă."
+  },
+  {
+   "key": "1732942469423677440",
+   "en": "They're on us!",
+   "ro": "Ne-au găsit!"
+  },
+  {
+   "key": "1756365985917132800",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1756370061539106816",
+   "en": "I can always just get rid of 'em my way.",
+   "ro": "Pot să-i scot din horă cum știu eu, oricând."
+  },
+  {
+   "key": "1756379890001338368",
+   "en": "Your call, but you gotta make it now.",
+   "ro": "E decizia ta, dar trebuie s-o iei acum."
+  },
+  {
+   "key": "1757483108672430080",
+   "en": "Get moving, V!",
+   "ro": "Mișcă-te, V!"
+  },
+  {
+   "key": "1770597980540985344",
+   "en": "What're you thinking?",
+   "ro": "Ce ai în cap?"
+  },
+  {
+   "key": "1770598076741541888",
+   "en": "Screw with those pipes, get some smoke going.",
+   "ro": "Bagă mâna în țevile alea, fă niște fum."
+  },
+  {
+   "key": "1822626143928016896",
+   "en": "Now delta to the hallway.",
+   "ro": "Acum s-o tăiem spre hol."
+  },
+  {
+   "key": "1822633245337673728",
+   "en": "But I gotta admit, never seen anyone adapt their tactics that quickly.",
+   "ro": "Recunosc, n-am mai văzut pe nimeni să-și schimbe tactica așa de repede."
+  },
+  {
+   "key": "1895194252492652544",
+   "en": "V, wait... Thought we were in this together.",
+   "ro": "V, stai... Credeam că suntem în asta împreună."
+  },
+  {
+   "key": "1895199793487003648",
+   "en": "Got other plans? Fine. Find a way into the lower level. I'll catch up.",
+   "ro": "Ai altceva în plan? Bine. Găsește drum spre nivelul de jos. Te prind din urmă."
+  },
+  {
+   "key": "1913933509881217024",
+   "en": "We goin' in?",
+   "ro": "Intrăm?"
+  },
+  {
+   "key": "1913960604229419008",
+   "en": "Hear that?",
+   "ro": "Auzi?"
+  },
+  {
+   "key": "1915680561984159744",
+   "en": "One sec. Got somethin' that'll keep 'em busy.",
+   "ro": "O secundă. Am ceva care-o să-i țină ocupați."
+  },
+  {
+   "key": "1915681437352181760",
+   "en": "After that we slip past 'em...",
+   "ro": "După aia ne strecurăm pe lângă ei..."
+  },
+  {
+   "key": "1915684151654072320",
+   "en": "OK. Now.",
+   "ro": "OK. Acum."
+  },
+  {
+   "key": "1915718842524352512",
+   "en": "Well, well. Not bad.",
+   "ro": "Ei, ei. Nu-i rău."
+  },
+  {
+   "key": "1958826369407238144",
+   "en": "Hey, V! Hop in for a sec.",
+   "ro": "Hei, V! Intră pe linie o secundă."
+  },
+  {
+   "key": "1958827723563450368",
+   "en": "Good thing you're here.",
+   "ro": "Bine că ești aici."
+  },
+  {
+   "key": "1958830304587137024",
+   "en": "Find us a way inside. I'll hang back, scan the subnet – see if there's any blueprints of the complex lyin' around.",
+   "ro": "Găsește-ne o cale înăuntru. Eu stau mai în spate și scanez subnetul, să văd dacă mai sunt planuri ale complexului pe-acolo."
+  },
+  {
+   "key": "1958831014649249792",
+   "en": "Join you soon as I find something. Let's link on holo till then.",
+   "ro": "Ajung la tine imediat ce găsesc ceva. Până atunci, ținem legătura pe holo."
+  },
+  {
+   "key": "1958832312954109956",
+   "en": "[Get out] Fine.",
+   "ro": "[Ieși] Bine."
+  },
+  {
+   "key": "1958832672758284288",
+   "en": "Won't be safe in there.",
+   "ro": "Nu o să fie sigur acolo."
+  },
+  {
+   "key": "1958834382323040256",
+   "en": "All right. Goin' in.",
+   "ro": "Bine. Intru."
+  },
+  {
+   "key": "1958838070189998080",
+   "en": "Got the blueprint – be there in a sec.",
+   "ro": "Am planul – ajung într-o secundă."
+  },
+  {
+   "key": "2005468225481695232",
+   "en": "Heard shots. You still alive?",
+   "ro": "Am auzit focuri. Ești încă în viață?"
+  },
+  {
+   "key": "2005470128068321280",
+   "en": "I'm here. Got no time to creep  around.",
+   "ro": "Sunt aici. N-am timp să mă furișez."
+  },
+  {
+   "key": "2237268928283488260",
+   "en": "What do you mean?",
+   "ro": "Ce vrei să spui?"
+  },
+  {
+   "key": "2243230020915650560",
+   "en": "You lead, V. Make sure it's clear, no one around.",
+   "ro": "Tu conduci, V. Verifică să fie liber, să nu fie nimeni prin preajmă."
+  }
+ ]
+}

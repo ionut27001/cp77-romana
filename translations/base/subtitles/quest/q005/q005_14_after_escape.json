@@ -1,0 +1,624 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_14_after_escape.json",
+ "entries": [
+  {
+   "key": "1617455705634856960",
+   "en": "Elevator...! Now, V! Move!",
+   "ro": "Liftul...! Acum, V! Mișcă-te!"
+  },
+  {
+   "key": "1617458827841200128",
+   "en": "Where's... that fuckin' elevator?",
+   "ro": "Unde e... liftul ăla dracului?"
+  },
+  {
+   "key": "1617478803935420416",
+   "en": "<kiroshi l=\"mex\" o=\"¡Vamos, vamos vamos!\" t=\"Go, go, go!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Vamos, vamos vamos!\" t=\"Hai, hai, hai!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1617478855844126720",
+   "en": "We're sitting ducks out here. Inside, quick!",
+   "ro": "Suntem ținte ușoare aici. Înăuntru, repede!"
+  },
+  {
+   "key": "1617478886663872512",
+   "en": "Losing time here, c'mon!",
+   "ro": "Pierdem timpul aici, hai!"
+  },
+  {
+   "key": "1621978276015333376",
+   "en": "I advise that you waste no time in entering the vehicle.",
+   "ro": "Vă sfătuiesc să nu pierdeți timpul și să urcați în vehicul."
+  },
+  {
+   "key": "1626517897181093888",
+   "en": "<mothertongue l=\"mex\" m=\"¡Oy, mis huevos!\" b=\"\" a=\" Shiiiit!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Oy, mis huevos!\" b=\"\" a=\" Căcaaaat!\"/>"
+  },
+  {
+   "key": "1638689384933675008",
+   "en": "Hah--... agh! Heh, hng...",
+   "ro": "Hah--... agh! Heh, hng..."
+  },
+  {
+   "key": "1638691848214859776",
+   "en": "Take us to a ripperdoc!",
+   "ro": "Du-ne la un ripperdoc!"
+  },
+  {
+   "key": "1638691848214859792",
+   "en": "How bad is it?",
+   "ro": "Cât de grav e?"
+  },
+  {
+   "key": "1638691848265191424",
+   "en": "Take us to a ripperdoc! Now!",
+   "ro": "Du-ne la un ripperdoc! Acum!"
+  },
+  {
+   "key": "1638691848332300288",
+   "en": "Critical?! Fuck does that mean?!",
+   "ro": "Critic?! Ce căcat înseamnă asta?!"
+  },
+  {
+   "key": "1638691848332300304",
+   "en": "Mr. Welles' external iliac artery has ruptured, internal hemorrhaging is severe.",
+   "ro": "Artera iliacă externă a domnului Welles s-a rupt, hemoragia internă e severă."
+  },
+  {
+   "key": "1638691848466518016",
+   "en": "We'll only get the best jobs from now on!",
+   "ro": "De acum încolo o să avem doar cele mai bune misiuni!"
+  },
+  {
+   "key": "1638691848483295244",
+   "en": "Think about Misty! You'll see her soon!",
+   "ro": "Gândește-te la Misty! O să o vezi în curând!"
+  },
+  {
+   "key": "1638691848583958528",
+   "en": "Afterlife… see you there.",
+   "ro": "Afterlife… ne vedem acolo."
+  },
+  {
+   "key": "1638691848634290176",
+   "en": "<mothertongue l=\"mex\" m=\"mija\" b=\"You're gonna be rich \" a=\", I can feel it…\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mijo\" b=\"You're gonna be rich \" a=\", I can feel it…\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mija\" b=\"O să fii bogată \" a=\", simt eu…\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mijo\" b=\"O să fii bogat \" a=\", simt eu…\"/>"
+  },
+  {
+   "key": "1638691848634290184",
+   "en": "No, Jackie, WE'RE gonna be rich – you and me.",
+   "ro": "Nu, Jackie, NOI o să fim bogați – tu și cu mine."
+  },
+  {
+   "key": "1638691848667844608",
+   "en": "It's gonna be all right! You'll see Misty, your mom… everyone you love.",
+   "ro": "O să fie bine! O vei vedea pe Misty, pe mama ta… pe toți cei pe care-i iubești."
+  },
+  {
+   "key": "1638691848818839552",
+   "en": "We'll be gettin' preem jobs left and right now...",
+   "ro": "De-acum o să primim joburi beton pe bandă rulantă..."
+  },
+  {
+   "key": "1638691848869171208",
+   "en": "Misty… She knew… She always knew…",
+   "ro": "Misty… Știa… A știut mereu…"
+  },
+  {
+   "key": "1638799470851051520",
+   "en": "Nice work there… Del…",
+   "ro": "Bună treabă… Del…"
+  },
+  {
+   "key": "1640032845687476224",
+   "en": "Jackie, we did it!",
+   "ro": "Jackie, am reușit!"
+  },
+  {
+   "key": "1640032845687476240",
+   "en": "You're pale, look like a corpse.",
+   "ro": "Ești albă ca varul, arăți ca un cadavru.",
+   "ro_m": "Ești alb ca varul, arăți ca un cadavru."
+  },
+  {
+   "key": "1640033733973954560",
+   "en": "We did it, Jackie! We fuckin' made it!",
+   "ro": "Am reușit, Jackie! Am reușit, pula mea!"
+  },
+  {
+   "key": "1640033811199479808",
+   "en": "You're white as a ghost, Jack…",
+   "ro": "Ești albă ca o fantomă, Jack…",
+   "ro_m": "Ești alb ca o fantomă, Jack…"
+  },
+  {
+   "key": "1640035749437689856",
+   "en": "Heh... Guess we did.",
+   "ro": "Heh... Se pare că da."
+  },
+  {
+   "key": "1640037481987231744",
+   "en": "My medical diagnostics indicate that Mr. Welles' condition is critical.",
+   "ro": "Diagnosticarea mea medicală arată că starea domnului Welles e critică."
+  },
+  {
+   "key": "1640039882001534976",
+   "en": "Apologies, but that will not be possible.",
+   "ro": "Îmi pare rău, dar nu se poate."
+  },
+  {
+   "key": "1640141035091578892",
+   "en": "Mr. DeShawn awaits you in room number two-oh-four.",
+   "ro": "Domnul DeShawn vă așteaptă în camera 204."
+  },
+  {
+   "key": "1667627971087487004",
+   "en": "Hold on to it. For me.",
+   "ro": "Ține-o strâns. Pentru mine."
+  },
+  {
+   "key": "1675204966449205248",
+   "en": "Take him home, to his family.",
+   "ro": "Du-l acasă, la familia lui."
+  },
+  {
+   "key": "1675204966449205264",
+   "en": "Take him to Vik Vektor's clinic.",
+   "ro": "Du-l la clinica lui Vik Vektor."
+  },
+  {
+   "key": "1675204966516314112",
+   "en": "He'd wanna be with his family.",
+   "ro": "Ar vrea să fie cu familia lui."
+  },
+  {
+   "key": "1675204966633754624",
+   "en": "Vik Vektor'll take care of him.",
+   "ro": "Vik Vektor o să aibă grijă de el."
+  },
+  {
+   "key": "1675205667082522624",
+   "en": "Mr. Welles' closest blood relative is Guadalupe Alejandra Welles, proprietress of the El Coyote Cojo bar.",
+   "ro": "Cea mai apropiată rudă de sânge a domnului Welles este Guadalupe Alejandra Welles, proprietara barului El Coyote Cojo."
+  },
+  {
+   "key": "1675205667082522636",
+   "en": "I will make sure to deliver him safely.",
+   "ro": "Am grijă să-l livrez în siguranță."
+  },
+  {
+   "key": "1675270431833903104",
+   "en": "Mr. Welles has passed. Where shall I take his remains?",
+   "ro": "Domnul Welles a decedat. Unde să duc rămășițele lui?"
+  },
+  {
+   "key": "1675271191606906880",
+   "en": "W-what?",
+   "ro": "C-ce?"
+  },
+  {
+   "key": "1675271244438360064",
+   "en": "The Excelsior package provides for the disposal of passenger remains free of charge. I merely require a destination.",
+   "ro": "Pachetul Excelsior prevede eliminarea rămășițelor pasagerului gratuit. Am nevoie doar de o destinație."
+  },
+  {
+   "key": "1675280795120226304",
+   "en": "Of course, understood.",
+   "ro": "Desigur, am înțeles."
+  },
+  {
+   "key": "1675280936854147072",
+   "en": "His family shouldn't see him like this.",
+   "ro": "Familia lui nu ar trebui să-l vadă așa."
+  },
+  {
+   "key": "1770722129959858176",
+   "en": "Not bad!",
+   "ro": "Nu-i rău!"
+  },
+  {
+   "key": "1770723209741479936",
+   "en": "Tiptop. Though alas, we are being pursued.",
+   "ro": "Bine. Numai că, vai, suntem urmăriți."
+  },
+  {
+   "key": "1773758967721111552",
+   "en": "Delamain, gun it!",
+   "ro": "Delamain, accelerează!"
+  },
+  {
+   "key": "1773760225207005184",
+   "en": "We got a tail.",
+   "ro": "Ne urmărește cineva."
+  },
+  {
+   "key": "1773765277111955456",
+   "en": "Until I lose the pursuers, I cannot return to our original itinerary.",
+   "ro": "Până nu scap de urmăritori, nu pot reveni la itinerariul inițial."
+  },
+  {
+   "key": "1773766615917015040",
+   "en": "Here, lemme give you a hand with that.",
+   "ro": "Ia, lasă-mă să te ajut cu asta."
+  },
+  {
+   "key": "1773769999948591104",
+   "en": "Eat lead, assholes!",
+   "ro": "Mâncați plumb, nesimțiților!"
+  },
+  {
+   "key": "1773771703221891072",
+   "en": "Rerouting to original itinerary.",
+   "ro": "Redirecționare către itinerariul inițial."
+  },
+  {
+   "key": "1773773401713684480",
+   "en": "Hostile aircraft eliminated.",
+   "ro": "Aeronavă ostilă eliminată."
+  },
+  {
+   "key": "1773776291119378432",
+   "en": "Hostiles eliminated.",
+   "ro": "Ostili eliminați."
+  },
+  {
+   "key": "1786588997274619904",
+   "en": "Welcome back. With Delamain, you leave your problems at the door...",
+   "ro": "Bine ai revenit. Cu Delamain, îți lași problemele la ușă..."
+  },
+  {
+   "key": "1786601169128050688",
+   "en": "How's our ride lookin'?",
+   "ro": "Cum arată mașina noastră?"
+  },
+  {
+   "key": "1786601767873335296",
+   "en": "Client feedback noted.",
+   "ro": "Feedback client notat."
+  },
+  {
+   "key": "1786604632549412880",
+   "en": "Phew!",
+   "ro": "Uf!"
+  },
+  {
+   "key": "1893809114449850368",
+   "en": "Tiptop. Though alas, we are being pursued.",
+   "ro": "Bine. Numai că, vai, suntem urmăriți."
+  },
+  {
+   "key": "1893857609730895872",
+   "en": "Leave it to me!",
+   "ro": "Lasă, las' pe mine!"
+  },
+  {
+   "key": "1918494174641725440",
+   "en": "Jackie! Don't close your eyes!",
+   "ro": "Jackie! Nu-ți închide ochii!"
+  },
+  {
+   "key": "1918497680878542848",
+   "en": "Hear me, Jack?",
+   "ro": "Mă auzi, Jack?"
+  },
+  {
+   "key": "1922951648685924352",
+   "en": "We'll have problems if you don't fuckin' DRIVE!",
+   "ro": "Avem belele dacă nu conduci, pula mea!"
+  },
+  {
+   "key": "1922986956102115328",
+   "en": "The biochip…",
+   "ro": "Biochipul…"
+  },
+  {
+   "key": "1923004811220688896",
+   "en": "So hurry up!",
+   "ro": "Hai, grăbește-te!"
+  },
+  {
+   "key": "1923007246366482432",
+   "en": "You've gotta hold tight, Jackie. You hear me?!",
+   "ro": "Ține-te bine, Jackie. Mă auzi?!"
+  },
+  {
+   "key": "1927066866617753600",
+   "en": "Our itinerary has been pre-arranged and paid for in advance. I am not at liberty to alter it.",
+   "ro": "Itinerariul nostru a fost stabilit și plătit în avans. Nu am libertatea să-l modific."
+  },
+  {
+   "key": "1927092416790994944",
+   "en": "Fuck your liberty! Do what I say!",
+   "ro": "Mă piș pe libertatea ta! Fă ce-ți spun!"
+  },
+  {
+   "key": "1927092583623630848",
+   "en": "It's OK, V… I'll hold out…",
+   "ro": "E ok, V… rezist eu…"
+  },
+  {
+   "key": "1927094031782584320",
+   "en": "Then step on it!",
+   "ro": "Atunci accelerează!"
+  },
+  {
+   "key": "1927094457504440320",
+   "en": "I am doing what I can.",
+   "ro": "Fac ce pot."
+  },
+  {
+   "key": "1927096385458216960",
+   "en": "I suggest you try to keep Mr. Welles conscious.",
+   "ro": "Vă sugер să încercați să-l țineți treaz pe domnul Welles."
+  },
+  {
+   "key": "1927488246261817344",
+   "en": "Just… give me a minute.",
+   "ro": "Doar… dă-mi un minut."
+  },
+  {
+   "key": "1927488622021124096",
+   "en": "Just… gimme a sec, will ya?!",
+   "ro": "Stai… dă-mi o secundă, bine?!"
+  },
+  {
+   "key": "1927490519960461312",
+   "en": "[Touch shoulder] See you in the major leagues.",
+   "ro": "[Atinge umărul] Ne vedem în liga mare."
+  },
+  {
+   "key": "1927493329942814720",
+   "en": "Mr. Welles' remains… Where shall I take them?",
+   "ro": "Rămășițele domnului Welles… Unde să le duc?"
+  },
+  {
+   "key": "1927494175984263168",
+   "en": "See ya in the major leagues, Jack.",
+   "ro": "Ne vedem în liga mare, Jack."
+  },
+  {
+   "key": "1943147587552956416",
+   "en": "<kiroshi l=\"mex\" o=\"¡Madreees...ya!\" t=\"Fuuuuuuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Madreees...ya!\" t=\"Futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1943207263908941824",
+   "en": "Sweet fuckin' Jesus!",
+   "ro": "Doamne, pula mea!"
+  },
+  {
+   "key": "1943208209103736832",
+   "en": "Combat mode activated. Please remain calm.",
+   "ro": "Mod luptă activat. Vă rog să rămâneți calmi."
+  },
+  {
+   "key": "1954790943060152320",
+   "en": "<mothertongue l=\"mex\" m=\"¡Órale!\" b=\"\" a=\", we gotta plough through 'em!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Órale!\" b=\"\" a=\", trebuie să ne facem drum prin ei!\"/>"
+  },
+  {
+   "key": "1954791182773014532",
+   "en": "Ain't doin' too bad… Just a little further…",
+   "ro": "Nu mă descurc rău… Încă puțin…"
+  },
+  {
+   "key": "1954794988499914752",
+   "en": "<kiroshi l=\"mex\" o=\"¡Los hijos de la chingada también están aquí!\" t=\"They're here too, the cocksuckers!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Los hijos de la chingada también están aquí!\" t=\"Sunt și ei aici, curvele!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1954795386774245380",
+   "en": "Shit… They're everywhere…",
+   "ro": "Rahat… Sunt peste tot…"
+  },
+  {
+   "key": "1954869280998707200",
+   "en": "Shit! They spotted us!",
+   "ro": "Rahat! Ne-au văzut!"
+  },
+  {
+   "key": "1954877966898974720",
+   "en": "They knew we were comin'!",
+   "ro": "Știau că venim!"
+  },
+  {
+   "key": "1954878069223215108",
+   "en": "Don't think they're expectin' us… Good.",
+   "ro": "Nu cred că ne așteaptă… Bine."
+  },
+  {
+   "key": "1954879315283824640",
+   "en": "Wouldn't wanna disappoint 'em!",
+   "ro": "Să nu-i dezamăgim!"
+  },
+  {
+   "key": "1954880577249234944",
+   "en": "Not a sound, Jack. Not in the clear yet.",
+   "ro": "Fără zgomot, Jack. Încă n-am scăpat."
+  },
+  {
+   "key": "1959232021200916484",
+   "en": "Road block ahead.",
+   "ro": "Blocaj rutier în față."
+  },
+  {
+   "key": "1959232327653543940",
+   "en": "I kindly request that you brace for impact.",
+   "ro": "Vă rog frumos să vă pregătiți pentru impact."
+  },
+  {
+   "key": "1964916904890802176",
+   "en": "Delamain...!",
+   "ro": "Delamain...!"
+  },
+  {
+   "key": "1964921146959536128",
+   "en": "Calm?!",
+   "ro": "Calm?!"
+  },
+  {
+   "key": "1967672038130733056",
+   "en": "Hey, got a shard with security clearance!",
+   "ro": "Hei, am un shard cu autorizație de securitate!"
+  },
+  {
+   "key": "1967672190165864448",
+   "en": "Shard gives us access to the door.",
+   "ro": "Shard-ul ne deschide ușa."
+  },
+  {
+   "key": "1976292676805210112",
+   "en": "Nowhere. Wait for me here.",
+   "ro": "Nicăieri. Mă aștepți aici."
+  },
+  {
+   "key": "1976295768376356864",
+   "en": "Nowhere.",
+   "ro": "Nicăieri."
+  },
+  {
+   "key": "1976396943696142336",
+   "en": "Stay here and don't move. I'll be right back.",
+   "ro": "Stai aici și nu te mișca. Mă întorc imediat."
+  },
+  {
+   "key": "1976397176228356096",
+   "en": "Understood.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1982310279247896576",
+   "en": "A hostile enemy aircraft has a lock on us.",
+   "ro": "Un avion inamic ne-a luat în vizor."
+  },
+  {
+   "key": "1982310642709504000",
+   "en": "Why can't they just… give up…",
+   "ro": "De ce nu se pot… preda…"
+  },
+  {
+   "key": "1982321398431686656",
+   "en": "See…? Told ya we'd… make it…",
+   "ro": "Vezi…? Ți-am zis că… reușim…"
+  },
+  {
+   "key": "1986411795143532544",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1986412078997250048",
+   "en": "Saburo Arasaka…",
+   "ro": "Saburo Arasaka…"
+  },
+  {
+   "key": "1986413167905677312",
+   "en": "Hundred and fifty years… and today… of all fuckin' days…",
+   "ro": "O sută cincizeci de ani… și tocmai azi… din toate zilele alea de căcat…"
+  },
+  {
+   "key": "1986413864646680576",
+   "en": "That's like... some divine comedy shit… heheheee… agh...",
+   "ro": "E ca o comedie divină de căcat… heheheee… agh..."
+  },
+  {
+   "key": "1986415070207090688",
+   "en": "Think this is funny?!",
+   "ro": "Ți se pare amuzant?!"
+  },
+  {
+   "key": "1986415469085401088",
+   "en": "Save your strength.",
+   "ro": "Păstrează-ți forțele."
+  },
+  {
+   "key": "1986415921315258368",
+   "en": "Think all this is funny?!",
+   "ro": "Ți se pare totul amuzant?!"
+  },
+  {
+   "key": "1986416454226747392",
+   "en": "Yeah… I do.",
+   "ro": "Da… Mi se pare."
+  },
+  {
+   "key": "1986416684024274944",
+   "en": "Your liver could be fucked!",
+   "ro": "Ficatul tău s-ar putea să fie belit, pula mea!"
+  },
+  {
+   "key": "1986417331826139136",
+   "en": "Save your strength, Jackie.",
+   "ro": "Păstrează-ți forțele, Jackie."
+  },
+  {
+   "key": "1986419278385848320",
+   "en": "Had it comin', heheh.",
+   "ro": "Și-a meritat-o, heheh."
+  },
+  {
+   "key": "1986507409940357120",
+   "en": "Whaddaya think I'm doin'?",
+   "ro": "Ce crezi că fac, mă?"
+  },
+  {
+   "key": "1986555321374285824",
+   "en": "Uhmmm… 'Course…",
+   "ro": "Ăă… Sigur…"
+  },
+  {
+   "key": "1993721768110268416",
+   "en": "Client feedback noted.",
+   "ro": "Feedback client notat."
+  },
+  {
+   "key": "2011692169528418304",
+   "en": "Buuut… chill, V. We'll get out alive.",
+   "ro": "Dar… calmează-te, V. O să ieșim vii."
+  },
+  {
+   "key": "2011693767205920768",
+   "en": "'Cause you say so?!",
+   "ro": "Pentru că zici tu?!"
+  },
+  {
+   "key": "2011693767205920784",
+   "en": "Talk to T-Bug.",
+   "ro": "Vorbește cu T-Bug."
+  },
+  {
+   "key": "2011695755322794004",
+   "en": "Why? 'Cause you fuckin' say so?!",
+   "ro": "De ce? Pentru că zici tu, pula mea?!"
+  },
+  {
+   "key": "2011695755389902860",
+   "en": "Tell Bug, why don'tcha. Maybe she'd still be alive if we hadn't been so gung-fuckin'-ho!",
+   "ro": "Spune-i lui Bug, de ce nu. Poate ar mai fi trăit dacă nu eram atât de porniți, pula mea!"
+  },
+  {
+   "key": "2011695755440234504",
+   "en": "Don't... take this... out on me… Can see… how the chips're fallin'...",
+   "ro": "Nu... pe mine nu te răzbuna... Văd... cum o iau razna lucrurile..."
+  },
+  {
+   "key": "2014500975731875864",
+   "en": "Argh… I'm leakin' a little…",
+   "ro": "Argh… Mă scurg puțin…"
+  },
+  {
+   "key": "2033045176898547716",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2248837877357867012",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

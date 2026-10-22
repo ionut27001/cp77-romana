@@ -1,0 +1,103 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_09b_guards.json",
+ "entries": [
+  {
+   "key": "1521604151304278016",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa--? Pa gen okenn fason …\" t=\"What the-- ? There's no way…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa--? Pa gen okenn fason …\" t=\"Ce naiba--? Nu se poate…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1521604860795965440",
+   "en": "<kiroshi l=\"creo\" o=\"Okenn moun pa ta ka siviv sa.\" t=\"Nobody could've survived that.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Okenn moun pa ta ka siviv sa.\" t=\"Nimeni n-ar fi putut supraviețui la asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1521606590862479360",
+   "en": "<kiroshi l=\"creo\" o=\"Pa gen okenn fason li te ka siviv…\" t=\"There's no way she could have survived…\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Pa gen okenn fason li te ka siviv…\" t=\"There's no way he could have survived…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa gen okenn fason li te ka siviv…\" t=\"Nu se poate să fi supraviețuit…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1521607288006135808",
+   "en": "Up the stair.",
+   "ro": "Sus pe scări."
+  },
+  {
+   "key": "1526979496299745280",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa--? Pa gen okenn fason…\" t=\"What the--? There's no way…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa--? Pa gen okenn fason…\" t=\"Ce naiba--? Nu se poate…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1526979496333299716",
+   "en": "<kiroshi l=\"creo\" o=\"Okenn moun pa ta ka siviv sa.\" t=\"Nobody could've survived that.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Okenn moun pa ta ka siviv sa.\" t=\"Nimeni n-ar fi putut supraviețui la asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1526979496400408576",
+   "en": "<kiroshi l=\"creo\" o=\"Èske se fanm lan? Li siviv?\" t=\"Is that the woman? She survived?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Èske se neg lan? Li siviv?\" t=\"Is that the guy? He survived?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Èske se fanm lan? Li siviv?\" t=\"E femeia aia? A supraviețuit?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Èske se neg lan? Li siviv?\" t=\"E tipul ăla? A supraviețuit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1526979496400408584",
+   "en": "Up the stair.",
+   "ro": "Sus pe scări."
+  },
+  {
+   "key": "1537279707454656512",
+   "en": "Go. Placide up the stair.",
+   "ro": "Du-te. Placide e sus pe scări."
+  },
+  {
+   "key": "1537281402154799104",
+   "en": "She-demon… Placide wait. Upstair, quick.",
+   "en_m": "Demon… Placide wait. Upstair, quick.",
+   "ro": "Demonoaică… Placide așteaptă. Sus, repede.",
+   "ro_m": "Demon… Placide așteaptă. Sus, repede."
+  },
+  {
+   "key": "1593781473611419648",
+   "en": "<kiroshi l=\"creo\" o=\"Di Placide nou gen yon Zombi sou men nou.\" t=\"Tell Placide we got a fucking zombie on our hands.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Di Placide nou gen yon Zombi sou men nou.\" t=\"Spune-i lui Placide că avem un zombi al dracului pe cap.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1593783669665107968",
+   "en": "<kiroshi l=\"creo\" o=\"Di Placide nou gen yon zonbi nan men nou.\" t=\"Tell Placide we got a zombie on our hands.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Di Placide nou gen yon zonbi nan men nou.\" t=\"Spune-i lui Placide că avem un zombi pe cap.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1593788610739769344",
+   "en": "Placide – where is the bastard?",
+   "ro": "Placide – unde e nenorocitul?"
+  },
+  {
+   "key": "1593789362090610688",
+   "en": "Placide – where is the bastard?",
+   "ro": "Placide – unde e nenorocitul?"
+  },
+  {
+   "key": "1611399341177901056",
+   "en": "<kiroshi l=\"creo\" o=\"Placide, dwòn mesaje ou voye an vivan toujou. Men manzè ap monte vini wi.\" t=\"Placide, your messenger drone is alive. She is coming upstairs.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Placide, dwòn mesaje ou voye an vivan toujou. Men msye ap monte vini wi.\" t=\"Placide, your messenger drone is alive. He is coming upstairs.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide, dwòn mesaje ou voye an vivan toujou. Men manzè ap monte vini wi.\" t=\"Placide, drona ta mesageră e în viață. Vine sus pe scări.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Placide, dwòn mesaje ou voye an vivan toujou. Men msye ap monte vini wi.\" t=\"Placide, drona ta mesageră e în viață. Vine sus pe scări.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1611415568805859328",
+   "en": "<kiroshi l=\"creo\" o=\"Placide, reprezantan ou an vivan. Li ap vini anwo.\" t=\"Placide, your messenger drone is alive. She is coming upstairs.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Placide, reprezantan ou an vivan. Li ap vini anwo.\" t=\"Placide, your messenger drone is alive. He is coming upstairs.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide, reprezantan ou an vivan. Li ap vini anwo.\" t=\"Placide, drona ta mesageră e în viață. Vine sus pe scări.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1632824834960412672",
+   "en": "Placide await you on up...",
+   "ro": "Placide te așteaptă sus..."
+  },
+  {
+   "key": "1632827121258745856",
+   "en": "Placide await you up the stair.",
+   "ro": "Placide te așteaptă pe scări."
+  }
+ ]
+}

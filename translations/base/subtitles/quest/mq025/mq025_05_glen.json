@@ -1,0 +1,324 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq025\\mq025_05_glen.json",
+ "entries": [
+  {
+   "key": "1853325216020525060",
+   "en": "You said you were looking for work.",
+   "ro": "Ai zis că cauți de lucru."
+  },
+  {
+   "key": "1853325216054079488",
+   "en": "Got a fight here.",
+   "ro": "Am o luptă aici."
+  },
+  {
+   "key": "1853325216154742784",
+   "en": "You César? I'm here for my fight.",
+   "en_m": "You Cesar? I'm here for my fight.",
+   "ro": "Tu ești César? Sunt aici pentru lupta mea."
+  },
+  {
+   "key": "1853325216238628868",
+   "en": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Yeah, that's me – toughest \" a=\" in the Glen.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Da, eu sunt – cel mai tare \" a=\" din Glen.\"/>"
+  },
+  {
+   "key": "1853325216238628876",
+   "en": "Mhm. And the worst father in Night City.",
+   "ro": "Mhm. Și cel mai prost tată din Night City."
+  },
+  {
+   "key": "1853325216272183296",
+   "en": "OK, I'll match it.",
+   "ro": "OK, egalez."
+  },
+  {
+   "key": "1853325216272183328",
+   "en": "Too rich for my blood.",
+   "ro": "Prea scump pentru mine."
+  },
+  {
+   "key": "1853325216288960520",
+   "en": "What's the car?",
+   "ro": "Ce mașină e?"
+  },
+  {
+   "key": "1853325216322514948",
+   "en": "Too rich for me... At least for now.",
+   "ro": "Prea scump pentru mine... Deocamdată."
+  },
+  {
+   "key": "1853325216322514956",
+   "en": "Right, right... Well, you change your mind, you let me know, 'kay?",
+   "ro": "Bine, bine... Dacă te răzgândești, îmi zici, ok?"
+  },
+  {
+   "key": "1853325216389623812",
+   "en": "OK, I'll match it. We good?",
+   "ro": "OK, egalez. Suntem bine?"
+  },
+  {
+   "key": "1853325216473509888",
+   "en": "So, bare hands only, right? No pullin' any monowires or mantis blades outta your ass?",
+   "ro": "Deci, doar cu mâinile goale, da? Fără să scoți monowire-uri sau Mantis Blades din fund?"
+  },
+  {
+   "key": "1853325216523841540",
+   "en": "Careful, now. I don't fuck around.",
+   "ro": "Atenție, acum. Nu glumesc, pula mea."
+  },
+  {
+   "key": "1853325216674836484",
+   "en": "Stop! Stop the fight! Can't you see he's had enough?!",
+   "ro": "Oprește! Oprește lupta! Nu vezi că a avut destul?!"
+  },
+  {
+   "key": "1853325216725168128",
+   "en": "Micaela, baby... I-I'm sorry... Shit, I--",
+   "ro": "Micaela, baby... Î-îmi pare rău... Căcat, eu--"
+  },
+  {
+   "key": "1853325216725168136",
+   "en": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Not another word, you \" a=\". Hand over the stupid keys and let's go home.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Niciun cuvânt în plus, \" a=\". Dă-mi cheile alea proaste și hai acasă.\"/>"
+  },
+  {
+   "key": "1853325216758722564",
+   "en": "Think you had enough, 'ey?",
+   "ro": "Crezi că ai avut destul, ha?"
+  },
+  {
+   "key": "1853325216758722572",
+   "en": "Well, y'know... I'm game for a rematch. I can always use the extra eddies – now, especially.",
+   "ro": "Ei, știi... Sunt pregătit pentru revanșă. Pot folosi oricând eddies în plus – mai ales acum."
+  },
+  {
+   "key": "1853325216926494720",
+   "en": "[Start fight] Ready.",
+   "ro": "[Începe lupta] Gata."
+  },
+  {
+   "key": "1853325216960049156",
+   "en": "Yep. Ready to rumble.",
+   "ro": "Da. Gata de bătaie."
+  },
+  {
+   "key": "1853325216993603588",
+   "en": "All right, let's talk. What's the car?",
+   "ro": "Bine, hai să vorbim. Ce mașină e?"
+  },
+  {
+   "key": "1853325216993603596",
+   "en": "A real gem. A tuned-up 2056 classic, but with only twenty thousand miles on 'er. No dings, no patch jobs...",
+   "ro": "O adevărată bijuterie. Un clasic din 2056 tunat, dar cu doar douăzeci de mii de mile. Fără lovituri, fără reparații de mântuială..."
+  },
+  {
+   "key": "1853325217010380804",
+   "en": "Uh-huh. And stolen?",
+   "ro": "Aha. Și e furată?"
+  },
+  {
+   "key": "1853325217027158020",
+   "en": "All good. Let's go.",
+   "ro": "Totul bine. Hai să mergem."
+  },
+  {
+   "key": "1853337697765912576",
+   "en": "And I found it!",
+   "ro": "Și am găsit-o eu!"
+  },
+  {
+   "key": "1853337966151036928",
+   "en": "No, this isn't work. Have you ever thought what would happen to us if we lost you? Lost all our money?",
+   "ro": "Nu, asta nu e muncă. Te-ai gândit vreodată ce s-ar alege de noi dacă te-am pierde? Dacă pierdem toți banii?"
+  },
+  {
+   "key": "1853338688292745216",
+   "en": "Either you change, César... or I change the locks.",
+   "ro": "Ori te schimbi, César... ori schimb eu yalele."
+  },
+  {
+   "key": "1853342056000090112",
+   "en": "Listen, I need a lot of scratch and fast. That's why I'm only takin' serious wagers.",
+   "ro": "Ascultă, îmi trebuie mulți bani și repede. De-asta accept doar pariuri serioase."
+  },
+  {
+   "key": "1853342756901842944",
+   "en": "Micaela, baby... I know what I'm doin'. You gotta trust--",
+   "ro": "Micaela, baby... Știu ce fac. Trebuie să ai încredere--"
+  },
+  {
+   "key": "1853342789265092608",
+   "en": "I'm not talkin' to you. First, you spend a fortune on chrome, and now... Ugh, I give up.",
+   "ro": "Nu vorbesc cu tine. Mai întâi cheltui o avere pe chrome, și acum... Ugh, renunț."
+  },
+  {
+   "key": "1853343621029130240",
+   "en": "I'm puttin' my ride on the line. Either you match it in cash, or you can forget about the fight.",
+   "ro": "Pun mașina în joc. Ori egalezi în cash, ori uiți de luptă."
+  },
+  {
+   "key": "1853355857843941376",
+   "en": "No, no, no, none of that. She's legit. Give you my word.",
+   "ro": "Nu, nu, nimic de-astea. E curată, îți dau cuvântul meu."
+  },
+  {
+   "key": "1853392040812703748",
+   "en": "Thanks for the new ride.",
+   "ro": "Mersi de mașină."
+  },
+  {
+   "key": "1853392460930969600",
+   "en": "Give me the cash, but you keep the car.",
+   "ro": "Dă-mi banii, mașina o păstrezi."
+  },
+  {
+   "key": "1853392981276323840",
+   "en": "Pleasure doin' biz. Got rubber to burn.",
+   "en_m": "Pleasure doin' biz. I got rubber to burn.",
+   "ro": "Plăcere de afaceri. Am de ars cauciuc."
+  },
+  {
+   "key": "1853393262428909568",
+   "en": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\"... She was a beauty...\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\"... Era o frumusețe...\"/>"
+  },
+  {
+   "key": "1853394404118458368",
+   "en": "I'll take my eddies, but you can keep the ride.",
+   "ro": "Eu iau eddies-urile, mașina rămâne a ta."
+  },
+  {
+   "key": "1853395192278511616",
+   "en": "You... I mean, really?",
+   "ro": "Tu... Adică, pe bune?"
+  },
+  {
+   "key": "1853403160197820416",
+   "en": "Any ideas for a name?",
+   "ro": "Ai vreo idee de nume?"
+  },
+  {
+   "key": "1853404198355169280",
+   "en": "My knight in shining armor... How do we get home now, eh? On foot?!",
+   "ro": "Cavalerul meu în armură strălucitoare... Și acum cum ajungem acasă, ha? Pe jos?!"
+  },
+  {
+   "key": "1862161572718198784",
+   "en": "Nah, you keep the car and the money.",
+   "ro": "Nu, păstrează mașina și banii."
+  },
+  {
+   "key": "1862162730748755968",
+   "en": "Keep it, everything. Won't take anything from you.",
+   "en_m": "Keep it, everything. I won't take anything from you.",
+   "ro": "Păstrează tot. Nu-ți iau nimic."
+  },
+  {
+   "key": "1908167778851147776",
+   "en": "Micaela! Micaela, wait for fuck's sake!",
+   "ro": "Micaela! Micaela, stai, pula mea!"
+  },
+  {
+   "key": "1908174881552650240",
+   "en": "Listen... You don't like the deal, don't take it. Just don't drag this out. Time is money, and I'm runnin' out of both.",
+   "ro": "Ascultă... Nu-ți place înțelegerea, n-o lua. Doar n-o mai lungi. Timpu-i bani, iar eu rămân fără amândouă."
+  },
+  {
+   "key": "1908188269016043520",
+   "en": "Ugh... Here. Spoil her for me.",
+   "ro": "Ugh... Uite. Răsfață-o tu pentru mine."
+  },
+  {
+   "key": "1908189732324823040",
+   "en": "Uh-huh... Yeah.",
+   "ro": "Aha... Da."
+  },
+  {
+   "key": "1908198852754984960",
+   "en": "Not my type of joke.",
+   "en_m": "It's not my type of joke.",
+   "ro": "Nu e genul meu de glumă."
+  },
+  {
+   "key": "1908200371344691200",
+   "en": "Now, the eddies. Before I change my mind.",
+   "ro": "Acum, eddies-urile. Înainte să mă răzgândesc."
+  },
+  {
+   "key": "1908200482493747200",
+   "en": "Listen, I... Shit, I dunno how to thank you...",
+   "ro": "Ascultă, eu... Căcat, nu știu cum să-ți mulțumesc..."
+  },
+  {
+   "key": "1908201560849305600",
+   "en": "Then don't thank me.",
+   "ro": "Atunci nu-mi mulțumi."
+  },
+  {
+   "key": "1908201718639022080",
+   "en": "Just don't lose what you have left.",
+   "ro": "Doar nu pierde ce ți-a mai rămas."
+  },
+  {
+   "key": "1908203471723876352",
+   "en": "Then don't.",
+   "ro": "Atunci nu o face."
+  },
+  {
+   "key": "1908203576162045952",
+   "en": "Just don't lose what you still got left.",
+   "ro": "Doar nu pierde ce mai ai."
+  },
+  {
+   "key": "1908203741283405824",
+   "en": "Oof... We dodged one there, huh?",
+   "ro": "Ufff... Ne-a fost cât p-aci, ha?"
+  },
+  {
+   "key": "1908205221637836800",
+   "en": "Don't intend to.",
+   "ro": "N-am de gând."
+  },
+  {
+   "key": "1908206784737497088",
+   "en": "<mothertongue l=\"mex\" m=\"Pendejos\" b=\"Mhm. \" a=\" have all the luck.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Pendejos\" b=\"Mhm. \" a=\" au tot norocul.\"/>"
+  },
+  {
+   "key": "1908208811207086080",
+   "en": "Hmm... Something with a \"V\"?",
+   "ro": "Hmm... Ceva cu un „V”?"
+  },
+  {
+   "key": "1908210066545496064",
+   "en": "I'll think of something, OK? Just calm down for Christ's sake!",
+   "ro": "O să mă gândesc la ceva, OK? Doar calmează-te, Doamne, pe bune!"
+  },
+  {
+   "key": "1932970634292547584",
+   "en": "Beat some sense into him for me, OK? He needs a good lesson.",
+   "ro": "Bate-l tu la cap pentru mine, OK? Îi trebuie o lecție bună."
+  },
+  {
+   "key": "1932975713745686528",
+   "en": "Right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1932976908015030272",
+   "en": "I ask 'cause last guy I fought tried to surprise me with Longspurs. Anyway, you ready to start?",
+   "ro": "Întreb că ultimul tip cu care m-am bătut a vrut să mă ia pe nepregătite cu Longspurs. Oricum, ești gata?"
+  },
+  {
+   "key": "2096711922941444096",
+   "en": "Keep the eddies. Car's all I want.",
+   "ro": "Păstrează eddies-urile. Vreau doar mașina."
+  },
+  {
+   "key": "2252011877682626560",
+   "en": "Thanks. But the eddies I bet – they're yours.",
+   "ro": "Mersi. Dar eddies-urile puse la bătaie sunt ale tale."
+  }
+ ]
+}

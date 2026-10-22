@@ -1,0 +1,75 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_06_chicken_test.json",
+ "entries": [
+  {
+   "key": "3125930152248659968",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "3125930152248659980",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3125930152248659992",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3173721461059145732",
+   "en": "[db_db]Start of sts, client meeting in CZ",
+   "ro": "[db_db]Start of sts, client meeting in CZ"
+  },
+  {
+   "key": "3173721830325669888",
+   "en": "[db_db]After client meeting, in fornt of THE Pyramid",
+   "ro": "[db_db]După întâlnirea cu clientul, în fața THE Pyramid"
+  },
+  {
+   "key": "3221607895392505856",
+   "en": "[db_db]Invulnerable",
+   "ro": "[db_db]Invulnerable"
+  },
+  {
+   "key": "3221607895392505868",
+   "en": "[db_db]MaxBuild",
+   "ro": "[db_db]MaxBuild"
+  },
+  {
+   "key": "3221607895409283080",
+   "en": "[db_db]Progress",
+   "ro": "[db_db]în desfășurare"
+  },
+  {
+   "key": "3488302071239069696",
+   "en": "[db_db]Test WST_EP1_07",
+   "ro": "[db_db]Test WST_EP1_07"
+  },
+  {
+   "key": "3488314666700427268",
+   "en": "[db_db]V made deal with Gorgina, data concealed",
+   "ro": "[db_db]V a făcut înțelegere cu Gorgina, date ascunse"
+  },
+  {
+   "key": "3488316787843846144",
+   "en": "[db_db]V did not make deal with Gorgina, data deleted",
+   "ro": "[db_db]V nu a făcut înțelegere cu Gorgina, date șterse"
+  },
+  {
+   "key": "3608632019735990272",
+   "en": "[db_db]Test Cleanup phase",
+   "ro": "[db_db]Test Cleanup phase"
+  },
+  {
+   "key": "3643444262168088576",
+   "en": "[db_db]Community test outside sts",
+   "ro": "[db_db]Community test outside sts"
+  },
+  {
+   "key": "3814319107979931648",
+   "en": "[db_db]ep1_side_content = 1",
+   "ro": "[db_db]ep1_side_content = 1"
+  }
+ ]
+}

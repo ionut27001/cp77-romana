@@ -1,0 +1,834 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q103\\q103_15_roadhouse_bar.json",
+ "entries": [
+  {
+   "key": "1526874516293160960",
+   "en": "Broseph. Two of 'em.",
+   "ro": "Două Broseph."
+  },
+  {
+   "key": "1527287161617911812",
+   "en": "Maybe we get just one room?",
+   "ro": "Poate luăm o singură cameră?"
+  },
+  {
+   "key": "1527287424718213120",
+   "en": "Sure, good idea.",
+   "ro": "Sigur, idee bună."
+  },
+  {
+   "key": "1527287975782649856",
+   "en": "Maybe we rent just one room?",
+   "ro": "Poate închiriem o singură cameră?"
+  },
+  {
+   "key": "1527288047991787520",
+   "en": "Good idea. Let's do it.",
+   "ro": "Bună ideea. Hai s-o facem."
+  },
+  {
+   "key": "1527288663531065344",
+   "en": "Good idea.",
+   "ro": "Idee bună."
+  },
+  {
+   "key": "1527289488684879872",
+   "en": "Noah has two twin beds in every room. We'll save some money.",
+   "ro": "Noah are două paturi gemene în fiecare cameră. Economisim niște bani."
+  },
+  {
+   "key": "1527306821293838336",
+   "en": "How about we just meet here later?",
+   "ro": "Ce zici să ne vedem aici mai târziu?"
+  },
+  {
+   "key": "1527307262668836864",
+   "en": "Know what? Whaddaya say we meet back here later. Got things to do in town.",
+   "en_m": "Ya know what? Whaddaya say we meet back here later. Got things to do in town.",
+   "ro": "Știi ce? Ce zici să ne vedem aici mai târziu. Am treabă prin oraș."
+  },
+  {
+   "key": "1542977485895897092",
+   "en": "Think you might ever go back to the Aldecaldos?",
+   "ro": "Te-ai întoarce vreodată la Aldecaldos?"
+  },
+  {
+   "key": "1548898431559274496",
+   "en": "Whatever you want. All you stand to miss is some real strong, real awful coffee.",
+   "ro": "Cum vrei. Tot ce ratezi e o cafea tare și groaznic de proastă."
+  },
+  {
+   "key": "1671892989878333440",
+   "en": "Thanks for everything. Partner.",
+   "ro": "Mersi pentru tot. Parteneră.",
+   "ro_m": "Mersi pentru tot. Partener."
+  },
+  {
+   "key": "1671893366073847808",
+   "en": "You've done your bit. It's time I returned the favor.",
+   "ro": "Ți-ai făcut treaba. Acum e rândul meu să te ajut."
+  },
+  {
+   "key": "1671903307933282304",
+   "en": "We need to think hard about how to handle the AV.",
+   "ro": "Trebuie să ne gândim bine ce facem cu AV-ul."
+  },
+  {
+   "key": "1671906528303116288",
+   "en": "Let's talk about Anders Hellman.",
+   "ro": "Hai să vorbim despre Anders Hellman."
+  },
+  {
+   "key": "1671909434502803456",
+   "en": "The Raffens – we done with them?",
+   "ro": "Raffens – am terminat cu ei?"
+  },
+  {
+   "key": "1671983102385844224",
+   "en": "Oh no. The Shiv are cockroaches. One's never rid of them.",
+   "ro": "Ah, nu. Shiv sunt ca gândacii. Nu scapi niciodată de ei."
+  },
+  {
+   "key": "1671983386860318720",
+   "en": "But it should be quiet for a time. They'll need to gather their wits and dust themselves off.",
+   "ro": "Dar ar trebui să fie liniște o vreme. Au nevoie să-și vină în fire și să se scuture de praf."
+  },
+  {
+   "key": "1672009703869771776",
+   "en": "Noah, we'll take two rooms. Just for tonight.",
+   "ro": "Noah, luăm două camere. Doar pentru azi noapte."
+  },
+  {
+   "key": "1672011883515342848",
+   "en": "Noah, I'll need a room. Just for tonight.",
+   "ro": "Noah, îmi trebuie o cameră. Doar pentru azi noapte."
+  },
+  {
+   "key": "1672023892847882256",
+   "en": "Look, about Nash...",
+   "ro": "Uite, despre Nash..."
+  },
+  {
+   "key": "1672023892864659464",
+   "en": "So what's the plan?",
+   "ro": "Deci care-i planul?"
+  },
+  {
+   "key": "1672027495755018240",
+   "en": "Look, about Nash…",
+   "ro": "Uite, despre Nash…"
+  },
+  {
+   "key": "1672027962631385088",
+   "en": "I won't talk about it.",
+   "ro": "Nu vreau să vorbesc despre asta."
+  },
+  {
+   "key": "1672028262054359040",
+   "en": "Well, Nash ain't likely to let Rocky Ridge slide, so…",
+   "ro": "Ei bine, Nash nu va lăsa Rocky Ridge să scape, așa că…"
+  },
+  {
+   "key": "1672029416981131264",
+   "en": "Are you worried about me all of a sudden? Or are you just afraid they'll come after us while we're trying to hit the AV?",
+   "ro": "Te îngrijorezi deodată pentru mine? Sau ți-e doar frică să nu vină după noi cât încercăm să lovim AV-ul?"
+  },
+  {
+   "key": "1672030493122097156",
+   "en": "Sure, yeah, worried about you.",
+   "ro": "Sigur, da, îmi fac griji pentru tine."
+  },
+  {
+   "key": "1672033568503230464",
+   "en": "It's about the plan.",
+   "ro": "E vorba despre plan."
+  },
+  {
+   "key": "1672043544487522304",
+   "en": "I'm worried about you.",
+   "ro": "Îmi fac griji pentru tine."
+  },
+  {
+   "key": "1672044338452492288",
+   "en": "That is not your concern anymore, V.",
+   "ro": "Nu mai e treaba ta, V."
+  },
+  {
+   "key": "1672044600160284672",
+   "en": "I will manage. I have always managed. I'm serious.",
+   "ro": "Mă descurc. M-am descurcat mereu. Sunt serioasă."
+  },
+  {
+   "key": "1672045941381263360",
+   "en": "I just hope we'll finish our biz before you go out to get sweet revenge on the Raffens.",
+   "ro": "Sper doar să terminăm afacerile înainte să ieși să-ți iei dulcea răzbunare pe Raffens."
+  },
+  {
+   "key": "1672048044724056064",
+   "en": "You needn't be.",
+   "ro": "Nu e nevoie."
+  },
+  {
+   "key": "1672048119651102720",
+   "en": "Think I've seen through you enough to know what comes next. You're not about to let it go.",
+   "ro": "Te-am citit destul cât să știu ce urmează. N-o să lași baltă."
+  },
+  {
+   "key": "1672049273218920448",
+   "en": "Don't worry. I gave you my word. You'll talk to this Hellman of yours.",
+   "ro": "Nu-ți face griji. Ți-am dat cuvântul. O să vorbești cu Hellman-ul tău."
+  },
+  {
+   "key": "1672050425142571008",
+   "en": "And I will deal with my Raffens later. On my own.",
+   "ro": "Iar cu Raffens mă ocup mai târziu. Singură.",
+   "ro_m": "Iar cu Raffens mă ocup mai târziu. Singur."
+  },
+  {
+   "key": "1672051310308487168",
+   "en": "So, Hellman. What's our plan?",
+   "ro": "Deci, Hellman. Care e planul nostru?"
+  },
+  {
+   "key": "1672051310325264392",
+   "en": "Well, first I need to sort out how to down the AV with one hand while taking out security with the other.",
+   "ro": "Păi, mai întâi trebuie să-mi dau seama cum dobor AV-ul cu o mână și scot securitatea cu cealaltă."
+  },
+  {
+   "key": "1675117613575434240",
+   "en": "Let's meet back here around midnight. Agreed?",
+   "ro": "Hai să ne vedem aici pe la miezul nopții. Ok?"
+  },
+  {
+   "key": "1675124058979168256",
+   "en": "Uh, sure. Catch you later.",
+   "ro": "Ăă, sigur. Ne vedem mai târziu."
+  },
+  {
+   "key": "1675126255318069248",
+   "en": "All right, time we looked to my needs. What's the plan for Hellman?",
+   "ro": "Bine, acum mă ocup de treaba mea. Care e planul pentru Hellman?"
+  },
+  {
+   "key": "1679445865059037184",
+   "en": "So, that package for Street – what was it?",
+   "ro": "Deci, pachetul pentru Street – ce era?"
+  },
+  {
+   "key": "1679494461036933120",
+   "en": "Thanks, Noah.",
+   "ro": "Mulțumesc, Noah."
+  },
+  {
+   "key": "1683751725177630720",
+   "en": "You didn't peek? Baloperidol. Drugs for the cyberpsychos in our midst.",
+   "ro": "N-ai aruncat o privire? Baloperidol. Droguri pentru cyberpsychoii din mijlocul nostru."
+  },
+  {
+   "key": "1683753960607444992",
+   "en": "Yes. They have deals. With black clinics, rippers…",
+   "ro": "Da. Lucrează cu clinici negre, cu rippers…"
+  },
+  {
+   "key": "1683755596654440448",
+   "en": "They trade in 'em?",
+   "ro": "Le și vând?"
+  },
+  {
+   "key": "1683756298025955328",
+   "en": "Cheers. Lemme know if you need anything else.",
+   "ro": "Noroc. Zi-mi dacă mai vrei ceva."
+  },
+  {
+   "key": "1683763968820768768",
+   "en": "We done with the Raffens for good?",
+   "ro": "Am scăpat de Raffens definitiv?"
+  },
+  {
+   "key": "1683769677671165952",
+   "en": "Clan leader, Saul. What's his story?",
+   "ro": "Liderul clanului, Saul. Care e povestea lui?"
+  },
+  {
+   "key": "1683770565789872128",
+   "en": "Listen, you and Saul... Who is he? Your leader or chieftain?",
+   "ro": "Ascultă, tu și Saul... Cine e el? Liderul sau șeful tău?"
+  },
+  {
+   "key": "1683770565789872140",
+   "en": "Their leader.",
+   "ro": "Liderul lor."
+  },
+  {
+   "key": "1683770565806649344",
+   "en": "Were pretty keen to delta the hell out of there before he got back.",
+   "ro": "Eram destul de dornici să ne cărăm naibii de-acolo înainte să se întoarcă."
+  },
+  {
+   "key": "1683770565806649356",
+   "en": "Let's just say Saul wouldn't have been happy to see me.",
+   "ro": "Să zicem doar că lui Saul nu i-ar fi plăcut să mă vadă."
+  },
+  {
+   "key": "1683770565806649368",
+   "en": "What happened?",
+   "ro": "Ce s-a întâmplat?"
+  },
+  {
+   "key": "1683770565806649380",
+   "en": "The reason we came to California was because he promised change for the Aldecaldos. He claimed we would turn over a new leaf.",
+   "ro": "Motivul pentru care am venit în California e că a promis schimbări pentru Aldecaldos. Zicea că o luăm de la capăt."
+  },
+  {
+   "key": "1683770565823426564",
+   "en": "But you saw it yourself. We got a handful of tents on a heap of sand. A hell of a promised land.",
+   "ro": "Dar ai văzut și tu. Avem o mână de corturi pe o grămadă de nisip. Țara făgăduinței, de zile mari."
+  },
+  {
+   "key": "1683770565823426584",
+   "en": "I wanted something different, better. But Saul's a damned coward. He'll be the end of the clan. I'm certain.",
+   "ro": "Am vrut ceva diferit, mai bun. Dar Saul e un laș al dracului. O să fie sfârșitul clanului. Sunt sigură.",
+   "ro_m": "Am vrut ceva diferit, mai bun. Dar Saul e un laș al dracului. O să fie sfârșitul clanului. Sunt sigur."
+  },
+  {
+   "key": "1683774076422320128",
+   "en": "The Aldecaldos – think you'll ever go back? I mean, not right now, but... someday?",
+   "ro": "Aldecaldos – crezi că o să te întorci vreodată? Adică nu acum, da' ... cândva?"
+  },
+  {
+   "key": "1683775529480220672",
+   "en": "I don't rightly know... On the one hand, I don't have anyone outside the clan. Shit, I don't really know any other life.",
+   "ro": "Habar n-am... Pe de o parte, n-am pe nimeni în afara clanului. Căcat, nu cunosc altă viață."
+  },
+  {
+   "key": "1683777361485099008",
+   "en": "But on the other?",
+   "ro": "Și pe de altă parte?"
+  },
+  {
+   "key": "1683777491156201472",
+   "en": "Without my clan, who am I? Who would I become if I stayed in Night City?",
+   "ro": "Fără clanul meu, cine sunt? Cine aș deveni dacă aș rămâne în Night City?"
+  },
+  {
+   "key": "1683781315556143104",
+   "en": "Could make a fresh start. It's doable.",
+   "ro": "Ai putea să începi de la zero. Se poate."
+  },
+  {
+   "key": "1683783759258316800",
+   "en": "Friends're hard to come by in Night City.",
+   "ro": "Prieteni adevărați sunt greu de găsit în Night City."
+  },
+  {
+   "key": "1683784087638765568",
+   "en": "I lost everything in Night City.",
+   "ro": "Am pierdut totul în Night City."
+  },
+  {
+   "key": "1683788620590870528",
+   "en": "Had to leave my clan, too.",
+   "ro": "A trebuit să-mi părăsesc clanul și eu."
+  },
+  {
+   "key": "1683790112269922304",
+   "en": "Ah yeah, I remember. Bakker family, right?",
+   "ro": "A, da, îmi aduc aminte. Familia Bakker, nu?"
+  },
+  {
+   "key": "1683790529821274112",
+   "en": "Mhm. Then I came to Night City, saw my chance, took it...",
+   "ro": "Mhm. Apoi am ajuns în Night City, mi-am văzut șansa, am profitat de ea..."
+  },
+  {
+   "key": "1683792021651320832",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1683792795433299968",
+   "en": "And I lost almost everything.",
+   "ro": "Și am pierdut aproape tot."
+  },
+  {
+   "key": "1683793428521545728",
+   "en": "Shit... That's comforting.",
+   "ro": "Căcat... Asta e liniștitor."
+  },
+  {
+   "key": "1683793909692100608",
+   "en": "Let's talk about something else. Anything else.",
+   "ro": "Hai să vorbim despre altceva. Orice altceva."
+  },
+  {
+   "key": "1683795729969704960",
+   "en": "Truly? Well you don't look like a nomad to me at all.",
+   "ro": "Serios? Păi, nu arăți deloc a nomad."
+  },
+  {
+   "key": "1683796342757519360",
+   "en": "Nash didn't look like Raffen to you, either.",
+   "ro": "Nici Nash nu arăta a Raffens."
+  },
+  {
+   "key": "1683796570894102528",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "1683797297196560384",
+   "en": "Yeah, I was in a clan of my own. Bakker family. Then I landed in Night City.",
+   "ro": "Da, aveam clanul meu. Familia Bakker. Apoi am ajuns în Night City."
+  },
+  {
+   "key": "1683798270660964352",
+   "en": "Really thought I saw my big chance. So I took it, risked everything.",
+   "ro": "Chiar credeam că mi-a picat șansa vieții. Așa că am luat-o, am riscat tot."
+  },
+  {
+   "key": "1683798918815150080",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1683799020803846144",
+   "en": "I lost everything.",
+   "ro": "Am pierdut tot."
+  },
+  {
+   "key": "1683799160709050368",
+   "en": "Well, that's uh... comforting.",
+   "ro": "Păi, asta e... liniștitor."
+  },
+  {
+   "key": "1683799724993933312",
+   "en": "I wouldn't mind changing the subject now.",
+   "ro": "N-ar fi rău să schimbăm subiectul acum."
+  },
+  {
+   "key": "1683800705353773056",
+   "en": "Could just start over again. That's what I did.",
+   "ro": "Ai putea s-o iei de la capăt. Asta am făcut și eu."
+  },
+  {
+   "key": "1683801626070609920",
+   "en": "Mhm. For now, I only seem to be really good at burning bridges.",
+   "ro": "Mhm. Deocamdată, singurul lucru la care mă pricep e să ard podurile."
+  },
+  {
+   "key": "1683801991629369344",
+   "en": "Talkin' about Rogue?",
+   "ro": "Despre Rogue vorbești?"
+  },
+  {
+   "key": "1683802107090169856",
+   "en": "No. But thanks for reminding me.",
+   "ro": "Nu. Dar mulțumesc că mi-ai amintit."
+  },
+  {
+   "key": "1683802365190860800",
+   "en": "V... Do you think I could make a fresh start with her, too?",
+   "ro": "V... Crezi că și eu aș putea s-o iau de la capăt cu ea?"
+  },
+  {
+   "key": "1683803552095006720",
+   "en": "She seems to bet her eddies on the right people. You'll work it out.",
+   "ro": "Se pare că pariază eddies-urile pe oamenii potriviți. O să vă descurcați."
+  },
+  {
+   "key": "1683804511265222656",
+   "en": "Could always try it out, see who you become in Night City.",
+   "ro": "Ai putea să încerci, să vezi cine devii în Night City."
+  },
+  {
+   "key": "1683806908746166272",
+   "en": "'Cept… city doesn't always play fair. Dunno if it's worth sacrificing your friends along the way.",
+   "ro": "Doar că... orașul nu joacă mereu corect. Nu știu dacă merită să-ți sacrifici prietenii pe drum."
+  },
+  {
+   "key": "1683808566586765312",
+   "en": "You mean Mitch? Scorpion? Come on.",
+   "ro": "Te referi la Mitch? Scorpion? Hai, nu fi serios."
+  },
+  {
+   "key": "1683809269417897984",
+   "en": "Sooner or later, Panam, the city'll suck you in. Won't need to cut whatever ties you got left to the Aldecaldos, 'cause the city'll do that for you.",
+   "ro": "Mai devreme sau mai târziu, Panam, orașul o să te înghită. N-o să mai trebuiască să tai ce legături ți-au rămas cu Aldecaldos, că orașul o să facă asta pentru tine."
+  },
+  {
+   "key": "1683811405040054272",
+   "en": "I guess I should think about it…",
+   "ro": "Cred că ar trebui să mă gândesc la asta…"
+  },
+  {
+   "key": "1690785949902565376",
+   "en": "Not quite what I had in mind…",
+   "ro": "Nu chiar ce aveam în minte…"
+  },
+  {
+   "key": "1690786234360262660",
+   "en": "Not exactly what I meant.",
+   "ro": "Nu exact ce am vrut să spun."
+  },
+  {
+   "key": "1690786606428581888",
+   "en": "Separate beds. Sure.",
+   "ro": "Paturi separate. Sigur."
+  },
+  {
+   "key": "1690798291390427136",
+   "en": "Just what did you have in mind?",
+   "ro": "Ce anume aveai în minte?"
+  },
+  {
+   "key": "1690798840290603008",
+   "en": "Just... glad to have met you. Uh, so I thought…",
+   "en_m": "Just, um... Ehm, glad to have met you. Heh, so I thought…",
+   "ro": "Doar... mă bucur că te-am cunoscut. Ăă, așa că m-am gândit…",
+   "ro_m": "Doar, ăă... Ehm, mă bucur că te-am cunoscut. Heh, așa că m-am gândit…"
+  },
+  {
+   "key": "1690802419239874560",
+   "en": "I'm glad we met, too.",
+   "ro": "Mă bucur și eu că ne-am cunoscut."
+  },
+  {
+   "key": "1690802615466192896",
+   "en": "That could've been a damned tough day. But thanks to you, it all went well.",
+   "ro": "Putea să fie o zi al naibii de grea. Dar datorită ție, a ieșit totul bine."
+  },
+  {
+   "key": "1690803716454215680",
+   "en": "Maybe... calls for a little celebration?",
+   "ro": "Poate... merită o mică sărbătoare?"
+  },
+  {
+   "key": "1690805024238202880",
+   "en": "Sure, we can celebrate.",
+   "ro": "Sigur, hai să sărbătorim."
+  },
+  {
+   "key": "1690807412592340992",
+   "en": "Noah, we'll need a room. Twin beds. Just for tonight.",
+   "ro": "Noah, ne trebuie o cameră. Paturi gemene. Doar pentru diseară."
+  },
+  {
+   "key": "1690808322773086208",
+   "en": "OK, I won't insist. Separate beds, got it.",
+   "ro": "OK, nu insist. Paturi separate, am înțeles."
+  },
+  {
+   "key": "1691067485059149844",
+   "en": "Sure, good idea.",
+   "ro": "Sigur, idee bună."
+  },
+  {
+   "key": "1691067485075927040",
+   "en": "How about we just meet here later?",
+   "ro": "Ce zici să ne vedem aici mai târziu?"
+  },
+  {
+   "key": "1691068124640178176",
+   "en": "Know what? Whaddaya say we meet back here later. Got things to do in town.",
+   "en_m": "Ya know what? Whaddaya say we meet back here later. Got things to do in town.",
+   "ro": "Știi ce? Ce zici să ne vedem aici mai târziu. Am treabă prin oraș."
+  },
+  {
+   "key": "1691068124656955404",
+   "en": "Whatever you want. Just come back by midnight.",
+   "ro": "Cum vrei tu. Doar să fii înapoi până la miezul nopții."
+  },
+  {
+   "key": "1691068124656955424",
+   "en": "Noah, I'll need a room. Just for tonight.",
+   "ro": "Noah, îmi trebuie o cameră. Doar pentru azi noapte."
+  },
+  {
+   "key": "1691069158167015424",
+   "en": "Mhm, good idea. Let's do it.",
+   "ro": "Mhm, idee bună. Hai s-o facem."
+  },
+  {
+   "key": "1691069158167015444",
+   "en": "Noah, we'll take two rooms. Just for tonight.",
+   "ro": "Noah, luăm două camere. Doar pentru azi noapte."
+  },
+  {
+   "key": "1691073280412872704",
+   "en": "Maybe just one room?",
+   "ro": "Poate doar o cameră?"
+  },
+  {
+   "key": "1691074126756311040",
+   "en": "Maybe only one room?",
+   "ro": "Sau poate e de ajuns o cameră?"
+  },
+  {
+   "key": "1691074126756311080",
+   "en": "Mhm. Noah has two twin beds in every room. We'll save some money.",
+   "ro": "Mhm. Noah are două paturi gemene în fiecare cameră. O să economisim niște bani."
+  },
+  {
+   "key": "1691074714814509056",
+   "en": "Not quite what I had in mind…",
+   "ro": "Nu chiar ce aveam în minte…"
+  },
+  {
+   "key": "1691074714814509068",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1691074714814509080",
+   "en": "Don't worry about it. I'm glad we met, too.",
+   "ro": "Nu-ți face griji. Mă bucur și eu că ne-am cunoscut."
+  },
+  {
+   "key": "1691074714831286276",
+   "en": "That was a damned tough day, but still we pulled through.",
+   "ro": "A fost o zi al naibii de grea, dar până la urmă am scăpat."
+  },
+  {
+   "key": "1691074714831286288",
+   "en": "And we'll do it again tomorrow.",
+   "ro": "Și o să o facem iar mâine."
+  },
+  {
+   "key": "1691074714831286300",
+   "en": "I like to hear that. Are we all right?",
+   "ro": "Îmi place să aud asta. Suntem bine?"
+  },
+  {
+   "key": "1691074714881617920",
+   "en": "Not exactly what I meant.",
+   "ro": "Nu exact ce am vrut să spun."
+  },
+  {
+   "key": "1691074714881617936",
+   "en": "Separate beds. Got it.",
+   "ro": "Paturi separate. Am înțeles."
+  },
+  {
+   "key": "1691074714999058432",
+   "en": "Separate beds. Got it.",
+   "ro": "Paturi separate. Am înțeles."
+  },
+  {
+   "key": "1691089637510606848",
+   "en": "Just... glad to have met you, so I thought…",
+   "ro": "Doar... mă bucur că te-am cunoscut, așa că m-am gândit…"
+  },
+  {
+   "key": "1691091362611064832",
+   "en": "Mhm. Yeah.",
+   "ro": "Mhm. Da."
+  },
+  {
+   "key": "1691093759957790720",
+   "en": "But not today. I'm beat.",
+   "ro": "Dar nu azi. Sunt moartă de oboseală.",
+   "ro_m": "Dar nu azi. Sunt mort de oboseală."
+  },
+  {
+   "key": "1693655008426831872",
+   "en": "[Drink] To your ride!",
+   "ro": "[Bea] Pentru mașina ta!"
+  },
+  {
+   "key": "1693848563174846468",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1722745890799071236",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722785434411970560",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722785560207536128",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722785878991417344",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722786068355854336",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722786363534192640",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722786458627452928",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722786552646971392",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722786613263052800",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1744273072545312768",
+   "en": "Another one over here.",
+   "ro": "Încă una aici."
+  },
+  {
+   "key": "1744351498041159680",
+   "en": "We'll get to work around midnight, it will help keep us out of sight. Agreed?",
+   "ro": "Ne apucăm de treabă pe la miezul nopții, o să ne ajute să rămânem neobservați. Ce zici?"
+  },
+  {
+   "key": "1744361903572512768",
+   "en": "With what we want to do, we should make sure to be almost invisible.",
+   "ro": "Cu ce vrem să facem, trebuie să fim cât mai discreți."
+  },
+  {
+   "key": "1785119143303294976",
+   "en": "Cheers – here's to what's yet to come!",
+   "ro": "Noroc – pentru ce urmează!"
+  },
+  {
+   "key": "1785120209864470528",
+   "en": "[Drink] To what's ahead!",
+   "ro": "[Bea] Pentru ce urmează!"
+  },
+  {
+   "key": "1785161910135156736",
+   "en": "Well – here's to that Thorn of yours!",
+   "ro": "Păi – pentru Thorn-ul tău!"
+  },
+  {
+   "key": "1785164310250123264",
+   "en": "To what's to come.",
+   "ro": "Pentru ce urmează."
+  },
+  {
+   "key": "1786667350463475712",
+   "en": "Don't really feel like drinking. But don't let that deter you.",
+   "ro": "Nu prea am chef să beau. Da' nu te opri din cauza mea.",
+   "ro_m": "Nu prea am chef să beau. Dar nu te lăsa descurajat."
+  },
+  {
+   "key": "1786670939227418624",
+   "en": "I don't aim to.",
+   "ro": "Nu asta e intenția mea."
+  },
+  {
+   "key": "1816953231554535424",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1816958959061196800",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1976297277084004352",
+   "en": "I've come up with a plan, a first draft, but I need to sleep on it, work it out. Then we can talk about the details.",
+   "ro": "Am un plan, o primă variantă, dar trebuie să dorm peste el și să-l pun la punct. Apoi vorbim de detalii."
+  },
+  {
+   "key": "1976299177909022720",
+   "en": "I think it best to rent rooms here, just to stay in the area.",
+   "ro": "Cred că e mai bine să luăm camere aici, să rămânem prin zonă."
+  },
+  {
+   "key": "1995274390334844932",
+   "en": "[Lie down]",
+   "ro": "[Culcă-te]"
+  },
+  {
+   "key": "1995276651165364224",
+   "en": "[Lie down]",
+   "ro": "[Culcă-te]"
+  },
+  {
+   "key": "1995278811500359680",
+   "en": "G'night.",
+   "ro": "Noapte bună."
+  },
+  {
+   "key": "1995306323030814720",
+   "en": "Ooph, I'm starting to feel that stress go away.",
+   "ro": "Ooof, parcă simt că stresul se duce."
+  },
+  {
+   "key": "1995398049167962112",
+   "en": "Well, that's all settled then.",
+   "ro": "Păi, atunci e totul aranjat."
+  },
+  {
+   "key": "1995402539824705536",
+   "en": "Catch you later.",
+   "ro": "Ne vedem mai târziu."
+  },
+  {
+   "key": "1995403120467374080",
+   "en": "Catch you later.",
+   "ro": "Ne vedem mai târziu."
+  },
+  {
+   "key": "1995404269069135872",
+   "en": "I'll go catch a few winks. See you later.",
+   "ro": "Mă duc să trag un pui de somn. Ne vedem mai târziu."
+  },
+  {
+   "key": "1995405053185880064",
+   "en": "I'll go catch a few winks. See you later.",
+   "ro": "Mă duc să trag un pui de somn. Ne vedem mai târziu."
+  },
+  {
+   "key": "1995411006513868800",
+   "en": "I'll go catch a few winks.",
+   "ro": "Mă duc să trag un pui de somn."
+  },
+  {
+   "key": "1995416494139895808",
+   "en": "I'll probably be out as soon as I hit the sack.",
+   "ro": "Probabil o să adorm imediat ce mă bag în pat."
+  },
+  {
+   "key": "1995416951855902720",
+   "en": "You had better get some rest, too. This is only the beginning.",
+   "ro": "Și tu ar trebui să te odihnești. Abia a început."
+  },
+  {
+   "key": "1995417758219235328",
+   "en": "That's the plan.",
+   "ro": "Asta e planul."
+  },
+  {
+   "key": "1995422532343820288",
+   "en": "Mhmmm...",
+   "ro": "Mhmmm..."
+  },
+  {
+   "key": "2034506613457924128",
+   "en": "Thanks, won't partake, myself.",
+   "ro": "Mersi, eu mă abțin."
+  },
+  {
+   "key": "2038682478358016000",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  }
+ ]
+}

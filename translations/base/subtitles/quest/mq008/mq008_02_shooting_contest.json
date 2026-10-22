@@ -1,0 +1,654 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq008\\mq008_02_shooting_contest.json",
+ "entries": [
+  {
+   "key": "1811060735789395968",
+   "en": "Who else wants a shot at Holt? I can't hear you!",
+   "ro": "Cine mai vrea să tragă în Holt? Nu vă aud!"
+  },
+  {
+   "key": "1811067552674246656",
+   "en": "Any more Second Amendment fans in the house? Huh?",
+   "ro": "Mai sunt fani ai celui de-al Doilea Amendament pe-aici? Hm?"
+  },
+  {
+   "key": "1811068328637263872",
+   "en": "To Gunner!",
+   "ro": "Pentru Gunner!"
+  },
+  {
+   "key": "1811079667669692416",
+   "en": "Listen up! Gunner wants you all to have a good time. A good fuckin' time!",
+   "ro": "Atenție! Gunner vrea să vă distrați. Să vă distrați ca dracu', pula mea!"
+  },
+  {
+   "key": "1811157344602714112",
+   "en": "So we got a prize for the winner!",
+   "ro": "Așa că avem un premiu pentru câștigător!"
+  },
+  {
+   "key": "1811157647683121152",
+   "en": "Yeeeaahh! Woo-hooooo!",
+   "ro": "Yeeeaahh! Woo-hooooo!"
+  },
+  {
+   "key": "1811168035799724032",
+   "en": "Well? Who else wants to try their luck?",
+   "ro": "Păi? Cine mai vrea să-și încerce norocul?"
+  },
+  {
+   "key": "1811177915247915008",
+   "en": "The hell you want?",
+   "ro": "Ce naiba vrei?"
+  },
+  {
+   "key": "1811179891369078788",
+   "en": "What'd you say to me?",
+   "ro": "Ce mi-ai zis?"
+  },
+  {
+   "key": "1811180387404247040",
+   "en": "What'd you say?",
+   "ro": "Ce-ai zis?"
+  },
+  {
+   "key": "1811182197682630656",
+   "en": "Said to fuck off. But I see you didn't catch my drift. Yo, Joe!",
+   "ro": "Am zis să te duci în pula mea. Dar nu pare să fi prins ideea. Yo, Joe!"
+  },
+  {
+   "key": "1811182472828973056",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1811182684255449088",
+   "en": "C'mere. We got a smartass punk here, can't seem to find her way out.",
+   "en_m": "C'mere. We got a smartass punk here, can't seem to find his way out.",
+   "ro": "Vino încoace. Avem aici o golană mare deșteaptă, care nu pare să-și găsească ieșirea.",
+   "ro_m": "Vino încoace. Avem aici un golan mare deștept, care nu pare să-și găsească ieșirea."
+  },
+  {
+   "key": "1811185908601483264",
+   "en": "Yeah, we all wanna good laugh, Walker.",
+   "ro": "Da, toți vrem să ne amuzăm puțin, Walker."
+  },
+  {
+   "key": "1811222176395849732",
+   "en": "I'm in.",
+   "ro": "Intru."
+  },
+  {
+   "key": "1811222884193038336",
+   "en": "What are the rules?",
+   "ro": "Care sunt regulile?"
+  },
+  {
+   "key": "1811223176938680320",
+   "en": "And the rules of the game?",
+   "ro": "Și regulile jocului?"
+  },
+  {
+   "key": "1811225542375141376",
+   "en": "Now, this ain't your average shootin' match. You gotta have a good eye... but an even stronger head.",
+   "ro": "Acum, nu-i un concurs de tras obișnuit. Trebuie să ai ochi buni... și capul și mai tare."
+  },
+  {
+   "key": "1811228463925981184",
+   "en": "'Cause we all drink a round before each shot. To Gunner, the new boss in town.",
+   "ro": "Că bem câte un rând înainte de fiecare foc. Pentru Gunner, noul șef al orașului."
+  },
+  {
+   "key": "1811231728570888192",
+   "en": "Like the sound of that. Anything else I should know?",
+   "ro": "Îmi place cum sună. Mai e ceva ce ar trebui să știu?"
+  },
+  {
+   "key": "1811232112785911808",
+   "en": "Four stations. You shoot at the targets with Holt's face in the time limit. The more bootlickers you pop, the better.",
+   "ro": "Patru stații. Tragi în țintele cu mutra lui Holt până expiră timpul. Cu cât pocnești mai mulți lingăi, cu atât mai bine."
+  },
+  {
+   "key": "1811235876603326464",
+   "en": "High score so far belongs to Walker – forty three points. You beat him... prize is yours.",
+   "ro": "Cel mai mare scor e al lui Walker, patruzeci și trei de puncte. Dacă-l bați... premiul e al tău."
+  },
+  {
+   "key": "1811248736406499328",
+   "en": "Nah, not for me.",
+   "ro": "Nah, nu-i pentru mine."
+  },
+  {
+   "key": "1812339069638832128",
+   "en": "Let's shoot the shit outta Holt.",
+   "ro": "Hai să-l facem sită pe Holt!"
+  },
+  {
+   "key": "1812342785842507776",
+   "en": "Take this revolver. Use it if you want your shots to count. We're testin' skill, not tech here.",
+   "ro": "Ia revolverul ăsta. Folosește-l dacă vrei ca focurile tale să conteze. Aici testăm abilitatea, nu tech-ul."
+  },
+  {
+   "key": "1812429352669966340",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1812430419432468480",
+   "en": "Aackhh...",
+   "ro": "Aackhh..."
+  },
+  {
+   "key": "1812431652272631808",
+   "en": "Twelve seconds! Go!",
+   "ro": "Douăsprezece secunde! Hai!"
+  },
+  {
+   "key": "1812466416409014272",
+   "en": "Stop! Time's up! Next station!",
+   "ro": "Stop! Gata timpul! Următoarea stație!"
+  },
+  {
+   "key": "1812482393955790852",
+   "en": "Hey, hey! Vodka first! Then you blast Holt a new one!",
+   "ro": "Hei, hei! Mai întâi vodka! Apoi îl faci praf pe Holt!"
+  },
+  {
+   "key": "1812482393972568064",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1812482394006122500",
+   "en": "Ughh... The hell's this? Rubbing alcohol?",
+   "ro": "Ughh... Ce naiba e asta? Alcool sanitar?"
+  },
+  {
+   "key": "1812482394006122508",
+   "en": "Who cares! Shoot! You got twelve seconds!",
+   "ro": "Cui naiba îi pasă! Trage! Ai douăsprezece secunde!"
+  },
+  {
+   "key": "1812482394073231364",
+   "en": "Aaaand... Stop! Next station!",
+   "ro": "Șiiiii... Stop! Următoarea stație!"
+  },
+  {
+   "key": "1813798969942372352",
+   "en": "Down the hatch! To Gunner!",
+   "ro": "Pe gât! Pentru Gunner!"
+  },
+  {
+   "key": "1813798969959149568",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1813798970194030596",
+   "en": "Ooof...",
+   "ro": "Ooof..."
+  },
+  {
+   "key": "1813798970194030604",
+   "en": "You got twelve seconds! Go, go, go!",
+   "ro": "Ai douăsprezece secunde! Hai, hai, hai!"
+  },
+  {
+   "key": "1813798970244362244",
+   "en": "Stop! Last station!",
+   "ro": "Stop! Ultima stație!"
+  },
+  {
+   "key": "1813803599514464260",
+   "en": "One more round! Drink!",
+   "ro": "Încă un rând! Bea!"
+  },
+  {
+   "key": "1813803599531241472",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1813803599548018692",
+   "en": "Ugh... So warm...",
+   "ro": "Ugh... Ce cald e..."
+  },
+  {
+   "key": "1813803599564795904",
+   "en": "What else would it be in this heat? Shoot! Twelve seconds!",
+   "ro": "Ce altceva ar fi, pe căldura asta? Trage! Douăsprezece secunde!"
+  },
+  {
+   "key": "1813803599615127556",
+   "en": "Time's up! That's it! Go check your stats!",
+   "ro": "Gata, timpul! Asta-i tot! Mergi și vezi statisticile!"
+  },
+  {
+   "key": "1813811612094722048",
+   "en": "Now let's see...",
+   "ro": "Acum să vedem..."
+  },
+  {
+   "key": "1813818641077137408",
+   "en": "Last place. Choom, even Keebler did better.",
+   "ro": "Ultimul loc. Choom, până și Keebler s-a priceput mai bine."
+  },
+  {
+   "key": "1813819526645706752",
+   "en": "Fourth place... out of five. Congrats, you beat Keebler.",
+   "ro": "Locul patru... din cinci. Felicitări, l-ai bătut pe Keebler."
+  },
+  {
+   "key": "1813820147234926592",
+   "en": "Third place. Middle of the road.",
+   "ro": "Locul trei. Mediocru."
+  },
+  {
+   "key": "1813820561783156736",
+   "en": "Second place. Not bad, not bad.",
+   "ro": "Locul doi. Nu e rău, nu e rău."
+  },
+  {
+   "key": "1813821181818728448",
+   "en": "First place. By a landslide. Here... Won it fair and square.",
+   "ro": "Locul întâi. Cu mare avans. Uite... Câștigat cinstit."
+  },
+  {
+   "key": "1813821730215587840",
+   "en": "Hahahaha!",
+   "ro": "Hahahaha!"
+  },
+  {
+   "key": "1813823220669902848",
+   "en": "And for the winner... With Gunner's congratulations.",
+   "ro": "Iar pentru câștigător... Cu felicitările lui Gunner."
+  },
+  {
+   "key": "1813823848657874944",
+   "en": "Woo-hooo! N-U-S-A! N-U-S-A!",
+   "ro": "Woo-hooo! N-U-S-A! N-U-S-A!"
+  },
+  {
+   "key": "1813823967826440192",
+   "en": "And now – let's drink! 6th Street! 6th Street!",
+   "ro": "Și acum – să bem! 6th Street! 6th Street!"
+  },
+  {
+   "key": "1813824604840554496",
+   "en": "Hahahahah!",
+   "ro": "Hahahahah!"
+  },
+  {
+   "key": "1813825864289382400",
+   "en": "Not bad... For a no-name little punk.",
+   "ro": "Nu-i rău... Pentru un golan anonim."
+  },
+  {
+   "key": "1813827217422184448",
+   "en": "Would ya look at that. The punk is good for something.",
+   "ro": "Uite-te la asta. Golanul ăsta e bun la ceva."
+  },
+  {
+   "key": "1813827929833107456",
+   "en": "The hell?! Not fuckin' possible!",
+   "ro": "Ce dracu'?! Nu-i posibil, pula mea!"
+  },
+  {
+   "key": "1813828078613458944",
+   "en": "Not gonna lie, I'm impressed.",
+   "ro": "Nu mint, sunt impresionat."
+  },
+  {
+   "key": "1813828764415717376",
+   "en": "Y'know – 6th Street could use a few more shooters like you. I'm sure Gunner'd like to meet ya. Take you under his wing, probably.",
+   "ro": "Zi-i ce vrei, 6th Street ar avea nevoie de niște trăgători ca tine. Lui Gunner sigur i-ar plăcea să te cunoască. Probabil te-ar lua sub aripa lui."
+  },
+  {
+   "key": "1814199674855387136",
+   "en": "Hey! Hey, you! Where do I know you from, huh?",
+   "ro": "Hei! Hei, tu! De unde te știu, ha?"
+  },
+  {
+   "key": "1814201720065126400",
+   "en": "Wait, I know! I know where I saw you before! You were shooting at us!",
+   "ro": "Stai, stai că știu! Știu unde te-am mai văzut! Trăgeai în noi!"
+  },
+  {
+   "key": "1814203205167509504",
+   "en": "Look, I dunno why you're here or what you want. But I know what you're gonna get! Zero her!",
+   "en_m": "Look, I dunno why you're here or what you want. But I know what you're gonna get! Zero him!",
+   "ro": "Uite, nu știu de ce ești aici sau ce vrei. Dar știu ce-o să primești! Lichideaz-o!",
+   "ro_m": "Uite, nu știu de ce ești aici sau ce vrei. Dar știu ce-o să primești! Lichidează-l!"
+  },
+  {
+   "key": "1822749305994375168",
+   "en": "I'm tellin' ya, man... The breeze... Whoosh! Th-threw it all off...",
+   "ro": "Îți zic, frate... Briza... Whoosh! A dat totul peste cap..."
+  },
+  {
+   "key": "1822784389636059136",
+   "en": "'Ey! But, but I said, my finger slipped...",
+   "ro": "Hei! Dar, dar am zis, mi-a alunecat degetul..."
+  },
+  {
+   "key": "1822785173182377984",
+   "en": "You had your chance, Rudy.",
+   "ro": "Ți-ai avut șansa, Rudy."
+  },
+  {
+   "key": "1822785459200356352",
+   "en": "No fuckin' fair...",
+   "ro": "Nu-i corect, pula mea..."
+  },
+  {
+   "key": "1822789663704903680",
+   "en": "I'ma... I'ma throw up...",
+   "ro": "Îmi vine să vomit..."
+  },
+  {
+   "key": "1851869500946042880",
+   "en": "That a trick question? This is a party, right?",
+   "ro": "E vreo întrebare capcană? E petrecere, nu?"
+  },
+  {
+   "key": "1851871297601327104",
+   "en": "Invitation only. For those who bleed red, white and blue. So fuck off.",
+   "ro": "Doar pe invitație. Pentru cei care sângerează roșu, alb și albastru. Deci, cară-te dracu'."
+  },
+  {
+   "key": "1851872227830845440",
+   "en": "Chill. Just wanna have some fun.",
+   "ro": "Calmează-te. Vreau doar să mă distrez."
+  },
+  {
+   "key": "1851878785977470976",
+   "en": "Whatever. See you.",
+   "ro": "Ce-o fi. Ne vedem."
+  },
+  {
+   "key": "1851880163470790656",
+   "en": "Chill. Just wanted to have a good time. Drink a beer, smoke.",
+   "ro": "Calmează-te. Voiam doar să mă distrez. Să beau o bere, să fumez."
+  },
+  {
+   "key": "1851881437901672448",
+   "en": "Whatever. I'm out.",
+   "ro": "Ce-o fi. Mă car."
+  },
+  {
+   "key": "1851882792779304960",
+   "en": "What, you deaf? Fuckin' scram!",
+   "ro": "Ce, ești surdă? Cară-te dracu'!",
+   "ro_m": "Ce, ești surd? Cară-te dracu'!"
+  },
+  {
+   "key": "1851895887916486660",
+   "en": "Sorry. I'll be off.",
+   "ro": "Scuze. Mă car."
+  },
+  {
+   "key": "1851897956698214400",
+   "en": "This look like a fuckin' neighborhood picnic to you?",
+   "ro": "Ți se pare picnic de cartier, dracu'?"
+  },
+  {
+   "key": "1851898662901567488",
+   "en": "Choom, you are a little tense. Something wrong? Problems at home?",
+   "en_m": "Choom, you're a little tense. Something wrong? Problems at home?",
+   "ro": "Choom, ești un pic încordată. Ceva nu-i în regulă? Probleme acasă?",
+   "ro_m": "Choom, ești un pic încordat. Ceva nu-i în regulă? Probleme acasă?"
+  },
+  {
+   "key": "1851899460842737664",
+   "en": "OK, here's what's gonna happen. You say \"I'm sorry,\" then you fuckin' delta.",
+   "ro": "Bine, uite ce facem. Zici „Îmi pare rău”, apoi o tai dracu'."
+  },
+  {
+   "key": "1851900296348094464",
+   "en": "Or else I delta you myself. Right to the bottom of the Del Coronado.",
+   "ro": "Altfel te car eu, personal. Direct până-n fundul Del Coronado."
+  },
+  {
+   "key": "1851900999263113216",
+   "en": "Or else what?",
+   "ro": "Sau ce?"
+  },
+  {
+   "key": "1851904051776901120",
+   "en": "[Draw weapon]",
+   "ro": "[Scoate arma]"
+  },
+  {
+   "key": "1851904780092624896",
+   "en": "My bad.",
+   "ro": "Greșeala mea."
+  },
+  {
+   "key": "1851905054500769792",
+   "en": "Very good. Now get out before I change my mind.",
+   "ro": "Bun. Acum valea, înainte să mă răzgândesc."
+  },
+  {
+   "key": "1851905524917129216",
+   "en": "Sorry, really sorry...",
+   "ro": "Scuze, chiar îmi pare rău..."
+  },
+  {
+   "key": "1851907812138209280",
+   "en": "But I'm gonna have to shut this party down.",
+   "ro": "Dar trebuie să închid petrecerea asta."
+  },
+  {
+   "key": "1851910027821240320",
+   "en": "Oh, you're a jokester, huh? You lookin' for a good laugh?",
+   "ro": "Ei, ești glumeț, ha? Cauți să râzi un pic?"
+  },
+  {
+   "key": "1851911361542803456",
+   "en": "Such a nice day, everyone havin' a good time. Like a little 4th of July. Be a shame to tell Gunner someone fucked it up, y'know?",
+   "ro": "Ce zi frumoasă, toată lumea se distrează. Ca de 4 iulie, mai mic. Ar fi păcat să-i zic lui Gunner că a dat-o cineva-n bară, nu?"
+  },
+  {
+   "key": "1851912628172279808",
+   "en": "Yeah, I know. Fine.",
+   "ro": "Da, știu. Bine."
+  },
+  {
+   "key": "1851912858187911168",
+   "en": "That's my choom. Go, drink, enjoy yourself. Celebrate that decent score of yours.",
+   "ro": "Așa da, un choom de-al meu. Du-te, bea, distrează-te. Sărbătorește scorul ăla decent."
+  },
+  {
+   "key": "1851922052773367808",
+   "en": "Just as I thought. You looked to me like a show-off. Let's see what ya got.",
+   "ro": "Exact cum credeam. Ai aer de fanfaron. Hai să vedem ce știi."
+  },
+  {
+   "key": "1851928675596161024",
+   "en": "Because...?",
+   "ro": "Pentru că...?"
+  },
+  {
+   "key": "1851952375343140864",
+   "en": "Enough talkin'. Let's shoot.",
+   "ro": "Gata cu vorbitul. Hai să tragem."
+  },
+  {
+   "key": "1851953600650334208",
+   "en": "Go ahead to the first station. We'll start whenever you're ready. Break a leg.",
+   "ro": "Mergi la prima stație. Începem când ești gata. Baftă."
+  },
+  {
+   "key": "1853002334221946884",
+   "en": "Gunner can jump off a megabuilding.",
+   "ro": "Gunner poate să sară de pe un megabuilding."
+  },
+  {
+   "key": "1853002749290270720",
+   "en": "Thanks, but no thanks.",
+   "ro": "Mulțumesc, dar nu."
+  },
+  {
+   "key": "1853003197057388544",
+   "en": "Gunner can go jump off 'Saka Tower.",
+   "ro": "Gunner se poate duce dracu' să sară de pe 'Saka Tower."
+  },
+  {
+   "key": "1853003670409760768",
+   "en": "You come on our turf. Crash our party. Drink our booze. And now you wanna insult the host?",
+   "ro": "Vii pe teritoriul nostru. Ne strici petrecerea, ne bei băutura. Și acum vrei să-l jignești pe gazdă?"
+  },
+  {
+   "key": "1853004128075436032",
+   "en": "This I don't like. How 'bout you, Walker?",
+   "ro": "Asta nu-mi place. Tu ce zici, Walker?"
+  },
+  {
+   "key": "1853006273428377600",
+   "en": "Me neither. Not one fuckin' bit.",
+   "ro": "Nici mie. Deloc, pula mea."
+  },
+  {
+   "key": "1853006995771412480",
+   "en": "I'm flattered, really, but... I gotta say no. Not for me.",
+   "en_m": "I'm flattered, really... But I gotta say no. It's not for me.",
+   "ro": "Sunt lisonjită, serios, dar... trebuie să zic nu. Nu e de mine.",
+   "ro_m": "Sunt lisonjit, serios, dar... trebuie să zic nu. Nu e de mine."
+  },
+  {
+   "key": "1853007563881500672",
+   "en": "Understood.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1853007798628306944",
+   "en": "We had a little fun today. Drank together.",
+   "ro": "Ne-am distrat cam tare azi. Am băut împreună."
+  },
+  {
+   "key": "1853008120633413632",
+   "en": "But I see you on the street later, it won't make no difference. You're either with us, or against us.",
+   "ro": "Da' dacă te văd pe stradă mai târziu, nu mai contează. Ori ești cu noi, ori ești contra noastră."
+  },
+  {
+   "key": "1853009093292511232",
+   "en": "I'll keep that in mind.",
+   "ro": "O să țin minte."
+  },
+  {
+   "key": "1853014883562737664",
+   "en": "I told y'all not to trust that little shit!",
+   "ro": "V-am zis să nu aveți încredere în căcatul ăla cu ochi!"
+  },
+  {
+   "key": "1902275450387091460",
+   "en": "Having yourselves a competition? I want in.",
+   "ro": "Ce, aveți concurs? Vreau și eu."
+  },
+  {
+   "key": "1902276147178426368",
+   "en": "I'm going.",
+   "ro": "Mă duc."
+  },
+  {
+   "key": "1902276565870628864",
+   "en": "Enjoy your little circle jerk. I'm outta here.",
+   "ro": "Bucurați-vă de cercul vostru de onaniști. Mă car de-aici."
+  },
+  {
+   "key": "1902277516232806400",
+   "en": "Heh. Don't let us stop ya.",
+   "ro": "Heh. Nu te oprim."
+  },
+  {
+   "key": "1902277748647579648",
+   "en": "Got some kinda competition goin' on?",
+   "ro": "Aveți vreo competiție pe aici?"
+  },
+  {
+   "key": "1902278231059648512",
+   "en": "Yup. Lead-spittin' kind.",
+   "ro": "Da. De scuipat plumb."
+  },
+  {
+   "key": "1902278622035890176",
+   "en": "What? You scared I'd leave you all in the dust?",
+   "ro": "Ce? Ți-e frică să nu vă las pe toți în praf?"
+  },
+  {
+   "key": "1902279794897506304",
+   "en": "I want in.",
+   "ro": "Vreau să intru."
+  },
+  {
+   "key": "1902280437531987968",
+   "en": "Shit outta luck. We were about to call it.",
+   "ro": "Căcat de ghinion. Era să renunțăm."
+  },
+  {
+   "key": "1902281862622269440",
+   "en": "Do you know who you're fucking talking to? Hm? I been deployed three times! Three! I fought on the front lines!",
+   "ro": "Știi cu cine dracu' vorbești? Ha? Am fost trimis de trei ori! Trei! Am luptat în primele linii!"
+  },
+  {
+   "key": "1902284697653006336",
+   "en": "Easy, Walker. What did I say, huh? We're just here to have a good time. You got somethin' to prove, be our guest. Heh, it'll be fun.",
+   "ro": "Ia-o ușor, Walker. Ce-am zis? Suntem aici să ne distrăm. Ai ceva de dovedit? Atunci bagă, n-ai decât. Heh, o să fie distractiv."
+  },
+  {
+   "key": "2096676134591631388",
+   "en": "Well, come on! Drink!",
+   "ro": "Hai, bea!"
+  },
+  {
+   "key": "2231852638439981056",
+   "en": "Who you tryin' to impress, girl? You don't got the skills, fine. No need to make a damn fool of yourself, too.",
+   "en_m": "Who you tryin' to impress, choom? You don't got the skills, fine. No need to make a damn fool of yourself, too.",
+   "ro": "Pe cine încerci să impresionezi, fată? N-ai abilități, bine. Nu-i nevoie să te faci de tot râsul, fir-ar.",
+   "ro_m": "Pe cine încerci să impresionezi, choom? N-ai abilități, bine. Nu-i nevoie să te faci de tot râsul, fir-ar."
+  },
+  {
+   "key": "2232959424366624768",
+   "en": "No no no, just don't go past the line when shooting. Automatic disqualification.",
+   "ro": "Nu, nu, nu, doar să nu treci linia când tragi. Descalificare automată."
+  },
+  {
+   "key": "2232959525482905600",
+   "en": "Over the line! Disqualified!",
+   "ro": "Peste linie! Descalificată!",
+   "ro_m": "Peste linie! Descalificat!"
+  },
+  {
+   "key": "2232960083644104708",
+   "en": "You cross that line and shoot, you're outta the game!",
+   "ro": "Treci linia și tragi, ești scoasă din joc!",
+   "ro_m": "Treci linia și tragi, ești scos din joc!"
+  },
+  {
+   "key": "2232960083694436356",
+   "en": "Well, bravo, champ! Fun's over for you.",
+   "ro": "Bravo, campionule! Distracția s-a terminat pentru tine."
+  },
+  {
+   "key": "2232960148269940740",
+   "en": "'Ey, toe that line. We don't like cheaters here.",
+   "ro": "Hei, stai pe linie. Nu ne plac trișorii aici."
+  },
+  {
+   "key": "2232960148320272388",
+   "en": "Hey hey, hold it! What, you thought I wouldn't notice?",
+   "ro": "Hei, hei, stai! Ce, credeai că n-o să observ?"
+  },
+  {
+   "key": "2232960214724493316",
+   "en": "Don't forget the line! One toe over and you're gone!",
+   "ro": "Nu uita de linie! Un deget peste și ești eliminată!",
+   "ro_m": "Nu uita de linie! Un deget peste și ești eliminat!"
+  },
+  {
+   "key": "2232960214774824964",
+   "en": "That's it, you're out! In the home stretch, too!",
+   "ro": "Asta e, ai ieșit! Chiar pe ultima sută de metri!"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\rey_101_bouncer.json",
+ "entries": [
+  {
+   "key": "1896732265202085888",
+   "en": "[db_db]Name?",
+   "ro": "[db_db]Nume?"
+  },
+  {
+   "key": "1896732363181027328",
+   "en": "[db_db]V",
+   "ro": "[db_db]V"
+  },
+  {
+   "key": "1896732453912211456",
+   "en": "[db_db]V",
+   "ro": "[db_db]V"
+  },
+  {
+   "key": "1896733681618546688",
+   "en": "[db_db]Ms. V, come inside",
+   "en_m": "[db_db]Mr. V, come inside",
+   "ro": "[db_db]Dna. V, intrați",
+   "ro_m": "[db_db]Dl. V, intrați"
+  }
+ ]
+}

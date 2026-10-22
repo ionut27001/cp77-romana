@@ -1,0 +1,544 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_corpo_03_jenkins.json",
+ "entries": [
+  {
+   "key": "1663288107007385600",
+   "en": "Have a seat, V. Be right with you.",
+   "ro": "Ia loc, V. Revin imediat."
+  },
+  {
+   "key": "1664894783925952512",
+   "en": "You know what to do. Start now.",
+   "ro": "Știi ce ai de făcut. Începe acum."
+  },
+  {
+   "key": "1664921029732900864",
+   "en": "As we agreed – I got rid of the problem.",
+   "ro": "Cum am convenit – am scăpat de problemă."
+  },
+  {
+   "key": "1664925576408768512",
+   "en": "I told you to resolve the problem not massacre the European Space Council. Do you understand what the cover-up will cost?",
+   "ro": "Ți-am spus să rezolvi problema, nu să masacrezi European Space Council. Îți dai seama cât o să coste mușamalizarea?"
+  },
+  {
+   "key": "1664925927035805696",
+   "en": "I hate that bitch. I always have.",
+   "ro": "Urăsc javra aia. Dintotdeauna am urât-o."
+  },
+  {
+   "key": "1664955908491223044",
+   "en": "[Take shard]",
+   "ro": "[Ia shard-ul]"
+  },
+  {
+   "key": "1664965843421667328",
+   "en": "Yeah, I think we're clear.",
+   "ro": "Da, cred că suntem clari."
+  },
+  {
+   "key": "1664982889727434752",
+   "en": "Need your help.",
+   "ro": "Am nevoie de o mână de ajutor."
+  },
+  {
+   "key": "1665076234868924416",
+   "en": "It's what I've collected over the past weeks.",
+   "ro": "Asta am strâns în ultimele săptămâni."
+  },
+  {
+   "key": "1686759468713308160",
+   "en": "A deep clean. After the shit Frankfurt dumped on us.",
+   "ro": "O curățenie generală. După mizeria pe care ne-a lăsat-o Frankfurt."
+  },
+  {
+   "key": "1686760140338819072",
+   "en": "I watched the vote. What the hell was that?",
+   "ro": "Am urmărit votul. Ce naiba a fost asta?"
+  },
+  {
+   "key": "1686787344930107392",
+   "en": "Have to handle this voting issue before we lose our bases in the Sea of Clouds.",
+   "ro": "Trebuie să rezolvăm chestia cu votul, până nu pierdem bazele din Sea of Clouds."
+  },
+  {
+   "key": "1686799714234593280",
+   "en": "They're about to begin. What's the situation?",
+   "ro": "O să înceapă imediat. Cum stăm?"
+  },
+  {
+   "key": "1686827792566513664",
+   "en": "Path of least resistance, always. No nuance. Has you written all over it.",
+   "ro": "Mereu calea cea mai ușoară. Fără nuanțe. Are amprenta ta peste tot."
+  },
+  {
+   "key": "1686827966210699264",
+   "en": "We're not done talking about this.",
+   "ro": "Nu am terminat discuția asta."
+  },
+  {
+   "key": "1686870942559432704",
+   "en": "A datashard?",
+   "ro": "Un datashard?"
+  },
+  {
+   "key": "1686871674381594624",
+   "en": "Proof of my trust.",
+   "ro": "Dovada încrederii mele."
+  },
+  {
+   "key": "1686871967194345472",
+   "en": "Go on, take it.",
+   "ro": "Hai, ia-l."
+  },
+  {
+   "key": "1686880382746554368",
+   "en": "Use this money only, find the right people for the job – no corporate affiliation.",
+   "ro": "Folosește doar banii ăștia și găsește oamenii potriviți pentru treabă – fără nicio legătură cu corporațiile."
+  },
+  {
+   "key": "1691204358805319680",
+   "en": "Biometrics, Trauma Team card, names of her closest associates – driver, chief of security, lover, lover's husband. Everything.",
+   "ro": "Biometria, cardul Trauma Team, numele apropiaților ei – șoferul, șeful de securitate, amantul, soțul amantului. Tot."
+  },
+  {
+   "key": "1691217175625265152",
+   "en": "Viper pit's putting it lightly.",
+   "ro": "„Groapa cu vipere” e puțin spus."
+  },
+  {
+   "key": "1691217432383778816",
+   "en": "Need your help, Jack. Got some biz.",
+   "ro": "Am nevoie de o mână de ajutor, Jack. Am niște afaceri."
+  },
+  {
+   "key": "1691225754335899648",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ugh, always biz with you, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Ugh, always biz with you, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Uf, mereu cu afacerile tale, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Uf, mereu cu afacerile tale, \" a=\".\"/>"
+  },
+  {
+   "key": "1691254167306170368",
+   "en": "You in some trouble?",
+   "ro": "Ești în vreo belea?"
+  },
+  {
+   "key": "1691260805748551680",
+   "en": "Hey, V – you alive? How's things in the viper pit?",
+   "ro": "Hei, V – ești în viață? Cum o mai duci în groapa cu vipere?"
+  },
+  {
+   "key": "1691269482522013696",
+   "en": "Not yet. Just... need a soul I can trust for now.",
+   "en_m": "Not yet. Right now I just need a soul I can trust.",
+   "ro": "Nu încă. Doar... am nevoie de cineva în care să am încredere, deocamdată.",
+   "ro_m": "Nu încă. Chiar acum am nevoie doar de cineva în care să am încredere."
+  },
+  {
+   "key": "1691270077089771520",
+   "en": "That kinda sounded like a \"yes.\" Meet me at Lizzie's. Be there in an hour.",
+   "ro": "Parcă a sunat a „da”. Ne vedem la Lizzie's. Ajungi într-o oră."
+  },
+  {
+   "key": "1713809925118906368",
+   "en": "Are you sure this is a good idea?",
+   "ro": "Ești sigură că e o idee bună?",
+   "ro_m": "Ești sigur că e o idee bună?"
+  },
+  {
+   "key": "1713810439072141312",
+   "en": "I have a few questions.",
+   "ro": "Am câteva întrebări."
+  },
+  {
+   "key": "1713810925493964800",
+   "en": "Uh, regarding the--",
+   "ro": "Ăă, în legătură cu--"
+  },
+  {
+   "key": "1713812098707902464",
+   "en": "Listen, I--",
+   "ro": "Ascultă, eu--"
+  },
+  {
+   "key": "1714047338663661572",
+   "en": "Take this.",
+   "ro": "Ia asta."
+  },
+  {
+   "key": "1714047438488096780",
+   "en": "Now she's holding a gun to my head to make sure I don't try anything.",
+   "ro": "Acum mi-a pus pistolul la tâmplă, să fie sigură că nu fac vreo prostie."
+  },
+  {
+   "key": "1714155331623342080",
+   "en": "What would you do in my position?",
+   "ro": "Ce ai face în locul meu?"
+  },
+  {
+   "key": "1714256674430144512",
+   "en": "Visitor authorization granted.",
+   "ro": "Acces vizitator acordat."
+  },
+  {
+   "key": "1714270546922852352",
+   "en": "Emergency protocols active. System security confirmed.",
+   "ro": "Protocoale de urgență active. Securitatea sistemului confirmată."
+  },
+  {
+   "key": "1715755077134643200",
+   "en": "We would've lost the license, now we gained a week. That's a win.",
+   "ro": "Am fi pierdut licența, în schimb am câștigat o săptămână. Nu-i rău."
+  },
+  {
+   "key": "1715757552277319680",
+   "en": "But she won't pull the trigger because she needs me. I do what she doesn't have the guts to do.",
+   "ro": "Dar nu trage, că are nevoie de mine. Eu fac ce ea n-are curaj să facă."
+  },
+  {
+   "key": "1715758698412830720",
+   "en": "You have to defend yourself. Remind Abernathy you're not her doormat.",
+   "ro": "Trebuie să te aperi. Zi-i lui Abernathy că nu ești preșul ei."
+  },
+  {
+   "key": "1715758722991452164",
+   "en": "You need to defend yourself.",
+   "ro": "Trebuie să te aperi."
+  },
+  {
+   "key": "1715758996107751424",
+   "en": "There's not much you can do. She's got the Night City board on her side. If she wants you out, well... you understand.",
+   "ro": "Nu prea ai ce face. Are consiliul Night City de partea ei. Dacă vrea să te dea afară, păi... înțelegi."
+  },
+  {
+   "key": "1719876415747190784",
+   "en": "Seems we see eye to eye on this issue.",
+   "ro": "Văd că suntem pe aceeași lungime de undă."
+  },
+  {
+   "key": "1719876624556421120",
+   "en": "Not much you can do.",
+   "ro": "Nu prea ai ce face."
+  },
+  {
+   "key": "1719949528807698432",
+   "en": "You're right.",
+   "ro": "Ai dreptate."
+  },
+  {
+   "key": "1719949632524447744",
+   "en": "Smack her once... but hard. She'll respect you.",
+   "ro": "Dă-i una, o dată... dar tare. O să te respecte."
+  },
+  {
+   "key": "1720185136184487936",
+   "en": "I do.",
+   "ro": "Da."
+  },
+  {
+   "key": "1720189214138494976",
+   "en": "You said it. I need to defend myself.",
+   "ro": "Ai spus-o tu. Trebuie să mă apăr."
+  },
+  {
+   "key": "1720189228818558976",
+   "en": "Said it yourself – she's left me no choice.",
+   "ro": "Chiar tu ai zis – nu mi-a lăsat de ales."
+  },
+  {
+   "key": "1720192717338636292",
+   "en": "This is a huge gamble.",
+   "ro": "E un pariu uriaș."
+  },
+  {
+   "key": "1720193534221283328",
+   "en": "What'll happen if I refuse?",
+   "ro": "Ce o să se întâmple dacă refuz?"
+  },
+  {
+   "key": "1720193546418319360",
+   "en": "If anyone finds out we even talked about this... I'll go down with you.",
+   "ro": "Dacă află cineva că am vorbit măcar despre asta... cad odată cu tine."
+  },
+  {
+   "key": "1721192329990041600",
+   "en": "Don't ask stupid questions.",
+   "ro": "Nu pune întrebări prostești."
+  },
+  {
+   "key": "1721226670518497280",
+   "en": "This isn't a request, V.",
+   "ro": "Nu e o cerere, V."
+  },
+  {
+   "key": "1721238124290306048",
+   "en": "And if I refuse?",
+   "ro": "Iar dacă refuz?"
+  },
+  {
+   "key": "1721250526058704896",
+   "en": "That's true. But everyone knows you only made it to where you are thanks to me.",
+   "ro": "Adevărat. Dar toată lumea știe că ai ajuns unde ești doar datorită mie."
+  },
+  {
+   "key": "1721252510031605760",
+   "en": "So it's not like they could ever believe you played no part in it.",
+   "ro": "Așa că nu e ca și cum ar putea crede vreodată că n-ai avut nicio mână în asta."
+  },
+  {
+   "key": "1721266565932838912",
+   "en": "We seem to understand each other. Take this, too.",
+   "ro": "Se pare că ne înțelegem. Ia și asta."
+  },
+  {
+   "key": "1721267335218524160",
+   "en": "And for the core task... use someone you know inside out. Are we clear?",
+   "ro": "Iar pentru treaba principală... folosește pe cineva pe care îl cunoști pe dinafară. Ne-am înțeles?"
+  },
+  {
+   "key": "1721268274339966976",
+   "en": "In that case, I'll await your report. And good luck with it.",
+   "ro": "Atunci, aștept raportul. Mult noroc."
+  },
+  {
+   "key": "1725614529316843520",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1725703099008348160",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1766522987259817984",
+   "en": "Use it. And make sure Abernathy won't be a problem anymore.",
+   "ro": "Folosește-l. Și asigură-te că Abernathy nu o să mai fie o problemă."
+  },
+  {
+   "key": "1767788640067317760",
+   "en": "Director Abernathy.",
+   "ro": "Directorul Abernathy."
+  },
+  {
+   "key": "1767819329873571840",
+   "en": "Divide and conquer. Effective strategy.",
+   "ro": "Divide și cucerește. Strategie eficientă."
+  },
+  {
+   "key": "1770816201841201152",
+   "en": "I have my AV waiting outside. It's yours to use.",
+   "ro": "Am AV-ul parcat afară. E al tău să-l folosești."
+  },
+  {
+   "key": "1770818042905776128",
+   "en": "Are you online?",
+   "ro": "Ești online?"
+  },
+  {
+   "key": "1770819268665954304",
+   "en": "Affirmative. Online and in their system. No sign we've been detected.",
+   "ro": "Afirmativ. Online și în sistemul lor. Niciun semn că am fost detectați."
+  },
+  {
+   "key": "1770819317907083264",
+   "en": "Can you get access to their preliminary declarations?",
+   "ro": "Poți pune mâna pe declarațiile lor preliminare?"
+  },
+  {
+   "key": "1770819594194276352",
+   "en": "They usually stick to them. It should give us a good overview.",
+   "ro": "De obicei se țin de ele. Ar trebui să ne dea o idee bună despre tot."
+  },
+  {
+   "key": "1770865634715824128",
+   "en": "Yes. On it…",
+   "ro": "Da. Mă ocup…"
+  },
+  {
+   "key": "1795370850551001088",
+   "en": "Pff, \"effective\"...",
+   "ro": "Pff, „eficient”..."
+  },
+  {
+   "key": "1795372041548787716",
+   "en": "Have you worked together long?",
+   "ro": "De mult lucrezi cu Abernathy?"
+  },
+  {
+   "key": "1795372053326393344",
+   "en": "This isn't the first time Abernathy's set you up.",
+   "en_m": "This... isn't the first time Abernathy's set you up.",
+   "ro": "Nu e prima dată când Abernathy te-a păcălit.",
+   "ro_m": "Nu... nu e prima dată când Abernathy te-a păcălit."
+  },
+  {
+   "key": "1795372057722023936",
+   "en": "\"Always,\" meaning how long?",
+   "ro": "„Mereu”, adică de cât timp?"
+  },
+  {
+   "key": "1795372294331101184",
+   "en": "It's not the first time she's screwed you.",
+   "ro": "Nu e prima dată când ți-o trage."
+  },
+  {
+   "key": "1795375389979111424",
+   "en": "Before Night City we worked on an assignment in Osaka. Two years of subterfuge. She spent them digging a trap for me.",
+   "ro": "Înainte de Night City am lucrat la o misiune în Osaka. Doi ani de jocuri duble. Ea i-a petrecut săpându-mi groapa."
+  },
+  {
+   "key": "1795375723963150336",
+   "en": "When she became Director of Spec Ops, that's when she finally shoved me in it.",
+   "ro": "Când a ajuns director de Spec Ops, abia atunci m-a împins în ea."
+  },
+  {
+   "key": "1795386598501576704",
+   "en": "Smeared me in front of Japanese execs so she'd be the one promoted to Director of Spec Ops. The cunt.",
+   "ro": "M-a ponegrit în fața șefilor japonezi ca să fie ea promovată director de Spec Ops. Pizda."
+  },
+  {
+   "key": "1795387514621456384",
+   "en": "No, not the first...",
+   "ro": "Nu, nu prima..."
+  },
+  {
+   "key": "1795392317099536384",
+   "en": "Honestly?",
+   "ro": "Sincer?"
+  },
+  {
+   "key": "1795392490810830848",
+   "en": "Please.",
+   "ro": "Vă rog."
+  },
+  {
+   "key": "1795411612105895940",
+   "en": "[Take money]",
+   "ro": "[Ia banii]"
+  },
+  {
+   "key": "1795411626467192832",
+   "en": "Credchip transactions are traceable... paper disappears as soon as you spend it.",
+   "en_m": "Credchip transactions are traceable… heh, paper disappears as soon as you spend it.",
+   "ro": "Tranzacțiile pe credchip sunt trasabile... hârtia dispare imediat ce o cheltui.",
+   "ro_m": "Tranzacțiile pe credchip sunt trasabile… heh, hârtia dispare imediat ce o cheltui."
+  },
+  {
+   "key": "1795416648223485952",
+   "en": "What can I say.",
+   "ro": "Ce să zic."
+  },
+  {
+   "key": "1795419218778189824",
+   "en": "Good...",
+   "ro": "Bine..."
+  },
+  {
+   "key": "1795439890791329792",
+   "en": "Viper pit. Couldn'ta said it better.",
+   "ro": "Groapă de vipere. N-aș fi putut spune mai bine."
+  },
+  {
+   "key": "1796765494513954816",
+   "en": "Jenkins, Night City counterintel.",
+   "ro": "Jenkins, contraspionaj Night City."
+  },
+  {
+   "key": "1796773184367685632",
+   "en": "I need an analysis of the legislative procedures for lunar base licenses.",
+   "ro": "Îmi trebuie o analiză a procedurilor legislative pentru licențele bazelor lunare."
+  },
+  {
+   "key": "1796776007016837120",
+   "en": "Yes. Yes, the Sea of Clouds.",
+   "ro": "Da. Da, Sea of Clouds."
+  },
+  {
+   "key": "1796776160679358464",
+   "en": "Black clinics. Operating outside earthly jurisdiction.",
+   "ro": "Clinici negre. Operează în afara jurisdicției Pământului."
+  },
+  {
+   "key": "1796776562342686720",
+   "en": "No, not yet. We're just exploring options for now.",
+   "ro": "Nu, nu încă. Deocamdată doar explorăm opțiuni."
+  },
+  {
+   "key": "1796777138539393024",
+   "en": "On the authority of Director Abernathy, yes...",
+   "ro": "Pe autoritatea directoarei Abernathy, da..."
+  },
+  {
+   "key": "1796778699407683584",
+   "en": "Of course, unofficially.",
+   "ro": "Sigur, neoficial."
+  },
+  {
+   "key": "1834060759127052292",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1834062925954830336",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1867885420168105984",
+   "en": "Please enter the antechamber.",
+   "ro": "Vă rog să intrați în antecameră."
+  },
+  {
+   "key": "1877842760743972864",
+   "en": "And don't disappoint me.",
+   "ro": "Și nu mă dezamăgi."
+  },
+  {
+   "key": "1967909775475757056",
+   "en": "Uh-huh… Yeah, if that's how it's got to be.",
+   "ro": "Aha… Da, dacă asta e cum trebuie."
+  },
+  {
+   "key": "1967910042720030724",
+   "en": "That's clear… hmm.",
+   "ro": "E clar… hmm."
+  },
+  {
+   "key": "1967910184537837572",
+   "en": "Say again?",
+   "ro": "Repetă?"
+  },
+  {
+   "key": "1973468807313772548",
+   "en": "We need to talk.",
+   "ro": "Trebuie să vorbim."
+  },
+  {
+   "key": "1987894907416715292",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1995078146484969472",
+   "en": "Mhm... Yeah, just as we thought.",
+   "ro": "Mhm... Da, așa cum ne așteptam."
+  },
+  {
+   "key": "1995080489792282624",
+   "en": "Mhh...",
+   "ro": "Mhh..."
+  },
+  {
+   "key": "2298340129827299328",
+   "en": "A datashard?",
+   "ro": "Un datashard?"
+  },
+  {
+   "key": "2298343120533823488",
+   "en": "Can't go wrong with cash.",
+   "ro": "Cu cash nu dai greș."
+  }
+ ]
+}

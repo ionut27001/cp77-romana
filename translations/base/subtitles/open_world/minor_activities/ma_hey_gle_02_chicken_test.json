@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\minor_activities\\ma_hey_gle_02_chicken_test.json",
+ "entries": [
+  {
+   "key": "2076769714707496960",
+   "en": "[db_db]Gate_entrance",
+   "ro": "[db_db]Intrare_poartă"
+  },
+  {
+   "key": "2076769714707496976",
+   "en": "[db_db]Back_entrance",
+   "ro": "[db_db]Intrare_spate"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq062\\mq062_10_stealth_monitoring_terminal.json",
+ "entries": [
+  {
+   "key": "5389179518738919428",
+   "en": "[Use badge]",
+   "ro": "[Folosește insigna]"
+  },
+  {
+   "key": "5389315943912337420",
+   "en": "[Connect to computer]",
+   "ro": "[Conectează-te la computer]"
+  },
+  {
+   "key": "5429198237112102924",
+   "en": "[Disable the chips]",
+   "ro": "[Dezactivează cipurile]"
+  },
+  {
+   "key": "5429264132748505100",
+   "en": "[End Wex’s BD therapy session]",
+   "ro": "[Termină sesiunea de terapie BD a lui Wex]"
+  },
+  {
+   "key": "5429265023450902528",
+   "en": "[Deactivate Wex’s Reaper]",
+   "ro": "[Dezactivează Reaper-ul lui Wex]"
+  },
+  {
+   "key": "5442675214368272392",
+   "en": "[Deactivate Wex’s failsafe chip]",
+   "ro": "[Dezactivează cipul failsafe al lui Wex]"
+  }
+ ]
+}

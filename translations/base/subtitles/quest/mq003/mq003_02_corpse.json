@@ -1,0 +1,37 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq003\\mq003_02_corpse.json",
+ "entries": [
+  {
+   "key": "1789372348653252608",
+   "en": "Blood everywhere. Rookie job.",
+   "ro": "Sânge peste tot. Treabă de începător."
+  },
+  {
+   "key": "1789372363937296384",
+   "en": "Came here alone, no backup... Probably a deal gone wrong.",
+   "en_m": "Came here alone, no backup... It's probably a deal gone wrong.",
+   "ro": "Am venit singură, fără backup... Probabil o afacere care a mers prost.",
+   "ro_m": "Am venit singur, fără backup... Probabil o afacere care a mers prost."
+  },
+  {
+   "key": "1789378210981621764",
+   "en": "Let's see what we got here...",
+   "ro": "Să vedem ce avem aici..."
+  },
+  {
+   "key": "1789405210169454592",
+   "en": "Won't be needin' this anymore...",
+   "ro": "Nu-mi mai trebuie asta..."
+  },
+  {
+   "key": "1790776711892316160",
+   "en": "Body's fresh...",
+   "ro": "Cadavrul e proaspăt..."
+  },
+  {
+   "key": "1855953953139863552",
+   "en": "Muscles aren't stiff yet... Dead couple hours, tops.",
+   "ro": "Mușchii nu s-au înțepenit încă... Mort de câteva ore, cel mult."
+  }
+ ]
+}

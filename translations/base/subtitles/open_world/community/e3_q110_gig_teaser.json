@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\community\\e3_q110_gig_teaser.json",
+ "entries": [
+  {
+   "key": "1770872659004125184",
+   "en": "<mothertongue l=\"creo\" m=\"timoun\" b=\"Remember that \" a=\" you almost kill? What he want?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"timoun\" b=\"Ții minte de ăla \" a=\" pe care aproape l-ai omorât? Ce vrea?\"/>"
+  },
+  {
+   "key": "1772187417900773376",
+   "en": "<mothertongue l=\"creo\" m=\"Mèd, monsieur\" b=\"\" a=\", same thing. Some stupid <Rich color=\\\"MainColors.ActiveBlue\\\">konpetisyon</>.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Mèd, monsieur\" b=\"\" a=\", la fel. Niște <Rich color=\\\"MainColors.ActiveBlue\\\">konpetisyon</> prost.\"/>"
+  },
+  {
+   "key": "1772267718367842304",
+   "en": "Why here? Why in Pacifica?",
+   "ro": "De ce aici? De ce în Pacifica?"
+  },
+  {
+   "key": "1772268859621183488",
+   "en": "<mothertongue l=\"creo\" m=\"Sa ka konnen.\" b=\"\" a=\" But to risk a broken neck for a few pictures? Pffff....\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Sa ka konnen.\" b=\"\" a=\" Dar să riști să-ți rupi gâtul pentru câteva poze? Pffff....\"/>"
+  },
+  {
+   "key": "1772270280315834368",
+   "en": "You tell Placide?",
+   "ro": "I-ai zis lui Placide?"
+  },
+  {
+   "key": "1772270628073967616",
+   "en": "<mothertongue l=\"creo\" m=\"Wi.\" b=\"\" a=\" Only first time, though. But this the third fucking time this week.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Wi.\" b=\"\" a=\" Doar prima oară, să zicem. Dar asta e a treia oară săptămâna asta, pula mea.\"/>"
+  }
+ ]
+}

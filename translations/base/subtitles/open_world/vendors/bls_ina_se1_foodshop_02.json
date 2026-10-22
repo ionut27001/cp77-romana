@@ -1,0 +1,47 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_foodshop_02.json",
+ "entries": [
+  {
+   "key": "1935651488722759680",
+   "en": "Wanna eat something.",
+   "ro": "Vreau să mănânc ceva."
+  },
+  {
+   "key": "1935651488739536908",
+   "en": "What's your place called?",
+   "ro": "Cum se numește locul tău?"
+  },
+  {
+   "key": "1935651488756314116",
+   "en": "Feelin' kinda hungry.",
+   "ro": "Mi-e cam foame."
+  },
+  {
+   "key": "1935651488773091328",
+   "en": "Okay.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1935651488806645764",
+   "en": "Your place got a name? Didn't see any sign...",
+   "ro": "Locul tău are un nume? N-am văzut niciun semn..."
+  },
+  {
+   "key": "1935651488806645772",
+   "en": "\"Salmonella.\"",
+   "ro": "„Salmonella”."
+  },
+  {
+   "key": "1986389809794699264",
+   "en": "I'm sorry, \"Salmonella\"?",
+   "en_m": "I-I'm sorry, \"Salmonella\"?",
+   "ro": "Îmi pare rău, „Salmonella”?",
+   "ro_m": "Î-Îmi pare rău, „Salmonella”?"
+  },
+  {
+   "key": "1986390591898177536",
+   "en": "Nice ring, no? My brother-in-law thought of it. Said it means \"salmon\" in Italian.",
+   "ro": "Sună bine, nu? Cumnatul meu s-a gândit la el. A zis că înseamnă „somon” în italiană."
+  }
+ ]
+}

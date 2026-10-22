@@ -1,0 +1,42 @@
+name: Greșeală de traducere
+description: O replică sau un text din joc sună greșit, ciudat sau e tradus prost
+title: "[Traducere] "
+labels: ["traducere"]
+body:
+  - type: textarea
+    id: unde
+    attributes:
+      label: Unde apare?
+      description: Misiunea, personajul, meniul sau item-ul. Orice ajută să găsim replica.
+      placeholder: "ex. misiunea The Heist, Jackie în mașină / meniul Setări → Interfață"
+    validations:
+      required: true
+  - type: textarea
+    id: acum
+    attributes:
+      label: Ce scrie acum
+      description: Textul românesc din joc, cât de exact poți.
+    validations:
+      required: true
+  - type: textarea
+    id: propunere
+    attributes:
+      label: Ce ai propune
+      description: Varianta ta. Dacă știi și textul în engleză, scrie-l și pe el.
+  - type: dropdown
+    id: tip
+    attributes:
+      label: Ce fel de problemă e?
+      options:
+        - Sună nenatural / tradus cuvânt cu cuvânt
+        - Sens greșit
+        - Genul lui V greșit
+        - Nume sau termen tradus inconsecvent
+        - Text care iese din chenar
+        - Text rămas în engleză
+        - Altceva
+  - type: textarea
+    id: captura
+    attributes:
+      label: Captură de ecran
+      description: Trage imaginea aici. Ajută foarte mult.

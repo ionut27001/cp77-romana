@@ -1,0 +1,575 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_07_ripperdoc.json",
+ "entries": [
+  {
+   "key": "1419533616736813056",
+   "en": "Let's get her inside!",
+   "en_m": "Let's get him inside!",
+   "ro": "Hai s-o băgăm înăuntru!",
+   "ro_m": "Hai s-l băgăm înăuntru!"
+  },
+  {
+   "key": "1419543039408521216",
+   "en": "I cannot hold it!",
+   "ro": "Nu pot s-o țin!"
+  },
+  {
+   "key": "1419543700212727808",
+   "en": "Easy now.",
+   "ro": "Ușor acum."
+  },
+  {
+   "key": "1424364956879601664",
+   "en": "Gotta cut my way through the occipital bone. No other way.",
+   "ro": "Trebuie să tai prin osul occipital. Nu e altă cale."
+  },
+  {
+   "key": "1642906261335363584",
+   "en": "It's neurogenic shock. She's dying.",
+   "en_m": "It's neurogenic shock. He's dying.",
+   "ro": "E șoc neurogen. Ea moare.",
+   "ro_m": "E șoc neurogen. El moare."
+  },
+  {
+   "key": "1652051273440612352",
+   "en": "Pressure's tanking!",
+   "ro": "Presiunea se prăbușește!"
+  },
+  {
+   "key": "1652064332020240384",
+   "en": "I need... to rest...",
+   "ro": "Am nevoie... să mă odihnesc..."
+  },
+  {
+   "key": "1653054588420935680",
+   "en": "That your blood?",
+   "ro": "Asta-i sângele tău?"
+  },
+  {
+   "key": "1653061175676030976",
+   "en": "Misty!",
+   "ro": "Misty!"
+  },
+  {
+   "key": "1654541687611510784",
+   "en": "There is risk of--",
+   "ro": "E risc de--"
+  },
+  {
+   "key": "1654542046492938240",
+   "en": "I know what I'm doing.",
+   "ro": "Știu ce fac."
+  },
+  {
+   "key": "1677773336796160000",
+   "en": "How is she?",
+   "en_m": "How is he?",
+   "ro": "Cum e ea?",
+   "ro_m": "Cum e el?"
+  },
+  {
+   "key": "1677775299378110464",
+   "en": "Slower on the mend than you, but lookin' better every day.",
+   "ro": "Se recuperează mai încet decât tine, dar arată mai bine în fiecare zi."
+  },
+  {
+   "key": "1714273080247373840",
+   "en": "Misty!",
+   "ro": "Misty!"
+  },
+  {
+   "key": "1714273080683581440",
+   "en": "C'mon, V. Let's get you home.",
+   "ro": "Hai, V. Te ducem acasă."
+  },
+  {
+   "key": "1714273081119789056",
+   "en": "You don't just die and then rise from the grave.",
+   "ro": "Nu mori pur și simplu și apoi învii din mormânt."
+  },
+  {
+   "key": "1714273081119789076",
+   "en": "So I'm Frankenstein. Great.",
+   "ro": "Deci sunt Frankenstein. Minunat."
+  },
+  {
+   "key": "1714273081304338432",
+   "en": "You're Doctor Viktor and I'm your monster. Perfect.",
+   "ro": "Tu ești doctorul Viktor și eu sunt monstrul tău. Perfect."
+  },
+  {
+   "key": "1714273081455333376",
+   "en": "People don't just die and then get up like nothin' happened.",
+   "ro": "Oamenii nu mor pur și simplu și apoi se ridică ca și cum nu s-ar fi întâmplat nimic."
+  },
+  {
+   "key": "1714273081455333388",
+   "en": "Used to be true. Now, it's only if they don't have a classified piece of corpo tech primed to resurrect them.",
+   "ro": "Așa era. Acum, doar dacă au vreo chestie de tech corpo clasificată, gata să-i învie."
+  },
+  {
+   "key": "1714273081455333400",
+   "en": "What about me, my psyche? I make it back from the other side, and what – I'm supposed to pretend change is normal?",
+   "ro": "Și eu? Psihicul meu? Mă întorc de dincolo și trebuie să mă prefac că schimbarea e normală?"
+  },
+  {
+   "key": "1714273081455333412",
+   "en": "Ask the Arasaka engineers who built the thing. All I know is your mind's gonna go... and it won't be pretty.",
+   "ro": "Întreabă inginerii Arasaka care au construit chestia. Tot ce știu e că mintea ta o să cedeze... și nu o să fie frumos."
+  },
+  {
+   "key": "1714273081505665024",
+   "en": "From the biochip's perspective, your brain cells are a tumor that needs to be scooped out, while your body's an empty shell to hold the construct.",
+   "ro": "Din perspectiva biochipului, celulele creierului tău sunt o tumoră care trebuie scoasă, iar corpul tău e o carcasă goală în care să încapă constructul."
+  },
+  {
+   "key": "1714273081505665060",
+   "en": "So this fucking terrorist wants to wipe me and take my place, take my body.",
+   "ro": "Deci nenorocitul ăsta de terorist vrea să mă șteargă și să-mi ia locul, să-mi ia corpul."
+  },
+  {
+   "key": "1714273081589551104",
+   "en": "The biochip... it's basically a bomb, fuse lit already. You don't have much time left, much... life. A few weeks tops.",
+   "ro": "Biochipul... e practic o bombă cu fitilul deja aprins. Nu mai ai mult timp, multă... viață. Câteva săptămâni, cel mult."
+  },
+  {
+   "key": "1714273081589551116",
+   "en": "Silverhand's construct is overwriting your consciousness – gradually taking over your body until one day you'll just be... gone.",
+   "ro": "Constructul lui Silverhand îți suprascrie conștiința – îți preia treptat corpul până într-o zi când o să fii... dispărută.",
+   "ro_m": "Constructul lui Silverhand îți suprascrie conștiința – îți preia treptat corpul până într-o zi când o să fii... dispărut."
+  },
+  {
+   "key": "1714273081589551128",
+   "en": "V, it's important you get all this.",
+   "ro": "V, e important să înțelegi totul."
+  },
+  {
+   "key": "1714273081757323264",
+   "en": "You'll fix me up, right?",
+   "ro": "Mă repari, nu?"
+  },
+  {
+   "key": "1714273081757323280",
+   "en": "You're talkin' bullshit.",
+   "ro": "Spui numai rahaturi."
+  },
+  {
+   "key": "1714273081975427072",
+   "en": "You'll fix me up, right? Vik?",
+   "ro": "Mă repari, nu? Vik?"
+  },
+  {
+   "key": "1714273081992204296",
+   "en": "If I could, I would, V, believe me. But this is... It's way beyond what I know how to do.",
+   "ro": "Dacă aș putea, aș face-o, V, crede-mă. Dar asta e... Depășește cu mult ce știu să fac."
+  },
+  {
+   "key": "1714273082059313152",
+   "en": "Don't believe an ounce of the horseshit comin' from your mouth. Know why?",
+   "ro": "Nu cred nicio iota din rahatul care-ți iese pe gură. Știi de ce?"
+  },
+  {
+   "key": "1714273082076090376",
+   "en": "Because it doesn't make any goddamn sense!",
+   "ro": "Pentru că n-are niciun sens, la dracu'!"
+  },
+  {
+   "key": "1714273082227085312",
+   "en": "Sayin' I experienced another psyche's memories? How's that even possible?",
+   "en_m": "Sayin' I experienced another psyche's memories? How's that possible?",
+   "ro": "Zici că am trăit amintirile altcuiva? Cum e posibil așa ceva?",
+   "ro_m": "Zici că am trăit amintirile altcuiva? Cum e posibil asta?"
+  },
+  {
+   "key": "1714284557725388800",
+   "en": "What is, then?",
+   "ro": "Atunci ce e?"
+  },
+  {
+   "key": "1714285082818695168",
+   "en": "First time ever I've seen you scared.",
+   "ro": "Prima dată când te văd speriată.",
+   "ro_m": "Prima dată când te văd speriat."
+  },
+  {
+   "key": "1714285317313843200",
+   "en": "Doubt you can top the terrorist in my brain…",
+   "ro": "Nu cred că ești în stare să-l întreci pe teroristul din capul meu…"
+  },
+  {
+   "key": "1714286572618698752",
+   "en": "What is?",
+   "ro": "Ce e?"
+  },
+  {
+   "key": "1714286663685427200",
+   "en": "Never given me that look before, Vik. What is it?",
+   "ro": "Nu mi-ai mai dat niciodată privirea aia, Vik. Ce e?"
+  },
+  {
+   "key": "1714286764717821952",
+   "en": "Think you can top the terrorist in my brain?",
+   "ro": "Crezi că-l poți întrece pe teroristul din capul meu?"
+  },
+  {
+   "key": "1714296322630668288",
+   "en": "You, uh, don't got a lot of time left, kid.",
+   "ro": "Tu, ăă, nu mai ai mult timp, puștiule."
+  },
+  {
+   "key": "1714296467837472768",
+   "en": "Say what now?",
+   "ro": "Ce-ai zis?"
+  },
+  {
+   "key": "1714303736650190852",
+   "en": "Why do I have to die?",
+   "ro": "De ce trebuie să mor?"
+  },
+  {
+   "key": "1714304238976815104",
+   "en": "I want to know the detes, all of 'em.",
+   "ro": "Vreau toate detaliile."
+  },
+  {
+   "key": "1714306590706290688",
+   "en": "You're the best of the best, Vik. Why can't you help me?",
+   "ro": "Ești cel mai bun dintre cei mai buni, Vik. De ce nu mă poți ajuta?"
+  },
+  {
+   "key": "1714307138935377920",
+   "en": "You want the long story or the short?",
+   "ro": "Vrei varianta lungă sau scurtă?"
+  },
+  {
+   "key": "1714307766772355072",
+   "en": "I have to die, I am going to die – that what you're saying? Prove it.",
+   "ro": "Trebuie să mor, o să mor – asta zici? Dovedește-mi."
+  },
+  {
+   "key": "1714307874515636224",
+   "en": "Don't omit a thing, not one dete.",
+   "ro": "Nu omite nimic, niciun detaliu."
+  },
+  {
+   "key": "1714308711312838668",
+   "en": "You jacked it in your chipslot. Nothing happened, right? Until you died.",
+   "ro": "Ți-ai băgat-o în chipslot. N-a fost nimic, nu? Până ai murit."
+  },
+  {
+   "key": "1714308711329615880",
+   "en": "Bullet in the head from Dexter DeShawn. But, how do you come back from somethin' like that?",
+   "ro": "Glont în cap de la Dexter DeShawn. Dar cum te întorci de la așa ceva?"
+  },
+  {
+   "key": "1714308711329615892",
+   "en": "Low caliber – you lucked out. Not least thanks to another poor decision by Mr. DeShawn.",
+   "ro": "Calibru mic – ai scăpat ieftin. Și mulțumită altei prostii a lui Mr. DeShawn."
+  },
+  {
+   "key": "1714316245490782208",
+   "en": "Hm. Dex shot you, right? The bullet damaged your chipslot AND your brain.",
+   "ro": "Hm. Dex te-a împușcat, nu? Glontul ți-a deteriorat chipslotul ȘI creierul."
+  },
+  {
+   "key": "1714321524408242176",
+   "en": "The biochip revived and... short-circuited you. Started uploading data INTO your head.",
+   "ro": "Biochipul te-a readus la viață și... te-a scurtcircuitat. A început să-ți încarce date direct în cap."
+  },
+  {
+   "key": "1714325676785979392",
+   "en": "OK. There was-- is a construct, a psyche on the chip. That of Johnny Silverhand.",
+   "ro": "OK. Păi, a fost-- e un construct, un psihic pe cip. Al lui Johnny Silverhand."
+  },
+  {
+   "key": "1714329873724002308",
+   "en": "So what am I supposed to do?",
+   "ro": "Deci ce să fac?"
+  },
+  {
+   "key": "1714330172861763584",
+   "en": "Can't we just remove the chip?",
+   "ro": "Nu putem să scoatem cipul, și gata?"
+  },
+  {
+   "key": "1714331494168186880",
+   "en": "Vik, you've always come through for me.",
+   "ro": "Vik, pe tine mereu am putut conta."
+  },
+  {
+   "key": "1714331602062462976",
+   "en": "Can't we just take the chip out? Or switch it off?",
+   "ro": "Nu-l putem scoate, cipul? Sau măcar să-l oprim?"
+  },
+  {
+   "key": "1714367287603548160",
+   "en": "Either way's out of the question. You'd die immediately.",
+   "ro": "Nici una, nici alta. Mori pe loc."
+  },
+  {
+   "key": "1714369806635421696",
+   "en": "I wish I knew, kid.",
+   "ro": "Dacă aș ști și eu, puștiule."
+  },
+  {
+   "key": "1715423139194261504",
+   "en": "V? You in there?",
+   "ro": "V? Ești acolo?"
+  },
+  {
+   "key": "1715423139194261516",
+   "en": "Ugh... my head.",
+   "ro": "Uf... capul meu."
+  },
+  {
+   "key": "1715423139194261528",
+   "en": "How ya feelin'?",
+   "ro": "Cum te simți?"
+  },
+  {
+   "key": "1715423139311702016",
+   "en": "Hang on, mean to say there's an actual terrorist in my head – right now?",
+   "ro": "Stai, vrei să zici că am un terorist real în cap? Chiar acum?"
+  },
+  {
+   "key": "1715423139311702028",
+   "en": "That's right. Johnny Silverhand.",
+   "ro": "Așa e. Johnny Silverhand."
+  },
+  {
+   "key": "1715423139328479252",
+   "en": "Had his crowning moment about fifty years ago.",
+   "ro": "Și-a avut momentul de glorie acum vreo cincizeci de ani."
+  },
+  {
+   "key": "1715423139328479264",
+   "en": "AHQ Bombing – heard of it? His doing. People say he was buried under the rubble...",
+   "ro": "Atentatul AHQ – ai auzit de el? Fapta lui. Lumea zice că a fost îngropat sub dărâmături..."
+  },
+  {
+   "key": "1715423139395588096",
+   "en": "I dunno, Vik... ears're ringin'. And I'm seein' shit...",
+   "ro": "Nu știu, Vik... îmi țiuie urechile. Și văd tot felul de rahaturi..."
+  },
+  {
+   "key": "1715423139412365332",
+   "en": "These... hallucinations – describe 'em to me.",
+   "ro": "Aceste... halucinații – descrie-mi-le."
+  },
+  {
+   "key": "1715423139412365344",
+   "en": "Blinding lights. It's loud. I'm on stage and almost can't breathe. I'm so damn full of... hatred.",
+   "en_m": "Blinding lights. It's loud. I'm on stage and I almost can't breathe. I'm so damn full of... hatred.",
+   "ro": "Lumini orbitoare. E gălăgie. Sunt pe scenă și aproape că nu pot respira. Sunt atât de plină de... ură.",
+   "ro_m": "Lumini orbitoare. E gălăgie. Sunt pe scenă și aproape că nu pot respira. Sunt atât de plin de... ură."
+  },
+  {
+   "key": "1715423139412365360",
+   "en": "Then I let it all out into a mic. And I realize it didn't help, I don't feel any better.",
+   "ro": "Apoi vărs totul într-un microfon. Și-mi dau seama că n-a ajutat, nu mă simt deloc mai bine."
+  },
+  {
+   "key": "1715423139429142536",
+   "en": "And then, promise not to laugh, I plant a bomb in Arasaka Tower.",
+   "en_m": "And then, heh, promise not to laugh... I plant a bomb in Arasaka Tower.",
+   "ro": "Și apoi, promite că nu râzi, plantez o bombă în Turnul Arasaka.",
+   "ro_m": "Și apoi, heh, promite că nu râzi... plantez o bombă în Turnul Arasaka."
+  },
+  {
+   "key": "1715423139429142552",
+   "en": "Nothin' there to laugh about...",
+   "ro": "Nu-i nimic de râs acolo..."
+  },
+  {
+   "key": "1715423139479474176",
+   "en": "They killed me.",
+   "ro": "M-au ucis."
+  },
+  {
+   "key": "1715423139496251400",
+   "en": "Night City looked... different.",
+   "ro": "Night City arăta... diferit."
+  },
+  {
+   "key": "1715423139764686860",
+   "en": "They killed me, Vik.",
+   "ro": "M-au ucis, Vik."
+  },
+  {
+   "key": "1715423139764686876",
+   "en": "Never been so afraid.",
+   "ro": "N-am fost niciodată atât de speriată.",
+   "ro_m": "N-am fost niciodată atât de speriat."
+  },
+  {
+   "key": "1715423139798241280",
+   "en": "Night City looked different... strange.",
+   "ro": "Night City arăta diferit... ciudat."
+  },
+  {
+   "key": "1715423139815018504",
+   "en": "And I... I hated it. Hated everybody, every inch.",
+   "en_m": "And I hated it. Hated everybody, every inch.",
+   "ro": "Și eu... uram tot. Pe toată lumea, până-n ultimul colț.",
+   "ro_m": "Și eu uram tot. Pe toată lumea, până-n ultimul colț."
+  },
+  {
+   "key": "1715423139865350144",
+   "en": "[Sit] I feel... like something ain't right.",
+   "ro": "[Stai jos] Simt... parcă ceva nu e în regulă."
+  },
+  {
+   "key": "1715423140066676736",
+   "en": "It was too real, even for a lucid dream.",
+   "ro": "A fost prea real, chiar și pentru un vis lucid."
+  },
+  {
+   "key": "1715423140066676748",
+   "en": "You weren't dreaming, V. Those were memories.",
+   "ro": "Nu visai, V. Erau amintiri."
+  },
+  {
+   "key": "1715423140083453976",
+   "en": "There's a personality construct on that shard. Dreams you had were from his past.",
+   "ro": "E un construct de personalitate pe shard-ul ăla. Visurile pe care le-ai avut erau din trecutul lui."
+  },
+  {
+   "key": "1715423140133785600",
+   "en": "How's that even possible?",
+   "ro": "Cum e posibil așa ceva?"
+  },
+  {
+   "key": "1715423140133785620",
+   "en": "Mean to say there's a terrorist in my head?",
+   "ro": "Vrei să spui că am un terorist în cap?"
+  },
+  {
+   "key": "1715455847383486464",
+   "en": "If there's nothing you can do to help me, then... well, what the hell do I do? Tell me, please.",
+   "ro": "Dacă nu poți face nimic să mă ajuți, atunci... păi, ce dracu' să fac? Spune-mi, te rog."
+  },
+  {
+   "key": "1715457323442950144",
+   "en": "Vik?",
+   "ro": "Vik?"
+  },
+  {
+   "key": "1725569191054462976",
+   "en": "It's that shard from those TV ads!",
+   "ro": "E shard-ul ăla din reclamele TV!"
+  },
+  {
+   "key": "1725570104976527360",
+   "en": "Fuck, I remember this thing, saw it on TV... Oh, what was that stupid slogan? \"Soul\" something?",
+   "en_m": "Fuck, I remember this thing, saw it on TV... What was that stupid slogan? \"Soul\" somethin'?",
+   "ro": "Futu-i, îmi amintesc de chestia asta, am văzut-o la TV... Oh, care era sloganul ăla prost? „Soul” ceva?",
+   "ro_m": "Futu-i, îmi amintesc de chestia asta, am văzut-o la TV... Care era sloganul ăla prost? „Soul” ceva?"
+  },
+  {
+   "key": "1725573453104861184",
+   "en": "That's it! It's just supposed to let you communicate with constructs.",
+   "ro": "Asta e! În teorie, doar te lasă să comunici cu constructele."
+  },
+  {
+   "key": "1725579290904940544",
+   "en": "Maybe. But this is a prototype, by the look of things. Somehow made it out of Arasaka labs.",
+   "ro": "Poate. Dar e un prototip, din câte se vede. Cumva a ieșit din laboratoarele Arasaka."
+  },
+  {
+   "key": "1772317707660189696",
+   "en": "You two are connected in a way I can't make head or tail of.",
+   "ro": "Voi doi sunteți conectați într-un mod pe care nu-l pot înțelege deloc."
+  },
+  {
+   "key": "1772320213253513216",
+   "en": "Two? Me and who, Vik? Who's the other?",
+   "ro": "Doi? Eu și cine, Vik? Cine e celălalt?"
+  },
+  {
+   "key": "1772320290009276416",
+   "en": "Johnny Silverhand. A terrorist – real talk o' the town back in my day.",
+   "ro": "Johnny Silverhand. Un terorist – pe vremea mea vorbea tot orașul de el."
+  },
+  {
+   "key": "1772321542361341952",
+   "en": "Anyway, that's not what's important right now…",
+   "ro": "Oricum, nu asta e important acum…"
+  },
+  {
+   "key": "1772339636152590336",
+   "en": "As far as it was concerned, your brain was an empty vessel that needed to be filled by the engram it was carrying.",
+   "ro": "Pentru el, creierul tău era un vas gol care trebuia umplut cu engramul pe care îl ducea."
+  },
+  {
+   "key": "1772341580195717120",
+   "en": "Empty vessel? But I'm right here – all of this is me!",
+   "ro": "Vas gol? Dar eu sunt aici, chiar acum – tot ce e aici sunt eu!"
+  },
+  {
+   "key": "1772341789827031040",
+   "en": "The shard doesn't read, it writes. Headache of yours? It's the biochip rewiring your neural pathways, building new neural structures, and doing away with the old.",
+   "ro": "Shard-ul nu citește, scrie. Durerea aia de cap? E biochipul care-ți rescrie căile neuronale: construiește structuri noi și le șterge pe cele vechi."
+  },
+  {
+   "key": "1772344391520247808",
+   "en": "From where the shard's sitting, YOU, what's left – it's all a tumor that needs to be excised.",
+   "ro": "Pentru shard, TU, ce a mai rămas din tine, e doar o tumoare de scos."
+  },
+  {
+   "key": "1772406218664992768",
+   "en": "It's not willful on his part, it's automatic, inevitable. And neither of you can stop it.",
+   "ro": "Nu e din răutate, e automat, inevitabil. Și nici unul dintre voi nu-l poate opri."
+  },
+  {
+   "key": "1772412155165433856",
+   "en": "The nanites off the chip started fixing the damage. Then they took your hand and coaxed you off the path towards the light.",
+   "ro": "Nanitele de pe cip au început să repare daunele. Apoi ți-au luat mâna și te-au scos de pe calea spre lumină."
+  },
+  {
+   "key": "1772440314195763200",
+   "en": "Your body's only a body. You can modify it, replace it with chrome – hell, get a new one altogether.",
+   "ro": "Corpul tău e doar un corp. Îl poți modifica, îl poți înlocui cu chrome – la naiba, poți să-ți iei unul nou de tot."
+  },
+  {
+   "key": "1772453879581532160",
+   "en": "\"Secure Your Soul.\"",
+   "ro": "„Secure Your Soul.”"
+  },
+  {
+   "key": "1772461340761808896",
+   "en": "Your mind, though? Well, that's a whole 'nother story.",
+   "ro": "Mintea ta, în schimb? Păi, asta e altă poveste."
+  },
+  {
+   "key": "1772467106117869568",
+   "en": "You're askin' too much from an old-timer like Vik.",
+   "ro": "Ceri cam mult de la un moș ca mine."
+  },
+  {
+   "key": "1772478113431183360",
+   "en": "Whatever's happenin' to me, there's a logical explanation. Gotta be.",
+   "en_m": "Whatever's happenin' to me, there's a logical explanation, gotta be.",
+   "ro": "Orice-mi se întâmplă, are o explicație logică. Trebuie să aibă."
+  },
+  {
+   "key": "1801434087709761536",
+   "en": "Fuck…",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1801434405470232576",
+   "en": "Fuck…",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1895427437896622080",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1895431926825312260",
+   "en": "Talk to me.",
+   "ro": "Vorbește cu mine."
+  }
+ ]
+}

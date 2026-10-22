@@ -1,0 +1,498 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq024\\sq024_04_city_race.json",
+ "entries": [
+  {
+   "key": "1388025120258269184",
+   "en": "Hey, V. Good to see ya.",
+   "ro": "Hei, V. Bine că te văd."
+  },
+  {
+   "key": "1752026505280495616",
+   "en": "Claire, you comin'? I'm already here.",
+   "ro": "Claire, vii? Sunt deja aici."
+  },
+  {
+   "key": "1783639476469243908",
+   "en": "Sharp bend coming!",
+   "ro": "Urmează un viraj strâns!"
+  },
+  {
+   "key": "1783639476486021124",
+   "en": "Heads up! Car a few back's lookin' to ram.",
+   "ro": "Atenție! Mașina din spate vrea să ne tamponeze."
+  },
+  {
+   "key": "1783639476502798340",
+   "en": "Guy in front of us, get on his ass!",
+   "ro": "Tipul din față, ține-te de coada lui!"
+  },
+  {
+   "key": "1783639476536352772",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "1783639476553129988",
+   "en": "Popped the gunner!",
+   "ro": "L-am doborât pe gunner!"
+  },
+  {
+   "key": "1783639476586684420",
+   "en": "Doin' good, V! Keep it up!",
+   "ro": "Te descurci bine, V! Ține-o tot așa!"
+  },
+  {
+   "key": "1831217688833171456",
+   "en": "OK, this is the spot.",
+   "ro": "Bun, asta e locul."
+  },
+  {
+   "key": "1831236474047045632",
+   "en": "Any tips before we roll?",
+   "ro": "Sfaturi înainte să pornim?"
+  },
+  {
+   "key": "1831250494430912512",
+   "en": "Don't take your foot off the chooh. My job'll be to slow everyone else down.",
+   "ro": "Nu-ți lua piciorul de pe chooh. Eu mă ocup să-i frânez pe ceilalți."
+  },
+  {
+   "key": "1831251265830526976",
+   "en": "Ultimately, it'll be speed, not firepower, that'll win us this race.",
+   "ro": "Până la urmă, viteza, nu armamentul, o să ne dea cursa asta."
+  },
+  {
+   "key": "1831257317389115392",
+   "en": "Great. Be there in a flash, promise.",
+   "ro": "Super. Ajung într-o clipă, promit."
+  },
+  {
+   "key": "1831257630854619140",
+   "en": "Yours.",
+   "ro": "Al tău."
+  },
+  {
+   "key": "1831257986732924928",
+   "en": "Mine.",
+   "ro": "Al meu."
+  },
+  {
+   "key": "1831269745413857280",
+   "en": "Yours.",
+   "ro": "Al tău."
+  },
+  {
+   "key": "1831269764841873408",
+   "en": "Mine.",
+   "ro": "Al meu."
+  },
+  {
+   "key": "1831294346214776836",
+   "en": "[Take shard]",
+   "ro": "[Ia shard-ul]"
+  },
+  {
+   "key": "1831294658371657728",
+   "en": "We need to hit all the checkpoints or we'll be disqualified.",
+   "ro": "Trebuie să trecem prin toate checkpoint-urile, că altfel ne descalifică."
+  },
+  {
+   "key": "1831295509463048192",
+   "en": "If you wanna hang a bit, do. I'll be in the rig.",
+   "ro": "Dacă vrei să mai stai, stai liniștit. Eu sunt în rig."
+  },
+  {
+   "key": "1831295649234034688",
+   "en": "When do we start?",
+   "ro": "Când începem?"
+  },
+  {
+   "key": "1831296158741307392",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1831397819929337856",
+   "en": "First elimination rally comin' up! Everyone ready?",
+   "ro": "Urmează primul rally de eliminare! Sunteți gata?"
+  },
+  {
+   "key": "1831399069043400704",
+   "en": "Not like it matters – too late to back out anyway!",
+   "ro": "Nu că ar mai conta – oricum e prea târziu să dai înapoi!"
+  },
+  {
+   "key": "1831501146876813312",
+   "en": "What is this?",
+   "ro": "Ce e asta?"
+  },
+  {
+   "key": "1831501356994666496",
+   "en": "What's this for?",
+   "ro": "La ce e asta?"
+  },
+  {
+   "key": "1831501842577629184",
+   "en": "It'll show you the route. You'd be driving blind without it.",
+   "ro": "Îți arată traseul. Ai conduce orbește fără ea."
+  },
+  {
+   "key": "1831625776023216128",
+   "en": "Be right over. Later.",
+   "ro": "Vin imediat. Ne auzim."
+  },
+  {
+   "key": "1831626285765369856",
+   "en": "OK, Beast's ready to roar.",
+   "ro": "OK, Beast e gata să răcnească."
+  },
+  {
+   "key": "1831626395387699200",
+   "en": "No argument there.",
+   "ro": "Nu mă contrazic."
+  },
+  {
+   "key": "1855979224088842240",
+   "en": "Strap in, pray to your gods and get ready to go for pay dirt!",
+   "ro": "Pune centura, roagă-te la ce zei ai și pregătește-te să tragi tot gazul!"
+  },
+  {
+   "key": "1855991730698063876",
+   "en": "Cops don't have a beef with this?",
+   "ro": "Poliția nu are nimic cu asta?"
+  },
+  {
+   "key": "1855991834817466368",
+   "en": "Corpos've sure shown up in numbers.",
+   "ro": "Corpoi au venit cu duiumul."
+  },
+  {
+   "key": "1855993984314380288",
+   "en": "So, how's it look to you?",
+   "ro": "Deci, cum ți se pare?"
+  },
+  {
+   "key": "1855996647730974720",
+   "en": "Lemme tell you after the race.",
+   "ro": "Îți spun după cursă."
+  },
+  {
+   "key": "1855998444923129856",
+   "en": "Seem to be a lot of corpos takin' part.",
+   "ro": "Parcă sunt o groază de corpoi care participă."
+  },
+  {
+   "key": "1855998469250093056",
+   "en": "Give you my take once we cross the finish line. Provided we arrive in one piece.",
+   "en_m": "Give you my take when we cross the finish line. Provided we arrive in one piece.",
+   "ro": "Îți zic părerea când trecem linia de sosire. Dacă ajungem întregi."
+  },
+  {
+   "key": "1856000556033773568",
+   "en": "Hey, focus on winning.",
+   "ro": "Hei, concentrează-te pe victorie."
+  },
+  {
+   "key": "1856004563758354432",
+   "en": "How can you tell?",
+   "ro": "De unde știi?"
+  },
+  {
+   "key": "1856005372420165632",
+   "en": "Used to be one. Lettin' off steam after hours was key.",
+   "ro": "Eram una de-ale lor. După program, să te descarci era cheia.",
+   "ro_m": "Eram unul de-ai lor. După program, să te descarci era cheia."
+  },
+  {
+   "key": "1856006353417539584",
+   "en": "It was either that or stress, burnout and a trip in a Trauma Team ambulance.",
+   "ro": "Ori asta, ori stres, burnout și o plimbare cu ambulanța Trauma Team."
+  },
+  {
+   "key": "1856104005236822016",
+   "en": "Well, people don't have heart attacks on the circuit, but ambulances come in handy.",
+   "ro": "Păi, oamenii nu fac infarct pe circuit, dar ambulanțele mai prind bine."
+  },
+  {
+   "key": "1856109070194446336",
+   "en": "Yeah, I'll go heavy on the throttle.",
+   "ro": "Da, o să calc pedala la podea."
+  },
+  {
+   "key": "1856111172211838976",
+   "en": "NC badges are OK with this?",
+   "ro": "Gaborii din NC chiar sunt ok cu asta?"
+  },
+  {
+   "key": "1856111753911472128",
+   "en": "NC badges can't see a problem around the stack of eddies put in front of them.",
+   "ro": "Polițaii din NC nu văd nicio problemă când au o grămadă de eddies în față."
+  },
+  {
+   "key": "1856114270913302528",
+   "en": "Solve every problem, don't they, eddies?",
+   "ro": "Rezolvă orice problemă, nu, eddies?"
+  },
+  {
+   "key": "1856115192720658432",
+   "en": "Mmmhm.",
+   "ro": "Mmmhm."
+  },
+  {
+   "key": "1856116004201041924",
+   "en": "Any advice before we start?",
+   "ro": "Sfaturi înainte să începem?"
+  },
+  {
+   "key": "1856116195981398016",
+   "en": "There are no consequences for killing?",
+   "ro": "Nu e nicio consecință pentru ucidere?"
+  },
+  {
+   "key": "1856117579933945856",
+   "en": "No consequences for corpses in these races?",
+   "ro": "Nicio consecință pentru cadavre în cursele astea?"
+  },
+  {
+   "key": "1856118237013610496",
+   "en": "Cops don't care who dies. They just funnel the data through their accident reports.",
+   "ro": "Poliției nu-i pasă cine moare. Doar trec datele prin rapoartele de accident."
+  },
+  {
+   "key": "1856118834450272256",
+   "en": "A bullet to the brain counts as a traffic fatality?",
+   "en_m": "A bullet to the brain counts as traffic fatality?",
+   "ro": "Un glonț în cap e tot accident rutier?"
+  },
+  {
+   "key": "1856120796294025216",
+   "en": "Depends on the street.",
+   "ro": "Depinde de stradă."
+  },
+  {
+   "key": "1856123254525267968",
+   "en": "Go fast. Got it.",
+   "ro": "Mergi repede. Am înțeles."
+  },
+  {
+   "key": "1856123873789087744",
+   "en": "Oh, take this shard.",
+   "ro": "Ia shard-ul ăsta."
+  },
+  {
+   "key": "1856135765530120192",
+   "en": "The shard. It's all on there.",
+   "ro": "Shard-ul. Totul e pe el."
+  },
+  {
+   "key": "1856145996930748416",
+   "en": "Three!",
+   "ro": "Trei!"
+  },
+  {
+   "key": "1856146462783705088",
+   "en": "Two!",
+   "ro": "Doi!"
+  },
+  {
+   "key": "1856146646410334208",
+   "en": "One!",
+   "ro": "Unu!"
+  },
+  {
+   "key": "1856146817537937408",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1856150396453654528",
+   "en": "Hold on!",
+   "ro": "Ține-te bine!"
+  },
+  {
+   "key": "1856152170006712320",
+   "en": "Good luck with that.",
+   "ro": "Mult noroc, atunci."
+  },
+  {
+   "key": "1856153183769989120",
+   "en": "Think I'll give it a slap instead!",
+   "en_m": "Yeah, think I'll give it a slap instead!",
+   "ro": "Cred că o să-i dau o palmă în schimb!",
+   "ro_m": "Da, cred că o să-i dau o palmă în schimb!"
+  },
+  {
+   "key": "1856155046443618304",
+   "en": "Don't do anything stupid.",
+   "ro": "Nu face nimic prostesc."
+  },
+  {
+   "key": "1856156835012284416",
+   "en": "Want a medal?",
+   "en_m": "You want a medal?",
+   "ro": "Vrei o medalie?"
+  },
+  {
+   "key": "1856156944584282112",
+   "en": "Just a \"thank you\" would be nice.",
+   "ro": "Un simplu „mulțumesc” ar fi frumos."
+  },
+  {
+   "key": "1856157495380283392",
+   "en": "Don't jinx it!",
+   "ro": "Nu strica!"
+  },
+  {
+   "key": "1863078313456701440",
+   "en": "Right on, see ya soon.",
+   "ro": "Perfect, ne vedem curând."
+  },
+  {
+   "key": "1863078505757151232",
+   "en": "Wait, hold up – which rig are we usin'?",
+   "ro": "Stai, stai – ce mașină luăm?"
+  },
+  {
+   "key": "1963616653590667268",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1977929348032765952",
+   "en": "Hey, I bet a bundle on our win. Losing's just not an option, eh?",
+   "ro": "Hei, am pus o căruță de bani pe noi. Să pierdem nu intră în discuție, nu?"
+  },
+  {
+   "key": "1977931092007591936",
+   "en": "Hey, look, Sampson. Fresh meat.",
+   "ro": "Hei, uită-te, Sampson. Carne proaspătă."
+  },
+  {
+   "key": "1977931360090726400",
+   "en": "Hmph. Be embarrassing to lose to a rookie.",
+   "ro": "Hmph. Ar fi penibil să pierd în fața unui începător."
+  },
+  {
+   "key": "1977931663640895488",
+   "en": "Chill, gonk'll probably crash out on the first bend.",
+   "ro": "Calmează-te, fraierul ăla o să iasă în decor la primul viraj."
+  },
+  {
+   "key": "2008388904462454784",
+   "en": "Last bets, last bets! Don't miss your chance to win!",
+   "ro": "Ultimele pariuri, ultimele pariuri! Nu ratați șansa de a câștiga!"
+  },
+  {
+   "key": "2014019308506714112",
+   "en": "Where the hell're you going?!",
+   "ro": "Unde dracu' te duci?!"
+  },
+  {
+   "key": "2014019352496574464",
+   "en": "V! Get us back on track!",
+   "ro": "V! Pune-ne înapoi pe traseu!"
+  },
+  {
+   "key": "2014019381504380928",
+   "en": "The hell, V?! Get back to the race!",
+   "ro": "Ce dracu', V?! Întoarce-te în cursă!"
+  },
+  {
+   "key": "2014029674594832384",
+   "en": "You fucked us! Get outta my car! Go!",
+   "ro": "Ne-ai futut! Ieși din mașina mea! Du-te!"
+  },
+  {
+   "key": "2014029715933892608",
+   "en": "You fucked us! Just let me out!",
+   "ro": "Ne-ai futut! Lasă-mă dracu' afară!"
+  },
+  {
+   "key": "2014029741569478656",
+   "en": "Enough! Get the fuck out!",
+   "ro": "Destul! Ieși dracu' afară!"
+  },
+  {
+   "key": "2014029766399758336",
+   "en": "Enough! Let me the fuck out!",
+   "ro": "Destul! Lasă-mă dracu' afară!"
+  },
+  {
+   "key": "2054976714581295104",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  },
+  {
+   "key": "2231449145960435712",
+   "en": "D'ya hear about that thing Pete Sampson pulled last year?",
+   "ro": "Ai auzit de ce-a făcut Pete Sampson anul trecut?"
+  },
+  {
+   "key": "2231449757473181700",
+   "en": "So, whaddaya think?",
+   "ro": "Deci, ce zici?"
+  },
+  {
+   "key": "2231449848992894980",
+   "en": "Go Heywood! We at home here, feel me?!",
+   "ro": "Hai, Heywood! Aici suntem acasă, pricepi?!"
+  },
+  {
+   "key": "2231449943079522308",
+   "en": "<mothertongue l=\"mex\" m=\"chingados\" b=\"You show those \" a=\" who's boss around here!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chingados\" b=\"Arată-le ălor \" a=\" cine-i șeful pe-aici!\"/>"
+  },
+  {
+   "key": "2231450144573886468",
+   "en": "Best come back to me in one piece, baby! Nothin' missin' – got it? I love you!",
+   "ro": "Întoarce-te la mine întreagă, baby! Nimic lipsă – ai priceput? Te iubesc!",
+   "ro_m": "Întoarce-te la mine întreg, baby! Nimic lipsă – ai priceput? Te iubesc!"
+  },
+  {
+   "key": "2231450227671437312",
+   "en": "Bucky! Bucky! I put a hundred down. You squeeze the life outta that wreck! Squeeze it like you love your mother!",
+   "ro": "Bucky! Bucky! Am pus o sută. Scoate tot sufletul din rahatul ăla! Strânge-l cum ți-ai iubi mama!"
+  },
+  {
+   "key": "2241456326931779584",
+   "en": "Pete \"How-To-Succeed-Guru-I'm-On-The-Cover-Of-Time\" Sampson? Talkin' about the finals, his win?",
+   "ro": "Pete „Guru-ul succesului, de pe coperta Time” Sampson? Vorbești de finală, de victoria lui?"
+  },
+  {
+   "key": "2241456401707831296",
+   "en": "Naw, naw. First race – Little China, Kabuki, finish line in Northside?",
+   "ro": "Nu, nu. Prima cursă – Little China, Kabuki, sosirea în Northside?"
+  },
+  {
+   "key": "2241456555085139968",
+   "en": "Oh yeah. But Sampson came second. Not bad, but not tops.",
+   "ro": "A, da. Dar Sampson a fost pe locul doi. Nu rău, da' nu cel mai bun."
+  },
+  {
+   "key": "2241456655345782784",
+   "en": "Not how it played out. Sampson hired Maelstrom thugs to zero the winners past the finish line. Put clever man Sampson first in the end.",
+   "ro": "Nu așa s-a întâmplat. Sampson a angajat niște bătăuși Maelstrom să lichideze câștigătorii după linia de sosire. Și uite-așa, deșteptul ăla de Sampson a ajuns primul."
+  },
+  {
+   "key": "2241865452111400960",
+   "en": "About those rugfuckers? What'm I supposed to think? I piss on them.",
+   "ro": "Despre ăia de pe covorașe? Ce să zic? Îi pișez."
+  },
+  {
+   "key": "2241865532927250432",
+   "en": "Tha'ss good, good. I thought I sensed nerves, know what I mean? And you got to be relaxed behind the wheel, cooler'n liquid nitro.",
+   "ro": "Bine, bine. Credeam că simt niște nervi, știi ce vreau să zic? Și trebuie să fii relaxată la volan, mai rece ca azotul lichid.",
+   "ro_m": "Bine, bine. Credeam că simt niște nervi, știi ce vreau să zic? Și trebuie să fii relaxat la volan, mai rece ca azotul lichid."
+  },
+  {
+   "key": "2241865575591710720",
+   "en": "Hey. I'm chill, holmes. Just, let's…",
+   "ro": "Hei. Sunt zen, holmes. Hai doar să…"
+  },
+  {
+   "key": "2241865677597184000",
+   "en": "Let's you an' me show those corpopricks exactly how welcome monochromes are in Vista del Rey.",
+   "ro": "Hai să le arătăm ălora de la corpo cât de bineveniți sunt monocromii în Vista del Rey, tu cu mine."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_03_car_ride.json",
+ "entries": [
+  {
+   "key": "1147233660445134848",
+   "en": "You hear me? I need your help!",
+   "ro": "Mă auzi? Am nevoie de ajutor!"
+  },
+  {
+   "key": "1151343142498471936",
+   "en": "<kiroshi l=\"jpn\" o=\"クソどもめ！\" t=\"Sons of bitches!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソどもめ！\" t=\"Puii de curvă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1293648083834552320",
+   "en": "[Use airhypo]",
+   "ro": "[Folosește airhypo]"
+  },
+  {
+   "key": "1621561898580463616",
+   "en": "Hold on!",
+   "ro": "Ține-te bine!"
+  },
+  {
+   "key": "1629984232274284544",
+   "en": "The booster will not last long...",
+   "ro": "Boosterul nu ține mult..."
+  },
+  {
+   "key": "1629995457993396224",
+   "en": "Shoot him!",
+   "ro": "Împușcă-l!"
+  },
+  {
+   "key": "1629999004529086464",
+   "en": "Hold on!",
+   "ro": "Ține-te bine!"
+  },
+  {
+   "key": "1630001363858640896",
+   "en": "Agh!",
+   "ro": "Agh!"
+  },
+  {
+   "key": "1630006453814317056",
+   "en": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Die already!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Mori odată!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1630008452635054080",
+   "en": "Traitor!",
+   "ro": "Trădător!"
+  },
+  {
+   "key": "1630008972175101952",
+   "en": "<kiroshi l=\"jpn\" o=\"地獄に堕ちろ！\" t=\"Burn in hell!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"地獄に堕ちろ！\" t=\"Să arzi în iad!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_07_hideout.json",
+ "entries": [
+  {
+   "key": "1660727260740603904",
+   "en": "<kiroshi l=\"mex\" o=\"¡Pinches hijos de la chingada madre!\" t=\"Motherfucking cocksuckers!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Pinches hijos de la chingada madre!\" t=\"Nenorociții dracului de suge-pula!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1660729509290201092",
+   "en": "You think this is my fault?",
+   "ro": "Crezi că e vina mea?"
+  },
+  {
+   "key": "1660729930616426496",
+   "en": "Calm down. Things like this happen.",
+   "ro": "Calmă-te. Se mai întâmplă lucruri din astea."
+  },
+  {
+   "key": "1660731196541259776",
+   "en": "Calm down. Sometimes these things happen.",
+   "ro": "Calmă-te. Uneori se mai întâmplă lucruri din astea."
+  },
+  {
+   "key": "1660740068031090688",
+   "en": "[Poke iguana] We should sell it.",
+   "ro": "[Înțeapă iguana] Ar trebui s-o vindem."
+  },
+  {
+   "key": "1660740068031090704",
+   "en": "You know your iguanas?",
+   "ro": "Te pricepi la iguane?"
+  },
+  {
+   "key": "1660740835823603712",
+   "en": "<mothertongue l=\"mex\" m=\"¡No mames!\" b=\"\" a=\" A real iguana! A, uh, Lesser Antillean, I think.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡No mames!\" b=\"\" a=\" O iguană adevărată! Ăă, Lesser Antillean, cred.\"/>"
+  },
+  {
+   "key": "1660741391786987520",
+   "en": "Think you can make some money on it?",
+   "en_m": "You think you can make some money on it?",
+   "ro": "Crezi că poți face bani cu ea?"
+  },
+  {
+   "key": "1660742685327118336",
+   "en": "Yeah, partner. We'll go halfsies.",
+   "ro": "Da, parteneră. Jumătate-jumătate.",
+   "ro_m": "Da, partenere. Jumătate-jumătate."
+  },
+  {
+   "key": "1660743425755992064",
+   "en": "Lesser Antil-what?",
+   "ro": "Lesser Antil-ce?"
+  },
+  {
+   "key": "1660743425755992072",
+   "en": "Yeah! Watched a thing on TV about 'em. Went extinct like thirty years ago. They're from the Lesser Antilles.",
+   "ro": "Da! Am văzut ceva la TV despre ele. Au dispărut acum vreo treizeci de ani. Sunt din Antilele Mici."
+  },
+  {
+   "key": "1660747702989770752",
+   "en": "It's kind of a shame, though... I always wanted a pet.",
+   "ro": "Ce păcat... Mereu mi-am dorit un animal de companie."
+  },
+  {
+   "key": "1660749381583785984",
+   "en": "Got the name Manny all thought out.",
+   "ro": "Am numele deja ales: Manny."
+  },
+  {
+   "key": "1660749876914311168",
+   "en": "Hey, by the way... you, uh, got any plans for what you'll be doin' in Night City?",
+   "ro": "Hei, apropo... tu, ăă, ai vreun plan pentru Night City?"
+  },
+  {
+   "key": "1660750834725572608",
+   "en": "I have no plans at the moment.",
+   "ro": "Nu am planuri deocamdată."
+  },
+  {
+   "key": "1660750834725572624",
+   "en": "Why do you ask?",
+   "ro": "De ce întrebi?"
+  },
+  {
+   "key": "1660751711167336448",
+   "en": "Why do you ask?",
+   "ro": "De ce întrebi?"
+  },
+  {
+   "key": "1731663961628012544",
+   "en": "If you think this is my fault, at least have the balls to say so.",
+   "ro": "Dacă crezi că e vina mea, măcar ai coaie să o spui."
+  },
+  {
+   "key": "1731681828289310720",
+   "en": "This?! What kinda shit happens?!",
+   "ro": "Asta?! Ce căcat mai e și ăsta?!"
+  },
+  {
+   "key": "1731687851662176256",
+   "en": "I don't know yet. Is it?!",
+   "ro": "Nu știu încă. Chiar așa?!"
+  },
+  {
+   "key": "1731711088458657792",
+   "en": "Sure. Think it'll make us happy.",
+   "ro": "Sigur. Crezi că o să ne facă fericiți?"
+  },
+  {
+   "key": "1731711236182044672",
+   "en": "\"Us\"?",
+   "ro": "„Noi”?"
+  },
+  {
+   "key": "1732774790444281856",
+   "en": "I don't have any plans. I've spent the last years traveling between states with my nomad family.",
+   "en_m": "I don't have any plans. I've spent the last years travelin' between states with my nomad family.",
+   "ro": "Nu am planuri. Ultimii ani i-am petrecut hoinărind între state cu familia mea de nomazi."
+  },
+  {
+   "key": "1732872998780596224",
+   "en": "You come a long way, my scaly friend.",
+   "ro": "Ai făcut drumul lung, prietene solzos."
+  },
+  {
+   "key": "1732906860319535104",
+   "en": "Ah, prolly be waitin' for you somewhere, eh?",
+   "ro": "Ah, sigur te așteaptă pe undeva, nu?"
+  },
+  {
+   "key": "1732906958499803136",
+   "en": "No. We decided to go our separate ways.",
+   "ro": "Nu. Ne-am luat fiecare pe drumul lui."
+  },
+  {
+   "key": "1732907265774514176",
+   "en": "That must be tough, huh? Havin' no one to go back to?",
+   "ro": "Trebuie să fie greu, nu? Să n-ai la cine să te întorci?"
+  },
+  {
+   "key": "1732910034719797248",
+   "en": "Cause I got this feelin' you got a lotta time... an' nothin' to spend it on.",
+   "ro": "Că am impresia că ai timp berechet... și nimic cu ce să-l umpli."
+  },
+  {
+   "key": "1732910686766297088",
+   "en": "And NC ain't a city that lets you get by without buddies.",
+   "ro": "Și NC nu te lasă să te descurci fără prieteni."
+  },
+  {
+   "key": "1732935380848537600",
+   "en": "Hey, c'mon. 'S nothin'. We got chemistry, you an' me. Be a cryin' shame to waste it... partner.",
+   "ro": "Hei, hai. Nu-i nimic. Avem chimie, noi doi. Ar fi păcat s-o irosim... parteneră.",
+   "ro_m": "Hei, hai. Nu-i nimic. Avem chimie, noi doi. Ar fi păcat s-o irosim... partenere."
+  },
+  {
+   "key": "1740238259133280256",
+   "en": "I never said I needed help.",
+   "ro": "N-am zis niciodată că am nevoie de ajutor."
+  },
+  {
+   "key": "1740238272840265732",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1740238689737306112",
+   "en": "I don't need help.",
+   "ro": "Nu-mi trebuie ajutor."
+  },
+  {
+   "key": "1740239352202457088",
+   "en": "Hey, c'mon. It's nothin'. We got chemistry, you an' me. Be a cryin' shame to waste it... partner.",
+   "ro": "Hei, hai. Nu-i nimic. Avem chimie, noi doi. Ar fi păcat s-o irosim... parteneră.",
+   "ro_m": "Hei, hai. Nu-i nimic. Avem chimie, noi doi. Ar fi păcat s-o irosim... partenere."
+  },
+  {
+   "key": "1740240449650487296",
+   "en": "Thanks, much appreciated.",
+   "ro": "Mersi, chiar apreciez."
+  },
+  {
+   "key": "1740241310388776960",
+   "en": "But don't you worry. Lemme help you find digs. You gotta live somewhere.",
+   "ro": "Dar nu te stresa. Lasă-mă să te ajut să-ți găsești un loc. Trebuie să stai undeva, nu?"
+  },
+  {
+   "key": "1812670217100128256",
+   "en": "Border security tipped off the corporation that we have their cargo.",
+   "ro": "Grănicerii i-au turnat corporației că avem marfa lor."
+  },
+  {
+   "key": "1812683710880739328",
+   "en": "What's the deal with these borderlies flippin' us the finger as they fuckin' please?! With no consequences!",
+   "ro": "Ce-i cu grănicerii ăștia care ne arată degetul cât le place lor?! Și fără nicio consecință!"
+  },
+  {
+   "key": "1812686329955151872",
+   "en": "He took a risk. He assumed we didn't have a clan backing us, and he was right.",
+   "ro": "Și-a luat un risc. A crezut că nu avem clan în spate și a nimerit-o."
+  },
+  {
+   "key": "1812693221314064384",
+   "en": "Oh shit.",
+   "en_m": "Aw shit.",
+   "ro": "Of, căcat.",
+   "ro_m": "Ah, căcat."
+  },
+  {
+   "key": "1812693583769038848",
+   "en": "<mothertongue l=\"mex\" m=\"Pendejamente ridículo...\" b=\"Pff... \" a=\" So what now?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Pendejamente ridículo...\" b=\"Pff... \" a=\" Și acum ce?\"/>"
+  },
+  {
+   "key": "1812700626626211840",
+   "en": "I don't know if your client's gonna be happy gettin' an open package. Usually means trouble.",
+   "en_m": "I dunno if your client's gonna be happy gettin' an open package. It usually means trouble.",
+   "ro": "Nu știu dacă o să-i placă clientului tău să primească un pachet deschis. De obicei înseamnă belele."
+  },
+  {
+   "key": "1812701465638006784",
+   "en": "[Open] Let's peek away.",
+   "ro": "[Deschide] Hai să aruncăm o privire."
+  },
+  {
+   "key": "1812723075665293312",
+   "en": "Fuck the client. You gotta start workin' for yourself sometime. No commission, no middlemen.",
+   "ro": "Dracu' să-l ia pe client. Odată trebuie să lucrezi și pentru tine. Fără comision, fără intermediari."
+  },
+  {
+   "key": "1812804648804741120",
+   "en": "Says Arasaka on the crate... We are robbin' some heavy hitters.",
+   "en_m": "It says Arasaka on the crate... We are robbing some heavy hitters.",
+   "ro": "Scrie Arasaka pe ladă... Jefuim niște mari rechini."
+  },
+  {
+   "key": "1812805170458718208",
+   "en": "Then maybe we'll make some heavy money.",
+   "ro": "Atunci poate facem o grămadă de bani."
+  },
+  {
+   "key": "1815449295838441472",
+   "en": "And I need to know what I'm sellin' if I'm gonna try to find a new buyer.",
+   "ro": "Și trebuie să știu ce vând dacă vreau să găsesc un cumpărător nou."
+  },
+  {
+   "key": "1815639482442903552",
+   "en": "Any decent fixer'll find a loaded gonk interested in a rare gem like this.",
+   "ro": "Orice fixer decent găsește repede un fraier cu bani care să se bage pe o piesă rară ca asta."
+  },
+  {
+   "key": "1834150743188197376",
+   "en": "They almost tagged our asses! That what you call smugglin'?!",
+   "ro": "Pe-un fir de păr ne-au prins! Asta numești tu contrabandă?!"
+  },
+  {
+   "key": "1834150743624404992",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingado!\" t=\"Fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingado!\" t=\"Futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1834150744127721472",
+   "en": "It was supposed to go smooth. No problems!",
+   "ro": "Trebuia să meargă ca pe roate. Fără probleme!"
+  },
+  {
+   "key": "1885092012469710852",
+   "en": "You pay my transport fee.",
+   "ro": "Îmi plătești transportul."
+  },
+  {
+   "key": "1885092071508733952",
+   "en": "We've crossed the border. Now you pay me, and we go our separate ways.",
+   "ro": "Am trecut granița. Acum plătești și ne vedem fiecare de drum."
+  },
+  {
+   "key": "1885092082615250944",
+   "en": "I could ask you the same question – will you keep whining, or will we put a bow on this thing?",
+   "en_m": "I could ask the same question – will you keep whinin', or will we put a bow on this thing?",
+   "ro": "Aș putea să te întreb același lucru – o să te tot plângi, sau terminăm odată?"
+  },
+  {
+   "key": "1885092317815042048",
+   "en": "I could ask the same question.",
+   "ro": "Aș putea să pun aceeași întrebare."
+  },
+  {
+   "key": "1885122683250601984",
+   "en": "Uh, I ain't gonna lie... I'm a bit light. I can't pay you now.",
+   "ro": "Ăă, n-o să mint... Nu-mi ajung banii. Nu pot să te plătesc acum."
+  },
+  {
+   "key": "1885141424592056320",
+   "en": "Ah, and you just figured I would sit by patiently?",
+   "en_m": "Huh. And you just figured I would sit by patiently.",
+   "ro": "Cum adică? Și te-ai gândit că o să stau cuminte?",
+   "ro_m": "Hm. Și te-ai gândit că o să stau cuminte?"
+  },
+  {
+   "key": "1885141691282681856",
+   "en": "Have somethin' for you once I collect my scrap for this corpo crap we're carryin'.",
+   "ro": "Îți dau ceva de îndată ce-mi iau banii pe porcăria asta de corpo pe care o cărăm."
+  },
+  {
+   "key": "1885144037844774912",
+   "en": "Actually, I wasn't gonna pay you at all. Was just gonna bust ass and disappear soon as we crossed over. But…",
+   "ro": "Chiar, nici nu aveam de gând să te plătesc. Voiam doar să dispar în clipa în care trecem granița. Dar…"
+  },
+  {
+   "key": "1885144826608807936",
+   "en": "You tricked me.",
+   "ro": "M-ai păcălit."
+  },
+  {
+   "key": "1885144847731322880",
+   "en": "You tricked me.",
+   "en_m": "So you tricked me.",
+   "ro": "M-ai păcălit.",
+   "ro_m": "Deci m-ai păcălit."
+  },
+  {
+   "key": "1885144997837074432",
+   "en": "I appreciate the honesty.",
+   "ro": "Apreciez sinceritatea."
+  },
+  {
+   "key": "1885145593092698112",
+   "en": "I appreciate the honesty.",
+   "ro": "Apreciez sinceritatea."
+  },
+  {
+   "key": "1885162312863510528",
+   "en": "Oh, well, apologies for offending the spotless moral code of a smuggler.",
+   "ro": "Păi, scuze că am ofensat codul moral impecabil al unui contrabandist."
+  },
+  {
+   "key": "1885171940603129856",
+   "en": "Ah, thanks.",
+   "ro": "Ah, mersi."
+  },
+  {
+   "key": "1885176987525246976",
+   "en": "So, what's next?",
+   "ro": "Bun, și acum ce facem?"
+  },
+  {
+   "key": "1885178090643976192",
+   "en": "Now we take a peek inside.",
+   "ro": "Acum aruncăm o privire înăuntru."
+  },
+  {
+   "key": "1885197235896905728",
+   "en": "You're all right.",
+   "ro": "Ești în regulă."
+  },
+  {
+   "key": "1898158607917420544",
+   "en": "Open it.",
+   "ro": "Deschide-o."
+  },
+  {
+   "key": "1908362814473670656",
+   "en": "You're all right, too.",
+   "ro": "Și tu ești în regulă."
+  },
+  {
+   "key": "1908363086516228096",
+   "en": "OK, partner. Time to grab the lizard and scurry outta here.",
+   "ro": "OK, partener. E timpul să luăm șopârla și să ne ștergem de aici."
+  },
+  {
+   "key": "1908364155661094912",
+   "en": "You know what, Jackie? You're not all bad yourself.",
+   "ro": "Știi ce, Jackie? Nu ești chiar atât de rău."
+  },
+  {
+   "key": "1908365988269953024",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ha-aw, you don't mean that, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Ha-haw, you don't mean that, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ha-aw, nu spui pe bune, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Ha-haw, nu spui pe bune, \" a=\".\"/>"
+  },
+  {
+   "key": "1912879289522384896",
+   "en": "[Shake Jackie's hand] Let's move, partner.",
+   "ro": "[Strânge-i mâna lui Jackie] Mișcă, partener."
+  },
+  {
+   "key": "1944598918306500608",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1944615282920427520",
+   "en": "<mothertongue l=\"mex\" m=\"Vamos\" b=\"\" a=\", let's have a look inside this box.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Vamos\" b=\"\" a=\", hai să aruncăm o privire în cutia asta.\"/>"
+  },
+  {
+   "key": "1959162683922161668",
+   "en": "Shouldn't touch the merchandise.",
+   "ro": "Nu atinge marfa."
+  },
+  {
+   "key": "2024420271072583680",
+   "en": "Aww, cuddly little fucker.",
+   "ro": "Aww, drăguțul de nenorocit."
+  },
+  {
+   "key": "2024444949095706624",
+   "en": "Hey!",
+   "ro": "Hei!"
+  },
+  {
+   "key": "2116916449292341252",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2308345229633306624",
+   "en": "'S important to have people you can turn to. Y'know, like, uh, family. Maybe you'll find your own down in Night City.",
+   "ro": "E important să ai oameni pe care să te poți baza. Știi tu, familia. Poate ți-o găsești și tu pe a ta jos, în Night City."
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_bls_ina_07_holocall_debriefs.json",
+ "entries": [
+  {
+   "key": "2328809700981133312",
+   "en": "Well, well... these are the results I like to see. Until next time, sister. Gig closed.",
+   "en_m": "Well, well... these are the results I like to see. Until next time, brother. Gig closed.",
+   "ro": "Ei, ei... ăstea-s rezultatele pe care le vreau. Ne auzim data viitoare, soro. Gig închis.",
+   "ro_m": "Ei, ei... ăstea-s rezultatele pe care le vreau. Ne auzim data viitoare, frate. Gig închis."
+  },
+  {
+   "key": "2333087516606578688",
+   "en": "What the hell is wrong with you?! You destroyed the car!",
+   "ro": "Ce naiba ți se întâmplă?! Ai distrus mașina!"
+  },
+  {
+   "key": "2333090849350205440",
+   "en": "Fucking up that perfectly just defies belief. I mean, I'm truly at a loss for words...",
+   "ro": "Să dai totul în bara dracului așa perfect e de necrezut. Adică, chiar n-am cuvinte..."
+  }
+ ]
+}

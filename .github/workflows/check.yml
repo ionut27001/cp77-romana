@@ -1,0 +1,19 @@
+name: Verificare traducere
+
+on:
+  pull_request:
+    paths: ["translations/**", "tools/check.py"]
+  push:
+    branches: [main]
+    paths: ["translations/**", "tools/check.py"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tag-uri, variabile și JSON valid
+        run: python tools/check.py

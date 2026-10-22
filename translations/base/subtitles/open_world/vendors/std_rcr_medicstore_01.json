@@ -1,0 +1,37 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_rcr_medicstore_01.json",
+ "entries": [
+  {
+   "key": "1828465360056528896",
+   "en": "Looking to shop.",
+   "ro": "Vreau să cumpăr ceva."
+  },
+  {
+   "key": "1828465360056528912",
+   "en": "Got anything \"extra\" for sale?",
+   "ro": "Aveți ceva „extra” de vânzare?"
+  },
+  {
+   "key": "1828465360090083332",
+   "en": "Open for business?",
+   "en_m": "You open for business?",
+   "ro": "Deschis pentru afaceri?",
+   "ro_m": "Ești deschis pentru afaceri?"
+  },
+  {
+   "key": "1828465360090083340",
+   "en": "Mhm. Lookin' for somethin' in particular?",
+   "ro": "Mhm. Cauți ceva anume?"
+  },
+  {
+   "key": "1828465360123637764",
+   "en": "Anything special on offer? Maybe tucked away for a rainy day?",
+   "ro": "Ceva special la ofertă? Poate ascuns pentru zile negre?"
+  },
+  {
+   "key": "1828465360157192196",
+   "en": "Lemme think... Most folk in NC got guns under the counter. Not sayin' I do, not sayin' I don't, but you feel me, I'm sure, so no funny biz, hmm?",
+   "ro": "Lasă-mă să mă gândesc... Majoritatea oamenilor din NC au arme sub tejghea. Nu zic că am, nu zic că n-am, dar mă înțelegi, sunt sigur, așa că fără giumbușlucuri, hmm?"
+  }
+ ]
+}

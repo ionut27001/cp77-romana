@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_008.json",
+ "entries": [
+  {
+   "key": "1827141779131588608",
+   "en": "<kiroshi l=\"jpn\" o=\"じゃあなんだ、お前は本物のワルってわけか？\" t=\"So you a real gangster, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"じゃあなんだ、お前は本物のワルってわけか？\" t=\"Deci ești un gangster adevărat, ha?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827143275223048192",
+   "en": "<kiroshi l=\"jpn\" o=\"当たり前でしょ！ 仲間を売らず、きっちり務めあげてシャバに戻ってきた\" t=\"That I am, heh heh! One who don't talk, who took his rap, then did his time, heh heh.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"当たり前でしょ！ 仲間を売らず、きっちり務めあげてシャバに戻ってきた\" t=\"Așa sunt, heh heh! Unul care nu vorbește, care și-a luat pedeapsa, apoi și-a ispășit timpul, heh heh.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827143536914063360",
+   "en": "<kiroshi l=\"jpn\" o=\"へえ？ ケンジはお前がそっこう口を割って刑を逃れたって言ってたがな\" t=\"Oh yeah? 'Cause Kenji says you cleaned up your act so good, your ass is itchin'.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"へえ？ ケンジはお前がそっこう口を割って刑を逃れたって言ってたがな\" t=\"Oh, da? Pentru că Kenji zice că te-ai curățat atât de bine, că te mănâncă fundul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827143788991733760",
+   "en": "<kiroshi l=\"jpn\" o=\"え？ ち、ちがう！私は2年もムショにいたんだ！ ケンジの奴、デタラメばっか言って…！\" t=\"Who, m-me? N-no way, choom! I did two years! Kenji's a fuckin' liar!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え？ ち、ちがう！私は2年もムショにいたんだ！ ケンジの奴、デタラメばっか言って…！\" t=\"Cine, e-eu? N-nici vorbă, choom! Am făcut doi ani! Kenji e un mincinos al dracului!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827143983322226688",
+   "en": "<kiroshi l=\"jpn\" o=\"そうか。じゃあ、直接言ってやりな。明日、街に来るからよ\" t=\"Well, he'll be in town tomorrow. You can tell him yourself.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そうか。じゃあ、直接言ってやりな。明日、街に来るからよ\" t=\"Ei bine, mâine e în oraș. Poți să-i spui chiar tu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827144148410032128",
+   "en": "<kiroshi l=\"jpn\" o=\"え？ そ、それは無理よ。用事があって…\" t=\"W-what? N-nah, choom, I gotta delta…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え？ そ、それは無理よ。用事があって…\" t=\"C-ce? N-nu, choom, trebuie s-o tai…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1827144388408107008",
+   "en": "<kiroshi l=\"jpn\" o=\"どこにも行かせねえよ\" t=\"You're staying with us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どこにも行かせねえよ\" t=\"Rămâi cu noi.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

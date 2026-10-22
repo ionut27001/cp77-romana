@@ -1,0 +1,342 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\sec_high_f_02_rus_25.json",
+ "entries": [
+  {
+   "key": "1898023799381041156",
+   "en": "Yes?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1898023799397818372",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1898023799464927236",
+   "en": "Stop! Stay back!",
+   "ro": "Stop! Înapoi!"
+  },
+  {
+   "key": "1898023799498481668",
+   "en": "Don't come any closer!",
+   "ro": "Nu te apropia!"
+  },
+  {
+   "key": "1898023799548813316",
+   "en": "I will disarm you.",
+   "ro": "Te dezarmez."
+  },
+  {
+   "key": "1898023799565590532",
+   "en": "Drop your weapon!",
+   "ro": "Aruncă arma!"
+  },
+  {
+   "key": "1898023799632699396",
+   "en": "You'll make me lose my temper.",
+   "ro": "Mă faci să-mi pierd cumpătul."
+  },
+  {
+   "key": "1898023799649476612",
+   "en": "I won't go easy on you, understand?",
+   "ro": "Nu o să mă port blând cu tine, înțelegi?"
+  },
+  {
+   "key": "1898023799716585476",
+   "en": "Easy now!",
+   "ro": "Ușor acum!"
+  },
+  {
+   "key": "1898023799750139908",
+   "en": "That's what I'm talking about!",
+   "ro": "Asta zic și eu!"
+  },
+  {
+   "key": "1898023799800471556",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1898023799834025988",
+   "en": "What the hell?",
+   "ro": "Ce naiba?"
+  },
+  {
+   "key": "1898023799917912068",
+   "en": "Area secured.",
+   "ro": "Zonă securizată."
+  },
+  {
+   "key": "1898023799934689284",
+   "en": "Didn't detect anything.",
+   "ro": "N-am detectat nimic."
+  },
+  {
+   "key": "1898023800001798148",
+   "en": "We'll find you! It's just a matter of time!",
+   "ro": "Te găsim! E doar o chestiune de timp!"
+  },
+  {
+   "key": "1898023800035352580",
+   "en": "Terrorist in the vicinity!",
+   "ro": "Terrorist în zonă!"
+  },
+  {
+   "key": "1898023800068907012",
+   "en": "We have a body!",
+   "ro": "Avem un cadavru!"
+  },
+  {
+   "key": "1898023800119238660",
+   "en": "Yessir.",
+   "ro": "Da, domnule."
+  },
+  {
+   "key": "1898023800203124740",
+   "en": "Neutralize all threats!",
+   "ro": "Neutralizează toate amenințările!"
+  },
+  {
+   "key": "1898023800219901956",
+   "en": "We're being attacked!",
+   "ro": "Suntem atacați!"
+  },
+  {
+   "key": "1898023800253456388",
+   "en": "Heads up!",
+   "ro": "Atenție!"
+  },
+  {
+   "key": "1898023800320565248",
+   "en": "Move! Move! Move!",
+   "ro": "Mișcă! Mișcă! Mișcă!"
+  },
+  {
+   "key": "1898023800337342468",
+   "en": "Subject is resisting!",
+   "ro": "Subiectul rezistă!"
+  },
+  {
+   "key": "1898023800387674116",
+   "en": "Stay focused!",
+   "ro": "Rămâi concentrat!"
+  },
+  {
+   "key": "1898023800404451332",
+   "en": "I need cover!",
+   "ro": "Am nevoie de acoperire!"
+  },
+  {
+   "key": "1898023800471560196",
+   "en": "Eyes on the ground.",
+   "ro": "Ochi pe sol."
+  },
+  {
+   "key": "1898023800505114624",
+   "en": "Careful.",
+   "ro": "Atenție."
+  },
+  {
+   "key": "1898023800538669060",
+   "en": "Speaking.",
+   "ro": "La telefon."
+  },
+  {
+   "key": "1898023800589000708",
+   "en": "Yes... I'll send you the details... I know... It shouldn't be a problem...",
+   "ro": "Da... Îți trimit detaliile... Știu... Nu ar trebui să fie o problemă..."
+  },
+  {
+   "key": "1898023800605777924",
+   "en": "Where...? I won't make it... Mhm... I'm telling, I just can't...",
+   "ro": "Unde...? Nu o să reușesc... Mhm... Îți spun, pur și simplu nu pot..."
+  },
+  {
+   "key": "1898023800672886788",
+   "en": "Flank them!",
+   "ro": "Înconjurați-i!"
+  },
+  {
+   "key": "1898023800723218436",
+   "en": "Understood!",
+   "ro": "Înțeles!"
+  },
+  {
+   "key": "1898023800773550084",
+   "en": "Stay clear!",
+   "ro": "Stai deoparte!"
+  },
+  {
+   "key": "1898023800790327300",
+   "en": "Roger that.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1898023800807104516",
+   "en": "Investigating.",
+   "ro": "Investighez."
+  },
+  {
+   "key": "1898023800874213380",
+   "en": "Shhh... On me.",
+   "ro": "Șșș... După mine."
+  },
+  {
+   "key": "1898023800890990596",
+   "en": "Psst... Form up.",
+   "ro": "Psst... Formați!"
+  },
+  {
+   "key": "1898023800941322244",
+   "en": "Move out.",
+   "ro": "Mișcare!"
+  },
+  {
+   "key": "1898023800958099460",
+   "en": "Stop her!",
+   "en_m": "Stop him!",
+   "ro": "Opriți-o!",
+   "ro_m": "Opriți-l!"
+  },
+  {
+   "key": "1898023801008431104",
+   "en": "Argh… ekhh… You're... choking me...",
+   "ro": "Argh… ekhh… Mă... sufoci..."
+  },
+  {
+   "key": "1898044219350065152",
+   "en": "Understood...",
+   "ro": "Înțeles..."
+  },
+  {
+   "key": "1898044479212363776",
+   "en": "Mhm... Yes, I'll pass it on...",
+   "ro": "Mhm... Da, o să transmit..."
+  },
+  {
+   "key": "2236479806073085956",
+   "en": "Attack dammit!",
+   "ro": "Atacă, naiba!"
+  },
+  {
+   "key": "2236479806391853060",
+   "en": "Still breathing... Possible intruder!",
+   "ro": "Încă respiră... Posibil intrus!"
+  },
+  {
+   "key": "2236479806442184708",
+   "en": "That's weird...",
+   "ro": "Ciudat..."
+  },
+  {
+   "key": "2236479806559625220",
+   "en": "Didn't call anyone in. Fan out!",
+   "ro": "N-am chemat pe nimeni. Dispersați-vă!"
+  },
+  {
+   "key": "2236479806727397380",
+   "en": "We're losing people!",
+   "ro": "Pierdem oameni!"
+  },
+  {
+   "key": "2236479806811283460",
+   "en": "You messed with the wrong corp!",
+   "ro": "Te-ai pus cu corporația greșită!"
+  },
+  {
+   "key": "2236479806878392324",
+   "en": "You're dead!",
+   "ro": "Ești moartă!",
+   "ro_m": "Ești mort!"
+  },
+  {
+   "key": "2236479807062941700",
+   "en": "She's hit!",
+   "en_m": "He's hit!",
+   "ro": "A fost lovită!",
+   "ro_m": "A fost lovit!"
+  },
+  {
+   "key": "2236479807113273348",
+   "en": "Target hit!",
+   "ro": "Țintă lovită!"
+  },
+  {
+   "key": "2236479807297822724",
+   "en": "She's worn down! Finish her!",
+   "en_m": "He's worn down! Finish him!",
+   "ro": "E epuizată! Termin-o!",
+   "ro_m": "E epuizat! Termină-l!"
+  },
+  {
+   "key": "2236479807348154372",
+   "en": "Understood!",
+   "ro": "Înțeles!"
+  },
+  {
+   "key": "2236479807415263236",
+   "en": "Draw her out!",
+   "en_m": "Draw him out!",
+   "ro": "Scoateți-o!",
+   "ro_m": "Scoateți-l!"
+  },
+  {
+   "key": "2236479807465594884",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2236479807515926532",
+   "en": "Neutralize the threat!",
+   "ro": "Neutralizează amenințarea!"
+  },
+  {
+   "key": "2236479807616589828",
+   "en": "Lost visuals!",
+   "ro": "Am pierdut vizualul!"
+  },
+  {
+   "key": "2236479807666921476",
+   "en": "She's hacking our cyberware!",
+   "en_m": "He's hacking our cyberware!",
+   "ro": "Ne hackuiește cyberware-ul!"
+  },
+  {
+   "key": "2236479807717253124",
+   "en": "Thaaat's the stuff!",
+   "ro": "Așa da!"
+  },
+  {
+   "key": "2236479807767584772",
+   "en": "Calling reinforcements!",
+   "ro": "Cer întăriri!"
+  },
+  {
+   "key": "2236479807834693636",
+   "en": "Leave her to me!",
+   "en_m": "Leave him to me!",
+   "ro": "Las-o pe ea pe mâna mea!",
+   "ro_m": "Lasă-l pe el pe mâna mea!"
+  },
+  {
+   "key": "2236479807918579712",
+   "en": "Closing in on the target!",
+   "ro": "Ne apropiem de țintă!"
+  },
+  {
+   "key": "2236479807968911364",
+   "en": "Heads down! Firing!",
+   "ro": "Capetele jos! Trag!"
+  },
+  {
+   "key": "2236479808019243012",
+   "en": "Need to replace our losses!",
+   "ro": "Trebuie să înlocuim pierderile!"
+  },
+  {
+   "key": "2236479808270901252",
+   "en": "Huh...? Securing the area.",
+   "ro": "Huh...? Securizez zona."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_high_m_23_jap_40.json",
+ "entries": [
+  {
+   "key": "1878097713578909700",
+   "en": "What...? What is going on?",
+   "ro": "Ce...? Ce se întâmplă?"
+  },
+  {
+   "key": "1878097713595686916",
+   "en": "<kiroshi l=\"jpn\" o=\"あー… おはよう\" t=\"Good day.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あー… おはよう\" t=\"Bună ziua.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1878097713662795780",
+   "en": "Huh...?",
+   "ro": "Hm...?"
+  },
+  {
+   "key": "1878097713679572996",
+   "en": "What in the name of...?",
+   "ro": "Ce naiba...?"
+  },
+  {
+   "key": "1878097713729904644",
+   "en": "Hello?",
+   "ro": "Alo?"
+  },
+  {
+   "key": "1878097713780236292",
+   "en": "By now, yes... Huh? No... I just did not get much sleep…",
+   "ro": "Deja, da... Hm? Nu... Nu am dormit prea mult…"
+  },
+  {
+   "key": "1878097713797013508",
+   "en": "I remember... Mhm, but when? No worries, it shall work out.",
+   "ro": "Îmi amintesc... Mhm, dar când? Nu-ți face griji, o să se rezolve."
+  },
+  {
+   "key": "1878097713847345152",
+   "en": "Talk soon. I will let you know.",
+   "ro": "Vorbim curând. Te anunț."
+  },
+  {
+   "key": "1878097713998340100",
+   "en": "Someone! Stop her!",
+   "en_m": "Someone! Stop him!",
+   "ro": "Cineva! Oprește-o!",
+   "ro_m": "Cineva! Oprește-l!"
+  },
+  {
+   "key": "1878097714031894532",
+   "en": "We are all going to die!",
+   "ro": "O să murim cu toții!"
+  },
+  {
+   "key": "1878097714115780612",
+   "en": "What do you want from me?",
+   "ro": "Ce vrei de la mine?"
+  },
+  {
+   "key": "1878097714149335040",
+   "en": "Please, just leave me be!",
+   "ro": "Te rog, lasă-mă în pace!"
+  },
+  {
+   "key": "1878097714249998336",
+   "en": "Who is it this time...?",
+   "ro": "Cine e de data asta...?"
+  },
+  {
+   "key": "1878097714266775556",
+   "en": "You are sure you are looking for me?",
+   "ro": "Ești sigur că mă cauți?"
+  },
+  {
+   "key": "1878098558160740352",
+   "en": "A bit of anxiety, lack of time...",
+   "ro": "Un pic de anxietate, lipsă de timp..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq032\\mq032_00_chicken_test_setup.json",
+ "entries": [
+  {
+   "key": "2269150057045442564",
+   "en": "[db_db]During the prologue, Johnny isn't present",
+   "ro": "[db_db]În prolog, Johnny nu e prezent"
+  },
+  {
+   "key": "2269153069713342464",
+   "en": "[db_db]After the prologue, Johnny is present",
+   "ro": "[db_db]După prolog, Johnny e prezent"
+  },
+  {
+   "key": "2270578976860684292",
+   "en": "[db_db]No, play from start",
+   "ro": "[db_db]Nu, joacă de la început"
+  },
+  {
+   "key": "2270579611676983296",
+   "en": "[db_db]Yes, Non-Lethal Epilogue",
+   "ro": "[db_db]Da, epilog non-letal"
+  },
+  {
+   "key": "2270579863939203072",
+   "en": "[db_db]Yes, Lethal Epilogue",
+   "ro": "[db_db]Da, epilog letal"
+  }
+ ]
+}

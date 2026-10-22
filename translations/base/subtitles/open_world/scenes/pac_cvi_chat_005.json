@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_005.json",
+ "entries": [
+  {
+   "key": "1963268246919487488",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen vle achte dèk mwen te vann ou a.\" t=\"I wanna buy back my deck.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen vle achte dèk mwen te vann ou a.\" t=\"Vreau să-mi recumpăr deck-ul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1965048228213444608",
+   "en": "<kiroshi l=\"creo\" o=\"Jamè pa. Mwen te ba ou yon pri pou li.\" t=\"No way. I gave you fair price.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Jamè pa. Mwen te ba ou yon pri pou li.\" t=\"Nici vorbă. Ți-am dat un preț corect.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1965048683714859008",
+   "en": "<kiroshi l=\"creo\" o=\"Laurie pa fè m sa. Mwen pa te anfòm lè sa a, m te an kakaI.\" t=\"Come on, Laurie. I was down and out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Laurie pa fè m sa. Mwen pa te anfòm lè sa a, m te an kakaI.\" t=\"Hai, Laurie. Eram praf.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1965053782126252032",
+   "en": "<kiroshi l=\"creo\" o=\"Kounye a ou pa konsa ankò. Al achte yon lò dèk.\" t=\"Now you're not. So go buy another deck.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kounye a ou pa konsa ankò. Al achte yon lò dèk.\" t=\"Acum nu mai ești. Așa că du-te și cumpără alt deck.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\community\\e3_q110_butchery_balcony_chat.json",
+ "entries": [
+  {
+   "key": "1734468125457960960",
+   "en": "<kiroshi l=\"creo\" o=\"Yè li te Gunther Street. Koulye a, yo ap limen isit la, tou.\" t=\"Yesterday it was Gunther Street. Now they're lighting up here, too.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Yè li te Gunther Street. Koulye a, yo ap limen isit la, tou.\" t=\"Ieri era pe Gunther Street. Acum se aprind și aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734476013651939328",
+   "en": "<kiroshi l=\"creo\" o=\"Nou ta dwe vide gaz sou yo. Boule yo tankou balèn.\" t=\"We should pour gas on the little shits. Burn 'em like candles.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nou ta dwe vide gaz sou yo. Boule yo tankou balèn.\" t=\"Ar trebui să le turnăm benzină peste căcăcioșii ăștia. Să-i ardem ca pe niște lumânări.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734542113836158976",
+   "en": "<kiroshi l=\"creo\" o=\"Ou panse li jis kèk timoun estipid?\" t=\"Think it might be just some stupid kids?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou panse li jis kèk timoun estipid?\" t=\"Crezi că sunt doar niște copii proști?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734543305337262080",
+   "en": "<kiroshi l=\"creo\" o=\"Li evidan. Ou pa?\" t=\"Obviously. You don't?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li evidan. Ou pa?\" t=\"Evident. Tu nu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1734543618299449344",
+   "en": "<kiroshi l=\"creo\" o=\"Petèt yon moun vle fè nou pè.\" t=\"Maybe someone wants to scare us off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Petèt yon moun vle fè nou pè.\" t=\"Poate cineva vrea să ne sperie.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,872 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq012\\sq012_06b_rqr_investigation.json",
+ "entries": [
+  {
+   "key": "1750217206870429696",
+   "en": "Nice. Someone really wanted to cover up... whatever it was that went down.",
+   "ro": "Frumos. Cineva chiar a vrut să acopere... orice s-a întâmplat."
+  },
+  {
+   "key": "1750222544558477312",
+   "en": "What should we be lookin' for?",
+   "ro": "Ce ar trebui să căutăm?"
+  },
+  {
+   "key": "1750245085117272064",
+   "en": "Let's try to find something that looks like an office. Every club has one.",
+   "ro": "Hai să căutăm ceva care arată a birou. Orice club are unul."
+  },
+  {
+   "key": "1750267897013981184",
+   "en": "Lucius Rhyne. Recently deceased mayor of Night City. He was here the night he died?",
+   "ro": "Lucius Rhyne. Primarul Night City, decedat recent. A fost aici în noaptea în care a murit?"
+  },
+  {
+   "key": "1750268381338652672",
+   "en": "Maybe he was, maybe he wasn't. No fuckin' idea.",
+   "ro": "Poate că a fost, poate că nu. N-am nicio idee, pula mea."
+  },
+  {
+   "key": "1750351613727985664",
+   "en": "Looks like an office. Sort of.",
+   "ro": "Arată ca un birou. Cam."
+  },
+  {
+   "key": "1750370804111626240",
+   "en": "But hey, you might be here the day you die. Jokin', heheh...",
+   "ro": "Dar hei, ai putea fi aici în ziua în care mori. Glumesc, heheh..."
+  },
+  {
+   "key": "1750373986145521664",
+   "en": "Weird. Guy looks familiar, doesn't he?",
+   "ro": "Ciudat. Tipul ăsta pare cunoscut, nu?"
+  },
+  {
+   "key": "1750374853426925568",
+   "en": "V... I'm not in the mood for jokes.",
+   "ro": "V... Nu am chef de glume."
+  },
+  {
+   "key": "1750376491638181892",
+   "en": "Gonna look around some more.",
+   "ro": "Mai mă uit puțin în jur."
+  },
+  {
+   "key": "1750376851358470144",
+   "en": "[Leave club] All right. Let's delta.",
+   "ro": "[Părăsește clubul] Bine. Hai s-o tăiem."
+  },
+  {
+   "key": "1750377398413152256",
+   "en": "Gonna look around some more.",
+   "ro": "Mai mă uit puțin în jur."
+  },
+  {
+   "key": "1786615442178691072",
+   "en": "Animals didn't wreck the BD wreath.",
+   "ro": "Animals nu au distrus coroana de BD-uri."
+  },
+  {
+   "key": "1786616695050850304",
+   "en": "Somethin' scorched it from the inside, crashed it.",
+   "ro": "Ceva l-a ars din interior și l-a prăbușit."
+  },
+  {
+   "key": "1786617723510968320",
+   "en": "Aaaaaaghh…!",
+   "ro": "Aaaaaaghh…!"
+  },
+  {
+   "key": "1786619068959805440",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "1786621327642841088",
+   "en": "You ask me, wa'n't a heart attack that killed Rhyne.",
+   "ro": "Dacă mă întrebi pe mine, nu un atac de cord l-a omorât pe Rhyne."
+  },
+  {
+   "key": "1786621831378751488",
+   "en": "As I said from the start... But--",
+   "ro": "Cum am spus de la început... Dar--"
+  },
+  {
+   "key": "1786622050002653184",
+   "en": "Someone spiked his BD. That's what killed him.",
+   "ro": "Cineva i-a băgat ceva în BD. Asta l-a ucis."
+  },
+  {
+   "key": "1805437241020502020",
+   "en": "[Connect]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1856187583873798144",
+   "en": "'Bout to gonk out, I'm so bored.",
+   "ro": "Sunt pe cale să adorm de plictiseală."
+  },
+  {
+   "key": "1856242173193342976",
+   "en": "Gonk out, shmonk out.",
+   "ro": "Adorm, ce să adorm."
+  },
+  {
+   "key": "1869299955903614976",
+   "en": "Pinging Han now. We'll meet him at Chubby Buffalo's.",
+   "ro": "Îl ping-uiesc pe Han acum. Ne întâlnim cu el la Chubby Buffalo's."
+  },
+  {
+   "key": "1869300585284096004",
+   "en": "Yeah, sure.",
+   "ro": "Da, sigur."
+  },
+  {
+   "key": "1869301493384466432",
+   "en": "Gotta look him straight in the eye, ask who ordered him to cover up Rhyne's death.",
+   "ro": "Trebuie să-l privesc direct în ochi și să-l întreb cine i-a ordonat să mușamalizeze moartea lui Rhyne."
+  },
+  {
+   "key": "1869306435197325312",
+   "en": "Let's meet at Chubby's.",
+   "ro": "Ne întâlnim la Chubby's."
+  },
+  {
+   "key": "1869317665194627072",
+   "en": "OK. Let's delta.",
+   "ro": "OK. Hai s-o tăiem."
+  },
+  {
+   "key": "1915636498792304640",
+   "en": "River. Found some footage – you're gonna wanna see this.",
+   "ro": "River. Am găsit niște imagini – o să vrei să vezi asta."
+  },
+  {
+   "key": "1915637243163824128",
+   "en": "Sendin' it your way. Your choom covered up the true circumstances of Rhyne's death.",
+   "ro": "Ți-o trimit. Un choom de-al tău a mușamalizat circumstanțele reale ale morții lui Rhyne."
+  },
+  {
+   "key": "1915637496348790784",
+   "en": "My choom...? I– You mean Han?",
+   "ro": "Un choom de-al meu...? Eu– Te referi la Han?"
+  },
+  {
+   "key": "1915638010016813056",
+   "en": "Yeah, him. You didn't know? Not a thing?",
+   "ro": "Da, el. Nu știai? Deloc?"
+  },
+  {
+   "key": "1915638309708222464",
+   "en": "Shit... No, no it can't...",
+   "ro": "Rahat... Nu, nu se poate..."
+  },
+  {
+   "key": "1915638431896686592",
+   "en": "I'm gonna ping him, tell him to meet at Chubby Buffalo's. And we're goin' straight there.",
+   "ro": "O să-l ping-uiesc, să-i spun să ne întâlnim la Chubby Buffalo's. Și mergem direct acolo."
+  },
+  {
+   "key": "1915668167465226240",
+   "en": "OK. Hang on. Be there in a sec.",
+   "ro": "OK. Stai. Ajung într-o secundă."
+  },
+  {
+   "key": "1932759772839923712",
+   "en": "Yep, stiff as a board. You ask me, he's been dead at least an hour.",
+   "ro": "Da, rigid ca o scândură. Zic eu, e mort de cel puțin o oră."
+  },
+  {
+   "key": "1932869497342513152",
+   "en": "No, no Trauma card. Pretty sure he didn't bring it on purpose.",
+   "ro": "Nu, niciun card Trauma. Cred că nu l-a adus intenționat."
+  },
+  {
+   "key": "1932869720076832768",
+   "en": "Club like this, you don't want TT bangin' down the door when you're bangin' away and things start to heat up…",
+   "ro": "Într-un club ca ăsta, nu vrei ca TT să-ți spargă ușa când te distrezi și lucrurile se încing…"
+  },
+  {
+   "key": "1932870793097236480",
+   "en": "Heart, probably. Musta gotten a little too heavy an' messy.",
+   "ro": "Inima, probabil. Trebuie să fi fost cam prea tare și prea dezlănțuit."
+  },
+  {
+   "key": "1932871398805065728",
+   "en": "OK... yeah, let's do that. Coroner'll find him at home. I'll tell him how to write it up. \"Died in his sleep, quiet as a baby.\"",
+   "ro": "OK... da, hai să facem asta. Medicul legist o să-l găsească acasă. Îi spun eu cum să scrie. „A murit în somn, liniștit ca un bebeluș.”"
+  },
+  {
+   "key": "1932872165758717952",
+   "en": "Boys're getting him outta here. 'Course nobody'll see 'em. No way.",
+   "ro": "Băieții îl scot de aici. Nu-l vede nimeni, nici vorbă."
+  },
+  {
+   "key": "1940136860020596736",
+   "en": "Hahaha…",
+   "ro": "Hahaha…"
+  },
+  {
+   "key": "1940148413902053376",
+   "en": "\"Some Like It Hot\" – you see the remake?",
+   "ro": "„Some Like It Hot” – ai văzut remake-ul?"
+  },
+  {
+   "key": "1940148677841215488",
+   "en": "Braindance or straight up?",
+   "ro": "Braindance sau direct?"
+  },
+  {
+   "key": "1940148833332453376",
+   "en": "Straight up.",
+   "ro": "Direct."
+  },
+  {
+   "key": "1940149091701579776",
+   "en": "Hated it. Curtis and Lemon – now they were perfect.",
+   "ro": "L-am urât. Curtis și Lemon – ăia erau perfecți."
+  },
+  {
+   "key": "1940149296115179520",
+   "en": "Uh – \"Nobody's perfect.\"",
+   "ro": "Ăă – „Nobody's perfect.”"
+  },
+  {
+   "key": "1940191378422849536",
+   "en": "Yep, yes. All right, I'll buzz you later.",
+   "ro": "Da, da. Bine, te sun mai târziu."
+  },
+  {
+   "key": "1940195276474769408",
+   "en": "Comps are what we want. Comps above all.",
+   "ro": "Comps-urile ne trebuie. Mai ales comps-urile."
+  },
+  {
+   "key": "1940207980501491712",
+   "en": "Feel like comin' along?",
+   "ro": "Ai chef să vii cu noi?"
+  },
+  {
+   "key": "1940242179245694980",
+   "en": "Meet you there.",
+   "ro": "Ne vedem acolo."
+  },
+  {
+   "key": "1940242194580070400",
+   "en": "Fine by me.",
+   "ro": "Mie-mi convine."
+  },
+  {
+   "key": "1940242224510623748",
+   "en": "Sure, I'll ride with you.",
+   "ro": "Sigur, vin cu tine."
+  },
+  {
+   "key": "1940253322051805188",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1940272961091756032",
+   "en": "Think we've seen everything we needed to. Let's go.",
+   "ro": "Cred că am văzut tot ce trebuia. Hai să mergem."
+  },
+  {
+   "key": "1940277309393821696",
+   "en": "OK, do what you will. Waste of time, as I see it, though.",
+   "ro": "OK, fă cum crezi. Pierdere de timp, după mine."
+  },
+  {
+   "key": "1940277793718493184",
+   "en": "Think I saw another way out on the way in.",
+   "ro": "Parcă am văzut altă ieșire când am intrat."
+  },
+  {
+   "key": "1940324248906850304",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "1940325410192187392",
+   "en": "You hear me?",
+   "ro": "Mă auzi?"
+  },
+  {
+   "key": "1940336659416178688",
+   "en": "Shit, V! You OK?",
+   "ro": "Rahat, V! Ești bine?"
+  },
+  {
+   "key": "1940344516555530244",
+   "en": "Must've been the virus that killed Rhyne.",
+   "ro": "Sigur virusul ăla l-a terminat pe Rhyne."
+  },
+  {
+   "key": "1940347415155138560",
+   "en": "Thanks for saving my life.",
+   "ro": "Vă mulțumesc că mi-ați salvat viața."
+  },
+  {
+   "key": "1940352153544253440",
+   "en": "Thanks for leapin' into action back there.",
+   "ro": "Mersi că ai intervenit acolo."
+  },
+  {
+   "key": "1940353448409784320",
+   "en": "No problem. You feelin' OK?",
+   "ro": "Nicio problemă. Ești bine?"
+  },
+  {
+   "key": "1940353762445713408",
+   "en": "I'll live.",
+   "ro": "O să trăiesc."
+  },
+  {
+   "key": "1940353899733671936",
+   "en": "What was that, V?",
+   "ro": "Ce a fost aia, V?"
+  },
+  {
+   "key": "1940366242563710976",
+   "en": "Fuck... Think you could be right.",
+   "ro": "Futu-i... Poate ai dreptate."
+  },
+  {
+   "key": "1940369362790342656",
+   "en": "Virus must've killed Rhyne.",
+   "ro": "Virusul ăla trebuie să-l fi terminat pe Rhyne."
+  },
+  {
+   "key": "1940369362790342672",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1940375083854553088",
+   "en": "Fuck... Wake up, girl!",
+   "en_m": "Fuck... Wake up!",
+   "ro": "Futu-i... Trezește-te, fată!",
+   "ro_m": "Futu-i... Trezește-te!"
+  },
+  {
+   "key": "1940376312030650368",
+   "en": "Agh… What're you doin' here? Thought you couldn't come in without a warrant.",
+   "en_m": "Wha-- What're you doin' here? I thought you couldn't come in without a warrant.",
+   "ro": "Agh… Ce cauți aici? Credeam că nu intri fără mandat.",
+   "ro_m": "Wha-- Ce cauți aici? Credeam că nu intri fără mandat."
+  },
+  {
+   "key": "1940377334299975680",
+   "en": "I can't. Some gonks just ask to be flatlined sometimes.",
+   "ro": "Nu pot. Unii fraieri chiar cer să fie terminați, din când în când."
+  },
+  {
+   "key": "1940377715427991552",
+   "en": "Yeah… Right.",
+   "ro": "Da… Sigur."
+  },
+  {
+   "key": "1940377870063591424",
+   "en": "What was that, V?",
+   "ro": "Ce a fost aia, V?"
+  },
+  {
+   "key": "1940382345218187264",
+   "en": "Know your way around the tech?",
+   "ro": "Știi să te descurci cu tech-ul?"
+  },
+  {
+   "key": "1940382485609930752",
+   "en": "Not really. Think I can reset it, though.",
+   "ro": "Nu chiar. Dar cred că-l pot reseta."
+  },
+  {
+   "key": "1940395943252418560",
+   "en": "Get outta there, V.",
+   "ro": "Ieși de acolo, V."
+  },
+  {
+   "key": "1940399883851358208",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1940412745684574208",
+   "en": "Talk to 'er. Find out what they're doing here, if they know anything about Rhyne.",
+   "ro": "Vorbește cu ea. Află ce caută aici și dacă știu ceva despre Rhyne."
+  },
+  {
+   "key": "1940414077862633472",
+   "en": "I gotta do the talkin'? You're the detective.",
+   "ro": "Trebuie să vorbesc eu? Tu ești detectivul."
+  },
+  {
+   "key": "1940414375960207360",
+   "en": "But I don't have a--",
+   "ro": "Dar n-am un--"
+  },
+  {
+   "key": "1940414478838095872",
+   "en": "A warrant. Right.",
+   "ro": "Mandat. Așa."
+  },
+  {
+   "key": "1940418068910661632",
+   "en": "Why you watchin' this dump? Nothin' left to klep here.",
+   "ro": "De ce păzești gunoiul ăsta? Nu mai e nimic de ciordit aici."
+  },
+  {
+   "key": "1940418493944651780",
+   "en": "Payup from who? Might be able to help you out.",
+   "ro": "De la cine e plata? Poate te ajut eu."
+  },
+  {
+   "key": "1940424180431020036",
+   "en": "Weldon Holt.",
+   "ro": "Weldon Holt."
+  },
+  {
+   "key": "1940424181336989696",
+   "en": "Lucius Rhyne's right-hand bull terrier? Candidate for mayor in the upcoming election?",
+   "en_m": "Lucius Rhyne's right-hand bull terrier. Candidate for mayor in the upcoming election.",
+   "ro": "Cățelul de casă al lui Lucius Rhyne? Candidatul la primărie de la alegerile viitoare?"
+  },
+  {
+   "key": "1940424182159073280",
+   "en": "Right fuckhead for the job.",
+   "ro": "Exact nenorocitul potrivit pentru treabă."
+  },
+  {
+   "key": "1940424183065042944",
+   "en": "Thanks for the help.",
+   "ro": "Mulțumesc pentru ajutor."
+  },
+  {
+   "key": "1940436943849086980",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1940437918286569472",
+   "en": "Lucius Rhyne – he was here the day he died.",
+   "ro": "Lucius Rhyne – a fost aici în ziua în care a murit."
+  },
+  {
+   "key": "1940441622242877440",
+   "en": "We ain't watchin' it. We're fuckin' waitin'.",
+   "ro": "Nu păzim. Așteptăm, pula mea."
+  },
+  {
+   "key": "1940441772700950528",
+   "en": "For what?",
+   "ro": "Pentru ce?"
+  },
+  {
+   "key": "1940441851839078400",
+   "en": "Till they send us the scratch for a job well done. Smashed it up pretty fuckin' good, didn't we?",
+   "ro": "Până ne trimit banii pentru treaba bine făcută. Am făcut-o praf al dracului de bine, nu?"
+  },
+  {
+   "key": "1940447922288812032",
+   "en": "We done our bit, time for the payup.",
+   "ro": "Ne-am făcut partea, acum vine plata."
+  },
+  {
+   "key": "1940448768179265536",
+   "en": "Gimme some intel, pay you half what they owe you.",
+   "ro": "Dă-mi niște info, îți plătesc jumătate din ce ți-e datorat."
+  },
+  {
+   "key": "1940449197189455872",
+   "en": "I'll pay you. You get half of what you were promised, I get the intel I need.",
+   "ro": "Te plătesc eu. Tu iei jumătate din ce ți-au promis, eu iau info-ul care-mi trebuie."
+  },
+  {
+   "key": "1940449214788755456",
+   "en": "Who'd you smash it up for?",
+   "ro": "Pentru cine l-ați făcut praf?"
+  },
+  {
+   "key": "1940456105090703360",
+   "en": "Argh... What's it to you?",
+   "ro": "Argh... Ce-ți pasă ție?"
+  },
+  {
+   "key": "1940459286117965824",
+   "en": "Might be able to speed up your payment.",
+   "ro": "Poate îți grăbesc eu plata."
+  },
+  {
+   "key": "1940459626443792384",
+   "en": "The fuck I look like to you? Someone who'd swallow scop like that?",
+   "ro": "Ce pula mea crezi că sunt? Să înghit o haleală ca asta?"
+  },
+  {
+   "key": "1940461588354654212",
+   "en": "Wanna buy this place. Without you in it.",
+   "ro": "Vreau să cumpăr locul ăsta. Fără tine înăuntru."
+  },
+  {
+   "key": "1940461678095982592",
+   "en": "Wanna buy this dump. Turn it into somethin' real elegant and preem.",
+   "ro": "Vreau să cumpăr cocina asta și s-o fac ceva tare elegant, de beton."
+  },
+  {
+   "key": "1940461702993371136",
+   "en": "Eh, think I know who it is. That gonk burned me too.",
+   "en_m": "Ugh, think I know who it is. That gonk burned me too.",
+   "ro": "Of, cred că știu cine e. Fraierul ăla m-a ars și pe mine."
+  },
+  {
+   "key": "1940461839442468864",
+   "en": "Wanna do a good deed for a change. On a bet.",
+   "ro": "Să fac și eu o faptă bună, pentru o schimbare. Din pariu."
+  },
+  {
+   "key": "1940462823963058176",
+   "en": "Diggin' for some dirt on that same guy.",
+   "ro": "Sap după ceva murdărie despre tipul ăla."
+  },
+  {
+   "key": "1940464415332327424",
+   "en": "Wanna do a good deed. On a bet.",
+   "ro": "Vreau să fac o faptă bună. Din pariu."
+  },
+  {
+   "key": "1940468366752571392",
+   "en": "Half? For half, I can tell you how tall he is. But that's it.",
+   "ro": "Jumătate? Pentru jumătate îți spun cât e de înalt. Atât și gata."
+  },
+  {
+   "key": "1940471744945676288",
+   "en": "Y'sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe? But prolly never.",
+   "en_m": "You sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prob'ly never.",
+   "ro": "Sigur? Jumătate în mână, acum. Cash, nu vorbe. Sau totul... poate cândva. Da' probabil niciodată."
+  },
+  {
+   "key": "1940473494842859520",
+   "en": "Ughhh... All right. Scratch, now.",
+   "ro": "Aaah... Bine. Banii, acum."
+  },
+  {
+   "key": "1940473801312264192",
+   "en": "Who told you to wreck the club? And why?",
+   "ro": "Cine ți-a zis să distrugi clubul? Și de ce?"
+  },
+  {
+   "key": "1940483416586412032",
+   "en": "Little hard with you sittin' here, though, i'n't it? So I wouldn't mind speedin' your transaction on its way.",
+   "en_m": "Little hard with you sittin' here, though, isn't it? So I wouldn't mind speedin' your transaction on its way.",
+   "ro": "Ție ți-e cam greu aici, nu? Așa că nu m-ar deranja să-ți grăbesc eu tranzacția."
+  },
+  {
+   "key": "1940490934624673792",
+   "en": "Anyway, diggin' for dirt on him. I get him, you'll get what you're owed.",
+   "en_m": "Anyway, diggin' for dirt on 'im. I get him, you'll get what you're owed.",
+   "ro": "Oricum, sap după murdărie despre el. Dacă îl prind eu, primești ce ți se cuvine."
+  },
+  {
+   "key": "1940491362477236224",
+   "en": "But first I gotta know we're talkin' 'bout the same assmunch.",
+   "en_m": "But first I gotta know we're talkin' about the same assmunch.",
+   "ro": "Dar mai întâi trebuie să fiu sigur că vorbim despre același bou."
+  },
+  {
+   "key": "1940494383080759296",
+   "en": "So go fuckin' buy a bum a scopsicle.",
+   "ro": "Așa că du-te dracului și cumpără-i unui boschetar o înghețată de haleală."
+  },
+  {
+   "key": "1940494865996144640",
+   "en": "Ah, too easy, that. And it wouldn't change a thing. Wanna feel like I made a difference, y'know?",
+   "ro": "Păi, prea ușor. Și n-ar schimba nimic. Vreau să simt că am contat și eu, știi?"
+  },
+  {
+   "key": "1940495726432444416",
+   "en": "So I'll help you. Just gotta know who owes you the eddies.",
+   "en_m": "So I'll help ya. I just gotta know who owes ya the eddies.",
+   "ro": "Așa că te ajut. Doar să știu cine-ți datorează eddies-urile."
+  },
+  {
+   "key": "1940497401989783552",
+   "en": "First, though, gotta know who owes you.",
+   "en_m": "First, though, gotta know who owes ya.",
+   "ro": "Mai întâi trebuie să știu cine-ți datorează."
+  },
+  {
+   "key": "2034614146821640192",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "2034614146821640208",
+   "en": "Lucius Rhyne – he was here the day he died.",
+   "ro": "Lucius Rhyne – a fost aici în ziua în care a murit."
+  },
+  {
+   "key": "2034615078192009216",
+   "en": "Who gave you the job? Maybe I can fix this for you.",
+   "ro": "Cine ți-a dat treaba? Poate rezolv eu asta pentru tine."
+  },
+  {
+   "key": "2034615078208786432",
+   "en": "I'll pay you. You get half of what you were promised. I get the intel I need.",
+   "ro": "Te plătesc eu. Iei jumătate din ce ți-au promis. Eu iau informațiile care-mi trebuie."
+  },
+  {
+   "key": "2034615567751172096",
+   "en": "Wanna buy this place. Without you in it.",
+   "ro": "Vreau să cumpăr locul ăsta. Fără tine înăuntru."
+  },
+  {
+   "key": "2034615567751172112",
+   "en": "Diggin' for some dirt on that same guy.",
+   "ro": "Sap după ceva murdărie despre tipul ăla."
+  },
+  {
+   "key": "2034615567751172128",
+   "en": "Wanna do a good deed. On a bet.",
+   "ro": "Vreau să fac o faptă bună. Din pariu."
+  },
+  {
+   "key": "2091184161099993092",
+   "en": "Fried from the inside.",
+   "ro": "Prăjit din interior."
+  },
+  {
+   "key": "2309881228115533828",
+   "en": "Lucius Rhyne. Recently deceased mayor of Night City. He was here the night he died?",
+   "ro": "Lucius Rhyne. Primarul Night City, decedat recent. A fost aici în noaptea în care a murit?"
+  },
+  {
+   "key": "2309881228232974336",
+   "en": "Maybe he was, maybe he wasn't. N-no fuckin' idea.",
+   "ro": "Poate a fost, poate nu. Habar n-am, pula mea."
+  },
+  {
+   "key": "2309881228350414848",
+   "en": "But hey, you might be here the day you die. Jokin', jokin'…!",
+   "ro": "Da' hei, poate ești aici chiar în ziua în care mori. Glumesc, glumesc…!"
+  },
+  {
+   "key": "2309881228518187032",
+   "en": "Why you watchin' this dump? Nothin' left to klep here.",
+   "ro": "De ce păzești gunoiul ăsta? Nu mai e nimic de ciordit aici."
+  },
+  {
+   "key": "2309881228635627520",
+   "en": "We ain't watchin' it. We're fuckin' waitin'.",
+   "ro": "Nu păzim. Așteptăm, pula mea."
+  },
+  {
+   "key": "2309881228753068032",
+   "en": "For what?",
+   "ro": "Pentru ce?"
+  },
+  {
+   "key": "2309881228853731328",
+   "en": "Till they send us the scratch for a job well done. Smashed it up pretty fuckin' good, didn't we?",
+   "ro": "Până ne trimit banii pentru treaba bine făcută. Am făcut-o praf al dracului de bine, nu?"
+  },
+  {
+   "key": "2309881228971171840",
+   "en": "We done our bit, time for the payup.",
+   "ro": "Ne-am făcut partea, acum vine plata."
+  },
+  {
+   "key": "2309881229138944000",
+   "en": "Payup from who? Might be able to help you out.",
+   "ro": "De la cine e plata? Poate te ajut eu."
+  },
+  {
+   "key": "2309881229155721228",
+   "en": "Gimme some intel, pay you half what they owe you.",
+   "ro": "Dă-mi niște info, îți plătesc jumătate din ce ți-e datorat."
+  },
+  {
+   "key": "2309881229206052884",
+   "en": "Weldon Holt.",
+   "ro": "Weldon Holt."
+  },
+  {
+   "key": "2309881229323493376",
+   "en": "Lucius Rhyne's right-hand bull terrier? Candidate for mayor in the upcoming election?",
+   "ro": "Câinele de pază al lui Lucius Rhyne? Candidat la primărie, la alegerile viitoare?"
+  },
+  {
+   "key": "2309881229457711104",
+   "en": "Right fuckhead for the job.",
+   "ro": "Exact nenorocitul potrivit pentru treabă."
+  },
+  {
+   "key": "2309881229591928832",
+   "en": "Thanks for the help.",
+   "ro": "Mulțumesc pentru ajutor."
+  },
+  {
+   "key": "2309881229810032640",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "2309881229826809864",
+   "en": "Lucius Rhyne – he was here the day he died.",
+   "ro": "Lucius Rhyne – a fost aici în ziua în care a murit."
+  },
+  {
+   "key": "2309881229910695944",
+   "en": "I'll pay you. You get half of what you were promised, I get the intel I need.",
+   "ro": "Te plătesc eu. Tu iei jumătate din ce ți-au promis, eu iau info-ul care-mi trebuie."
+  },
+  {
+   "key": "2309881230011359232",
+   "en": "Half? For half, I can tell you how tall he is. But t-that's it.",
+   "ro": "Jumătate? Pentru jumătate îți spun cât e de înalt. A-atât și gata."
+  },
+  {
+   "key": "2309881230128799744",
+   "en": "Y'sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prolly never.",
+   "en_m": "You sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prolly never.",
+   "ro": "Sigur? Jumătate în mână, acum. Cash, nu vorbe. Sau totul... poate cândva. Da' probabil niciodată."
+  },
+  {
+   "key": "2309881230246240256",
+   "en": "Uhh-ughhh. All right. Scratch, now.",
+   "ro": "Hmm... Bine. Banii, acum."
+  },
+  {
+   "key": "2309881230380457984",
+   "en": "Who told you to wreck the club? And why?",
+   "ro": "Cine ți-a zis să distrugi clubul? Și de ce?"
+  },
+  {
+   "key": "2309881230581784596",
+   "en": "Who'd you smash it up for?",
+   "ro": "Pentru cine l-ați făcut praf?"
+  },
+  {
+   "key": "2309881230716002304",
+   "en": "What's it to you?",
+   "ro": "Ce te privește?"
+  },
+  {
+   "key": "2309881230816665600",
+   "en": "Might be able to speed up your payment.",
+   "ro": "Poate îți grăbesc eu plata."
+  },
+  {
+   "key": "2309881230934106112",
+   "en": "Shit. The fuck I look like to you? Someone who'd swallow scop like that?",
+   "ro": "Rahat. Ce pula mea crezi că sunt? Să înghit o haleală ca asta?"
+  },
+  {
+   "key": "2309881231101878272",
+   "en": "Wanna buy this place. Without you in it.",
+   "ro": "Vreau să cumpăr locul ăsta. Fără tine înăuntru."
+  },
+  {
+   "key": "2309881231101878296",
+   "en": "Diggin' for some dirt on that same guy.",
+   "ro": "Sap după ceva murdărie despre tipul ăla."
+  },
+  {
+   "key": "2309881231118655500",
+   "en": "Wanna do a good deed. On a bet.",
+   "ro": "Vreau să fac o faptă bună. Din pariu."
+  },
+  {
+   "key": "2309881231185764368",
+   "en": "Wanna buy this dump. Turn it into somethin' real elegant and preem.",
+   "ro": "Vreau să cumpăr cocina asta și s-o fac ceva tare elegant, de beton."
+  },
+  {
+   "key": "2309881231336759296",
+   "en": "Little hard with you sittin' here, though, i'n't it? So I wouldn't mind speedin' your transaction on its way.",
+   "en_m": "Little hard with you sittin' here, though, isn't it? So I wouldn't mind speedin' your transaction on its way.",
+   "ro": "Ție ți-e cam greu aici, nu? Așa că nu m-ar deranja să-ți grăbesc eu tranzacția."
+  },
+  {
+   "key": "2309881231470977024",
+   "en": "First, though, gotta know who owes you.",
+   "ro": "Mai întâi trebuie să știu cine-ți datorează."
+  },
+  {
+   "key": "2309881231655526416",
+   "en": "Eh, I think I know who it is. That gonk burned me too.",
+   "en_m": "Yeah, think I know who it is. That gonk burned me too.",
+   "ro": "Păi, cred că știu cine e. Fraierul ăla m-a ars și pe mine.",
+   "ro_m": "Da, cred că știu cine e. Fraierul ăla m-a ars și pe mine."
+  },
+  {
+   "key": "2309881231806521344",
+   "en": "Anyway, diggin' for dirt on 'im. I get him, you'll get what you're owed.",
+   "en_m": "Anyway, diggin' for dirt on him. I get him, you'll get what you're owed.",
+   "ro": "Oricum, sap după murdărie despre el. Dacă îl prind eu, primești ce ți se cuvine."
+  },
+  {
+   "key": "2309881231940739072",
+   "en": "But first, I gotta know we're talkin' 'bout the same assmunch.",
+   "ro": "Dar mai întâi trebuie să fiu sigur că vorbim despre același bou."
+  },
+  {
+   "key": "2309881232125288468",
+   "en": "Wanna do a good deed for a change. On a bet.",
+   "ro": "Să fac și eu o faptă bună, pentru o schimbare. Din pariu."
+  },
+  {
+   "key": "2309881232242728960",
+   "en": "So go fuckin' buy a bum a scopsicle.",
+   "ro": "Așa că du-te dracului și cumpără-i unui boschetar o înghețată de haleală."
+  },
+  {
+   "key": "2309881232360169472",
+   "en": "Too easy, that. And it wouldn't change a thing. Wanna feel like I made a difference, y'know?",
+   "ro": "Păi, prea ușor. Și n-ar schimba nimic. Vreau să simt că am contat și eu, știi?"
+  },
+  {
+   "key": "2309881232477609984",
+   "en": "So I'll help you. Just gotta know who owes you the eddies.",
+   "ro": "Așa că te ajut. Doar să știu cine-ți datorează eddies-urile."
+  },
+  {
+   "key": "2309881232729268224",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "2309881232729268248",
+   "en": "Lucius Rhyne – he was here the day he died.",
+   "ro": "Lucius Rhyne – a fost aici în ziua în care a murit."
+  },
+  {
+   "key": "2309881232829931520",
+   "en": "Payup from who? Might be able to help you out.",
+   "ro": "De la cine e plata? Poate te ajut eu."
+  },
+  {
+   "key": "2309881232846708736",
+   "en": "Gimme some intel, pay you half what they owe you.",
+   "ro": "Dă-mi niște info, îți plătesc jumătate din ce ți-e datorat."
+  },
+  {
+   "key": "2309881232913817600",
+   "en": "Wanna buy this place. Without you in it.",
+   "ro": "Vreau să cumpăr locul ăsta. Fără tine înăuntru."
+  },
+  {
+   "key": "2309881232930594824",
+   "en": "Diggin' for some dirt on that same guy.",
+   "ro": "Sap după ceva murdărie despre tipul ăla."
+  },
+  {
+   "key": "2309881232930594848",
+   "en": "Wanna do a good deed. On a bet.",
+   "ro": "Vreau să fac o faptă bună. Din pariu."
+  },
+  {
+   "key": "2309883504414646280",
+   "en": "What?",
+   "ro": "Ce?"
+  }
+ ]
+}

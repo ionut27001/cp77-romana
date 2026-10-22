@@ -1,0 +1,43 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_04.json",
+ "entries": [
+  {
+   "key": "1863299347169820672",
+   "en": "What's cooking?",
+   "ro": "Ce se gătește?"
+  },
+  {
+   "key": "1863299347169820688",
+   "en": "Is there a risk of food poisoning?",
+   "ro": "Există risc de otrăvire alimentară?"
+  },
+  {
+   "key": "1863299347220152324",
+   "en": "So, what's cooking?",
+   "en_m": "So what's cooking?",
+   "ro": "Deci, ce se gătește?",
+   "ro_m": "Deci ce se gătește?"
+  },
+  {
+   "key": "1863299347220152332",
+   "en": "Depends. What're you cravin'?",
+   "ro": "Depinde. Ce poftești?"
+  },
+  {
+   "key": "1863299347270483972",
+   "en": "There a risk of food poisonin' here?",
+   "en_m": "Is there a risk of food poisoning here?",
+   "ro": "E vreun risc de otrăvire alimentară pe-aici?"
+  },
+  {
+   "key": "1863299347270483980",
+   "en": "That depends. If you keep it up with those kinds of question... who knows?",
+   "ro": "Depinde. Dacă continui cu întrebările de genul ăsta... cine mai știe?"
+  },
+  {
+   "key": "1974706148871557120",
+   "en": "Only the good stuff. What can I get you?",
+   "ro": "Doar de ale bune. Ce vrei?"
+  }
+ ]
+}

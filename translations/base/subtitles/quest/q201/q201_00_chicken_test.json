@@ -1,0 +1,36 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q201\\q201_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "1286219128998637568",
+   "en": "[db_db]Where do you want to start?",
+   "en_m": "[db_db]Where you want to start?",
+   "ro": "[db_db]Unde vrei să începi?"
+  },
+  {
+   "key": "1935998064280588288",
+   "en": "[db_db]Judy Status?",
+   "ro": "[db_db]Status Judy?"
+  },
+  {
+   "key": "1936136120283287552",
+   "en": "[db_db]Kerry Status?",
+   "ro": "[db_db]Status Kerry?"
+  },
+  {
+   "key": "1937156195702394880",
+   "en": "[db_db]Panam Status?",
+   "ro": "[db_db]Status Panam?"
+  },
+  {
+   "key": "1937355699886084096",
+   "en": "[db_db]River Status?",
+   "ro": "[db_db]Status River?"
+  },
+  {
+   "key": "2024176202777858048",
+   "en": "[db_db]Takemura status?",
+   "ro": "[db_db]Status Takemura?"
+  }
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\overlay_open_world\\vendors\\wat_kab_netrunner_01.json",
+ "entries": [
+  {
+   "key": "1866072098181238784",
+   "en": "Got anything cool for sale?",
+   "ro": "Ai ceva mișto de vândut?"
+  },
+  {
+   "key": "1866072098198016012",
+   "en": "Anyone can shop here?",
+   "ro": "Poate cumpăra oricine aici?"
+  },
+  {
+   "key": "1866072098214793220",
+   "en": "Got anything nova for sale?",
+   "ro": "Ai ceva nou de vândut?"
+  },
+  {
+   "key": "1866072098214793228",
+   "en": "If you can afford it – yes.",
+   "ro": "Dacă ți-l permiți – da."
+  },
+  {
+   "key": "1866072098231570436",
+   "en": "How's this work – any punk off the street can waltz in here, grab some shady-running soft?",
+   "ro": "Cum merg treburile aici? Orice golan de pe stradă poate intra și să ia de-aici soft de netrunning dubios?"
+  },
+  {
+   "key": "1866072098231570444",
+   "en": "But if you come recommended and you know what you are looking for... I am sure you will find it.",
+   "ro": "Dar dacă vii recomandat și știi ce cauți... sunt sigură că o să găsești.",
+   "ro_m": "Dar dacă vii recomandat și știi ce cauți... sunt sigur că o să găsești."
+  },
+  {
+   "key": "1983617760139464704",
+   "en": "No, not just any punk. Over the counter, we fix cyberdecks.",
+   "ro": "Nu, nu orice golan. La tejghea reparăm cyberdeck-uri."
+  },
+  {
+   "key": "2166276792588210176",
+   "en": "T-Bug sent me to grab a program.",
+   "ro": "T-Bug m-a trimis să iau un program."
+  },
+  {
+   "key": "2166278885462020096",
+   "en": "T-Bug sent me. Said you'd have somethin' for me.",
+   "ro": "T-Bug m-a trimis. Zice că ai ceva pentru mine."
+  },
+  {
+   "key": "2166279946889367552",
+   "en": "Ah, so you are V. I'm sure you heard what happened. Real shame.",
+   "ro": "Deci tu ești V. Sigur ai auzit ce s-a întâmplat. Păcat."
+  },
+  {
+   "key": "2166280164590522368",
+   "en": "You're V, right?",
+   "ro": "Tu ești V, nu?"
+  },
+  {
+   "key": "2179523202020995072",
+   "en": "She left a daemon for you. A gift from beyond the grave.",
+   "ro": "A lăsat un daemon pentru tine. Un cadou de dincolo de mormânt."
+  },
+  {
+   "key": "2179523450827108352",
+   "en": "It should work on any third-gen deck.",
+   "ro": "Ar trebui să meargă pe orice deck de generația a treia."
+  },
+  {
+   "key": "2179523949731180544",
+   "en": "Got a Militech Paraline. Think it'll do.",
+   "ro": "Am un Militech Paraline. Cred că ajunge."
+  },
+  {
+   "key": "2179524131931746304",
+   "en": "Hm, solid gear... for a beginner.",
+   "ro": "Hm, echipament solid... pentru o începătoare.",
+   "ro_m": "Hm, echipament solid... pentru un începător."
+  },
+  {
+   "key": "2179525021426184192",
+   "en": "She had me hold a daemon for you.",
+   "ro": "M-a pus să țin un daemon pentru tine."
+  },
+  {
+   "key": "2179525752812138496",
+   "en": "What do you know about T-Bug's death?",
+   "ro": "Ce știi despre moartea lui T-Bug?"
+  },
+  {
+   "key": "2179526142630752256",
+   "en": "T-Bug's death – what'd you hear?",
+   "ro": "Moartea lui T-Bug – ce ai auzit?"
+  },
+  {
+   "key": "2179526664771268608",
+   "en": "The truth. She got burned like anyone who tries to hit Arasaka.",
+   "ro": "Adevărul. A fost arsă, ca oricine care încearcă să lovească Arasaka."
+  },
+  {
+   "key": "2179526892219985920",
+   "en": "They found the body in her pad, nervous system fried. You know what that feels like?",
+   "ro": "L-au găsit pe cadavru în apartamentul ei, cu sistemul nervos prăjit. Știi cum e?"
+  },
+  {
+   "key": "2179527153877446656",
+   "en": "Mh... can't say I do.",
+   "ro": "Mh... nu pot spune că știu."
+  },
+  {
+   "key": "2179527278481829888",
+   "en": "They say it's like a hundred thousand knives stabbing you at once. I can't imagine a worse way to go.",
+   "ro": "Zic că e ca o sută de mii de cuțite care te înjunghie deodată. Nu-mi pot imagina o moarte mai rea."
+  },
+  {
+   "key": "2179527579817406464",
+   "en": "Poor girl. I liked her, too.",
+   "ro": "Săraca. Și mie mi-a plăcut.",
+   "ro_m": "Săracul. Și mie mi-a plăcut."
+  },
+  {
+   "key": "2233250815700328452",
+   "en": "Always glad to grab a hack.",
+   "ro": "Mereu bucuroasă să iau un hack.",
+   "ro_m": "Mereu bucuros să iau un hack."
+  },
+  {
+   "key": "2233255685891252224",
+   "en": "OK, glad to grab a daemon always.",
+   "ro": "OK, mereu bucuroasă să iau un daemon.",
+   "ro_m": "OK, mereu bucuros să iau un daemon."
+  },
+  {
+   "key": "2233263583212036096",
+   "en": "Got a Militech Paraline…",
+   "ro": "Am un Militech Paraline…"
+  },
+  {
+   "key": "2237245843737108480",
+   "en": "You could test it now. I have an access point... If you'd like, that is.",
+   "ro": "Ai putea să-l testezi acum. Am un punct de acces... Dacă vrei, sigur."
+  },
+  {
+   "key": "2237280864665559040",
+   "en": "You might extract some shim soft or subroutines. Seems worth a try either way...",
+   "ro": "Ai putea extrage niște shim soft sau subrutine. Oricum, pare că merită încercat..."
+  },
+  {
+   "key": "3221530831801413688",
+   "en": "V! It's been quite some time. What can I do for you?",
+   "ro": "V! A trecut ceva timp. Cu ce te pot ajuta?"
+  },
+  {
+   "key": "3221530839367938096",
+   "en": "Listen, Yoko. Hands tell you I'd swing by? 'S about a gig.",
+   "ro": "Ascultă, Yoko. Hands ți-a zis că trec pe aici? E vorba de un gig."
+  },
+  {
+   "key": "3221530839384715268",
+   "en": "Oh, so it was you he meant. This day just got more interesting.",
+   "ro": "Oh, deci tu erai cea la care se referea. Ziua asta tocmai a devenit mai interesantă.",
+   "ro_m": "Oh, deci tu erai cel la care se referea. Ziua asta tocmai a devenit mai interesantă."
+  },
+  {
+   "key": "3221530839401492480",
+   "en": "First, I'll need confirmation our mutual acquaintance, in fact, sent you. Then we can talk.",
+   "ro": "Mai întâi am nevoie de confirmarea că ne-a trimis, de fapt, cunoștința noastră comună. Apoi putem vorbi."
+  },
+  {
+   "key": "3221530839418269696",
+   "en": "Connect here? I'll verify through biometric scan.",
+   "ro": "Te conectezi aici? Verific prin scanare biometrică."
+  },
+  {
+   "key": "3221530844384325632",
+   "en": "Let's stick to biz.",
+   "ro": "Hai să rămânem la afaceri."
+  },
+  {
+   "key": "3221530844384325648",
+   "en": "Pretty good, if I say so myself.",
+   "ro": "Destul de bine, dacă zic eu."
+  },
+  {
+   "key": "3221530844384325664",
+   "en": "Clearly not an expert yet.",
+   "ro": "Evident nu ești încă expertă.",
+   "ro_m": "Evident nu ești încă expert."
+  },
+  {
+   "key": "3221530844484988944",
+   "en": "Let's stick to biz, Yoko, right? Kinda in a hurry here.",
+   "ro": "Hai să rămânem la afaceri, Yoko, da? Sunt cam pe grabă."
+  },
+  {
+   "key": "3221530844484988960",
+   "en": "Oh, I'm sorry. I didn't know you were so busy.",
+   "ro": "Îmi pare rău. Nu știam că ești atât de ocupată.",
+   "ro_m": "Îmi pare rău. Nu știam că ești atât de ocupat."
+  },
+  {
+   "key": "3221530844484988976",
+   "en": "But decryption must take the time it takes. Any second now…",
+   "ro": "Dar decriptarea durează cât durează. Chiar acum..."
+  },
+  {
+   "key": "3221530844501766148",
+   "en": "Ah, there. Now we can talk biz.",
+   "ro": "Ah, uite-te. Acum putem vorbi de afaceri."
+  },
+  {
+   "key": "3221530848125644804",
+   "en": "Not one to brag but... pretty damn good if I say so myself.",
+   "ro": "Nu mă laud, dar... al naibii de bună, dacă zic eu."
+  },
+  {
+   "key": "3221530848125644820",
+   "en": "Yet not good enough for you to dig into certain records for a certain person, hm?",
+   "ro": "Totuși nu destul de bună ca să sapi în anumite înregistrări pentru o anumită persoană, hm?"
+  },
+  {
+   "key": "3221530848142422020",
+   "en": "Ouch. Below the belt, Yoko.",
+   "ro": "Aoleu. Sub centură, Yoko."
+  },
+  {
+   "key": "3221530848142422036",
+   "en": "Right, with the formalities done, let's begin.",
+   "ro": "Bine, gata cu formalitățile, hai să începem."
+  },
+  {
+   "key": "3221530851749523548",
+   "en": "Sorry to disappoint, but no, ain't the chairjock you hoped I'd be by now. Wouldn't be here otherwise.",
+   "ro": "Îmi pare rău să te dezamăgesc, dar nu sunt chairjock-ul pe care speravi să-l vezi până acum. Altfel n-aș fi aici."
+  },
+  {
+   "key": "3221530851766300672",
+   "en": "On one hand, I'm a bit disappointed. On the other, I am glad to see you.",
+   "ro": "Pe de o parte, sunt puțin dezamăgită. Pe de altă parte, mă bucur să te văd."
+  },
+  {
+   "key": "3221530851766300688",
+   "en": "Take what I can get.",
+   "ro": "Iau ce pot."
+  },
+  {
+   "key": "3221530851766300704",
+   "en": "Mhm. On the subject of \"taking,\" let's discuss your issue.",
+   "ro": "Mhm. Pe tema „luatului”, hai să discutăm de problema ta."
+  },
+  {
+   "key": "3221530857738989592",
+   "en": "All you need is here. Just so you know, gathering it wasn't easy.",
+   "ro": "Tot ce-ți trebuie e aici. Să știi, n-a fost ușor să-l strâng."
+  },
+  {
+   "key": "3221530857755766784",
+   "en": "The MaxTac data fortress is a labyrinth and a panopticon combined. Every node you pass attracts a thousand unwanted stares.",
+   "ro": "Fortăreața de date MaxTac e un labirint și un panopticon combinate. Fiecare nod pe care-l treci atrage mii de priviri nedorite."
+  },
+  {
+   "key": "3221530857772544000",
+   "en": "But you managed. You're my hero, Yoko.",
+   "ro": "Dar ai reușit. Ești eroina mea, Yoko.",
+   "ro_m": "Dar ai reușit. Ești eroul meu, Yoko."
+  },
+  {
+   "key": "3221530857789321216",
+   "en": "Wait.",
+   "ro": "Stai."
+  },
+  {
+   "key": "3221530857789321232",
+   "en": "Our cooperation need not end here, if you catch my meaning.",
+   "ro": "Cooperarea noastră nu trebuie să se oprească aici, dacă înțelegi ce vreau să spun."
+  },
+  {
+   "key": "3221530857806098440",
+   "en": "That is, if you plan to do what I think with this data. Interested?",
+   "ro": "Adică, dacă plănuiești să faci cu datele astea ce cred eu. Ești interesată?",
+   "ro_m": "Adică, dacă plănuiești să faci cu datele astea ce cred eu. Ești interesat?"
+  },
+  {
+   "key": "3221530865003524096",
+   "en": "[Take shard] Maybe. Whaddaya think I wanna do?",
+   "ro": "[Ia shard-ul] Poate. Ce crezi că vreau să fac?"
+  },
+  {
+   "key": "3221530865003524112",
+   "en": "[Take shard] Our cooperation ends here and now.",
+   "ro": "[Ia shard-ul] Cooperarea noastră s-a terminat aici și acum."
+  },
+  {
+   "key": "3221530865070632988",
+   "en": "Maybe. Now, strict hypothetical – whatcha think I aim to do?",
+   "ro": "Poate. Acum, ipoteză strictă – ce crezi că vreau să fac?"
+  },
+  {
+   "key": "3221530865070633004",
+   "en": "Let's suppose you positioned yourself where a certain convoy was to pass.",
+   "ro": "Să presupunem că te-ai poziționat unde urma să treacă un anumit convoi."
+  },
+  {
+   "key": "3221530865087410180",
+   "en": "Mhm, and?",
+   "ro": "Mhm, și?"
+  },
+  {
+   "key": "3221530865087410196",
+   "en": "And let's suppose you were either prepared or insane enough to eliminate the guards of the convoy.",
+   "ro": "Și să presupunem că erai fie pregătită, fie suficient de nebună ca să elimini gărzile convoiului.",
+   "ro_m": "Și să presupunem că erai fie pregătit, fie suficient de nebun ca să elimini gărzile convoiului."
+  },
+  {
+   "key": "3221530865104187392",
+   "en": "Hot or cold?",
+   "ro": "Fierbinte sau rece?"
+  },
+  {
+   "key": "3221530871882182676",
+   "en": "Know what, think it's best if our cooperation ends here and now.",
+   "ro": "Știi ce, cred că e mai bine dacă colaborarea noastră se termină aici și acum."
+  },
+  {
+   "key": "3221530871882182692",
+   "en": "You surprise me.",
+   "ro": "Mă surprinzi."
+  },
+  {
+   "key": "3221530871898959872",
+   "en": "You won't even hear my offer?",
+   "ro": "Nici măcar nu vrei să auzi oferta mea?"
+  },
+  {
+   "key": "3221530873945780224",
+   "en": "Fine. What's the offer?",
+   "ro": "Bine. Care e oferta?"
+  },
+  {
+   "key": "3221530873945780240",
+   "en": "That's right. Takin' the data and leavin'.",
+   "ro": "Exact. Iau datele și plec."
+  },
+  {
+   "key": "3221530873996111884",
+   "en": "Fine, I'm listening. Just.. short and sweet.",
+   "ro": "Bine, ascult. Doar... scurt și la obiect."
+  },
+  {
+   "key": "3221530873996111900",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3221530875556392984",
+   "en": "Don't wanna hear your offer, 'cause I already know I ain't interested.",
+   "ro": "Nu vreau să aud oferta ta, căci știu deja că nu mă interesează."
+  },
+  {
+   "key": "3221530875589947392",
+   "en": "That is a shame.",
+   "ro": "Păcat."
+  },
+  {
+   "key": "3221530875606724608",
+   "en": "For you, maybe – not for me. Them's the breaks, Yoko.",
+   "ro": "Pentru tine, poate – nu și pentru mine. Așa e viața, Yoko."
+  },
+  {
+   "key": "3221530875623501828",
+   "en": "I'll be on my way.",
+   "ro": "Plec."
+  },
+  {
+   "key": "3221530875640279048",
+   "en": "The customer is king.",
+   "ro": "Clientul e rege."
+  },
+  {
+   "key": "3221530881763962888",
+   "en": "Our mutual friend would offer additional thanks for the windfall that would result from this…",
+   "ro": "Prietenul nostru comun ar aduce mulțumiri suplimentare pentru câștigul care ar rezulta din asta…"
+  },
+  {
+   "key": "3221530881763962904",
+   "en": "If you would be so kind and send us the coordinates of the location where you… deal with your problem.",
+   "ro": "Dacă ai bunăvoința să ne trimiți coordonatele locului unde... îți rezolvi problema."
+  },
+  {
+   "key": "3221530881763962920",
+   "en": "You after MaxTac gear, 's that it? Get there before anyone else does?",
+   "ro": "Vrei echipament MaxTac, asta e? Să ajungi acolo înaintea oricui?"
+  },
+  {
+   "key": "3221530881780740096",
+   "en": "You would only need to send the coordinates.",
+   "ro": "Ar trebui doar să trimiți coordonatele."
+  },
+  {
+   "key": "3221530881780740112",
+   "en": "Gonna have to think about it.",
+   "ro": "Trebuie să mă gândesc."
+  },
+  {
+   "key": "3221530881780740128",
+   "en": "I ask for nothing more. In return, I can guarantee a generous reward.",
+   "ro": "Nu cer mai mult. În schimb, îți garantez o recompensă bună."
+  },
+  {
+   "key": "3221530886981677136",
+   "en": "Hello, welcome.",
+   "ro": "Salut, bine ai venit."
+  },
+  {
+   "key": "3221530887568879704",
+   "en": "Hands tell you I'd swing by? It's about a gig.",
+   "ro": "Hands ți-a zis că o să trec pe aici? E vorba de un gig."
+  },
+  {
+   "key": "3221530887585656832",
+   "en": "Oh, it's you.",
+   "ro": "A, tu ești."
+  },
+  {
+   "key": "3221530887585656848",
+   "en": "Before we continue, I need to verify through biometric scan. Connect here.",
+   "ro": "Înainte să continuăm, trebuie să te verific printr-o scanare biometrică. Conectează-te aici."
+  },
+  {
+   "key": "3221530890521669632",
+   "en": "[Jack in] So be it.",
+   "ro": "[Conectează-te] Fie."
+  },
+  {
+   "key": "3221530890672664620",
+   "en": "Fine. Have it your way..",
+   "ro": "Bine, cum vrei.."
+  },
+  {
+   "key": "3221530890672664636",
+   "en": "It will only take a moment.",
+   "ro": "Durează doar o clipă."
+  },
+  {
+   "key": "3221530890689441792",
+   "en": "And won't hurt a bit – what they all say.",
+   "ro": "Și nu doare deloc – cum zic toți."
+  },
+  {
+   "key": "3221530890689441808",
+   "en": "They also say the proof is in the data. You cannot know who anyone truly is until you see what lies within.",
+   "ro": "Se mai spune că dovada e în date. Nu poți ști cine e cineva cu adevărat până nu vezi ce se ascunde înăuntru."
+  },
+  {
+   "key": "3221530890689441824",
+   "en": "Small things that help netrunners sleep at night. There – authorization confirmed.",
+   "ro": "Mici lucruri care îi ajută pe netrunneri să doarmă noaptea. Iată – autorizare confirmată."
+  },
+  {
+   "key": "3221530895588388864",
+   "en": "[Jack in] Have it your way.",
+   "ro": "[Conectează-te] Fă cum vrei."
+  },
+  {
+   "key": "3221530895806492720",
+   "en": "'Kay, have at it.",
+   "ro": "Ok, dă-i drumul."
+  },
+  {
+   "key": "3221530895823269892",
+   "en": "Decryption will take a moment. Apologies, but it's necessary for a job of this caliber.",
+   "ro": "Decriptarea va dura o clipă. Scuze, dar e necesară pentru o treabă de calibrul ăsta."
+  },
+  {
+   "key": "3221530895823269908",
+   "en": "Well, well, V. I didn't expect us to work together again.",
+   "ro": "Ei, ei, V. Nu mă așteptam să lucrăm din nou împreună."
+  },
+  {
+   "key": "3221530895840047112",
+   "en": "How is your 'running? Polishing your skills?",
+   "ro": "Cum merge 'running-ul? Îți mai lustruiești abilitățile?"
+  },
+  {
+   "key": "3221530899984019468",
+   "en": "This necessary, really? We know each other.",
+   "ro": "Chiar e nevoie? Ne cunoaștem."
+  },
+  {
+   "key": "3221530900000796672",
+   "en": "Are you certain? This is Night City, V. No one can say they truly know another.",
+   "ro": "Ești sigură? Acesta e Night City, V. Nimeni nu poate spune că îl cunoaște cu adevărat pe altul.",
+   "ro_m": "Ești sigur? Acesta e Night City, V. Nimeni nu poate spune că îl cunoaște cu adevărat pe altul."
+  },
+  {
+   "key": "3221530900034351104",
+   "en": "So no more whining. This has to happen anyway for the data decryption.",
+   "ro": "Așa că fără plângeri. Trebuie să se întâmple oricum pentru decriptarea datelor."
+  },
+  {
+   "key": "3221530904564199424",
+   "en": "Gettin' warm.",
+   "ro": "Se încinge treaba."
+  },
+  {
+   "key": "3221530904564199440",
+   "en": "Interested in the detainee, person being transported?",
+   "ro": "Te interesează deținutul, persoana transportată?"
+  },
+  {
+   "key": "3221530904614531080",
+   "en": "Gettin' warm.",
+   "ro": "Se încinge treaba."
+  },
+  {
+   "key": "3221530905788936204",
+   "en": "Lemme guess – you're interested in the, uh, human cargo?",
+   "ro": "Lasă-mă să ghicesc – ești interesată de, uh, marfa umană?",
+   "ro_m": "Lasă-mă să ghicesc – ești interesat de, uh, marfa umană?"
+  },
+  {
+   "key": "3221530905788936220",
+   "en": "No. But I assume you are.",
+   "ro": "Nu. Dar bănuiesc că ție da."
+  },
+  {
+   "key": "3221530907365994512",
+   "en": "This necessary, really?",
+   "ro": "Chiar e necesar?"
+  },
+  {
+   "key": "3221530907382771712",
+   "en": "Of course it is not.",
+   "ro": "Sigur că nu."
+  },
+  {
+   "key": "3221530907382771728",
+   "en": "Your other option is the door. The same one you used to enter.",
+   "ro": "Altă opțiune e ușa. Aceeași pe care ai folosit-o ca să intri."
+  },
+  {
+   "key": "3221530911442857984",
+   "en": "This necessary? We know each other.",
+   "ro": "Chiar trebuia? Ne cunoaștem."
+  },
+  {
+   "key": "3221530911543521280",
+   "en": "This necessary?",
+   "ro": "Chiar trebuie?"
+  },
+  {
+   "key": "3221533237519970304",
+   "en": "Hands mention I'd drop by?",
+   "ro": "Hands a zis că o să treci pe aici?"
+  }
+ ]
+}

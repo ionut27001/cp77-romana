@@ -1,0 +1,161 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq305\\mq305_chickentest.json",
+ "entries": [
+  {
+   "key": "2978149614333083648",
+   "en": "[db_db]The Beginning.",
+   "ro": "[db_db]Începutul."
+  },
+  {
+   "key": "2978149614333083660",
+   "en": "[db_db]Apartment.",
+   "ro": "[db_db]Apartment."
+  },
+  {
+   "key": "2978149614333083672",
+   "en": "[db_db]Lab - Explore.",
+   "ro": "[db_db]Lab - Explore."
+  },
+  {
+   "key": "2978149614333083684",
+   "en": "[db_db]Lab - Confront.",
+   "ro": "[db_db]Lab - Confront."
+  },
+  {
+   "key": "2978149614333083696",
+   "en": "[db_db]Outcome.",
+   "ro": "[db_db]Outcome."
+  },
+  {
+   "key": "3236310189033013252",
+   "en": "[db_db]I met Bree at the border",
+   "ro": "[db_db]Am întâlnit-o pe Bree la graniță",
+   "ro_m": "[db_db]L-am întâlnit pe Bree la graniță"
+  },
+  {
+   "key": "3236312379734769664",
+   "en": "[db_db]I didn't meet Bree at the border",
+   "ro": "[db_db]N-am întâlnit-o pe Bree la graniță"
+  },
+  {
+   "key": "3242148854414065664",
+   "en": "[db_db]Yes, I told Bree about Max Jones",
+   "ro": "[db_db]Yes, I told Bree about Max Jones"
+  },
+  {
+   "key": "3242148854414065676",
+   "en": "[db_db]No, I didn't tell her about him",
+   "ro": "[db_db]No, I didn't tell her about him"
+  },
+  {
+   "key": "3244576832225951744",
+   "en": "[db_db]Recodring 01",
+   "ro": "[db_db]Înregistrare 01"
+  },
+  {
+   "key": "3244576832225951756",
+   "en": "[db_db]Recording 02",
+   "ro": "[db_db]Înregistrare 02"
+  },
+  {
+   "key": "3244576832225951768",
+   "en": "[db_db]Recording 03",
+   "ro": "[db_db]Înregistrare 03"
+  },
+  {
+   "key": "3246028618480631808",
+   "en": "[db_db]Bree is alive",
+   "ro": "[db_db]Bree is alive"
+  },
+  {
+   "key": "3246028618480631820",
+   "en": "[db_db]Bree is dead",
+   "ro": "[db_db]Bree is dead"
+  },
+  {
+   "key": "3304323677734715392",
+   "en": "[db_db]I have data",
+   "ro": "[db_db]I have data"
+  },
+  {
+   "key": "3304323677734715404",
+   "en": "[db_db]I don't have data",
+   "ro": "[db_db]I don't have data"
+  },
+  {
+   "key": "3325772745719562240",
+   "en": "[db_db]Yes, sts_wat_nid_12 done",
+   "ro": "[db_db]Yes, sts_wat_nid_12 done"
+  },
+  {
+   "key": "3325772745736339460",
+   "en": "[db_db]No, sts_wat_nid_12 not done",
+   "ro": "[db_db]No, sts_wat_nid_12 not done"
+  },
+  {
+   "key": "3325774623828230144",
+   "en": "[db_db]Yes, Max Jones alive",
+   "ro": "[db_db]Yes, Max Jones alive"
+  },
+  {
+   "key": "3325774623828230156",
+   "en": "[db_db]No, Max Jones dead",
+   "ro": "[db_db]No, Max Jones dead"
+  },
+  {
+   "key": "3337651918704623616",
+   "en": "[db_db]Yes, teleport me",
+   "ro": "[db_db]Yes, teleport me"
+  },
+  {
+   "key": "3337651918721400840",
+   "en": "[db_db]No, I'll go there by myself",
+   "ro": "[db_db]No, I'll go there by myself"
+  },
+  {
+   "key": "3395565886047404032",
+   "en": "[db_db]Post Quest Netwatch Encounter",
+   "ro": "[db_db]Post Quest Netwatch Encounter"
+  },
+  {
+   "key": "3395566780239462400",
+   "en": "[db_db]wbr_jpn",
+   "ro": "[db_db]wbr_jpn"
+  },
+  {
+   "key": "3395566780239462412",
+   "en": "[db_db]wat_nid",
+   "ro": "[db_db]wat_nid"
+  },
+  {
+   "key": "3395569284507385856",
+   "en": "[db_db]hey_gle",
+   "ro": "[db_db]hey_gle"
+  },
+  {
+   "key": "3395569848104402944",
+   "en": "[db_db]cct_dtn",
+   "ro": "[db_db]cct_dtn"
+  },
+  {
+   "key": "3508275542019948552",
+   "en": "[db_db]Yes, Q305 is finished",
+   "ro": "[db_db]Yes, Q305 is finished"
+  },
+  {
+   "key": "3508275555693379588",
+   "en": "[db_db]Nope, Q305 is not finished",
+   "ro": "[db_db]Nope, Q305 is not finished"
+  },
+  {
+   "key": "3508275621208408076",
+   "en": "[db_db]Yes, V talked with Somi about Cynosure in Q303",
+   "ro": "[db_db]Da, V a vorbit cu Somi despre Cynosure în Q303"
+  },
+  {
+   "key": "3508275626543562760",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_f_113_car_40_mt.json",
+ "entries": [
+  {
+   "key": "1949186483876306948",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pa renmen sa kap pase la a.\" t=\"I don't like it here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pa renmen sa kap pase la a.\" t=\"Nu-mi place aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186483893084164",
+   "en": "<kiroshi l=\"creo\" o=\"Tout bagay an fòm?\" t=\"Everything alright?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tout bagay an fòm?\" t=\"Totul bine?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186483993747460",
+   "en": "<kiroshi l=\"creo\" o=\"Gade non!\" t=\"Come on!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gade non!\" t=\"Hai!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484010524676",
+   "en": "<kiroshi l=\"creo\" o=\"Demaske w devan m lan!\" t=\"Get out of my way!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Demaske w devan m lan!\" t=\"Dă-te din drum!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484077633540",
+   "en": "<kiroshi l=\"creo\" o=\"Sa te byen pase?\" t=\"Did it work?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sa te byen pase?\" t=\"A funcționat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484127965188",
+   "en": "<kiroshi l=\"creo\" o=\"Bon, mwen  panse ….....se yon gwo vanse…....Sa pral pi fasil pou nou kounye a… En Hen, En Hen...\" t=\"Well, I think… It's a great implant… It'll be easier now… Uh-huh, uh-huh...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Bon, mwen  panse ….....se yon gwo vanse…....Sa pral pi fasil pou nou kounye a… En Hen, En Hen...\" t=\"Ei bine, cred că… E un implant grozav… Va fi mai ușor acum… Mhm, mhm...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484144742404",
+   "en": "<kiroshi l=\"creo\" o=\"Ann vanse sou sa … Sa enpòtan anpil … Non… Nou pa bezwen sa… Se fanmi nou ye.\" t=\"Let's go in on it… It's important… No… No need… We're family.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ann vanse sou sa … Sa enpòtan anpil … Non… Nou pa bezwen sa… Se fanmi nou ye.\" t=\"Hai să intrăm în afacere… E important… Nu… Nu e nevoie… Suntem familie.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484178296836",
+   "en": "<kiroshi l=\"creo\" o=\"Ademen sidyeve.\" t=\"See you tomorrow.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ademen sidyeve.\" t=\"Ne vedem mâine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484329291780",
+   "en": "<kiroshi l=\"creo\" o=\"Manzè fou nan tout tèt li!\" t=\"She's crazy!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Msye fou nan tout tèt li!\" t=\"He's crazy!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Manzè fou nan tout tèt li!\" t=\"E nebună!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Msye fou nan tout tèt li!\" t=\"E nebun!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484362846212",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pap kite w touye m!\" t=\"I won't let you kill me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pap kite w touye m!\" t=\"Nu te las să mă omori!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484429955076",
+   "en": "<kiroshi l=\"creo\" o=\"Fè pa m, fè pa m tanpri!\" t=\"Spare me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fè pa m, fè pa m tanpri!\" t=\"Iartă-mă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484446732292",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa m ka fèèè?\" t=\"What can I do?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa m ka fèèè?\" t=\"Ce pot face?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484530618372",
+   "en": "<kiroshi l=\"creo\" o=\"Pa betize w avè m!\" t=\"Don't mess around!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pa betize w avè m!\" t=\"Fără prostii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949186484547395588",
+   "en": "<kiroshi l=\"creo\" o=\"Kite m an repo m. Fè m konfyans.\" t=\"Leave me alone. Trust me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kite m an repo m. Fè m konfyans.\" t=\"Lasă-mă în pace. Ai încredere în mine.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

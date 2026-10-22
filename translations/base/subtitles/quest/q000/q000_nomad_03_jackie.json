@@ -1,0 +1,299 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_03_jackie.json",
+ "entries": [
+  {
+   "key": "1660215901783347200",
+   "en": "Oh, was worried I'd have to turn to farming. Heh! Ehh… sure hope you're here for me.",
+   "ro": "A, mă temeam c-o să mă fac fermier. Heh! Ehh… sper că ești aici pentru mine."
+  },
+  {
+   "key": "1660217000808435716",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1660217623461253120",
+   "en": "Are you Jackie Welles?",
+   "ro": "Ești Jackie Welles?"
+  },
+  {
+   "key": "1660219506737303552",
+   "en": "Are you Welles?",
+   "ro": "Ești Welles?"
+  },
+  {
+   "key": "1660219506737303560",
+   "en": "<mothertongue l=\"mex\" m=\"por favor\" b=\"Er, Jackie, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"por favor\" b=\"Eh, Jackie, \" a=\".\"/>"
+  },
+  {
+   "key": "1660220866564214784",
+   "en": "I believe I am. Are you...?",
+   "ro": "Cred că da. Și tu ești...?"
+  },
+  {
+   "key": "1660220866564214792",
+   "en": "Name's Jackie Welles.",
+   "ro": "Mă numesc Jackie Welles."
+  },
+  {
+   "key": "1660268819404312576",
+   "en": "The cargo.",
+   "ro": "Marfa."
+  },
+  {
+   "key": "1660270780140769280",
+   "en": "What's inside?",
+   "ro": "Ce e înăuntru?"
+  },
+  {
+   "key": "1660271850443264000",
+   "en": "\"Stolen\"? Naw... Some gonk lost the crate, some other gonk found it, passed it on. Now it's here.",
+   "ro": "„Furat”? Nu... Un fraier a pierdut lada, alt fraier a găsit-o și a dat-o mai departe. Acum e aici."
+  },
+  {
+   "key": "1660272374278279168",
+   "en": "Let's load it in the car.",
+   "ro": "Hai s-o încărcăm în mașină."
+  },
+  {
+   "key": "1660273902632325120",
+   "en": "<kiroshi l=\"mex\" o=\"A huevo.\" t=\"You got it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"A huevo.\" t=\"Am înțeles.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1660275126094024704",
+   "en": "Ugh. What a fat-ass.",
+   "ro": "Ugh. Ce grăsan jalnic."
+  },
+  {
+   "key": "1660304730280185856",
+   "en": "So, we headed out?",
+   "ro": "Deci, pornim?"
+  },
+  {
+   "key": "1729962195391803392",
+   "en": "I'm V.",
+   "ro": "Eu sunt V."
+  },
+  {
+   "key": "1729965324896235520",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1729989454324494336",
+   "en": "Y'know... butterfly effect or whatever.",
+   "ro": "Știi tu... efectul ăla de fluture sau cum îi zice."
+  },
+  {
+   "key": "1729989839579705344",
+   "en": "And there's no one lookin' for this crate?",
+   "ro": "Și nu caută nimeni lada asta?"
+  },
+  {
+   "key": "1729989947608199168",
+   "en": "Ain't a problem if they look. Only a problem if they find it before it crosses the border, no?",
+   "ro": "Nu e problemă dacă caută. Problema e doar dacă o găsesc înainte să treacă granița, nu?"
+  },
+  {
+   "key": "1730074170054602752",
+   "en": "Started thinkin' you might not come.",
+   "ro": "Începusem să cred că nu mai vii."
+  },
+  {
+   "key": "1730074170054602764",
+   "en": "I got held up. And you weren't exactly easy to find.",
+   "ro": "Am fost reținută. Și nu erai chiar ușor de găsit.",
+   "ro_m": "Am fost reținut. Și nu erai chiar ușor de găsit."
+  },
+  {
+   "key": "1730074170071379976",
+   "en": "Aa, decided to lay low, y'know? The sheriff... looked like one grouchy motherfucker.",
+   "ro": "Ă, am zis să mă ascund o vreme, știi? Șeriful... părea un nenorocit morocănos."
+  },
+  {
+   "key": "1730167011258855424",
+   "en": "Yyep…",
+   "ro": "Da…"
+  },
+  {
+   "key": "1804173533210669056",
+   "en": "Well, where I'm from, you share a bit about your soul before you talk biz, eh? It's kind of like a custom. Or just good manners, y'know?",
+   "ro": "Păi, pe la mine, îți deschizi sufletul înainte să vorbești de afaceri, nu? E un fel de obicei. Sau doar bun-simț, știi?"
+  },
+  {
+   "key": "1804180399772856324",
+   "en": "Let's start with you then.",
+   "ro": "Hai să începem cu tine, atunci."
+  },
+  {
+   "key": "1804180409201651712",
+   "en": "Why don't we start with you, then.",
+   "ro": "Ce zici să începem cu tine, atunci?"
+  },
+  {
+   "key": "1804180411718234112",
+   "en": "You're a man of principle.",
+   "en_m": "You're a man of principle?",
+   "ro": "Ești o persoană cu principii.",
+   "ro_m": "Ești un om cu principii."
+  },
+  {
+   "key": "1804180740182568960",
+   "en": "You're a man of principle, is that it?",
+   "ro": "Deci ești o persoană cu principii, asta e?",
+   "ro_m": "Deci ești un om cu principii, asta e?"
+  },
+  {
+   "key": "1804181518444064768",
+   "en": "NC native, right here. Got Heywood in my blood.",
+   "ro": "Născută în NC, chiar aici. Heywood-ul mi-e în sânge.",
+   "ro_m": "Născut în NC, chiar aici. Heywood-ul mi-e în sânge."
+  },
+  {
+   "key": "1804183929179009024",
+   "en": "Never been to NC. That doesn't mean much to me.",
+   "en_m": "I've never been to NC. That doesn't mean much to me.",
+   "ro": "N-am fost niciodată în NC. Nu înseamnă mare lucru pentru mine."
+  },
+  {
+   "key": "1804184107957022720",
+   "en": "So, imagine a place where everyone's like your bro or sis, or... a distant cousin, at least.",
+   "ro": "Deci, gândește-te la un loc unde toți sunt ca frații sau surorile tale, sau... cel puțin ca verii de-al doilea."
+  },
+  {
+   "key": "1804187651707695104",
+   "en": "Ah, I think I understand. You don't have to like each other, but it's family.",
+   "en_m": "Haha, I think I understand. You don't have to like each other, but it's family.",
+   "ro": "Ha, cred că pricep. Nu trebuie să vă placeți, dar e familie."
+  },
+  {
+   "key": "1804188023390138368",
+   "en": "That's Heywood. That, and everyone's packin' iron.",
+   "ro": "Asta e Heywood. Asta și că toți sunt înarmați."
+  },
+  {
+   "key": "1804201622934319104",
+   "en": "And you?",
+   "ro": "Iar tu?"
+  },
+  {
+   "key": "1804202219666337792",
+   "en": "I guess... you could say I'm from my own Heywood.",
+   "en_m": "I guess... one could say I'm from my own Heywood.",
+   "ro": "Cred... că ai putea zice că sunt din Heywood-ul meu.",
+   "ro_m": "Cred... că s-ar putea zice că sunt din Heywood-ul meu."
+  },
+  {
+   "key": "1804213844179873792",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"You need a backbone, \" a=\". Least you'll have that left when they've taken everything else.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"You need a backbone, \" a=\". At least you'll have that left when they've taken everythin' else.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Trebuie să ai ceva-n spate, \" a=\". Măcar aia îți mai rămâne când ți-au luat tot restul.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Trebuie să ai ceva-n spate, \" a=\". Măcar aia îți mai rămâne când ți-au luat tot restul.\"/>"
+  },
+  {
+   "key": "1804217704801824768",
+   "en": "You and me, we're gonna get along fine.",
+   "ro": "Noi doi o să ne înțelegem de minune."
+  },
+  {
+   "key": "1804295543584649216",
+   "en": "You sleep better the less you know. Got no idea myself, and that's a good thing.",
+   "ro": "Dormi mai bine cu cât știi mai puțin. Nici eu n-am habar, și e bine așa."
+  },
+  {
+   "key": "1804295809218310144",
+   "en": "You don't know what we aim to smuggle? These are stolen corporate goods.",
+   "ro": "Nu știi ce vrem să contrabandăm? Sunt marfă furată de la corporatiști."
+  },
+  {
+   "key": "1821341729010241540",
+   "en": "[Open trunk]",
+   "ro": "[Deschide portbagajul]"
+  },
+  {
+   "key": "1822528636008288256",
+   "en": "Let's load it up.",
+   "ro": "Hai s-o încărcăm."
+  },
+  {
+   "key": "1822548308250349568",
+   "en": "What's inside?",
+   "ro": "Ce e înăuntru?"
+  },
+  {
+   "key": "1883875331885953024",
+   "en": "Seems you have cargo that needs to be moved.",
+   "ro": "Pare că ai marfă de mutat."
+  },
+  {
+   "key": "1883881876795355136",
+   "en": "It seems you have cargo that needs to be moved.",
+   "ro": "Parcă ai marfă de mutat."
+  },
+  {
+   "key": "1908382224890220544",
+   "en": "Huh, looks like we'll need a car... Gimme a minute, I left mine close by.",
+   "en_m": "Hmm, looks like we'll need a car... Give me a minute, I left mine close by.",
+   "ro": "Hm, pare că ne trebuie o mașină... Stai un minut, am lăsat-o pe aproape."
+  },
+  {
+   "key": "1908383776933695488",
+   "en": "What, fuckin' nature-walked it rest of the way?",
+   "ro": "Ce, restul drumului l-ai făcut pe jos, dracu'?"
+  },
+  {
+   "key": "1908384195072249860",
+   "en": "Let's load up.",
+   "ro": "Hai s-o încărcăm."
+  },
+  {
+   "key": "1908385140820692992",
+   "en": "OK, OK... but be quick about it, huh?",
+   "ro": "OK, OK... da' fii rapid, bine?"
+  },
+  {
+   "key": "1908395807422304256",
+   "en": "What's inside?",
+   "ro": "Ce e înăuntru?"
+  },
+  {
+   "key": "1908397540508717056",
+   "en": "OK, car's ready. Just gotta load up.",
+   "ro": "OK, mașina e gata. Trebuie doar s-o încărcăm."
+  },
+  {
+   "key": "1908400584180912128",
+   "en": "Ehh… brought wheels with ya? Sure could use some.",
+   "ro": "Ehh… ai adus roți cu tine? Chiar ne-ar prinde bine."
+  },
+  {
+   "key": "1908402998422294528",
+   "en": "<kiroshi l=\"mex\" o=\"Hermosura.\" t=\"What a beauty.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Hermosura.\" t=\"Ce frumusețe.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1908438020558704640",
+   "en": "We'll need a car.",
+   "ro": "Ne trebuie o mașină."
+  },
+  {
+   "key": "1973431834289131520",
+   "en": "Jackie? Jackie Welles?!",
+   "ro": "Jackie? Jackie Welles?!"
+  },
+  {
+   "key": "1979085711302742016",
+   "en": "Inside!",
+   "ro": "Înăuntru!"
+  },
+  {
+   "key": "2238683896952672256",
+   "en": "<mothertongue l=\"mex\" m=\"chica.\" b=\"Le'ss go, \" a=\" Pop 'er open.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Le'ss go, \" a=\". Pop 'er open.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica.\" b=\"Hai, \" a=\" Deschide-o.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Hai, \" a=\". Deschide-o.\"/>"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\mini_world_stories\\mws_se5_07_chicken_test.json",
+ "entries": [
+  {
+   "key": "4134813900412534788",
+   "en": "[db_db]computer",
+   "ro": "[db_db]computer"
+  },
+  {
+   "key": "4134814127173386240",
+   "en": "[db_db]corpse",
+   "ro": "[db_db]cadavru"
+  },
+  {
+   "key": "4134814359202283520",
+   "en": "[db_db]Where to start?",
+   "ro": "[db_db]De unde încep?"
+  },
+  {
+   "key": "4134815159324491776",
+   "en": "[db_db]encounter",
+   "ro": "[db_db]întâlnire"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq060\\mq060_voicelines.json",
+ "entries": [
+  {
+   "key": "4885937432890863624",
+   "en": "Please vacate the area.",
+   "ro": "Vă rugăm să părăsiți zona."
+  },
+  {
+   "key": "4885937498003238924",
+   "en": "Well, well, impressive...",
+   "ro": "Ia uite, impresionant..."
+  },
+  {
+   "key": "4885963297888563200",
+   "en": "Gotta say I'm intrigued...",
+   "en_m": "Gotta say I am intrigued...",
+   "ro": "Ce să zic, m-ai intrigat.",
+   "ro_m": "Trebuie să zic că sunt intrigat..."
+  },
+  {
+   "key": "4886989726872924160",
+   "en": "Oh, now I'm just flat interested.",
+   "en_m": "Now I'm just flat interested.",
+   "ro": "A, acum chiar m-ai prins."
+  },
+  {
+   "key": "4886993918610010112",
+   "en": "Sure is pretty...",
+   "ro": "Ce frumoasă e..."
+  },
+  {
+   "key": "4886996808619683840",
+   "en": "Keep your distance. Hanare-nasai. Mantenga la distancia. Bao chi ju li.",
+   "ro": "Păstrați distanța."
+  },
+  {
+   "key": "4887001122813669376",
+   "en": "Thank you for your cooperation. Gokyouryoku-ni-kansha-shimasu. Gracias por su cooperación. Gan xie ni de he zuo.",
+   "ro": "Vă mulțumim pentru cooperare."
+  }
+ ]
+}

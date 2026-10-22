@@ -1,0 +1,1012 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q104\\q104_01b_calibration.json",
+ "entries": [
+  {
+   "key": "1374815219719753728",
+   "en": "Connect here.",
+   "ro": "Conectează-te aici."
+  },
+  {
+   "key": "1374828284305625088",
+   "en": "How should I connect? Personal link?",
+   "ro": "Cum să mă conectez? Legătură personală?"
+  },
+  {
+   "key": "1374828714926428160",
+   "en": "How else? Just watch the jack. Sometimes you have to jiggle it a bit.",
+   "ro": "Cum altfel? Doar uită-te la mufă. Uneori trebuie s-o mai miști un pic."
+  },
+  {
+   "key": "1374829283724382208",
+   "en": "[Jack in] Ready.",
+   "ro": "[Conectează-te] Gata."
+  },
+  {
+   "key": "1374858925541838848",
+   "en": "Now, that wasn't so bad, was it?",
+   "ro": "Acum, n-a fost chiar așa de rău, nu?"
+  },
+  {
+   "key": "1438902726160863232",
+   "en": "Shit. It keeps giving me an error. Odd. Let me work around it.",
+   "ro": "Fir-ar! Îmi tot dă eroare. Ciudat. Stai să o ocolesc."
+  },
+  {
+   "key": "1440013070719569920",
+   "en": "Just some malware.",
+   "ro": "Doar un pic de malware."
+  },
+  {
+   "key": "1440013723000950784",
+   "en": "Nothing to worry about.",
+   "ro": "Nimic de care să-ți faci griji."
+  },
+  {
+   "key": "1440023422647717888",
+   "en": "It's not a virus. Just a little malware. You get used to it eventually.",
+   "ro": "Nu e virus. Doar un pic de malware. Te obișnuiești până la urmă."
+  },
+  {
+   "key": "1440023481619632128",
+   "en": "I know, but it's nothing to worry about. Nothing dangerous or anything.",
+   "ro": "Știu, da' n-are nimic. Nimic periculos sau așa ceva."
+  },
+  {
+   "key": "1440038352272805888",
+   "en": "Maybe for you. But this vehicle only has basic security soft. If it's something advanced...",
+   "ro": "Poate pentru tine. Da' mașina asta are doar soft de securitate de bază. Dacă e ceva avansat..."
+  },
+  {
+   "key": "1440040768074469376",
+   "en": "Uh-huh. Just wondering how it'll work with moving targets.",
+   "ro": "Mhm. Mă întrebam doar cum o să meargă cu ținte în mișcare."
+  },
+  {
+   "key": "1440041029799038976",
+   "en": "Wonder how it would work with moving targets.",
+   "ro": "Mă întreb cum ar merge cu ținte în mișcare."
+  },
+  {
+   "key": "1448723744090017792",
+   "en": "Don't worry. Nothing too advanced. Pretty backwards, actually.",
+   "ro": "Nu-ți face griji. Nimic prea avansat. Destul de învechit, de fapt."
+  },
+  {
+   "key": "1486674898143883264",
+   "en": "How do I connect?",
+   "ro": "Cum mă conectez?"
+  },
+  {
+   "key": "1492177398310424576",
+   "en": "The connection is secure.",
+   "ro": "Conexiunea e sigură."
+  },
+  {
+   "key": "1492177983348723712",
+   "en": "Uh, I've got a bioprocessor in my head that operates independently of me. Probably why your diagnostics flagged it.",
+   "ro": "Păi, am un bioprocesor în cap care merge independent de mine. Probabil de-asta ți-a semnalat diagnosticarea."
+  },
+  {
+   "key": "1492181607562924032",
+   "en": "Your software could use an update.",
+   "ro": "Software-ul tău ar avea nevoie de o actualizare."
+  },
+  {
+   "key": "1492182007733080064",
+   "en": "Calibration's fine, but your soft could really use an update. Scanner, controllers – all a couple generations back, at least.",
+   "ro": "Calibrarea e ok, da' softul ăsta chiar ar avea nevoie de un update. Scanerul, controllerele, totul e cu cel puțin câteva generații în urmă."
+  },
+  {
+   "key": "1496762592954732544",
+   "en": "But no data will leak out of it through the personal link. Your ride's secure.",
+   "ro": "Da' nicio informație n-o să scape prin legătura personală. Mașina ta e sigură."
+  },
+  {
+   "key": "1496769982798286848",
+   "en": "Fine. I trust you won't fuck anything up.",
+   "ro": "Bine. Sper să nu ne bagi în rahat."
+  },
+  {
+   "key": "1511565415964221440",
+   "en": "Hold on tight. This could get a little bumpy.",
+   "ro": "Ține-te bine. Ar putea fi cam zdruncinat."
+  },
+  {
+   "key": "1512460219264425984",
+   "en": "OK. Here goes nothing.",
+   "ro": "OK. Ce-o fi, o fi."
+  },
+  {
+   "key": "1512506476800401408",
+   "en": "Hey, if you'd rather daydream, please wait until we're done calibrating.",
+   "ro": "Hei, dacă ai chef de visat cu ochii deschiși, mai stai puțin până terminăm calibrarea."
+  },
+  {
+   "key": "1547616667270959104",
+   "en": "We need to calibrate you with the turret.",
+   "ro": "Trebuie să te calibrăm cu turela."
+  },
+  {
+   "key": "1547616887237038080",
+   "en": "I want you to be able to use the gun, too. It should up our chances in general.",
+   "ro": "Vreau să poți folosi și arma. Ar trebui să ne crească șansele în general."
+  },
+  {
+   "key": "1553201287738945536",
+   "en": "V? You going to connect?",
+   "ro": "V? Te conectezi?"
+  },
+  {
+   "key": "1692187991292375040",
+   "en": "Is this really necessary?",
+   "ro": "Chiar e nevoie de asta?"
+  },
+  {
+   "key": "1692194347072221184",
+   "en": "Wait a moment. Diagnostics first.",
+   "ro": "Stai puțin. Întâi diagnosticarea."
+  },
+  {
+   "key": "1692195971207393280",
+   "en": "Hey, uh, I think your implant has a virus. The one in the nape of your neck.",
+   "ro": "Hei, cred că ai un virus în implant. Cel din ceafă."
+  },
+  {
+   "key": "1692199681052504064",
+   "en": "And now, Panam, here's Johnny! Out in the middle of bumfuck nowhere. Great work, V.",
+   "ro": "Și acum, Panam, iată-l pe Johnny! Chiar în cur de lume. Bravo, V."
+  },
+  {
+   "key": "1692215973608288256",
+   "en": "Mhm. OK...",
+   "ro": "Mhm. OK..."
+  },
+  {
+   "key": "1692257298642759680",
+   "en": "Where's the power station?",
+   "ro": "Unde e stația de energie?"
+  },
+  {
+   "key": "1692258687578140672",
+   "en": "So where's this power station?",
+   "ro": "Deci unde e stația asta de energie?"
+  },
+  {
+   "key": "1692259765631709184",
+   "en": "The gun is calibrated. You'll have system support. Just be careful with the recoil, it sometimes knocks things out of balance.",
+   "ro": "Arma e calibrată. O să ai suport de sistem. Doar ai grijă la recul, că uneori scoate lucrurile din echilibru."
+  },
+  {
+   "key": "1692261696034959360",
+   "en": "You will see in a moment.",
+   "ro": "O să vezi într-un moment."
+  },
+  {
+   "key": "1719607218722697216",
+   "en": "Do we really have to waste our time on this?",
+   "ro": "Chiar trebuie să ne pierdem timpul cu asta?"
+  },
+  {
+   "key": "1719611072432435200",
+   "en": "We do.",
+   "ro": "Trebuie."
+  },
+  {
+   "key": "1719613613308243968",
+   "en": "Unless you've already used one of these without help, while moving, while taking fire from all directions. And still managed to hit something.",
+   "ro": "Doar dacă ai folosit deja una din astea fără ajutor, în mișcare, sub foc din toate părțile. Și tot ai reușit să nimerești ceva."
+  },
+  {
+   "key": "1719615766009606144",
+   "en": "But somehow, I don't believe that's the case. So don't argue, just connect.",
+   "ro": "Dar nu cred că e cazul, cumva. Așa că nu mai discuta, conectează-te."
+  },
+  {
+   "key": "1724251744701931520",
+   "en": "You see that pile of junk? Fire a short burst into it. I'll take care of the calibration.",
+   "ro": "Vezi grămada aia de vechituri? Trage o rafală scurtă în ea. Mă ocup eu de calibrare."
+  },
+  {
+   "key": "1724299565756997632",
+   "en": "Good. Next target. Single shot.",
+   "ro": "Bine. Următoarea țintă. Un singur foc."
+  },
+  {
+   "key": "1724300284039946240",
+   "en": "OK. Just one more. Longer round.",
+   "ro": "OK. Încă una. Rafală mai lungă."
+  },
+  {
+   "key": "1724300614265888768",
+   "en": "Great. We're done, I think.",
+   "ro": "Super. Am terminat, cred."
+  },
+  {
+   "key": "1724334396230492160",
+   "en": "Each antenna collects microwave energy from satellites in orbit. That's then converted into electric power.",
+   "ro": "Fiecare antenă colectează energie microunde de la sateliții de pe orbită. Asta se convertește apoi în energie electrică."
+  },
+  {
+   "key": "1729744573710331924",
+   "en": "Screw you.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1729744573710331936",
+   "en": "Will it affect the calibration?",
+   "ro": "O să afecteze calibrarea?"
+  },
+  {
+   "key": "1729744573727109128",
+   "en": "We shall see.",
+   "ro": "Vedem noi."
+  },
+  {
+   "key": "1729744888853557292",
+   "en": "Real fucking funny.",
+   "ro": "Tare amuzant, pula mea."
+  },
+  {
+   "key": "1729744888853557304",
+   "en": "You had better see a ripperdoc after all this is over.",
+   "ro": "Ar fi bine să mergi la un ripperdoc după ce se termină totul."
+  },
+  {
+   "key": "1729744888870334468",
+   "en": "All right, mom.",
+   "ro": "Bine, mamă."
+  },
+  {
+   "key": "1731221263225581568",
+   "en": "Done anything like this before?",
+   "ro": "Ai mai făcut așa ceva?"
+  },
+  {
+   "key": "1740038205998755860",
+   "en": "There's better tech in the bargain bin at a Kabuki flea market. I can help you with that, you know.",
+   "ro": "Găsești tech mai bun și-n lada cu reduceri de la talciocul din Kabuki. Te pot ajuta cu asta, să știi."
+  },
+  {
+   "key": "1740038205998755872",
+   "en": "Yes, sure. The most important thing is that it works now.",
+   "ro": "Da, sigur. Cel mai important e că merge acum."
+  },
+  {
+   "key": "1740046083774083072",
+   "en": "I know a spot. We'll have a decent view from there.",
+   "ro": "Știu un loc. O să avem o priveliște decentă de acolo."
+  },
+  {
+   "key": "1751841494209785856",
+   "en": "Who owns this power station? Gov or corp?",
+   "ro": "Cine deține centrala asta? Guvernul sau corporația?"
+  },
+  {
+   "key": "1751841494209785868",
+   "en": "Is there any difference? Who do you think pulls the government's strings?",
+   "ro": "E vreo diferență? Cine crezi că trage sforile guvernului?"
+  },
+  {
+   "key": "1751841494209785880",
+   "en": "I'm just wondering whose toes we're about to step all over.",
+   "en_m": "Hey, I'm just wondering whose toes we're about to step all over.",
+   "ro": "Mă întreb doar ale cui degete o să călcăm.",
+   "ro_m": "Hei, mă întreb doar ale cui degete o să călcăm."
+  },
+  {
+   "key": "1751841494209785892",
+   "en": "V, look around. It is simple. Everything you see is owned by a corporation.",
+   "ro": "V, uită-te în jur. E simplu. Tot ce vezi e deținut de o corporație."
+  },
+  {
+   "key": "1751841494293671936",
+   "en": "'Cause me, I had to carry a real 'ganic iguana once.",
+   "ro": "Că eu, odată, a trebuit să car o iguană ganică adevărată."
+  },
+  {
+   "key": "1751841494293671952",
+   "en": "Seriously? A live one?",
+   "ro": "Serios? Una vie?"
+  },
+  {
+   "key": "1751841494310449160",
+   "en": "Yup. Someone put 'im in a deep sleep, packed 'im in a cooler. No idea why, but man, I made a shitload off that job. Your turn – think you can beat that?",
+   "ro": "Da. Cineva l-a băgat într-un somn adânc, l-a împachetat într-un cooler. Habar n-am de ce, dar, frate, am făcut o grămadă de bani din treaba aia. Acum e rândul tău – crezi că poți întrece asta?"
+  },
+  {
+   "key": "1751841494310449172",
+   "en": "The deputy finance director of Kaukaz.",
+   "ro": "Directorul adjunct de finanțe de la Kaukaz."
+  },
+  {
+   "key": "1751841494310449184",
+   "en": "Whoa. I'd say it's a tie.",
+   "ro": "Whoa. Aș zice că e egal."
+  },
+  {
+   "key": "1751841494327226376",
+   "en": "Dead. In the trunk.",
+   "ro": "Mort. În portbagaj."
+  },
+  {
+   "key": "1751841494327226388",
+   "en": "OK, fine, you win.",
+   "ro": "OK, bine, ai câștigat."
+  },
+  {
+   "key": "1751841494360780800",
+   "en": "What, are we playing twenty questions?",
+   "ro": "Ce, jucăm douăzeci de întrebări?"
+  },
+  {
+   "key": "1751841494360780812",
+   "en": "C'mon, answer.",
+   "ro": "Hai, răspunde."
+  },
+  {
+   "key": "1751841494360780824",
+   "en": "The deputy finance director of Kaukaz.",
+   "ro": "Directorul adjunct de finanțe de la Kaukaz."
+  },
+  {
+   "key": "1751841494377558024",
+   "en": "That's chauffeuring, not smuggling.",
+   "ro": "Asta e șoferit, nu contrabandă."
+  },
+  {
+   "key": "1751841494377558036",
+   "en": "He rode in the trunk. Flatlined.",
+   "ro": "A călătorit în portbagaj. Terminat."
+  },
+  {
+   "key": "1751841494377558048",
+   "en": "Really? Dead?",
+   "ro": "Serios? Mort?"
+  },
+  {
+   "key": "1751841494394335240",
+   "en": "A long story. Maybe someday I'll tell you.",
+   "ro": "O poveste lungă. Poate într-o zi ți-o spun."
+  },
+  {
+   "key": "1751846701421424644",
+   "en": "Subject change! What's the weirdest thing you've ever smuggled?",
+   "ro": "Schimbăm subiectul! Care e cel mai ciudat lucru pe care l-ai contrabandat vreodată?"
+  },
+  {
+   "key": "1751847016967303168",
+   "en": "And you like to mess with the corps, huh?",
+   "ro": "Și îți place să te iei de corporații, ha?"
+  },
+  {
+   "key": "1751852472062308352",
+   "en": "You like to mess with the corps, huh?",
+   "ro": "Îți place să te iei de corporații, ha?"
+  },
+  {
+   "key": "1751853522869678080",
+   "en": "Whatever gave you that idea?",
+   "ro": "De unde ți-a venit ideea asta?"
+  },
+  {
+   "key": "1751853593216544768",
+   "en": "Or wait, scratch that.",
+   "ro": "Sau, stai, las-o baltă."
+  },
+  {
+   "key": "1751855279729405952",
+   "en": "Well, then I suppose it's a good thing I'm on your side, isn't it?",
+   "ro": "Păi, atunci cred că e bine că sunt de partea ta, nu?"
+  },
+  {
+   "key": "1751855914059165696",
+   "en": "Rogue, Nash, the Raffens...",
+   "ro": "Rogue, Nash, Raffens..."
+  },
+  {
+   "key": "1751856558723690496",
+   "en": "Mhmmm.",
+   "ro": "Mhmmm."
+  },
+  {
+   "key": "1751858453240475664",
+   "en": "And now for something completely different. Weirdest thing you've ever transported – go.",
+   "ro": "Și acum, ceva complet diferit. Cel mai ciudat lucru pe care l-ai transportat vreodată? Hai, zi."
+  },
+  {
+   "key": "1751860871978151936",
+   "en": "You're on thin ice, V.",
+   "ro": "Ești pe gheață subțire, V."
+  },
+  {
+   "key": "1751861541154189312",
+   "en": "You just like to mess with everyone.",
+   "ro": "Îți place doar să te iei de toată lumea."
+  },
+  {
+   "key": "1751884862793052160",
+   "en": "[Lean out] That's a lotta antennas. How do we choose the right one?",
+   "ro": "[Sprijină-te] Sunt o grămadă de antene. Cum alegem-o pe cea potrivită?"
+  },
+  {
+   "key": "1751885639477489664",
+   "en": "[Lean out] So we set off a chain reaction.",
+   "ro": "[Sprijină-te] Deci declanșăm o reacție în lanț."
+  },
+  {
+   "key": "1751888306551517184",
+   "en": "This power station serves the whole city?",
+   "ro": "Centrala asta deservește tot orașul?"
+  },
+  {
+   "key": "1751896845399486464",
+   "en": "Power station serve the whole city?",
+   "ro": "Centrala deservește tot orașul?"
+  },
+  {
+   "key": "1751897281942646784",
+   "en": "Honestly? Who the fuck knows.",
+   "ro": "Sincer? Dracu' știe."
+  },
+  {
+   "key": "1751897359537270784",
+   "en": "Guess we're about to find out.",
+   "ro": "Cred că o să aflăm."
+  },
+  {
+   "key": "1751898850478125068",
+   "en": "Huh, antennas run all the way down the interstate…",
+   "ro": "Hm, antenele se întind până la capătul autostrăzii…"
+  },
+  {
+   "key": "1751898850478125080",
+   "en": "Mhm. And they're linked, which is to your advantage. We just need to mess with the collection unit. A chain reaction will follow. Each one of the antennas will emit an EMP burst.",
+   "ro": "Mhm. Și sunt conectate, ceea ce e în avantajul tău. Trebuie doar să ne jucăm cu unitatea de colectare. Urmează o reacție în lanț. Fiecare antenă o să emită un impuls EMP."
+  },
+  {
+   "key": "1751898850478125092",
+   "en": "The AV will be like a fly headed for a spider's web. We just have to fire off the pulse at the right moment.",
+   "ro": "AV-ul o să fie ca o muscă îndreptată spre pânza unui păianjen. Trebuie doar să declanșăm impulsul la momentul potrivit."
+  },
+  {
+   "key": "1751898850494902276",
+   "en": "Let's go get 'er.",
+   "ro": "Hai s-o luăm."
+  },
+  {
+   "key": "1751899173573750808",
+   "en": "Antennas run a ways down the interstate. We set off a chain reaction that starts in the collection unit…",
+   "ro": "Antenele se întind o bucată pe autostradă. Declanșăm o reacție în lanț care începe în unitatea de colectare…"
+  },
+  {
+   "key": "1751899173573750820",
+   "en": "...then each antenna will emit a massive EMP burst.",
+   "ro": "...apoi fiecare antenă o să emită un impuls EMP masiv."
+  },
+  {
+   "key": "1751899173590528004",
+   "en": "While our AV flies right into our net.",
+   "ro": "În timp ce AV-ul nostru zboară direct în plasa noastră."
+  },
+  {
+   "key": "1751899173590528016",
+   "en": "Let's go get 'er.",
+   "ro": "Hai s-o luăm."
+  },
+  {
+   "key": "1751902142805438464",
+   "en": "We just have to send out the pulse at the right moment.",
+   "ro": "Trebuie doar să trimitem impulsul la momentul potrivit."
+  },
+  {
+   "key": "1751912125383176192",
+   "en": "Downing an AV? By myself? No.",
+   "ro": "Să dobor un AV? Singur? Nu."
+  },
+  {
+   "key": "1751913453450817536",
+   "en": "Why do you ask?",
+   "ro": "De ce întrebi?"
+  },
+  {
+   "key": "1751914258102874116",
+   "en": "'Cause you put together one helluva plan.",
+   "ro": "Pentru că ai pus la cale un plan de zile mari."
+  },
+  {
+   "key": "1751915427424497664",
+   "en": "Rogue was right. You are good at this game.",
+   "ro": "Rogue avea dreptate. Ești bună la chestia asta.",
+   "ro_m": "Rogue avea dreptate. Ești bun la chestia asta."
+  },
+  {
+   "key": "1751919180336721920",
+   "en": "You never did anything like this with the Aldecaldos?",
+   "ro": "N-ai făcut niciodată așa ceva cu clanul Aldecaldos?"
+  },
+  {
+   "key": "1751922421812293632",
+   "en": "Power station, EMP, the systems, networks... Came up with a really solid plan.",
+   "ro": "Centrală, EMP, sisteme, rețele... Ai scos un plan foarte solid."
+  },
+  {
+   "key": "1751922533045235712",
+   "en": "Seems Rogue was right.",
+   "ro": "Se pare că Rogue avea dreptate."
+  },
+  {
+   "key": "1751922620756520960",
+   "en": "Thought you woulda done something like this with your clan.",
+   "ro": "Credeam că ai fi făcut ceva de genul ăsta cu clanul tău."
+  },
+  {
+   "key": "1751926128922718208",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1751926832609488896",
+   "en": "How you approach things – that's the trick. Mine is the triple A.",
+   "ro": "Cum abordezi lucrurile – asta e cheia. La mine e tripla A."
+  },
+  {
+   "key": "1751930285863858176",
+   "en": "What now?",
+   "en_m": "Wai-- What now?",
+   "ro": "Ce facem acum?",
+   "ro_m": "Stai... Ce facem acum?"
+  },
+  {
+   "key": "1751930778426142720",
+   "en": "Assessment, Assembly, Action.",
+   "ro": "Evaluare, Asamblare, Acțiune."
+  },
+  {
+   "key": "1751933730159194112",
+   "en": "Whatever your task, you do three things. Start by assessing what you already have and what you'll face, the problem.",
+   "ro": "Orice ai de făcut, faci trei lucruri. Începi prin a evalua ce ai deja și cu ce o să te confrunți: problema."
+  },
+  {
+   "key": "1751940721527091200",
+   "en": "Then you plan with those variables in mind. Take what you have, get what you need, assemble things, people. Finally, you take action. Simple.",
+   "ro": "Apoi planifici ținând cont de variabilele astea. Iei ce ai, obții ce-ți trebuie, asamblezi lucruri, oameni. La final, acționezi. Simplu."
+  },
+  {
+   "key": "1751948839485042688",
+   "en": "V...",
+   "ro": "V..."
+  },
+  {
+   "key": "1751949078677811200",
+   "en": "What? She said you were good. And she was right.",
+   "ro": "Ce? A zis că ești bună. Și a avut dreptate.",
+   "ro_m": "Ce? A zis că ești bun. Și a avut dreptate."
+  },
+  {
+   "key": "1751949901432483840",
+   "en": "Yes. I suppose she was.",
+   "ro": "Da. Presupun că a avut."
+  },
+  {
+   "key": "1751957082953347072",
+   "en": "But we have yet to take the AV. So you might wait before you fasten a halo on her.",
+   "ro": "Dar n-am luat încă AV-ul. Așa că mai bine aștepți înainte s-o pui pe piedestal."
+  },
+  {
+   "key": "1751958154916786176",
+   "en": "Know what? Think I figured you out.",
+   "ro": "Știi ce? Cred că te-am descifrat."
+  },
+  {
+   "key": "1751958967068258304",
+   "en": "Fuck off. I will get both done.",
+   "ro": "Du-te dracu'. O să le fac pe ambele."
+  },
+  {
+   "key": "1751960045155381248",
+   "en": "Oh, you have, have you?",
+   "ro": "A, deci ai făcut-o?"
+  },
+  {
+   "key": "1751960236264648704",
+   "en": "Either pull off this mission or prove Rogue wrong – choose one.",
+   "ro": "Ori duci la capăt misiunea, ori o contrazici pe Rogue – alege una."
+  },
+  {
+   "key": "1751982577443008512",
+   "en": "No... We did take back one of ours from a convoy once. But this, what we're doing now...",
+   "ro": "Nu... Am recuperat odată unul de-ai noștri dintr-un convoi. Dar asta, ce facem acum..."
+  },
+  {
+   "key": "1751984866677354496",
+   "en": "The risk is so much greater.",
+   "ro": "Riscul e mult mai mare."
+  },
+  {
+   "key": "1751986272524169216",
+   "en": "You don't miss it?",
+   "ro": "Nu-ți e dor?"
+  },
+  {
+   "key": "1751988935269675008",
+   "en": "What? Jobs like this?",
+   "ro": "Ce? Treburi de genul ăsta?"
+  },
+  {
+   "key": "1751989076919709696",
+   "en": "Being in a clan. Being part of a family.",
+   "ro": "Să fii într-un clan. Să faci parte dintr-o familie."
+  },
+  {
+   "key": "1751992491318046720",
+   "en": "I could ask you the same. How do you feel, all on your own?",
+   "ro": "Aș putea să te întreb același lucru. Cum te simți, singură?",
+   "ro_m": "Aș putea să te întreb același lucru. Cum te simți, singur?"
+  },
+  {
+   "key": "1751993435388768260",
+   "en": "Didn't answer my question.",
+   "ro": "N-ai răspuns la întrebarea mea."
+  },
+  {
+   "key": "1751993638510522368",
+   "en": "Not sure. Still think about it sometimes.",
+   "ro": "Nu sunt sigură. Mă mai gândesc uneori.",
+   "ro_m": "Nu sunt sigur. Mă mai gândesc uneori."
+  },
+  {
+   "key": "1751993795293605888",
+   "en": "I don't miss a thing.",
+   "ro": "Nu-mi lipsește nimic."
+  },
+  {
+   "key": "1752904030984204288",
+   "en": "Hey, now. Didn't answer the question.",
+   "ro": "Hei, stai puțin. N-ai răspuns la întrebare."
+  },
+  {
+   "key": "1752904155655696384",
+   "en": "Yeah, sometimes wonder what life would be like, back with the clan.",
+   "ro": "Da, uneori mă întreb cum ar fi să fiu iar în clan."
+  },
+  {
+   "key": "1752904256788754432",
+   "en": "No. That chapter's closed.",
+   "ro": "Nu. Capitolul ăla s-a închis."
+  },
+  {
+   "key": "1752923419288662016",
+   "en": "Because I have no answer to give. Yet.",
+   "ro": "Pentru că n-am ce răspunde. Deocamdată."
+  },
+  {
+   "key": "1752925496492552192",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1752925947363454976",
+   "en": "And the price is always too damn high.",
+   "ro": "Și prețul e mereu al naibii de mare."
+  },
+  {
+   "key": "1752926780570333184",
+   "en": "OK. We'll be there in a moment.",
+   "ro": "OK. Ajungem imediat."
+  },
+  {
+   "key": "1752932973661515776",
+   "en": "Hmm. I believe I understand.",
+   "ro": "Hm. Cred că înțeleg."
+  },
+  {
+   "key": "1752948557799354368",
+   "en": "Besides, I try not to regret what's already decided. Just a time sink, usually.",
+   "ro": "Oricum, încerc să nu regret ce e deja hotărât. De obicei nu-i decât pierdere de timp."
+  },
+  {
+   "key": "1752949629276254208",
+   "en": "I wish I could let bygones be bygones. Like you.",
+   "ro": "Aș vrea să las trecutul în urmă. Ca tine."
+  },
+  {
+   "key": "1753299619903303680",
+   "en": "Get ready!",
+   "ro": "Pregătiți-vă!"
+  },
+  {
+   "key": "1754593608992419840",
+   "en": "Sabotage a corpo power station, jump a corpo transport, kidnap a corpo suit…",
+   "ro": "Sabotezi o centrală corpo, ataci un transport corpo, răpești un costum corpo…"
+  },
+  {
+   "key": "1754604742822719488",
+   "en": "This a plug for the word corpo or do you have a point?",
+   "ro": "Ce, faci reclamă la cuvântul corpo sau chiar ai ceva de zis?"
+  },
+  {
+   "key": "1754605565728387072",
+   "en": "Know what? You're starting to remind me of me... fifty years back.",
+   "ro": "Știi ce? Începi să-mi amintești de mine... acum cincizeci de ani."
+  },
+  {
+   "key": "1754614215087878144",
+   "en": "Hm. Maybe we CAN just get along.",
+   "ro": "Hm. Poate chiar ne putem înțelege."
+  },
+  {
+   "key": "1754620934916534276",
+   "en": "It's not about the corpos. It's about survival.",
+   "ro": "Nu e vorba de corpoi. E vorba de supraviețuire."
+  },
+  {
+   "key": "1754623034434121732",
+   "en": "[Wait] What do we do now?",
+   "ro": "[Stai] Ce facem acum?"
+  },
+  {
+   "key": "1754623799374508032",
+   "en": "Let me remind you, I want Hellman for me, not to stick it to Arasaka.",
+   "ro": "Să-ți reamintesc: îl vreau pe Hellman pentru mine, nu ca să le fac Arasaka în ciudă."
+  },
+  {
+   "key": "1754623964630085632",
+   "en": "So, what now?",
+   "ro": "Și acum ce?"
+  },
+  {
+   "key": "1754624143156441088",
+   "en": "We wait. We should time our arrival to the AV flight plan.",
+   "ro": "Așteptăm. Ar trebui să ne sincronizăm cu planul de zbor al AV-ului."
+  },
+  {
+   "key": "1754626018597531648",
+   "en": "This is life or death. MY life or death.",
+   "ro": "E chestie de viață și de moarte. Viața MEA și moartea MEA."
+  },
+  {
+   "key": "1754627513413922816",
+   "en": "Um, and let me remind YOU that 'Saka and their fucked-up tech is what got you here.",
+   "ro": "Ăă, și să-ți amintesc ȚIE că 'Saka și tehnologia lor nenorocită te-a adus aici."
+  },
+  {
+   "key": "1754628859819061248",
+   "en": "Who gives a shit about motives? Ends justify the means. And right now, your end is to survive.",
+   "ro": "Pe cine dracu' interesează motivele? Scopul scuză mijloacele. Și acum, scopul tău e să supraviețuiești."
+  },
+  {
+   "key": "1754640837845315584",
+   "en": "Maybe we really are alike.",
+   "ro": "Poate chiar ne asemănăm."
+  },
+  {
+   "key": "1754641280394719232",
+   "en": "Could be something to that, I suppose…",
+   "ro": "Poate că e ceva adevărat în asta, presupun…"
+  },
+  {
+   "key": "1754650534572847104",
+   "en": "You're more like me than you think. You'll see.",
+   "ro": "Ești mai asemănătoare cu mine decât crezi. O să vezi.",
+   "ro_m": "Ești mai asemănător cu mine decât crezi. O să vezi."
+  },
+  {
+   "key": "1754651125399285760",
+   "en": "What happened to us, it must've had some effect.",
+   "ro": "Ce ni s-a întâmplat trebuie să fi lăsat urme."
+  },
+  {
+   "key": "1754651761188663296",
+   "en": "But it goes both ways. Maybe you're becoming more like me.",
+   "ro": "Dar și invers. Poate că te faci tot mai asemănătoare cu mine.",
+   "ro_m": "Dar și invers. Poate că te faci tot mai asemănător cu mine."
+  },
+  {
+   "key": "1754652471452102656",
+   "en": "Nah, no way.",
+   "ro": "Nah, nici vorbă."
+  },
+  {
+   "key": "1754738249834295296",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1760578910210879488",
+   "en": "\"Overload the systems?\" Sounds like my kind of job.",
+   "ro": "„Supraîncarcă sistemele?” Sună a treabă pe gustul meu."
+  },
+  {
+   "key": "1760578910227656724",
+   "en": "Can't we just blow it up?",
+   "ro": "Nu putem pur și simplu să-l aruncăm în aer?"
+  },
+  {
+   "key": "1760578910345097216",
+   "en": "Panam, what if we cut all the cute stuff and blow the station up?",
+   "ro": "Panam, și dacă renunțăm la toate fițele și aruncăm stația în aer?"
+  },
+  {
+   "key": "1760578910345097228",
+   "en": "Normally, I'd love to. But an explosion would trigger an automatic shutdown protocol in each collector.",
+   "ro": "Normal că mi-ar plăcea. Doar că o explozie ar porni protocolul de oprire automată la fiecare colector."
+  },
+  {
+   "key": "1760578910361874432",
+   "en": "All Night City would know we were there well before we got around the protocol. Nice idea, though. Maybe next time.",
+   "ro": "Toată Night City ar ști că suntem acolo cu mult înainte să ocolim protocolul. Ideea nu-i rea, totuși. Poate altă dată."
+  },
+  {
+   "key": "1760578910395428864",
+   "en": "\"Overload the system.\" Yes, ma'am – when do I start?",
+   "ro": "„Supraîncarcă sistemul.” Da, doamnă, când încep?"
+  },
+  {
+   "key": "1760578910395428888",
+   "en": "It shouldn't be. You just turn everything up as far as it'll go.",
+   "ro": "Nu ar trebui. Doar dai totul pe maxim."
+  },
+  {
+   "key": "1760578910395428900",
+   "en": "Crank it up to eleven. Got it.",
+   "ro": "Dai la unsprezece. Am prins."
+  },
+  {
+   "key": "1760578910445760512",
+   "en": "Why don't I start with the transformers, make mayhem in the relative voltages? Rest should move faster after that.",
+   "ro": "Ce zici să încep cu transformatoarele și să fac prăpăd în tensiuni? Restul ar trebui să meargă mai repede după aia."
+  },
+  {
+   "key": "1760578910445760524",
+   "en": "Not a bad idea. It's just…",
+   "ro": "Nu-i o idee proastă. Doar că…"
+  },
+  {
+   "key": "1760578910445760536",
+   "en": "Yeah, yeah, I know, the converters… But they shouldn't be a problem. I'll just crank everything up past max.",
+   "ro": "Da, da, știu, convertoarele… Dar n-ar trebui să fie problemă. Dau doar totul peste maxim."
+  },
+  {
+   "key": "1760578910445760548",
+   "en": "Seems we think alike!",
+   "ro": "Vezi că gândim la fel!"
+  },
+  {
+   "key": "1760580843634028544",
+   "en": "Once we reach the station, I'll set up a bypass for the detonator. You just overload the systems.",
+   "ro": "Când ajungem la stație, pun un bypass la detonator. Tu doar supraîncarci sistemele."
+  },
+  {
+   "key": "1760581774014541824",
+   "en": "When we arrive at the station, you overload the systems. I'll set up a bypass link for the detonator.",
+   "ro": "Când ajungem la stație, tu supraîncarci sistemele. Eu pun bypass-ul pe detonator."
+  },
+  {
+   "key": "1760593810761052164",
+   "en": "What if something goes ass up?",
+   "ro": "Și dacă se duce totul de râpă?"
+  },
+  {
+   "key": "1760594080773566464",
+   "en": "Triple A – you make that up?",
+   "ro": "Triple A – ai inventat-o tu?"
+  },
+  {
+   "key": "1760596052784312320",
+   "en": "What if, uh, something goes ass up?",
+   "ro": "Și dacă, ăă, se duce totul de râpă?"
+  },
+  {
+   "key": "1760596147323924480",
+   "en": "Hah, not at all... I learned it from the Aldecaldos. Mitch and Scorpion.",
+   "ro": "Hah, deloc... Am prins-o de la clanul Aldecaldos. De la Mitch și Scorpion."
+  },
+  {
+   "key": "1760596985782071296",
+   "en": "They were trained in something like it during the war. Then they made it their own. It's come in handy, I can't deny. And it will again now.",
+   "ro": "Au fost antrenați pe ceva asemănător în timpul războiului. Apoi și-au făcut-o a lor. A prins bine, nu zic nu. Și acum o să prindă iar."
+  },
+  {
+   "key": "1760597999025254400",
+   "en": "Well, then your ass had better improvise. Did you really think I'd just give you a foolproof secret to success?",
+   "ro": "Păi, atunci mai bine improvizezi tu. Chiar credeai că-ți dau rețeta succesului pe tavă?"
+  },
+  {
+   "key": "1760598378307776512",
+   "en": "Gotta say, almost had me believing just that.",
+   "ro": "Recunosc, aproape m-ai făcut să cred asta."
+  },
+  {
+   "key": "1760598822820114432",
+   "en": "You're too much sometimes, V.",
+   "ro": "Ești cam mult uneori, V."
+  },
+  {
+   "key": "1760599927465570304",
+   "en": "Your method, Triple A – that all you?",
+   "ro": "Metoda ta, Triple A – e doar a ta?"
+  },
+  {
+   "key": "1761661042605813760",
+   "en": "Good, time to roll.",
+   "ro": "Bine, hai să pornim."
+  },
+  {
+   "key": "1761662287441686528",
+   "en": "One last time – we drive in, fuck up the system and get the hell out of there.",
+   "ro": "Ultima dată – intrăm, dăm sistemul peste cap și ne cărăm naibii de-acolo."
+  },
+  {
+   "key": "1761693020367773696",
+   "en": "OK. I'm ready.",
+   "ro": "OK. Sunt gata."
+  },
+  {
+   "key": "1764718651248340992",
+   "en": "We've almost reached the dam. We'll make a quick stop here.",
+   "ro": "Suntem aproape de baraj. Oprim o clipă aici."
+  },
+  {
+   "key": "1771870725815791616",
+   "en": "The huge thing is the collection unit. And see the antennas?",
+   "ro": "Chestia aia uriașă e unitatea de colectare. Vezi antenele?"
+  },
+  {
+   "key": "1771889399847055360",
+   "en": "Triple A – it's all you need to lead the good life. That and the occasional cold beer.",
+   "ro": "Triple A – e tot ce-ți trebuie pentru o viață bună. Plus o bere rece din când în când."
+  },
+  {
+   "key": "1771893011293794304",
+   "en": "Got one word for you – T-shirts.",
+   "ro": "Un cuvânt pentru tine – tricouri."
+  },
+  {
+   "key": "1791036745131253760",
+   "en": "Although... hopin' that's not too complicated. Is it?",
+   "en_m": "Though... hopin' that's not too complicated. Is it?",
+   "ro": "Deși... sper că nu e prea complicat. Nu?"
+  },
+  {
+   "key": "1791041800022548480",
+   "en": "Minus the charisma... and impressive cock.",
+   "ro": "Minus carisma... și pula aia impresionantă."
+  },
+  {
+   "key": "1864708977784762368",
+   "en": "Wired in.",
+   "ro": "Conectat."
+  },
+  {
+   "key": "1977986094195142656",
+   "en": "\"Overload the systems?\" Sounds like my kind of job.",
+   "ro": "„Supraîncarcă sistemele?” Sună a treabă pe gustul meu."
+  },
+  {
+   "key": "1977986094195142688",
+   "en": "I'll kick the transformers out of whack. Things'll go faster.",
+   "ro": "Le dau transformatoarelor peste cap. O să meargă mai repede."
+  },
+  {
+   "key": "1993804259835637760",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1995031513555136512",
+   "en": "All looks clear. The area looks deserted, I see no patrols.",
+   "ro": "Totul pare liber. Zona pare pustie, nu văd patrule."
+  },
+  {
+   "key": "1995032965455409152",
+   "en": "I just want to be sure the area is clear.",
+   "ro": "Vreau doar să fiu sigură că zona e liberă.",
+   "ro_m": "Vreau doar să fiu sigur că zona e liberă."
+  },
+  {
+   "key": "2228808292052955136",
+   "en": "Uh, V?",
+   "ro": "Uh, V?"
+  }
+ ]
+}

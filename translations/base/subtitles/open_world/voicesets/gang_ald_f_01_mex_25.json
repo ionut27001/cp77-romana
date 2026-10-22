@@ -1,0 +1,108 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_ald_f_01_mex_25.json",
+ "entries": [
+  {
+   "key": "1944445427469295620",
+   "en": "I am watching you.",
+   "ro": "Te urmăresc."
+  },
+  {
+   "key": "1944445427486072836",
+   "en": "The road is the greatest teacher.",
+   "ro": "Drumul e cel mai bun profesor."
+  },
+  {
+   "key": "1944445427620290564",
+   "en": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Hi, there, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Hi, there, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Salut, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Salut, \" a=\"!\"/>"
+  },
+  {
+   "key": "1944445427653844996",
+   "en": "We do not play these games here.",
+   "ro": "Aici nu ne jucăm de-astea."
+  },
+  {
+   "key": "1944445428090052612",
+   "en": "Fire!",
+   "ro": "Foc!"
+  },
+  {
+   "key": "1944445428123607044",
+   "en": "It is an attack!",
+   "ro": "E un atac!"
+  },
+  {
+   "key": "1944445428207493124",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Pizda mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1944445428224270340",
+   "en": "Aarghhh!",
+   "ro": "Aarghhh!"
+  },
+  {
+   "key": "1944445428274601988",
+   "en": "Heads down for fuck's sake!",
+   "ro": "Capul jos, pula mea!"
+  },
+  {
+   "key": "1944445428291379204",
+   "en": "This does not look good.",
+   "ro": "Nu arată bine."
+  },
+  {
+   "key": "1944445428341710852",
+   "en": "PFff.",
+   "ro": "Pfff."
+  },
+  {
+   "key": "1944445428358488068",
+   "en": "Hell-O!",
+   "ro": "Salut!"
+  },
+  {
+   "key": "1944445428392042500",
+   "en": "<kiroshi l=\"mex\" o=\"Diga.\" t=\"Hello.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Diga.\" t=\"Salut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1944445428442374148",
+   "en": "Yes… Yes… Wait, wait, now you listen to me. That fuel you sold me, it is fucking horseshit…",
+   "ro": "Da… Da… Stai, stai, acum ascultă-mă. Combustibilul ăla pe care mi l-ai vândut e numai căcat, pula mea…"
+  },
+  {
+   "key": "1944445428459151364",
+   "en": "Listen, I have a problem with the transmission we talked about… Yeah, it simply will not go in second…",
+   "ro": "Ascultă, cu transmisia aia de care vorbeam am o problemă… Da, nu vrea deloc să intre în a doua…"
+  },
+  {
+   "key": "1944445428576591876",
+   "en": "Explosion imminent!",
+   "ro": "Explozie iminentă!"
+  },
+  {
+   "key": "1944445428593369092",
+   "en": "Good-bye.",
+   "ro": "La revedere."
+  },
+  {
+   "key": "1944445428828250116",
+   "en": "She must die!",
+   "en_m": "He must die!",
+   "ro": "Trebuie să moară!"
+  },
+  {
+   "key": "1944503949452156928",
+   "en": "You knew it… You can either now give me the good stuff gratis, or I will take my business elsewhere… Sure, take some time to think about it.",
+   "ro": "Știai… Acum îmi dai marfa bună gratis, sau îmi duc businessul în altă parte… Sigur, gândește-te liniștit."
+  },
+  {
+   "key": "1944504638475640832",
+   "en": "I do not know, I am out of ideas…! Uh-huh… Yes, it would be great if you came over… Ok, I will wait.",
+   "ro": "Nu știu, n-am nicio idee…! Mhm… Da, ar fi tare dacă ai veni… Ok, aștept."
+  }
+ ]
+}

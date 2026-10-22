@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_hey_rey_01_chats.json",
+ "entries": [
+  {
+   "key": "1537267379824193536",
+   "en": "<mothertongue l=\"mex\" m=\"mano\" b=\"Because we're not running a fucking charity, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mano\" b=\"Pentru că nu ținem o nenorocită de caritate, \" a=\"!\"/>"
+  },
+  {
+   "key": "1538589567070081024",
+   "en": "<mothertongue l=\"mex\" m=\"idiota\" b=\"Maybe that'll teach that \" a=\" to pay his debts on time. And if it doesn't, then he won't be runnin' away that easy.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"idiota\" b=\"Poate asta îl învață pe \" a=\" să-și plătească datoriile la timp. Și dacă nu, n-o să scape el atât de ușor.\"/>"
+  },
+  {
+   "key": "1669105726039576576",
+   "en": "Less panic, more cut. Achilles tendon is the big one, above the heel.",
+   "ro": "Mai puțină panică, mai mult tăiat. Tendonul lui Ahile e cel mare, deasupra călcâiului."
+  }
+ ]
+}

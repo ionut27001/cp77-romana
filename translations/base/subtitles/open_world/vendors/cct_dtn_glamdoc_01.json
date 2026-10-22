@@ -1,0 +1,399 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\cct_dtn_glamdoc_01.json",
+ "entries": [
+  {
+   "key": "5091669088103460864",
+   "en": "You are not a registered client. State your business here.",
+   "ro": "Nu ești client înregistrat. Spune-ți treaba aici."
+  },
+  {
+   "key": "5091671899998416896",
+   "en": "Whoa – easy. Just here to browse. See what you got.",
+   "ro": "Whoa, calm. Doar m-am uitat pe-aici. Să văd ce ai."
+  },
+  {
+   "key": "5091672029619187712",
+   "en": "Browsing is for flea markets. I sell only one thing – excellence. If that is what you seek, prove it with your wallet.",
+   "ro": "Răsfoitul e pentru talciocuri. Eu vând un singur lucru – excelență. Dacă asta cauți, dovedește-o cu portofelul."
+  },
+  {
+   "key": "5091672279213830144",
+   "en": "If you intend to stay, comport yourself with dignity.",
+   "ro": "Dacă vrei să rămâi, poartă-te cu demnitate."
+  },
+  {
+   "key": "5091673022780043268",
+   "en": "Let's see what you're sellin'.",
+   "ro": "Hai să vedem ce vinzi."
+  },
+  {
+   "key": "5091673647177691136",
+   "en": "Shop isn't exactly inviting.",
+   "ro": "Magazinul nu e tocmai primitor."
+  },
+  {
+   "key": "5091673858218291200",
+   "en": "NC not too rough for ya?",
+   "ro": "NC nu e prea dur pentru tine?"
+  },
+  {
+   "key": "5091675129075625984",
+   "en": "Your shop feels so cold and… precise? Dunno, best way I can describe it. Kinda like you.",
+   "ro": "Magazinul tău pare atât de rece și… precis? Nu știu, așa-l pot descrie cel mai bine. Cam ca tine."
+  },
+  {
+   "key": "5091675461885259776",
+   "en": "Precision commands respect. Coldness offers protection. In this city, warmth invites rot and ruin.",
+   "ro": "Precizia impune respect. Receala oferă protecție. În orașul ăsta, căldura invită putrezirea și ruina."
+  },
+  {
+   "key": "5091675671315247104",
+   "en": "Sounds mighty lonely. Must be some peeps you soften up to.",
+   "ro": "Pare tare singuratic. Trebuie să fie niște tipi la care te înmoi."
+  },
+  {
+   "key": "5091675726478733312",
+   "en": "The deserving, the few. I reserve praise only for those who earn it.",
+   "ro": "Cei merituoși, puținii. Laudele mele sunt doar pentru cei care le câștigă."
+  },
+  {
+   "key": "5091676127487750144",
+   "en": "Runnin' a place like this... City must chew you up sometimes.",
+   "ro": "Să conduci un loc ca ăsta... Orașul trebuie să te mănânce uneori."
+  },
+  {
+   "key": "5091676658251755520",
+   "en": "Only if I forget who I am. Which I do not.",
+   "ro": "Doar dacă uit cine sunt. Și nu uit."
+  },
+  {
+   "key": "5091676775927148544",
+   "en": "You’re confident, I'll give you that.",
+   "ro": "Ești încrezător, îți dau asta."
+  },
+  {
+   "key": "5091676890045771776",
+   "en": "It is impossible to cultivate perfection in others without first achieving it yourself.",
+   "ro": "E imposibil să cultivi perfecțiunea la alții fără s-o fi atins întâi tu."
+  },
+  {
+   "key": "5091679226524758016",
+   "en": "Heh, you lack the proper canvas for my work. Please consult a ripperdoc for the necessary cyberware in your arms, then return here.",
+   "ro": "Heh, nu ai pânza potrivită pentru munca mea. Mergi la un ripperdoc să-ți pună cyberware-ul necesar în brațe, apoi întoarce-te aici."
+  },
+  {
+   "key": "5091681441519923200",
+   "en": "Fashionware – that your thing? Let's see what's in season.",
+   "ro": "Fashionware – asta-i treaba ta? Hai să vedem ce-i în sezon."
+  },
+  {
+   "key": "5091682035198488576",
+   "en": "Curated for unrivaled elegance. Perhaps my finest work yet.",
+   "ro": "Selectat pentru eleganță fără rival. Poate cea mai bună lucrare a mea de până acum."
+  },
+  {
+   "key": "5091687475126890496",
+   "en": "A shame. To see a mannequin leave as naked as it came in.",
+   "ro": "Păcat. Să vezi o manechină plecând la fel de goală cum a venit.",
+   "ro_m": "Păcat. Să vezi un manechin plecând la fel de gol cum a venit."
+  },
+  {
+   "key": "5091692099481268224",
+   "en": "Acceptable... But not exceptional. Not yet.",
+   "ro": "Acceptabil... Dar nu excepțional. Încă nu."
+  },
+  {
+   "key": "5091693853170102272",
+   "en": "Truly, a transformation worthy of the mirror.",
+   "ro": "Într-adevăr, o transformare demnă de oglindă."
+  },
+  {
+   "key": "5091697323168133120",
+   "en": "Hello again. Please refrain from spoiling the ambiance.",
+   "ro": "Bună din nou. Te rog să nu strici ambianța."
+  },
+  {
+   "key": "5091698886469120000",
+   "en": "Ah. The ascendant connoisseur returns. The world of couture chrome’s caught your eye, has it?",
+   "ro": "Ah. Iată-te din nou, connoisseuza ascendentă. Lumea chrome-ului de lux ți-a atras atenția, nu?",
+   "ro_m": "Ah. Iată-l din nou, connoisseurul ascendent. Lumea chrome-ului de lux ți-a atras atenția, nu?"
+  },
+  {
+   "key": "5091699518181634048",
+   "en": "Startin' to feel like I belong here. I think.",
+   "ro": "Încep să simt că aparțin locului ăsta. Cred."
+  },
+  {
+   "key": "5091699701858594816",
+   "en": "Belonging must be earned. Style is not a destination – it is a declaration.",
+   "ro": "Apartenența se câștigă. Stilul nu e o destinație, e o declarație."
+  },
+  {
+   "key": "5091700764275798016",
+   "en": "Please, come in. Just remember – I uphold a different standard here.",
+   "ro": "Intră. Doar ține minte – aici țin un standard diferit."
+  },
+  {
+   "key": "5091701770438995980",
+   "en": "Think I'm overdue for an upgrade.",
+   "ro": "Cred că am întârziat cu un upgrade."
+  },
+  {
+   "key": "5091701797819412488",
+   "en": "Place feels like an art gallery.",
+   "ro": "Locul pare o galerie de artă."
+  },
+  {
+   "key": "5091701825048834056",
+   "en": "Impressive you keep this place spotless.",
+   "ro": "Impresionant că ții locul ăsta impecabil."
+  },
+  {
+   "key": "5091704357083049984",
+   "en": "Place feels more like a museum than a shop. Realize that, right?",
+   "ro": "Locul pare mai mult muzeu decât magazin. Îți dai seama, nu?"
+  },
+  {
+   "key": "5091704822415912960",
+   "en": "And? The art of commerce and the commerce of art should aspire to culture, not chaos.",
+   "ro": "Și? Arta comerțului și comerțul artei ar trebui să aspire la cultură, nu la haos."
+  },
+  {
+   "key": "5091704924773707776",
+   "en": "You sound like someone who read stock reports 'stead of bedtime stories.",
+   "ro": "Suni ca cineva care a citit rapoarte bursiere în loc de povești de noapte bună."
+  },
+  {
+   "key": "5091705053018746880",
+   "en": "Quite the opposite. I was raised in rural China. Sichuan. A thirsty seed appreciates rain more than a grown flower.",
+   "ro": "Tocmai pe dos. Am crescut în China rurală. Sichuan. O sămânță însetată apreciază ploaia mai mult decât o floare crescută."
+  },
+  {
+   "key": "5091705305985609728",
+   "en": "Must be exhausting, keepin' this gem pristine in Night City’s grime.",
+   "ro": "Trebuie să fie epuizant să ții nestemata asta impecabilă în mizeria din Night City."
+  },
+  {
+   "key": "5091705587054309376",
+   "en": "It is, yes. But exhaustion is a sign of resilience, not weakness.",
+   "ro": "E, da. Dar oboseala e semn de reziliență, nu de slăbiciune."
+  },
+  {
+   "key": "5091705708823343104",
+   "en": "Not afraid you’re gonna snap?",
+   "ro": "Nu ți-e teamă că o să cedezi?"
+  },
+  {
+   "key": "5091705810359054336",
+   "en": "Like green bamboo, I bend but never break, and always return to form.",
+   "ro": "Ca bambusul verde: mă îndoi, dar nu mă rup niciodată și revin mereu la forma inițială."
+  },
+  {
+   "key": "5091707431273000960",
+   "en": "Lookin' to impress. Whatcha got?",
+   "ro": "Vreau să impresionez. Ce ai?"
+  },
+  {
+   "key": "5091707844378390528",
+   "en": "Expect lines as sharp as your ambitions.",
+   "ro": "Așteaptă-te la linii la fel de ascuțite ca ambițiile tale."
+  },
+  {
+   "key": "5091708397909078016",
+   "en": "Nothing today? Pity.",
+   "ro": "Nimic azi? Păcat."
+  },
+  {
+   "key": "5091709566156959744",
+   "en": "It’s a start. Perhaps you’ll feel more bold next time.",
+   "ro": "E un început. Poate data viitoare o să te simți mai îndrăzneață.",
+   "ro_m": "E un început. Poate data viitoare o să te simți mai îndrăzneț."
+  },
+  {
+   "key": "5091711024667455488",
+   "en": "A pleasure, as always. You wear power well.",
+   "ro": "O plăcere, ca întotdeauna. Porți puterea bine."
+  },
+  {
+   "key": "5091711441245728768",
+   "en": "Before you go, I was wondering… Which beauty calls to you most? That of the natural world, or of art?",
+   "ro": "Înainte să pleci, mă tot întrebam… Ce fel de frumusețe te atrage cel mai mult? Cea din natură sau cea din artă?"
+  },
+  {
+   "key": "5091711979123273732",
+   "en": "Nature calls louder.",
+   "ro": "Natura strigă mai tare."
+  },
+  {
+   "key": "5091712683464355840",
+   "en": "Art's my escape.",
+   "ro": "Arta e evadarea mea."
+  },
+  {
+   "key": "5091712801693396992",
+   "en": "No real preference.",
+   "ro": "Nicio preferință reală."
+  },
+  {
+   "key": "5091714620427497472",
+   "en": "Honestly, feel more at home in nature. Ironic, I know.",
+   "ro": "Sincer, mă simt mai în largul meu în natură. Ironic, știu."
+  },
+  {
+   "key": "5091715189829431296",
+   "en": "Hm, a refreshing perspective.",
+   "ro": "Hm, o perspectivă revigorantă."
+  },
+  {
+   "key": "5091716822890082304",
+   "en": "Dunno… S’pose art is how I like to escape the world. However brief.",
+   "en_m": "Dunno… S’pose art is how I like to escape the world. However briefly.",
+   "ro": "Nu știu… Cred că arta e felul meu de-a evada din lume, oricât de scurt ar fi."
+  },
+  {
+   "key": "5091717128386408448",
+   "en": "Hm. Quite right.",
+   "ro": "Hm. Foarte corect."
+  },
+  {
+   "key": "5091717933206237184",
+   "en": "I can’t say I got a preference. All the same to me.",
+   "ro": "Nu zic că am vreo preferință. Îmi e totuna."
+  },
+  {
+   "key": "5091718302640533504",
+   "en": "Hmph. I assumed you cared for aesthetic beauty. My mistake, then.",
+   "ro": "Hm. Credeam că te interesează frumusețea estetică. Greșeală de-a mea, atunci."
+  },
+  {
+   "key": "5091719097645690880",
+   "en": "Welcome, welcome. Shall I ready the chair?",
+   "ro": "Bun venit, bun venit. Să pregătesc scaunul?"
+  },
+  {
+   "key": "5091719722697650176",
+   "en": "Now that sounds like respect if I ever heard it. Pretty different from when we first met.",
+   "ro": "Acum asta sună a respect, cum n-am mai auzit. Destul de altfel decât când ne-am cunoscut."
+  },
+  {
+   "key": "5091724958178897920",
+   "en": "Say, your new décor… Really took my answer to heart, huh.",
+   "ro": "Zi-mi, decorul tău nou… Chiar a luat răspunsul meu în serios, nu?"
+  },
+  {
+   "key": "5091725484983480320",
+   "en": "Ha, of course. You've earned that much. Such is how I treat my most esteemed clients.",
+   "ro": "Ha, sigur. Ai meritat atât. Așa îi tratez pe cei mai importanți clienți."
+  },
+  {
+   "key": "5091725885170413568",
+   "en": "V, welcome. I hope you brought your superb sense of style today, as always.",
+   "ro": "V, bun venit. Sper că ți-ai adus simțul stilului impecabil și azi, ca întotdeauna."
+  },
+  {
+   "key": "5091727607032868876",
+   "en": "I wanna see your best work.",
+   "ro": "Vreau să văd cea mai bună lucrare a ta."
+  },
+  {
+   "key": "5091727635117928456",
+   "en": "Got a real passion for design.",
+   "ro": "Am o adevărată pasiune pentru design."
+  },
+  {
+   "key": "5091727662699671560",
+   "en": "Never give up, do you?",
+   "ro": "Nu renunți niciodată, nu-i așa?"
+  },
+  {
+   "key": "5091728893174247424",
+   "en": "Show me what you got for bold statements.",
+   "ro": "Arată-mi ce ai pentru declarații îndrăznețe."
+  },
+  {
+   "key": "5091729174192615424",
+   "en": "Each piece speaks for itself. Listen closely.",
+   "ro": "Fiecare piesă vorbește de la sine. Ascultă cu atenție."
+  },
+  {
+   "key": "5091730088534110208",
+   "en": "Where’d your love of design come from?",
+   "ro": "De unde vine dragostea ta pentru design?"
+  },
+  {
+   "key": "5091730365777604608",
+   "en": "Shanghai. My mother, she once snuck me into a fashion show far beyond our means. She told me, \"A designer's love must be wrapped in discipline, hidden but kept warm.\"",
+   "ro": "Shanghai. Mama mea m-a strecurat odată la un show de modă mult peste posibilitățile noastre. Mi-a spus: „Dragostea unui designer trebuie învelită în disciplină, ascunsă, dar păstrată caldă.”"
+  },
+  {
+   "key": "5091730475735478272",
+   "en": "Your mom sounds like quite the poet.",
+   "ro": "Mama ta sună ca un adevărat poet."
+  },
+  {
+   "key": "5091730611714813952",
+   "en": "The future that was once out of reach as a child, I built here. This shop is my fashion studio. Each client – my model.",
+   "ro": "Viitorul care, pe vremea când eram copil, mi se părea de neatins, l-am construit aici. Magazinul ăsta e studioul meu de modă. Fiecare client e modelul meu."
+  },
+  {
+   "key": "5091730873389051904",
+   "en": "Still fightin' the good fight against this city, I see.",
+   "ro": "Tot te bați cu orașul ăsta, văd."
+  },
+  {
+   "key": "5091731110753103872",
+   "en": "There’s an expression in China, “In a barren field, a lone blossom is priceless.\"",
+   "ro": "E o vorbă în China: „Într-un câmp arid, o singură floare nu are preț.”"
+  },
+  {
+   "key": "5091731208815931392",
+   "en": "And this place... It's your blossom.",
+   "ro": "Iar locul ăsta... e floarea ta."
+  },
+  {
+   "key": "5091731313337987072",
+   "en": "No, V. You are. I simply provided the soil.",
+   "ro": "Nu, V. Tu ești. Eu doar am oferit solul."
+  },
+  {
+   "key": "5091731904751628288",
+   "en": "Window shopping does not build a legacy. Remember that.",
+   "ro": "Să te uiți la vitrine nu lasă nicio moștenire. Ține minte asta."
+  },
+  {
+   "key": "5091732408000999424",
+   "en": "Remember – true taste takes commitment.",
+   "ro": "Ține minte – gustul adevărat cere angajament."
+  },
+  {
+   "key": "5098561152850227200",
+   "en": "All improvements, however small, are worth the investment. Excellent choice.",
+   "ro": "Orice îmbunătățire, oricât de mică, merită banii. Alegere excelentă."
+  },
+  {
+   "key": "5098562344099672064",
+   "en": "Ah... A subtle change, but it will leave a lasting impression.",
+   "ro": "Ah... O schimbare discretă, dar o să lase o impresie care rămâne."
+  },
+  {
+   "key": "5098563185812598784",
+   "en": "A touch of color can change the world.",
+   "ro": "O tușă de culoare poate schimba lumea."
+  },
+  {
+   "key": "5100442334248464384",
+   "en": "Welcome to a refined experience without equal.",
+   "ro": "Bun venit la o experiență rafinată fără egal."
+  },
+  {
+   "key": "5100442778542698496",
+   "en": "Hello there. My shop is yours to explore.",
+   "ro": "Salut. Magazinul meu e al tău de explorat."
+  },
+  {
+   "key": "5100443308518174720",
+   "en": "You look sharp today. Let me help you look sharper.",
+   "ro": "Arăți bine azi. Lasă-mă să te fac să arăți și mai bine."
+  }
+ ]
+}

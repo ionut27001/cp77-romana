@@ -1,0 +1,62 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\finalboards\\fb_takemura.json",
+ "entries": [
+  {
+   "key": "1790682030662393860",
+   "en": "<kiroshi l=\"jpn\" o=\"もしもし、Vか\" t=\"Good evening, V.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もしもし、Vか\" t=\"Bună seara, V.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1790682030712725508",
+   "en": "Before samurai committed seppuku, they wrote jisei. A death poem.",
+   "ro": "Înainte ca samuraii să facă seppuku, scriau jisei. Un poem al morții."
+  },
+  {
+   "key": "1790922098093641728",
+   "en": "I am calling to say goodbye.",
+   "ro": "Te sun ca să-mi iau rămas-bun."
+  },
+  {
+   "key": "1790922338477592576",
+   "en": "Arasaka-sama... has a new task for me. A task that would require me to keep to the shadows.",
+   "ro": "Arasaka-sama... are o nouă sarcină pentru mine. O sarcină care m-ar obliga să rămân în umbră."
+  },
+  {
+   "key": "1790922521399578624",
+   "en": "For both of us, I hope our paths never cross.",
+   "ro": "Pentru amândoi, sper să nu ne mai întâlnim niciodată."
+  },
+  {
+   "key": "1790922941131968512",
+   "en": "And I hope you will shape your own destiny.",
+   "ro": "Și sper că o să-ți croiești propriul destin."
+  },
+  {
+   "key": "1790923083771858944",
+   "en": "<kiroshi l=\"jpn\" o=\"達者でな\" t=\"Goodbye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"達者でな\" t=\"La revedere.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1790924310018576384",
+   "en": "It contained their final thoughts. About life. About death.",
+   "ro": "Conținea gândurile lor finale. Despre viață. Despre moarte."
+  },
+  {
+   "key": "1790924510388867072",
+   "en": "I have read many of them of late. Some are truly works of beauty.",
+   "ro": "Am citit multe dintre ele în ultima vreme. Unele sunt chiar opere de artă."
+  },
+  {
+   "key": "1790924744598802432",
+   "en": "Yet, I am not a samurai, so I bid you farewell with simple words.",
+   "ro": "Totuși, nu sunt samurai, așa că îți spun adio cu cuvinte simple."
+  },
+  {
+   "key": "1790925161076412416",
+   "en": "<mothertongue l=\"jpn\" m=\"kuso-ama\" b=\"Rot in hell, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"jpn\" m=\"kuso-yarou\" b=\"Rot in hell, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"kuso-ama\" b=\"Putrezește în iad, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"jpn\" m=\"kuso-yarou\" b=\"Putrezește în iad, \" a=\".\"/>"
+  }
+ ]
+}

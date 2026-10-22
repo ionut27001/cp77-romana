@@ -1,0 +1,325 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q302\\q302_chicken_test.json",
+ "entries": [
+  {
+   "key": "2901095088327778304",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2901095088344555524",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "2901095088344555536",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2901098578173255680",
+   "en": "[db_db]Spidertank.",
+   "ro": "[db_db]Spidertank."
+  },
+  {
+   "key": "2901118036019273728",
+   "en": "[db_db]Expo entrance",
+   "ro": "[db_db]Intrare la Expo"
+  },
+  {
+   "key": "2901118036036050944",
+   "en": "[db_db]Section 3: Bossfight",
+   "ro": "[db_db]Secțiunea 3: Luptă cu șeful"
+  },
+  {
+   "key": "2901149177635954688",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3026771964389134336",
+   "en": "[db_db]Subway.",
+   "ro": "[db_db]Metrou."
+  },
+  {
+   "key": "3026772093540143104",
+   "en": "[db_db]The squot.",
+   "ro": "[db_db]Squat-ul."
+  },
+  {
+   "key": "3026772640276058112",
+   "en": "[db_db]Captain Caliente.",
+   "ro": "[db_db]Căpitanul Caliente."
+  },
+  {
+   "key": "3026773407112269824",
+   "en": "[db_db]Basketball Field.",
+   "ro": "[db_db]Teren de baschet."
+  },
+  {
+   "key": "3026773692660486144",
+   "en": "[db_db]Ride back and ambush.",
+   "ro": "[db_db]Întoarcere și ambuscadă."
+  },
+  {
+   "key": "3026774907783909376",
+   "en": "[db_db]The oath. (day lighting)",
+   "ro": "[db_db]Jurământul. (lumină de zi)"
+  },
+  {
+   "key": "3036966642644324356",
+   "en": "[db_db]I have alerted Reed, he electrocuted me and forcefully placed in the car.",
+   "ro": "[db_db]L-am alertat pe Reed, m-a electrocutat și m-a forțat în mașină."
+  },
+  {
+   "key": "3036967512895295488",
+   "en": "[db_db]I have not alerted Reed.",
+   "ro": "[db_db]Nu l-am alertat pe Reed."
+  },
+  {
+   "key": "3037055334440407040",
+   "en": "[db_db]Yes, we have been recorded by cameras.",
+   "ro": "[db_db]Da, am fost înregistrați de camere."
+  },
+  {
+   "key": "3037055334440407052",
+   "en": "[db_db]No, we were not recorded or have removed the recording.",
+   "ro": "[db_db]Nu, nu am fost înregistrați sau am șters înregistrarea."
+  },
+  {
+   "key": "3057270807387869184",
+   "en": "[db_db]Yes, Jacob and Taylor are dead.",
+   "ro": "[db_db]Da, Jacob și Taylor sunt morți."
+  },
+  {
+   "key": "3057270807404646404",
+   "en": "[db_db]No, Jacob and Taylor are alive.",
+   "ro": "[db_db]Nu, Jacob și Taylor sunt în viață."
+  },
+  {
+   "key": "3069235181801463808",
+   "en": "[db_db]Beginning: Escape through Akebono Hotel",
+   "ro": "[db_db]Început: Evadare prin Hotel Akebono"
+  },
+  {
+   "key": "3069236483579207684",
+   "en": "[db_db]At the skybridge",
+   "ro": "[db_db]Pe pasarela suspendată"
+  },
+  {
+   "key": "3069237816193474560",
+   "en": "[db_db]Before the drone distract",
+   "ro": "[db_db]Înainte de diversiunea cu drona"
+  },
+  {
+   "key": "3071312800594169856",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3097328495693828096",
+   "en": "[db_db]The call.",
+   "ro": "[db_db]Apelul."
+  },
+  {
+   "key": "3100031696568344576",
+   "en": "[db_db]Section 1: Raising the spidertank",
+   "ro": "[db_db]Secțiunea 1: Ridicarea spidertank-ului"
+  },
+  {
+   "key": "3100033188448722944",
+   "en": "[db_db]Section 2: Escape the spidertank",
+   "ro": "[db_db]Secțiunea 2: Evadarea din spidertank"
+  },
+  {
+   "key": "3153411785116639236",
+   "en": "[db_db]V and myers were spotted on the skybridge",
+   "ro": "[db_db]V și Myers au fost observați pe pasarelă"
+  },
+  {
+   "key": "3153413142611517440",
+   "en": "[db_db]V and myers were unnoticed on the skybridge",
+   "ro": "[db_db]V și Myers au trecut neobservați pe pasarelă"
+  },
+  {
+   "key": "3227454173383245828",
+   "en": "Immortal.",
+   "ro": "Nemuritor."
+  },
+  {
+   "key": "3227459746069757952",
+   "en": "Invulnerable.",
+   "ro": "Invulnerabil."
+  },
+  {
+   "key": "3227461540812439552",
+   "en": "Mortal.",
+   "ro": "Muritor."
+  },
+  {
+   "key": "3245113234335068160",
+   "en": "[db_db]The oath (night lighting)",
+   "ro": "[db_db]Jurământul (lumină de noapte)"
+  },
+  {
+   "key": "3337358426982707200",
+   "en": "[db_db]The squot - fight with Jacob",
+   "ro": "[db_db]Squat-ul - luptă cu Jacob"
+  },
+  {
+   "key": "3438929285574819840",
+   "en": "[db_db]Kerry Eurodyne",
+   "ro": "[db_db]Kerry Eurodyne"
+  },
+  {
+   "key": "3438930603509022720",
+   "en": "[db_db]Panam Palmer",
+   "ro": "[db_db]Panam Palmer"
+  },
+  {
+   "key": "3438935915511152640",
+   "en": "[db_db]Someone else (Judy or River)",
+   "ro": "[db_db]Altcineva (Judy sau River)"
+  },
+  {
+   "key": "3438936122491666432",
+   "en": "[db_db]Nobody",
+   "ro": "[db_db]Nimeni"
+  },
+  {
+   "key": "3495410389315502080",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3495425392005365760",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3495425837255901184",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3495459958271262720",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3496797399880056836",
+   "en": "[db_db]Yes, Jacob and Taylor were exiled from the Squat.",
+   "ro": "[db_db]Da, Jacob și Taylor au fost exilați din Squat."
+  },
+  {
+   "key": "3496797817297190912",
+   "en": "[db_db]No, Jacob and Taylor became friendly.",
+   "ro": "[db_db]Nu, Jacob și Taylor au devenit prietenoși."
+  },
+  {
+   "key": "3496797868769689600",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3507151136595132416",
+   "en": "Back ->",
+   "ro": "ÎNAPOI ->"
+  },
+  {
+   "key": "3507151373590085632",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3508378739985367040",
+   "en": "[db_db]Back ->",
+   "ro": "[db_db]ÎNAPOI ->"
+  },
+  {
+   "key": "3675709072826392576",
+   "en": "[db_db]Myers' Default in Squat",
+   "ro": "[db_db]Starea implicită a lui Myers în Squat"
+  },
+  {
+   "key": "3741950164605034500",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3741950843528634368",
+   "en": "[db_db]NOPE",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3799874416349691916",
+   "en": "[db_db]Netrunner",
+   "ro": "[db_db]Netrunner"
+  },
+  {
+   "key": "3799874416366469128",
+   "en": "[db_db]Ranged",
+   "ro": "[db_db]La distanță"
+  },
+  {
+   "key": "3799874416366469148",
+   "en": "[db_db]Melee",
+   "ro": "[db_db]corp la corp"
+  },
+  {
+   "key": "3799874416366469168",
+   "en": "[db_db]MaxSkillAllWeapons",
+   "ro": "[db_db]MaxSkillAllWeapons"
+  },
+  {
+   "key": "3799874416416800776",
+   "en": "[db_db]Avg_20_Ranged_Netrunner",
+   "ro": "[db_db]Avg_20_Ranged_Netrunner"
+  },
+  {
+   "key": "3799874416416800796",
+   "en": "[db_db]Str_20_Int_Netrunner",
+   "ro": "[db_db]Str_20_Int_Netrunner"
+  },
+  {
+   "key": "3799874416450355212",
+   "en": "[db_db]Str_20_Reflex_Fast",
+   "ro": "[db_db]Str_20_Reflex_Fast"
+  },
+  {
+   "key": "3799874416450355232",
+   "en": "[db_db]Str_20_BodyTech_ExploTank",
+   "ro": "[db_db]Str_20_BodyTech_ExploTank"
+  },
+  {
+   "key": "3799874416467132428",
+   "en": "[db_db]Str_30_Cool_Assassion",
+   "ro": "[db_db]Str_30_Cool_Assassion"
+  },
+  {
+   "key": "3799874416500686860",
+   "en": "[db_db]Str_20_Body_tank",
+   "ro": "[db_db]Str_20_Body_tank"
+  },
+  {
+   "key": "3799884917762834432",
+   "en": "[db_db]Return",
+   "ro": "[db_db]Înapoi"
+  },
+  {
+   "key": "3799886776426708992",
+   "en": "[db_db]Return",
+   "ro": "[db_db]Înapoi"
+  },
+  {
+   "key": "3799887228941778952",
+   "en": "[db_db]Return",
+   "ro": "[db_db]Înapoi"
+  },
+  {
+   "key": "3799887390976131080",
+   "en": "[db_db]Return",
+   "ro": "[db_db]Înapoi"
+  }
+ ]
+}

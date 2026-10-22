@@ -1,0 +1,690 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q302\\q302_01_escape_the_cz.json",
+ "entries": [
+  {
+   "key": "2262179491300990984",
+   "en": "Heh…",
+   "ro": "Heh…"
+  },
+  {
+   "key": "2957913070328373260",
+   "en": "A car? Not exactly inconspicuous.",
+   "ro": "O mașină? Nu tocmai discretă."
+  },
+  {
+   "key": "2957913070345150464",
+   "en": "Let's move!",
+   "ro": "Mișcă!"
+  },
+  {
+   "key": "2957913070496145412",
+   "en": "Thrill of the risk, huh? Why? It's stupid.",
+   "ro": "Ți-a picat cheful de risc, ce? De ce? E o tâmpenie."
+  },
+  {
+   "key": "2957913070647140356",
+   "en": "Ugh, all right…",
+   "ro": "Pff, bine…"
+  },
+  {
+   "key": "2957913070680694788",
+   "en": "Synced to a radio frequency – hear me OK?",
+   "ro": "Sincronizat pe frecvența radio – mă auzi bine?"
+  },
+  {
+   "key": "2957913070848466944",
+   "en": "OK, friends, road's all yours. Sending the coordinates now.",
+   "ro": "Bine, gașcă, drumul e liber. Trimit coordonatele acum."
+  },
+  {
+   "key": "2959390627427016704",
+   "en": "Perfect. Now, stairs to the parking lot – go. Your chariot awaits.",
+   "ro": "Perfect. Acum, scările spre parcare – hai, mișcă. Carul te așteaptă."
+  },
+  {
+   "key": "3043386107256922112",
+   "en": "Well, ask our guardian angel if she can get this elevator moving.",
+   "ro": "Păi, întreab-o pe îngerul nostru păzitor dacă poate porni liftul."
+  },
+  {
+   "key": "3060851599164858368",
+   "en": "Kurt's hounds've caught your scent. You need to move.",
+   "ro": "Câinii lui Kurt ți-au prins mirosul. Mișcă-te."
+  },
+  {
+   "key": "3060853438232944640",
+   "en": "Delta time. Let's go.",
+   "ro": "E timpul să o tăiem. Hai."
+  },
+  {
+   "key": "3060857772945465344",
+   "en": "What we need's power. There's a maintenance shaft with a fuse box nearby. Follow the scaffolding.",
+   "ro": "Ne trebuie curent. E un puț de întreținere cu tabloul electric aproape. Urmează schelele."
+  },
+  {
+   "key": "3060875389928235008",
+   "en": "Loud and clear, So Mi.",
+   "ro": "Recepționat, So Mi."
+  },
+  {
+   "key": "3063719505326268416",
+   "en": "I think we'd do best to sneak past 'em.",
+   "ro": "Cred că cel mai bine e să-i ocolim pe furiș."
+  },
+  {
+   "key": "3064881246265237504",
+   "en": "Hold…",
+   "ro": "Stai…"
+  },
+  {
+   "key": "3064882348779986944",
+   "en": "Drone. On your left.",
+   "ro": "Dronă. În stânga ta."
+  },
+  {
+   "key": "3069322534977036300",
+   "en": "Opening now... Ready up.",
+   "ro": "Deschid acum... Fii gata."
+  },
+  {
+   "key": "3069888711323119616",
+   "en": "Remote-controlled. If I touch it, I give away your position.",
+   "ro": "Telecomandată. Dacă o ating, îți dau de gol poziția."
+  },
+  {
+   "key": "3079661674104905728",
+   "en": "The little fuckers are fidgety. And sharp sensors on those – if they've sensed us already, the place'll be swarming in no time.",
+   "ro": "Javrele astea mici sunt nervoase. Și au senzori ascuțiți – dacă ne-au simțit deja, locul ăsta se umple în două clipe."
+  },
+  {
+   "key": "3080860973962649600",
+   "en": "It's running.",
+   "ro": "Merge."
+  },
+  {
+   "key": "3081139344953073668",
+   "en": "You a drone expert?",
+   "ro": "Te pricepi la drone?"
+  },
+  {
+   "key": "3081140440236843008",
+   "en": "Let's keep moving.",
+   "ro": "Hai mai departe."
+  },
+  {
+   "key": "3081141968272121856",
+   "en": "A president and a drone-whisperer?",
+   "en_m": "A president and a drone-whisperer…",
+   "ro": "Un președinte și un descântător de drone?",
+   "ro_m": "Un președinte și un descântător de drone…"
+  },
+  {
+   "key": "3081142016607281152",
+   "en": "Great reason to move on and keep movin'.",
+   "ro": "Motiv bun să ne mișcăm mai departe."
+  },
+  {
+   "key": "3086881295234867200",
+   "en": "There's only one surefire way to get past this model – move fast.",
+   "ro": "Singura metodă sigură să treci de modelul ăsta: mișcă-te repede."
+  },
+  {
+   "key": "3086881844353146880",
+   "en": "One picks up things in the army in spite of oneself.",
+   "ro": "Din armată rămân lucruri, vrei nu vrei."
+  },
+  {
+   "key": "3086887000394276864",
+   "en": "My thoughts exactly.",
+   "ro": "Exact ce gândeam și eu."
+  },
+  {
+   "key": "3086895227387355136",
+   "en": "Best option you have. You'll see.",
+   "ro": "Cea mai bună opțiune pe care o ai. O să vezi."
+  },
+  {
+   "key": "3086902323730292736",
+   "en": "Take-down in this case. Just a quiet one.",
+   "ro": "Doar un K.O. Unul discret."
+  },
+  {
+   "key": "3086909040622936064",
+   "en": "Would you care to tell me what the fuck is going on?",
+   "ro": "Vrei să-mi zici ce pula mea se întâmplă?"
+  },
+  {
+   "key": "3086911321485451264",
+   "en": "We have a plan we need to stick to. Elizabeth Kress Street – that's where you need to go.",
+   "ro": "Avem un plan de care trebuie să ne ținem. Strada Elizabeth Kress – acolo trebuie să mergi."
+  },
+  {
+   "key": "3091179957731549184",
+   "en": "Fine. I'll keep my head down.",
+   "ro": "Bine. Stau cu capul jos."
+  },
+  {
+   "key": "3091231056937181184",
+   "en": "Time to haul ass!",
+   "ro": "Hai s-o tăiem!"
+  },
+  {
+   "key": "3093874310102999040",
+   "en": "Says I need to turn the lights back on. Might take a minute.",
+   "ro": "Zice că trebuie să repornesc luminile. Poate dura cam un minut."
+  },
+  {
+   "key": "3094190334098628608",
+   "en": "Impressive chrome. I wouldn't mind meeting your ripperdoc.",
+   "ro": "Chrome impresionant. Aș vrea să-l cunosc pe ripperdoc-ul tău."
+  },
+  {
+   "key": "3140465514772979712",
+   "en": "Do you think it'll work? Lousy place to get stuck.",
+   "ro": "Crezi că o să meargă? Loc nasol să rămâi blocat."
+  },
+  {
+   "key": "3140472568149467136",
+   "en": "Just one way to find out.",
+   "ro": "O singură cale să aflăm."
+  },
+  {
+   "key": "3140477835557756928",
+   "en": "Not much hustle in the ranks. The lazy fuckers expect the drone to do all the work.",
+   "ro": "Nu prea e agitație în rânduri. Javrele alea leneșe cred că drona face toată treaba."
+  },
+  {
+   "key": "3285568168208461832",
+   "en": "Search the area, secure the perimeter.",
+   "ro": "Căutați zona, securizați perimetrul."
+  },
+  {
+   "key": "3285720596564242440",
+   "en": "Hunted scavs, Voodoo Boys, but a fuckin' president? Talk about big game.",
+   "ro": "Am vânat hiene, Voodoo Boys, dar un președinte al dracului? Asta da vânat mare."
+  },
+  {
+   "key": "3285751246994370560",
+   "en": "Gotsta be in this sector.",
+   "ro": "Trebuie să fie prin sectorul ăsta."
+  },
+  {
+   "key": "3285770295023333380",
+   "en": "Sharp shot, that. Too bad it completely revealed your position.",
+   "ro": "Lovitură fină. Păcat că te-a dat complet de gol."
+  },
+  {
+   "key": "3286881358452191232",
+   "en": "Four wheels, two seats – let's grab 'em!",
+   "ro": "Patru roți, două scaune – hai să le luăm!"
+  },
+  {
+   "key": "3286928976016404488",
+   "en": "Enemy patrol.",
+   "ro": "Patrulă inamică."
+  },
+  {
+   "key": "3292558116367200264",
+   "en": "Drones'll zero in on the target crazy fast.",
+   "ro": "Dronele o să prindă ținta repede rău."
+  },
+  {
+   "key": "3292923588304531464",
+   "en": "We're going to get tagged! You should've dropped them – no witnesses!",
+   "ro": "O să fim etichetați! Trebuia să-i dobori – fără martori!"
+  },
+  {
+   "key": "3295442983939579904",
+   "en": "How ya know?",
+   "ro": "De unde știi?"
+  },
+  {
+   "key": "3295445815044448256",
+   "en": "'Cause they ain't on the bridge no more.",
+   "ro": "Pentru că nu mai sunt pe pod."
+  },
+  {
+   "key": "3295452087105986560",
+   "en": "Baby's first government coup?",
+   "ro": "Prima lovitură de stat a bebelușului?"
+  },
+  {
+   "key": "3295457787953651712",
+   "en": "Waypoint B in fifteen, we gonna regroup.",
+   "ro": "Punctul B în cincisprezece, ne regrupăm."
+  },
+  {
+   "key": "3295470397977632768",
+   "en": "On it.",
+   "ro": "Mă ocup."
+  },
+  {
+   "key": "3295473559828537344",
+   "en": "Worked, didn't it?",
+   "ro": "A mers, nu?"
+  },
+  {
+   "key": "3295473880810233856",
+   "en": "It's not just your life on the line, V.",
+   "ro": "Nu e doar viața ta în joc, V."
+  },
+  {
+   "key": "3305421311790391296",
+   "en": "Brief Myers, can you? We should all be on the same page.",
+   "ro": "O pui la curent pe Myers? Ar trebui să fim toți pe aceeași lungime de undă."
+  },
+  {
+   "key": "3337594264673951748",
+   "en": "Could use help with the elevator.",
+   "ro": "Mi-ar prinde bine o mână de ajutor cu liftul."
+  },
+  {
+   "key": "3337594982386475008",
+   "en": "Where are you?",
+   "ro": "Unde ești?"
+  },
+  {
+   "key": "3337598847571828736",
+   "en": "Elevator could use a runner's touch, Song.",
+   "ro": "Liftul ăsta ar avea nevoie de mâna unui runner, Song."
+  },
+  {
+   "key": "3337599515892228096",
+   "en": "All's OK at your end? Where you operatin' from?",
+   "ro": "Totu-i ok la tine? De unde operezi?"
+  },
+  {
+   "key": "3337599912807604224",
+   "en": "Well, not from a cool, comfy ice bath. God knows what I'd give for that now.",
+   "ro": "Păi, nu dintr-o baie de gheață rece și comodă. Doamne, ce-aș da pentru una acum."
+  },
+  {
+   "key": "3337603428875870208",
+   "en": "I'm nearby, though. Just had to find a new nest, or they woulda found me.",
+   "ro": "Oricum, sunt pe aproape. Doar că a trebuit să-mi găsesc alt cuib, altfel mă găseau."
+  },
+  {
+   "key": "3337606241022484480",
+   "en": "So? A working elevator? Are we getting one?",
+   "ro": "Și? Un lift care merge? Primim unul?"
+  },
+  {
+   "key": "3337611866724999168",
+   "en": "Already on it…",
+   "ro": "Deja mă ocup…"
+  },
+  {
+   "key": "3337653593271803904",
+   "en": "The streets are too hot, so you'll need to go underground.",
+   "ro": "Străzile sunt prea fierbinți, așa că o să ai de mers pe sub pământ."
+  },
+  {
+   "key": "3337665985259085824",
+   "en": "You'll take old metro tunnels. Find the nearest station beneath an abandoned expo hall.",
+   "ro": "O să iei tunelurile vechi de metrou. Caută cea mai apropiată stație de sub sala Expo abandonată."
+  },
+  {
+   "key": "3346129051147673600",
+   "en": "Like, literally?",
+   "en_m": "Like literally?",
+   "ro": "Adică, literalmente?"
+  },
+  {
+   "key": "3346135552620863488",
+   "en": "Thanks. Be there in a jiff.",
+   "ro": "Mulțumesc. Ajung într-o clipă."
+  },
+  {
+   "key": "3346157301076959232",
+   "en": "Madame President...?",
+   "ro": "Doamnă președinte...?"
+  },
+  {
+   "key": "3346157604794900480",
+   "en": "Yes?",
+   "ro": "Da?"
+  },
+  {
+   "key": "3346157895074291712",
+   "en": "We will get you out of this.",
+   "ro": "Te scoatem din asta."
+  },
+  {
+   "key": "3346158543379472384",
+   "en": "I'm not my chief concern. Where are you?",
+   "ro": "Nu eu sunt prioritatea. Unde ești?"
+  },
+  {
+   "key": "3346159607373733888",
+   "en": "I'm safe. Everything's fine, I'll call back soon.",
+   "ro": "Sunt în siguranță. Totul e bine, sun în curând."
+  },
+  {
+   "key": "3346169602618269696",
+   "en": "Uh-huh… Sorry, V. My magic's no good here.",
+   "ro": "Aha… Scuze, V. Magia mea nu merge aici."
+  },
+  {
+   "key": "3346173406935883776",
+   "en": "And mine. Just stay calm and keep quiet.",
+   "ro": "Și a mea. Stai calm și nu scoate o vorbă."
+  },
+  {
+   "key": "3346176165093416960",
+   "en": "\"Surefire\" sounds plain ominous, running's hardly a plan, but I got nothin' better.",
+   "ro": "„Surefire” sună a moarte, fuga nu e chiar plan, dar n-am nimic mai bun."
+  },
+  {
+   "key": "3346181836262187008",
+   "en": "Somethin' best avoided...",
+   "ro": "Ceva de care e mai bine să stai departe..."
+  },
+  {
+   "key": "3346182928593166336",
+   "en": "Restaurant – subnet access point in there. If you jack in, I can inject some fake hostile readings, send the drones chasing after geese.",
+   "ro": "Restaurant – punct de acces la subnet, acolo înăuntru. Dacă te conectezi, pot băga citiri false de amenințare și trimit dronele după gâște."
+  },
+  {
+   "key": "3346187461578825728",
+   "en": "Doable.",
+   "ro": "Se poate."
+  },
+  {
+   "key": "3346188975437357056",
+   "en": "Now's your chance to slip out. Tiptoes recommended.",
+   "ro": "Acum e momentul să te strecori afară. Pe vârfuri, recomandat."
+  },
+  {
+   "key": "3346194954031833088",
+   "en": "Hm.",
+   "ro": "Hm."
+  },
+  {
+   "key": "3346195166985035776",
+   "en": "She always this slippery?",
+   "ro": "E mereu atât de alunecoasă?"
+  },
+  {
+   "key": "3346197401693429760",
+   "en": "She works in intel. But no... \"scrupulous multitasker\" – that's the term.",
+   "ro": "Lucrează în intel. Dar nu... „multitasker scrupulos”, asta-i formula."
+  },
+  {
+   "key": "3347780199147479040",
+   "en": "She can hack Orbital Air security while simultaneously painting her nails. I've seen her do it.",
+   "ro": "Poate să hack-uiască securitatea Orbital Air în timp ce-și face unghiile. Te jur, am văzut-o."
+  },
+  {
+   "key": "3396937315445469188",
+   "en": "Oh. Good find. Building scans I got didn't show any other way.",
+   "ro": "A. Bună treabă. Scanările clădirii nu arătau nicio altă cale."
+  },
+  {
+   "key": "3397122341361512448",
+   "en": "Hold the praise. Let's see where the hell this leads.",
+   "en_m": "Hold the praise. Let's see… where the hell this leads.",
+   "ro": "Ține laudele. Hai să vedem… unde naiba duce asta."
+  },
+  {
+   "key": "3405620136926081032",
+   "en": "The hell was that for? You just served us up on a platter!",
+   "ro": "Ce dracu' a fost asta? Ne-ai servit pe tavă!"
+  },
+  {
+   "key": "3450664848980467712",
+   "en": "Hit the gas, V! Feed 'em dust!",
+   "ro": "Apasă pedala, V! Lasă-i în praf!"
+  },
+  {
+   "key": "3457802507204976640",
+   "en": "Cool and easy, now. The less attention we draw, the better.",
+   "ro": "Calm acum, fără grabă. Cu cât atragem mai puțină atenție, cu atât mai bine."
+  },
+  {
+   "key": "3457803141266300928",
+   "en": "Agh, shit! We've been made!",
+   "ro": "Rahat! Ne-au dat de gol!"
+  },
+  {
+   "key": "3457803510046285824",
+   "en": "And like that, we're gone… Good thing you grabbed the wheel.",
+   "ro": "Și uite-așa am dispărut… Bine că ai apucat volanul."
+  },
+  {
+   "key": "3457858351376392192",
+   "en": "I must say, I thought a chase was inevitable. You'd make a grade-A thief.",
+   "ro": "Recunosc, credeam că o urmărire e inevitabilă. Ai fi o hoață de top.",
+   "ro_m": "Recunosc, credeam că o urmărire e inevitabilă. Ai fi un hoț de top."
+  },
+  {
+   "key": "3479637859632701440",
+   "en": "What're you--? Get in the car!",
+   "ro": "Ce faci--? Intră în mașină!"
+  },
+  {
+   "key": "3479638692537589760",
+   "en": "V! We can't stop here!",
+   "ro": "V! Nu putem opri aici!"
+  },
+  {
+   "key": "3479639165587972096",
+   "en": "For shit's sake!... If they catch us out here, we're dead!",
+   "ro": "La naiba!... Dacă ne prind aici, suntem morți!"
+  },
+  {
+   "key": "3479641294398578688",
+   "en": "What're you doin', V? Can't just leave 'er behind!",
+   "ro": "Ce faci, V? Nu poți s-o lași în urmă!"
+  },
+  {
+   "key": "3479644828368134144",
+   "en": "Hope you know what you're doin', 'cause I sure as hell don't get it.",
+   "ro": "Sper că știi ce faci, că eu, unul, n-am habar."
+  },
+  {
+   "key": "3479670424678719488",
+   "en": "What? Where are you going? We're easy targets out there.",
+   "ro": "Ce? Unde te duci? Suntem ținte ușoare acolo."
+  },
+  {
+   "key": "3479678428971032576",
+   "en": "Even easier to trace and track in a car. Gotta lose 'em fast.",
+   "ro": "Și mai ușor de localizat și de urmărit într-o mașină. Trebuie să-i pierdem repede."
+  },
+  {
+   "key": "3479679142220816384",
+   "en": "Hmph, I hope you know what you're doing.",
+   "ro": "Hmph, sper că știi ce faci."
+  },
+  {
+   "key": "3479711511627718656",
+   "en": "This is a fucking maze.",
+   "ro": "E un labirint al dracului."
+  },
+  {
+   "key": "3479713001612271616",
+   "en": "Scumbags just don't know when to quit!",
+   "ro": "Jegoșii ăștia nu știu când să se oprească!"
+  },
+  {
+   "key": "3479713826245992448",
+   "en": "Outpost… We'd best go around.",
+   "ro": "Avanpost… Mai bine ocolim."
+  },
+  {
+   "key": "3479714284733751296",
+   "en": "Just avoid open spaces, OK? Let's not tempt fate.",
+   "ro": "Evită spațiile deschise, ok? Să nu ne ispitim norocul."
+  },
+  {
+   "key": "3479714579744317440",
+   "en": "Another patrol? They're tossing everything at us.",
+   "ro": "Încă o patrulă? Ne aruncă tot ce au."
+  },
+  {
+   "key": "3479717111644315648",
+   "en": "Avoid any outposts, roadblocks. A lot of 'em, I know, but try.",
+   "ro": "Ocolește orice avanpost și baraj. Știu că sunt multe, dar încearcă."
+  },
+  {
+   "key": "3479717428381376512",
+   "en": "I have to say, I was skeptical of moving on foot. Yet so far... great work, V.",
+   "ro": "Recunosc, eram sceptic cu mersul pe jos. Dar până acum... treabă bună, V."
+  },
+  {
+   "key": "3488445004543008768",
+   "en": "And those bastards on our ass aren't helping…",
+   "ro": "Și jegoșii ăia pe coada noastră nu ajută…"
+  },
+  {
+   "key": "3488483815545217024",
+   "en": "Looks clear… finally. Nice change.",
+   "ro": "Pare liber… în sfârșit. Ce bine, pentru o dată."
+  },
+  {
+   "key": "3488486580564631552",
+   "en": "You need to reach the old metro tunnels, then make it to Kress Street. You'll be relatively safe there for now.",
+   "ro": "Ajungi la tunelurile vechi de metrou, apoi pe Kress Street. Acolo ești relativ în siguranță, deocamdată."
+  },
+  {
+   "key": "3488511864215019520",
+   "en": "Dogtown… what a joke. Did you all nuke this place?",
+   "ro": "Dogtown… ce glumă. Ați bombardat locul ăsta sau ce?"
+  },
+  {
+   "key": "3488520346959978496",
+   "en": "Copy that.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "3488523795231514624",
+   "en": "Songbird's leadin' us to a metro tunnel. Need to pass through an expo hall.",
+   "ro": "Songbird ne duce spre un tunel de metrou. Trebuie să trecem prin sala Expo."
+  },
+  {
+   "key": "3488524478835957760",
+   "en": "I think I know the one… good move. We're exposed in the streets, just not where we wanna be.",
+   "ro": "Cred că știu care… bună mutare. Pe străzi suntem expuși, numai că nu acolo vrem să fim."
+  },
+  {
+   "key": "3488531013343485952",
+   "en": "You all? First time I'm here.",
+   "ro": "Voi toți? E prima dată când ajung pe aici."
+  },
+  {
+   "key": "3488532161139941376",
+   "en": "Likewise. And if I never make it back, it'll be too soon.",
+   "ro": "La fel. Și dacă nu mă mai întorc vreodată, o să fie prea devreme."
+  },
+  {
+   "key": "3540659797177507840",
+   "en": "Scannin' the building layout now… I'll guide you.",
+   "ro": "Scanez planul clădirii acum… Te ghidez eu."
+  },
+  {
+   "key": "3550652142327263240",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "3621886026449903632",
+   "en": "Hm, four wheels, two seats... a taker…",
+   "ro": "Hm, patru roți, două locuri... cine s-o ia?"
+  },
+  {
+   "key": "3678257172867031040",
+   "en": "\"Bad part of town\" doesn't even begin to describe it...",
+   "ro": "„Zona rea a orașului” nici pe departe nu descrie..."
+  },
+  {
+   "key": "3678259558234824720",
+   "en": "At this rate, we might make it after all.",
+   "ro": "La ritmul ăsta, poate reușim până la urmă."
+  },
+  {
+   "key": "3678260025966829584",
+   "en": "I've seen places like this. In third-world, war-torn nations.",
+   "ro": "Am mai văzut locuri de-astea. În țările lumii a treia, rupte de războaie."
+  },
+  {
+   "key": "3678263737388998672",
+   "en": "I doubt they'd cease pursuit that easily.",
+   "ro": "Nu cred că renunță la urmărire atât de ușor."
+  },
+  {
+   "key": "3678265327818743824",
+   "en": "Argh… That's it. I'm declaring high heels a federal crime.",
+   "ro": "Argh… Gata. Declar tocurile înalte infracțiune federală."
+  },
+  {
+   "key": "3678278987375026176",
+   "en": "That could've gone worse. We'd better evac.",
+   "ro": "Putea fi și mai rău. Mai bine ieșim de aici."
+  },
+  {
+   "key": "3678285104851296256",
+   "en": "Seems we're in the clear – for now.",
+   "ro": "Se pare că suntem în siguranță – deocamdată."
+  },
+  {
+   "key": "3678299926733103104",
+   "en": "Right. Leave the analytics to Songbird.",
+   "ro": "Bine. Lasă analizele pe seama lui Songbird."
+  },
+  {
+   "key": "3678329881932177408",
+   "en": "What's the probability a random passerby noticed a moving elevator in an abandoned hotel?",
+   "ro": "Ce șanse sunt ca vreun trecător să fi văzut liftul ăla în mișcare într-un hotel abandonat?"
+  },
+  {
+   "key": "3678370870885457936",
+   "en": "I think we lost them. Still too early for champagne, though.",
+   "ro": "Cred că i-am pierdut. Dar e prea devreme de șampanie."
+  },
+  {
+   "key": "3679430636147679248",
+   "en": "They can't know where you're headed. Wipe them, lose them - your call.",
+   "ro": "Nu pot ști unde te duci. Îi scoți din joc sau îi pierzi – tu alegi."
+  },
+  {
+   "key": "3679432561920417808",
+   "en": "Really gotta cut that tail, V. Can't open the garage till you're off their radar.",
+   "ro": "Trebuie să scapi de coada aia, V. Nu deschid garajul până nu ieși de pe radarul lor."
+  },
+  {
+   "key": "3679434655431761936",
+   "en": "The scumbags won't let up. Lose them before accessing the garage.",
+   "ro": "Jegosii ăia nu se lasă. Scapă de ei înainte să accesezi garajul."
+  },
+  {
+   "key": "3731725494002229248",
+   "en": "Detecting multiple patrol sigs, V. Stay on your toes.",
+   "ro": "Detectez mai multe semnături de patrulă, V. Fii pe fază."
+  },
+  {
+   "key": "3943587392997285888",
+   "en": "We have a plan we need to stick to. Elizabeth Kress Street – that's where you need to go.",
+   "ro": "Avem un plan de care trebuie să ne ținem. Strada Elizabeth Kress – acolo trebuie să mergi."
+  },
+  {
+   "key": "3943589082764926976",
+   "en": "The streets are too hot, so you'll need to go underground.",
+   "ro": "Străzile sunt prea fierbinți, așa că o să ai de mers pe sub pământ."
+  },
+  {
+   "key": "3943590772532568064",
+   "en": "Like, literally?",
+   "ro": "Adică, la propriu?"
+  },
+  {
+   "key": "3943592588682977280",
+   "en": "You'll take old metro tunnels. Find the nearest station beneath an abandoned expo hall.",
+   "ro": "O să iei tunelurile vechi de metrou. Caută cea mai apropiată stație de sub sala Expo abandonată."
+  },
+  {
+   "key": "3943594145575067648",
+   "en": "Copy that.",
+   "ro": "Am înțeles."
+  }
+ ]
+}

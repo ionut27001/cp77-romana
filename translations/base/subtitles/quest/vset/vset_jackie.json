@@ -1,0 +1,562 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_jackie.json",
+ "entries": [
+  {
+   "key": "1796586619024687108",
+   "en": "It's goin' down...",
+   "ro": "Se lasă..."
+  },
+  {
+   "key": "1796586619058241540",
+   "en": "<kiroshi l=\"mex\" o=\"Bueno, ¡¿qué chingados estás esperando?!\" t=\"Well, what you waitin' for?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Bueno, ¡¿qué chingados estás esperando?!\" t=\"Ei, ce mai aștepți?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796586619091795972",
+   "en": "A fuckin' grenade?!",
+   "ro": "O granată nenorocită?!"
+  },
+  {
+   "key": "1796586619158904836",
+   "en": "Ladies and gentlemen! Jackie Welles!",
+   "ro": "Doamnelor și domnilor! Jackie Welles!"
+  },
+  {
+   "key": "1796586619192459268",
+   "en": "You know who you're messin' with?!",
+   "ro": "Știi cu cine te pui?!"
+  },
+  {
+   "key": "1796586619242790916",
+   "en": "Who's ready to party?!",
+   "ro": "Cine-i gata de petrecere?!"
+  },
+  {
+   "key": "1796586619276345344",
+   "en": "<mothertongue l=\"mex\" m=\"¡Chingao!\" b=\"\" a=\" Almost got me!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Chingao!\" b=\"\" a=\" Aproape m-a nimerit!\"/>"
+  },
+  {
+   "key": "1796586619309899780",
+   "en": "Suck on this!",
+   "ro": "Suge-o pe asta!"
+  },
+  {
+   "key": "1796586619326676996",
+   "en": "Playtime's over!",
+   "ro": "S-a terminat joaca!"
+  },
+  {
+   "key": "1796586619360231428",
+   "en": "Let me fuckin'... GO!",
+   "ro": "Lasă-mă în pula mea... DĂ-I DRUMUL!"
+  },
+  {
+   "key": "1796586619544780804",
+   "en": "What? Gotta take a piss?",
+   "ro": "Ce? Trebuie să piși?"
+  },
+  {
+   "key": "1796586619561558020",
+   "en": "Uh... Later, then.",
+   "ro": "Uh... Atunci mai târziu."
+  },
+  {
+   "key": "1796586619628666884",
+   "en": "Ah, there you are.",
+   "ro": "Ah, iată-te."
+  },
+  {
+   "key": "1796586619662221316",
+   "en": "So? 'Sup?",
+   "ro": "Și? Ce faci?"
+  },
+  {
+   "key": "1796586619678998532",
+   "en": "Helloooo!",
+   "ro": "Saluuut!"
+  },
+  {
+   "key": "1796586619712552964",
+   "en": "Gonna be long?",
+   "ro": "Durează mult?"
+  },
+  {
+   "key": "1796586619964211204",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"'Ey, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"vato\" b=\"'Ey, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"'Hei, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"vato\" b=\"'Hei, \" a=\".\"/>"
+  },
+  {
+   "key": "1796586619997765636",
+   "en": "What's shakin'?",
+   "ro": "Ce se mai întâmplă?"
+  },
+  {
+   "key": "1796586620131983364",
+   "en": "'Ey, watch where you're walkin', fool.",
+   "ro": "'Hei, vezi pe unde mergi, nebunule."
+  },
+  {
+   "key": "1796586620148760580",
+   "en": "'Ey, easy.",
+   "ro": "'Hei, ușor."
+  },
+  {
+   "key": "1934264673427804160",
+   "en": "Uhh... Hannah? Don't we gotta check in?",
+   "en_m": "Uhh... Harry? Don't we gotta check in?",
+   "ro": "Ăă... Hannah? Nu trebuie să ne înregistrăm?",
+   "ro_m": "Ăă... Harry? Nu trebuie să ne înregistrăm?"
+  },
+  {
+   "key": "1934268272694284292",
+   "en": "Wait! We gotta check in first!",
+   "ro": "Stai! Trebuie să ne înregistrăm întâi!"
+  },
+  {
+   "key": "1966199076127907844",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"You with me, \" a=\"?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano?\" b=\"You with me, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ești cu mine, \" a=\"?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano?\" b=\"Ești cu mine, \" a=\"\"/>"
+  },
+  {
+   "key": "1966199076161462276",
+   "en": "You're weirdin' me out, V.",
+   "ro": "Mă faci să mă simt ciudat, V."
+  },
+  {
+   "key": "2238067199846817792",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Let's get 'em, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Let's get 'em, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Hai să-i luăm, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Hai să-i luăm, \" a=\"!\"/>"
+  },
+  {
+   "key": "2238069786960633864",
+   "en": "Let's goooo!",
+   "ro": "Hai să mergemmmm!"
+  },
+  {
+   "key": "2238071783700996104",
+   "en": "Come on, motherfucker! Let's dance!",
+   "ro": "Hai, nenorocitule! Hai să dansăm!"
+  },
+  {
+   "key": "2238074352678641672",
+   "en": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Seek and you will find, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Cine caută, găsește, \" a=\"!\"/>"
+  },
+  {
+   "key": "2238075074216370184",
+   "en": "I eat lead for breakfast!",
+   "ro": "Mănânc plumb la micul dejun!"
+  },
+  {
+   "key": "2238081631222145032",
+   "en": "Ahh, all cleaned up.",
+   "ro": "Ahh, totul curat."
+  },
+  {
+   "key": "2238082685519175688",
+   "en": "Fuckin' bums...",
+   "ro": "Boschetarii dracului..."
+  },
+  {
+   "key": "2238082720650665992",
+   "en": "Guess that's all of 'em.",
+   "ro": "Se pare că ăștia au fost toți."
+  },
+  {
+   "key": "2238165104918175752",
+   "en": "V, watch it!",
+   "ro": "V, ai grijă!"
+  },
+  {
+   "key": "2238165514567458824",
+   "en": "Careful, V! They got you.",
+   "ro": "Atenție, V! Te-au prins."
+  },
+  {
+   "key": "2238165553524154376",
+   "en": "Stay outta their way. Not long now!",
+   "ro": "Stai departe din calea lor. Nu mai e mult!"
+  },
+  {
+   "key": "2238165586675933192",
+   "en": "Steady, now! We got this, V!",
+   "ro": "Stai așa! Rezolvăm noi, V!"
+  },
+  {
+   "key": "2238165716145709064",
+   "en": "Cover, V! You're hurt!",
+   "ro": "La adăpost, V! Ești rănită!",
+   "ro_m": "La adăpost, V! Ești rănit!"
+  },
+  {
+   "key": "2238682834201124868",
+   "en": "Cover me, V!",
+   "ro": "Acoperă-mă, V!"
+  },
+  {
+   "key": "2238682864483999752",
+   "en": "Get 'em off me!",
+   "ro": "Scoateți-i de pe mine!"
+  },
+  {
+   "key": "2238682894867537928",
+   "en": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Come on, \" a=\"! I'm here for ya!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Hai, \" a=\"! Sunt cu tine!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Hai, \" a=\"! Sunt cu voi!\"/>"
+  },
+  {
+   "key": "2238685622607978504",
+   "en": "Gotta reload!",
+   "ro": "Trebuie să reîncarc!"
+  },
+  {
+   "key": "2238685622658310152",
+   "en": "Empty mag!",
+   "ro": "Magazie goală!"
+  },
+  {
+   "key": "2238685622691864584",
+   "en": "I'm empty! Need to reload!",
+   "ro": "Sunt gol! Trebuie să reîncarc!"
+  },
+  {
+   "key": "2238685622758973440",
+   "en": "Hang on! Reloadin'!",
+   "ro": "Ține-te! Reîncarc!"
+  },
+  {
+   "key": "2238685622792527880",
+   "en": "With you in a sec!",
+   "ro": "Vin într-o secundă!"
+  },
+  {
+   "key": "2238687543129448456",
+   "en": "Gonna blow!",
+   "ro": "O să explodeze!"
+  },
+  {
+   "key": "2238687543163002888",
+   "en": "Look out, they got grenades!",
+   "ro": "Atenție, au granate!"
+  },
+  {
+   "key": "2238687543196557320",
+   "en": "Take cover – now!",
+   "ro": "La adăpost – acum!"
+  },
+  {
+   "key": "2238687543230111752",
+   "en": "'Nade in the air!",
+   "ro": "Grenadă în aer!"
+  },
+  {
+   "key": "2238689066467106816",
+   "en": "Watch out, she's flyin'!",
+   "ro": "Atenție, vine zburând!"
+  },
+  {
+   "key": "2238689066500661256",
+   "en": "<kiroshi l=\"mex\" o=\"¡Granada!\" t=\"Grenade!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Granada!\" t=\"Granată!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238690814468464648",
+   "en": "Choom's hit!",
+   "ro": "Un choom e lovit!"
+  },
+  {
+   "key": "2238690814518796296",
+   "en": "One shot – one body!",
+   "ro": "Un foc – un corp!"
+  },
+  {
+   "key": "2238690814569127944",
+   "en": "Bite that dust!",
+   "ro": "Mănâncă pământ!"
+  },
+  {
+   "key": "2238690814619459592",
+   "en": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Got another body!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Am încă unul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238690814653014024",
+   "en": "Dropped one!",
+   "ro": "Am doborât unul!"
+  },
+  {
+   "key": "2238704855622524936",
+   "en": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Hell yeah!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Da, bă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238704855672856584",
+   "en": "Nice shot!",
+   "ro": "Frumos foc!"
+  },
+  {
+   "key": "2238704855723188228",
+   "en": "Good one!",
+   "ro": "Bună!"
+  },
+  {
+   "key": "2238704855756742664",
+   "en": "S'what I'm talkin' 'bout!",
+   "ro": "Despre asta vorbesc!"
+  },
+  {
+   "key": "2238704855790297096",
+   "en": "Don't give 'em any chances!",
+   "ro": "Nu le da nicio șansă!"
+  },
+  {
+   "key": "2238712910514921480",
+   "en": "Aim for the head!",
+   "ro": "Țintește în cap!"
+  },
+  {
+   "key": "2238712910565253128",
+   "en": "Shoot, V!",
+   "ro": "Împușcă, V!"
+  },
+  {
+   "key": "2238712910598807560",
+   "en": "Aim first, then blast 'em!",
+   "ro": "Țintește întâi, apoi trage!"
+  },
+  {
+   "key": "2238712910632361992",
+   "en": "V, get a grip!",
+   "ro": "V, revino-ți!"
+  },
+  {
+   "key": "2238712910682693640",
+   "en": "Focus!",
+   "ro": "Concentrare!"
+  },
+  {
+   "key": "2238728227593035784",
+   "en": "Look out, turret!",
+   "ro": "Atenție, turelă!"
+  },
+  {
+   "key": "2238728227643367432",
+   "en": "<kiroshi l=\"mex\" o=\"¡Torreta!\" t=\"Turret!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Torreta!\" t=\"Turelă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238728227710476296",
+   "en": "Watch the lead-spitter!",
+   "ro": "Atenție la mitralieră!"
+  },
+  {
+   "key": "2238728325236432904",
+   "en": "Heads up – drones!",
+   "ro": "Atenție, drone!"
+  },
+  {
+   "key": "2238728325269987336",
+   "en": "Watch the drones!",
+   "ro": "Atenție la drone!"
+  },
+  {
+   "key": "2238728325320318984",
+   "en": "They got air support! Careful!",
+   "ro": "Au suport aerian! Atenție!"
+  },
+  {
+   "key": "2238728419121733640",
+   "en": "He's a mean-lookin' motherfucker!",
+   "ro": "E un nenorocit cu privire rea!"
+  },
+  {
+   "key": "2238728419222396928",
+   "en": "Watch out – mech's coming!",
+   "ro": "Atenție, vine un mech!"
+  },
+  {
+   "key": "2238728419306283016",
+   "en": "Take the mech!",
+   "ro": "Distruge mech-ul!"
+  },
+  {
+   "key": "2238728473899343880",
+   "en": "<kiroshi l=\"mex\" o=\"Argh, ¡qué fuerte, hijos de puta!!\" t=\"Tough sons of bitches!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Argh, ¡qué fuerte, hijos de puta!!\" t=\"Javre de-astea, futu-le!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238728473949675528",
+   "en": "Watch out for them!",
+   "ro": "Atenție la ei!"
+  },
+  {
+   "key": "2238728473983229960",
+   "en": "Here comes trouble!",
+   "ro": "Vine beleaua!"
+  },
+  {
+   "key": "2238739839238447112",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Make moves, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Make moves, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Mișcă-te, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Mișcă-te, \" a=\".\"/>"
+  },
+  {
+   "key": "2238739839272001544",
+   "en": "Waitin' on ya.",
+   "ro": "Te aștept."
+  },
+  {
+   "key": "2238739839322333192",
+   "en": "V, get it together!",
+   "ro": "V, adună-te!"
+  },
+  {
+   "key": "2238739839355887624",
+   "en": "V...?",
+   "ro": "V...?"
+  },
+  {
+   "key": "2238739839389442056",
+   "en": "Your move, V.",
+   "ro": "Mutarea ta, V."
+  },
+  {
+   "key": "2238742738861465608",
+   "en": "Think we're outta sight.",
+   "ro": "Cred că nu ne văd."
+  },
+  {
+   "key": "2238742738911797256",
+   "en": "Don't see us no more. Good.",
+   "ro": "Nu ne mai văd. Bine."
+  },
+  {
+   "key": "2238742738962128904",
+   "en": "They lost us.",
+   "ro": "Ne-au pierdut."
+  },
+  {
+   "key": "2238743585322344456",
+   "en": "Careful now...",
+   "ro": "Atenție acum..."
+  },
+  {
+   "key": "2238743585423007752",
+   "en": "Keep it calm. Or they'll spot us.",
+   "ro": "Stai calm. Sau ne văd."
+  },
+  {
+   "key": "2238743585523671048",
+   "en": "Baby steps, V. Enemy's watchin'.",
+   "ro": "Pași mici, V. Inamicul ne pândește."
+  },
+  {
+   "key": "2238744355262341128",
+   "en": "Quick, hide!",
+   "ro": "Repede, ascunde-te!"
+  },
+  {
+   "key": "2238744355295895560",
+   "en": "Watch out, they'll mark us!",
+   "ro": "Atenție, ne vor marca!"
+  },
+  {
+   "key": "2238744355329449992",
+   "en": "V! They can spot you!",
+   "ro": "V! Te pot vedea!"
+  },
+  {
+   "key": "2238744397608034312",
+   "en": "'Ey, cameras!",
+   "ro": "Hei, camere!"
+  },
+  {
+   "key": "2238744397641588744",
+   "en": "They got eyes on this turf. Careful.",
+   "ro": "Au ochi pe teritoriul ăsta. Atenție."
+  },
+  {
+   "key": "2238744397675143176",
+   "en": "Watch it, V. They got cams.",
+   "ro": "Atenție, V. Au camere."
+  },
+  {
+   "key": "2238744479346630664",
+   "en": "V, the body! Don't just leave it there.",
+   "ro": "V, cadavrul! Nu-l lăsa acolo."
+  },
+  {
+   "key": "2238744479396962312",
+   "en": "Leave no trace, V.",
+   "ro": "Nu lăsa urme, V."
+  },
+  {
+   "key": "2238744479447293960",
+   "en": "Better do something with that body.",
+   "ro": "Mai bine fă ceva cu cadavrul ăla."
+  },
+  {
+   "key": "2238750171252039688",
+   "en": "<kiroshi l=\"mex\" o=\"Chingada madre!\" t=\"Motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Chingada madre!\" t=\"Pizda mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238750171302371336",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "2238755956136779784",
+   "en": "Low profile!",
+   "ro": "Profil scăzut!"
+  },
+  {
+   "key": "2238755956170334216",
+   "en": "Head down, eyes open!",
+   "ro": "Capul jos, ochii deschiși!"
+  },
+  {
+   "key": "2257891632345358336",
+   "en": "A little... further!",
+   "ro": "Puțin... mai departe!"
+  },
+  {
+   "key": "2257910520504229896",
+   "en": "Let's... Mfh... wipe 'em!",
+   "ro": "Hai să... Mfh... îi radem!"
+  },
+  {
+   "key": "2257912999472111624",
+   "en": "Gonna take more than that!",
+   "ro": "O să fie nevoie de mai mult decât atât!"
+  },
+  {
+   "key": "2257914255984926728",
+   "en": "Come on, motherfuckers!",
+   "ro": "Hai, nenorociților!"
+  },
+  {
+   "key": "2257914704825786376",
+   "en": "<mothertongue l=\"mex\" m=\"coños\" b=\"Better get out... outta my way, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"coños\" b=\"Mai bine te dai din calea mea, \" a=\"!\"/>"
+  },
+  {
+   "key": "2272081352126021632",
+   "en": "We goin'?",
+   "ro": "Plecăm?"
+  },
+  {
+   "key": "2272082536245149704",
+   "en": "C'mon, V. Ain't got time.",
+   "ro": "Hai, V. N-avem timp."
+  }
+ ]
+}

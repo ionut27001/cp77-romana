@@ -1,0 +1,412 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq040\\mq040_03_ripperdoc.json",
+ "entries": [
+  {
+   "key": "1805535941937475584",
+   "en": "\"The dame disappeared into the guts of a building ready to collapse. The air hung heavy with smog and betrayal.\"",
+   "ro": "\"Doamna a dispărut în măruntaiele unei clădiri gata să se prăbușească. Aerul era îmbâcsit de smog și trădare.\""
+  },
+  {
+   "key": "1805696370944913408",
+   "en": "'Ey, careful! You'll tear my shirt!",
+   "ro": "'Ey, atenție! Îmi rupi cămașa!"
+  },
+  {
+   "key": "1805697185076097024",
+   "en": "Well, well, well.",
+   "ro": "Ei, ei, ei."
+  },
+  {
+   "key": "1805706982399815680",
+   "en": "Hey, you! What're you doing here?!",
+   "ro": "Hei, tu! Ce cauți aici?!"
+  },
+  {
+   "key": "1805710631159083008",
+   "en": "Fuck, Cynthia! Told ya to make sure nobody followed you!",
+   "ro": "Futu-i, Cynthia! Ți-am zis să te asiguri că nu te urmărește nimeni!"
+  },
+  {
+   "key": "1805711322950807552",
+   "en": "I asked what you're doing! Who the hell are you?!",
+   "ro": "Am întrebat ce faci! Cine naiba ești?!"
+  },
+  {
+   "key": "1805712598807752708",
+   "en": "Go on – let's hear it.",
+   "ro": "Hai, spune. Să aud."
+  },
+  {
+   "key": "1806586413578334208",
+   "en": "Should be talking to your partner, not some random merc.",
+   "ro": "Ar trebui să vorbești cu partenerul tău, nu cu un merc oarecare."
+  },
+  {
+   "key": "1806589011949662208",
+   "en": "Go on, then. Let's hear it.",
+   "ro": "Hai, atunci. Spune."
+  },
+  {
+   "key": "1806589853595480064",
+   "en": "It's not me you should be explaining yourself to.",
+   "ro": "Nu mie trebuie să-ți explici."
+  },
+  {
+   "key": "1806600870757019648",
+   "en": "No, no, no, no, wait! Please, please just hear me out!",
+   "ro": "Nu, nu, nu, nu, stai! Te rog, te rog, ascultă-mă!"
+  },
+  {
+   "key": "1806609141186310144",
+   "en": "Job's done. Followed your wife. Went into some run-down pad. Man was waiting for her inside.",
+   "ro": "Treaba e gata. Am urmărit-o pe nevasta ta. A intrat într-o garsonieră dărăpănată. Un tip o aștepta înăuntru."
+  },
+  {
+   "key": "1806619943716925440",
+   "en": "She was at a ripper's, gettin' a scan. Her skin, hair, eyes... it's all implanted, every single last part of her.",
+   "ro": "Era la un ripper, făcea o scanare. Pielea, părul, ochii... totul e implantat, până la ultima bucățică din ea."
+  },
+  {
+   "key": "1806620112176951296",
+   "en": "I'm not gettin' dragged further into this. She'll tell you herself.",
+   "ro": "Nu mă bag mai departe în treaba asta. O să-ți spună ea."
+  },
+  {
+   "key": "1806631233390784516",
+   "en": "She loves you, you gonk.",
+   "ro": "Te iubește, fraiere."
+  },
+  {
+   "key": "1806631457635053568",
+   "en": "You're right.",
+   "ro": "Ai dreptate."
+  },
+  {
+   "key": "1806634352241684480",
+   "en": "OK – yes, Cynthia was hiding something from you. Yes, she lied, but...",
+   "ro": "Bine – da, Cynthia ascundea ceva de tine. Da, a mințit, dar..."
+  },
+  {
+   "key": "1806635012408356864",
+   "en": "You've got a right to feel cheated, sorta...",
+   "en_m": "You got a right to feal cheated, sorta…",
+   "ro": "Ai dreptul să te simți păcălită, cumva...",
+   "ro_m": "Ai dreptul să te simți păcălit, cumva..."
+  },
+  {
+   "key": "1806661635568447492",
+   "en": "She was seeing a ripper.",
+   "ro": "Era la un ripper."
+  },
+  {
+   "key": "1806661961616863232",
+   "en": "I'm done with this. She'll tell you herself.",
+   "ro": "Am terminat cu asta. O să-ți spună ea."
+  },
+  {
+   "key": "1816891964954652672",
+   "en": "I know I should've told Pepe about all this, but... there was never a good time! And... and now that I'm expecting again... Oh, it... It-- it wasn't... It wasn't planned...",
+   "ro": "Știu că trebuia să-i spun lui Pepe, dar... n-a fost niciodată momentul potrivit! Și... și acum că sunt iar însărcinată... A-- nu a fost... N-a fost planificat..."
+  },
+  {
+   "key": "1816909127090319360",
+   "en": "Oh, hi. It's, uh, Cynthia, Pepe's wife? Remember me?",
+   "ro": "A, salut. Sunt, ăă, Cynthia, nevasta lui Pepe? Îți amintești de mine?"
+  },
+  {
+   "key": "1816909362759872512",
+   "en": "Hi, it's Cynthia, Pepe's wife. Remember me?",
+   "ro": "Salut, sunt Cynthia, nevasta lui Pepe. Îți amintești de mine?"
+  },
+  {
+   "key": "1816936212278161408",
+   "en": "Uh-huh. I do.",
+   "en_m": "Yeah, I do.",
+   "ro": "Aham. Îmi amintesc."
+  },
+  {
+   "key": "1816991053306277888",
+   "en": "I knew it. What else?",
+   "ro": "Știam eu. Ce altceva?"
+  },
+  {
+   "key": "1874927941530562560",
+   "en": "So my son – that's why he...?",
+   "ro": "Deci fiul meu – de aia...?"
+  },
+  {
+   "key": "1914116135583010816",
+   "en": "Ugh... Maybe it's a good thing I'm dyin'.",
+   "ro": "Ugh... Poate e bine că mor."
+  },
+  {
+   "key": "1914123870533898244",
+   "en": "Your husband sent me.",
+   "ro": "Soțul tău m-a trimis."
+  },
+  {
+   "key": "1914124093586984960",
+   "en": "Doesn't matter. I've seen enough.",
+   "ro": "Nu contează. Am văzut destul."
+  },
+  {
+   "key": "1914124605191409664",
+   "en": "Husband sent me. Suspected something. See he was right.",
+   "ro": "Soțul tău m-a trimis. Bănuia ceva. Și avea dreptate."
+  },
+  {
+   "key": "1914127063858860032",
+   "en": "But... huh? What the hell is going on?!",
+   "ro": "Dar... cum adică? Ce naiba se întâmplă?!"
+  },
+  {
+   "key": "1914127462200299520",
+   "en": "\"They say lies have short legs. But liars – oh, their gams go all the way up.\"",
+   "ro": "\"Se zice că minciunile au picioare scurte. Dar mincinoșii – a, picioarele lor ajung până sus.\""
+  },
+  {
+   "key": "1914128895779852288",
+   "en": "Oh-ho. Where's this scop coming from?",
+   "ro": "Ho-ho. De unde mai vine și vrăjeala asta?"
+  },
+  {
+   "key": "1914129924575514624",
+   "en": "What? Wait – no! It's... It's not like that! I... I can explain!",
+   "ro": "Ce? Stai – nu! Nu e... nu e așa! Pot să explic!"
+  },
+  {
+   "key": "1914137819362938880",
+   "en": "Doesn't matter. Seen enough.",
+   "ro": "Nu contează. Destul am văzut."
+  },
+  {
+   "key": "1914141799455444992",
+   "en": "\"I left her standing there, indifferent to her pleas. The colors of the neon-lit sky played on my retina...\"",
+   "ro": "\"Am lăsat-o acolo, indiferent la rugămințile ei. Culorile cerului luminat de neon jucau pe retina mea...\""
+  },
+  {
+   "key": "1914143372336222208",
+   "en": "Dude, just stop already, OK? Seriously.",
+   "ro": "Frate, gata deja, bine? Serios acum."
+  },
+  {
+   "key": "1914144586587230208",
+   "en": "OK, for-- for one thing... He's not my input – he's my ripper, a specialist in plastic surgery.",
+   "ro": "Bine, în primul rând... Nu e input-ul meu – e ripperul meu, specialist în chirurgie plastică."
+  },
+  {
+   "key": "1914145588119916544",
+   "en": "A specialist? In this dump?",
+   "ro": "Specialist? În gunoiul ăsta?"
+  },
+  {
+   "key": "1914145931079766016",
+   "en": "Look, I know. I... I had this little accident a few years ago. The victim, uh... Well, the patient's family still can't let it go. That's why I'm forced to work here.",
+   "ro": "Uite, știu. Am avut un mic accident acum câțiva ani. Victima, ăă... Păi, familia pacientului nu poate trece peste. De-aia sunt nevoit să lucrez aici."
+  },
+  {
+   "key": "1914146928132935680",
+   "en": "Hold on a sec... What about your kid?",
+   "ro": "Stai o sec... Ce zici de copilul tău?"
+  },
+  {
+   "key": "1914147280186036224",
+   "en": "Here's the thing... I... Ugh. I didn't used to look like this. I had a total bodysculpt – skin, hair, eyes, everything... except, well, you can't fool your genes.",
+   "ro": "Uite cum stă treaba... Eu... Ugh. Nu arătam așa înainte. Am avut un bodysculpt total – piele, păr, ochi, tot... numai că, păi, genele nu le poți păcăli."
+  },
+  {
+   "key": "1914150648816128000",
+   "en": "But... why? Why do that?",
+   "ro": "Dar... de ce? De ce să faci asta?"
+  },
+  {
+   "key": "1914150965553188868",
+   "en": "Why'd you change your look?",
+   "ro": "De ce ți-ai schimbat look-ul?"
+  },
+  {
+   "key": "1914151225365155840",
+   "en": "That changes things.",
+   "ro": "Asta schimbă lucrurile."
+  },
+  {
+   "key": "1914154306903527424",
+   "en": "And why do you think? Out of boredom? 'Cause I was a rich, basic bitch?",
+   "ro": "Și de ce crezi? De plictiseală? Pentru că eram o curvă bogată și banală?"
+  },
+  {
+   "key": "1914154948715925504",
+   "en": "Everyone's got their own secret. Something they wanna forget, or leave behind them.",
+   "ro": "Fiecare are secretul lui. Ceva pe care vrea să-l uite sau să-l lase în urmă."
+  },
+  {
+   "key": "1914160173057101824",
+   "en": "Well, uh... Plot's thicker than I imagined, for sure.",
+   "ro": "Păi, ăă... treaba e mai încurcată decât credeam, clar."
+  },
+  {
+   "key": "1914161084697464832",
+   "en": "I'm glad you listened – saw it from my point of view.",
+   "ro": "Mă bucur că m-ai ascultat, că ai văzut din ochii mei."
+  },
+  {
+   "key": "1914164961727533056",
+   "en": "Please... Uh, tell him... Tell him that...",
+   "ro": "Te rog... Ăă, spune-i... Spune-i că..."
+  },
+  {
+   "key": "1914165432580100096",
+   "en": "I don't know. I don't know what to tell him myself. That-- that I'm really sorry. That life's an absurdist drama, OK? Just... just go.",
+   "ro": "Nu știu. Nu știu ce să-i spun nici eu. Că-- că îmi pare foarte rău. Că viața e o dramă absurdă, bine? Doar... doar pleacă."
+  },
+  {
+   "key": "1914165754803310592",
+   "en": "Yes?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1914167710875701248",
+   "en": "Hit the nail on the head with that last point.",
+   "ro": "Ai nimerit-o cu ultima chestie."
+  },
+  {
+   "key": "1914175260186693632",
+   "en": "Dunno. Honestly, don't care, either.",
+   "ro": "Nu știu. Sincer, nici nu-mi pasă."
+  },
+  {
+   "key": "1914176153623777280",
+   "en": "Did my job, now your turn. Waitin' on that scratch.",
+   "ro": "Mi-am făcut partea, acum e rândul tău. Aștept banii."
+  },
+  {
+   "key": "1914177789050015744",
+   "en": "You know, I thought I'd be more than just one of your regular clients, but I guess I was wrong.",
+   "ro": "Știi, credeam că o să fiu mai mult decât un client obișnuit de-al tău, dar se pare că m-am înșelat."
+  },
+  {
+   "key": "1914178281092206592",
+   "en": "See ya around, V.",
+   "ro": "Ne vedem, V."
+  },
+  {
+   "key": "1914180527360102400",
+   "en": "Knew it, huh? Didn't know a thing. Didn't cheat on you. Least, not in the way you think.",
+   "ro": "Știai, nu? Nu știai nimic. Nu te-am înșelat. Cel puțin, nu în felul în care crezi."
+  },
+  {
+   "key": "1914181188365635584",
+   "en": "Huh? What way, then?",
+   "ro": "Hm? În ce fel, atunci?"
+  },
+  {
+   "key": "1914192292215050240",
+   "en": "Exactly.",
+   "ro": "Exact."
+  },
+  {
+   "key": "1914195247672643584",
+   "en": "Jesus fucking Christo... How could she keep this from me? Her own husband – ten fucking years!",
+   "ro": "Futu-i Dumnezeii mă-sii... Cum a putut să-mi ascundă asta? Soțul ei – zece ani, pe bune!"
+  },
+  {
+   "key": "1914197369134829568",
+   "en": "It's not about the skin, or... whatever. It's that she lied. How the hell am I s'posed trust her now?",
+   "ro": "Nu e vorba de piele, sau ce-o fi. E că a mințit. Cum naiba să mai am încredere în ea?"
+  },
+  {
+   "key": "1914198878278963200",
+   "en": "Not my problem.",
+   "ro": "Nu-i problema mea."
+  },
+  {
+   "key": "1914199097087414272",
+   "en": "Not my biz.",
+   "ro": "Nu mă bag în ale lor."
+  },
+  {
+   "key": "1914202097340174336",
+   "en": "If I were you, I'd just live and let live, y'know?",
+   "ro": "Eu zic să trăiești și să lași și pe alții să trăiască, știi?"
+  },
+  {
+   "key": "1914202691270397952",
+   "en": "Yeah... Yeah, I guess you're right.",
+   "ro": "Da... Da, cred că ai dreptate."
+  },
+  {
+   "key": "1914203021714444288",
+   "en": "Good man, Pepe. Take care.",
+   "ro": "Băiat bun, Pepe. Ai grijă de tine."
+  },
+  {
+   "key": "1914203420726972416",
+   "en": "\"Silence fell like a wet blanket over the city, muffling its cries. Time to rest, I thought. Time to drink.\"",
+   "ro": "Liniștea a căzut peste oraș ca o pătură umedă, înăbușindu-i strigătele. Timpul să mă odihnesc, mi-am zis. Timpul să beau."
+  },
+  {
+   "key": "1914206824622772224",
+   "en": "OK... What now?",
+   "ro": "OK... Și acum?"
+  },
+  {
+   "key": "1914207011336409088",
+   "en": "I wish I knew, Pepe. I really do. But who am I to make your mind up for you?",
+   "en_m": "I wish I knew, Pepe. I really do. But who am I to make your mind up for ya?",
+   "ro": "Aș vrea să știu, Pepe. Chiar aș vrea. Dar cine sunt eu să-ți iau decizia în locul tău?"
+  },
+  {
+   "key": "1914207773273673728",
+   "en": "Yeah, yeah, I know. Well... see you.",
+   "ro": "Da, da, știu. Păi... ne vedem."
+  },
+  {
+   "key": "1914209576455294976",
+   "en": "See, that's more like it. Finally makin' some sense.",
+   "en_m": "See? That's more like it. Finally makin' some sense.",
+   "ro": "Vezi, asta e mai bine. Acum ai sens."
+  },
+  {
+   "key": "1914213430383136768",
+   "en": "I don't know what you told him, but... thanks. Thank you so much.",
+   "ro": "Nu știu ce i-ai spus, dar... mulțumesc. Mulțumesc mult."
+  },
+  {
+   "key": "1914215357867151360",
+   "en": "Anyway, I guess it was just another day in the life for you. And me? Well, it was the end of mine.",
+   "ro": "Oricum, cred că pentru tine a fost doar o zi ca oricare alta. Iar pentru mine? Păi, a fost sfârșitul meu."
+  },
+  {
+   "key": "1914215951612825600",
+   "en": "Pepe threw me out. I'm out on the street. I hope – I just hope you're proud of yourself.",
+   "ro": "Pepe m-a dat afară. Sunt pe stradă. Sper – sper doar că ești mândră de tine.",
+   "ro_m": "Pepe m-a dat afară. Sunt pe stradă. Sper – sper doar că ești mândru de tine."
+  },
+  {
+   "key": "1935781619185274880",
+   "en": "That's why our son looks different than Pepe imagined. It's not because he's not the father, just that I... I don't look anything like the old me.",
+   "ro": "De-aia fiul nostru arată altfel decât și-a imaginat Pepe. Nu pentru că nu e tatăl, ci pentru că eu... nu mai semăn deloc cu mine cea de dinainte."
+  },
+  {
+   "key": "1935791495043141632",
+   "en": "I... I had a lot of 'em. And I can't share them with anyone. Not even my own husband.",
+   "ro": "Am avut... am avut multe. Și nu le pot spune nimănui. Nici măcar soțului meu."
+  },
+  {
+   "key": "1935801503759781888",
+   "en": "The woman loves you, ya gonk. You know how much that means in this fuckin' town?",
+   "en_m": "The woman loves you, ya gonk. Know how much that means in this fuckin' town?",
+   "ro": "Femeia te iubește, fraiere. Știi cât valorează asta în orașul ăsta nenorocit?"
+  },
+  {
+   "key": "2237427012068950016",
+   "en": "Anyway, thanks. This is for you... For your troubles.",
+   "ro": "Oricum, mulțumesc. Asta e pentru tine... Pentru necazuri."
+  },
+  {
+   "key": "2237429669881954304",
+   "en": "Oh, right, uh... somethin' for you. Guess you... Guess you earned it.",
+   "ro": "A, da, ăă... ceva pentru tine. Cred că... cred că ai meritat."
+  }
+ ]
+}

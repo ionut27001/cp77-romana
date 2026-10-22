@@ -1,0 +1,813 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q307\\q307_03_hospital.json",
+ "entries": [
+  {
+   "key": "3262498542473879552",
+   "en": "Eyes, they're openin'. I think she sees me now.",
+   "en_m": "Eyes, they're openin'. I think he sees me now.",
+   "ro": "Ochii... se deschid. Cred că mă vede acum."
+  },
+  {
+   "key": "3262498654294024196",
+   "en": "[Try to move] Think so.",
+   "ro": "[Încearcă să te miști] Cred."
+  },
+  {
+   "key": "3262499057500856320",
+   "en": "[Try to move] Was you I heard?",
+   "ro": "[Încearcă să te miști] Tu erai cea pe care o auzeam?",
+   "ro_m": "[Încearcă să te miști] Tu erai cel pe care îl auzeam?"
+  },
+  {
+   "key": "3272353596760563712",
+   "en": "Think I... can hear...",
+   "ro": "Cred că... aud..."
+  },
+  {
+   "key": "3272353615551045632",
+   "en": "Heard... voices, lots…",
+   "ro": "Am auzit... voci, multe..."
+  },
+  {
+   "key": "3273706588633997316",
+   "en": "[Sit up] What's that mean?",
+   "ro": "[Ridică-te] Ce înseamnă asta?"
+  },
+  {
+   "key": "3273707069804552192",
+   "en": "[Sit up] Sacrificed Johnny – and I'm still damaged goods?",
+   "ro": "[Ridică-te] L-am sacrificat pe Johnny – și încă sunt marfă defectă?"
+  },
+  {
+   "key": "3273721250964480000",
+   "en": "Need to ask... how's So Mi? Everything work out all right?",
+   "ro": "Vreau să întreb... cum o mai duce So Mi? Totul a ieșit cum trebuie?"
+  },
+  {
+   "key": "3273764019426729984",
+   "en": "I've been... cut off from updates for a while, now.",
+   "ro": "Am fost... deconectată de la noutăți de ceva vreme.",
+   "ro_m": "Am fost... deconectat de la noutăți de ceva vreme."
+  },
+  {
+   "key": "3273835728016154624",
+   "en": "Ma'am, your AV is waiting.",
+   "en_m": "Sir, your AV is waiting.",
+   "ro": "Doamnă, AV-ul dumneavoastră vă așteaptă.",
+   "ro_m": "Domnule, AV-ul dumneavoastră vă așteaptă."
+  },
+  {
+   "key": "3282676744766341120",
+   "en": "V. Can you hear me?",
+   "ro": "V. Mă auzi?"
+  },
+  {
+   "key": "3282677623993122816",
+   "en": "Ugh... 'n' I can talk.",
+   "ro": "Ugh... și pot vorbi."
+  },
+  {
+   "key": "3282677902176141312",
+   "en": "Good. About time.",
+   "ro": "Bine. Era și timpul."
+  },
+  {
+   "key": "3282687369827565568",
+   "en": "Was that... you?",
+   "ro": "Tu erai...?"
+  },
+  {
+   "key": "3282687458428043264",
+   "en": "Me, doctors, probably some dreams – doesn't matter. You're awake now.",
+   "ro": "Eu, doctorii, probabil niște vise – nu contează. Ești trează acum.",
+   "ro_m": "Eu, doctorii, probabil niște vise – nu contează. Ești treaz acum."
+  },
+  {
+   "key": "3283943711783501828",
+   "en": "Was told you wouldn't have time for me.",
+   "ro": "Mi s-a zis că n-ai timp de mine."
+  },
+  {
+   "key": "3283943852057804804",
+   "en": "[Lean] So the surgery was a bust?",
+   "ro": "[Sprijină-te] Deci operația a fost un eșec?"
+  },
+  {
+   "key": "3283944295261519872",
+   "en": "You're a changed man, Sol.",
+   "ro": "Te-ai schimbat, Sol."
+  },
+  {
+   "key": "3283944581648596992",
+   "en": "Was told... you got a new job, new duties, lot's of 'em, busy bear, no time for me.",
+   "ro": "Mi s-a zis... că ai job nou, o grămadă de responsabilități, ești ocupat, n-ai timp de mine."
+  },
+  {
+   "key": "3283944896087179264",
+   "en": "Reed, uh... 's that you? Seem... different somehow.",
+   "ro": "Reed, ăă... tu ești? Parcă ești altfel."
+  },
+  {
+   "key": "3283945426482085888",
+   "en": "Weiss. In the AV. You weren't there.",
+   "ro": "Weiss. În AV. Tu nu erai acolo."
+  },
+  {
+   "key": "3283945508170350592",
+   "en": "Ah, right, right... Well, I'm not as busy anymore. 'Sides, I plain wanted to see you.",
+   "ro": "Ah, da, da... Păi, nu mai sunt chiar atât de ocupat. Și-apoi, voiam doar să te văd."
+  },
+  {
+   "key": "3283945888291733504",
+   "en": "Stay at Langley long enough, it, uh, makes you its own. I'm no exception.",
+   "ro": "Stai destul la Langley și te face, ăă, al lui. Nici eu n-am scăpat."
+  },
+  {
+   "key": "3283982443060379648",
+   "en": "And the docs said you needed to see a familiar face. Now in particular, so, yeah…",
+   "ro": "Doctorii au zis că ai nevoie să vezi o față cunoscută. Mai ales acum, așa că... da."
+  },
+  {
+   "key": "3284063130513817600",
+   "en": "[Lean] Everything all right?",
+   "ro": "[Sprijină-te] E totul în regulă?"
+  },
+  {
+   "key": "3284063319072948224",
+   "en": "Knew when I'd wake – how?",
+   "ro": "Ai știut când mă trezesc – cum?"
+  },
+  {
+   "key": "3284063811182247936",
+   "en": "How'd you know... when I'd wake?",
+   "ro": "Cum ai știut... când mă trezesc?"
+  },
+  {
+   "key": "3284065605102845952",
+   "en": "They started bringing you up a few days ago. Controlled process.",
+   "ro": "Au început să te trezească acum câteva zile. Proces controlat."
+  },
+  {
+   "key": "3284066235221524480",
+   "en": "Putting in a personal appearance – bad news, gotta be.",
+   "ro": "Ai venit personal – vești proaste, sigur."
+  },
+  {
+   "key": "3284066593415086080",
+   "en": "Just tell me. Surgery was a bust, right?",
+   "ro": "Spune-mi direct. Operația a fost un eșec, nu?"
+  },
+  {
+   "key": "3284066826182180864",
+   "en": "Pretty nice welcome. Just missin' flowers and a \"Get Well\" card.",
+   "ro": "Primire drăguță. Doar că lipsesc florile și o felicitare cu „Te faci bine!”."
+  },
+  {
+   "key": "3284067186808438784",
+   "en": "Given I'm here, guess things worked out all right, huh?",
+   "ro": "Dacă tot sunt aici, înseamnă că a ieșit totul bine, nu?"
+  },
+  {
+   "key": "3284067439255207936",
+   "en": "Never that simple. Docs saved you, you're alive…",
+   "ro": "Niciodată atât de simplu. Doctorii te-au salvat, ești în viață..."
+  },
+  {
+   "key": "3284068993999814656",
+   "en": "Hearin' a big-ass \"but\" in there.",
+   "ro": "Aud un „dar” cât casa acolo."
+  },
+  {
+   "key": "3284069110433693696",
+   "en": "'Cause there is one – deep invasive work on your nervous system, to cut the engram out safely.",
+   "ro": "Pentru că e unul – o intervenție invazivă pe sistemul tău nervos, ca să scoatem engramul în siguranță."
+  },
+  {
+   "key": "3284212430707343360",
+   "en": "[Sit up] Ripper'll fix me.",
+   "ro": "[Ridică-te] Mă repară ripperul."
+  },
+  {
+   "key": "3288240264341864452",
+   "en": "Could we've done better?",
+   "ro": "Puteam face mai bine?"
+  },
+  {
+   "key": "3288241270874161152",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "3288267140032610304",
+   "en": "Reed?",
+   "ro": "Reed?"
+  },
+  {
+   "key": "3288267449924567040",
+   "en": "This... story – we do the right thing? Could we have done better?",
+   "ro": "Povestea asta... am făcut ce trebuia? Puteam face mai bine?"
+  },
+  {
+   "key": "3288267532116148224",
+   "en": "I don't know, V. And... I won't try answerin'. Just plain afraid.",
+   "ro": "Nu știu, V. Și... n-o să încerc să răspund. Pur și simplu mi-e frică."
+  },
+  {
+   "key": "3288274817622196224",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "3327390190237630464",
+   "en": "Even almost look like… uh…",
+   "en_m": "Even almost look like… umm…",
+   "ro": "Parcă aproape arăți ca... ă..."
+  },
+  {
+   "key": "3327396884833353728",
+   "en": "Who said that? When?",
+   "ro": "Cine a spus asta? Când?"
+  },
+  {
+   "key": "3327402713338855424",
+   "en": "So, how's life, how's things?",
+   "ro": "Deci, cum mai merge viața, ce mai faci?"
+  },
+  {
+   "key": "3327415323530608640",
+   "en": "Ah, paperwork, trainin' recruits – nothing to write home about.",
+   "ro": "Hârtii, antrenat recruți – nimic deosebit."
+  },
+  {
+   "key": "3327415392065536000",
+   "en": "Not your style of work, sounds like.",
+   "ro": "Nu pare genul tău de muncă."
+  },
+  {
+   "key": "3327415463318372352",
+   "en": "I couldn't manage field work anyway, not anymore.",
+   "ro": "Oricum n-aș mai face față pe teren."
+  },
+  {
+   "key": "3327416532983332864",
+   "en": "How's things for you?",
+   "ro": "Dar la tine cum e?"
+  },
+  {
+   "key": "3327422713189613568",
+   "en": "What ever happened to So Mi?",
+   "ro": "Ce s-a întâmplat până la urmă cu So Mi?"
+  },
+  {
+   "key": "3327477557640282124",
+   "en": "That it? A good ripper'll patch it quick and easy.",
+   "ro": "Atât? Un ripper bun o repară repede și fără bătaie de cap."
+  },
+  {
+   "key": "3327483297343979520",
+   "en": "What's that even mean?",
+   "ro": "Ce înseamnă asta, mă rog?"
+  },
+  {
+   "key": "3327484751710502912",
+   "en": "Tellin' me I wiped Johnny, sacrificed 'im for nothin'?",
+   "ro": "Adică îmi spui că l-am șters pe Johnny, că l-am sacrificat degeaba?"
+  },
+  {
+   "key": "3327497069425049600",
+   "en": "Not for nothin' – you're alive.",
+   "ro": "Nu degeaba – ești în viață."
+  },
+  {
+   "key": "3327498696596897792",
+   "en": "Not this time.",
+   "ro": "Nu de data asta."
+  },
+  {
+   "key": "3327515498928390144",
+   "en": "Your neurons... can no longer handle most implants, chrome.",
+   "ro": "Neuronii tăi... nu mai fac față majorității implanturilor, nici chrome-ului."
+  },
+  {
+   "key": "3327515906665070592",
+   "en": "Your brain can manage your personal link and simple coprocessors... but any use of a combat implant, well... could kill you.",
+   "ro": "Creierul tău poate gestiona legătura personală și coprocesoare simple... dar dacă folosești un implant de luptă, păi... te-ar putea omorî."
+  },
+  {
+   "key": "3327516164983865344",
+   "en": "I'm sorry, V, but the life you used to know is gone.",
+   "ro": "Îmi pare rău, V, dar viața pe care o știai nu mai e."
+  },
+  {
+   "key": "3327517962679336960",
+   "en": "Huh...",
+   "ro": "Hm..."
+  },
+  {
+   "key": "3327518397746102272",
+   "en": "There's, uh, one other thing.",
+   "ro": "Mai e, ă, un lucru."
+  },
+  {
+   "key": "3327526489095389184",
+   "en": "You were out for two years. It's twenty seventy-nine.",
+   "ro": "Ai fost în comă doi ani. Suntem în 2079."
+  },
+  {
+   "key": "3327528566399942656",
+   "en": "I wish I could help you, V. But I can't.",
+   "ro": "Aș vrea să te ajut, V. Dar nu pot."
+  },
+  {
+   "key": "3327528567909892096",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "3327528567909892116",
+   "en": "Gotta be kiddin' me.",
+   "ro": "Faci mișto de mine!"
+  },
+  {
+   "key": "3327528567909892136",
+   "en": "You all lied.",
+   "ro": "Ați mințit cu toții."
+  },
+  {
+   "key": "3327528567926669336",
+   "en": "I see.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "3327528567926669356",
+   "en": "So the future's now.",
+   "ro": "Deci viitorul e acum."
+  },
+  {
+   "key": "3327528568144773136",
+   "en": "Fuck. My whole life down the shitter.",
+   "ro": "Futu-i. Toată viața mea s-a dus pe căcat."
+  },
+  {
+   "key": "3327528568161550348",
+   "en": "It's rough, I know. It'll take, uh, it'll take getting used to. But it gets better. Trust me.",
+   "ro": "E greu, știu. O să-ți ia, ă, o să-ți ia timp să te obișnuiești. Dar o să fie mai bine. Crede-mă."
+  },
+  {
+   "key": "3327528568161550364",
+   "en": "Two years an' zapped nerves... that all your best docs can manage?",
+   "ro": "Doi ani și nervi praf... atât pot face cei mai buni doctori ai voștri?"
+  },
+  {
+   "key": "3327528572154527760",
+   "en": "You're shitting me.",
+   "ro": "Glumești, căcat?"
+  },
+  {
+   "key": "3327528572154527776",
+   "en": "Believe me, I wish I could've said it was all good.",
+   "ro": "Crede-mă, mi-aș fi dorit să pot spune că e totul ok."
+  },
+  {
+   "key": "3327528572171304960",
+   "en": "Seventy-fuckin'-nine? Ya takin' me for a ride? This some sick joke? Please say it is.",
+   "ro": "Șaptezeci și nouă, pula mea? Mă iei peste picior? Asta e vreo glumă bolnavă? Zi că e, te rog."
+  },
+  {
+   "key": "3327528576113950732",
+   "en": "You... fucking hazed me.",
+   "en_m": "You... fuckin' hazed me.",
+   "ro": "M-ați... făcut de râs, pula mea."
+  },
+  {
+   "key": "3327528576113950756",
+   "en": "Said you'd help me. Instead, you fuckers took it all away.",
+   "ro": "Ziceați că mă ajutați. Pe bune, javrelor, mi-ați luat tot."
+  },
+  {
+   "key": "3327528580106928144",
+   "en": "I see.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "3327528580106928160",
+   "en": "That's it? You're takin' it pretty well.",
+   "ro": "Atât? Chiar o iei cu calm."
+  },
+  {
+   "key": "3327528580106928184",
+   "en": "Lackin' the strength to rage at reality. At least – for now.",
+   "en_m": "Lackin' the strength to rage at reality. At least for now.",
+   "ro": "N-am puterea să mă enervez pe realitate. Măcar deocamdată."
+  },
+  {
+   "key": "3327528584183791632",
+   "en": "Huh. Imagined the future'd look a little different.",
+   "ro": "Hm. Credeam că viitorul arată altfel."
+  },
+  {
+   "key": "3327528584183791648",
+   "en": "A joke? Shit, I'm impressed.",
+   "ro": "O glumă? Căcat, m-ai impresionat."
+  },
+  {
+   "key": "3327528584200568836",
+   "en": "What good would it do to rage at reality? Don't see any sense in it.",
+   "ro": "Ce-ai câștiga enervându-te pe realitate? Nu văd niciun sens."
+  },
+  {
+   "key": "3328811892746207232",
+   "en": "Night City – when can I go back?",
+   "ro": "Night City – când mă pot întoarce?"
+  },
+  {
+   "key": "3328811892762984488",
+   "en": "Why didn't the doctors use nanobots?",
+   "ro": "De ce n-au folosit doctorii nanoboți?"
+  },
+  {
+   "key": "3328811892779761676",
+   "en": "My implants? What's with them?",
+   "ro": "Implanturile mele? Ce e cu ele?"
+  },
+  {
+   "key": "3328812364236308500",
+   "en": "Damaged my nervous system... can hardly believe it. W-why didn't they use nanobots?",
+   "en_m": "Damaged my nervous system... can hardly believe it. Why didn't they use nanobots?",
+   "ro": "Mi-au avariat sistemul nervos... nu-mi vine să cred. D-de ce n-au folosit nanoboți?"
+  },
+  {
+   "key": "3328812364236308516",
+   "en": "Neural matrix – apparently it reduced your cells' regenerative capacity.",
+   "ro": "Matricea neurală – se pare că ți-a tăiat din regenerarea celulelor."
+  },
+  {
+   "key": "3328812364253085696",
+   "en": "We tried everything. Really.",
+   "ro": "Am încercat tot. Chiar tot."
+  },
+  {
+   "key": "3328812377540640784",
+   "en": "What... what about my chrome?",
+   "ro": "Ce... ce e cu chrome-ul meu?"
+  },
+  {
+   "key": "3328812377540640796",
+   "en": "Your implants have been deactivated. It needed doin'. Your survival depended on it.",
+   "ro": "Ți-am dezactivat implanturile. Trebuia. Supraviețuirea ta depindea de asta."
+  },
+  {
+   "key": "3328813954296954880",
+   "en": "Need to get outta here. NC – when can I go back?",
+   "ro": "Trebuie să ies de-aici. NC – când pot să mă întorc?"
+  },
+  {
+   "key": "3328814483853000704",
+   "en": "Today, if that's your wish. But you should ask yourself--",
+   "ro": "Azi, dacă asta vrei. Dar ar trebui să te-ntrebi--"
+  },
+  {
+   "key": "3328814563427336192",
+   "en": "Preem. Where's my stuff?",
+   "ro": "Beton. Unde sunt lucrurile mele?"
+  },
+  {
+   "key": "3328814635451924480",
+   "en": "V, listen to me. Your body… it ain't goin' back to what it was.",
+   "ro": "V, ascultă-mă. Corpul tău... nu o să mai fie ce-a fost."
+  },
+  {
+   "key": "3328814778209255424",
+   "en": "And NC's a city where you just won't manage. Not anymore.",
+   "ro": "Și NC nu mai e orașul în care te descurci."
+  },
+  {
+   "key": "3328847894705586176",
+   "en": "Please understand. I'd like to spare you that disappointment at least.",
+   "ro": "Te rog, înțelege. Măcar de dezamăgirea asta aș vrea să te scutesc."
+  },
+  {
+   "key": "3328848243134808064",
+   "en": "Great. And what comes next?",
+   "ro": "Super. Și ce urmează?"
+  },
+  {
+   "key": "3328848388761042944",
+   "en": "We truly appreciate what you did for us. We can set you up with a job here at Langley.",
+   "ro": "Chiar apreciem ce-ai făcut pentru noi. Îți putem aranja un job aici, la Langley."
+  },
+  {
+   "key": "3328921420854706180",
+   "en": "Know you're tryin' to help.",
+   "ro": "Știu că încerci să ajuți."
+  },
+  {
+   "key": "3328921621594095616",
+   "en": "Don't need your pity.",
+   "ro": "N-am nevoie de mila ta."
+  },
+  {
+   "key": "3328921919943327744",
+   "en": "An' what would I do? Be your assistant, errand rover?",
+   "ro": "Și ce-aș face? Să-ți fiu asistentă, să-ți fac comisioanele?",
+   "ro_m": "Și ce-aș face? Să-ți fiu asistent, să-ți fac comisioanele?"
+  },
+  {
+   "key": "3328922371015557120",
+   "en": "I know you're tryin' to help, but you damn well know that's not for me.",
+   "ro": "Știu că încerci să ajuți, dar știi foarte bine că nu e pentru mine."
+  },
+  {
+   "key": "3328922546891112448",
+   "en": "I know I'd feel better seein' you off the street.",
+   "ro": "Mi-ar fi mai bine știindu-te departe de stradă."
+  },
+  {
+   "key": "3328922716542320640",
+   "en": "Don't need your pity.",
+   "ro": "N-am nevoie de mila ta."
+  },
+  {
+   "key": "3328922920922365952",
+   "en": "Nobody's pitying anybody. We're grateful, so it's a favor to a friend, that's it.",
+   "ro": "Nu e milă, nimic de genul. Suntem recunoscători, e un favor pentru un prieten, atât."
+  },
+  {
+   "key": "3328923281162747904",
+   "en": "Really don't need your favors…",
+   "ro": "Chiar n-am nevoie de favorurile voastre..."
+  },
+  {
+   "key": "3328923445411692544",
+   "en": "This isn't my life, Reed.",
+   "ro": "Asta nu e viața mea, Reed."
+  },
+  {
+   "key": "3328923706431619072",
+   "en": "But it could be, given your old one is long gone.",
+   "ro": "Dar ar putea fi, că doar vechea ta viață e demult dusă."
+  },
+  {
+   "key": "3328940666099843072",
+   "en": "Not ready for that just yet.",
+   "ro": "Nu-s încă pregătită pentru asta.",
+   "ro_m": "Nu-s încă pregătit pentru asta."
+  },
+  {
+   "key": "3328941111987912704",
+   "en": "Nah, offers like that – not ready for 'em yet.",
+   "ro": "Nu, oferte din astea – încă nu-s pregătită pentru ele.",
+   "ro_m": "Nu, oferte din astea – încă nu-s pregătit pentru ele."
+  },
+  {
+   "key": "3328941462984048640",
+   "en": "Understood. I still wanted you to know right off that you had the option.",
+   "ro": "Am înțeles. Voiam totuși să știi de la început că ai opțiunea asta."
+  },
+  {
+   "key": "3328941666927886336",
+   "en": "Look, my world just shattered, like, into splinters. Really think I can plan my next career move? Besides…",
+   "ro": "Uite, lumea mea tocmai s-a făcut țăndări. Chiar crezi că mai pot să-mi planific următoarea mișcare în carieră? Și oricum…"
+  },
+  {
+   "key": "3328950160208936964",
+   "en": "Need to think about it.",
+   "ro": "Trebuie să mă mai gândesc."
+  },
+  {
+   "key": "3328950362156285952",
+   "en": "Gimme a break.",
+   "ro": "Lasă-mă, mă!"
+  },
+  {
+   "key": "3328950578028724224",
+   "en": "Dunno, someday, maybe. Need to think. But now, goin' home to NC, definitely.",
+   "ro": "Habar n-am, poate cândva. Mai trebuie să mă gândesc. Acum mă întorc acasă în NC, sigur."
+  },
+  {
+   "key": "3328950829754073088",
+   "en": "Up to you.",
+   "ro": "Cum vrei."
+  },
+  {
+   "key": "3328951241601171456",
+   "en": "Reed, please. Just... won't work.",
+   "ro": "Reed, te rog. Pur și simplu... nu merge."
+  },
+  {
+   "key": "3328951730036260864",
+   "en": "Goin' home, back to NC.",
+   "ro": "Mă întorc acasă, în NC."
+  },
+  {
+   "key": "3328951857408884736",
+   "en": "Ehh, sure... Your call.",
+   "ro": "Ehh, sigur... Tu decizi."
+  },
+  {
+   "key": "3328952006323453952",
+   "en": "An' if you change your mind, you know where to find me.",
+   "ro": "Și dacă te răzgândești, știi unde mă găsești."
+  },
+  {
+   "key": "3328953966657257472",
+   "en": "Didn't escape death just to waste away here.",
+   "ro": "N-am scăpat de moarte ca să putrezesc aici."
+  },
+  {
+   "key": "3329000916756709376",
+   "en": "Once you know where you're headed, call the nurse.",
+   "ro": "Când știi încotro o iei, sună la asistentă."
+  },
+  {
+   "key": "3339189421633945604",
+   "en": "[Go to window] Need some air.",
+   "ro": "[Mergi la fereastră] Îmi trebuie aer."
+  },
+  {
+   "key": "3339189877940666368",
+   "en": "Keep hearin' the same shit. Why's it nobody can ever help me?",
+   "ro": "Tot aceeași poveste aud. De ce nu mă poate ajuta nimeni niciodată?"
+  },
+  {
+   "key": "3339191024713711616",
+   "en": "Ugh...! Legs're... jelly. Can barely stand...",
+   "en_m": "Ugh...! Legs're jelly... Can barely stand...",
+   "ro": "Ugh...! Picioarele mi-s... gelatină. Abia mă mai țin pe picioare..."
+  },
+  {
+   "key": "3339191222466756608",
+   "en": "Been laid up for two years, V.",
+   "ro": "Ai stat la pat doi ani, V."
+  },
+  {
+   "key": "3339192476462989312",
+   "en": "Need some air.",
+   "ro": "Am nevoie de aer."
+  },
+  {
+   "key": "3339193416289075200",
+   "en": "Me and a Langley gig… Pff.",
+   "ro": "Eu și un gig la Langley… Pff."
+  },
+  {
+   "key": "3339193689338265600",
+   "en": "I know it's not the job of your dreams, but it's a decent prospect.",
+   "ro": "Știu că nu e jobul de vis, dar e un început decent."
+  },
+  {
+   "key": "3339212309900541952",
+   "en": "Nice view out there?",
+   "ro": "Frumoasă priveliște afară?"
+  },
+  {
+   "key": "3339212794376208384",
+   "en": "Nice... nice view?",
+   "ro": "Frumoasă... frumoasă priveliște?"
+  },
+  {
+   "key": "3339213016070340608",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "3339213090242412544",
+   "en": "Out the window.",
+   "ro": "Pe fereastră."
+  },
+  {
+   "key": "3339213164162826240",
+   "en": "Mhm. Greenery, calm, birds chirpin'. Not what you're used to.",
+   "ro": "Mhm. Verdeață, liniște, păsări ciripind. Nu-i ce ești obișnuită.",
+   "ro_m": "Mhm. Verdeață, liniște, păsări ciripind. Nu-i ce ești obișnuit."
+  },
+  {
+   "key": "3373982369428783104",
+   "en": "She's alive, that's all I know.",
+   "ro": "E vie, atât știu."
+  },
+  {
+   "key": "3457785565166682112",
+   "en": "Same shit, always. Peeps wantin' to help me… never bein' able to. Why?",
+   "ro": "Aceeași poveste, mereu. Oamenii vor să mă ajute… și nu pot niciodată. De ce?"
+  },
+  {
+   "key": "3457785942452715520",
+   "en": "Are you… you all right?",
+   "ro": "Ești… ești bine?"
+  },
+  {
+   "key": "3457786013470670848",
+   "en": "I need… I need…",
+   "ro": "Am nevoie… am nevoie…"
+  },
+  {
+   "key": "3470135687932145664",
+   "en": "Reed.",
+   "ro": "Reed."
+  },
+  {
+   "key": "3476512041017786408",
+   "en": "Right, that… Wasn't any reason for me to be there then.",
+   "ro": "Așa, asta… N-aveam niciun motiv să fiu acolo atunci."
+  },
+  {
+   "key": "3476513215305465856",
+   "en": "Now, yeah, I felt I owed you this.",
+   "ro": "Acum, da, cred că ți-o datorez."
+  },
+  {
+   "key": "3476530981320245248",
+   "en": "Our people did everything they could, anything possible.",
+   "ro": "Oamenii noștri au făcut tot ce s-a putut, absolut tot."
+  },
+  {
+   "key": "3476532306435096576",
+   "en": "Doctor's estimates. You were supposed to be conscious by today, tomorrow latest.",
+   "ro": "Așa zicea doctorul. Trebuia să fii trează azi, mâine cel târziu.",
+   "ro_m": "Așa zicea doctorul. Trebuia să fii treaz azi, mâine cel târziu."
+  },
+  {
+   "key": "3476549181562929152",
+   "en": "Why the hell you care?",
+   "ro": "De ce naiba îți pasă?"
+  },
+  {
+   "key": "3476560986163101696",
+   "en": "No pity here, V. It's an appreciative gesture from the NUSA.",
+   "ro": "Nu e milă, V. E un gest de apreciere din partea NUSA."
+  },
+  {
+   "key": "3476575615794790400",
+   "en": "Fuck that kind of gratitude.",
+   "ro": "Nici în pula mea de recunoștința asta."
+  },
+  {
+   "key": "3476580424396554240",
+   "en": "Please stop pretending you care. You don't want me here. Neither of us does.",
+   "ro": "Gata, nu te mai da că-ți pasă. Nu mă vrei aici. Niciunul dintre noi nu vrea."
+  },
+  {
+   "key": "3476590916162797568",
+   "en": "No need, V. You've got no reason to thank me.",
+   "ro": "Nu e nevoie, V. N-ai niciun motiv să-mi mulțumești."
+  },
+  {
+   "key": "3476833170561298436",
+   "en": "[Lean]",
+   "ro": "[Sprijină-te]"
+  },
+  {
+   "key": "3476834884907560964",
+   "en": "[Step away]",
+   "ro": "[Fă un pas înapoi]"
+  },
+  {
+   "key": "3485494409674080256",
+   "en": "[Take]",
+   "ro": "[Ia]"
+  },
+  {
+   "key": "3525787319782850560",
+   "en": "Or... just admit – I-I-I dunno – that you don't know, aren't sure, whatever…",
+   "en_m": "Or just admit – I dunno, ju-- That you don't know, ya-- You aren't sure, whatever, j--!",
+   "ro": "Sau... recunoaște – nu știu, nu... – că nu știi, nu ești sigură, orice…",
+   "ro_m": "Sau... recunoaște – nu știu, nu... – că nu știi, nu ești sigur, orice…"
+  },
+  {
+   "key": "3527278600465805312",
+   "en": "Back on your feet – it's nice to see that, finally.",
+   "ro": "Iar pe picioare – bine că văd asta, în sfârșit."
+  },
+  {
+   "key": "3527310365786095616",
+   "en": "Ah! First storm this year.",
+   "ro": "Ah! Prima furtună din anul ăsta."
+  },
+  {
+   "key": "3653759623587557380",
+   "en": "[Look out]",
+   "ro": "[Uită-te afară]"
+  },
+  {
+   "key": "3723391907099557888",
+   "en": "[Step away]",
+   "ro": "[Fă un pas înapoi]"
+  },
+  {
+   "key": "3785732467090743296",
+   "en": "[Touch head]",
+   "ro": "[Atinge-ți capul]"
+  },
+  {
+   "key": "3862308031041806336",
+   "en": "[Use laptop]",
+   "ro": "[Folosește laptopul]"
+  },
+  {
+   "key": "3862356213578768384",
+   "en": "[Use laptop]",
+   "ro": "[Folosește laptopul]"
+  }
+ ]
+}

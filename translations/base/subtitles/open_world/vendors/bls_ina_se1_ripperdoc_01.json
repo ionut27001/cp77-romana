@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_ripperdoc_01.json",
+ "entries": [
+  {
+   "key": "1935685493203578880",
+   "en": "Wanna get an implant.",
+   "ro": "Vreau să-mi pun un implant."
+  },
+  {
+   "key": "1935685493220356104",
+   "en": "Recommend any specific implants?",
+   "ro": "Recomanzi vreun implant anume?"
+  },
+  {
+   "key": "1935685493270687748",
+   "en": "Wanna get myself chipped.",
+   "ro": "Vreau să-mi pun un chip."
+  },
+  {
+   "key": "1935685493270687756",
+   "en": "Straight to the point. I like it.",
+   "ro": "Direct la subiect. Îmi place."
+  },
+  {
+   "key": "1935685493321019396",
+   "en": "Recommend any chrome in particular?",
+   "en_m": "You recommend any chrome in particular?",
+   "ro": "Recomanzi vreun chrome anume?"
+  },
+  {
+   "key": "1935685493321019404",
+   "en": "Eh, y'know, cyberimplantation is like buying shoes – everyone needs somethin' different. A netrunner won't have the same needs as a solo.",
+   "ro": "Eh, cibernetizarea e ca și pantofii, știi tu – fiecare are nevoie de altceva. Un netrunner nu are aceleași nevoi ca un solo."
+  },
+  {
+   "key": "1976512165255106560",
+   "en": "But...! If you spend a lotta time in the Badlands, it's worth investing in cloaking gear. Holoskin, active camo – what have you.",
+   "ro": "Dar...! Dacă stai mult prin Badlands, merită să investești în camuflaje. Holoskin, camuflaj activ – și alte chestii d-astea."
+  },
+  {
+   "key": "1976518681693573120",
+   "en": "Compared to the city, surrounding area might look deserted... but less folk doesn't mean you'll be safer.",
+   "ro": "Față de oraș, pe-aici poate pare pustiu... da' mai puțini oameni nu înseamnă că o să fii mai în siguranță."
+  },
+  {
+   "key": "1976522523105611776",
+   "en": "Here's what I recommend – move quietly, don't draw too much attention, else things can get real ugly, real quick.",
+   "ro": "Uite ce-ți recomand: mișcă-te pe tăcute, nu atrage atenția, că altfel se face mizerie repede."
+  },
+  {
+   "key": "1976524114894311424",
+   "en": "I know. I was raised by the Bakkers.",
+   "ro": "Știu. Am fost crescută de familia Bakker.",
+   "ro_m": "Știu. Am fost crescut de familia Bakker."
+  },
+  {
+   "key": "1976527848965722112",
+   "en": "Oh, well I don't have to tell you, then.",
+   "ro": "Păi, atunci nu mai e nevoie să-ți zic."
+  },
+  {
+   "key": "3378317372547682304",
+   "en": "I want to change my appearance.",
+   "ro": "Vreau să-mi schimb aspectul."
+  },
+  {
+   "key": "3378318216928186368",
+   "en": "I'd like to use your services.",
+   "ro": "Aș vrea să folosesc serviciile tale."
+  },
+  {
+   "key": "3378318693736665088",
+   "en": "Straight to the point. I like it.",
+   "ro": "Direct la subiect. Îmi place."
+  }
+ ]
+}

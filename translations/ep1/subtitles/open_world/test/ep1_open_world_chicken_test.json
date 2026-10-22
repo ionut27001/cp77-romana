@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\test\\ep1_open_world_chicken_test.json",
+ "entries": [
+  {
+   "key": "3643334499850862592",
+   "en": "[db_db]testing with minor quests",
+   "ro": "[db_db]testare cu quest-uri minore"
+  },
+  {
+   "key": "3643335300509941760",
+   "en": "[db_db]testing without minor quests",
+   "ro": "[db_db]testare fără quest-uri minore"
+  },
+  {
+   "key": "3711459049294340096",
+   "en": "[db_db]go to spaceport",
+   "ro": "[db_db]mergi la spațiuport"
+  }
+ ]
+}

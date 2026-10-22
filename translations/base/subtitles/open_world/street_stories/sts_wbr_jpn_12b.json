@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_jpn_12b.json",
+ "entries": [
+  {
+   "key": "1296864478322778112",
+   "en": "<kiroshi l=\"jpn\" o=\"う… ひどい匂い…\" t=\"Ugh... that smell...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"う… ひどい匂い…\" t=\"Ugh... ce miros...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1297753457297481728",
+   "en": "<kiroshi l=\"jpn\" o=\"ただの腐敗臭だろ\" t=\"It's called decomposition.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ただの腐敗臭だろ\" t=\"Ce altceva ar fi, descompunere.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1895049481091571712",
+   "en": "<kiroshi l=\"jpn\" o=\"酸で溶かして、トイレに流すとかできないわけ…？\" t=\"Can't we dissolve it in acid? Flush it down the can...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"酸で溶かして、トイレに流すとかできないわけ…？\" t=\"Nu-l putem topi cu acid? Să-l tragem pe toaletă...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1925891971906588672",
+   "en": "<kiroshi l=\"jpn\" o=\"どうせ長居しないんだ、放置でいいだろ\" t=\"Not our problem. We're outta here soon, anyway.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どうせ長居しないんだ、放置でいいだろ\" t=\"Nu e treaba noastră. Oricum o tulim de aici curând.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

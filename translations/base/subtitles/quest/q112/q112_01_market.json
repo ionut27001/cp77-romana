@@ -1,0 +1,453 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_01_market.json",
+ "entries": [
+  {
+   "key": "1643116584492875776",
+   "en": "Ah, you are here.",
+   "ro": "A, ai ajuns."
+  },
+  {
+   "key": "1643117143157391364",
+   "en": "What're we doin' here?",
+   "ro": "Ce facem aici?"
+  },
+  {
+   "key": "1643118453508292608",
+   "en": "Do you know who most wished to honor Arasaka-sama with the parade?",
+   "ro": "Știi cine a vrut cel mai mult să-l onoreze pe Arasaka-sama cu parada?"
+  },
+  {
+   "key": "1643121473541390336",
+   "en": "Don't see what that gets us.",
+   "ro": "Nu văd ce câștigăm din asta."
+  },
+  {
+   "key": "1643122058495803392",
+   "en": "Thought Yori wasn't one for tradition.",
+   "ro": "Credeam că lui Yori nu-i plac tradițiile."
+  },
+  {
+   "key": "1643122915090120704",
+   "en": "What's in it for Yorinobu?",
+   "ro": "Ce câștigă Yorinobu din asta?"
+  },
+  {
+   "key": "1643123905851834368",
+   "en": "Parade stands to confirm his legitimacy.",
+   "ro": "Parada îi întărește legitimitatea."
+  },
+  {
+   "key": "1643125303024828416",
+   "en": "Yorinobu's a smart little muffin. Puttin' on the parade to show off his attachment to Arasaka, its values.",
+   "ro": "Yorinobu e un tip deștept. Organizează parada ca să-și arate atașamentul față de Arasaka și valorile ei."
+  },
+  {
+   "key": "1643127550299357184",
+   "en": "He is shrewd. I will not deny that.",
+   "ro": "E șiret, nu zic nu."
+  },
+  {
+   "key": "1643127703458562048",
+   "en": "Japanese heritage is one element. Yorinobu will also put on a display of power.",
+   "ro": "Moștenirea japoneză e un element. Yorinobu o să facă și o demonstrație de forță."
+  },
+  {
+   "key": "1643128638721245184",
+   "en": "The floats are sure to be beautiful, but the wizened eye will see in them a hidden message to his foes.",
+   "ro": "Carele alegorice o să fie frumoase, sigur, dar ochiul format o să vadă în ele un mesaj ascuns pentru dușmanii lui."
+  },
+  {
+   "key": "1644748867821912064",
+   "en": "Still don't see how this gets us anywhere.",
+   "ro": "Tot nu văd cum ne ajută asta."
+  },
+  {
+   "key": "1698600601962692608",
+   "en": "I acquired some information of my own.",
+   "ro": "Am obținut și eu niște informații."
+  },
+  {
+   "key": "1711266717562322944",
+   "en": "I have had an idea.",
+   "ro": "Am avut o idee."
+  },
+  {
+   "key": "1711563643113455616",
+   "en": "Look to the sky.",
+   "ro": "Uită-te la cer."
+  },
+  {
+   "key": "1711566497521876992",
+   "en": "While you were occupied with your shady dealings, I learned more about the floats.",
+   "ro": "Cât erai ocupată cu chestiile tale dubioase, am aflat mai multe despre care.",
+   "ro_m": "Cât erai ocupat cu chestiile tale dubioase, am aflat mai multe despre care."
+  },
+  {
+   "key": "1711566497555431424",
+   "en": "I have an infected shard.",
+   "ro": "Am un shard infectat."
+  },
+  {
+   "key": "1711566497605763072",
+   "en": "[Take shard]",
+   "ro": "[Ia shard-ul]"
+  },
+  {
+   "key": "1711566501028315136",
+   "en": "And then?",
+   "ro": "Și apoi?"
+  },
+  {
+   "key": "1711566501028315152",
+   "en": "Hacking's not my forte.",
+   "ro": "La hacking nu sunt prea bun."
+  },
+  {
+   "key": "1711566504215986176",
+   "en": "Right. Then what?",
+   "ro": "Bine. Și apoi?"
+  },
+  {
+   "key": "1711566504249540608",
+   "en": "Gotta be honest. Netrunning's not my forte.",
+   "ro": "Sincer, la netrunning nu sunt bun."
+  },
+  {
+   "key": "1711566504249540616",
+   "en": "It is even less mine.",
+   "ro": "La mine e și mai rău."
+  },
+  {
+   "key": "1711569540120330240",
+   "en": "They are all kept in one place – Arasaka Industrial Park. It is there that they prepare them.",
+   "ro": "Toate sunt ținute într-un singur loc – Parcul Industrial Arasaka. Acolo le pregătesc."
+  },
+  {
+   "key": "1711571853195100160",
+   "en": "Let us move on.",
+   "ro": "Hai să mergem mai departe."
+  },
+  {
+   "key": "1711572544248627200",
+   "en": "To take control of the float is one thing, but not all. The security concerns me – the snipers especially. I will be an easy target.",
+   "ro": "Să preiei controlul carelui e una, dar nu e totul. Securitatea mă neliniștește – mai ales lunetiștii. O să fiu o țintă ușoară."
+  },
+  {
+   "key": "1711573935180496896",
+   "en": "But I may have an answer. Okada-san mentioned the city cameras.",
+   "ro": "Dar poate am o soluție. Okada-san a pomenit de camerele din oraș."
+  },
+  {
+   "key": "1714341936410529792",
+   "en": "Doesn't seem like the kind who'd care to honor tradition.",
+   "ro": "Nu pare genul care să dea doi bani pe tradiții."
+  },
+  {
+   "key": "1714343242885894144",
+   "en": "That is so.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1714347411420090368",
+   "en": "<mothertongue l=\"jpn\" m=\"gumin-domo\" b=\"\\\"I am here, \" a=\". Watch your backs.\\\" \"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"gumin-domo\" b=\"\\\"Sunt aici, \" a=\". Urmăriți-vă spatele.\\\" \"/>"
+  },
+  {
+   "key": "1714349377978241024",
+   "en": "What message'd that be?",
+   "ro": "Ce mesaj ar fi ăla?"
+  },
+  {
+   "key": "1714354294189068288",
+   "en": "And to solidify his legitimacy.",
+   "ro": "Și ca să-și consolideze legitimitatea."
+  },
+  {
+   "key": "1714358578536386560",
+   "en": "Good to see you, Goro.",
+   "ro": "Mă bucur să te văd, Goro."
+  },
+  {
+   "key": "1714359452428013568",
+   "en": "Goro. Good to see you.",
+   "ro": "Goro. Mă bucur să te văd."
+  },
+  {
+   "key": "1714359614143598592",
+   "en": "Why? What're we doin' here?",
+   "ro": "De ce? Ce facem aici?"
+  },
+  {
+   "key": "1714360581282992128",
+   "en": "As it is to see you, V.",
+   "ro": "Și eu mă bucur să te văd, V."
+  },
+  {
+   "key": "1719999005323038720",
+   "en": "Actually sounds doable.",
+   "ro": "Chiar pare fezabil."
+  },
+  {
+   "key": "1719999561370308608",
+   "en": "Lots of ways to skin this particular cat, y'know. Gonna need--",
+   "ro": "Sunt o grămadă de moduri să rezolvi asta, știi. Îmi trebuie--"
+  },
+  {
+   "key": "1720009300359647232",
+   "en": "I know what you need. It is taken care of.",
+   "ro": "Știu ce-ți trebuie. E rezolvat."
+  },
+  {
+   "key": "1720013574405754880",
+   "en": "It was not cheap, but the man who sold it to me guaranteed it will work.",
+   "ro": "N-a fost ieftin, dar omul care mi l-a vândut a garantat că o să funcționeze."
+  },
+  {
+   "key": "1724371748889956352",
+   "en": "And how ya aim to do that?",
+   "ro": "Și cum ai de gând s-o faci?"
+  },
+  {
+   "key": "1724371748889956368",
+   "en": "In front of everyone? Think you might've lost it.",
+   "ro": "În fața tuturor? Cred că ți-ai pierdut mințile."
+  },
+  {
+   "key": "1724371748889956384",
+   "en": "Impossible. Even with implants.",
+   "ro": "Imposibil. Chiar și cu implanturi."
+  },
+  {
+   "key": "1724373624230383616",
+   "en": "And how ya aim to manage that?",
+   "ro": "Și cum ai de gând să te descurci?"
+  },
+  {
+   "key": "1724373701741121536",
+   "en": "You're gnatshit crazy. In front of a crowd? What about security or...?",
+   "ro": "Ești nebun? În fața unei mulțimi? Și cum rămâne cu securitatea?"
+  },
+  {
+   "key": "1724373802756739072",
+   "en": "Expectation's way too high, Goro. Couldn't pull that off even if you had your fancy implants.",
+   "en_m": "Expectation's way too high, Goro. Couldn't pull that off even if you still had your fancy implants.",
+   "ro": "Așteptările sunt prea mari, Goro. N-ai putea face asta nici dacă ai avea implanturile alea faine.",
+   "ro_m": "Așteptările sunt prea mari, Goro. N-ai putea face asta nici dacă mai aveai implanturile alea faine."
+  },
+  {
+   "key": "1724380572011073536",
+   "en": "We need only to break into the compound, find the right float and inject a virus into its system.",
+   "ro": "Trebuie doar să intrăm în complex, să găsim carelul potrivit și să băgăm un virus în sistemul lui."
+  },
+  {
+   "key": "1724386493898559488",
+   "en": "You will then be able to disable any security before I sneak inside.",
+   "ro": "Atunci o să poți dezactiva orice securitate înainte să mă strecor înăuntru."
+  },
+  {
+   "key": "1724388168130498560",
+   "en": "I have thought of a solution.",
+   "ro": "M-am gândit la o soluție."
+  },
+  {
+   "key": "1724388318437576704",
+   "en": "You need not worry.",
+   "ro": "Nu trebuie să-ți faci griji."
+  },
+  {
+   "key": "1724405553470246912",
+   "en": "Think I see where this is goin'. Got me doin' all the dirty work.",
+   "ro": "Cred că văd încotro o ia. M-ai pus să fac toată munca murdară."
+  },
+  {
+   "key": "1724410364940914688",
+   "en": "Do you wish to trade places? What exactly would you say to her? \"Hello, my name is V\"?",
+   "ro": "Vrei să schimbăm locurile? Ce i-ai spune exact? \"Salut, mă numesc V\"?"
+  },
+  {
+   "key": "1724418373981179904",
+   "en": "Hanako-sama knows me. Only I can do this.",
+   "ro": "Hanako-sama mă cunoaște. Doar eu pot face asta."
+  },
+  {
+   "key": "1725524809985429504",
+   "en": "Not one for subtlety, is he?",
+   "ro": "Nu-i chiar subtil, nu?"
+  },
+  {
+   "key": "1731660491478888448",
+   "en": "I do not understand. Does Arasaka not have enough of its own people?",
+   "ro": "Nu înțeleg. Arasaka nu are destui oameni proprii?"
+  },
+  {
+   "key": "1731661366947573760",
+   "en": "Look around, sir. Things're heating up in the city.",
+   "ro": "Uită-te în jur, domnule. Se încinge treaba prin oraș."
+  },
+  {
+   "key": "1732780378098319360",
+   "en": "Not one to butt in, but…",
+   "ro": "Nu vreau să mă bag, dar…"
+  },
+  {
+   "key": "1732781618672779280",
+   "en": "Need to steal your buddy for a second.",
+   "ro": "Trebuie să-ți fur prietenul un pic."
+  },
+  {
+   "key": "1732782147775840256",
+   "en": "Hate to interrupt, but...",
+   "ro": "Scuze că întrerup, dar..."
+  },
+  {
+   "key": "1732782508787974144",
+   "en": "He's got the gift of the gab, can't be denied, but I need to steal your buddy for a sec.",
+   "ro": "Are gura bine ungă, nu-i de negat, dar trebuie să-ți iau prietenul o secundă."
+  },
+  {
+   "key": "1732783915305877504",
+   "en": "Ah, perfect timing!",
+   "ro": "Ce moment bun!"
+  },
+  {
+   "key": "1732786405564825600",
+   "en": "What are you...?",
+   "ro": "Ce ești...?"
+  },
+  {
+   "key": "1732801942743236632",
+   "en": "The dashi floats will pass precisely this way.",
+   "ro": "Plutele dashi o să treacă fix pe aici."
+  },
+  {
+   "key": "1732801942743236644",
+   "en": "If I could just get onto Hanako-sama's float, I could speak with her in private.",
+   "ro": "Dacă aș ajunge pe pluta lui Hanako-sama, aș putea vorbi cu ea între patru ochi."
+  },
+  {
+   "key": "1763553732555837440",
+   "en": "Get there how?",
+   "ro": "Cum ajungi acolo?"
+  },
+  {
+   "key": "1763555229637152768",
+   "en": "Shard – where'd you get it?",
+   "ro": "Shard – de unde l-ai luat?"
+  },
+  {
+   "key": "1763556256486658048",
+   "en": "Where'd you get this shard?",
+   "ro": "De unde ai luat shard-ul ăsta?"
+  },
+  {
+   "key": "1763556749871026176",
+   "en": "Across the canal.",
+   "ro": "Dincolo de canal."
+  },
+  {
+   "key": "1763560242719625216",
+   "en": "Kabuki? Might actually be half-decent soft, then.",
+   "ro": "Kabuki? Atunci poate e un soft cât de cât decent."
+  },
+  {
+   "key": "1763563642941214720",
+   "en": "And if it isn't, got a few tricks up my sleeve, too.",
+   "ro": "Și dacă nu e, am câteva trucuri în mânecă."
+  },
+  {
+   "key": "1770473777101934592",
+   "en": "An' riots're always best put down by folks not sportin' your brand name.",
+   "ro": "Și revoltele se potolesc mereu mai bine de oameni care nu umblă cu numele tău pe piept."
+  },
+  {
+   "key": "1770492434590863360",
+   "en": "Suits know one spark's all it takes for Japantown to go up in flames.",
+   "ro": "Costumașii știu că le ajunge o scânteie ca Japantown să ia foc."
+  },
+  {
+   "key": "1770501671874334720",
+   "en": "Why, jump, of course.",
+   "ro": "Păi, săritură, normal."
+  },
+  {
+   "key": "1772240340670877696",
+   "en": "You shall learn soon.",
+   "ro": "O să afli curând."
+  },
+  {
+   "key": "1780946454967095296",
+   "en": "Sounds like a plan.",
+   "ro": "Sună a plan."
+  },
+  {
+   "key": "1780946454967095316",
+   "en": "Why's the dirty work my job?",
+   "ro": "De ce munca murdară e treaba mea?"
+  },
+  {
+   "key": "1780950257556656128",
+   "en": "Sounds like a plan.",
+   "ro": "Sună a plan."
+  },
+  {
+   "key": "1783722654030499840",
+   "en": "You agree just like that? The risks are considerable.",
+   "ro": "Ești de acord așa, din senin? Riscurile sunt serioase."
+  },
+  {
+   "key": "1834426652978712576",
+   "en": "Yeah, well – gettin' more 'n' more used to that.",
+   "ro": "Da, păi – mă tot obișnuiesc cu chestia asta."
+  },
+  {
+   "key": "1871963463881662464",
+   "en": "His murderer. The irony makes me sick.",
+   "ro": "Ucigașul lui. Ironia asta îmi întoarce stomacul pe dos."
+  },
+  {
+   "key": "1996584541047562240",
+   "en": "This is good to know.",
+   "ro": "Bine de știut."
+  },
+  {
+   "key": "1996671649260257280",
+   "en": "And now... what would you say to a small test? We must try the shard.",
+   "ro": "Și acum... ce zici de un test rapid? Hai să încercăm shard-ul."
+  },
+  {
+   "key": "1996728020454359040",
+   "en": "The camera control room is in front of us.",
+   "ro": "Sala de control a camerelor e chiar în fața noastră."
+  },
+  {
+   "key": "1996728467550388224",
+   "en": "You must get inside and infect the network, that is all.",
+   "ro": "Trebuie doar să intri și să infectezi rețeaua."
+  },
+  {
+   "key": "2005630399353266176",
+   "en": "Uh-huh. And in the meantime you'll do what? Crack open a can o' suds?",
+   "ro": "Aham. Și între timp tu ce faci, deschizi o bere?"
+  },
+  {
+   "key": "2005631121343979520",
+   "en": "I would not touch alcohol at work. I will watch your back. Now, get to it.",
+   "ro": "Nu aș atinge alcoolul la serviciu. Îți acopăr spatele. Acum, treci la treabă."
+  },
+  {
+   "key": "2005638444749758464",
+   "en": "If we gain access to them, we will see exactly where the snipers are. You can deal with them as I advance.",
+   "ro": "Dacă le preluăm, o să vedem exact unde sunt lunetiștii. Tu te ocupi de ei cât înaintez."
+  },
+  {
+   "key": "2014108158846320640",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "2069428144805330948",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  }
+ ]
+}

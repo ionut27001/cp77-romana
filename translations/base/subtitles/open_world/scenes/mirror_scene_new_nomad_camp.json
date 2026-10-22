@@ -1,0 +1,55 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\mirror_scene_new_nomad_camp.json",
+ "entries": [
+  {
+   "key": "2413972943627247616",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2413972943828574208",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2520255724287582208",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2520255724287582220",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2520255724287582232",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2520255724304359424",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2520255724304359436",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "2888250071064666112",
+   "en": "[Change appearance]",
+   "ro": "[Schimbă aspectul]"
+  },
+  {
+   "key": "2888250071081443340",
+   "en": "[Change facial expression]",
+   "ro": "[Schimbă expresia facială]"
+  },
+  {
+   "key": "2898462936862187520",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  }
+ ]
+}

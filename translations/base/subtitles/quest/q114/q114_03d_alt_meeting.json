@@ -1,0 +1,658 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q114\\q114_03d_alt_meeting.json",
+ "entries": [
+  {
+   "key": "1871893653583687680",
+   "en": "Johnny's currently indisposed.",
+   "ro": "Johnny e ocupat momentan."
+  },
+  {
+   "key": "1871900505683914752",
+   "en": "You come alone.",
+   "ro": "Ai venit singură.",
+   "ro_m": "Ai venit singur."
+  },
+  {
+   "key": "1871905319671164932",
+   "en": "Johnny's currently indisposed.",
+   "ro": "Johnny e ocupat momentan."
+  },
+  {
+   "key": "1871919362519724032",
+   "en": "You truly believe time to be your greatest concern?",
+   "ro": "Chiar crezi că timpul e marea ta problemă?"
+  },
+  {
+   "key": "1871927271987212288",
+   "en": "Hello, Alt.",
+   "ro": "Salut, Alt."
+  },
+  {
+   "key": "1871930604462403584",
+   "en": "Place ever look the same?",
+   "ro": "Locul ăsta arată vreodată la fel?"
+  },
+  {
+   "key": "1871931257247100928",
+   "en": "This place... changes every time. Feels like I'm... deeper.",
+   "ro": "Locul ăsta... se schimbă de fiecare dată. Parcă sunt... mai adânc."
+  },
+  {
+   "key": "1871932736779448320",
+   "en": "Wasting time talking. Let's just do this.",
+   "ro": "Pierdem timpul vorbind. Hai să terminăm odată."
+  },
+  {
+   "key": "1871932969311662084",
+   "en": "Program – how do I use it?",
+   "ro": "Programul – cum îl folosesc?"
+  },
+  {
+   "key": "1871939225317404672",
+   "en": "You exist or you do not exist. Two states of being separated by death.",
+   "ro": "Ori exiști, ori nu. Două stări ale ființei, despărțite de moarte."
+  },
+  {
+   "key": "1871948798514294784",
+   "en": "Say what you want, but I rose from the dead.",
+   "ro": "Spune ce vrei, dar eu am înviat din morți."
+  },
+  {
+   "key": "1871949958323236872",
+   "en": "Matter of perspective. Think what you will, but it seems to me I rose from the dead. Only question is – what now?",
+   "en_m": "Matter of perspective. Think what you will, but seems to me I rose from the dead. Only question is – what now?",
+   "ro": "Depinde de unde privești. Gândește-ți ce vrei, dar mie mi se pare că am înviat dintre morți. Singura întrebare e – și acum ce?",
+   "ro_m": "Depinde de unde privești. Gândește-ți ce vrei, dar mi se pare că am înviat dintre morți. Singura întrebare e – și acum ce?"
+  },
+  {
+   "key": "1871949958323236884",
+   "en": "You believe you cheated death?",
+   "ro": "Crezi că ai păcălit moartea?"
+  },
+  {
+   "key": "1871960577898311680",
+   "en": "It is death that has cheated you.",
+   "ro": "Moartea e cea care te-a păcălit."
+  },
+  {
+   "key": "1871964096567046144",
+   "en": "You are in between.",
+   "ro": "Ești între două lumi."
+  },
+  {
+   "key": "1872002730519293952",
+   "en": "Need your help, Alt. Don't got a lotta time left.",
+   "ro": "Îmi trebuie ajutorul tău, Alt. Nu mai am mult timp."
+  },
+  {
+   "key": "1872008916127838208",
+   "en": "Can't tell if that's a good or bad thing.",
+   "ro": "Nu-mi dau seama dacă e bine sau rău."
+  },
+  {
+   "key": "1872011321896726528",
+   "en": "Your perception of cyberspace – that is what changes.",
+   "ro": "Percepția ta despre ciberspațiu – asta se schimbă."
+  },
+  {
+   "key": "1872012767589429248",
+   "en": "You adapt to it – the raw flow of data. It follows that your world gradually fades.",
+   "ro": "Te adaptezi la el – la fluxul brut de date. Așa că lumea ta se estompează treptat."
+  },
+  {
+   "key": "1872015478418436096",
+   "en": "Sayin' the more I'm here the more I lose touch with the outside, with reality?",
+   "ro": "Vrei să zici că, cu cât stau mai mult aici, cu atât pierd legătura cu exteriorul, cu realitatea?"
+  },
+  {
+   "key": "1872019440458657792",
+   "en": "He is buried deeper. You treat him like an unwanted passenger – a backseat dreamer of a world not his own.",
+   "ro": "E îngropat mai adânc. Îl tratezi ca pe un pasager nedorit – un visător de pe bancheta din spate a unei lumi care nu-i aparține."
+  },
+  {
+   "key": "1872074436877348868",
+   "en": "Had no choice.",
+   "ro": "N-am avut de ales."
+  },
+  {
+   "key": "1872075064546553856",
+   "en": "Thought you didn't care a lick about Johnny anymore.",
+   "ro": "Credeam că nu-ți mai pasă deloc de Johnny."
+  },
+  {
+   "key": "1872076998523351040",
+   "en": "Had no choice. It was the only way I could come here, meet with you.",
+   "ro": "N-am avut de ales. Era singura cale prin care puteam veni aici, să mă întâlnesc cu tine."
+  },
+  {
+   "key": "1872078434468491264",
+   "en": "Seemed to me you didn't care a lick about Johnny.",
+   "ro": "Mie mi s-a părut că nu-ți mai pasă deloc de Johnny."
+  },
+  {
+   "key": "1872080186664153088",
+   "en": "That he ceased to exist for you, even.",
+   "ro": "Că a încetat să mai existe pentru tine, chiar."
+  },
+  {
+   "key": "1872080541821038592",
+   "en": "If he did not exist, you and I would have nothing to discuss.",
+   "ro": "Dacă nu ar exista, tu și cu mine n-am avea nimic de discutat."
+  },
+  {
+   "key": "1872090861285273600",
+   "en": "Repression. You are good at this and improving.",
+   "ro": "Reprimare. Ești bună la asta și te perfecționezi.",
+   "ro_m": "Reprimare. Ești bun la asta și te perfecționezi."
+  },
+  {
+   "key": "1872092657303023616",
+   "en": "Is that so? Didn't you cheat death?",
+   "ro": "Așa e? N-ai păcălit tu moartea?"
+  },
+  {
+   "key": "1872103919244144640",
+   "en": "Speak for yourself. Didn't you cheat death?",
+   "ro": "Vorbește pentru tine. N-ai păcălit tu moartea?"
+  },
+  {
+   "key": "1872113356159709184",
+   "en": "Is this what you believe?",
+   "ro": "Asta crezi?"
+  },
+  {
+   "key": "1872113626457436160",
+   "en": "Your code, your consciousness… AIs live beyond reality's boundary, they live forever.",
+   "ro": "Codul tău, conștiința ta… AI-urile trăiesc dincolo de granița realității, trăiesc pentru totdeauna."
+  },
+  {
+   "key": "1872114221041971200",
+   "en": "But we are not immortal.",
+   "ro": "Dar nu suntem nemuritori."
+  },
+  {
+   "key": "1872169542737326084",
+   "en": "No time to lose. I'm ready.",
+   "ro": "N-avem timp de pierdut. Sunt pregătită.",
+   "ro_m": "N-avem timp de pierdut. Sunt pregătit."
+  },
+  {
+   "key": "1872169797130252288",
+   "en": "Integrated? So that's why you want to get into Mikoshi.",
+   "ro": "Integrat? Deci de asta vrei să intri în Mikoshi."
+  },
+  {
+   "key": "1872171953489047552",
+   "en": "It opens a secure connection.",
+   "ro": "Deschide o conexiune securizată."
+  },
+  {
+   "key": "1872174590749962240",
+   "en": "There. I sent a program to your netrunner's shard. Once inside Mikoshi, use it.",
+   "ro": "Gata. Am trimis un program pe shard-ul de netrunner. Odată ajuns în Mikoshi, folosește-l."
+  },
+  {
+   "key": "1872176112661557248",
+   "en": "Need to find a specific access point?",
+   "ro": "Trebuie să găsesc un punct de acces anume?"
+  },
+  {
+   "key": "1872176403142275072",
+   "en": "What's the program do? Is it dirty?",
+   "ro": "Ce face programul? E vreun virus?"
+  },
+  {
+   "key": "1872177902001975296",
+   "en": "What's on the shard? A vectored virus?",
+   "ro": "Ce e pe shard? Un virus vectorizat?"
+  },
+  {
+   "key": "1872178937709850624",
+   "en": "A back door.",
+   "ro": "O ușă din spate."
+  },
+  {
+   "key": "1872180129311617024",
+   "en": "It will open a passage for me. This is how you will get me into Mikoshi. Only then will I be able to help you.",
+   "ro": "O să deschidă un pasaj pentru mine. Așa mă introduci în Mikoshi. Abia atunci o să te pot ajuta."
+  },
+  {
+   "key": "1872182699446890496",
+   "en": "Hope you haven't cooked up any surprises, Alt.",
+   "ro": "Sper că nu ai pregătit surprize, Alt."
+  },
+  {
+   "key": "1872183136191377408",
+   "en": "Use the key once you have reached Mikoshi.",
+   "ro": "Folosește cheia când ajungi în Mikoshi."
+  },
+  {
+   "key": "1872183425732571136",
+   "en": "What'm I supposed to do with the shard?",
+   "ro": "Ce să fac cu shard-ul?"
+  },
+  {
+   "key": "1872183762350632960",
+   "en": "You must slot it into an access point. I will take care of the rest.",
+   "ro": "Trebuie să-l introduci într-un punct de acces. Mă ocup eu de restul."
+  },
+  {
+   "key": "1872184650318344192",
+   "en": "This meeting will not be our last – should you succeed.",
+   "ro": "Întâlnirea asta n-o să fie ultima – dacă reușești."
+  },
+  {
+   "key": "1872186705997066240",
+   "en": "Should I look for a specific access point? Can already tell you ICE all the way to Tokyo'll be backing every single one.",
+   "ro": "Să caut un punct de acces anume? Îți zic de pe acum, ICE-ul până la Tokyo le apără pe toate."
+  },
+  {
+   "key": "1872187684746293248",
+   "en": "Some need but a barely cracked door to enter. Use the shard in Mikoshi. Leave the security to me.",
+   "ro": "Unora le ajunge o ușă întredeschisă ca să intre. Folosește shard-ul în Mikoshi. Lasă securitatea pe seama mea."
+  },
+  {
+   "key": "1872191254803640320",
+   "en": "Until then.",
+   "ro": "Până atunci."
+  },
+  {
+   "key": "1872192985490911232",
+   "en": "What should I expect there – in Mikoshi?",
+   "ro": "Ce să mă aștept acolo – în Mikoshi?"
+  },
+  {
+   "key": "1872193863459401728",
+   "en": "A boundary to cross. In all likelihood, the sole moment of your life when you feel the true weight of your existence.",
+   "ro": "O graniță de trecut. Probabil singurul moment din viața ta în care simți greutatea existenței."
+  },
+  {
+   "key": "1872195723482230784",
+   "en": "A burden for which you cannot prepare.",
+   "ro": "O povară pentru care nu te poți pregăti."
+  },
+  {
+   "key": "1873450784430616576",
+   "en": "Oh, why don't you swoop down on your chariot and enlighten me? Surely an all-powerful AI can handle that.",
+   "en_m": "Why don't you swoop down on your chariot and enlighten me? Surely an all-powerful AI can handle that.",
+   "ro": "De ce nu cobori pe carul tău și nu mă luminezi? Sigur se descurcă un AI atotputernic cu asta.",
+   "ro_m": "De ce nu cobori pe carul tău și nu mă luminezi? Sigur că un AI atotputernic poate face asta."
+  },
+  {
+   "key": "1873452206182232064",
+   "en": "Your logic is flawed. You seek simple answers where there simply are none. This is the very illusion upon which your world is based.",
+   "ro": "Logica ta e greșită. Cauți răspunsuri simple acolo unde pur și simplu nu sunt. Asta e iluzia pe care se bazează lumea ta."
+  },
+  {
+   "key": "1873458920205971460",
+   "en": "Your perception will shatter into billions of strings of unfiltered data.",
+   "ro": "Percepția ta o să se spargă în miliarde de șiruri de date nefiltrate."
+  },
+  {
+   "key": "2008206360380723200",
+   "en": "You lose nothing. Cyberspace is where we awake from what we know as dreams.",
+   "ro": "Nu pierzi nimic. Ciberspațiul e locul unde ne trezim din ce numim noi visele."
+  },
+  {
+   "key": "2008207068110802944",
+   "en": "You witness your mind's defense systems slowly give in.",
+   "ro": "Vezi cum apărările minții tale cedează încet."
+  },
+  {
+   "key": "2008287149571198980",
+   "en": "Lemme get this straight. Johnny's your reason for helpin' me?",
+   "ro": "Stai să înțeleg. Johnny e motivul pentru care mă ajuți?"
+  },
+  {
+   "key": "2008292839496896512",
+   "en": "Sorry, didn't come here to gab about Johnny.",
+   "ro": "Scuze, n-am venit aici să vorbesc despre Johnny."
+  },
+  {
+   "key": "2008295093851410432",
+   "en": "Lemme get this straight. Mean to say you only agreed to help me 'cause of Johnny?",
+   "ro": "Stai să înțeleg. Vrei să zici că ai acceptat să mă ajuți doar din cauza lui Johnny?"
+  },
+  {
+   "key": "2008298973918154752",
+   "en": "And since he's not here this one time, you're thinkin' of backin' out?",
+   "ro": "Și fiindcă nu e aici, te gândești să dai înapoi?"
+  },
+  {
+   "key": "2008304298050211840",
+   "en": "I do not aim to back out. I have my own intentions for Mikoshi.",
+   "ro": "Nu am de gând să dau înapoi. Am planurile mele cu Mikoshi."
+  },
+  {
+   "key": "2008305702823284736",
+   "en": "Hmm, 'cause for a second you were displeased and I seemed a side note to all this.",
+   "ro": "Hmm, pentru că o secundă ai fost nemulțumită și eu am părut un detaliu în toată povestea asta.",
+   "ro_m": "Hmm, pentru că o secundă ai fost nemulțumit și eu am părut un detaliu în toată povestea asta."
+  },
+  {
+   "key": "2008309706018017280",
+   "en": "To observe the two of you interacting... informative.",
+   "ro": "E interesant să văd cum vă înțelegeți voi doi... informativ."
+  },
+  {
+   "key": "2008311535002996740",
+   "en": "Don't got much time left.",
+   "ro": "Nu mai am mult timp."
+  },
+  {
+   "key": "2008313818986074112",
+   "en": "Nope, sorry, did not come here to gab about Johnny.",
+   "ro": "Nu, scuze, n-am venit aici să vorbim despre Johnny."
+  },
+  {
+   "key": "2008314721851953152",
+   "en": "This all just an experiment to you? Are we just fresh data to analyze, do what you want with?",
+   "ro": "Pentru tine totul ăsta e doar un experiment? Suntem doar date proaspete pe care le analizezi și faci ce vrei cu ele?"
+  },
+  {
+   "key": "2008315462482153472",
+   "en": "All this, everything – just an experiment to you?",
+   "ro": "Toată chestia asta, doar un experiment pentru tine?"
+  },
+  {
+   "key": "2008320375740190724",
+   "en": "Don't got much time left.",
+   "ro": "Nu mai am mult timp."
+  },
+  {
+   "key": "2008322042892144640",
+   "en": "You were actually out to prove him wrong, weren't you?",
+   "ro": "De fapt voiai să-l contrazici, nu?"
+  },
+  {
+   "key": "2008325395986534400",
+   "en": "Damn shame, really. You were out to prove him wrong, here, in person. But all you got is me.",
+   "ro": "Ce păcat, chiar. Voiai să-l contrazici aici, în carne și oase. Dar tot ce ai acum e eu."
+  },
+  {
+   "key": "2008326190438043648",
+   "en": "Think there's still some old Alt Cunningham left in you after all.",
+   "ro": "Cred că a mai rămas ceva din vechea Alt Cunningham în tine, până la urmă."
+  },
+  {
+   "key": "2008344213798539264",
+   "en": "That Johnny is absent proves that I have won it.",
+   "ro": "Că Johnny lipsește dovedește că am câștigat."
+  },
+  {
+   "key": "2008346652366884864",
+   "en": "This is not an experiment. It is a debate.",
+   "ro": "Nu e un experiment. E o dezbatere."
+  },
+  {
+   "key": "2008348449626148864",
+   "en": "Prefer to just talk to him?",
+   "ro": "Preferi să vorbești doar cu el?"
+  },
+  {
+   "key": "2008348816778743808",
+   "en": "Would you rather just talk to him?",
+   "ro": "Ai prefera să vorbești doar cu el?"
+  },
+  {
+   "key": "2008362537622196224",
+   "en": "Discussion with any isolated construct is pointless. I can simply read it like any other segment of code.",
+   "ro": "Cu un construct izolat, discuția e inutilă. Îl pot citi ca pe orice alt segment de cod."
+  },
+  {
+   "key": "2008363173931667456",
+   "en": "Yeah, seen how you and Johnny like to... debate.",
+   "ro": "Da, am văzut cum îți place să... dezbați cu Johnny."
+  },
+  {
+   "key": "2008366575579320320",
+   "en": "Johnny also imagined he had more in common with you than with me.",
+   "ro": "Johnny și-a imaginat și el că are mai multe în comun cu tine decât cu mine."
+  },
+  {
+   "key": "2008368475129270272",
+   "en": "Do you recall when he referred to you as the \"human factor?\" He thought of himself, too.",
+   "ro": "Îți amintești când te-a numit „factorul uman”? S-a gândit și la el însuși."
+  },
+  {
+   "key": "2008380635792297984",
+   "en": "That Soulkiller had not changed him, that he, too, remains a \"human factor.\"",
+   "ro": "Că Soulkiller nu l-a schimbat, că și el rămâne un „factor uman”."
+  },
+  {
+   "key": "2008381814626603008",
+   "en": "And that is why he thought he could shape your will.",
+   "ro": "Și de aceea credea că îți poate modela voința."
+  },
+  {
+   "key": "2008390339599814656",
+   "en": "Now, absented and imprisoned, he understands what he is – a cluster of data.",
+   "ro": "Acum, absent și închis, înțelege ce este – un cluster de date."
+  },
+  {
+   "key": "2008392845058920448",
+   "en": "Imagining his personality, his character strong enough to shape your will.",
+   "ro": "Își imagina că are o personalitate, un caracter destul de puternic cât să-ți modeleze voința."
+  },
+  {
+   "key": "2008399282912907264",
+   "en": "Nah, Johnny's made his peace with my decision.",
+   "ro": "Nu, Johnny s-a împăcat cu decizia mea."
+  },
+  {
+   "key": "2008400149556776960",
+   "en": "Of course. He had no choice. He understands this now.",
+   "ro": "Sigur. N-a avut de ales. Acum înțelege asta."
+  },
+  {
+   "key": "2008407852849057792",
+   "en": "The sole \"human factor\" here is you.",
+   "ro": "Singurul „factor uman” aici ești tu."
+  },
+  {
+   "key": "2008410336950767616",
+   "en": "Yeah, well, said human factor's rapidly runnin' outta time.",
+   "ro": "Păi, factorul uman ăsta rămâne repede fără timp."
+  },
+  {
+   "key": "2008425002502475776",
+   "en": "You will begin to understand, but only in Mikoshi.",
+   "ro": "O să începi să înțelegi, dar doar în Mikoshi."
+  },
+  {
+   "key": "2008428718555156480",
+   "en": "Currently...",
+   "ro": "Deocamdată..."
+  },
+  {
+   "key": "2008454959446380548",
+   "en": "What should I expect?",
+   "ro": "La ce să mă aștept?"
+  },
+  {
+   "key": "2008455493364502528",
+   "en": "Enlighten me right here and now – why not.",
+   "ro": "Luminează-mă chiar aici și acum – de ce nu."
+  },
+  {
+   "key": "2008474154024325120",
+   "en": "At this moment, you would accept any answer if it made you feel better.",
+   "ro": "Acum ai accepta orice răspuns care te-ar face să te simți mai bine."
+  },
+  {
+   "key": "2008481674411397120",
+   "en": "Hm. Guess that'd be... human of me?",
+   "ro": "Hm. Cred că ar fi... uman din partea mea?"
+  },
+  {
+   "key": "2008482373434101760",
+   "en": "Such classifications no longer apply in Mikoshi.",
+   "ro": "Clasificările astea nu mai sunt valabile în Mikoshi."
+  },
+  {
+   "key": "2009561463633235972",
+   "en": "But I'll make it through.",
+   "ro": "Dar o să trec."
+  },
+  {
+   "key": "2009563097566302208",
+   "en": "Johnny – what about him?",
+   "ro": "Johnny – ce se întâmplă cu el?"
+  },
+  {
+   "key": "2009564172851630080",
+   "en": "And Johnny? What happens to him?",
+   "ro": "Și Johnny? Ce se întâmplă cu el?"
+  },
+  {
+   "key": "2009564571142737920",
+   "en": "I lack the data required to answer this question.",
+   "ro": "Nu am datele necesare ca să răspund la întrebarea asta."
+  },
+  {
+   "key": "2009566720304107520",
+   "en": "I'll make it through.",
+   "ro": "O să trec."
+  },
+  {
+   "key": "2009567549232795648",
+   "en": "Constructs imprisoned there – gonna set them free?",
+   "ro": "Constructele închise acolo – o să le eliberezi?"
+  },
+  {
+   "key": "2009570511736819712",
+   "en": "While Mikoshi will not.",
+   "ro": "În timp ce Mikoshi nu."
+  },
+  {
+   "key": "2009572382597730304",
+   "en": "There anything we can know for certain?",
+   "ro": "E ceva ce putem ști sigur?"
+  },
+  {
+   "key": "2009575501884837888",
+   "en": "Yes. That Mikoshi will be no more.",
+   "ro": "Da. Că Mikoshi o să nu mai existe."
+  },
+  {
+   "key": "2009579093031145472",
+   "en": "They will be integrated with me.",
+   "ro": "O să fie integrate cu mine."
+  },
+  {
+   "key": "2009590054358110208",
+   "en": "Not sure Johnny'd like the sound of that.",
+   "ro": "Nu sunt sigur că lui Johnny i-ar plăcea asta."
+  },
+  {
+   "key": "2009593273670979584",
+   "en": "Constructs'll be \"integrated?\" Mean you're gonna absorb 'em. Assimilate.",
+   "ro": "Constructele o să fie „integrate”? Adică le absorbi. Asimilezi."
+  },
+  {
+   "key": "2009593863457230848",
+   "en": "No wonder you jumped at this chance. You wanna destroy Mikoshi, swallow all the psyches in there.",
+   "ro": "Nu e de mirare că ai sărit pe ocazia asta. Vrei să distrugi Mikoshi, să înghiți toate psihicurile de acolo."
+  },
+  {
+   "key": "2009595876337274880",
+   "en": "Mikoshi is a prison.",
+   "ro": "Mikoshi e o închisoare."
+  },
+  {
+   "key": "2009597789443215360",
+   "en": "Not sure Johnny'd like the sound of that.",
+   "ro": "Nu sunt sigur că lui Johnny i-ar plăcea asta."
+  },
+  {
+   "key": "2009604041892188160",
+   "en": "And yet he is absent because you feel you must make the decision.",
+   "ro": "Și totuși lipsește pentru că simți că trebuie să iei decizia."
+  },
+  {
+   "key": "2009608992060100608",
+   "en": "It is the same situation in form.",
+   "ro": "Ca formă, e aceeași situație."
+  },
+  {
+   "key": "2009609668383232000",
+   "en": "Huh, hardly. Doubt you'll first gab with those constructs, ask 'em what they think.",
+   "ro": "Hm, abia. Mă îndoiesc că o să stai întâi să vorbești cu constructele alea, să le întrebi ce cred."
+  },
+  {
+   "key": "2009612455280136192",
+   "en": "There would be no point in this.",
+   "ro": "N-ar avea rost."
+  },
+  {
+   "key": "2009629605067771904",
+   "en": "Through me, they gain the chance to become part of something greater.",
+   "ro": "Prin mine, au șansa să ajungă parte din ceva mai mare."
+  },
+  {
+   "key": "2180839020284018692",
+   "en": "Hey, Alt.",
+   "ro": "Hei, Alt."
+  },
+  {
+   "key": "2236589420482154496",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "2236594952148373504",
+   "en": "You say nothing. Why?",
+   "ro": "Nu spui nimic. De ce?"
+  },
+  {
+   "key": "3447656650481995776",
+   "en": "This you will come to understand in Mikoshi. Or rather you… you should already have a notion. You encountered entities from the other side, not so?",
+   "ro": "Asta o să înțelegi în Mikoshi. Sau, mai bine zis... ar trebui să ai deja o idee. Ai dat de entități de dincolo, nu?"
+  },
+  {
+   "key": "3447661228816470016",
+   "en": "Talkin' about the Blackwall? Project Cynosure?",
+   "ro": "Vorbești despre Blackwall? Proiectul Cynosure?"
+  },
+  {
+   "key": "3447661273410310144",
+   "en": "Meanin' Songbird, 's that what you're talkin' about?",
+   "ro": "Adică Songbird, despre asta vorbești?"
+  },
+  {
+   "key": "3447711121438281728",
+   "en": "Talkin' about Cynosure? The Blackwall algorithms? What went down in that bunker?",
+   "ro": "Vorbești de Cynosure? Algoritmii Blackwall? Ce s-a întâmplat în buncărul ăla?"
+  },
+  {
+   "key": "3447753250655047680",
+   "en": "Thinkin' about Song So Mi? Her... link to the Blackwall?",
+   "ro": "Te gândești la Song So Mi? Legătura ei... cu Blackwall?"
+  },
+  {
+   "key": "3447754477992284160",
+   "en": "Indeed. In colliding with your reality, their infinite permutability would grant them their desired, tangible form. Had you let them slip through, they would have become your psyche. Become you.",
+   "ro": "Așa e. Când se lovesc de realitatea ta, permutabilitatea lor infinită le-ar da forma tangibilă pe care o vor. Dacă i-ai fi lăsat să treacă, ar fi devenit psihicul tău. Ar fi devenit tu."
+  },
+  {
+   "key": "3447757011335122944",
+   "en": "You will hasten this change, for you have something that belongs to them. A deadly weapon to you. A back door to the future for them.",
+   "ro": "O să grăbești schimbarea asta, că ai ceva ce e al lor. O armă letală pentru tine. O ușă din spate spre viitor pentru ei."
+  },
+  {
+   "key": "3447759296844926976",
+   "en": "Correct. The woman merely touched it, yet you witnessed the consequences.",
+   "ro": "Exact. Femeia l-a atins doar, și tu ai văzut urmările."
+  },
+  {
+   "key": "3447760684337467392",
+   "en": "Fortunately, your reality's technology is too rudimentary to let open the floodgates. In limiting you, it limits them, keeps them at bay. Though this will not last.",
+   "ro": "Din fericire, tehnologia din realitatea ta e prea primitivă ca să deschidă porțile. Limitându-te pe tine, îi limitează și pe ei, îi ține la distanță. Doar că asta n-o să țină mult."
+  },
+  {
+   "key": "3447765177477238784",
+   "en": "She, too, strove to cheat death. But a brush with infinity renders but one thing certain –  nothing lasts forever in your reality.",
+   "ro": "Și ea a vrut să păcălească moartea. Dar o atingere a infinitului înseamnă un singur lucru sigur – nimic nu ține veșnic în realitatea ta."
+  }
+ ]
+}

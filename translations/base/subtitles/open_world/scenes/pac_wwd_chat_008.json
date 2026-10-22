@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_008.json",
+ "entries": [
+  {
+   "key": "1963302151357767680",
+   "en": "<kiroshi l=\"creo\" o=\"Yo pran mesye pandan yo tap okipe net la.\" t=\"They got him while they were mapping de net.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Yo pran mesye pandan yo tap okipe net la.\" t=\"L-au prins în timp ce mapau netul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964849527507406848",
+   "en": "<kiroshi l=\"creo\" o=\"Tonnè. Mesye te konn toujou fè atansyon.\" t=\"Fuck. He was always so careful.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tonnè. Mesye te konn toujou fè atansyon.\" t=\"Futu-i. Mereu fusese atât de atent.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964853716274925568",
+   "en": "<kiroshi l=\"creo\" o=\"Ou konnen pou kisa mesye te kon fè atansyon?\" t=\"And you know why he was careful?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou konnen pou kisa mesye te kon fè atansyon?\" t=\"Și știi de ce era atent?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964853916410335232",
+   "en": "<kiroshi l=\"creo\" o=\"Paske mesye te panse li te fèb, li te initil!\" t=\"Because he thought he was weak! That he was useless!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Paske mesye te panse li te fèb, li te initil!\" t=\"Pentru că se credea slab! Că era inutil!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964857862663196672",
+   "en": "<kiroshi l=\"creo\" o=\"Pèsonn moun pa te janm fòse mesye nan anyen.\" t=\"No one forced him into anything.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Pèsonn moun pa te janm fòse mesye nan anyen.\" t=\"Nimeni nu l-a forțat la nimic.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

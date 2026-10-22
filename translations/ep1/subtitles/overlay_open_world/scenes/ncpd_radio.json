@@ -1,0 +1,465 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\overlay_open_world\\scenes\\ncpd_radio.json",
+ "entries": [
+  {
+   "key": "3347688199101755392",
+   "en": "All units in the area - reports of additional suspicious activity.",
+   "ro": "Toate unitățile din zonă - alte rapoarte de activitate suspectă."
+  },
+  {
+   "key": "3347688199638626308",
+   "en": "All units in the area - suspicious activity reported in City Center.",
+   "ro": "Toate unitățile din zonă - activitate suspectă raportată în City Center."
+  },
+  {
+   "key": "3347688199722512388",
+   "en": "All units in the area - we have an urgent situation in Westbrook.",
+   "ro": "Toate unitățile din zonă - situație urgentă în Westbrook."
+  },
+  {
+   "key": "3347688199806398468",
+   "en": "All available units: emergency backup requested in Heywood.",
+   "ro": "Toate unitățile disponibile: cerem urgent întăriri în Heywood."
+  },
+  {
+   "key": "3347688199907061764",
+   "en": "To all nearby units: suspicious activity reported in Pacifica.",
+   "ro": "Toate unitățile din apropiere: activitate suspectă raportată în Pacifica."
+  },
+  {
+   "key": "3347688199990947844",
+   "en": "All units in the area - disorderly conduct reported in Watson.",
+   "ro": "Toate unitățile din zonă - scandal raportat în Watson."
+  },
+  {
+   "key": "3347688200074833924",
+   "en": "All units in Santo Domingo - a crime has been reported.",
+   "ro": "Toate unitățile din Santo Domingo - avem o crimă raportată."
+  },
+  {
+   "key": "3347688200158720004",
+   "en": "Confirming suspect is on foot.",
+   "ro": "Confirmăm: suspecta e pe jos.",
+   "ro_m": "Confirmăm: suspectul e pe jos."
+  },
+  {
+   "key": "3347688200209051652",
+   "en": "Suspect was last seen driving a vehicle. Transmitting further details.",
+   "ro": "Ultima dată suspecta a fost văzută la volan. Transmit detaliile.",
+   "ro_m": "Ultima dată suspectul a fost văzut la volan. Transmit detaliile."
+  },
+  {
+   "key": "3347695750996439044",
+   "en": "All nearby units - a new disturbance has been reported.",
+   "ro": "Toate unitățile din apropiere - s-a raportat o nouă tulburare."
+  },
+  {
+   "key": "3347742531394351108",
+   "en": "All nearby units - suspect is still at large in the area.",
+   "ro": "Toate unitățile din apropiere - suspecta e încă liberă prin zonă.",
+   "ro_m": "Toate unitățile din apropiere - suspectul e încă liber prin zonă."
+  },
+  {
+   "key": "3347742531511791620",
+   "en": "Reports have confirmed suspect is still in the area.",
+   "ro": "Rapoartele confirmă: suspecta e încă prin zonă.",
+   "ro_m": "Rapoartele confirmă: suspectul e încă prin zonă."
+  },
+  {
+   "key": "3347745321562812420",
+   "en": "All nearby units - we have a code three, civilian is unstable. Proceed with caution.",
+   "ro": "Toate unitățile din apropiere - avem cod trei, civilul e instabil. Aveți grijă."
+  },
+  {
+   "key": "3347745321730584580",
+   "en": "All units - no progress in the area. Suspect is still unstable. Code three, I repeat, code three.",
+   "ro": "Toate unitățile - nimic nou în zonă. Suspecta e încă instabilă. Cod trei, repet, cod trei.",
+   "ro_m": "Toate unitățile - nimic nou în zonă. Suspectul e încă instabil. Cod trei, repet, cod trei."
+  },
+  {
+   "key": "3347745414659584000",
+   "en": "All units be advised - escalating to code four. Suspect is extremely dangerous. Elite unit dispatched and en route.",
+   "ro": "Toate unitățile, atenție - escaladare la cod patru. Suspecta e extrem de periculoasă. Unitate de elită trimisă, e în drum.",
+   "ro_m": "Toate unitățile, atenție - escaladare la cod patru. Suspectul e extrem de periculos. Unitate de elită trimisă, e în drum."
+  },
+  {
+   "key": "3347745414760247300",
+   "en": "All units, code four is in full effect. Backup is en route. Report your progress immediately.",
+   "ro": "Toate unitățile, codul patru e activ. Întăririle sunt pe drum. Raportați imediat situația."
+  },
+  {
+   "key": "3347745471366574084",
+   "en": "All units - suspect is a confirmed cyberpsycho! Do not engage! A MaxTac squad has been dispatched!",
+   "ro": "Toate unitățile - suspecta e un cyberpsycho confirmat! Nu deschideți focul! Am trimis o echipă MaxTac!",
+   "ro_m": "Toate unitățile - suspectul e un cyberpsycho confirmat! Nu deschideți focul! Am trimis o echipă MaxTac!"
+  },
+  {
+   "key": "3347745471500791812",
+   "en": "All units, be advised: maximum threat level in this area! MaxTac is en route!",
+   "ro": "Toate unitățile, atenție: nivel maxim de amenințare în zona asta! MaxTac e pe drum!"
+  },
+  {
+   "key": "3347745555470757892",
+   "en": "All units in the area - order has been restored. All units instructed to return to patrol.",
+   "ro": "Toate unitățile din zonă - s-a restabilit ordinea. Toate unitățile, reveniți la patrulare."
+  },
+  {
+   "key": "3347745555621752836",
+   "en": "Code zero, I repeat - code zero in this area. All units resume normal duties.",
+   "ro": "Cod zero, repet - cod zero în zona asta. Toate unitățile își reiau treaba normală."
+  },
+  {
+   "key": "3347836538262794244",
+   "en": "Reports confirm the suspect is travelling by foot.",
+   "ro": "Rapoartele spun că suspecta merge pe jos.",
+   "ro_m": "Rapoartele spun că suspectul merge pe jos."
+  },
+  {
+   "key": "3347836868639731716",
+   "en": "Suspect's vehicle has been located. Details have been sent.",
+   "ro": "Am găsit vehiculul suspectei. Detaliile sunt trimise.",
+   "ro_m": "Am găsit vehiculul suspectului. Detaliile sunt trimise."
+  },
+  {
+   "key": "3347842798630612992",
+   "en": "Requesting backup in City Center. All units in the area respond.",
+   "ro": "Cerem întăriri în City Center. Toate unitățile din zonă, răspundeți!"
+  },
+  {
+   "key": "3347842904763281408",
+   "en": "All available units - disturbance reported in City Center.",
+   "ro": "Toate unitățile disponibile - avem tulburare în City Center."
+  },
+  {
+   "key": "3347844108427866116",
+   "en": "All units - we have a situation in Westbrook. Please respond.",
+   "ro": "Toate unitățile - avem ceva în Westbrook. Răspundeți, vă rog."
+  },
+  {
+   "key": "3347844108461420548",
+   "en": "We have an oh-two-eleven in Westbrook. Any units in the area - come in.",
+   "ro": "Avem un 0211 în Westbrook. Unitățile din zonă, prezentați-vă."
+  },
+  {
+   "key": "3347845329205211140",
+   "en": "Attention, we got disturbance in Heywood.",
+   "ro": "Atenție, avem tulburare în Heywood."
+  },
+  {
+   "key": "3347845329255542788",
+   "en": "Reporting suspicious activity in Heywood.",
+   "ro": "Raportăm activitate suspectă în Heywood."
+  },
+  {
+   "key": "3347846525974360068",
+   "en": "Disturbance reported in Pacifica. Any available units?",
+   "ro": "Tulburare raportată în Pacifica. Unități disponibile?"
+  },
+  {
+   "key": "3347846526007914500",
+   "en": "All units - we have a disturbance reported in Pacifica.",
+   "ro": "Toate unitățile - avem tulburare în Pacifica."
+  },
+  {
+   "key": "3347847337404411908",
+   "en": "All units in the area: criminal activity reported in Watson.",
+   "ro": "Toate unitățile din zonă: activitate criminală raportată în Watson."
+  },
+  {
+   "key": "3347847337437966340",
+   "en": "All nearby units - we got a situation in Watson.",
+   "ro": "Toate unitățile din apropiere - avem o situație în Watson."
+  },
+  {
+   "key": "3347847877244891140",
+   "en": "We have an 88-70 in Santo Domingo.",
+   "ro": "Avem un 88-70 în Santo Domingo."
+  },
+  {
+   "key": "3347847877328777220",
+   "en": "All units in the area - criminal activity confirmed in Santo Domingo.",
+   "ro": "Toate unitățile din zonă - activitate criminală confirmată în Santo Domingo."
+  },
+  {
+   "key": "3378133652788846592",
+   "en": "10-4, dispatch. We're en route.",
+   "ro": "10-4, dispecer. Suntem în drum."
+  },
+  {
+   "key": "3378158385592901632",
+   "en": "What, in Pacifica? No way...! Copy, dispatch. I'm en route.",
+   "ro": "Ce, în Pacifica? Nici vorbă...! Copiat, dispecer. Sunt în drum."
+  },
+  {
+   "key": "3378161200088326144",
+   "en": "Roger that, dispatch, but we'll need backup. Dispatch... you there? Dammit, not again…",
+   "ro": "Primit, dispecer, dar o să avem nevoie de întăriri. Dispecer... ești acolo? La naiba, nu iar..."
+  },
+  {
+   "key": "3378164197505736704",
+   "en": "3-31, responding. On my way, dispatch, but only because I like you.",
+   "ro": "3-31, răspund. Sunt în drum, dispecer, dar doar pentru că mi-ești drag."
+  },
+  {
+   "key": "3378167777629413376",
+   "en": "Roger. Probably some cyberpsycho again, but I'll handle it. Say, any update on my overtime bonus...? Dispatch?",
+   "ro": "Primit. Probabil iar un cyberpsycho, dar mă ocup eu. Auzi, nicio veste despre bonusul de ore suplimentare...? Dispecer?"
+  },
+  {
+   "key": "3378171395938033664",
+   "en": "Roger, dispatch, what else is new. We'll be right there.",
+   "ro": "Primit, dispecer, ce mai e nou. Venim imediat."
+  },
+  {
+   "key": "3378175819183923200",
+   "en": "Roger, dispatch. On our way. Say, would you at least come to my funeral?",
+   "ro": "Primit, dispecer. Suntem pe drum. Auzi, ai veni măcar la înmormântarea mea?"
+  },
+  {
+   "key": "3378179054217043968",
+   "en": "Day like any other. Roger, dispatch.",
+   "ro": "Zi ca oricare alta. Primit, dispecer."
+  },
+  {
+   "key": "3378179963357601792",
+   "en": "Kids causin' trouble again? OK, on our way.",
+   "ro": "Copiii iar fac scandal? OK, venim."
+  },
+  {
+   "key": "3378182511816712192",
+   "en": "Roger that, dispatch, this is three-thirty-one responding. 'S my neighborhood - I'll take you for tacos sometime.",
+   "ro": "Primit, dispecer, aici trei-trei-unu. E cartierul meu - te invit la taco-uri cândva."
+  },
+  {
+   "key": "3378186040534999040",
+   "en": "Uh, roger, dispatch... don't they got corp security there? Ugh, fine, on our way.",
+   "ro": "Eh, primit, dispecer... n-au securitate corporatistă acolo? Uf, bine, venim."
+  },
+  {
+   "key": "3378189989237334016",
+   "en": "Roger, unit responding. Any plans for the evening, dispatch?... Dispatch, you copy?... Damn, one of these days.",
+   "ro": "Primit, unitatea răspunde. Planuri pentru seară, dispecer?... Dispecer, mă auzi?... La naiba, într-o zi..."
+  },
+  {
+   "key": "3378193758423457792",
+   "en": "5-21, roger that. We are en route.",
+   "ro": "5-21, primit. Suntem pe drum."
+  },
+  {
+   "key": "3378197002046513152",
+   "en": "Copy, dispatch. I swear to Christ, if it's Eurodyne again…",
+   "ro": "Primit, dispecer. Jur pe Dumnezeu, dacă e iar Eurodyne…"
+  },
+  {
+   "key": "3378201706461765632",
+   "en": "Roger, dispatch, we're at Silk Road West. ETA three minutes. I swear, if some rich gonk's pool is clogged again, I fuckin' quit.",
+   "ro": "Primit, dispecer, suntem la Silk Road West. ETA trei minute. Jur, dacă iar e piscina vreunui fraier bogat înfundată, mă las dracului de meserie."
+  },
+  {
+   "key": "3378215547513970688",
+   "en": "Roger, dispatch. Standing by for coordinates.",
+   "ro": "Primit, dispecer. Aștept coordonatele."
+  },
+  {
+   "key": "3378217747325755392",
+   "en": "Roger. Requesting additional backup… Dispatch, do you copy?",
+   "ro": "Primit. Cer întăriri... Dispecer, mă auzi?"
+  },
+  {
+   "key": "3378222640165920768",
+   "en": "I repeat - confirmed criminal activity Santo Domingo.",
+   "ro": "Repet - activitate criminală confirmată în Santo Domingo."
+  },
+  {
+   "key": "3378225204395614208",
+   "en": "5-21, reporting. Sorry, dispatch, had to take a leak. I'm en route.",
+   "ro": "5-21, raportez. Scuze, dispecer, trebuia să fac pipi. Sunt pe drum."
+  },
+  {
+   "key": "3550572950173921280",
+   "en": "Got a report of someone breakin' the rules. Transferring coordinates.",
+   "ro": "Am un raport despre cineva care încalcă regulile. Trimit coordonatele."
+  },
+  {
+   "key": "3550580026451308544",
+   "en": "Yo, patrol, the fuck's goin' on? Waitin' on a sig.",
+   "ro": "Hei, patrulă, ce pula mea se întâmplă? Aștept un semnal."
+  },
+  {
+   "key": "3550599661145960448",
+   "en": "Target's motorized. Comb the streets. Don't let 'em escape!",
+   "ro": "Ținta e motorizată. Periați străzile. Nu-i lăsați să scape!"
+  },
+  {
+   "key": "3559430347949449216",
+   "en": "Wake the fuck up, patrol! Civilians're actin' up again. Transmitting coords.",
+   "ro": "Treziți-vă, pula mea, patrulă! Civilii iar fac scandal. Trimit coordonatele."
+  },
+  {
+   "key": "3559430541625630720",
+   "en": "Got a tip from a \"concerned civilian\". Head over there, do what y'all gotta do.",
+   "ro": "Am un pont de la un „cetățean preocupat”. Mergeți acolo și faceți ce trebuie."
+  },
+  {
+   "key": "3559463354706010112",
+   "en": "Yo, updates anyone? Hellooo? Wake up, motherfuckers!",
+   "ro": "Hei, are cineva noutăți? Hellooo? Treziți-vă, pizdelor!"
+  },
+  {
+   "key": "3559465474708578304",
+   "en": "Target's still on foot. Handle the bastard, stat.",
+   "ro": "Ținta e încă pe jos. Ocupați-vă de nenorocit, urgent."
+  },
+  {
+   "key": "3559466271106244608",
+   "en": "Why the fuck is our target still breathin'? Asses in gear, now!",
+   "ro": "De ce pula mea mai respiră ținta noastră? Mișcați-vă, acum!"
+  },
+  {
+   "key": "3559468732877479936",
+   "en": "All units - take your dicks out your mouths 'n zero the motherfucker! Get your shit together!",
+   "ro": "Scoateți-vă degetele din cur și lichidați nenorocitul! Adunați-vă, pula mea!"
+  },
+  {
+   "key": "3559471113212108800",
+   "en": "Fuck more do you need to take this asshole down? Clean it up - now!",
+   "ro": "Ce pula mea mai trebuie ca să-l doborâți pe nesimțitul ăsta? Curățați, acum!"
+  },
+  {
+   "key": "3559472465774485504",
+   "en": "Sitch's spirallin' outta control. Sendin' reinforcements.",
+   "ro": "Se duce totul de râpă. Trimit întăriri."
+  },
+  {
+   "key": "3559473434474160128",
+   "en": "See it gettin' hot in there. Backup on the way.",
+   "ro": "Văd că se încinge acolo. Întăriri pe drum."
+  },
+  {
+   "key": "3559474251373584384",
+   "en": "All patrols - Colonel's gonna hang you by the balls if the target ain't dead. Got that?",
+   "ro": "Toate patrulele - Colonelul vă spânzură de coaie dacă ținta nu e moartă. Ați înțeles?"
+  },
+  {
+   "key": "3559475720369840128",
+   "en": "All units in the area - target's still on foot.",
+   "ro": "Toate unitățile din zonă - ținta e încă pe jos."
+  },
+  {
+   "key": "3559476965927133184",
+   "en": "Target's gone dark. Keep your eyes peeled. This ain't over.",
+   "ro": "Ținta a dispărut. Fiți cu ochii în patru. Nu s-a terminat."
+  },
+  {
+   "key": "3559477860672839680",
+   "en": "Got a code red in Dogtown! Repeat - code red!",
+   "ro": "Cod roșu în Dogtown! Repet - cod roșu!"
+  },
+  {
+   "key": "3559478416015466496",
+   "en": "Shit, sitch is getting' outta control! Need reinforcements, stat!",
+   "ro": "La naiba, se duce totul de râpă! Trimiteți întăriri, urgent!"
+  },
+  {
+   "key": "3559484936681791488",
+   "en": "Target's on foot. Feel free to run their bitch-ass over.",
+   "ro": "Ținta e pe jos. Simțiți-vă liberi să-i treceți peste javra aia."
+  },
+  {
+   "key": "3559486055487217664",
+   "en": "Target's walkin' around. Aim for the kneecaps, ya'll.",
+   "ro": "Ținta se plimbă prin zonă. Țintiți-i în genunchi, băieți."
+  },
+  {
+   "key": "3559487009758486528",
+   "en": "Target's got wheels. Set up a roadblock, stat.",
+   "ro": "Ținta are mașină. Blocați drumul, și repede."
+  },
+  {
+   "key": "3559490444507586560",
+   "en": "Confirmed suspects' presence in the area. Better find 'em soon.",
+   "ro": "Suspecții au fost confirmați în zonă. Mai bine-i găsiți repede."
+  },
+  {
+   "key": "3559492738389221384",
+   "en": "Alert - Myers sighted in sector two-one. Investigate now.",
+   "ro": "Alertă - Myers văzută în sectorul doi-unu. Investigați acum."
+  },
+  {
+   "key": "3559496633488351248",
+   "en": "Found 'em yet?! Better have good news for the Colonel.",
+   "ro": "I-ați găsit?! Mai bine aveți vești bune pentru Colonel."
+  },
+  {
+   "key": "3559497244078350336",
+   "en": "Fuck's sake, we're workin' on it!",
+   "ro": "Pula mea, lucrăm la asta!"
+  },
+  {
+   "key": "3559509054449885184",
+   "en": "Target's still in the vicinity - keep up the search.",
+   "ro": "Ținta e încă în zonă - continuați căutarea."
+  },
+  {
+   "key": "3668035689049858048",
+   "en": "Suspect has gone off radar. Search the area.",
+   "ro": "Suspecta a dispărut de pe radar. Căutați zona.",
+   "ro_m": "Suspectul a dispărut de pe radar. Căutați zona."
+  },
+  {
+   "key": "3668038638383767552",
+   "en": "All units be advised – suspect remains in the vicinity.",
+   "ro": "Toate unitățile, atenție – suspecta rămâne în zonă.",
+   "ro_m": "Toate unitățile, atenție – suspectul rămâne în zonă."
+  },
+  {
+   "key": "3668039607569981440",
+   "en": "All units – suspect has evaded patrols. Resume search immediately.",
+   "ro": "Toate unitățile – suspecta a evitat patrulele. Continuați căutarea imediat.",
+   "ro_m": "Toate unitățile – suspectul a evitat patrulele. Continuați căutarea imediat."
+  },
+  {
+   "key": "3668041817045442560",
+   "en": "Suspect has disappeared. All units on site – continue searching the area.",
+   "ro": "Suspecta a dispărut. Toate unitățile la fața locului – continuați căutarea în zonă.",
+   "ro_m": "Suspectul a dispărut. Toate unitățile la fața locului – continuați căutarea în zonă."
+  },
+  {
+   "key": "3668060916496572416",
+   "en": "Almost got her. Initiate remote vehicle lock.",
+   "en_m": "Almost got him. Initiate remote vehicle lock.",
+   "ro": "Aproape am prins-o. Blocați vehiculul de la distanță.",
+   "ro_m": "Aproape am prins-l. Blocați vehiculul de la distanță."
+  },
+  {
+   "key": "3668063429589311488",
+   "en": "Vehicle signature confirmed by NetWatch. You're clear to take over.",
+   "ro": "Semnătura vehiculului e confirmată de NetWatch. Puteți prelua controlul."
+  },
+  {
+   "key": "3668064527809093632",
+   "en": "NetWatch confirmed. You're clear to neutralize the enemy vehicle.",
+   "ro": "Confirmat de NetWatch. Neutralizați vehiculul inamic."
+  },
+  {
+   "key": "3668067841309253632",
+   "en": "What, she crawl into a hole or somethin'? Drop the search. Over and out.",
+   "en_m": "What, he crawl into a hole or somethin'? Drop the search. Over and out.",
+   "ro": "Ce, s-a vârât într-o gaură sau ceva? Lăsați căutarea. Terminat."
+  },
+  {
+   "key": "3668069720089010176",
+   "en": "You lost 'er – on your own fuckin' turf. That's it, return to base.",
+   "en_m": "You lost 'im – on your own fuckin' turf. That's it, return to base.",
+   "ro": "Ați pierdut-o – pe terenul vostru nenorocit. Gata, întoarceți-vă la bază.",
+   "ro_m": "Ați pierdut-l – pe terenul vostru nenorocit. Gata, întoarceți-vă la bază."
+  },
+  {
+   "key": "3668070504037982208",
+   "en": "You gonkheads let 'er run. Now heads're gonna roll. Over and out.",
+   "en_m": "You gonkheads let 'im run. Now heads're gonna roll. Over and out.",
+   "ro": "Fraierilor, ați lăsat-o să fugă. Acum o să cadă capete. Terminat.",
+   "ro_m": "Fraierilor, ați lăsat-l să fugă. Acum o să cadă capete. Terminat."
+  }
+ ]
+}

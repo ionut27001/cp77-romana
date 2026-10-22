@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q004\\q004_chicken_test.json",
+ "entries": [
+  {
+   "key": "1155940882272104448",
+   "en": "Lizzie's Entrance",
+   "ro": "Intrare Lizzie's"
+  },
+  {
+   "key": "1155943120503713792",
+   "en": "Arasaka Hotel 3rd Floor (BD)",
+   "ro": "Hotel Arasaka Etajul 3 (BD)"
+  },
+  {
+   "key": "1250384715486998528",
+   "en": "Braindance Tutorial",
+   "ro": "Tutorial Braindance"
+  },
+  {
+   "key": "1487822562727440384",
+   "en": "Bartender/Evelyn Scene",
+   "ro": "Scenă barman/Evelyn"
+  },
+  {
+   "key": "1487823089515245568",
+   "en": "Judy Scene",
+   "ro": "Scenă Judy"
+  },
+  {
+   "key": "1490969555880521728",
+   "en": "Final Scene",
+   "ro": "Scenă finală"
+  },
+  {
+   "key": "2079565289758826496",
+   "en": "[db_db]Club Closed [06:00-18:00]",
+   "ro": "[db_db]Club închis [06:00-18:00]"
+  }
+ ]
+}

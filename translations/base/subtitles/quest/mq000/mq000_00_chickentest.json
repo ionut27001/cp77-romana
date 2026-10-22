@@ -1,0 +1,895 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq000\\mq000_00_chickentest.json",
+ "entries": [
+  {
+   "key": "2398143781779972100",
+   "en": "[db_db][Test Apartment Features]",
+   "ro": "[db_db][Testează funcțiile apartamentului]"
+  },
+  {
+   "key": "2398144539254497280",
+   "en": "[db_db][Test TV]",
+   "ro": "[db_db][Testează TV-ul]"
+  },
+  {
+   "key": "2398147465821724676",
+   "en": "[db_db]N54 News",
+   "ro": "[db_db]N54 News"
+  },
+  {
+   "key": "2398151633466728452",
+   "en": "[db_db]n54_news_01",
+   "ro": "[db_db]n54_news_01"
+  },
+  {
+   "key": "2398152139585003520",
+   "en": "[db_db]n54_news_02",
+   "ro": "[db_db]n54_news_02"
+  },
+  {
+   "key": "2398152289573314560",
+   "en": "[db_db]n54_news_03",
+   "ro": "[db_db]n54_news_03"
+  },
+  {
+   "key": "2398152465515978752",
+   "en": "[db_db]n54_news_04",
+   "ro": "[db_db]n54_news_04"
+  },
+  {
+   "key": "2398152598592856064",
+   "en": "[db_db]n54_news_05",
+   "ro": "[db_db]n54_news_05"
+  },
+  {
+   "key": "2398153122411094016",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398153442537152512",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398155709826899968",
+   "en": "[db_db]n54_news_06",
+   "ro": "[db_db]n54_news_06"
+  },
+  {
+   "key": "2398155709826899980",
+   "en": "[db_db]n54_news_07",
+   "ro": "[db_db]n54_news_07"
+  },
+  {
+   "key": "2398155709843677188",
+   "en": "[db_db]n54_news_08",
+   "ro": "[db_db]n54_news_08"
+  },
+  {
+   "key": "2398155709843677200",
+   "en": "[db_db]n54_news_09",
+   "ro": "[db_db]n54_news_09"
+  },
+  {
+   "key": "2398155709843677212",
+   "en": "[db_db]n54_news_10",
+   "ro": "[db_db]n54_news_10"
+  },
+  {
+   "key": "2398155709843677236",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398160945324924928",
+   "en": "[db_db]ziggy_q_01",
+   "ro": "[db_db]ziggy_q_01"
+  },
+  {
+   "key": "2398160945324924940",
+   "en": "[db_db]ziggy_q_02",
+   "ro": "[db_db]ziggy_q_02"
+  },
+  {
+   "key": "2398160945341702144",
+   "en": "[db_db]ziggy_q_03",
+   "ro": "[db_db]ziggy_q_03"
+  },
+  {
+   "key": "2398160945341702156",
+   "en": "[db_db]ziggy_q_04",
+   "ro": "[db_db]ziggy_q_04"
+  },
+  {
+   "key": "2398160945341702168",
+   "en": "[db_db]ziggy_q_05",
+   "ro": "[db_db]ziggy_q_05"
+  },
+  {
+   "key": "2398160945341702180",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398160945341702192",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398161929157648384",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398162355433152512",
+   "en": "[db_db]n54_q003_01_meredith_stout_promotion",
+   "ro": "[db_db]n54_q003_01_meredith_stout_promotion"
+  },
+  {
+   "key": "2398162355433152524",
+   "en": "[db_db]n54_q003_01_antony_promotion",
+   "ro": "[db_db]n54_q003_01_antony_promotion"
+  },
+  {
+   "key": "2398162355433152536",
+   "en": "[db_db]n54_q005_01_additional_news_saburo_death",
+   "ro": "[db_db]n54_q005_01_additional_news_saburo_death"
+  },
+  {
+   "key": "2398162355433152548",
+   "en": "[db_db]n54_q104_02_av_down_news",
+   "ro": "[db_db]n54_q104_02_av_down_news"
+  },
+  {
+   "key": "2398162355433152560",
+   "en": "[db_db]n54_q201_03_news_about_confrontation",
+   "ro": "[db_db]n54_q201_03_news_about_confrontation"
+  },
+  {
+   "key": "2398162355433152572",
+   "en": "[db_db]n54_q202_02_immigrants_shot_at_wall",
+   "ro": "[db_db]n54_q202_02_immigrants_shot_at_wall"
+  },
+  {
+   "key": "2398162355433152584",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398168645966405632",
+   "en": "[db_db]n54_q201_02_protests_over_resurection",
+   "ro": "[db_db]n54_q201_02_protests_over_resurection"
+  },
+  {
+   "key": "2398171959214907392",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398172325813854208",
+   "en": "[db_db]n54_sq004_01_nomads_clash",
+   "ro": "[db_db]n54_sq004_01_nomads_clash"
+  },
+  {
+   "key": "2398172325830631432",
+   "en": "[db_db]n54_sq006_01_elections_hook",
+   "ro": "[db_db]n54_sq006_01_elections_hook"
+  },
+  {
+   "key": "2398172325830631444",
+   "en": "[db_db]n54_sq006_03_elections_results_version_a",
+   "ro": "[db_db]n54_sq006_03_elections_results_version_a"
+  },
+  {
+   "key": "2398172325830631456",
+   "en": "[db_db]n54_sq006_03_elections_results_version_b",
+   "ro": "[db_db]n54_sq006_03_elections_results_version_b"
+  },
+  {
+   "key": "2398172325830631468",
+   "en": "[db_db]n54_sq021_04_consequence_a",
+   "ro": "[db_db]n54_sq021_04_consequence_a"
+  },
+  {
+   "key": "2398172325830631480",
+   "en": "[db_db]n54_sq027_01_convoy_attacked",
+   "ro": "[db_db]n54_sq027_01_convoy_attacked"
+  },
+  {
+   "key": "2398172325830631492",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398180931149930496",
+   "en": "[db_db]n54_sq021_04_consequence_b",
+   "ro": "[db_db]n54_sq021_04_consequence_b"
+  },
+  {
+   "key": "2398186701404938240",
+   "en": "[db_db]Ziggy Q",
+   "ro": "[db_db]Ziggy Q"
+  },
+  {
+   "key": "2398190934950846464",
+   "en": "[db_db]ziggy_q_q001_arasaka_chip_debate",
+   "ro": "[db_db]ziggy_q_q001_arasaka_chip_debate"
+  },
+  {
+   "key": "2398190934950846476",
+   "en": "[db_db]ziggy_q_q113_01_hanako_biographer_interview",
+   "ro": "[db_db]ziggy_q_q113_01_hanako_biographer_interview"
+  },
+  {
+   "key": "2398190934950846488",
+   "en": "[db_db]ziggy_q_q202_01_the_wall_talkshow",
+   "ro": "[db_db]ziggy_q_q202_01_the_wall_talkshow"
+  },
+  {
+   "key": "2398190934950846500",
+   "en": "[db_db]ziggy_q_sq017_02_us_cracks",
+   "ro": "[db_db]ziggy_q_sq017_02_us_cracks"
+  },
+  {
+   "key": "2398190934950846512",
+   "en": "[db_db]ziggy_q_sq023_01_rachel_talk_show",
+   "ro": "[db_db]ziggy_q_sq023_01_rachel_talk_show"
+  },
+  {
+   "key": "2398190934967623696",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398201924513865728",
+   "en": "[db_db]WNS News",
+   "ro": "[db_db]WNS News"
+  },
+  {
+   "key": "2398294047233843200",
+   "en": "[db_db]wns_news_01",
+   "ro": "[db_db]wns_news_01"
+  },
+  {
+   "key": "2398294047250620420",
+   "en": "[db_db]wns_news_02",
+   "ro": "[db_db]wns_news_02"
+  },
+  {
+   "key": "2398294047250620432",
+   "en": "[db_db]wns_news_03",
+   "ro": "[db_db]wns_news_03"
+  },
+  {
+   "key": "2398294047250620444",
+   "en": "[db_db]wns_news_04",
+   "ro": "[db_db]wns_news_04"
+  },
+  {
+   "key": "2398294047250620456",
+   "en": "[db_db]wns_news_05",
+   "ro": "[db_db]wns_news_05"
+  },
+  {
+   "key": "2398294047250620468",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398294047250620480",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398298152970919936",
+   "en": "[db_db]wns_news_07",
+   "ro": "[db_db]wns_news_07"
+  },
+  {
+   "key": "2398298152970919948",
+   "en": "[db_db]wns_news_08",
+   "ro": "[db_db]wns_news_08"
+  },
+  {
+   "key": "2398298152970919960",
+   "en": "[db_db]wns_news_09",
+   "ro": "[db_db]wns_news_09"
+  },
+  {
+   "key": "2398298152970919972",
+   "en": "[db_db]wns_news_10",
+   "ro": "[db_db]wns_news_10"
+  },
+  {
+   "key": "2398298152987697160",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398298152987697172",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398301344534274048",
+   "en": "[db_db]wns_q005_02_saburo_documentary_part_1",
+   "ro": "[db_db]wns_q005_02_saburo_documentary_part_1"
+  },
+  {
+   "key": "2398301344534274060",
+   "en": "[db_db]wns_q005_02_saburo_documentary_part_1",
+   "ro": "[db_db]wns_q005_02_saburo_documentary_part_1"
+  },
+  {
+   "key": "2398301344534274072",
+   "en": "[db_db]wns_q101_01_yorinobu_news",
+   "ro": "[db_db]wns_q101_01_yorinobu_news"
+  },
+  {
+   "key": "2398301344534274084",
+   "en": "[db_db]wns_q101_02_hanako_background",
+   "ro": "[db_db]wns_q101_02_hanako_background"
+  },
+  {
+   "key": "2398301344534274096",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398301344534274108",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398304699591598080",
+   "en": "[db_db]wns_q104_01_power_outage_news_generic",
+   "ro": "[db_db]wns_q104_01_power_outage_news_generic"
+  },
+  {
+   "key": "2398305578080182272",
+   "en": "[db_db]wns_q110_01_netwatch_blackout",
+   "ro": "[db_db]wns_q110_01_netwatch_blackout"
+  },
+  {
+   "key": "2398306647174717440",
+   "en": "[db_db]wns_q112_01_hanako_arrives",
+   "ro": "[db_db]wns_q112_01_hanako_arrives"
+  },
+  {
+   "key": "2398307856073793536",
+   "en": "[db_db]wns_q112_02_dashi_parade",
+   "ro": "[db_db]wns_q112_02_dashi_parade"
+  },
+  {
+   "key": "2398307856073793548",
+   "en": "[db_db]wns_q201_01_saburo_announcemen",
+   "ro": "[db_db]wns_q201_01_saburo_announcemen"
+  },
+  {
+   "key": "2398307856073793560",
+   "en": "[db_db]wns_sq006_05_debate",
+   "ro": "[db_db]wns_sq006_05_debate"
+  },
+  {
+   "key": "2398307856090570752",
+   "en": "[db_db]wns_sq012_river_ward_decorated",
+   "ro": "[db_db]wns_sq012_river_ward_decorated"
+  },
+  {
+   "key": "2398307856090570764",
+   "en": "[db_db]wns_sq012_lucius_rhyne_dead",
+   "ro": "[db_db]wns_sq012_lucius_rhyne_dead"
+  },
+  {
+   "key": "2398307856090570776",
+   "en": "[db_db]wns_sq_021_03_quest_hook_b",
+   "ro": "[db_db]wns_sq_021_03_quest_hook_b"
+  },
+  {
+   "key": "2398307856107347968",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398315964233850880",
+   "en": "[db_db]Chip In",
+   "ro": "[db_db]Chip In"
+  },
+  {
+   "key": "2398316810912833536",
+   "en": "[db_db]chip_in_01",
+   "ro": "[db_db]chip_in_01"
+  },
+  {
+   "key": "2398316810929610760",
+   "en": "[db_db]chip_in_02",
+   "ro": "[db_db]chip_in_02"
+  },
+  {
+   "key": "2398316810929610772",
+   "en": "[db_db]chip_in_03",
+   "ro": "[db_db]chip_in_03"
+  },
+  {
+   "key": "2398316810929610784",
+   "en": "[db_db]chip_in_04",
+   "ro": "[db_db]chip_in_04"
+  },
+  {
+   "key": "2398316810929610796",
+   "en": "[db_db]chip_in_05",
+   "ro": "[db_db]chip_in_05"
+  },
+  {
+   "key": "2398316810929610808",
+   "en": "[db_db][More>>]",
+   "ro": "[db_db][Mai mult>>]"
+  },
+  {
+   "key": "2398316810929610820",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398320047825002496",
+   "en": "[db_db]chip_in_sq023_02_bd_success",
+   "ro": "[db_db]chip_in_sq023_02_bd_success"
+  },
+  {
+   "key": "2398320047825002508",
+   "en": "[db_db]chip_in_sq023_03_bd_failure",
+   "ro": "[db_db]chip_in_sq023_03_bd_failure"
+  },
+  {
+   "key": "2398320047825002520",
+   "en": "[db_db]chip_in_mq019_bd_lizzy",
+   "ro": "[db_db]chip_in_mq019_bd_lizzy"
+  },
+  {
+   "key": "2398320047841779732",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398321478049112064",
+   "en": "[db_db]ziggy_q_sq006_jefferson_talkshow",
+   "ro": "[db_db]ziggy_q_sq006_jefferson_talkshow"
+  },
+  {
+   "key": "2398328979981246464",
+   "en": "[db_db]Infoflash",
+   "ro": "[db_db]Infoflash"
+  },
+  {
+   "key": "2398329706686357504",
+   "en": "[db_db]infoflash_01",
+   "ro": "[db_db]infoflash_01"
+  },
+  {
+   "key": "2398329706686357516",
+   "en": "[db_db]infoflash_02",
+   "ro": "[db_db]infoflash_02"
+  },
+  {
+   "key": "2398329706686357528",
+   "en": "[db_db]infoflash_03",
+   "ro": "[db_db]infoflash_03"
+  },
+  {
+   "key": "2398329706686357540",
+   "en": "[db_db]infoflash_04",
+   "ro": "[db_db]infoflash_04"
+  },
+  {
+   "key": "2398329706686357552",
+   "en": "[db_db]infoflash_05",
+   "ro": "[db_db]infoflash_05"
+  },
+  {
+   "key": "2398329706686357564",
+   "en": "[db_db]infoflash_q113_02_comedy_show_about_yorinobu",
+   "ro": "[db_db]infoflash_q113_02_comedy_show_about_yorinobu"
+  },
+  {
+   "key": "2398329706686357576",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398335512173518848",
+   "en": "[db_db]your_business_01",
+   "ro": "[db_db]your_business_01"
+  },
+  {
+   "key": "2398335512190296072",
+   "en": "[db_db]your_business_02",
+   "ro": "[db_db]your_business_02"
+  },
+  {
+   "key": "2398335512190296084",
+   "en": "[db_db]your_business_03",
+   "ro": "[db_db]your_business_03"
+  },
+  {
+   "key": "2398335512190296096",
+   "en": "[db_db]your_business_04",
+   "ro": "[db_db]your_business_04"
+  },
+  {
+   "key": "2398335512190296108",
+   "en": "[db_db]your_business_05",
+   "ro": "[db_db]your_business_05"
+  },
+  {
+   "key": "2398335512190296120",
+   "en": "[db_db]your_business_06",
+   "ro": "[db_db]your_business_06"
+  },
+  {
+   "key": "2398335512190296132",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2398337989866332160",
+   "en": "[db_db]additional chip segment",
+   "ro": "[db_db]additional chip segment"
+  },
+  {
+   "key": "2398340822263046144",
+   "en": "[db_db]Your Business is My Business",
+   "ro": "[db_db]Your Business is My Business"
+  },
+  {
+   "key": "2398343947522842624",
+   "en": "[db_db]q113_03_arasaka_board_meeting",
+   "ro": "[db_db]q113_03_arasaka_board_meeting"
+  },
+  {
+   "key": "2454714599116546048",
+   "en": "[db_db][Test Heal Player]",
+   "ro": "[db_db][Test Heal Player]"
+  },
+  {
+   "key": "2454715056664780800",
+   "en": "[db_db][Heal Player]",
+   "ro": "[db_db][Heal Player]"
+  },
+  {
+   "key": "2454716275915399168",
+   "en": "[db_db][Damage Player]",
+   "ro": "[db_db][Damage Player]"
+  },
+  {
+   "key": "2476307276731686912",
+   "en": "[db_db]guns_n_horses_01",
+   "ro": "[db_db]guns_n_horses_01"
+  },
+  {
+   "key": "2476307276731686924",
+   "en": "[db_db]guns_n_horses_02",
+   "ro": "[db_db]guns_n_horses_02"
+  },
+  {
+   "key": "2476307276731686936",
+   "en": "[db_db]guns_n_horses_03",
+   "ro": "[db_db]guns_n_horses_03"
+  },
+  {
+   "key": "2476307276748464128",
+   "en": "[db_db]guns_n_horses_04",
+   "ro": "[db_db]guns_n_horses_04"
+  },
+  {
+   "key": "2476307276748464140",
+   "en": "[db_db]guns_n_horses_05",
+   "ro": "[db_db]guns_n_horses_05"
+  },
+  {
+   "key": "2476307276748464164",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2476308061200752640",
+   "en": "[db_db]Guns N Horses",
+   "ro": "[db_db]Guns N Horses"
+  },
+  {
+   "key": "2476316965859139584",
+   "en": "[db_db]loading_screens",
+   "ro": "[db_db]loading_screens"
+  },
+  {
+   "key": "2476317877382062080",
+   "en": "[db_db]loading_screen_3_q001_thru_q005",
+   "ro": "[db_db]loading_screen_3_q001_thru_q005"
+  },
+  {
+   "key": "2476317877398839300",
+   "en": "[db_db]loading_screen_5_after_q101",
+   "ro": "[db_db]loading_screen_5_after_q101"
+  },
+  {
+   "key": "2476317877398839312",
+   "en": "[db_db]loading_screen_7_after_q110",
+   "ro": "[db_db]loading_screen_7_after_q110"
+  },
+  {
+   "key": "2476317877398839324",
+   "en": "[db_db]loading_screen_9_after_q104 generic",
+   "ro": "[db_db]loading_screen_9_after_q104 generic"
+  },
+  {
+   "key": "2476317877398839336",
+   "en": "[db_db]loading_screen_9_after_q104 techie",
+   "ro": "[db_db]loading_screen_9_after_q104 techie"
+  },
+  {
+   "key": "2476317877398839348",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2476320654665621504",
+   "en": "[db_db][More>>}",
+   "ro": "[db_db][More>>}"
+  },
+  {
+   "key": "2476321195126857728",
+   "en": "[db_db]loading_screen_10_after_q112",
+   "ro": "[db_db]loading_screen_10_after_q112"
+  },
+  {
+   "key": "2476321195126857740",
+   "en": "[db_db]loading_screen_11_after_q113",
+   "ro": "[db_db]loading_screen_11_after_q113"
+  },
+  {
+   "key": "2476321195143634944",
+   "en": "[db_db]loading_screen_12_after_q114_and_q116",
+   "ro": "[db_db]loading_screen_12_after_q114_and_q116"
+  },
+  {
+   "key": "2476321195143634956",
+   "en": "[db_db]loading_screen_13_after_q115_and_q116",
+   "ro": "[db_db]loading_screen_13_after_q115_and_q116"
+  },
+  {
+   "key": "2476321195143634992",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2476461186079432704",
+   "en": "[db_db]dr_paradox_01",
+   "ro": "[db_db]dr_paradox_01"
+  },
+  {
+   "key": "2476461186079432716",
+   "en": "[db_db]dr_paradox_02",
+   "ro": "[db_db]dr_paradox_02"
+  },
+  {
+   "key": "2476461186079432728",
+   "en": "[db_db]dr_paradox_03",
+   "ro": "[db_db]dr_paradox_03"
+  },
+  {
+   "key": "2476461186096209920",
+   "en": "[db_db]dr_paradox_04",
+   "ro": "[db_db]dr_paradox_04"
+  },
+  {
+   "key": "2476461186096209932",
+   "en": "[db_db]dr_paradox_05",
+   "ro": "[db_db]dr_paradox_05"
+  },
+  {
+   "key": "2476461186096209944",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2476462040828256256",
+   "en": "[db_db]Dr Paradox",
+   "ro": "[db_db]Dr Paradox"
+  },
+  {
+   "key": "2476466673688682496",
+   "en": "[db_db]safe_n_sound_01",
+   "ro": "[db_db]safe_n_sound_01"
+  },
+  {
+   "key": "2476466673688682508",
+   "en": "[db_db]safe_n_sound_02",
+   "ro": "[db_db]safe_n_sound_02"
+  },
+  {
+   "key": "2476466673688682520",
+   "en": "[db_db]safe_n_sound_03",
+   "ro": "[db_db]safe_n_sound_03"
+  },
+  {
+   "key": "2476466673688682532",
+   "en": "[db_db]safe_n_sound_04",
+   "ro": "[db_db]safe_n_sound_04"
+  },
+  {
+   "key": "2476466673688682544",
+   "en": "[db_db]safe_n_sound_05",
+   "ro": "[db_db]safe_n_sound_05"
+  },
+  {
+   "key": "2476466673705459716",
+   "en": "[db_db][<<Back]",
+   "ro": "[db_db][<<ÎNAPOI]"
+  },
+  {
+   "key": "2476467342394957824",
+   "en": "[db_db]Safe N Sound",
+   "ro": "[db_db]Safe N Sound"
+  },
+  {
+   "key": "2476470912955621376",
+   "en": "[db_db]Ads",
+   "ro": "[db_db]Reclame"
+  },
+  {
+   "key": "2476490002642411520",
+   "en": "[db_db]sq017_3_kerry_collaboration",
+   "ro": "[db_db]sq017_3_kerry_collaboration"
+  },
+  {
+   "key": "2535876898803589120",
+   "en": "[db_db]wns_q104_01_power_outage_news_techie",
+   "ro": "[db_db]wns_q104_01_power_outage_news_techie"
+  },
+  {
+   "key": "2542254919986880512",
+   "en": "[db_db][Test window]",
+   "ro": "[db_db][Fereastră de test]"
+  },
+  {
+   "key": "2542255371746975748",
+   "en": "[db_db]Make it rain",
+   "ro": "[db_db]Make it rain"
+  },
+  {
+   "key": "2542256837807218688",
+   "en": "[db_db]Toxic",
+   "ro": "[db_db]Toxic"
+  },
+  {
+   "key": "2542257068275834880",
+   "en": "[db_db]Sunny",
+   "ro": "[db_db]Însorit"
+  },
+  {
+   "key": "2757919183307972612",
+   "en": "[db_db][Play All]",
+   "ro": "[db_db][Redă tot]"
+  },
+  {
+   "key": "2757920977681555456",
+   "en": "[db_db]Foreign Body",
+   "ro": "[db_db]Foreign Body"
+  },
+  {
+   "key": "2757921464673804288",
+   "en": "[db_db]Mr Stud",
+   "ro": "[db_db]Mr Stud"
+  },
+  {
+   "key": "2757921712808828928",
+   "en": "[db_db][<Back]",
+   "ro": "[db_db][<ÎNAPOI]"
+  },
+  {
+   "key": "2758940962688245760",
+   "en": "[db_db]Chromanticore [Mix it Up]",
+   "ro": "[db_db]Chromanticore [Mix it Up]"
+  },
+  {
+   "key": "2759181487248941056",
+   "en": "[db_db]All Foods Meat",
+   "ro": "[db_db]All Foods Meat"
+  },
+  {
+   "key": "2759181868309848064",
+   "en": "[db_db]Capitan Caliente",
+   "ro": "[db_db]Capitan Caliente"
+  },
+  {
+   "key": "2759183464309628928",
+   "en": "[db_db][More>]",
+   "ro": "[db_db][Mai mult>]"
+  },
+  {
+   "key": "2759184338855567360",
+   "en": "[db_db][Play All]",
+   "ro": "[db_db][Redă tot]"
+  },
+  {
+   "key": "2759184338855567372",
+   "en": "[db_db]Mr Whitey",
+   "ro": "[db_db]Mr Whitey"
+  },
+  {
+   "key": "2759184338872344584",
+   "en": "[db_db]Nicola",
+   "ro": "[db_db]Nicola"
+  },
+  {
+   "key": "2759184338872344596",
+   "en": "[db_db]Orgiatic",
+   "ro": "[db_db]Orgiastic"
+  },
+  {
+   "key": "2759184338889121796",
+   "en": "[db_db]Slaughterhouse",
+   "ro": "[db_db]Slaughterhouse"
+  },
+  {
+   "key": "2759184338889121808",
+   "en": "[db_db]Sojasil",
+   "ro": "[db_db]Sojasil"
+  },
+  {
+   "key": "2759184338905899012",
+   "en": "[db_db][More>]",
+   "ro": "[db_db][Mai mult>]"
+  },
+  {
+   "key": "2759184338905899024",
+   "en": "[db_db][<Back]",
+   "ro": "[db_db][<ÎNAPOI]"
+  },
+  {
+   "key": "2759187037655310336",
+   "en": "[db_db][Play All]",
+   "ro": "[db_db][Redă tot]"
+  },
+  {
+   "key": "2759187037655310348",
+   "en": "[db_db]Thrud",
+   "ro": "[db_db]Thrud"
+  },
+  {
+   "key": "2759187037655310360",
+   "en": "[db_db]Tiancha",
+   "ro": "[db_db]Tiancha"
+  },
+  {
+   "key": "2759187037672087552",
+   "en": "[db_db]Us Cracks",
+   "ro": "[db_db]Us Cracks"
+  },
+  {
+   "key": "2759187037672087564",
+   "en": "[db_db]Vargas",
+   "ro": "[db_db]Vargas"
+  },
+  {
+   "key": "2759187037672087576",
+   "en": "[db_db]Watson Whore",
+   "ro": "[db_db]Watson Whore"
+  },
+  {
+   "key": "2759187037688864768",
+   "en": "[db_db][<Back]",
+   "ro": "[db_db][<ÎNAPOI]"
+  },
+  {
+   "key": "2940213170294136832",
+   "en": "[db_db][Test Internet]",
+   "ro": "[db_db][Testează internetul]"
+  },
+  {
+   "key": "3596929793263538176",
+   "en": "[db_db][Test Internet EP1]",
+   "ro": "[db_db][Testează internetul EP1]"
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_02_placide.json",
+ "entries": [
+  {
+   "key": "1508117275859767296",
+   "en": "<kiroshi l=\"creo\" o=\"Li pral soti tankou li toujou fè.\" t=\"It'll turn out like it always does.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li pral soti tankou li toujou fè.\" t=\"O să iasă ca de obicei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508201649871540228",
+   "en": "Placide?",
+   "ro": "Placide?"
+  },
+  {
+   "key": "1508204917351796736",
+   "en": "Wanna talk to your boss.",
+   "ro": "Vreau să vorbesc cu șeful tău."
+  },
+  {
+   "key": "1508206618225954816",
+   "en": "Wanna talk to your boss.",
+   "ro": "Vreau să vorbesc cu șeful tău."
+  },
+  {
+   "key": "1508208368492236800",
+   "en": "You Placide?",
+   "ro": "Tu ești Placide?"
+  },
+  {
+   "key": "1508244374478147588",
+   "en": "Told me at the chapel you're the one to talk to.",
+   "ro": "Mi-au spus la capelă că ești cel cu care trebuie să vorbesc."
+  },
+  {
+   "key": "1508271394721386496",
+   "en": "<kiroshi l=\"creo\" o=\"Ki sa ou vle?\" t=\"What do you want?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ki sa ou vle?\" t=\"Ce vrei?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1508273544084082688",
+   "en": "Here I thought selling poultry was illegal.",
+   "ro": "Credeam că vânzarea de carne de pasăre era ilegală."
+  },
+  {
+   "key": "1508273814197260288",
+   "en": "Here I thought selling domesticated fowl was still illegal.",
+   "ro": "Credeam că vânzarea de păsări de curte e tot ilegală."
+  },
+  {
+   "key": "1508275019774447616",
+   "en": "Told me at the chapel you're the one to talk to.",
+   "en_m": "Told me at the chapel you're the one to talk to?",
+   "ro": "Mi-au spus la capelă că ești cel cu care trebuie să vorbesc.",
+   "ro_m": "Mi-au spus la capelă că ești cel cu care trebuie să vorbesc?"
+  },
+  {
+   "key": "1508277270723186688",
+   "en": "Mr. Hands sent me. Said you got mercwork needs doin'.",
+   "ro": "M-a trimis domnul Hands. Zice că ai o treabă de mercenar."
+  },
+  {
+   "key": "1521283979175546884",
+   "en": "Looking for Placide.",
+   "ro": "Îl caut pe Placide."
+  },
+  {
+   "key": "1521284418436616192",
+   "en": "You really sell meat outta this place?",
+   "ro": "Chiar vinzi carne din locul ăsta?"
+  },
+  {
+   "key": "1521285461459357696",
+   "en": "<kiroshi l=\"creo\" o=\"Li pa fè okenn sans pousè li koulye a. Jis tann.\" t=\"Makes no sense to push him now. Just wait.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li pa fè okenn sans pousè li koulye a. Jis tann.\" t=\"N-are sens să-l presezi acum. Stai doar.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1521285837201887232",
+   "en": "You actually sell meat outta here? Seriously?",
+   "en_m": "You actually sell meat outta here? Really?",
+   "ro": "Chiar vinzi carne din locul ăsta? Serios?",
+   "ro_m": "Chiar vinzi carne din locul ăsta? Pe bune?"
+  },
+  {
+   "key": "1521295541596606464",
+   "en": "<kiroshi l=\"creo\" o=\"Dodo, ti pitit manman.\" t=\"Sleep, mommy's little one.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Dodo, ti pitit manman.\" t=\"Dormi, puiul mamei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532879420010074112",
+   "en": "<kiroshi l=\"creo\" o=\"Ou aktyèlman vle achte kèk?\" t=\"Do you actually want to buy some?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou aktyèlman vle achte kèk?\" t=\"Chiar vrei să cumperi ceva?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532880400118255616",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"What's she doing here?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"What's he doing here?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"Ce face ea aici?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"Ce face el aici?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532916316983595008",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pa konnen, li te sanble trè detèmine.\" t=\"I dunno, he seemed pretty insistent.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pa konnen, li te sanble trè detèmine.\" t=\"Nu știu, părea destul de insistent.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532916394880208896",
+   "en": "<kiroshi l=\"creo\" o=\"O, li pral chanje lide li, tankou tout tan.\" t=\"Oh, he'll change his mind, like always.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"O, li pral chanje lide li, tankou tout tan.\" t=\"A, o să-și schimbe părerea, ca de obicei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532917831563546624",
+   "en": "<kiroshi l=\"creo\" o=\"Hmm ... Se pa tan sa.\" t=\"Hmm... not this time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Hmm ... Se pa tan sa.\" t=\"Hmm... de data asta nu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1532918387845697536",
+   "en": "<kiroshi l=\"creo\" o=\"Ou vle pou mwen pale ak li, pa vre?\" t=\"You want me to talk to him, right?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou vle pou mwen pale ak li, pa vre?\" t=\"Vrei să vorbesc cu el, nu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1533053482787213312",
+   "en": "No here. Come with.",
+   "ro": "Nu aici. Vino cu mine."
+  },
+  {
+   "key": "1562256222851502080",
+   "en": "<kiroshi l=\"creo\" o=\"Oke, pa gen chance.\" t=\"OK, not a chance.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Oke, pa gen chance.\" t=\"OK, nicio șansă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1590934805174095872",
+   "en": "Six years poultry's supposedly had the plague. Now all of a sudden – poof – it's clean?",
+   "ro": "De șase ani se zice că păsările au ciumă. Și acum dintr-o dată – puf – e curată?"
+  },
+  {
+   "key": "1590940504813801472",
+   "en": "Dis not for sale.",
+   "ro": "Asta nu e de vânzare."
+  },
+  {
+   "key": "1590940999020253184",
+   "en": "What you want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1590956392837353472",
+   "en": "<kiroshi l=\"creo\" o=\"Ou ap eseye vin entelijan, li sanble.\" t=\"Trying to be clever, it looks like.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou ap eseye vin entelijan, li sanble.\" t=\"Încearcă să fie deșteaptă, se pare.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Ou ap eseye vin entelijan, li sanble.\" t=\"Încearcă să fie deștept, se pare.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1602686949887643648",
+   "en": "Lookin' for Placide.",
+   "ro": "Îl caut pe Placide."
+  },
+  {
+   "key": "1602686949887643660",
+   "en": "Placide.",
+   "ro": "Placide."
+  },
+  {
+   "key": "1602693016814161920",
+   "en": "<kiroshi l=\"creo\" o=\"Um byen?\" t=\"Well?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Um byen?\" t=\"Ei?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1618653025446653952",
+   "en": "Placide?",
+   "ro": "Placide?"
+  },
+  {
+   "key": "1618654193157664768",
+   "en": "Placide?",
+   "ro": "Placide?"
+  },
+  {
+   "key": "1618705571922046976",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1618707926621089792",
+   "en": "<kiroshi l=\"creo\" o=\"M’byen?\" t=\"Well?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"M’byen?\" t=\"Ei?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1682415336037879808",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1705627683454558208",
+   "en": "<kiroshi l=\"creo\" o=\"Gen yon pwoblèm? Ale non.\" t=\"There a problem? Go on in.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gen yon pwoblèm? Ale non.\" t=\"E vreo problemă? Intră.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1715556659745853440",
+   "en": "<kiroshi l=\"creo\" o=\"Do-o-do, ti pitit manman.\" t=\"Sleep, mommy's little one.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Do-o-do, ti pitit manman.\" t=\"Dormi, puiul mamei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1715557169940992000",
+   "en": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w. Si ou pa dodo krab la va mange'w.\" t=\"If you don't sleep, the crab will eat you. If you don't sleep, the crab will eat you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w. Si ou pa dodo krab la va mange'w.\" t=\"Dacă nu dormi, crabul te mănâncă. Dacă nu dormi, crabul te mănâncă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1715557516893818880",
+   "en": "<kiroshi l=\"creo\" o=\"Manman ou pa la lalé nan maché.\" t=\"Your mama isn't here, she went to the market.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Manman ou pa la lalé nan maché.\" t=\"Mama ta nu e aici, s-a dus la piață.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1715557850391318528",
+   "en": "<kiroshi l=\"creo\" o=\"Papa ou pa la l'alé larivyè.\" t=\"Your papa isn't here, he went to the river.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Papa ou pa la l'alé larivyè.\" t=\"Tatăl tău nu e aici, s-a dus la râu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1715558191941881856",
+   "en": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w.\" t=\"If you don't sleep, the crab will eat you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w.\" t=\"Dacă nu dormi, crabul te mănâncă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1741734015284563984",
+   "en": "<kiroshi l=\"creo\" o=\"Se ou menm. Kontinye.\" t=\"So, it's you. Go on.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se ou menm. Kontinye.\" t=\"Așa deci, tu ești. Continuă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1741734015301341184",
+   "en": "<kiroshi l=\"creo\" o=\"Placide. Gade la.\" t=\"Placide. Over there.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Placide. Gade la.\" t=\"Placide. Acolo.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1741738439788744704",
+   "en": "<kiroshi l=\"creo\" o=\"Gade isit la.\" t=\"Look here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gade isit la.\" t=\"Uită-te aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751725814349893632",
+   "en": "I wanna talk to Brigitte.",
+   "ro": "Vreau să vorbesc cu Brigitte."
+  },
+  {
+   "key": "1751726235239911424",
+   "en": "I wanna talk to Brigitte.",
+   "ro": "Vreau să vorbesc cu Brigitte."
+  },
+  {
+   "key": "1751729694164979712",
+   "en": "But they send you to me.",
+   "ro": "Dar ei te-au trimis la mine."
+  },
+  {
+   "key": "1754511505794338816",
+   "en": "And you'll tell me more about the job?",
+   "ro": "Și îmi spui mai multe despre job?"
+  },
+  {
+   "key": "1754512215017590784",
+   "en": "Yes, but not here. Follow me.",
+   "ro": "Da, dar nu aici. Vino după mine."
+  },
+  {
+   "key": "1754629537806786560",
+   "en": "<kiroshi l=\"creo\" o=\"Isit! Gade!\" t=\"Here! Look!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Isit! Gade!\" t=\"Aici! Uită-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754630355226304512",
+   "en": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"Is she blind or deaf?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"Is he blind or deaf?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"E oarbă sau surdă?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"E orb sau surd?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754692478186921984",
+   "en": "<kiroshi l=\"creo\" o=\"Estipid.\" t=\"Idiot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Estipid.\" t=\"Idiot.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754692858174087168",
+   "en": "<kiroshi l=\"creo\" o=\"Vle antre? Gade nan kamera a.\" t=\"Want in? Look in the camera\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Vle antre? Gade nan kamera a.\" t=\"Vrei să intri? Uită-te în cameră\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1755947206292119552",
+   "en": "Where we headed?",
+   "ro": "Unde mergem?"
+  },
+  {
+   "key": "1755947400874270720",
+   "en": "Where we headed?",
+   "ro": "Unde mergem?"
+  },
+  {
+   "key": "1792561123563999232",
+   "en": "Heard a thing or two about your crew.",
+   "ro": "Am auzit câte ceva despre gașca ta."
+  },
+  {
+   "key": "1792567456342282240",
+   "en": "My creole isn't great...",
+   "ro": "Nu prea mă pricep la creolă..."
+  },
+  {
+   "key": "1966420196175138816",
+   "en": "Y'know, heard a few things about you.",
+   "en_m": "Y'know, I heard a few things about you.",
+   "ro": "Știi, am auzit câteva lucruri despre tine."
+  },
+  {
+   "key": "1966421885020033024",
+   "en": "Hm?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1966422199173402624",
+   "en": "The Voodoo Boys... best 'runners in town.",
+   "en_m": "Voodoo Boys... best 'runners in town.",
+   "ro": "Voodoo Boys... cei mai buni 'runners din oraș."
+  },
+  {
+   "key": "1966422684806696960",
+   "en": "Least that's what they say. Though nobody really knows what you do on the Net.",
+   "ro": "Asta zic ei, cel puțin. Dar nimeni nu știe exact ce faceți pe Net."
+  },
+  {
+   "key": "1966423766735802368",
+   "en": "Dis is good.",
+   "ro": "E bine."
+  },
+  {
+   "key": "1966424353451823104",
+   "en": "I mean, bleedin'-edge black soft, corporate data heists, wagin' war on NetWatch...",
+   "ro": "Adică, softuri negre de ultimă generație, jafuri de date corporatiste, război cu NetWatch..."
+  },
+  {
+   "key": "1966426560746246144",
+   "en": "No one mentions… chickens.",
+   "en_m": "But no one mentions… chickens.",
+   "ro": "Nimeni nu menționează… găini.",
+   "ro_m": "Dar nimeni nu menționează… găini."
+  },
+  {
+   "key": "1966436240495235072",
+   "en": "Hm, my creole's a bit rusty…",
+   "en_m": "Well, my creole's a bit rusty…",
+   "ro": "Păi, creola mea e cam ruginită…"
+  },
+  {
+   "key": "1966437064290095104",
+   "en": "<kiroshi l=\"creo\" o=\"Yo pale mil lang nan Night City.\" t=\"A thousand languages are spoken in Night City.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Yo pale mil lang nan Night City.\" t=\"În Night City se vorbesc o mie de limbi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1966437960109543424",
+   "en": "<kiroshi l=\"creo\" o=\"Nou mem, nou pale yon sèl gwen.\" t=\"We speak only one.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nou mem, nou pale yon sèl gwen.\" t=\"Noi vorbim doar una.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1966438157728370688",
+   "en": "Shit luck, right? All those, an' I don't know yours…",
+   "ro": "Ghinion de rahat, nu? Toți ăia, și pe-al tău nu-l știu…"
+  },
+  {
+   "key": "1966438508959387648",
+   "en": "<kiroshi l=\"creo\" o=\"Chrome translation. Ou pa maton.\" t=\"Chrome translation. You are not clever.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Chrome translation. Ou pa maton.\" t=\"Traducere chrome. Nu ești deștept.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2251883800651448320",
+   "en": "Why the hell you are here?",
+   "ro": "De ce naiba ești aici?"
+  },
+  {
+   "key": "2251884210183290880",
+   "en": "This way come, I said.",
+   "ro": "Pe aici, ți-am zis."
+  },
+  {
+   "key": "2251903763810435080",
+   "en": "Why you make me wait? Come.",
+   "ro": "De ce m-ai lăsat să aștept? Hai, vino."
+  }
+ ]
+}

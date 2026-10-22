@@ -1,0 +1,60 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_apart_kerry_villa_interactions.json",
+ "entries": [
+  {
+   "key": "2028697799592157188",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2028698177566056448",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2028699165173653504",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2028737051734482948",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "2078186557357858816",
+   "en": "[Leave shower]",
+   "ro": "[Ieși din duș]"
+  },
+  {
+   "key": "2736102100211507200",
+   "en": "[Turn on]",
+   "ro": "[Pornește]"
+  },
+  {
+   "key": "2736102100396056576",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "3053389206850019328",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "3053389207152009216",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3114354313358893056",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3404133512481992704",
+   "en": "[Open Wardrobe]",
+   "ro": "[Deschide garderoba]"
+  }
+ ]
+}

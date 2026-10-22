@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_035.json",
+ "entries": [
+  {
+   "key": "2160404826850107392",
+   "en": "<kiroshi l=\"jpn\" o=\"あいつら、あたしたちを何だと思ってるの？ ここがコーポ・プラザにでも見える？\" t=\"Who do they think we are? Does this look like Corpo Plaza to you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あいつら、あたしたちを何だと思ってるの？ ここがコーポ・プラザにでも見える？\" t=\"Ce cred că suntem? Ți se pare că e Corpo Plaza aici?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2196701541560590336",
+   "en": "Try as I might, can't imagine that. Not even fucking close.",
+   "ro": "Oricât m-aș strădui, nu-mi pot imagina asta. Nici pe departe, pula mea."
+  },
+  {
+   "key": "2196701810130264064",
+   "en": "<kiroshi l=\"jpn\" o=\"じゃあなんでこんな堅苦しい生活をしなきゃいけないの！\" t=\"So why do I feel like I live in goddamned Corpo Plaza?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"じゃあなんでこんな堅苦しい生活をしなきゃいけないの！\" t=\"Atunci de ce simt că trăiesc în nenorocitul de Corpo Plaza?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2196705534001127424",
+   "en": "<kiroshi l=\"jpn\" o=\"なにが“警備”料金よ？ クロウズの奴ら、今年に入ってもう3回も値上げしやがって！\" t=\"Think our \\\"security\\\" fees could have something to do with it? Tygers asked for more! Again! Third time this year!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なにが“警備”料金よ？ クロウズの奴ら、今年に入ってもう3回も値上げしやがって！\" t=\"Crezi că taxele noastre de „securitate” au ceva de-a face cu asta? Tygers au cerut mai mult! Iar! A treia oară anul ăsta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2196718614542131200",
+   "en": "Hey, hey, not so loud. Walls have ears, you don't want trouble.",
+   "ro": "Hei, hei, nu așa tare. Pereții au urechi, nu vrei belele."
+  },
+  {
+   "key": "2196723275554725888",
+   "en": "<kiroshi l=\"jpn\" o=\"あたしには小さな子供が2人と、BDアクターを目指す夫がいるの。タイガークロウズでもなんでも、かかってきなさいよ\" t=\"I have two small kids and an aspiring BD actor for a husband. The Tyger Claws are my entertainment.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あたしには小さな子供が2人と、BDアクターを目指す夫がいるの。タイガークロウズでもなんでも、かかってきなさいよ\" t=\"Am doi copii mici și un soț care vrea să ajungă actor BD. Tyger Claws, nu mă sperie nimeni.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2196729865494175744",
+   "en": "I getcha. Still, wouldn't want those kids to lose their mother, would ya?",
+   "ro": "Te înțeleg. Totuși, n-ai vrea ca ăia mici să-și piardă mama, nu?"
+  }
+ ]
+}

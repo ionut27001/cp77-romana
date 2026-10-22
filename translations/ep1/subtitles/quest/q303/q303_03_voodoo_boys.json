@@ -1,0 +1,533 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q303\\q303_03_voodoo_boys.json",
+ "entries": [
+  {
+   "key": "3008411435921219584",
+   "en": "You look like bad news.",
+   "ro": "Ai fața unei vești proaste."
+  },
+  {
+   "key": "3009710363132207108",
+   "en": "Slider – need to talk to him.",
+   "ro": "Slider – trebuie să vorbesc cu el."
+  },
+  {
+   "key": "3009710693039382528",
+   "en": "Need to talk to Slider.",
+   "ro": "Trebuie să vorbesc cu Slider."
+  },
+  {
+   "key": "3009711211556020224",
+   "en": "Turn around and crawl back to the hole you came from.",
+   "ro": "Întoarce-te și târăște-te înapoi în gaura din care ai venit."
+  },
+  {
+   "key": "3009712384971284480",
+   "en": "<mothertongue l=\"creo\" m=\"zanmi\" b=\"No “Slider” to speak of here, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"zanmi\" b=\"Niciun „Slider” de vorbit aici, \" a=\".\"/>"
+  },
+  {
+   "key": "3009730679954907136",
+   "en": "Everybody just keep calm!",
+   "ro": "Stați calm, toată lumea!"
+  },
+  {
+   "key": "3009731825855537152",
+   "en": "Are you deaf or just fucking stupid?!",
+   "ro": "Ești surdă sau doar proastă de dracu'?!",
+   "ro_m": "Ești surd sau doar prost de dracu'?!"
+  },
+  {
+   "key": "3009732263153672192",
+   "en": "<mothertongue l=\"creo\" m=\"granpè\" b=\"Fuck off, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"granpè\" b=\"Du-te dracu', \" a=\"!\"/>"
+  },
+  {
+   "key": "3009733758859255808",
+   "en": "Bad call, motherfuckers.",
+   "ro": "Decizie de căcat, jigodiilor."
+  },
+  {
+   "key": "3028812070749761536",
+   "en": "You haven't been waiting long, I hope.",
+   "ro": "N-ai așteptat mult, sper."
+  },
+  {
+   "key": "3028821194585698304",
+   "en": "Let's go – time's at a premium.",
+   "ro": "Hai, că nu avem timp de pierdut."
+  },
+  {
+   "key": "3085432310056599556",
+   "en": "Slider – know he's inside.",
+   "ro": "Slider – știu că e înăuntru."
+  },
+  {
+   "key": "3085436041091334144",
+   "en": "Fine, we're going.",
+   "ro": "Bine, mergem."
+  },
+  {
+   "key": "3085440143070314496",
+   "en": "[Draw weapon] Waste of time…",
+   "ro": "Mare pierdere de timp…"
+  },
+  {
+   "key": "3085453371066269696",
+   "en": "Know Slider’s inside, we just wanna talk – tell 'im.",
+   "en_m": "Know Slider’s inside, just wanna talk. Tell 'im.",
+   "ro": "Știu că Slider e înăuntru, vrem doar să vorbim. Zi-i.",
+   "ro_m": "Știu că Slider e înăuntru, vreau doar să vorbesc. Zi-i."
+  },
+  {
+   "key": "3085459082215145472",
+   "en": "Fine. Be on our way, then.",
+   "ro": "Bine. Atunci plecăm."
+  },
+  {
+   "key": "3085459154541723648",
+   "en": "Got just one word for you…",
+   "ro": "Am un singur cuvânt pentru tine…"
+  },
+  {
+   "key": "3092469273880150016",
+   "en": "What part of \"fuck off\" did you not understand?",
+   "ro": "Ce nu ți-a fost clar din „du-te dracu'”?"
+  },
+  {
+   "key": "3092473709222412288",
+   "en": "Our bad, choom. C'mon, V, let's be on our way.",
+   "ro": "Scuze, choom. Hai, V, plecăm."
+  },
+  {
+   "key": "3092485037248987136",
+   "en": "I spotted the shaft on our way in.",
+   "ro": "Am văzut puțul când am intrat."
+  },
+  {
+   "key": "3092487276671778816",
+   "en": "We just need to find the vent, crawl through to the other side and open the door…",
+   "ro": "Trebuie doar să găsim ventilația, să ne târâm pe partea cealaltă și să deschidem ușa…"
+  },
+  {
+   "key": "3092489051818672128",
+   "en": "OK, gonna take a look.",
+   "ro": "OK, mă uit."
+  },
+  {
+   "key": "3092510422401531904",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "3092702908424110080",
+   "en": "<kiroshi l=\"creo\" o=\"Li vin twò cho.\" t=\"It's overheating.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Li vin twò cho.\" t=\"Se supraîncălzește.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3092867937022754816",
+   "en": "<kiroshi l=\"creo\" o=\"Men kisa sa ye...? Yon gwo, gra rat - kenbe'l!\" t=\"But what is this…? A big, fat rat – caught!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men kisa sa ye...? Yon gwo, gra rat - kenbe'l!\" t=\"Dar ce e asta…? Un șobolan mare și gras – prins!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3092869534146609152",
+   "en": "We will tickle your nerve endings until you  scream.",
+   "ro": "O să-ți gâdilăm terminațiile nervoase până urli."
+  },
+  {
+   "key": "3092897714416893952",
+   "en": "Now, V!",
+   "ro": "Acum, V!"
+  },
+  {
+   "key": "3099899438971117568",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "3102600605442400256",
+   "en": "Server – we need to destroy it! Aim for the exhaust ports!",
+   "ro": "Serverul – trebuie să-l distrugem! Țintește porturile de evacuare!"
+  },
+  {
+   "key": "3105557256717885440",
+   "en": "They uncaged the daemons!",
+   "ro": "Au eliberat daemonii!"
+  },
+  {
+   "key": "3105684029606617088",
+   "en": "<kiroshi l=\"creo\" o=\"Ou wè anj lan... ak zèl nwa?\" t=\"You see the angel with... black wings?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou wè anj lan... ak zèl nwa?\" t=\"Vezi îngerul cu... aripi negre?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3105750553029664772",
+   "en": "Shaft's gotta have a vent – know where it is?",
+   "ro": "Puțul ăla trebuie să aibă o ventilație – știi unde e?"
+  },
+  {
+   "key": "3105751647424241664",
+   "en": "Vent in the shaft – where is it?",
+   "ro": "Ventilația din puț – unde e?"
+  },
+  {
+   "key": "3105752095157805056",
+   "en": "[Bribe] Vent around here – point the way.",
+   "ro": "[Mituiește] Ventilație pe-aici – arată-mi drumul."
+  },
+  {
+   "key": "3105759311843713024",
+   "en": "<kiroshi l=\"creo\" o=\"Deyò. Echafodaj bò pòtay la.\" t=\"Outside. Scaffolding by the gate.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Deyò. Echafodaj bò pòtay la.\" t=\"Afară. Schelă lângă poartă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3105759536490635268",
+   "en": "Hey, ventilation shaft needs repairs. Know a way in?",
+   "ro": "Hei, puțului de ventilație îi trebuie reparații. Știi vreo intrare?"
+  },
+  {
+   "key": "3105759536490635276",
+   "en": "<kiroshi l=\"creo\" o=\"Èske mwen sanble ak yon fout plan pou ou?\" t=\"Do I look like a damned blueprint to you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Èske mwen sanble ak yon fout plan pou ou?\" t=\"Arăt eu ca un plan afurisit pentru tine?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3105787268037500928",
+   "en": "<kiroshi l=\"creo\" o=\"Zewo youn youn youn zewo youn youn zewo…\" t=\"Zero one one one zero one one zero…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Zewo youn youn youn zewo youn youn zewo…\" t=\"Zero unu unu unu zero unu unu zero…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3114516640269492232",
+   "en": "Focus fire on the open vent!",
+   "ro": "Concentrați focul pe ventilația deschisă!"
+  },
+  {
+   "key": "3114516660519591936",
+   "en": "Server's cooling down! Port's wide open!",
+   "ro": "Serverul se răcește! Portul e deschis de tot!"
+  },
+  {
+   "key": "3114518714252156932",
+   "en": "See a door, ventilation system might be behind it.",
+   "en_m": "See a door. Ventilation system might be behind it.",
+   "ro": "Văd o ușă, ventilația ar putea fi în spatele ei.",
+   "ro_m": "Văd o ușă. Ventilația ar putea fi în spatele ei."
+  },
+  {
+   "key": "3114519100077793280",
+   "en": "It's worth a try.",
+   "ro": "Merită încercat."
+  },
+  {
+   "key": "3114524833070604296",
+   "en": "Help me get rid of the others!",
+   "ro": "Ajută-mă să scap de ceilalți!"
+  },
+  {
+   "key": "3115823408211714048",
+   "en": "Come on through…",
+   "ro": "Hai, intră…"
+  },
+  {
+   "key": "3131715548540440576",
+   "en": "<kiroshi l=\"creo\" o=\"Wi, se li…\" t=\"Yes, that's her…\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Wi, se li…\" t=\"Yes, that's him…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Wi, se li…\" t=\"Da, ea e…\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Wi, se li…\" t=\"Da, el e…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3131824936894730240",
+   "en": "<kiroshi l=\"creo\" o=\"Fout sèvè a, ki lòt bagay?\" t=\"The fucking server, what else?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fout sèvè a, ki lòt bagay?\" t=\"Serverul dracului, ce altceva?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3131825324733632512",
+   "en": "<kiroshi l=\"creo\" o=\"Nou bezwen ranplase vantilasyon yo oswa nou pral pèdi defans nou yo.\" t=\"We need to replace the cooling vents or we'll lose our defenses.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nou bezwen ranplase vantilasyon yo oswa nou pral pèdi defans nou yo.\" t=\"Trebuie să înlocuim ventilațiile de răcire sau pierdem apărarea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3131827007790387200",
+   "en": "<kiroshi l=\"creo\" o=\"Wi, lan mèd . Sòf si nou prefere tann BARGHEST vin koupe fèt la kout.\" t=\"Yes, for fuck's sake. Unless we prefer to wait for BARGHEST to come and cut the party short.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Wi, lan mèd . Sòf si nou prefere tann BARGHEST vin koupe fèt la kout.\" t=\"Da, pula mea. Sau așteptăm să vină BARGHEST și să ne strice petrecerea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3131827794809589760",
+   "en": "<kiroshi l=\"creo\" o=\"Fè li.\" t=\"Get it done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fè li.\" t=\"Fă-o.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3131861619941969920",
+   "en": "Appreciate it.",
+   "ro": "Mersi de tot."
+  },
+  {
+   "key": "3131868345441325056",
+   "en": "<kiroshi l=\"creo\" o=\"Fè bak!! Tansyon ap monte!\" t=\"Fall back! Shit's about to get hot!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fè bak!! Tansyon ap monte!\" t=\"Retrageți-vă! Se încinge tot dracu'!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3201559908066877460",
+   "en": "Easy now. It's linked to the main server, which gives me an idea...",
+   "ro": "Ușor. E legat de serverul principal, și îmi vine o idee..."
+  },
+  {
+   "key": "3202689602074009604",
+   "en": "Feels too easy, this.",
+   "ro": "Parcă e prea ușor, asta."
+  },
+  {
+   "key": "3202696321751670796",
+   "en": "It looks like you had it right.",
+   "ro": "Se pare că ai avut dreptate."
+  },
+  {
+   "key": "3202706893058695180",
+   "en": "Way inside completely unsecured? Somethin' ain't right…",
+   "ro": "Intrarea e complet nesecurizată? Ceva nu-i tocmai în regulă…"
+  },
+  {
+   "key": "3202732539885477888",
+   "en": "[Disarm] That was close.",
+   "ro": "[Dezarmează] La mustață."
+  },
+  {
+   "key": "3202742877301334028",
+   "en": "Disarmed. That was close.",
+   "ro": "Dezarmat. La mustață."
+  },
+  {
+   "key": "3205822848342843392",
+   "en": "They posted lookouts. Go figure.",
+   "ro": "Au pus paznici. Ce surpriză."
+  },
+  {
+   "key": "3205823363067830272",
+   "en": "I doubt they'll play nice and just let us in.",
+   "ro": "Mă îndoiesc că o să fie drăguți și să ne lase să intrăm."
+  },
+  {
+   "key": "3205824141161553920",
+   "en": "Let's just chat 'em up.",
+   "ro": "Hai doar să le tragem de limbă."
+  },
+  {
+   "key": "3205827525159575552",
+   "en": "Gotta be another way in. Let's look.",
+   "ro": "Trebuie să fie altă intrare. Hai să căutăm."
+  },
+  {
+   "key": "3205828924563939328",
+   "en": "No harm in talkin' to 'em. Might let us through.",
+   "ro": "N-are cum să strice să le vorbim. Poate ne lasă să trecem."
+  },
+  {
+   "key": "3205833073183580164",
+   "en": "Easy peasy, I say. Crack some skulls and roll in.",
+   "ro": "Ușor ca bună ziua, zic eu. Spargem câteva capete și intrăm."
+  },
+  {
+   "key": "3205833232315473928",
+   "en": "Gotta be another way in. Let's look around.",
+   "ro": "Trebuie să mai fie o intrare. Hai să ne uităm pe-aici."
+  },
+  {
+   "key": "3205835761950547968",
+   "en": "I'd rather avoid a mess. But if that’s the option you want…",
+   "ro": "Aș prefera să evităm o mizerie. Dar dacă asta vrei…"
+  },
+  {
+   "key": "3205899683546161152",
+   "en": "I'll hang back on lookout, cover you if need be.",
+   "ro": "Rămân la pândă, te acopăr dacă e nevoie."
+  },
+  {
+   "key": "3207006220532473856",
+   "en": "I thought we'd talk it through first, but fine, have it your way.",
+   "ro": "Credeam că vorbim întâi, da' bine, cum zici tu."
+  },
+  {
+   "key": "3211333982473248772",
+   "en": "Next hack could be our last, V!",
+   "ro": "Următorul hack ar putea fi ultimul, V!"
+  },
+  {
+   "key": "3214272003939655680",
+   "en": "Could just roll over them on the way in.",
+   "ro": "Am putea să-i spulberăm pe drum."
+  },
+  {
+   "key": "3214323156899487744",
+   "en": "At the hatch. Scale the scaffolding to find it.",
+   "ro": "La trapă. Urcă pe schelă ca s-o găsești."
+  },
+  {
+   "key": "3278569032981504000",
+   "en": "They're re-upping combat daemons! Cooling vents – take 'em out!",
+   "ro": "Reîncarcă daemonii de luptă! Ventilele de răcire – la ele!"
+  },
+  {
+   "key": "3278813763288260608",
+   "en": "Get ready for some lead spittin'!",
+   "ro": "Ține-te bine, că vine plumbul!"
+  },
+  {
+   "key": "3278819095221723136",
+   "en": "<kiroshi l=\"creo\" o=\"Mèd...! Mwen ap fè bak!\" t=\"Fuck...! Falling back!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mèd...! Mwen ap fè bak!\" t=\"Futu-i...! Mă retrag!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3285269538426216448",
+   "en": "Look like you desperately need a fix, choom.",
+   "ro": "Arăți de parcă ai muri după o doză, choom."
+  },
+  {
+   "key": "3285283964114067456",
+   "en": "Ah, jonesin' from BD deprivation, choom? Can see it in your eyes.",
+   "en_m": "Jonesin' from BD deprivation, choom? Can see it in your eyes.",
+   "ro": "Ai rămas fără BD-uri, choom? Se vede-n ochii tăi."
+  },
+  {
+   "key": "3285291572464082944",
+   "en": "<kiroshi l=\"creo\" o=\"Ki sa li ye pou ou?\" t=\"What's it to you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ki sa li ye pou ou?\" t=\"Ce-ți pasă ție?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3304280871557795840",
+   "en": "Lookin' for a netrunner.",
+   "ro": "Caut un netrunner."
+  },
+  {
+   "key": "3304284747816112132",
+   "en": "Lookin' for a netrunner.",
+   "ro": "Caut un netrunner."
+  },
+  {
+   "key": "3304284747816112148",
+   "en": "<mothertongue l=\"creo\" m=\"patnè\" b=\"Not a kind of service we provide, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"patnè\" b=\"Nu e genul de serviciu pe care îl oferim, \" a=\".\"/>"
+  },
+  {
+   "key": "3304286785761316864",
+   "en": "So kindly fuck the fuck off, eh?",
+   "ro": "Deci, cu tot respectul, cară-te-n pula mea, da?"
+  },
+  {
+   "key": "3304312055687942144",
+   "en": "Run outta store credit with Slider's crew?",
+   "ro": "Ai rămas fără credit la gașca lui Slider?"
+  },
+  {
+   "key": "3304312545247105024",
+   "en": "<kiroshi l=\"creo\" o=\"Yo vle pou nou tann nekst travay la... Sa se bullshit mesye...\" t=\"They want us to wait for the next job... It's bullshit, man...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Yo vle pou nou tann nekst travay la... Sa se bullshit mesye...\" t=\"Vor să așteptăm următorul job... E o vrăjeală, frate...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3304313465141858304",
+   "en": "Doubt Slider even knows you’re out here losin' your minds. Can ask him to put the squeeze on his boys...",
+   "ro": "Mă îndoiesc că Slider știe măcar că sunteți pe-aici și vă pierdeți mințile. Pot să-i zic să-și strângă băieții..."
+  },
+  {
+   "key": "3304314455383478272",
+   "en": "But not till you tell me where to find the vents around here.",
+   "en_m": "But... not till you tell me where to find the vents around here.",
+   "ro": "Dar abia după ce-mi spui unde-s orificiile de-aici.",
+   "ro_m": "Dar... abia după ce-mi spui unde-s orificiile de-aici."
+  },
+  {
+   "key": "3329097582496342016",
+   "en": "[Signal Reed] Bushido.",
+   "ro": "[Semnalează-i lui Reed] Bushido."
+  },
+  {
+   "key": "3338912577774292992",
+   "en": "Tell ya what – play it by ear. I say \"Bushido,\" you let loose.",
+   "en_m": "Tell you what – play it by ear. I say \"Bushido,\" you let loose.",
+   "ro": "Uite ce facem – improvizează. Când zic „Bushido”, dai drumul."
+  },
+  {
+   "key": "3338928493278924800",
+   "en": "Bushido.",
+   "ro": "Bushido."
+  },
+  {
+   "key": "3343399369066242048",
+   "en": "V – server! Hack the damn thing!",
+   "ro": "V – serverul! Hack-uiește nenorocitul!"
+  },
+  {
+   "key": "3343401572703232000",
+   "en": "Charge your tech iron! Shoot up the cooling vents!",
+   "ro": "Încarcă-ți fierul tech! Împușcă orificiile de răcire!"
+  },
+  {
+   "key": "3343440783221284864",
+   "en": "Blades're no good! Useless! Pump those vents with lead!",
+   "ro": "Lamele-s degeaba! Inutile! Umpleți-le de plumb, orificiile alea!"
+  },
+  {
+   "key": "3540624320647794688",
+   "en": "Well… guess you 'n' Alex needed a while to catch up…",
+   "ro": "Păi… cred că tu și Alex ați avut nevoie de ceva timp să vă lămuriți…"
+  },
+  {
+   "key": "3540625094966644736",
+   "en": "Mh, yeah. All's swell now, though.",
+   "ro": "Mh, da. Acum e tot ok, totuși."
+  },
+  {
+   "key": "3546279546515775488",
+   "en": "Gonna get Slider just like I got Maman Brigitte.",
+   "ro": "O să-l iau pe Slider la fel cum am luat-o pe Maman Brigitte."
+  },
+  {
+   "key": "3546280019985588224",
+   "en": "Got along with Brigitte, why would this be any different?",
+   "ro": "M-am înțeles cu Brigitte, de ce ar fi diferit acum?"
+  },
+  {
+   "key": "3546287014725705728",
+   "en": "Not about to be stopped by the likes of you. Gonna get Slider. Just like I got Maman Brigitte.",
+   "ro": "Nu mă oprește cineva ca tine. O să-l iau pe Slider. La fel cum am luat-o pe Maman Brigitte."
+  },
+  {
+   "key": "3546287673785081856",
+   "en": "<kiroshi l=\"creo\" o=\"Bouzen!\" t=\"Bitch!\" b=\"That was you... \" a=\"\"/>",
+   "en_m": "<kiroshi l=\"creo\" o=\"Chen!\" t=\"Prick!\" b=\"That was you... \" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Bouzen!\" t=\"Curvo!\" b=\"Tu ai fost... \" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Chen!\" t=\"Boule!\" b=\"Tu ai fost... \" a=\"\"/>"
+  },
+  {
+   "key": "3546295212341878784",
+   "en": "Managed to hammer shit out with Placide and Brigitte. No doubt I can manage Slider.",
+   "ro": "Am reușit să rezolv rahaturile cu Placide și Brigitte. Fără îndoială că mă descurc și cu Slider."
+  },
+  {
+   "key": "3546352693533368324",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "3546353355696529408",
+   "en": "Okay, let’s go.",
+   "ro": "Bine, hai să mergem."
+  },
+  {
+   "key": "3546551923510239232",
+   "en": "Aah, so you are the one the city boys have been talking about. Fine, go. Just make sure you behave.",
+   "ro": "Aah, deci tu ești persoana despre care vorbeau băieții din oraș. Bine, poți trece. Doar să te porți frumos."
+  },
+  {
+   "key": "3546552156294111232",
+   "en": "Gotta hand it to you, V. I'm impressed.",
+   "ro": "Ce să zic, V... Sunt impresionat."
+  },
+  {
+   "key": "3783987963044446208",
+   "en": "I say we just roll in.",
+   "ro": "Eu zic să intrăm direct."
+  },
+  {
+   "key": "4013308206366212104",
+   "en": "I thought we'd talk it through first, but fine, have it your way.",
+   "ro": "Credeam că vorbim întâi, da' bine, cum zici tu."
+  }
+ ]
+}

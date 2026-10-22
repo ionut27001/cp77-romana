@@ -1,0 +1,105 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\quest_combat_voiceset_scene_block.json",
+ "entries": [
+  {
+   "key": "1788059114133815300",
+   "en": "[db_db]Voiceset Danger A",
+   "ro": "[db_db]Voiceset Danger A"
+  },
+  {
+   "key": "1788059114167369732",
+   "en": "[db_db]Voiceset Danger B",
+   "ro": "[db_db]Voiceset Danger B"
+  },
+  {
+   "key": "1788059114200924164",
+   "en": "[db_db]Voiceset Grenade",
+   "ro": "[db_db]Voiceset Grenade"
+  },
+  {
+   "key": "1788059114251255812",
+   "en": "[db_db]Voiceset Battlecry Morale A",
+   "ro": "[db_db]Voiceset Battlecry Morale A"
+  },
+  {
+   "key": "1788059114284810244",
+   "en": "[db_db]Voiceset Battlecry Morale B",
+   "ro": "[db_db]Voiceset Battlecry Morale B"
+  },
+  {
+   "key": "1788059114351919108",
+   "en": "[db_db]Voiceset Battlecry Curse A",
+   "ro": "[db_db]Voiceset Battlecry Curse A"
+  },
+  {
+   "key": "1788059114368696324",
+   "en": "[db_db]Voiceset Battlecry Curse B",
+   "ro": "[db_db]Voiceset Battlecry Curse B"
+  },
+  {
+   "key": "1788059114737795076",
+   "en": "[db_db]Voiceset Grenade Throw",
+   "ro": "[db_db]Voiceset Grenade Throw"
+  },
+  {
+   "key": "1788059114905567236",
+   "en": "[db_db]Voiceset Battlecry Morale C",
+   "ro": "[db_db]Voiceset Battlecry Morale C"
+  },
+  {
+   "key": "1788059114972676100",
+   "en": "[db_db]Voiceset Grapple",
+   "ro": "[db_db]Voiceset Grapple"
+  },
+  {
+   "key": "1788061993305407488",
+   "en": "[db_db]Voiceset Interrupt A",
+   "ro": "[db_db]Voiceset Interrupt A"
+  },
+  {
+   "key": "1788069503626149892",
+   "en": "[db_db]Voiceset Interrupt B",
+   "ro": "[db_db]Voiceset Interrupt B"
+  },
+  {
+   "key": "1788070309872041984",
+   "en": "[db_db]Voiceset Return A",
+   "ro": "[db_db]Voiceset Return A"
+  },
+  {
+   "key": "1788070730409738240",
+   "en": "[db_db]Voiceset Return B",
+   "ro": "[db_db]Voiceset Return B"
+  },
+  {
+   "key": "1788070912023101440",
+   "en": "[db_db]Voiceset Urgent A",
+   "ro": "[db_db]Voiceset Urgent A"
+  },
+  {
+   "key": "1788071124020002816",
+   "en": "[db_db]Voiceset Urgent B",
+   "ro": "[db_db]Voiceset Urgent B"
+  },
+  {
+   "key": "1788119698523062276",
+   "en": "[db_db]Voiceset Greeting A",
+   "ro": "[db_db]Voiceset Greeting A"
+  },
+  {
+   "key": "1788119698539839492",
+   "en": "[db_db]Voiceset Greeting B",
+   "ro": "[db_db]Voiceset Greeting B"
+  },
+  {
+   "key": "1788119698657280004",
+   "en": "[db_db]Voiceset Bump A",
+   "ro": "[db_db]Voiceset Bump A"
+  },
+  {
+   "key": "1788119698690834432",
+   "en": "[db_db]Voiceset Bump B",
+   "ro": "[db_db]Voiceset Bump B"
+  }
+ ]
+}

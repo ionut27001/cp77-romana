@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq055\\mq055_10_downtown_gift.json",
+ "entries": [
+  {
+   "key": "1663182014853541888",
+   "en": "Huh, hella nice.",
+   "ro": "Hm, tare mișto."
+  },
+  {
+   "key": "4158034809929261060",
+   "en": "[Accept gift from Judy]",
+   "ro": "[Acceptă cadoul de la Judy]"
+  },
+  {
+   "key": "4158085836170780680",
+   "en": "[Accept gift from Kerry]",
+   "ro": "[Acceptă cadoul de la Kerry]"
+  },
+  {
+   "key": "4158088224709468172",
+   "en": "[Accept gift from Panam]",
+   "ro": "[Acceptă cadoul de la Panam]"
+  },
+  {
+   "key": "4158088876705636364",
+   "en": "[Accept gift from River]",
+   "ro": "[Acceptă cadoul de la River]"
+  }
+ ]
+}

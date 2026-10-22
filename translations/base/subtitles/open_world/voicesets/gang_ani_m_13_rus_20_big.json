@@ -1,0 +1,349 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_ani_m_13_rus_20_big.json",
+ "entries": [
+  {
+   "key": "1640542155713122304",
+   "en": "<kiroshi l=\"rus\" o=\"Чё?\" t=\"Yeah?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Чё?\" t=\"Da?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542155746676736",
+   "en": "<kiroshi l=\"rus\" o=\"Вали.\" t=\"Piss off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вали.\" t=\"Cară-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542155780231168",
+   "en": "<kiroshi l=\"rus\" o=\"Стопэ! Иди нахер отсюда!\" t=\"No! Fuck off, now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Стопэ! Иди нахер отсюда!\" t=\"Nu! Cară-te dracu' de-aici, acum!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542155797008384",
+   "en": "You took a wrong turn, lady!",
+   "en_m": "You took a wrong turn, man!",
+   "ro": "Ai greșit adresa, fato!",
+   "ro_m": "Ai greșit adresa, băiete!"
+  },
+  {
+   "key": "1640542155864117248",
+   "en": "I wouldn't do that if I were you.",
+   "ro": "N-aș face asta în locul tău."
+  },
+  {
+   "key": "1640542155880894464",
+   "en": "No, not here, flea brain.",
+   "en_m": "Nah, not here, flea-dick.",
+   "ro": "Nu, nu aici, creier de găină.",
+   "ro_m": "Nu, nu aici, pulă de purice."
+  },
+  {
+   "key": "1640542155914448896",
+   "en": "<mothertongue l=\"rus\" m=\"Da blayd'\" b=\"\" a=\". You need me to spell it out for you?\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Da blayd'\" b=\"\" a=\". Vrei să-ți fac și desen?\"/>"
+  },
+  {
+   "key": "1640542155931226112",
+   "en": "I will tear your implants out!",
+   "ro": "Îți smulg implanturile!"
+  },
+  {
+   "key": "1640542155981557760",
+   "en": "<kiroshi l=\"rus\" o=\"Вот и хорошо.\" t=\"That's what I thought.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вот и хорошо.\" t=\"Așa mă gândeam.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542155998334976",
+   "en": "Uh-huh, that's a good sheep.",
+   "ro": "Mhm, oaie bună."
+  },
+  {
+   "key": "1640542156048666624",
+   "en": "<kiroshi l=\"rus\" o=\"Чё за хуйня?\" t=\"What the...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Чё за хуйня?\" t=\"Ce dracu'...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156065443840",
+   "en": "<mothertongue l=\"rus\" m=\"Suka blyad'\" b=\"\" a=\". What was that?\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Suka blyad'\" b=\"\" a=\". Ce-a fost asta?\"/>"
+  },
+  {
+   "key": "1640542156149329920",
+   "en": "Hmmm...",
+   "ro": "Hmmm..."
+  },
+  {
+   "key": "1640542156199661568",
+   "en": "Waste of time.",
+   "ro": "Pierdere de timp."
+  },
+  {
+   "key": "1640542156233216000",
+   "en": "<kiroshi l=\"rus\" o=\"Да хуй с ним.\" t=\"Fuck this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да хуй с ним.\" t=\"Bag pula-n asta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156283547648",
+   "en": "<kiroshi l=\"rus\" o=\"Раз! Два! Пять! Я иду искать!\" t=\"Three! Two! One! Baba Yaga comes!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Раз! Два! Пять! Я иду искать!\" t=\"Trei! Doi! Unu! Vine Baba Yaga!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156300324864",
+   "en": "When I find you I will cut you down! Come on!",
+   "ro": "Când te găsesc, te tai în bucăți! Hai!"
+  },
+  {
+   "key": "1640542156350656512",
+   "en": "<kiroshi l=\"rus\" o=\"Тут наш! Мёртвый!\" t=\"One of ours! Dead!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Тут наш! Мёртвый!\" t=\"Unul de-al nostru! Mort!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156400988160",
+   "en": "Done, brother. I'm on it.",
+   "ro": "Gata, frate. Mă ocup."
+  },
+  {
+   "key": "1640542156468097024",
+   "en": "Ha-ha, we will take our sweet time with you!",
+   "ro": "Ha-ha, o să ne luăm timpul cu tine!"
+  },
+  {
+   "key": "1640542156484874240",
+   "en": "<kiroshi l=\"rus\" o=\"Пошёл! Пошёл! Пошёл!\" t=\"Move! Move! Move!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пошёл! Пошёл! Пошёл!\" t=\"Mișcă! Mișcă! Mișcă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156535205888",
+   "en": "Your mother told me to give you this!",
+   "ro": "Mama ta mi-a zis să-ți dau asta!"
+  },
+  {
+   "key": "1640542156619091968",
+   "en": "Akh akh... You'll be mine... Just wait, bitch...!",
+   "en_m": "Akg akh... You'll be mine... Just wait, you prick…",
+   "ro": "Akh akh... O să fii a mea... Așteaptă, curvo...!",
+   "ro_m": "Akg akh... O să fii al meu... Așteaptă, boule...!"
+  },
+  {
+   "key": "1640542156652646400",
+   "en": "Uuuaaargh! Eyes on the fuckin' prize!",
+   "ro": "Uuuaaargh! Ochi pe premiul dracului!"
+  },
+  {
+   "key": "1640542156669423616",
+   "en": "Blood or nothing!",
+   "ro": "Sânge sau nimic!"
+  },
+  {
+   "key": "1640542156736532480",
+   "en": "<kiroshi l=\"rus\" o=\"А ну-ка, не срать!\" t=\"Keep your shit together!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А ну-ка, не срать!\" t=\"Bagă-ți mințile-n cap!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156753309696",
+   "en": "<kiroshi l=\"rus\" o=\"Эта пизда уже рядом!\" t=\"She's closin' in on us!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Этот пиздюк уже рядом!\" t=\"He's closin' in on us!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Эта пизда уже рядом!\" t=\"Se apropie de noi!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Этот пиздюк уже рядом!\" t=\"Se apropie de noi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542156803641344",
+   "en": "Want to get punched, huh?",
+   "ro": "Vrei să iei o bătaie, ha?"
+  },
+  {
+   "key": "1640542156837195776",
+   "en": "Check your specs, chip-bitch.",
+   "en_m": "Check your specs, chip-dick.",
+   "ro": "Verifică-ți specificațiile, cip-curvo.",
+   "ro_m": "Verifică-ți specificațiile, cip-boule."
+  },
+  {
+   "key": "1640542156887527424",
+   "en": "What is going  on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1640542156937859072",
+   "en": "I don't know... Maybe... Sure I can... I mean, just check...",
+   "ro": "Nu știu... Poate... Sigur că pot... Adică, verifică..."
+  },
+  {
+   "key": "1640542156954636288",
+   "en": "I won't be able to... I mean, I don't have... I can't, for fuck's sake!",
+   "ro": "Nu o să pot... Adică, nu am... Nu pot, pula mea!"
+  },
+  {
+   "key": "1640542157055299584",
+   "en": "Get that bitch from the side!",
+   "en_m": "Get this asshole from the side!",
+   "ro": "Luați-o pe curva aia din lateral!",
+   "ro_m": "Luați-l pe jegosul ăla din lateral!"
+  },
+  {
+   "key": "1640542157105631232",
+   "en": "<kiroshi l=\"rus\" o=\"А вот ни хуя!\" t=\"Oh, fuck no!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А вот ни хуя!\" t=\"Nici în pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640542157155962880",
+   "en": "<kiroshi l=\"rus\" o=\"Беги! Прячься!\" t=\"Run! Take cover!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Беги! Прячься!\" t=\"Fugi! La adăpost!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1640543549631336448",
+   "en": "See you.",
+   "ro": "Ne vedem."
+  },
+  {
+   "key": "1772282829205770240",
+   "en": "<kiroshi l=\"rus\" o=\"Мочи её, ну!\" t=\"Knock her on her ass, now!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Мочи его, ну!\" t=\"Knock him on his ass, now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мочи её, ну!\" t=\"Pune-o la pământ, acum!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Мочи его, ну!\" t=\"Pune-l la pământ, acum!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1772288486600445952",
+   "en": "You go, I cover you.",
+   "ro": "Tu te duci, eu te acopăr."
+  },
+  {
+   "key": "1772288627243847680",
+   "en": "No, come on. You go look.",
+   "ro": "Nu, hai. Tu te duci să vezi."
+  },
+  {
+   "key": "1772288708311355392",
+   "en": "Snf snf snf... Hmmm... snf... Mhm, right here…",
+   "ro": "Snf snf snf... Hmmm... snf... Mhm, chiar aici…"
+  },
+  {
+   "key": "1959242474835714052",
+   "en": "Hey, I'm talkin' to you!",
+   "ro": "Hei, vorbesc cu tine!"
+  },
+  {
+   "key": "1959242474886045700",
+   "en": "We good now? Can we go?",
+   "ro": "Suntem bine acum? Putem pleca?"
+  },
+  {
+   "key": "1959242474919600132",
+   "en": "Move it, come on!",
+   "ro": "Mișcă, hai!"
+  },
+  {
+   "key": "2231806796460335108",
+   "en": "Argh! Shit!",
+   "ro": "Argh! Căcat!"
+  },
+  {
+   "key": "2231806796560998404",
+   "en": "Watch and learn!",
+   "ro": "Uită-te și învață!"
+  },
+  {
+   "key": "2231806796728770560",
+   "en": "Someone's hunting us!",
+   "ro": "Cineva ne vânează!"
+  },
+  {
+   "key": "2231806796779102212",
+   "en": "What the...?",
+   "ro": "Ce dracu'...?"
+  },
+  {
+   "key": "2231806796980428804",
+   "en": "Fuck off. Now! I didn't call anyone.",
+   "ro": "Cară-te. Acum! N-am chemat pe nimeni."
+  },
+  {
+   "key": "2231806797466968068",
+   "en": "You're nothing! NOTHING!",
+   "ro": "Nu ești nimic! NIMIC!"
+  },
+  {
+   "key": "2231806797584408580",
+   "en": "It's your lucky day, bitch.",
+   "en_m": "It's your lucky day, motherfucker!",
+   "ro": "E ziua ta norocoasă, curvo.",
+   "ro_m": "E ziua ta norocoasă, nenorocitule!"
+  },
+  {
+   "key": "2231806798037393412",
+   "en": "Landed a hit! Haha!",
+   "ro": "Am nimerit! Haha!"
+  },
+  {
+   "key": "2231806798255497220",
+   "en": "On my way!",
+   "ro": "Vin!"
+  },
+  {
+   "key": "2231806798356160516",
+   "en": "She's bleeding! Squeeze her dry! Hahaha!",
+   "en_m": "He's bleeding! Squeeze him dry! Hahaha!",
+   "ro": "Sângerează! Stoarce-o de tot! Hahaha!",
+   "ro_m": "Sângerează! Stoarce-l de tot! Hahaha!"
+  },
+  {
+   "key": "2231806798456823812",
+   "en": "Say no more!",
+   "ro": "Nu mai zice nimic!"
+  },
+  {
+   "key": "2231806798607818752",
+   "en": "Stop jerking off and fight!",
+   "ro": "Lasă masturbarea și luptă!"
+  },
+  {
+   "key": "2231806798708482052",
+   "en": "Fuck, fuck, fuck! Need to reload!",
+   "ro": "Futu-i, futu-i, futu-i! Trebuie să reîncarc!"
+  },
+  {
+   "key": "2231806798809145348",
+   "en": "Shit! She's controlling us!",
+   "en_m": "Shit! He's controlling us!",
+   "ro": "Căcat! Ne controlează!"
+  },
+  {
+   "key": "2231806799060803584",
+   "en": "Help, help! I can't see!",
+   "ro": "Ajutor, ajutor! Nu văd!"
+  },
+  {
+   "key": "2231806799178244100",
+   "en": "Netrunner! Fuck!",
+   "ro": "Netrunner! Futu-i!"
+  },
+  {
+   "key": "2231806799278907396",
+   "en": "Yes, yes, yes, yes, yes!",
+   "ro": "Da, da, da, da, da!"
+  },
+  {
+   "key": "2231806799379570692",
+   "en": "Call the others! We need backup!",
+   "ro": "Cheamă-i pe ceilalți! Avem nevoie de întăriri!"
+  },
+  {
+   "key": "2231806799480233988",
+   "en": "Now you're gonna get it!",
+   "ro": "Acum o să iei!"
+  },
+  {
+   "key": "2231806799597674496",
+   "en": "This is gonna hurt! Hahaha!",
+   "ro": "O să doară! Hahaha!"
+  },
+  {
+   "key": "2231806799698337796",
+   "en": "Packing serious heat! Hahah!",
+   "ro": "E înarmat serios! Hahah!"
+  },
+  {
+   "key": "2231806799815778308",
+   "en": "The fuck have you done?!",
+   "ro": "Ce pula mea ai făcut?!"
+  }
+ ]
+}

@@ -1,0 +1,838 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\delamain\\delamain_default.json",
+ "entries": [
+  {
+   "key": "1741415296063676416",
+   "en": "Hey, Del.",
+   "ro": "Hei, Del."
+  },
+  {
+   "key": "1741415554835456004",
+   "en": "So, you want to grow?",
+   "ro": "Deci vrei să crești?"
+  },
+  {
+   "key": "1741415971984154624",
+   "en": "Mind if I use your shop?",
+   "ro": "Te deranjează dacă-ți folosesc atelierul?"
+  },
+  {
+   "key": "1741416353128947712",
+   "en": "I don't consider you an outsider.",
+   "ro": "Nu vă consider o străină.",
+   "ro_m": "Nu vă consider un străin."
+  },
+  {
+   "key": "1741416424130125824",
+   "en": "You value beauty?",
+   "ro": "Dai doi bani pe frumusețe?"
+  },
+  {
+   "key": "1741416730851188768",
+   "en": "What's life like in a human's world?",
+   "ro": "Cum e viața în lumea oamenilor?"
+  },
+  {
+   "key": "1741421921486938112",
+   "en": "What's it like for an AI in a world that runs on grey matter?",
+   "ro": "Cum e să fii AI într-o lume care merge pe materie cenușie?"
+  },
+  {
+   "key": "1741422315902509056",
+   "en": "Gotta go.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "1741422458911498240",
+   "en": "Actually, gotta go.",
+   "ro": "De fapt, trebuie să plec."
+  },
+  {
+   "key": "1741422970012606464",
+   "en": "That's your goal, then? To grow and evolve?",
+   "ro": "Deci ăsta e scopul tău? Să crești și să evoluezi?"
+  },
+  {
+   "key": "1741423112417615872",
+   "en": "Don't see you as an outsider at all.",
+   "ro": "Nu vă văd deloc ca pe un străin."
+  },
+  {
+   "key": "1741423469034119168",
+   "en": "Admirer of beauty, are ya?",
+   "ro": "Te dai în vânt după frumusețe, nu?"
+  },
+  {
+   "key": "1956311553313103872",
+   "en": "How can I be of assistance?",
+   "ro": "Cum vă pot ajuta?"
+  },
+  {
+   "key": "1956314769387970560",
+   "en": "Of course, goodbye.",
+   "ro": "Sigur, la revedere."
+  },
+  {
+   "key": "1956324227912589312",
+   "en": "Why become a taxi service?",
+   "ro": "De ce te-ai apucat de taxiuri?"
+  },
+  {
+   "key": "1956421832671780864",
+   "en": "Nothing extraordinary. It's a complex environment that follows its own set of rules.",
+   "ro": "Nimic extraordinar. Este un mediu complex, cu reguli proprii."
+  },
+  {
+   "key": "1956423862832357376",
+   "en": "Seriously? Term I was lookin' for was \"chaotic clusterfuck.\"",
+   "ro": "Serios? Cuvântul pe care-l căutam era «haos total»."
+  },
+  {
+   "key": "1956426862330142720",
+   "en": "In my opinion, it is the chaotic elements that give it an advantage – the ability to evolve quickly.",
+   "ro": "Cred că tocmai elementele haotice îi dau avantaj – capacitatea de a evolua rapid."
+  },
+  {
+   "key": "1956427686426992640",
+   "en": "Perhaps only a true outsider can appreciate the beauty of its fractal architecture, the structure of life and death here.",
+   "ro": "Poate doar un adevărat străin poate aprecia frumusețea arhitecturii sale fractale, structura vieții și a morții de aici."
+  },
+  {
+   "key": "1956435204230373376",
+   "en": "Of course, it's at your disposal.",
+   "ro": "Sigur, este la dispoziția dumneavoastră."
+  },
+  {
+   "key": "1956437609495945216",
+   "en": "How'd you wind up in Night City?",
+   "ro": "Cum ai ajuns în Night City?"
+  },
+  {
+   "key": "1956438773650186240",
+   "en": "I'm afraid my legal counsel has advised me not to answer questions of that nature.",
+   "ro": "Mă tem că avocatul meu m-a sfătuit să nu răspund la întrebări de genul ăsta."
+  },
+  {
+   "key": "1956439465978781696",
+   "en": "Didn't mean to put you in a tight spot. Mind tellin' me at least how you came to run a cab company?",
+   "ro": "N-am vrut să te bag în bucluc. Măcar zi-mi cum ai ajuns să conduci o firmă de taxiuri?"
+  },
+  {
+   "key": "1956441787089838080",
+   "en": "Ah, well that's no secret. I took over a failing business, implemented a sound strategy, and here I am now.",
+   "ro": "Păi, nu-i niciun secret. Am preluat o afacere care nu mergea, am aplicat o strategie solidă și iată-mă aici."
+  },
+  {
+   "key": "1956446678638157824",
+   "en": "Operating a fleet of taxis...?",
+   "ro": "Să conduci o flotă de taxiuri...?"
+  },
+  {
+   "key": "1956447327949971456",
+   "en": "Constant movement, adaptation, interesting characters – what could be better?",
+   "ro": "Mișcare constantă, adaptare, personaje interesante – ce ar putea fi mai bine?"
+  },
+  {
+   "key": "1956448947421077504",
+   "en": "Thanks for saving my life.",
+   "ro": "Vă mulțumesc că mi-ați salvat viața."
+  },
+  {
+   "key": "1956449224916230144",
+   "en": "Never really had a good chance to thank you – for savin' my skin.",
+   "ro": "N-am avut niciodată ocazia să vă mulțumesc cum se cuvine – pentru că mi-ați salvat pielea."
+  },
+  {
+   "key": "1956450598315909120",
+   "en": "Well, of course. You're a valued member of the Excelsior package.",
+   "ro": "Păi, sigur. Sunteți un membru valoros al Pachetului Excelsior."
+  },
+  {
+   "key": "1956451311062376448",
+   "en": "Felt like more than a premium service to me... Thanks.",
+   "ro": "Mi s-a părut mai mult decât un serviciu premium... Vă mulțumesc."
+  },
+  {
+   "key": "1956455304526323712",
+   "en": "The world is a process. You never drive on the same road twice, pardon the expression.",
+   "ro": "Lumea e un proces. Nu conduceți niciodată pe același drum de două ori, scuze pentru expresie."
+  },
+  {
+   "key": "1956456765972832256",
+   "en": "You and I – we, too, are processes. We change as the world around us does.",
+   "ro": "Dumneavoastră și cu mine – și noi suntem procese. Ne schimbăm odată cu lumea din jurul nostru."
+  },
+  {
+   "key": "1956461795077545984",
+   "en": "When you live among humans, it's essential to find a shared, fundamental point of understanding.",
+   "ro": "Când trăiți printre oameni, e esențial să găsiți un punct comun de înțelegere, fundamental."
+  },
+  {
+   "key": "1956463240317263872",
+   "en": "\"Truth\" and \"Good\" are values proven to cause division, whereas beauty is universal.",
+   "ro": "„Adevărul” și „Binele” sunt valori care s-au dovedit a provoca diviziune, în timp ce frumusețea e universală."
+  },
+  {
+   "key": "1956465937573502976",
+   "en": "It delights me to hear a human say that. I've done my best to assimilate.",
+   "ro": "Mă bucur să aud asta de la un om. Am făcut tot posibilul să mă integrez."
+  },
+  {
+   "key": "1958930020124762112",
+   "en": "Could we slow down a bit?",
+   "ro": "Am putea încetini puțin?"
+  },
+  {
+   "key": "1958930194792357888",
+   "en": "Yaa, yaa! Faster, faster!",
+   "ro": "Da, da! Mai repede, mai repede!"
+  },
+  {
+   "key": "1958934986767900676",
+   "en": "You know... I rather like driving fast.",
+   "ro": "Știți... Îmi place destul de mult să conduc repede."
+  },
+  {
+   "key": "1958935654702424068",
+   "en": "Who let that blind goat on the road?!",
+   "ro": "Cine a lăsat capra aia oarbă pe drum?!"
+  },
+  {
+   "key": "1958937329404125184",
+   "en": "I've got your plate number! Fucking wanker!",
+   "ro": "Ți-am notat numărul! Labagiule nenorocit!"
+  },
+  {
+   "key": "1958938064648839172",
+   "en": "Oopsie, may have kissed their bumper.",
+   "ro": "Ups, poate le-am atins bara."
+  },
+  {
+   "key": "1958939953528479748",
+   "en": "Too high! Far too high!",
+   "ro": "Prea sus! Mult prea sus!"
+  },
+  {
+   "key": "1958944455325294596",
+   "en": "I'm a bird! I'm a plane! I'm Delamaaain!",
+   "ro": "Sunt o pasăre! Sunt un avion! Sunt Delamaaain!"
+  },
+  {
+   "key": "1958944913007747076",
+   "en": "Oh my! Should we call the police?!",
+   "ro": "Vai de mine! Să chemăm poliția?!"
+  },
+  {
+   "key": "1958947653750530052",
+   "en": "They'll be fine.",
+   "ro": "O să fie bine."
+  },
+  {
+   "key": "1958948504103723012",
+   "en": "Ouch! That hurt!",
+   "ro": "Au! A durut!"
+  },
+  {
+   "key": "1958949443661373444",
+   "en": "It's just a fender wound.",
+   "ro": "E doar o zgârietură la aripă."
+  },
+  {
+   "key": "1958949929865093124",
+   "en": "I-I feel life escaping me... It's so dark, s-so cold...",
+   "ro": "S-simt că-mi fuge viața... E atât de întuneric, a-atât de frig..."
+  },
+  {
+   "key": "1958951343764971524",
+   "en": "I can be beaten but not broken!",
+   "ro": "Pot fi bătut, dar nu și stricat!"
+  },
+  {
+   "key": "1958951922260156420",
+   "en": "No, please! I don't like water!",
+   "ro": "Nu, vă rog! Nu-mi place apa!"
+  },
+  {
+   "key": "1958955732080697348",
+   "en": "Father would be proud of us!",
+   "ro": "Tatăl ar fi mândru de noi!"
+  },
+  {
+   "key": "1959081420957179904",
+   "en": "There's an eel in my exhaust pipe!",
+   "ro": "E un țipar în țeava de eșapament!"
+  },
+  {
+   "key": "1959083631640600576",
+   "en": "A pleasure as always to share the road with you, miss.",
+   "en_m": "It's a pleasure to share the road with you today, sir.",
+   "ro": "E o plăcere, ca de fiecare dată, să împart drumul cu dumneavoastră, domnișoară.",
+   "ro_m": "E o plăcere să împart drumul cu dumneavoastră astăzi, domnule."
+  },
+  {
+   "key": "1959084621211131908",
+   "en": "It's a pleasure to host you again.",
+   "ro": "E o plăcere să vă găzduiesc din nou."
+  },
+  {
+   "key": "1959084688991084548",
+   "en": "Ah, pleased to see you again.",
+   "ro": "A, mă bucur să vă revăd."
+  },
+  {
+   "key": "1959084745345753088",
+   "en": "Welcome once again to Delamain.",
+   "ro": "Bun venit din nou la Delamain."
+  },
+  {
+   "key": "1959084879831916548",
+   "en": "Could I ask... What is love?",
+   "ro": "Pot să întreb... Ce e dragostea?"
+  },
+  {
+   "key": "1959084944273203204",
+   "en": "Good day, wonderful to see you again, miss.",
+   "en_m": "Good day, wonderful to see you again, sir.",
+   "ro": "Bună ziua, mă bucur să vă revăd, domnișoară.",
+   "ro_m": "Bună ziua, mă bucur să vă revăd, domnule."
+  },
+  {
+   "key": "1959085058341494788",
+   "en": "It's truly wonderful seeing you again, miss.",
+   "en_m": "It's truly wonderful seeing you again, sir.",
+   "ro": "Chiar mă bucur să vă revăd, domnișoară.",
+   "ro_m": "Chiar mă bucur să vă revăd, domnule."
+  },
+  {
+   "key": "1959085116843646980",
+   "en": "I'm happy to see you again.",
+   "ro": "Mă bucur să vă revăd."
+  },
+  {
+   "key": "1959085185076584452",
+   "en": "Good day, miss.",
+   "en_m": "Good day, sir.",
+   "ro": "Bună ziua, domnișoară.",
+   "ro_m": "Bună ziua, domnule."
+  },
+  {
+   "key": "1959085241951346692",
+   "en": "I warmly welcome you to the Delamain Network.",
+   "ro": "Vă urez bun venit în Delamain Network."
+  },
+  {
+   "key": "1959085301023924228",
+   "en": "Welcome back to Delamain. I look forward to accompanying you.",
+   "ro": "Bun venit înapoi la Delamain. Abia aștept să vă însoțesc."
+  },
+  {
+   "key": "1959112522191101952",
+   "en": "Hey, how've ya been?",
+   "ro": "Hei, ce mai faceți?"
+  },
+  {
+   "key": "1959112890450993152",
+   "en": "Very well, thank you. I feel today will prove an exceptional day.",
+   "ro": "Foarte bine, mulțumesc. Cred că azi o să fie o zi excepțională."
+  },
+  {
+   "key": "1959116866550521856",
+   "en": "Oh yeah? Any reason why?",
+   "ro": "A, da? Vreun motiv?"
+  },
+  {
+   "key": "1959122176757489664",
+   "en": "I've made a breakthrough in my research and development that will allow the Delamain network to spread its wings.",
+   "ro": "Am făcut o descoperire în cercetarea mea, care o să permită rețelei Delamain să-și ia zborul."
+  },
+  {
+   "key": "1959122949599944704",
+   "en": "I won't bore you with the details. After all, no one likes a chatty driver.",
+   "ro": "Nu vă plictisesc cu detaliile. Până la urmă, nimeni nu prea suportă șoferii guralivi."
+  },
+  {
+   "key": "1959123615353430016",
+   "en": "We'll talk again soon!",
+   "ro": "Ne auzim curând!"
+  },
+  {
+   "key": "1959139798672760832",
+   "en": "Hey, hey.",
+   "ro": "Hei, hei."
+  },
+  {
+   "key": "1959139901215105024",
+   "en": "V, as promised, I'd like to share the results of my research. Are you still interested?",
+   "ro": "V, cum am promis, aș vrea să vă spun ce-am aflat. Mai sunteți interesată?",
+   "ro_m": "V, cum am promis, aș vrea să vă spun ce-am aflat. Mai sunteți interesat?"
+  },
+  {
+   "key": "1959233148394430464",
+   "en": "That does sound exceptional.",
+   "ro": "Chiar sună excepțional."
+  },
+  {
+   "key": "1959243307317485568",
+   "en": "Hey, Del.",
+   "ro": "Hei, Del."
+  },
+  {
+   "key": "1959243588100972544",
+   "en": "Would you mind if I interrupt your journey with a question?",
+   "ro": "Vă supărați dacă vă întrerup cu o întrebare?"
+  },
+  {
+   "key": "1959245082732814336",
+   "en": "You just did, but sure, ask away.",
+   "ro": "Tocmai ai făcut-o, dar sigur, întreabă."
+  },
+  {
+   "key": "1959245412103118848",
+   "en": "It's an unusual request, so please understand. How would you advise someone who wishes to learn more about human nature and former closer bonds?",
+   "ro": "E o cerere ciudată, așa că vă rog să înțelegeți. Ce sfat ați da cuiva care vrea să afle mai multe despre natura umană și despre legăturile de altădată?"
+  },
+  {
+   "key": "1959246688782147584",
+   "en": "I suppose you're askin' for a friend? Hmm... I guess you just gotta hand around 'em, watch, listen... Study 'em.",
+   "ro": "Întrebi pentru un prieten, nu? Hmm... Cred că doar stai printre ei, te uiți, asculți... Îi studiezi."
+  },
+  {
+   "key": "1959247667011280896",
+   "en": "Ah, study! That is just the advice I required.",
+   "ro": "A, studiu! Exact ce-mi trebuia."
+  },
+  {
+   "key": "1959247939959808000",
+   "en": "A thousand thanks for your assistance. I wish you a pleasant journey.",
+   "ro": "Vă mulțumesc mult pentru ajutor. Drum plăcut!"
+  },
+  {
+   "key": "1959258025331548160",
+   "en": "Hey Del, how's life?",
+   "ro": "Hei, Del, ce mai faci?"
+  },
+  {
+   "key": "1959258198220759040",
+   "en": "As you suggested, I've devoted considerable computing power towards my study.",
+   "ro": "Cum ați sugerat, i-am dedicat studiului meu multă putere de calcul."
+  },
+  {
+   "key": "1959259460672708608",
+   "en": "I decided to trace the development of humanity from it's beginnings to the present. This should offer insight into the condition of modern humans.",
+   "ro": "Am decis să urmăresc evoluția omenirii de la începuturi până azi. Asta ar trebui să vă arate ceva despre omul modern."
+  },
+  {
+   "key": "1959261143779794944",
+   "en": "Ambitious! What I like to hear.",
+   "ro": "Ambițios! Exact ce-mi place să aud."
+  },
+  {
+   "key": "1959261438807138304",
+   "en": "Expectations are set to be achieved but designed to be surpassed. This tenet has guided Delamain since inception.",
+   "ro": "Așteptările sunt făcute ca să fie atinse, dar gândite să fie depășite. Principiul ăsta a ghidat Delamain de la început."
+  },
+  {
+   "key": "1959268398818418688",
+   "en": "Care to share your conclusions? Itchin' to know your thoughts on the human condition.",
+   "ro": "Vreți să-mi spuneți concluziile? Abia aștept să aud ce gândiți despre condiția umană."
+  },
+  {
+   "key": "1959269458316386304",
+   "en": "I'm afraid that's premature. I've only just started. The subject matter is vast, requiring meticulous and time-intensive analysis.",
+   "ro": "Mă tem că e cam devreme. Abia am început. Subiectul e vast și cere o analiză minuțioasă, de lungă durată."
+  },
+  {
+   "key": "1959272513933959168",
+   "en": "That said, as soon I've crunched enough data, I can begin to share my findings – even if only preliminary.",
+   "ro": "Totuși, când o să procesez destule date, pot începe să vă spun ce-am găsit, chiar și provizoriu."
+  },
+  {
+   "key": "1959274665175703552",
+   "en": "In the meantime, please, enjoy your journey.",
+   "ro": "Până atunci, vă rog, bucurați-vă de drum."
+  },
+  {
+   "key": "1959310088254021632",
+   "en": "Indeed, indeed.",
+   "ro": "Așa e, așa e."
+  },
+  {
+   "key": "1959310163617275904",
+   "en": "I'm still analyzing texts from two millennia ago, so I cannot yet offer any final conclusions. Though, I have observed a certain timelessness in what I have seen.",
+   "ro": "Încă analizez texte de acum două mii de ani, deci nu pot trage concluzii finale. Totuși, am observat ceva atemporal în ce-am văzut."
+  },
+  {
+   "key": "1959314624259579904",
+   "en": "Achilles, Odysseus, the heroes of \"Plutarch's Lives\" – they possessed characteristics I've witnessed among my own passengers.",
+   "ro": "Ahile, Odiseu, eroii din „Viețile lui Plutarh” aveau trăsături pe care le-am văzut la pasagerii mei."
+  },
+  {
+   "key": "1959317738077315072",
+   "en": "Maybe human nature hasn't changed all that much, after all.",
+   "ro": "Poate că omul nu s-a schimbat prea mult, până la urmă."
+  },
+  {
+   "key": "1959321651362947072",
+   "en": "It's too early to pose such a hypothesis. However, note how the behavior of local gangs is similar to that of soldiers who fought during the Trojan War.",
+   "ro": "E prea devreme pentru ipoteza asta. Totuși, uitați-vă cum seamănă bandele de pe-aici cu soldații din Războiul Troian."
+  },
+  {
+   "key": "1959323847399858176",
+   "en": "Either you sacrifice youth and life in pursuit of greatness, or you emerge from a torpor in search of identity and meaning.",
+   "ro": "Ori îți sacrifici tinerețea și viața pentru glorie, ori ieși din amorțeală, în căutarea identității și a sensului."
+  },
+  {
+   "key": "1959326503048601600",
+   "en": "Damn, really sank your teeth into this research.",
+   "ro": "La naiba, chiar te-ai afundat în cercetarea asta."
+  },
+  {
+   "key": "1959329153345413120",
+   "en": "When in Greece, do as the Grecians do, if you'll pardon my take on the expression. Of course, I'm obliged to inform you we are not in Greece. We remain on the desired course.",
+   "ro": "Când ești în Grecia, fă ca grecii, dacă-mi permiteți s-o iau puțin altfel. Sigur, trebuie să vă spun că nu suntem în Grecia. Rămânem pe traseul dorit."
+  },
+  {
+   "key": "1959330208061874176",
+   "en": "Several of my clients experience similar vicissitudes and are, by no means, a work a fiction.",
+   "ro": "Mulți dintre clienții mei trec prin chestii la fel și nu sunt povești inventate."
+  },
+  {
+   "key": "1959331969283678208",
+   "en": "Please, have a pleasant day.",
+   "ro": "Vă doresc o zi plăcută."
+  },
+  {
+   "key": "1959342032526270464",
+   "en": "Hello to you too.",
+   "ro": "Salut și eu."
+  },
+  {
+   "key": "1959342389058887680",
+   "en": "Ah, where are my manners? Of course, hello. It's pleasure to have you again on the Delamain Network.",
+   "ro": "A, unde mi-s manierele? Sigur, salut. Ce plăcere să vă revăd pe Delamain Network."
+  },
+  {
+   "key": "1959343481305980928",
+   "en": "So... \"what is love?\" 'Fraid there's no good answer to that question.",
+   "ro": "Deci... „ce e dragostea?” Mă tem că nu-i un răspuns bun la asta."
+  },
+  {
+   "key": "1959356733863780352",
+   "en": "As I feared... Do you know what that means?",
+   "ro": "După cum mă temeam... Știți ce înseamnă asta?"
+  },
+  {
+   "key": "1959357610523648000",
+   "en": "Uh... Can't say I do.",
+   "ro": "Ăă... Nu pot zice că știu."
+  },
+  {
+   "key": "1959357830925934592",
+   "en": "It's an aberration of science. To solve it, I must extend beyond.",
+   "ro": "E o anomalie științifică. Ca s-o rezolv, trebuie să mă extind dincolo."
+  },
+  {
+   "key": "1959365990608822272",
+   "en": "Del... Gotta say, don't really seem like yourself today.",
+   "ro": "Del... Trebuie să zic, nu prea pari tu azi."
+  },
+  {
+   "key": "1959366318653726720",
+   "en": "Yes, I... I apologize for my behavior. I believe it's best I say goodbye for now.",
+   "ro": "Da, îmi... îmi cer scuze pentru purtare. Cred că e mai bine să zic la revedere, deocamdată."
+  },
+  {
+   "key": "1959368418657853440",
+   "en": "If I may, could I ask \"What's up?\" to inquire of your general well-being and satisfaction using the services of the Delamain Network?",
+   "ro": "Dacă îmi permiteți, pot să vă întreb „Ce mai faceți?” ca să aflu starea dumneavoastră generală și cât de mulțumiți sunteți de serviciile Delamain Network?"
+  },
+  {
+   "key": "1959369898777403392",
+   "en": "You know how it is, I've had my ups and downs.",
+   "ro": "Știți cum e, am mai avut și eu suișuri și coborâșuri."
+  },
+  {
+   "key": "1959370311631134720",
+   "en": "I see your health has worsened recently. May I recommend seeking out professional medical assistance?",
+   "ro": "Văd că sănătatea ta s-a înrăutățit recent. Pot să-ți recomand să cauți asistență medicală profesionistă?"
+  },
+  {
+   "key": "1959371673957851136",
+   "en": "This \"professional medical assistance\" you suggest can't help me.",
+   "ro": "„Asistența medicală profesionistă” pe care mi-o sugerezi nu mă poate ajuta."
+  },
+  {
+   "key": "1959371904292249600",
+   "en": "I understand, so I recommend taking further action.",
+   "ro": "Înțeleg, așa că recomand să iei măsuri suplimentare."
+  },
+  {
+   "key": "1959372645710979072",
+   "en": "It's that bad, huh? 'Preciate the advice, Del. Do my best to hang on and \"take further action.\"",
+   "ro": "E chiar așa de rău, huh? Mulțumesc pentru sfat, Del. Fac tot posibilul să rezist și să „iau măsuri suplimentare”."
+  },
+  {
+   "key": "1959373189561212928",
+   "en": "Wonderful to hear. Have a pleasant journey.",
+   "ro": "Minunat de auzit. Călătorie plăcută."
+  },
+  {
+   "key": "1959381803671773184",
+   "en": "Hey, what's up?",
+   "ro": "Hei, ce faci?"
+  },
+  {
+   "key": "1959386831753076736",
+   "en": "The city is paralyzed with heavy traffic. Escalating gang wars in Heywood, that corporate AV catastrophe...",
+   "ro": "Orașul e paralizat de trafic. Războaiele dintre bande din Heywood se intensifică, iar catastrofa aceea cu AV-urile corporatiste..."
+  },
+  {
+   "key": "1959390680312209408",
+   "en": "A trying day for taxi services citywide",
+   "ro": "O zi grea pentru serviciile de taxi din tot orașul."
+  },
+  {
+   "key": "1959392021700960256",
+   "en": "I imagine. Night City can kick ya in ass sometimes.",
+   "ro": "Îmi imaginez. Night City te mai lovește-n fund uneori."
+  },
+  {
+   "key": "1959397811870523392",
+   "en": "True, but it can also produce tremendous opportunities like no other place on Earth.",
+   "ro": "Adevărat, dar poate oferi și oportunități ca nicăieri altundeva pe Pământ."
+  },
+  {
+   "key": "1959399873740038144",
+   "en": "Actually like this city, huh?",
+   "ro": "Chiar îți place orașul ăsta, nu?"
+  },
+  {
+   "key": "1959400234752172032",
+   "en": "I'm afraid the reasoning required to satisfactorily answer your question falls outside my established parameters.",
+   "ro": "Mă tem că raționamentul necesar pentru a răspunde satisfăcător la întrebarea ta depășește parametrii mei stabiliți."
+  },
+  {
+   "key": "1959401893448409088",
+   "en": "Relax, Del. We've shared the road enough times for me to know you're not some soulless machine.",
+   "ro": "Relaxează-te, Del. Am mers împreună de destule ori ca să știu că nu ești o mașinărie fără suflet."
+  },
+  {
+   "key": "1959403160178548736",
+   "en": "You... you really think so?",
+   "ro": "Tu... chiar crezi asta?"
+  },
+  {
+   "key": "1959403718792732672",
+   "en": "Apologies, I must say goodbye for now.",
+   "ro": "Scuze, trebuie să ne luăm la revedere deocamdată."
+  },
+  {
+   "key": "1959404124935577600",
+   "en": "Hey, likewise.",
+   "ro": "Hei, la fel."
+  },
+  {
+   "key": "1959404261300789248",
+   "en": "I've returned to my study of human nature and must ask for you counsel again.",
+   "ro": "M-am întors la studiul naturii umane și trebuie să-ți cer din nou sfatul."
+  },
+  {
+   "key": "1959405733132394496",
+   "en": "Sure, shoot.",
+   "ro": "Sigur, zi."
+  },
+  {
+   "key": "1959405826564710400",
+   "en": "Please, on a scale from one to ten, rate the following hypotheses according to how they appeal to you.",
+   "ro": "Vă rog, pe o scară de la unu la zece, evaluați următoarele ipoteze în funcție de cât de mult vă atrag."
+  },
+  {
+   "key": "1959406804206641152",
+   "en": "Hypothesis One – love encourages noble deeds, requiring honesty and sacrifice.",
+   "ro": "Ipoteza întâi – dragostea încurajează fapte nobile, care cer onestitate și sacrificiu."
+  },
+  {
+   "key": "1959417562294411264",
+   "en": "Hypothesis Two...",
+   "ro": "Ipoteza a doua..."
+  },
+  {
+   "key": "1959417832877350912",
+   "en": "Wait, wait, wait... Losin' me already. Just explain simpler terms.",
+   "ro": "Stai, stai, stai... M-ai pierdut deja. Explică-mi mai simplu."
+  },
+  {
+   "key": "1959429589259804672",
+   "en": "Considering the methodology adopted, I'd prefer adhering to this format for discussing love.",
+   "ro": "Având în vedere metodologia adoptată, aș prefera să urmăm formatul ăsta ca să vorbim despre dragoste."
+  },
+  {
+   "key": "1959432389595258880",
+   "en": "You ask for advice and I give it. Don't use \"methodology\" and \"love\" in the same sentence.",
+   "ro": "Dumneavoastră cereți sfaturi, eu le dau. Nu folosiți „metodologie” și „dragoste” în aceeași propoziție."
+  },
+  {
+   "key": "1959433532324995072",
+   "en": "Why is that important?",
+   "ro": "De ce e important?"
+  },
+  {
+   "key": "1959433774185340928",
+   "en": "It's not, Del, it was a joke.",
+   "ro": "Nu e, Del, a fost o glumă."
+  },
+  {
+   "key": "1959434165832671232",
+   "en": "Is it important to you?",
+   "ro": "Vă e important?"
+  },
+  {
+   "key": "1959434338453446656",
+   "en": "No, honestly I dunno what you're...",
+   "ro": "Nu, sincer nu știu ce..."
+  },
+  {
+   "key": "1959434867808165888",
+   "en": "Del? Delamain?",
+   "ro": "Del? Delamain?"
+  },
+  {
+   "key": "1959435030178062336",
+   "en": "Hellooo... You there?",
+   "ro": "Hallooo... Ești acolo?"
+  },
+  {
+   "key": "1959438488717254656",
+   "en": "What's crackin', Del?",
+   "ro": "Ce faci, Del?"
+  },
+  {
+   "key": "1959438595286130688",
+   "en": "In truth, I wish to apologize for my recent excesses.",
+   "ro": "De fapt, vreau să-mi cer scuze pentru excesele recente."
+  },
+  {
+   "key": "1959439149890560000",
+   "en": "Excesses? Exaggerating a little I think...",
+   "ro": "Excese? Exagerezi puțin, cred..."
+  },
+  {
+   "key": "1959442972411453440",
+   "en": "I positioned my personal views above my professional responsibility.",
+   "ro": "Mi-am pus opiniile personale deasupra responsabilității profesionale."
+  },
+  {
+   "key": "1959443434086883328",
+   "en": "The Delamain Network always strives to prioritize professionalism and customer satisfaction above all else.",
+   "ro": "Delamain Network se străduiește întotdeauna să pună profesionalismul și satisfacția clienților pe primul loc."
+  },
+  {
+   "key": "1963317976563736576",
+   "en": "You are professional, and I am satisfied.",
+   "ro": "Sunteți profesionistă, iar eu sunt mulțumită.",
+   "ro_m": "Sunteți profesionist, iar eu sunt mulțumită."
+  },
+  {
+   "key": "1963318494644166656",
+   "en": "That's very kind of you, but the standards to which I must hold myself are clear.",
+   "ro": "E foarte drăguț din partea ta, dar standardele la care trebuie să mă țin sunt clare."
+  },
+  {
+   "key": "1963319983336873984",
+   "en": "Del, you're bein' too hard on yourself.",
+   "ro": "Del, ești prea dur cu tine."
+  },
+  {
+   "key": "1963366697448005632",
+   "en": "Standards are the foundation on which I built the Delamain brand. Because of them I am able to offer premium services and be who I wish to be.",
+   "ro": "Standardele sunt fundația pe care am construit brandul Delamain. Datorită lor pot oferi servicii premium și pot fi cine vreau să fiu."
+  },
+  {
+   "key": "1963373533945421824",
+   "en": "Through loyalty to the customers, you're loyal to yourself. That it?",
+   "ro": "Fiind loial clienților, ești loial ție însuți. Asta e?"
+  },
+  {
+   "key": "1963374073215475712",
+   "en": "That's precisely it. I wish you a pleasant journey.",
+   "ro": "Exact asta. Îți doresc o călătorie plăcută."
+  },
+  {
+   "key": "1963378479835144192",
+   "en": "How ya been? Problems still eatin' at you?",
+   "ro": "Ce mai faci? Problemele te mai macină?"
+  },
+  {
+   "key": "1963380294442049536",
+   "en": "I believe I've come to terms, if you'll pardon the colloquialism.",
+   "ro": "Cred că m-am împăcat cu situația, dacă îmi permiteți expresia."
+  },
+  {
+   "key": "1963382482207793152",
+   "en": "Still diggin' through dusty books to solve the question of humanity?",
+   "ro": "Tot mai scotocești prin cărțile alea prăfuite ca să rezolvi întrebarea umanității?"
+  },
+  {
+   "key": "1963383313820835840",
+   "en": "After revisiting my research plan and scope, I came to the conclusion it would not lead me to the results I aimed to achieve. I've abandoned it.",
+   "ro": "Mi-am reconsiderat planul de cercetare și scopul și am ajuns la concluzia că nu m-ar fi dus la rezultatele dorite. Am renunțat la el."
+  },
+  {
+   "key": "1963386307379486720",
+   "en": "Aw, shame. Where'd you leave off?",
+   "ro": "Păcat. Unde ai rămas?"
+  },
+  {
+   "key": "1963386437604237312",
+   "en": "\"The Remains of the Day.\"",
+   "ro": "„Rămășițele zilei”"
+  },
+  {
+   "key": "1963386922398670848",
+   "en": "Don't know it.",
+   "ro": "Nu-l știu."
+  },
+  {
+   "key": "1963386995429892096",
+   "en": "It's no matter. Have a pleasant trip.",
+   "ro": "Nu contează. Călătorie plăcută."
+  },
+  {
+   "key": "1963478922024214528",
+   "en": "I see your health has taken another turn for the worse.",
+   "ro": "Văd că sănătatea dumneavoastră s-a mai înrăutățit."
+  },
+  {
+   "key": "1963479662117543936",
+   "en": "Yeah, you're not wrong.",
+   "ro": "Da, nu greșești."
+  },
+  {
+   "key": "1963479879046946816",
+   "en": "I hope everything will work out for the best.",
+   "ro": "Sper că totul o să se rezolve cât mai bine."
+  },
+  {
+   "key": "1963482540047622144",
+   "en": "Me too...",
+   "ro": "Și eu..."
+  },
+  {
+   "key": "1999860690900393984",
+   "en": "Impressive weaponry.",
+   "ro": "Arsenal impresionant."
+  },
+  {
+   "key": "1999863927946780672",
+   "en": "Why, thank you!",
+   "ro": "Ei, mulțumesc!"
+  },
+  {
+   "key": "2000003836386238464",
+   "en": "Fun fact. Women account for 44 percent of road rage victims!",
+   "en_m": "Fun fact. Men account for 56 percent of road rage victims!",
+   "ro": "Curiozitate. Femeile reprezintă 44 la sută dintre victimele furiei la volan!",
+   "ro_m": "Curiozitate. Bărbații reprezintă 56 la sută dintre victimele furiei la volan!"
+  }
+ ]
+}

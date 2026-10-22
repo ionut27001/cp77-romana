@@ -1,0 +1,100 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_high_f_19_jap_30_sml.json",
+ "entries": [
+  {
+   "key": "1882060686295048196",
+   "en": "<mothertongue l=\"jpn\" m=\"Konnichi-wa!\" b=\"\" a=\" What is your name?\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"Konnichi-wa!\" b=\"\" a=\" Cum te cheamă?\"/>"
+  },
+  {
+   "key": "1882060686328602628",
+   "en": "Have I seen you somewhere...?",
+   "ro": "Te-am mai văzut undeva...?"
+  },
+  {
+   "key": "1882060686378934276",
+   "en": "Ugh... again?",
+   "ro": "Ugh... iar?"
+  },
+  {
+   "key": "1882060686395711492",
+   "en": "Learn to walk straight!",
+   "ro": "Învață să mergi drept!"
+  },
+  {
+   "key": "1882060686429265924",
+   "en": "<kiroshi l=\"jpn\" o=\"もしもし？\" t=\"Hello?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もしもし？\" t=\"Alo?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1882060686479597572",
+   "en": "Not even close...! I am extremely bored... Why...?",
+   "ro": "Nici pe departe...! Mă plictisesc de moarte... De ce...?"
+  },
+  {
+   "key": "1882060686513152004",
+   "en": "Maybe a braindance in the evening...? Well, do you have a better.",
+   "ro": "Poate un braindance diseară...? Sau ai ceva mai bun?"
+  },
+  {
+   "key": "1882060686546706436",
+   "en": "Bye bye!",
+   "ro": "Pa, pa!"
+  },
+  {
+   "key": "1882060686714478596",
+   "en": "Aaahhh! Help!",
+   "ro": "Aaahhh! Ajutor!"
+  },
+  {
+   "key": "1882060686748033028",
+   "en": "I don't want to! Please!",
+   "ro": "Nu vreau! Te rog!"
+  },
+  {
+   "key": "1882060686848696320",
+   "en": "No, no, no! Don't hurt me!",
+   "ro": "Nu, nu, nu! Nu mă răni!"
+  },
+  {
+   "key": "1882060686865473540",
+   "en": "I'll forget I ever saw you!",
+   "ro": "O să uit că te-am văzut vreodată!"
+  },
+  {
+   "key": "1882060686966136836",
+   "en": "Do you think this is funny?",
+   "ro": "Ți se pare amuzant?"
+  },
+  {
+   "key": "1882060686999691268",
+   "en": "Leave me be!",
+   "ro": "Lasă-mă în pace!"
+  },
+  {
+   "key": "1882061726834761728",
+   "en": "Um, what else...?! I would rather do nothing.",
+   "ro": "Um, ce altceva...?! Aș prefera să nu fac nimic."
+  },
+  {
+   "key": "1882062171615535104",
+   "en": "You don't say... Mhm... I'm sold!",
+   "ro": "Nu-mi spune... Mhm... M-ai convins!"
+  },
+  {
+   "key": "1958938729077841924",
+   "en": "You... You're just leaving? OK...",
+   "ro": "Tu... Pleci pur și simplu? OK..."
+  },
+  {
+   "key": "1958938729128173572",
+   "en": "Can we continue our discussion, huh?",
+   "ro": "Putem continua discuția, ha?"
+  },
+  {
+   "key": "1958938729161728000",
+   "en": "I'm a very busy woman.",
+   "ro": "Sunt o femeie foarte ocupată."
+  }
+ ]
+}

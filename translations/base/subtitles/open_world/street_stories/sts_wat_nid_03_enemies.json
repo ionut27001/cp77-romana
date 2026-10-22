@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_03_enemies.json",
+ "entries": [
+  {
+   "key": "1364503421751017488",
+   "en": "<kiroshi l=\"jpn\" o=\"奴は中にいる。情報通りだね\" t=\"That sonofabitch is inside. Intel's legit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"奴は中にいる。情報通りだね\" t=\"Nenorocitul ăla e înăuntru. Intel-ul e autentic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1364509839405236224",
+   "en": "<kiroshi l=\"jpn\" o=\"ボスの命令通り、問答無用で撃っていい。いいな？ それじゃ行くぞ、お前ら！\" t=\"Boss wants him dead. No words – only lead flies, got it? Let's move it, people!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ボスの命令通り、問答無用で撃っていい。いいな？ それじゃ行くぞ、お前ら！\" t=\"Șeful îl vrea mort. Fără vorbe – doar plumb, înțeles? Mișcați-vă, oameni buni!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

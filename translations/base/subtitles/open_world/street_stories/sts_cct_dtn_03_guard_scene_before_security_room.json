@@ -1,0 +1,27 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_dtn_03_guard_scene_before_security_room.json",
+ "entries": [
+  {
+   "key": "1986537458626060300",
+   "en": "Not so fast, little lady.",
+   "en_m": "Not so fast, little man.",
+   "ro": "Nu așa repede, domnișoară.",
+   "ro_m": "Nu așa repede, băiete."
+  },
+  {
+   "key": "1986537458642837520",
+   "en": "No weapons allowed. We're runnin' a civilized operation.",
+   "ro": "Fără arme. Aici facem lucrurile civilizat."
+  },
+  {
+   "key": "1986537458659614732",
+   "en": "See? Wasn't so hard.",
+   "ro": "Vezi? N-a fost așa greu."
+  },
+  {
+   "key": "1986537458676391936",
+   "en": "Welcome to Empathy.",
+   "ro": "Bun venit la Empathy."
+  }
+ ]
+}

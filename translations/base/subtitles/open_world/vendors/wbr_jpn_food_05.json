@@ -1,0 +1,36 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_food_05.json",
+ "entries": [
+  {
+   "key": "1885009672696905728",
+   "en": "Feeling kind of peckish...",
+   "ro": "Mi-e puțin foame..."
+  },
+  {
+   "key": "1885009672713682952",
+   "en": "What do you recommend?",
+   "ro": "Ce recomandați?"
+  },
+  {
+   "key": "1885009672780791808",
+   "en": "Feelin' kinda peckish...",
+   "ro": "Mi-e cam foame..."
+  },
+  {
+   "key": "1885009672780791816",
+   "en": "Hm. Think we can help you with that.",
+   "ro": "Hm. Cred că te putem ajuta cu asta."
+  },
+  {
+   "key": "1885009672847900676",
+   "en": "What do you recommend?",
+   "en_m": "Whatcha recommend?",
+   "ro": "Ce recomandați?"
+  },
+  {
+   "key": "1885009672847900684",
+   "en": "Nothing. I sell grub, not advice. Don't know what you like to eat? I can't help you. Sorry, but not sorry. Not my problem.",
+   "ro": "Nimic. Eu vând mâncare, nu sfaturi. Nu știi ce-ți place? Nu te pot ajuta. Îmi pare rău, da' nu prea. Nu e problema mea."
+  }
+ ]
+}

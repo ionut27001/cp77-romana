@@ -1,0 +1,485 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_chicken_test.json",
+ "entries": [
+  {
+   "key": "2879323697137602564",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2879338437968678912",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2879338608324530176",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "2879342793686274052",
+   "en": "[db_db]Songbird Meeting",
+   "ro": "[db_db]Songbird Meeting"
+  },
+  {
+   "key": "2943261751538642944",
+   "en": "[db_db]Farida's place",
+   "ro": "[db_db]Farida's place"
+  },
+  {
+   "key": "2947493193684643840",
+   "en": "[db_db]Briefing",
+   "ro": "[db_db]Briefing"
+  },
+  {
+   "key": "2947554303667097600",
+   "en": "[db_db]Start",
+   "ro": "[db_db]Start"
+  },
+  {
+   "key": "2947554696220397568",
+   "en": "[db_db]Next",
+   "ro": "[db_db]Următorul"
+  },
+  {
+   "key": "2947555220927827972",
+   "en": "[db_db]Next",
+   "ro": "[db_db]Următorul"
+  },
+  {
+   "key": "2947578427944751104",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "2947578554545623040",
+   "en": "[db_db]Disguise",
+   "ro": "[db_db]Disguise"
+  },
+  {
+   "key": "2947579572821970944",
+   "en": "[db_db]Escort",
+   "ro": "[db_db]Escort"
+  },
+  {
+   "key": "2947579869124382720",
+   "en": "[db_db]Deal",
+   "ro": "[db_db]Deal"
+  },
+  {
+   "key": "2947580237182947332",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "2947580523620356096",
+   "en": "[db_db]Escape Songbird",
+   "ro": "[db_db]Escape Songbird"
+  },
+  {
+   "key": "2947580713454555136",
+   "en": "[db_db]Escape Reed",
+   "ro": "[db_db]Escape Reed"
+  },
+  {
+   "key": "2947584907506896896",
+   "en": "[db_db]Next",
+   "ro": "[db_db]Următorul"
+  },
+  {
+   "key": "2950535068063387648",
+   "en": "[db_db]Lab",
+   "ro": "[db_db]Lab"
+  },
+  {
+   "key": "2970626951263309828",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2970628147311038464",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2981096565172621312",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2981096565172621324",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2981096773612752896",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2981096773612752908",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2981096913031417856",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2981096913031417868",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2981097024381800448",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2981097024381800460",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2984030056776486916",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2984030648995434496",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2984031076747333632",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2984031076747333644",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "2984033930400780300",
+   "en": "[db_db]Farida's place",
+   "ro": "[db_db]Farida's place"
+  },
+  {
+   "key": "2984035078297899008",
+   "en": "[db_db]Don't teleport",
+   "ro": "[db_db]Don't teleport"
+  },
+  {
+   "key": "2984037582112837632",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "2984037582112837644",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3008526310155767808",
+   "en": "[db_db]Car",
+   "ro": "[db_db]Car"
+  },
+  {
+   "key": "3055091596711186432",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3055091596711186444",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3055091682023329792",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3055091682023329804",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3091194870077190144",
+   "en": "[db_db]Garage - Ambush",
+   "ro": "[db_db]Garage - Ambush"
+  },
+  {
+   "key": "3091200027947036672",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3091200027947036684",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3091200028534239232",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3091200028551016448",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3091200028987224064",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3091200028987224076",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3092940028653203456",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3092940028653203468",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3092940081484656640",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3092940081484656652",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3136127820888035332",
+   "en": "[db_db]Immortal",
+   "ro": "[db_db]Immortal"
+  },
+  {
+   "key": "3136128195405828096",
+   "en": "[db_db]Invulnerable",
+   "ro": "[db_db]Invulnerable"
+  },
+  {
+   "key": "3140262993204367360",
+   "en": "[db_db]Next",
+   "ro": "[db_db]Următorul"
+  },
+  {
+   "key": "3140262993204367372",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3140262993204367408",
+   "en": "[db_db]Finale Songbird",
+   "ro": "[db_db]Finale Songbird"
+  },
+  {
+   "key": "3140262993204367420",
+   "en": "[db_db]Finale Reed",
+   "ro": "[db_db]Finale Reed"
+  },
+  {
+   "key": "3140265749784842240",
+   "en": "[db_db]Escape Songbird Combat",
+   "ro": "[db_db]Escape Songbird Combat"
+  },
+  {
+   "key": "3140265927019352064",
+   "en": "[db_db]Escape Reed Combat",
+   "ro": "[db_db]Escape Reed Combat"
+  },
+  {
+   "key": "3140411144963903488",
+   "en": "[db_db]None",
+   "ro": "[db_db]Niciunul"
+  },
+  {
+   "key": "3146312292220555264",
+   "en": "[db_db]Escape Songbird After Arena",
+   "ro": "[db_db]Escape Songbird After Arena"
+  },
+  {
+   "key": "3146313026206978048",
+   "en": "[db_db]Escape Reed before Kurt",
+   "ro": "[db_db]Escape Reed before Kurt"
+  },
+  {
+   "key": "3215856901413687296",
+   "en": "[db_db]Car Rental",
+   "ro": "[db_db]Car Rental"
+  },
+  {
+   "key": "3215859145768980480",
+   "en": "[db_db]Tower 1",
+   "ro": "[db_db]Tower 1"
+  },
+  {
+   "key": "3215859423297687552",
+   "en": "[db_db]Tower 2",
+   "ro": "[db_db]Tower 2"
+  },
+  {
+   "key": "3215860058818629632",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "3236180214434562048",
+   "en": "[db_db]Transmitter 04",
+   "ro": "[db_db]Transmitter 04"
+  },
+  {
+   "key": "3236180626080333824",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3236353971228835840",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3236353971228835852",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3262030054909345796",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3262032783102771200",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3295746834185605124",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3295747883130703872",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3298482400178536448",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3298482400195313668",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3304048702133391360",
+   "en": "[db_db]Intro",
+   "ro": "[db_db]Intro"
+  },
+  {
+   "key": "3304525151932010496",
+   "en": "[db_db]Dogtown Border",
+   "ro": "[db_db]Dogtown Border"
+  },
+  {
+   "key": "3304526124456890368",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3304526124456890380",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3322911106137391104",
+   "en": "[db_db]MaxSkillsAllWeapons",
+   "ro": "[db_db]MaxSkillsAllWeapons"
+  },
+  {
+   "key": "3322911106137391116",
+   "en": "[db_db]Meele",
+   "ro": "[db_db]Meele"
+  },
+  {
+   "key": "3322911106137391128",
+   "en": "[db_db]Ranged",
+   "ro": "[db_db]La distanță"
+  },
+  {
+   "key": "3322911106137391140",
+   "en": "[db_db]Netrunner",
+   "ro": "[db_db]Netrunner"
+  },
+  {
+   "key": "3359473911099052032",
+   "en": "[db_db]Alex Heart to Heart",
+   "ro": "[db_db]Alex Heart to Heart"
+  },
+  {
+   "key": "3359474685384347648",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3359474685384347660",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3388261263183204352",
+   "en": "[db_db]Car Retrieval",
+   "ro": "[db_db]Car Retrieval"
+  },
+  {
+   "key": "3488086620492550144",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3488087164611219456",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3518900646882627584",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3518903198026092544",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3518914435204042764",
+   "en": "[db_db]facing wall",
+   "ro": "[db_db]facing wall"
+  },
+  {
+   "key": "3518914435220819980",
+   "en": "[db_db]facing garage",
+   "ro": "[db_db]facing garage"
+  },
+  {
+   "key": "3581234820033073152",
+   "en": "[db_db]Alex Grave",
+   "ro": "[db_db]Alex Grave"
+  }
+ ]
+}

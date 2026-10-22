@@ -1,0 +1,403 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_04_entering_stadium.json",
+ "entries": [
+  {
+   "key": "2969145024421318656",
+   "en": "Are you in position?",
+   "ro": "Ești pe poziție?"
+  },
+  {
+   "key": "2969145737419444224",
+   "en": "Just keep your head on straight, make sure to get in the right car.",
+   "ro": "Fii cu capul pe umeri și intră în mașina potrivită."
+  },
+  {
+   "key": "2969152995729625088",
+   "en": "Here we are. Damn… preem ride.",
+   "ro": "Am ajuns. Mamă, ce mașină beton!"
+  },
+  {
+   "key": "2969153582311428096",
+   "en": "Hey, you're not there to window shop.",
+   "ro": "Hei, nu ești aici să te plimbi pe la vitrine."
+  },
+  {
+   "key": "2969154194965024772",
+   "en": "[Open trunk]",
+   "ro": "[Deschide portbagajul]"
+  },
+  {
+   "key": "2969155366417354752",
+   "en": "Smooth sailin' so far.",
+   "ro": "Până acum, totul merge strună."
+  },
+  {
+   "key": "2969164683224829952",
+   "en": "Now we wait…",
+   "ro": "Acum așteptăm…"
+  },
+  {
+   "key": "2969185039792754688",
+   "en": "Our VIPs are back. They're about to get in.",
+   "ro": "VIP-urile noastre s-au întors. Intră acum."
+  },
+  {
+   "key": "2969185841156476928",
+   "en": "<kiroshi l=\"fra\" o=\"Ngh… Putain de gueule de bois de sa mère.\" t=\"Ugh… This hangover can suck my dick.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Ngh… Putain de gueule de bois de sa mère.\" t=\"Ugh… Mahmureala asta poate să-mi sugă pula.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2969186788582641664",
+   "en": "<kiroshi l=\"fra\" o=\"Il a fallu que tu fasses ça aujourd'hui... Je t'avais dit de pas ouvrir cette dernière bouteille.\" t=\"Today of all days... I told you not to open that last bottle.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Il a fallu que tu fasses ça aujourd'hui... Je t'avais dit de pas ouvrir cette dernière bouteille.\" t=\"Tocmai azi... Ți-am zis să nu deschizi ultima sticlă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2970863521299976192",
+   "en": "[Get in trunk]",
+   "ro": "[Intră în portbagaj]"
+  },
+  {
+   "key": "3000012322702225412",
+   "en": "[Override vehicle control]",
+   "ro": "[Forțează controlul vehiculului]"
+  },
+  {
+   "key": "3000042248440508416",
+   "en": "You're almost at the stadium.",
+   "ro": "Ești aproape de Stadion."
+  },
+  {
+   "key": "3000076484933447680",
+   "en": "<kiroshi l=\"fra\" o=\"Oh là... Qu'est-ce qui se passe ?\" t=\"Whoa... What's going on?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Oh là... Qu'est-ce qui se passe ?\" t=\"Whoa... Ce se întâmplă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3000080018601013248",
+   "en": "<kiroshi l=\"fra\" o=\"La voiture, quelqu'un en a pris le contrôle !\" t=\"The car – someone else has control!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"La voiture, quelqu'un en a pris le contrôle !\" t=\"Mașina – altcineva are controlul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3000084891258187776",
+   "en": "<kiroshi l=\"fra\" o=\"Aymeric : scanner.\" t=\"Aymeric – scanner.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Aymeric : scanner.\" t=\"Aymeric – scaner.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3000088289902718976",
+   "en": "<kiroshi l=\"fra\" o=\"OK, je vois. Occupe-toi de ça.\" t=\"Yes, I see. Handle it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"OK, je vois. Occupe-toi de ça.\" t=\"Da, văd. Ocupă-te de asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3000088626956988416",
+   "en": "V, you've been made!",
+   "ro": "V, te-au prins!"
+  },
+  {
+   "key": "3001444641967304704",
+   "en": "<kiroshi l=\"fra\" o=\"On est arrivés... Tu l'as ?\" t=\"Here we are... All ready?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"On est arrivés... Tu l'as ?\" t=\"Am ajuns... Ai tot pregătit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3001462748156915712",
+   "en": "<kiroshi l=\"fra\" o=\"Je l'ai.\" t=\"Done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Je l'ai.\" t=\"Gata.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3021582885815971840",
+   "en": "Car's cam feeds're mine.",
+   "ro": "Am preluat camerele mașinii."
+  },
+  {
+   "key": "3021584029569118208",
+   "en": "Good. Last check, now. Make sure you're ready to roll.",
+   "ro": "Bine. Ultima verificare. Fii gata de plecare."
+  },
+  {
+   "key": "3021586481542459396",
+   "en": "All set.",
+   "ro": "Sunt pregătită.",
+   "ro_m": "Sunt pregătit."
+  },
+  {
+   "key": "3021590818519904256",
+   "en": "ICE here - clearly optimizable.",
+   "ro": "ICE aici – clar optimizabil."
+  },
+  {
+   "key": "3021592740031229952",
+   "en": "Should be good, just gimme one sec...",
+   "ro": "Ar trebui să fie bine, dă-mi o secundă..."
+  },
+  {
+   "key": "3021593569094135808",
+   "en": "Why? What're you doin'?",
+   "ro": "Cum adică? Ce faci?"
+  },
+  {
+   "key": "3021635051347898368",
+   "en": "And... done.",
+   "ro": "Și... gata."
+  },
+  {
+   "key": "3021635081681104896",
+   "en": "Ugh... 'K, maybe I overpromised.",
+   "ro": "Ugh... Bine, poate am promis cam mult."
+  },
+  {
+   "key": "3021636121700724736",
+   "en": "Hm. Not bad.",
+   "ro": "Hm. Nu-i rău."
+  },
+  {
+   "key": "3021636920782745600",
+   "en": "Just forget it…",
+   "ro": "Uită de asta…"
+  },
+  {
+   "key": "3023011208546873344",
+   "en": "V, report! What's going on?",
+   "ro": "V, raportează! Ce se întâmplă?"
+  },
+  {
+   "key": "3023012279587565568",
+   "en": "They're playin' defense... And they're good.",
+   "ro": "Joacă în apărare... Și sunt buni."
+  },
+  {
+   "key": "3023014292333391872",
+   "en": "Nothin' we didn't anticipate. Stick to the plan.",
+   "ro": "Nimic ce n-am anticipat. Ține-te de plan."
+  },
+  {
+   "key": "3030286874418630656",
+   "en": "Cams are on, transceiver is green... She's free for the takin'.",
+   "en_m": "Cams are on, transceiver is green... She's free for the taking.",
+   "ro": "Camerele sunt pornite, transceiverul e verde... Poți s-o iei liniștit."
+  },
+  {
+   "key": "3030340874052587520",
+   "en": "Time to focus up.",
+   "ro": "E timpul să te concentrezi."
+  },
+  {
+   "key": "3030346987787538432",
+   "en": "V, you copy?",
+   "ro": "V, mă auzi?"
+  },
+  {
+   "key": "3030353125715234840",
+   "en": "<kiroshi l=\"fra\" o=\"T'en penses quoi ? De Hansen, je veux dire.\" t=\"What do you think of him? Of Hansen, I mean.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"T'en penses quoi ? De Hansen, je veux dire.\" t=\"Ce zici de el? De Hansen, zic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3030353125715234848",
+   "en": "<kiroshi l=\"fra\" o=\"Je l'ai vu parler au chef de la police, et lui donner une petite tape sur la joue comme à un chiot. L'autre n'a pas bronché. Il ne m'en fallait pas plus pour cerner le personnage.\" t=\"Saw him talk to the chief of police, pat him on the cheek like a puppy. No complaint. This told me all I needed to know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Je l'ai vu parler au chef de la police, et lui donner une petite tape sur la joue comme à un chiot. L'autre n'a pas bronché. Il ne m'en fallait pas plus pour cerner le personnage.\" t=\"L-am văzut vorbind cu șeful poliției, dându-i o palmă pe obraz ca unui cățeluș. Nicio plângere. Atât mi-a trebuit să-l înțeleg.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3030353125715234856",
+   "en": "<kiroshi l=\"fra\" o=\"Mmm, ouais... dur... Juste comme je les aime. S'ils ont l'endurance qui va avec.\" t=\"Mmm, yes... hard... How I like them. If they have the stamina to match.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Mmm, ouais... dur... Juste comme je les aime. S'ils ont l'endurance qui va avec.\" t=\"Mmm, da... dur... Așa îmi plac. Dacă au și stamină pe măsură.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3030353125732012036",
+   "en": "V... clock's tickin'.",
+   "ro": "V... timpul trece."
+  },
+  {
+   "key": "3030358104840622084",
+   "en": "<kiroshi l=\"fra\" o=\"Hmm. Il avait volé tout le monde autour de lui: son propre gang, Hansen, et quelques pauvres types aussi. Et ça lui avait rapporté un petit paquet.\" t=\"Hmm. He stole from everyone around him – his own gang, Hansen and a handful of random shmucks. Turned quite the profit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Hmm. Il avait volé tout le monde autour de lui: son propre gang, Hansen, et quelques pauvres types aussi. Et ça lui avait rapporté un petit paquet.\" t=\"Hmm. A furat de la toți din jur – de la propria lui bandă, de la Hansen și de la câțiva amărâți. A ieșit cu un profit frumușel.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3030358104840622116",
+   "en": "<kiroshi l=\"fra\" o=\"Je t'enverrai un fichier tout à l'heure, je le garde sur ma mémoire secondaire. T'auras qu'à faire une recherche avec le terme \\\"Blind_n_Dead\\\".\" t=\"I'll flick you a file after – I'm keeping it on my peripheral memory. Use the search term \\\"Blind_n_Dead.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Je t'enverrai un fichier tout à l'heure, je le garde sur ma mémoire secondaire. T'auras qu'à faire une recherche avec le terme \\\"Blind_n_Dead\\\".\" t=\"Îți trimit un fișier mai târziu – îl țin în memoria periferică. Caută după termenul \\\"Blind_n_Dead.\\\"\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3050516069018365952",
+   "en": "<kiroshi l=\"fra\" o=\"Kurt Hansen… Tu l'as vu, nan ? Il était grave en train de me reluquer au Sapphire.\" t=\"Kurt Hansen… You saw, right? He was totally eye-banging me at the Sapphire.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Kurt Hansen… Tu l'as vu, nan ? Il était grave en train de me reluquer au Sapphire.\" t=\"Kurt Hansen… Ai văzut, nu? Mă devora cu privirea la Sapphire.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3050518398903906304",
+   "en": "<kiroshi l=\"fra\" o=\"Ouh, à moins que ce soit cette putain de gueule de bois. Ça tourne de partout, dans tous les sens.\" t=\"Ugh, or perhaps it's this fucking hangover. I don't know left from up, right from down.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Ouh, à moins que ce soit cette putain de gueule de bois. Ça tourne de partout, dans tous les sens.\" t=\"Ugh, sau poate e mahmureala asta nenorocită. Nu mai știu unde-i sus și unde-i jos.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3050519875634458624",
+   "en": "You'll be comin' up on the stadium soon.",
+   "ro": "O să ajungi curând la Stadion."
+  },
+  {
+   "key": "3050773900854423552",
+   "en": "<kiroshi l=\"fra\" o=\"J'arrive pas à la couper !\" t=\"I can't break it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"J'arrive pas à la couper !\" t=\"Nu-l pot sparge!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3050777399742820352",
+   "en": "<kiroshi l=\"fra\" o=\"Putain !\" t=\"Fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Putain !\" t=\"Pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3107198731829821440",
+   "en": "Whoa… déjà vu.",
+   "ro": "Whoa… déjà vu."
+  },
+  {
+   "key": "3107276482230272000",
+   "en": "Tweakin' the ICE. Kinda half-baked, way it's set up now.",
+   "ro": "Modific ICE-ul. E făcut de mântuială, așa cum e acum."
+  },
+  {
+   "key": "3107276643090219008",
+   "en": "Fine... Just no unnecessary risks.",
+   "ro": "Bine... Doar nu-ți asuma riscuri inutile."
+  },
+  {
+   "key": "3107280219120254976",
+   "en": "V, now! Take control!",
+   "ro": "V, acum! Ia controlul!"
+  },
+  {
+   "key": "3107281464895651840",
+   "en": "<kiroshi l=\"fra\" o=\"Fais de beaux rêves.\" t=\"Sweet dreams.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Fais de beaux rêves.\" t=\"Somn ușor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3107287944088698880",
+   "en": "<kiroshi l=\"fra\" o=\"Je vais localiser le vecteur.\" t=\"I'm tracking the vector.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Je vais localiser le vecteur.\" t=\"Urmăresc vectorul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3107333350013190144",
+   "en": "V, you're runnin' out of time...",
+   "ro": "V, ți se duce timpul..."
+  },
+  {
+   "key": "3107335130478460928",
+   "en": "<kiroshi l=\"fra\" o=\"T'en penses quoi ? De Hansen, je veux dire.\" t=\"What do you think of him? Of Hansen, I mean.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"T'en penses quoi ? De Hansen, je veux dire.\" t=\"Ce zici de el? De Hansen, zic.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3107335610575273984",
+   "en": "I don't know what you're waitin' for. Time's up. Do it now!",
+   "ro": "Nu știu ce mai aștepți. S-a terminat timpul. Fă-o acum!"
+  },
+  {
+   "key": "3152038153892679724",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "3270883873764065280",
+   "en": "<kiroshi l=\"fra\" o=\"C'est un piège !\" t=\"It's a trap!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"C'est un piège !\" t=\"E o capcană!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3285447090209050624",
+   "en": "Hold on, wanna eavesdrop…",
+   "ro": "Stai, vreau să trag cu urechea…"
+  },
+  {
+   "key": "3285448980363759616",
+   "en": "[Override vehicle control]",
+   "ro": "[Forțează controlul vehiculului]"
+  },
+  {
+   "key": "3308604054103412736",
+   "en": "Stop the car. Need to run a scan.",
+   "ro": "Oprește mașina. Trebuie să scanez ceva."
+  },
+  {
+   "key": "3308604753142894592",
+   "en": "<kiroshi l=\"fra\" o=\"Fais-toi plaise.\" t=\"Whatever.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Fais-toi plaise.\" t=\"Cum vrei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3308604875683680256",
+   "en": "Intruder! In the trunk!",
+   "ro": "Intrus! În portbagaj!"
+  },
+  {
+   "key": "3353650002084937728",
+   "en": "<kiroshi l=\"fra\" o=\"Il a foutu le feu au cul de tout le monde quand il a abattu cet avion.\" t=\"He lit a fire under everyone's asses when he shot down that plane.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Il a foutu le feu au cul de tout le monde quand il a abattu cet avion.\" t=\"A pus pe jar pe toată lumea când a doborât avionul ăla.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3353651507689078784",
+   "en": "<kiroshi l=\"fra\" o=\"Le risque est élevé, oui, mais ce travail paie bien. On fait notre part, ensuite on disparaît.\" t=\"The risk is high, yes, but the money is worth it. We'll do our part, then disappear.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Le risque est élevé, oui, mais ce travail paie bien. On fait notre part, ensuite on disparaît.\" t=\"Riscul e mare, da, dar plătesc bine. Ne facem treaba și dispărem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3458027370517123072",
+   "en": "OK, V, take control.",
+   "ro": "OK, V, ia controlul."
+  },
+  {
+   "key": "3458028564165709840",
+   "en": "Take the car now!",
+   "ro": "Ia mașina acum!"
+  },
+  {
+   "key": "3458046735383810048",
+   "en": "OK, hackin' the car now!",
+   "ro": "OK, sparg mașina acum!"
+  },
+  {
+   "key": "3458047691383132160",
+   "en": "Hold on, eavesdroppin' a bit, could get interesting…",
+   "ro": "Stai, ascult puțin, poate e ceva interesant…"
+  },
+  {
+   "key": "3458051366717509632",
+   "en": "Chill. Just wait.",
+   "ro": "Relaxează-te. Doar așteaptă."
+  },
+  {
+   "key": "3458051451543113728",
+   "en": "In a sec!",
+   "ro": "Într-o secundă!"
+  },
+  {
+   "key": "3506201823377641472",
+   "en": "<kiroshi l=\"fra\" o=\"Aymeric! Sonne l'alarme! On a besoin d'aide!\" t=\"Aymeric! Trigger the alarm! We need help!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Aymeric! Sonne l'alarme! On a besoin d'aide!\" t=\"Aymeric! Pornește alarma! Ne trebuie ajutor!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3506203151411728384",
+   "en": "<kiroshi l=\"fra\" o=\"OK, une seconde… C'est fait !\" t=\"OK, one second… Done!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"OK, une seconde… C'est fait !\" t=\"OK, o secundă… Gata!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3506203666992353280",
+   "en": "<kiroshi l=\"fra\" o=\"Putain, allez ! J'essaye de reprendre le contrôle !\" t=\"Fuck, come on! I'm trying to reestablish control!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Putain, allez ! J'essaye de reprendre le contrôle !\" t=\"Pula mea, hai! Încerc să reiau controlul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3560672782532657152",
+   "en": "<kiroshi l=\"fra\" o=\"Ah, au fait, le mort, Slider... Est-ce que tu as appris quelque chose sur lui ?\" t=\"Ah, right, the dead man, Slider... Did you learn anything about him?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Ah, au fait, le mort, Slider... Est-ce que tu as appris quelque chose sur lui ?\" t=\"Ah, da, mortul, Slider... Ai aflat ceva despre el?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3608720386000338944",
+   "en": "<kiroshi l=\"fra\" o=\"C'est un enfoiré coriace, et un homme dur. Il survivra à tout ce qu'ils lui balanceront.\" t=\"He is a tough bastard, a hard man. He will survive anything they throw at him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"C'est un enfoiré coriace, et un homme dur. Il survivra à tout ce qu'ils lui balanceront.\" t=\"E un nenorocit dur, un om tare. Va supraviețui orice i-ar arunca.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3608722597388402688",
+   "en": "<kiroshi l=\"fra\" o=\"Oh, putain, tu es tellement créative…\" t=\"How fucking creative of you…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Oh, putain, tu es tellement créative…\" t=\"Ce creativă ești, pula mea…\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"fra\" o=\"Oh, putain, tu es tellement créative…\" t=\"Ce creativ ești, pula mea…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3860643088047738880",
+   "en": "It's ok, chill.",
+   "ro": "E ok, calmează-te."
+  },
+  {
+   "key": "3860643193073111040",
+   "en": "Gimme a sec!",
+   "ro": "Stai o secundă!"
+  }
+ ]
+}

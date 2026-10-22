@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_011.json",
+ "entries": [
+  {
+   "key": "2189738097226649600",
+   "en": "Listen, can I trust you?",
+   "ro": "Ascultă, pot să am încredere în tine?"
+  },
+  {
+   "key": "2189738845960245248",
+   "en": "<kiroshi l=\"jpn\" o=\"ええ、ちゃんといいレストランを選ぶわ\" t=\"To pick a good place for dinner?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ええ、ちゃんといいレストランを選ぶわ\" t=\"Să alegi un loc bun pentru cină?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189739208884981760",
+   "en": "I'm serious.",
+   "ro": "Vorbesc serios."
+  },
+  {
+   "key": "2189739373167480832",
+   "en": "<kiroshi l=\"jpn\" o=\"残念だけど、何も聞きたくない。知りたくないの\" t=\"Mhm. Well so am I. Don't tell me a thing. I don't want to know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"残念だけど、何も聞きたくない。知りたくないの\" t=\"Mhm. Păi, și eu. Nu-mi spune nimic. Nu vreau să știu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189739615296262144",
+   "en": "I need your help.",
+   "ro": "Am nevoie de ajutorul tău."
+  },
+  {
+   "key": "2189739690189754368",
+   "en": "<kiroshi l=\"jpn\" o=\"嫌よ。巻き込まれたくない\" t=\"No. I'm not getting dragged into this.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"嫌よ。巻き込まれたくない\" t=\"Nu. Nu vreau să mă bag în asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189739910558486528",
+   "en": "But I... I thought we could count on each other. After Tokyo.",
+   "ro": "Dar eu... Credeam că ne putem baza unul pe celălalt. După Tokyo."
+  },
+  {
+   "key": "2189740906504359936",
+   "en": "<kiroshi l=\"jpn\" o=\"「お互い頼れる」？ 「信用してる」？ 何言ってるの？ 勘弁してよ\" t=\"\\\"Count on each other?\\\" \\\"Can I trust you?\\\" Girl, seriously. Get a grip.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"「お互い頼れる」？ 「信用してる」？ 何言ってるの？ 勘弁してよ\" t=\"„Ne putem baza unul pe celălalt?” „Pot să am încredere în tine?” Fato, serios. Revino-ți.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

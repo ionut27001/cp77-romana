@@ -1,0 +1,326 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq021\\sq021_05_bbq.json",
+ "entries": [
+  {
+   "key": "1350107290104152064",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1350115683376218112",
+   "en": "[Go to sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "1600702994235703296",
+   "en": "Joss, we're finished.",
+   "ro": "Joss, am terminat."
+  },
+  {
+   "key": "1600710286301642756",
+   "en": "'Course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1600711198948638720",
+   "en": "Can't, unfortunately.",
+   "ro": "Nu pot, din păcate."
+  },
+  {
+   "key": "1600715031753965568",
+   "en": "'Course I'll stay.",
+   "ro": "Sigur că rămân."
+  },
+  {
+   "key": "1600715129347031040",
+   "en": "I can't, River, I'm sorry.",
+   "ro": "Nu pot, River, îmi pare rău."
+  },
+  {
+   "key": "1600716115998326784",
+   "en": "Find your way all right?",
+   "ro": "Ai găsit drumul?"
+  },
+  {
+   "key": "1740053952275124224",
+   "en": "No. Sure.",
+   "ro": "Nu. Sigur."
+  },
+  {
+   "key": "1775169240199991296",
+   "en": "All done? Off to bed, then.",
+   "ro": "Gata? La culcare, atunci."
+  },
+  {
+   "key": "1781950784164827136",
+   "en": "River's a great investigator.",
+   "ro": "River e un investigator grozav."
+  },
+  {
+   "key": "1781952809258684416",
+   "en": "River's a helluvan investigator. Randy's good as found.",
+   "en_m": "River's a helluvan investigator. Randy's as good as found.",
+   "ro": "River e un investigator de top. Randy e practic găsit."
+  },
+  {
+   "key": "1783702979909652480",
+   "en": "I still need your help. You leave now, I'll be all alone in this.",
+   "ro": "Am încă nevoie de ajutorul tău. Dacă pleci acum, rămân singură în asta."
+  },
+  {
+   "key": "1783871392925749248",
+   "en": "Can't promise you anything, Joss... except that we'll do our best.",
+   "en_m": "I can't promise ya anything, Joss, except... that we'll do our best.",
+   "ro": "Nu-ți pot promite nimic, Joss... doar că o să facem tot ce putem."
+  },
+  {
+   "key": "1783875090288611328",
+   "en": "You'll do your best...",
+   "ro": "O să faceți tot ce puteți..."
+  },
+  {
+   "key": "1783943455564763136",
+   "en": "Stayin', right? Ya gotta help me see this through, to the end.",
+   "ro": "Rămâi, nu? Trebuie să mă ajuți să duc chestia asta până la capăt."
+  },
+  {
+   "key": "1816759538442641408",
+   "en": "Yup. Gonna go hit the sack soon.",
+   "en_m": "Yup. Gonna hit the sack soon.",
+   "ro": "Da. Mă bag în pat curând."
+  },
+  {
+   "key": "1816820710739091456",
+   "en": "Can't promise anything.",
+   "ro": "Nu pot promite nimic."
+  },
+  {
+   "key": "1816829845564104704",
+   "en": "Joss? Ya mind if V takes Randy's trailer for the night?",
+   "ro": "Joss? Te superi dacă V ia rulota lui Randy pentru noaptea asta?"
+  },
+  {
+   "key": "1837251816229834752",
+   "en": "We left some for you, Uncle River.",
+   "ro": "Am lăsat ceva și pentru tine, Unchiul River."
+  },
+  {
+   "key": "1837251981317640192",
+   "en": "Thanks, Monique.",
+   "ro": "Mulțumesc, Monique."
+  },
+  {
+   "key": "1837253074957242368",
+   "en": "Tell me you found something.",
+   "ro": "Spune-mi că ai găsit ceva."
+  },
+  {
+   "key": "1837258843349979140",
+   "en": "Now you, no bullshit, don't look at my brother, just tell me…",
+   "ro": "Acum tu, fără căcaturi, nu te uita la fratele meu, spune-mi doar…"
+  },
+  {
+   "key": "1837258843349979152",
+   "en": "Will you find my boy?",
+   "ro": "O să-l găsești pe băiatul meu?"
+  },
+  {
+   "key": "1837258843400310788",
+   "en": "River... Tell me, and be honest... Will you find him?",
+   "ro": "River... Spune-mi, și fii sincer... O să-l găsești?"
+  },
+  {
+   "key": "1837258843400310800",
+   "en": "I will. I promise.",
+   "ro": "O să-l găsesc. Promit."
+  },
+  {
+   "key": "1837261049906204676",
+   "en": "Found a strong lead.",
+   "ro": "Am o pistă serioasă."
+  },
+  {
+   "key": "1837261341141897216",
+   "en": "Know more tomorrow.",
+   "ro": "Mâine o să știm mai mult."
+  },
+  {
+   "key": "1837262193172811776",
+   "en": "Looks like Randy knew his kidnapper. They were in touch.",
+   "ro": "Se pare că Randy își cunoștea răpitorul. Erau în contact."
+  },
+  {
+   "key": "1837262232347611136",
+   "en": "We'll know more tomorrow.",
+   "ro": "Mâine o să știm mai mult."
+  },
+  {
+   "key": "1838602908469432320",
+   "en": "Why would he do something like that?",
+   "ro": "De ce ar face așa ceva?"
+  },
+  {
+   "key": "1838603052904484864",
+   "en": "You know him, kids... Look for help in the wrong places.",
+   "ro": "Îl știți, copii... Caută ajutor unde nu trebuie."
+  },
+  {
+   "key": "1838606029971132416",
+   "en": "I sent some evidence to the lab. There's a chance we could know where to find Randy by morning.",
+   "ro": "Am trimis probe la laborator. Poate aflăm până dimineață unde-l găsim pe Randy."
+  },
+  {
+   "key": "1838619807974559744",
+   "en": "Won't give up until I do, Joss.",
+   "ro": "Nu renunț până nu-l găsesc, Joss."
+  },
+  {
+   "key": "1838624776010207236",
+   "en": "All right, I'll stay.",
+   "ro": "Bine, rămân."
+  },
+  {
+   "key": "1838624968092553216",
+   "en": "All right, I'm with you.",
+   "ro": "Bine, sunt cu tine."
+  },
+  {
+   "key": "1838624992637620224",
+   "en": "Really can't. You'll do just fine without me. Don't doubt it.",
+   "en_m": "I really can't. You'll do just fine without me, don't doubt it.",
+   "ro": "Chiar nu pot. O să te descurci de minune și fără mine. Nu te îndoi."
+  },
+  {
+   "key": "1838625098250194944",
+   "en": "Really can't. But you'll be fine.",
+   "ro": "Chiar nu pot. Dar o să te descurci."
+  },
+  {
+   "key": "1838629406790258688",
+   "en": "Hang tough, Joss. River'll find 'im, safe.",
+   "en_m": "Hang tough, Joss. River will find him, safe.",
+   "ro": "Ține-te tare, Joss. River o să-l găsească, nevătămat."
+  },
+  {
+   "key": "1838629636956884992",
+   "en": "I'll... I'll see ya 'round.",
+   "en_m": "I'll, uh... I'll see ya around.",
+   "ro": "Ăă... o să ne mai vedem."
+  },
+  {
+   "key": "1838632430682116096",
+   "en": "Thanks. Head over to Randy's. Got a long day ahead of us tomorrow…",
+   "ro": "Mulțumesc. Du-te la Randy. Mâine ne așteaptă o zi lungă…"
+  },
+  {
+   "key": "1863135459624849408",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1863237598175006720",
+   "en": "Why aren't you sleeping?",
+   "ro": "De ce nu dormi?"
+  },
+  {
+   "key": "1863248361195278336",
+   "en": "Not going to sleep?",
+   "ro": "Nu te culci?"
+  },
+  {
+   "key": "1863249962261778432",
+   "en": "Need to mull over some things. G'night, V.",
+   "ro": "Am de gândit la câteva chestii. Noapte bună, V."
+  },
+  {
+   "key": "1863488217301356548",
+   "en": "Oughta get some sleep, Joss.",
+   "ro": "Ar trebui să dormi, Joss."
+  },
+  {
+   "key": "1863488217301356556",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1863488217334910976",
+   "en": "You should get some sleep.",
+   "ro": "Ar trebui să dormi."
+  },
+  {
+   "key": "1885172483379298304",
+   "en": "When's the last time you ate?",
+   "ro": "Când ai mâncat ultima dată?"
+  },
+  {
+   "key": "1885173104840933376",
+   "en": "Yesterday.",
+   "ro": "Ieri."
+  },
+  {
+   "key": "1885173308851879936",
+   "en": "Have mine. I'm not hungry.",
+   "ro": "Ia porția mea. Nu mi-e foame."
+  },
+  {
+   "key": "1885174294563651584",
+   "en": "Thanks, maybe later.",
+   "ro": "Mulțumesc, poate mai târziu."
+  },
+  {
+   "key": "1921320423465652224",
+   "en": "Dorian, please.",
+   "ro": "Dorian, te rog."
+  },
+  {
+   "key": "1921321103513325568",
+   "en": "But it really tastes like boogers!",
+   "ro": "Dar chiar are gust de mucii!"
+  },
+  {
+   "key": "1921321389162205184",
+   "en": "Agh! Boogers, ewww!",
+   "ro": "Agh! Mucii, bleah!"
+  },
+  {
+   "key": "1926022453181681664",
+   "en": "Listen, let's not worry Joss more than we need to, huh?",
+   "ro": "Ascultă, n-o îngrijorăm pe Joss mai mult decât e cazul, da?"
+  },
+  {
+   "key": "1926025512322469888",
+   "en": "We're hot on the trail, we'll know more tomorrow. That's it.",
+   "ro": "Suntem pe urmele lui, mâine o să știm mai multe. Atât."
+  },
+  {
+   "key": "1953007455896047620",
+   "en": "[Go to sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2077865719711358976",
+   "en": "River's a great investigator.",
+   "ro": "River e un investigator grozav."
+  },
+  {
+   "key": "2077865719728136200",
+   "en": "Can't promise anything.",
+   "ro": "Nu pot promite nimic."
+  },
+  {
+   "key": "2324428046378688516",
+   "en": "[Stand] See you.",
+   "ro": "[Ridică-te] Ne vedem."
+  },
+  {
+   "key": "2328690027352776704",
+   "en": "[Go to sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2328691793288978432",
+   "en": "[Go to sleep]",
+   "ro": "[Dormi]"
+  }
+ ]
+}

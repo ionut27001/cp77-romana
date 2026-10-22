@@ -1,0 +1,36 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_arr_foodshop_03.json",
+ "entries": [
+  {
+   "key": "1783744180071976960",
+   "en": "Lookin' for an energy boost.",
+   "ro": "Caut un Boost de energie."
+  },
+  {
+   "key": "1783744180088754176",
+   "en": "What's that I smell?",
+   "ro": "Ce miroase așa?"
+  },
+  {
+   "key": "1783744180105531396",
+   "en": "Lookin' for a pick-me-up. Got any ChroManticore?",
+   "ro": "Caut ceva să mă revigorez. Ai ChroManticore?"
+  },
+  {
+   "key": "1783744180105531404",
+   "en": "Boy, do I, chief! What don't I have? Wouldn't touch that stuff myself, but hey, hey, customer is king, am I right?",
+   "ro": "Băiete, și încă cum, șefule! Ce nu am? Nu m-aș atinge eu de chestia aia, dar hei, hei, clientul e rege, nu?"
+  },
+  {
+   "key": "1783744180122308612",
+   "en": "What is that smell? Is that fruit...? Or wait... dish soap?",
+   "en_m": "What's that smell? Is that fruit...? Or wait... dish soap?",
+   "ro": "Ce miros e ăsta? E fruct...? Sau așteaptă... săpun de vase?"
+  },
+  {
+   "key": "1783744180122308620",
+   "en": "Ah, speciality of the house! My little apricot surprise! When she ferments right, she's actually a local favorite.",
+   "ro": "Ei, specialitatea casei! Surpriza mea cu caise! Când fermentează cum trebuie, e favorita localnicilor."
+  }
+ ]
+}

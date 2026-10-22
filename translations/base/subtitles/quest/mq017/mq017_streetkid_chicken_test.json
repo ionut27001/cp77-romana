@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq017\\mq017_streetkid_chicken_test.json",
+ "entries": [
+  {
+   "key": "1832995699194470400",
+   "en": "[db_db]Play with debug options?",
+   "ro": "[db_db]Joci cu opțiuni de debug?"
+  },
+  {
+   "key": "1832996087100481540",
+   "en": "[db_db]Yes.",
+   "ro": "[db_db]Da."
+  },
+  {
+   "key": "1832996367279988736",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "1916839510055723012",
+   "en": "[db_db]Beginning (Coyote).",
+   "ro": "[db_db]Început (barul Coyote)."
+  },
+  {
+   "key": "1916840180104175616",
+   "en": "[db_db]Required lifepath & facts were set.",
+   "ro": "[db_db]Originea necesară și faptele au fost setate."
+  },
+  {
+   "key": "1916857916641386496",
+   "en": "[db_db]Truck scene (Santo Domingo).",
+   "ro": "[db_db]Scena cu camionul (Santo Domingo)."
+  }
+ ]
+}

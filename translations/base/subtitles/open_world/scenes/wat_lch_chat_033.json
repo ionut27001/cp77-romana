@@ -1,0 +1,55 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_033.json",
+ "entries": [
+  {
+   "key": "2156553419213795328",
+   "en": "So you two're gettin' along fine?",
+   "ro": "Deci voi doi vă înțelegeți bine?"
+  },
+  {
+   "key": "2222809246352359424",
+   "en": "<kiroshi l=\"jpn\" o=\"さあ… どうかな… よくわからない…\" t=\"I... I guess so... I don't even know...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さあ… どうかな… よくわからない…\" t=\"Eu... Cred că da... Nici nu știu...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222809809815158784",
+   "en": "Too ordinary for you, huh? Gettin' bored already?",
+   "ro": "Prea obișnuit pentru tine, huh? Te-ai plictisit deja?"
+  },
+  {
+   "key": "2222810175172591616",
+   "en": "So what's his deal? Not enough of an asshole, violent drunk, gaslighting psycho, or--",
+   "ro": "Deci care-i problema lui? Nu-i destul de nesimțit, bețiv violent, nebun manipulator sau--"
+  },
+  {
+   "key": "2222818198205054976",
+   "en": "<kiroshi l=\"jpn\" o=\"何よ、あたしがおかしいって言いたいの？\" t=\"Maybe I'm a psycho too, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何よ、あたしがおかしいって言いたいの？\" t=\"Poate sunt și eu psihopată, huh?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222819756087001088",
+   "en": "<kiroshi l=\"jpn\" o=\"だからロクな男ができない。そういうこと？\" t=\"Maybe I just get what I deserve, is that it?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"だからロクな男ができない。そういうこと？\" t=\"Poate primesc doar ce merit, nu-i așa?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222820120236474368",
+   "en": "Hey, cut that shit out. I didn't mean to...",
+   "ro": "Hei, lasă căcaturile astea. N-am vrut să..."
+  },
+  {
+   "key": "2222823793909907456",
+   "en": "<kiroshi l=\"jpn\" o=\"ただでさえ最悪な日だったのに、あんたまでそういうこと言うなんて！\" t=\"It's not enough I had a bad day, now YOU have to get on my ass?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ただでさえ最悪な日だったのに、あんたまでそういうこと言うなんて！\" t=\"Nu-mi ajunge că am avut o zi proastă, acum și TU trebuie să stai pe capul meu?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2222824792003264512",
+   "en": "What happened? You wanna talk about it?",
+   "ro": "Ce s-a întâmplat? Vrei să vorbești despre asta?"
+  },
+  {
+   "key": "2222825157226479616",
+   "en": "<kiroshi l=\"jpn\" o=\"うん… じゃあコーヒーでも飲みに行きましょ…\" t=\"Yeah... let's go get a coffee or something...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"うん… じゃあコーヒーでも飲みに行きましょ…\" t=\"Da... hai să mergem să bem o cafea sau ceva...\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

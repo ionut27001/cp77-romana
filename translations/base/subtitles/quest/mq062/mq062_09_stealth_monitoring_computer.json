@@ -1,0 +1,390 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq062\\mq062_09_stealth_monitoring_computer.json",
+ "entries": [
+  {
+   "key": "5439551971176378372",
+   "en": "I’m in.",
+   "ro": "Am intrat."
+  },
+  {
+   "key": "5439553272366919680",
+   "en": "We’re clear.",
+   "ro": "E liber."
+  },
+  {
+   "key": "5439556125064065036",
+   "en": "I’m in. What’s next?",
+   "ro": "Am intrat. Ce urmează?"
+  },
+  {
+   "key": "5439556343385976844",
+   "en": "Guard down. Room’s clear.",
+   "ro": "Gardian jos. Camera e liberă."
+  },
+  {
+   "key": "5439558237047123976",
+   "en": "Jack into the terminal. Should be able to kill the Reapers via your prison records.",
+   "ro": "Conectează-te la terminal. Ar trebui să poți dezactiva Reapers prin dosarele tale de închisoare."
+  },
+  {
+   "key": "5439580798543884300",
+   "en": "[Deactivate your Reaper] Hope this works…",
+   "ro": "[Dezactivează-ți Reaper-ul] Sper să meargă…"
+  },
+  {
+   "key": "5439628489390977036",
+   "en": "This better work…",
+   "ro": "Mai bine merge asta…"
+  },
+  {
+   "key": "5439643740131979280",
+   "en": "Let’s give 'em hell.",
+   "ro": "Hai să le dăm de furcă."
+  },
+  {
+   "key": "5442954740033810432",
+   "en": "You deserve a break from the nightmare.",
+   "ro": "Meriți o pauză de la coșmar."
+  },
+  {
+   "key": "5442955376947261440",
+   "en": "Can't save everyone, V.",
+   "ro": "Nu poți salva pe toată lumea, V."
+  },
+  {
+   "key": "5445322920391766016",
+   "en": "Handled the guards.",
+   "ro": "M-am ocupat de gărzi."
+  },
+  {
+   "key": "5445343028019359744",
+   "en": "Nargh, fuckin'… argh!",
+   "ro": "Nargh, pula mea… argh!"
+  },
+  {
+   "key": "5446807887718281216",
+   "en": "Corridor clear. What’s the plan?",
+   "ro": "Coridor liber. Care-i planul?"
+  },
+  {
+   "key": "5446811748289900544",
+   "en": "Movin' deeper into Max Security Block B. Miguel’s cell is in sight.",
+   "ro": "Mă strecor mai adânc în Blocul B de maximă securitate. Celula lui Miguel e chiar în față."
+  },
+  {
+   "key": "5446812439712526336",
+   "en": "Attention. Transfer all inmates in BD Wing back to their cells.",
+   "ro": "Atenție. Transferați toți deținuții din Aripa BD înapoi în celule."
+  },
+  {
+   "key": "5456898578423115776",
+   "en": "Fuck's goin' on out here?!",
+   "ro": "Ce căcat se întâmplă aici?!"
+  },
+  {
+   "key": "5468442331038248976",
+   "en": "The fuck are you doin'?!",
+   "ro": "Ce dracu' faci?!"
+  },
+  {
+   "key": "5468442830814736400",
+   "en": "How'd you get in here?!",
+   "ro": "Cum ai intrat aici?!"
+  },
+  {
+   "key": "5468471879490498572",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "5468478981286031360",
+   "en": "[Deactivate Wex’s Reaper] Here we go…",
+   "ro": "[Dezactivează Reaper-ul lui Wex] Hai că începem…"
+  },
+  {
+   "key": "5468481768233267200",
+   "en": "[Jack out]",
+   "ro": "[Deconectează-te]"
+  },
+  {
+   "key": "5468483480499154960",
+   "en": "Reaper access granted. Shut 'em down!",
+   "ro": "Acces acordat. Dă-i jos!"
+  },
+  {
+   "key": "5468501929950605340",
+   "en": "Reapers deactivated. Good to go.",
+   "ro": "Reapers dezactivați. Putem merge."
+  },
+  {
+   "key": "5468501929967382536",
+   "en": "Copy. Advancing with Emily on Miguel’s position now.",
+   "ro": "Am înțeles. Mă duc cu Emily la Miguel."
+  },
+  {
+   "key": "5468501929967382552",
+   "en": "Gimme the green light when you’re ready.",
+   "ro": "Dă-mi undă verde când ești gata."
+  },
+  {
+   "key": "5474049644835008524",
+   "en": "[Connect to terminal]",
+   "ro": "[Conectează-te la terminal]"
+  },
+  {
+   "key": "5476410383574921216",
+   "en": "\"Inmate intrusion detected.\" Fuck’s sake… System's triggerin' your Reaper.",
+   "ro": "„Intruziune de deținut detectată.” Pe dracu'… Sistemul îți declanșează Reaperul."
+  },
+  {
+   "key": "5476413277208473600",
+   "en": "Fuck me...",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "5476415065139605516",
+   "en": "Hurry!",
+   "ro": "Grăbește-te!"
+  },
+  {
+   "key": "5476415065156382720",
+   "en": "I’m disconnecting.",
+   "ro": "Mă deconectez."
+  },
+  {
+   "key": "5476418713596882944",
+   "en": "Hurry the fuck up, Meshuga!",
+   "ro": "Grăbește-te dracu', Meshuga!"
+  },
+  {
+   "key": "5476419758230237184",
+   "en": "Fuck this. Gonna disconnect.",
+   "ro": "Bag pula-n asta. Mă deconectez."
+  },
+  {
+   "key": "5476420450558832640",
+   "en": "DON'T! That wouldn’t stop your Reaper!",
+   "ro": "NU! Asta n-ar opri Reaper-ul tău!"
+  },
+  {
+   "key": "5476426189725659136",
+   "en": "You killed Wex’s chip too? Preem.",
+   "ro": "L-ai omorât și pe cipul lui Wex? Beton."
+  },
+  {
+   "key": "5478510557336072192",
+   "en": "V, you still there? … V!",
+   "ro": "V, mai ești acolo? … V!"
+  },
+  {
+   "key": "5478675157243293696",
+   "en": "Get down to the yard, now!",
+   "ro": "Jos în curte, acum!"
+  },
+  {
+   "key": "5478676012646428688",
+   "en": "Move it. Let’s go.",
+   "ro": "Mișcă-te. Hai."
+  },
+  {
+   "key": "5478676047626924048",
+   "en": "Finish the diversion, V.",
+   "ro": "Termină diversiunea, V."
+  },
+  {
+   "key": "5488971515007234048",
+   "en": "Through the yard, to the Armory – grab your gear and a mine. Then exfil.",
+   "ro": "Prin curte, spre arsenal – ia-ți echipamentul și o mină. Apoi exfil."
+  },
+  {
+   "key": "5504490860613365760",
+   "en": "[Deactivate Miguel’s Reaper] Time to save Miguel.",
+   "ro": "[Dezactivează Reaper-ul lui Miguel] E timpul să-l salvez pe Miguel."
+  },
+  {
+   "key": "5504500848459149328",
+   "en": "Let's get this done.",
+   "ro": "Hai să terminăm."
+  },
+  {
+   "key": "5504580283644407808",
+   "en": "Can’t change shit. Files are read-only.",
+   "ro": "Nu schimbi nimic, pula mea. Fișierele sunt doar pentru citire."
+  },
+  {
+   "key": "5504688025784709120",
+   "en": "All right, Wex...",
+   "ro": "Bine, Wex..."
+  },
+  {
+   "key": "5504718363890184192",
+   "en": "Don't forget Miguel's.",
+   "ro": "Nu uita de al lui Miguel."
+  },
+  {
+   "key": "5504723848026550272",
+   "en": "Phew...",
+   "ro": "Fiuu..."
+  },
+  {
+   "key": "5504733716317892608",
+   "en": "Gonna trigger the alarm in your block to put the heat on you. Go guns blazin'.",
+   "ro": "O să declanșez alarma în blocul tău, ca să fie toți pe tine. Intră cu armele duduind."
+  },
+  {
+   "key": "5505032799301562368",
+   "en": "Narrowed down the records. Including Wex's, in case that's of interest.",
+   "ro": "Am restrâns dosarele. Și pe ale lui Wex, dacă te interesează."
+  },
+  {
+   "key": "5505037260782727204",
+   "en": "All right. Find and connect to the Reaper chip server. We’ll hack 'em at the source.",
+   "ro": "Bine. Găsește serverul cu cipurile Reaper și conectează-te. Le hack-uim de la sursă."
+  },
+  {
+   "key": "5505037853756649500",
+   "en": "All right. Go back to the Reaper server. We'll use the IDs and hack 'em at the source.",
+   "ro": "Bine. Întoarce-te la serverul Reaper. Folosim ID-urile și le hack-uim la sursă."
+  },
+  {
+   "key": "5505100567896027136",
+   "en": "Interesting. That server's connected to the Reapers, but we need the IDs.",
+   "ro": "Interesant. Serverul ăla e conectat la Reaper-i, dar nouă ne trebuie ID-urile."
+  },
+  {
+   "key": "5505205509566656512",
+   "en": "Good, keep lookin'.",
+   "ro": "Bine, continuă să cauți."
+  },
+  {
+   "key": "5505207429769359360",
+   "en": "Look for a terminal.",
+   "ro": "Caută un terminal."
+  },
+  {
+   "key": "5505207711458816000",
+   "en": "On it.",
+   "ro": "Mă ocup."
+  },
+  {
+   "key": "5505216493207318532",
+   "en": "Already found one.",
+   "ro": "Am găsit deja unul."
+  },
+  {
+   "key": "5505216527416061960",
+   "en": "Already found some.",
+   "ro": "Am găsit deja câteva."
+  },
+  {
+   "key": "5505235259580379136",
+   "en": "Found the Reaper server.",
+   "ro": "Am găsit serverul Reaper."
+  },
+  {
+   "key": "5505236123472785408",
+   "en": "Nova. Jack in.",
+   "ro": "Mișto. Conectează-te."
+  },
+  {
+   "key": "5505236996525551616",
+   "en": "Tracing network connection.",
+   "ro": "Urmăresc conexiunea de rețea."
+  },
+  {
+   "key": "5505237351967649792",
+   "en": "Sounds promising.",
+   "ro": "Sună promițător."
+  },
+  {
+   "key": "5505237577604427776",
+   "en": "Nah, 's not what we need.",
+   "ro": "Nu, nu e ce ne trebuie."
+  },
+  {
+   "key": "5505238037316923392",
+   "en": "I'll keep lookin'.",
+   "ro": "Continui să caut."
+  },
+  {
+   "key": "5505238712801193984",
+   "en": "Nuh-uh. Wrong server.",
+   "ro": "Nu-nu. Server greșit."
+  },
+  {
+   "key": "5505239632595283968",
+   "en": "'K, still lookin'...",
+   "ro": "OK, încă caut..."
+  },
+  {
+   "key": "5505240916152971264",
+   "en": "A millisec please...",
+   "ro": "Un milisec, te rog..."
+  },
+  {
+   "key": "5505241265421053952",
+   "en": "Nope, not the one.",
+   "ro": "Nu, nu e ăla."
+  },
+  {
+   "key": "5505241324493631488",
+   "en": "Hmph.",
+   "ro": "Hmph."
+  },
+  {
+   "key": "5505241708775763968",
+   "en": "This one our winner, Meshuga?",
+   "ro": "Ăsta e câștigătorul nostru, Meshuga?"
+  },
+  {
+   "key": "5505242046819889152",
+   "en": "Another loser.",
+   "ro": "Alt ratat."
+  },
+  {
+   "key": "5507146868858974208",
+   "en": "Server security just lit up. Tracin' me. I'm on it.",
+   "ro": "Securitatea serverului tocmai s-a aprins. Mă urmărește cineva. Mă ocup."
+  },
+  {
+   "key": "5507147371101712384",
+   "en": "Not good.",
+   "ro": "Nu-i bine."
+  },
+  {
+   "key": "5507151895614877696",
+   "en": "Whoa, whoa, whoa… Forget somethin'?",
+   "ro": "Whoa, whoa, whoa… Ai uitat ceva?"
+  },
+  {
+   "key": "5507159815467462656",
+   "en": "Opening his door soon. We’re closin' in.",
+   "ro": "Deschide ușa în curând. Ne apropiem."
+  },
+  {
+   "key": "5507723927125651480",
+   "en": "Through the yard. Gear’s in the Armory. Then exfil.",
+   "ro": "Prin curte. Echipamentul e în Armurărie. Apoi exfil."
+  },
+  {
+   "key": "5565426349964685312",
+   "en": "Connecting.",
+   "ro": "Conectare."
+  },
+  {
+   "key": "5565715740951998464",
+   "en": "Disconnecting.",
+   "ro": "Deconectare."
+  },
+  {
+   "key": "5565721809992445952",
+   "en": "Jacking In.",
+   "ro": "Conectare."
+  },
+  {
+   "key": "5638276472910016512",
+   "en": "Aaarrghhh!",
+   "ro": "Aaarrghhh!"
+  }
+ ]
+}

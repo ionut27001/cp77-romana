@@ -1,0 +1,493 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq012\\sq012_05a_sex_shop.json",
+ "entries": [
+  {
+   "key": "1699481196188782592",
+   "en": "He's your CI. Doesn't know me.",
+   "en_m": "He's your CI. He doesn't know me.",
+   "ro": "E informatorul tău. Nu mă cunoaște."
+  },
+  {
+   "key": "1699481573927800836",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1699557581964038144",
+   "en": "Well, uh... last we met, it didn't go so well. For him.",
+   "ro": "Ăă... ultima dată când ne-am văzut, nu i-a mers deloc bine. Pentru el."
+  },
+  {
+   "key": "1699562282973515776",
+   "en": "People he ratted out got wind of it.",
+   "ro": "Oamenii pe care i-a turnat au aflat."
+  },
+  {
+   "key": "1699562983975931904",
+   "en": "I think you got a better chance of gettin' him to talk without me. At least, voluntarily.",
+   "ro": "Cred că ai mai multe șanse să-l faci să vorbească dacă nu sunt eu de față. Măcar de bunăvoie."
+  },
+  {
+   "key": "1699654078806216704",
+   "en": "You lookin' for, uh, general inspiration, or somethin' specific?",
+   "ro": "Cauți, ăă, inspirație generală sau ceva anume?"
+  },
+  {
+   "key": "1699654281206550528",
+   "en": "Igor says hi.",
+   "ro": "Igor te salută."
+  },
+  {
+   "key": "1699657270403125252",
+   "en": "[Lean down] Igor sent me.",
+   "ro": "[Sprijină-te] Igor m-a trimis."
+  },
+  {
+   "key": "1699658060911988736",
+   "en": "Fuck, no! Said I was done, I was out!",
+   "ro": "Futu-i, nu! Am zis că am terminat, că am ieșit!"
+  },
+  {
+   "key": "1699658535824642048",
+   "en": "Leave me the fuck alone – all of you!",
+   "ro": "Lasă-mă dracu' în pace – toți!"
+  },
+  {
+   "key": "1699667659912237056",
+   "en": "Fuuuuuck…",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1699669092199944192",
+   "en": "Heeey, Neil.",
+   "ro": "Heeey, Neil."
+  },
+  {
+   "key": "1699669259787554816",
+   "en": "Piss off.",
+   "ro": "Cară-te dracu'!"
+  },
+  {
+   "key": "1699669447222611968",
+   "en": "Relax. Just got one question to ask you.",
+   "ro": "Relaxează-te. Am doar o întrebare."
+  },
+  {
+   "key": "1699687461405970432",
+   "en": "Fingers? I'll break limbs that'll make you forget all about those fingers.",
+   "ro": "Fingers? Îți rup oasele până uiți de degetele alea."
+  },
+  {
+   "key": "1699687908367781888",
+   "en": "Start with your shins. Any idea how much that hurts?",
+   "ro": "Încep cu tibiile. Știi cât doare?"
+  },
+  {
+   "key": "1699691151571406852",
+   "en": "I'll make sure nothing happens to you.",
+   "ro": "Am eu grijă să nu păți nimic."
+  },
+  {
+   "key": "1751451388271513600",
+   "en": "Wasn't here then. Now I am. I'll make sure nothing happens to you.",
+   "en_m": "Wasn't here then. Now I am. I'll make sure nothin' happens to ya.",
+   "ro": "Atunci nu eram aici. Acum sunt. Am eu grijă să nu păți nimic."
+  },
+  {
+   "key": "1751452517294264324",
+   "en": "Nobody'll find out you helped us.",
+   "ro": "Nimeni n-o să afle că ne-ai ajutat."
+  },
+  {
+   "key": "1751453082468339712",
+   "en": "We can. And we will.",
+   "ro": "Putem. Și o să o facem."
+  },
+  {
+   "key": "1751453971979554816",
+   "en": "We can, actually. And we will.",
+   "ro": "Putem, de fapt. Și o să o facem."
+  },
+  {
+   "key": "1751454738731880448",
+   "en": "Just tell us where to find Red Queen's Race.",
+   "ro": "Spune-ne doar unde găsim Red Queen's Race."
+  },
+  {
+   "key": "1811424540472496128",
+   "en": "Well, well. That's what I call a breakthrough.",
+   "ro": "Uite-așa! Asta numesc eu progres."
+  },
+  {
+   "key": "1811427883081125888",
+   "en": "Comin' with?",
+   "ro": "Vii cu noi?"
+  },
+  {
+   "key": "1811428710533419012",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1811429181872525312",
+   "en": "Let's meet there.",
+   "ro": "Ne întâlnim acolo."
+  },
+  {
+   "key": "1811429911916302336",
+   "en": "Seems promising. But I'd still hit that market.",
+   "ro": "Pare promițător. Dar tot aș da o tură pe la piața aia."
+  },
+  {
+   "key": "1811430647110684672",
+   "en": "All right. Let's check it out.",
+   "ro": "Bine. Hai să verificăm."
+  },
+  {
+   "key": "1811431078654234624",
+   "en": "Let's just go to the club.",
+   "ro": "Hai direct la club."
+  },
+  {
+   "key": "1811431432552828928",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1811431432552828944",
+   "en": "Let's meet there.",
+   "ro": "Ne întâlnim acolo."
+  },
+  {
+   "key": "1811433038954483712",
+   "en": "OK. Let's go see this market of yours.",
+   "ro": "OK. Hai să vedem piața ta."
+  },
+  {
+   "key": "1865035772114620416",
+   "en": "Shit, shit, shit!",
+   "ro": "Căcat, căcat, căcat!"
+  },
+  {
+   "key": "1935615461327331328",
+   "en": "My guy works here.",
+   "ro": "Tipul meu lucrează aici."
+  },
+  {
+   "key": "1935617538766102528",
+   "en": "You go talk to him. I'll wait outside.",
+   "ro": "Tu vorbești cu el. Eu aștept afară."
+  },
+  {
+   "key": "1935618742497796096",
+   "en": "He doesn't know me.",
+   "ro": "Nu mă cunoaște."
+  },
+  {
+   "key": "1935627487571304448",
+   "en": "Tell him Igor says hi. He'll know what it's about.",
+   "ro": "Spune-i că Igor te salută. Știe despre ce e vorba."
+  },
+  {
+   "key": "1935628198136733696",
+   "en": "All right. Wait here, then.",
+   "ro": "Bine. Stai aici, atunci."
+  },
+  {
+   "key": "1935646441731743744",
+   "en": "Mind tellin' me a bit more about him?",
+   "ro": "Te superi dacă-mi spui ceva mai mult despre el?"
+  },
+  {
+   "key": "1935647013633482752",
+   "en": "Who is this guy?",
+   "ro": "Cine-i ăsta?"
+  },
+  {
+   "key": "1935655137396350976",
+   "en": "The proud proprietor. He's got all sorts of clients and he's nosy as hell. So he knows all about everyone.",
+   "ro": "Mândrul proprietar. Are tot felul de clienți și e curios de nu se poate. Așa că știe totul despre toată lumea."
+  },
+  {
+   "key": "1935658274819629056",
+   "en": "Plus, he's a coward. Perfect combo.",
+   "ro": "Plus că e laș. Combinație perfectă."
+  },
+  {
+   "key": "1935714629387509760",
+   "en": "'Cause I can help with both.",
+   "ro": "Fiindcă pot ajuta cu amândouă."
+  },
+  {
+   "key": "1935720251097047040",
+   "en": "Red Queen's Race – where is it?",
+   "ro": "Red Queen's Race – unde e?"
+  },
+  {
+   "key": "1935722063657132032",
+   "en": "Lookin' for a club. Red Queen's Race?",
+   "ro": "Caut un club. Red Queen's Race?"
+  },
+  {
+   "key": "1935738410973749248",
+   "en": "If I was you, I'd try somewhere a little more... welcoming. Lizzie's over in Kabuki is a good start. Or Clouds in Japantown.",
+   "ro": "Eu, în locul tău, aș încerca pe undeva mai... primitor. Lizzie's în Kabuki e un început bun. Sau Clouds în Japantown."
+  },
+  {
+   "key": "1935746925226319872",
+   "en": "Want an address.",
+   "ro": "Vreau adresa."
+  },
+  {
+   "key": "1935750141871611904",
+   "en": "Look, club's invitation-only, right? You don't know the address, means you're not welcome.",
+   "ro": "Uite, clubul e doar pe invitație, nu? Dacă nu știi adresa, înseamnă că nu ești binevenit."
+  },
+  {
+   "key": "1935752185990832128",
+   "en": "Goddammit!",
+   "ro": "Mama dracului!"
+  },
+  {
+   "key": "1935788344599076864",
+   "en": "Lemme alone, got it? Can't make me do a damn thing.",
+   "ro": "Lasă-mă în pace, ai înțeles? Nu mă poți forța să fac nicio chestie afurisită."
+  },
+  {
+   "key": "1935814504255021056",
+   "en": "I'll break more than your fingers.",
+   "ro": "Îți rup mai mult decât degetele."
+  },
+  {
+   "key": "1935858848265625600",
+   "en": "Red Queen's Race. Give us the address, we're gone.",
+   "ro": "Red Queen's Race. Dă-ne adresa și plecăm."
+  },
+  {
+   "key": "1935859794517385216",
+   "en": "Heard that already last time. Then those motherfuckers showed, broke all my fingers.",
+   "ro": "Am mai auzit asta data trecută. Apoi au apărut nenorociții ăia și mi-au rupt toate degetele."
+  },
+  {
+   "key": "1935870494019117056",
+   "en": "I dunno!",
+   "ro": "Nu știu!"
+  },
+  {
+   "key": "1935880828297633796",
+   "en": "[Hit him] So remember.",
+   "ro": "[Lovește-l] Ca să ții minte."
+  },
+  {
+   "key": "1935895652293369856",
+   "en": "You're lying.",
+   "ro": "Minți."
+  },
+  {
+   "key": "1935911745753931776",
+   "en": "Anyone asks, we'll say we got the address off a body we fished out of the bay.",
+   "ro": "Dacă întreabă cineva, zicem că am luat adresa de pe un cadavru scos din golf."
+  },
+  {
+   "key": "1935912163036848128",
+   "en": "It's outside city limits, near the river. Bonita Street area.",
+   "ro": "E în afara orașului, lângă râu. Zona Bonita Street."
+  },
+  {
+   "key": "1935926665295912964",
+   "en": "And this'll truly be the last time Detective Ward'll visit you.",
+   "en_m": "And this'll truly be the last time Detective Ward will visit you.",
+   "ro": "Și asta o să fie ultima dată când detectivul Ward te mai vizitează."
+  },
+  {
+   "key": "1935926670916280320",
+   "en": "Isn't that right, Detective?",
+   "ro": "Nu-i așa, detectiv?"
+  },
+  {
+   "key": "1935926675999776768",
+   "en": "Right – an' I swear it on the spirits of my ancestors. All we want is the coords for Red Queen's Race.",
+   "ro": "Da – jur pe sufletele strămoșilor mei. Tot ce vrem sunt coordonatele pentru Red Queen's Race."
+  },
+  {
+   "key": "1935928729816227840",
+   "en": "Two of us, one of you. Better talk.",
+   "ro": "Noi doi, tu unul. Mai bine vorbești."
+  },
+  {
+   "key": "1935928795046043648",
+   "en": "So fuckin' remember.",
+   "ro": "Așa că ține minte bine, dracu' s-o ia."
+  },
+  {
+   "key": "1935929217311793152",
+   "en": "You're lyin'. When I asked inside, you knew exactly what I was talking about.",
+   "ro": "Minți. Când am întrebat înăuntru, știai exact despre ce vorbeam."
+  },
+  {
+   "key": "1935982680527822848",
+   "en": "All right! Jeeeesus. Chill, OK?",
+   "ro": "Bine! Jeeeesus. Calmează-te, OK?"
+  },
+  {
+   "key": "1935990284935192576",
+   "en": "And make it quick.",
+   "ro": "Și fă repede."
+  },
+  {
+   "key": "1935992409819930624",
+   "en": "OK, OK, I'll tell you. But come here again and I'll fuckin' lodge an official complaint.",
+   "ro": "OK, OK, vă spun. Dar mai veniți pe aici și depun o plângere oficială, pula mea."
+  },
+  {
+   "key": "1935993061379891200",
+   "en": "This's some goddamn harassment right here.",
+   "ro": "Asta e hărțuire, fir-ar a dracului."
+  },
+  {
+   "key": "1935996064853876736",
+   "en": "Ughhh... Fine.",
+   "ro": "Ughhh... Bine."
+  },
+  {
+   "key": "1936066879419015168",
+   "en": "Gimme the address, we'll leave you alone.",
+   "ro": "Dă-ne adresa și te lăsăm în pace."
+  },
+  {
+   "key": "1936085227804516352",
+   "en": "Rest assured. Nobody'll find out you talked to us.",
+   "ro": "Stai liniștit. Nimeni n-o să afle că ai vorbit cu noi."
+  },
+  {
+   "key": "1936097413348155392",
+   "en": "All right... but this is the last time, for real.",
+   "ro": "Bine... dar e ultima dată, pe bune."
+  },
+  {
+   "key": "1936100735522136064",
+   "en": "You work retail, right? So you should be able to count to two.",
+   "ro": "Lucrezi în retail, nu? Atunci ar trebui să știi să numeri până la doi."
+  },
+  {
+   "key": "1936107656123736064",
+   "en": "Two of us, one of you.",
+   "ro": "Noi doi, tu unul."
+  },
+  {
+   "key": "1936109373087244288",
+   "en": "Tell us what we wanna know, you won't need to learn what it feels like not to have the upper hand. Least not the hard way.",
+   "ro": "Spune-ne ce vrem să știm și n-o să afli cum e să nu mai ai controlul. Cel puțin nu pe calea grea."
+  },
+  {
+   "key": "1936138975260139520",
+   "en": "Not telling you another fucking thing.",
+   "ro": "Nu-ți mai spun niciun rahat."
+  },
+  {
+   "key": "1936139019702984704",
+   "en": "Made some deliveries – goods, sometimes peeps. But got no idea why you wanna go pokin' around there.",
+   "ro": "Am făcut câteva livrări – mărfuri, uneori oameni. Dar n-am nicio idee de ce vrei să te bagi pe acolo."
+  },
+  {
+   "key": "1936139734395609088",
+   "en": "Kiss my ass, both of you.",
+   "ro": "Pupă-mă-n cur, amândoi."
+  },
+  {
+   "key": "1936143931618844672",
+   "en": "You been there?",
+   "ro": "Ai fost acolo?"
+  },
+  {
+   "key": "1936145467623301120",
+   "en": "Club's empty. They shut it all down.",
+   "ro": "Clubul e gol. L-au închis tot."
+  },
+  {
+   "key": "1936146125575380992",
+   "en": "Shut it down? Before or after Mayor Rhyne died?",
+   "ro": "L-au închis? Înainte sau după ce a murit primarul Rhyne?"
+  },
+  {
+   "key": "1936147356200951808",
+   "en": "Uhhh... Soon after, I guess.",
+   "ro": "Ăă... Cam după un timp, cred."
+  },
+  {
+   "key": "1936147557812756480",
+   "en": "Thanks, Neil.",
+   "ro": "Mulțumesc, Neil."
+  },
+  {
+   "key": "1936154796829138944",
+   "en": "Sure. Thanks.",
+   "ro": "Sigur. Mersi."
+  },
+  {
+   "key": "1936154819998474240",
+   "en": "Better meet there.",
+   "ro": "Mai bine ne vedem acolo."
+  },
+  {
+   "key": "1936166521217441792",
+   "en": "Fine with me.",
+   "ro": "Mie-mi convine."
+  },
+  {
+   "key": "1936167755752103936",
+   "en": "Market?",
+   "ro": "Piața?"
+  },
+  {
+   "key": "1936167926879707136",
+   "en": "Horváth's employer, one I mentioned before. I just wouldn't let that lead drop.",
+   "ro": "Angajatorul lui Horváth, cel despre care ți-am zis. Doar că nu aș fi lăsat indiciul ăla să scape."
+  },
+  {
+   "key": "1936170195243196416",
+   "en": "I'm headed straight for Bonita Street.",
+   "ro": "Mă duc direct pe Bonita Street."
+  },
+  {
+   "key": "1936170943809019904",
+   "en": "Eh, let's head to the club. Seems a stronger lead to me.",
+   "ro": "Hai mai bine la club, mi se pare un indiciu mai solid."
+  },
+  {
+   "key": "1936174159196020736",
+   "en": "We gonna take my car?",
+   "ro": "Mergem cu mașina mea?"
+  },
+  {
+   "key": "1936183050197753856",
+   "en": "All right... Guess I'll go with your gut.",
+   "ro": "Bine... Mă iau după instinctul tău."
+  },
+  {
+   "key": "1937205067260846080",
+   "en": "All right, fine. Chill.",
+   "ro": "Bine, bine. Calmează-te."
+  },
+  {
+   "key": "1957914902705758208",
+   "en": "Nothin' to see here, sir.",
+   "ro": "Nimic de văzut aici, domnule."
+  },
+  {
+   "key": "1957915616693739520",
+   "en": "C'mon, ghost, I said!",
+   "ro": "Hai, fantomo, am zis!"
+  },
+  {
+   "key": "2120262746814898176",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  },
+  {
+   "key": "2506862608513720320",
+   "en": "OK, sure.",
+   "ro": "OK, sigur."
+  }
+ ]
+}

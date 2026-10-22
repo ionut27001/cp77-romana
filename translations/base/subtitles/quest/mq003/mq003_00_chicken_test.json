@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq003\\mq003_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "1784030054622310404",
+   "en": "[db_db]I'm a Nomad",
+   "ro": "[db_db]Sunt nomad"
+  },
+  {
+   "key": "1785301608396107776",
+   "en": "[db_db]I'm a Street Kid",
+   "ro": "[db_db]Sunt Street Kid"
+  },
+  {
+   "key": "1789236776282501120",
+   "en": "[db_db]The very start",
+   "ro": "[db_db]Chiar de la început"
+  },
+  {
+   "key": "1789236776282501136",
+   "en": "[db_db]Gas Station (corpse)",
+   "ro": "[db_db]Benzinărie (cadavru)"
+  },
+  {
+   "key": "1791031096195035136",
+   "en": "[db_db]Orbital Drop Pod (Start)",
+   "ro": "[db_db]Capsulă de coborâre orbitală (început)"
+  },
+  {
+   "key": "1791080745664655360",
+   "en": "[db_db]Orbital Drop Pod (Post-Drive)",
+   "ro": "[db_db]Capsulă de coborâre orbitală (după cursă)"
+  },
+  {
+   "key": "1795144243063435264",
+   "en": "[db_db]I'm a Corporate",
+   "ro": "[db_db]Sunt Corporatist"
+  }
+ ]
+}

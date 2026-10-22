@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\loading_screens\\loading_screen_11_after_q113.json",
+ "entries": [
+  {
+   "key": "1672053263212388352",
+   "en": "Good evening, Night City. Tonight's main story – what's next for Arasaka? How will the Japanese megacorp emerge from this crisis?",
+   "ro": "Bună seara, Night City. Subiectul principal de diseară – ce urmează pentru Arasaka? Cum o să iasă megacorporația japoneză din criza asta?"
+  },
+  {
+   "key": "1680726200143892480",
+   "en": "<kiroshi l=\"jpn\" o=\"皆さん、ご苦労感謝する\" t=\"Good day, everyone. Welcome.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"皆さん、ご苦労感謝する\" t=\"Bună ziua, tuturor. Bun venit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1680726428431470592",
+   "en": "<kiroshi l=\"jpn\" o=\"なぜなら、アラサカはただの一企業ではないからだ\" t=\"That is because Arasaka is more than just a corporation.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なぜなら、アラサカはただの一企業ではないからだ\" t=\"Asta pentru că Arasaka e mai mult decât o corporație.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1680727482325848064",
+   "en": "The company was recently shocked by a series of disastrous events – the most significant of which being an attack on their corporate headquarters last night.",
+   "ro": "Compania a fost zguduită recent de o serie de evenimente dezastruoase – cel mai grav fiind atacul de aseară asupra sediului central."
+  },
+  {
+   "key": "1680728991738417152",
+   "en": "<kiroshi l=\"jpn\" o=\"どうも我々の敵は、アラサカを潰せると考えたらしい\" t=\"It seems our enemies believed Arasaka could be destroyed.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どうも我々の敵は、アラサカを潰せると考えたらしい\" t=\"Se pare că dușmanii noștri credeau că Arasaka poate fi distrusă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1680729275122372608",
+   "en": "<kiroshi l=\"jpn\" o=\"だが私は、彼らにこう伝えたい… 不可能であると。太陽を消し去り、海を干上がらせるほうがまだ簡単だろう\" t=\"But I have message for them... It cannot be done. They've a better chance to extinguish the sun, or empty the seas.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"だが私は、彼らにこう伝えたい… 不可能であると。太陽を消し去り、海を干上がらせるほうがまだ簡単だろう\" t=\"Dar am un mesaj pentru ei... Nu se poate. Au mai multe șanse să stingă soarele sau să golească mările.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1680730020366307328",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカという強大な存在は誰にも止められない。アラサカは力そのものなのだ\" t=\"Arasaka is a force – one that cannot be stopped or slowed. Arasaka is strength.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカという強大な存在は誰にも止められない。アラサカは力そのものなのだ\" t=\"Arasaka e o forță – una care nu poate fi oprită sau încetinită. Arasaka e putere.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

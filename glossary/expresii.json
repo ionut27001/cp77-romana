@@ -1,0 +1,4775 @@
+[
+ {
+  "en": "what the fuck",
+  "match": "\\bwhat(?:'s| is| are| was| do| did)? (?:the|in the) fuck(?!\\w)|\\bwtf\\b",
+  "senses": [
+   {
+    "when": "exclamație de șoc / furie, singur",
+    "ro": [
+     "Ce pula mea?!",
+     "Ce dracu'?!",
+     "Ce morții mă-sii?!"
+    ]
+   },
+   {
+    "when": "în întrebare: what the fuck is that / are you doing",
+    "ro": [
+     "ce pula mea (e asta / faci)",
+     "ce dracu' (e asta / faci)"
+    ]
+   }
+  ],
+  "avoid": [
+   "ce futu-i",
+   "ce fute",
+   "ce naiba (prea slab pentru fuck)",
+   "ce la dracu'"
+  ]
+ },
+ {
+  "en": "who/where/why/how the fuck",
+  "match": "\\b(?:who|where|why|how|when|which)(?:'s| is| are| was| do| did| does)? (?:the|in the) fuck(?!\\w)",
+  "senses": [
+   {
+    "when": "întrebare agresivă",
+    "ro": [
+     "cine pula mea",
+     "unde dracu'",
+     "de ce pula mea",
+     "cum dracu'"
+    ]
+   },
+   {
+    "when": "how the fuck should I know",
+    "ro": [
+     "De unde pula mea să știu?",
+     "De unde dracu' să știu?"
+    ]
+   }
+  ],
+  "avoid": [
+   "cine futu-i",
+   "unde la dracu'",
+   "cum naiba (prea slab)"
+  ]
+ },
+ {
+  "en": "the fuck? (sentence-initial: 'The fuck you want?', 'The fuck's your problem?')",
+  "match": "(?:^|(?<=[.!?…\\\"]\\s)|(?<=[.!?…\\\"]))the fuck(?:'s)?(?!\\w)",
+  "senses": [
+   {
+    "when": "întrebare tăioasă la început de propoziție",
+    "ro": [
+     "Ce pula mea vrei?",
+     "Care-i problema ta, pula mea?",
+     "Ce dracu' s-a întâmplat aici?"
+    ]
+   },
+   {
+    "when": "'The fuck?' singur",
+    "ro": [
+     "Ce pula mea?",
+     "Ce dracu'?"
+    ]
+   }
+  ],
+  "avoid": [
+   "Futu-i ce vrei?",
+   "Fute ce vrei"
+  ]
+ },
+ {
+  "en": "get the fuck out (of here)",
+  "match": "\\b(?:get|go|walk|run|move|delta|gettin'|getting) (?:the )?fuck (?:out(?:ta)?(?: of)?|outta)|\\bfuck (?:out(?:ta)?(?: of)?|outta) (?:here|my|of)\\b|\\bthe fuck (?:out(?:ta)?(?: of)?|outta) (?:here|my)\\b",
+  "senses": [
+   {
+    "when": "ordin de plecare către cineva",
+    "ro": [
+     "Cară-te dracu' de-aici!",
+     "Ieși dracu' afară!",
+     "Valea, în pula mea!",
+     "Dispari!"
+    ]
+   },
+   {
+    "when": "noi plecăm: let's get the fuck out of here",
+    "ro": [
+     "Hai să ne cărăm dracu' de-aici!",
+     "Hai s-o tăiem dracu'!",
+     "Hai să plecăm naibii!"
+    ]
+   },
+   {
+    "when": "get the fuck out of my sight/way",
+    "ro": [
+     "Dispari din fața mea!",
+     "Dă-te dracu' din calea mea!"
+    ]
+   },
+   {
+    "when": "'Get the fuck outta here!' = nu se poate! (neîncredere)",
+    "ro": [
+     "Pe bune?!",
+     "Nu mă-nnebuni!",
+     "Ce zici, frate?!"
+    ]
+   }
+  ],
+  "avoid": [
+   "ieși futu-i afară",
+   "scoate-te",
+   "ia-ți fundul de aici",
+   "pleacă la naiba (prea slab)"
+  ]
+ },
+ {
+  "en": "get/stay the fuck away (from me)",
+  "match": "\\b(?:get|go|stay|keep|walk|back|step) (?:the )?fuck away\\b|\\bfuck away from\\b",
+  "senses": [
+   {
+    "when": "respinge pe cineva",
+    "ro": [
+     "Lasă-mă dracu' în pace!",
+     "Dă-te dracu' de lângă mine!",
+     "Nu te apropia, pula mea!",
+     "Stai dracu' departe de familia mea!"
+    ]
+   }
+  ],
+  "avoid": [
+   "mergi futut departe",
+   "stai departe la naiba (prea slab)"
+  ]
+ },
+ {
+  "en": "leave me the fuck alone",
+  "match": "\\b(?:leave|let) (?:me|us|her|him|them|it) (?:the fuck |the hell )alone\\b|\\bthe (?:fuck|hell) alone\\b",
+  "senses": [
+   {
+    "when": "cu fuck",
+    "ro": [
+     "Lasă-mă dracu' în pace!",
+     "Lasă-mă-n pula mea în pace!"
+    ]
+   },
+   {
+    "when": "cu hell",
+    "ro": [
+     "Lasă-mă naibii în pace!",
+     "Lasă-mă-n pace!"
+    ]
+   }
+  ],
+  "avoid": [
+   "lasă-mă singur futut",
+   "lasă-mă singur (când înseamnă «în pace»)"
+  ]
+ },
+ {
+  "en": "shut the fuck up",
+  "match": "\\bshut (?:the )?(?:fuck|hell) up\\b|\\bshut the fuck\\b|\\bshut (?:your )?fuck(?:in'|in|ing) (?:mouth|trap)\\b",
+  "senses": [
+   {
+    "when": "ordin de tăcere",
+    "ro": [
+     "Taci dracu' din gură!",
+     "Taci în pula mea!",
+     "Gura, bă!",
+     "Ține-ți gura, pula mea!"
+    ]
+   }
+  ],
+  "avoid": [
+   "închide futu-i",
+   "taci futu-i",
+   "taci la naiba (prea slab)"
+  ]
+ },
+ {
+  "en": "VERB the fuck up/down/on/back (calm the fuck down, hurry the fuck up, come the fuck on...)",
+  "match": "\\b(?!shut\\b|get\\b|go\\b|stay\\b|leave\\b)\\w+ the fuck (?:up|down|back|on|over|in|along|off|around)\\b",
+  "senses": [
+   {
+    "when": "ordin intensificat: verbul + «dracu'» / «pula mea»",
+    "ro": [
+     "Calmează-te dracu'!",
+     "Calmează-te, pula mea!",
+     "Grăbește-te dracu'!",
+     "Dă-te dracu' înapoi!",
+     "Trezește-te, pula mea!"
+    ]
+   },
+   {
+    "when": "come the fuck on",
+    "ro": [
+     "Hai, mă, pe bune!",
+     "Hai, pula mea!",
+     "Lasă-mă, frate!"
+    ]
+   },
+   {
+    "when": "butt the fuck in / wisen the fuck up",
+    "ro": [
+     "te bagi mereu, pula mea",
+     "și-a băgat mințile-n cap, în sfârșit"
+    ]
+   }
+  ],
+  "avoid": [
+   "calmează-te futut",
+   "liniștește-te în jos",
+   "traducerea lui «up/down» literal"
+  ]
+ },
+ {
+  "en": "fuck off",
+  "match": "\\bfuck(?:s|ed)? off\\b|\\bfuck(?:in'|in|ing) off\\b",
+  "senses": [
+   {
+    "when": "imperativ: pleacă!",
+    "ro": [
+     "Du-te-n pula mea!",
+     "Du-te dracu'!",
+     "Cară-te!",
+     "Valea!"
+    ]
+   },
+   {
+    "when": "now fuck off / so fuck off / then fuck off",
+    "ro": [
+     "Și acum, cară-te!",
+     "Acum valea!",
+     "Atunci du-te dracu'!"
+    ]
+   },
+   {
+    "when": "despre altcineva: he can fuck off / tell him to fuck off",
+    "ro": [
+     "poate să se ducă-n pula mea",
+     "să se ducă dracu'",
+     "zi-i să se care"
+    ]
+   },
+   {
+    "when": "fucking off = a trage chiulul / a lenevi",
+    "ro": [
+     "a trage chiulul",
+     "a o arde aiurea",
+     "a-și freca menta"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute-te departe",
+   "pleacă futut",
+   "du-te la naiba (prea slab)"
+  ]
+ },
+ {
+  "en": "fuck you",
+  "match": "(?<!the )(?<!what )(?<!who )\\bfuck (?:you|ya|y'all|u)\\b(?! (?:up|over|doin|doing|want|think|thinkin|talkin|talking|lookin|looking|gonna|been|mean|say|know|care|need|got|do|did|are|were|was))",
+  "senses": [
+   {
+    "when": "insultă directă / sfidare",
+    "ro": [
+     "Du-te-n pula mea!",
+     "Futu-ți!",
+     "Sugi pula!",
+     "Futu-te-n gură!"
+    ]
+   },
+   {
+    "when": "fuck you too",
+    "ro": [
+     "Și tu, du-te-n pula mea!",
+     "La fel și ție, futu-te!"
+    ]
+   },
+   {
+    "when": "fuck you and your X",
+    "ro": [
+     "Bag pula-n tine și-n X-ul tău!",
+     "Du-te-n pula mea cu X-ul tău cu tot!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute-te tu",
+   "te fut (când e doar sfidare)",
+   "la naiba cu tine (prea slab)"
+  ]
+ },
+ {
+  "en": "fuck you up (beat up)",
+  "match": "\\bfuck(?:in'?|ing|ed|s)? (?:you|ya|him|her|them|'em|em|us|me|'im|his \\w+|your \\w+) up\\b",
+  "senses": [
+   {
+    "when": "amenințare: te bat",
+    "ro": [
+     "Te fac praf!",
+     "Îți rup capul!",
+     "Te rup în bătaie!",
+     "Te fac zob!"
+    ]
+   },
+   {
+    "when": "fucked me up (m-a distrus fizic/psihic)",
+    "ro": [
+     "m-a făcut praf",
+     "m-a dat peste cap",
+     "m-a distrus"
+    ]
+   }
+  ],
+  "avoid": [
+   "te fut în sus",
+   "te stric"
+  ]
+ },
+ {
+  "en": "fuck up (mess up) / fuck it up",
+  "match": "\\b(?:I|you|we|they|he|she|ya|y'|don't|didn't|not|gonna|to|can't|won't|never|just|really|totally|seriously|might|could|would|'ll|will|let's|someone|somebody)(?: really| totally| just| seriously| royally)? fuck(?:ed|s|in'?|ing)?(?: it| this| that| things| everything| everythin'| something| somethin')? up\\b|\\bfuck(?:ed|s|in'?|ing)? (?:it|this|that|things|everything) up\\b",
+  "senses": [
+   {
+    "when": "a greși grav: I fucked up",
+    "ro": [
+     "Am futut-o.",
+     "Am dat-o-n bară.",
+     "Am belit-o.",
+     "Am făcut-o de oaie."
+    ]
+   },
+   {
+    "when": "don't fuck it up / let's not fuck it up",
+    "ro": [
+     "N-o fute!",
+     "N-o da-n bară!",
+     "Nu strica tot!",
+     "Hai să n-o futem."
+    ]
+   },
+   {
+    "when": "fuck up once (o singură greșeală)",
+    "ro": [
+     "O singură greșeală și...",
+     "Greșești o dată și..."
+    ]
+   }
+  ],
+  "avoid": [
+   "am futut în sus",
+   "am stricat-o futut",
+   "am greșit (prea slab)"
+  ]
+ },
+ {
+  "en": "fucked up (adjective)",
+  "match": "\\bfucked[- ]up\\b",
+  "senses": [
+   {
+    "when": "situație / faptă revoltătoare, bolnavă",
+    "ro": [
+     "Ce porcărie.",
+     "E nasol rău.",
+     "E bolnav ce-a făcut.",
+     "E jale.",
+     "E aiurea rău."
+    ]
+   },
+   {
+    "when": "persoană / familie dusă cu capul",
+    "ro": [
+     "dus cu capul",
+     "dat peste cap",
+     "bolnav la cap",
+     "varză (psihic)"
+    ]
+   },
+   {
+    "when": "beat / drogat / rănit grav (lookin' all kinds of fucked up)",
+    "ro": [
+     "praf",
+     "varză",
+     "rupt",
+     "făcut criță",
+     "dărâmat"
+    ]
+   },
+   {
+    "when": "exclamație 'Fucked up!'",
+    "ro": [
+     "Ce porcărie!",
+     "Bolnav!",
+     "Nasol rău!"
+    ]
+   }
+  ],
+  "avoid": [
+   "e de căcat",
+   "futut în sus",
+   "e futut",
+   "stricat",
+   "încurcat"
+  ]
+ },
+ {
+  "en": "(we're / you're) fucked",
+  "match": "\\b(?:I'm|I am|you're|you are|we're|we are|they're|he's|she's|it's|totally|so|are|is|be|all|real|gettin'|getting)(?: so| totally| completely| really| royally| real| fuckin'| fucking)? fucked\\b(?! up| in the| with| over| it| me| you| him| her| them)",
+  "senses": [
+   {
+    "when": "situație fără ieșire",
+    "ro": [
+     "Ne-am futut.",
+     "Am belit-o.",
+     "S-a zis cu noi.",
+     "Suntem morți.",
+     "Suntem terminați."
+    ]
+   },
+   {
+    "when": "amenințare: you're fucked",
+    "ro": [
+     "Ești mort.",
+     "Te-ai futut.",
+     "Ai belit-o."
+    ]
+   },
+   {
+    "when": "getting fucked (a o încasa)",
+    "ro": [
+     "s-o încasezi",
+     "s-o iei rău"
+    ]
+   }
+  ],
+  "avoid": [
+   "sunteți violați",
+   "suntem futuți în sus"
+  ]
+ },
+ {
+  "en": "fucked in the head",
+  "match": "\\bfucked in the head\\b",
+  "senses": [
+   {
+    "when": "nebun, dus cu capul",
+    "ro": [
+     "dus cu pluta",
+     "nebun de legat",
+     "sărit de pe fix",
+     "bolnav la cap",
+     "cu capul varză"
+    ]
+   }
+  ],
+  "avoid": [
+   "futut în cap"
+  ]
+ },
+ {
+  "en": "get fucked / go get fucked (insult)",
+  "match": "\\b(?:go )?get fucked\\b(?! up)",
+  "senses": [
+   {
+    "when": "insultă, refuz",
+    "ro": [
+     "Du-te-n pula mea!",
+     "Fute-te!",
+     "Sugi pula!"
+    ]
+   },
+   {
+    "when": "avertisment: if you ain't lookin' to get fucked",
+    "ro": [
+     "dacă nu vrei s-o încasezi",
+     "dacă nu vrei s-o iei rău"
+    ]
+   }
+  ],
+  "avoid": [
+   "du-te și fii futut"
+  ]
+ },
+ {
+  "en": "go fuck yourself",
+  "match": "\\b(?:go )?fuck (?:yourself|yourselves|ya ?self|yerself)\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "Du-te-n pula mea!",
+     "Futu-te-n gură!",
+     "Sugi pula!",
+     "Du-te și te fute!"
+    ]
+   }
+  ],
+  "avoid": [
+   "du-te și fute-te singur",
+   "fute-te pe tine însuți"
+  ]
+ },
+ {
+  "en": "(can) go fuck itself / themselves",
+  "match": "\\bfuck (?:itself|themselves|himself|herself)\\b",
+  "senses": [
+   {
+    "when": "să se ducă dracu' (despre un lucru / alții)",
+    "ro": [
+     "poate să se ducă-n pula mea",
+     "dracu' să-l ia",
+     "să se ducă dracu'"
+    ]
+   }
+  ],
+  "avoid": [
+   "să se fută singur"
+  ]
+ },
+ {
+  "en": "fuck! / oh fuck / ah fuck / well fuck (exclamation)",
+  "match": "(?:^|(?<=[.!?…\\\"]\\s)|(?<=[.!?…\\\"])|\\b(?:oh|ah|aw+|ugh|argh|well|and|man|aah|ahh|uh|shit|but)[,.…]* )fuck(?=\\s*(?:[!?.,…]|$))|\\bfuck(?:[,!.…]+\\s*fuck)+\\b",
+  "senses": [
+   {
+    "when": "exclamație de frustrare / durere",
+    "ro": [
+     "Futu-i!",
+     "Pula mea!",
+     "Băga-mi-aș!",
+     "Pizda mă-sii!",
+     "Căcat!"
+    ]
+   },
+   {
+    "when": "oh fuck / ah fuck (groază, realizare)",
+    "ro": [
+     "Futu-i...",
+     "Ah, pula mea...",
+     "Băga-mi-aș..."
+    ]
+   },
+   {
+    "when": "fuck, fuck, fuck",
+    "ro": [
+     "Futu-i, futu-i, futu-i!",
+     "Pula, pula, pula!"
+    ]
+   },
+   {
+    "when": "Fuck, V / fuck, man / fuck, choom",
+    "ro": [
+     "Futu-i, V...",
+     "Pula mea, frate...",
+     "Băga-mi-aș, choom..."
+    ]
+   }
+  ],
+  "avoid": [
+   "Fute!",
+   "Futere!",
+   "La naiba! (prea slab)",
+   "futu-i folosit ca adjectiv («e futu-i»)"
+  ]
+ },
+ {
+  "en": "fuck me (exclamation)",
+  "match": "\\bfuck me+\\b(?! (?:over|up|around|in|with))",
+  "senses": [
+   {
+    "when": "surpriză / exasperare",
+    "ro": [
+     "Futu-i!",
+     "Pula mea!",
+     "Băga-mi-aș!",
+     "Nu pot să cred, pula mea!"
+    ]
+   },
+   {
+    "when": "fuck me dizzy / fuck me sideways",
+    "ro": [
+     "Futu-i mama mă-sii!",
+     "Băga-mi-aș pula!"
+    ]
+   },
+   {
+    "when": "sens sexual literal",
+    "ro": [
+     "fute-mă",
+     "ia-mă"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute-mă (când e exclamație)",
+   "fută-mă"
+  ]
+ },
+ {
+  "en": "fuck (sb) over / screw (sb) over",
+  "match": "\\b(?:fuck|screw)(?:ed|s|in'?|ing)? (?:\\w+|'em|'im) over\\b",
+  "senses": [
+   {
+    "when": "a trăda, a înșela",
+    "ro": [
+     "a-i trage țeapă",
+     "a o face cuiva",
+     "a-l fute pe cineva",
+     "a-l vinde"
+    ]
+   },
+   {
+    "when": "don't fuck me over",
+    "ro": [
+     "Nu-mi trage țeapă!",
+     "Să nu mă furi!",
+     "Nu mă fute!"
+    ]
+   }
+  ],
+  "avoid": [
+   "a fute peste",
+   "a înșuruba"
+  ]
+ },
+ {
+  "en": "fuck it",
+  "match": "\\bfuck it\\b(?! up)",
+  "senses": [
+   {
+    "when": "renunțare / decizie impulsivă",
+    "ro": [
+     "Dă-o-n pula mea.",
+     "Dă-o dracu'.",
+     "Bine, fie.",
+     "Las' că merge.",
+     "Ce mai contează."
+    ]
+   }
+  ],
+  "avoid": [
+   "fute-o",
+   "fute-l",
+   "la naiba cu ea (prea slab)"
+  ]
+ },
+ {
+  "en": "fuck this (shit) / fuck all this",
+  "match": "\\bfuck (?:this|all (?:this|that))(?: shit| crap| place| job)?\\b(?! up)",
+  "senses": [
+   {
+    "when": "m-am săturat",
+    "ro": [
+     "Bag pula-n asta!",
+     "Dă-o-n pula mea!",
+     "M-am săturat de rahatul ăsta!",
+     "Mă piș pe asta!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute asta",
+   "fute toate acestea"
+  ]
+ },
+ {
+  "en": "fuck that",
+  "match": "\\bfuck that\\b(?! up)",
+  "senses": [
+   {
+    "when": "refuz",
+    "ro": [
+     "Nici gând!",
+     "Nici în pula mea!",
+     "Lasă-mă cu d-astea!",
+     "Bag pula-n asta!"
+    ]
+   },
+   {
+    "when": "fuck that guy / fuck that place",
+    "ro": [
+     "Să-l ia dracu' pe ăla!",
+     "Mă piș pe ăla!",
+     "Bag pula-n locul ăla!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute aia",
+   "fute acela"
+  ]
+ },
+ {
+  "en": "fuck him/her/them/'em / fuck the X / fuck your X",
+  "match": "\\bfuck (?:him|her|them|'em|em|'im|those|these|the|your|yer|all of (?:you|them|'em))\\b(?! up| over| in the)",
+  "senses": [
+   {
+    "when": "dispreț față de cineva",
+    "ro": [
+     "Să-l/s-o/să-i ia dracu'!",
+     "Mă piș pe ei!",
+     "În pula mea de ei!"
+    ]
+   },
+   {
+    "when": "fuck the corps / fuck your rules",
+    "ro": [
+     "Bag pula-n corpo!",
+     "Dracu' să-i ia pe corpo!",
+     "Mă piș pe regulile tale!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute-i",
+   "fute corporațiile"
+  ]
+ },
+ {
+  "en": "motherfucker / motherfucking",
+  "match": "\\bmother ?f(?:u|\\*)ck(?:er|ers|in'|in|ing|a|as)?(?!\\w)|\\bmuthaf(?:u|\\*)ck\\w*|\\bmofos?\\b",
+  "senses": [
+   {
+    "when": "insultă directă",
+    "ro": [
+     "Futu-ți mama!",
+     "Nenorocitule!",
+     "Jigodie!",
+     "Pizda mă-tii!"
+    ]
+   },
+   {
+    "when": "despre cineva: the motherfucker",
+    "ro": [
+     "nenorocitul ăla",
+     "jigodia aia",
+     "pizda aia"
+    ]
+   },
+   {
+    "when": "plural",
+    "ro": [
+     "nenorociții",
+     "jigodiile",
+     "pizdele astea"
+    ]
+   },
+   {
+    "when": "exclamație",
+    "ro": [
+     "Futu-i mama mă-sii!",
+     "Pizda mă-sii!"
+    ]
+   },
+   {
+    "when": "adjectiv motherfuckin' X",
+    "ro": [
+     "nenorocitul de X",
+     "X-ul dracului"
+    ]
+   }
+  ],
+  "avoid": [
+   "futător de mame",
+   "mamă-futător",
+   "fiu de mamă"
+  ]
+ },
+ {
+  "en": "fucker / fuckers / you fuck / dumb fuck",
+  "match": "\\bfuckers?\\b|\\b(?:you|dumb|stupid|little|lil'?|fat|sick|crazy|poor|lucky|sorry) fucks?\\b(?! (?:off|up|you|yourself|with|around|me|it|this|that|over|outta|out))",
+  "senses": [
+   {
+    "when": "insultă directă",
+    "ro": [
+     "Nenorocitule!",
+     "Jigodie!",
+     "Futu-ți mama!",
+     "Boule!"
+    ]
+   },
+   {
+    "when": "despre cineva / grup",
+    "ro": [
+     "nenorocitul",
+     "jigodiile",
+     "javrele",
+     "pizdele astea"
+    ]
+   },
+   {
+    "when": "dumb fuck / stupid fuck",
+    "ro": [
+     "tâmpitule",
+     "bou bătut în cap",
+     "dobitocule"
+    ]
+   },
+   {
+    "when": "poor fuck / lucky fuck",
+    "ro": [
+     "săracul de el",
+     "amărâtul",
+     "norocosul dracului"
+    ]
+   }
+  ],
+  "avoid": [
+   "futătorule",
+   "fututule",
+   "futăcios"
+  ]
+ },
+ {
+  "en": "fucking (intensifier: adjective / adverb)",
+  "match": "\\bfuck(?:in'|in|ing)(?!\\w)(?! (?:hell|christ|kidding|serious|joking|way|off|around|with)\\b)",
+  "senses": [
+   {
+    "when": "înaintea unui substantiv: fucking X",
+    "ro": [
+     "nenorocitul de X",
+     "X-ul dracului",
+     "al dracului de X",
+     "X ăsta de căcat"
+    ]
+   },
+   {
+    "when": "this fucking city",
+    "ro": [
+     "orașul ăsta nenorocit",
+     "orașul ăsta al dracului"
+    ]
+   },
+   {
+    "when": "înaintea unui adjectiv: fucking pathetic / fucking crazy",
+    "ro": [
+     "jalnic rău",
+     "nebun de-a binelea",
+     "penibil în pula mea",
+     "al dracului de"
+    ]
+   },
+   {
+    "when": "înaintea unui verb: I'll fucking kill you / don't fucking move",
+    "ro": [
+     "Te omor, pula mea!",
+     "Te omor în pula mea!",
+     "Nu mișca, pula mea!",
+     "Nu mișca, dracu'!"
+    ]
+   },
+   {
+    "when": "adresare: you fucking idiot",
+    "ro": [
+     "idiotule nenorocit",
+     "idiot al dracului ce ești"
+    ]
+   }
+  ],
+  "avoid": [
+   "futut",
+   "futător",
+   "fututul",
+   "lăsat netradus",
+   "futu-i ca adjectiv"
+  ]
+ },
+ {
+  "en": "fucking hell / fuckin' hell / holy fucking hell",
+  "match": "\\b(?:holy )?fuck(?:in'|in|ing) hell\\b",
+  "senses": [
+   {
+    "when": "exclamație",
+    "ro": [
+     "Pula mea!",
+     "Ce pula mea!",
+     "Futu-i!",
+     "Mama dracului!"
+    ]
+   }
+  ],
+  "avoid": [
+   "iadul futut",
+   "al naibii iad"
+  ]
+ },
+ {
+  "en": "are you fucking kidding me / I'm fucking serious",
+  "match": "\\bfuck(?:in'|in|ing) (?:kidding|serious|joking)\\b",
+  "senses": [
+   {
+    "when": "neîncredere / indignare",
+    "ro": [
+     "Faci mișto de mine, pula mea?!",
+     "Pe bune, frate?!",
+     "Glumești, pula mea?!",
+     "Vorbești serios, dracu'?!"
+    ]
+   },
+   {
+    "when": "I'm fucking serious / not fucking kidding",
+    "ro": [
+     "Vorbesc serios, pula mea!",
+     "Nu glumesc, dracu'!"
+    ]
+   }
+  ],
+  "avoid": [
+   "glumești futut",
+   "mă glumești"
+  ]
+ },
+ {
+  "en": "no fucking way / fuck no",
+  "match": "\\bno fuck(?:in'|in|ing) way\\b|\\bfuck(?:in'?|ing)? no\\b(?!\\w)|\\bfuck(?:in'|in|ing) way\\b",
+  "senses": [
+   {
+    "when": "refuz categoric",
+    "ro": [
+     "Nici în pula mea!",
+     "În niciun caz, pula mea!",
+     "Nici gând!"
+    ]
+   },
+   {
+    "when": "neîncredere (no fucking way!)",
+    "ro": [
+     "Nu se poate, pula mea!",
+     "Pe bune?!",
+     "Nu pot să cred!"
+    ]
+   }
+  ],
+  "avoid": [
+   "niciun mod futut",
+   "nu există cale"
+  ]
+ },
+ {
+  "en": "fuck yeah",
+  "match": "\\bfuck(?:in'?|ing)? ye(?:ah|s|ss+|a)\\b",
+  "senses": [
+   {
+    "when": "entuziasm / victorie",
+    "ro": [
+     "Așa, pula mea!",
+     "Da, bă!",
+     "Yes!",
+     "Normal, frate!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fute da",
+   "da, futut"
+  ]
+ },
+ {
+  "en": "fuck knows / who the fuck knows / fuck if I know",
+  "match": "\\bthe fuck knows\\b|\\bfuck (?:knows|if I know|if I care)\\b|\\bfuck if\\b",
+  "senses": [
+   {
+    "when": "habar n-am",
+    "ro": [
+     "Știe pula!",
+     "Dracu' știe!",
+     "De unde pula mea să știu?",
+     "Habar n-am, pula mea!"
+    ]
+   },
+   {
+    "when": "fuck if I care",
+    "ro": [
+     "Mă doare-n pulă!",
+     "Puțin îmi pasă, pula mea!"
+    ]
+   }
+  ],
+  "avoid": [
+   "futu-i știe",
+   "fute știe"
+  ]
+ },
+ {
+  "en": "fuck all (= nothing)",
+  "match": "\\bfuck all\\b(?! (?:this|that|you|of))",
+  "senses": [
+   {
+    "when": "nimic",
+    "ro": [
+     "pula",
+     "nimic, pula mea",
+     "niciun căcat"
+    ]
+   },
+   {
+    "when": "You don't know fuck all",
+    "ro": [
+     "Nu știi pula.",
+     "Nu știi nimic, pula mea."
+    ]
+   }
+  ],
+  "avoid": [
+   "fute tot"
+  ]
+ },
+ {
+  "en": "give a fuck / don't give a fuck",
+  "match": "\\b(?:give|gives|giving|gave|givin'?) a (?:flying )?fuck\\b",
+  "senses": [
+   {
+    "when": "indiferență",
+    "ro": [
+     "Mă doare-n pulă.",
+     "Mă doare fix în pulă.",
+     "Mă piș pe asta.",
+     "Mă doare-n cur."
+    ]
+   },
+   {
+    "when": "who gives a fuck?",
+    "ro": [
+     "Pe cine pula mea interesează?",
+     "Cui îi pasă, pula mea?"
+    ]
+   }
+  ],
+  "avoid": [
+   "nu dau o futere",
+   "nu dau un fut"
+  ]
+ },
+ {
+  "en": "fuck with (sb/sth) / fucking with me",
+  "match": "\\bfuck(?:s|ed|in'?|ing)? (?:with|wit')\\b",
+  "senses": [
+   {
+    "when": "a se pune cu cineva: don't fuck with me",
+    "ro": [
+     "Nu te pune cu mine, pula mea!",
+     "Nu te lua de mine!",
+     "Nu te băga peste mine!"
+    ]
+   },
+   {
+    "when": "a-și bate joc: you fucking with me?",
+    "ro": [
+     "Faci mișto de mine?",
+     "Mă iei la mișto?",
+     "Îți bați joc de mine?"
+    ]
+   },
+   {
+    "when": "a umbla la ceva: don't fuck with the cameras",
+    "ro": [
+     "nu umbla la camere",
+     "nu te juca cu camerele"
+    ]
+   },
+   {
+    "when": "a da peste cap: fuck with your hormones",
+    "ro": [
+     "îți dă peste cap hormonii"
+    ]
+   }
+  ],
+  "avoid": [
+   "a fute cu",
+   "a se fute cu (când nu e sexual)"
+  ]
+ },
+ {
+  "en": "fuck around / dick around / screw around / mess around",
+  "match": "\\b(?:fuck|dick|screw|mess)(?:s|ed|in'?|ing)? around\\b",
+  "senses": [
+   {
+    "when": "a se prosti, a pierde vremea",
+    "ro": [
+     "a se prosti",
+     "a pierde vremea",
+     "a se juca",
+     "a o arde aiurea"
+    ]
+   },
+   {
+    "when": "don't fuck around / stop fucking around",
+    "ro": [
+     "Fără prostii!",
+     "Lasă prostiile!",
+     "Gata cu joaca!"
+    ]
+   },
+   {
+    "when": "they don't fuck around (sunt periculoși)",
+    "ro": [
+     "ăștia nu glumesc",
+     "ăștia nu se joacă"
+    ]
+   },
+   {
+    "when": "fuck around with sth (a umbla la)",
+    "ro": [
+     "a umbla la",
+     "a se juca cu"
+    ]
+   }
+  ],
+  "avoid": [
+   "a fute în jur",
+   "a se fute prin jur"
+  ]
+ },
+ {
+  "en": "fuck shit up",
+  "match": "\\bfuck(?:in'?|ing)? (?:shit|things|stuff|everything) up\\b",
+  "senses": [
+   {
+    "when": "a face prăpăd",
+    "ro": [
+     "a face praf tot",
+     "a rupe tot",
+     "a face prăpăd"
+    ]
+   }
+  ],
+  "avoid": [
+   "a fute rahatul în sus"
+  ]
+ },
+ {
+  "en": "for fuck's / god's / christ's sake",
+  "match": "\\bfor (?:fuck|fucks|god|christ|pete|heaven|jesus)(?:'s|s)? ?sakes?\\b|\\bfor chrissakes?\\b|\\bfuck'?s sake\\b",
+  "senses": [
+   {
+    "when": "cu fuck (exasperare)",
+    "ro": [
+     "Pula mea, pe bune!",
+     "Hai, mă, pe bune!",
+     "Pizda mă-sii!"
+    ]
+   },
+   {
+    "when": "cu god / christ",
+    "ro": [
+     "Doamne, pe bune!",
+     "Fir-ar să fie!",
+     "Doamne, Dumnezeule!",
+     "Hai, mă!"
+    ]
+   }
+  ],
+  "avoid": [
+   "de dragul futaiului",
+   "pentru numele lui Dumnezeu",
+   "de dragul lui Dumnezeu",
+   "pentru numele lui Hristos"
+  ]
+ },
+ {
+  "en": "whatever the fuck / whatever the hell",
+  "match": "\\bwhat(?:ever|ev) the (?:fuck|hell)\\b",
+  "senses": [
+   {
+    "when": "orice",
+    "ro": [
+     "ce pula mea o fi",
+     "ce dracu' vrei tu",
+     "orice-o fi",
+     "ce naiba o fi"
+    ]
+   }
+  ],
+  "avoid": [
+   "orice futu-i"
+  ]
+ },
+ {
+  "en": "as fuck / as shit / as hell (intensifier)",
+  "match": "\\bas (?:fuck|shit|hell|crap)\\b(?!\\w)",
+  "senses": [
+   {
+    "when": "cu fuck (cel mai tare)",
+    "ro": [
+     "în pula mea (ex. «frig în pula mea»)",
+     "ca dracu'",
+     "rău de tot"
+    ]
+   },
+   {
+    "when": "cu shit / hell",
+    "ro": [
+     "rău de tot",
+     "al naibii de",
+     "ca naiba",
+     "de nu se poate"
+    ]
+   },
+   {
+    "when": "boring as hell / gonk as hell",
+    "ro": [
+     "plictisitor de mori",
+     "tâmpit rău",
+     "tâmpit de-a binelea"
+    ]
+   }
+  ],
+  "avoid": [
+   "ca iadul",
+   "ca un rahat",
+   "precum dracu'"
+  ]
+ },
+ {
+  "en": "sure as hell / sure as shit",
+  "match": "\\bsure as (?:hell|shit|fuck)\\b",
+  "senses": [
+   {
+    "when": "afirmație fermă",
+    "ro": [
+     "clar",
+     "sigur, frate",
+     "garantat",
+     "cu siguranță"
+    ]
+   },
+   {
+    "when": "I sure as hell hope not",
+    "ro": [
+     "Sper din tot sufletul că nu.",
+     "Doamne ferește!"
+    ]
+   },
+   {
+    "when": "negativ: sure as hell not taking him",
+    "ro": [
+     "în niciun caz nu-l iau eu",
+     "nici gând să-l iau"
+    ]
+   }
+  ],
+  "avoid": [
+   "sigur ca iadul",
+   "sigur ca rahatul"
+  ]
+ },
+ {
+  "en": "fuck-up (noun) / fuckup",
+  "match": "\\bfuck-?ups?\\b|\\ba fuck up\\b",
+  "senses": [
+   {
+    "when": "persoană",
+    "ro": [
+     "ratat",
+     "un căcat de om",
+     "bou"
+    ]
+   },
+   {
+    "when": "situație",
+    "ro": [
+     "o belea",
+     "o porcărie",
+     "un dezastru",
+     "o tâmpenie"
+    ]
+   }
+  ],
+  "avoid": [
+   "futere în sus"
+  ]
+ },
+ {
+  "en": "clusterfuck / shitshow",
+  "match": "\\bclusterfuck\\w*|\\bshit ?show\\w*",
+  "senses": [
+   {
+    "when": "haos total",
+    "ro": [
+     "un bordel total",
+     "un dezastru",
+     "un circ",
+     "jale",
+     "un haos în pula mea"
+    ]
+   }
+  ],
+  "avoid": [
+   "futaiul grămezii",
+   "spectacol de rahat"
+  ]
+ },
+ {
+  "en": "fuckery",
+  "match": "\\bfuckery\\b",
+  "senses": [
+   {
+    "when": "porcării, mizerii",
+    "ro": [
+     "porcării",
+     "mizerii",
+     "șmecherii"
+    ]
+   },
+   {
+    "when": "What kind of fuckery...?",
+    "ro": [
+     "Ce porcărie mai e și asta?"
+    ]
+   }
+  ],
+  "avoid": [
+   "futerie"
+  ]
+ },
+ {
+  "en": "shit! / oh shit / ah shit / well shit / shit shit shit",
+  "match": "(?:^|(?<=[.!?…\\\"]\\s)|(?<=[.!?…\\\"])|\\b(?:oh|ah|aw+|ugh|argh|well|and|man|aah|ahh|uh|o')[,.…]* )shit(?=\\s*(?:[!?.,…]|$))|\\bshit(?:[,!.…]+\\s*shit)+\\b",
+  "senses": [
+   {
+    "when": "exclamație",
+    "ro": [
+     "Căcat!",
+     "Rahat!",
+     "Fir-ar!",
+     "La naiba!",
+     "Futu-i! (dacă e panică)"
+    ]
+   },
+   {
+    "when": "oh shit / ah shit",
+    "ro": [
+     "Ah, căcat!",
+     "Băga-mi-aș!",
+     "Of, rahat...",
+     "Futu-i..."
+    ]
+   },
+   {
+    "when": "shit, shit, shit",
+    "ro": [
+     "Căcat, căcat, căcat!",
+     "Rahat, rahat, rahat!"
+    ]
+   },
+   {
+    "when": "well shit",
+    "ro": [
+     "Ei, căcat.",
+     "Ei, la naiba."
+    ]
+   },
+   {
+    "when": "Shit, man / shit, choom / I mean, shit",
+    "ro": [
+     "Căcat, frate...",
+     "Băi, ...",
+     "Adică, la naiba..."
+    ]
+   }
+  ],
+  "avoid": [
+   "Fecale!",
+   "Excremente!",
+   "Mizerie!",
+   "«Rahat!» la fiecare replică (variază)"
+  ]
+ },
+ {
+  "en": "holy shit / holy fuck / holy crap / holy hell",
+  "match": "\\bholy (?:shit|fuck|crap|hell|cow|moly)\\b|\\bholy fuck(?:in'|in|ing)\\b",
+  "senses": [
+   {
+    "when": "uimire / șoc puternic (fuck)",
+    "ro": [
+     "Băi, pula mea!",
+     "Ce pula mea!",
+     "Băga-mi-aș!",
+     "Futu-i!"
+    ]
+   },
+   {
+    "when": "uimire (shit / crap / hell)",
+    "ro": [
+     "Băi, frate!",
+     "Doamne!",
+     "Ce dracu'!",
+     "Ptiu!",
+     "Mamă, mamă!"
+    ]
+   },
+   {
+    "when": "admirație",
+    "ro": [
+     "Ce tare, frate!",
+     "Băi, ce beton!"
+    ]
+   }
+  ],
+  "avoid": [
+   "sfinte rahat",
+   "sfântă căcare",
+   "rahat sfânt",
+   "sfinte iad",
+   "sfântă vacă"
+  ]
+ },
+ {
+  "en": "this shit / that shit / the shit / some shit",
+  "match": "\\b(?:this|that|the|some|such) shit\\b(?! (?:out|together|outta))",
+  "senses": [
+   {
+    "when": "dispreț față de situație / lucru",
+    "ro": [
+     "rahatul ăsta",
+     "căcatul ăsta",
+     "porcăria asta",
+     "mizeria asta"
+    ]
+   },
+   {
+    "when": "neutru = chestii (I love this shit / drinks this shit)",
+    "ro": [
+     "chestiile astea",
+     "d-astea",
+     "porcăria asta"
+    ]
+   },
+   {
+    "when": "I'm done with this shit",
+    "ro": [
+     "M-am săturat de rahatul ăsta.",
+     "Gata cu porcăria asta."
+    ]
+   },
+   {
+    "when": "no time for this shit",
+    "ro": [
+     "N-am timp de căcaturile astea.",
+     "N-am timp de prostii."
+    ]
+   }
+  ],
+  "avoid": [
+   "acest rahat (livresc, folosește «rahatul ăsta»)",
+   "această fecală",
+   "rahatul acesta"
+  ]
+ },
+ {
+  "en": "and shit / 'n' shit / or some shit",
+  "match": "\\b(?:and|an'|or) shit\\b(?=\\s*[.!?,…]|$)|(?:\\b|')n' shit\\b|\\bor some shit\\b",
+  "senses": [
+   {
+    "when": "și altele (vag)",
+    "ro": [
+     "și d-astea",
+     "și alte căcaturi d-astea",
+     "și chestii",
+     "sau ceva de genul",
+     "sau ce pula mea o fi"
+    ]
+   }
+  ],
+  "avoid": [
+   "și rahat",
+   "sau ceva rahat"
+  ]
+ },
+ {
+  "en": "no shit",
+  "match": "\\bno shit\\b",
+  "senses": [
+   {
+    "when": "sarcastic (evident!)",
+    "ro": [
+     "Nu mai spune!",
+     "Nu zău!",
+     "Ce descoperire!",
+     "Evident, frate."
+    ]
+   },
+   {
+    "when": "surpriză sinceră: No shit?",
+    "ro": [
+     "Pe bune?",
+     "Serios?",
+     "Nu-mi spune!"
+    ]
+   },
+   {
+    "when": "confirmare: No shit, they're here",
+    "ro": [
+     "Pe bune,",
+     "Serios,"
+    ]
+   }
+  ],
+  "avoid": [
+   "fără rahat",
+   "niciun rahat",
+   "fără căcat"
+  ]
+ },
+ {
+  "en": "bullshit / horseshit",
+  "match": "\\bbull ?shit\\w*|\\bhorse ?shit\\b",
+  "senses": [
+   {
+    "when": "Bullshit! (neîncredere)",
+    "ro": [
+     "Pe dracu'!",
+     "Minți!",
+     "Aiurea!",
+     "Vrăjeală!"
+    ]
+   },
+   {
+    "when": "That's bullshit / all that bullshit",
+    "ro": [
+     "Sunt numai căcaturi.",
+     "E o vrăjeală.",
+     "Prostii!",
+     "toate porcăriile alea"
+    ]
+   },
+   {
+    "when": "adjectiv: bullshit excuse",
+    "ro": [
+     "scuză jalnică",
+     "scuză de căcat"
+    ]
+   },
+   {
+    "when": "verb: stop bullshitting",
+    "ro": [
+     "Nu mai vrăji!",
+     "Termină cu vrăjeala!",
+     "Nu mai minți!"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat de taur",
+   "bălegar",
+   "excremente de taur",
+   "căcat de cal"
+  ]
+ },
+ {
+  "en": "cut the crap / cut the bullshit",
+  "match": "\\bcut (?:the|this|that|your|out the) (?:crap|bullshit|shit|scop|games)\\b",
+  "senses": [
+   {
+    "when": "cere sinceritate",
+    "ro": [
+     "Lasă vrăjeala.",
+     "Fără povești.",
+     "Termină cu prostiile.",
+     "Hai, fără căcaturi."
+    ]
+   }
+  ],
+  "avoid": [
+   "taie rahatul",
+   "taie căcatul",
+   "taie prostiile"
+  ]
+ },
+ {
+  "en": "full of shit",
+  "match": "\\bfull of (?:shit|crap|bullshit)\\b",
+  "senses": [
+   {
+    "when": "mincinos, vorbe goale",
+    "ro": [
+     "Minți de stă pământul.",
+     "Numai vrăjeli.",
+     "Spui numai căcaturi.",
+     "Vorbești prostii."
+    ]
+   }
+  ],
+  "avoid": [
+   "plin de rahat",
+   "plin de căcat"
+  ]
+ },
+ {
+  "en": "talk shit (about)",
+  "match": "\\btalk(?:s|ed|in'?|ing)? (?:shit|crap|smack|scop)\\b",
+  "senses": [
+   {
+    "when": "a vorbi aiurea",
+    "ro": [
+     "a vorbi căcaturi",
+     "a vorbi aiurea",
+     "a turna prostii"
+    ]
+   },
+   {
+    "when": "a vorbi de rău: talkin' shit about my momma?",
+    "ro": [
+     "Vorbești de rău de mama?!",
+     "Ce zici de mama, bă?!"
+    ]
+   }
+  ],
+  "avoid": [
+   "a vorbi rahat"
+  ]
+ },
+ {
+  "en": "piece of shit / piece of crap",
+  "match": "\\bpieces? of (?:shit|crap|garbage|trash)\\b",
+  "senses": [
+   {
+    "when": "despre o persoană",
+    "ro": [
+     "căcat cu ochi",
+     "gunoiule",
+     "jeg",
+     "jegosule"
+    ]
+   },
+   {
+    "when": "despre un obiect / aparat",
+    "ro": [
+     "rabla",
+     "porcăria asta",
+     "căcatul ăsta",
+     "fiare vechi"
+    ]
+   }
+  ],
+  "avoid": [
+   "bucată de rahat",
+   "bucată de căcat",
+   "bucată de gunoi"
+  ]
+ },
+ {
+  "en": "little shit / you shit",
+  "match": "\\b(?:little|lil'?|you|ya|stupid|dumb|sick|lyin'|lying) shit\\b(?! (?:out|together|up))",
+  "senses": [
+   {
+    "when": "insultă disprețuitoare",
+    "ro": [
+     "căcat cu ochi",
+     "mucosule",
+     "jegosule"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahatule mic",
+   "micul rahat"
+  ]
+ },
+ {
+  "en": "dipshit",
+  "match": "\\bdipshits?\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "tâmpitule",
+     "idiotule",
+     "dobitocule",
+     "boule"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat-scufundat"
+  ]
+ },
+ {
+  "en": "chickenshit",
+  "match": "\\bchickenshits?\\b",
+  "senses": [
+   {
+    "when": "laș",
+    "ro": [
+     "fricosule",
+     "laș nenorocit",
+     "pizdă (despre un bărbat fricos)"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat de găină"
+  ]
+ },
+ {
+  "en": "shit for brains",
+  "match": "\\bshit[- ]?for[- ]?brains?\\b",
+  "senses": [
+   {
+    "when": "prost",
+    "ro": [
+     "descreieratule",
+     "tâmpitule",
+     "ai rahat în loc de creier",
+     "prost de bubui"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat pentru creier"
+  ]
+ },
+ {
+  "en": "(don't) know / do / see / say shit; jack shit (= nothing)",
+  "match": "\\b(?:know|knew|knows|do|did|does|done|see|saw|say|said|hear|heard|mean|means|worth|understand|change|changes|ain't|isn't|wasn't|aren't)(?:in'?|ing)? (?:jack ?)?shit\\b(?! (?:out|together|up|like))|\\bjack ?shit\\b",
+  "senses": [
+   {
+    "when": "nimic (cu emfază)",
+    "ro": [
+     "habar n-ai",
+     "nu știi nimic",
+     "nu știi pula",
+     "nu știi un căcat"
+    ]
+   },
+   {
+    "when": "couldn't do shit / won't do jack shit",
+    "ro": [
+     "n-am putut face nimic, pula mea",
+     "n-o să ne facă nimic",
+     "nu mișcă un deget"
+    ]
+   },
+   {
+    "when": "ain't worth shit / you ain't shit",
+    "ro": [
+     "nu face doi bani",
+     "nu valorezi un căcat",
+     "nu ești nimeni"
+    ]
+   },
+   {
+    "when": "can't see shit",
+    "ro": [
+     "nu văd nimic, pula mea",
+     "nu văd un căcat"
+    ]
+   }
+  ],
+  "avoid": [
+   "nu știu rahat",
+   "nu știi căcat (fără articol)",
+   "nu fac rahat"
+  ]
+ },
+ {
+  "en": "in (deep) shit",
+  "match": "\\bin (?:deep |some |a lot of |the |this |deep fuckin'? )?shit\\b(?! (?:out|together|up|like))",
+  "senses": [
+   {
+    "when": "în belea",
+    "ro": [
+     "în mare rahat",
+     "într-o belea mare",
+     "în căcat până-n gât",
+     "am belit-o"
+    ]
+   },
+   {
+    "when": "You don't see the shit you're in?",
+    "ro": [
+     "Nu vezi în ce rahat ești?"
+    ]
+   }
+  ],
+  "avoid": [
+   "în căcat adânc",
+   "în rahat profund"
+  ]
+ },
+ {
+  "en": "shit happens",
+  "match": "\\bshit happens\\b",
+  "senses": [
+   {
+    "when": "resemnare",
+    "ro": [
+     "Se mai întâmplă.",
+     "Asta e viața.",
+     "Asta e, nasol.",
+     "Mai sunt și ghinioane."
+    ]
+   }
+  ],
+  "avoid": [
+   "rahatul se întâmplă"
+  ]
+ },
+ {
+  "en": "same shit / this shit again",
+  "match": "\\bsame (?:old )?shit\\b|\\bshit again\\b",
+  "senses": [
+   {
+    "when": "repetiție enervantă",
+    "ro": [
+     "același rahat",
+     "aceeași poveste",
+     "iar porcăria asta",
+     "iar căcatul ăsta"
+    ]
+   }
+  ],
+  "avoid": [
+   "același rahat diferit"
+  ]
+ },
+ {
+  "en": "good shit",
+  "match": "\\bgood shit\\b",
+  "senses": [
+   {
+    "when": "ceva de calitate / laudă",
+    "ro": [
+     "marfă",
+     "beton",
+     "chestie bună",
+     "bun rău"
+    ]
+   },
+   {
+    "when": "Good shit, V!",
+    "ro": [
+     "Beton, V!",
+     "Bravo, V!"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat bun",
+   "căcat bun"
+  ]
+ },
+ {
+  "en": "feel like shit / look like shit / like shit",
+  "match": "\\b(?:feel|feels|felt|feelin'?|feeling|look|looks|looked|lookin'?|looking|smell|smells|treat|treats|treated|treatin'?) like (?:shit|crap|hell|death)\\b|\\blike shit\\b",
+  "senses": [
+   {
+    "when": "feel like shit",
+    "ro": [
+     "mă simt ca naiba",
+     "sunt praf",
+     "mă simt nasol rău",
+     "sunt terminat"
+    ]
+   },
+   {
+    "when": "look like shit / like hell",
+    "ro": [
+     "arăți ca naiba",
+     "arăți praf",
+     "arăți jale"
+    ]
+   },
+   {
+    "when": "treat like shit",
+    "ro": [
+     "a trata ca pe un gunoi",
+     "a călca în picioare"
+    ]
+   },
+   {
+    "when": "smells like shit",
+    "ro": [
+     "pute îngrozitor",
+     "pute a căcat"
+    ]
+   }
+  ],
+  "avoid": [
+   "mă simt ca un rahat",
+   "arăți ca un căcat",
+   "mă simt ca iadul"
+  ]
+ },
+ {
+  "en": "shithole",
+  "match": "\\bshit[- ]?holes?\\b",
+  "senses": [
+   {
+    "when": "loc mizerabil",
+    "ro": [
+     "cocină",
+     "gaură de rahat",
+     "groapă de gunoi",
+     "mizerie de loc",
+     "hazna"
+    ]
+   }
+  ],
+  "avoid": [
+   "gaura rahatului"
+  ]
+ },
+ {
+  "en": "shitty / crappy",
+  "match": "\\bshitty\\b|\\bshite\\b|\\bcrappy\\b",
+  "senses": [
+   {
+    "when": "calitate proastă / nasol",
+    "ro": [
+     "nasol",
+     "jalnic",
+     "de doi lei",
+     "de căcat",
+     "jegos"
+    ]
+   },
+   {
+    "when": "shitty day / shitty boss / shitty liar",
+    "ro": [
+     "zi nasoală",
+     "șef de căcat",
+     "mincinos jalnic"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahatos",
+   "căcăcios"
+  ]
+ },
+ {
+  "en": "get your shit together",
+  "match": "\\bshit together\\b",
+  "senses": [
+   {
+    "when": "îndemn",
+    "ro": [
+     "Adună-te!",
+     "Revino-ți!",
+     "Ia-te în serios!",
+     "Bagă-ți mințile-n cap!"
+    ]
+   },
+   {
+    "when": "despre sine: get my shit together",
+    "ro": [
+     "să mă pun pe picioare",
+     "să-mi revin",
+     "să-mi bag mințile-n cap"
+    ]
+   }
+  ],
+  "avoid": [
+   "adună-ți rahatul",
+   "pune-ți căcatul laolaltă"
+  ]
+ },
+ {
+  "en": "my/your shit (= stuff)",
+  "match": "\\b(?:my|your|his|her|our|their|yer) shit\\b(?! together)",
+  "senses": [
+   {
+    "when": "lucruri personale",
+    "ro": [
+     "chestiile mele",
+     "lucrurile tale",
+     "boarfele mele"
+    ]
+   },
+   {
+    "when": "get your shit (and go)",
+    "ro": [
+     "Ia-ți lucrurile!",
+     "Ia-ți boarfele!"
+    ]
+   },
+   {
+    "when": "figurativ: deal with your shit",
+    "ro": [
+     "problemele tale",
+     "căcaturile tale"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahatul meu (pentru «lucrurile mele»)"
+  ]
+ },
+ {
+  "en": "the shit/hell/fuck out of (scare / beat)",
+  "match": "\\bthe (?:shit|hell|fuck|crap|living daylights) (?:out(?:ta)?(?: of)?|outta)\\b(?! (?:here|there|my|town|the way))",
+  "senses": [
+   {
+    "when": "scared the shit out of me",
+    "ro": [
+     "m-a speriat de moarte",
+     "m-am căcat pe mine de frică",
+     "mi-a băgat frica-n oase"
+    ]
+   },
+   {
+    "when": "beat the shit out of",
+    "ro": [
+     "a bate măr",
+     "a rupe în bătaie",
+     "a face praf"
+    ]
+   },
+   {
+    "when": "shoot the shit outta X",
+    "ro": [
+     "a-l ciurui pe X",
+     "a-l face sită pe X"
+    ]
+   }
+  ],
+  "avoid": [
+   "a speria rahatul din mine",
+   "a bate rahatul din el"
+  ]
+ },
+ {
+  "en": "eat shit (and die)",
+  "match": "\\beat (?:shit|my shit|dirt)\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "Sugi pula!",
+     "Să crăpi!",
+     "Mori, jigodie!",
+     "Du-te-n pula mea!"
+    ]
+   },
+   {
+    "when": "they can eat shit",
+    "ro": [
+     "să se ducă-n pula mea",
+     "mă piș pe ei"
+    ]
+   }
+  ],
+  "avoid": [
+   "mănâncă rahat și mori",
+   "mănâncă căcat"
+  ]
+ },
+ {
+  "en": "shit on / shit all over",
+  "match": "\\bshit(?:s|tin'?|ting)? (?:all )?(?:over|on) (?:it|me|you|him|her|them|us|everything|everythin')\\b",
+  "senses": [
+   {
+    "when": "a desființa, a critica",
+    "ro": [
+     "a da cu căcat în",
+     "a-și bate joc de",
+     "a face praf"
+    ]
+   }
+  ],
+  "avoid": [
+   "a se căca pe (când nu e literal)"
+  ]
+ },
+ {
+  "en": "what the shit / what the crap / what the heck",
+  "match": "\\bwhat the (?:shit|crap|heck|frick)\\b",
+  "senses": [
+   {
+    "when": "uimire / iritare",
+    "ro": [
+     "Ce căcat...?",
+     "Ce dracu'?",
+     "Ce naiba?"
+    ]
+   }
+  ],
+  "avoid": [
+   "ce rahatul",
+   "ce căcatul"
+  ]
+ },
+ {
+  "en": "crap",
+  "match": "\\bcrap\\b",
+  "senses": [
+   {
+    "when": "exclamație: Crap!",
+    "ro": [
+     "Rahat!",
+     "La naiba!",
+     "Fir-ar!"
+    ]
+   },
+   {
+    "when": "lucruri proaste: this crap",
+    "ro": [
+     "porcăria asta",
+     "prostiile astea",
+     "mizeria asta"
+    ]
+   },
+   {
+    "when": "minciuni",
+    "ro": [
+     "prostii",
+     "vrăjeli"
+    ]
+   }
+  ],
+  "avoid": [
+   "excrement",
+   "căcărău"
+  ]
+ },
+ {
+  "en": "tough shit / shit luck",
+  "match": "\\btough sh(?:it|\\w*)\\b|\\bshit(?:ty)? luck\\b|\\bshit out of luck\\b",
+  "senses": [
+   {
+    "when": "ghinion",
+    "ro": [
+     "Ghinion!",
+     "Asta e!",
+     "Nasol pentru tine!",
+     "Treaba ta."
+    ]
+   },
+   {
+    "when": "think you're tough shit?",
+    "ro": [
+     "Te crezi mare șmecher?",
+     "Te crezi tare?"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat dur",
+   "noroc de rahat"
+  ]
+ },
+ {
+  "en": "shit like that / pull shit",
+  "match": "\\bshit like (?:that|this)\\b|\\bpull(?:s|ed|in'?|ing)? (?:some |that |this )?shit\\b",
+  "senses": [
+   {
+    "when": "chestii d-astea (dispreț)",
+    "ro": [
+     "căcaturi d-astea",
+     "porcării d-astea",
+     "d-astea"
+    ]
+   },
+   {
+    "when": "pull shit (a face mizerii)",
+    "ro": [
+     "face mizerii d-astea",
+     "face figuri d-astea",
+     "face porcării"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat ca acela",
+   "a trage rahat"
+  ]
+ },
+ {
+  "en": "shit (= the situation): shit's going down, shit got real, shit hit the fan",
+  "match": "\\bshit(?:'s| is| was| got| gets| goin'| going| hit| went| ain't)\\b",
+  "senses": [
+   {
+    "when": "situația, treaba",
+    "ro": [
+     "treaba",
+     "faza",
+     "chestia",
+     "situația"
+    ]
+   },
+   {
+    "when": "shit got real / shit's about to go down",
+    "ro": [
+     "s-a îngroșat gluma",
+     "se încinge treaba",
+     "acum începe distracția"
+    ]
+   },
+   {
+    "when": "shit hit the fan",
+    "ro": [
+     "s-a dus totul dracu'",
+     "a ieșit bătaie mare",
+     "s-a făcut praf tot"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahatul a devenit real",
+   "rahatul a lovit ventilatorul"
+  ]
+ },
+ {
+  "en": "shitload / shit ton",
+  "match": "\\bshit ?loads?\\b|\\bshit ?tons?\\b|\\bbutt ?loads?\\b",
+  "senses": [
+   {
+    "when": "cantitate mare",
+    "ro": [
+     "o grămadă de",
+     "o căruță de",
+     "în draci (ex. «bani în draci»)",
+     "cu nemiluita"
+    ]
+   }
+  ],
+  "avoid": [
+   "o încărcătură de rahat",
+   "o tonă de rahat"
+  ]
+ },
+ {
+  "en": "batshit / apeshit",
+  "match": "\\bbatshit\\b|\\bapeshit\\b",
+  "senses": [
+   {
+    "when": "batshit crazy",
+    "ro": [
+     "nebun de legat",
+     "complet nebun",
+     "sărit de pe fix"
+    ]
+   },
+   {
+    "when": "go apeshit",
+    "ro": [
+     "a o lua razna",
+     "a turba",
+     "a înnebuni"
+    ]
+   }
+  ],
+  "avoid": [
+   "rahat de liliac",
+   "rahat de maimuță"
+  ]
+ },
+ {
+  "en": "kiss my ass",
+  "match": "\\bkiss (?:my|me) (?:ass|butt|arse)\\b",
+  "senses": [
+   {
+    "when": "sfidare",
+    "ro": [
+     "Pupă-mă-n cur!",
+     "Sugi pula!",
+     "Pupă-mi fundul!"
+    ]
+   }
+  ],
+  "avoid": [
+   "sărută-mi fundul",
+   "sărută-mi curul"
+  ]
+ },
+ {
+  "en": "my ass! (disbelief)",
+  "match": "\\bmy (?:ass|arse)\\b(?=\\s*[.!?…,]|$)",
+  "senses": [
+   {
+    "when": "neîncredere: Savior of Heywood my ass",
+    "ro": [
+     "pe dracu'!",
+     "pe naiba!",
+     "aiurea!",
+     "în pula mea! (tare)"
+    ]
+   },
+   {
+    "when": "X can eat / kiss my ass",
+    "ro": [
+     "X poate să mă pupe-n cur",
+     "mă piș pe X"
+    ]
+   }
+  ],
+  "avoid": [
+   "fundul meu!",
+   "curul meu!"
+  ]
+ },
+ {
+  "en": "up your ass / shove it",
+  "match": "\\bup (?:your|yer|my|his|her|their) (?:ass|asses|butt|arse)\\b|\\bshove it\\b",
+  "senses": [
+   {
+    "when": "Shove it up your ass!",
+    "ro": [
+     "Bagă-ți-o-n cur!",
+     "Ține-o pentru tine!",
+     "Ți-o bag în cur!"
+    ]
+   },
+   {
+    "when": "grenades up your ass too?",
+    "ro": [
+     "Ai grenade și-n cur?"
+    ]
+   }
+  ],
+  "avoid": [
+   "sus în fundul tău",
+   "în susul fundului"
+  ]
+ },
+ {
+  "en": "save sb's ass / cover your ass",
+  "match": "\\bsav(?:e|ed|es|in'?|ing) (?:my|your|his|her|our|their|yer|ya) (?:ass|asses|butt|hide|skin)\\b|\\bcover(?:ing|in'?|s|ed)? (?:my|your|his|her|our|their) (?:ass|asses|butt)\\b",
+  "senses": [
+   {
+    "when": "save",
+    "ro": [
+     "mi-ai salvat pielea",
+     "m-ai scăpat",
+     "mi-ai salvat fundul"
+    ]
+   },
+   {
+    "when": "cover your ass",
+    "ro": [
+     "a-și acoperi spatele",
+     "a se asigura",
+     "a se pune la adăpost"
+    ]
+   }
+  ],
+  "avoid": [
+   "mi-ai salvat curul (prea crud dacă replica e de mulțumire)",
+   "mi-ai salvat măgarul"
+  ]
+ },
+ {
+  "en": "on my ass / get off my ass",
+  "match": "\\b(?:on|off|outta|out of) (?:my|your|his|her|our|their|yer|ya) (?:ass|asses|back|case|tail)\\b",
+  "senses": [
+   {
+    "when": "urmărire: on my ass",
+    "ro": [
+     "pe urmele mele",
+     "pe coada mea",
+     "după mine"
+    ]
+   },
+   {
+    "when": "get off my ass (cicăleală)",
+    "ro": [
+     "Lasă-mă-n pace!",
+     "Nu mai sta pe capul meu!",
+     "Dă-te jos de pe capul meu!"
+    ]
+   },
+   {
+    "when": "buy somethin' or get off my ass",
+    "ro": [
+     "Cumpără ceva sau cară-te."
+    ]
+   }
+  ],
+  "avoid": [
+   "pe fundul meu",
+   "jos de pe fundul meu"
+  ]
+ },
+ {
+  "en": "get your ass over here / move your ass / asses in gear / move it",
+  "match": "\\b(?:get|move|haul|drag|bring|calm|park|put) (?:your|yer|ya|his|her|their|our|my) (?:ass|asses|butt|arse)\\b|\\basses? in gear\\b|\\bmove it\\b",
+  "senses": [
+   {
+    "when": "grăbire / chemare",
+    "ro": [
+     "Mișcă-te!",
+     "Mișcați-vă!",
+     "Vino-ncoace, acum!",
+     "Hai, mișcă-ți fundul!"
+    ]
+   },
+   {
+    "when": "calm your ass down",
+    "ro": [
+     "Calmează-te!",
+     "Potolește-te!"
+    ]
+   },
+   {
+    "when": "get your ass fired / killed",
+    "ro": [
+     "te-ai lăsat dat afară",
+     "o să te omoare"
+    ]
+   }
+  ],
+  "avoid": [
+   "trage-ți fundul aici",
+   "adu-ți curul",
+   "fundurile în viteză"
+  ]
+ },
+ {
+  "en": "haul ass",
+  "match": "\\bhaul(?:s|ed|in'?|ing)? ass\\b",
+  "senses": [
+   {
+    "when": "a fugi repede",
+    "ro": [
+     "a o tăia",
+     "a fugi",
+     "a se cara",
+     "a călca pedala"
+    ]
+   },
+   {
+    "when": "imperativ: Haul ass!",
+    "ro": [
+     "Fugi!",
+     "Hai, repede!",
+     "Tăiați-o!"
+    ]
+   }
+  ],
+  "avoid": [
+   "trage fundul",
+   "cară fundul"
+  ]
+ },
+ {
+  "en": "kick ass / kick sb's ass",
+  "match": "\\bkick(?:s|ed|in'?|ing)? (?:(?:your|his|her|their|our|my|some|its|that|the|\\w+'s) )?(?:ass|asses|butt|butts)\\b|\\bass[- ]kick\\w*",
+  "senses": [
+   {
+    "when": "a excela / a se bate bine",
+    "ro": [
+     "a rupe tot",
+     "a face praf pe toată lumea",
+     "a da tot ce ai"
+    ]
+   },
+   {
+    "when": "amenințare: kick your ass",
+    "ro": [
+     "îți rup fața",
+     "te fac praf",
+     "te bat măr"
+    ]
+   },
+   {
+    "when": "kicked my ass (bătut)",
+    "ro": [
+     "m-au bătut măr",
+     "m-au făcut praf"
+    ]
+   },
+   {
+    "when": "kick in the ass (motivare)",
+    "ro": [
+     "un șut în fund"
+    ]
+   }
+  ],
+  "avoid": [
+   "a lovi fundul",
+   "a da cu piciorul în fund (când înseamnă «te bat»)"
+  ]
+ },
+ {
+  "en": "badass",
+  "match": "\\bbad[- ]?ass(?:es)?\\b",
+  "senses": [
+   {
+    "when": "persoană impresionantă / dură",
+    "ro": [
+     "dur",
+     "un dur",
+     "o bestie",
+     "tare rău"
+    ]
+   },
+   {
+    "when": "obiect: badass toys",
+    "ro": [
+     "jucării serioase",
+     "beton",
+     "marfă"
+    ]
+   }
+  ],
+  "avoid": [
+   "fund rău",
+   "fundul rău",
+   "răufund"
+  ]
+ },
+ {
+  "en": "bite (you) in the ass",
+  "match": "\\bbit(?:e|es)? (?:you|us|me|him|her|them|ya) (?:in|on) the (?:ass|butt)\\b",
+  "senses": [
+   {
+    "when": "consecințe neplăcute",
+    "ro": [
+     "o să te coste",
+     "o să-ți iasă pe nas",
+     "o să se întoarcă împotriva ta"
+    ]
+   },
+   {
+    "when": "what bit you in the ass?",
+    "ro": [
+     "Ce te-a apucat?",
+     "Ce musca te-a pișcat?"
+    ]
+   }
+  ],
+  "avoid": [
+   "te mușcă de fund"
+  ]
+ },
+ {
+  "en": "pain in the ass",
+  "match": "\\bpain in (?:the|my|your|his|her) (?:ass|butt|neck|arse)\\b",
+  "senses": [
+   {
+    "when": "persoană/situație enervantă",
+    "ro": [
+     "pacoste",
+     "bătaie de cap",
+     "o belea",
+     "un chin",
+     "insuportabil"
+    ]
+   }
+  ],
+  "avoid": [
+   "durere în fund",
+   "durere în cur"
+  ]
+ },
+ {
+  "en": "asshole",
+  "match": "\\bass ?holes?\\b|\\barseholes?\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "nesimțitule",
+     "boule",
+     "jegosule",
+     "jigodie",
+     "muist (foarte tare)"
+    ]
+   },
+   {
+    "when": "despre cineva: that asshole / assholes",
+    "ro": [
+     "nesimțitul ăla",
+     "boul ăla",
+     "jegoșii ăștia"
+    ]
+   },
+   {
+    "when": "the asshole of nowhere",
+    "ro": [
+     "în fundul lumii",
+     "în pustietatea dracului"
+    ]
+   }
+  ],
+  "avoid": [
+   "gaură de cur",
+   "anus",
+   "gaură de fund"
+  ]
+ },
+ {
+  "en": "dumbass / jackass / smartass",
+  "match": "\\bdumb ?ass(?:es)?\\b|\\bjack ?ass(?:es)?\\b|\\bsmart ?ass(?:es)?\\b|\\bwise ?ass\\b",
+  "senses": [
+   {
+    "when": "dumbass",
+    "ro": [
+     "prostule",
+     "tâmpitule",
+     "idiotule",
+     "boule"
+    ]
+   },
+   {
+    "when": "jackass",
+    "ro": [
+     "măgarule",
+     "boule",
+     "dobitocule"
+    ]
+   },
+   {
+    "when": "smartass / wiseass",
+    "ro": [
+     "deșteptule",
+     "mare deștept",
+     "băiat deștept / fată deșteaptă (ironic)"
+    ]
+   }
+  ],
+  "avoid": [
+   "fund prost",
+   "măgar-fund",
+   "fund deștept"
+  ]
+ },
+ {
+  "en": "X-ass (big-ass, gonk-ass, punk-ass, sorry-ass)",
+  "match": "\\b(?:big|gonk|punk|bitch|lame|weird|crazy|stupid|cheap|fat|sorry|tough|corpo|fancy|sad|broke|old|scared|lazy)[- ]ass\\b(?!\\w)",
+  "senses": [
+   {
+    "when": "intensificator al adjectivului",
+    "ro": [
+     "big-ass X → un X uriaș / cât casa",
+     "gonk-ass → tâmpit",
+     "punk-ass → golan jalnic",
+     "sorry-ass → jalnic, amărât"
+    ]
+   }
+  ],
+  "avoid": [
+   "mare-fund",
+   "fund de golan"
+  ]
+ },
+ {
+  "en": "your ass / his ass (= the person)",
+  "match": "\\b(?:your|yer|ya|his|her|their|our|yo) (?:ass|asses|butts?)\\b",
+  "senses": [
+   {
+    "when": "metonimie pentru persoană: traduce persoana, nu «fundul»",
+    "ro": [
+     "Your ass is mine! → Ești al meu! / Ești mort!",
+     "drag his ass here → adu-l încoace",
+     "covering your asses → vă acoperim"
+    ]
+   },
+   {
+    "when": "you bet your ass",
+    "ro": [
+     "Poți să pui pariu!",
+     "Sigur că da!",
+     "Bagă mâna-n foc!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fundul tău e al meu",
+   "curul tău (când e doar «tu»)"
+  ]
+ },
+ {
+  "en": "son of a bitch / sons of bitches",
+  "match": "\\bsons? (?:of|o'|a) (?:a )?bitch(?:es)?\\b|\\bsonuva ?bitch\\b|\\bsonofabitch\\w*|\\bsumbitch\\b",
+  "senses": [
+   {
+    "when": "insultă directă",
+    "ro": [
+     "Nenorocitule!",
+     "Jigodie!",
+     "Pui de curvă!",
+     "Futu-ți mama!"
+    ]
+   },
+   {
+    "when": "despre cineva",
+    "ro": [
+     "nenorocitul ăla",
+     "jigodia aia",
+     "puiul ăla de curvă"
+    ]
+   },
+   {
+    "when": "plural",
+    "ro": [
+     "nenorociții",
+     "jigodiile",
+     "puii de curvă",
+     "javrele"
+    ]
+   },
+   {
+    "when": "exclamație de frustrare",
+    "ro": [
+     "Pizda mă-sii!",
+     "Futu-i!",
+     "Morții mă-sii!"
+    ]
+   }
+  ],
+  "avoid": [
+   "fiu de cățea",
+   "fii de cățea",
+   "fiu de târfă"
+  ]
+ },
+ {
+  "en": "bitch",
+  "match": "\\bbitch(?:es)?\\b(?! (?:about|and moan))",
+  "senses": [
+   {
+    "when": "insultă către o femeie",
+    "ro": [
+     "curvo",
+     "cățea",
+     "târfo",
+     "javră"
+    ]
+   },
+   {
+    "when": "insultă către un bărbat",
+    "ro": [
+     "pizdă",
+     "fraierule",
+     "javră"
+    ]
+   },
+   {
+    "when": "despre cineva: the bitch / that bitch",
+    "ro": [
+     "curva aia",
+     "nenorocita",
+     "javra aia"
+    ]
+   },
+   {
+    "when": "Bitch! (frustrare, fără țintă)",
+    "ro": [
+     "Pizda mă-sii!",
+     "Futu-i!"
+    ]
+   },
+   {
+    "when": "That's how you do it, bitches!",
+    "ro": [
+     "Așa se face, fraierilor!",
+     "Așa, bă!"
+    ]
+   },
+   {
+    "when": "life's a bitch / X is a bitch (greu)",
+    "ro": [
+     "viața e nasoală",
+     "e nasol rău",
+     "e greu ca dracu'"
+    ]
+   }
+  ],
+  "avoid": [
+   "femelă",
+   "cățelușă",
+   "cățea (adresat unui bărbat)"
+  ]
+ },
+ {
+  "en": "little bitch",
+  "match": "\\b(?:little|lil'?) bitch(?:es)?\\b",
+  "senses": [
+   {
+    "when": "insultă de lașitate / slăbiciune",
+    "ro": [
+     "pizdă mică",
+     "fătălău",
+     "lașule",
+     "pizdulice"
+    ]
+   }
+  ],
+  "avoid": [
+   "cățelușă mică",
+   "mică cățea"
+  ]
+ },
+ {
+  "en": "bitch (about) / bitching (complain)",
+  "match": "\\bbitch(?:es|ed|in'?|ing)? (?:about|and moan)\\b|\\bbitch(?:in'|ing)\\b",
+  "senses": [
+   {
+    "when": "a se plânge",
+    "ro": [
+     "a se văita",
+     "a comenta",
+     "a se smiorcăi",
+     "a cârâi"
+    ]
+   },
+   {
+    "when": "bitchin' (adj. = mișto)",
+    "ro": [
+     "beton",
+     "marfă"
+    ]
+   }
+  ],
+  "avoid": [
+   "a cățeli",
+   "a face pe cățeaua"
+  ]
+ },
+ {
+  "en": "bastard",
+  "match": "\\bbastards?\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "nenorocitule",
+     "jigodie",
+     "javră",
+     "ticălosule"
+    ]
+   },
+   {
+    "when": "despre cineva",
+    "ro": [
+     "nenorocitul",
+     "jigodia",
+     "javrele alea"
+    ]
+   },
+   {
+    "when": "poor bastard",
+    "ro": [
+     "săracul",
+     "amărâtul",
+     "săracul de el"
+    ]
+   },
+   {
+    "when": "lucky bastard",
+    "ro": [
+     "norocosul dracului",
+     "ce noroc pe el"
+    ]
+   }
+  ],
+  "avoid": [
+   "bastard (în română = copil nelegitim)",
+   "copil din flori",
+   "nefericitul"
+  ]
+ },
+ {
+  "en": "cunt",
+  "match": "\\bcunts?\\b",
+  "senses": [
+   {
+    "when": "insultă foarte tare",
+    "ro": [
+     "pizdă",
+     "jigodie",
+     "muist",
+     "nenorocit"
+    ]
+   },
+   {
+    "when": "fucking cunt",
+    "ro": [
+     "pizdă nenorocită",
+     "pizda mă-tii"
+    ]
+   }
+  ],
+  "avoid": [
+   "vagin",
+   "vulvă"
+  ]
+ },
+ {
+  "en": "dick / dickhead / dickwipe / prick",
+  "match": "\\bdick(?:head|heads|wipe|wipes|wad|weed)?\\b(?! (?:twister|night))|\\bpricks?\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "boule",
+     "cretinule",
+     "muistule",
+     "căcat cu ochi",
+     "nesimțitule"
+    ]
+   },
+   {
+    "when": "be a dick (nesimțit)",
+    "ro": [
+     "a fi nesimțit",
+     "a face pe măgarul"
+    ]
+   },
+   {
+    "when": "dick (sb) over",
+    "ro": [
+     "a-i trage țeapă"
+    ]
+   },
+   {
+    "when": "suck my dick / prick",
+    "ro": [
+     "Sugi pula!"
+    ]
+   }
+  ],
+  "avoid": [
+   "penis",
+   "cap de penis",
+   "ștergător de pulă",
+   "înțepătură (pentru prick)"
+  ]
+ },
+ {
+  "en": "pussy (coward)",
+  "match": "\\bpuss(?:y|ies)\\b",
+  "senses": [
+   {
+    "when": "laș",
+    "ro": [
+     "pizdă",
+     "lașule",
+     "fricosule",
+     "fătălău"
+    ]
+   },
+   {
+    "when": "I'm such a pussy",
+    "ro": [
+     "Sunt așa o pizdă uneori.",
+     "Ce fricos sunt."
+    ]
+   }
+  ],
+  "avoid": [
+   "pisică",
+   "pisicuță"
+  ]
+ },
+ {
+  "en": "whore / slut",
+  "match": "\\bwhores?\\b|\\bsluts?\\b|\\bskanks?\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "curvă",
+     "târfă",
+     "parașută"
+    ]
+   },
+   {
+    "when": "Your mom's a slut",
+    "ro": [
+     "Mă-ta e curvă."
+    ]
+   }
+  ],
+  "avoid": [
+   "prostituată (când e insultă)",
+   "femeie ușoară"
+  ]
+ },
+ {
+  "en": "balls (courage)",
+  "match": "\\bballs\\b|\\bgrow (?:a pair|some)\\b",
+  "senses": [
+   {
+    "when": "curaj: grow some balls / got balls",
+    "ro": [
+     "ai coaie?",
+     "fii bărbat",
+     "fă-ți curaj"
+    ]
+   },
+   {
+    "when": "literal / amenințare",
+    "ro": [
+     "coaie",
+     "ouă"
+    ]
+   },
+   {
+    "when": "seize life by the balls",
+    "ro": [
+     "ia viața în piept",
+     "apucă viața de coaie"
+    ]
+   }
+  ],
+  "avoid": [
+   "bile",
+   "mingi"
+  ]
+ },
+ {
+  "en": "scumbag / douchebag / jerk / sleazebag",
+  "match": "\\bscumbags?\\b|\\bdouche\\w*|\\bjerks?\\b(?! off)|\\bsleaze(?:bag|ball)?s?\\b",
+  "senses": [
+   {
+    "when": "scumbag",
+    "ro": [
+     "jegosule",
+     "gunoiule",
+     "mizerabilule"
+    ]
+   },
+   {
+    "when": "douchebag / douchey",
+    "ro": [
+     "fițos",
+     "nesimțit",
+     "bou",
+     "penibil"
+    ]
+   },
+   {
+    "when": "jerk",
+    "ro": [
+     "bou",
+     "nesimțit",
+     "măgar"
+    ]
+   }
+  ],
+  "avoid": [
+   "sac de gunoi",
+   "irigator",
+   "duș",
+   "smucitură"
+  ]
+ },
+ {
+  "en": "loser / sucker",
+  "match": "\\blosers?\\b|\\bsuckers?\\b",
+  "senses": [
+   {
+    "when": "loser",
+    "ro": [
+     "ratat",
+     "fraier"
+    ]
+   },
+   {
+    "when": "sucker (fraier)",
+    "ro": [
+     "fraier",
+     "fraierul"
+    ]
+   },
+   {
+    "when": "sucker (obiect): sell the sucker",
+    "ro": [
+     "chestia asta",
+     "drăcia asta"
+    ]
+   }
+  ],
+  "avoid": [
+   "pierzător",
+   "sugător"
+  ]
+ },
+ {
+  "en": "moron / dumb",
+  "match": "\\bmorons?\\b|\\bdumb\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "tâmpitule",
+     "idiotule",
+     "cretinule"
+    ]
+   },
+   {
+    "when": "dumb (adj)",
+    "ro": [
+     "prost",
+     "tâmpit"
+    ]
+   }
+  ],
+  "avoid": [
+   "mut (pentru dumb = prost)"
+  ]
+ },
+ {
+  "en": "nuts / nutjob / nutcase / psycho (crazy)",
+  "match": "\\bnuts\\b|\\bnut ?(?:job|case)s?\\b|\\bpsycho\\b(?!-)",
+  "senses": [
+   {
+    "when": "nebun",
+    "ro": [
+     "nebun",
+     "țicnit",
+     "sărit de pe fix",
+     "nebun de legat"
+    ]
+   },
+   {
+    "when": "gone psycho",
+    "ro": [
+     "a luat-o razna",
+     "a înnebunit"
+    ]
+   },
+   {
+    "when": "nuts = testicule",
+    "ro": [
+     "ouă",
+     "coaie"
+    ]
+   }
+  ],
+  "avoid": [
+   "nuci",
+   "nucă"
+  ]
+ },
+ {
+  "en": "freak / freak out",
+  "match": "\\bfreak(?:s|ed|in'?|ing)?(?: out)?\\b",
+  "senses": [
+   {
+    "when": "freak (insultă)",
+    "ro": [
+     "ciudatule",
+     "nebunule",
+     "monstrule"
+    ]
+   },
+   {
+    "when": "freak out",
+    "ro": [
+     "a o lua razna",
+     "a se speria",
+     "a intra în panică"
+    ]
+   },
+   {
+    "when": "you're freakin' me out",
+    "ro": [
+     "Mă sperii!",
+     "Mă bagi în sperieți!"
+    ]
+   }
+  ],
+  "avoid": [
+   "anormal",
+   "fenomen"
+  ]
+ },
+ {
+  "en": "wanker",
+  "match": "\\bwankers?\\b",
+  "senses": [
+   {
+    "when": "insultă britanică",
+    "ro": [
+     "labagiule",
+     "boule"
+    ]
+   }
+  ],
+  "avoid": [
+   "masturbator"
+  ]
+ },
+ {
+  "en": "scopsucker (Night City insult)",
+  "match": "\\bscop ?suck(?:er|ers|in'?|ing)\\b",
+  "senses": [
+   {
+    "when": "insultă",
+    "ro": [
+     "jigodie",
+     "gunoiule",
+     "pârlitule"
+    ]
+   }
+  ],
+  "avoid": [
+   "sugător de mâncare"
+  ]
+ },
+ {
+  "en": "damn it / dammit / goddamnit / damn!",
+  "match": "\\b(?:god ?)?damn(?:it| it)\\b|\\bgoddam(?:mit|nit)\\b|\\bdammit\\b|(?:^|(?<=[.!?…\\\"]\\s)|\\b(?:oh|ah|aw+|well|ugh)[,.…]* )(?:god ?)?damn(?=\\s*(?:[!?.,…]|$))",
+  "senses": [
+   {
+    "when": "frustrare",
+    "ro": [
+     "La naiba!",
+     "Fir-ar!",
+     "Fir-ar să fie!",
+     "Mama dracului!"
+    ]
+   },
+   {
+    "when": "goddamnit (mai tare)",
+    "ro": [
+     "Fir-ar al dracului!",
+     "Mama dracului!",
+     "Dumnezeii mă-sii!"
+    ]
+   },
+   {
+    "when": "Damn! (admirație: damn, you look good)",
+    "ro": [
+     "Băi, ce bine arăți!",
+     "Uau!",
+     "Mamă, ce bine arăți!"
+    ]
+   }
+  ],
+  "avoid": [
+   "Blestem!",
+   "Blestemat să fie!",
+   "Damnare!",
+   "Drace! (învechit)"
+  ]
+ },
+ {
+  "en": "goddamn / damn / damned (adjective)",
+  "match": "\\b(?:god ?)?damn(?:ed)? (?=[a-z])(?!(?:it|you|him|her|them|right|straight|sure|well|good|near|fine|shame|time)\\b)|\\bgoddam(?:n|ned)?\\b",
+  "senses": [
+   {
+    "when": "înaintea unui substantiv",
+    "ro": [
+     "X-ul ăsta al naibii",
+     "nenorocitul de X",
+     "X-ul dracului",
+     "afurisitul de X"
+    ]
+   },
+   {
+    "when": "whole damn night / every damn day",
+    "ro": [
+     "toată noaptea, fir-ar",
+     "în fiecare zi, fir-ar să fie",
+     "toată noaptea aia afurisită"
+    ]
+   },
+   {
+    "when": "damn thing",
+    "ro": [
+     "chestia asta afurisită",
+     "porcăria asta",
+     "nenorocita asta"
+    ]
+   },
+   {
+    "when": "Goddamn, ... (exclamație de început)",
+    "ro": [
+     "Mamă, ...",
+     "Băi, să fie...",
+     "Ia te uită..."
+    ]
+   }
+  ],
+  "avoid": [
+   "blestemat",
+   "damnat",
+   "osândit",
+   "condamnat"
+  ]
+ },
+ {
+  "en": "damn (adverb): damn good, pretty damn, so damn, damn well, damn sure, damn near",
+  "match": "\\bdamn(?:ed)? (?:good|well|sure|near|fine|important|hard|tough|close|lucky|quick|fast|glad|proud|much)\\b|\\b(?:pretty|so|too|really) damn(?:ed)?\\b",
+  "senses": [
+   {
+    "when": "intensificator",
+    "ro": [
+     "al naibii de",
+     "rău de tot",
+     "foarte, foarte",
+     "tare"
+    ]
+   },
+   {
+    "when": "damn good",
+    "ro": [
+     "bun rău",
+     "al naibii de bun",
+     "beton"
+    ]
+   },
+   {
+    "when": "damn well / damn sure",
+    "ro": [
+     "știi foarte bine",
+     "sigur-sigur",
+     "clar, frate"
+    ]
+   },
+   {
+    "when": "damn near",
+    "ro": [
+     "cât pe ce",
+     "aproape că"
+    ]
+   }
+  ],
+  "avoid": [
+   "blestemat de bun",
+   "damnat de bun"
+  ]
+ },
+ {
+  "en": "damn right / damn straight",
+  "match": "\\bdamn(?:ed)? (?:right|straight)\\b",
+  "senses": [
+   {
+    "when": "acord ferm",
+    "ro": [
+     "Exact!",
+     "Normal!",
+     "Ai dreptate, frate!",
+     "Ce crezi?!",
+     "Așa e!"
+    ]
+   }
+  ],
+  "avoid": [
+   "la naiba de corect",
+   "drept la naiba"
+  ]
+ },
+ {
+  "en": "damn shame",
+  "match": "\\bdamn(?:ed)? shame\\b",
+  "senses": [
+   {
+    "when": "regret",
+    "ro": [
+     "Mare păcat.",
+     "Ce păcat, frate.",
+     "Păcat, fir-ar."
+    ]
+   }
+  ],
+  "avoid": [
+   "rușine blestemată"
+  ]
+ },
+ {
+  "en": "about damn time",
+  "match": "\\bdamn(?:ed)? time\\b",
+  "senses": [
+   {
+    "when": "în sfârșit",
+    "ro": [
+     "Era și timpul!",
+     "În sfârșit!",
+     "Era cazul!"
+    ]
+   }
+  ],
+  "avoid": [
+   "timpul blestemat"
+  ]
+ },
+ {
+  "en": "damn you / X be damned",
+  "match": "\\bdamn (?:you|him|her|them|it all)\\b|\\bbe damned\\b",
+  "senses": [
+   {
+    "when": "blestem",
+    "ro": [
+     "Fir-ai al naibii!",
+     "Dracu' să te ia!",
+     "Naiba să te ia!"
+    ]
+   },
+   {
+    "when": "X be damned (nu-mi pasă de X)",
+    "ro": [
+     "la naiba cu X",
+     "să ia dracu' X",
+     "și restul lumii, ducă-se dracului"
+    ]
+   }
+  ],
+  "avoid": [
+   "fii blestemat",
+   "fii damnat",
+   "X fie damnat"
+  ]
+ },
+ {
+  "en": "I'll be damned",
+  "match": "\\b(?:I'll|I will|I'd) be damned\\b",
+  "senses": [
+   {
+    "when": "surpriză",
+    "ro": [
+     "Ia uite!",
+     "Ia te uită!",
+     "Nu pot să cred!",
+     "Ei, drăcia dracului!",
+     "Ce să vezi!"
+    ]
+   },
+   {
+    "when": "I'll be damned if... (refuz)",
+    "ro": [
+     "Nici moartă/mort nu...",
+     "Să mă ia dracu' dacă..."
+    ]
+   }
+  ],
+  "avoid": [
+   "voi fi damnat",
+   "fi-voi blestemat",
+   "voi fi blestemat"
+  ]
+ },
+ {
+  "en": "give a damn / worth a damn / a damn thing",
+  "match": "\\b(?:give|gives|giving|gave|givin'?) a (?:damn|goddamn|hoot|rat's ass)\\b|\\bworth a (?:damn|shit|fuck|goddamn)\\b|\\ba (?:damn|damned|goddamn) thing\\b",
+  "senses": [
+   {
+    "when": "indiferență: don't give a damn",
+    "ro": [
+     "Nu-mi pasă deloc.",
+     "Mă doare-n cot.",
+     "Puțin îmi pasă.",
+     "Nu dau doi bani."
+    ]
+   },
+   {
+    "when": "worth a damn",
+    "ro": [
+     "care contează cât de cât",
+     "care face doi bani",
+     "bun de ceva"
+    ]
+   },
+   {
+    "when": "not a damn thing / won't change a damn thing",
+    "ro": [
+     "absolut nimic",
+     "nimic, la naiba",
+     "nu schimbă nimic"
+    ]
+   }
+  ],
+  "avoid": [
+   "nu dau un blestem",
+   "un lucru blestemat",
+   "valoros un blestem"
+  ]
+ },
+ {
+  "en": "give a shit / don't give a shit",
+  "match": "\\b(?:give|gives|giving|gave|givin'?) a (?:shit|crap)\\b",
+  "senses": [
+   {
+    "when": "indiferență",
+    "ro": [
+     "Mă doare-n cur.",
+     "Mă piș pe asta.",
+     "Mă doare-n cot.",
+     "Puțin îmi pasă."
+    ]
+   },
+   {
+    "when": "who gives a shit?",
+    "ro": [
+     "Pe cine dracu' interesează?",
+     "Cui îi pasă?"
+    ]
+   },
+   {
+    "when": "if anyone gave a shit",
+    "ro": [
+     "dacă i-ar păsa cuiva",
+     "dacă ar conta cuiva"
+    ]
+   }
+  ],
+  "avoid": [
+   "nu dau un rahat",
+   "nu dau doi bani pe rahat",
+   "a da un căcat"
+  ]
+ },
+ {
+  "en": "do one's damndest",
+  "match": "\\bdamn(?:e|d|de|ede)st\\b",
+  "senses": [
+   {
+    "when": "a se strădui la maximum",
+    "ro": [
+     "a face tot ce poți",
+     "a da tot ce ai",
+     "a te da peste cap"
+    ]
+   }
+  ],
+  "avoid": [
+   "cel mai damnat"
+  ]
+ },
+ {
+  "en": "what the hell / what in the hell",
+  "match": "\\bwhat(?:'s| is| are| was| do| did)? (?:the|in the|in) hell\\b",
+  "senses": [
+   {
+    "when": "exclamație",
+    "ro": [
+     "Ce naiba?!",
+     "Ce dracu'?!"
+    ]
+   },
+   {
+    "when": "întrebare: what the hell is this / happened",
+    "ro": [
+     "Ce naiba e asta?",
+     "Ce dracu' s-a întâmplat?"
+    ]
+   },
+   {
+    "when": "resemnare: what the hell, why not",
+    "ro": [
+     "Ce naiba, de ce nu?",
+     "Hai, fie!"
+    ]
+   }
+  ],
+  "avoid": [
+   "ce iadul",
+   "ce în iad",
+   "ce iad"
+  ]
+ },
+ {
+  "en": "who/where/why/how the hell",
+  "match": "\\b(?:who|where|why|how|when|which)(?:'s| is| are| was| do| did)? (?:the|in the|in) hell\\b",
+  "senses": [
+   {
+    "when": "întrebare iritată",
+    "ro": [
+     "cine naiba",
+     "unde dracu'",
+     "de ce naiba",
+     "cum dracu'"
+    ]
+   }
+  ],
+  "avoid": [
+   "unde în iad",
+   "cine iadul"
+  ]
+ },
+ {
+  "en": "the hell (sentence-initial / 'the hell you will' / 'like hell')",
+  "match": "(?:^|(?<=[.!?…\\\"]\\s))the hell\\b|\\bthe hell (?:you|he|she|they|I|it|we)(?: (?:are|is|will|do|did|won't|don't|said|say))?(?=\\s*[.!?,…])|\\blike hell\\b",
+  "senses": [
+   {
+    "when": "întrebare: The hell you stalkin' me for?",
+    "ro": [
+     "De ce naiba mă urmărești?",
+     "Ce dracu' te ții după mine?"
+    ]
+   },
+   {
+    "when": "contrazicere: The hell you will! / Like hell they won't!",
+    "ro": [
+     "Pe dracu'!",
+     "Pe naiba!",
+     "Ba bine că nu!",
+     "Nici moartă/mort!"
+    ]
+   },
+   {
+    "when": "hurts like hell",
+    "ro": [
+     "doare ca naiba",
+     "doare îngrozitor"
+    ]
+   }
+  ],
+  "avoid": [
+   "iadul tu ești",
+   "ca iadul"
+  ]
+ },
+ {
+  "en": "go to hell / to hell with",
+  "match": "\\bgo(?:es)? to hell\\b|\\b(?:to|the) hell with\\b",
+  "senses": [
+   {
+    "when": "blestem / respingere",
+    "ro": [
+     "Du-te dracu'!",
+     "Du-te naibii!",
+     "Să se ducă dracu'!",
+     "Du-te-n mă-ta!"
+    ]
+   },
+   {
+    "when": "to hell with it / this",
+    "ro": [
+     "Dă-o naibii.",
+     "La naiba cu asta.",
+     "Dracu' s-o ia."
+    ]
+   }
+  ],
+  "avoid": [
+   "mergi în iad",
+   "du-te în iad",
+   "la iad cu"
+  ]
+ },
+ {
+  "en": "get the hell out (of here)",
+  "match": "\\b(?:get|go|stay|keep|gettin'?) (?:the )?hell (?:out(?:ta)?(?: of)?|outta)\\b|\\bthe hell (?:out(?:ta)?(?: of)?|outta) (?:here|my)\\b|\\bget the hell away\\b",
+  "senses": [
+   {
+    "when": "ordin",
+    "ro": [
+     "Cară-te naibii!",
+     "Ieși naibii de-aici!",
+     "Valea!"
+    ]
+   },
+   {
+    "when": "noi: let's get the hell out of here",
+    "ro": [
+     "Hai să ne cărăm naibii de-aici!",
+     "Hai s-o tăiem!"
+    ]
+   }
+  ],
+  "avoid": [
+   "ieși din iad",
+   "scoate iadul afară"
+  ]
+ },
+ {
+  "en": "hell of a / one hell of a / helluva / hella",
+  "match": "\\bhell of an?\\b|\\bhelluva\\b|\\bhella\\b",
+  "senses": [
+   {
+    "when": "ceva impresionant",
+    "ro": [
+     "... de zile mari",
+     "un ... al naibii de",
+     "un ... cum rar vezi",
+     "ce ..., frate!"
+    ]
+   },
+   {
+    "when": "one hell of a storm",
+    "ro": [
+     "o furtună de zile mari"
+    ]
+   },
+   {
+    "when": "hella (adverb)",
+    "ro": [
+     "rău",
+     "tare",
+     "beton rău (hella preem)"
+    ]
+   }
+  ],
+  "avoid": [
+   "un iad de",
+   "un iad al unei furtuni"
+  ]
+ },
+ {
+  "en": "give 'em hell / raise hell",
+  "match": "\\bgive (?:'em|em|them|him|her|it|you) hell\\b|\\braise (?:some )?hell\\b",
+  "senses": [
+   {
+    "when": "încurajare la luptă",
+    "ro": [
+     "Fă-i praf!",
+     "Rupe-i!",
+     "Arată-le tu lor!"
+    ]
+   },
+   {
+    "when": "raise hell",
+    "ro": [
+     "a face scandal",
+     "a face prăpăd",
+     "a întoarce totul pe dos"
+    ]
+   }
+  ],
+  "avoid": [
+   "dă-le iad",
+   "ridică iadul"
+  ]
+ },
+ {
+  "en": "hell yeah",
+  "match": "\\bhell (?:yeah|yes|yea|ya)\\b|\\bheck yeah\\b",
+  "senses": [
+   {
+    "when": "acord entuziast",
+    "ro": [
+     "Normal!",
+     "Clar, frate!",
+     "Da, bă!",
+     "Ba bine că nu!",
+     "Yes!"
+    ]
+   }
+  ],
+  "avoid": [
+   "iad da",
+   "la naiba, da"
+  ]
+ },
+ {
+  "en": "hell no / no way in hell",
+  "match": "\\bhell (?:no|nah|naw)\\b|\\bway in hell\\b|\\bhell not\\b",
+  "senses": [
+   {
+    "when": "refuz",
+    "ro": [
+     "Nici gând!",
+     "Nici dracu'!",
+     "Nici în ruptul capului!",
+     "În niciun caz!",
+     "Nici moartă/mort!"
+    ]
+   }
+  ],
+  "avoid": [
+   "iad nu",
+   "nicio cale în iad"
+  ]
+ },
+ {
+  "en": "hell! (interjection) / hell, I...",
+  "match": "(?:^|(?<=[.!?…\\\"]\\s)|\\b(?:oh|ah|aw+|well|ugh)[,.…]* )hell(?=\\s*[!,.…])",
+  "senses": [
+   {
+    "when": "exclamație",
+    "ro": [
+     "La naiba!",
+     "Fir-ar!"
+    ]
+   },
+   {
+    "when": "umplutură: Hell, I'd do it myself",
+    "ro": [
+     "Ce naiba, l-aș face și singur.",
+     "Păi, l-aș face și eu."
+    ]
+   }
+  ],
+  "avoid": [
+   "Iad!"
+  ]
+ },
+ {
+  "en": "bloody (British intensifier) / bloody hell",
+  "match": "\\bbloody (?:hell|well|good|idiot|fool|thing|heart|\\w+)\\b",
+  "senses": [
+   {
+    "when": "intensificator britanic",
+    "ro": [
+     "al naibii",
+     "nenorocit de"
+    ]
+   },
+   {
+    "when": "bloody hell",
+    "ro": [
+     "La naiba!",
+     "Mama dracului!"
+    ]
+   },
+   {
+    "when": "atenție: 'they were so bloody' = literal însângerați",
+    "ro": [
+     "însângerați"
+    ]
+   }
+  ],
+  "avoid": [
+   "sângeros (când e intensificator)"
+  ]
+ },
+ {
+  "en": "jesus / jesus christ / christ / oh my god",
+  "match": "\\b(?:jesus|jeezus)(?: christ)?\\b|\\bchrist\\b|\\boh my god\\b|\\bmy god\\b|\\bgood lord\\b",
+  "senses": [
+   {
+    "when": "șoc / exasperare",
+    "ro": [
+     "Doamne!",
+     "Dumnezeule!",
+     "Doamne, Dumnezeule!",
+     "Mamă, mamă!"
+    ]
+   },
+   {
+    "when": "oh my god (încântare / bârfă)",
+    "ro": [
+     "Doamne!",
+     "Vai, Doamne!",
+     "Nu pot să cred!"
+    ]
+   }
+  ],
+  "avoid": [
+   "Iisuse Hristoase! (sună a dublaj)",
+   "Hristoase!",
+   "Isuse!"
+  ]
+ },
+ {
+  "en": "jesus fucking christ / fucking christ",
+  "match": "\\bfuck(?:in'|in|ing) (?:christ|jesus)\\b|\\bjesus fuck(?:in'|in|ing)\\b",
+  "senses": [
+   {
+    "when": "șoc extrem / furie",
+    "ro": [
+     "Futu-i Dumnezeii mă-sii!",
+     "Doamne, pula mea!",
+     "Futu-i Dumnezeii!"
+    ]
+   }
+  ],
+  "avoid": [
+   "Iisuse futut Hristoase",
+   "Hristos futut"
+  ]
+ },
+ {
+  "en": "jeez",
+  "match": "\\bjee+z\\b|\\bgeez\\b|\\bsheesh\\b",
+  "senses": [
+   {
+    "when": "iritare ușoară / surpriză",
+    "ro": [
+     "Doamne...",
+     "Pfoai...",
+     "Of...",
+     "Mamă..."
+    ]
+   }
+  ],
+  "avoid": [
+   "Iisuse"
+  ]
+ },
+ {
+  "en": "piss off (imperative)",
+  "match": "\\bpiss off\\b(?=\\s*[!.,…?]|$)",
+  "senses": [
+   {
+    "when": "pleacă!",
+    "ro": [
+     "Cară-te!",
+     "Valea!",
+     "Du-te dracu'!",
+     "Lasă-mă-n pace!",
+     "Dispari!"
+    ]
+   }
+  ],
+  "avoid": [
+   "pișă-te",
+   "pișă-te departe"
+  ]
+ },
+ {
+  "en": "piss (sb) off / pissed (off)",
+  "match": "\\bpiss(?:es|ed|in'?|ing)? (?:\\w+ )?off\\b|\\bpissed\\b",
+  "senses": [
+   {
+    "when": "a enerva: don't piss me off",
+    "ro": [
+     "Nu mă enerva!",
+     "Nu mă scoate din sărite!",
+     "Mă calci pe nervi."
+    ]
+   },
+   {
+    "when": "pissed / pissed off (adj)",
+    "ro": [
+     "nervos",
+     "furios",
+     "ofticat",
+     "turbat",
+     "nervos rău"
+    ]
+   },
+   {
+    "when": "I'd be pissed too",
+    "ro": [
+     "Și eu aș fi turbat."
+    ]
+   }
+  ],
+  "avoid": [
+   "pișat",
+   "pișat de supărare",
+   "a pișa pe cineva"
+  ]
+ },
+ {
+  "en": "screw you / screw it / screw this / screw them",
+  "match": "\\bscrew (?:you|ya|him|her|them|'em|that|this|it|the|your|all)\\b(?! (?:up|over))",
+  "senses": [
+   {
+    "when": "respingere",
+    "ro": [
+     "Du-te dracu'!",
+     "Du-te naibii!",
+     "Dă-o naibii!",
+     "La naiba cu..."
+    ]
+   },
+   {
+    "when": "screw it (renunțare)",
+    "ro": [
+     "Dă-o naibii.",
+     "Fie.",
+     "Las-o baltă."
+    ]
+   }
+  ],
+  "avoid": [
+   "înșurubează-te",
+   "șurubul tău",
+   "înșurubează asta"
+  ]
+ },
+ {
+  "en": "screwed (I'm screwed) / screw up / screw with",
+  "match": "\\bscrew(?:ed|s|in'?|ing)?\\b(?! (?:you|ya|him|her|them|'em|that|this|it|the|your|all)\\b)",
+  "senses": [
+   {
+    "when": "în belea: we're screwed",
+    "ro": [
+     "Am belit-o.",
+     "S-a zis cu noi.",
+     "Suntem terminați.",
+     "Am încurcat-o."
+    ]
+   },
+   {
+    "when": "screw up (a greși)",
+    "ro": [
+     "a da-n bară",
+     "a o face de oaie",
+     "a încurca"
+    ]
+   },
+   {
+    "when": "screw with (a umbla la / a se juca cu mintea)",
+    "ro": [
+     "mi-a umblat la tehnică",
+     "îmi dai mintea peste cap"
+    ]
+   },
+   {
+    "when": "screwed the pooch",
+    "ro": [
+     "a dat-o-n bară rău",
+     "a făcut-o lată"
+    ]
+   }
+  ],
+  "avoid": [
+   "înșurubat",
+   "sunt înșurubat",
+   "a strica cățelul"
+  ]
+ },
+ {
+  "en": "sucks / this sucks / you suck / suck it",
+  "match": "\\bsucks?\\b(?! (?:my|your|his|her|it up|cock|dick))|\\bsuck it\\b(?! up)",
+  "senses": [
+   {
+    "when": "e nasol",
+    "ro": [
+     "e nasol",
+     "e nașpa",
+     "nasol rău",
+     "jale"
+    ]
+   },
+   {
+    "when": "sucks to be you",
+    "ro": [
+     "Nasol pentru tine.",
+     "Ghinion, frate."
+    ]
+   },
+   {
+    "when": "you suck",
+    "ro": [
+     "Ești praf.",
+     "Ești jalnic.",
+     "Ești varză."
+    ]
+   },
+   {
+    "when": "suck it! (sfidare)",
+    "ro": [
+     "Na!",
+     "Înghite-o!",
+     "Sugi-o!"
+    ]
+   }
+  ],
+  "avoid": [
+   "suge",
+   "este de supt",
+   "sugative"
+  ]
+ },
+ {
+  "en": "suck it up",
+  "match": "\\bsuck it up\\b",
+  "senses": [
+   {
+    "when": "rabdă",
+    "ro": [
+     "Strânge din dinți!",
+     "Rabdă!",
+     "Înghite și taci!"
+    ]
+   }
+  ],
+  "avoid": [
+   "suge-o în sus"
+  ]
+ },
+ {
+  "en": "you gotta be kidding (me) / are you kidding me",
+  "match": "\\b(?:got(?:ta| to) be|you(?:'re| are)|are you|ya|you) kidd(?:ing|in'?)(?: me)?\\b|\\bkidding me\\b",
+  "senses": [
+   {
+    "when": "neîncredere",
+    "ro": [
+     "Faci mișto de mine?",
+     "Glumești, nu?",
+     "Nu se poate!",
+     "Pe bune?!"
+    ]
+   }
+  ],
+  "avoid": [
+   "trebuie să glumești cu mine",
+   "tu mă glumești"
+  ]
+ },
+ {
+  "en": "my bad",
+  "match": "\\bmy bad\\b",
+  "senses": [
+   {
+    "when": "scuză scurtă",
+    "ro": [
+     "Greșeala mea.",
+     "Scuze, vina mea.",
+     "Pardon, scăparea mea."
+    ]
+   }
+  ],
+  "avoid": [
+   "răul meu",
+   "e rău al meu"
+  ]
+ },
+ {
+  "en": "(no) big deal",
+  "match": "\\bbig deal\\b",
+  "senses": [
+   {
+    "when": "no big deal",
+    "ro": [
+     "Nu-i mare brânză.",
+     "Nu-i bai.",
+     "Nimic grav."
+    ]
+   },
+   {
+    "when": "what's the big deal?",
+    "ro": [
+     "Care-i faza?",
+     "Care-i problema?",
+     "Și ce?"
+    ]
+   },
+   {
+    "when": "Big deal! (sarcastic)",
+    "ro": [
+     "Mare lucru!",
+     "Și?"
+    ]
+   }
+  ],
+  "avoid": [
+   "afacere mare",
+   "nu e o afacere mare"
+  ]
+ },
+ {
+  "en": "gimme a break",
+  "match": "\\bgimme a break\\b|\\bgive me a break\\b|\\bcut me some slack\\b",
+  "senses": [
+   {
+    "when": "exasperare",
+    "ro": [
+     "Lasă-mă, mă!",
+     "Hai, mă, pe bune!",
+     "Scutește-mă!",
+     "Dă-mi pace!"
+    ]
+   }
+  ],
+  "avoid": [
+   "dă-mi o pauză"
+  ]
+ },
+ {
+  "en": "get lost / beat it / buzz off / scram",
+  "match": "\\bget lost\\b|\\bbeat it\\b|\\bbuzz off\\b|\\bscram\\b|\\bshove off\\b|\\bget outta here\\b",
+  "senses": [
+   {
+    "when": "alungare",
+    "ro": [
+     "Cară-te!",
+     "Valea!",
+     "Dispari!",
+     "Ia-o din loc!",
+     "Șterge-o!"
+    ]
+   },
+   {
+    "when": "Get outta here! (neîncredere amuzată)",
+    "ro": [
+     "Pe bune?!",
+     "Ce zici, mă?!"
+    ]
+   }
+  ],
+  "avoid": [
+   "pierde-te",
+   "bate-o",
+   "bâzâie departe"
+  ]
+ },
+ {
+  "en": "shut up / shut it",
+  "match": "\\bshut (?:up|it|your (?:mouth|trap|face|hole))\\b",
+  "senses": [
+   {
+    "when": "ordin",
+    "ro": [
+     "Taci!",
+     "Gura!",
+     "Taci din gură!",
+     "Ciocu' mic!"
+    ]
+   },
+   {
+    "when": "Shut up! (neîncredere amicală)",
+    "ro": [
+     "Nu zău!",
+     "Nu mă-nnebuni!",
+     "Pe bune?!"
+    ]
+   }
+  ],
+  "avoid": [
+   "închide (sus)",
+   "închide-te"
+  ]
+ },
+ {
+  "en": "chill / chill out / cool it",
+  "match": "\\bchill(?: out)?\\b|\\bcool it\\b|\\bsimmer down\\b|\\btake it easy\\b",
+  "senses": [
+   {
+    "when": "calmare",
+    "ro": [
+     "Calmează-te.",
+     "Relaxează-te.",
+     "Stai liniștit.",
+     "Las-o mai moale."
+    ]
+   },
+   {
+    "when": "I'm chill (adj)",
+    "ro": [
+     "Sunt calm.",
+     "Sunt zen.",
+     "Sunt relaxat."
+    ]
+   }
+  ],
+  "avoid": [
+   "răcește-te",
+   "frig",
+   "ia-o ușor (calc)"
+  ]
+ },
+ {
+  "en": "cool (slang)",
+  "match": "\\bcool\\b",
+  "senses": [
+   {
+    "when": "aprobare",
+    "ro": [
+     "mișto",
+     "tare",
+     "ok",
+     "cool"
+    ]
+   },
+   {
+    "when": "we cool?",
+    "ro": [
+     "Suntem bine?",
+     "E ok între noi?",
+     "Ne-am înțeles?"
+    ]
+   },
+   {
+    "when": "atenție: atributul Cool = Calm (glosar)",
+    "ro": [
+     "Calm"
+    ]
+   }
+  ],
+  "avoid": [
+   "rece",
+   "răcoros"
+  ]
+ },
+ {
+  "en": "we good? / we good to go?",
+  "match": "\\bwe (?:good|cool|square|straight)\\b",
+  "senses": [
+   {
+    "when": "verificare",
+    "ro": [
+     "Suntem bine?",
+     "E ok?",
+     "Ne-am înțeles?"
+    ]
+   },
+   {
+    "when": "we good to go?",
+    "ro": [
+     "Putem pleca?",
+     "Suntem gata?"
+    ]
+   }
+  ],
+  "avoid": [
+   "suntem buni?"
+  ]
+ },
+ {
+  "en": "what's up / sup / whaddup",
+  "match": "\\bwhat'?s up\\b|\\bwhaddup\\b|\\bsup\\b|\\bwazzup\\b",
+  "senses": [
+   {
+    "when": "salut",
+    "ro": [
+     "Ce faci?",
+     "Ce mai faci?",
+     "Salut!",
+     "Care-i treaba?"
+    ]
+   },
+   {
+    "when": "ce s-a întâmplat? (what's up with him?)",
+    "ro": [
+     "Ce-i cu el?",
+     "Ce-a pățit?",
+     "Ce s-a întâmplat?"
+    ]
+   }
+  ],
+  "avoid": [
+   "ce e sus",
+   "ce-i sus"
+  ]
+ },
+ {
+  "en": "dude / bro / man / my man (address)",
+  "match": "\\b(?:dude|bro|brah|my man|homie)\\b|(?:^|(?<=[.!?…]\\s))man[,!]",
+  "senses": [
+   {
+    "when": "adresare informală",
+    "ro": [
+     "frate",
+     "bă",
+     "băi frate",
+     "omul meu (my man)"
+    ]
+   },
+   {
+    "when": "Man, ... (interjecție)",
+    "ro": [
+     "Frate, ...",
+     "Băi, ...",
+     "Mamă, ..."
+    ]
+   }
+  ],
+  "avoid": [
+   "omule (folosit excesiv)",
+   "bărbate",
+   "dudule"
+  ]
+ },
+ {
+  "en": "you bet (your ass)",
+  "match": "\\byou bet\\b",
+  "senses": [
+   {
+    "when": "confirmare",
+    "ro": [
+     "Sigur că da!",
+     "Poți să pui pariu!",
+     "Bagă mâna-n foc!",
+     "Clar!"
+    ]
+   }
+  ],
+  "avoid": [
+   "pariezi fundul tău",
+   "tu pariezi"
+  ]
+ },
+ {
+  "en": "get a grip",
+  "match": "\\bget a grip\\b|\\bpull yourself together\\b",
+  "senses": [
+   {
+    "when": "revino-ți",
+    "ro": [
+     "Revino-ți!",
+     "Adună-te!",
+     "Calmează-te!"
+    ]
+   }
+  ],
+  "avoid": [
+   "prinde o priză",
+   "ia o priză"
+  ]
+ },
+ {
+  "en": "hit the road / bail (leave)",
+  "match": "\\bhit the road\\b|\\bbail(?:ed|in'?|ing)?\\b(?! (?:money|bond))",
+  "senses": [
+   {
+    "when": "plecare",
+    "ro": [
+     "Hai s-o tăiem!",
+     "Hai să ne cărăm!",
+     "La drum!",
+     "Hai s-o luăm din loc!"
+    ]
+   },
+   {
+    "when": "bail (pe cineva) = a abandona",
+    "ro": [
+     "a lăsa baltă",
+     "a fugi"
+    ]
+   }
+  ],
+  "avoid": [
+   "a lovi drumul",
+   "cauțiune (când e «hai s-o tăiem»)"
+  ]
+ },
+ {
+  "en": "beats me",
+  "match": "\\bbeats me\\b(?=\\s*[.!?,…])",
+  "senses": [
+   {
+    "when": "habar n-am",
+    "ro": [
+     "Habar n-am.",
+     "Nu știu, frate.",
+     "Ce să zic..."
+    ]
+   }
+  ],
+  "avoid": [
+   "mă bate"
+  ]
+ },
+ {
+  "en": "no sweat / piece of cake",
+  "match": "\\bno sweat\\b|\\bpiece of cake\\b|\\beasy peasy\\b",
+  "senses": [
+   {
+    "when": "ușor",
+    "ro": [
+     "Nicio grijă.",
+     "Floare la ureche.",
+     "Nimic mai simplu.",
+     "Ușor ca bună ziua."
+    ]
+   }
+  ],
+  "avoid": [
+   "nicio transpirație",
+   "bucată de tort"
+  ]
+ },
+ {
+  "en": "big shot / hotshot",
+  "match": "\\bbig ?shots?\\b|\\bhot ?shots?\\b",
+  "senses": [
+   {
+    "when": "persoană importantă (ironic)",
+    "ro": [
+     "mahăr",
+     "grangur",
+     "șmecher",
+     "nume mare"
+    ]
+   },
+   {
+    "when": "hotshot (talentat, încrezut)",
+    "ro": [
+     "as",
+     "șmecher",
+     "vedetă"
+    ]
+   }
+  ],
+  "avoid": [
+   "împușcătură mare",
+   "lovitură fierbinte"
+  ]
+ },
+ {
+  "en": "badges / pigs (cops)",
+  "match": "\\bbadges\\b|\\bdirty badges?\\b|\\bthe pigs\\b",
+  "senses": [
+   {
+    "when": "poliția (argou)",
+    "ro": [
+     "gaborii",
+     "polițaii",
+     "sticleții"
+    ]
+   },
+   {
+    "when": "dirty badges",
+    "ro": [
+     "polițai corupți",
+     "gabori pe blat"
+    ]
+   }
+  ],
+  "avoid": [
+   "insignele (când înseamnă polițiști)",
+   "porcii (prea literal; doar dacă e insultă clară)"
+  ]
+ },
+ {
+  "en": "choom / chooms / choomba",
+  "match": "\\bchoom(?:ba|bas|s|batta)?\\b",
+  "senses": [
+   {
+    "when": "adresare / prieten: rămâne în engleză, CU formele englezești (decizia user-ului)",
+    "ro": [
+     "choom",
+     "chooms (plural)",
+     "choomba / choombas",
+     "un choom de-al meu (my choom)",
+     "chooms de-ai mei (my chooms)"
+    ]
+   }
+  ],
+  "avoid": [
+   "prietene",
+   "amice",
+   "frate (ca înlocuitor sistematic)",
+   "choomule",
+   "choomul / choom-ul",
+   "choomii / choomi / choomilor",
+   "choombi"
+  ]
+ },
+ {
+  "en": "gonk / gonks",
+  "match": "\\bgonks?\\b",
+  "senses": [
+   {
+    "when": "insultă: idiot",
+    "ro": [
+     "fraier",
+     "bou",
+     "tâmpit"
+    ]
+   },
+   {
+    "when": "you gonk!",
+    "ro": [
+     "Fraierule!",
+     "Boule!",
+     "Tâmpitule!"
+    ]
+   },
+   {
+    "when": "a gonk / some gonk",
+    "ro": [
+     "un fraier",
+     "un bou oarecare"
+    ]
+   }
+  ],
+  "avoid": [
+   "gonk (decizie: se traduce)",
+   "gonkule"
+  ]
+ },
+ {
+  "en": "gonked",
+  "match": "\\bgonk(?:ed|in'?|ing)\\b",
+  "senses": [
+   {
+    "when": "despre om: You gonked?",
+    "ro": [
+     "Ești tâmpit?",
+     "Ți-a sărit o doagă?",
+     "Ești dus cu capul?"
+    ]
+   },
+   {
+    "when": "despre lucru: something's gonked",
+    "ro": [
+     "ceva s-a stricat",
+     "ceva e dat peste cap",
+     "s-a dus naibii"
+    ]
+   },
+   {
+    "when": "fuckin' gonked",
+    "ro": [
+     "tâmpit de-a binelea",
+     "complet dus cu capul"
+    ]
+   }
+  ],
+  "avoid": [
+   "gonkat",
+   "gonked lăsat netradus"
+  ]
+ },
+ {
+  "en": "preem",
+  "match": "\\bpreem\\b",
+  "senses": [
+   {
+    "when": "de calitate",
+    "ro": [
+     "beton",
+     "marfă",
+     "de top",
+     "mișto"
+    ]
+   },
+   {
+    "when": "preem work",
+    "ro": [
+     "treabă beton",
+     "treabă de nota zece"
+    ]
+   },
+   {
+    "when": "real preem / hella preem",
+    "ro": [
+     "beton rău",
+     "marfă curată"
+    ]
+   }
+  ],
+  "avoid": [
+   "preem",
+   "premium (când e argou)"
+  ]
+ },
+ {
+  "en": "nova",
+  "match": "\\bnova\\b",
+  "senses": [
+   {
+    "when": "mișto / nou",
+    "ro": [
+     "mișto",
+     "tare",
+     "ceva nou (something nova)"
+    ]
+   },
+   {
+    "when": "No nova (fără surprize)",
+    "ro": [
+     "Fără chestii noi.",
+     "Nimic nou."
+    ]
+   }
+  ],
+  "avoid": [
+   "nova",
+   "stea nouă"
+  ]
+ },
+ {
+  "en": "delta (verb: leave)",
+  "match": "\\bdelta(?:s|'d|ed|in'?|ing)?\\b",
+  "senses": [
+   {
+    "when": "a pleca repede",
+    "ro": [
+     "a o tăia",
+     "a se cara",
+     "a pleca"
+    ]
+   },
+   {
+    "when": "let's delta / gotta delta (somewhere)",
+    "ro": [
+     "Hai s-o tăiem!",
+     "Hai să ne cărăm!",
+     "Trebuie s-o tai.",
+     "Trebuie să plec undeva."
+    ]
+   },
+   {
+    "when": "delta the fuck outta here",
+    "ro": [
+     "s-o tăiem dracu' de-aici"
+    ]
+   }
+  ],
+  "avoid": [
+   "delta",
+   "a delta"
+  ]
+ },
+ {
+  "en": "flatline / flatlined",
+  "match": "\\bflatlin(?:e|ed|es|in'?|ing)\\b",
+  "senses": [
+   {
+    "when": "a ucide (tranzitiv)",
+    "ro": [
+     "a lichida",
+     "a termina",
+     "a curăța"
+    ]
+   },
+   {
+    "when": "a muri (intranzitiv)",
+    "ro": [
+     "a muri",
+     "a da colțul",
+     "terminat (participiu)"
+    ]
+   }
+  ],
+  "avoid": [
+   "a face linie dreaptă",
+   "a aplatiza"
+  ]
+ },
+ {
+  "en": "zero / zeroed (kill)",
+  "match": "\\bzero(?:ed|in'?|ing)\\b|\\bzero (?:him|her|them|'em|you|me|us)\\b",
+  "senses": [
+   {
+    "when": "a ucide",
+    "ro": [
+     "a lichida",
+     "a curăța",
+     "a face felul"
+    ]
+   },
+   {
+    "when": "we're getting zeroed",
+    "ro": [
+     "Ne măcelăresc!",
+     "Ne lichidează!"
+    ]
+   }
+  ],
+  "avoid": [
+   "a zeroiza",
+   "a reduce la zero"
+  ]
+ },
+ {
+  "en": "klep (steal) — propunere, nedecis în glosar",
+  "match": "\\bklep(?:s|ped|pin'?|ping|per|pers)?\\b",
+  "senses": [
+   {
+    "when": "a fura",
+    "ro": [
+     "a șuti",
+     "a ciordi",
+     "a fura"
+    ]
+   },
+   {
+    "when": "kleppers (hoți)",
+    "ro": [
+     "hoți",
+     "ciordari"
+    ]
+   }
+  ],
+  "avoid": [
+   "a klepa"
+  ]
+ },
+ {
+  "en": "scop (food / garbage talk) — propunere, nedecis în glosar",
+  "match": "\\bscop\\b",
+  "senses": [
+   {
+    "when": "mâncare (sintetică)",
+    "ro": [
+     "haleală",
+     "mâncare"
+    ]
+   },
+   {
+    "when": "load of scop / talkin' scop",
+    "ro": [
+     "vrăjeală",
+     "prostii",
+     "aiureli"
+    ]
+   }
+  ],
+  "avoid": [
+   "scop (scopul)"
+  ]
+ }
+]

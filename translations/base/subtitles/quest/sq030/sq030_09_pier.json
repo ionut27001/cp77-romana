@@ -1,0 +1,912 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq030\\sq030_09_pier.json",
+ "entries": [
+  {
+   "key": "1425943730198306816",
+   "en": "Why the hell... not?",
+   "ro": "De ce naiba... nu?"
+  },
+  {
+   "key": "1425943778030149632",
+   "en": "Don't love it, no. Got no idea who might suddenly walk in while we're fast asleep...",
+   "en_m": "Don't love it, no. Got no idea who this belongs to, what we'll find inside, who might suddenly walk in...",
+   "ro": "Nu-mi place deloc, nu. N-am nicio idee cine ar putea intra pe neașteptate în timp ce dormim...",
+   "ro_m": "Nu-mi place deloc, nu. N-am nicio idee cui îi aparține, ce-o să găsim înăuntru, cine ar putea intra pe neașteptate..."
+  },
+  {
+   "key": "1425943897718808576",
+   "en": "Well... all right, then.",
+   "ro": "Păi... bine, atunci."
+  },
+  {
+   "key": "1425943897718808592",
+   "en": "No dice. Let's go.",
+   "ro": "Nicio șansă. Hai să mergem."
+  },
+  {
+   "key": "1425944395297480704",
+   "en": "Well... all right, then. You're the boss.",
+   "ro": "Păi... bine, atunci. Tu ești șefa.",
+   "ro_m": "Păi... bine, atunci. Tu ești șeful."
+  },
+  {
+   "key": "1426925396546969600",
+   "en": "Don't need to be so tactical with everything, y'know. You're not on the clock here.",
+   "ro": "Nu trebuie să fii atât de tactică cu toate, știi? Nu ești la program aici.",
+   "ro_m": "Nu trebuie să fii atât de tactic cu toate, știi? Nu ești la program aici."
+  },
+  {
+   "key": "1426933695866626048",
+   "en": "Our charming lakeside cottage awaits.",
+   "ro": "Căsuța noastră fermecătoare de pe malul lacului ne așteaptă."
+  },
+  {
+   "key": "1763485029753667584",
+   "en": "Eh... I don't think so, Judy. It was nice hangin' with you, but... the city beckons.",
+   "en_m": "I don't think so, Judy. It was nice hangin' with ya, but... the city beckons.",
+   "ro": "Eh... nu cred, Judy. Mi-a plăcut să stau cu tine, da' orașul mă cheamă."
+  },
+  {
+   "key": "1763521520567566336",
+   "en": "OK... I understand.",
+   "ro": "OK... înțeleg."
+  },
+  {
+   "key": "1766161076018200576",
+   "en": "What an incredible dive. Doesn't get more relaxing than that.",
+   "en_m": "What an incredible dive. Doesn't get more relaxin' than that.",
+   "ro": "Ce scufundare nebunească. Nimic mai relaxant ca asta."
+  },
+  {
+   "key": "1766161076169195520",
+   "en": "All those people from the town... It's depressing.",
+   "ro": "Oamenii ăia din oraș... E cam deprimant."
+  },
+  {
+   "key": "1766161076169195528",
+   "en": "Most nomads have a story like that. And all of 'em begin with the same thing – displacement.",
+   "ro": "Majoritatea nomazilor au o poveste de-asta. Și toate încep la fel – cu strămutarea."
+  },
+  {
+   "key": "1766161772255887360",
+   "en": "Think you could've fine-tuned the emotive wave transmitters better back there.",
+   "ro": "Cred că puteai regla mai bine transmițătoarele alea de unde emoționale."
+  },
+  {
+   "key": "1800978030415011840",
+   "en": "Got some serious surges from you a few times.",
+   "en_m": "Feed I was pickin' up felt a bit... flat – I wanna say?",
+   "ro": "Am prins niște supratensiuni serioase de la tine, de câteva ori.",
+   "ro_m": "Semnalul pe care-l prindeam era un pic... plat – cum să zic?"
+  },
+  {
+   "key": "1801078155414036480",
+   "en": "Stay... where, exactly? We gonna camp on the shore?",
+   "ro": "Stăm... unde, exact? O să campăm pe mal?"
+  },
+  {
+   "key": "1801078155414036492",
+   "en": "Nope. There. Our cottage for the day.",
+   "en_m": "No. In there. Crash there sometimes after dives.",
+   "ro": "Nu. Acolo. Căsuța noastră pentru azi.",
+   "ro_m": "Nu. Înăuntru. Mai dorm acolo câteodată după scufundări."
+  },
+  {
+   "key": "1801085746751954944",
+   "en": "How 'bout it?",
+   "ro": "Ce zici?"
+  },
+  {
+   "key": "1801209984452354048",
+   "en": "Been comin' here years and nothing's happened. C'mon, live a little! Don't make me beg.",
+   "ro": "Vin aici de ani și n-a pățit nimic. Hai, trăiește puțin! Nu mă face să te rog."
+  },
+  {
+   "key": "1801249605324333056",
+   "en": "Attagirl. Was startin' to suspect you might be a bore.",
+   "en_m": "Attaboy! Was startin' to suspect you might be a bore.",
+   "ro": "Bravo, fată. Începeam să bănuiesc că ești plictisitoare.",
+   "ro_m": "Bravo, băiete. Începeam să bănuiesc că ești plictisitor."
+  },
+  {
+   "key": "1803987424966434816",
+   "en": "Shit...",
+   "ro": "Căcat..."
+  },
+  {
+   "key": "1803988565750013952",
+   "en": "Something the matter?",
+   "en_m": "Somethin' the matter?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "1803996064561586180",
+   "en": "[Touch] It is ours.",
+   "ro": "[Atinge] E a noastră."
+  },
+  {
+   "key": "1803996257147248640",
+   "en": "[Lean away] Bad idea.",
+   "ro": "[Dă-te înapoi] Idee proastă."
+  },
+  {
+   "key": "1803996727580385280",
+   "en": "It is ours.",
+   "ro": "E a noastră."
+  },
+  {
+   "key": "1803996980027154432",
+   "en": "Not a great idea, I don't think.",
+   "ro": "Nu cred că e o idee grozavă."
+  },
+  {
+   "key": "1804000500742709248",
+   "en": "Sorry... I-I'm just tired. D-don't know what I'm doin'...",
+   "ro": "Scuze... S-sunt doar obosită. N-nu știu ce fac...",
+   "ro_m": "Scuze... S-sunt doar obosit. N-nu știu ce fac..."
+  },
+  {
+   "key": "1804062257876131840",
+   "en": "Grr, this chick gets on my nerves. Let's you and me blow.",
+   "ro": "Grr, tipa asta mă calcă pe nervi. Hai să ne cărăm noi doi."
+  },
+  {
+   "key": "1804271222379601924",
+   "en": "[Lie down]",
+   "ro": "[Culcă-te]"
+  },
+  {
+   "key": "1837520944565542912",
+   "en": "Comin' with?",
+   "en_m": "Ya comin' with?",
+   "ro": "Vii cu noi?"
+  },
+  {
+   "key": "1837521321398591488",
+   "en": "No, I'll, um... stay out here a little.",
+   "ro": "Nu, ăă... stau aici afară un pic."
+  },
+  {
+   "key": "1837546079704014848",
+   "en": "No… Nothing.",
+   "ro": "Nu… Nimic."
+  },
+  {
+   "key": "1843130526826455040",
+   "en": "What was that? Couldn't hear you clearly.",
+   "ro": "Ce-ai zis? Nu te-am auzit bine."
+  },
+  {
+   "key": "1843130834688368644",
+   "en": "Hey, Judy. About that coffee...",
+   "ro": "Hei, Judy. Despre cafeaua aia..."
+  },
+  {
+   "key": "1843144865474109440",
+   "en": "Judy...?",
+   "ro": "Judy...?"
+  },
+  {
+   "key": "1843240960065757188",
+   "en": "[Sit] We're still synced.",
+   "ro": "[Stai jos] Încă suntem sincronizați."
+  },
+  {
+   "key": "1843253324320301056",
+   "en": "[Sit] Thinkin' about Evelyn?",
+   "ro": "[Stai jos] Te gândești la Evelyn?"
+  },
+  {
+   "key": "1843253497125625856",
+   "en": "[Sit] Don't trust me?",
+   "ro": "[Stai jos] Nu ai încredere în mine?"
+  },
+  {
+   "key": "1843286435498254340",
+   "en": "Clouds has... gone to shit. Tyger Claw nonecks took revenge for Hiromi and the rest. There was a firefight.",
+   "ro": "Clouds a ajuns praf. Tyger Claws, javrele alea, s-au răzbunat pentru Hiromi și ceilalți. S-a tras din toate părțile."
+  },
+  {
+   "key": "1843286437813510144",
+   "en": "Tom's dead. Roxanne barely got out alive... House's closed until further notice.",
+   "ro": "Tom a murit. Roxanne abia a scăpat cu viață... Casa e închisă până se anunță altceva."
+  },
+  {
+   "key": "1843286439273127936",
+   "en": "Rather not talk or think about it...",
+   "ro": "Mai bine nu vorbesc și nu mă gândesc la asta..."
+  },
+  {
+   "key": "1843286442125254660",
+   "en": "Maiko's holdin' all of Clouds at gunpoint. Decides every little thing, apparently...",
+   "ro": "Maiko ține tot Clouds-ul cu pistolul la tâmplă. Decide ea tot, se pare..."
+  },
+  {
+   "key": "1843286443584872448",
+   "en": "But...?",
+   "ro": "Dar...?"
+  },
+  {
+   "key": "1843286444943826944",
+   "en": "No but. Talked to the dolls – they don't see any change. Everything's just like it was before.",
+   "ro": "Nu, da'. Am vorbit cu păpușile – n-au observat nicio schimbare. Totul e ca înainte."
+  },
+  {
+   "key": "1843286449087799296",
+   "en": "I didn't wanna tell you... Wanted this to be just our day...",
+   "ro": "Nu voiam să-ți spun... Voiam să fie doar ziua noastră..."
+  },
+  {
+   "key": "1843298263452311552",
+   "en": "Don't bullshit me, Judy. We're still synced, remember?",
+   "ro": "Nu mă mai minți, Judy. Suntem încă sincronizați, ții minte?"
+  },
+  {
+   "key": "1843298584450785280",
+   "en": "You thinkin' about Evelyn?",
+   "ro": "Te gândești la Evelyn?"
+  },
+  {
+   "key": "1843298991516377092",
+   "en": "Still don't trust me...? After all we've been through?",
+   "en_m": "Still don't trust me? After all we been through?",
+   "ro": "Încă nu ai încredere în mine...? După tot ce-am trăit?",
+   "ro_m": "Încă nu ai încredere în mine? După tot ce-am trăit?"
+  },
+  {
+   "key": "1843311386037018624",
+   "en": "Got a feelin' everything we did was wasted effort.",
+   "ro": "Am impresia că tot ce-am făcut a fost degeaba."
+  },
+  {
+   "key": "1843330144474456064",
+   "en": "Didn't wanna tell you... Didn't want you to think I blame you in any way.",
+   "ro": "Nu voiam să-ți spun... Nu voiam să crezi că te învinovățesc în vreun fel."
+  },
+  {
+   "key": "1844409089349345280",
+   "en": "[Comfort] Why didn't you wanna tell me?",
+   "ro": "[Consolează] De ce nu voiai să-mi spui?"
+  },
+  {
+   "key": "1844418986984038400",
+   "en": "Why didn't you say anything earlier? I don't get it.",
+   "ro": "De ce n-ai spus nimic mai devreme? Nu înțeleg."
+  },
+  {
+   "key": "1844428635594514432",
+   "en": "What good would that've done? You'd just think I was blamin' you...",
+   "ro": "Ce rost ar fi avut? Ai fi crezut doar că te învinovățesc..."
+  },
+  {
+   "key": "1844433037801775104",
+   "en": "Blame myself already. That's enough.",
+   "ro": "Mă învinovățesc deja. Ajunge."
+  },
+  {
+   "key": "1844433620373823492",
+   "en": "[Kiss] Stop thinking about it.",
+   "ro": "[Sărută] Nu te mai gândi la asta."
+  },
+  {
+   "key": "1844438491823038464",
+   "en": "You'd blame yourself even more if you hadn't tried.",
+   "ro": "Ți-ar fi părut și mai rău dacă n-ai fi încercat."
+  },
+  {
+   "key": "1844439686964797440",
+   "en": "Things could still work out.",
+   "ro": "Lucrurile s-ar putea rezolva încă."
+  },
+  {
+   "key": "1844453726256586756",
+   "en": "Look at it this way – things couldn't get any worse, right? Which means things're only lookin' up from here.",
+   "ro": "Uite-o așa: mai rău nu poate fi, nu? Deci de acum doar în sus merg lucrurile."
+  },
+  {
+   "key": "1844453760582770692",
+   "en": "You were just out to help the dolls. Bet you'd be blamin' yourself even more if you hadn't tried.",
+   "ro": "Voiai doar să ajuți păpușile. Pariez că ți-ar fi părut și mai rău dacă n-ai fi încercat."
+  },
+  {
+   "key": "1844637416588795904",
+   "en": "Think I'll... go lie down. I'm beat.",
+   "ro": "Cred că... mă duc să mă întind. Sunt ruptă."
+  },
+  {
+   "key": "1844640564330061824",
+   "en": "Not like you could stand by and do nothin', anyway. Not your style.",
+   "en_m": "It's not like you could stand by and do nothin', anyway. Not your style.",
+   "ro": "Oricum, n-ai fi stat cu mâinile în sân. Nu-i stilul tău."
+  },
+  {
+   "key": "1844641042497495040",
+   "en": "Maybe you're right...",
+   "ro": "Poate ai dreptate..."
+  },
+  {
+   "key": "1844643836860260352",
+   "en": "Oh damn, I-- I'd love to share your optimism...",
+   "ro": "La naiba, aș... aș vrea să împărtășesc optimismul tău..."
+  },
+  {
+   "key": "1844646470967058432",
+   "en": "Just don't wake her up.",
+   "ro": "Doar nu o trezi."
+  },
+  {
+   "key": "1844650489261285376",
+   "en": "Why would you even assume I'd think that?",
+   "ro": "De ce-ai crede că aș gândi așa?"
+  },
+  {
+   "key": "1844650839066238976",
+   "en": "Dunno, I-- I'm sorry. Let's just kill the subject.",
+   "ro": "Nu știu, eu-- Îmi pare rău. Hai s-o lăsăm baltă."
+  },
+  {
+   "key": "1844657970289008644",
+   "en": "Not about to leave her here alone.",
+   "ro": "Nu o las aici singură."
+  },
+  {
+   "key": "1844658068100177920",
+   "en": "You fuckin' blow if you can. Not about to leave her alone, middle of nowhere.",
+   "ro": "Dacă poți, du-te dracu'. Nu o las singură, în mijlocul pustietății."
+  },
+  {
+   "key": "1844658638475190272",
+   "en": "She pisses you off? Why?",
+   "ro": "Judy te calcă pe nervi? De ce?"
+  },
+  {
+   "key": "1844666096014811140",
+   "en": "Judy pisses you off? Why, 'cause she cares about people an' that reminds you you're a narcissistic asshole?",
+   "en_m": "Judy pisses you off – why? 'Cause she cares about people? And that reminds you you're a narcissistic asshole?",
+   "ro": "Judy te calcă pe nervi? De ce, pentru că îi pasă de oameni și asta îți aduce aminte că ești o nesimțită narcisistă?",
+   "ro_m": "Judy te calcă pe nervi – de ce? Pentru că îi pasă de oameni? Și asta îți aduce aminte că ești un nesimțit narcisist?"
+  },
+  {
+   "key": "1844678636094578688",
+   "en": "Ugh, can't talk to you when you get this... sentimental. Waste of words. Least take a nap so we don't have to argue.",
+   "ro": "Ugh, nu pot vorbi cu tine când te apuci de sentimente. Pierdere de timp. Măcar trage un pui de somn, să nu ne certăm."
+  },
+  {
+   "key": "1844681628109725696",
+   "en": "She's all over the place. Refuses to take the door, jumps out a window, then acts all surprised when she gets hurt.",
+   "ro": "E o harababură. Refuză să ia ușa, sare pe geam, apoi se miră când se rănește."
+  },
+  {
+   "key": "1844691343879397376",
+   "en": "She reminds you of Alt, doesn't she?",
+   "ro": "Te duce cu gândul la Alt, nu?"
+  },
+  {
+   "key": "1844694660030357504",
+   "en": "Oh, for-- No! Nobody's even close to Alt and what me and her had.",
+   "ro": "Pentru... nu! Nimeni nu se compară cu Alt și cu ce-am avut noi două."
+  },
+  {
+   "key": "1844697587084124160",
+   "en": "Let's get the fuck away, can we?",
+   "ro": "Hai să plecăm dracu' de aici, da?"
+  },
+  {
+   "key": "1867946209523228672",
+   "en": "Don't really like the idea, do you…?",
+   "ro": "Nu-ți place ideea, nu...?"
+  },
+  {
+   "key": "1876216284076269568",
+   "en": "Forget it, Jude. It's Japantown.",
+   "ro": "Las-o, Jude. E Japantown."
+  },
+  {
+   "key": "1887914789097766912",
+   "en": "[Knock] Did you say something?",
+   "ro": "[Bate] Ai zis ceva?"
+  },
+  {
+   "key": "1887914789097766928",
+   "en": "[Knock] About that coffee...",
+   "ro": "[Bate] Despre cafeaua aia..."
+  },
+  {
+   "key": "1895255965991763968",
+   "en": "Think I, uh, need to lie down.",
+   "ro": "Cred că, ăă, trebuie să mă întind."
+  },
+  {
+   "key": "1902531344855973888",
+   "en": "...h-hear me? You need to wake up!",
+   "ro": "...mă auzi? Trebuie să te trezești!"
+  },
+  {
+   "key": "1902533597448880128",
+   "en": "Oh, thank fuck! You're alive....",
+   "ro": "Ah, mulțumesc lui dracu'! Ești în viață...."
+  },
+  {
+   "key": "1902533910276849668",
+   "en": "What happened?",
+   "ro": "Ce s-a întâmplat?"
+  },
+  {
+   "key": "1902534560712736768",
+   "en": "What happened...?",
+   "ro": "Ce s-a întâmplat...?"
+  },
+  {
+   "key": "1902534625086914560",
+   "en": "Dunno. Didn't think about it. Just did what I had to do.",
+   "ro": "Nu știu. Nu m-am gândit. Am făcut ce trebuia."
+  },
+  {
+   "key": "1902534958567636992",
+   "en": "So, you're sayin'... you saved my life. Heh... Thank you.",
+   "en_m": "So, you're sayin'... you saved my life. Thank you.",
+   "ro": "Deci zici că... mi-ai salvat viața? Heh... Mersi."
+  },
+  {
+   "key": "1902548400791863296",
+   "en": "You passed out.",
+   "ro": "Ai leșinat."
+  },
+  {
+   "key": "1902549384221933568",
+   "en": "Told you diving into this toxic waste was gonna end badly.",
+   "ro": "Ți-am zis eu că o să se termine prost, cu căcatul ăsta toxic."
+  },
+  {
+   "key": "1902550024339832832",
+   "en": "\"Toxic waste\"...? Is that your construct?",
+   "ro": "„Gunoi toxic”...? Constructul ăsta e al tău?"
+  },
+  {
+   "key": "1902559997404889092",
+   "en": "Heard somethin' weird just now... Sounded like... complaining?",
+   "ro": "Am auzit ceva ciudat acum... Părea... o plângere?"
+  },
+  {
+   "key": "1902560002169618432",
+   "en": "That's Johnny Silverhand's construct.",
+   "ro": "Ăsta e constructul lui Johnny Silverhand."
+  },
+  {
+   "key": "1902560002186395652",
+   "en": "Oh, it's nothing.",
+   "ro": "A, nu-i nimic."
+  },
+  {
+   "key": "1902560003797008384",
+   "en": "Remember the Relic? Reason for the whole damn heist...",
+   "en_m": "You remember the Relic? The reason for the whole damn heist...",
+   "ro": "Ții minte Relic-ul? Motivul pentru tot jaful ăla nenorocit..."
+  },
+  {
+   "key": "1902560006917570560",
+   "en": "Johnny Silverhand's digitized psyche was on it, and... well, his personality's seeping into my mind, taking over.",
+   "en_m": "Well, Johnny Silverhand's digitized psyche was on it, and well... his personality's seepin' into my mind, taking over.",
+   "ro": "Psihicul digitizat al lui Johnny Silverhand era pe el, și... păi, personalitatea lui se strecoară în mintea mea și preia controlul."
+  },
+  {
+   "key": "1902560008461074432",
+   "en": "You could say his mind's overwriting mine.",
+   "ro": "Poți zice că mintea lui o suprascrie pe a mea."
+  },
+  {
+   "key": "1902560010004578304",
+   "en": "Oh shit, V... That mean you're... disappearing? Can you stop it?",
+   "ro": "Ah, căcat, V... Asta înseamnă că... dispari? Poți s-o opri?"
+  },
+  {
+   "key": "1902560011682299904",
+   "en": "Got an idea, a plan, just... don't know if it'll... well, work.",
+   "en_m": "I got an idea, a plan, but... I just don't know if it'll... well, work.",
+   "ro": "Am o idee, un plan, doar că... nu știu dacă o să meargă.",
+   "ro_m": "Am o idee, un plan, dar... nu știu dacă o să meargă."
+  },
+  {
+   "key": "1902560016010821636",
+   "en": "I been... feelin' a bit... burned out lately, that's all.",
+   "en_m": "Been feelin' a bit... burned out lately. That's all.",
+   "ro": "Mă simt cam... epuizată în ultima vreme, atâta tot.",
+   "ro_m": "Mă simt cam... epuizat în ultima vreme, atâta tot."
+  },
+  {
+   "key": "1902560017403330560",
+   "en": "Hmph, if you say so...",
+   "ro": "Hmph, dacă zici tu..."
+  },
+  {
+   "key": "1902562057345024000",
+   "en": "Why do I even bother...?",
+   "ro": "De ce mă mai obosesc...?"
+  },
+  {
+   "key": "1902562737711464448",
+   "en": "Doubt you should go back to the city just now... I'm pretty beat too – last thing I wanna do is drive.",
+   "ro": "Nu cred că ar trebui să te întorci în oraș acum... Și eu sunt praf – ultimul lucru pe care vreau e să conduc."
+  },
+  {
+   "key": "1902569637744197636",
+   "en": "[Stand] Why not.",
+   "ro": "[Ridică-te] De ce nu."
+  },
+  {
+   "key": "1902570293347467264",
+   "en": "Bad idea, prolly.",
+   "ro": "Probabil e o idee proastă."
+  },
+  {
+   "key": "1902596341971795968",
+   "en": "After you.",
+   "ro": "După tine."
+  },
+  {
+   "key": "1902598807400464384",
+   "en": "Must be chilled to the bone. I'll brew a pot.",
+   "ro": "Sigur ești degerată. Îți fac o cafea.",
+   "ro_m": "Sigur ești degerat. Îți fac o cafea."
+  },
+  {
+   "key": "1902604368292593668",
+   "en": "Black.",
+   "ro": "Neagră."
+  },
+  {
+   "key": "1902605161150267392",
+   "en": "With sugar.",
+   "ro": "Cu zahăr."
+  },
+  {
+   "key": "1902605304998117376",
+   "en": "With milk.",
+   "ro": "Cu lapte."
+  },
+  {
+   "key": "1902605497432784896",
+   "en": "With milk and sugar.",
+   "ro": "Cu lapte și zahăr."
+  },
+  {
+   "key": "1902605833396535296",
+   "en": "Black, please.",
+   "en_m": "Uh, black, please.",
+   "ro": "Neagră, te rog.",
+   "ro_m": "Ăă, neagră, te rog."
+  },
+  {
+   "key": "1902606024958787584",
+   "en": "Two sugars, please.",
+   "ro": "Două zaharuri, te rog."
+  },
+  {
+   "key": "1902606375686488064",
+   "en": "Splash of milk'll do.",
+   "en_m": "A splash of milk'll do.",
+   "ro": "Un pic de lapte ajunge."
+  },
+  {
+   "key": "1902606591374376960",
+   "en": "Milk and sugar, please.",
+   "ro": "Lapte și zahăr, te rog."
+  },
+  {
+   "key": "1902607079188709376",
+   "en": "Ahh... Forgot to start the generator.",
+   "ro": "Ahh... Am uitat să pornesc generatorul."
+  },
+  {
+   "key": "1902608665440927744",
+   "en": "Like the heart of a merc.",
+   "ro": "Ca inima unui merc."
+  },
+  {
+   "key": "1902609089854160896",
+   "en": "Mmm... tough on the outside... sweet on the inside.",
+   "ro": "Mmm... tare pe dinafară... dulce pe dinăuntru."
+  },
+  {
+   "key": "1902609305911148544",
+   "en": "Heh, same as me.",
+   "ro": "Heh, la fel ca mine."
+  },
+  {
+   "key": "1902609520760176640",
+   "en": "Goin' all in, huh?",
+   "ro": "Mergi pe tot, ha?"
+  },
+  {
+   "key": "1902612413168992260",
+   "en": "[Start generator]",
+   "ro": "[Pornește generatorul]"
+  },
+  {
+   "key": "1902619241646899200",
+   "en": "Power's up!",
+   "ro": "Avem curent!"
+  },
+  {
+   "key": "1907139739151720448",
+   "en": "V! Please...",
+   "ro": "V! Te rog..."
+  },
+  {
+   "key": "1908202789225062400",
+   "en": "Hey! Careful, easy now...",
+   "ro": "Hei! Ai grijă, ușurel..."
+  },
+  {
+   "key": "1908216187224547328",
+   "en": "How'd you manage to lift me out?",
+   "ro": "Cum ai reușit să mă scoți?"
+  },
+  {
+   "key": "1908344661272649728",
+   "en": "But you just don't fuckin' listen!",
+   "ro": "Dar tu chiar nu asculți, pula mea!"
+  },
+  {
+   "key": "1908356249698394112",
+   "en": "You... heard him?",
+   "ro": "Tu... l-ai auzit?"
+  },
+  {
+   "key": "1908356284947324928",
+   "en": "Please just ignore his babbling. It's a... complicated relationship.",
+   "ro": "Te rog ignoră-i tâmpeniile. E o... relație complicată."
+  },
+  {
+   "key": "1908405967132516352",
+   "en": "Eh, \"heard's\" overstating. It just... surfaced in my head... a thought that wasn't mine or completely yours.",
+   "ro": "Păi, „a auzit” e mult spus. Doar... mi-a venit în cap... un gând care nu era al meu, sau nu era deloc al tău."
+  },
+  {
+   "key": "1908416260692729856",
+   "en": "You heard that...? Incredible. I-it never happened before, but... no worries, it's-- it's Johnny Silverhand's construct.",
+   "en_m": "You heard that...? S'incredible. Never happened before... But no worries, it's... Johnny Silverhand's construct.",
+   "ro": "Ai auzit...? Incredibil. N-nu s-a mai întâmplat niciodată, dar... fără griji, e... constructul lui Johnny Silverhand.",
+   "ro_m": "Ai auzit...? E incredibil. Nu s-a mai întâmplat niciodată... Dar fără griji, e... constructul lui Johnny Silverhand."
+  },
+  {
+   "key": "1908418321907933184",
+   "en": "Heard his thoughts, not mine.",
+   "en_m": "You heard his thoughts, not mine.",
+   "ro": "Ai auzit gândurile lui, nu ale mele."
+  },
+  {
+   "key": "1908418701358227456",
+   "en": "Johnny…? What?!",
+   "ro": "Johnny…? Ce?!"
+  },
+  {
+   "key": "1908423798528106496",
+   "en": "It just... sounded weird. As if it wasn't you.",
+   "ro": "Pur și simplu... suna ciudat. De parcă nu erai tu."
+  },
+  {
+   "key": "1908428400786890756",
+   "en": "Ignore him.",
+   "ro": "Ignoră-l."
+  },
+  {
+   "key": "1908429142859931648",
+   "en": "You heard him?",
+   "ro": "L-ai auzit?"
+  },
+  {
+   "key": "1908437022279426048",
+   "en": "Nothin' to be losin' any sleep over.",
+   "ro": "Nimic de care să-ți pierzi somnul."
+  },
+  {
+   "key": "1908451287308656640",
+   "en": "Let's stay the night. Whaddaya think?",
+   "ro": "Hai să rămânem peste noapte. Ce zici?"
+  },
+  {
+   "key": "1908454228136517632",
+   "en": "Stay... where, exactly?",
+   "ro": "Rămânem... unde, mai exact?"
+  },
+  {
+   "key": "1915509518652628992",
+   "en": "How do you take yours?",
+   "ro": "Cum îl bei?"
+  },
+  {
+   "key": "1915626775722549248",
+   "en": "I can turn it on.",
+   "ro": "Pot să-l pornesc."
+  },
+  {
+   "key": "1915629655867219972",
+   "en": "I can go turn it on.",
+   "ro": "Pot să mă duc să-l pornesc."
+  },
+  {
+   "key": "1915636065703256064",
+   "en": "A generator? How luxurious.",
+   "ro": "Un generator? Ce lux."
+  },
+  {
+   "key": "1915637897271926784",
+   "en": "You're gonna take it easy.",
+   "ro": "O să te relaxezi."
+  },
+  {
+   "key": "1915640849575403520",
+   "en": "Promise to take it slow.",
+   "ro": "Promite că o iei ușor."
+  },
+  {
+   "key": "1915642059866988544",
+   "en": "A generator? What's next – jacuzzi? Heh, Finnish sauna?",
+   "en_m": "A generator? Heh... what's next – jacuzzi? Finnish sauna?",
+   "ro": "Un generator? Ce urmează – jacuzzi? Heh, saună finlandeză?",
+   "ro_m": "Un generator? Heh... ce urmează – jacuzzi? Saună finlandeză?"
+  },
+  {
+   "key": "1915643686116089856",
+   "en": "No, but there is runnin' water.",
+   "ro": "Nu, dar e apă curentă."
+  },
+  {
+   "key": "1915690998938951680",
+   "en": "Your little spa's open for business.",
+   "ro": "Micul tău spa e gata de clienți."
+  },
+  {
+   "key": "1934272924531884032",
+   "en": "[Get up] How'd you pull me out?",
+   "ro": "[Ridică-te] Cum m-ai scos?"
+  },
+  {
+   "key": "1934517212087910400",
+   "en": "\"Complaining\"? That the best you got, kid?",
+   "ro": "„Te plângi”? Asta-i tot ce ai, puștiule?"
+  },
+  {
+   "key": "1934523090807619584",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1934558877431431168",
+   "en": "And here we go...",
+   "ro": "Și iar începem..."
+  },
+  {
+   "key": "1934668593780293636",
+   "en": "Whose cottage is it?",
+   "ro": "A cui e căsuța asta?"
+  },
+  {
+   "key": "1934675300774379520",
+   "en": "Whose cottage is that, then? You said you knew the owner.",
+   "ro": "A cui e căsuța aia, atunci? Ai zis că îl cunoști pe proprietar."
+  },
+  {
+   "key": "1934676059356200960",
+   "en": "One of our neighbors was hell-bent on staying in Laguna Bend. Badges literally dragged him out of his house before the water came in.",
+   "ro": "Un vecin de-al nostru era hotărât să rămână în Laguna Bend. Gaborii l-au scos efectiv din casă înainte să intre apa."
+  },
+  {
+   "key": "1935941820359966724",
+   "en": "Changed my mind. I'll stay.",
+   "ro": "M-am răzgândit. Rămân."
+  },
+  {
+   "key": "1935945009373184000",
+   "en": "Sure you don't wanna come back with me?",
+   "ro": "Sigur nu vrei să vii cu mine?"
+  },
+  {
+   "key": "1935945233114136576",
+   "en": "All right, changed my mind... I'll stay.",
+   "ro": "Bine, m-am răzgândit... Rămân."
+  },
+  {
+   "key": "1935945282892136448",
+   "en": "Sure you don't wanna come back to the city with me?",
+   "ro": "Sigur nu vrei să vii cu mine în oraș?"
+  },
+  {
+   "key": "1935945662375985152",
+   "en": "Just go already, OK?",
+   "ro": "Pleacă odată, da?"
+  },
+  {
+   "key": "1935948511449251840",
+   "en": "Too late. Said you wanted to go – so go.",
+   "ro": "Prea târziu. Ai zis că vrei să pleci, deci pleci."
+  },
+  {
+   "key": "1935952410407141376",
+   "en": "I'm sure.",
+   "ro": "Sunt sigură.",
+   "ro_m": "Sunt sigur."
+  },
+  {
+   "key": "1936020058776076288",
+   "en": "Fine. Let's go.",
+   "ro": "Bine. Hai să mergem."
+  },
+  {
+   "key": "1936020704413679616",
+   "en": "Have it your way. Let's go.",
+   "ro": "Fă cum vrei. Hai să mergem."
+  },
+  {
+   "key": "1936021215196020736",
+   "en": "Best decision you've made all day.",
+   "ro": "Cea mai bună decizie de azi."
+  },
+  {
+   "key": "1986733226418987008",
+   "en": "So he built himself another house as close as he possibly could, but... then he got sick. Water was way more toxic back then.",
+   "ro": "Așa că și-a făcut altă casă cât mai aproape se putea, dar... apoi s-a îmbolnăvit. Apa era mult mai toxică pe atunci."
+  },
+  {
+   "key": "2026208420476026884",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2064997410624569348",
+   "en": "Remember the Relic we stole?",
+   "ro": "Îți amintești de Relic-ul pe care l-am furat?"
+  },
+  {
+   "key": "2065056016845832192",
+   "en": "Nothing. Forget it.",
+   "ro": "Nimic. Lasă, uită."
+  },
+  {
+   "key": "2065057405210787844",
+   "en": "Got a plan. Sort of.",
+   "ro": "Am un plan. Cam."
+  },
+  {
+   "key": "2065057796623237120",
+   "en": "Don't worry about it.",
+   "ro": "Nu-ți face griji."
+  },
+  {
+   "key": "2253477930223755264",
+   "en": "Sure you're all right?",
+   "ro": "Sigur ești bine?"
+  },
+  {
+   "key": "2253480625433174024",
+   "en": "Everything chill? You OK?",
+   "ro": "Totul ok? Ești bine?"
+  },
+  {
+   "key": "2434767751695368192",
+   "en": "I-I wanted...",
+   "ro": "A-Am vrut..."
+  },
+  {
+   "key": "2511759030030643204",
+   "en": "Speakin' of harm's way. Know what I see lookin' at you?",
+   "ro": "Vorbind de pericol... Știi ce văd când mă uit la tine?"
+  },
+  {
+   "key": "2511759030399741952",
+   "en": "Walking, talking corpses.",
+   "ro": "Niște cadavre ambulante care vorbesc."
+  },
+  {
+   "key": "2511761464857669632",
+   "en": "You go that route, city'll always win. So be careful.",
+   "ro": "Pe drumul ăsta, orașul câștigă mereu. Deci fii atent."
+  },
+  {
+   "key": "2511763491595694080",
+   "en": "'Course I will be.",
+   "ro": "Sigur că o să fiu."
+  }
+ ]
+}

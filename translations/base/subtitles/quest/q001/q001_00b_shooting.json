@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_00b_shooting.json",
+ "entries": [
+  {
+   "key": "1144476227905806352",
+   "en": "Hey, V! Head down!",
+   "ro": "Hei, V! Jos capul!"
+  },
+  {
+   "key": "1144476358231220224",
+   "en": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"\" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1244755525693542416",
+   "en": "That all you got?!",
+   "ro": "Asta-i tot ce ai?!"
+  },
+  {
+   "key": "1244760100219588608",
+   "en": "Juice 'em 'tween the eyes, V! You got this!",
+   "ro": "Plesnește-le între ochi, V! Ești un as!"
+  },
+  {
+   "key": "1244761949437890560",
+   "en": "<kiroshi l=\"mex\" o=\"¡Jódanse!\" t=\"Get fucked!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Jódanse!\" t=\"Du-te-n pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1244762800646721536",
+   "en": "Rip 'em to shreds!",
+   "ro": "Fă-i praf!"
+  },
+  {
+   "key": "1244763540001853440",
+   "en": "<mothertongue l=\"mex\" m=\"cabrones!\" b=\"Take this, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrones!\" b=\"Ia asta, \" a=\"\"/>"
+  }
+ ]
+}

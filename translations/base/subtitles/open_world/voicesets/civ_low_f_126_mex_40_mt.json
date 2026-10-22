@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_f_126_mex_40_mt.json",
+ "entries": [
+  {
+   "key": "1949203003813699588",
+   "en": "<kiroshi l=\"mex\" o=\"¡Hola!\" t=\"Hi there!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Hola!\" t=\"Salut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003830476804",
+   "en": "<kiroshi l=\"mex\" o=\"¿Llegaste hace poco?\" t=\"Are you new here?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Llegaste hace poco?\" t=\"Ești nouă pe aici?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¿Llegaste hace poco?\" t=\"Ești nou pe aici?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003880808452",
+   "en": "<kiroshi l=\"mex\" o=\"¡Oye, despacio!\" t=\"One moment!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Oye, despacio!\" t=\"O clipă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003897585668",
+   "en": "<kiroshi l=\"mex\" o=\"Ey, ten cuidado!\" t=\"Watch yourself!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ey, ten cuidado!\" t=\"Ai grijă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003931140100",
+   "en": "<kiroshi l=\"mex\" o=\"¿Eres tú?\" t=\"Is it you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Eres tú?\" t=\"Tu ești?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003981471748",
+   "en": "<kiroshi l=\"mex\" o=\"Estoy aburrida... lo sé... me estoy poniendo ansiosa... quiero hacer algo... lo que sea.\" t=\"I’m bored… I know… I'm getting antsy… I want to do something… Anything.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Estoy aburrida... lo sé... me estoy poniendo ansiosa... quiero hacer algo... lo que sea.\" t=\"Mă plictisesc… Știu… Mă apucă nervii… Vreau să fac ceva… Orice.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203003998248964",
+   "en": "<kiroshi l=\"mex\" o=\"¿Estás demente...? ¡¿Yo...?! Ay, no me chingues... ¡Jamás en la vida...! ¡Prefiero morirme!\" t=\"Are you crazy…? Me…?! You're joking… Never in my life…! I'd rather die!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Estás demente...? ¡¿Yo...?! Ay, no me chingues... ¡Jamás en la vida...! ¡Prefiero morirme!\" t=\"Ești nebună…? Eu…?! Glumești… Niciodată în viața mea…! Mai bine mor!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¿Estás demente...? ¡¿Yo...?! Ay, no me chingues... ¡Jamás en la vida...! ¡Prefiero morirme!\" t=\"Ești nebun…? Eu…?! Glumești… Niciodată în viața mea…! Mai bine mor!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004031803396",
+   "en": "<kiroshi l=\"mex\" o=\"¡Por supuesto que sí!\" t=\"Of course I am!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Por supuesto que sí!\" t=\"Sigur că da!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004182798340",
+   "en": "Aaaahhhh!",
+   "ro": "Aaaahhhh!"
+  },
+  {
+   "key": "1949203004199575556",
+   "en": "<kiroshi l=\"mex\" o=\"¡Pide ayuda!\" t=\"Call for help!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Pide ayuda!\" t=\"Cheamă ajutor!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004283461636",
+   "en": "<kiroshi l=\"mex\" o=\"¡Perdóname, por favor!\" t=\"Spare me, please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Perdóname, por favor!\" t=\"Iartă-mă, te rog!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004300238852",
+   "en": "<kiroshi l=\"mex\" o=\"¿Te divierte mi sufrimiento?\" t=\"Does my pain amuse you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Te divierte mi sufrimiento?\" t=\"Te amuză suferința mea?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004384124932",
+   "en": "<kiroshi l=\"mex\" o=\"Sería chido conocerte... pero no hoy.\" t=\"I'd love to get to know you… But not today.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sería chido conocerte... pero no hoy.\" t=\"Mi-ar plăcea să te cunosc… Dar nu azi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949203004400902148",
+   "en": "<kiroshi l=\"mex\" o=\"Hoy no, cielo.\" t=\"Not today, darling.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Hoy no, cielo.\" t=\"Azi nu, dragă.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

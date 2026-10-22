@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_008.json",
+ "entries": [
+  {
+   "key": "1832665518384472064",
+   "en": "<kiroshi l=\"mex\" o=\"Vieja, ya déjalo.\" t=\"Mom, just leave him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Vieja, ya déjalo.\" t=\"Mamă, lasă-l în pace.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832667810605162496",
+   "en": "<kiroshi l=\"mex\" o=\"¿Te crees que tu padre siempre fue así? ¿Que no quería lo mejor para ti?\" t=\"You think your father was always like that? That he didn't want what's best for you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Te crees que tu padre siempre fue así? ¿Que no quería lo mejor para ti?\" t=\"Crezi că tatăl tău a fost mereu așa? Că nu-ți voia binele?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832667997117472768",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué tiene que hacer para que abras los ojos?\" t=\"What does he have to do before you'll open your eyes?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué tiene que hacer para que abras los ojos?\" t=\"Ce trebuie să facă până să-ți deschizi ochii?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832668636010635264",
+   "en": "<kiroshi l=\"mex\" o=\"Intenta entenderlo. Te pareces tanto a él...\" t=\"Try to understand him. You're so much like him…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Intenta entenderlo. Te pareces tanto a él...\" t=\"Încearcă să-l înțelegi. Ești atât de asemănător cu el…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832668769607606272",
+   "en": "<kiroshi l=\"mex\" o=\"¡No me compares con él!\" t=\"Don't compare me to him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡No me compares con él!\" t=\"Nu mă compara cu el!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832669012055154688",
+   "en": "<kiroshi l=\"mex\" o=\"Es tu…\" t=\"It's your…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Es tu…\" t=\"E al tău…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832669330285387776",
+   "en": "<kiroshi l=\"mex\" o=\"¡Dije que no lo hagas!\" t=\"I said, don't!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Dije que no lo hagas!\" t=\"Am zis, nu!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1832669909267111936",
+   "en": "<kiroshi l=\"mex\" o=\"Está bien... Está bien.\" t=\"All right… all right.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Está bien... Está bien.\" t=\"Bine… bine.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq030\\sq030_chicken_test.json",
+ "entries": [
+  {
+   "key": "1392317421367312384",
+   "en": "[db_db]BEGINNING",
+   "ro": "[db_db]ÎNCEPUT"
+  },
+  {
+   "key": "1392318726349504512",
+   "en": "[db_db]PREPARATIONS",
+   "en_m": "[db_db]WAY TO LAKE",
+   "ro": "[db_db]PREGĂTIRI",
+   "ro_m": "[db_db]DRUM SPRE LAC"
+  },
+  {
+   "key": "1392318977990967296",
+   "en": "[db_db]LAKE",
+   "ro": "[db_db]LAC"
+  },
+  {
+   "key": "1392321310309203968",
+   "en": "[db_db]HUT",
+   "ro": "[db_db]COLIBĂ"
+  },
+  {
+   "key": "1392438150029099008",
+   "en": "[db_db]Sided with Maiko",
+   "en_m": "[db_db]WE KILLED SALAZAR AND FREED THE DOLLS PEACEFULLY",
+   "ro": "[db_db]S-A ALIAT CU MAIKO",
+   "ro_m": "[db_db]L-AM UCIS PE SALAZAR ȘI AM ELIBERAT PĂPUȘILE PAȘNIC"
+  },
+  {
+   "key": "1392440319843221504",
+   "en": "[db_db]Sided with Judy",
+   "en_m": "[db_db]SALAZAR GOT AWAY AND WE KILLED TYGER CLAWS IN THE DOLLHOUSE",
+   "ro": "[db_db]S-A ALIAT CU JUDY",
+   "ro_m": "[db_db]SALAZAR A SCĂPAT ȘI AM UCIS TYGER CLAWS ÎN CASA PĂPUȘILOR"
+  },
+  {
+   "key": "1395392517304729632",
+   "en": "[db_db]LAKE - Diving Start",
+   "ro": "[db_db]LAC - ÎNCEPUT SCUFUNDARE"
+  },
+  {
+   "key": "1395392517304729648",
+   "en": "[db_db]LAKE - Braindance Calibrations",
+   "ro": "[db_db]LAC - CALIBRĂRI BRAINDANCE"
+  },
+  {
+   "key": "1395392517304729664",
+   "en": "[db_db]LAKE - Dive to Village",
+   "ro": "[db_db]LAC - SCUFUNDARE SPRE SAT"
+  },
+  {
+   "key": "1395392517321506860",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "1395393403812823112",
+   "en": "[db_db]HUT - Arrival",
+   "ro": "[db_db]COLIBĂ - SOSIRE"
+  },
+  {
+   "key": "1395393403829600260",
+   "en": "[db_db]HUT - Sex",
+   "ro": "[db_db]COLIBĂ - SEX"
+  },
+  {
+   "key": "1395393403829600276",
+   "en": "[db_db]HUT - End",
+   "ro": "[db_db]COLIBĂ - SFÂRȘIT"
+  },
+  {
+   "key": "1395395160722882560",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "1400835738721828864",
+   "en": "[db_db]HUT - Way to Hut",
+   "ro": "[db_db]COLIBĂ - DRUM SPRE COLIBĂ"
+  },
+  {
+   "key": "1742886693992644608",
+   "en": "[db_db]LAKE - Romance",
+   "ro": "[db_db]LAC - ROMANȚĂ"
+  },
+  {
+   "key": "1747389669104926724",
+   "en": "[db_db]UNCENSORED",
+   "ro": "[db_db]NECENZURAT"
+  },
+  {
+   "key": "1747390420908752896",
+   "en": "[db_db]CENSORED",
+   "ro": "[db_db]CENZURAT"
+  },
+  {
+   "key": "1747391238831587332",
+   "en": "[db_db]NOPE",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "1747391678042324992",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "1870597466327334912",
+   "en": "[db_db]FEMALE",
+   "ro": "[db_db]FEMEIE"
+  },
+  {
+   "key": "1870597466327334928",
+   "en": "[db_db]MALE",
+   "ro": "[db_db]MASCULIN"
+  },
+  {
+   "key": "1870597466360889344",
+   "en": "[db_db]STREET KID",
+   "ro": "[db_db]STREET KID"
+  },
+  {
+   "key": "1870597466377666560",
+   "en": "[db_db]NOMAD",
+   "ro": "[db_db]NOMAD"
+  },
+  {
+   "key": "1870597466377666576",
+   "en": "[db_db]CORPO",
+   "ro": "[db_db]CORPO"
+  },
+  {
+   "key": "2027411936244916224",
+   "en": "[db_db]MESSAGES",
+   "ro": "[db_db]MESAJE"
+  },
+  {
+   "key": "2027412322187993092",
+   "en": "[db_db]ROMANCE MESSAGES",
+   "ro": "[db_db]MESAJE ROMANTICE"
+  },
+  {
+   "key": "2027412841325387776",
+   "en": "[db_db]FRIENDSHIP",
+   "ro": "[db_db]PRIETENIE"
+  },
+  {
+   "key": "2027413038323458048",
+   "en": "[db_db]BROKEN FRIENDSHIP",
+   "ro": "[db_db]PRIETENIE STRICATĂ"
+  },
+  {
+   "key": "2027413468122177536",
+   "en": "[db_db]ABOUT RECORDED BD",
+   "ro": "[db_db]DESPRE BD-UL ÎNREGISTRAT"
+  },
+  {
+   "key": "2027416577594613760",
+   "en": "[db_db]UNDERWATER VILLAGE IMAGE",
+   "ro": "[db_db]IMAGINE SAT SUBACVATIC"
+  },
+  {
+   "key": "2027417037206446080",
+   "en": "[db_db]DRUNK TEXTING",
+   "ro": "[db_db]MESAJE BĂUTE"
+  },
+  {
+   "key": "2027417539633733632",
+   "en": "[db_db]MORNING AFTER DRUNK TEXTING",
+   "ro": "[db_db]DIMINEAȚA DUPĂ MESAJE BĂUTE"
+  },
+  {
+   "key": "2027417577902563328",
+   "en": "[db_db]GIFTS FOR V",
+   "ro": "[db_db]CADOURI PENTRU V"
+  },
+  {
+   "key": "2027417935206932480",
+   "en": "[db_db]V LOOTET MAXTAC SUIT",
+   "ro": "[db_db]V A LUAT COSTUMUL MAXTAC"
+  },
+  {
+   "key": "2027418382235852800",
+   "en": "[db_db]V DROVE JUDY'S CAR",
+   "ro": "[db_db]V A CONDUS MAȘINA LUI JUDY"
+  },
+  {
+   "key": "2027418438221422592",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "2027418668975251456",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "2027419399992107012",
+   "en": "[db_db]FROM OREGON",
+   "ro": "[db_db]DIN OREGON"
+  },
+  {
+   "key": "2027419916445147136",
+   "en": "[db_db]CAR TROUBLE",
+   "ro": "[db_db]PROBLEME CU MAȘINA"
+  },
+  {
+   "key": "2027419968471293952",
+   "en": "[db_db]ARRIVAL IN SEATTLE",
+   "ro": "[db_db]SOSIRE ÎN SEATTLE"
+  },
+  {
+   "key": "2027420079385468928",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "2217241030800171012",
+   "en": "[db_db]LEAVING AFTER SEX",
+   "ro": "[db_db]PLECARE DUPĂ SEX"
+  },
+  {
+   "key": "2217242055015653376",
+   "en": "[db_db]GOODBYE MESSAGE",
+   "ro": "[db_db]MESAJ DE RĂMAS BUN"
+  },
+  {
+   "key": "2217243456953376768",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  }
+ ]
+}

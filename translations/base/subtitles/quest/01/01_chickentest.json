@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\01\\01_chickentest.json",
+ "entries": [
+  {
+   "key": "4136263143275753476",
+   "en": "[db_db]Intro",
+   "ro": "[db_db]Intro"
+  },
+  {
+   "key": "4136263619731910656",
+   "en": "[db_db]Race Start",
+   "ro": "[db_db]Race Start"
+  },
+  {
+   "key": "4136263901186486276",
+   "en": "[db_db]Skip SMS",
+   "ro": "[db_db]Skip SMS"
+  },
+  {
+   "key": "4136264246981685248",
+   "en": "[db_db]Play SMS",
+   "ro": "[db_db]Play SMS"
+  },
+  {
+   "key": "4136264547327406084",
+   "en": "[db_db]City Center",
+   "ro": "[db_db]City Center"
+  },
+  {
+   "key": "4136264730232614912",
+   "en": "[db_db]Badlands",
+   "ro": "[db_db]Badlands"
+  },
+  {
+   "key": "4136264850944684032",
+   "en": "[db_db]Santo Domingo",
+   "ro": "[db_db]Santo Domingo"
+  },
+  {
+   "key": "4136265074853408768",
+   "en": "[db_db]Westbrook",
+   "ro": "[db_db]Westbrook"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_apart_wat_nid_interactions.json",
+ "entries": [
+  {
+   "key": "2028697799592157188",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2028698177566056448",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2028699165173653504",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2028737051734482948",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "2078186557357858816",
+   "en": "[Leave shower]",
+   "ro": "[Ieși din duș]"
+  },
+  {
+   "key": "2086887489105780736",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2086931518929461248",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2123159550320091136",
+   "en": "[Turn on TV]",
+   "ro": "[Pornește televizorul]"
+  },
+  {
+   "key": "2318488737380474884",
+   "en": "[Switch to next channel]",
+   "ro": "[Schimbă pe canalul următor]"
+  },
+  {
+   "key": "2318489634374328320",
+   "en": "[Switch to previous channel]",
+   "ro": "[Schimbă pe canalul anterior]"
+  },
+  {
+   "key": "2318490007398948864",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2531839124031037440",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2531839124031037460",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2531839124031037480",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2531839124047814664",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2531839124047814684",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "2736102100211507200",
+   "en": "[Turn on]",
+   "ro": "[Pornește]"
+  },
+  {
+   "key": "2736102100396056576",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2898444689223868416",
+   "en": "[Change appearance]",
+   "ro": "[Schimbă aspectul]"
+  },
+  {
+   "key": "2898444689240645632",
+   "en": "[Change facial expression]",
+   "ro": "[Schimbă expresia facială]"
+  },
+  {
+   "key": "2898445154741280768",
+   "en": "[Back]",
+   "ro": "[Înapoi]"
+  },
+  {
+   "key": "3003954375804493824",
+   "en": "[Rent apartment]",
+   "ro": "[Închiriază apartament]"
+  },
+  {
+   "key": "3357982992827834368",
+   "en": "[Open Wardrobe]",
+   "ro": "[Deschide garderoba]"
+  }
+ ]
+}

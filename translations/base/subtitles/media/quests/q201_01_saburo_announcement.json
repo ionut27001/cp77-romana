@@ -1,0 +1,70 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q201_01_saburo_announcement.json",
+ "entries": [
+  {
+   "key": "1744677149109444608",
+   "en": "WNS News has been notified of a breaking story. Saburo Arasaka lives once more, though now in the body of his son.",
+   "ro": "WNS News a primit o știre de ultimă oră. Saburo Arasaka e iar în viață, dar acum în corpul fiului lui."
+  },
+  {
+   "key": "1744679276426878976",
+   "en": " The CEO was reported dead months ago, but now it's been revealed that a copy of his consciousness was made before his death.",
+   "ro": "CEO-ul fusese dat mort acum câteva luni, dar acum s-a aflat că o copie a conștiinței lui fusese făcută înainte să moară."
+  },
+  {
+   "key": "1744680663063781376",
+   "en": "It appears his consciousness was used to overwrite that of his son and heir, Yorinobu Arasaka. This shocking development was revealed at a press conference earlier today.",
+   "ro": "Se pare că i s-a folosit conștiința ca să-i rescrie pe cea a fiului și moștenitorului, Yorinobu Arasaka. Chestia asta șocantă a fost anunțată la o conferință de presă mai devreme azi."
+  },
+  {
+   "key": "1751657247951876096",
+   "en": "<kiroshi l=\"jpn\" o=\"皆さん、いらっしゃい\" t=\"Welcome, everyone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"皆さん、いらっしゃい\" t=\"Bun venit, tuturor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751658368971894784",
+   "en": "Today is truly a historic day. Today, technology has fulfilled the promise left empty by religion.",
+   "ro": "Azi e chiar o zi istorică. Tehnologia a împlinit ce religia a promis și n-a făcut."
+  },
+  {
+   "key": "1751659440532680704",
+   "en": "<kiroshi l=\"jpn\" o=\"祖父はよく、「枯れ落ちた花は枝に戻らない」と言っていました\" t=\"My grandfather once told me, \\\"A fallen flower cannot return to its branch.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"祖父はよく、「枯れ落ちた花は枝に戻らない」と言っていました\" t=\"Bunicul meu mi-a spus odată: „O floare căzută nu se poate întoarce pe ramură.”\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751659477476110336",
+   "en": "<kiroshi l=\"jpn\" o=\"人は誰も、物心ついた瞬間から、死を恐れるものです\" t=\"From the moment a person becomes conscious of their being, they live in fear of death.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"人は誰も、物心ついた瞬間から、死を恐れるものです\" t=\"Din clipa în care omul își dă seama că există, trăiește cu frica de moarte.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751659894893244416",
+   "en": "<kiroshi l=\"jpn\" o=\"ついに、人類最大の恐怖が克服されました。私、サブロウ・アラサカは今、息子の体を使い、みなさんの前に立っています\" t=\"Mankind's oldest and greatest fear has been overcome. Here before you, I stand now – Saburo Arasaka – alive in the body of my son.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ついに、人類最大の恐怖が克服されました。私、サブロウ・アラサカは今、息子の体を使い、みなさんの前に立っています\" t=\"Cea mai veche și mai mare frică a omenirii a fost bătută. Iată-mă în fața voastră – Saburo Arasaka – viu, în trupul fiului meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751661212642897920",
+   "en": "<kiroshi l=\"jpn\" o=\"私はかつてヨリノブに生を与えました。彼は愛する父のために、それを返してくれたのです\" t=\"I once gave life to my Yorinobu. In return, he has demonstrated the depth of a son's love and has returned this gift to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私はかつてヨリノブに生を与えました。彼は愛する父のために、それを返してくれたのです\" t=\"Cândva i-am dat viață lui Yorinobu. Iar el, cu dragostea unui fiu, mi-a întors darul ăsta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751661577195024384",
+   "en": "<kiroshi l=\"jpn\" o=\"私のいない間、ヨリノブは会社を変革しようといくつかの決定を下しましたが、これらは過ちでした\" t=\"In my absence, Yorinobu made several decisions aimed at transforming our company. In these, he erred.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私のいない間、ヨリノブは会社を変革しようといくつかの決定を下しましたが、これらは過ちでした\" t=\"Cât am lipsit eu, Yorinobu a luat câteva decizii ca să schimbe compania. În ele a greșit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751661620413132800",
+   "en": "<kiroshi l=\"jpn\" o=\"私の指揮のもと、アラサカ社は元の姿を取り戻します。決して揺らぐことのない、強いアラサカが帰ってくることを、約束いたします。\" t=\"Under my leadership, the Arasaka Corporation will return to its roots – roots strong enough to move the heaviest stones.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私の指揮のもと、アラサカ社は元の姿を取り戻します。決して揺らぐことのない、強いアラサカが帰ってくることを、約束いたします。\" t=\"Sub conducerea mea, Corporația Arasaka o să revină la rădăcini – rădăcini destul de tari ca să mute cele mai grele pietre.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751661940371419136",
+   "en": "<kiroshi l=\"jpn\" o=\"ご清聴ありがとうございました\" t=\"Thank you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ご清聴ありがとうございました\" t=\"Vă mulțumesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1751662785154576384",
+   "en": "<kiroshi l=\"jpn\" o=\"サブロウ様、誠におめでとうございます\" t=\"Thank you, Saburo. You are an inspiration.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"サブロウ様、誠におめでとうございます\" t=\"Mulțumesc, Saburo. Ești o inspirație pentru noi.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

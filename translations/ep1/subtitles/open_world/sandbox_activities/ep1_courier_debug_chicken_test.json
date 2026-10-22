@@ -1,0 +1,25 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\sandbox_activities\\ep1_courier_debug_chicken_test.json",
+ "entries": [
+  {
+   "key": "3669268531063099396",
+   "en": "[db_db]Test Intro",
+   "ro": "[db_db]Test Intro"
+  },
+  {
+   "key": "3669268752874672128",
+   "en": "[db_db]Test loop",
+   "ro": "[db_db]Test loop"
+  },
+  {
+   "key": "3669268929421316096",
+   "en": "[db_db]Test Outro",
+   "ro": "[db_db]Test Outro"
+  },
+  {
+   "key": "3810330305720639488",
+   "en": "[db_db]Test NC Wire preview",
+   "ro": "[db_db]Test NC Wire preview"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq026\\sq026_00_holocall_judy.json",
+ "entries": [
+  {
+   "key": "1309643443348160528",
+   "en": "Hey, Judy, what's up?",
+   "ro": "Hei, Judy, ce mai faci?"
+  },
+  {
+   "key": "1693969595149303808",
+   "en": "V... can you come over, stat?",
+   "ro": "V... poți veni încoace? Urgent."
+  },
+  {
+   "key": "1803789305939451904",
+   "en": "Yeah. Just come.",
+   "ro": "Da. Vino."
+  },
+  {
+   "key": "1803818003166093312",
+   "en": "Something happen?",
+   "ro": "S-a întâmplat ceva?"
+  }
+ ]
+}

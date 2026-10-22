@@ -1,0 +1,164 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_02a_holo_songbird_terminal.json",
+ "entries": [
+  {
+   "key": "3001414797529427980",
+   "en": "OK, on the port's net.",
+   "ro": "OK, pe netul portului."
+  },
+  {
+   "key": "3001424345191395328",
+   "en": "Tycho Terminal now. Where do I go for that side or back door?",
+   "ro": "Terminalul Tycho acum. Pe unde intru, pe lateral sau pe din spate?"
+  },
+  {
+   "key": "3001425086610124800",
+   "en": "Minor clusterfuck. Forget back and side doors. We need a new plan.",
+   "ro": "Mică belea. Uită de ușile din spate și cele laterale. Trebuie un plan nou."
+  },
+  {
+   "key": "3022798786089431056",
+   "en": "M'kay, on the platform. Trains runnin', though. Tunnel's an option... if I'm fast enough.",
+   "en_m": "OK, on the platform. Trains runnin', though. Tunnel's an option... if I'm fast enough.",
+   "ro": "M'kay, pe peron. Trenurile circulă, totuși. Tunelul e o variantă... dacă sunt destul de rapidă.",
+   "ro_m": "M'kay, pe peron. Trenurile circulă, totuși. Tunelul e o variantă... dacă sunt destul de rapid."
+  },
+  {
+   "key": "3022798786089431072",
+   "en": "OK, OK. Go left. You've got tech recesses every few yards. I can warn you to get off the tracks.",
+   "ro": "Bine, bine. Mergi la stânga. Ai nișe tehnice la fiecare câțiva metri. Te anunț când să te dai jos de pe șine."
+  },
+  {
+   "key": "3022799047763669008",
+   "en": "Oh fuck! Incoming!",
+   "ro": "Futu-i! Vine ceva!"
+  },
+  {
+   "key": "3022799047780446208",
+   "en": "Hit a recess! Stat!",
+   "ro": "Intră într-o nișă! Repede!"
+  },
+  {
+   "key": "3022799203892441100",
+   "en": "Ugh, close. Never again.",
+   "en_m": "Ooph, close. Never again.",
+   "ro": "Uf, la mustață. Niciodată iar.",
+   "ro_m": "Ooph, aproape. Niciodată din nou."
+  },
+  {
+   "key": "3022799203892441108",
+   "en": "Yeah, trains can be royal pricks.",
+   "ro": "Da, trenurile pot fi niște mizerii."
+  },
+  {
+   "key": "3022812126140411920",
+   "en": "Uh, V?",
+   "ro": "Uh, V?"
+  },
+  {
+   "key": "3022812126140411928",
+   "en": "Ah, still breathin'…",
+   "ro": "Încă în viață…"
+  },
+  {
+   "key": "3063478275029770240",
+   "en": "What the hell's up, Song?",
+   "ro": "Ce naiba se întâmplă, Song?"
+  },
+  {
+   "key": "3063480423587160064",
+   "en": "Roger that.",
+   "ro": "Copiat."
+  },
+  {
+   "key": "3073782495503097856",
+   "en": "Hoo, just don't konk out on me while I'm in there, got it?",
+   "ro": "Hei, nu leșina pe mine cât sunt înăuntru, ai înțeles?"
+  },
+  {
+   "key": "3083893710481620992",
+   "en": "OK, restroom. Got an open ventilation shaft.",
+   "ro": "OK, toaletă. Am un canal de aerisire deschis."
+  },
+  {
+   "key": "3083898160571056128",
+   "en": "Right. Connects straight to the maglev train tunnel.",
+   "ro": "Bine. Se leagă direct de tunelul maglevului."
+  },
+  {
+   "key": "3130454638131060736",
+   "en": "Aim to steer ya clear of bogeys, 'ganic and cyber.",
+   "ro": "Încerc să te feresc de tipii răi, 'ganic și cyber."
+  },
+  {
+   "key": "3240618768741793800",
+   "en": "Shit, shit, shit!",
+   "ro": "Căcat, căcat, căcat!"
+  },
+  {
+   "key": "3243339006495260672",
+   "en": "Gonna fuckin' shop? Seriously?",
+   "ro": "Chiar o să faci shopping, pula mea? Serios?"
+  },
+  {
+   "key": "3243340032791117836",
+   "en": "Mosey, V. You're skirting the edge. Risky.",
+   "ro": "Mișcă-te, V. Umbli chiar pe margine. Riscant."
+  },
+  {
+   "key": "3243345110851747852",
+   "en": "Get through that goddamned gate, will you?!",
+   "ro": "Treci prin poarta aia nenorocită, vrei?!"
+  },
+  {
+   "key": "3243350217114877964",
+   "en": "We do not have time for this.",
+   "ro": "N-avem timp de asta."
+  },
+  {
+   "key": "3263908105877028872",
+   "en": "One big-ass, lusciously green roof, huh?",
+   "ro": "Un acoperiș verde cât casa, nu?"
+  },
+  {
+   "key": "3263909469529145344",
+   "en": "Gimongous, sure. Now get through the gate?",
+   "ro": "Enorm, sigur. Acum treci prin poartă?"
+  },
+  {
+   "key": "3307290512214122496",
+   "en": "Friend left a gift for us. It's in a case on the luggage conveyor.",
+   "ro": "Un prieten ne-a lăsat un cadou. E într-o valiză pe banda de bagaje."
+  },
+  {
+   "key": "3307731684862648320",
+   "en": "What the hell, V? You're only gonna draw attention in that.",
+   "ro": "Ce naiba, V? Cu asta doar atragi atenția."
+  },
+  {
+   "key": "3358048899675381760",
+   "en": "Seems you have Orbital Air credentials, all go on the in-house net.",
+   "ro": "Pare că ai acreditări Orbital Air, totul merge pe netul intern."
+  },
+  {
+   "key": "3358063674295771136",
+   "en": "You're staff to the Orbital bots and mechs. There goes one problem, maybe more.",
+   "ro": "Ai acces de personal la boții și mech-urile Orbital. Asta rezolvă o problemă, poate mai multe."
+  },
+  {
+   "key": "3359249774322995200",
+   "en": "Grab it. Sending you the combo.",
+   "ro": "Ia-l. Îți trimit combinația."
+  },
+  {
+   "key": "3504237948373999616",
+   "en": "I had to skedaddle. Orbital security started sniffin' around the van.",
+   "ro": "A trebuit să o șterg. Securitatea Orbital a început să dea târcoale dubei."
+  },
+  {
+   "key": "3504255769501933568",
+   "en": "Got it. Let's try the roof. Construction site elevator – find it.",
+   "ro": "Am înțeles. Hai să încercăm pe acoperiș. Liftul de la șantier – caută-l."
+  }
+ ]
+}

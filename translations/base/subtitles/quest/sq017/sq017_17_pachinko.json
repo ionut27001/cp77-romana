@@ -1,0 +1,37 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq017\\sq017_17_pachinko.json",
+ "entries": [
+  {
+   "key": "1339984088743809024",
+   "en": "This elevator is out of order. Sorry.",
+   "ro": "Liftul e stricat. Scuze."
+  },
+  {
+   "key": "1339986038541520916",
+   "en": "Got a meet with Kerry.",
+   "ro": "Am o întâlnire cu Kerry."
+  },
+  {
+   "key": "1339994563900608512",
+   "en": "Out of order for Kerry Eurodyne's guests, too? He's expecting me.",
+   "ro": "Și pentru invitații lui Kerry Eurodyne e stricat? Mă așteaptă."
+  },
+  {
+   "key": "1339995028210061312",
+   "en": "In that case, enjoy your evening.",
+   "ro": "Atunci, seară plăcută."
+  },
+  {
+   "key": "1818663045486567424",
+   "en": "So why're you here?",
+   "ro": "Deci de ce ești aici?"
+  },
+  {
+   "key": "1818664320353656832",
+   "en": "It's out of order, why're you here?",
+   "en_m": "If it's out of order, why're you here?",
+   "ro": "E stricat, ce cauți aici?",
+   "ro_m": "Dacă e stricat, ce cauți aici?"
+  }
+ ]
+}

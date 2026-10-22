@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_rcr_foodshop_01.json",
+ "entries": [
+  {
+   "key": "1828462833139363840",
+   "en": "What've you got to eat?",
+   "ro": "Ce aveți de mâncare?"
+  },
+  {
+   "key": "1828462833139363856",
+   "en": "Do you deliver?",
+   "ro": "Faceți livrări?"
+  },
+  {
+   "key": "1828462833189695492",
+   "en": "Got anything to chew on?",
+   "ro": "Aveți ceva de ronțăit?"
+  },
+  {
+   "key": "1828462833189695500",
+   "en": "You would think – this being an eatery.",
+   "ro": "Te-ai aștepta – doar e un local de mâncare."
+  },
+  {
+   "key": "1828462833223249924",
+   "en": "Do you deliver?",
+   "ro": "Faceți livrări?"
+  },
+  {
+   "key": "1828462833240027136",
+   "en": "Used to. Our third delivery boy got shot last week. Finding replacements is starting to get harder...",
+   "ro": "Obișnuiam. Al treilea băiat de livrări s-a ales cu un glonț săptămâna trecută. Tot mai greu le mai găsesc înlocuitori..."
+  },
+  {
+   "key": "1975038965568557056",
+   "en": "So, you gonna order something?",
+   "ro": "Deci, comanzi ceva?"
+  }
+ ]
+}

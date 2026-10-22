@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_038.json",
+ "entries": [
+  {
+   "key": "2157379732266840064",
+   "en": "<kiroshi l=\"jpn\" o=\"ドンはもう、今月2回も払わされてる\" t=\"Deng already paid up twice this month.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ドンはもう、今月2回も払わされてる\" t=\"Deng a plătit deja de două ori luna asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2179492276446248960",
+   "en": "What, the Tygers forgot they already klepped him once?",
+   "ro": "Ce, Tygers au uitat că l-au ciordit deja o dată?"
+  },
+  {
+   "key": "2182447304307982336",
+   "en": "<kiroshi l=\"jpn\" o=\"ううん。売り上げがいいから、その分を取るんだって\" t=\"Nah, 'parently things are going too well for him.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ううん。売り上げがいいから、その分を取るんだって\" t=\"Nu, se pare că merge prea bine pentru el.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2182477611123949568",
+   "en": "The fuck is this? A progressive racket?",
+   "ro": "Ce pula mea e asta? Șantaj pe etape?"
+  },
+  {
+   "key": "2182482297067487232",
+   "en": "Shhh. See that merc, pretendin' not to listen?",
+   "ro": "Șșș. Vezi mercul ăla care se face că nu ascultă?"
+  },
+  {
+   "key": "2182484365446561792",
+   "en": "Could be workin for 'em.",
+   "ro": "Poate lucrează pentru ei."
+  }
+ ]
+}

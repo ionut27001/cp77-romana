@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_08.json",
+ "entries": [
+  {
+   "key": "2276540097515134984",
+   "en": "<kiroshi l=\"jpn\" o=\"ファヒータ店の前で仲間が撃たれたらしい。きっとヴァレンティーノズの仕業だ\" t=\"You hear they gunned down one of ours? In front of that fajita joint – Valentinos.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ファヒータ店の前で仲間が撃たれたらしい。きっとヴァレンティーノズの仕業だ\" t=\"Ai auzit că l-au nimerit pe unu’ de-ai noștri? În fața jointului ăluia cu fajitas – Valentinos.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276540097515134996",
+   "en": "<kiroshi l=\"jpn\" o=\"相変わらずの単細胞ぶりだな。ありゃ粛清だ。あいつはNCPDのスパイだったんだよ\" t=\"So fajitas equals Valentinos? You gonk, that was us. The fucker was an NCPD mole.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"相変わらずの単細胞ぶりだな。ありゃ粛清だ。あいつはNCPDのスパイだったんだよ\" t=\"Deci fajitas înseamnă Valentinos? Fraierule, noi am fost. Nenorocitul era cârtiță la NCPD.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

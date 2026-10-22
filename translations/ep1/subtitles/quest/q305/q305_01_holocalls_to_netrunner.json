@@ -1,0 +1,476 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_01_holocalls_to_netrunner.json",
+ "entries": [
+  {
+   "key": "3064683470421626880",
+   "en": "V? You shouldn't be calling this number.",
+   "ro": "V? Nu ar trebui să suni la numărul ăsta."
+  },
+  {
+   "key": "3064694718722871296",
+   "en": "No worries, not callin' to chat about Night Corp's stock price.",
+   "ro": "Nicio grijă, nu te sun ca să vorbim despre prețul acțiunilor Night Corp."
+  },
+  {
+   "key": "3064695219640209408",
+   "en": "V… I… I don't do that kind of work.",
+   "ro": "V… Eu… nu fac genul ăsta de treabă."
+  },
+  {
+   "key": "3064709063510986756",
+   "en": "You owe me.",
+   "ro": "Îmi datorezi una.",
+   "ro_m": "Îmi ești dator."
+  },
+  {
+   "key": "3064709356676059136",
+   "en": "Understood. Later.",
+   "ro": "Am înțeles. Mai târziu."
+  },
+  {
+   "key": "3064710263585247232",
+   "en": "You owe me. Big time.",
+   "ro": "Îmi datorezi. Și nu puțin."
+  },
+  {
+   "key": "3064710333781118976",
+   "en": "Sure, got it. Don't let me keep you, then.",
+   "ro": "Sigur, am înțeles. Atunci nu te mai rețin."
+  },
+  {
+   "key": "3064712748207050752",
+   "en": "You got paid for helping me. Far as I'm concerned, we're even.",
+   "ro": "Ai fost plătită ca să mă ajuți. Pentru mine, suntem chit.",
+   "ro_m": "Ai fost plătit ca să mă ajuți. Pentru mine, suntem chit."
+  },
+  {
+   "key": "3064713743733493760",
+   "en": "Ugh... Strictly hypothetically, what would my help… entail, exactly?",
+   "ro": "Ugh... Strictly ipotetic, ce ar presupune ajutorul meu… exact?"
+  },
+  {
+   "key": "3064717461749108740",
+   "en": "Deal.",
+   "ro": "S-a făcut."
+  },
+  {
+   "key": "3064717761205637120",
+   "en": "[Hang up] Lemme think about it.",
+   "ro": "[Închide] Mă mai gândesc."
+  },
+  {
+   "key": "3064719529490649088",
+   "en": "Breachin' a datafort – MaxTac's. Pullin' whatever you can on the nearest convoy to Los Padres penitentiary.",
+   "ro": "Sparg un datafort – al MaxTac-ului. Scoate tot ce poți despre cel mai apropiat convoi spre penitenciarul Los Padres."
+  },
+  {
+   "key": "3064721084906344448",
+   "en": "No, V, don't. Just don't call again. And, um... good luck.",
+   "ro": "Nu, V, nu. Nu mai suna. Și, ăă... noroc."
+  },
+  {
+   "key": "3064721968763637760",
+   "en": "Where do I scratch?",
+   "ro": "Unde semnez?"
+  },
+  {
+   "key": "3064722335547133952",
+   "en": "Lemme think on it. Let you know.",
+   "ro": "Mă mai gândesc. Îți spun."
+  },
+  {
+   "key": "3064724327287885824",
+   "en": "Fine, deal. But, eh… time's a factor here, 'kay?",
+   "ro": "Bine, s-a făcut. Dar, eh… timpul contează, ok?"
+  },
+  {
+   "key": "3064725985615024128",
+   "en": "Isn't it always…",
+   "ro": "Nu-i mereu așa…"
+  },
+  {
+   "key": "3064726566777786368",
+   "en": "Whoa, not so fast. Gotta know what I'm shakin' on. What's your ask?",
+   "ro": "Ho, nu-i chiar așa repede. Trebuie să știu pe ce bat palma. Ce ceri?"
+  },
+  {
+   "key": "3064727137521897472",
+   "en": "Take me for a gonk?",
+   "ro": "Mă iei de fraier?"
+  },
+  {
+   "key": "3064728837909516288",
+   "en": "Hey, still there? Terms still the same.",
+   "ro": "Hei, mai ești acolo? Condițiile sunt aceleași."
+  },
+  {
+   "key": "3064734113991626752",
+   "en": "V, to what do I owe the pleasure? Bringin' me juicy urban gossip?",
+   "ro": "V, la ce datorez plăcerea? Îmi aduci bârfe picante din oraș?"
+  },
+  {
+   "key": "3064734837643284480",
+   "en": "Well, howdy, V.",
+   "ro": "Ei, salut, V."
+  },
+  {
+   "key": "3064735263751016452",
+   "en": "Need to hack an institution – MaxTac.",
+   "ro": "Trebuie să hack-uiesc o instituție – MaxTac."
+  },
+  {
+   "key": "3064735376376467456",
+   "en": "No, V. And I'm sorry – risk's just too great.",
+   "ro": "Nu, V. Și îmi pare rău – riscul e prea mare."
+  },
+  {
+   "key": "3064735455917248512",
+   "en": "Afraid it's more complicated than that.",
+   "ro": "Mă tem că e mai complicat decât atât."
+  },
+  {
+   "key": "3064736397806931968",
+   "en": "Know what? Call you back later.",
+   "ro": "Știi ce? Te sun mai târziu."
+  },
+  {
+   "key": "3064736651243556864",
+   "en": "Know what? Lemme call you back, Carol.",
+   "en_m": "Uh, know what? Lemme call you back, Carol.",
+   "ro": "Știi ce? Te sun mai târziu, Carol.",
+   "ro_m": "Uh, știi ce? Te sun mai târziu, Carol."
+  },
+  {
+   "key": "3064744127858872320",
+   "en": "Need a heavy hack – into MaxTac.",
+   "ro": "Îmi trebuie un hack greu – în MaxTac."
+  },
+  {
+   "key": "3064745170999054336",
+   "en": "Phoo... Listen, V, even if I could, with MaxTac there's a risk of blowback, my choom – on me, the entire family. I'd be puttin' their safety on the line.",
+   "ro": "Phoo... Ascultă, V, chiar dacă aș putea, cu MaxTac riscul de repercusiuni e real, un choom de-al meu – pe mine, pe toată familia. Le-aș pune siguranța în pericol."
+  },
+  {
+   "key": "3064745963789619200",
+   "en": "Didn't quite hear a \"no\" in there…",
+   "ro": "N-am auzit chiar un «nu» acolo…"
+  },
+  {
+   "key": "3064747569704734720",
+   "en": "S OK, I get it. Thanks anyway – I'll keep lookin'.",
+   "ro": "E ok, înțeleg. Mulțumesc oricum – continui să caut."
+  },
+  {
+   "key": "3064748491260432384",
+   "en": "No, V. An' I'm sorry. It's got nothin' to do with you, either, it's just... family's safety comes first, get me? No exceptions.",
+   "ro": "Nu, V. Și îmi pare rău. Nu ține de tine, nimic personal, e doar... siguranța familiei e pe primul loc, înțelegi? Fără excepții."
+  },
+  {
+   "key": "3064750144839618560",
+   "en": "Heh, I wish. Got urgent biz, could use your help.",
+   "ro": "Heh, aș vrea. Am afaceri urgente, mi-ar prinde bine ajutorul tău."
+  },
+  {
+   "key": "3064750994471391232",
+   "en": "So, some encrypted shards you need me to crack? Come by, we'll sort it out.",
+   "ro": "Deci, vrei să-ți sparg niște shard-uri criptate? Treci pe la mine, rezolvăm."
+  },
+  {
+   "key": "3064752178607296512",
+   "en": "Carol, hey. Callin' 'cause I need your help.",
+   "ro": "Carol, hei. Sun fiindcă îmi trebuie ajutorul tău."
+  },
+  {
+   "key": "3064752438704476160",
+   "en": "Hm, OOOOK, I'll bite. What needs doin'?",
+   "ro": "Hm, OK, mă prind. Ce trebuie făcut?"
+  },
+  {
+   "key": "3064758405152247808",
+   "en": "OK, sure thing, V.",
+   "ro": "OK, sigur, V."
+  },
+  {
+   "key": "3064759870138748928",
+   "en": "V? Gonna tell me whatcha got cookin'?",
+   "ro": "V? Ce ai pe tapet, zi?"
+  },
+  {
+   "key": "3069264396183334912",
+   "en": "Need your help, Sandra. High-stakes gig needs the fine touch of a skilled 'runner like yourself.",
+   "ro": "Îmi trebuie ajutorul tău, Sandra. Un gig cu miză mare cere atingerea fină a unei 'runnere de calibrul tău.",
+   "ro_m": "Îmi trebuie ajutorul tău, Sandra. Un gig cu miză mare cere atingerea fină a unui 'runner de calibrul tău."
+  },
+  {
+   "key": "3069267377461063680",
+   "en": "Catch you around.",
+   "ro": "Ne vedem."
+  },
+  {
+   "key": "3069270562615521280",
+   "en": "Really, Sandra? C'mon.",
+   "ro": "Serios, Sandra? Hai, măi."
+  },
+  {
+   "key": "3069274574081421312",
+   "en": "Sandra? You there?",
+   "ro": "Sandra? Ești acolo?"
+  },
+  {
+   "key": "3069274824431038464",
+   "en": "I scratch your back, you scratch mine. That's the deal – take it or hang up now.",
+   "ro": "Eu ție, tu mie. Asta e treaba – accepți sau închizi acum."
+  },
+  {
+   "key": "3069281503105183744",
+   "en": "Not about to talk detes over the holo, that's for sure. You'll know soon enough.",
+   "ro": "Nici vorbă să discutăm detaliile pe holo, asta-i clar. O să afli destul de curând."
+  },
+  {
+   "key": "3069282985892311040",
+   "en": "Either you accept, or you hang up. And never call me again.",
+   "ro": "Fie accepți, fie închizi. Și să nu mă mai suni niciodată."
+  },
+  {
+   "key": "3069291967340015616",
+   "en": "Ah, V, what else is new…",
+   "ro": "Ei, V, ce mai e nou…"
+  },
+  {
+   "key": "3069294442281365504",
+   "en": "If only it wasn't the Psychosquad – got that name for a couple of reasons, you know. But this...? One slip-up, they'd trace me to the Aldecaldos quick as mercury. And mercury's poison.",
+   "ro": "Dacă n-ar fi Psychosquad – și-a luat numele ăsta din câteva motive, știi. Dar asta...? O singură greșeală și m-ar urmări până la Aldecaldos cât ai clipi. Iar mercurul e otravă."
+  },
+  {
+   "key": "3069296691820818432",
+   "en": "'S all right, Carol. I'll keep lookin'.",
+   "ro": "'S în regulă, Carol. Continui să caut."
+  },
+  {
+   "key": "3069334168614924288",
+   "en": "Stay safe, you hear?",
+   "ro": "Ai grijă de tine, auzi?"
+  },
+  {
+   "key": "3069336730026045440",
+   "en": "V, wait. I'll zip you somethin' case your brush with MaxTac bleeds over into, well... realspace.",
+   "ro": "V, stai. Îți trimit ceva, pentru orice. Dacă treaba cu MaxTac iese în... lumea reală."
+  },
+  {
+   "key": "3069337845778018304",
+   "en": "You're a saint, Carol. Take all the help I can get.",
+   "ro": "Ești un înger, Carol. Accept orice ajutor îmi dai."
+  },
+  {
+   "key": "3069337965399568384",
+   "en": "Just be careful, V, a'right?",
+   "ro": "Ai grijă, V, bine?"
+  },
+  {
+   "key": "3072087100347314176",
+   "en": "I can try. Got one condition, though.",
+   "ro": "Pot încerca. Am o condiție, totuși."
+  },
+  {
+   "key": "3101251486139420732",
+   "en": "Chang-Hoon, listen. Got a gig – experienced 'runner wanted.",
+   "ro": "Chang-Hoon, ascultă. Am un gig – caut 'runner cu experiență."
+  },
+  {
+   "key": "3101251486156197888",
+   "en": "V, I'm sorry, but… not this time. I run a small shop. My last run was a wake-up call, literally. I had to stop.",
+   "ro": "V, îmi pare rău, dar… nu de data asta. Am un magazin mic. Ultima cursă a fost un semnal de alarmă, la propriu. A trebuit să mă opresc."
+  },
+  {
+   "key": "3101251493588504576",
+   "en": "Need sensitive data – from MaxTac.",
+   "ro": "Îmi trebuie date sensibile – de la MaxTac."
+  },
+  {
+   "key": "3101251493588504608",
+   "en": "Call you back later.",
+   "ro": "Te sun mai târziu."
+  },
+  {
+   "key": "3101251493689167896",
+   "en": "Need you to bust into MaxTac's datafort, snatch any intel you can on the next Psychosquad convoy headed for Los Padres.",
+   "ro": "Vreau să spargi datafortul MaxTac și să iei orice informație poți despre următorul convoi Psychosquad spre Los Padres."
+  },
+  {
+   "key": "3101251493689167908",
+   "en": "Oh, whoa, V… This is serious. No one screws with MaxTac. No one.",
+   "ro": "Hopa, V… E serios. Nimeni nu se pune cu MaxTac. Nimeni."
+  },
+  {
+   "key": "3101251493689167932",
+   "en": "Now, MaxTac uses SHAC-761 encryption on an SHA-37 interface, with all the forts, gates, daemons, permaflux code... This may not even be doable.",
+   "ro": "Acum, MaxTac are criptare SHAC-761 pe o interfață SHA-37, cu toate fortărețele, porțile, daemonii, codul permaflux... S-ar putea să nu fie posibil."
+  },
+  {
+   "key": "3101251493689167944",
+   "en": "But if I managed this, it would be something. I shall try, V, OK?",
+   "ro": "Dar dacă reușesc, ar fi ceva. O să încerc, V, ok?"
+  },
+  {
+   "key": "3101251501557682188",
+   "en": "Lemme call you back later, Chang-Hoon, all right?",
+   "ro": "Te sun mai târziu, Chang-Hoon, bine?"
+  },
+  {
+   "key": "3101251501557682200",
+   "en": "OK. Take care of yourself, V.",
+   "ro": "OK. Ai grijă de tine, V."
+  },
+  {
+   "key": "3101251502715310080",
+   "en": "Good. Yeah, let's do it.",
+   "ro": "Bine. Da, hai să facem."
+  },
+  {
+   "key": "3101251502732087300",
+   "en": "Still need to think.",
+   "ro": "Mai trebuie să mă gândesc."
+  },
+  {
+   "key": "3101251502866305036",
+   "en": "On second thought, gotta think over a few things. Be in touch.",
+   "ro": "Mai am de gândit la câteva lucruri. Ținem legătura."
+  },
+  {
+   "key": "3101251502866305048",
+   "en": "Yes, a risky operation, for certain. Take the time you need.",
+   "ro": "Da, o operațiune riscantă, sigur. Ia-ți timpul necesar."
+  },
+  {
+   "key": "3101251504762130444",
+   "en": "OK, give it your best shot, Chang-Hoon. Just don't blow it, please.",
+   "ro": "Bine, dă-i bătaie, Chang-Hoon. Doar nu o da-n bară, te rog."
+  },
+  {
+   "key": "3101251504762130456",
+   "en": "One can't get struck by lightning twice, am I right? I'll get to work.",
+   "ro": "Nu te lovește fulgerul de două ori, nu? Mă apuc de treabă."
+  },
+  {
+   "key": "3101251507278712840",
+   "en": "So, what will it be? You made me keen, now you tease. Will you give me the green light? V?",
+   "ro": "Deci, ce-o să fie? M-ai făcut curios, acum mă ții pe jar. Îmi dai undă verde? V?"
+  },
+  {
+   "key": "3103022874782699524",
+   "en": "Not too early for 'runner retirement?",
+   "ro": "Nu e prea devreme pentru retragerea unui 'runner?"
+  },
+  {
+   "key": "3103023789224857600",
+   "en": "Sure, I get it.",
+   "ro": "Sigur, înțeleg."
+  },
+  {
+   "key": "3103024318260809728",
+   "en": "C'mon, Chang-Hoon, not the first to botch a run, spot death in the code. Little early to throw in the towel, though, ain't it?",
+   "ro": "Hai, Chang-Hoon, nu ești primul care o dă-n bară într-o cursă și ai văzut moartea în cod. E cam devreme să arunci prosopul, nu?"
+  },
+  {
+   "key": "3103024437748142080",
+   "en": "Hell, can't blame ya. Gotta keep body and soul together, 'specially in NC.",
+   "ro": "Naiba, nu te învinuiesc. Trebuie să-ți câștigi pâinea, mai ales în NC."
+  },
+  {
+   "key": "3103032802599604224",
+   "en": "I am serious, V. I'm done.",
+   "ro": "Serios, V. Am terminat cu asta."
+  },
+  {
+   "key": "3103032933713547264",
+   "en": "Oh well. Later, then.",
+   "ro": "Mă rog. Pe mai târziu, atunci."
+  },
+  {
+   "key": "3103033138580131840",
+   "en": "Goodbye, V.",
+   "ro": "La revedere, V."
+  },
+  {
+   "key": "3103035234658390016",
+   "en": "I'm sixty-seven years old, V.",
+   "ro": "Am șaizeci și șapte de ani, V."
+  },
+  {
+   "key": "3103035417412603904",
+   "en": "Worth as much your last gig, you know. Really wanna go out as the chairjock who near-flatlined by... poppin' open a box in his basement?",
+   "ro": "Valorează cât ultimul tău gig, știi. Chiar vrei să ieși de pe scenă ca chairjock-ul care era cât pe-aci să-și dea colțul... deschizând o cutie în subsol?"
+  },
+  {
+   "key": "3103048254432317440",
+   "en": "Unkind, V. Only you and Wakako know about this.",
+   "ro": "Ce crud, V. Doar tu și Wakako știți de asta."
+  },
+  {
+   "key": "3103048336691007488",
+   "en": "That's the spirit.",
+   "ro": "Așa da."
+  },
+  {
+   "key": "3103048421936041984",
+   "en": "Very well... Will you tell me who to breach, or not?",
+   "ro": "Bine, bine... Îmi spui pe cine sparg, sau nu?"
+  },
+  {
+   "key": "3111527145765441536",
+   "en": "Wait, your tech analysis seems…",
+   "ro": "Stai, analiza ta tehnică pare…"
+  },
+  {
+   "key": "3111527570480664576",
+   "en": "Encrypted on SHA-37? Didn't MaxTac switch up to QLS?",
+   "ro": "Criptat pe SHA-37? N-a trecut MaxTac pe QLS?"
+  },
+  {
+   "key": "3111551132906131456",
+   "en": "Hm, uh, perhaps. I should check.",
+   "ro": "Hm, ăă, poate. Ar trebui să verific."
+  },
+  {
+   "key": "3111554711721185280",
+   "en": "Mhmm – you do that.",
+   "ro": "Mhmm – fă asta."
+  },
+  {
+   "key": "3357694373444587520",
+   "en": "Reconciliation Park – eight hours from now. I'll be waiting with the data.",
+   "ro": "Parcul Reconcilierii – peste opt ore. Te aștept cu datele."
+  },
+  {
+   "key": "3357697875319328768",
+   "en": "Uuh, hello…?",
+   "ro": "Uuh, alo…?"
+  },
+  {
+   "key": "3357699731013636096",
+   "en": "C'mon, V. Shit or get off the pot, please?",
+   "ro": "Hai, V. Ori cacă, ori ieși de pe oliță, ce zici?"
+  },
+  {
+   "key": "3357994889168949248",
+   "en": "V? Are you still there?",
+   "ro": "V? Mai ești acolo?"
+  },
+  {
+   "key": "3357997734333124608",
+   "en": "So, what will it be?",
+   "ro": "Deci, ce-o să fie?"
+  },
+  {
+   "key": "3359290722995785728",
+   "en": "And, you need not pay me. Consider this a favor. It will take time, so come see me in twelve hours or so.",
+   "ro": "Și nu trebuie să mă plătești. Ia-o ca pe un favor. O să dureze, așa că treci pe la mine peste vreo douăsprezece ore."
+  },
+  {
+   "key": "3359304068583247872",
+   "en": "You the man, Chang-Hoon. See ya.",
+   "ro": "Ești cea mai tare, Chang-Hoon. Ne vedem.",
+   "ro_m": "Ești cel mai tare, Chang-Hoon. Ne vedem."
+  }
+ ]
+}

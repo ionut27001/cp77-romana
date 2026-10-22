@@ -1,0 +1,499 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q114\\q114_04_initiation.json",
+ "entries": [
+  {
+   "key": "1325791126497542144",
+   "en": "All right, V, it’s a simple matter. We – all of us standing here – owe you, and it's a great debt.",
+   "ro": "Bine, V, e simplu. Noi, toți cei de aici, îți rămânem datori, și nu e puțin."
+  },
+  {
+   "key": "1567935201901481984",
+   "en": "Thanks for everything, V. And don't worry, we'll get you into that Mikoshi. Isn't that the way of it?",
+   "ro": "Mulțumesc pentru tot, V. Nu-ți face griji, te bagăm în Mikoshi ăla. Nu?"
+  },
+  {
+   "key": "1691141523669536768",
+   "en": "We goin' somewhere?",
+   "ro": "Mergem undeva?"
+  },
+  {
+   "key": "1691179783473090564",
+   "en": "[Accept jacket] Don't know what to say.",
+   "ro": "[Acceptă geaca] Nu știu ce să zic."
+  },
+  {
+   "key": "1691182751228383232",
+   "en": "[Accept jacket] Thanks, really appreciate it.",
+   "ro": "[Acceptă geaca] Mersi, chiar îmi place."
+  },
+  {
+   "key": "1691182898633003008",
+   "en": "[Accept jacket] Won't let you down, any of you.",
+   "ro": "[Acceptă geaca] Nu vă dezamăgesc pe niciunul, promit."
+  },
+  {
+   "key": "1691184013965545472",
+   "en": "Don't know what to say.",
+   "ro": "Nu știu ce să zic."
+  },
+  {
+   "key": "1691184280253517824",
+   "en": "Thanks, um… thank you. Really appreciate it… everything.",
+   "en_m": "Thanks, um… thank you. I-- I really appreciate it… everything.",
+   "ro": "Mersi, ăă... mulțumesc. Chiar apreciez... tot."
+  },
+  {
+   "key": "1691184883461541888",
+   "en": "What's it they say? \"Easier to gain a cobra's trust than an Aldecaldo's\"?",
+   "en_m": "What's it they say? \"Easier to gain a cobra's trust than an Aldecaldo's.\"",
+   "ro": "Ce zic ei? „Mai ușor să câștigi încrederea unei cobre decât a unui Aldecaldo”?"
+  },
+  {
+   "key": "1692113704650035200",
+   "en": "A raid is a raid, but this is still your night, so bask a bit in the newfound glory.",
+   "ro": "Un raid e un raid, dar e noaptea ta, așa că bucură-te un pic de gloria asta."
+  },
+  {
+   "key": "1696626980134080516",
+   "en": "[Give hand] We goin' somewhere?",
+   "ro": "[Dă mâna] Mergem undeva?"
+  },
+  {
+   "key": "1696629637980639232",
+   "en": "All right, fam, listen up. Today we celebrate, but tomorrow is shaping up to be a helluva day.",
+   "ro": "Bine, familie, ascultați-mă. Azi petrecem, da' mâine se anunță o zi de zile mari."
+  },
+  {
+   "key": "1696629637997416448",
+   "en": "Do whatever needs doing, then get some rest.",
+   "ro": "Fă ce ai de făcut, apoi odihnește-te."
+  },
+  {
+   "key": "1732786775954051072",
+   "en": "You're going to be an Aldecaldo. Which means this family will go to hell and back for you.",
+   "ro": "O să fii Aldecaldo. Asta înseamnă că familia asta trece prin foc și apă pentru tine."
+  },
+  {
+   "key": "1775151057453502464",
+   "en": "Gathering – what's it about?",
+   "ro": "Adunarea – despre ce e?"
+  },
+  {
+   "key": "1775151511595962368",
+   "en": "What's with the gathering? Somethin' off?",
+   "en_m": "What's with the gatherin'? Somethin' off?",
+   "ro": "Ce-i cu adunarea? S-a întâmplat ceva?"
+  },
+  {
+   "key": "1775165096594296832",
+   "en": "It's nothing about the raid.",
+   "ro": "Nu are legătură cu raidul."
+  },
+  {
+   "key": "1776121914174787584",
+   "en": "Saul's right, though. I mean, let's face it, V – my life was in a million pieces, you broke it into a million more.",
+   "ro": "Saul are dreptate, oricum. Adică, sincer, V, viața mea era făcută praf, iar tu ai mai spart-o în încă un milion."
+  },
+  {
+   "key": "1776122616620044288",
+   "en": "But sometimes it's only then that you can piece it together again.",
+   "ro": "Da' uneori doar atunci o poți lipi la loc."
+  },
+  {
+   "key": "1776133912803463168",
+   "en": "Welcome to the family.",
+   "ro": "Bine ai venit în familie."
+  },
+  {
+   "key": "1776135998278520832",
+   "en": "No, like… I really don't. Never expected this. Thank you.",
+   "ro": "Nu, adică... chiar nu. Nu mă așteptam la asta. Mulțumesc."
+  },
+  {
+   "key": "1776181635460157444",
+   "en": "If you want to talk, I'll be up there.",
+   "ro": "Dacă vrei să vorbești, o să fiu sus."
+  },
+  {
+   "key": "1837166754299432960",
+   "en": "Hop up here.",
+   "ro": "Urcă-te aici."
+  },
+  {
+   "key": "1837172252042121216",
+   "en": "V. Come on over.",
+   "ro": "V. Vino încoace."
+  },
+  {
+   "key": "1837230938257149952",
+   "en": "So it's about time we fixed that.",
+   "ro": "Așa că e timpul să rezolvăm asta."
+  },
+  {
+   "key": "1837349649492267008",
+   "en": "Could've given me a heads up about this.",
+   "ro": "Mi-ai fi putut zice și mie despre asta."
+  },
+  {
+   "key": "1837352180301746180",
+   "en": "[Hop off] You could've warned me.",
+   "ro": "[Sari jos] Puteai să mă anunți."
+  },
+  {
+   "key": "1837354992280588288",
+   "en": "And how's the jacket? Not too tight?",
+   "ro": "Și geaca cum e? Nu e prea strânsă?"
+  },
+  {
+   "key": "1837355876255322112",
+   "en": "Snug as a glove.",
+   "ro": "Fix ca o mănușă."
+  },
+  {
+   "key": "1837355907897151488",
+   "en": "Missed all this, y'know?",
+   "ro": "Mi-a fost dor de toate astea, știi?"
+  },
+  {
+   "key": "1837356054681014276",
+   "en": "Snug as a glove. Feels like I've been wearing it a while.",
+   "ro": "Fix ca o mănușă. Pare că o port de ceva vreme."
+  },
+  {
+   "key": "1837356084041142276",
+   "en": "Missed this, y'know – the camaraderie?",
+   "en_m": "Missed this, y'know – the camaraderie.",
+   "ro": "Mi-a fost dor de asta, știi – de camaraderie?",
+   "ro_m": "Mi-a fost dor de asta, știi – de camaraderie."
+  },
+  {
+   "key": "1837361497276993536",
+   "en": "And ruined all the fun? Are you kidding?",
+   "ro": "Și să stric toată distracția? Faci mișto de mine?"
+  },
+  {
+   "key": "1837361620774080512",
+   "en": "Don't you think you have?",
+   "ro": "Nu crezi că ai făcut-o deja?"
+  },
+  {
+   "key": "1837361744506048512",
+   "en": "I know. I saw it, in your heart, the first time we met. Probably because I was missing it, too, then.",
+   "ro": "Știu. Am văzut-o în ochii tăi, prima dată când ne-am cunoscut. Probabil pentru că și eu îi duceam dorul atunci."
+  },
+  {
+   "key": "1837364600139206656",
+   "en": "So I know how much this means – to you, to me. Thank you. Will not let you down.",
+   "ro": "Știu cât înseamnă asta – pentru tine, pentru mine. Mulțumesc. Nu te dezamăgesc."
+  },
+  {
+   "key": "1882313565410029568",
+   "en": "Saul! You wanted a word?",
+   "ro": "Saul! Voiai să-mi spui ceva?"
+  },
+  {
+   "key": "1882321074388594688",
+   "en": "Hop on and you'll find out.",
+   "ro": "Urcă și o să afli."
+  },
+  {
+   "key": "1882324394381537280",
+   "en": "Speak for yourself, Saul!",
+   "ro": "Vorbește pentru tine, Saul!"
+  },
+  {
+   "key": "1882324688049926144",
+   "en": "But in spite of that, you're still an outsider. A mercenary from Night City, from what might as well be another world.",
+   "ro": "Dar, totuși, ești în continuare o străină. Un mercenar din Night City, dintr-o lume care ar putea la fel de bine să fie alta.",
+   "ro_m": "Dar, totuși, ești în continuare un străin. Un mercenar din Night City, dintr-o lume care ar putea la fel de bine să fie alta."
+  },
+  {
+   "key": "1882334028865597440",
+   "en": "Hey, ask Panam – she knows!",
+   "ro": "Hei, întreab-o pe Panam – ea știe!"
+  },
+  {
+   "key": "1882360259103289344",
+   "en": "Ready, kid?",
+   "ro": "Ești gata, puștoaico?",
+   "ro_m": "Ești gata, puștiule?"
+  },
+  {
+   "key": "1882360591980032004",
+   "en": "Ready.",
+   "ro": "Gata."
+  },
+  {
+   "key": "1882360785236783104",
+   "en": "Sure about this? Know how much this means.",
+   "ro": "Ești sigură de asta? Știi cât înseamnă.",
+   "ro_m": "Ești sigur de asta? Știi cât înseamnă."
+  },
+  {
+   "key": "1882361040535678976",
+   "en": "Almost gave me a heart attack…",
+   "ro": "M-ai speriat de moarte…"
+  },
+  {
+   "key": "1882364114104872960",
+   "en": "Do your worst.",
+   "ro": "Fă ce vrei."
+  },
+  {
+   "key": "1882367588901187584",
+   "en": "Don't worry, it's but a formality. You've been a de facto member of this family for a while now.",
+   "ro": "Nu-ți face griji, e doar o formalitate. Practic, faci parte din familie de ceva vreme."
+  },
+  {
+   "key": "1882368422527496192",
+   "en": "Go to hell.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1882371903699152896",
+   "en": "You saved my rumpus, and as Bobby tells it, Mitch's too. I won't even mention Panam.",
+   "ro": "Mi-ai salvat fundul, și cum spune Bobby, și pe al lui Mitch. Nici nu mai pomenesc de Panam."
+  },
+  {
+   "key": "1882413290087903232",
+   "en": "Well spoken.",
+   "ro": "Bine spus."
+  },
+  {
+   "key": "1882425994450169856",
+   "en": "Feel a lot more responsible for these people now.",
+   "ro": "Acum mă simt mult mai responsabilă față de oamenii ăștia.",
+   "ro_m": "Acum mă simt mult mai responsabil față de oamenii ăștia."
+  },
+  {
+   "key": "1882427438314156032",
+   "en": "Jacket's a… distinction, honor to get it. And... it's preem at that. But... it's got that weight…",
+   "en_m": "Jacket's a… distinction. Honor to get it. And it's preem at that. But it's got that weight…",
+   "ro": "Geaca e… o distincție. E o onoare s-o primești. Și… e beton, de altfel. Dar… are greutatea aia…"
+  },
+  {
+   "key": "1882433105892601856",
+   "en": "You earned this jacket. And the Aldecaldos' devotion.",
+   "ro": "Ți-ai meritat geaca asta. Și devotamentul Aldecaldos."
+  },
+  {
+   "key": "1882434479258726400",
+   "en": "Thanks, Panam.",
+   "ro": "Mulțumesc, Panam."
+  },
+  {
+   "key": "1883390439104049152",
+   "en": "[Accept jacket] Once we get back from Mikoshi, I'm buyin' a round.",
+   "ro": "[Acceptă geaca] Când ne întoarcem de la Mikoshi, dau eu o rundă."
+  },
+  {
+   "key": "1883391718366769152",
+   "en": "Jacket's incredible.",
+   "ro": "Geaca e incredibilă."
+  },
+  {
+   "key": "1883392951257264128",
+   "en": "Listen, soon as we're back from Mikoshi, we'll celebrate – and I know just the place. My treat, of course.",
+   "ro": "Ascultă, imediat ce ne întoarcem de la Mikoshi, sărbătorim – și știu eu un loc. Plătesc eu, sigur."
+  },
+  {
+   "key": "1883393513914757120",
+   "en": "We'll hold you to that!",
+   "ro": "Te ținem de cuvânt!"
+  },
+  {
+   "key": "1883395458159210496",
+   "en": "Shit, turned me damn sentimental.",
+   "ro": "Rahat, m-a făcut al naibii de sentimentală.",
+   "ro_m": "Rahat, m-a făcut al naibii de sentimental."
+  },
+  {
+   "key": "1883401013716185088",
+   "en": "Took me under your wing, gave me your trust, and tomorrow… op I'm takin' you on, might not come back.",
+   "en_m": "Took me under your wing, gave me your trust, and tomorrow… the op I'm taking you on, you might not come back.",
+   "ro": "M-ai luat sub aripa ta, mi-ai dat încrederea ta, și mâine… operațiunea la care te iau, s-ar putea să nu te mai întorci întreagă.",
+   "ro_m": "M-ai luat sub aripa ta, mi-ai dat încrederea ta, și mâine… operațiunea la care te iau, s-ar putea să nu te mai întorci întreg."
+  },
+  {
+   "key": "1883403160662962176",
+   "en": "Hit me all of a sudden, a sec ago.",
+   "ro": "M-a lovit brusc, acum o secundă."
+  },
+  {
+   "key": "1883403868242046976",
+   "en": "That only proves we're doing the right thing. The sense of responsibility? It's what being part of a family feels like.",
+   "ro": "Asta doar confirmă că facem ce trebuie. Responsabilitatea asta? Așa se simte să faci parte dintr-o familie."
+  },
+  {
+   "key": "1883407493613875200",
+   "en": "In Night City, you're alone even in a crowd. But here… feels like I'm a part of somethin' important.",
+   "ro": "În Night City, ești singură chiar și printre oameni. Aici însă… simt că fac parte din ceva important.",
+   "ro_m": "În Night City, ești singur chiar și printre oameni. Aici însă… simt că fac parte din ceva important."
+  },
+  {
+   "key": "1883408330260082688",
+   "en": "So you are where you need to be.",
+   "ro": "Deci ești unde trebuie să fii."
+  },
+  {
+   "key": "1888107491861590016",
+   "en": "Fuck me, Saul. Brought me to the brink of a heart attack.",
+   "ro": "Futu-i, Saul. M-ai adus în pragul unui atac de cord."
+  },
+  {
+   "key": "1888108883598766080",
+   "en": "I… Saul… You all sure about this?",
+   "en_m": "Saul, I… You all sure about this?",
+   "ro": "Eu… Saul… Sunteți siguri cu toții de asta?",
+   "ro_m": "Saul, eu… Sunteți siguri cu toții de asta?"
+  },
+  {
+   "key": "1888109434830974976",
+   "en": "Does this look like one big jest?",
+   "ro": "Ție ți se pare o glumă?"
+  },
+  {
+   "key": "1888109971433451520",
+   "en": "Look, I - I know what this means. Used to wear clan colors, too. But to be an Aldecaldo… I dunno if you should…",
+   "en_m": "Look, I know what this means. Used to wear clan colors, too. But to be an Aldecaldo… I… I dunno if you should…",
+   "ro": "Uite, eu – eu știu ce înseamnă asta. Am purtat și eu culorile clanului. Dar să fii Aldecaldo… nu știu dacă ar trebui…",
+   "ro_m": "Uite, știu ce înseamnă asta. Am purtat și eu culorile clanului. Dar să fii Aldecaldo… eu… nu știu dacă ar trebui…"
+  },
+  {
+   "key": "1888111599880368128",
+   "en": "Just answer the question – are you ready?",
+   "ro": "Răspunde doar la întrebare – ești pregătită?",
+   "ro_m": "Răspunde doar la întrebare – ești pregătit?"
+  },
+  {
+   "key": "1913817976938295296",
+   "en": "A downright injustice, it is! It needs fixing!",
+   "ro": "O nedreptate cruntă, asta e! Trebuie reparată!"
+  },
+  {
+   "key": "1913824100202704896",
+   "en": "Christ, someone get her a hanky, else the poor thing'll start a flash flood.",
+   "en_m": "Christ, someone get him a hanky, else the poor thing'll start a flash flood.",
+   "ro": "Doamne, dă-i cuiva o batistă, altfel sărmana o să pornească un potop.",
+   "ro_m": "Doamne, dă-i cuiva o batistă, altfel sărmanul o să pornească un potop."
+  },
+  {
+   "key": "1913827634121928704",
+   "en": "It's about time you didn't.",
+   "ro": "Era și timpul să nu mai faci asta."
+  },
+  {
+   "key": "1913829501677727744",
+   "en": "See? She likes it!",
+   "en_m": "See? He likes it!",
+   "ro": "Vezi? Îi place!"
+  },
+  {
+   "key": "1935957184612003840",
+   "en": "Are you all right?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "1935957626171551744",
+   "en": "Yeah… ahem, it's nothin'. Don't worry about it.",
+   "en_m": "Yeah… it's nothin'. Don't worry about it.",
+   "ro": "Da… hem, nu-i nimic. Nu-ți face griji.",
+   "ro_m": "Da… nu-i nimic. Nu-ți face griji."
+  },
+  {
+   "key": "1976238968963313664",
+   "en": "Climb on up here.",
+   "ro": "Urcă-te aici."
+  },
+  {
+   "key": "1976239042917281792",
+   "en": "Well? Don't be shy.",
+   "ro": "Ei? Nu fi timidă.",
+   "ro_m": "Ei? Nu fi timid."
+  },
+  {
+   "key": "2005205161905614848",
+   "en": "You're one of us now, V. You're an Aldecaldo, dammit!",
+   "ro": "Ești una dintre noi acum, V. Ești Aldecaldo, fir-ar!",
+   "ro_m": "Ești unul dintre noi acum, V. Ești Aldecaldo, fir-ar!"
+  },
+  {
+   "key": "2025525106862321664",
+   "en": "You saved my rumpus, as Bobby tells it. And I won't even mention Panam.",
+   "ro": "Mi-ai salvat fundul, cum spune Bobby. Și nici nu mai pomenesc de Panam."
+  },
+  {
+   "key": "2025532973178810392",
+   "en": "Don't you worry, V, we'll get you into that Mikoshi. Isn't that the way of it?",
+   "ro": "Nu-ți face griji, V, te băgăm în Mikoshi ăla. Așa e, nu?"
+  },
+  {
+   "key": "2237515176171294720",
+   "en": "C'mon, V, say your piece!",
+   "ro": "Hai, V, spune ce ai de spus!"
+  },
+  {
+   "key": "2237516351700488192",
+   "en": "Come on, you can't stay there forever.",
+   "ro": "Hai, nu poți sta acolo la nesfârșit."
+  },
+  {
+   "key": "2237519389332885504",
+   "en": "Speech, speech!",
+   "ro": "Discurs, discurs!"
+  },
+  {
+   "key": "2237519464981352452",
+   "en": "She flabbergasted, she is!",
+   "en_m": "He flabbergasted, he is!",
+   "ro": "E șocată, ce să zic!",
+   "ro_m": "E șocat, ce să zic!"
+  },
+  {
+   "key": "2238701918836944896",
+   "en": "Are you all right?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "2238702245841661952",
+   "en": "V, are you well or not?",
+   "ro": "V, ești bine sau nu?"
+  },
+  {
+   "key": "2238702680606437376",
+   "en": "A warm welcome for our newest Aldecaldo!",
+   "ro": "Aplauze pentru cea mai nouă Aldecaldo a noastră!",
+   "ro_m": "Aplauze pentru cel mai nou Aldecaldo al nostru!"
+  },
+  {
+   "key": "2238703352265502720",
+   "en": "Welcome to the clan, the most dysfunctional ever!",
+   "ro": "Bine ai venit în cel mai disfuncțional clan din lume!"
+  },
+  {
+   "key": "2238703473648660480",
+   "en": "Great to have you with us, V!",
+   "ro": "Ce bine că ești cu noi, V!"
+  },
+  {
+   "key": "2238703598320152576",
+   "en": "We'll raise a toast to you!",
+   "ro": "Hai să ridicăm un pahar pentru tine!"
+  },
+  {
+   "key": "2238715488735784960",
+   "en": "This occasion calls for a drink, I say!",
+   "ro": "Asta merită o băutură, zic eu!"
+  },
+  {
+   "key": "2238715630234824704",
+   "en": "Thanks for everything, V! Aldecaldos always pay their debts!",
+   "ro": "Mulțumesc pentru tot, V! Aldecaldos plătesc întotdeauna datoriile!"
+  },
+  {
+   "key": "2238719065134919680",
+   "en": "So maybe you'll finally pay me back? I've been waiting a year!",
+   "ro": "Deci poate-mi dai în sfârșit banii înapoi? Te aștept de un an!"
+  }
+ ]
+}

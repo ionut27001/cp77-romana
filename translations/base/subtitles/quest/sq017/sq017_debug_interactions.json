@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq017\\sq017_debug_interactions.json",
+ "entries": [
+  {
+   "key": "1341423198167633920",
+   "en": "[db_db][TECHIE] Grapple ladder.",
+   "ro": "[db_db][TEHNICIAN] Agăță scara."
+  },
+  {
+   "key": "1341429258853027840",
+   "en": "[db_db]V uses the makeshift grapple to pull the fire escape ladder down and climbs it with Kerry.",
+   "ro": "[db_db]V folosește cârligul improvizat pentru a trage scara de evacuare în jos și urcă pe ea cu Kerry."
+  },
+  {
+   "key": "1341430239330308096",
+   "en": "[db_db]V performs a take-down on the security guard and hack him.",
+   "ro": "[db_db]V îl doboară pe agentul de securitate și îl hack-uiește."
+  },
+  {
+   "key": "1341430744878157844",
+   "en": "[db_db][NETRUNNER] Hack security guard.",
+   "ro": "[db_db][NETRUNNER] Hack-uiește agentul de securitate."
+  },
+  {
+   "key": "1341432511250567168",
+   "en": "[db_db]This gives her access to the security network which she uses to open the stage door.",
+   "ro": "[db_db]Asta îi dă acces la rețeaua de securitate, pe care o folosește pentru a deschide ușa scenei."
+  }
+ ]
+}

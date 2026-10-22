@@ -1,0 +1,56 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\community\\e3_q110_chapel_chat.json",
+ "entries": [
+  {
+   "key": "1709764742401306624",
+   "en": "<kiroshi l=\"creo\" o=\"Ou dwe fè li. Ou pral santi pi bon, plis konfòtab nan pwòp po ou?\" t=\"You should do it. You'll feel so much better, so much more comfortable in your own skin.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou dwe fè li. Ou pral santi pi bon, plis konfòtab nan pwòp po ou?\" t=\"Ar trebui s-o faci. O să te simți mult mai bine, mult mai confortabil în pielea ta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711102105154539520",
+   "en": "<kiroshi l=\"creo\" o=\"Men, si mwen pa fè sa?\" t=\"But what if I don't?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men, si mwen pa fè sa?\" t=\"Dar dacă nu o fac?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711102514887708672",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa ou vle di? E si ou pa fè sa?\" t=\"What d'you mean, what if you don't?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa ou vle di? E si ou pa fè sa?\" t=\"Ce vrei să spui, dacă nu o faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711102628301688832",
+   "en": "<kiroshi l=\"creo\" o=\"Mwe pa konnen, e - si mwen pa renmen li, kisa?\" t=\"Dunno, I – what if I don't like it? Then what?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwe pa konnen, e - si mwen pa renmen li, kisa?\" t=\"Habar n-am, eu – dacă nu-mi place? Și atunci ce?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711102807197143040",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa ou ap pale laa? Tout moun renmen li?\" t=\"What are you on about? Everyone likes it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa ou ap pale laa? Tout moun renmen li?\" t=\"Despre ce vorbești? Tuturor le place.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711103615892508672",
+   "en": "<kiroshi l=\"creo\" o=\"Men mwen pa tout moun?\" t=\"But I'm not everyone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men mwen pa tout moun?\" t=\"Dar eu nu sunt toată lumea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711103991685369856",
+   "en": "<kiroshi l=\"creo\" o=\"Vrèman?\" t=\"You don't say.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Vrèman?\" t=\"Nu mi-ai zice!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711104236230070272",
+   "en": "<kiroshi l=\"creo\" o=\"Kisa sa sipoze vle di?\" t=\"What's that s'posed to mean?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kisa sa sipoze vle di?\" t=\"Ce vrei să spui cu asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711104437523107840",
+   "en": "<kiroshi l=\"creo\" o=\"Egzakteman sa. Ou enposib. Chak ti bagay, li toujou, \\\"men kisa de sa, e sa?\\\" Jezi?\" t=\"Exactly that. You're impossible. Every little thing, it's always \\\"but what about this, what about that.\\\" Jesus.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Egzakteman sa. Ou enposib. Chak ti bagay, li toujou, \\\"men kisa de sa, e sa?\\\" Jezi?\" t=\"Exact asta. Ești imposibilă. La orice fleac, e mereu „dar cu asta ce facem, dar cu aia?”. Doamne.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Egzakteman sa. Ou enposib. Chak ti bagay, li toujou, \\\"men kisa de sa, e sa?\\\" Jezi?\" t=\"Exact asta. Ești imposibil. La orice fleac, e mereu „dar cu asta ce facem, dar cu aia?”. Doamne.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711104731610927104",
+   "en": "<kiroshi l=\"creo\" o=\"Um byen, eskiiiiiz'm?\" t=\"Well, soooorry.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Um byen, eskiiiiiz'm?\" t=\"Ei, scuze răăău.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

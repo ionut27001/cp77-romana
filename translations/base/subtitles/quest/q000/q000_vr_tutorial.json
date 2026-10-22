@@ -1,0 +1,617 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_vr_tutorial.json",
+ "entries": [
+  {
+   "key": "2176775298639482880",
+   "en": "Chick we're looking for's somewhere in this building.",
+   "ro": "Tipa pe care o căutăm e pe undeva în clădirea asta."
+  },
+  {
+   "key": "2177740629902118912",
+   "en": "<mothertongue l=\"mex\" m=\"pendejos\" b=\"Probably crawlin' with the \" a=\" that kidnapped her. Eyes and ears open, all right?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pendejos\" b=\"Probabil e plin de \" a=\" care au răpit-o. Ochi și urechi deschise, bine?\"/>"
+  },
+  {
+   "key": "2177740962896302080",
+   "en": "Speakin' of which… got you a little somethin'. Militech training shard. 'Case you need to, uh, brush up on your dance moves.",
+   "ro": "Apropo… ți-am luat ceva. Shard de antrenament Militech. Să-ți mai aduci aminte pașii de dans, ăă, dacă ți-au ieșit din cap."
+  },
+  {
+   "key": "2177742396207419392",
+   "en": "Down for some target practice in VR?",
+   "ro": "Te bagi la un antrenament la țintă în VR?"
+  },
+  {
+   "key": "2177742921837596676",
+   "en": "[TUTORIAL] Sure, a little warm-up can't hurt.",
+   "ro": "[TUTORIAL] Sigur, o încălzire mică nu strică."
+  },
+  {
+   "key": "2177743165795094528",
+   "en": "[SKIP TUTORIAL] Don't have time for this.",
+   "ro": "[SKIP TUTORIAL] N-am timp pentru asta."
+  },
+  {
+   "key": "2177747385013260288",
+   "en": "Sure, why the hell not.",
+   "ro": "Sigur, de ce naiba nu."
+  },
+  {
+   "key": "2177747944868958212",
+   "en": "Not now, Jack – no time. Maybe later.",
+   "ro": "Nu acum, Jack – n-am timp. Poate mai târziu."
+  },
+  {
+   "key": "2177749220306472960",
+   "en": "<mothertongue l=\"mex\" m=\"Mañana, mañana…\" b=\"Sure, sure. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mañana, mañana…\" b=\"Sigur, sigur. \" a=\"\"/>"
+  },
+  {
+   "key": "2177781685226065924",
+   "en": "[Exit] Time to work.",
+   "ro": "[Ieșire] Hai la treabă."
+  },
+  {
+   "key": "2177970876203421700",
+   "en": "This course is designed to reinforce your fundamental combat abilities and hone your reflexes.",
+   "ro": "Cursul ăsta e făcut ca să-ți consolideze abilitățile de luptă de bază și să-ți ascută reflexele."
+  },
+  {
+   "key": "2177970876220198916",
+   "en": "The skills you gain here will help you survive, even excel, on the battlefield.",
+   "ro": "Abilitățile pe care le capeți aici o să te ajute să supraviețuiești, ba chiar să te descurci de minune pe câmpul de luptă."
+  },
+  {
+   "key": "2177970876220198924",
+   "en": "I will train you to be effective with firearms, to use stealth tactics to your advantage and to hack into enemy networks.",
+   "ro": "O să te antrenez să te descurci cu armele de foc, să folosești furișarea în avantajul tău și să hack-uiești rețelele inamice."
+  },
+  {
+   "key": "2177970876220198932",
+   "en": "Because at Militech--",
+   "ro": "Pentru că la Militech--"
+  },
+  {
+   "key": "2177982518987345924",
+   "en": "[Begin training]",
+   "ro": "[Începe antrenamentul]"
+  },
+  {
+   "key": "2178031462723375104",
+   "en": "[Begin training]",
+   "ro": "[Începe antrenamentul]"
+  },
+  {
+   "key": "2178031583066345472",
+   "en": "[Begin training]",
+   "ro": "[Începe antrenamentul]"
+  },
+  {
+   "key": "2178031673797529600",
+   "en": "[Begin training]",
+   "ro": "[Începe antrenamentul]"
+  },
+  {
+   "key": "2178045408817729536",
+   "en": "[End training]",
+   "ro": "[Termină antrenamentul]"
+  },
+  {
+   "key": "2178060801443647488",
+   "en": "So? Not bad, huh?",
+   "ro": "Deci? Nu-i rău, nu?"
+  },
+  {
+   "key": "2178061842587340800",
+   "en": "And now we can get down to biz.",
+   "ro": "Și acum, la afaceri."
+  },
+  {
+   "key": "2178080907997499396",
+   "en": "Right! So first – let's shape up those stealth skills.",
+   "ro": "Bine! Deci, primul lucru – hai să ne punem la punct furișarea."
+  },
+  {
+   "key": "2178082332114702344",
+   "en": "Let's blast through a tactical target practice program. Y'know, a little warm-up.",
+   "ro": "Hai să trecem printr-un program de tir tactic. Știi tu, o mică încălzire."
+  },
+  {
+   "key": "2178092310196146184",
+   "en": "This training module will teach you how to apply technological tools to combat situations.",
+   "ro": "Modulul ăsta de antrenament o să te învețe cum să folosești uneltele tehnologice în lupte."
+  },
+  {
+   "key": "2178103929609408520",
+   "en": "Time to get down 'n' dirty in close-quarter combat.",
+   "ro": "Hai să ne murdărim mâinile în luptă corp la corp."
+  },
+  {
+   "key": "2178136391022563328",
+   "en": "Well OK, looks like we've covered everything. High-fives all around.",
+   "ro": "Păi, bun, cam am văzut tot. High-five pentru toată lumea."
+  },
+  {
+   "key": "2178137337509203972",
+   "en": "Nicely done overall.",
+   "ro": "Bravo, per total."
+  },
+  {
+   "key": "2178283216778055680",
+   "en": "Elevator. This way.",
+   "ro": "Liftul. Pe aici."
+  },
+  {
+   "key": "2179250097248817152",
+   "en": "No worries. Try again.",
+   "ro": "Nicio problemă. Mai încearcă."
+  },
+  {
+   "key": "2179250921513439236",
+   "en": "Almost, almost. Again, from the top.",
+   "ro": "Aproape, aproape. Iar, de la capăt."
+  },
+  {
+   "key": "2179251052811931652",
+   "en": "Focus, V.",
+   "ro": "Concentrează-te, V."
+  },
+  {
+   "key": "2179251161612177412",
+   "en": "C'mon, you got this.",
+   "ro": "Hai, poți."
+  },
+  {
+   "key": "2186400182759870464",
+   "en": "Not bad. But it's more realistic if the target's packin' iron.",
+   "ro": "Nu-i rău. Dar e mai realist dacă ținta are fier."
+  },
+  {
+   "key": "2186401634223935492",
+   "en": "Oh, look. Brought some chooms with him this time. You know what to do, V.",
+   "ro": "A, uite. A adus și niște chooms cu el de data asta. Știi ce ai de făcut, V."
+  },
+  {
+   "key": "2186406688041488388",
+   "en": "Ya think you're ready to try hackin' some gonks in real time?",
+   "ro": "Crezi că ești gata să încerci să hack-uiești niște fraieri în timp real?"
+  },
+  {
+   "key": "2186417174657126404",
+   "en": "Good. Now show me what you've learned.",
+   "ro": "Bine. Acum arată-mi ce-ai învățat."
+  },
+  {
+   "key": "2186417341271658500",
+   "en": "Let's move on to melee weapons. Grab a sword.",
+   "ro": "Trecem la armele corp la corp. Ia o sabie."
+  },
+  {
+   "key": "2186422589923020800",
+   "en": "[End training]",
+   "ro": "[Termină antrenamentul]"
+  },
+  {
+   "key": "2186422696458342400",
+   "en": "[End training]",
+   "ro": "[Termină antrenamentul]"
+  },
+  {
+   "key": "2186422749273018368",
+   "en": "[End training]",
+   "ro": "[Termină antrenamentul]"
+  },
+  {
+   "key": "2192518938878734336",
+   "en": "Militech. Jack, we're talkin' classified, military-grade tech here. How did you get it?",
+   "en_m": "Militech? Jack, we're talkin' classified, military-grade shit here. How'd you get it?",
+   "ro": "Militech. Jack, vorbim de tech clasificat, de grad militar. Cum ai făcut rost de asta?",
+   "ro_m": "Militech? Jack, vorbim de rahat clasificat, de grad militar. Cum dracu' ai făcut rost de asta?"
+  },
+  {
+   "key": "2192523864266698752",
+   "en": "T-Bug. And our girl made a couple adjustments...",
+   "ro": "T-Bug. Și tipa noastră a făcut câteva ajustări..."
+  },
+  {
+   "key": "2192525505967616000",
+   "en": "How'd you get this?",
+   "ro": "De unde-ai luat asta?"
+  },
+  {
+   "key": "2192574062334504960",
+   "en": "Why? Thinks she knows better?",
+   "ro": "De ce? Crede că știe mai bine?"
+  },
+  {
+   "key": "2192574119410593792",
+   "en": "Nah. Said it didn't suit her, uh, \"style\" – hah. You'll see what I mean.",
+   "ro": "Nah. Zicea că nu-i prinde bine cu, ăă, \"stilul\" ei – hah. O să vezi ce zic."
+  },
+  {
+   "key": "2198446477823139840",
+   "en": "Well?",
+   "ro": "Ei?"
+  },
+  {
+   "key": "2201293108845498396",
+   "en": "Let's begin with basic combat training. This session will be recorded for subsequent evaluation.",
+   "ro": "Hai să începem cu antrenamentul de bază pentru luptă. Sesiunea asta o să fie înregistrată pentru evaluare."
+  },
+  {
+   "key": "2207017315545927680",
+   "en": "All right, some advanced combat tecniques for dessert. Then we wrap this party up.",
+   "ro": "Bine, niște tehnici de luptă avansate pentru desert. Apoi închidem petrecerea asta."
+  },
+  {
+   "key": "2207018368903434244",
+   "en": "Hacking's the next item on the menu. Might notice I tweaked the course material a bit.",
+   "ro": "Hacking-ul e următorul din meniu. Poate observi că am mai modificat puțin materialul cursului."
+  },
+  {
+   "key": "2207019732303892488",
+   "en": "Good. Well, I say it's high time to spit a little lead.",
+   "ro": "Bine. Păi, zic că e timpul să scuipăm puțin plumb."
+  },
+  {
+   "key": "2207022374178541568",
+   "en": "Now you won't lose him. Run on over to the training area. Chop, chop!",
+   "ro": "Acum nu o să-l mai pierzi. Fugi până în zona de antrenament. Hai, hai!"
+  },
+  {
+   "key": "2207024242808082440",
+   "en": "See that guard downstairs? Tag him with Kiroshi.",
+   "ro": "Vezi gardianul de jos? Marchează-l cu Kiroshi."
+  },
+  {
+   "key": "2207026081859391488",
+   "en": "Find cover! Quick!",
+   "ro": "Găsește adăpost! Repede!"
+  },
+  {
+   "key": "2207027410044473352",
+   "en": "Nice, nice. Now move slowly towards the exit. Stay out of sight.",
+   "ro": "Bine, bine. Acum mișcă-te încet spre ieșire. Rămâi în umbră."
+  },
+  {
+   "key": "2207029266711859208",
+   "en": "Nova, well done. On to the next area.",
+   "ro": "Mișto, bine făcut. La următoarea zonă."
+  },
+  {
+   "key": "2207033273463361544",
+   "en": "Now the same thing, only with the camera.",
+   "ro": "Acum la fel, doar cu camera."
+  },
+  {
+   "key": "2207072823199944704",
+   "en": "Yeah, didn't think you'd find that too tough.",
+   "ro": "Da, nu credeam că o să-ți fie prea greu."
+  },
+  {
+   "key": "2207078813119041544",
+   "en": "You took a hit. Use a reanimator to patch yourself up.",
+   "ro": "Ai luat o lovitură. Folosește un reanimator să te pui pe picioare."
+  },
+  {
+   "key": "2207080084026707968",
+   "en": "Quit standin' around and take cover!",
+   "ro": "Nu mai sta degeaba, adăpostește-te!"
+  },
+  {
+   "key": "2207105771437576200",
+   "en": "Got three targets for ya, eager to get shot.",
+   "ro": "Am trei ținte pentru tine, nerăbdătoare să fie împușcate."
+  },
+  {
+   "key": "2207122486041006088",
+   "en": "See the targets? Have at 'em.",
+   "ro": "Vezi țintele? Dă-le bătaie."
+  },
+  {
+   "key": "2207130653424635904",
+   "en": "Work a little hack magic on the screen to distract the guard.",
+   "ro": "Fă un pic de hacking pe ecran ca să-l distragi pe gardian."
+  },
+  {
+   "key": "2207131731461427204",
+   "en": "Good! Now take him out quietly.",
+   "ro": "Bine! Acum elimină-l discret."
+  },
+  {
+   "key": "2207132875868885000",
+   "en": "All right, all yours. Take him out.",
+   "ro": "Bine, totul e al tău. Elimină-l."
+  },
+  {
+   "key": "2207134700676337672",
+   "en": "Never smart to leave behind any trace of your handiwork.",
+   "ro": "Nu e niciodată deștept să lași urme după treabă."
+  },
+  {
+   "key": "2207136117327679488",
+   "en": "Now pick up the body and hide it somewhere.",
+   "ro": "Acum ridică trupul și ascunde-l undeva."
+  },
+  {
+   "key": "2207136437839613960",
+   "en": "OK, now try to take him down in one slick move.",
+   "ro": "OK, acum încearcă să-l pui jos dintr-o singură mișcare."
+  },
+  {
+   "key": "2207137745858482184",
+   "en": "Wait for it…",
+   "ro": "Stai așa…"
+  },
+  {
+   "key": "2207139201936281608",
+   "en": "Now. Detonate the grenade.",
+   "ro": "Acum. Detonează granata."
+  },
+  {
+   "key": "2207175498486796300",
+   "en": "Hack one of the guards to distract the other. Get to it!",
+   "ro": "Hack-uiește unul dintre gardieni ca să-l distragi pe celălalt. La treabă!"
+  },
+  {
+   "key": "2207186615187558400",
+   "en": "OK, that'll do.",
+   "ro": "OK, ajunge."
+  },
+  {
+   "key": "2207187476831817728",
+   "en": "Now maybe we find someone closer to your weight class.",
+   "ro": "Acum poate găsim pe cineva mai aproape de categoria ta."
+  },
+  {
+   "key": "2208504118803189760",
+   "en": "Man, Militech can't encrypt for shit.",
+   "ro": "Măi, Militech nu știe să cripteze de rahat."
+  },
+  {
+   "key": "2209917733972234240",
+   "en": "Nice work today.",
+   "ro": "Bună treabă azi."
+  },
+  {
+   "key": "2209918395665633280",
+   "en": "Just stand on the platform to exit the sim.",
+   "ro": "Doar stai pe platformă ca să ieși din sim."
+  },
+  {
+   "key": "2209959311889682444",
+   "en": "Preem work, V.",
+   "ro": "Treabă beton, V."
+  },
+  {
+   "key": "2209959311889682452",
+   "en": "Stand on the platform, and we'll move on.",
+   "ro": "Stai pe platformă și trecem mai departe."
+  },
+  {
+   "key": "2210014736832024588",
+   "en": "See? Just needed to shut your brain down and follow orders. In true Militech fashion.",
+   "ro": "Vezi? Trebuia doar să-ți oprești creierul și să urmezi ordinele, ca la Militech."
+  },
+  {
+   "key": "2210014736832024596",
+   "en": "Under my wise command, you're a real champ. Take your spot on the podium.",
+   "ro": "Sub comanda mea, ești o adevărată campioană. Ia-ți locul pe podium.",
+   "ro_m": "Sub comanda mea, ești un adevărat campion. Ia-ți locul pe podium."
+  },
+  {
+   "key": "2210062262138327044",
+   "en": "Good stuff. Looks like you're cruisin' already.",
+   "ro": "Bună treabă. Se vede că te descurci deja."
+  },
+  {
+   "key": "2210062262138327052",
+   "en": "Hop on the platform.",
+   "ro": "Sari pe platformă."
+  },
+  {
+   "key": "2211420454714425344",
+   "en": "But they clearly got drillin' jarheads in their blood.",
+   "ro": "Dar clar au jarhead-i dresați până în măduvă."
+  },
+  {
+   "key": "2211450293865496576",
+   "en": "Whaddaya say we crank it up a notch?",
+   "ro": "Ce zici, urcăm ștacheta un pic?"
+  },
+  {
+   "key": "2211456124686254080",
+   "en": "Head to the training area when you're good to go.",
+   "ro": "Du-te la zona de antrenament când ești gata."
+  },
+  {
+   "key": "2211489674823286784",
+   "en": "Especially the dead kind.",
+   "ro": "Mai ales cei morți."
+  },
+  {
+   "key": "2211508992982204416",
+   "en": "Take him down. But careful... looks tough.",
+   "ro": "Doboară-l. Dar ai grijă... pare tare."
+  },
+  {
+   "key": "2211522364121366528",
+   "en": "Jesus, corpospeak can even make hacking sound borin'.",
+   "ro": "Doamne, cu corpospeak-ul ăsta până și hacking-ul sună plictisitor."
+  },
+  {
+   "key": "2212888581692276736",
+   "en": "Hope they like surprises.",
+   "ro": "Sper că le plac surprizele."
+  },
+  {
+   "key": "2212901869985546240",
+   "en": "Have fun!",
+   "ro": "Să te distrezi!"
+  },
+  {
+   "key": "2212909701120212992",
+   "en": "Now... station one, you maggot! Move, move, move!",
+   "ro": "Acum... prima stație, râmă! Mișcă-te, mișcă-te, mișcă-te!"
+  },
+  {
+   "key": "2212910880642383872",
+   "en": "You can tell Jackie I passed you with flying colors.",
+   "ro": "Poți să-i spui lui Jackie că ai trecut cu note mari."
+  },
+  {
+   "key": "2220078820234612736",
+   "en": "Let's do this.",
+   "ro": "Hai s-o facem."
+  },
+  {
+   "key": "2221229947252625408",
+   "en": "Need a hand-written invite?",
+   "ro": "Îți trebuie o invitație scrisă de mână?"
+  },
+  {
+   "key": "2221230212164866052",
+   "en": "Well? We doin' this?",
+   "ro": "Ei, ce zici, o facem?"
+  },
+  {
+   "key": "2221231508875890688",
+   "en": "Corpotrash... Style over substance!",
+   "ro": "Corpotrash... Stil peste substanță!"
+  },
+  {
+   "key": "2221232700997750784",
+   "en": "Not too shabby. Militech's algorithm's put you on a decent run.",
+   "ro": "Nu-i rău. Algoritmul Militech te-a băgat pe o pistă bună."
+  },
+  {
+   "key": "2221233474528071680",
+   "en": "Fixer give you any tips?",
+   "ro": "Fixerul ți-a dat vreun pont?"
+  },
+  {
+   "key": "2221233657282285568",
+   "en": "Wakako give you any tips and tricks for the job?",
+   "ro": "Wakako ți-a dat vreun pont sau vreun truc pentru treabă?"
+  },
+  {
+   "key": "2221413786751168512",
+   "en": "\"I'm not your mother. Just do what I pay you for. It's easy work.\" Sh'yeah…",
+   "ro": "„Nu sunt mama ta. Fă doar ce te plătesc. E treabă ușoară.” Da, sigur…"
+  },
+  {
+   "key": "2221433502462996480",
+   "en": "But remember – the street's not gonna give you any hints or second chances.",
+   "ro": "Dar ține minte: strada nu-ți dă pontul și nici a doua șansă."
+  },
+  {
+   "key": "2221434865829900288",
+   "en": "G'luck, V.",
+   "ro": "Baftă, V."
+  },
+  {
+   "key": "2231807161551646720",
+   "en": "Hope you're ready to bust ass through this fascist playground.",
+   "ro": "Sper că ești gata să dai tot ce ai prin locul ăsta fascist de joacă."
+  },
+  {
+   "key": "2231811100489641984",
+   "en": "V, you're not a gonkbrained Militech recruit. Get movin'!",
+   "ro": "V, nu ești o recrută Militech cu creierul în ghetă. Mișcă-te!",
+   "ro_m": "V, nu ești un recrut Militech cu creierul în ghetă. Mișcă-te!"
+  },
+  {
+   "key": "2231958851626037248",
+   "en": "Pick up the pace. Wastin' time here.",
+   "ro": "Mai repede, pierdem timpul."
+  },
+  {
+   "key": "2231960072906698752",
+   "en": "C'mon, don't need you hurt!",
+   "ro": "Hai, nu vreau să te rănești!",
+   "ro_m": "Hai, nu te vreau rănit!"
+  },
+  {
+   "key": "2232102595943821312",
+   "en": "Stealthy, now, V. You ever relive a ninja BD? Just like that.",
+   "ro": "Pe tăcute acum, V. Ai mai retrăit vreun BD de ninja? Exact așa."
+  },
+  {
+   "key": "2232105567339769856",
+   "en": "Sorry, did I load a hacker training program or a spa sim?",
+   "ro": "Scuze, am încărcat un antrenament de hacker sau un sim de spa?"
+  },
+  {
+   "key": "2232108289124298752",
+   "en": "Hide already!",
+   "ro": "Ascunde-te odată!"
+  },
+  {
+   "key": "2232109598250463232",
+   "en": "Umm, sightseeing?",
+   "ro": "Ăă, turism?"
+  },
+  {
+   "key": "2232111319894814720",
+   "en": "Back to your training, recruit!",
+   "ro": "Înapoi la antrenament, recrută!",
+   "ro_m": "Înapoi la antrenament, recrut!"
+  },
+  {
+   "key": "2239203123920916480",
+   "en": "Dull bit comin' up now – blockin' blows instead of dealin' 'em.",
+   "ro": "Urmează partea plictisitoare – blochezi lovituri în loc să lovești."
+  },
+  {
+   "key": "2239207036518682632",
+   "en": "Now this fool loses his footing every time he swings. Use that – get in there and land a counterpunch.",
+   "ro": "Acum nebunul ăsta își pierde echilibrul de fiecare dată când lovește. Profită de asta – intră și dă una pe contră."
+  },
+  {
+   "key": "2239208440788439048",
+   "en": "Fool – I like that! V, wanna see this fool punchin' air next, don't let him land anything.",
+   "ro": "Nebunul – îmi place! V, vrei să-l vezi pe nebunul ăsta lovind aerul? Nu-l lăsa să dea nimic."
+  },
+  {
+   "key": "2239213312086659072",
+   "en": "You've done well in mastering the Way of the Fool, young apprentice. I can teach you no more… This is the part where you face your final test.",
+   "ro": "Ai stăpânit bine Calea Nebunului, tânără ucenică. Nu mai am ce să te învăț… Acum urmează testul final.",
+   "ro_m": "Ai stăpânit bine Calea Nebunului, tinere ucenic. Nu mai am ce să te învăț… Acum urmează testul final."
+  },
+  {
+   "key": "2239243704617422856",
+   "en": "Let's bump things up from \"easy\" to \"normal.\" This next fool can block your attacks.",
+   "ro": "Hai să trecem de la „easy” la „normal”. Nebunul ăsta îți poate bloca atacurile."
+  },
+  {
+   "key": "2267775604361285632",
+   "en": "Got additional modules if you wanna hone any other skills. Or you finish up, delta out now.",
+   "ro": "Am module în plus dacă vrei să-ți mai lucrezi abilitățile. Sau gata, o tăiem acum."
+  },
+  {
+   "key": "2267779382607106048",
+   "en": "Cracked two other training modules for you. You can dive right into those, or... call it a day now.",
+   "ro": "Ți-am spart două module de antrenament. Poți să te bagi direct în ele, sau... gata pe azi."
+  },
+  {
+   "key": "2267781014812119048",
+   "en": "There's a stealth module – dunno, could be useful. Complete that and you'll have done it all.",
+   "ro": "E un modul de furișare – nu știu, poate-ți prinde bine. Termină-l și ai bifat tot."
+  },
+  {
+   "key": "4848529882253578240",
+   "en": "[Begin training - UNLOCK MOTION PATTERNS]",
+   "ro": "[Începe antrenamentul - DEBLOCHEAZĂ CONTROL PRIN MIȘCARE]"
+  },
+  {
+   "key": "4848623256436428800",
+   "en": "[Begin training - UNLOCK MOTION PATTERNS]",
+   "ro": "[Începe antrenamentul - DEBLOCHEAZĂ CONTROL PRIN MIȘCARE]"
+  },
+  {
+   "key": "4871519578092949504",
+   "en": "[TUTORIAL TO UNLOCK MOTION PATTERNS] Sure, a little warm-up can't hurt.",
+   "ro": "[TUTORIAL PENTRU DEBLOCAREA CONTROLULUI PRIN MIȘCARE] Sigur, o mică încălzire nu strică."
+  }
+ ]
+}

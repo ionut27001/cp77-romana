@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\animated_billboards\\ab_ad_thrud.json",
+ "entries": [
+  {
+   "key": "1985322358940803072",
+   "en": "RAGE!",
+   "ro": "MÂNIE!"
+  },
+  {
+   "key": "1993608852213649408",
+   "en": "FURY!",
+   "ro": "FURY!"
+  },
+  {
+   "key": "1993609399587098624",
+   "en": "CARNAGE!",
+   "ro": "CARNAGIU!"
+  },
+  {
+   "key": "1993609676729929728",
+   "en": "THRÚD! Follow your instincts!",
+   "ro": "THRÚD! Urmează-ți instinctele!"
+  }
+ ]
+}

@@ -1,0 +1,586 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq031\\sq031_03_ebunike.json",
+ "entries": [
+  {
+   "key": "1750509373849559048",
+   "en": "Maelstrom's got the docks covered, and you'll cover me.",
+   "ro": "Maelstrom controlează docurile, iar tu mă acoperi."
+  },
+  {
+   "key": "1750509373849559056",
+   "en": "C'mon. Let's go.",
+   "ro": "Hai, mișcăm."
+  },
+  {
+   "key": "1751957451383201792",
+   "en": "Weyland saw Grayson somewhere around the docks. He was with somebody.",
+   "ro": "Weyland l-a văzut pe Grayson pe undeva prin docuri. Era cu cineva."
+  },
+  {
+   "key": "1751958386327117824",
+   "en": "Smasher.",
+   "ro": "Smasher."
+  },
+  {
+   "key": "1751973563986567168",
+   "en": "So I hope. Gotta get to the Maelstrom dataterm first.",
+   "ro": "Așa sper. Trebuie să ajungem întâi la dataterminalul Maelstrom."
+  },
+  {
+   "key": "1752060664715370496",
+   "en": "So what's our plan?",
+   "ro": "Deci care-i planul?"
+  },
+  {
+   "key": "1752952913720467456",
+   "en": "Ready?",
+   "ro": "Gata?"
+  },
+  {
+   "key": "1753741636431208448",
+   "en": "There she is. The \"Ebunike.\"",
+   "ro": "Uite-o, „Ebunike”."
+  },
+  {
+   "key": "1753742316982198272",
+   "en": "Not lookin' so hot.",
+   "ro": "Nu arată prea bine."
+  },
+  {
+   "key": "1753745583606816768",
+   "en": "Kinda hard to believe he's got his hidey-hole here.",
+   "ro": "E cam greu de crezut că-și are ascunzătoarea aici."
+  },
+  {
+   "key": "1753745583606816776",
+   "en": "Did ya expect Smasher to put up a sign or something?",
+   "ro": "Te așteptai ca Smasher să pună un semn sau ceva?"
+  },
+  {
+   "key": "1753761192021286912",
+   "en": "Gotta search the deck.",
+   "ro": "Trebuie să căutăm pe deck."
+  },
+  {
+   "key": "1753761565549223936",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1758078778762551296",
+   "en": "That one's yours.",
+   "ro": "Pe aia o iei tu."
+  },
+  {
+   "key": "1758079373548412928",
+   "en": "Watch it.",
+   "ro": "Atenție."
+  },
+  {
+   "key": "1758079394788368384",
+   "en": "C'mon, look alive.",
+   "ro": "Hai, fii pe fază."
+  },
+  {
+   "key": "1758079415910883328",
+   "en": "Let's finish this.",
+   "ro": "Hai să terminăm cu asta."
+  },
+  {
+   "key": "1779365959497900032",
+   "en": "Fucker's gotta be around here somewhere.",
+   "ro": "Nenorocitul trebuie să fie pe-aici pe undeva."
+  },
+  {
+   "key": "1779371727420874752",
+   "en": "We're goin' to Maelstrom's main storehouse.",
+   "ro": "Mergem la depozitul principal al Maelstrom."
+  },
+  {
+   "key": "1779372922478747648",
+   "en": "Dataterm's there. Gotta check, see if they have anything on Smasher.",
+   "ro": "Dataterminalul e acolo. Trebuie să verificăm, să vedem dacă au ceva despre Smasher."
+  },
+  {
+   "key": "1779388340320821252",
+   "en": "Was she always this curt with you, too?",
+   "ro": "Era mereu așa de scurtă și cu tine?"
+  },
+  {
+   "key": "1790608732934856704",
+   "en": "Main stash house. Dataterm's there.",
+   "ro": "Depozitul principal. Dataterminalul e acolo."
+  },
+  {
+   "key": "1790619154236792832",
+   "en": "Didn't know you worked for Maelstrom.",
+   "ro": "Nu știam că lucrezi pentru Maelstrom."
+  },
+  {
+   "key": "1790619330145902596",
+   "en": "Know where their dataterm is – how, exactly?",
+   "en_m": "You know where their dataterm is? How, exactly?",
+   "ro": "Știi unde e dataterminalul lor? Cum, mai exact?"
+  },
+  {
+   "key": "1790619351721402372",
+   "en": "OK. We can start.",
+   "ro": "Bun. Hai s-o luăm."
+  },
+  {
+   "key": "1790621711050956800",
+   "en": "Work for anybody. Long as it's on my terms.",
+   "ro": "Lucrez pentru oricine, dar pe regulile mele."
+  },
+  {
+   "key": "1790621919373647872",
+   "en": "See I missed a lot these last fifty years.",
+   "ro": "Se vede că mi-au scăpat multe în ultimii cincizeci de ani."
+  },
+  {
+   "key": "1790622720385048576",
+   "en": "Set up the buy myself.",
+   "ro": "Am aranjat eu afacerea."
+  },
+  {
+   "key": "1790628138519846912",
+   "en": "Lemme lead. I know the place.",
+   "ro": "Lasă-mă să conduc. Cunosc locul."
+  },
+  {
+   "key": "1790629297389264896",
+   "en": "She's tense.",
+   "ro": "E tensionată."
+  },
+  {
+   "key": "1790692867535757312",
+   "en": "Come on.",
+   "ro": "Hai."
+  },
+  {
+   "key": "1790730040242823168",
+   "en": "See 'em all?",
+   "ro": "Îi vezi pe toți?"
+  },
+  {
+   "key": "1790787977690701828",
+   "en": "Looks like they're hidin' out on the ship.",
+   "ro": "Parcă se ascund pe navă."
+  },
+  {
+   "key": "1790789883163009024",
+   "en": "OK. Let's see what we turn up.",
+   "ro": "Bun. Hai să vedem ce găsim."
+  },
+  {
+   "key": "1791157074513321984",
+   "en": "All right. We got it.",
+   "ro": "Bine. O avem."
+  },
+  {
+   "key": "1791157840460341248",
+   "en": "Scan it, see if there's anything we can use.",
+   "ro": "Scanează-o, vezi dacă e ceva de folosit."
+  },
+  {
+   "key": "1791176008641765376",
+   "en": "Nah, knows exactly where to find 'im.",
+   "ro": "Nu, știe exact unde să-l găsească."
+  },
+  {
+   "key": "1791421008340279296",
+   "en": "Can you open it?",
+   "ro": "Poți s-o deschizi?"
+  },
+  {
+   "key": "1792091878675144704",
+   "en": "Heh, execution, looks like to me.",
+   "ro": "Heh, execuție, din câte văd."
+  },
+  {
+   "key": "1792092740956938240",
+   "en": "Shot point-blank. Hollow-point ammo.",
+   "ro": "Împușcat de la mică distanță. Muniție hollow-point."
+  },
+  {
+   "key": "1792099513382166528",
+   "en": "He's got a signature style, Smasher.",
+   "ro": "Are un stil caracteristic, Smasher."
+  },
+  {
+   "key": "1792141059758448644",
+   "en": "Recordings, seem like to me.",
+   "ro": "Par să fie înregistrări."
+  },
+  {
+   "key": "1792141059775225860",
+   "en": "Think you can play 'em back?",
+   "ro": "Crezi că le poți reda?"
+  },
+  {
+   "key": "1792141059775225868",
+   "en": "Eh, can give it a shot.",
+   "en_m": "Yeah, can give it a shot.",
+   "ro": "Eh, pot să încerc.",
+   "ro_m": "Da, pot să încerc."
+  },
+  {
+   "key": "1792141060026884100",
+   "en": "There a fuckin' point to this?",
+   "ro": "Are vreun rost căcatul ăsta?"
+  },
+  {
+   "key": "1792266351822987264",
+   "en": "No idea who's backing you, but if anything happens to Mallory…",
+   "ro": "N-am idee cine te susține, dar dacă i se întâmplă ceva lui Mallory…"
+  },
+  {
+   "key": "1792270501449261056",
+   "en": "Fail to back out of the Night Corp deal by then, the girl dies.",
+   "ro": "Dacă nu vă retrageți din afacerea cu Night Corp până atunci, fata moare."
+  },
+  {
+   "key": "1792270850650234880",
+   "en": "Fuck, don't you understand? You can't blackmail the entire Militech board by kidnapping one--",
+   "ro": "Futu-i, nu înțelegi? Nu poți șantaja tot consiliul Militech răpind o singură--"
+  },
+  {
+   "key": "1792271201864474624",
+   "en": "Twenty-four hours.",
+   "ro": "Douăzeci și patru de ore."
+  },
+  {
+   "key": "1792272104310923264",
+   "en": "There's corpo life for you.",
+   "ro": "Asta e viața de corpo."
+  },
+  {
+   "key": "1792275223900020740",
+   "en": "How much's left?",
+   "ro": "Cât a mai rămas?"
+  },
+  {
+   "key": "1792275223900020748",
+   "en": "An hour. It's not going to work. Like I said.",
+   "ro": "O oră. Nu o să meargă. Cum am zis."
+  },
+  {
+   "key": "1792275223900020756",
+   "en": "So why all this? The girl...",
+   "ro": "Atunci de ce toate astea? Fata..."
+  },
+  {
+   "key": "1792275223900020764",
+   "en": "She dies in an hour. As ordered.",
+   "ro": "Moare peste o oră. Așa a fost ordinul."
+  },
+  {
+   "key": "1792275223950352388",
+   "en": "Why'd he even record that?",
+   "ro": "De ce a înregistrat asta?"
+  },
+  {
+   "key": "1792279675616845824",
+   "en": "Body we found – could be this Mallory.",
+   "ro": "Cadavrul pe care l-am găsit – ar putea fi Mallory."
+  },
+  {
+   "key": "1792280478624735232",
+   "en": "We got no idea when that happened.",
+   "en_m": "We got no idea when it happened.",
+   "ro": "N-avem idee când s-a întâmplat asta.",
+   "ro_m": "N-avem idee când s-a întâmplat."
+  },
+  {
+   "key": "1792501006958551044",
+   "en": "Now I know who jumped Kang Tao last month.",
+   "ro": "Acum știu cine a lovit Kang Tao luna trecută."
+  },
+  {
+   "key": "1792501006975328260",
+   "en": "Thoroughly pro work.",
+   "ro": "Treabă de profesionist, pe bune."
+  },
+  {
+   "key": "1792501006975328268",
+   "en": "Sure it was this exact merch?",
+   "en_m": "Ya sure it was this exact merch?",
+   "ro": "Sigur că era marfa asta exactă?"
+  },
+  {
+   "key": "1792501007143100420",
+   "en": "Yep, real fuckin' preem.",
+   "ro": "Da, beton al dracului."
+  },
+  {
+   "key": "1796915671132868608",
+   "en": "Even shittier on the inside.",
+   "ro": "Și mai rahat pe dinăuntru."
+  },
+  {
+   "key": "1796915842361135104",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1796916600724852736",
+   "en": "Don't wander off.",
+   "ro": "Nu te rătăci."
+  },
+  {
+   "key": "1796922193829236736",
+   "en": "Cover her, just in case.",
+   "ro": "Acoperă-o, să fim siguri."
+  },
+  {
+   "key": "1796924355405746176",
+   "en": "Gotta get to the dataterm. Quietly.",
+   "ro": "Trebuie să ajungem la dataterm. Pe tăcute."
+  },
+  {
+   "key": "1796925320699645952",
+   "en": "Might be our lucky day – drop Grayson and Smasher in one go.",
+   "ro": "Poate azi ne e ziua norocoasă – îi luăm pe Grayson și pe Smasher dintr-un foc."
+  },
+  {
+   "key": "1796941254759878656",
+   "en": "ATHENA D-III. External database.",
+   "ro": "ATHENA D-III. Bază de date externă."
+  },
+  {
+   "key": "1812872038536515584",
+   "en": "I'll watch the door.",
+   "ro": "Eu păzesc ușa."
+  },
+  {
+   "key": "1814213857690062848",
+   "en": "She's stallin'. Told ya – Rogue's still scared of the asshole.",
+   "ro": "Trage de timp. Ți-am zis – Rogue încă se teme de nesimțitul ăla."
+  },
+  {
+   "key": "1814318375987646464",
+   "en": "Just find the motherfucker and do it.",
+   "ro": "Găsește nenorocitul ăla și fă-o."
+  },
+  {
+   "key": "1816931139113521152",
+   "en": "You have twenty-four hours.",
+   "ro": "Aveți douăzeci și patru de ore."
+  },
+  {
+   "key": "1816945094452121600",
+   "en": "I know. I'm blackmailing you.",
+   "ro": "Știu. Te șantajez."
+  },
+  {
+   "key": "1817010448704540672",
+   "en": "Upstairs – summits, handshakes, back-slapping, dick-waving.",
+   "ro": "Sus – summituri, strângeri de mână, palme pe spate, fițe de pulă."
+  },
+  {
+   "key": "1817010751751393280",
+   "en": "Downstairs – Smasher's holdin' a gun to somebody's head.",
+   "ro": "La parter – Smasher ține pistolul la capul cuiva."
+  },
+  {
+   "key": "1817012601808556032",
+   "en": "Grayson might've. To have dirt on Smasher.",
+   "ro": "Grayson poate. Ca să aibă ceva împotriva lui Smasher."
+  },
+  {
+   "key": "1817013630990094336",
+   "en": "Think you're givin' Grayson too much credit.",
+   "ro": "Cred că îi dai lui Grayson prea mult credit."
+  },
+  {
+   "key": "1817014774541914112",
+   "en": "True. Another day in the life for Smasher.",
+   "ro": "Adevărat. Încă o zi obișnuită pentru Smasher."
+  },
+  {
+   "key": "1817037794107002880",
+   "en": "679275-PN1H. Sent three crews out myself to find it for the Chinese.",
+   "ro": "679275-PN1H. Am trimis eu trei echipe să-l găsească pentru chinezi."
+  },
+  {
+   "key": "1817038599581143040",
+   "en": "Whole city was after it. Gotta admit the bastard's good.",
+   "ro": "Tot orașul era pe urmele lui. Trebuie să recunosc că nenorocitul e bun."
+  },
+  {
+   "key": "1817042427185532928",
+   "en": "Now we find and kill the bad guy, OK?",
+   "ro": "Acum îl găsim pe răufăcător și-l omorâm, OK?"
+  },
+  {
+   "key": "1817046671401750528",
+   "en": "For a while.",
+   "ro": "Pentru o vreme."
+  },
+  {
+   "key": "1869862073709510656",
+   "en": "Tri-Phet.",
+   "ro": "Tri-Phet."
+  },
+  {
+   "key": "1869862334108680196",
+   "en": "Look, even got a label! \"Supplements.\"",
+   "ro": "Uite, are și etichetă! „Suplimente.”"
+  },
+  {
+   "key": "1894108944321499136",
+   "en": "Just sittin' here before they cut it, repack it, unleash it on the street.",
+   "ro": "Stă aici înainte să-l taie, să-l reambaleze și să-l dea pe stradă."
+  },
+  {
+   "key": "1897947614879174656",
+   "en": "Why're you even doin' this?",
+   "ro": "De ce faci asta, de fapt?"
+  },
+  {
+   "key": "1897953148457996288",
+   "en": "I'm settling a score.",
+   "ro": "Îmi rezolv o răfuială."
+  },
+  {
+   "key": "1897954773683687424",
+   "en": "Avengin' Johnny?",
+   "ro": "Răzbuni pe Johnny?"
+  },
+  {
+   "key": "1897959263115694080",
+   "en": "That too.",
+   "ro": "Și asta."
+  },
+  {
+   "key": "1897959622701764608",
+   "en": "Rogue's been terrified of him since the Tower.",
+   "ro": "Rogue se teme de el de la Turn."
+  },
+  {
+   "key": "1897970598608130048",
+   "en": "High time she faced her fear.",
+   "ro": "E timpul să-și înfrunte frica."
+  },
+  {
+   "key": "1898025977564123136",
+   "en": "D'ya see that?",
+   "ro": "Ai văzut asta?"
+  },
+  {
+   "key": "1898026287539965952",
+   "en": "Got an idea.",
+   "ro": "Am o idee."
+  },
+  {
+   "key": "1898035855301038080",
+   "en": "Over there, to the right.",
+   "ro": "Acolo, la dreapta."
+  },
+  {
+   "key": "1898042369843679232",
+   "en": "Somethin's burnin'.",
+   "ro": "Ceva arde."
+  },
+  {
+   "key": "1898042622592438272",
+   "en": "Drop him – quietly.",
+   "ro": "Doboară-l – liniștit."
+  },
+  {
+   "key": "1898042885474635776",
+   "en": "Shhh, tryna wake 'em up?",
+   "ro": "Șșș, vrei să-i trezești?"
+  },
+  {
+   "key": "1898044829769420800",
+   "en": "Whatever Rogue can do...",
+   "ro": "Orice poate face Rogue..."
+  },
+  {
+   "key": "1898046673736454144",
+   "en": "Always loved watchin' her in action.",
+   "ro": "Mereu mi-a plăcut s-o văd în acțiune."
+  },
+  {
+   "key": "1898050120464486400",
+   "en": "Wait a sec, then follow me.",
+   "ro": "Stai o secundă, apoi vino după mine."
+  },
+  {
+   "key": "1898055222264877056",
+   "en": "Watch it, now.",
+   "ro": "Ai grijă acum."
+  },
+  {
+   "key": "1908683275202482176",
+   "en": "OK. Won't touch that.",
+   "ro": "OK. Nu mă ating de asta."
+  },
+  {
+   "key": "1908691953418784768",
+   "en": "Looks like they tossed a bunch of stuff outta here.",
+   "ro": "Se pare că au aruncat o grămadă de chestii de aici."
+  },
+  {
+   "key": "1911495907236265984",
+   "en": "Musta upped the huscle after my last visit.",
+   "ro": "Probabil au întărit paza după ultima mea vizită."
+  },
+  {
+   "key": "1911497156987863040",
+   "en": "We'll manage.",
+   "ro": "Ne descurcăm."
+  },
+  {
+   "key": "1916908206649241600",
+   "en": "What's the plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "1916908206649241616",
+   "en": "Had no idea you work with Maelstrom.",
+   "ro": "N-am știut că lucrezi cu Maelstrom."
+  },
+  {
+   "key": "1916908206649241636",
+   "en": "Know where their dataterm is – how?",
+   "ro": "Știi unde e dataterm-ul lor – cum?"
+  },
+  {
+   "key": "1916908206649241668",
+   "en": "OK. We can start.",
+   "ro": "Bun. Hai s-o luăm."
+  },
+  {
+   "key": "1960994083227713536",
+   "en": "OK. Guns a-blazing, then.",
+   "ro": "OK. Tragem cu tot ce avem, atunci."
+  },
+  {
+   "key": "1961039143893876740",
+   "en": "Ooph. Execution, probably.",
+   "ro": "Uf. Probabil execuție."
+  },
+  {
+   "key": "1961045412214095872",
+   "en": "Interesting...",
+   "ro": "Interesant..."
+  },
+  {
+   "key": "1961046526925881344",
+   "en": "Well, well, well...",
+   "ro": "Ei, ei, ei..."
+  },
+  {
+   "key": "1979442188788715520",
+   "en": "Should be some info on Smasher there.",
+   "ro": "Ar trebui să fie ceva despre Smasher pe acolo."
+  },
+  {
+   "key": "2121470272725577732",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  }
+ ]
+}

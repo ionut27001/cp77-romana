@@ -1,0 +1,354 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq018\\sq018_01_mama_welles.json",
+ "entries": [
+  {
+   "key": "1697943261782384640",
+   "en": "V, nice to see you.",
+   "ro": "V, mă bucur să te văd."
+  },
+  {
+   "key": "1697944056284225540",
+   "en": "[Sit] Sure.",
+   "ro": "[Așează-te] Sigur."
+  },
+  {
+   "key": "1697945210154033152",
+   "en": "Wouldn't mind one.",
+   "ro": "N-ar strica una."
+  },
+  {
+   "key": "1697945291003437056",
+   "en": "I'm good, thanks.",
+   "ro": "Mersi, sunt ok."
+  },
+  {
+   "key": "1697945770798260224",
+   "en": "[Sit] No thanks.",
+   "ro": "[Așează-te] Nu, mulțumesc."
+  },
+  {
+   "key": "1697948702516092932",
+   "en": "Wanna take part in the ceremony.",
+   "ro": "Vreau să iau parte la ceremonie."
+  },
+  {
+   "key": "1697949664689430528",
+   "en": "Wanna take part in the ceremony, but... wanna do it the right way – in line with tradition.",
+   "ro": "Vreau să iau parte la ceremonie, dar... vreau s-o fac cum trebuie – conform tradiției."
+  },
+  {
+   "key": "1697949734381985792",
+   "en": "Could help you with that.",
+   "ro": "Te-aș putea ajuta cu asta."
+  },
+  {
+   "key": "1702514181381464064",
+   "en": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\". Sit, sit. You want a beer?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\". Așează-te, așează-te. Vrei o bere?\"/>"
+  },
+  {
+   "key": "1702514922464649216",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "1722525784814297088",
+   "en": "Lemme help you.",
+   "ro": "Lasă-mă să te ajut."
+  },
+  {
+   "key": "1825605937628237824",
+   "en": "<kiroshi l=\"mex\" o=\"Salud.\" t=\"Cheers.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Salud.\" t=\"Noroc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1825607631439187968",
+   "en": "<kiroshi l=\"mex\" o=\"No hay bronca.\" t=\"No problem.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No hay bronca.\" t=\"Nicio problemă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1864865408376164356",
+   "en": "Been better.",
+   "ro": "Am avut zile mai bune."
+  },
+  {
+   "key": "1864865530866618368",
+   "en": "Hanging in there.",
+   "ro": "Mă descurc."
+  },
+  {
+   "key": "1864866024754302976",
+   "en": "Been better, to tell you the truth.",
+   "ro": "Sincer, am avut și zile mai bune."
+  },
+  {
+   "key": "1864866333522186240",
+   "en": "Hangin' in there, somehow?",
+   "en_m": "Hangin' in there, somehow.",
+   "ro": "Te descurci cumva?"
+  },
+  {
+   "key": "1864871197220327424",
+   "en": "What is happening?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1864871267181318144",
+   "en": "That night, when... when Jackie fell... Let's just say things haven't exactly been easy since.",
+   "en_m": "That night, when Jackie fell... Let's just say things haven't exactly been easy since.",
+   "ro": "Noaptea aia, când... când a căzut Jackie... Să zicem că de atunci nu mai e ușor."
+  },
+  {
+   "key": "1864871351604269056",
+   "en": "<kiroshi l=\"mex\" o=\"Yo sé cómo te sientes. Todos lo sabemos.\" t=\"I know how you feel. We all do.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Yo sé cómo te sientes. Todos lo sabemos.\" t=\"Știu cum te simți. Toți știm.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1864871887401439232",
+   "en": "Somehow.",
+   "ro": "Cumva."
+  },
+  {
+   "key": "1864871950198558720",
+   "en": "<mothertongue l=\"mex\" m=\"Nuestra casa es tu casa.\" b=\"You could have come over for dinner. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Nuestra casa es tu casa.\" b=\"Ai fi putut veni la cină. \" a=\"\"/>"
+  },
+  {
+   "key": "1864872077336301568",
+   "en": "Hmm. But OK – we put it behind us, hm?",
+   "ro": "Hm. Ei, bine – trecem peste, ce zici?"
+  },
+  {
+   "key": "1864881922038878208",
+   "en": "<mothertongue l=\"mex\" m=\"mi niña.\" b=\"But your heart – it's in the right place, \" a=\"\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mi niño.\" b=\"Mh, but your heart is in the right place, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mi niña.\" b=\"Dar inima ta e pe unde trebuie, \" a=\"\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mi niño.\" b=\"Mh, dar inima ta e pe unde trebuie, \" a=\"\"/>"
+  },
+  {
+   "key": "1864881973729480704",
+   "en": "Fff, don't worry, it's symbolic. Look for something in his garage. His past is all there.",
+   "ro": "Fff, nu-ți face griji, e simbolic. Caută ceva în garajul lui. Trecutul lui e tot acolo."
+  },
+  {
+   "key": "1864883745504153604",
+   "en": "His garage?",
+   "ro": "Garajul lui?"
+  },
+  {
+   "key": "1864885510282727424",
+   "en": "Jackie had a garage?",
+   "ro": "Jackie avea garaj?"
+  },
+  {
+   "key": "1864886540772888576",
+   "en": "Eh, don't mention it, V. You have respect. I admire that.",
+   "ro": "Eh, nu-i nimic, V. Ai respect. Admir asta."
+  },
+  {
+   "key": "1864886962216554496",
+   "en": "He used it for his motorcycle, mostly. But not so long ago he moved in. You'll find something there, I'm sure.",
+   "ro": "Îl folosea mai ales pentru motocicletă. Dar nu de mult s-a mutat acolo. Sigur găsești ceva."
+  },
+  {
+   "key": "1864887180974673920",
+   "en": "Won't mind me digging through his stuff?",
+   "en_m": "You won't mind me digging through his stuff?",
+   "ro": "Nu te deranjează dacă scotocesc prin lucrurile lui?"
+  },
+  {
+   "key": "1864887304723419136",
+   "en": "<mothertongue l=\"mex\" m=\"No, mija.\" b=\"\" a=\". He's gone. And funerals are for the living, not the dead. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, take the key.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"No, mijo.\" b=\"\" a=\" He's gone. And funerals are for the living, not the dead. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, take the key.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"No, mija.\" b=\"\" a=\". A plecat. Iar înmormântările sunt pentru cei vii, nu pentru cei morți. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, ia cheia.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"No, mijo.\" b=\"\" a=\" A plecat. Iar înmormântările sunt pentru cei vii, nu pentru cei morți. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, ia cheia.\"/>"
+  },
+  {
+   "key": "1864889318509432832",
+   "en": "<kiroshi l=\"mex\" o=\"Ahí te veo.\" t=\"See you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ahí te veo.\" t=\"Ne vedem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1896490727361007616",
+   "en": "A lot of time has passed. How you been?",
+   "ro": "A trecut mult timp. Ce mai faci?"
+  },
+  {
+   "key": "1924407058265731072",
+   "en": "I am in the middle of preparing an ofrenda. There is still so much to take care of...",
+   "ro": "Pregătesc o ofrendă. Mai am atâtea de făcut..."
+  },
+  {
+   "key": "1926981639971205120",
+   "en": "<mothertongue l=\"mex\" m=\"Gracias, mi cielo\" b=\"\" a=\", but I will manage.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Gracias, mi cielo\" b=\"\" a=\", dar mă descurc.\"/>"
+  },
+  {
+   "key": "1926985406405865472",
+   "en": "It's enough you come to say goodbye.",
+   "ro": "Îmi ajunge că ai venit să-ți iei rămas bun."
+  },
+  {
+   "key": "1927026960986206208",
+   "en": "But somethin' I-I'd lay by his casket, that'd do justice to his memory – I... I don't got anything.",
+   "en_m": "But something I'd lay by his casket... That'd do justice to his memory, I – I don't got anything...",
+   "ro": "Ceva ce-aș pune lângă sicriul lui, care să-i facă dreptate amintirii – n-am nimic."
+  },
+  {
+   "key": "1928580049748815872",
+   "en": "Mhm...?",
+   "ro": "Mhm...?"
+  },
+  {
+   "key": "1928581776711544832",
+   "en": "Thanks, Mama Welles.",
+   "ro": "Mulțumesc, Mama Welles."
+  },
+  {
+   "key": "1934506005374103552",
+   "en": "What's an ofrenda?",
+   "ro": "Ce e o ofrendă?"
+  },
+  {
+   "key": "1934506268591845376",
+   "en": "An ofrenda? Wh-what's that, exactly?",
+   "ro": "O ofrendă? C-ce e, mai exact?"
+  },
+  {
+   "key": "1934507718629847040",
+   "en": "Hm, friends and family… we gather to celebrate the departed, our memories of them. And we bring things they loved in life and might need in the after.",
+   "ro": "Hm, prietenii și familia… ne strângem să-i prețuim pe cei plecați, pe ce ne-au lăsat în amintiri. Și aducem lucruri care le-au plăcut în viață și de care ar putea avea nevoie și-acolo."
+  },
+  {
+   "key": "1934508314640445440",
+   "en": "Sure some beer'd be at the top of Jackie's list.",
+   "ro": "Sigur, berea ar fi prima de pe lista lui Jackie."
+  },
+  {
+   "key": "1934526562161324032",
+   "en": "Heheheh. And there will be beer.",
+   "ro": "Heheheh. Și o să fie bere."
+  },
+  {
+   "key": "1934545599184433152",
+   "en": "The garage is on Republic.",
+   "ro": "Garajul e pe Republic."
+  },
+  {
+   "key": "1943264135333453824",
+   "en": "[Take key and stand] Thanks.",
+   "ro": "[Ia cheia și ridică-te] Mulțumesc."
+  },
+  {
+   "key": "1976395134477742080",
+   "en": "The pool table, we got to get rid of it.",
+   "ro": "Masa de biliard, trebuie s-o scoatem de-aici."
+  },
+  {
+   "key": "1976445675203407872",
+   "en": "Really…? It's pretty massive.",
+   "ro": "Serios…? E destul de masivă."
+  },
+  {
+   "key": "1976446243716149248",
+   "en": "So...?",
+   "ro": "Și...?"
+  },
+  {
+   "key": "1976446577716965376",
+   "en": "Maybe we scooch it, put it up against the wall?",
+   "ro": "Poate o împingem, o punem lângă perete?"
+  },
+  {
+   "key": "1983628376209567744",
+   "en": "Yes, it's me.",
+   "ro": "Da, sunt eu."
+  },
+  {
+   "key": "1983631029392060420",
+   "en": "<mothertongue l=\"mex\" m=\"sí\" b=\"It's Montserrat Welles. The Coyote, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"sí\" b=\"E Montserrat Welles. Barul Coyote, \" a=\".\"/>"
+  },
+  {
+   "key": "1983631138360078340",
+   "en": "<kiroshi l=\"mex\" o=\"Vamos, responde, carajo.\" t=\"C'mooon, answer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Vamos, responde, carajo.\" t=\"Hai, răspunde.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1983631263484555268",
+   "en": "Is me. I'm having an ofrenda for Jackie.",
+   "ro": "Sunt eu. Fac o ofrendă pentru Jackie."
+  },
+  {
+   "key": "1988173848277590016",
+   "en": "I call you many times. You don't answer, you don't call back…",
+   "ro": "Te-am sunat de zeci de ori. Nu răspunzi, nu mă suni înapoi…"
+  },
+  {
+   "key": "1998391940310036480",
+   "en": "I am having an ofrenda. I must send my son off.",
+   "ro": "Fac o ofrendă. Trebuie să-mi conduc fiul pe ultimul drum."
+  },
+  {
+   "key": "1998392346553544704",
+   "en": "Yes, consider yourself invited.",
+   "ro": "Da, consideră-te invitată.",
+   "ro_m": "Da, consideră-te invitat."
+  },
+  {
+   "key": "1998392598832541696",
+   "en": "Mhm. See you then.",
+   "ro": "Mhm. Ne vedem atunci."
+  },
+  {
+   "key": "1998395163884318720",
+   "en": "I need a special delivery.",
+   "ro": "Am nevoie de o livrare specială."
+  },
+  {
+   "key": "1998395575093882880",
+   "en": "Beer – an even dozen cases. Sure, yes, ten and two of the ginger stuff.",
+   "ro": "Bere – o duzină de lăzi. Da, zece și două cu ghimbir."
+  },
+  {
+   "key": "1998396004741607424",
+   "en": "<mothertongue l=\"mex\" m=\"Sí\" b=\"\" a=\", lemons and limes to match.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Sí\" b=\"\" a=\", lămâi și lime să se potrivească.\"/>"
+  },
+  {
+   "key": "1998396724970713088",
+   "en": "Tequila… ayy, fuck it, a dozen cases too…",
+   "ro": "Tequila… ayy, dă-o dracu', și încă o duzină de lăzi…"
+  },
+  {
+   "key": "1998405380252561408",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1998408648806559744",
+   "en": "Uh-huh... You can't?",
+   "ro": "Aha... Nu poți?"
+  },
+  {
+   "key": "1998408909239283712",
+   "en": "I see.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1998409164420739072",
+   "en": "<kiroshi l=\"mex\" o=\"Pfff. Bai.\" t=\"Pff. Bye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Pfff. Bai.\" t=\"Pff. Pa.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2238924446696128512",
+   "en": "Hrghh... One heavy... ugh... bastard.",
+   "ro": "Hrghh... Un tip greu... ugh... nenorocitul."
+  },
+  {
+   "key": "2238983336569782272",
+   "en": "Hrgh... argh, yeah... C'mon, chingado…",
+   "ro": "Hrgh... argh, da... Hai, chingado…"
+  }
+ ]
+}

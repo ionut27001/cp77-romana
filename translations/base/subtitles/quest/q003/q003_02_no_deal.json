@@ -1,0 +1,150 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q003\\q003_02_no_deal.json",
+ "entries": [
+  {
+   "key": "1679800505574580224",
+   "en": "<kiroshi l=\"mex\" o=\"¡Pinches culeros!\" t=\"Die, motherfuckers!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Pinches culeros!\" t=\"Crepați, nenorociților!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1679820150436225024",
+   "en": "Scrap the intruders!",
+   "ro": "Lichidați intrușii!"
+  },
+  {
+   "key": "1679820938730496000",
+   "en": "You're dead! Dead!",
+   "ro": "Ești mort! Mort!"
+  },
+  {
+   "key": "1679822708038918144",
+   "en": "You all good, V?",
+   "ro": "Ești bine, V?"
+  },
+  {
+   "key": "1679822708038918152",
+   "en": "Still in one piece, I think.",
+   "ro": "Încă întreagă, cred.",
+   "ro_m": "Încă întreg, cred."
+  },
+  {
+   "key": "1679822708038918160",
+   "en": "Looks like there's some kinda office up there. Prolly where they keep the bot.",
+   "ro": "Pare un birou sus. Probabil acolo țin botul."
+  },
+  {
+   "key": "1679823981781934080",
+   "en": "C'mon, let's head up.",
+   "ro": "Hai, urcăm."
+  },
+  {
+   "key": "1679824891375476736",
+   "en": "Prime yourself. Bet Royce is waitin' for us.",
+   "ro": "Fii gata. Pun pariu că Royce ne așteaptă."
+  },
+  {
+   "key": "1679826773040914432",
+   "en": "Heads up, they're here!",
+   "ro": "Atenție, sunt aici!"
+  },
+  {
+   "key": "1679829538446204928",
+   "en": "Hey, ratshits!",
+   "ro": "Hei, șobolani!"
+  },
+  {
+   "key": "1679838271087796224",
+   "en": "Big fuckin' mistake you made!",
+   "ro": "Mare greșeală ai făcut, dracu' să te ia!"
+  },
+  {
+   "key": "1679839447439073280",
+   "en": "<mothertongue l=\"mex\" m=\"¡Hijo de puta!\" b=\"\" a=\" He locked us in!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Hijo de puta!\" b=\"\" a=\" Ne-a închis înăuntru!\"/>"
+  },
+  {
+   "key": "1679839836318162944",
+   "en": "Flathead's gotta be around here somewhere.",
+   "ro": "Flathead-ul trebuie să fie pe-aici pe undeva."
+  },
+  {
+   "key": "1679842200949317632",
+   "en": "You find anythin'?",
+   "ro": "Ai găsit ceva?"
+  },
+  {
+   "key": "1679842687320809472",
+   "en": "Nothin' yet.",
+   "ro": "Nimic deocamdată."
+  },
+  {
+   "key": "1710284997258862592",
+   "en": "Shoot! Shoot! Carve 'em up!",
+   "ro": "Trageți! Trageți! Tăiați-i!"
+  },
+  {
+   "key": "1710337118297612288",
+   "en": "Eat lead, freaks!",
+   "ro": "Luați plumb, ciudaților!"
+  },
+  {
+   "key": "1710370297456844800",
+   "en": "Get 'em!",
+   "ro": "Luați-i!"
+  },
+  {
+   "key": "1711149061514158080",
+   "en": "The Flathead, model MT0D12, Militech logo.",
+   "ro": "Flathead-ul, model MT0D12, logo Militech."
+  },
+  {
+   "key": "1711150755123781636",
+   "en": "[Open case] Let's see this thing.",
+   "ro": "[Deschide cutia] Hai să vedem chestia asta."
+  },
+  {
+   "key": "1711253382494904320",
+   "en": "Tech poetry. Great piece of chrome. Feels like fucking Christmas morning. Hahaha.",
+   "ro": "Poezie tech. Chrome-ul ăsta e mișto. Simt ca-n dimineața de Crăciun, dracu' știe. Hahaha."
+  },
+  {
+   "key": "1770783210117750784",
+   "en": "Let's see this bad boy...",
+   "ro": "Hai să vedem jucăria asta..."
+  },
+  {
+   "key": "1770784122261430272",
+   "en": "Open it.",
+   "ro": "Deschide-o."
+  },
+  {
+   "key": "1790114300980584448",
+   "en": "Bitch! Think Maelstrom ever forgets?! Never!",
+   "en_m": "Motherfucker! Think Maelstrom ever forgets?! Never!",
+   "ro": "Curvo! Crezi că Maelstrom uită vreodată?! Niciodată!",
+   "ro_m": "Futu-ți mama! Crezi că Maelstrom uită vreodată?! Niciodată!"
+  },
+  {
+   "key": "1790117610521321472",
+   "en": "Give 'er here!",
+   "en_m": "Give 'im here!",
+   "ro": "Dă-o aici!",
+   "ro_m": "Dă-l aici!"
+  },
+  {
+   "key": "1790117710630969344",
+   "en": "<kiroshi l=\"mex\" o=\"Ay, mierda.\" t=\"Oh, fuck.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ay, mierda.\" t=\"Oh, futu-i.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1790118038407438336",
+   "en": "We go in iron blazin', V! No two ways about it!",
+   "ro": "Intrăm trăgând, V! Altă cale nu e!"
+  },
+  {
+   "key": "1972657292221235200",
+   "en": "Love tinkerin' with new gear.",
+   "ro": "Îmi place să mă joc cu echipament nou."
+  }
+ ]
+}

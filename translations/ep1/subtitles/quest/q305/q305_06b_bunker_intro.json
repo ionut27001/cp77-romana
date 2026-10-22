@@ -1,0 +1,634 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_06b_bunker_intro.json",
+ "entries": [
+  {
+   "key": "1978175770420297732",
+   "en": "Agh, shit....",
+   "ro": "Agh, rahat...."
+  },
+  {
+   "key": "3278275313808576528",
+   "en": "Reed? Reed – come in. You there?!",
+   "ro": "Reed? Reed – răspunde. Ești acolo?!"
+  },
+  {
+   "key": "3278275318573305876",
+   "en": "Huh, got a Militech logo. Can't be right, can it…?",
+   "ro": "Hm, am un logo Militech. Nu poate fi corect, nu?"
+  },
+  {
+   "key": "3278275318590083100",
+   "en": "Find a terminal, jack in. I think I might know what this place is.",
+   "ro": "Găsește un terminal, conectează-te. Cred că știu ce e locul ăsta."
+  },
+  {
+   "key": "3278275322700501008",
+   "en": "Patchin' you in.",
+   "ro": "Te conectez."
+  },
+  {
+   "key": "3278275322700501020",
+   "en": "You're in a top-secret military facility dating back from the pre-DataKrash days. Cynosure.",
+   "ro": "Ești într-o instalație militară ultrasecretă din perioada pre-DataKrash. Cynosure."
+  },
+  {
+   "key": "3278275326576037888",
+   "en": "Huntin' rogue AIs?",
+   "ro": "Vânezi AI-uri rebele?"
+  },
+  {
+   "key": "3278275326576037904",
+   "en": "She got the matrix - the hell's she down here for?",
+   "ro": "Are matricea – de ce naiba e aici jos?"
+  },
+  {
+   "key": "3278275326609592336",
+   "en": "Yeah, she said somethin' at the Black Sapphire, mentioned… big-game huntin' for rogue AIs?",
+   "ro": "Da, a zis ceva la Black Sapphire, a pomenit… de vânătoare de AI-uri rebele, la scară mare?"
+  },
+  {
+   "key": "3278275326609592348",
+   "en": "They tried to bait them back through the Blackwall. Trap and tame 'em.",
+   "ro": "Au încercat să le ademenească înapoi prin Blackwall. Să le prindă și să le domolească."
+  },
+  {
+   "key": "3278275326609592360",
+   "en": "So then Song…",
+   "ro": "Deci Song…"
+  },
+  {
+   "key": "3278275328320868364",
+   "en": "The hell is this all for, though?",
+   "en_m": "The hell is all this for, though...?",
+   "ro": "La ce naiba e toată chestia asta, totuși?"
+  },
+  {
+   "key": "3278275328320868376",
+   "en": "It's no coincidence she wound up here.",
+   "ro": "Nu e o coincidență că a ajuns aici."
+  },
+  {
+   "key": "3278275329394610176",
+   "en": "She's not running from us, V.",
+   "ro": "Nu fuge de noi, V."
+  },
+  {
+   "key": "3278275329394610188",
+   "en": "She wants a permalink to the Blackwall.",
+   "ro": "Vrea un permalink la Blackwall."
+  },
+  {
+   "key": "3278276410937839632",
+   "en": "You still don't understand a thing, do you?",
+   "ro": "Tot nu înțelegi nimic, nu?"
+  },
+  {
+   "key": "3278276410937839648",
+   "en": "You never will, not fully, not me. How it feels to lose yourself. Layer after layer…",
+   "ro": "Nu o să înțelegi niciodată, nu complet, nu pe mine. Cum e să te pierzi pe tine. Strat după strat…"
+  },
+  {
+   "key": "3278276440079863824",
+   "en": "Reed lives in a world of half-truths of his own making...",
+   "ro": "Reed trăiește într-o lume de jumătăți de adevăr create de el însuși..."
+  },
+  {
+   "key": "3278276440079863840",
+   "en": "Aaugh, fuck... C'mon Songbird... Songbird?",
+   "ro": "Aaugh, futu-i... Hai, Songbird... Songbird?"
+  },
+  {
+   "key": "3278276440079863852",
+   "en": "I warned you.",
+   "ro": "Te-am avertizat."
+  },
+  {
+   "key": "3278276442445451284",
+   "en": "Lost my connection with Reed. That your doing?",
+   "ro": "Mi-am pierdut conexiunea cu Reed. Tu ai făcut-o?"
+  },
+  {
+   "key": "3278276442445451300",
+   "en": "Reed stole my life once already. I won't let him… steal it again.",
+   "ro": "Reed mi-a furat viața o dată deja. Nu-l las… s-o fure iar."
+  },
+  {
+   "key": "3278276442445451332",
+   "en": "All's better… without him.",
+   "ro": "E mai bine… fără el."
+  },
+  {
+   "key": "3278276446002221056",
+   "en": "We'll help you.",
+   "ro": "Te ajutăm."
+  },
+  {
+   "key": "3278276446002221072",
+   "en": "All this shit's your fault.",
+   "ro": "Toată mizeria asta e vina ta."
+  },
+  {
+   "key": "3278276446052552704",
+   "en": "Whaddaya mean?",
+   "ro": "Cum adică?"
+  },
+  {
+   "key": "3278276446438428680",
+   "en": "Stop running and let us help.",
+   "ro": "Nu mai fugi și lasă-ne să te ajutăm."
+  },
+  {
+   "key": "3278276446874636296",
+   "en": "Lookin' for someone to blame when you're the source, the cause of all the trouble.",
+   "ro": "Cauți pe cineva de vină, când tu ești sursa tuturor necazurilor."
+  },
+  {
+   "key": "3278276447696719884",
+   "en": "You're sinking, grasping at straws as the deluge consumes you... Sol, Myers... their promises... didn't help me. Won't help you.",
+   "ro": "Te scufunzi, te agăți de paie în timp ce potopul te înghite... Sol, Myers... promisiunile lor... nu m-au ajutat. Nu o să te ajute nici pe tine."
+  },
+  {
+   "key": "3278276450062307328",
+   "en": "You promised help, too.",
+   "ro": "Și tu ai promis ajutor."
+  },
+  {
+   "key": "3278276450079084548",
+   "en": "Blackwall talking, that.",
+   "ro": "Asta e Blackwall-ul vorbind."
+  },
+  {
+   "key": "3278276450196525068",
+   "en": "No, Song. Everyone can't always be lyin'. Cryin' \"conspiracy\" to justify the lies you tell yourself, though – convenient, isn't it?",
+   "ro": "Nu, Song. Nu poate fi toată lumea mincinoasă. Să strigi „conspirație” ca să-ți justifici minciunile, totuși – convenabil, nu?"
+  },
+  {
+   "key": "3278276450213302280",
+   "en": "You don't believe me – fine. But it's all the more reason not to trust a word... out of his mouth…",
+   "ro": "Nu mă crezi – bine. Dar cu atât mai mult motiv să nu ai încredere în niciun cuvânt... din gura lui…"
+  },
+  {
+   "key": "3278276451454816264",
+   "en": "Might be right. But it's a risk I gotta take, 'cause I got no other choice. You know that.",
+   "ro": "Poate ai dreptate. Dar e un risc pe care trebuie să-l iau, că n-am altă alegere. Știi asta."
+  },
+  {
+   "key": "3278277547694886940",
+   "en": "\"Cynosure.\" Cyberspace equivalent of a nuke, Militech's answer to Arasaka's Soulkiller.",
+   "ro": "„Cynosure.” E echivalentul bombei nucleare în ciberspațiu, răspunsul Militech la Soulkiller-ul Arasaka."
+  },
+  {
+   "key": "3278277547694886952",
+   "en": "Just the next edition of your average megacorp megadick contest.",
+   "ro": "Doar încă o rundă din concursul ăsta de pule mari al megacorporațiilor."
+  },
+  {
+   "key": "3278277554036674572",
+   "en": "Hold up a sec...",
+   "ro": "Stai o secundă..."
+  },
+  {
+   "key": "3278277554036674584",
+   "en": "You heard the chick. You go under the knife, and the FIA'll scrape me outta your head like fuckin' mold.",
+   "ro": "Ai auzit-o pe tipă. Te operezi și FIA mă scoate din capul tău ca pe mucegaiul dracului."
+  },
+  {
+   "key": "3278277556150603776",
+   "en": "Later, Johnny, later.",
+   "ro": "Mai târziu, Johnny, mai târziu."
+  },
+  {
+   "key": "3278277556150603792",
+   "en": "Relax. Haven't made up my mind yet.",
+   "ro": "Relaxează-te. N-am decis încă."
+  },
+  {
+   "key": "3278277556150603808",
+   "en": "Could be lyin'.",
+   "ro": "Ar putea minți."
+  },
+  {
+   "key": "3278277556217712640",
+   "en": "We're not at that bridge yet, Johnny.",
+   "ro": "Încă nu suntem la podul ăla, Johnny."
+  },
+  {
+   "key": "3278277556217712652",
+   "en": "Wonder if you'd say the same if it was your fuckin' head on the chopping block.",
+   "ro": "Mă întreb dacă ai zice la fel dacă ar fi capul tău de căcat pe tocător."
+  },
+  {
+   "key": "3278277556217712664",
+   "en": "Guess what, Johnny, it fucking is. Damn well know that.",
+   "ro": "Ghici ce, Johnny, chiar e, pula mea. Știi foarte bine asta."
+  },
+  {
+   "key": "3278277558516191248",
+   "en": "Which is why I still don't know I'll do it. Gotta consider the options.",
+   "ro": "De-asta încă nu știu dacă o să fac. Trebuie să mă gândesc la variante."
+  },
+  {
+   "key": "3278277558516191260",
+   "en": "Dodge away, V, but the moment'll come – can't avoid it.",
+   "ro": "Eschivează, V, da' momentul o să vină – nu-l poți evita."
+  },
+  {
+   "key": "3278277560881778696",
+   "en": "What if Songbird's lyin', tryin' to pit us against each other?",
+   "ro": "Dacă Songbird minte și încearcă să ne pună unul împotriva altuia?"
+  },
+  {
+   "key": "3278277560881778708",
+   "en": "She's tryin' to buy time, that's obvious. 'Cept this time, the crazy bitch is tellin' the truth.",
+   "ro": "Încearcă să câștige timp, e evident. Doar că de data asta javra aia nebună spune adevărul."
+  },
+  {
+   "key": "3278277562475614224",
+   "en": "Listen, let's just finish this, OK? Soon as the FIA offer is on the table, we'll decide. Together.",
+   "ro": "Ascultă, hai să terminăm odată, bine? Imediat ce e oferta FIA pe masă, decidem. Împreună."
+  },
+  {
+   "key": "3278277562475614236",
+   "en": "Can't wait...",
+   "ro": "Abia aștept..."
+  },
+  {
+   "key": "3278277564790870028",
+   "en": "Chick cut our comms. Or she woke something up down there that did that for her.",
+   "ro": "Tipa ne-a tăiat comunicațiile. Sau a trezit ceva jos care i-a făcut treaba pentru ea."
+  },
+  {
+   "key": "3278277564790870040",
+   "en": "And here we are, going down, down, down the rabbit-hole into the heart of darkness. Tell me you've got a plan.",
+   "ro": "Și uite-ne, coborâm, coborâm în vizuina iepurelui, în inima întunericului. Zi-mi că ai un plan."
+  },
+  {
+   "key": "3278277566552477708",
+   "en": "Gotta get to So Mi 'fore the Blackwall does. Save her.",
+   "ro": "Trebuie să ajungem la So Mi înainte să o facă Blackwall-ul. S-o salvăm."
+  },
+  {
+   "key": "3278277566552477720",
+   "en": "Real noble of you, long as the Blackwall hasn't stripped her to the bone. 'Cause then we'd be walkin' straight into a trap.",
+   "ro": "Foarte nobil din partea ta, atâta timp cât Blackwall-ul nu a lăsat-o doar piele și os. Că atunci am intra direct într-o capcană."
+  },
+  {
+   "key": "3278277568867733504",
+   "en": "Yep – find Songbird and save her.",
+   "ro": "Da – găsește-o pe Songbird și salveaz-o."
+  },
+  {
+   "key": "3278277568867733520",
+   "en": "Plan's to save our fucking lives.",
+   "ro": "Planul e să ne salvăm viețile de căcat."
+  },
+  {
+   "key": "3278277568918065164",
+   "en": "Plan's to save our lives, Johnny. Been that all along.",
+   "ro": "Planul e să ne salvăm viețile, Johnny. Dintotdeauna."
+  },
+  {
+   "key": "3278277568918065176",
+   "en": "Our lives, huh? Mean yours, don'tcha?",
+   "ro": "Viețile noastre, ha? Adică ale tale, nu?"
+  },
+  {
+   "key": "3278277570897776652",
+   "en": "Authorization complete. Welcome, Song So Mi.",
+   "ro": "Autorizare completă. Bun venit, Song So Mi."
+  },
+  {
+   "key": "3278277570897776664",
+   "en": "Initializing permissions migration.",
+   "ro": "Se inițializează migrarea permisiunilor."
+  },
+  {
+   "key": "3278277570964885504",
+   "en": "V…",
+   "ro": "V…"
+  },
+  {
+   "key": "3278277570964885516",
+   "en": "What's up? What is it?",
+   "ro": "Ce-i? Ce e?"
+  },
+  {
+   "key": "3278277570964885528",
+   "en": "She's… she's here. Chick's establishing a link with the Relic, but…",
+   "ro": "E… e aici. Tipa se conectează cu Relic-ul, dar…"
+  },
+  {
+   "key": "3278277570964885540",
+   "en": "Is it the Blackwall? Johnny?",
+   "ro": "E Blackwall-ul? Johnny?"
+  },
+  {
+   "key": "3278277570964885564",
+   "en": "Johnny?!",
+   "ro": "Johnny?!"
+  },
+  {
+   "key": "3278277570981662728",
+   "en": "Migration complete. Permissions status – universal.",
+   "ro": "Migrare completă. Status permisiuni – universal."
+  },
+  {
+   "key": "3286694829162717188",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "3303870443290816512",
+   "en": "Completely paranoid, that's what you are.",
+   "ro": "Ești complet paranoidă, asta ești.",
+   "ro_m": "Ești complet paranoid, asta ești."
+  },
+  {
+   "key": "3303872354886807552",
+   "en": "You promised to help me, too.",
+   "ro": "Mi-ai promis că mă ajuți și pe mine."
+  },
+  {
+   "key": "3303872998242709504",
+   "en": "It… it doesn't matter now.",
+   "ro": "Nu… nu mai contează acum."
+  },
+  {
+   "key": "3303875230283526144",
+   "en": "We still want the same thing. And if anyone can help us, it's Reed.",
+   "ro": "Vrem în continuare același lucru. Și dacă cineva ne poate ajuta, e Reed."
+  },
+  {
+   "key": "3303881642871025664",
+   "en": "Gotta admit, sounds tempting.",
+   "ro": "Trebuie să recunosc, sună tentant."
+  },
+  {
+   "key": "3303886350876602368",
+   "en": "Honestly, sometimes wish you were just gone, Johnny. Sometimes you're worse than mold – you're cancer.",
+   "ro": "Sincer, uneori aș vrea să dispari, Johnny. Ești mai rău decât mucegaiul, ești cancer."
+  },
+  {
+   "key": "3303901031762685952",
+   "en": "The data's decrypting, hold on…",
+   "ro": "Stai, se decriptează datele…"
+  },
+  {
+   "key": "3303901457585205248",
+   "en": "So Mi mentioned this facility once... Militech netrunners takin' a plunge into the so-called deep Net.",
+   "ro": "So Mi a menționat odată instalația asta... netrunneri Militech care se aruncă în așa-zisul Net profund."
+  },
+  {
+   "key": "3327380461386076164",
+   "en": "Weird residue again...",
+   "ro": "Reziduu ciudat iar..."
+  },
+  {
+   "key": "3327381749758824448",
+   "en": "Weird residue again… Must've passed through here.",
+   "ro": "Reziduu ciudat iar… Trebuie să fi trecut pe aici."
+  },
+  {
+   "key": "3337355929908867072",
+   "en": "That-that's why you betray... betrayed me. Why you took me out of the equation.",
+   "ro": "De-asta m-ai... m-ai trădat. De ce m-ai scos din ecuație."
+  },
+  {
+   "key": "3337361035870007296",
+   "en": "What happened to Reed?",
+   "ro": "Ce s-a întâmplat cu Reed?"
+  },
+  {
+   "key": "3337364254729891840",
+   "en": "You... you still trust Reed... It's more... convenient, yes?",
+   "ro": "Tu... încă ai încredere în Reed... E mai... convenabil, nu?"
+  },
+  {
+   "key": "3337366230381293568",
+   "en": "Songbird...",
+   "ro": "Songbird..."
+  },
+  {
+   "key": "3337373686075420672",
+   "en": "Convenient… Reed would say so, too…",
+   "ro": "Convenabil… și Reed ar spune la fel…"
+  },
+  {
+   "key": "3337375636812656640",
+   "en": "Just stop.",
+   "ro": "Oprește-te."
+  },
+  {
+   "key": "3347552074022961152",
+   "en": "But the sheer volume of data--",
+   "ro": "Da' cantitatea asta de date--"
+  },
+  {
+   "key": "3348975108189503488",
+   "en": "She's not alone, I don't think.",
+   "ro": "Nu cred că e singură."
+  },
+  {
+   "key": "3351677675541557248",
+   "en": "They lied to you.",
+   "ro": "Te-au mințit."
+  },
+  {
+   "key": "3351679348112551936",
+   "en": "A risk I'll take willingly.",
+   "ro": "Un risc pe care-l asum de bunăvoie."
+  },
+  {
+   "key": "3351685786050424832",
+   "en": "Do you hear yourself? You… you sound just like him.",
+   "ro": "Te auzi? ... Suni exact ca el."
+  },
+  {
+   "key": "3351691174137229312",
+   "en": "Who'm I even talkin' to right now? That still you, So Mi? Or the Blackwall?",
+   "ro": "Cu cine vorbesc acum? Ești tot tu, So Mi? Sau Blackwall-ul?"
+  },
+  {
+   "key": "3351694934867636224",
+   "en": "The Blackwall is… it's help. It helps me understand… everything.",
+   "ro": "Blackwall-ul e… e un ajutor. Mă ajută să înțeleg… totul."
+  },
+  {
+   "key": "3351695346261749760",
+   "en": "Reed's figured it out, what you're tryin' to do. Knows this'll end badly if you hand over control to the Blackwall.",
+   "ro": "Reed a priceput ce încerci să faci. Știe că o să se termine prost dacă îi predai controlul Blackwall-ului."
+  },
+  {
+   "key": "3351712165890551808",
+   "en": "Yep – stop Songbird.",
+   "ro": "Da – oprește-o pe Songbird."
+  },
+  {
+   "key": "3351714240141651968",
+   "en": "Plan hasn't changed. Gotta help Reed. Means stoppin' Songbird before she passes the point of no return…",
+   "ro": "Planul nu s-a schimbat. Trebuie să-l ajut pe Reed. Adică s-o opresc pe Songbird înainte să treacă punctul de neîntoarcere…"
+  },
+  {
+   "key": "3351722898594394112",
+   "en": "OK, and then what? You and Reed ride off into the sunset? That is, stroll into the nearest FIA clinic? Yeah, right.",
+   "ro": "OK, și apoi? Tu și Reed plecați liniștiți spre asfințit? Adică intrați pe ușa celei mai apropiate clinici FIA? Da, sigur."
+  },
+  {
+   "key": "3359149565522173952",
+   "en": "Find a terminal, V.",
+   "ro": "Găsește un terminal, V."
+  },
+  {
+   "key": "3359150129588953092",
+   "en": "You see any kind of terminal? Need to hurry up.",
+   "ro": "Vezi vreun terminal? Trebuie să ne grăbim."
+  },
+  {
+   "key": "3360450157383708672",
+   "en": "Stop twisting my words around. Want you outta my head, not dead – big difference.",
+   "ro": "Nu mai răsuci cuvintele. Te vreau afară din capul meu, nu moartă – mare diferență.",
+   "ro_m": "Nu mai răsuci cuvintele. Te vreau afară din capul meu, nu mort – mare diferență."
+  },
+  {
+   "key": "3360450259640840192",
+   "en": "You ask me, better to stand some chance than to have no prayer at all.",
+   "en_m": "You ask me, better to stand some chance than  have no prayer at all.",
+   "ro": "Dacă mă întrebi pe mine, mai bine ai o șansă decât nicio speranță."
+  },
+  {
+   "key": "3360452540302028800",
+   "en": "That what you truly think? After all we've been through? Got nothin' to say to that 'cept \"Fuck you.\"",
+   "ro": "Asta chiar crezi? După tot ce-am trecut? N-am ce să-ți spun în afară de „Futu-te.”"
+  },
+  {
+   "key": "3360452639153385472",
+   "en": "Oh, 'cause you're such a fuckin' treat to be around. Fuck you.",
+   "ro": "Ah, pentru că ești o plăcere de nedescris să stai lângă tine. Futu-te."
+  },
+  {
+   "key": "3360453814581915648",
+   "en": "For once, can you try to see things from my perspective, Johnny. Can you?",
+   "ro": "Măcar o dată, poți încerca să vezi lucrurile din perspectiva mea, Johnny? Poți?"
+  },
+  {
+   "key": "3360454676695937024",
+   "en": "I just figured that… Ah, fuck it. Never mind.",
+   "ro": "Tocmai mă gândeam că… Ah, dă-o-n pula mea. Lasă."
+  },
+  {
+   "key": "3363426635926605824",
+   "en": "Remember that chick, Bree? Video logs she stumbled on must've come from here. Some secret project…",
+   "ro": "Ții minte tipa aia, Bree? Jurnalele video pe care le-a găsit trebuie să fi venit de aici. Vreun proiect secret…"
+  },
+  {
+   "key": "3650723523971801088",
+   "en": "And here we are, going down, down, down the rabbit-hole into the heart of darkness. ",
+   "ro": "Și uite-ne, coborâm, tot mai jos, în vizuina iepurelui, în inima întunericului."
+  },
+  {
+   "key": "3650729024227045376",
+   "en": "Tell me you've got a plan.",
+   "ro": "Spune-mi că ai un plan."
+  },
+  {
+   "key": "3791504647617646592",
+   "en": "How it feels to lose yourself…",
+   "ro": "Cum e să te pierzi…"
+  },
+  {
+   "key": "3791506825082179584",
+   "en": "Layer after layer…",
+   "ro": "Strat după strat…"
+  },
+  {
+   "key": "3791510263539044352",
+   "en": "That-that's why you betray... betrayed me.",
+   "ro": "De-asta m-ai... m-ai trădat."
+  },
+  {
+   "key": "3791512107707404288",
+   "en": "You never will, not fully, not me.",
+   "ro": "Nu o să reușești niciodată. Nu complet. Nu pe mine."
+  },
+  {
+   "key": "3791513282548731904",
+   "en": "Why you took me out of the equation.",
+   "ro": "De ce m-ai scos din ecuație."
+  },
+  {
+   "key": "3791515438420987904",
+   "en": "Reed stole my life once already.",
+   "ro": "Reed mi-a furat viața o dată deja."
+  },
+  {
+   "key": "3791518251725230080",
+   "en": "I won't let him…",
+   "ro": "Nu-l las…"
+  },
+  {
+   "key": "3791518402032308224",
+   "en": "Steal it again…",
+   "ro": "S-o fure din nou…"
+  },
+  {
+   "key": "3791520251451936768",
+   "en": "You... you still trust Reed…",
+   "ro": "Tu... încă ai încredere în Reed…"
+  },
+  {
+   "key": "3791520337401614336",
+   "en": "It's more... convenient, yes?",
+   "ro": "E mai... comod, nu?"
+  },
+  {
+   "key": "3791520872007602176",
+   "en": "You're sinking, grasping at straws as the deluge consumes you…",
+   "ro": "Te scufunzi, te agăți de paie cât timp potopul te înghite…"
+  },
+  {
+   "key": "3791520947521851392",
+   "en": "Sol, Myers... their promises... didn't help me.",
+   "ro": "Sol, Myers... promisiunile lor... nu m-au ajutat."
+  },
+  {
+   "key": "3791521043252645888",
+   "en": "Won't help you.",
+   "ro": "Nu o să te ajute."
+  },
+  {
+   "key": "3791521608242171904",
+   "en": "You don't believe me – fine.",
+   "ro": "Nu mă crezi – bine."
+  },
+  {
+   "key": "3791521676525441024",
+   "en": "But it's all the more reason not to trust a word…",
+   "ro": "Dar cu atât mai mult motiv să nu crezi niciun cuvânt…"
+  },
+  {
+   "key": "3791521752173907968",
+   "en": "Out of his mouth…",
+   "ro": "Din gura lui…"
+  },
+  {
+   "key": "3791522745536090112",
+   "en": "Do you hear yourself?",
+   "ro": "Te auzi?"
+  },
+  {
+   "key": "3791522820849012736",
+   "en": "You… you sound just like him.",
+   "ro": "Tu... suni exact ca el."
+  },
+  {
+   "key": "3791523602012966912",
+   "en": "The Blackwall is… it's help.",
+   "ro": "Blackwall-ul e… e un ajutor."
+  },
+  {
+   "key": "3791523721819066368",
+   "en": "It helps me understand… everything.",
+   "ro": "Mă ajută să înțeleg… totul."
+  }
+ ]
+}

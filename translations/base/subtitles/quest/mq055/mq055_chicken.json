@@ -1,0 +1,70 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq055\\mq055_chicken.json",
+ "entries": [
+  {
+   "key": "4074073971495747588",
+   "en": "[db_db]Judy",
+   "ro": "[db_db]Judy"
+  },
+  {
+   "key": "4074074999586766848",
+   "en": "[db_db]Kerry",
+   "ro": "[db_db]Kerry"
+  },
+  {
+   "key": "4074075089479090176",
+   "en": "[db_db]Panam",
+   "ro": "[db_db]Panam"
+  },
+  {
+   "key": "4074075169053425664",
+   "en": "[db_db]River",
+   "ro": "[db_db]River"
+  },
+  {
+   "key": "4074075245255540736",
+   "en": "[db_db]Judy and River",
+   "ro": "[db_db]Judy și River"
+  },
+  {
+   "key": "4074075369255944192",
+   "en": "[db_db]Kerry and Panam",
+   "ro": "[db_db]Kerry și Panam"
+  },
+  {
+   "key": "4076919970840920068",
+   "en": "[db_db]With the Text messages",
+   "ro": "[db_db]Cu mesajele text"
+  },
+  {
+   "key": "4076920643976380416",
+   "en": "[db_db]At the Apartment",
+   "ro": "[db_db]La apartament"
+  },
+  {
+   "key": "4076922815669551108",
+   "en": "[db_db]Megabuilding",
+   "ro": "[db_db]Megabuilding"
+  },
+  {
+   "key": "4076927921496473600",
+   "en": "[db_db]Northside",
+   "ro": "[db_db]Northside"
+  },
+  {
+   "key": "4076928002345877504",
+   "en": "[db_db]Japantown",
+   "ro": "[db_db]Japantown"
+  },
+  {
+   "key": "4076928123510931456",
+   "en": "[db_db]Heywood",
+   "ro": "[db_db]Heywood"
+  },
+  {
+   "key": "4076928184999428096",
+   "en": "[db_db]Downtown",
+   "ro": "[db_db]Downtown"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_voodoo_boys_conversation_002.json",
+ "entries": [
+  {
+   "key": "3373604250861678592",
+   "en": "<kiroshi l=\"creo\" o=\"Gen kèk nouvo gwo neg Euro ki ap vini 'nan Heavy Hearts.\" t=\"Some new Euro heavyweights're comin' to Heavy Hearts.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Gen kèk nouvo gwo neg Euro ki ap vini 'nan Heavy Hearts.\" t=\"Vin niște europeni grei noi la Heavy Hearts.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395562700356800512",
+   "en": "<kiroshi l=\"creo\" o=\"Uh-huh. Pran li, yo bezwen yon kote san danje pou yo pale.\" t=\"Uh-huh. Take it they need a safe place to chat?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Uh-huh. Pran li, yo bezwen yon kote san danje pou yo pale.\" t=\"Aha. Deci au nevoie de un loc sigur ca să vorbească?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395563029441892352",
+   "en": "<kiroshi l=\"creo\" o=\"Wi. Bagay pou bloke siyal, ICE, eskanè aktif, tout bagay.\" t=\"Yep. Signal-jamming, ICE, active scan, the works.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Wi. Bagay pou bloke siyal, ICE, eskanè aktif, tout bagay.\" t=\"Da. Blocaj de semnal, ICE, scanare activă, tot tacâmul.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

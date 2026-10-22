@@ -1,0 +1,429 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_kid_01c_car.json",
+ "entries": [
+  {
+   "key": "1805655042134253572",
+   "en": "Talk to the people in Santo. Tell 'em to be ready.",
+   "ro": "Stai de vorbă cu oamenii din Santo. Zi-le să fie gata."
+  },
+  {
+   "key": "1805655042134253584",
+   "en": "Yes, Padre.",
+   "ro": "Da, Padre."
+  },
+  {
+   "key": "1805655042134253596",
+   "en": "Well, who do we have here…",
+   "ro": "Ei, pe cine avem aici…"
+  },
+  {
+   "key": "1805655042184585220",
+   "en": "V... long time. Didn't know you were around.",
+   "ro": "V... de cât timp! Nu știam că ești prin zonă."
+  },
+  {
+   "key": "1805655042251694080",
+   "en": "Got back a few weeks ago.",
+   "ro": "Am revenit acum câteva săptămâni.",
+   "ro_m": "M-am întors acum câteva săptămâni."
+  },
+  {
+   "key": "1805655042251694096",
+   "en": "You haven't changed a bit.",
+   "ro": "Nu te-ai schimbat deloc."
+  },
+  {
+   "key": "1805655042285248512",
+   "en": "Sebastian Ibarra – haven't changed a smidge.",
+   "ro": "Sebastian Ibarra – nici măcar un pic nu te-ai schimbat."
+  },
+  {
+   "key": "1805655042335580164",
+   "en": "Got back from Atlanta a few weeks ago.",
+   "ro": "Am revenit din Atlanta acum câteva săptămâni.",
+   "ro_m": "M-am întors din Atlanta acum câteva săptămâni."
+  },
+  {
+   "key": "1805655042335580176",
+   "en": "See you got a good down-home welcome. How was it back east?",
+   "ro": "Văd că te-au primit cu brațele deschise. Cum a fost pe coasta de est?"
+  },
+  {
+   "key": "1837545342479822848",
+   "en": "No one calls me by my name anymore. Almost forgotten how it sounds.",
+   "ro": "Nimeni nu mă mai strigă pe nume. Aproape că am uitat cum sună."
+  },
+  {
+   "key": "1837545665659334656",
+   "en": "How're things, Padre?",
+   "ro": "Ce mai faci, Padre?"
+  },
+  {
+   "key": "1837545867053035520",
+   "en": "The same. Heywood – nothing ever changes here. I'd rather hear about you.",
+   "ro": "Ca de obicei. Heywood – aici nu se schimbă nimic. Mai bine zi-mi ce-ai mai făcut tu."
+  },
+  {
+   "key": "1837549251806031872",
+   "en": "Tell ya later, got somethin' on my plate…",
+   "ro": "Îți spun mai târziu, am treabă…"
+  },
+  {
+   "key": "1837549379430313984",
+   "en": "How about you fill me in now? We'll give you a ride.",
+   "ro": "Ce zici, îmi spui acum? Te ducem noi."
+  },
+  {
+   "key": "1837549479271526400",
+   "en": "Marcus, let's go.",
+   "ro": "Marcus, hai să mergem."
+  },
+  {
+   "key": "1867586848638771200",
+   "en": "So, where to?",
+   "ro": "Deci, unde mergem?"
+  },
+  {
+   "key": "1867587174871736320",
+   "en": "Your return to NC has been good? Busy already?",
+   "ro": "Cum a fost întoarcerea în NC? Ai și treabă deja?"
+  },
+  {
+   "key": "1867587403629076480",
+   "en": "Gotta go.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "1881917787565072384",
+   "en": "The Glen. Drop me off at Embers.",
+   "ro": "The Glen. Lasă-mă la Embers."
+  },
+  {
+   "key": "1895054687129706496",
+   "en": "Stop the car.",
+   "ro": "Oprește mașina."
+  },
+  {
+   "key": "1895055043326779392",
+   "en": "What's goin' on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1895055413750931456",
+   "en": "Business. You carryin'?",
+   "ro": "Afaceri. Ai armă la tine?"
+  },
+  {
+   "key": "1895056369414709248",
+   "en": "Looks like it's my lucky day.",
+   "ro": "Ziua asta chiar îmi aduce noroc."
+  },
+  {
+   "key": "1895059928130658308",
+   "en": "Got any idea who you're talkin' to?",
+   "ro": "Ai habar cu cine vorbești?"
+  },
+  {
+   "key": "1895071625289539584",
+   "en": "One more fuckin' word…",
+   "ro": "Încă un cuvânt al dracului…"
+  },
+  {
+   "key": "1895071644331679744",
+   "en": "Well, Paddy, what's it gonna be?",
+   "ro": "Ei, Paddy, cum rămâne?"
+  },
+  {
+   "key": "1895078338608635904",
+   "en": "A counteroffer. Turn around now and slide your ass right back into your ride.",
+   "ro": "O contraofertă. Întoarce-te acum și urcă-te înapoi în mașină."
+  },
+  {
+   "key": "1895078629106130944",
+   "en": "And...?",
+   "ro": "Și...?"
+  },
+  {
+   "key": "1895078856705843200",
+   "en": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"The Lord is ever watching, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Domnul veghează mereu, \" a=\".\"/>"
+  },
+  {
+   "key": "1895079105344184320",
+   "en": "Marcus, please.",
+   "ro": "Marcus, te rog."
+  },
+  {
+   "key": "1895086745352806400",
+   "en": "Pull up here.",
+   "ro": "Trage aici."
+  },
+  {
+   "key": "1895087209712590848",
+   "en": "Here. Before you go.",
+   "ro": "Ține. Înainte să pleci."
+  },
+  {
+   "key": "1895100106996064256",
+   "en": "Thanks, Padre.",
+   "ro": "Mulțumesc, Padre."
+  },
+  {
+   "key": "1896501897614782464",
+   "en": "Front door?",
+   "ro": "Pe ușa din față?"
+  },
+  {
+   "key": "1896501963649904640",
+   "en": "Take the ramp back of the bar. Show you where to stop.",
+   "ro": "Ia rampa din spate, de lângă bar. Îți arăt unde oprești."
+  },
+  {
+   "key": "1896504277764861952",
+   "en": "You heard her, Marcus.",
+   "en_m": "You heard him, Marcus.",
+   "ro": "Ai auzit-o, Marcus.",
+   "ro_m": "Ai auzit-l, Marcus."
+  },
+  {
+   "key": "1896661783392743428",
+   "en": "Not much has changed here.",
+   "ro": "Nu s-a schimbat mare lucru aici."
+  },
+  {
+   "key": "1896661789147328512",
+   "en": "Aw, pick up somethin' here and there. Nothin' major.",
+   "en_m": "Ehh, pick up somethin' here and there. Nothin' major.",
+   "ro": "Eh, mai iau câte una-alta. Nimic serios.",
+   "ro_m": "Ehh, mai iau câte ceva ici și colo. Nimic major."
+  },
+  {
+   "key": "1896661793475850240",
+   "en": "Two years gone by, not much has changed.",
+   "en_m": "Er, two years gone by, not much has changed.",
+   "ro": "Au trecut doi ani, nu s-a schimbat mare lucru.",
+   "ro_m": "Er, au trecut doi ani, nu s-a schimbat mare lucru."
+  },
+  {
+   "key": "1896661893132513280",
+   "en": "Getting by.",
+   "ro": "Mă descurc."
+  },
+  {
+   "key": "1896663752366813184",
+   "en": "You know Heywood. It has strong roots – ever watered by the same blood.",
+   "ro": "Știi Heywood-ul. Are rădăcini adânci – udate mereu cu același sânge."
+  },
+  {
+   "key": "1896726948431720448",
+   "en": "Now, tell me about you.",
+   "ro": "Acum, zi-mi cum ești tu."
+  },
+  {
+   "key": "1896732638139314176",
+   "en": "But I'm gettin' by. 'Preciate the concern.",
+   "ro": "Dar mă descurc. Mersi de grijă."
+  },
+  {
+   "key": "1896736786222084096",
+   "en": "So... Atlanta didn't turn out like you expected, huh?",
+   "ro": "Așa că... Atlanta nu a ieșit cum te așteptai, nu?"
+  },
+  {
+   "key": "1896738919059222532",
+   "en": "Went there without expectations.",
+   "ro": "M-am dus acolo fără așteptări."
+  },
+  {
+   "key": "1896738933152083968",
+   "en": "Went there without expectations, actually. Well, except that it'd be better than here.",
+   "ro": "M-am dus acolo fără așteptări, de fapt. Mă rog, doar că ar fi fost mai bine decât aici."
+  },
+  {
+   "key": "1896738936306200576",
+   "en": "As you can see, I'm back. If it'd been better there, wouldn'ta left.",
+   "en_m": "As you can see, I'm back. If it'd been better there, wouldn't've left.",
+   "ro": "După cum vezi, m-am întors. Dacă ar fi fost mai bine acolo, n-aș fi plecat."
+  },
+  {
+   "key": "1896739764731572224",
+   "en": "No, it didn't.",
+   "ro": "Nu, nu a fost."
+  },
+  {
+   "key": "1896743511201345536",
+   "en": "It wasn't.",
+   "ro": "Nu a fost."
+  },
+  {
+   "key": "1896744019232223232",
+   "en": "Maybe it'll all work out for the best…",
+   "ro": "Poate că totul o să se aranjeze până la urmă…"
+  },
+  {
+   "key": "1896746518735417344",
+   "en": "Shit...",
+   "ro": "Căcat..."
+  },
+  {
+   "key": "1896750246951579648",
+   "en": "Sebastian Ibarra.",
+   "ro": "Sebastian Ibarra."
+  },
+  {
+   "key": "1896768743513452544",
+   "en": "What do you want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1896771455332315136",
+   "en": "Got an offer for ya, Paddy, so listen up.",
+   "ro": "Am o ofertă pentru tine, Paddy, deci ascultă bine."
+  },
+  {
+   "key": "1896771613273026560",
+   "en": "Get the fuck outta Vista, pull your boys off the street.",
+   "ro": "Cară-te dracu' din Vista, scoate-ți băieții de pe stradă."
+  },
+  {
+   "key": "1896778500387303424",
+   "en": "I'll give ya the Glen, done deal. No more restless nights. See how generous I can be?",
+   "ro": "Îți dau Glen-ul, s-a făcut. Gata cu nopțile nedormite. Vezi cât de generos sunt?"
+  },
+  {
+   "key": "1896780181011361792",
+   "en": "Stay outta this. I don't know you.",
+   "ro": "Nu te băga. Nu te cunosc."
+  },
+  {
+   "key": "1896780287529906176",
+   "en": "And I don't know you, which means you're worth shit around here and capable of even less.",
+   "ro": "Și nu te cunosc, deci nu faci doi bani pe-aici și ești în stare de și mai puțin."
+  },
+  {
+   "key": "1896781157562773504",
+   "en": "Careful, Padre. Never know who's got a barrel at your six. You neither, shitbucket.",
+   "ro": "Atenție, Padre. Nu știi niciodată cine are o țeavă în spatele tău. Nici tu, găleată de rahat."
+  },
+  {
+   "key": "1896783202906730496",
+   "en": "It seems our conversation has come to a close.",
+   "ro": "Cred că discuția noastră s-a încheiat."
+  },
+  {
+   "key": "1896789880574242816",
+   "en": "To settle our biz. Once and for all.",
+   "ro": "Ca să ne lămurim odată pentru totdeauna."
+  },
+  {
+   "key": "1896791605372710912",
+   "en": "Well? Anything else?",
+   "ro": "Ei? Altceva?"
+  },
+  {
+   "key": "1896810106464432128",
+   "en": "I'm pleased to see you have not forgotten your roots, still have the gift.",
+   "ro": "Mă bucur că nu ți-ai uitat rădăcinile și că ai încă darul ăla."
+  },
+  {
+   "key": "1896810109752766464",
+   "en": "Atlanta broke you.",
+   "ro": "Atlanta te-a frânt."
+  },
+  {
+   "key": "1896823412004679680",
+   "en": "And your mother, who lives on Pajaro, will wake up safe and sound in the morning.",
+   "ro": "Iar mama ta, care stă pe Pajaro, o să se trezească sănătoasă și teafără mâine-dimineață."
+  },
+  {
+   "key": "1896826366875070464",
+   "en": "So many of the little shits left around here… their spines go soft when they look down a barrel.",
+   "ro": "Atâția rahatei rămași pe-aici… le moaie spinarea când se uită în țeava unei arme."
+  },
+  {
+   "key": "1896856095816609792",
+   "en": "Meaning?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "1896856356417105920",
+   "en": "You know what I mean.",
+   "ro": "Știi ce vreau să zic."
+  },
+  {
+   "key": "1896860206704291840",
+   "en": "Your number?",
+   "ro": "Numărul tău?"
+  },
+  {
+   "key": "1896860274937229316",
+   "en": "[Take card] This your number?",
+   "ro": "[Ia cardul] E numărul tău?"
+  },
+  {
+   "key": "1896861565474238464",
+   "en": "Could be useful. Maybe we can also work together again – take ourselves back two years.",
+   "ro": "Ar putea fi util. Poate lucrăm iar împreună – ne întoarcem cu doi ani în urmă."
+  },
+  {
+   "key": "1896862679598821380",
+   "en": "[Get out] Gotta go.",
+   "ro": "[Ieși] Trebuie să plec."
+  },
+  {
+   "key": "1896863362095968256",
+   "en": "So go with God.",
+   "ro": "Pa, și Dumnezeu cu tine."
+  },
+  {
+   "key": "1905358903979155456",
+   "en": "V, hop in.",
+   "ro": "V, urcă."
+  },
+  {
+   "key": "1912911398563672068",
+   "en": "Who was that?",
+   "ro": "Cine era?"
+  },
+  {
+   "key": "1912911410257391616",
+   "en": "Who was that?",
+   "ro": "Cine era?"
+  },
+  {
+   "key": "1912912048378802176",
+   "en": "No one important. He'll be gone in a week's time, another will come in his place.",
+   "ro": "Nimeni important. Într-o săptămână dispare, vine altul în locul lui."
+  },
+  {
+   "key": "1912912550504099840",
+   "en": "He pulled iron on you.",
+   "ro": "A scos arma la tine."
+  },
+  {
+   "key": "1912912991023460352",
+   "en": "He did. And he will pay for doing so.",
+   "ro": "Așa e. Și o să plătească pentru asta."
+  },
+  {
+   "key": "2017128142736756740",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "2259258189923139584",
+   "en": "Right here. I'll just drop down below.",
+   "ro": "Aici e bine. Sar eu jos."
+  },
+  {
+   "key": "2260265426309267456",
+   "en": "Yep, no place like home…",
+   "ro": "Da, nu-i ca acasă…"
+  },
+  {
+   "key": "2260282068133134340",
+   "en": "Heywood hasn't changed a bit.",
+   "ro": "Heywood nu s-a schimbat deloc."
+  }
+ ]
+}

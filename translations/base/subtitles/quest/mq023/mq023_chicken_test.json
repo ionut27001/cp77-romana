@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq023\\mq023_chicken_test.json",
+ "entries": [
+  {
+   "key": "1925896561012645888",
+   "en": "[db_db]MQ023 Chicken test. Choose where to start:",
+   "ro": "[db_db]MQ023 Testul cu puiul. Alege de unde să începi:"
+  },
+  {
+   "key": "2350337376125853700",
+   "en": "[db_db]Start.",
+   "ro": "[db_db]Începe."
+  },
+  {
+   "key": "2350337882277683200",
+   "en": "[db_db]Noodle shop.",
+   "ro": "[db_db]Magazin de tăiței."
+  },
+  {
+   "key": "2350337959167664128",
+   "en": "[db_db]Vendor stand.",
+   "ro": "[db_db]Tarabă de vânzător."
+  }
+ ]
+}

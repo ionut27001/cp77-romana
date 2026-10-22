@@ -1,0 +1,65 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_01_chicken_test.json",
+ "entries": [
+  {
+   "key": "3306992717618257924",
+   "en": "[db_db]Street kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3306992958136426496",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "3306993062876585984",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3306994204348030980",
+   "en": "[db_db]Beginning",
+   "ro": "[db_db]Început"
+  },
+  {
+   "key": "3306994340293812224",
+   "en": "[db_db]Clinic Exploration",
+   "ro": "[db_db]Explorare clinică"
+  },
+  {
+   "key": "3306995021801103360",
+   "en": "[db_db]Anderson office scene",
+   "ro": "[db_db]Scenă birou Anderson"
+  },
+  {
+   "key": "3306996060344328196",
+   "en": "[db_db]Entresol",
+   "ro": "[db_db]Entresol"
+  },
+  {
+   "key": "3306996806963994624",
+   "en": "[db_db]back entrance",
+   "ro": "[db_db]Intrare din spate"
+  },
+  {
+   "key": "3486931097226354688",
+   "en": "[db_db]ws_ep1_01",
+   "ro": "[db_db]ws_ep1_01"
+  },
+  {
+   "key": "3495552061010911232",
+   "en": "[db_db]Anderson vendor",
+   "ro": "[db_db]Vânzător Anderson"
+  },
+  {
+   "key": "3495552202543505408",
+   "en": "[db_db]Odel Vendor",
+   "ro": "[db_db]Vânzător Odel"
+  },
+  {
+   "key": "3589576892349456384",
+   "en": "[db_db]Courier test",
+   "ro": "[db_db]Test curier"
+  }
+ ]
+}

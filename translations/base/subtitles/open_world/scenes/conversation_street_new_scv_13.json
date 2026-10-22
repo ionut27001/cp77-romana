@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_13.json",
+ "entries": [
+  {
+   "key": "2276538068847730692",
+   "en": "<kiroshi l=\"rus\" o=\"Вот ты говорил, типа, город — сила. А тут все слабые.\" t=\"You said the city gives force, but everyone here is weak.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вот ты говорил, типа, город — сила. А тут все слабые.\" t=\"Ziceai că orașul dă putere, da' toți de-aici sunt slabi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538068847730704",
+   "en": "<kiroshi l=\"rus\" o=\"Город — это тёмная сила. Сильные приезжают и становятся слабыми.\" t=\"Because the city is an evil force. Those are strong, who come here, are drained of their strength.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Город — это тёмная сила. Сильные приезжают и становятся слабыми.\" t=\"Pentru că orașul e o forță rea. Cei tari care vin aici rămân fără vlagă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276538068847730716",
+   "en": "<kiroshi l=\"rus\" o=\"Я не стану.\" t=\" Not me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я не стану.\" t=\" Nu eu.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_conversation_060.json",
+ "entries": [
+  {
+   "key": "3236021341660368896",
+   "en": "<kiroshi l=\"creo\" o=\"Te panse li pa t 'kapab vin pi mal pase Pacifica.\" t=\"Thought it couldn't get worse than Pacifica.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Te panse li pa t 'kapab vin pi mal pase Pacifica.\" t=\"Credeam că nu poate fi mai rău ca în Pacifica.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3265111437064183808",
+   "en": "<kiroshi l=\"creo\" o=\"Ou pral abitye ak li.\" t=\"You get used to it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou pral abitye ak li.\" t=\"Te obișnuiești.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

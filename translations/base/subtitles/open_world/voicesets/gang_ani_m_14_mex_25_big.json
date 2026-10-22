@@ -1,0 +1,231 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_ani_m_14_mex_25_big.json",
+ "entries": [
+  {
+   "key": "1639025450792882176",
+   "en": "Ey, baby. Ever taken a mammal like me?",
+   "ro": "Ey, baby. Ai mai luat vreodată un mamifer ca mine?"
+  },
+  {
+   "key": "1639025450809659392",
+   "en": "You supposed to be famous or something?",
+   "ro": "Ești cumva faimos sau ceva?"
+  },
+  {
+   "key": "1639025450876768256",
+   "en": "<mothertongue l=\"mex\" m=\"¡Vete a la verga!\" b=\"Think you smart or somethin'? \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Vete a la verga!\" b=\"Crezi că ești deșteaptă sau ceva? \" a=\"\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"¡Vete a la verga!\" b=\"Crezi că ești deștept sau ceva? \" a=\"\"/>"
+  },
+  {
+   "key": "1639025450893545472",
+   "en": "<mothertongue l=\"mex\" m=\"Chica\" b=\"\" a=\", back up. Don't make me knock your teeth out.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Güey\" b=\"\" a=\", back up. Don't make me knock your teeth out.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Chica\" b=\"\" a=\", dă-te înapoi. Nu mă face să-ți scot dinții.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Güey\" b=\"\" a=\", dă-te înapoi. Nu mă face să-ți scot dinții.\"/>"
+  },
+  {
+   "key": "1639025450960654336",
+   "en": "Either the gun disappears or you disappear. Your call.",
+   "ro": "Ori dispare arma, ori dispari tu. Alegerea e a ta."
+  },
+  {
+   "key": "1639025450977431552",
+   "en": "The fuck you think you're going with that shit, eh?",
+   "ro": "Ce pula mea crezi că faci cu rahatul ăsta, ha?"
+  },
+  {
+   "key": "1639025451027763200",
+   "en": "<mothertongue l=\"mex\" m=\"Perra\" b=\"\" a=\", you got three seconds before I rip your spine outta your ass!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Cabrón\" b=\"\" a=\", you got three seconds before I rip your spine outta your ass!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Perra\" b=\"\" a=\", ai trei secunde până îți smulg coloana din cur!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Cabrón\" b=\"\" a=\", ai trei secunde până îți smulg coloana din cur!\"/>"
+  },
+  {
+   "key": "1639025451044540416",
+   "en": "Take one more step and your foot gets stuck in the ground forever.",
+   "ro": "Mai faci un pas și rămâi cu piciorul bătut în pământ pe veci."
+  },
+  {
+   "key": "1639025451094872064",
+   "en": "<mothertongue l=\"mex\" m=\"mamacitas\" b=\"Ey, we need more good \" a=\" like you.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Ey, we need more good \" a=\" like you.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mamacitas\" b=\"Ey, ne trebuie mai multe bune \" a=\" ca tine.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Ey, ne trebuie mai mulți buni \" a=\" ca tine.\"/>"
+  },
+  {
+   "key": "1639025451111649280",
+   "en": "I'll make sure to bring treats for you next time, my lil' bitch.",
+   "ro": "Data viitoare am să-ți aduc bunătăți, cățea mea.",
+   "ro_m": "Data viitoare am să-ți aduc bunătăți, javră mică."
+  },
+  {
+   "key": "1639025451161980928",
+   "en": "<kiroshi l=\"mex\" o=\"Qué fue eso?\" t=\"What was that?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Qué fue eso?\" t=\"Ce a fost asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1639025451178758144",
+   "en": "Mierda, again?!",
+   "ro": "Mierda, din nou?!"
+  },
+  {
+   "key": "1639025451245867008",
+   "en": "The fuck am I even looking for...?",
+   "ro": "Ce pula mea caut eu aici...?"
+  },
+  {
+   "key": "1639025451312975872",
+   "en": "Place gives me the fuckin' creeps...",
+   "ro": "Locul ăsta mă înfioară rău..."
+  },
+  {
+   "key": "1639025451329753088",
+   "en": "No thanks, I'm out.",
+   "ro": "Nu, mulțumesc, mă car."
+  },
+  {
+   "key": "1639025451363307520",
+   "en": "<mothertongue l=\"mex\" m=\"putita\" b=\"Where're you hiding, little \" a=\"?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Where're you hiding, little \" a=\"?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"putita\" b=\"Unde te ascunzi, târfă mică \" a=\"?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Unde te ascunzi, fiu de curvă mic \" a=\"?\"/>"
+  },
+  {
+   "key": "1639025451380084736",
+   "en": "<mothertongue l=\"mex\" m=\"pinche zorra\" b=\"Come out and face me, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"puto\" b=\"Come out and face me, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pinche zorra\" b=\"Ieși și dă-mi piept, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"puto\" b=\"Ieși și dă-mi piept, \" a=\"!\"/>"
+  },
+  {
+   "key": "1639025451430416384",
+   "en": "Body!",
+   "ro": "Un cadavru!"
+  },
+  {
+   "key": "1639025451480748032",
+   "en": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Yeah, for sure, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Da, sigur, \" a=\".\"/>"
+  },
+  {
+   "key": "1639025451547856896",
+   "en": "Spread your cheeks!",
+   "ro": "Desfă-ți fundul!"
+  },
+  {
+   "key": "1639025451564634112",
+   "en": "How 'bout I put you in your fuckin' place!",
+   "ro": "Ce-ar fi să te pun la locul tău, pula mea!"
+  },
+  {
+   "key": "1639025451614965760",
+   "en": "<kiroshi l=\"mex\" o=\"¡Perra!\" t=\"Bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Cabrón!\" t=\"Asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Perra!\" t=\"Curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Cabrón!\" t=\"Nesimțitule!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1639025451665297408",
+   "en": "... Nooo... Aaaaaaghhh... Aahahahaghhhhhh...",
+   "ro": "... Nuuu... Aaaaaaghhh... Aahahahaghhhhhh..."
+  },
+  {
+   "key": "1639025451715629056",
+   "en": "<kiroshi l=\"mex\" o=\"¡Te voy a freír, cabrona!\" t=\"I'll fuckin' kill you!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Te voy a freír, cabrón!\" t=\"I'll fuckin' kill you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Te voy a freír, cabrona!\" t=\"Te omor, pula mea!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Te voy a freír, cabrón!\" t=\"Te omor, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1639025451732406272",
+   "en": "<kiroshi l=\"mex\" o=\"¡Maten a esa puta!\" t=\"Nail the bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Maten a ese cabrón!\" t=\"Nail the fucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Maten a esa puta!\" t=\"Prindeți-o pe javra aia!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Maten a ese cabrón!\" t=\"Prindeți-l pe nenorocitul ăla!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1639025451782737920",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué chingados?\" t=\"What the fuck?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué chingados?\" t=\"Ce pula mea?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1639025451799515136",
+   "en": "It's raining on us here!",
+   "ro": "Ne plouă aici!"
+  },
+  {
+   "key": "1639025451849846784",
+   "en": "<mothertongue l=\"mex\" m=\"coño!\" b=\"Ey, \" a=\"\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"pendejo!\" b=\"Ey, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"coño!\" b=\"Ey, \" a=\"\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"pendejo!\" b=\"Ey, \" a=\"\"/>"
+  },
+  {
+   "key": "1639025451866624000",
+   "en": "Excuse you, bitch?!",
+   "ro": "Scuză-mă, curvă?!"
+  },
+  {
+   "key": "1639025451916955648",
+   "en": "Hell you want?",
+   "ro": "Ce vrei, naiba?"
+  },
+  {
+   "key": "1639025451950510080",
+   "en": "Uh-huh... They checked everywhere? ...Fuck...",
+   "ro": "Uh-huh... Au verificat peste tot? ...Futu-i..."
+  },
+  {
+   "key": "1639025451984064512",
+   "en": "No, babe... Baaaaabe... Listen, it'll be OK... Yeah, don't worry...",
+   "ro": "Nu, iubi... Iuuubi... Ascultă, o să fie bine... Da, nu-ți face griji..."
+  },
+  {
+   "key": "1639025452084727808",
+   "en": "Go her left!",
+   "en_m": "Go his left!",
+   "ro": "Mergi în stânga ei!",
+   "ro_m": "Mergi în stânga lui!"
+  },
+  {
+   "key": "1639025452135059456",
+   "en": "I'm tryin', but this bitch is cheatin'!",
+   "en_m": "I'm tryin', but this prick's cheatin'!",
+   "ro": "Încerc, da' curva asta trișează!",
+   "ro_m": "Încerc, da' nenorocitul ăsta trișează!"
+  },
+  {
+   "key": "1639025452168613888",
+   "en": "Aaaaarrghh!",
+   "ro": "Aaaaarrghh!"
+  },
+  {
+   "key": "1639033790428188672",
+   "en": "Chin up, all right? Later.",
+   "ro": "Capul sus, bine? Pe mai târziu."
+  },
+  {
+   "key": "1772312861814919168",
+   "en": "Don't let her fuck you up!",
+   "en_m": "Don't let him fuck you up!",
+   "ro": "Nu-o lăsa să te facă praf!",
+   "ro_m": "Nu-l lăsa să te facă praf!"
+  },
+  {
+   "key": "1772313713208299520",
+   "en": "<kiroshi l=\"mex\" o=\"¡Ve a checar!\" t=\"Go check it out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Ve a checar!\" t=\"Du-te și verifică!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1772315924160155648",
+   "en": "Huh? Better do a sweep...",
+   "ro": "Huh? Mai bine facem o verificare..."
+  },
+  {
+   "key": "1772316064082137088",
+   "en": "What? Hold on… Did you…?",
+   "ro": "Ce? Stai… Ai…?"
+  }
+ ]
+}

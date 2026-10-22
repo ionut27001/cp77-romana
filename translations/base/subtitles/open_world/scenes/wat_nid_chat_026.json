@@ -1,0 +1,41 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_026.json",
+ "entries": [
+  {
+   "key": "2156435943719428096",
+   "en": "<kiroshi l=\"mex\" o=\"Me cae que se tuvo que haber filtrado algún virus del biolaboratorio y clausuraron el lugar.\" t=\"Way I see it, some virus must've leaked from the biolab, shut the whole place down.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Me cae que se tuvo que haber filtrado algún virus del biolaboratorio y clausuraron el lugar.\" t=\"Cum văd eu, vreun virus a scăpat din biolab și au închis tot locul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172061775908552704",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué virus? ¿Dónde? Si hubiera llegado a la comida de la gente, alguien ya se habría enfermado.\" t=\"What virus? Where? If it got out there, in people's food, someone would've gotten sick by now.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué virus? ¿Dónde? Si hubiera llegado a la comida de la gente, alguien ya se habría enfermado.\" t=\"Ce virus? Unde? Dacă ar fi ajuns în mâncarea oamenilor, cineva ar fi fost deja bolnav.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172062112493060096",
+   "en": "<kiroshi l=\"mex\" o=\"Órale, ¿ahora eres científica o qué? ¿Realizas estudios? ¿Analizas la velocidad de transmisión, eh?\" t=\"Oh, look, we got ourselves a scientist! You conduct studies? Analyze the rate of transmission, hm?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Órale, ¿ahora eres científica o qué? ¿Realizas estudios? ¿Analizas la velocidad de transmisión, eh?\" t=\"Hei, uite ce savantă avem! Faci studii? Analizezi rata de transmitere, ha?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Órale, ¿ahora eres científica o qué? ¿Realizas estudios? ¿Analizas la velocidad de transmisión, eh?\" t=\"Hei, uite ce savant avem! Faci studii? Analizezi rata de transmitere, ha?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172062316000690176",
+   "en": "<kiroshi l=\"mex\" o=\"Nomás piénsalo, el continente entero se atiborra con comida de All Foods. Si hubiera una nueva epidemia, nos habríamos enterado.\" t=\"Think about it, the entire continent stuffs All Foods into their fat faces. If there was a new epidemic, we would've heard about it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Nomás piénsalo, el continente entero se atiborra con comida de All Foods. Si hubiera una nueva epidemia, nos habríamos enterado.\" t=\"Hai, gândește: tot continentul se înfulecă cu All Foods. Dacă era o epidemie nouă, am fi aflat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172062509240664064",
+   "en": "<kiroshi l=\"mex\" o=\"Entonces, ¿por qué abandonaron la fábrica?\" t=\"Then why'd they leave the factory?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Entonces, ¿por qué abandonaron la fábrica?\" t=\"Atunci de ce au părăsit fabrica?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172062783028051968",
+   "en": "<kiroshi l=\"mex\" o=\"¿Cómo voy a saberlo? Igual y construyeron otra.\" t=\"How should I know? Maybe they built another one?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Cómo voy a saberlo? Igual y construyeron otra.\" t=\"De unde să știu? Poate au construit alta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2172062988918046720",
+   "en": "<kiroshi l=\"mex\" o=\"Nel, es un virus. Apostaría lo que sea.\" t=\"Nah. Virus. Bet eddies on it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Nel, es un virus. Apostaría lo que sea.\" t=\"Nah. Virus. Pun eddies pe asta.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

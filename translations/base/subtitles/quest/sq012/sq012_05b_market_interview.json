@@ -1,0 +1,682 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq012\\sq012_05b_market_interview.json",
+ "entries": [
+  {
+   "key": "1744588215316762628",
+   "en": "Christine Markov?",
+   "ro": "Christine Markov?"
+  },
+  {
+   "key": "1744588762522439680",
+   "en": "You Christine Markov? We have some questions.",
+   "ro": "Tu ești Christine Markov? Avem niște întrebări."
+  },
+  {
+   "key": "1744665516658249728",
+   "en": "You badges?",
+   "ro": "Sunteți gabori?"
+  },
+  {
+   "key": "1744732707126628356",
+   "en": "Who're we talkin' to?",
+   "ro": "Cu cine vorbim?"
+  },
+  {
+   "key": "1744733579692855296",
+   "en": "So, who're we supposed to talk to?",
+   "ro": "Deci, cu cine trebuie să vorbim?"
+  },
+  {
+   "key": "1744734824394510336",
+   "en": "Cyberpsycho's boss, you said?",
+   "ro": "Șeful cyberpsycho-ului, ai zis?"
+  },
+  {
+   "key": "1744744262887133184",
+   "en": "We mighta guessed as much.",
+   "ro": "Bănuiam și noi."
+  },
+  {
+   "key": "1744745883801079812",
+   "en": "Might've expected as much.",
+   "ro": "Ne așteptam la asta."
+  },
+  {
+   "key": "1744748578171637760",
+   "en": "OK, Red Queen's Race now.",
+   "ro": "OK, deci Red Queen's Race."
+  },
+  {
+   "key": "1744749090447151104",
+   "en": "I'll talk to my CI about your club – Red Queen's Race.",
+   "ro": "Vorbesc cu informatorul meu despre clubul vostru – Red Queen's Race."
+  },
+  {
+   "key": "1811063474131423232",
+   "en": "<kiroshi l=\"jpn\" o=\"おい、あれ何に見える？\" t=\"Hey. What's that look like to you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"おい、あれ何に見える？\" t=\"Hei. Ție ce ți se pare aia?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1811066098423549952",
+   "en": "Pig wagon.",
+   "ro": "Dubă cu gabori."
+  },
+  {
+   "key": "1811088891043237888",
+   "en": "Oh, great. Lemme handle this, V.",
+   "ro": "Grozav. Lasă că mă ocup eu, V."
+  },
+  {
+   "key": "1811090640588099584",
+   "en": "<kiroshi l=\"jpn\" o=\"よう、デコッパチ。そいつは新しい女か？\" t=\"What's up, piglet? Got yourself a new output?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"よう、デコッパチ。そいつは新しいチューマか？\" t=\"What's up, piglet? Got yourself a new choom?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"よう、デコッパチ。そいつは新しい女か？\" t=\"Ce faci, purceluș? Ți-ai găsit una nouă?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"よう、デコッパチ。そいつは新しいチューマか？\" t=\"Ce faci, purceluș? Ți-ai găsit un nou choom?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1811095688919502852",
+   "en": "Your friend'll be out after the election.",
+   "ro": "Prietenul tău o să iasă după alegeri."
+  },
+  {
+   "key": "1811096888339451904",
+   "en": "Gentlemen, please.",
+   "ro": "Domnilor, vă rog."
+  },
+  {
+   "key": "1811097127699992576",
+   "en": "Fuck off, scopshitters.",
+   "ro": "Du-te dracu', mâncători de scop!"
+  },
+  {
+   "key": "1811098106583437312",
+   "en": "<kiroshi l=\"jpn\" o=\"取引を断りやがって。借りは返してもらうぜ\" t=\"You refused to deal. You still owe us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"取引を断りやがって。借りは返してもらうぜ\" t=\"Ai refuzat târgul. Încă ne datorezi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1811098355590877184",
+   "en": "Right. You did lose your only associate who could string two sentences together. Too bad he also liked diddling little kids.",
+   "ro": "Da. Ai pierdut singurul asociat care știa să lege două vorbe. Păcat doar că-i plăcea să se atingă de copii mici."
+  },
+  {
+   "key": "1811099579488784384",
+   "en": "<kiroshi l=\"jpn\" o=\"今回は見逃してやるよ、ウォード。だが、次はないからな\" t=\"We'll let it go this time, Ward. But this time's the last time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"今回は見逃してやるよ、ウォード。だが、次はないからな\" t=\"De data asta te lăsăm, Ward. Dar data viitoare nu mai scapi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1811100419876311040",
+   "en": "Fuck off, kitty claws.",
+   "ro": "Du-te dracu', gheare de pisică."
+  },
+  {
+   "key": "1811135569184018432",
+   "en": "Goddammit, V. Told you I'd handle it.",
+   "ro": "Fir-ar al dracului, V. Ți-am zis că mă ocup eu."
+  },
+  {
+   "key": "1811136143652671492",
+   "en": "Got a problem with everyone, or just Tygers?",
+   "ro": "Ai problemă cu toată lumea sau doar cu Tygers?"
+  },
+  {
+   "key": "1811140219408863232",
+   "en": "Ugh... Gotta report this.",
+   "ro": "Of... Trebuie să raportez asta."
+  },
+  {
+   "key": "1811140806208770052",
+   "en": "Good thing nobody got killed.",
+   "ro": "Bine că n-a murit nimeni."
+  },
+  {
+   "key": "1811140806208770060",
+   "en": "Little less paperwork.",
+   "ro": "Mai puțină birocrație."
+  },
+  {
+   "key": "1811143891975000064",
+   "en": "First, I gotta clean up the mess you made.",
+   "ro": "Mai întâi trebuie să curăț mizeria pe care ai făcut-o."
+  },
+  {
+   "key": "1811145238581465088",
+   "en": "Gonna ride with me?",
+   "ro": "Vii cu mine?"
+  },
+  {
+   "key": "1811145919484776452",
+   "en": "Meet you there.",
+   "ro": "Ne vedem acolo."
+  },
+  {
+   "key": "1811146365943271424",
+   "en": "Sure, coming with you.",
+   "ro": "Sigur, vin cu tine."
+  },
+  {
+   "key": "1811149093062955008",
+   "en": "Meet you there.",
+   "ro": "Ne vedem acolo."
+  },
+  {
+   "key": "1811149093079732224",
+   "en": "Sure, coming with you.",
+   "ro": "Sigur, vin cu tine."
+  },
+  {
+   "key": "1937321188395802624",
+   "en": "How about we change tacks this time? Ask questions first, then level threats?",
+   "ro": "Ce zici să schimbăm tactica de data asta? Întrebări întâi, apoi amenințări?"
+  },
+  {
+   "key": "1937360861713358848",
+   "en": "A good ninety percent of any detective's job is talking.",
+   "ro": "Nouăzeci la sută din meseria oricărui detectiv e vorbitul."
+  },
+  {
+   "key": "1937361335132839936",
+   "en": "Christine Markov, forty-two. File has her as Horváth's sole employer.",
+   "ro": "Christine Markov, patruzeci și doi de ani. Dosarul zice că era singurul angajator al lui Horváth."
+  },
+  {
+   "key": "1937374034780708864",
+   "en": "But you know that already. Must say, you're kinda a natural.",
+   "ro": "Dar asta știi deja. Recunosc, ești cam dotată pentru treaba asta.",
+   "ro_m": "Dar asta știi deja. Recunosc, ești cam dotat pentru treaba asta."
+  },
+  {
+   "key": "1937401682189836288",
+   "en": "Sole contact, too, actually.",
+   "ro": "De fapt, și singurul contact."
+  },
+  {
+   "key": "1937409892640579584",
+   "en": "NCPD. This is Detective Ward.",
+   "ro": "NCPD. Aici detectivul Ward."
+  },
+  {
+   "key": "1937409983187214340",
+   "en": "Yep.",
+   "ro": "Da."
+  },
+  {
+   "key": "1937410604481077248",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1937410700413198336",
+   "en": "We're here about Péter Horváth.",
+   "ro": "Suntem aici din cauza lui Péter Horváth."
+  },
+  {
+   "key": "1937412459923726336",
+   "en": "No, not cops. Just lookin' for some intel.",
+   "ro": "Nu, nu suntem polițiști. Căutăm doar niște info."
+  },
+  {
+   "key": "1937412486767271936",
+   "en": "Lookin' for data on Péter Horváth.",
+   "ro": "Caut niște date despre Péter Horváth."
+  },
+  {
+   "key": "1937442760112693248",
+   "en": "Yeah, he did. Then he stopped workin', started makin' fuckin' speeches all the time.",
+   "ro": "Da, a lucrat. Apoi a încetat, și a tot ținut discursuri de căcat."
+  },
+  {
+   "key": "1937444417147985920",
+   "en": "Everyone's always lookin' for somethin'. Least I know where I stand with the cops.",
+   "ro": "Toți caută ceva mereu. Cel puțin cu poliția știu la ce să mă aștept."
+  },
+  {
+   "key": "1937448722634596352",
+   "en": "Other people? Open your mouth one day, corpo muscle or gangoons show up on your doorstep the next…",
+   "ro": "Alții? Scoți o vorbă într-o zi și a doua zi apar corpoi sau gangsteri la ușă…"
+  },
+  {
+   "key": "1937449705813008384",
+   "en": "Péter Horváth. Worked for you, right?",
+   "ro": "Péter Horváth. A lucrat pentru tine, nu?"
+  },
+  {
+   "key": "1937450279627350016",
+   "en": "Worked here, apparently.",
+   "ro": "A lucrat aici, se pare."
+  },
+  {
+   "key": "1937453723285151744",
+   "en": "Whaddaya want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1937453863374905344",
+   "en": "Péter Horváth – know he worked here.",
+   "ro": "Péter Horváth – știu că a lucrat aici."
+  },
+  {
+   "key": "1937459353165193216",
+   "en": "Speeches? What'd he say?",
+   "ro": "Discursuri? Ce-a zis?"
+  },
+  {
+   "key": "1937497985120952320",
+   "en": "He make good scratch here?",
+   "ro": "Făcea bani buni aici?"
+  },
+  {
+   "key": "1937502943543255040",
+   "en": "Erratic behavior – when'd it start?",
+   "ro": "Comportament ciudat – de când?"
+  },
+  {
+   "key": "1937503575272546304",
+   "en": "These speeches – what'd he have to say?",
+   "en_m": "These, uh, speeches – what'd he have to say?",
+   "ro": "Discursurile alea – ce avea de zis?",
+   "ro_m": "Discursurile alea, ăă, ce avea de zis?"
+  },
+  {
+   "key": "1937503592888623104",
+   "en": "Horváth make good scratch here? Coulda bought this whole market with the chrome he was packin'.",
+   "ro": "Horváth făcea bani buni aici? Cu chrome-ul pe care-l căra, putea cumpăra toată piața asta."
+  },
+  {
+   "key": "1937503611595218944",
+   "en": "When'd the weird behavior actually start?",
+   "ro": "Și de când a devenit ciudat, de fapt?"
+  },
+  {
+   "key": "1937515546973790208",
+   "en": "\"Rhyne – corps got him by the balls and cock, but he still managed to fuck me.\" His motto.",
+   "ro": "„Rhyne – corpoii l-au ținut de coaie și de pulă, dar tot a reușit să mă fută.” Deviza lui."
+  },
+  {
+   "key": "1937539367751606272",
+   "en": "Why'd he have it in for the mayor?",
+   "ro": "De ce avea ceva cu primarul?"
+  },
+  {
+   "key": "1937540273771601920",
+   "en": "Hah, lookin' for reason in that whackjob? Prolly thought Rhyne was talkin' to him through the TV, promisin' all sorts of shit, then ceasin' to give a fuck.",
+   "ro": "Ha, cauți logică în nebunul ăla? Probabil credea că Rhyne îi vorbea prin televizor, promițând tot felul de rahaturi, apoi încetând să-i pese."
+  },
+  {
+   "key": "1937562256353746944",
+   "en": "Look, I told you what I think. In Horváth's world, everybody was out to get him. Lucius Rhyne was out to fuck him, then get him.",
+   "ro": "Uite, ți-am spus ce cred. În lumea lui Horváth, toată lumea era pe capul lui. Lucius Rhyne voia să-l tragă pe sfoară, apoi să-l înhațe."
+  },
+  {
+   "key": "1937569588886331392",
+   "en": "Look, when you're talkin' about Péter, \"weird\" doesn't mean what it means for everybody else. Horváth never was completely normal.",
+   "ro": "Uite, când vorbești despre Péter, „ciudat” nu înseamnă ce înseamnă pentru ceilalți. Horváth n-a fost niciodată chiar normal."
+  },
+  {
+   "key": "1937575003682463744",
+   "en": "But the post-jail Horváth versus the pre-jail Horváth? Gonks both, but completely different gonks.",
+   "ro": "Dar Horváth de după pușcărie față de cel de dinainte? Fraieri amândoi, da’ fraieri total diferiți."
+  },
+  {
+   "key": "1937583112731713536",
+   "en": "Ah-haha! Oh yeah, made scads on scads here, ahaha. Motherfuckin' millionaire, like we all are.",
+   "ro": "Ha-ha! Da, bani grămadă a făcut aici, ha-ha. Milionar de căcat, ca noi toți."
+  },
+  {
+   "key": "1937584116881645568",
+   "en": "So where'd he get the eddies? Know anything?",
+   "ro": "Deci de unde a luat eddies-ii? Ști ceva?"
+  },
+  {
+   "key": "1937585511974264832",
+   "en": "Look, if I knew, I wouldn't be here sellin' scop to tower trash. I'd get myself an AV, fly my fuckin' slim ass outta here.",
+   "ro": "Uite, dacă știam, nu eram aici să vând haleală la gunoaiele din blocuri. Mi-aș lua un AV și mi-aș zbura fundul meu slab nenorocit de aici."
+  },
+  {
+   "key": "1937587166258094080",
+   "en": "Péter showed up one day with all that. Extra worked up too. Whacked enough that I asked him where he got it. He said somebody'd finally seen what he was worth.",
+   "ro": "Péter a apărut într-o zi cu toate astea. Tot agitat, și el. Era atât de varză, că l-am întrebat de unde le-are. A zis că în sfârșit cineva și-a dat seama cât face."
+  },
+  {
+   "key": "1937596270213029888",
+   "en": "Then he launched right into one of his tirades.",
+   "ro": "Apoi a pornit direct într-una din tiradele lui."
+  },
+  {
+   "key": "1937625083303124992",
+   "en": "\"Somebody'd finally seen what he was worth.\" Horváth had sponsors.",
+   "ro": "„În sfârșit cineva și-a dat seama cât face.” Horváth avea sponsori."
+  },
+  {
+   "key": "1937625122998018048",
+   "en": "So Horváth had a personal beef with Rhyne.",
+   "ro": "Deci Horváth avea o răfuială personală cu Rhyne."
+  },
+  {
+   "key": "1937651484483870720",
+   "en": "Didn't learn a lot.",
+   "ro": "N-am aflat prea multe."
+  },
+  {
+   "key": "1937658941419511808",
+   "en": "Don't think we learned much of anything new.",
+   "ro": "Nu cred că am aflat ceva nou."
+  },
+  {
+   "key": "1937670811366940672",
+   "en": "Might seem like we didn't get a lot out of that.",
+   "ro": "S-ar putea să pară că n-am scos mare lucru din asta."
+  },
+  {
+   "key": "1937675302728327168",
+   "en": "But sometimes intel makes sense once you got some context.",
+   "ro": "Dar uneori informația are sens dacă ai și context."
+  },
+  {
+   "key": "1937676553218121728",
+   "en": "Say, for instance, somebody says they got a headache.",
+   "ro": "Să zicem că cineva zice că îl doare capul."
+  },
+  {
+   "key": "1937677185752719360",
+   "en": "Minor detail, means nothing, right? Usually, sure.",
+   "ro": "Detaliu mărunt, nu înseamnă nimic, nu? De obicei, sigur."
+  },
+  {
+   "key": "1937677724871778304",
+   "en": "But then the guy waltzes straight into oncoming traffic. The neighbor remembers someone had worked on the air conditioner in the guy's unit, guy whose head always hurt.",
+   "ro": "Dar apoi tipul se bagă direct în fața mașinilor din sens opus. Vecinul își amintește că un tip lucrase la aerul condiționat din apartamentul lui, tipul care mereu se plângea de cap."
+  },
+  {
+   "key": "1937681726925660160",
+   "en": "Accident? Coincidence? Or maybe air-dispersed poison. A deliberate hit.",
+   "ro": "Accident? Coincidență? Sau poate otravă în aer. Un atac cu intenție."
+  },
+  {
+   "key": "1937684583045357568",
+   "en": "You actually caught a case like that?",
+   "ro": "Chiar ai prins un caz ca ăsta?"
+  },
+  {
+   "key": "1937684827455840256",
+   "en": "No. Made it up. Still proves my point.",
+   "ro": "Nu, l-am inventat. Tot îmi dă dreptate."
+  },
+  {
+   "key": "1937690233779478528",
+   "en": "<kiroshi l=\"jpn\" o=\"ブー。“クソ”ポリ公の車だ\" t=\"Wrong. Fuckin' ugly pig wagon.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ブー。“クソ”ポリ公の車だ\" t=\"Greșit. Dubița aia de căcat de porci, nenorocită.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937690628346044416",
+   "en": "<kiroshi l=\"jpn\" o=\"誰かがキレイにしてやるべきじゃないか？\" t=\"Somebody should clean it, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"誰かがキレイにしてやるべきじゃないか？\" t=\"Cineva ar trebui să o curețe, nu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937691433937625088",
+   "en": "Hehehe... Think my piss'll do the job all right?",
+   "ro": "Hehehe... Crezi că pișa mea își face treaba, ha?"
+  },
+  {
+   "key": "1937691873802674176",
+   "en": "<kiroshi l=\"jpn\" o=\"いや、でもオイラのなら話は別だ\" t=\"Nope. But mine will.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いや、でもオイラのなら話は別だ\" t=\"Nu. Dar a mea o să facă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937706508517859328",
+   "en": "Gentlemen, gentlemen. Chill, please.",
+   "en_m": "Hey, gentlemen, gentlemen. Chill, please.",
+   "ro": "Domnilor, domnilor. Calmați-vă, vă rog.",
+   "ro_m": "Hei, domnilor, domnilor. Calmați-vă, vă rog."
+  },
+  {
+   "key": "1937709929996181504",
+   "en": "<kiroshi l=\"jpn\" o=\"オイラより自分の心配をしたらどうだ？ 女の前で恥をかくのは嫌だろ？\" t=\"Oh, no, no. Your new output's gonna see what happens to piglets that don't get it.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"オイラより自分の心配をしたらどうだ？ チューマの前で恥をかくのは嫌だろ？\" t=\"Oh, no, no. Your new choom's gonna see what happens to piglets that don't get it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"オイラより自分の心配をしたらどうだ？ 女の前で恥をかくのは嫌だろ？\" t=\"Ba nu, ba nu. Noua ta ieșire o să vadă ce pățesc purcelușii care nu pricep.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"オイラより自分の心配をしたらどうだ？ チューマの前で恥をかくのは嫌だろ？\" t=\"Ba nu, ba nu. Noul tău choom o să vadă ce pățesc purcelușii care nu pricep.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937712580309770240",
+   "en": "Here's my offer – get the fuck outta here, and I won't arrest you as accessories in the murder of Mayor Rhyne.",
+   "ro": "Ofertă simplă: cărați-vă dracu' de-aici și nu vă bag la zdup ca complici la uciderea primarului Rhyne."
+  },
+  {
+   "key": "1937724615797989376",
+   "en": "And wash your fucking wheels, pig.",
+   "ro": "Și spală-ți roțile alea nenorocite, porcule."
+  },
+  {
+   "key": "1937727828148314112",
+   "en": "V…",
+   "ro": "V…"
+  },
+  {
+   "key": "1937727977197101056",
+   "en": "<kiroshi l=\"jpn\" o=\"何だと、コラ！\" t=\"The fuck did you say?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何だと、コラ！\" t=\"Ce pula mea ai zis?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937729107176153088",
+   "en": "Fuck off!",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1937736373086412800",
+   "en": "Come on, election's around the corner. NCPD had to up its stats.",
+   "ro": "Hai, alegerile sunt după colț. NCPD trebuia să-și umfle cifrele."
+  },
+  {
+   "key": "1937740945515307008",
+   "en": "<kiroshi l=\"jpn\" o=\"へへへ… ウォード、こいつは何者なんだ？\" t=\"Heh heh heh. Who's the clown, Ward?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"へへへ… ウォード、こいつは何者なんだ？\" t=\"Heh heh heh. Cine-i clovnul, Ward?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937742357083152384",
+   "en": "<kiroshi l=\"jpn\" o=\"なかなかいじめ甲斐のありそうな奴じゃねえか\" t=\"How about we see high how she jumps, huh?\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"なかなかいじめ甲斐のありそうな奴じゃねえか\" t=\"How about we see how high he jumps, huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なかなかいじめ甲斐のありそうな奴じゃねえか\" t=\"Și dacă vedem cât de sus sare ea, ha?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"なかなかいじめ甲斐のありそうな奴じゃねえか\" t=\"Și dacă vedem cât de sus sare el, ha?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1937743369051267072",
+   "en": "Heh. Jump, clown! Jump!",
+   "ro": "Heh. Sari, clovnule! Sari!"
+  },
+  {
+   "key": "1937747718963945472",
+   "en": "Step aside, Lugg. Your boyfriend got sent up for years. Doubt you want the same.",
+   "ro": "Dă-te la o parte, Lugg. Iubitul tău s-a ales cu ani de pușcărie. Nu cred că vrei și tu același lucru."
+  },
+  {
+   "key": "1937761048277508096",
+   "en": "Arrest was for show. They'll let 'im out soon.",
+   "ro": "Arestarea a fost pentru spectacol. Îl vor lăsa afară în curând."
+  },
+  {
+   "key": "1937768765243219968",
+   "en": "Walkin' the streets with you – downright unsafe. Got a beef with all gangs or just the Tygers?",
+   "ro": "Să mergi pe străzi cu tine e un risc mare. Ai harță cu toate găștile sau doar cu Tygers?"
+  },
+  {
+   "key": "1937769746928459776",
+   "en": "I'm a cop. Whaddaya think?",
+   "ro": "Sunt polițist. Ce crezi?"
+  },
+  {
+   "key": "1937775623618125824",
+   "en": "We'll meet there.",
+   "ro": "Ne întâlnim acolo."
+  },
+  {
+   "key": "1937779026691842048",
+   "en": "Assuming you're still on board.",
+   "ro": "Dacă mai ești cu noi."
+  },
+  {
+   "key": "1937779318061752320",
+   "en": "You kiddin'?",
+   "ro": "Glumești?"
+  },
+  {
+   "key": "1937787438804721664",
+   "en": "Meet you there.",
+   "ro": "Ne vedem acolo."
+  },
+  {
+   "key": "1937787468433285120",
+   "en": "Sure, I'll ride with you.",
+   "en_m": "Sure, I'll ride with ya",
+   "ro": "Sigur, merg cu tine."
+  },
+  {
+   "key": "1937789269198987264",
+   "en": "Fine by me.",
+   "ro": "Mie-mi convine."
+  },
+  {
+   "key": "1938585888324542464",
+   "en": "Who're we talkin' to this time?",
+   "ro": "Cu cine vorbim de data asta?"
+  },
+  {
+   "key": "1938609131311816704",
+   "en": "Other ten percent – what's it made of?",
+   "ro": "Restul de zece la sută – din ce e făcut?"
+  },
+  {
+   "key": "1938609901369253888",
+   "en": "And the other ten percent? What's it consist of?",
+   "ro": "Și restul de zece la sută? Ce e în el?"
+  },
+  {
+   "key": "1938613325330604032",
+   "en": "Writing reports.",
+   "ro": "Scriu rapoarte."
+  },
+  {
+   "key": "1956219911244730372",
+   "en": "You know Christine Markov?",
+   "ro": "O cunoști pe Christine Markov?"
+  },
+  {
+   "key": "1956219948456595460",
+   "en": "Christine Markov?",
+   "ro": "Christine Markov?"
+  },
+  {
+   "key": "1956233640611008512",
+   "en": "Christine Markov – know her? Has a stall here.",
+   "ro": "Christine Markov – o cunoști? Are un stand aici."
+  },
+  {
+   "key": "1956234733730516992",
+   "en": "You Christine Markov?",
+   "ro": "Tu ești Christine Markov?"
+  },
+  {
+   "key": "1956235936103256064",
+   "en": "Christine Markov. Where'll I find her?",
+   "ro": "Christine Markov. Unde o găsesc?"
+  },
+  {
+   "key": "1956236547079131136",
+   "en": "I don't know her. You buying somethin'? If not, get out.",
+   "ro": "Nu o cunosc. Cumperi ceva? Dacă nu, cară-te de-aici."
+  },
+  {
+   "key": "1956236835949236224",
+   "en": "You Christine Markov?",
+   "ro": "Tu ești Christine Markov?"
+  },
+  {
+   "key": "1956237429023821824",
+   "en": "Me? No. She's over there. Stall with the tech.",
+   "ro": "Eu? Nu. E acolo. Stand cu tech."
+  },
+  {
+   "key": "1956238563784380416",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1956240430132219904",
+   "en": "Know which one. Let's go.",
+   "ro": "Știu care. Hai să mergem."
+  },
+  {
+   "key": "1956348768920653824",
+   "en": "No idea who we're looking for. Gonna have to ask around.",
+   "ro": "Nicio idee pe cine căutăm. O să trebuiască să întrebăm prin jur."
+  },
+  {
+   "key": "1957947749709668356",
+   "en": "Had to be some other connection between them.",
+   "ro": "Trebuie să fi existat vreo altă legătură între ei."
+  },
+  {
+   "key": "1957947833847406592",
+   "en": "Had no other connection, those two? Think hard.",
+   "ro": "Nu aveau altă legătură, cei doi? Gândește-te bine."
+  },
+  {
+   "key": "1957947897919594496",
+   "en": "So as Horváth saw it, who else had it in for him?",
+   "ro": "Deci, după Horváth, cine altcineva îi purta pică?"
+  },
+  {
+   "key": "1957947976386633728",
+   "en": "Horváth single anyone else out, who had it in for him?",
+   "ro": "Horváth a mai indicat pe altcineva care îi purta pică?"
+  },
+  {
+   "key": "1957949936804323328",
+   "en": "Easy money – that's what Horváth was after. Didn't do time for nothin'.",
+   "ro": "Bani ușori – asta căuta Horváth. N-a făcut pușcărie degeaba."
+  },
+  {
+   "key": "1957951571878240256",
+   "en": "Worked for normals, not so normals. Gah, maybe he and Rhyne had some mutual friends?",
+   "ro": "Lucra pentru normali, nu chiar normali. Gah, poate el și Rhyne aveau niște prieteni comuni?"
+  },
+  {
+   "key": "1957953783937392640",
+   "en": "Will that be all, detectives? You're spookin' my clientele.",
+   "ro": "Asta e tot, detectivi? Îmi speriați clienții."
+  },
+  {
+   "key": "1957958927563382784",
+   "en": "'Sides Rhyne? Uh, Madame President, mostly.",
+   "ro": "Pe lângă Rhyne? Ăă, Doamna Președintă, mai ales."
+  },
+  {
+   "key": "1957962153419366400",
+   "en": "Then Arasaka, the geezer, and when he died it was his son's turn.",
+   "ro": "Apoi Arasaka, moșul, și când a murit, a venit rândul fiului lui."
+  },
+  {
+   "key": "2009798588408487936",
+   "en": "I'll start from the left, you take the right.",
+   "ro": "Eu încep din stânga, tu iei dreapta."
+  },
+  {
+   "key": "2009807193425797120",
+   "en": "No. But I know who she is. Stand with the tech, over on the other side.",
+   "ro": "Nu. Dar știu cine e. Stai cu tech-ii, pe cealaltă parte."
+  },
+  {
+   "key": "2009815491168395264",
+   "en": "Don't know any Christine. This isn't BD Heads Anonymous.",
+   "ro": "Nu-s nicio Christine. Ăsta nu e BD Heads Anonymous."
+  },
+  {
+   "key": "2116990769994256388",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2120203120941555716",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  }
+ ]
+}

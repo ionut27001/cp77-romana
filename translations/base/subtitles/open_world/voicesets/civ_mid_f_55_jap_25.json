@@ -1,0 +1,77 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_f_55_jap_25.json",
+ "entries": [
+  {
+   "key": "1954542411492401156",
+   "en": "Nice weather today.",
+   "ro": "Ce vreme frumoasă azi."
+  },
+  {
+   "key": "1954542411525955584",
+   "en": "Are you lost?",
+   "ro": "Te-ai rătăcită?",
+   "ro_m": "Te-ai rătăcit?"
+  },
+  {
+   "key": "1954542411576287236",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "1954542411609841668",
+   "en": "Oh, no problem.",
+   "ro": "Oh, nicio problemă."
+  },
+  {
+   "key": "1954542411643396100",
+   "en": "<kiroshi l=\"jpn\" o=\"もしもし\" t=\"Hello!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もしもし\" t=\"Salut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1954542411693727748",
+   "en": "Of course… I remember… Everything is taken care of… Just how you wanted… Yes… Yes.",
+   "ro": "Sigur… Îmi amintesc… Totul e rezolvat… Exact cum ai vrut… Da… Da."
+  },
+  {
+   "key": "1954542411710504964",
+   "en": "He won't be causing any more problems… Of course… I will make sure he tells us everything… Yes.",
+   "ro": "Nu o să mai facă probleme… Sigur… Am grijă să ne spună tot… Da."
+  },
+  {
+   "key": "1954542411744059396",
+   "en": "<kiroshi l=\"jpn\" o=\"ありがとうございます\" t=\"Thank you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ありがとうございます\" t=\"Mulțumesc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1954542411895054340",
+   "en": "Police!",
+   "ro": "Poliția!"
+  },
+  {
+   "key": "1954542411911831556",
+   "en": "Please do something!",
+   "ro": "Fă ceva, te rog!"
+  },
+  {
+   "key": "1954542411995717636",
+   "en": "Please! Don’t!",
+   "ro": "Te rog! Nu!"
+  },
+  {
+   "key": "1954542412012494852",
+   "en": "Woah! Just stay calm!",
+   "ro": "Woah! Stai calmă!",
+   "ro_m": "Woah! Stai calm!"
+  },
+  {
+   "key": "1954542412163489796",
+   "en": "Everything all right? May I help you?",
+   "ro": "Totul în regulă? Pot să vă ajut?"
+  },
+  {
+   "key": "1954542412197044228",
+   "en": "Please do not follow me.",
+   "ro": "Vă rog să nu mă urmăriți."
+  }
+ ]
+}

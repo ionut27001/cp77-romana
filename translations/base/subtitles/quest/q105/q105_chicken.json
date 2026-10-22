@@ -1,0 +1,162 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_chicken.json",
+ "entries": [
+  {
+   "key": "1502346474936754180",
+   "en": "[db_db]BEGINNING (Lizzies)",
+   "ro": "[db_db]BEGINNING (Lizzies)"
+  },
+  {
+   "key": "1502347345087062016",
+   "en": "[db_db]DOLLHOUSE",
+   "ro": "[db_db]DOLLHOUSE"
+  },
+  {
+   "key": "1502347558996566016",
+   "en": "[db_db]JIG JIG STREET",
+   "en_m": "[db_db]FINGERS",
+   "ro": "[db_db]JIG JIG STREET",
+   "ro_m": "[db_db]FINGERS"
+  },
+  {
+   "key": "1502347837783564288",
+   "en": "[db_db]BRAINDANCE STUDIO",
+   "ro": "[db_db]BRAINDANCE STUDIO"
+  },
+  {
+   "key": "1502348035452723200",
+   "en": "[db_db]ENDING (Judy's)",
+   "ro": "[db_db]ENDING (Judy's)"
+  },
+  {
+   "key": "1502349454922637316",
+   "en": "[db_db]AT THE BEGINNING",
+   "ro": "[db_db]LA ÎNCEPUT"
+  },
+  {
+   "key": "1502349925741649920",
+   "en": "[db_db]AT THE DOLLHOUSE",
+   "ro": "[db_db]LA DOLLHOUSE"
+  },
+  {
+   "key": "1502350110307803136",
+   "en": "[db_db]DOLL EXPERIENCE",
+   "ro": "[db_db]DOLL EXPERIENCE"
+  },
+  {
+   "key": "1502350403640647680",
+   "en": "[db_db]SEARCH FOR TOM",
+   "en_m": "[db_db]SEARCH FOR ROXY / TOM",
+   "ro": "[db_db]SEARCH FOR TOM",
+   "ro_m": "[db_db]SEARCH FOR ROXY / TOM"
+  },
+  {
+   "key": "1502350658100682752",
+   "en": "[db_db]WOODMAN",
+   "ro": "[db_db]WOODMAN"
+  },
+  {
+   "key": "1502350731635220480",
+   "en": "[db_db]LEAVING THE DOLLHOUSE",
+   "ro": "[db_db]IEȘIREA DIN DOLLHOUSE"
+  },
+  {
+   "key": "1504033233768701952",
+   "en": "[db_db]AT THE BEGINNING",
+   "en_m": "[db_db]AT THE BEGINNING ",
+   "ro": "[db_db]LA ÎNCEPUT "
+  },
+  {
+   "key": "1504033233768701984",
+   "en": "[db_db]LEVEL 01",
+   "ro": "[db_db]LEVEL 01"
+  },
+  {
+   "key": "1504033233768702000",
+   "en": "[db_db]LEVEL 02",
+   "ro": "[db_db]LEVEL 02"
+  },
+  {
+   "key": "1504033233768702016",
+   "en": "[db_db]FINDING EVELYN",
+   "ro": "[db_db]FINDING EVELYN"
+  },
+  {
+   "key": "1507119558294134784",
+   "en": "[db_db]JIG JIG STREET START",
+   "en_m": "[db_db]JIG JIG STREET",
+   "ro": "[db_db]JIG JIG STREET START",
+   "ro_m": "[db_db]JIG JIG STREET"
+  },
+  {
+   "key": "1507119558294134800",
+   "en": "[db_db]FINGERS INTERROGATION",
+   "ro": "[db_db]FINGERS INTERROGATION"
+  },
+  {
+   "key": "1631656367681945600",
+   "en": "[db_db]Return to previous Selection",
+   "ro": "[db_db]Revino la Selecția anterioară"
+  },
+  {
+   "key": "1631657445953617920",
+   "en": "[db_db]Return to previous Selection",
+   "ro": "[db_db]Revino la Selecția anterioară"
+  },
+  {
+   "key": "1631657707678187520",
+   "en": "[db_db]Return to previous Selection",
+   "ro": "[db_db]Revino la Selecția anterioară"
+  },
+  {
+   "key": "1631657938264244224",
+   "en": "[db_db]Return to previous Selection",
+   "ro": "[db_db]Revino la Selecția anterioară"
+  },
+  {
+   "key": "1760513563980374020",
+   "en": "[db_db]Start",
+   "ro": "[db_db]Start"
+  },
+  {
+   "key": "1760513890364334080",
+   "en": "[db_db]Braindance: Evelyn with Voodoo Queen (bd_vq)",
+   "ro": "[db_db]Braindance: Evelyn cu Voodoo Queen (bd_vq)"
+  },
+  {
+   "key": "1760514102830997504",
+   "en": "[db_db]Braindance: Evelyn hears about Alt (bd_alt)",
+   "ro": "[db_db]Braindance: Evelyn hears about Alt (bd_alt)"
+  },
+  {
+   "key": "1856362245144879104",
+   "en": "[db_db]FINDING BRAINDANCE",
+   "ro": "[db_db]FINDING BRAINDANCE"
+  },
+  {
+   "key": "1856363046508601352",
+   "en": "[db_db]LOOKING FOR BRAINDANCE",
+   "ro": "[db_db]LOOKING FOR BRAINDANCE"
+  },
+  {
+   "key": "1856363046508601368",
+   "en": "[db_db]BRAINDANCE",
+   "ro": "[db_db]BRAINDANCE"
+  },
+  {
+   "key": "1856363046525378572",
+   "en": "[db_db]AFTER BRAINDANCE",
+   "ro": "[db_db]AFTER BRAINDANCE"
+  },
+  {
+   "key": "1856363046542155776",
+   "en": "[db_db]Return to previous Selection",
+   "ro": "[db_db]Revino la Selecția anterioară"
+  },
+  {
+   "key": "1987911664480010240",
+   "en": "[db_db]TEXT MESSAGE",
+   "ro": "[db_db]TEXT MESSAGE"
+  }
+ ]
+}

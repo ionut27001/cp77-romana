@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_06.json",
+ "entries": [
+  {
+   "key": "2276541635868401680",
+   "en": "<kiroshi l=\"mex\" o=\"El tipo se cree más santo que el mismísimo pinche Jesucristo.\" t=\"Guy thinks he's holier than Jesus fuckin' Christ himself..\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"El tipo se cree más santo que el mismísimo pinche Jesucristo.\" t=\"Tipul se crede mai sfânt decât Dumnezeu însuși, pula mea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276541635868401692",
+   "en": "<kiroshi l=\"mex\" o=\"Ji, ji, ji, ji. El salvador de Heywood mis huevos.\" t=\"Savior of Heywood my ass.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ji, ji, ji, ji. El salvador de Heywood mis huevos.\" t=\"Salvatorul Heywood-ului, pe dracu'!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276541635885178880",
+   "en": "<kiroshi l=\"mex\" o=\"Je, je, je, je. El Padre es un pinche payaso. Un payaso y un hipócrita, eso merito es.\" t=\"Padre's a fucking clown. A clown and a hypocrite – that's what he is.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Je, je, je, je. El Padre es un pinche payaso. Un payaso y un hipócrita, eso merito es.\" t=\"Padre e un clovn de căcat. Un clovn și un ipocrit, asta e.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

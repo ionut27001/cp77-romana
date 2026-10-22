@@ -1,0 +1,405 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq016\\mq016_02_afterlife.json",
+ "entries": [
+  {
+   "key": "1776488793974415364",
+   "en": "Found Bartmoss' deck.",
+   "ro": "Am găsit deck-ul lui Bartmoss."
+  },
+  {
+   "key": "1776489533782532096",
+   "en": "Hey, Nix, listen. Found something... Bartmoss' deck.",
+   "ro": "Hei, Nix, ascultă. Am găsit ceva... deck-ul lui Bartmoss."
+  },
+  {
+   "key": "1776490191046746112",
+   "en": "Mhm. What else'd ya find? Alan Turing's tapes?",
+   "ro": "Mhm. Ce altceva ai mai găsit? Benzile lui Alan Turing?"
+  },
+  {
+   "key": "1776493559123189760",
+   "en": "Think you can pull anything off it?",
+   "ro": "Crezi că poți scoate ceva de pe el?"
+  },
+  {
+   "key": "1776494604511518720",
+   "en": "Mm… Tech's comin' apart, humidity damaged... Encryption on the memcube – gotta be near divine.",
+   "ro": "Mm… Tech-ul se duce pe apa sâmbetei, a luat umezeală... Criptarea de pe memcube – trebuie să fie de zile mari."
+  },
+  {
+   "key": "1776498314507624448",
+   "en": "Fine. Get to it.",
+   "ro": "Bine. Hai, la treabă."
+  },
+  {
+   "key": "1776498617168601088",
+   "en": "Best let it be.",
+   "ro": "Mai bine îl lași în pace."
+  },
+  {
+   "key": "1776499958943227904",
+   "en": "Ya know what…? We should let it lie.",
+   "ro": "Știi ce...? Ar trebui să-l lăsăm în pace."
+  },
+  {
+   "key": "1776501448793563136",
+   "en": "No risk, no reward. Get to it.",
+   "ro": "Cine nu riscă nu câștigă. Treci la treabă."
+  },
+  {
+   "key": "1776552096943742976",
+   "en": "I getcha. But should you change your mind… I be waitin' right here.",
+   "ro": "Înțeleg. Dar dacă te răzgândești... sunt aici, te aștept."
+  },
+  {
+   "key": "1776555433277693952",
+   "en": "\"All yours?\" Oh, V, V… got no sense of reverence... Expect if you found the goddamn Holy Grail, you'd fill it with caramel corn and Pop-Turds...",
+   "ro": "«Tot al tău?» Oh, V, V… n-ai niciun pic de respect... Pun pariu că, dacă ai găsi Sfântul Graal al dracului, l-ai umple cu popcorn caramel și Pop-Turds..."
+  },
+  {
+   "key": "1776556759466287104",
+   "en": "Now, let's get this show underway. Hm, hm. Most data's corrupt… but not all. Password? A dictattack, maybe...? Nothin' doin'. And what about injectin' a command…?",
+   "ro": "Acum, să vedem ce-avem. Hm, hm. Majoritatea datelor sunt corupte… dar nu toate. Parolă? Un atac de dicționar, poate...? Nu merge. Și dacă injectăm o comandă…?"
+  },
+  {
+   "key": "1776567416941092864",
+   "en": "All yours.",
+   "ro": "Sunt ale tale."
+  },
+  {
+   "key": "1776580228409106432",
+   "en": "Think the disk might be infected?",
+   "ro": "Crezi că discul ar putea fi infectat?"
+  },
+  {
+   "key": "1776580996939816960",
+   "en": "Think there could be some no longer known vectors on the disk? A DataKrash-like thing or RABIDs? 'Cause if so…",
+   "ro": "Crezi că pe disc ar putea fi vectori uitați? Ceva ca DataKrash sau RABID-uri? Că dacă da…"
+  },
+  {
+   "key": "1776581987298877444",
+   "en": "Hah! Gotcha!",
+   "ro": "Hah! Te-am prins!"
+  },
+  {
+   "key": "1776620870795436032",
+   "en": "Spare me the two-step. Yes, or no?",
+   "ro": "Lasă ocolișurile. Da sau nu?"
+  },
+  {
+   "key": "1776621669273477120",
+   "en": "I can try. Failure, though, is a distinct possibility. Then all data'll be lost, done and gone.",
+   "ro": "Pot încerca. Da' s-ar putea să dau greș. Atunci toate datele se duc dracu', gata."
+  },
+  {
+   "key": "1777680136599937024",
+   "en": "Changed my mind. Give it a shot.",
+   "ro": "Mi-am schimbat părerea. Încearcă."
+  },
+  {
+   "key": "1777681532816629764",
+   "en": "Thought about it... Let's give it a shot.",
+   "en_m": "Uh, thought about it... Let's give it a shot.",
+   "ro": "Ăă, mă tot gândeam... Hai să încercăm.",
+   "ro_m": "Uh, m-am gândit... Hai să încercăm."
+  },
+  {
+   "key": "1892492791733604352",
+   "en": "Bein' serious. Have a look-see.",
+   "ro": "Serios. Aruncă un ochi."
+  },
+  {
+   "key": "1892494082706821120",
+   "en": "Now get the fuck outta my face, dawg.",
+   "ro": "Acum dispari dracu' din fața mea, dawg."
+  },
+  {
+   "key": "1892497134499188736",
+   "en": "Ooooh, runnin' shits. God damn, V!",
+   "ro": "Ooooh, fugi, căcat. Mamă, V!"
+  },
+  {
+   "key": "1892497466285412352",
+   "en": "Where'd ya ferret this out of?",
+   "ro": "De unde l-ai scos?"
+  },
+  {
+   "key": "1892498251190685700",
+   "en": "Found it in a fridge.",
+   "ro": "L-am găsit într-un frigider."
+  },
+  {
+   "key": "1892498680670638080",
+   "en": "Not your biz.",
+   "ro": "Nu-i treaba ta."
+  },
+  {
+   "key": "1892498840909828096",
+   "en": "Found it outside town. In a fridge... next to its former owner's rotting corpse.",
+   "ro": "L-am găsit afară din oraș. Într-un frigider... lângă cadavrul putrezit al fostului proprietar."
+  },
+  {
+   "key": "1892499490808844288",
+   "en": "Hmph. Bartmoss all the way. NetWatch made him a wanted man, went lookin' in Shanghai, Lahore, Santiago de Chile…",
+   "ro": "Hmph. Bartmoss, până la capăt. NetWatch l-a pus pe lista de urmăriți, l-au căutat prin Shanghai, Lahore, Santiago de Chile…"
+  },
+  {
+   "key": "1892500695278735360",
+   "en": "While that dawg alighted to the Net. Wonder how long he'da kept buzzin' those wires if the power hadn't gone out.",
+   "ro": "În timp ce tipul ăla s-a mutat în Net. Mă întreb cât mai bâzâia pe fire dacă nu pica curentul."
+  },
+  {
+   "key": "1892503669677805568",
+   "en": "Found it under my Christmas tree.",
+   "ro": "L-am găsit sub bradul de Crăciun."
+  },
+  {
+   "key": "1892505635699085312",
+   "en": "Mhm. But serious, like?",
+   "ro": "Mhm. Dar serios, așa?"
+  },
+  {
+   "key": "1892505900376444928",
+   "en": "Serious, like, it's just not your biz.",
+   "ro": "Serios, nu-i treaba ta."
+  },
+  {
+   "key": "1892528112135360512",
+   "en": "OK. Put the deck on the counter... just ginger-like!",
+   "ro": "OK. Pune deck-ul pe tejghea... cu grijă, ca pe ouă!"
+  },
+  {
+   "key": "1892529284325888000",
+   "en": "Then we pop open a bottle of malignant gin.",
+   "ro": "Apoi deschidem o sticlă de gin malign."
+  },
+  {
+   "key": "1892529732529213440",
+   "en": "Painfully aware of the risks, I am. But speakin' straight… curiosity's consumin' me. You feel it, too?",
+   "ro": "Știu bine riscurile. Dar, pe șleau… curiozitatea mă mănâncă. Te mănâncă și pe tine?"
+  },
+  {
+   "key": "1893598395856375808",
+   "en": "Hah! We're golden. One more hurdle, but it oughta be as easy as pie. My, my, of all people, Bartmoss shoulda done better.",
+   "ro": "Hah! Suntem pe cai mari. Mai e un obstacol, dar ar trebui să fie floare la ureche. Bartmoss, dintre toți, ar fi putut să facă mai bine."
+  },
+  {
+   "key": "1893601473586319360",
+   "en": "Aaargh! Argh! Aaaaarrrghhh!",
+   "ro": "Aaargh! Argh! Aaaaarrrghhh!"
+  },
+  {
+   "key": "1893601910079148032",
+   "en": "Dog shit, cat shit, rat shit…",
+   "ro": "Căcat de câine, căcat de pisică, căcat de șobolan…"
+  },
+  {
+   "key": "1893603023129989120",
+   "en": "Ideas, V, fast and stat. Couple of minutes and his skull sponge'll be well-done steak.",
+   "ro": "Idei, V, repede, pe loc! Peste câteva minute, creierul ăla al lui o să fie friptură bine făcută."
+  },
+  {
+   "key": "1893605573015162880",
+   "en": "Reset this baby.",
+   "ro": "Resetează chestia asta."
+  },
+  {
+   "key": "1893609298077208576",
+   "en": "Of course, fuck!",
+   "ro": "Normal, futu-i!"
+  },
+  {
+   "key": "1893613233542320128",
+   "en": "Goddammit!",
+   "ro": "Mama dracului!"
+  },
+  {
+   "key": "1893616828044070912",
+   "en": "OOO-K... Can't be that difficult, can it?",
+   "en_m": "'Kay... Can't be that difficult, can it?",
+   "ro": "OOO-K... Nu poate fi așa de greu, nu?",
+   "ro_m": "'Kay... Nu poate fi așa de greu, nu?"
+  },
+  {
+   "key": "1893617235428429824",
+   "en": "OK, whadda we got here…?",
+   "ro": "OK, ce avem aici…?"
+  },
+  {
+   "key": "1893619011766505472",
+   "en": "Simp, sure. Deck only belonged to the twenty-first century's most superb hacker.",
+   "ro": "Simplu, sigur. Deck-ul ăsta a fost al celui mai tare hacker al secolului XXI."
+  },
+  {
+   "key": "1893619490806353920",
+   "en": "Wanna do this? No? Then shut your pipe.",
+   "ro": "Vrei să faci asta? Nu? Atunci închide-ți gura."
+  },
+  {
+   "key": "1893623322252726272",
+   "en": "Saw what we got – a brain broiler. You absolutely sure you wanna jack in?",
+   "ro": "Am văzut ce avem – un prăjitor de creieri. Chiar ești sigură că vrei să te conectezi?",
+   "ro_m": "Am văzut ce avem – un prăjitor de creieri. Chiar ești sigur că vrei să te conectezi?"
+  },
+  {
+   "key": "1893624004632432640",
+   "en": "Tssshhhh.",
+   "ro": "Tssshhhh."
+  },
+  {
+   "key": "1893627263019438080",
+   "en": "Aaa… Errgh… fuck a muffin…",
+   "ro": "Aaa… Errgh… futu-i prăjitura…"
+  },
+  {
+   "key": "1893635180724539392",
+   "en": "You breathin'?",
+   "ro": "Respiri?"
+  },
+  {
+   "key": "1893635492109668352",
+   "en": "Apparently... though it feels like I got a skull full o' hot embers.",
+   "ro": "Aparent... deși simt că am craniul plin de cărbuni aprinși."
+  },
+  {
+   "key": "1893636410729353216",
+   "en": "Just... what the hell happened?",
+   "ro": "Doar... ce naiba s-a întâmplat?"
+  },
+  {
+   "key": "1893655377707585536",
+   "en": "So I sat down and finished for you.",
+   "en_m": "So I sat down and finished for ya.",
+   "ro": "Așa că m-am apucat și ți-am terminat treaba."
+  },
+  {
+   "key": "1893655684227321856",
+   "en": "So I killed the power. It helped.",
+   "ro": "Așa că am tăiat curentul. A ajutat."
+  },
+  {
+   "key": "1893655992290562048",
+   "en": "You started convulsing, lights went out, outlets started spittin' sparks…",
+   "ro": "Ai început să convulsionezi, luminile s-au stins, prizele scuipau scântei…"
+  },
+  {
+   "key": "1893667058777116672",
+   "en": "Hold up, hold up… Mean to say you breached Bartmoss' deck? Lowly you?",
+   "ro": "Stai, stai… Vrei să zici că ai spart deck-ul lui Bartmoss? Tu, de rând?"
+  },
+  {
+   "key": "1893670150063050752",
+   "en": "Shiiit, wait, the deck... Oh, man. It's wiped. All gone.",
+   "ro": "Shiiit, stai, deck-ul... Oh, frate. E șters. Totul s-a dus."
+  },
+  {
+   "key": "1893671476587188228",
+   "en": "Rather have died?",
+   "ro": "Ai fi preferat să mori?"
+  },
+  {
+   "key": "1893672192336777216",
+   "en": "Could be for the best.",
+   "ro": "Poate că e mai bine așa."
+  },
+  {
+   "key": "1893674124736516100",
+   "en": "Yep. Know the net inside out.",
+   "ro": "Da. Cunosc Net-ul pe dinafară."
+  },
+  {
+   "key": "1893674463065853952",
+   "en": "Got lucky.",
+   "ro": "Am avut noroc."
+  },
+  {
+   "key": "1893678344659324928",
+   "en": "Guess I got a little lucky.",
+   "ro": "Cred că am avut puțin noroc."
+  },
+  {
+   "key": "1893678550096334848",
+   "en": "Damn straight. I'm the best netrunner in town, after all.",
+   "en_m": "Damn straight. I am the best netrunner in town, after all.",
+   "ro": "Normal! Sunt cea mai bună netrunner din oraș, până la urmă.",
+   "ro_m": "Normal! Sunt cel mai bun netrunner din oraș, până la urmă."
+  },
+  {
+   "key": "1893678795781885952",
+   "en": "Rather have died? Really?",
+   "ro": "Mai bine mureai? Serios?"
+  },
+  {
+   "key": "1893679085323079680",
+   "en": "Prolly better this way. Can't know what was on there. Mighta been nasty, brought the net down again.",
+   "ro": "Probabil mai bine așa. Nu poți ști ce era pe-acolo. Poate era ceva nasol, care iar ar fi doborât netul."
+  },
+  {
+   "key": "1893679331075739648",
+   "en": "A'ight... Let's see just what you pulled from this artefact…",
+   "ro": "Bine... Hai să vedem ce-ai scos din artefactul ăsta…"
+  },
+  {
+   "key": "1893679647477256192",
+   "en": "Listen, my services usually command a tidy sum. But this time, well… seems you rendered me a service.",
+   "ro": "Ascultă, serviciile mele costă, de obicei, o grămadă de bani. Dar de data asta, păi… se pare că mi-ai făcut și mie un serviciu."
+  },
+  {
+   "key": "1893682957772967936",
+   "en": "Doubt it, kid. Buuut… maybe someday.",
+   "ro": "Mă îndoiesc, puștiule. Daaar… poate într-o zi."
+  },
+  {
+   "key": "1893684551205834752",
+   "en": "Had luck comin' out your ears, kid.",
+   "ro": "Ai avut noroc cât cuprinde, puștiule."
+  },
+  {
+   "key": "1893685786529026048",
+   "en": "Logs... mail... chat history o' sorts... Hm. Potentially interestin', but nothin' explosive.",
+   "ro": "Jurnale... mail... istoric de chat... Hm. Potențial interesant, dar nimic exploziv."
+  },
+  {
+   "key": "1893686443021488128",
+   "en": "Ah, shame, kinda. Well, guess I can delve some more, see if I can't find somethin' interesting in there.",
+   "en_m": "Shame, kinda. Well, I guess I can delve some more, see if I can't find somethin' interesting in there.",
+   "ro": "Ah, păcat, cumva. Păi, cred că mai pot săpa, să văd dacă nu găsesc ceva interesant pe-acolo.",
+   "ro_m": "Păcat, într-un fel. Ei bine, cred că pot să mai sap, să văd dacă nu găsesc ceva interesant acolo."
+  },
+  {
+   "key": "1893691498600648704",
+   "en": "No, 'course not, but... Shit, now I'm 'onna spend the rest of my life wonderin' what was on there.",
+   "ro": "Nu, sigur că nu, dar... Căcat, acum o să-mi petrec restul vieții întrebându-mă ce era acolo."
+  },
+  {
+   "key": "1893694949657202688",
+   "en": "Ya know... find myself wonderin'... what the world'd be like if we suddenly found ourselves back in the age of telephones... or the telegraph. If it wouldn't just be better.",
+   "ro": "Știi... mă tot întreb cum ar fi lumea dacă ne-am trezi dintr-odată în epoca telefoanelor... sau a telegrafului. Dacă n-ar fi mai bine așa."
+  },
+  {
+   "key": "1893701343353556992",
+   "en": "Take this. Handful of daemons live on that shard. Wasn't Bartmoss who coded 'em... but they should be useful nonetheless.",
+   "ro": "Ia asta. Pe shard-ul ăsta stau câțiva daemoni. Nu Bartmoss i-a scris... da' ar trebui să-ți fie de folos."
+  },
+  {
+   "key": "1893703672165355520",
+   "en": "Thanks, Nix... Ya gonna get it together, be all right? Or you need help?",
+   "ro": "Mersi, Nix... Te descurci, o să fii bine? Sau îți trebuie ajutor?"
+  },
+  {
+   "key": "1893707259150913536",
+   "en": "No, no, be just fine. Couple o' painkillers washed down with whiskey, and I'll be a new man.",
+   "ro": "Nu, nu, e OK. Două-trei calmante cu un whiskey și sunt alt om."
+  },
+  {
+   "key": "1963163708217937920",
+   "en": "[Set down deck]",
+   "ro": "[Pune jos deck-ul]"
+  },
+  {
+   "key": "2414185841483603972",
+   "en": "[Show deck] Take a look.",
+   "ro": "[Arată deck-ul] Uite."
+  }
+ ]
+}

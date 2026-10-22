@@ -1,0 +1,96 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_high_m_19_jap_30.json",
+ "entries": [
+  {
+   "key": "1878080415665233924",
+   "en": "<kiroshi l=\"jpn\" o=\"こんにちは.\" t=\"Hello!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"こんにちは.\" t=\"Salut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1878080415682011140",
+   "en": "Where are you from?",
+   "ro": "De unde sunteți?"
+  },
+  {
+   "key": "1878080415749120004",
+   "en": "Dear me, the rush!",
+   "ro": "Vai, ce grabă!"
+  },
+  {
+   "key": "1878080415782674432",
+   "en": "I'm all right, do not worry.",
+   "ro": "Sunt bine, nu vă faceți griji."
+  },
+  {
+   "key": "1878080415816228868",
+   "en": "<kiroshi l=\"jpn\" o=\"もしもし？ こんにちは\" t=\"Hello!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もしもし？ こんにちは\" t=\"Salut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1878080415883337732",
+   "en": "I told you not to call me... I am in Night City…",
+   "ro": "Ți-am spus să nu mă suni... Sunt în Night City…"
+  },
+  {
+   "key": "1878080415900114948",
+   "en": "That is out of the question... No... Vacation, sweetheart! Vacation!",
+   "ro": "Nici vorbă... Nu... Vacanță, scumpo! Vacanță!"
+  },
+  {
+   "key": "1878080415950446592",
+   "en": "<kiroshi l=\"jpn\" o=\"さよなら！\" t=\"Goodbye!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さよなら！\" t=\"La revedere!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1878080416118218756",
+   "en": "Today, of all days!",
+   "ro": "Tocmai azi, din toate zilele!"
+  },
+  {
+   "key": "1878080416151773188",
+   "en": "Police! Call the police!",
+   "ro": "Poliția! Sunați la poliție!"
+  },
+  {
+   "key": "1878080416235659268",
+   "en": "Please, I'm not from here!",
+   "ro": "Vă rog, nu sunt de aici!"
+  },
+  {
+   "key": "1878080416252436484",
+   "en": "Let me return home, I beg you!",
+   "ro": "Lăsați-mă să mă întorc acasă, vă implor!"
+  },
+  {
+   "key": "1878080416353099780",
+   "en": "I'm sorry, but I cannot help you if you are lost.",
+   "ro": "Îmi pare rău, dar nu vă pot ajuta dacă v-ați rătăcită.",
+   "ro_m": "Îmi pare rău, dar nu vă pot ajuta dacă v-ați rătăcit."
+  },
+  {
+   "key": "1878080416369876996",
+   "en": "Do you have nothing better to do?",
+   "ro": "Nu aveți nimic mai bun de făcut?"
+  },
+  {
+   "key": "1878081427566239744",
+   "en": "Yes, from today... I have waited half a year for...! Uh-huh...",
+   "ro": "Da, de azi... Șase luni am așteptat ca să...! Aha..."
+  },
+  {
+   "key": "1958928393373261828",
+   "en": "I'll just be waiting for you... right here...",
+   "ro": "O să vă aștept... chiar aici..."
+  },
+  {
+   "key": "1958928393440370688",
+   "en": "If you'll let me continue where we left off...",
+   "ro": "Dacă mă lăsați să continui de unde am rămas..."
+  },
+  {
+   "key": "1958928393457147908",
+   "en": "Ahem!",
+   "ro": "Ahem!"
+  }
+ ]
+}

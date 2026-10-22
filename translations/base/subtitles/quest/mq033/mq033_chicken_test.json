@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq033\\mq033_chicken_test.json",
+ "entries": [
+  {
+   "key": "1889774085706407940",
+   "en": "[db_db]Quest from the start",
+   "ro": "[db_db]Misiune de la început"
+  },
+  {
+   "key": "1889774466867978240",
+   "en": "[db_db]After speaking to Misty",
+   "ro": "[db_db]După ce vorbești cu Misty"
+  },
+  {
+   "key": "1889774570752499712",
+   "en": "[db_db]After finding all grafitti",
+   "ro": "[db_db]După ce găsești toate graffiti-urile"
+  },
+  {
+   "key": "3486809410400927744",
+   "en": "[db_db]ep1",
+   "ro": "[db_db]ep1"
+  },
+  {
+   "key": "3486809943379525632",
+   "en": "[db_db]ep1 found all",
+   "ro": "[db_db]ep1 a găsit tot"
+  }
+ ]
+}

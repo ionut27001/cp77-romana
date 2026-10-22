@@ -1,0 +1,857 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q003\\q003_03_deal.json",
+ "entries": [
+  {
+   "key": "1154536021957480448",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1166262417385787392",
+   "en": "Militech's not gonna come lookin' for it?",
+   "ro": "Militech n-o să vină să-l caute?"
+  },
+  {
+   "key": "1166332190773678080",
+   "en": "Cred's on this.",
+   "ro": "Reputația e în joc."
+  },
+  {
+   "key": "1166360035784679424",
+   "en": "So whaddaya want?",
+   "ro": "Deci ce vrei?"
+  },
+  {
+   "key": "1166366558179057664",
+   "en": "[Calm Jackie] Jackie, sit down.",
+   "ro": "[Calmează-l pe Jackie] Jackie, stai jos."
+  },
+  {
+   "key": "1166366820440498176",
+   "en": "Jack, siddown.",
+   "en_m": "Jack, sit down.",
+   "ro": "Jack, stai jos."
+  },
+  {
+   "key": "1166373320605065216",
+   "en": "Ahh, well, shit. Goes for you too.",
+   "ro": "Ah, căcat. Și pentru tine, la fel."
+  },
+  {
+   "key": "1166374349602054144",
+   "en": "Well, all right.",
+   "ro": "Bine, bine."
+  },
+  {
+   "key": "1166379676082921472",
+   "en": "Make me.",
+   "ro": "Ia fă-mă tu!"
+  },
+  {
+   "key": "1166379980304179200",
+   "en": "Sit your ass down 'fore I plant a bullet in your skull.",
+   "ro": "Stai jos, dracu', înainte să-ți bag un glonț în cap."
+  },
+  {
+   "key": "1166392514562252800",
+   "en": "What is it?",
+   "ro": "Ce-i?"
+  },
+  {
+   "key": "1166392696544714752",
+   "en": "S-keef. Shit kicks you in the ass.",
+   "ro": "S-keef. Rahatul ăsta te dă pe spate."
+  },
+  {
+   "key": "1166392882469822464",
+   "en": "It's a fuckin' rush, man. Gotta feel it for yourself.",
+   "ro": "E un impuls nenorocit, frate. Trebuie să-l simți pe pielea ta."
+  },
+  {
+   "key": "1166393490224472064",
+   "en": "Come on, give it a whirl!",
+   "ro": "Hai, încearcă-l!"
+  },
+  {
+   "key": "1166395100954648576",
+   "en": "Now we can talk…",
+   "ro": "Acum putem vorbi…"
+  },
+  {
+   "key": "1166452714283491328",
+   "en": "Need to see it.",
+   "ro": "Trebuie să-l văd."
+  },
+  {
+   "key": "1167517153493553152",
+   "en": "Now, couch. Plant it.",
+   "ro": "Acum, pe canapea. Stai jos."
+  },
+  {
+   "key": "1167584950040567808",
+   "en": "Fully integrated link, too, so when the spider starts crawlin' up walls, danglin' from ceilings…",
+   "ro": "Și are link complet integrat, deci când păianjenul o ia pe pereți și stă agățat de tavan…"
+  },
+  {
+   "key": "1167587473166082048",
+   "en": "So watcha think?",
+   "ro": "Deci ce crezi?"
+  },
+  {
+   "key": "1167757734343516180",
+   "en": "Here for the Flathead.",
+   "ro": "Am venit după Flathead."
+  },
+  {
+   "key": "1167897518332354560",
+   "en": "This ain't gonna end well but... shit…",
+   "ro": "Asta o să se termine prost, da' ... căcat…"
+  },
+  {
+   "key": "1175407643970818048",
+   "en": "Come on, gotta lighten up.",
+   "ro": "Hai, mai relaxează-te."
+  },
+  {
+   "key": "1175480131140505600",
+   "en": "Dexter DeShawn, that's who.",
+   "ro": "Dexter DeShawn, ăsta e."
+  },
+  {
+   "key": "1175483008835702784",
+   "en": "Dexter DeShawn…",
+   "ro": "Dexter DeShawn…"
+  },
+  {
+   "key": "1175485289043906580",
+   "en": "[Pay with Militech chip] Money's on this.",
+   "ro": "[Plătește cu cip Militech] Pe mine e plata."
+  },
+  {
+   "key": "1176574983852838912",
+   "en": "I don't see any fuckin' Brick around here, do you?!",
+   "ro": "Nu văd niciun nenorocit de Brick pe-aici, vezi?!"
+  },
+  {
+   "key": "1193773538443608064",
+   "en": "This so fuckin' hard? Fuckin' ass on the fuckin' couch!",
+   "ro": "E așa greu? Șezi pe canapea, pula mea!"
+  },
+  {
+   "key": "1196606980729917440",
+   "en": "Thought you'd never ask.",
+   "ro": "Credeam că nu întrebi niciodată."
+  },
+  {
+   "key": "1215264532405620736",
+   "en": "Jack, what gives?",
+   "ro": "Jack, ce-i cu tine?"
+  },
+  {
+   "key": "1215456284542439424",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "1215468885993263104",
+   "en": "Phew, hey, Flathead's good gear. It'll do the trick for ya, whatever that trick is.",
+   "ro": "Uf, Flathead-ul ăsta e marfă bună. Îți face treaba, care-o fi aia."
+  },
+  {
+   "key": "1216639752396161024",
+   "en": "I'll pass.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1216641558782230528",
+   "en": "What is it?",
+   "ro": "Ce-i?"
+  },
+  {
+   "key": "1218399177142255616",
+   "en": "Hahahahaha!",
+   "ro": "Hahahahaha!"
+  },
+  {
+   "key": "1222302288550379520",
+   "en": "Suit yourself.",
+   "ro": "Cum vrei tu."
+  },
+  {
+   "key": "1222303278691336192",
+   "en": "Fuckin' tricked out, this thing. Dynamic, thermo-optic camo armor. Full cognitive immersion with a Raven controller.",
+   "ro": "Tunată în pula mea, chestia asta. Armură dinamică, camuflaj termo-optic. Imersie cognitivă totală cu un controler Raven."
+  },
+  {
+   "key": "1222310311834501120",
+   "en": "Shit. Shit, shit, shit, chip's got a vector, they're breakin' in!",
+   "ro": "Căcat, căcat, căcat! Ne-au găsit prin cip, intră peste noi!"
+  },
+  {
+   "key": "1222712737854996480",
+   "en": "I'll stand.",
+   "ro": "Stau în picioare."
+  },
+  {
+   "key": "1223764825124978688",
+   "en": "You fuckin' deaf?!",
+   "ro": "Ești surdă, pula mea?!",
+   "ro_m": "Ești surd, pula mea?!"
+  },
+  {
+   "key": "1223769164635783168",
+   "en": "I said sit!",
+   "ro": "Am zis să stai jos!"
+  },
+  {
+   "key": "1223914507822252032",
+   "en": "Zero 'em! I want heads!",
+   "ro": "Lichidați-i! Vreau capete!"
+  },
+  {
+   "key": "1244267826184392704",
+   "en": "Here to see Royce. We got biz to transact.",
+   "ro": "Sunt aici să-l văd pe Royce. Avem de discutat o afacere."
+  },
+  {
+   "key": "1244268140438425600",
+   "en": "Where's Royce?",
+   "ro": "Unde e Royce?"
+  },
+  {
+   "key": "1244269618158833664",
+   "en": "Mr. Royce is busy just now. You'll deal with me.",
+   "ro": "Domnul Royce e ocupat acum. Cu mine o să ai de-a face."
+  },
+  {
+   "key": "1244293989514547200",
+   "en": "Take a hit.",
+   "ro": "Trage un fum."
+  },
+  {
+   "key": "1244374620395212800",
+   "en": "Pimped out, prototype actuators made of titanium-vanadium-Kevlar® composite.",
+   "ro": "Tunat, actuatori prototip din compozit titan-vanadiu-Kevlar®."
+  },
+  {
+   "key": "1244378509823643648",
+   "en": "Mhm, could lose your lunch.",
+   "ro": "Mhm, ți-ar putea veni să vomiți."
+  },
+  {
+   "key": "1244391591488720896",
+   "en": "The lard ass who punching-animal-fucked half of Pacifica? Mean he ain't dead?",
+   "ro": "Grasu' ăla care a futut jumătate din Pacifica? Adică n-a murit?"
+  },
+  {
+   "key": "1244400897726550016",
+   "en": "So, gonna consider my offer, now?",
+   "en_m": "So, you gonna consider my offer now?",
+   "ro": "Deci, te gândești la oferta mea, acum?",
+   "ro_m": "Deci, te gândești la oferta mea acum?"
+  },
+  {
+   "key": "1244400976579465216",
+   "en": "No, he's alive, well and kickin'. An' he sends his regards.",
+   "ro": "Nu, e viu și sănătos tun. Și-ți transmite salutări."
+  },
+  {
+   "key": "1245620078048788480",
+   "en": "Show it to me.",
+   "ro": "Arată-mi-o."
+  },
+  {
+   "key": "1245991048080723968",
+   "en": "'N' watch this…",
+   "ro": "Și uită-te la asta…"
+  },
+  {
+   "key": "1253010426060423168",
+   "en": "We'll take it.",
+   "ro": "O luăm."
+  },
+  {
+   "key": "1253010678792404992",
+   "en": "Raven isn't the dedicated control unit.",
+   "ro": "Raven nu e unitatea de control dedicată."
+  },
+  {
+   "key": "1279338226316820480",
+   "en": "Better?",
+   "ro": "Mai bine?"
+  },
+  {
+   "key": "1327208567038218240",
+   "en": "Cred's right here. Oh, and a virus – Militech's way of saying hello. They're out gunnin' for you.",
+   "ro": "Creditul e aici. Și un virus – așa salută Militech. Te vânează."
+  },
+  {
+   "key": "1327209406502998016",
+   "en": "Bug's designed to crawl in when you transfer the credit.",
+   "ro": "Bug-ul e făcut să se strecoare când transferi creditul."
+  },
+  {
+   "key": "1327268023579119616",
+   "en": "Gimme that.",
+   "ro": "Dă-mi-o."
+  },
+  {
+   "key": "1327290325683343360",
+   "en": "Check it.",
+   "ro": "Verifică-l."
+  },
+  {
+   "key": "1327296428445995008",
+   "en": "If this is a trick, I'm gonna introduce you to our meat grinder.",
+   "ro": "Dacă e vreo țeapă, te bag direct în tocătorul de carne."
+  },
+  {
+   "key": "1327305715373248512",
+   "en": "This is a scam.",
+   "ro": "E o țeapă."
+  },
+  {
+   "key": "1327321361117024256",
+   "en": "Told you this was a scam. But Militech's, not mine.",
+   "ro": "Ți-am zis că e țeapă. Dar e a Militech, nu a mea."
+  },
+  {
+   "key": "1327329771753508864",
+   "en": "Oh shit!",
+   "ro": "Ah, căcat!"
+  },
+  {
+   "key": "1327347224319561728",
+   "en": "Fuckin' neural napalm! Would've fried everyone on the subnet, prolly copied our data to Militech dataforts, too.",
+   "ro": "Napalm neural nenorocit! Ar fi prăjit pe toată lumea de pe subnet, probabil ne-ar fi copiat și datele pe dataforturile Militech."
+  },
+  {
+   "key": "1327351643371147264",
+   "en": "That rusty cunt...",
+   "ro": "Pizda aia ruginită..."
+  },
+  {
+   "key": "1327424152250552320",
+   "en": "I'm about to fuckin' snap. Take the bot and go!",
+   "ro": "Sunt cât pe ce să cedez, pula mea. Ia botul și pleacă!"
+  },
+  {
+   "key": "1328449852449427456",
+   "en": "You got someone inside Militech?",
+   "ro": "Ai pe cineva în Militech?"
+  },
+  {
+   "key": "1328454839510437888",
+   "en": "Got someone workin' Militech from inside? Gilchrist – that your guy?",
+   "ro": "Ai pe cineva infiltrat în Militech? Gilchrist – ăla e omul tău?"
+  },
+  {
+   "key": "1328455245770723328",
+   "en": "Not your biz, merc.",
+   "ro": "Nu-s afacerile tale, merc."
+  },
+  {
+   "key": "1328857022563291136",
+   "en": "Know what, Jack? You called it.",
+   "ro": "Știi ce, Jack? Ai nimerit-o."
+  },
+  {
+   "key": "1334354508543365120",
+   "en": "Nova, so now leave. And hey, after you get Dex's dick outta your mouth, tell him I say hello.",
+   "ro": "Mișto. Acum pleci. Și hei, după ce-i scoți pula lui Dex din gură, zi-i salut din partea mea."
+  },
+  {
+   "key": "1336874222629240832",
+   "en": "[Pay with Militech chip] Careful, got a virus on there.",
+   "ro": "[Plătește cu cipul Militech] Atenție, are un virus pe el."
+  },
+  {
+   "key": "1338943418888904704",
+   "en": "Whaddaya wanna do?",
+   "ro": "Ce vrei să faci?"
+  },
+  {
+   "key": "1338943767838220288",
+   "en": "Nothing. Our guy says Militech'll tear her apart.",
+   "ro": "Nimic. Tipul nostru zice că Militech o s-o facă bucăți."
+  },
+  {
+   "key": "1345795151845941248",
+   "en": "And you – take the damn bot and get the fuck outta my factory.",
+   "ro": "Iar tu – ia botul ăla și cară-te dracu' din fabrica mea."
+  },
+  {
+   "key": "1675499937473454080",
+   "en": "Jesus, Jack. What gives?",
+   "ro": "Doamne, Jack. Ce-i cu tine?"
+  },
+  {
+   "key": "1675500555780972544",
+   "en": "<mothertongue l=\"mex\" m=\"Primerito\" b=\"\" a=\", I don't like this guy's tone.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Primerito\" b=\"\" a=\", nu-mi place tonul tipului ăsta.\"/>"
+  },
+  {
+   "key": "1675505590858375168",
+   "en": "Thanks, I'm good.",
+   "ro": "Mulțumesc, sunt bine."
+  },
+  {
+   "key": "1675507452676366336",
+   "en": "Whatever you say, straight-edged princess.",
+   "ro": "Cum zici tu, prințesă cuminte."
+  },
+  {
+   "key": "1675527896821358592",
+   "en": "Changed my mind. I'm keepin' the money.",
+   "ro": "M-am răzgândit. Păstrez banii."
+  },
+  {
+   "key": "1675528559135514624",
+   "en": "We'll tear you apart!",
+   "ro": "Te facem bucăți!"
+  },
+  {
+   "key": "1675528931036061696",
+   "en": "You're fuckin' dead!",
+   "ro": "Ești moartă, pula mea!",
+   "ro_m": "Ești mort, pula mea!"
+  },
+  {
+   "key": "1675541891905183744",
+   "en": "Y'know, ya never did say who sent you, never did say who you're workin' for…",
+   "ro": "Știi ce, n-ai zis niciodată cine te-a trimis, pentru cine lucrezi…"
+  },
+  {
+   "key": "1675542062579802112",
+   "en": "Relax. Got 'em right here.",
+   "ro": "Relaxează-te. Le am chiar aici."
+  },
+  {
+   "key": "1675595751482941440",
+   "en": "Here's the cred. Hell, I'll even toss in some info as a friendly bonus – Militech's onto you. They're close.",
+   "ro": "Uite creditul. Și hai că-ți mai dau și-un pic de info, gratis – Militech e pe urmele tale. Sunt aproape."
+  },
+  {
+   "key": "1675595751499718672",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1675595751499718692",
+   "en": "Credchip was spiked with a virus. But don't worry, I wiped it.",
+   "en_m": "Credchip was spiked with a virus. Don't worry, I wiped it.",
+   "ro": "Credchip-ul era infectat cu un virus. Da' nu-ți face griji, l-am șters."
+  },
+  {
+   "key": "1675595751499718712",
+   "en": "Check it.",
+   "ro": "Verifică-l."
+  },
+  {
+   "key": "1675595751516495884",
+   "en": "Yeah, it's clean.",
+   "ro": "Da, e curat."
+  },
+  {
+   "key": "1675595751516495924",
+   "en": "That rusty cunt... Now I gotta deal with this shit.",
+   "ro": "Pizda aia ruginită... Acu' trebuie să-mi bat capul cu rahatul ăsta."
+  },
+  {
+   "key": "1675595751533273132",
+   "en": "You just take the damn bot and get the fuck outta my factory.",
+   "ro": "Ia botul ăsta nenorocit și cară-te dracu' din fabrica mea."
+  },
+  {
+   "key": "1675600981276712960",
+   "en": "[Pay with own money] As we agreed.",
+   "ro": "[Plătește cu banii tăi] Cum am convenit."
+  },
+  {
+   "key": "1685610900876910592",
+   "en": "Militech's not gonna come lookin' for it?",
+   "ro": "Militech n-o să vină să-l caute?"
+  },
+  {
+   "key": "1685611615670198272",
+   "en": "We removed the serial number and lifted access locks using our soft. Once it's yours, it's yours.",
+   "ro": "Am scos numărul de serie și am ridicat blocajele de acces cu softul nostru. Odată ce e a ta, e a ta."
+  },
+  {
+   "key": "1701455234796838912",
+   "en": "Here ya go. Paid in full.",
+   "ro": "Iată. Plătit integral."
+  },
+  {
+   "key": "1701455234796838932",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "1701455234830393372",
+   "en": "Now take the damn bot and get the fuck outta my factory. And you can tell Dex to suck my shiny chrome cock.",
+   "ro": "Acum ia botul ăsta nenorocit și cară-te dracu' din fabrica mea. Și poți să-i zici lui Dex să-mi sugă pula aia de chrome strălucitoare."
+  },
+  {
+   "key": "1701540532125917184",
+   "en": "C'mon, take it.",
+   "ro": "Hai, ia-l."
+  },
+  {
+   "key": "1718898560999317504",
+   "en": "Black Lace?",
+   "ro": "Black Lace?"
+  },
+  {
+   "key": "1718899970470010880",
+   "en": "Whatcha blowin'?",
+   "ro": "Ce tragi?"
+  },
+  {
+   "key": "1718899970470010896",
+   "en": "S-keef. Pure as baby powder.",
+   "ro": "S-keef. Pur ca pudra de bebeluși."
+  },
+  {
+   "key": "1718899970470010912",
+   "en": "Cyberpsychos pop the tabs like candy. Vaporizing it mellows the burn without killing any of the effect.",
+   "ro": "Cyberpsychoii înghit pastilele ca pe bonbonele. Dacă le vaporizezi, arsura se domolește și efectul rămâne intact."
+  },
+  {
+   "key": "1718934036892311552",
+   "en": "Eh, Raven's not the dedicated control unit for a Flathead.",
+   "en_m": "Huh, Raven's not the dedicated control unit for a Flathead.",
+   "ro": "Ei, Raven nu e unitatea de control dedicată pentru un Flathead.",
+   "ro_m": "Hm, Raven nu e unitatea de control dedicată pentru un Flathead."
+  },
+  {
+   "key": "1718940510498545664",
+   "en": "Hah! 'Course not! Militech controllers autolink to Militech systems. I mean, you wouldn't want them trackin' their stolen tech back to your hands?",
+   "ro": "Hah! Sigur că nu! Controllerele Militech se leagă automat la sistemele Militech. Adică nu vrei să-și urmărească tehnologia furată până la tine, nu?"
+  },
+  {
+   "key": "1718941198767054848",
+   "en": "Yeah, Raven's our baby. Got improved neural sync and no fuckin' pesky tracing. You ask me, we oughta sell that shit.",
+   "ro": "Da, Raven e pupilul nostru. Are sincronizare neurală mai bună și nicio urmărire enervantă. Eu zic să vindem rahatul ăsta."
+  },
+  {
+   "key": "1718961994814152704",
+   "en": "[Pay with Militech chip] Militech's on your trail.",
+   "ro": "[Plătește cu cipul Militech] Militech e pe urmele tale."
+  },
+  {
+   "key": "1757550193058705408",
+   "en": "Nah, you'll talk to me. Name's Dum Dum.",
+   "ro": "Nu, cu mine vorbești. Mă numesc Dum Dum."
+  },
+  {
+   "key": "1757563980960690176",
+   "en": "<mothertongue l=\"mex\" m=\"Segundo\" b=\"\" a=\", sitting on your ass makes you an easy target.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Segundo\" b=\"\" a=\", stând pe loc și devii țintă ușoară.\"/>"
+  },
+  {
+   "key": "1757588830550945792",
+   "en": "Black Lace? Tough to get your hands on. Gotta have a good source.",
+   "ro": "Black Lace? E greu de găsit. Trebuie să ai o sursă bună."
+  },
+  {
+   "key": "1757589881156988928",
+   "en": "Corps fed it to their fighting legions during the Corp Wars.",
+   "ro": "Corporațiile le-au dat legiunilor lor de luptă în timpul Războaielor Corporațiilor."
+  },
+  {
+   "key": "1757623504744673280",
+   "en": "Fuck 'em. They can hop around and try.",
+   "ro": "Să-i ia dracu'. Pot să sară și să încerce."
+  },
+  {
+   "key": "1757642426357313536",
+   "en": "Here we go. The Flathead, model MT0D12.",
+   "ro": "Gata. Flathead-ul, model MT0D12."
+  },
+  {
+   "key": "1757678520373276672",
+   "en": "Let's see your cred.",
+   "ro": "Hai să văd reputația."
+  },
+  {
+   "key": "1757678788489965568",
+   "en": "Brick got it. It's all paid up.",
+   "ro": "Brick a luat-o. E totul plătit."
+  },
+  {
+   "key": "1757681688683409408",
+   "en": "C'mon. Can't expect me to pay for this thing twice.",
+   "ro": "Hai, mă. Nu te aștepta să plătesc de două ori pentru chestia asta."
+  },
+  {
+   "key": "1757681715812167684",
+   "en": "Really expect me to pay twice?",
+   "ro": "Chiar te aștepți să plătesc de două ori?"
+  },
+  {
+   "key": "1757681763979554816",
+   "en": "Fuck Brick, then. Let's cut a new deal.",
+   "ro": "Futu-l pe Brick, atunci. Hai să facem altă înțelegere."
+  },
+  {
+   "key": "1757682147573821440",
+   "en": "Fuck Brick. Let's cut a new deal.",
+   "ro": "Futu-l pe Brick. Hai să facem altă înțelegere."
+  },
+  {
+   "key": "1757687864796049408",
+   "en": "And who the fuck're you to say what can and can't be?",
+   "ro": "Și cine pula mea ești tu să spui ce poate și ce nu poate fi?"
+  },
+  {
+   "key": "1757692896719335424",
+   "en": "\"Brick got it...\" Heh.",
+   "ro": "„Brick a luat-o...” Heh."
+  },
+  {
+   "key": "1757697476882526208",
+   "en": "Hah! Now that's good business sense.",
+   "ro": "Hah! Asta da simț al afacerilor."
+  },
+  {
+   "key": "1757702671947460608",
+   "en": "You'll pay twice because I say you'll pay twice!",
+   "ro": "O să plătești de două ori pentru că așa zic eu!"
+  },
+  {
+   "key": "1757702970749677568",
+   "en": "All right, you want the Flathead? I better see some eddies.",
+   "ro": "Bine, vrei Flathead-ul? Arată-mi niște eddies."
+  },
+  {
+   "key": "1760495027050442756",
+   "en": "I need the bot.",
+   "ro": "Îmi trebuie botul."
+  },
+  {
+   "key": "1760495061091414016",
+   "en": "I hand over the chip, you hand over the bot. Clean 'n' easy, no complications.",
+   "ro": "Eu dau cipul, tu dai botul. Simplu, fără bătăi de cap."
+  },
+  {
+   "key": "1760495072852242432",
+   "en": "Want it or not? I got places to be.",
+   "ro": "Vrei sau nu? Am treabă."
+  },
+  {
+   "key": "1760495452621303808",
+   "en": "Want it or not?",
+   "ro": "Vrei sau nu?"
+  },
+  {
+   "key": "1760496296934699008",
+   "en": "Look at this fuckin' girl scout! You know all your knots, got all your badges?! Hahaha!",
+   "en_m": "Look at this fuckin' boy scout! You know all your knots, got all your badges?! Hahaha!",
+   "ro": "Uite-o pe cercetașa asta nenorocită! Știi toate nodurile, ai toate insignele?! Hahaha!",
+   "ro_m": "Uite-l pe cercetașul ăsta nenorocit! Știi toate nodurile, ai toate insignele?! Hahaha!"
+  },
+  {
+   "key": "1760497452666777600",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1762169079271976960",
+   "en": "[Draw weapon] Fuck you, Royce.",
+   "ro": "[Scoate arma] Du-te-n pula mea, Royce."
+  },
+  {
+   "key": "1762169537407414272",
+   "en": "Nope. I see a dead man, though.",
+   "ro": "Nu. Dar văd un mort, totuși."
+  },
+  {
+   "key": "1762169895953297408",
+   "en": "Bring it, cocksuckers!",
+   "ro": "Veniți încoace, sugătorilor de pule!"
+  },
+  {
+   "key": "1762177957506248704",
+   "en": "Let's scrap the bastards.",
+   "ro": "Hai să-i facem praf pe nenorociții ăștia."
+  },
+  {
+   "key": "1763273388680212480",
+   "en": "What's it do?",
+   "ro": "Ce face?"
+  },
+  {
+   "key": "1763273888188264448",
+   "en": "Ups 'dorphs and adrenaline to the point you feel no pain. Trip's so intense it verges on psychosis.",
+   "ro": "Crește endorfinele și adrenalina până nu mai simți durere. Tripul e atât de intens că frizează psihoza."
+  },
+  {
+   "key": "1764036290787631104",
+   "en": "Piece of shit…",
+   "ro": "Căcatul ăsta…"
+  },
+  {
+   "key": "1764485950962622464",
+   "en": "Just like that? Without battin' a fuckin' eye?! Hahah!",
+   "ro": "Așa, pur și simplu? Fără să clipești nenorocitul ăla de ochi?! Hahah!"
+  },
+  {
+   "key": "1764527154899148800",
+   "en": "You got a bot – model MT0D12, called the Flathead.",
+   "ro": "Ai un bot – model MT0D12, numit Flathead."
+  },
+  {
+   "key": "1764527154899148816",
+   "en": "And? The hell you care?",
+   "ro": "Și? Ce dracu' te interesează?"
+  },
+  {
+   "key": "1764527154899148828",
+   "en": "Guy I represent already paid Brick for it. I'm just here for the pick-up. I can talk direct to Royce, if necessary.",
+   "ro": "Tipul pe care-l reprezint a plătit deja lui Brick pentru el. Sunt aici doar pentru ridicare. Pot vorbi direct cu Royce, dacă e nevoie."
+  },
+  {
+   "key": "1769869160630411264",
+   "en": "Only gonna tell ya one more fuckin' time.",
+   "ro": "O să-ți mai spun o singură dată, pula mea."
+  },
+  {
+   "key": "1769870547099541504",
+   "en": "Park your ass on the couch.",
+   "ro": "Așază-te pe canapea."
+  },
+  {
+   "key": "1777899274536677376",
+   "en": "[Shoot Royce] I've had enough.",
+   "ro": "[Împușcă-l pe Royce] M-am săturat."
+  },
+  {
+   "key": "1777911815908290560",
+   "en": "Bang.",
+   "ro": "Bang."
+  },
+  {
+   "key": "1777926343081521152",
+   "en": "Mmm... Mhm...",
+   "ro": "Mmm... Mhm..."
+  },
+  {
+   "key": "1970787637860909056",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1972506473152790528",
+   "en": "Got what we came for.",
+   "ro": "Am luat ce am venit să luăm."
+  },
+  {
+   "key": "1995344974227369984",
+   "en": "Yep, we'll take it.",
+   "ro": "Da, îl luăm."
+  },
+  {
+   "key": "1995344998520778752",
+   "en": "It'll have to do.",
+   "ro": "O să fie de ajuns."
+  },
+  {
+   "key": "1995345478684700672",
+   "en": "Preem, sure, yeah.",
+   "ro": "Beton, sigur, da."
+  },
+  {
+   "key": "1995346372557991936",
+   "en": "Heh. Look at that – picky little fucker.",
+   "ro": "Heh. Uite-o pe asta – mofturoasa dracului.",
+   "ro_m": "Heh. Uite-l pe ăsta – mofturosul dracului."
+  },
+  {
+   "key": "1995346928420712448",
+   "en": "It'll have to do…",
+   "ro": "O să fie de ajuns…"
+  },
+  {
+   "key": "1998505903747588096",
+   "en": "Asked you a question.",
+   "ro": "Ți-am pus o întrebare."
+  },
+  {
+   "key": "1998505941026562048",
+   "en": "You fuckin' deaf?!",
+   "ro": "Ești surdă, pula mea?!",
+   "ro_m": "Ești surd, pula mea?!"
+  },
+  {
+   "key": "1998505979547049984",
+   "en": "I'm talkin' to you!",
+   "ro": "Ție îți vorbesc!"
+  },
+  {
+   "key": "1999500823794900996",
+   "en": "[Show Militech shard] Eddies're right here.",
+   "ro": "[Arată shard-ul Militech] Eddies-urile sunt chiar aici."
+  },
+  {
+   "key": "1999543165931315200",
+   "en": "Got the scratch ready.",
+   "ro": "Am banii gata."
+  },
+  {
+   "key": "1999546036647190528",
+   "en": "Prepared to offer us a discount…?",
+   "ro": "Ne faci și o reducere…?"
+  },
+  {
+   "key": "1999552885945622528",
+   "en": "Seein' as you already got the eddies for it, you oughta offer us a discount, a big one.",
+   "ro": "Fiindcă ai deja eddies-urile, ar fi cazul să ne faci o reducere, și mare."
+  },
+  {
+   "key": "1999554647687520256",
+   "en": "A discount? Fuuuck.",
+   "ro": "O reducere? Futu-i!"
+  },
+  {
+   "key": "1999603604325228544",
+   "en": "Got the scratch, be chill.",
+   "ro": "Am banii, calmează-te."
+  },
+  {
+   "key": "1999603658867957760",
+   "en": "I am very fucking chill.",
+   "ro": "Sunt al dracului de calm."
+  },
+  {
+   "key": "2001182674670411780",
+   "en": "[Draw weapon]",
+   "ro": "[Scoate arma]"
+  },
+  {
+   "key": "2011366673422311424",
+   "en": "[Take down Royce]",
+   "ro": "[Doboară-l pe Royce]"
+  },
+  {
+   "key": "2020605033286877184",
+   "en": "[Take inhaler]",
+   "ro": "[Ia inhalatorul]"
+  },
+  {
+   "key": "2343235010488000512",
+   "en": "No, he's alive, well and kickin'. An' he sends his regards.",
+   "ro": "Nu, e viu și sănătos tun. Și-ți transmite salutări."
+  },
+  {
+   "key": "2343235011695960064",
+   "en": "So, gonna consider my offer, now?",
+   "ro": "Deci, te-ai gândit la oferta mea?"
+  },
+  {
+   "key": "2343235012937474048",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  }
+ ]
+}

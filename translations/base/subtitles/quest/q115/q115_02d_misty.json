@@ -1,0 +1,932 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q115\\q115_02d_misty.json",
+ "entries": [
+  {
+   "key": "1720051518226317312",
+   "en": "Is that you, V? Or…",
+   "ro": "Tu ești, V? Sau…"
+  },
+  {
+   "key": "1720055148950077444",
+   "en": "[Pet cat] Who's this?",
+   "ro": "[Mângâie pisica] Cine e asta?"
+  },
+  {
+   "key": "1720055533148323840",
+   "en": "Who do we have here, huh?",
+   "ro": "Cine avem aici, ha?"
+  },
+  {
+   "key": "1720056032455049216",
+   "en": "That's Mr. Brightman.",
+   "ro": "Asta e domnul Brightman."
+  },
+  {
+   "key": "1756254178290704384",
+   "en": "Yeah, it's me.",
+   "ro": "Da, sunt eu."
+  },
+  {
+   "key": "1756256398436474880",
+   "en": "OK, I'm ready.",
+   "ro": "OK, sunt gata."
+  },
+  {
+   "key": "1764642142649589764",
+   "en": "[Lean] Let's do it.",
+   "ro": "[Sprijină-te] Hai s-o facem."
+  },
+  {
+   "key": "1764646575022284800",
+   "en": "Since you have to wait, mind if I give you a reading?",
+   "ro": "Dacă tot aștepți, să-ți fac o citire?"
+  },
+  {
+   "key": "1783826490401361920",
+   "en": "Like Vik said. Taken matters into my own hands.",
+   "ro": "Cum zicea Vik. Am luat treaba în mâini."
+  },
+  {
+   "key": "1783827344260993024",
+   "en": "So, what now?",
+   "ro": "Și acum ce?"
+  },
+  {
+   "key": "1783828312205692928",
+   "en": "Waitin' for my driver.",
+   "ro": "Aștept șoferul."
+  },
+  {
+   "key": "1783828467109728256",
+   "en": "Come inside. We'll wait together.",
+   "ro": "Intră. Așteptăm împreună."
+  },
+  {
+   "key": "1783831661692981248",
+   "en": "Only if you want.",
+   "ro": "Doar dacă vrei."
+  },
+  {
+   "key": "1783833059469955072",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1783833913564467200",
+   "en": "Rather not.",
+   "ro": "Mai bine nu."
+  },
+  {
+   "key": "1783834851981266944",
+   "en": "Sure, why not.",
+   "ro": "Sigur, de ce nu."
+  },
+  {
+   "key": "1783834949641441280",
+   "en": "I devised this layout especially for you and Johnny.",
+   "ro": "Am gândit aranjamentul ăsta special pentru tine și Johnny."
+  },
+  {
+   "key": "1783835155229446144",
+   "en": "Y'know... prolly not a good idea.",
+   "ro": "Știi tu... probabil nu e o idee bună."
+  },
+  {
+   "key": "1793851514260688896",
+   "en": "We found the poor guy in the trash behind the clinic.",
+   "ro": "L-am găsit pe bietul tip în gunoi, în spatele clinicii."
+  },
+  {
+   "key": "1793851775179952128",
+   "en": "I think he misses Jackie.",
+   "ro": "Cred că îi e dor de Jackie."
+  },
+  {
+   "key": "1793853035736076288",
+   "en": "Ain't alone.",
+   "ro": "Nu e singur."
+  },
+  {
+   "key": "1851725560031289344",
+   "en": "Your future is his future... and vice versa.",
+   "ro": "Viitorul tău e viitorul lui... și invers."
+  },
+  {
+   "key": "1851730247367335936",
+   "en": "Hm. I think that's for you.",
+   "ro": "Hm. Cred că e pentru tine."
+  },
+  {
+   "key": "1851734059402469376",
+   "en": "Wait, is that... an Arasaka stretch?",
+   "ro": "Stai, e... un Arasaka stretch?"
+  },
+  {
+   "key": "1851809470740242432",
+   "en": "But... V! They killed Jackie! And-- and now you're working for them?!",
+   "ro": "Dar... V! Ei l-au ucis pe Jackie! Și-- și acum lucrezi pentru ei?!"
+  },
+  {
+   "key": "1851811814450208768",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1851812676497121284",
+   "en": "Alternatives were worse.",
+   "ro": "Alternativele erau mai proaste."
+  },
+  {
+   "key": "1851813040411713536",
+   "en": "Jackie died because we both made a bad decision.",
+   "ro": "Jackie a murit pentru că amândoi am luat o decizie proastă."
+  },
+  {
+   "key": "1851814855287054336",
+   "en": "Don't like it any more than you do, but all the other options were worse.",
+   "ro": "Nu-mi place mai mult decât ție, dar celelalte variante erau și mai rele."
+  },
+  {
+   "key": "1851815145130237952",
+   "en": "Still don't get it, do you?",
+   "en_m": "Still don't get it, do ya?",
+   "ro": "Tot nu înțelegi, nu?",
+   "ro_m": "Tot nu pricepi, nu?"
+  },
+  {
+   "key": "1851815996993380352",
+   "en": "Jackie died 'cause we made a terrible fucking decision.",
+   "ro": "Jackie a murit pentru că am luat o decizie de căcat."
+  },
+  {
+   "key": "1851818373049819136",
+   "en": "And the rest – just plain consequences.",
+   "ro": "Restul sunt doar consecințe."
+  },
+  {
+   "key": "1851820821281841152",
+   "en": "Time to make things right.",
+   "ro": "E timpul să punem lucrurile la punct."
+  },
+  {
+   "key": "1851821693730627584",
+   "en": "Misty, listen...",
+   "ro": "Misty, ascultă..."
+  },
+  {
+   "key": "1851825174784843776",
+   "en": "Betraying a friend – you can't justify that.",
+   "ro": "Să trădezi un prieten – nu poți justifica asta."
+  },
+  {
+   "key": "1851828430470717440",
+   "en": "Think I don't remember?",
+   "ro": "Crezi că nu-mi amintesc?"
+  },
+  {
+   "key": "1851830360890744832",
+   "en": "Got no right to judge me.",
+   "ro": "Nu ai niciun drept să mă judeci."
+  },
+  {
+   "key": "1851830595117457408",
+   "en": "You've changed… For the worse.",
+   "ro": "Te-ai schimbat… În rău."
+  },
+  {
+   "key": "1851836078163304448",
+   "en": "Lovely little shithole...",
+   "ro": "Gaură de rahat drăguță..."
+  },
+  {
+   "key": "1851849947585781760",
+   "en": "So, this is where Arasaka's finest technology wound up... Charming.",
+   "ro": "Deci, aici a ajuns cea mai bună tehnologie a Arasaka... Fermecător."
+  },
+  {
+   "key": "1851860698828447744",
+   "en": "V, it's good to meet again. You look…",
+   "ro": "V, mă bucur să ne revedem. Arăți…"
+  },
+  {
+   "key": "1851861278128939008",
+   "en": "Like shit.",
+   "ro": "Ca naiba."
+  },
+  {
+   "key": "1851891481932800000",
+   "en": "And I feel like shit.",
+   "ro": "Și mă simt ca naiba."
+  },
+  {
+   "key": "1851891639974174720",
+   "en": "Compared to you, sure.",
+   "ro": "Comparativ cu tine, sigur."
+  },
+  {
+   "key": "1851896231126441984",
+   "en": "Compared to you, I do. You look good.",
+   "ro": "Comparativ cu tine, da. Arăți bine."
+  },
+  {
+   "key": "1851896796065636352",
+   "en": "I am back in graces, as you say.",
+   "ro": "Sunt iar în grații, cum zici tu."
+  },
+  {
+   "key": "1851897518777769984",
+   "en": "Feel like shit. And it's gettin' worse.",
+   "en_m": "I feel like shit. And it's gettin' worse.",
+   "ro": "Mă simt ca naiba. Și se agravează."
+  },
+  {
+   "key": "1851897950656864260",
+   "en": "Yeah, just foretold I'd break your jaw.",
+   "ro": "Da, tocmai ți-am prezis că-ți sparg fălcile."
+  },
+  {
+   "key": "1851952991115747332",
+   "en": "Yeah, but I can tell you where to put your suspicions.",
+   "ro": "Da, dar îți pot spune unde să-ți bagi suspiciunile."
+  },
+  {
+   "key": "1851979533694869504",
+   "en": "Let us go to the car. Hanako-sama is waiting.",
+   "ro": "Hai să mergem la mașină. Hanako-sama așteaptă."
+  },
+  {
+   "key": "1852010204995854336",
+   "en": "Where's the ripper? Telling fortunes from rat bones in the back?",
+   "ro": "Unde e ripperul? Ghicește viitorul din oase de șobolan în spate?"
+  },
+  {
+   "key": "1852012376219262976",
+   "en": "Anders Hellman. Alive. What a surprise.",
+   "ro": "Anders Hellman. În viață. Ce surpriză."
+  },
+  {
+   "key": "1852014553096593408",
+   "en": "That's right. Matter of fact, just foretold I'd break your shit-spewing jaw.",
+   "ro": "Exact. Chiar ți-am prezis că-ți sparg fălcile alea care scuipă rahat."
+  },
+  {
+   "key": "1852014630439559168",
+   "en": "Anders Hellman. Alive, I see, and well.",
+   "ro": "Anders Hellman. Încă în viață, și bine, se vede."
+  },
+  {
+   "key": "1852018297536323584",
+   "en": "Figured your employers woulda knocked you around some after your flight to Kang Tao.",
+   "en_m": "Figured your employers would've knocked you around some after your flight to Kang Tao.",
+   "ro": "Mă gândeam că angajatorii tăi te-ar fi bătut un pic după fuga ta la Kang Tao."
+  },
+  {
+   "key": "1852025220218298368",
+   "en": "'Member the last time I did that, I trust.",
+   "ro": "Sper că-ți amintești ultima dată când am făcut asta."
+  },
+  {
+   "key": "1852038512420659200",
+   "en": "You look after yourself, V.",
+   "ro": "Ai grijă de tine, V."
+  },
+  {
+   "key": "1852999420504514560",
+   "en": "Hmm. I think that's for you.",
+   "ro": "Hmm. Cred că e pentru tine."
+  },
+  {
+   "key": "1853002779974246400",
+   "en": "Whatever you prefer. Perhaps it's best.",
+   "ro": "Orice preferi. Poate e mai bine așa."
+  },
+  {
+   "key": "1853006656836542464",
+   "en": "Yep. No mistakin' that ride, ever.",
+   "ro": "Da. Nu poți confunda niciodată mașina aia."
+  },
+  {
+   "key": "1853008035000950784",
+   "en": "Hey.",
+   "ro": "Hei."
+  },
+  {
+   "key": "1853018463147991040",
+   "en": "You scared me, you know that?",
+   "ro": "M-ai speriat, știi?"
+  },
+  {
+   "key": "1853019730599550976",
+   "en": "Jesus, you really do look terrible.",
+   "ro": "Doamne, chiar arăți groaznic."
+  },
+  {
+   "key": "1853226715810963456",
+   "en": "The construct in your head and how it could affect decision-making.",
+   "ro": "Constructul din capul tău și cum ar putea afecta luarea deciziilor."
+  },
+  {
+   "key": "1853227023723208704",
+   "en": "The same construct that, in its former life, detonated two nuclear warheads inside Arasaka Tower.",
+   "ro": "Același construct care, în viața anterioară, a detonat două focoase nucleare în Turnul Arasaka."
+  },
+  {
+   "key": "1853227401780994048",
+   "en": "And now you and this construct have volunteered to sort things out in Arasaka.",
+   "ro": "Iar acum tu și constructul ăsta v-ați oferit să rezolvați lucrurile la Arasaka."
+  },
+  {
+   "key": "1853227742039711744",
+   "en": "Interesting coincidence, wouldn't you say?",
+   "ro": "Coincidență interesantă, nu crezi?"
+  },
+  {
+   "key": "1853234457237856256",
+   "en": "When we last saw one another, we spoke of a construct in your head that could influence your decision-making.",
+   "ro": "Ultima dată când ne-am văzut, am vorbit despre un construct din capul tău care ți-ar putea influența deciziile."
+  },
+  {
+   "key": "1853234607695929344",
+   "en": "The same construct that, in its former life, detonated two nuclear warheads inside Arasaka Tower.",
+   "ro": "Același construct care, în viața anterioară, a detonat două focoase nucleare în Turnul Arasaka."
+  },
+  {
+   "key": "1853234825229312000",
+   "en": "What is this about?",
+   "ro": "Despre ce e vorba?"
+  },
+  {
+   "key": "1853235209192677376",
+   "en": "Has no one told you? Shame.",
+   "ro": "Nimeni nu ți-a spus? Păcat."
+  },
+  {
+   "key": "1853235426457624576",
+   "en": "The engram inside is Johnny-fucking-Silverhand. Recognize the name?",
+   "ro": "Engramul de înăuntru e Johnny-fucking-Silverhand. Îți sună numele?"
+  },
+  {
+   "key": "1853237124697759744",
+   "en": "Johnny's my problem, not yours.",
+   "ro": "Johnny e problema mea, nu a ta."
+  },
+  {
+   "key": "1853237529833971712",
+   "en": "Yes, but he's suppressed now.",
+   "ro": "Da, dar acum e suprimat."
+  },
+  {
+   "key": "1853240037859991552",
+   "en": "With beta-blockers. But before I did that, he warned me against working with Arasaka.",
+   "ro": "Cu beta-blocante. Dar înainte să fac asta, m-a avertizat să nu lucrez cu Arasaka."
+  },
+  {
+   "key": "1853240730960338944",
+   "en": "So tuck your suspicions where the sun don't shine before I start regretting not taking his advice.",
+   "ro": "Așa că bagă-ți suspiciunile unde nu bate soarele, înainte să încep să regret că n-am urmat sfatul lui."
+  },
+  {
+   "key": "1853243098191962112",
+   "en": "That is enough for me.",
+   "ro": "Pentru mine e de ajuns."
+  },
+  {
+   "key": "1853243617983668224",
+   "en": "Johnny's my concern, not yours.",
+   "ro": "Johnny e treaba mea, nu a ta."
+  },
+  {
+   "key": "1853244760998617088",
+   "en": "The terrorist?",
+   "ro": "Teroristul?"
+  },
+  {
+   "key": "1853247346904473600",
+   "en": "Johnny's blocked off. And I bear no ill will against Arasaka.",
+   "ro": "Johnny e blocat. Și nu am nimic cu Arasaka."
+  },
+  {
+   "key": "1853248151371980800",
+   "en": "Not nearly as interesting as your paranoia.",
+   "ro": "Nici pe departe la fel de interesant ca paranoia ta."
+  },
+  {
+   "key": "1853248279348584448",
+   "en": "Aren't you just my driver? Do your fuckin' job.",
+   "ro": "Nu ești doar șoferul meu? Fă-ți dracului treaba."
+  },
+  {
+   "key": "1853248570886266880",
+   "en": "Think you might be outta line, Hellman.",
+   "ro": "Cred că ai depășit limita, Hellman."
+  },
+  {
+   "key": "1853248913292468224",
+   "en": "Hanako appointed you my chauffeur.",
+   "ro": "Hanako te-a numit șoferul meu."
+  },
+  {
+   "key": "1853250064494698496",
+   "en": "It is, but not nearly as interesting as your paranoia.",
+   "ro": "E, dar nici pe departe la fel de interesant ca paranoia ta."
+  },
+  {
+   "key": "1853268088694054912",
+   "en": "Got Johnny in check with beta-blockers. And Arasaka's not on my radar.",
+   "en_m": "I got Johnny in check with beta-blockers. And Arasaka's not on my radar.",
+   "ro": "L-am ținut pe Johnny în frâu cu beta-blocante. Și Arasaka nu e pe radarul meu."
+  },
+  {
+   "key": "1853269799013785600",
+   "en": "To Arasaka, I'm still worth more alive and well than harmed or dead.",
+   "ro": "Pentru Arasaka, încă valorez mai mult vie și bine decât rănită sau moartă.",
+   "ro_m": "Pentru Arasaka, încă valorez mai mult viu și bine decât rănit sau mort."
+  },
+  {
+   "key": "1853407590255239168",
+   "en": "Let us go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1853409365351800832",
+   "en": "So do your fuckin' job and drive me to North Oak.",
+   "ro": "Așa că fă-ți dracului treaba și du-mă la North Oak."
+  },
+  {
+   "key": "1853413363530145792",
+   "en": "It's simple, my life's on the line.",
+   "ro": "E simplu, viața mea e în joc."
+  },
+  {
+   "key": "1853416347475451904",
+   "en": "Honestly think I'm runnin' some kinda ruse?",
+   "ro": "Chiar crezi că pun la cale vreo șmecherie?"
+  },
+  {
+   "key": "1853418856726208512",
+   "en": "I don't know what to think. But I shall be watching you.",
+   "ro": "Nu știu ce să cred. Dar o să te urmăresc."
+  },
+  {
+   "key": "1853422004970790912",
+   "en": "If I can make things right... maybe, just maybe, things'll go back to normal.",
+   "en_m": "If I can make things right... maybe... just maybe things'll go back to normal.",
+   "ro": "Dacă pot să îndrept lucrurile... poate, doar poate, totul o să revină la normal."
+  },
+  {
+   "key": "1853424319689728000",
+   "en": "The Magician.",
+   "ro": "Magicianul."
+  },
+  {
+   "key": "1853425418949697536",
+   "en": "A person of great talent and charisma, a leader...",
+   "ro": "O persoană cu mare talent și carismă, un lider..."
+  },
+  {
+   "key": "1853425659316871168",
+   "en": "Sounds like Johnny.",
+   "ro": "Sună a Johnny."
+  },
+  {
+   "key": "1853425779324297216",
+   "en": "The card is reversed. That can mean a tendency toward addiction... mental instability.",
+   "ro": "Cartea e inversată. Asta poate însemna o tendință spre dependență... instabilitate mentală."
+  },
+  {
+   "key": "1853426169914662912",
+   "en": "Oh-ho, OK, definitely Johnny.",
+   "en_m": "OK, definitely Johnny.",
+   "ro": "Oh-ho, OK, sigur Johnny.",
+   "ro_m": "OK, sigur Johnny."
+  },
+  {
+   "key": "1853431493241413632",
+   "en": "The Fool.",
+   "ro": "Nebunul."
+  },
+  {
+   "key": "1853432281401466880",
+   "en": "Huh, what a surprise…",
+   "en_m": "Heheh, what a surprise…",
+   "ro": "Huh, ce surpriză…",
+   "ro_m": "Heheh, ce surpriză…"
+  },
+  {
+   "key": "1853433092193984512",
+   "en": "Let's dig deeper to find its meaning here.",
+   "ro": "Hai să săpăm mai adânc ca să-i găsim sensul aici."
+  },
+  {
+   "key": "1853435813223538688",
+   "en": "He is one great disturbance.",
+   "ro": "E o mare tulburare."
+  },
+  {
+   "key": "1853437190582640640",
+   "en": "We'll start with you, V.",
+   "ro": "Începem cu tine, V."
+  },
+  {
+   "key": "1853438013052100608",
+   "en": "The Fool symbolizes the start of a journey, the announcement of something new.",
+   "ro": "Nebunul simbolizează începutul unei călătorii, anunțul a ceva nou."
+  },
+  {
+   "key": "1853441424195657728",
+   "en": "Heh, sounds a lot like the V I first met.",
+   "ro": "Heh, seamănă foarte mult cu V-ul pe care l-am cunoscut prima dată."
+  },
+  {
+   "key": "1853445218295947264",
+   "en": "It's the inner child – curious of the world, but also naive and reckless.",
+   "ro": "E copilul interior – curios de lume, dar și naiv și iresponsabil."
+  },
+  {
+   "key": "1853471664775176192",
+   "en": "The Devil.",
+   "ro": "Diavolul."
+  },
+  {
+   "key": "1853475900284018688",
+   "en": "Ooh, got another deck lyin' around? A cheerful one?",
+   "en_m": "Got another deck lyin' around? A cheerful one?",
+   "ro": "Ooh, mai ai un deck pe undeva? Unul vesel?",
+   "ro_m": "Mai ai un deck pe undeva? Unul vesel?"
+  },
+  {
+   "key": "1853476483191611392",
+   "en": "This is no joke, V.",
+   "ro": "Nu e de glumă, V."
+  },
+  {
+   "key": "1854766433048535040",
+   "en": "Man, it's good to see your face.",
+   "ro": "Măi, ce bine că-ți văd fața."
+  },
+  {
+   "key": "1854784503603339264",
+   "en": "Then we had best not waste any time. We have a long road ahead of us.",
+   "ro": "Atunci mai bine să nu pierdem timpul. Avem un drum lung înainte."
+  },
+  {
+   "key": "1854786113209442304",
+   "en": "Look out for yourself, V.",
+   "ro": "Ai grijă de tine, V."
+  },
+  {
+   "key": "1854787245805740032",
+   "en": "You too, Misty. And thanks for everything.",
+   "ro": "Și tu, Misty. Și mulțumesc pentru tot."
+  },
+  {
+   "key": "1854795675064934400",
+   "en": "Didn't think anything could scare you.",
+   "ro": "Nu credeam că ceva te poate speria."
+  },
+  {
+   "key": "1854799948439953408",
+   "en": "No more hiding in filth, no more second-rate food.",
+   "ro": "Gata cu ascunsul prin mizerie, gata cu mâncarea de mâna a doua."
+  },
+  {
+   "key": "1854803273415729152",
+   "en": "Hey...",
+   "ro": "Hei..."
+  },
+  {
+   "key": "1854812445452607488",
+   "en": "We're here to help, OK?",
+   "ro": "Am venit să ajutăm, bine?"
+  },
+  {
+   "key": "1854813602862407680",
+   "en": "Come on. Everybody's waiting at camp.",
+   "ro": "Hai. Toată lumea așteaptă la tabără."
+  },
+  {
+   "key": "1854864321879547904",
+   "en": "OK. And Johnny's?",
+   "ro": "OK. Și a lui Johnny?"
+  },
+  {
+   "key": "1854864962551095296",
+   "en": "The Moon...",
+   "ro": "Luna..."
+  },
+  {
+   "key": "1856241840331497472",
+   "en": "The cards weren't lying... You've changed.",
+   "ro": "Cărțile nu mințeau... Te-ai schimbat."
+  },
+  {
+   "key": "1856242311402168320",
+   "en": "You really have changed.",
+   "ro": "Chiar te-ai schimbat."
+  },
+  {
+   "key": "1856243038275051520",
+   "en": "And my senses tell me it's for the worse.",
+   "ro": "Și simțurile îmi spun că lucrurile o să meargă mai rău."
+  },
+  {
+   "key": "1856245489510195200",
+   "en": "All this shit started because I decided to screw over the corp that used to sign my paychecks.",
+   "ro": "Tot rahatul ăsta a început pentru că am decis să trag pe sfoară corporația care îmi plătea salariul."
+  },
+  {
+   "key": "1856249863011639296",
+   "en": "I get it. They're only cards. Always open to interpretation.",
+   "ro": "Înțeleg. Sunt doar cărți. Fiecare le citește cum vrea."
+  },
+  {
+   "key": "1856250031354224640",
+   "en": "I really hope you know what you're doin', V.",
+   "ro": "Sper serios că știi ce faci, V."
+  },
+  {
+   "key": "1856265325934092288",
+   "en": "Same as me, so stop droning and take me to Hanako.",
+   "en_m": "Yeah, same as me, so stop droning and take me to Hanako.",
+   "ro": "La fel ca mine, așa că nu mai bate câmpii și du-mă la Hanako.",
+   "ro_m": "Da, la fel ca mine, așa că nu mai bate câmpii și du-mă la Hanako."
+  },
+  {
+   "key": "1856266299834703872",
+   "en": "Right, Hanako...",
+   "ro": "Așa e, Hanako..."
+  },
+  {
+   "key": "1856267764418551808",
+   "en": "Do you remember what last we spoke of?",
+   "ro": "Îți amintești ce-am vorbit ultima dată?"
+  },
+  {
+   "key": "1856269497421078528",
+   "en": "I do. But I also recall what we spoke of that day.",
+   "ro": "Da. Dar îmi amintesc și ce am vorbit în ziua aia."
+  },
+  {
+   "key": "1856274034768814080",
+   "en": "I'll just put on some music.",
+   "ro": "Pun doar niște muzică."
+  },
+  {
+   "key": "1856277056915841024",
+   "en": "Let's see.",
+   "ro": "Să vedem."
+  },
+  {
+   "key": "1856283754195918848",
+   "en": "Changed my mind. Rather not know.",
+   "ro": "M-am răzgândit. Mai bine nu știu."
+  },
+  {
+   "key": "1856284949186682880",
+   "en": "Actually, Misty, changed my mind.",
+   "en_m": "Ehh, actually, Misty, changed my mind.",
+   "ro": "De fapt, Misty, m-am răzgândit.",
+   "ro_m": "Eh, de fapt, Misty, m-am răzgândit."
+  },
+  {
+   "key": "1856285615661588480",
+   "en": "Prolly better I don't know.",
+   "ro": "Probabil mai bine nu știu."
+  },
+  {
+   "key": "1856285679314345984",
+   "en": "Whatever you prefer. I'll put on some music instead.",
+   "ro": "Cum preferi. Pun muzică, atunci."
+  },
+  {
+   "key": "1856297671618011136",
+   "en": "Some believe uncertainty is an evil that should be dispelled through divination.",
+   "ro": "Unii cred că nesiguranța e un rău pe care trebuie să-l alungi prin ghicit."
+  },
+  {
+   "key": "1856309372551766016",
+   "en": "The final cards are about your futures.",
+   "ro": "Ultimele cărți vorbesc despre viitorul vostru."
+  },
+  {
+   "key": "1856343426995134464",
+   "en": "An inverted Devil symbolizes subjugation, losing control... Aggression. Evil. A power struggle.",
+   "ro": "Diavolul invers înseamnă subjugare, pierderea controlului... Agresivitate. Răutate. O luptă pentru putere."
+  },
+  {
+   "key": "1856347080619794432",
+   "en": "Whatever you're planning, treat this as a warning.",
+   "ro": "Orice ai plănui, ia asta ca pe un avertisment."
+  },
+  {
+   "key": "1856356772884586496",
+   "en": "Well... that doesn't sound too bad, right?",
+   "ro": "Păi... nu sună chiar așa de rău, nu?"
+  },
+  {
+   "key": "1856357988997865472",
+   "en": "I don't know, V.",
+   "ro": "Nu știu, V."
+  },
+  {
+   "key": "1856358086926475264",
+   "en": "The Moon is mystery.",
+   "ro": "Luna înseamnă mister."
+  },
+  {
+   "key": "1856359974027730944",
+   "en": "The Lovers.",
+   "ro": "Îndrăgostiții."
+  },
+  {
+   "key": "1856367064062435328",
+   "en": "Ahh, something that doesn't give me the chills, finally.",
+   "en_m": "Hah, something that doesn't give me the chills, finally.",
+   "ro": "Ahh, în sfârșit ceva care nu-mi dă fiori.",
+   "ro_m": "Hah, în sfârșit ceva care nu-mi dă fiori."
+  },
+  {
+   "key": "1856368848537460736",
+   "en": "The Lovers.",
+   "ro": "Îndrăgostiții."
+  },
+  {
+   "key": "1856371134500249600",
+   "en": "Balance, friendship, love...",
+   "ro": "Echilibru, prietenie, dragoste..."
+  },
+  {
+   "key": "1856373343707275268",
+   "en": "OK. And Johnny's?",
+   "ro": "OK. Și a lui Johnny?"
+  },
+  {
+   "key": "1856373344445472768",
+   "en": "The Moon...",
+   "ro": "Luna..."
+  },
+  {
+   "key": "1856373345049452544",
+   "en": "Well, that... doesn't sound too bad, right?",
+   "en_m": "Well, it... doesn't sound too bad, right?",
+   "ro": "Păi, asta... nu sună chiar așa de rău, nu?",
+   "ro_m": "Păi... nu sună chiar așa de rău, nu?"
+  },
+  {
+   "key": "1856373345670209536",
+   "en": "I don't know, V.",
+   "ro": "Nu știu, V."
+  },
+  {
+   "key": "1856373346324520960",
+   "en": "The Moon is mystery.",
+   "ro": "Luna înseamnă mister."
+  },
+  {
+   "key": "1856379301011464192",
+   "en": "Heh, something that doesn't give me the chills, finally.",
+   "en_m": "Phew, something that doesn't give me the chills, finally.",
+   "ro": "Heh, în sfârșit ceva care nu-mi dă fiori.",
+   "ro_m": "Uf, în sfârșit ceva care nu-mi dă fiori."
+  },
+  {
+   "key": "1856379658315833344",
+   "en": "Balance, friendship, love...",
+   "ro": "Echilibru, prietenie, dragoste..."
+  },
+  {
+   "key": "1856380582354558976",
+   "en": "Uh-huh...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "1856381286561423360",
+   "en": "V, have you been keeping something from me?",
+   "ro": "Ți-ai ținut ceva ascuns de mine?"
+  },
+  {
+   "key": "1856382367987212288",
+   "en": "Huh? What? W-why?",
+   "en_m": "Huh? What, why?",
+   "ro": "Cum adică? Ce? D-de ce?",
+   "ro_m": "Cum adică? Ce, de ce?"
+  },
+  {
+   "key": "1856382453500682240",
+   "en": "You're making a strange face.",
+   "ro": "Faci o mutră ciudată."
+  },
+  {
+   "key": "1856382776579530752",
+   "en": "Uhh, I-- Ahem. No, no I'm fine.",
+   "en_m": "I, uh... Heheh, ahem. No, I'm fine.",
+   "ro": "Ăă, eu-- Ahem. Nu, nu, sunt bine.",
+   "ro_m": "Eu, ăă... Heheh, ahem. Nu, sunt bine."
+  },
+  {
+   "key": "1856384164374061056",
+   "en": "Though it can also mean difficult choices ahead.",
+   "ro": "Dar poate însemna și alegeri grele care te așteaptă."
+  },
+  {
+   "key": "1856386359270121472",
+   "en": "Ain't that the truth.",
+   "ro": "Așa-i."
+  },
+  {
+   "key": "1856391927661666304",
+   "en": "Mhm. I shall be watching you.",
+   "ro": "Mhm. O să te urmăresc."
+  },
+  {
+   "key": "1856401399691943936",
+   "en": "This was my decision. He didn't play a part.",
+   "ro": "A fost decizia mea. El n-a avut niciun rol."
+  },
+  {
+   "key": "1857401977452699648",
+   "en": "We should go.",
+   "ro": "Hai să plecăm."
+  },
+  {
+   "key": "1857402742493749248",
+   "en": "Wait a minute.",
+   "ro": "Stai puțin."
+  },
+  {
+   "key": "1857414654937866240",
+   "en": "And now you and this construct have volunteered to sort out things in Arasaka.",
+   "ro": "Și acum tu și constructul ăsta v-ați oferit să curățați mizeria din Arasaka."
+  },
+  {
+   "key": "1857417227472281600",
+   "en": "Gave you my trust once, Takemura. Now do the same for me.",
+   "ro": "Ți-am dat încrederea mea o dată, Takemura. Acum fă la fel pentru mine."
+  },
+  {
+   "key": "1857418121999884288",
+   "en": "He may be satisfied.. I will be watching you.",
+   "ro": "Poate că e mulțumit... O să te urmăresc."
+  },
+  {
+   "key": "1857420246817513472",
+   "en": "I am sorry to hear this.",
+   "ro": "Îmi pare rău să aud asta."
+  },
+  {
+   "key": "1917167340212641792",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1928275368696881156",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1928275382739410948",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1976360782338727940",
+   "en": "Just me.",
+   "ro": "Doar eu."
+  },
+  {
+   "key": "1976361043710976000",
+   "en": "Takin' matters into my own hands.",
+   "ro": "Mă ocup eu personal."
+  },
+  {
+   "key": "1976487039982379012",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "2034440338502656000",
+   "en": "And I feel worse.",
+   "ro": "Și mă simt mai rău."
+  },
+  {
+   "key": "2058216216882339840",
+   "en": "Others claim it's change that is evil. But that isn't true either. Every minute of every day, we each become someone new.",
+   "ro": "Alții zic că schimbarea e răul. Dar nici asta nu e adevărat. În fiecare minut din fiecare zi devenim cu toții altcineva."
+  },
+  {
+   "key": "2058218415133843456",
+   "en": "We shouldn't fear change itself, but only who we might change into. Knowing one's path is most important.",
+   "ro": "Nu schimbarea în sine ar trebui să ne sperie, ci în cine ne-am putea transforma. Cel mai important e să-ți știi calea."
+  },
+  {
+   "key": "2058891897412067332",
+   "en": "You too.",
+   "ro": "Și tu."
+  },
+  {
+   "key": "2058895537564622848",
+   "en": "Take care, Misty. And thanks for everything.",
+   "ro": "Ai grijă, Misty. Și mulțumesc pentru tot."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\metro\\ue_metro_03_generic_passengers.json",
+ "entries": [
+  {
+   "key": "4096152614939414528",
+   "en": "Hi, sweetie.",
+   "ro": "Salut, dragă."
+  },
+  {
+   "key": "4139344059563155456",
+   "en": "Oh, God...",
+   "ro": "Doamne..."
+  },
+  {
+   "key": "4149263910058500096",
+   "en": "I'll be late tonight... Yes, yes, deadline can't be extended... All the time...? Heh, you're exaggerating a bit, don't you think...?",
+   "ro": "O să întârzii diseară... Da, da, termenul nu poate fi prelungit... Tot timpul...? Heh, exagerezi un pic, nu crezi...?"
+  },
+  {
+   "key": "4149264087511113728",
+   "en": "I have obligations, you know... Well, you're the one who asked...! Yes, yes, I already told him.",
+   "ro": "Am obligații, știi... Ei bine, tu ai cerut...! Da, da, i-am spus deja."
+  },
+  {
+   "key": "4149264189332037632",
+   "en": "I have to go now. Love you, too.",
+   "ro": "Trebuie să plec acum. Te iubesc și eu."
+  }
+ ]
+}

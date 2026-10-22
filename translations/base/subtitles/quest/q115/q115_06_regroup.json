@@ -1,0 +1,558 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q115\\q115_06_regroup.json",
+ "entries": [
+  {
+   "key": "1633184049081098240",
+   "en": "Thanks for the help.",
+   "ro": "Mulțumesc pentru ajutor."
+  },
+  {
+   "key": "1633243827341893636",
+   "en": "[Activate fog emitters] Let it fog!",
+   "ro": "[Activează emițătoarele de ceață] Să se lase cu ceață!"
+  },
+  {
+   "key": "1633244053112889344",
+   "en": "[Change light cycle to night] Say goodnight.",
+   "ro": "[Schimbă ciclul de lumină pe noapte] Zi noapte bună."
+  },
+  {
+   "key": "1633244164127727616",
+   "en": "[Activate ambient jungle sounds]",
+   "ro": "[Activează sunetele ambientale de junglă]"
+  },
+  {
+   "key": "1633244623538233344",
+   "en": "[Blast own music on sound emitters]",
+   "ro": "[Pune-ți muzica pe emițătoarele de sunet]"
+  },
+  {
+   "key": "1663478517184991232",
+   "en": "You were supposed to jump with us.",
+   "ro": "Trebuia să sari cu noi."
+  },
+  {
+   "key": "1663478853467508736",
+   "en": "Don't like all enemies in one big puddle – decided to ripple 'em out.",
+   "ro": "Nu-mi plac toți dușmanii grămadă, așa că i-am împrăștiat."
+  },
+  {
+   "key": "1663480778065842180",
+   "en": "Missed all the fun.",
+   "ro": "Ai ratat toată distracția."
+  },
+  {
+   "key": "1663481962671509504",
+   "en": "Seems you jumped the puddle entirely.",
+   "ro": "Se pare că ai sărit peste baltă de tot."
+  },
+  {
+   "key": "1663482036172492800",
+   "en": "Remind me a lot of your old man.",
+   "ro": "Mi-l amintești tare pe taică-tu."
+  },
+  {
+   "key": "1663482431208820736",
+   "en": "What? But you're too young to--",
+   "ro": "Ce? Dar ești prea tânără să--",
+   "ro_m": "Ce? Dar ești prea tânăr să--"
+  },
+  {
+   "key": "1663484082640523264",
+   "en": "Not now!",
+   "ro": "Nu acum!"
+  },
+  {
+   "key": "1663489952535416832",
+   "en": "Let's get outta here.",
+   "ro": "Hai să ne cărăm de aici."
+  },
+  {
+   "key": "1663493636426174464",
+   "en": "Who is this chick?",
+   "en_m": "Who is this mon?",
+   "ro": "Cine e tipa asta?",
+   "ro_m": "Cine e tipul ăsta?"
+  },
+  {
+   "key": "1672148747281108992",
+   "en": "Not now!",
+   "ro": "Nu acum!"
+  },
+  {
+   "key": "1672150034009690112",
+   "en": "So, you're Johnny Silverhand some which way, huh?",
+   "ro": "Deci ești un fel de Johnny Silverhand, nu?"
+  },
+  {
+   "key": "1672155359366483968",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1672155422515924992",
+   "en": "Nova... Nice to meet you.",
+   "ro": "Nova... Îmi pare bine să te cunosc."
+  },
+  {
+   "key": "1672311634989551616",
+   "en": "Look...",
+   "ro": "Uite..."
+  },
+  {
+   "key": "1672312015530364928",
+   "en": "Mhm. More of 'em.",
+   "ro": "Mhm. Mai sunt."
+  },
+  {
+   "key": "1672312651856613376",
+   "en": "Uh-huh… Always did prefer night ops.",
+   "ro": "Aha… Mereu mi-au plăcut operațiunile de noapte."
+  },
+  {
+   "key": "1672312811189833728",
+   "en": "Little cover oughta help...",
+   "ro": "Un pic de acoperire n-ar strica..."
+  },
+  {
+   "key": "1672313124403679232",
+   "en": "Always had a thing for birds, didn't ya?",
+   "ro": "Mereu ai avut o slăbiciune pentru păsări, nu?"
+  },
+  {
+   "key": "1672313238958510080",
+   "en": "Time to liven up this party.",
+   "ro": "Hai să animăm petrecerea asta."
+  },
+  {
+   "key": "1672319767896002560",
+   "en": "Mh. What's this?",
+   "ro": "Mh. Ce e asta?"
+  },
+  {
+   "key": "1672319828562415616",
+   "en": "El Salvador.",
+   "ro": "El Salvador."
+  },
+  {
+   "key": "1672321830856036352",
+   "en": "Beautiful. Too bad they're not real.",
+   "ro": "Frumos. Păcat că nu sunt reale."
+  },
+  {
+   "key": "1672323038345826304",
+   "en": "Is that--?",
+   "ro": "Asta e--?"
+  },
+  {
+   "key": "1672347785293074432",
+   "en": "We take 'em out quietly, won't have a chance to set off the alarm.",
+   "ro": "Dacă-i luăm pe tăcute, n-au nicio șansă să dea alarma."
+  },
+  {
+   "key": "1672347940213886976",
+   "en": "Not even to shit their pants.",
+   "ro": "Nici să-și facă rahat în pantaloni."
+  },
+  {
+   "key": "1672348063559979008",
+   "en": "Let's move.",
+   "ro": "Hai, mișcăm."
+  },
+  {
+   "key": "1672348386420723712",
+   "en": "One for you, one for me.",
+   "ro": "Unul pentru tine, unul pentru mine."
+  },
+  {
+   "key": "1672348871299043328",
+   "en": "Ahh. Ooh, that felt good.",
+   "ro": "Ahh. Mda, a fost chiar bine."
+  },
+  {
+   "key": "1693694557121650688",
+   "en": "Weyland...? You read me?",
+   "ro": "Weyland...? Mă auzi?"
+  },
+  {
+   "key": "1693704318105919488",
+   "en": "How many pieces you in?",
+   "ro": "În câte bucăți ești?"
+  },
+  {
+   "key": "1693705724674154496",
+   "en": "We're goin' after Weyland.",
+   "ro": "Mergem după Weyland."
+  },
+  {
+   "key": "1693996028006473728",
+   "en": "OK, Weyland. You ready?",
+   "ro": "OK, Weyland. Ești gata?"
+  },
+  {
+   "key": "1693996730485284864",
+   "en": "Was that a real question?",
+   "ro": "Asta chiar a fost o întrebare?"
+  },
+  {
+   "key": "1694008751343771648",
+   "en": "Nice. Remind me of your dad.",
+   "ro": "Mișto. Mi-l amintești pe taică-tu."
+  },
+  {
+   "key": "1697012564665278464",
+   "en": "Move!",
+   "ro": "Mișcă-te!"
+  },
+  {
+   "key": "1698512071982817280",
+   "en": "Better late than never, I suppose...",
+   "ro": "Mai bine mai târziu decât niciodată, zic eu..."
+  },
+  {
+   "key": "1700114673346519040",
+   "en": "In position.",
+   "ro": "Pe poziție."
+  },
+  {
+   "key": "1702699546247565312",
+   "en": "Still one, I hope. An' I think the local tribe's taken an interest in me.",
+   "ro": "Încă întreg, sper. Și cred că tribul local s-a luat de mine."
+  },
+  {
+   "key": "1702699795087233024",
+   "en": "We'll get you outta there. Don't move.",
+   "ro": "Te scoatem noi de-acolo. Stai pe loc."
+  },
+  {
+   "key": "1702701049972658176",
+   "en": "As if I could.",
+   "ro": "Ca și cum aș putea."
+  },
+  {
+   "key": "1702718791996018688",
+   "en": "You're alive, aren't you? Plus, now we got elevator access.",
+   "ro": "Trăiești, nu? Și acum avem acces la lift."
+  },
+  {
+   "key": "1702721891033026560",
+   "en": "C'mon.",
+   "ro": "Hai."
+  },
+  {
+   "key": "1702725490953818112",
+   "en": "Prolly everything else in the building, too.",
+   "ro": "Probabil și tot restul din clădire."
+  },
+  {
+   "key": "1702726079381114880",
+   "en": "There's gotta be a way. Need to look around.",
+   "ro": "Trebuie să fie o cale. Hai să cercetăm."
+  },
+  {
+   "key": "1703815839989342208",
+   "en": "Might wanna turn the ambient jungle sounds back on. Maybe see what else is on there, too.",
+   "ro": "Ar fi bine să pornești iar sunetele de junglă. Și poate vezi ce mai e pe-acolo."
+  },
+  {
+   "key": "1703817008723763200",
+   "en": "Weyland, let's find him.",
+   "ro": "Weyland, hai să-l găsim."
+  },
+  {
+   "key": "1703817841075003392",
+   "en": "Gotta find Weyland. Time's tight.",
+   "ro": "Trebuie să-l găsim pe Weyland. Nu avem mult timp."
+  },
+  {
+   "key": "1703824645595045888",
+   "en": "Agreed.",
+   "ro": "Clar."
+  },
+  {
+   "key": "1830157220754096128",
+   "en": "Shit, great! They jammed the elevators.",
+   "ro": "Rahat, grozav! Au blocat lifturile."
+  },
+  {
+   "key": "1830160637769678848",
+   "en": "You and your fucking ego.",
+   "ro": "Tu și ego-ul tău nenorocit."
+  },
+  {
+   "key": "1883848372864950272",
+   "en": "Hey… you still breathin'?",
+   "ro": "Hei… mai respiri?"
+  },
+  {
+   "key": "1883849389379690496",
+   "en": "Weyland never jumped. Crashed by the waterfall.",
+   "ro": "Weyland n-a sărit niciodată. S-a prăbușit lângă cascadă."
+  },
+  {
+   "key": "1883850914395070468",
+   "en": "Let's go get him.",
+   "ro": "Hai să-l luăm."
+  },
+  {
+   "key": "1883853045755813888",
+   "en": "He'll manage on his own.",
+   "ro": "Se descurcă singur."
+  },
+  {
+   "key": "1883853183362539520",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1883853194804600832",
+   "en": "Don't have the time to waste. He'll be fine.",
+   "ro": "N-avem timp de pierdut. Se descurcă el."
+  },
+  {
+   "key": "1883853660087132160",
+   "en": "Almost forgot what an asshole you are. Fine, do what you want, but I'm helpin' Weyland.",
+   "ro": "Aproape că uitasem ce jigodie ești. Bine, fă cum vrei, dar eu îl ajut pe Weyland."
+  },
+  {
+   "key": "1883860371392962560",
+   "en": "I'll try to reestablish contact with him, then find someone who's got access for the elevator going down.",
+   "ro": "Încerc să reiau contactul cu el, apoi găsesc pe cineva cu acces la liftul care coboară."
+  },
+  {
+   "key": "1883892735666036736",
+   "en": "I've reached Weyland.",
+   "ro": "Am reușit să-l contactez pe Weyland."
+  },
+  {
+   "key": "1883895866982408192",
+   "en": "Finally, let's get to work. Hey, Weyland, you hear me?",
+   "ro": "În sfârșit, hai să ne apucăm de treabă. Hei, Weyland, mă auzi?"
+  },
+  {
+   "key": "1883895893540741120",
+   "en": "Head for the waterfall. Waiting for you there.",
+   "ro": "Du-te spre cascadă. Te aștept acolo."
+  },
+  {
+   "key": "1883896993622794240",
+   "en": "Loud an' clear. Door's all mine.",
+   "ro": "Tare și clar. Ușa e a mea."
+  },
+  {
+   "key": "1883897453872160768",
+   "en": "We each get one. Johnny, choice is yours.",
+   "ro": "Luăm câte unul fiecare. Johnny, alegi tu."
+  },
+  {
+   "key": "1883923455016968192",
+   "en": "Let's find an ace among all these suits, grab the access shard from his cold, dead hands, and get outta this fucking jungle.",
+   "ro": "Hai să găsim un as printre toți costumații ăștia, să luăm shard-ul de acces din mâinile lui reci și moarte și să ieșim din jungla asta nenorocită."
+  },
+  {
+   "key": "1883923478421184512",
+   "en": "Need an access token to get outta here. We'll find one on an officer.",
+   "ro": "Îmi trebuie un token de acces să ies de aici. Găsim unul la vreun ofițer."
+  },
+  {
+   "key": "1883924048594870272",
+   "en": "Way ahead of ya.",
+   "ro": "Deja m-am prins."
+  },
+  {
+   "key": "1883924540637061120",
+   "en": "Oh goddamn it, knew I forgot somethin'. Well, I know where we can find one, already stiff.",
+   "ro": "Mama dracului, știam eu că am uitat ceva. Păi, știu unde găsim unul, deja e țeapăn."
+  },
+  {
+   "key": "1884002335950118912",
+   "en": "See that one? A high-ranker, holding the access we need.",
+   "ro": "Ăla de colo? Un șef mare, are accesul de care avem nevoie."
+  },
+  {
+   "key": "1884003087468732416",
+   "en": "All yours, Johnny.",
+   "ro": "E al tău, Johnny."
+  },
+  {
+   "key": "1884005626801037312",
+   "en": "Good to go. Johnny, do the honors.",
+   "ro": "Gata. Johnny, fă onorurile."
+  },
+  {
+   "key": "1884896731734220800",
+   "en": "As Spider Murphy loved to say… \"Look what the cat dragged in.\"",
+   "ro": "Cum zicea Spider Murphy mereu… „Uite ce-a adus pisica.”"
+  },
+  {
+   "key": "1884899799112622080",
+   "en": "Let's grab the access token and make for the elevator.",
+   "ro": "Hai să luăm tokenul și să ne facem la lift."
+  },
+  {
+   "key": "1885344966399500288",
+   "en": "Move your asses! I need backup!",
+   "ro": "Hai, mișcați-vă! Îmi trebuie întăriri!"
+  },
+  {
+   "key": "1885344974200905728",
+   "en": "You piece of shit – Weyland's dead!",
+   "ro": "Jegosule – Weyland e mort!"
+  },
+  {
+   "key": "1885350755243663360",
+   "en": "Found a way through by the elevator. Come find me.",
+   "ro": "Am găsit o cale pe lângă lift. Vino după mine."
+  },
+  {
+   "key": "1885350763699380224",
+   "en": "Found a way through by the elevator. Waitin' on you two.",
+   "ro": "Am găsit o cale pe lângă lift. Vă aștept pe amândoi."
+  },
+  {
+   "key": "1885371675677040640",
+   "en": "Go. But keep your eyes lookin' three-sixty.",
+   "ro": "Du-te. Dar ai ochii în patru."
+  },
+  {
+   "key": "1885404138432372736",
+   "en": "I'm downstairs. C'mon.",
+   "ro": "Sunt la parter. Hai."
+  },
+  {
+   "key": "1886379122415902720",
+   "en": "Guards.",
+   "ro": "Gărzi."
+  },
+  {
+   "key": "1886398579590832128",
+   "en": "Gonna take the cover route. Meet up at the AV.",
+   "ro": "Iau pe sub acoperire. Ne vedem la AV."
+  },
+  {
+   "key": "1886398803902210048",
+   "en": "Slippin' by's an option, and so is takin' 'em out all at once. I'll follow your lead.",
+   "ro": "Ne strecurăm sau îi luăm pe toți deodată, cum zici tu. Te urmez."
+  },
+  {
+   "key": "1886424714617823232",
+   "en": "OK, to the bird.",
+   "ro": "OK, spre pasăre."
+  },
+  {
+   "key": "1886428196057915392",
+   "en": "Just keep scoutin' around, asshole. Me – I'm getting Weyland back.",
+   "ro": "Tu continuă cercetarea, nesimțitule. Eu îl scot pe Weyland de acolo."
+  },
+  {
+   "key": "1893706234298638336",
+   "en": "Yo, slick skin.",
+   "ro": "Yo, piele netedă."
+  },
+  {
+   "key": "1893706699597946880",
+   "en": "From a half-reptile, I'll take that as a compliment.",
+   "ro": "De la un semireptil, o iau ca pe un compliment."
+  },
+  {
+   "key": "1902225504179593216",
+   "en": "Occupied at the term…",
+   "ro": "Ocupat la terminal…"
+  },
+  {
+   "key": "1907072280166408192",
+   "en": "They spotted us!",
+   "ro": "Ne-au văzut!"
+  },
+  {
+   "key": "1907073202175090692",
+   "en": "Well, was good while it lasted…",
+   "ro": "Ei, a fost fain cât a durat…"
+  },
+  {
+   "key": "1907073221972205572",
+   "en": "We've been made!",
+   "ro": "Ne-au prins!"
+  },
+  {
+   "key": "1912861464823078912",
+   "en": "Over here.",
+   "ro": "Aici."
+  },
+  {
+   "key": "1912861662743896064",
+   "en": "Hey, boy scout…",
+   "ro": "Hei, cercetașule…"
+  },
+  {
+   "key": "1914431701460721664",
+   "en": "See if we can't use this term somehow.",
+   "ro": "Să vedem dacă putem folosi terminalul ăsta cumva."
+  },
+  {
+   "key": "1914432136376492032",
+   "en": "Time for a classic.",
+   "ro": "E timpul pentru un clasic."
+  },
+  {
+   "key": "1914433962039582724",
+   "en": "Nighty night.",
+   "ro": "Noapte bună."
+  },
+  {
+   "key": "1914433985309581316",
+   "en": "Let there be fog.",
+   "ro": "Să vină ceața."
+  },
+  {
+   "key": "1949049036028780544",
+   "en": "Got the access token. Now, the elevator.",
+   "ro": "Am luat tokenul de acces. Acum, liftul."
+  },
+  {
+   "key": "1988081562063740928",
+   "en": "Initiating \"Hayabusa\" protocol.",
+   "ro": "Se inițiază protocolul „Hayabusa”."
+  },
+  {
+   "key": "1988083559961731072",
+   "en": "The facility is in lockdown.",
+   "ro": "Facilitatea e în lockdown."
+  },
+  {
+   "key": "1988083780498235392",
+   "en": "Security personnel must report to designated zones.",
+   "ro": "Personalul de securitate se prezintă în zonele desemnate."
+  },
+  {
+   "key": "1988192750797856768",
+   "en": "Intruder detected.",
+   "ro": "Intrus detectat."
+  },
+  {
+   "key": "2056082450839789568",
+   "en": "Ugh… Fuck me...",
+   "ro": "Ugh… Futu-i…"
+  },
+  {
+   "key": "2056215078725246976",
+   "en": "Yeah? Nice work. Let's go.",
+   "ro": "Da? Bună treabă. Hai să mergem."
+  },
+  {
+   "key": "2056220515147210752",
+   "en": "Let's go pay our respects.",
+   "ro": "Hai să-i pomenim."
+  },
+  {
+   "key": "2056236177550761984",
+   "en": "Meet me in the atrium NOW, or you'll regret it!",
+   "ro": "Vino în atriu ACUM, sau o să-ți pară rău!"
+  },
+  {
+   "key": "2401210881093066756",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_12_chicken_test.json",
+ "entries": [
+  {
+   "key": "3018479473458753540",
+   "en": "[db_db]Motel",
+   "ro": "[db_db]Motel"
+  },
+  {
+   "key": "3018479776069398528",
+   "en": "[db_db]Diner",
+   "ro": "[db_db]Diner"
+  },
+  {
+   "key": "3018480075978911744",
+   "en": "[db_db]Car chase",
+   "ro": "[db_db]Urmărire cu mașina"
+  }
+ ]
+}

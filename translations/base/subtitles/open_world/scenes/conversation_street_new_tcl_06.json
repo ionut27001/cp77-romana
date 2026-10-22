@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_06.json",
+ "entries": [
+  {
+   "key": "2276539732191256588",
+   "en": "<kiroshi l=\"jpn\" o=\"背骨がきしむ… これはお告げだ。今日は敵が襲ってこないか、雨が降る。そのどっちかだな\" t=\"Fuck, my spine... Gotta be a sign – either they're hitting us today, or it's gonna rain.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"背骨がきしむ… これはお告げだ。今日は敵が襲ってこないか、雨が降る。そのどっちかだな\" t=\"Futu-i, spatele... Asta-i semn – ori ne atacă azi, ori plouă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539732208033792",
+   "en": "<kiroshi l=\"jpn\" o=\"へえ、そりゃ一刻も早くみんなに教えてやらねえと\" t=\"You don't say? I better let the whole gang know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"へえ、そりゃ一刻も早くみんなに教えてやらねえと\" t=\"Nu mai zici! Mai bine îi anunț pe toți din bandă.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

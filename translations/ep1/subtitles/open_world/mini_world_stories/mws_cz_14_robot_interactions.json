@@ -1,0 +1,40 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\mini_world_stories\\mws_cz_14_robot_interactions.json",
+ "entries": [
+  {
+   "key": "3865358963007942656",
+   "en": "%%%&&&%!$@{o.o}!",
+   "ro": "%%%&&&%!$@{o.o}!"
+  },
+  {
+   "key": "3873808227522441216",
+   "en": "%%%&&&%!$@{=o=}!!!",
+   "ro": "%%%&&&%!$@{=o=}!!!"
+  },
+  {
+   "key": "3873809643938902016",
+   "en": "%%%&&&%!$@{T.T}",
+   "ro": "%%%&&&%!$@{T.T}"
+  },
+  {
+   "key": "3915941128833462276",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "3925937964738539524",
+   "en": "[Wipe the robot's memory]",
+   "ro": "[Șterge memoria robotului]"
+  },
+  {
+   "key": "3925939306597052416",
+   "en": "[Leave the robot be]",
+   "ro": "[Lasă robotul în pace]"
+  },
+  {
+   "key": "3925939386758590464",
+   "en": "[Reprogram the robot]",
+   "ro": "[Reprogramează robotul]"
+  }
+ ]
+}

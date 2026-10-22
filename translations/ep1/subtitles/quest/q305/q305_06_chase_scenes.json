@@ -1,0 +1,498 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_06_chase_scenes.json",
+ "entries": [
+  {
+   "key": "3052356606504079360",
+   "en": "Gaze into the abyss, you'll find the abyss starin' right back atcha.",
+   "ro": "Dacă te uiți mult în hău, hăul se uită și el la tine."
+  },
+  {
+   "key": "3052361247165911040",
+   "en": "And I don't like the look it's givin' me – the kind that says there ain't no comin' back.",
+   "ro": "Și nu-mi place privirea pe care mi-o dă – aia care spune că nu mai e cale de întoarcere."
+  },
+  {
+   "key": "3052364382492037120",
+   "en": "Any more pearls of wisdom in that noggin?",
+   "ro": "Mai ai perle de înțelepciune în căpățâna aia?"
+  },
+  {
+   "key": "3052364577007079424",
+   "en": "No choice in the matter. No going back.",
+   "ro": "N-am de ales. Nu mai e cale de întoarcere."
+  },
+  {
+   "key": "3052370327548858368",
+   "en": "Why's it always doom and gloom with you? How 'bout – \"What doesn't kill you makes you stronger\"?",
+   "ro": "De ce e mereu numai nenorociri cu tine? Și dacă zici: „Ce nu te omoară te face mai puternic”?"
+  },
+  {
+   "key": "3052370796404936704",
+   "en": "Don't got a choice, not really.",
+   "ro": "N-am de ales, nu prea."
+  },
+  {
+   "key": "3052371533176377344",
+   "en": "Always got a choice, V. Like the choice to delta the fuck outta here, for one.",
+   "ro": "Mereu ai de ales, V. De pildă, să o tai dracu' de-aici."
+  },
+  {
+   "key": "3052372509560016896",
+   "en": "Try this on for size – \"Go up against monsters, best make sure you don't turn into one too.\"",
+   "ro": "Încearcă asta: „Dacă te bați cu monștri, ai grijă să nu ajungi și tu unul.”"
+  },
+  {
+   "key": "3090958016942313472",
+   "en": "Lookin' at a wall with a huge hole in it. Truck rammed clean through.",
+   "ro": "Văd un perete cu o gaură cât casa-n el. Un camion a trecut prin el ca prin unt."
+  },
+  {
+   "key": "3090959520516411392",
+   "en": "Stay sharp.",
+   "ro": "Fii pe fază."
+  },
+  {
+   "key": "3090969070074204160",
+   "en": "And So Mi's status?",
+   "ro": "Și So Mi, cum stă?"
+  },
+  {
+   "key": "3090972327957893120",
+   "en": "Song's not here. Truck's empty.",
+   "ro": "Song nu e aici. Camionul e gol."
+  },
+  {
+   "key": "3090977517989662720",
+   "en": "Got eyes on a MaxTac officer. Or his remains, well-done.",
+   "ro": "Am un ofițer MaxTac la vedere. Sau ce-a mai rămas din el."
+  },
+  {
+   "key": "3090978017648709632",
+   "en": "Song's doing, it's gotta be.",
+   "ro": "Cu siguranță e treaba lui Song."
+  },
+  {
+   "key": "3090979529410088960",
+   "en": "Standin' in front of a gate So Mi passed through. It's jammed shut.",
+   "ro": "Stau în fața porții pe unde a trecut So Mi. E blocată."
+  },
+  {
+   "key": "3090980365368430592",
+   "en": "There's gotta be another way. Look around.",
+   "ro": "Trebuie să fie altă cale. Uită-te prin jur."
+  },
+  {
+   "key": "3094183806299729920",
+   "en": "You have eyes on her? Is she OK?",
+   "ro": "O vezi? E bine?"
+  },
+  {
+   "key": "3094184012558823424",
+   "en": "No visual yet. Need to scope the place out.",
+   "ro": "Nu se vede nimic încă. Trebuie să cercetez zona."
+  },
+  {
+   "key": "3094187498209996800",
+   "en": "Crash like this, be a miracle if she wasn't mangled…",
+   "ro": "După un accident ca ăsta, ar fi miracol să nu fie făcută praf…"
+  },
+  {
+   "key": "3094188442163277824",
+   "en": "Shit... Help her, V. Quick.",
+   "ro": "Rahat... Ajut-o, V. Repede."
+  },
+  {
+   "key": "3094196179211317248",
+   "en": "She lost control completely? Thoughts?",
+   "ro": "A pierdut controlul de tot? Ce zici?"
+  },
+  {
+   "key": "3094196456219930624",
+   "en": "Dunno, do not know.",
+   "ro": "Nu știu, habar n-am."
+  },
+  {
+   "key": "3094197378715152384",
+   "en": "Follow 'er, stay on her. I'll make my way towards you.",
+   "ro": "Ține-o pe urmele ei. Vin spre tine."
+  },
+  {
+   "key": "3101095452372824064",
+   "en": "Sure you wanna do this?",
+   "ro": "Sigur vrei să faci asta?"
+  },
+  {
+   "key": "3101101049956724736",
+   "en": "S'posed to be about me, that?",
+   "ro": "Despre mine era vorba?"
+  },
+  {
+   "key": "3101101128239214592",
+   "en": "Bout Songbird, ya ding-dong. I gotta explain every little fuckin' thing?",
+   "ro": "Despre Songbird, boule. Chiar trebuie să-ți explic tot rahatul ăsta?"
+  },
+  {
+   "key": "3101101540019204096",
+   "en": "Chick sold her soul to the Blackwall demons, now she's down there waitin' for you. Question is – is she still herself?",
+   "ro": "Tipa și-a vândut sufletul demonilor Blackwall-ului, acum e acolo jos și te așteaptă. Întrebarea e – mai e ea însăși?"
+  },
+  {
+   "key": "3101102449075875840",
+   "en": "Guess we're about to find out.",
+   "ro": "Cred că o să aflăm."
+  },
+  {
+   "key": "3101105613812461568",
+   "en": "Come too far, Johnny. Remember what's at stake. We don't get to Song, we don't get the help Reed promised us.",
+   "ro": "Ne-am băgat prea adânc, Johnny. Ține minte ce e pe masă. Dacă nu ajungem la Song, nu primim ajutorul pe care ni l-a promis Reed."
+  },
+  {
+   "key": "3101106655476248576",
+   "en": "Oh, I remember. Question is if whatever's down there is still the Songbird we know and love.",
+   "ro": "A, știu. Întrebarea e dacă ce e acolo jos mai e Songbird-ul pe care îl știm și îl iubim."
+  },
+  {
+   "key": "3101107713665593344",
+   "en": "Find out soon enough.",
+   "ro": "Aflăm destul de curând."
+  },
+  {
+   "key": "3121326649065213976",
+   "en": "Hold on, I see the truck. Does not look good.",
+   "ro": "Stai puțin, văd camionul. Nu arată bine."
+  },
+  {
+   "key": "3121331346148823052",
+   "en": "See the truck, Reed. Does not look pretty.",
+   "ro": "Văd camionul, Reed. Nu arată prea bine."
+  },
+  {
+   "key": "3153640544756699136",
+   "en": "Overloaded, short-circ'd just before I got here.",
+   "ro": "Supraîncărcat, scurtcircuitat chiar înainte să ajung aici."
+  },
+  {
+   "key": "3153640629213204480",
+   "en": "Gate's jammed. Console's freshly breached. Looks like more So Mi…",
+   "ro": "Poarta e blocată. Consola e proaspăt spartă. Pare treaba lui So Mi iar…"
+  },
+  {
+   "key": "3153640701288124416",
+   "en": "Hmm, tried to activate the winch, but no dice. That mean... she jumped?",
+   "ro": "Hm, am încercat să pornesc troliul, dar nu merge. Asta înseamnă... că a sărit?"
+  },
+  {
+   "key": "3153640846058721280",
+   "en": "Seein' somethin'. A… a digital... residue? Spooky aura, a… a spectral footprint…?",
+   "en_m": "Seein' somethin'. A digital... residue? Spooky aura, spectral footprint…?",
+   "ro": "Văd ceva. Un... un reziduu digital? Aură înfiorătoare, o... o amprentă spectrală...?"
+  },
+  {
+   "key": "3153641174590164992",
+   "en": "Seein' more hacked devices. She's lookin' for access. Question is, to what?",
+   "ro": "Văd mai multe dispozitive hack-uite. Caută acces. Întrebarea e, la ce?"
+  },
+  {
+   "key": "3153645663015538688",
+   "en": "Circuitry down here's toast. All of it.",
+   "ro": "Circuitele de aici sunt prăjite. Toate."
+  },
+  {
+   "key": "3153647283342282752",
+   "en": "She's scorchin' tech as she passes. Got a sinkin' feelin' she's no longer in complete control of her... self.",
+   "ro": "Prăjește tehnologia pe unde trece. Cred că nu mai are controlul complet asupra... ei înseși."
+  },
+  {
+   "key": "3154664084734144512",
+   "en": "It's her. She can't've gone far.",
+   "ro": "Ea e. Nu poate fi departe."
+  },
+  {
+   "key": "3154666589136285696",
+   "en": "From the crash?",
+   "ro": "De la accident?"
+  },
+  {
+   "key": "3154666778098069504",
+   "en": "Sabotage, more like. Dead certain So Mi hacked these systems.",
+   "ro": "Mai degrabă sabotaj. Sunt sigur că So Mi a hack-uit sistemele astea."
+  },
+  {
+   "key": "3154671422316670976",
+   "en": "So Mi, where are you... Keep going, V. Don't let her get too far.",
+   "ro": "So Mi, unde ești... Continuă, V. Nu o lăsa să ajungă prea departe."
+  },
+  {
+   "key": "3154673801309122560",
+   "en": "No clue... Whatever it is, I'm liking it less and less.",
+   "ro": "Habar n-am... Orice-o fi, îmi place tot mai puțin."
+  },
+  {
+   "key": "3154675513524678656",
+   "en": "Might not be Song anymore, true. Which means she needs our help. Hurry, V, find her.",
+   "ro": "S-ar putea să nu mai fie Song, recunosc. Deci are nevoie de ajutorul nostru. Grăbește-te, V, găsește-o."
+  },
+  {
+   "key": "3192836691094016004",
+   "en": "Somethin's not right, gate's busted…",
+   "ro": "Ceva nu-i în regulă, poarta e spartă…"
+  },
+  {
+   "key": "3300255479715729408",
+   "en": "[Check inside]",
+   "ro": "[Verifică înăuntru]"
+  },
+  {
+   "key": "3302826505490272260",
+   "en": "Console's fried...",
+   "ro": "Consola e arsă..."
+  },
+  {
+   "key": "3302826914468466688",
+   "en": "Circuitry's dead. Blackwall?",
+   "ro": "Circuitele sunt moarte. Blackwall?"
+  },
+  {
+   "key": "3302826943157506048",
+   "en": "Another blocked gate.",
+   "ro": "Încă o poartă blocată."
+  },
+  {
+   "key": "3302826981090791424",
+   "en": "Winch...?",
+   "ro": "Troliu...?"
+  },
+  {
+   "key": "3305866194103177224",
+   "en": "Remember, V. As long as So Mi's alive, we stand a chance of regaining control.",
+   "ro": "Amintește-ți, V. Cât timp So Mi e în viață, mai avem șansa să recuperăm controlul."
+  },
+  {
+   "key": "3305872791525265408",
+   "en": "She's in bad shape, V.",
+   "ro": "E în stare proastă, V."
+  },
+  {
+   "key": "3305874520165715968",
+   "en": "She's overloadin' tech…",
+   "ro": "Supraîncarcă tehnologia…"
+  },
+  {
+   "key": "3305881413605003264",
+   "en": "She's actively linked to the Blackwall. She could lose the control she still has at any second.",
+   "ro": "E conectată la Blackwall chiar acum. Ar putea să-și piardă controlul rămas în orice clipă."
+  },
+  {
+   "key": "3305881846641725440",
+   "en": "Stay safe.",
+   "ro": "Ai grijă de tine."
+  },
+  {
+   "key": "3305882725398745092",
+   "en": "I will.",
+   "ro": "O să o fac."
+  },
+  {
+   "key": "3305882995495145472",
+   "en": "Same goes for you.",
+   "ro": "La fel și tu."
+  },
+  {
+   "key": "3305883505673506816",
+   "en": "Will do.",
+   "ro": "Așa fac."
+  },
+  {
+   "key": "3305885714712760320",
+   "en": "Yeah, you too.",
+   "ro": "Da, și tu."
+  },
+  {
+   "key": "3305888478373220352",
+   "en": "I'll be fine. I'll rejoin you soon as I'm back on my feet. You keep moving.",
+   "ro": "O să fiu bine. Vin și eu imediat ce mă pun pe picioare. Tu continuă."
+  },
+  {
+   "key": "3305889063176638464",
+   "en": "I'll fix myself up, regroup with you as soon as I can. Stay in touch.",
+   "ro": "Mă pun pe picioare, mă regrupez cu tine cât de curând pot. Ține legătura."
+  },
+  {
+   "key": "3306968481051578380",
+   "en": "Bring her out alive, V. If I'm to help her, if I'm to help you, I need her alive.",
+   "ro": "Scoate-o vie, V. Dacă vreau s-o ajut și să te ajut pe tine, trebuie să rămână vie."
+  },
+  {
+   "key": "3306968481051578396",
+   "en": "All clear.",
+   "ro": "Totul curat."
+  },
+  {
+   "key": "3306970427946831896",
+   "en": "You're seein' it thanks to you and So Mi's link. The Blackwall bleed should lead us straight to her.",
+   "ro": "Vezi asta datorită legăturii tale cu So Mi. Sângerarea Blackwall-ului ar trebui să ne ducă direct la ea."
+  },
+  {
+   "key": "3306972417741426708",
+   "en": "Uh, Reed?",
+   "ro": "Ăă, Reed?"
+  },
+  {
+   "key": "3306999023369326592",
+   "en": "Screw it. Open sesame.",
+   "ro": "Dă-o naibii. Deschide-te, susamule."
+  },
+  {
+   "key": "3317132002523475968",
+   "en": "Hurry! We can't afford to lose her!",
+   "ro": "Repede! Nu putem s-o pierdem!"
+  },
+  {
+   "key": "3317349648414142464",
+   "en": "What the fuck're you doing? You're seriously gonna abandon me now, V?!",
+   "ro": "Ce pula mea faci? Chiar o să mă lași baltă acum, V?!"
+  },
+  {
+   "key": "3327149370163523584",
+   "en": "Blackwall-related, gotta be. She's opened… something.",
+   "en_m": "Blackwall-related, gotta be. She's opened something.",
+   "ro": "Legat de Blackwall, sigur. A deschis… ceva."
+  },
+  {
+   "key": "3327153760710619136",
+   "en": "Using some of that Blackwall mojo.",
+   "ro": "Folosește ceva din magia aia Blackwall."
+  },
+  {
+   "key": "3344480953077788672",
+   "en": "We don't know her condition. She could be hurt. She could be terrified. Ya gotta find her, V.",
+   "ro": "Nu știm în ce stare e. Poate e rănită. Poate e speriată de moarte. Trebuie s-o găsești, V."
+  },
+  {
+   "key": "3349170526520995840",
+   "en": "Bitch, you blind or what?",
+   "ro": "Curvo, ești oarbă sau ce?"
+  },
+  {
+   "key": "3349170829416853504",
+   "en": "Great. Whole day's goin' to shit 'cause of this fuckin' mess.",
+   "ro": "Super. Toată ziua se duce de râpă din cauza căcaturii ăsteia nenorocite."
+  },
+  {
+   "key": "3349175191778226176",
+   "en": "Shit, I dunno… Feelin' kinda woozy…",
+   "ro": "Căcat, nu știu… Mă simt cam amețit…"
+  },
+  {
+   "key": "3349175507760312320",
+   "en": "Who taught you how to fuckin' drive? There were two cars in the road. Two! And you ram straight into my ass!",
+   "ro": "Cine dracu' te-a învățat să conduci? Erau două mașini pe drum. Două! Și mi-ai intrat direct în spate!"
+  },
+  {
+   "key": "3349177547249020928",
+   "en": "Ya didn't see what happened, ya jackass? Truck cut me off! The hell was I supposed to do?!",
+   "ro": "N-ai văzut ce s-a întâmplat, boule? Camionul mi-a tăiat calea! Ce naiba era să fac?!"
+  },
+  {
+   "key": "3349177755353608192",
+   "en": "Fuckin' MaxTac. Called Psychosquad 'cause they's a bunch o' psychos themselves.",
+   "ro": "MaxTac, nenorociții dracu'. Au chemat Psychosquad, ca și cum ei n-ar fi o haită de psycho."
+  },
+  {
+   "key": "3349178423405572096",
+   "en": "Who gives a fuck? Payin' us by the hour, not the mile. 'Sides, you see what MaxTac pulled? Shit's unreal, man.",
+   "ro": "Cui îi pasă, pula mea? Ne plătesc pe oră, nu pe kilometru. Și ai văzut ce-a făcut MaxTac? Ireal, frate."
+  },
+  {
+   "key": "3349179930855206912",
+   "en": "Unbelievable. What gives them the right? They're meant to protect people!",
+   "ro": "Pe bune. Cu ce drept? Ei ar trebui să apere oamenii!"
+  },
+  {
+   "key": "3349180432158420992",
+   "en": "Choom, you fuckin' serious? MaxTac pushed me into you – I wasn't moving, I was stationary!",
+   "ro": "Choom, vorbești serios, dracu'? MaxTac m-a împins în tine – nu mă mișcam, stăteam pe loc!"
+  },
+  {
+   "key": "3349180595182628864",
+   "en": "I look like I give a shit?! You take your ass down to that fucking hole, get me insurance information. Fuck!",
+   "ro": "Arăt eu că mă doare-n cur?! Du-te dracu' în groapa aia de căcat și adu-mi datele de asigurare. Futu-i!"
+  },
+  {
+   "key": "3359155322590289920",
+   "en": "See anything?",
+   "ro": "Vezi ceva?"
+  },
+  {
+   "key": "3360431592672784384",
+   "en": "Think I'm gonna hurl…",
+   "ro": "Cred că o să vomit…"
+  },
+  {
+   "key": "3360432794340880384",
+   "en": "Ugh, got this, like, sharp pain in my side…",
+   "ro": "Ugh, am o durere ascuțită într-o parte…"
+  },
+  {
+   "key": "3360432894198870016",
+   "en": "But nooo! It's Dogtown, so they run over us like trash and think nothing of it!",
+   "ro": "Dar nuuu! E Dogtown, deci ne trec peste noi ca peste gunoi și nici nu clipesc!"
+  },
+  {
+   "key": "3404283816204693504",
+   "en": "Rammed through the wall like it was cardboard. Bam! And inside.",
+   "ro": "A spart peretele ca pe carton. Bam! Și-a intrat înăuntru."
+  },
+  {
+   "key": "3404296128063991808",
+   "en": "Armored truck? Someone hack it…?",
+   "ro": "Camion blindat? L-a hack-uit cineva…?"
+  },
+  {
+   "key": "3485620764160159744",
+   "en": "See traces... Blackwall residue. Song's not in the truck. Goin' after her.",
+   "ro": "Văd urme... reziduu Blackwall. Song nu e în camion. Mă duc după ea."
+  },
+  {
+   "key": "3517488678819459072",
+   "en": "Ah, shit...",
+   "ro": "Ah, căcat..."
+  },
+  {
+   "key": "3517489983801651204",
+   "en": "Reed, Song rammed into the wall…",
+   "ro": "Reed, Song a intrat în perete…"
+  },
+  {
+   "key": "3517502363591897088",
+   "en": "Song...",
+   "ro": "Song..."
+  },
+  {
+   "key": "3688337951311130624",
+   "en": "Not lookin' good…",
+   "ro": "Nu arată bine…"
+  },
+  {
+   "key": "3955040332303818752",
+   "en": "Huh...",
+   "ro": "Hm..."
+  },
+  {
+   "key": "4107179781408026640",
+   "en": "You're dead now, friend.",
+   "ro": "Ești moartă acum, prietenă.",
+   "ro_m": "Ești mort acum, prietene."
+  },
+  {
+   "key": "4107180805539622928",
+   "en": "Where’re you off to?",
+   "ro": "Unde te duci?"
+  },
+  {
+   "key": "4107181214467485708",
+   "en": "V, what’s going on!?",
+   "ro": "V, ce se întâmplă!?"
+  }
+ ]
+}

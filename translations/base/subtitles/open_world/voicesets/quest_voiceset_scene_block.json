@@ -1,0 +1,50 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\quest_voiceset_scene_block.json",
+ "entries": [
+  {
+   "key": "1788104055966957572",
+   "en": "[db_db]Voiceset Greeting B",
+   "ro": "[db_db]Voiceset Greeting B"
+  },
+  {
+   "key": "1788104056067620864",
+   "en": "Your undivided attention, please.",
+   "ro": "Vă rog, atenția dumneavoastră nedivizată."
+  },
+  {
+   "key": "1788104056084398084",
+   "en": "Shall we continue?",
+   "ro": "Continuăm?"
+  },
+  {
+   "key": "1788104056134729732",
+   "en": "Please, make yourself at home.",
+   "ro": "Vă rog, simțiți-vă ca acasă."
+  },
+  {
+   "key": "1788104056151506948",
+   "en": "A happy return, indeed.",
+   "ro": "O întoarcere fericită, într-adevăr."
+  },
+  {
+   "key": "1788104056168284164",
+   "en": "V, our business grows cold.",
+   "ro": "V, afacerea noastră se răcește."
+  },
+  {
+   "key": "1788104056201838596",
+   "en": "Tick-tock. Time waits for no man.",
+   "ro": "Tic-tac. Timpul nu așteaptă pe nimeni."
+  },
+  {
+   "key": "1788118415116369920",
+   "en": "[db_db]Voiceset Bump A",
+   "ro": "[db_db]Voiceset Bump A"
+  },
+  {
+   "key": "1788118694406684672",
+   "en": "[db_db]Voiceset Bump B",
+   "ro": "[db_db]Voiceset Bump B"
+  }
+ ]
+}

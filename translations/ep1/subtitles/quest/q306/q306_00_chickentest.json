@@ -1,0 +1,520 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_00_chickentest.json",
+ "entries": [
+  {
+   "key": "2999649222373388292",
+   "en": "[db_db]Test Isolated Quest [No Additional Elements]",
+   "ro": "[db_db]Testare quest izolat [Fără elemente suplimentare]"
+  },
+  {
+   "key": "2999674616703070208",
+   "en": "[db_db]Test Quest as in Game",
+   "ro": "[db_db]Testare quest ca în joc"
+  },
+  {
+   "key": "2999681320241049604",
+   "en": "[db_db]0. Holocalls & meeting SOMI...",
+   "ro": "[db_db]0. Holocall-uri și întâlnirea cu SOMI..."
+  },
+  {
+   "key": "2999685834553667584",
+   "en": "[db_db]1. Main Hall (public)...",
+   "ro": "[db_db]1. Sala principală (public)..."
+  },
+  {
+   "key": "2999686095791697920",
+   "en": "[db_db]2. Moon Terminal (restricted)",
+   "ro": "[db_db]2. Terminalul lunar (restricționat)"
+  },
+  {
+   "key": "2999686282404671488",
+   "en": "[db_db]More ...",
+   "ro": "[db_db]Mai multe ..."
+  },
+  {
+   "key": "2999688356068569088",
+   "en": "[db_db]6. Moon Terminal (revisited)",
+   "ro": "[db_db]6. Terminalul lunar (revizitat)"
+  },
+  {
+   "key": "2999688356068569100",
+   "en": "[db_db]7. Duty Free Shop",
+   "ro": "[db_db]7. Magazin duty free"
+  },
+  {
+   "key": "2999688356068569112",
+   "en": "[db_db]8. Viewing Gallery (chopper)",
+   "ro": "[db_db]8. Galeria de vizionare (elicopter)"
+  },
+  {
+   "key": "2999688356085346304",
+   "en": "[db_db]More...",
+   "ro": "[db_db]Mai multe..."
+  },
+  {
+   "key": "2999693331150647296",
+   "en": "[db_db]10. Maglev Station...",
+   "ro": "[db_db]10. Stație de maglev..."
+  },
+  {
+   "key": "2999693331150647308",
+   "en": "[db_db]11. Blackwall Channeling",
+   "ro": "[db_db]11. Canalizarea Blackwall"
+  },
+  {
+   "key": "2999693331150647320",
+   "en": "[db_db]12. Tram Ride",
+   "ro": "[db_db]12. Călătorie cu tramvaiul"
+  },
+  {
+   "key": "2999701053417959428",
+   "en": "[db_db]A. Quick Start",
+   "ro": "[db_db]A. Pornire rapidă"
+  },
+  {
+   "key": "2999701575357149184",
+   "en": "[db_db]B. Start <> NUSA attack...",
+   "ro": "[db_db]B. Start <> atac NUSA..."
+  },
+  {
+   "key": "2999701963028279296",
+   "en": "[db_db]C. NUSA attack <> Maglev Station...",
+   "ro": "[db_db]C. Atac NUSA <> Stație de maglev..."
+  },
+  {
+   "key": "2999702096138711040",
+   "en": "[db_db]More...",
+   "ro": "[db_db]Mai multe..."
+  },
+  {
+   "key": "2999702454634262528",
+   "en": "[db_db]D. Maglev Station <> Launchpad...",
+   "ro": "[db_db]D. Stație de maglev <> platformă de lansare..."
+  },
+  {
+   "key": "2999702454634262540",
+   "en": "[db_db]E. Launchpad...",
+   "ro": "[db_db]E. Platformă de lansare..."
+  },
+  {
+   "key": "2999702454634262564",
+   "en": "[db_db]More...",
+   "ro": "[db_db]Mai multe..."
+  },
+  {
+   "key": "2999753284917899276",
+   "en": "[db_db]1. [SOMI ENDING] REED dead, SOMI on moon",
+   "ro": "[db_db]1. [FINAL SOMI] REED mort, SOMI pe lună"
+  },
+  {
+   "key": "2999760910749773824",
+   "en": "[db_db]3a. [REED ENDING] REED takes SOMI to FIA from cosmodrome",
+   "ro": "[db_db]3a. [FINAL REED] REED duce SOMI la FIA de la cosmodrom"
+  },
+  {
+   "key": "2999807775839072256",
+   "en": "[db_db]Base Game Additional Elements: ON",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: ACTIVAT"
+  },
+  {
+   "key": "2999807775839072268",
+   "en": "[db_db]Base Game Additional Elements: OFF",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: DEZACTIVAT"
+  },
+  {
+   "key": "2999813838403514368",
+   "en": "[db_db]Base Game Additional Elements: ON",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: ACTIVAT"
+  },
+  {
+   "key": "2999813838403514380",
+   "en": "[db_db]Base Game Additional Elements: OFF",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: DEZACTIVAT"
+  },
+  {
+   "key": "2999822410436816896",
+   "en": "[db_db]Custom Setup..",
+   "ro": "[db_db]Configurare personalizată.."
+  },
+  {
+   "key": "2999878697090527232",
+   "en": "[db_db]Base Game Additional Elements: ON",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: ACTIVAT"
+  },
+  {
+   "key": "2999878697090527244",
+   "en": "[db_db]Base Game Additional Elements: OFF",
+   "ro": "[db_db]Elemente suplimentare din jocul de bază: DEZACTIVAT"
+  },
+  {
+   "key": "3094032934401191936",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3094032934401191948",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3094032934468300800",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3094032934468300812",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3094032934518632448",
+   "en": "[db_db]Did you hack the secret room access point?",
+   "ro": "[db_db]Ai hack-uit punctul de acces secret?"
+  },
+  {
+   "key": "3094032934552186884",
+   "en": "[db_db]Was Orbital Air alerted?",
+   "ro": "[db_db]A fost alertată corporația Orbital Air?"
+  },
+  {
+   "key": "3094035835248947204",
+   "en": "[db_db]3. Roof",
+   "ro": "[db_db]3. Acoperiș"
+  },
+  {
+   "key": "3094036245921640448",
+   "en": "[db_db]4. Myers Arrival",
+   "ro": "[db_db]4. Sosirea lui Myers"
+  },
+  {
+   "key": "3094036364570112000",
+   "en": "[db_db]5. Main Hall (revisited)",
+   "ro": "[db_db]5. Sala principală (revizitată)"
+  },
+  {
+   "key": "3094036629985669120",
+   "en": "[db_db]More...",
+   "ro": "[db_db]Mai multe..."
+  },
+  {
+   "key": "3103279782966046720",
+   "en": "[db_db]Epilogues...",
+   "ro": "[db_db]Epiloguri..."
+  },
+  {
+   "key": "3103340274711506948",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3103340593948372992",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3115827633587728384",
+   "en": "[db_db]Select your epilogue.",
+   "ro": "[db_db]Selectează-ți epilogul."
+  },
+  {
+   "key": "3126207945194844164",
+   "en": "[db_db]Station Approach...",
+   "ro": "[db_db]Apropierea de stație..."
+  },
+  {
+   "key": "3126208452202311680",
+   "en": "[db_db]Control Tower Defence...",
+   "ro": "[db_db]Apărarea turnului de control..."
+  },
+  {
+   "key": "3126209214995214336",
+   "en": "[db_db]Blackwall Scene...",
+   "ro": "[db_db]Scena Blackwall..."
+  },
+  {
+   "key": "3126209450228559872",
+   "en": "[db_db]<- Return",
+   "ro": "[db_db]<- Înapoi"
+  },
+  {
+   "key": "3156527113138163716",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3156527638734786560",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3156527806607609856",
+   "en": "[db_db]Was Orbital Air mobilized (we entered combat during the first visit in Restricted Area)?",
+   "ro": "[db_db]A fost mobilizată corporația Orbital Air (am intrat în luptă la prima vizită în Zona restricționată)?"
+  },
+  {
+   "key": "3227387527268827136",
+   "en": "[db_db]Briefing",
+   "ro": "[db_db]Briefing"
+  },
+  {
+   "key": "3227390202211368960",
+   "en": "[db_db]<- Return",
+   "ro": "[db_db]<- Înapoi"
+  },
+  {
+   "key": "3240805404062613504",
+   "en": "[db_db]Meeting with Song",
+   "ro": "[db_db]Întâlnire cu Song"
+  },
+  {
+   "key": "3240806015625691136",
+   "en": "[db_db]Ride to spaceport part 2 (V drives)",
+   "ro": "[db_db]Drum spre spațioport, partea 2 (V conduce)"
+  },
+  {
+   "key": "3256336829012606976",
+   "en": "[db_db]Spaceport entrance",
+   "ro": "[db_db]Intrare în spațioport"
+  },
+  {
+   "key": "3256336829012606988",
+   "en": "[db_db]Passed security gate",
+   "ro": "[db_db]Trecut de poarta de securitate"
+  },
+  {
+   "key": "3256336829012607000",
+   "en": "[db_db]Failstate cell",
+   "ro": "[db_db]Celulă failstate"
+  },
+  {
+   "key": "3256336829012607024",
+   "en": "[db_db]<- Return",
+   "ro": "[db_db]<- Înapoi"
+  },
+  {
+   "key": "3363660425338531844",
+   "en": "[db_db]Reed postcontent",
+   "ro": "[db_db]Conținut după Reed"
+  },
+  {
+   "key": "3363661630697615360",
+   "en": "[db_db]Songbird postcontent",
+   "ro": "[db_db]Conținut după Songbird"
+  },
+  {
+   "key": "3363663397757890596",
+   "en": "[db_db]Back to TOP ^",
+   "ro": "[db_db]Înapoi la început ^"
+  },
+  {
+   "key": "3363730982826389504",
+   "en": "[db_db]Postcontent...",
+   "ro": "[db_db]Conținut ulterior..."
+  },
+  {
+   "key": "3364865720366641152",
+   "en": "[db_db]Postcontent...",
+   "ro": "[db_db]Conținut ulterior..."
+  },
+  {
+   "key": "3364865720366641164",
+   "en": "[db_db]Back to TOP ^",
+   "ro": "[db_db]Înapoi la început ^"
+  },
+  {
+   "key": "3364868429585035264",
+   "en": "[db_db]Moar...",
+   "ro": "[db_db]Mai mult..."
+  },
+  {
+   "key": "3364868735651786752",
+   "en": "[db_db]Back to MAIN <<",
+   "ro": "[db_db]Înapoi la PRINCIPAL <<"
+  },
+  {
+   "key": "3364869562349105152",
+   "en": "[db_db]Back to START <<",
+   "ro": "[db_db]Înapoi la ÎNCEPUT <<"
+  },
+  {
+   "key": "3407060694642176000",
+   "en": "[db_db]Launchpad",
+   "ro": "[db_db]Platformă de lansare"
+  },
+  {
+   "key": "3407060884644147200",
+   "en": "[db_db]Epilogues",
+   "ro": "[db_db]Epiloguri"
+  },
+  {
+   "key": "3407192206993764356",
+   "en": "[db_db]Credits Test",
+   "ro": "[db_db]Test credite"
+  },
+  {
+   "key": "3407192770943102976",
+   "en": "[db_db]Technical [Feature test - not for Playthrough]",
+   "ro": "[db_db]Tehnic [Test de funcționalitate - nu pentru parcurgere]"
+  },
+  {
+   "key": "3407194241650634752",
+   "en": "[db_db]<<Return",
+   "ro": "[db_db]<<Înapoi"
+  },
+  {
+   "key": "3669317390074306564",
+   "en": "[db_db]Default",
+   "ro": "[db_db]Implicit"
+  },
+  {
+   "key": "3669318149931196416",
+   "en": "[db_db]Custom",
+   "ro": "[db_db]Personalizat"
+  },
+  {
+   "key": "3669319133495484420",
+   "en": "[db_db]Completed SQ031",
+   "ro": "[db_db]SQ031 completat"
+  },
+  {
+   "key": "3669324290727796736",
+   "en": "[db_db]Didn't complete SQ031",
+   "ro": "[db_db]SQ031 neterminat"
+  },
+  {
+   "key": "3669324917474254852",
+   "en": "[db_db]Never slept with Panam",
+   "ro": "[db_db]Nu a dormit niciodată cu Panam"
+  },
+  {
+   "key": "3669325925717827584",
+   "en": "[db_db]Dating Panam",
+   "ro": "[db_db]În relație cu Panam"
+  },
+  {
+   "key": "3669333861424881672",
+   "en": "[db_db]Never slept with Judy",
+   "ro": "[db_db]Nu a dormit niciodată cu Judy"
+  },
+  {
+   "key": "3669333865854066696",
+   "en": "[db_db]Dating Judy",
+   "ro": "[db_db]În relație cu Judy"
+  },
+  {
+   "key": "3669333868974628872",
+   "en": "[db_db]Broke up with Judy",
+   "ro": "[db_db]S-a despărțit de Judy"
+  },
+  {
+   "key": "3669338055359782924",
+   "en": "[db_db]Never slept with River",
+   "ro": "[db_db]Nu a dormit niciodată cu River"
+  },
+  {
+   "key": "3669338059252097032",
+   "en": "[db_db]Dating River",
+   "ro": "[db_db]În relație cu River"
+  },
+  {
+   "key": "3669338062305550344",
+   "en": "[db_db]Broke up with River",
+   "ro": "[db_db]S-a despărțit de River"
+  },
+  {
+   "key": "3669339350711853064",
+   "en": "[db_db]Never slept with Kerry",
+   "ro": "[db_db]Nu a dormit niciodată cu Kerry"
+  },
+  {
+   "key": "3669339354167959560",
+   "en": "[db_db]Dating Kerry",
+   "ro": "[db_db]În relație cu Kerry"
+  },
+  {
+   "key": "3669339357271744520",
+   "en": "[db_db]Broke up with Kerry",
+   "ro": "[db_db]S-a despărțit de Kerry"
+  },
+  {
+   "key": "3669341144498233344",
+   "en": "[db_db]Adopted Nibbles",
+   "ro": "[db_db]A adoptat Nibbles"
+  },
+  {
+   "key": "3669341147350360072",
+   "en": "[db_db]Who's Nibbles?",
+   "ro": "[db_db]Cine e Nibbles?"
+  },
+  {
+   "key": "3669343339343962124",
+   "en": "[db_db]Didn't complete MQ040",
+   "ro": "[db_db]MQ040 neterminat"
+  },
+  {
+   "key": "3669343342179311624",
+   "en": "[db_db]Saved Pepe&Cynthia's marriage",
+   "ro": "[db_db]A salvat căsătoria lui Pepe și Cynthia"
+  },
+  {
+   "key": "3669348485922742272",
+   "en": "[db_db]Caused Pepe&Cynthia's separation",
+   "ro": "[db_db]A provocat separarea lui Pepe și Cynthia"
+  },
+  {
+   "key": "3669369887912550412",
+   "en": "[db_db]Defeated Razor in the finale",
+   "ro": "[db_db]L-a învins pe Razor în final"
+  },
+  {
+   "key": "3669369895210639368",
+   "en": "[db_db]Didn't defeat Razor (lost/didn't complete mq025)",
+   "ro": "[db_db]Nu l-a învins pe Razor (a pierdut/nu a completat mq025)"
+  },
+  {
+   "key": "3669376053489098764",
+   "en": "[db_db]Performed a solo during the concert",
+   "ro": "[db_db]A interpretat un solo în timpul concertului"
+  },
+  {
+   "key": "3669376056492220424",
+   "en": "[db_db]Skipped the solo",
+   "ro": "[db_db]A sărit peste solo"
+  },
+  {
+   "key": "3669377185363976192",
+   "en": "[db_db]Didn't perform with Samurai",
+   "ro": "[db_db]Nu a cântat cu Samurai"
+  },
+  {
+   "key": "3669377914183016456",
+   "en": "[db_db]Talked to the drunk corpo in Konpeki Plaza bar",
+   "ro": "[db_db]A vorbit cu corpoul beat din barul Konpeki Plaza"
+  },
+  {
+   "key": "3669377917924335624",
+   "en": "[db_db]Didn't talk to him",
+   "ro": "[db_db]Nu a vorbit cu el"
+  },
+  {
+   "key": "3669380566862192652",
+   "en": "[db_db]Stepped in front of the N54 camera",
+   "ro": "[db_db]S-a pus în fața camerei N54"
+  },
+  {
+   "key": "3669380569798205448",
+   "en": "[db_db]Didn't mess with Gillean",
+   "ro": "[db_db]Nu s-a amestecat cu Gillean"
+  },
+  {
+   "key": "3708720770378817536",
+   "en": "[db_db]Took Fiona's deal",
+   "ro": "[db_db]A acceptat oferta lui Fiona"
+  },
+  {
+   "key": "3708720809822052352",
+   "en": "[db_db]Didn't take Fiona's deal",
+   "ro": "[db_db]Nu a acceptat oferta lui Fiona"
+  }
+ ]
+}

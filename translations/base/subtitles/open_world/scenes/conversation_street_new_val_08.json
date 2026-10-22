@@ -1,0 +1,21 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_08.json",
+ "entries": [
+  {
+   "key": "2276542007668285456",
+   "en": "<kiroshi l=\"mex\" o=\"Es un policía. Un pinche culero.\" t=\"He's a badge. Gonk as they come.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Es un policía. Un pinche culero.\" t=\"E un polițist. Fraier cât cuprinde.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276542007668285468",
+   "en": "<kiroshi l=\"mex\" o=\"No, pues ahora si que… ¿Hay alguno que no lo sea?\" t=\"They come any other way?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No, pues ahora si que… ¿Hay alguno que no lo sea?\" t=\"Mai vin și altfel?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276542007685062660",
+   "en": "<kiroshi l=\"mex\" o=\"Tienes razón. Ahora ve y haz lo que hay que hacer.\" t=\"Atta girl. Now do what needs to be done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Tienes razón. Ahora ve y haz lo que hay que hacer.\" t=\"Așa, fată. Acum du-te și fă ce ai de făcut.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Tienes razón. Ahora ve y haz lo que hay que hacer.\" t=\"Așa, băiete. Acum du-te și fă ce ai de făcut.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

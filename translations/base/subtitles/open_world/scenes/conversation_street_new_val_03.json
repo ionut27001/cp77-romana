@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_03.json",
+ "entries": [
+  {
+   "key": "2276541048783282188",
+   "en": "So, how are we on the thing?",
+   "ro": "Deci, cum stăm cu treaba?"
+  },
+  {
+   "key": "2276541048783282200",
+   "en": "<kiroshi l=\"mex\" o=\"Bien chido, chum. Je, je, je.\" t=\"Fuckin' preem, choom. Hehehe.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Bien chido, chum. Je, je, je.\" t=\"Beton în pula mea, choom. Hehehe.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

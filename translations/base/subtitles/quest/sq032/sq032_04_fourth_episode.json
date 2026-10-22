@@ -1,0 +1,790 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq032\\sq032_04_fourth_episode.json",
+ "entries": [
+  {
+   "key": "1813916428740239364",
+   "en": "Look. Hey, look. See that?",
+   "ro": "Uite. Hei, uite. Vezi?"
+  },
+  {
+   "key": "1813916636224069636",
+   "en": "Sons of bitches…",
+   "ro": "Jigodiile…"
+  },
+  {
+   "key": "1813916784232669184",
+   "en": "Jesus, they really are everywhere.",
+   "ro": "Doamne, chiar sunt peste tot."
+  },
+  {
+   "key": "1813923430308683776",
+   "en": "Gee, aren't you funny? Look around, look what they've done to this 'hood.",
+   "ro": "Ce glumeț ești. Uită-te în jur, vezi ce-au făcut cu cartierul ăsta."
+  },
+  {
+   "key": "1814232836967669760",
+   "en": "No, it's the part where I say I despise petty merc-thiefs who think they're hot shit rebels after settin' foot in the Afterlife.",
+   "ro": "Nu, e partea în care spun că disprețuiesc mercenarii mărunți care se cred rebeli de top după ce-au pus piciorul în Afterlife."
+  },
+  {
+   "key": "1867797275593957380",
+   "en": "Arasaka killed you, too, 'member.",
+   "ro": "Arasaka te-a omorât și pe tine, ții minte."
+  },
+  {
+   "key": "1867801604132462596",
+   "en": "Got yourself killed by 'em too. An' I'd just as soon not take advice from a digital corpse.",
+   "ro": "Și tu te-ai lăsat omorâtă de ei. Și n-aș lua sfaturi de la un cadavru digital.",
+   "ro_m": "Și tu te-ai lăsat omorât de ei. Și n-aș lua sfaturi de la un cadavru digital."
+  },
+  {
+   "key": "1867801604132462608",
+   "en": "That what they teach folks in 'Saka these days? To shut down, cut power the moment truth looks 'em in the eye?",
+   "ro": "Asta îi învață acum pe oamenii de la 'Saka? Să se închidă, să taie curentul imediat ce adevărul îi bagă în ochi?"
+  },
+  {
+   "key": "1867803431506829316",
+   "en": "Know what? 'Fraid I don't got time for chit-chat.",
+   "ro": "Știi ce? N-am timp de palavre."
+  },
+  {
+   "key": "1867803431506829328",
+   "en": "You lack the cred, you lack the gusto – that's your problem.",
+   "en_m": "Lackin' the balls, that's your problem.",
+   "ro": "N-ai reputație, n-ai nici curaj – asta e problema ta.",
+   "ro_m": "N-ai coaie, asta e problema ta."
+  },
+  {
+   "key": "1867803431506829344",
+   "en": "Got exactly no rep in this town and the chooms to match.",
+   "ro": "N-ai deloc reputație în orașul ăsta și nici chooms pe măsură."
+  },
+  {
+   "key": "1867803623018749956",
+   "en": "Whatever you gotta say – say it. Got somethin' eatin' at your code, that's clear.",
+   "ro": "Orice ai de zis, zi-o. Te roade ceva, se vede."
+  },
+  {
+   "key": "1867803623035527172",
+   "en": "Been tryin' to learn how you're wired this whole time. To know who I'm dealin' with.",
+   "ro": "Tot timpul am încercat să-mi dau seama cum ești conectată. Să știu cu cine am de-a face.",
+   "ro_m": "Tot timpul am încercat să-mi dau seama cum ești conectat. Să știu cu cine am de-a face."
+  },
+  {
+   "key": "1867803623035527200",
+   "en": "Thought you were just unlucky at first. But I kept watchin' and finally realized what your problem is.",
+   "ro": "La început am crezut că ai ghinion, atât. Dar m-am uitat în continuare și până la urmă mi-am dat seama care e problema ta."
+  },
+  {
+   "key": "1867808446703230976",
+   "en": "[Sit] Seem to know a lot about my past.",
+   "ro": "[Așază-te] Pari să știi multe despre trecutul meu."
+  },
+  {
+   "key": "1867808861184352260",
+   "en": "Sure seem to know a lot about my past.",
+   "ro": "Chiar pari să știi multe despre trecutul meu."
+  },
+  {
+   "key": "1867808861184352272",
+   "en": "Well, seen flashes of your past, just like you've seen flashes of mine.",
+   "ro": "Păi, am văzut și eu flash-uri din trecutul tău, la fel cum ai văzut tu din al meu."
+  },
+  {
+   "key": "1867822643952508928",
+   "en": "Scared I'll lose myself, stop being me.",
+   "ro": "Mi-e frică să nu mă pierd, să nu mai fiu eu."
+  },
+  {
+   "key": "1867822643952508944",
+   "en": "That pisses me off.",
+   "ro": "Mă scoate din sărite."
+  },
+  {
+   "key": "1867876421422571524",
+   "en": "Pisses me off that our memories blend, don't have my own anymore. Chip's the worst thing to ever fuckin' happen to me.",
+   "ro": "Mă scoate din sărite că amintirile noastre se amestecă, nu mai am ale mele. Cipul e cel mai nenorocit lucru care mi s-a întâmplat vreodată."
+  },
+  {
+   "key": "1867876421439348736",
+   "en": "Mean to say I haven't earned the top spot yet?",
+   "ro": "Vrei să spui că n-am câștigat încă locul de top?"
+  },
+  {
+   "key": "1867876421439348748",
+   "en": "An arrogant asshole's no small problem, but it ain't my biggest. Dyin' is.",
+   "ro": "Un nesimțit arogant nu e o problemă mică, dar nu e cea mai mare. Moartea e."
+  },
+  {
+   "key": "1867876421439348760",
+   "en": "Death by becoming someone else... You didn't do anything to deserve that fate.",
+   "ro": "Să mori transformându-te în altcineva... N-ai făcut nimic să meriți soarta asta."
+  },
+  {
+   "key": "1867876578742525956",
+   "en": "You're a dick, y'know.",
+   "ro": "Ești un bou, știi."
+  },
+  {
+   "key": "1867876578759303176",
+   "en": "And you're a cunt. Maybe we'll fit together after all?",
+   "ro": "Iar tu ești o pizdă. Poate ne potrivim până la urmă."
+  },
+  {
+   "key": "1867876737639538692",
+   "en": "Honestly, I'm scared of the day I'll start seeing your memories as my own.",
+   "ro": "Sincer, mi-e frică de ziua când o să încep să văd amintirile tale ca pe ale mele."
+  },
+  {
+   "key": "1867876737639538704",
+   "en": "Shit, if it's a two-way street, I'll somehow have to live with the fact that I let DeShawn best me, fuck me over.",
+   "ro": "Rahat, dacă e stradă cu două sensuri, o să trebuiască să trăiesc cu ideea că l-am lăsat pe DeShawn să mă bată și să-mi tragă țeapă."
+  },
+  {
+   "key": "1867876737639538716",
+   "en": "Listen, will I notice the change? Or, is it one of those things where I'll wonder why I ever feared it?",
+   "en_m": "So listen, will-- will I notice a change? Or, is it one of those things where I'll wonder why I ever feared it?",
+   "ro": "Ascultă, o să observ schimbarea? Sau e unul dintre alea la care o să mă întreb de ce mi-a fost frică vreodată?",
+   "ro_m": "Deci ascultă, o să... o să observ o schimbare? Sau e unul dintre alea la care o să mă întreb de ce mi-a fost frică vreodată?"
+  },
+  {
+   "key": "1867876737656315904",
+   "en": "Worst thing you can do to a human – rip their identity out of 'em. That's all I know.",
+   "ro": "Cel mai rău lucru pe care-l poți face unui om – să-i smulgi identitatea. Asta e tot ce știu."
+  },
+  {
+   "key": "1867877243137056768",
+   "en": "What do you want from me, really?",
+   "ro": "Ce vrei de la mine, de fapt?"
+  },
+  {
+   "key": "1867877520145670144",
+   "en": "What's it like, bein' in someone else's head?",
+   "ro": "Cum e să fii în capul altcuiva?"
+  },
+  {
+   "key": "1867877520145670160",
+   "en": "[End convo] Don't need your sympathy.",
+   "ro": "[Termină conversația] Nu am nevoie de mila ta."
+  },
+  {
+   "key": "1867877778112143364",
+   "en": "Can you just tell me what you want? What you really want?",
+   "ro": "Poți să-mi spui odată ce vrei? Ce vrei, de fapt?"
+  },
+  {
+   "key": "1867877778128920584",
+   "en": "Help me settle my score against Arasaka. That's it.",
+   "ro": "Ajută-mă să-mi rezolv conturile cu Arasaka. Asta e tot."
+  },
+  {
+   "key": "1867877984270573572",
+   "en": "My memories – what do they… feel like?",
+   "ro": "Amintirile mele – cum se... simt?"
+  },
+  {
+   "key": "1867877984287350792",
+   "en": "Not followin' ya.",
+   "ro": "Nu te înțeleg."
+  },
+  {
+   "key": "1867877984287350804",
+   "en": "Aside from what you see and hear, I mean. You process or experience any feelings?",
+   "ro": "Pe lângă ce vezi și auzi, zic. Simți și tu vreo emoție?"
+  },
+  {
+   "key": "1867877984287350816",
+   "en": "Anger, regret, bitterness, fear. Though honestly, can't tell if they're yours or mine.",
+   "ro": "Furie, regret, amărăciune, frică. Deși, sincer, nu pot spune dacă sunt ale tale sau ale mele."
+  },
+  {
+   "key": "1867882978965217300",
+   "en": "How you find life under my skin?",
+   "ro": "Cum te descurci sub pielea mea?"
+  },
+  {
+   "key": "1867882978965217312",
+   "en": "Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones.",
+   "ro": "Păi, majoritatea lucrurilor sunt fie prea mari, fie prea mici. Să nu mai zic de bordelul ăla numit hormonii tăi."
+  },
+  {
+   "key": "1867883393513447428",
+   "en": "Don't need your sympathy.",
+   "ro": "Nu am nevoie de mila ta."
+  },
+  {
+   "key": "1867883393530224648",
+   "en": "You fuckin' gonk! I'm tryin' to help you!",
+   "ro": "Fraier nenorocit ce ești! Încerc să te ajut!"
+  },
+  {
+   "key": "1867883393530224660",
+   "en": "You afraid of death?",
+   "ro": "Ți-e frică de moarte?"
+  },
+  {
+   "key": "1867883393530224672",
+   "en": "I'm afraid of wasted opportunities.",
+   "ro": "Mi-e frică de oportunitățile irosite."
+  },
+  {
+   "key": "1867883393547001856",
+   "en": "Like Arasaka Tower?",
+   "ro": "Ca Turnul Arasaka?"
+  },
+  {
+   "key": "1867883393547001868",
+   "en": "Came through it, as you can see. And I ain't done with them yet.",
+   "ro": "Am trecut prin el, cum vezi. Și n-am terminat cu ei încă."
+  },
+  {
+   "key": "1867883730651602944",
+   "en": "Incapable of sitting still, letting anything go, aren't you.",
+   "ro": "Incapabilă să stai locului, să lași ceva în pace, nu?",
+   "ro_m": "Incapabil să stai locului, să lași ceva în pace, nu?"
+  },
+  {
+   "key": "1867883730668380160",
+   "en": "You got no idea what you want.",
+   "ro": "N-ai nicio idee ce vrei."
+  },
+  {
+   "key": "1867884570082828292",
+   "en": "Not having control – you can't stand it. Seeing some things're outta your hands…",
+   "ro": "Nu suporți să n-ai control. Să vezi că unele lucruri îți scapă din mână…"
+  },
+  {
+   "key": "1867884570099605504",
+   "en": "Don't be ridiculous, V.",
+   "ro": "Nu fi ridicolă, V.",
+   "ro_m": "Nu fi ridicol, V."
+  },
+  {
+   "key": "1867887071230189572",
+   "en": "Let's cut this juvenile bullshit.",
+   "ro": "Hai să terminăm cu căcaturile astea juvenile."
+  },
+  {
+   "key": "1867887071230189584",
+   "en": "I'm just tryin' to help you!",
+   "ro": "Încerc doar să te ajut!"
+  },
+  {
+   "key": "1869149005199990784",
+   "en": "It's a TV. Didn't have those fifty years ago?",
+   "ro": "E un televizor. Nu aveau așa ceva acum cincizeci de ani?"
+  },
+  {
+   "key": "1869149324369747968",
+   "en": "Like jokes, think it's funny? Look around – used to be crops in all directions... till the corps started fucking the farmers silly.",
+   "ro": "Îți plac glumele, crezi că e amuzant? Uită-te în jur – erau culturi în toate direcțiile... până când corporațiile au început să-i fute pe fermieri de mama focului."
+  },
+  {
+   "key": "1869150967479951360",
+   "en": "And you really are paranoid.",
+   "ro": "Și chiar ești paranoic."
+  },
+  {
+   "key": "1869151271365664768",
+   "en": "You don't see it? Way corps are strippin' our world and lives naked, piece by piece? Can't turn a blind eye to that.",
+   "ro": "Nu vezi? Corporațiile ne dezbracă lumea și viețile bucată cu bucată? Nu poți să închizi ochii la asta."
+  },
+  {
+   "key": "1869152073719242752",
+   "en": "This the part where you divulge your master plan to annihilate Arasaka?",
+   "ro": "Asta e partea în care îmi spui planul tău măreț de-a anihila Arasaka?"
+  },
+  {
+   "key": "1869156824758378496",
+   "en": "Piss off.",
+   "ro": "Cară-te dracu'!"
+  },
+  {
+   "key": "1869157901419438080",
+   "en": "What the fuck you want – just tell me.",
+   "ro": "Ce pula mea vrei, zi odată."
+  },
+  {
+   "key": "1869161927666065408",
+   "en": "Says the most inept terrorist in human history. Need I remind you how you let Arasaka crush your soul and put you here?",
+   "ro": "Zice cel mai nepriceput terorist din istoria omenirii. Trebuie să-ți reamintesc cum ai lăsat Arasaka să-ți zdrobească sufletul și te-a adus aici?"
+  },
+  {
+   "key": "1869163013034500096",
+   "en": "Hah! I brought war to their doorstep, kid. Your grand plan? To steal their fuckin' car.",
+   "ro": "Hah! Am adus războiul la ușa lor, puștiule. Planul tău măreț? Să le furi mașina dracului."
+  },
+  {
+   "key": "1869164514243010560",
+   "en": "A nomad could never understand what it means to fight for this city, die for it.",
+   "ro": "Un nomad n-ar înțelege niciodată ce înseamnă să lupți pentru orașul ăsta, să mori pentru el."
+  },
+  {
+   "key": "1869175938839240704",
+   "en": "Ain't the only one to get flatlined by 'Saka. 'Cept I didn't let them scoop out my mind, digilock it in a trinket.",
+   "en_m": "Ain't the only one to get flatlined by 'Saka. 'Cept I didn't let 'em scoop out my mind, digilock it in a trinket.",
+   "ro": "Nu ești singura terminată de 'Saka. Doar că eu nu i-am lăsat să-mi scoată mintea și s-o digilock-eze într-un obiect.",
+   "ro_m": "Nu ești singurul terminat de 'Saka. Doar că eu nu i-am lăsat să-mi scoată mintea și s-o digilock-eze într-un obiect."
+  },
+  {
+   "key": "1869184056545533952",
+   "en": "Still got better prospects than a carbon-copy ghost of a washed-up rockerboy locked in a trinket.",
+   "ro": "Tot am perspective mai bune decât o fantomă copie-carbon a unui rockerboy terminat, închis într-un obiect."
+  },
+  {
+   "key": "1869185640599937024",
+   "en": "Your last \"prospect\" was to net some eddies on a stolen biochip. Remember how that went?",
+   "ro": "Ultima ta „perspectivă” a fost să faci niște eddies pe un biochip furat. Îți aduci aminte cum a mers?"
+  },
+  {
+   "key": "1869193201000669184",
+   "en": "Always been a corpocog, a replaceable part.",
+   "ro": "Ai fost mereu doar o piesă de schimb, ușor de înlocuit."
+  },
+  {
+   "key": "1869193369527803904",
+   "en": "You were a kid from the Badlands, family was your crutch and cushion.",
+   "ro": "Ai crescut în Badlands, familia ți-a fost și sprijin, și plasă de siguranță."
+  },
+  {
+   "key": "1869193548154822656",
+   "en": "You're a dirtgirl from Heywood who found the guts to walk a few extra blocks from home.",
+   "en_m": "You're a dirtboy from Heywood who found the guts to walk a few extra blocks from home.",
+   "ro": "Ești o dirtgirl din Heywood, din aia care a avut curaj să se depărteze câteva blocuri de casă.",
+   "ro_m": "Ești un dirtboy din Heywood, din ăla care a avut curaj să se depărteze câteva blocuri de casă."
+  },
+  {
+   "key": "1869195665724694528",
+   "en": "Once 'Saka booted you out, stripped you of perks, best you could hope for was to be a scav exterminator.",
+   "ro": "Odată ce 'Saka te-a dat afară și ți-a tăiat talentele, tot ce mai puteai spera era să fii exterminator de hiene."
+  },
+  {
+   "key": "1869197027464208384",
+   "en": "But in NC you're nobody, best you can do is steal from scavs – the merc janitors.",
+   "ro": "Dar în NC ești nimeni, cel mult poți fura de la hiene – mercii de serviciu."
+  },
+  {
+   "key": "1869233101515284480",
+   "en": "But turned out the best you can do is chase scavs for ennies.",
+   "ro": "Până la urmă, tot ce poți face e să vânezi hiene pe ennies."
+  },
+  {
+   "key": "1869269295204687872",
+   "en": "And the lag between sight and touch – infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth.",
+   "ro": "Și lag-ul ăla dintre ce văd și ce simt – enervant. Când muști o pizza, trece o veșnicie până-mi dau seama că ți-ai ars cerul gurii, pula mea."
+  },
+  {
+   "key": "1869270972641075200",
+   "en": "Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine.",
+   "ro": "Și pe vremuri nu treceau cinci minute și nu aveam o țigară proaspătă în mână; acum mă mănâncă după nicotină."
+  },
+  {
+   "key": "1869274334275067904",
+   "en": "Gettin' used to it, I guess, but its' no fuckin' picnic.",
+   "ro": "Mă obișnuiesc, cred, da' nu e niciun picnic, pula mea."
+  },
+  {
+   "key": "1911515621115846656",
+   "en": "An enemy – you need to have one at all times.",
+   "ro": "Un inamic – trebuie să ai unul tot timpul."
+  },
+  {
+   "key": "1911517157774614528",
+   "en": "Know what? Seems to me you need to have a nemesis, at all times.",
+   "ro": "Știi ce? Mie mi se pare că ție îți trebuie un nemesis, mereu."
+  },
+  {
+   "key": "1911517756016582656",
+   "en": "Ideally a crazy powerful one to feed your ego… and they've gotta be pratically unbeatable – to justify a suicide run.",
+   "ro": "Ideal, unul nebun de puternic, să-ți hrănească ego-ul… și trebuie să fie practic de nebiruit, ca să justifice o misiune sinucigașă."
+  },
+  {
+   "key": "1911518220393144320",
+   "en": "Heh. You're funny.",
+   "ro": "Heh. Ești haioasă.",
+   "ro_m": "Heh. Ești haios."
+  },
+  {
+   "key": "1911518741426364416",
+   "en": "Actually, that's what I am, that kind of nemesis – I'll decide your fate, fuck all you can do.",
+   "en_m": "Actually, that's what I am, that kind of nemesis – I'll decide your fate, and there's fuck all you can do.",
+   "ro": "De fapt, asta sunt – genul ăla de nemesis: îți decid eu soarta și n-ai ce face, pula mea."
+  },
+  {
+   "key": "1927170022239318020",
+   "en": "Whup – another speech about demolishing Arasaka incoming.",
+   "ro": "Iar începe – vine un discurs despre demolarea Arasaka."
+  },
+  {
+   "key": "1927170936564035584",
+   "en": "Not up for this discussion.",
+   "ro": "Nu am chef de discuția asta."
+  },
+  {
+   "key": "1927171184027971584",
+   "en": "Why're we talkin' about this?",
+   "ro": "Da' de ce vorbim despre asta?"
+  },
+  {
+   "key": "1927251424083390464",
+   "en": "Where you headin' off to?!",
+   "ro": "Unde te duci?!"
+  },
+  {
+   "key": "1927455427866079232",
+   "en": "The moment when I turn into you – will I notice it?",
+   "ro": "Momentul în care mă transform în tine – o să-l observ?"
+  },
+  {
+   "key": "1927469805336211456",
+   "en": "How's life in my body?",
+   "ro": "Cum e viața în corpul meu?"
+  },
+  {
+   "key": "1927544599826083840",
+   "en": "You afraid of death?",
+   "ro": "Ți-e frică de moarte?"
+  },
+  {
+   "key": "1948704099670712320",
+   "en": "You watchin' a story on the Arasakas or narrating porn…?",
+   "ro": "Te uiți la o poveste despre Arasaka sau narrezi porno…?"
+  },
+  {
+   "key": "1948787588902445056",
+   "en": "Might think you took on Arasaka, but you're just a bug they scraped off the sole of their boot and tossed in the trash.",
+   "ro": "Poate crezi că te-ai luat de Arasaka, dar ești doar un gândac pe care l-au răzuit de pe talpa bocancului și l-au aruncat la gunoi."
+  },
+  {
+   "key": "1949254606365679616",
+   "en": "Why can't you just leave me alone?",
+   "ro": "De ce nu mă lași în pace?"
+  },
+  {
+   "key": "1949313415759028224",
+   "en": "As I see it, you don't know what you really want, so you concocted a bogeyman to fight – Arasaka.",
+   "ro": "După mine, nu știi ce vrei de fapt, așa că ți-ai inventat un bau-bau cu care să te iei – Arasaka."
+  },
+  {
+   "key": "1949325025726717952",
+   "en": "Got a clear goal. Like I do.",
+   "ro": "Am un scop clar. La fel ca mine."
+  },
+  {
+   "key": "1949327220287234048",
+   "en": "Don't think I care. What does interest me is why you're a clingy creep.",
+   "ro": "Nu cred că-mi pasă. Ce mă interesează e de ce te ții scai de mine."
+  },
+  {
+   "key": "1949342221567811584",
+   "en": "Your goal's to bury Arasaka, demolish it. Mine's to stay above ground. Seem pretty clearly defined, both.",
+   "ro": "Tu vrei să îngropi Arasaka, s-o dai jos. Eu vreau să rămân la suprafață. Ambele sunt destul de clare, nu?"
+  },
+  {
+   "key": "1949345169140113408",
+   "en": "Whole world used to revolve around Silverhand. Now, no one gives a shit.",
+   "ro": "Toată lumea se învârtea în jurul lui Silverhand. Acum, pe nimeni nu-l mai doare-n cur."
+  },
+  {
+   "key": "1949355607252819968",
+   "en": "Heh. You're funny.",
+   "ro": "Heh. Ești haioasă.",
+   "ro_m": "Heh. Ești haios."
+  },
+  {
+   "key": "1949355925063622656",
+   "en": "Got a new life, you did, but you got exactly no idea what to do with it.",
+   "ro": "Ai primit o viață nouă, dar n-ai nicio idee ce să faci cu ea."
+  },
+  {
+   "key": "1949357846004523008",
+   "en": "Honestly, don't differ a bit from those poor bastards handcuffed to the feeders in their megablock pads.",
+   "ro": "Sincer, nu ești cu nimic diferit de amărâții ăia încătușați la feedere în pad-urile lor din megablocuri."
+  },
+  {
+   "key": "1949359773354319872",
+   "en": "OK, I'll tell ya why I wanna destroy Arasaka, but I'll only tell ya once. Wanna hear it?",
+   "ro": "Bine, îți zic de ce vreau să distrug Arasaka, da' o zic o dată. Vrei să auzi?"
+  },
+  {
+   "key": "1949362426603921412",
+   "en": "Yeah.",
+   "ro": "Da."
+  },
+  {
+   "key": "1949362584645296128",
+   "en": "[End convo] Hmm... No.",
+   "ro": "[Încheie conv.] Hmm... Nu."
+  },
+  {
+   "key": "1949362736596541440",
+   "en": "All right.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1949362810718281728",
+   "en": "Uh, no – not interested.",
+   "en_m": "Ehhh, nah – not interested.",
+   "ro": "Ăă, nu – nu mă interesează."
+  },
+  {
+   "key": "1949368890747805696",
+   "en": "I saw corps strip farmers of water... and eventually of land.",
+   "ro": "Am văzut corporațiile luându-le țăranilor apa... și, până la urmă, pământul."
+  },
+  {
+   "key": "1949373863011311616",
+   "en": "Don't need your help, either!",
+   "ro": "Nici de ajutorul tău nu am nevoie!"
+  },
+  {
+   "key": "1949374227831873536",
+   "en": "Back to your cell, Johnny. Time's up.",
+   "ro": "Înapoi în celulă, Johnny. Timpu-i gata."
+  },
+  {
+   "key": "1949375411061809152",
+   "en": "I neither want nor do I need your help.",
+   "en_m": "Well, I neither want nor do I need your help.",
+   "ro": "Nu vreau, și nici nu-mi trebuie ajutorul tău.",
+   "ro_m": "Păi, nu vreau, și nici nu-mi trebuie ajutorul tău."
+  },
+  {
+   "key": "1949375817506643968",
+   "en": "Just go – had enough of you…",
+   "ro": "Pleacă – m-am săturat de tine…"
+  },
+  {
+   "key": "1949378856783208448",
+   "en": "Gotta go. Hang in there, bud.",
+   "ro": "Trebuie să plec. Ține-te, frate."
+  },
+  {
+   "key": "1949382442829242368",
+   "en": "Actually align pretty nicely, too. You need Mikoshi to save your life – that done, I can burn it to the ground.",
+   "ro": "Chiar se potrivesc destul de bine. Ai nevoie de Mikoshi ca să-ți salvezi viața – după aia, îl pot da foc din temelii."
+  },
+  {
+   "key": "1949383517930020864",
+   "en": "Ah, there it is – the crusade. Get to Mikoshi, smash the System.",
+   "en_m": "And there it is – the crusade. Get to Mikoshi, smash the System.",
+   "ro": "A, uite-o – cruciada. Ajungi la Mikoshi, sparge Sistemul.",
+   "ro_m": "Și uite-o – cruciada. Ajungi la Mikoshi, sparge Sistemul."
+  },
+  {
+   "key": "1949396936045387776",
+   "en": "Saw them transform Night City into a machine fueled by people's crushed spirits, broken dreams and emptied pockets.",
+   "ro": "I-am văzut cum transformă Night City într-o mașinărie hrănită cu spiritele zdrobite ale oamenilor, cu visele spulberate și buzunarele golite."
+  },
+  {
+   "key": "1953187046008315904",
+   "en": "Corps've long controlled our lives, taken lots... and now they're after our souls!",
+   "ro": "Corporațiile ne controlează viețile de mult, ne-au luat destule... și acum o să ne ia și sufletele!"
+  },
+  {
+   "key": "1953696401145225220",
+   "en": "Damn straight.",
+   "ro": "Normal că da!"
+  },
+  {
+   "key": "1953696524961079296",
+   "en": "Don't exaggerate.",
+   "ro": "Nu exagera."
+  },
+  {
+   "key": "1953696599787462656",
+   "en": "Might be right, can't really argue with you there.",
+   "ro": "Poate ai dreptate, nu prea am ce să-ți reproșez."
+  },
+  {
+   "key": "1953696690837413888",
+   "en": "C'mon, don't exaggerate.",
+   "ro": "Hai, nu exagera."
+  },
+  {
+   "key": "1953702887300816896",
+   "en": "V, I've declared war not 'cause capitalism's a thorn in my side or outta nostalgia for an America gone by.",
+   "ro": "V, n-am declarat războiul pentru că mă enervează capitalismul sau de dor de America de altădată."
+  },
+  {
+   "key": "1953708288104751104",
+   "en": "This war's a people's war against a system that's spiralled outta our control. It's a war against the fuckin' forces of entropy, understand?!",
+   "ro": "Războiul ăsta e al poporului împotriva unui sistem care a scăpat de sub control. E un război împotriva entropiei ăsteia de căcat, înțelegi?!"
+  },
+  {
+   "key": "1953714988002074624",
+   "en": "Johnny, take a sec, we gotta--",
+   "ro": "Johnny, stai o secundă, trebuie să--"
+  },
+  {
+   "key": "1953715769954557952",
+   "en": "You still don't see it. But you will one day.",
+   "ro": "Tot nu vezi. Dar o să vezi într-o zi."
+  },
+  {
+   "key": "1953718580960321536",
+   "en": "Do whatever it takes to stop 'em, defeat 'em, gut 'em. If I gotta kill, I'll kill. If I need your body, I'll fuckin' take it!",
+   "ro": "Fă orice ca să-i oprești, să-i bați, să-i sfâșii. Dacă trebuie să ucid, ucid. Dacă-mi trebuie corpul tău, îl iau, pula mea!"
+  },
+  {
+   "key": "1953720328240259072",
+   "en": "Johnny...",
+   "ro": "Johnny..."
+  },
+  {
+   "key": "1954646283813150720",
+   "en": "I think we can work together, V.",
+   "ro": "Cred că putem lucra împreună, V."
+  },
+  {
+   "key": "1954646420430020608",
+   "en": "But your plans make no sense. Destroy Arasaka? I don't even know what that means.",
+   "en_m": "But your plan makes no sense. Destroy Arasaka? I-- I don't even know what that means.",
+   "ro": "Dar planurile tale n-au nicio logică. Să distrug Arasaka? Nici nu știu ce vrea să zică asta.",
+   "ro_m": "Dar planul tău n-are nicio logică. Să distrug Arasaka? N-nici nu știu ce vrea să zică asta."
+  },
+  {
+   "key": "1954648710989766656",
+   "en": "All in good time.",
+   "ro": "Toate la timpul lor."
+  },
+  {
+   "key": "1957568895006564352",
+   "en": "Fuck those cunts…",
+   "ro": "Mă piș pe jigodiile alea…"
+  },
+  {
+   "key": "1957604208747765760",
+   "en": "See that? Fuck me, just look at that.",
+   "ro": "Vezi? Futu-i, uită-te la asta."
+  },
+  {
+   "key": "1957605376441999360",
+   "en": "Just take a look! Get what I mean now?",
+   "ro": "Uită-te, doar! Ai prins ce vreau să zic?"
+  },
+  {
+   "key": "1957627679200534528",
+   "en": "Turnin' your back on the problem, again?!",
+   "ro": "Întorci din nou spatele problemei?!"
+  },
+  {
+   "key": "1957628159431565312",
+   "en": "Gonna leave me, drop me, forget me like you did Jackie Welles?!",
+   "ro": "Mă lași, mă dai la o parte, mă uiți ca pe Jackie Welles?!"
+  },
+  {
+   "key": "1957630700760358912",
+   "en": "You fuckin' pitiful petty klepper!",
+   "ro": "Ești o hoață jalnică, nenorocito!",
+   "ro_m": "Ești un hoț jalnic, nenorocitule!"
+  },
+  {
+   "key": "1965101554514067456",
+   "en": "Let's blow, get outta here…",
+   "ro": "Hai să ne carăm de aici…"
+  },
+  {
+   "key": "1965113673804480516",
+   "en": "Johnny...",
+   "ro": "Johnny..."
+  },
+  {
+   "key": "1974599145618092032",
+   "en": "Fuckin' leprous Arasaka again?",
+   "ro": "Iar cu Arasaka, leproșii dracului?"
+  },
+  {
+   "key": "1974694226010255364",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2038691136727101456",
+   "en": "[End convo] Not in the mood for your cheap psychoanalysis.",
+   "ro": "[Încheie conv.] Nu am chef de psihanaliza ta ieftină."
+  },
+  {
+   "key": "2038691136743878656",
+   "en": "You're the worst kind of asshole.",
+   "ro": "Ești cel mai mare bou."
+  },
+  {
+   "key": "2039126618090975232",
+   "en": "Least I'm still allive.",
+   "ro": "Măcar sunt încă în viață."
+  },
+  {
+   "key": "2049188448075198468",
+   "en": "You've become no one – makes you anxious as fuck.",
+   "ro": "Ai ajuns un nimeni – te face să fii anxios în pula mea."
+  },
+  {
+   "key": "2049197202711719936",
+   "en": "[End convo] Had enough of this spat.",
+   "ro": "[Încheie conv.] M-am săturat de cearta asta."
+  },
+  {
+   "key": "2134901960272982016",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2134921321146691584",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2134923345049366528",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2139096048031444992",
+   "en": "Though not ideal, I'm a nemesis to you, too.",
+   "ro": "Nu e ideal, dar și eu sunt dușmanul tău."
+  },
+  {
+   "key": "2139096048048222208",
+   "en": "[End convo] OK, end of topic.",
+   "ro": "[Încheie conv.] OK, subiect închis."
+  },
+  {
+   "key": "2139121533327192064",
+   "en": "Got no idea who you are, what you're supposed to do.",
+   "ro": "Habar n-am cine ești și ce ar trebui să faci."
+  },
+  {
+   "key": "2139121533327192080",
+   "en": "[End convo] OK, done enough tongue flapping.",
+   "ro": "[Încheie conv.] OK, am flecărit destul."
+  },
+  {
+   "key": "2139121743797366784",
+   "en": "Man, do you go around in circles…",
+   "ro": "Băi, tot în cerc te învârți…"
+  },
+  {
+   "key": "2139121743797366800",
+   "en": "[End convo] Heard enough. I'm tired.",
+   "ro": "[Încheie conv.] Am auzit destul. Sunt obosită.",
+   "ro_m": "[Încheie conv.] Am auzit destul. Sunt obosit."
+  },
+  {
+   "key": "2169476719585210368",
+   "en": "Paranoid – that's what you are.",
+   "ro": "Paranoică – asta ești.",
+   "ro_m": "Paranoic – asta ești."
+  },
+  {
+   "key": "2169476977081921536",
+   "en": "It's a fucking video feed. Chill.",
+   "ro": "E un feed video, pula mea. Calmează-te."
+  },
+  {
+   "key": "2180810862947639300",
+   "en": "[End convo] Toodles…",
+   "ro": "[Încheie conv.] Pa-pa…"
+  }
+ ]
+}

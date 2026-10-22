@@ -1,0 +1,361 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\ncpd_low_m_07_mex_25_big.json",
+ "entries": [
+  {
+   "key": "1863478079904145412",
+   "en": "Don't wanna push paper, gotta crack skulls.",
+   "ro": "Nu vreau să împing hârtii, trebuie să sparg cranii."
+  },
+  {
+   "key": "1863478079920922628",
+   "en": "Got some lead with your name on it, punk.",
+   "ro": "Am un glonț cu numele tău pe el, golane."
+  },
+  {
+   "key": "1863478079971254276",
+   "en": "Back it up.",
+   "ro": "Dă-te înapoi."
+  },
+  {
+   "key": "1863478079988031492",
+   "en": "<mothertongue l=\"mex\" m=\"ándale\" b=\"Well, \" a=\". Step back.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"ándale\" b=\"Ei, \" a=\". Dă-te înapoi.\"/>"
+  },
+  {
+   "key": "1863478080038363140",
+   "en": "Who you tryna impress, huh?",
+   "ro": "Pe cine încerci să impresionezi, ha?"
+  },
+  {
+   "key": "1863478080055140356",
+   "en": "You done messed up, huh?",
+   "ro": "Ai dat-o în bară, ha?"
+  },
+  {
+   "key": "1863478080105472004",
+   "en": "<mothertongue l=\"mex\" m=\"basura\" b=\"Beat it, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"basura\" b=\"Cară-te, \" a=\".\"/>"
+  },
+  {
+   "key": "1863478080122249220",
+   "en": "About to get got, punk.",
+   "ro": "Ești pe cale să te iei, golanule."
+  },
+  {
+   "key": "1863478080172580868",
+   "en": "Get outta my way.",
+   "ro": "Dă-te din drum."
+  },
+  {
+   "key": "1863478080189358084",
+   "en": "<mothertongue l=\"mex\" m=\"lárgate\" b=\"Yeah, that's right, now \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"lárgate\" b=\"Da, exact, acum \" a=\".\"/>"
+  },
+  {
+   "key": "1863478080239689732",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1863478080256466948",
+   "en": "Heh?",
+   "ro": "Heh?"
+  },
+  {
+   "key": "1863478080306798596",
+   "en": "Everything seems OK.",
+   "ro": "Totul pare în regulă."
+  },
+  {
+   "key": "1863478080323575812",
+   "en": "Dunno what's goin' on.",
+   "ro": "Nu știu ce se întâmplă."
+  },
+  {
+   "key": "1863478080373907460",
+   "en": "<kiroshi l=\"mex\" o=\"¡Sal!\" t=\"Come out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Sal!\" t=\"Ieși afară!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863478080390684676",
+   "en": "I will find you!",
+   "ro": "Te găsesc eu!"
+  },
+  {
+   "key": "1863478080424239108",
+   "en": "Extrajudicial killing here.",
+   "ro": "Aici e ucidere extrajudiciară."
+  },
+  {
+   "key": "1863478080474570756",
+   "en": "Copy that.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1863478080524902404",
+   "en": "Exchanging fire!",
+   "ro": "Schimb de focuri!"
+  },
+  {
+   "key": "1863478080541679620",
+   "en": "Criminal activity!",
+   "ro": "Activitate criminală!"
+  },
+  {
+   "key": "1863478080575234052",
+   "en": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Catch, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Prinde, \" a=\"!\"/>"
+  },
+  {
+   "key": "1863478080608788484",
+   "en": "NCPD!",
+   "ro": "NCPD!"
+  },
+  {
+   "key": "1863478080625565708",
+   "en": "Get on her!",
+   "ro": "Puneți mâna pe ea!",
+   "ro_m": "Puneți mâna pe el!"
+  },
+  {
+   "key": "1863478080675897348",
+   "en": "<mothertongue l=\"mex\" m=\"hijos de puta\" b=\"Get to work, you lazy \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hijos de puta\" b=\"La treabă, lenevilor \" a=\"!\"/>"
+  },
+  {
+   "key": "1863478080692674564",
+   "en": "This ain't naptime, damn it!",
+   "ro": "Nu e timp de somn, la naiba!"
+  },
+  {
+   "key": "1863478080743006212",
+   "en": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Watch it, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Watch it, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Ai grijă, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Ai grijă, \" a=\".\"/>"
+  },
+  {
+   "key": "1863478080759783428",
+   "en": "Watch where you're goin', punk!",
+   "ro": "Ai grijă pe unde mergi, golanule!"
+  },
+  {
+   "key": "1863478080793337860",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué onda?\" t=\"What's up?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué onda?\" t=\"Ce mai faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863478080843669508",
+   "en": "Know what? I can't talk right now...",
+   "ro": "Știi ce? Nu pot vorbi acum..."
+  },
+  {
+   "key": "1863478080877223940",
+   "en": "Yeah...? Where am I gonna find that...? Ah, ok, I know...",
+   "ro": "Da...? Și de unde fac rost de așa ceva...? Ah, ok, știu..."
+  },
+  {
+   "key": "1863478080927555588",
+   "en": "From behind! Take her from behind!",
+   "en_m": "From behind! Take him from behind!",
+   "ro": "Pe la spate! Luați-o pe la spate!",
+   "ro_m": "Pe la spate! Luați-l pe la spate!"
+  },
+  {
+   "key": "1863478080977887232",
+   "en": "<mothertongue l=\"mex\" m=\"hija de puta\" b=\"Let's go, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Let's go, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hija de puta\" b=\"Hai, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Hai, \" a=\"!\"/>"
+  },
+  {
+   "key": "1863478081011441668",
+   "en": "<kiroshi l=\"mex\" o=\"¡Atención!\" t=\"Look out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Atención!\" t=\"Atenție!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863478081044996100",
+   "en": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\".\"/>"
+  },
+  {
+   "key": "1863478081061773316",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1863478081128882180",
+   "en": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"You still packin' that old iron? \" a=\"...\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"Tot mai umbli cu fierul ăla vechi? \" a=\"...\"/>"
+  },
+  {
+   "key": "1863478081145659396",
+   "en": "Get your gun ready!",
+   "ro": "Pregătește-ți arma!"
+  },
+  {
+   "key": "1863478081179213828",
+   "en": "<kiroshi l=\"mex\" o=\"¡Órale!\" t=\"Come on!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Órale!\" t=\"Hai!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863478081195991044",
+   "en": "Cover me!",
+   "ro": "Acoperă-mă!"
+  },
+  {
+   "key": "1863478081229545476",
+   "en": "Argh... ech... ech...",
+   "ro": "Argh... ech... ech..."
+  },
+  {
+   "key": "1867737976258813952",
+   "en": "I'm on duty... Mhm... dunno... I'll call you...",
+   "ro": "Sunt de serviciu... Mhm... nu știu... Te sun eu..."
+  },
+  {
+   "key": "1867738240600629248",
+   "en": "Sure... No problem...",
+   "ro": "Sigur... Nicio problemă..."
+  },
+  {
+   "key": "1959035894022316036",
+   "en": "'Ey, ey, ey, come on!",
+   "ro": "Hei, hei, hei, hai!"
+  },
+  {
+   "key": "1959035894089424896",
+   "en": "We got biz to take care of.",
+   "ro": "Avem afaceri de rezolvat."
+  },
+  {
+   "key": "1959035894106202116",
+   "en": "Real go-getter, aren't ya?",
+   "ro": "Ești unul ambițios, nu?"
+  },
+  {
+   "key": "2235080910730043396",
+   "en": "NCPD motherfuckers!",
+   "ro": "Nenorociții de NCPD!"
+  },
+  {
+   "key": "2235080910830706692",
+   "en": "Jesus Christ... keep your eyes peeled!",
+   "ro": "Doamne... fii cu ochii în patru!"
+  },
+  {
+   "key": "2235080910864261124",
+   "en": "C'mon, seriously...?",
+   "ro": "Hai, serios...?"
+  },
+  {
+   "key": "2235080910981701636",
+   "en": "Yeah? Something happen?",
+   "ro": "Da? S-a întâmplat ceva?"
+  },
+  {
+   "key": "2235080911350800388",
+   "en": "Let's go! I'm right here!",
+   "ro": "Hai! Sunt chiar aici!"
+  },
+  {
+   "key": "2235080911417909252",
+   "en": "You piece of trash!",
+   "ro": "Tu, gunoiule!"
+  },
+  {
+   "key": "2235080911585681412",
+   "en": "Got a hit!",
+   "ro": "Am lovit!"
+  },
+  {
+   "key": "2235080911652790276",
+   "en": "You asked for it!",
+   "ro": "Ți-ai căutat-o!"
+  },
+  {
+   "key": "2235080911870894084",
+   "en": "She's almost down! C'mon, gotta boost our stats!",
+   "en_m": "He's almost down! C'mon, gotta boost our stats!",
+   "ro": "E aproape la pământ! Hai, trebuie să ne boostăm statisticile!",
+   "ro_m": "El e aproape jos! Hai, trebuie să ne boostăm statisticiile!"
+  },
+  {
+   "key": "2235080911938002948",
+   "en": "Understood!",
+   "ro": "Înțeles!"
+  },
+  {
+   "key": "2235080912021889028",
+   "en": "Too late to hide! You fuckin' started it!",
+   "ro": "Prea târziu să te ascunzi! Tu ai început, pula mea!"
+  },
+  {
+   "key": "2235080912072220676",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2235080912156106756",
+   "en": "Fuck! The hell's happening?!",
+   "ro": "Futu-i! Ce naiba se întâmplă?!"
+  },
+  {
+   "key": "2235080912273547268",
+   "en": "Can't see nothin'! Shit!",
+   "ro": "Nu văd nimic! Căcat!"
+  },
+  {
+   "key": "2235080912340656132",
+   "en": "She's hackin' our chrome!",
+   "en_m": "He's hackin' our chrome!",
+   "ro": "Ea ne sparge chrome-ul!",
+   "ro_m": "El ne sparge chrome-ul!"
+  },
+  {
+   "key": "2235080912390987780",
+   "en": "Ooh! I needed that!",
+   "ro": "Ooh! Aveam nevoie de asta!"
+  },
+  {
+   "key": "2235080912458096644",
+   "en": "This is a fuckin' warzone! We need backup!",
+   "ro": "E o zonă de război, pula mea! Avem nevoie de întăriri!"
+  },
+  {
+   "key": "2235080912508428292",
+   "en": "You ain't goin' nowhere!",
+   "ro": "Nu pleci nicăieri!"
+  },
+  {
+   "key": "2235080912575537152",
+   "en": "'Bout to pump lead!",
+   "ro": "Pe cale să trag cu plumb!"
+  },
+  {
+   "key": "2235080912625868804",
+   "en": "Suppressive fire!",
+   "ro": "Foc de acoperire!"
+  },
+  {
+   "key": "2235080912676200452",
+   "en": "Officer down! I repeat, officer down!",
+   "ro": "Ofițer doborât! Repet, ofițer doborât!"
+  },
+  {
+   "key": "2235080912860749828",
+   "en": "Officer under attack!",
+   "ro": "Ofițer sub atac!"
+  },
+  {
+   "key": "2235086001876901888",
+   "en": "Fuck! Officers getting killed here!",
+   "ro": "Futu-i! Mor ofițeri aici!"
+  },
+  {
+   "key": "2235086003487514628",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  }
+ ]
+}

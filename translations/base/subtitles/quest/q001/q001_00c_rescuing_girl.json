@@ -1,0 +1,323 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_00c_rescuing_girl.json",
+ "entries": [
+  {
+   "key": "776147269353496584",
+   "en": "Think I got her. Got our target.",
+   "ro": "Cred că am găsit-o. Avem ținta."
+  },
+  {
+   "key": "1030098639083823104",
+   "en": "TT-133 to Control. Patient NC570442 secured…",
+   "ro": "TT-133 către Control. Pacienta NC570442 e securizată…"
+  },
+  {
+   "key": "1030102140136480768",
+   "en": "Stimulants being administered – 70 milligrams dopamine, 110 norepinephrine, 800 fibrinogen…",
+   "ro": "Se administrează stimulante – 70 mg dopamină, 110 norepinefrină, 800 fibrinogen…"
+  },
+  {
+   "key": "1096652473823891456",
+   "en": "We make it? She alive?",
+   "ro": "Am reușit? E în viață?"
+  },
+  {
+   "key": "1096660855133802496",
+   "en": "[Check biomonitor] I'm jacking in.",
+   "ro": "[Verifică biomonitorul] Mă conectez."
+  },
+  {
+   "key": "1096661367459647488",
+   "en": "Got another body in the tub.",
+   "ro": "Mai e un corp în cadă."
+  },
+  {
+   "key": "1096670802731044864",
+   "en": "Jackin' in.",
+   "ro": "Mă conectez."
+  },
+  {
+   "key": "1096671050949955584",
+   "en": "She's in a tub of ice... crammed in with another. Fuck – like slabs of meat!",
+   "ro": "E într-o cadă cu gheață... înghesuită cu alta. Futu-i – ca niște bucăți de carne!"
+  },
+  {
+   "key": "1096887792280244224",
+   "en": "Sandra Dorsett. NC570442. Trauma Team Platinum.",
+   "ro": "Sandra Dorsett. NC570442. Trauma Team Platinum."
+  },
+  {
+   "key": "1141872588900470784",
+   "en": "Found the shard. Removing now.",
+   "ro": "Am găsit shard-ul. Îl scot acum."
+  },
+  {
+   "key": "1141873772751163392",
+   "en": "Check the biomon. Anything change?",
+   "ro": "Verifică biomonul. S-a schimbat ceva?"
+  },
+  {
+   "key": "1141879035126288384",
+   "en": "She's flatlinin'!",
+   "ro": "Se duce!"
+  },
+  {
+   "key": "1141887082636709888",
+   "en": "Jackie, airhypo!",
+   "ro": "Jackie, airhypo!"
+  },
+  {
+   "key": "1141891813073424384",
+   "en": "Jackie, airhypo! Fuck, this is bad!",
+   "ro": "Jackie, airhypo! Futu-i, e rău!"
+  },
+  {
+   "key": "1141907775134830592",
+   "en": "<mothertongue l=\"mex\" m=\"Fuera, chica\" b=\"\" a=\". Get her outside!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"Fuera, cabrón\" b=\"\" a=\". Get her outside!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Fuera, chica\" b=\"\" a=\". Scoate-o afară!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Fuera, cabrón\" b=\"\" a=\". Scoate-o afară!\"/>"
+  },
+  {
+   "key": "1142985763741962240",
+   "en": "Five steps back. Now.",
+   "ro": "Cinci pași înapoi. Acum."
+  },
+  {
+   "key": "1147496557458001940",
+   "en": "[Check body] Hmm...",
+   "ro": "[Verifică corpul] Hmm..."
+  },
+  {
+   "key": "1163731896457957376",
+   "en": "V, need to know what's goin' on!",
+   "ro": "V, trebuie să știu ce se întâmplă!"
+  },
+  {
+   "key": "1163734939962380288",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Catch, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"vato\" b=\"Ey, catch, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Prinde, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"vato\" b=\"Ey, prinde, \" a=\"!\"/>"
+  },
+  {
+   "key": "1173719177637859328",
+   "en": "Hmm... Scopmuncher's hack, huh.",
+   "ro": "Hm... hack-ul lui Scopmuncher. Aha."
+  },
+  {
+   "key": "1183685332141920256",
+   "en": "Greetings, Sandra. If you are conscious, assume recovery position now.",
+   "ro": "Bună, Sandra. Dacă ești conștientă, adoptă poziția de recuperare acum."
+  },
+  {
+   "key": "1183686696330907648",
+   "en": "Your premium plan will cover 90% of the projected costs of your rescue and treatment.",
+   "ro": "Planul tău premium o să acopere 90% din costurile estimate ale salvării și tratamentului."
+  },
+  {
+   "key": "1183687775894425600",
+   "en": "An emergency evacuation unit has been dispatched and is due to arrive at your location in 180 seconds.",
+   "ro": "O unitate de evacuare de urgență a fost trimisă și o să ajungă la locația ta în 180 de secunde."
+  },
+  {
+   "key": "1188015276999843840",
+   "en": "<mothertongue l=\"mex\" m=\"Fuera\" b=\"\" a=\", get 'er out! Terrace.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Fuera\" b=\"\" a=\", scoate-o afară! Terrace.\"/>"
+  },
+  {
+   "key": "1205573700454912000",
+   "en": "Lookin' at a hacked biomon, firmware reconfig or a neurovirus...",
+   "ro": "Pare un biomon hack-uit, un firmware reconfigurat sau un neurovirus..."
+  },
+  {
+   "key": "1216883144956088320",
+   "en": "[Set woman down]",
+   "ro": "[Pune femeia jos]"
+  },
+  {
+   "key": "1222725698624720896",
+   "en": "Place the patient on the ground!",
+   "ro": "Pune pacienta pe jos!"
+  },
+  {
+   "key": "1228488698694504448",
+   "en": "[Pull shard] Got our culprit...",
+   "ro": "[Trage shard-ul] Am găsit vinovatul..."
+  },
+  {
+   "key": "1228490844382990336",
+   "en": "[Pick up]",
+   "ro": "[Ridică]"
+  },
+  {
+   "key": "1244842296414507008",
+   "en": "<mothertongue l=\"mex\" m=\"Te lo juro por mi madre...\" b=\"No more jobs like this. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Te lo juro por mi madre...\" b=\"Gata cu misiunile de-astea. \" a=\"\"/>"
+  },
+  {
+   "key": "1244858497920339968",
+   "en": "Landing, stand clear! Initiating security protocol. Follow all instructions.",
+   "ro": "Aterizăm, faceți loc! Pornim protocolul de securitate. Urmați instrucțiunile!"
+  },
+  {
+   "key": "1245908584322764800",
+   "en": "Ooh, this does not look good…",
+   "ro": "Ooh, nu arată bine…"
+  },
+  {
+   "key": "1245909600518737920",
+   "en": "Biomon claims Trauma'll be here in three minutes.",
+   "ro": "Biomonul zice că Trauma o să fie aici în trei minute."
+  },
+  {
+   "key": "1246036849477750784",
+   "en": "Platinum? Shiiit, Trauma shoulda swooped in if she sneezed.",
+   "ro": "Platinum? Căcat, Trauma ar fi trebuit să sară de îndată ce-ar fi strănutat."
+  },
+  {
+   "key": "1246047331395768320",
+   "en": "Got an idea. Check her neuroport. Find a shard? Yeah, pull it – that'll be what's muting the biomon.",
+   "ro": "Am o idee. Verifică-i neuroportul. Dai de un shard? Da, trage-l – aia e ce-i pune căluș biomonului."
+  },
+  {
+   "key": "1254441509433151488",
+   "en": "Is that safe?",
+   "ro": "E sigur?"
+  },
+  {
+   "key": "1254442661256138752",
+   "en": "Need you to cover me.",
+   "ro": "Acoperă-mă."
+  },
+  {
+   "key": "1266049560039067648",
+   "en": "Ugh! Fuck!",
+   "en_m": "Aw, fuck!",
+   "ro": "Ugh! Futu-i!",
+   "ro_m": "Ah, futu-i..."
+  },
+  {
+   "key": "1601309346777059328",
+   "en": "Keep it together, V. If she survives, she won't remember a thing. Tiny scar on the subconscious, that's all.",
+   "ro": "Ține-te, V. Dacă scapă, n-o să-și amintească nimic. O cicatrice mică pe subconștient, atât."
+  },
+  {
+   "key": "1601315568909602816",
+   "en": "Guessin' they jammed the transmitter sig.",
+   "ro": "Cred că au blocat semnalul de la transmițător."
+  },
+  {
+   "key": "1601328694681980928",
+   "en": "<mothertongue l=\"mex\" m=\"Carajo\" b=\"\" a=\", T-Bug! You ain't seein' this place. This is tubs, ice, hooks and cleavers.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Carajo\" b=\"\" a=\", T-Bug! Nu vezi locul ăsta. Sunt căzi, gheață, cârlige și satâre.\"/>"
+  },
+  {
+   "key": "1601341047226028032",
+   "en": "<mothertongue l=\"mex\" m=\"Ay, pobrecita\" b=\"\" a=\". Let's get her off that ice.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ay, pobrecita\" b=\"\" a=\". S-o dăm jos de pe gheața aia.\"/>"
+  },
+  {
+   "key": "1601345193714962432",
+   "en": "I think…! Holy shit, it worked!",
+   "ro": "Cred…! Căcat, chiar a mers!"
+  },
+  {
+   "key": "1619814124352368640",
+   "en": "Shit, V. I mean, I got a stomach o' steel, but... this, waa, this…",
+   "ro": "Căcat, V. Adică, am stomac de oțel, dar... asta, waa, asta…"
+  },
+  {
+   "key": "1620139005744967680",
+   "en": "Heard people who live through shit like this get panic attacks. 'Thout ever knowin' why…",
+   "ro": "Am auzit că oamenii care trec prin rahaturi d-astea fac atacuri de panică. Fără să știe vreodată de ce…"
+  },
+  {
+   "key": "1620139086476931072",
+   "en": "You'll be sippin' a glass of ice-cold water and suddenly your hand's shakin'.",
+   "ro": "O să sorbi un pahar cu apă rece ca gheața și dintr-o dată ți se va tremura mâna."
+  },
+  {
+   "key": "1621194992174166016",
+   "en": "Is that even safe...? Can't we just get her outta here?",
+   "ro": "E chiar sigur...? Nu putem s-o scoatem de aici?"
+  },
+  {
+   "key": "1621195685492617216",
+   "en": "We found her still breathin'. Can't lose her. We need that biomon working, checking for hemorrhages – whatever! Find that shard and yank it!",
+   "ro": "Încă respiră. Nu o putem pierde. Ne trebuie biomonul pornit, să caute hemoragii – orice! Găsește shard-ul ăla și smulge-l!"
+  },
+  {
+   "key": "1622719385488519168",
+   "en": "Jack, look sharp, not done yet! Don't know who's out there.",
+   "en_m": "Jack, look sharp, not done yet. Don't know who's out there.",
+   "ro": "Jack, fii cu ochii în patru, nu s-a terminat! Nu știu cine e pe afară."
+  },
+  {
+   "key": "1622747327857881088",
+   "en": "Locked an' ready, V. Do your thing.",
+   "en_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Locked an' ready, \" a=\". Do your thing.\"/>",
+   "ro": "Blocat și pregătit, V. Fă-ți treaba.",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Blocat și pregătit, \" a=\". Fă-ți treaba.\"/>"
+  },
+  {
+   "key": "1632995213325561856",
+   "en": "I wasn't made for this shit, you know – chop shops? What they do to people…? Fuckin' scav psychos.",
+   "ro": "Nu-s făcut pentru porcăriile astea, știi – ateliere de dezmembrat? Ce le fac oamenilor...? Hiene nebune, pula mea."
+  },
+  {
+   "key": "1633009777928761344",
+   "en": "V, jack into her biomon – we need to know what we're dealin' with.",
+   "ro": "V, conectează-te la biomonul ei – trebuie să știm cu ce avem de-a face."
+  },
+  {
+   "key": "1633011623237971968",
+   "en": "V, jack into her biomon. Need to know what we're dealin' with.",
+   "ro": "V, conectează-te la biomonul ei. Trebuie să știm cu ce avem de-a face."
+  },
+  {
+   "key": "1633012234515836928",
+   "en": "About to find out...",
+   "en_m": "About to find out.",
+   "ro": "Acum aflăm..."
+  },
+  {
+   "key": "1897861422103293952",
+   "en": "Jesus fucking Christ...",
+   "en_m": "Jesus fuckin' Christ…",
+   "ro": "Doamne, pula mea…"
+  },
+  {
+   "key": "1898314879062929408",
+   "en": "Place the patient on the stretcher!",
+   "ro": "Pune pacienta pe targă!"
+  },
+  {
+   "key": "1926919550920716288",
+   "en": "Step back!",
+   "ro": "Dă-te înapoi!"
+  },
+  {
+   "key": "1926923970895048704",
+   "en": "Ay, had to hurt… Shoulda followed orders.",
+   "ro": "Ay, a trebuit să doară... Trebuia să asculte ordinele."
+  },
+  {
+   "key": "1944614793245782016",
+   "en": "Hm... Scavrats abandoning ship. Musta seen Trauma, decided to cut their losses.",
+   "ro": "Hm... hienele fug de pe corabie. Probabil au văzut Trauma și și-au tăiat pierderile."
+  },
+  {
+   "key": "2008449837784850432",
+   "en": "Stop in the doorway!",
+   "ro": "Stai în prag!"
+  },
+  {
+   "key": "2009811489618063360",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Catch, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Catch, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Prinde, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Prinde, \" a=\"!\"/>"
+  }
+ ]
+}

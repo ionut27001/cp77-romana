@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_voodoo_boys_conversation_004.json",
+ "entries": [
+  {
+   "key": "3373610203736682496",
+   "en": "<kiroshi l=\"creo\" o=\"Ede m'ak hack sa? Ou dwe mete yon bloke odyo nan rafrechi optik la.\" t=\"Help me with this hack? Gotta add an audio blocker to the optics reboot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ede m'ak hack sa? Ou dwe mete yon bloke odyo nan rafrechi optik la.\" t=\"Mă ajuți cu hack-ul ăsta? Trebuie să pun un blocant audio la repornirea opticilor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395566297677123584",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pa ka senkronize yo. Optik yo tounen sou entènèt yon segond twò bonè.\" t=\"I can't sync 'em. The optics come back online a second early.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pa ka senkronize yo. Optik yo tounen sou entènèt yon segond twò bonè.\" t=\"Nu le pot sincroniza. Opticile revin online cu o secundă prea devreme.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395566426224152576",
+   "en": "<kiroshi l=\"creo\" o=\"Hm... Oke, voye kòd la, map gade.\" t=\"Hm... Alright, send the code, I'll take a look.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Hm... Oke, voye kòd la, map gade.\" t=\"Hm... Ok, trimite codul, mă uit peste el.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

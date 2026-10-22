@@ -1,0 +1,494 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq031\\sq031_01d_smack_rogue.json",
+ "entries": [
+  {
+   "key": "1788805295008079872",
+   "en": "Ugh... Khe khe...",
+   "ro": "Ugh... Khe khe..."
+  },
+  {
+   "key": "1788810308879081472",
+   "en": "Oh, fuck.",
+   "ro": "Ah, futu-i."
+  },
+  {
+   "key": "1788815630494556164",
+   "en": "So, feelin' better?",
+   "ro": "Deci, ți-e mai bine?"
+  },
+  {
+   "key": "1788815743120007172",
+   "en": "The hell is this place?",
+   "ro": "Ce căcat e locul ăsta?"
+  },
+  {
+   "key": "1788825514556481536",
+   "en": "Heh. No.",
+   "en_m": "Hm. No.",
+   "ro": "Heh. Nu.",
+   "ro_m": "Hm. Nu."
+  },
+  {
+   "key": "1788826667067334656",
+   "en": "Place where you can puke all over the carpet, no problem.",
+   "ro": "Un loc unde poți vomita pe covor, nicio problemă."
+  },
+  {
+   "key": "1788826963285860352",
+   "en": "Beggar, not chooser.",
+   "ro": "Cine cere nu alege."
+  },
+  {
+   "key": "1795455182183927808",
+   "en": "Sure. First time you walked up, sensed there was something familiar about you.",
+   "ro": "Sigur. Când ai intrat prima dată, ceva la tine mi s-a părut cunoscut."
+  },
+  {
+   "key": "1795455763229249536",
+   "en": "Blah, blah, Johnny told you.",
+   "ro": "Bla, bla, Johnny ți-a zis."
+  },
+  {
+   "key": "1795457417378861056",
+   "en": "Did we...? You know…",
+   "ro": "Am...? Știi tu…"
+  },
+  {
+   "key": "1795458088803045376",
+   "en": "You don't seem surprised.",
+   "ro": "Nu pari surprinsă.",
+   "ro_m": "Nu pari surprins."
+  },
+  {
+   "key": "1795458484879560704",
+   "en": "Feel like shit.",
+   "ro": "Sunt praf."
+  },
+  {
+   "key": "1795459506528129024",
+   "en": "Don't seem surprised.",
+   "en_m": "You don't seem surprised.",
+   "ro": "Nu pari surprinsă.",
+   "ro_m": "Nu pari surprins."
+  },
+  {
+   "key": "1795461387472146432",
+   "en": "Ugh, feel like shit.",
+   "ro": "Ugh, sunt praf."
+  },
+  {
+   "key": "1795464400458813440",
+   "en": "Was surprised, but not anymore. You prolly don't remember.",
+   "ro": "Am fost surprinsă, da' nu mai sunt. Probabil nu-ți amintești."
+  },
+  {
+   "key": "1795465457977069568",
+   "en": "No surprise there. Don't remember a thing, huh?",
+   "ro": "Nu-i de mirare. Nu ții minte nimic, nu?"
+  },
+  {
+   "key": "1795466334385278976",
+   "en": "Let's just say I see some huge fuckin' black holes.",
+   "ro": "Să zicem că văd niște găuri negre al dracului de mari."
+  },
+  {
+   "key": "1795467281576562688",
+   "en": "Got flashes here an' there. Not everything, thank God.",
+   "en_m": "I got flashes here an' there. Not everything, thank God.",
+   "ro": "Am avut flash-uri ici și colo. Nu tot, slavă Domnului."
+  },
+  {
+   "key": "1795467840459182080",
+   "en": "Uh, did we...? You know...",
+   "en_m": "Did we, uh...? You know...",
+   "ro": "Ăă, am...? Știi tu...",
+   "ro_m": "Am, uh...? Știi tu..."
+  },
+  {
+   "key": "1795470306458275840",
+   "en": "No. Gonk was too drunk.",
+   "ro": "Nu. Fraierul era beat mort."
+  },
+  {
+   "key": "1795486087946506244",
+   "en": "He tell you about Smasher?",
+   "ro": "Ți-a zis despre Smasher?"
+  },
+  {
+   "key": "1795493846855258112",
+   "en": "Feels weird, this.",
+   "ro": "E ciudat, asta."
+  },
+  {
+   "key": "1795495847857033216",
+   "en": "Smasher – he tell you about 'im?",
+   "ro": "Smasher – ți-a zis despre el?"
+  },
+  {
+   "key": "1795496077067358208",
+   "en": "Feels weird, this… you knowin' about Johnny.",
+   "ro": "E ciudat, asta… că știi despre Johnny."
+  },
+  {
+   "key": "1795505963092217856",
+   "en": "Yes. Didn't know he'd come back to NC.",
+   "ro": "Da. Nu știam că se întoarce în NC."
+  },
+  {
+   "key": "1795506592841797632",
+   "en": "Johnny found some way to get at him.",
+   "ro": "Johnny a reușit să dea de el."
+  },
+  {
+   "key": "1795507013916364800",
+   "en": "Wait... Grayson?",
+   "ro": "Stai... Grayson?"
+  },
+  {
+   "key": "1795507311040860160",
+   "en": "Jeremiah Grayson. Works for Smasher. Johnny got a tip off some stripper, don't ask me how.",
+   "ro": "Jeremiah Grayson. Lucrează pentru Smasher. Johnny a primit un pont de la o stripteuză, nu mă întreba cum."
+  },
+  {
+   "key": "1795509543467552772",
+   "en": "Need some help?",
+   "ro": "Îți trebuie ajutor?"
+  },
+  {
+   "key": "1795510389609664512",
+   "en": "Know what Smasher's been doing all this time?",
+   "ro": "Știi ce-a făcut Smasher tot timpul ăsta?"
+  },
+  {
+   "key": "1795514649160257536",
+   "en": "Know what Smasher's been up to all this time?",
+   "ro": "Știi ce-a făcut Smasher tot timpul ăsta?"
+  },
+  {
+   "key": "1795514958917996544",
+   "en": "Can I help at all?",
+   "ro": "Pot să ajut cu ceva?"
+  },
+  {
+   "key": "1795515424385077248",
+   "en": "In your state? Heh, you're useless. Almost.",
+   "ro": "În halul ăsta? Heh, ești inutilă. Mai mult sau mai puțin.",
+   "ro_m": "În halul ăsta? Heh, ești inutil. Mai mult sau mai puțin."
+  },
+  {
+   "key": "1795515622322671616",
+   "en": "Holobuzz you when I learn something.",
+   "ro": "Te holobuz când aflu ceva."
+  },
+  {
+   "key": "1795515949411274752",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1795519915259924480",
+   "en": "Unbelievable that bastard's somewhere in your head.",
+   "ro": "Nu-mi vine să cred că nenorocitul ăla e în capul tău."
+  },
+  {
+   "key": "1795521939246485504",
+   "en": "Face is changing, y'know?",
+   "ro": "Fața se schimbă, știi?"
+  },
+  {
+   "key": "1795522367937908736",
+   "en": "Still look like V, but that mean smirk – I'd know it anywhere.",
+   "ro": "Tot arăți a V, dar zâmbetul ăla rău – l-aș recunoaște oriunde."
+  },
+  {
+   "key": "1795523748484681728",
+   "en": "How he talks, moves... how he smokes.",
+   "ro": "Cum vorbește, cum se mișcă... cum fumează."
+  },
+  {
+   "key": "1795524227390312448",
+   "en": "I don't smoke.",
+   "ro": "Nu fumez."
+  },
+  {
+   "key": "1795528585943257088",
+   "en": "I know. Could never confuse you two.",
+   "ro": "Știu. Nu v-aș confunda niciodată pe voi doi."
+  },
+  {
+   "key": "1795529035035774976",
+   "en": "So sleep soundly.",
+   "ro": "Deci somn ușor."
+  },
+  {
+   "key": "1795530615701180416",
+   "en": "\"Ebunike.\" Just that. Still, lemme see what I can do.",
+   "ro": "„Ebunike.” Doar atât. Totuși, lasă-mă să văd ce pot face."
+  },
+  {
+   "key": "1795531101602910208",
+   "en": "We're gonna get that son of a bitch.",
+   "ro": "O să-l prindem pe nenorocitul ăla."
+  },
+  {
+   "key": "1795536996260974592",
+   "en": "Disappeared after the 'Saka Tower assault in 2023. All thought he was gone for good.",
+   "ro": "A dispărut după asaltul de la turnul 'Saka din 2023. Toată lumea credea că a dispărut definitiv."
+  },
+  {
+   "key": "1795537538785808384",
+   "en": "Then suddenly reappeared. Did a few mondo jobs for Arasaka, then went right back to ground.",
+   "ro": "Apoi a reapărut brusc. A făcut câteva job-uri mondo pentru Arasaka, apoi s-a ascuns iar."
+  },
+  {
+   "key": "1795537945012539392",
+   "en": "Nobody's seen him in years.",
+   "ro": "Nimeni nu l-a mai văzut de ani."
+  },
+  {
+   "key": "1795539829597212672",
+   "en": "'Cept Grayson, apparently.",
+   "ro": "Doar cu Grayson, se pare."
+  },
+  {
+   "key": "1796459783775391748",
+   "en": "Fuck, never again.",
+   "ro": "Futu-i, niciodată iar."
+  },
+  {
+   "key": "1796460117222559744",
+   "en": "Fuck. Never again.",
+   "ro": "Futu-i. Niciodată iar."
+  },
+  {
+   "key": "1796461589658144768",
+   "en": "You tricked me. Were just supposed to talk to Rogue.",
+   "ro": "M-ai păcălit. Trebuia doar să vorbesc cu Rogue."
+  },
+  {
+   "key": "1796462272591499264",
+   "en": "You oughta be the one puking here.",
+   "ro": "Tu ar fi trebuit să vomiți aici."
+  },
+  {
+   "key": "1796467281647439872",
+   "en": "You oughta be the one pukin' right now.",
+   "ro": "Tu ar trebui să verși acum, nu eu."
+  },
+  {
+   "key": "1796467601823830016",
+   "en": "You tricked me. Just supposed to talk to Rogue.",
+   "ro": "M-ai păcălit. Trebuia doar să vorbesc cu Rogue."
+  },
+  {
+   "key": "1796484651803807744",
+   "en": "Had no idea the pills would lay you out like this.",
+   "ro": "Habar n-aveam că pastilele o să te dea așa peste cap."
+  },
+  {
+   "key": "1796487731849007104",
+   "en": "Yeah, well, life ain't fair.",
+   "ro": "Da, mă rog, viața nu e corectă."
+  },
+  {
+   "key": "1796488273383985152",
+   "en": "Sure picked the right moment to bolt outta my body.",
+   "en_m": "Yeah, sure picked the right moment to bolt outta my body.",
+   "ro": "Bun moment ți-ai găsit să-mi fugi din corp.",
+   "ro_m": "Da, bun moment ți-ai găsit să-mi fugi din corp."
+  },
+  {
+   "key": "1796501798068228096",
+   "en": "Maybe wouldn't be bad if you hadn't chased 'em down with fuck knows what.",
+   "ro": "Poate n-ar fi fost așa nasol dacă nu le dădeai pe gât cu dracu' știe ce."
+  },
+  {
+   "key": "1796515255073181696",
+   "en": "Did talk to 'er.",
+   "ro": "Am vorbit cu ea."
+  },
+  {
+   "key": "1796534891764322304",
+   "en": "And the stripper? Empathy brawl? Tattoo?",
+   "ro": "Și stripteuza? Bătaia de la Empathy? Tatuajul?"
+  },
+  {
+   "key": "1796536229881516032",
+   "en": "All required, man. Had to give Rogue something real, didn't I?",
+   "ro": "Toate necesare, frate. Trebuia să-i dau lui Rogue ceva real, nu?"
+  },
+  {
+   "key": "1796551220676333568",
+   "en": "Oughta be happy I left at all.",
+   "ro": "Ar trebui să fii fericit că am plecat măcar."
+  },
+  {
+   "key": "1796557204740182020",
+   "en": "Actually, for a moment there I thought...",
+   "ro": "De fapt, pentru o clipă am crezut..."
+  },
+  {
+   "key": "1796558047979835392",
+   "en": "I am happy. Positively glowing.",
+   "ro": "Sunt fericită. Radiez de fericire.",
+   "ro_m": "Sunt fericit. Radiez de fericire."
+  },
+  {
+   "key": "1796564645989126148",
+   "en": "\"Ebunike.\" That's real?",
+   "ro": "„Ebunike.” E real?"
+  },
+  {
+   "key": "1796565479061786624",
+   "en": "Coulda done it myself.",
+   "ro": "Aș fi putut s-o fac singură.",
+   "ro_m": "Aș fi putut s-o fac singur."
+  },
+  {
+   "key": "1796581167855898624",
+   "en": "For a moment there, did seem like you were thinkin' about stayin'.",
+   "en_m": "For a moment there, you did seem like you were thinkin' about stayin'.",
+   "ro": "Pentru o clipă, părea că te gândeai să rămâi.",
+   "ro_m": "Pentru o clipă, chiar părea că te gândeai să rămâi."
+  },
+  {
+   "key": "1796581885618753536",
+   "en": "I am. Look at me, spewin' joy and rainbows.",
+   "en_m": "Oh, I am. Look at me, spewin' joy and rainbows.",
+   "ro": "Sunt. Uită-te la mine, că împrăștii bucurie și curcubee."
+  },
+  {
+   "key": "1796582412658216960",
+   "en": "Like a fuckin' ray of sunshine.",
+   "ro": "Ca o rază de soare, pula mea."
+  },
+  {
+   "key": "1796582808432742400",
+   "en": "Well? We movin'?",
+   "ro": "Ei? Ne mișcăm?"
+  },
+  {
+   "key": "1796594351409008640",
+   "en": "I mean, such a good time.",
+   "en_m": "I mean, you had such a good time.",
+   "ro": "Adică, ce distracție.",
+   "ro_m": "Adică, te-ai distrat de minune."
+  },
+  {
+   "key": "1796597968039907328",
+   "en": "Don't trust me after all, huh?",
+   "ro": "Deci nu mă mai crezi, nu?"
+  },
+  {
+   "key": "1796599575867625472",
+   "en": "\"Ebunike\"? A lead on Grayson's supposed to be a lead on Smasher?",
+   "ro": "„Ebunike”? Un pont despre Grayson ar trebui să fie un pont despre Smasher?"
+  },
+  {
+   "key": "1796600713882963968",
+   "en": "Lead to lead – that's real?",
+   "ro": "Pont după pont – chiar e real?"
+  },
+  {
+   "key": "1796602896296775680",
+   "en": "Real enough for Rogue.",
+   "ro": "Suficient de real pentru Rogue."
+  },
+  {
+   "key": "1796603428637839360",
+   "en": "Quit mumble-whinin' and let's delta.",
+   "ro": "Taci din bâlbâit și hai s-o tăiem."
+  },
+  {
+   "key": "1796605238245134336",
+   "en": "Coulda done all that myself.",
+   "ro": "Aș fi putut face totul singură.",
+   "ro_m": "Aș fi putut face totul singur."
+  },
+  {
+   "key": "1796606738161799168",
+   "en": "I know you thought about it. Saw it.",
+   "ro": "Știu că te-ai gândit. Am văzut."
+  },
+  {
+   "key": "1796607241344061440",
+   "en": "I did exactly what we agreed. Let's get outta here.",
+   "ro": "Am făcut exact ce-am zis. Hai să ne cărăm de-aici."
+  },
+  {
+   "key": "1796608567029338112",
+   "en": "Oh yeah? Woulda talked to Rogue by yourself, too?",
+   "ro": "Ah, da? Și cu Rogue ai fi vorbit singură?",
+   "ro_m": "Ah, da? Și cu Rogue ai fi vorbit singur?"
+  },
+  {
+   "key": "1796609163341926400",
+   "en": "Or woulda needed me to whisper in your ear?",
+   "ro": "Sau ai fi avut nevoie să-ți șoptesc la ureche?"
+  },
+  {
+   "key": "1796609553999400960",
+   "en": "Fuck. I think I'm gonna blow.",
+   "en_m": "Ah, fuck. Think I'm gonna blow.",
+   "ro": "Futu-i. Cred că o să vomit.",
+   "ro_m": "Ah, pula mea. Cred că o să vomit."
+  },
+  {
+   "key": "1796611110606278656",
+   "en": "Let's get outta here. Get you some air.",
+   "ro": "Hai să plecăm de-aici. Să iei aer."
+  },
+  {
+   "key": "1892529470903701504",
+   "en": "He called me early morning. 'Course, I thought it was you.",
+   "ro": "M-a sunat de dimineață. Firește, am crezut că ești tu."
+  },
+  {
+   "key": "1892529471558012928",
+   "en": "And I thought, \"Cute kid. Too bad she's gone completely whacked.\"",
+   "en_m": "And I thought, \"Cute kid. Too bad he's gone completely whacked.\"",
+   "ro": "Și m-am gândit: «Copil drăguță. Păcat că s-a dus complet de cap.»",
+   "ro_m": "Și m-am gândit: «Copil drăguț. Păcat că s-a dus complet de cap.»"
+  },
+  {
+   "key": "1892529472178769920",
+   "en": "Came to see for yourself, huh? Morbid curiosity?",
+   "ro": "Ai venit să vezi cu ochii tăi, nu? Curiozitate morbidă?"
+  },
+  {
+   "key": "1892529472833081344",
+   "en": "Mhm. And I found Johnny Silverhand.",
+   "ro": "Mhm. Și l-am găsit pe Johnny Silverhand."
+  },
+  {
+   "key": "1914074064732573696",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1914074513304997888",
+   "en": "Mhm... Ugh.",
+   "ro": "Mhm... Ugh."
+  },
+  {
+   "key": "1914075541932888064",
+   "en": "Spit blood first thing every morning?",
+   "ro": "Scuipi sânge în fiecare dimineață?"
+  },
+  {
+   "key": "1914075834242322432",
+   "en": "Talk about something else, please?",
+   "ro": "Hai să schimbăm subiectul, da?"
+  },
+  {
+   "key": "1963314385100992516",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2128480590018375684",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_high_f_12_mex_30.json",
+ "entries": [
+  {
+   "key": "1882049468729663492",
+   "en": "<kiroshi l=\"mex\" o=\"¡Hola!\" t=\"Hi!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Hola!\" t=\"Salut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1882049468746440708",
+   "en": "Are you from around here?",
+   "ro": "Ești de pe-aici?"
+  },
+  {
+   "key": "1882049468830326788",
+   "en": "Are you on something right now?!",
+   "ro": "Ești pe ceva acum?!"
+  },
+  {
+   "key": "1882049468863881220",
+   "en": "You trying to be funny?",
+   "ro": "Te crezi amuzant?"
+  },
+  {
+   "key": "1882049468930990084",
+   "en": "Oh, hey!",
+   "ro": "Oh, salut!"
+  },
+  {
+   "key": "1882049468998098948",
+   "en": "This city is really something... Hmm? Mhm, not yet... You know how it is. Color palette is a bit dull.",
+   "ro": "Orașul ăsta chiar e ceva... Hm? Mhm, încă nu... Știi cum e. Paleta de culori e cam ștearsă."
+  },
+  {
+   "key": "1882049469031653380",
+   "en": "Things seem pretty calm here... Right, \"for now.\"... Don't worry, I will... Of course, you never know!",
+   "ro": "Aici e destul de liniștit... Așa, „deocamdată”... Nu-ți face griji, o să... Sigur, nu știi niciodată!"
+  },
+  {
+   "key": "1882049469065207812",
+   "en": "See ya later!",
+   "ro": "Pe mai târziu!"
+  },
+  {
+   "key": "1882049469232979972",
+   "en": "<kiroshi l=\"mex\" o=\"¡Santo Cristo!\" t=\"Jesus Christ!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Santo Cristo!\" t=\"Doamne!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1882049469266534400",
+   "en": "I don't see any police!",
+   "ro": "Nu văd nicio poliție!"
+  },
+  {
+   "key": "1882049469400752132",
+   "en": "I-I'm not from here! I didn't do anything!",
+   "ro": "N-nu sunt de aici! N-am făcut nimic!"
+  },
+  {
+   "key": "1882049469417529348",
+   "en": "Whatever you want, I-I'll do it!",
+   "ro": "Orice vrei, o-o să fac!"
+  },
+  {
+   "key": "1882049469534969860",
+   "en": "Umm... do you need directions?",
+   "ro": "Umm... ai nevoie de indicații?"
+  },
+  {
+   "key": "1882049469568524292",
+   "en": "I think I would rather walk by myself.",
+   "ro": "Cred că prefer să merg singură."
+  },
+  {
+   "key": "1958936074502840324",
+   "en": "OK... yeah... that's totally fine...",
+   "ro": "OK... da... e perfect în regulă..."
+  },
+  {
+   "key": "1958936074586726404",
+   "en": "Oh? So this is a good time for you then?",
+   "ro": "Oh? Deci acum e un moment bun pentru tine?"
+  },
+  {
+   "key": "1958936074637058052",
+   "en": "It's kind of urgent...",
+   "ro": "E cam urgent..."
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_tcl_f_04_jap_25_mt.json",
+ "entries": [
+  {
+   "key": "1876550964758454276",
+   "en": "<kiroshi l=\"jpn\" o=\"お前も損得だけで動くんだろう。はん！\" t=\"You only act if there's somethin' in it for you. Pah!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お前も損得だけで動くんだろう。はん！\" t=\"Acționezi doar dacă ai ceva de câștigat. Pah!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964775231492",
+   "en": "<kiroshi l=\"jpn\" o=\"私はお前と違う。金じゃなく、家族のためにやってるんだ\" t=\"I'm not like you. I'm in this for my family, not the money.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私はお前と違う。金じゃなく、家族のためにやってるんだ\" t=\"Nu sunt ca tine. O fac pentru familie, nu pentru bani.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964842340356",
+   "en": "<kiroshi l=\"jpn\" o=\"いい加減にしな。これ以上は我慢しないよ\" t=\"Why so pushy? This can only end badly…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いい加減にしな。これ以上は我慢しないよ\" t=\"De ce ești așa insistent? Nu poate să se termine bine…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964859117572",
+   "en": "<kiroshi l=\"jpn\" o=\"さっさと失せて\" t=\"Just leave. Please.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さっさと失せて\" t=\"Pleacă. Te rog.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964926226436",
+   "en": "<kiroshi l=\"jpn\" o=\"ケンカを売ってるつもり？\" t=\"Are you looking for trouble?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ケンカを売ってるつもり？\" t=\"Cauți necazuri?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964943003652",
+   "en": "<kiroshi l=\"jpn\" o=\"これ以上やったら、マジでキレるよ\" t=\"Stop annoying me or I lose my temper. Idiot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"これ以上やったら、マジでキレるよ\" t=\"Lasă-mă în pace sau mă enervez. Idiotule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550964993335300",
+   "en": "<kiroshi l=\"jpn\" o=\"調子に乗るんじゃないよ、お嬢ちゃん\" t=\"You got nothing to prove, kiddo.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"調子に乗るんじゃないよ、坊主\" t=\"You got nothing to prove, kiddo.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"調子に乗るんじゃないよ、お嬢ちゃん\" t=\"Nu ai nimic de dovedit, puștoaico.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"調子に乗るんじゃないよ、坊主\" t=\"Nu ai nimic de dovedit, puștiule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965026889732",
+   "en": "<kiroshi l=\"jpn\" o=\"よっぽど死にたいみたいだね\" t=\"You better be ok with finishing what you start\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"よっぽど死にたいみたいだね\" t=\"Mai bine te împaci cu ideea de a termina ce-ai început.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965077221380",
+   "en": "<kiroshi l=\"jpn\" o=\"死なずに済んだね。賢いじゃない\" t=\"You chose to live. Smart.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"死なずに済んだね。賢いじゃない\" t=\"Ai ales să trăiești. Inteligent.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965110775812",
+   "en": "<kiroshi l=\"jpn\" o=\"あんたムカつく\" t=\"I don't like you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あんたムカつく\" t=\"Nu-mi placi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965194661892",
+   "en": "<kiroshi l=\"jpn\" o=\"はいはい…\" t=\"well, well…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はいはい…\" t=\"ei, ei…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965228216324",
+   "en": "<kiroshi l=\"jpn\" o=\"ん？\" t=\"Hmmm?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ん？\" t=\"Hmmm?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965295325188",
+   "en": "<kiroshi l=\"jpn\" o=\"戻るか\" t=\"mission accomplished.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"戻るか\" t=\"misiune îndeplinită.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965328879620",
+   "en": "<kiroshi l=\"jpn\" o=\"一応ちゃんと見たと思うけど\" t=\"I don't think I missed anything.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"一応ちゃんと見たと思うけど\" t=\"Nu cred că am ratat ceva.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965379211268",
+   "en": "<kiroshi l=\"jpn\" o=\"ガキか！ いい加減、姿を現しな！\" t=\"How old ARE you? Stop dicking around!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ガキか！ いい加減、姿を現しな！\" t=\"Câți ani ai, de fapt? Lasă prostiile!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965395988484",
+   "en": "<kiroshi l=\"jpn\" o=\"出ておいで、ママが探してるよ\" t=\"Come on out now. Your mommy's looking for you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"出ておいで、ママが探してるよ\" t=\"Ieși afară acum. Mămica te caută.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965446320132",
+   "en": "<kiroshi l=\"jpn\" o=\"死んでる！\" t=\"It's a body!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"死んでる！\" t=\"E un cadavru!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965496651780",
+   "en": "<kiroshi l=\"jpn\" o=\"わかった\" t=\"Okay.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"わかった\" t=\"Bine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965546983428",
+   "en": "<kiroshi l=\"jpn\" o=\"かかってきなよ！\" t=\"It all makes sense now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"かかってきなよ！\" t=\"Acum totul are sens!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965580537860",
+   "en": "<kiroshi l=\"jpn\" o=\"てめえ！\" t=\"You whore.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"てめえ！\" t=\"Curvo.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965614092292",
+   "en": "<kiroshi l=\"jpn\" o=\"いくよ！\" t=\"incoming!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いくよ！\" t=\"Vin!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965681201156",
+   "en": "<kiroshi l=\"jpn\" o=\"どうだ！\" t=\"Bullseye!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"どうだ！\" t=\"Direct în țintă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965714755588",
+   "en": "<kiroshi l=\"jpn\" o=\"ヒャッハー！ ノッてきた！\" t=\"Aiiiiii! This is FUN!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ヒャッハー！ ノッてきた！\" t=\"Aiiiiii! Ce distracție!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965765087236",
+   "en": "<kiroshi l=\"jpn\" o=\"やられた！\" t=\"I'm hit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やられた！\" t=\"Am fost lovită!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965781864452",
+   "en": "<kiroshi l=\"jpn\" o=\"人生は死ぬことと見つけたり\" t=\"The meaning of life is death.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"人生は死ぬことと見つけたり\" t=\"Sensul vieții e moartea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965848973316",
+   "en": "<kiroshi l=\"jpn\" o=\"ちっ、どんくさい奴だね\" t=\"Tsk, tsk. Whata klutz.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ちっ、どんくさい奴だね\" t=\"Tsk, tsk. Ce neîndemânatică.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965865750532",
+   "en": "<kiroshi l=\"jpn\" o=\"まともに歩けないの？\" t=\"Did your legs stop working?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"まともに歩けないの？\" t=\"Ți-au cedat picioarele?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965916082180",
+   "en": "<kiroshi l=\"jpn\" o=\"もしもし？ もしもーし？\" t=\"Hello? Helloo?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もしもし？ もしもーし？\" t=\"Alo? Alooo?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965966413828",
+   "en": "<kiroshi l=\"jpn\" o=\"やだー、ダーリン。元気してる？\" t=\"Oooh, helloooo lover. How are yoouuu…?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やだー、ダーリン。元気してる？\" t=\"Oooh, salut, iubitule. Ce mai faciii…?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550965999968260",
+   "en": "<kiroshi l=\"jpn\" o=\"ああん、ちょうどあんたのこと考えてたの… うん、私も楽しかった… うふふ\" t=\"Hello baby, I was just thinking about you… mmm, I had fun too, ha ha ha…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ああん、ちょうどあんたのこと考えてたの… うん、私も楽しかった… うふふ\" t=\"Salut, baby, tocmai mă gândeam la tine… mmm, și eu m-am distrat, ha ha ha…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966083854336",
+   "en": "<kiroshi l=\"jpn\" o=\"頭を使え！ 回り込むんだよ！\" t=\"Think, fools! Flank them!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"頭を使え！ 回り込むんだよ！\" t=\"Gândiți, proștilor! Flancați-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966117408772",
+   "en": "<kiroshi l=\"jpn\" o=\"任せて！\" t=\"Crystal-clear!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"任せて！\" t=\"Clar ca lumina zilei!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966167740420",
+   "en": "<kiroshi l=\"jpn\" o=\"伏せて！\" t=\"Get down!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"伏せて！\" t=\"La pământ!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966184517636",
+   "en": "<kiroshi l=\"jpn\" o=\"バイバイ\" t=\"Bye-bye…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"バイバイ\" t=\"Pa-pa…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966234849284",
+   "en": "<kiroshi l=\"jpn\" o=\"もう、今度は何？\" t=\"ugh, what now?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もう、今度は何？\" t=\"ugh, ce-i acum?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966285180932",
+   "en": "<kiroshi l=\"jpn\" o=\"武器を構えて… あたしが先導する\" t=\"Pssst… safety off and on my 6.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"武器を構えて… あたしが先導する\" t=\"Pssst… siguranță jos și pe 6-ul meu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966318735364",
+   "en": "<kiroshi l=\"jpn\" o=\"しーっ…\" t=\"Shhhh…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"しーっ…\" t=\"Shhhh…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966369067012",
+   "en": "<kiroshi l=\"jpn\" o=\"先に行って\" t=\"You first.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"先に行って\" t=\"Tu primul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966385844228",
+   "en": "<kiroshi l=\"jpn\" o=\"血の匂いだ！\" t=\"I smell blood!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"血の匂いだ！\" t=\"Simt miros de sânge!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876550966419398660",
+   "en": "<kiroshi l=\"jpn\" o=\"ああ… くっ… やめ… やめ… て…\" t=\"arghhh. Khhh.. Stop... Khhhh... Ssssstop…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ああ… くっ… やめ… やめ… て…\" t=\"arghhh. Khhh.. Stop... Khhh... Ssssstop…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876560217611182080",
+   "en": "<kiroshi l=\"jpn\" o=\"連絡してないよ… 裏なんかないって、言ったじゃない… うん…\" t=\"I didn't call you… No strings attached, remember?... Uhhm…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"連絡してないよ… 裏なんかないって、言ったじゃない… うん…\" t=\"Nu te-am sunat… Fără obligații, ții minte?... Uhhm…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876560996627652608",
+   "en": "<kiroshi l=\"jpn\" o=\"え、聞いてないけど… うん…\" t=\"no, I hadn't heard… Sure…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え、聞いてないけど… うん…\" t=\"nu, n-am auzit… Sigur…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744106360836",
+   "en": "<kiroshi l=\"jpn\" o=\"何なの…？\" t=\"What now...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何なの…？\" t=\"Ce-i acum...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744358019076",
+   "en": "<kiroshi l=\"jpn\" o=\"そいつをやっちまえ！\" t=\"Attack!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そいつをやっちまえ！\" t=\"Atacă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744492236804",
+   "en": "<kiroshi l=\"jpn\" o=\"まずい… 仲間がやられてる！\" t=\"Fuck... Someone's picking us off!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"まずい… 仲間がやられてる！\" t=\"Futu-i... Ne ia unul câte unul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744525791236",
+   "en": "<kiroshi l=\"jpn\" o=\"このポンコツインプラントが！\" t=\"Stupid-ass implants!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"このポンコツインプラントが！\" t=\"Implanturi nenorocite!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744643231748",
+   "en": "<kiroshi l=\"jpn\" o=\"え、何？ どういうこと？\" t=\"What gives? Did I do something?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"え、何？ どういうこと？\" t=\"Ce-i cu tine? Am făcut ceva?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744777449476",
+   "en": "<kiroshi l=\"jpn\" o=\"ぐああ、痛い！\" t=\"Fuck, it hurts!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ぐああ、痛い！\" t=\"Pula mea, mă doare!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744844558336",
+   "en": "<kiroshi l=\"jpn\" o=\"クソ！\" t=\"Stop!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソ！\" t=\"Stop!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162744978776068",
+   "en": "<kiroshi l=\"jpn\" o=\"クソッタレ！！\" t=\"Fuck yourself!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソッタレ！！\" t=\"Du-te-n pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745213657092",
+   "en": "<kiroshi l=\"jpn\" o=\"ハッ！ 今のは痛かっただろ？\" t=\"Ouch! That must've hurt!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハッ！ 今のは痛かっただろ？\" t=\"Ouch! That must've hurt!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745398206468",
+   "en": "<kiroshi l=\"jpn\" o=\"相手は弱ってる！ トドメを刺してやれ！\" t=\"She's getting weaker! Finish the bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"相手は弱ってる！ トドメを刺してやれ！\" t=\"She's getting weaker! Finish the fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"相手は弱ってる！ トドメを刺してやれ！\" t=\"Slăbește! Termin-o, curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"相手は弱ってる！ トドメを刺してやれ！\" t=\"Slăbește! Termin-o, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745448538116",
+   "en": "<kiroshi l=\"jpn\" o=\"私がやる！\" t=\"I'm on it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"私がやる！\" t=\"Mă ocup!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745498869764",
+   "en": "<kiroshi l=\"jpn\" o=\"出てこい！\" t=\"Come on out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"出てこい！\" t=\"Ieși afară!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745599533060",
+   "en": "<kiroshi l=\"jpn\" o=\"リロード中！\" t=\"Reloading!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"リロード中！\" t=\"Reîncărcare!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745666641924",
+   "en": "<kiroshi l=\"jpn\" o=\"ちょっと、何のつもり？\" t=\"Fuck's gotten into you?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ちょっと、何のつもり？\" t=\"Ce te-a apucat?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745817636868",
+   "en": "<kiroshi l=\"jpn\" o=\"助けて！ 何も見えない！\" t=\"Help! I can't see!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"助けて！ 何も見えない！\" t=\"Ajutor! Nu văd nimic!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745867968516",
+   "en": "<kiroshi l=\"jpn\" o=\"クソ！ ランナーの仕業か！\" t=\"Fucking netrunner!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソ！ ランナーの仕業か！\" t=\"Nenorocitul de netrunner!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745918300164",
+   "en": "<kiroshi l=\"jpn\" o=\"はああ、キタキタ！\" t=\"Oooh, thats the shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はああ、キタキタ！\" t=\"Oooh, ăsta-i cel mai tare!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162745985409028",
+   "en": "<kiroshi l=\"jpn\" o=\"応援を呼べ！ このままじゃ全滅だ！\" t=\"Call for help or we're fucked!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"応援を呼べ！ このままじゃ全滅だ！\" t=\"Cheamă întăriri, altfel ne-am futut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162746035740676",
+   "en": "<kiroshi l=\"jpn\" o=\"逃げ場はないぞ！\" t=\"You're fucked!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"逃げ場はないぞ！\" t=\"Ai belit-o!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162746102849540",
+   "en": "<kiroshi l=\"jpn\" o=\"鉛を食らえ！\" t=\"Eat lead!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"鉛を食らえ！\" t=\"Mănâncă plumb!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162746169958400",
+   "en": "<kiroshi l=\"jpn\" o=\"終わりにしてやる！\" t=\"This ends now!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"終わりにしてやる！\" t=\"Se termină acum!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2232162746220290052",
+   "en": "<kiroshi l=\"jpn\" o=\"そんな！ もうやめてよ！\" t=\"No, no, no! Stop, please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そんな！ もうやめてよ！\" t=\"Nu, nu, nu! Oprește-te, te rog!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

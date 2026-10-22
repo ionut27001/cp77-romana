@@ -1,0 +1,676 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q201\\q201_03_cabin_day_1.json",
+ "entries": [
+  {
+   "key": "1641537147332694016",
+   "en": "Please get ready. Testing will begin shortly.",
+   "ro": "Pregătește-te. Testarea începe în curând."
+  },
+  {
+   "key": "1642954085917233152",
+   "en": "Higher-order representation formation – initiating test.",
+   "ro": "Formarea reprezentărilor de ordin superior – inițiere test."
+  },
+  {
+   "key": "1643015879104892928",
+   "en": "Parietal lobe examination.",
+   "ro": "Examinarea lobului parietal."
+  },
+  {
+   "key": "1643020697236115456",
+   "en": "Please use your Kiroshi scanner and read the displayed text.",
+   "ro": "Folosește scanerul Kiroshi și citește textul afișat."
+  },
+  {
+   "key": "1643045119628120068",
+   "en": "What are these tests?",
+   "ro": "Ce teste sunt astea?"
+  },
+  {
+   "key": "1643048109009244160",
+   "en": "What're these tests meant to… test?",
+   "ro": "Ce vor de fapt să testeze?"
+  },
+  {
+   "key": "1643053711928299520",
+   "en": "A shadow gradually falls over the ground. The first raincloud of the year.",
+   "ro": "O umbră cade treptat peste pământ. Primul nor de ploaie al anului."
+  },
+  {
+   "key": "1643144302183813120",
+   "en": "Initiate device calibration.",
+   "ro": "Pornește calibrarea dispozitivului."
+  },
+  {
+   "key": "1643151830976270336",
+   "en": "Journey.",
+   "ro": "Călătorie."
+  },
+  {
+   "key": "1643154558683156480",
+   "en": "Hmm. Yes. Right.",
+   "ro": "Hmm. Da. Bine."
+  },
+  {
+   "key": "1643347684957851648",
+   "en": "How'd I do?",
+   "ro": "Cum m-am descurcat?"
+  },
+  {
+   "key": "1651940991602495488",
+   "en": "\"And it was a sight to behold, he said, how a soul would choose its life.\"",
+   "ro": "„Și a fost o priveliște de neuitat, a spus el, cum un suflet și-ar alege viața.”"
+  },
+  {
+   "key": "1651945005870190592",
+   "en": "What the hell...?",
+   "ro": "Ce naiba...?"
+  },
+  {
+   "key": "1651946372156329988",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "1675293556190240768",
+   "en": "No \"good morning\"? No, \"Got some good news for ya\"?",
+   "ro": "Fără „bună dimineața”? Fără „am vești bune pentru tine”?"
+  },
+  {
+   "key": "1675294165253513216",
+   "en": "We must complete a series of tests. Please do not hinder or delay.",
+   "ro": "Avem o serie de teste de făcut. Te rog, nu ne încurca și nu întârzia."
+  },
+  {
+   "key": "1675299556511211520",
+   "en": "The patient is ready to be examined.",
+   "ro": "Pacienta e gata de examinare.",
+   "ro_m": "Pacientul e gata de examinare."
+  },
+  {
+   "key": "1675304114260041728",
+   "en": "Higher-order representation formation?",
+   "ro": "Formarea reprezentărilor de ordin superior?"
+  },
+  {
+   "key": "1675304135952982016",
+   "en": "What's that device for?",
+   "ro": "La ce e dispozitivul ăsta?"
+  },
+  {
+   "key": "1675305004291350528",
+   "en": "Higher-order representation what?",
+   "ro": "Formarea reprezentărilor de ordin superior ce?"
+  },
+  {
+   "key": "1675305395871571968",
+   "en": "What's this thingamajig for?",
+   "ro": "La ce e chestia asta?"
+  },
+  {
+   "key": "1675365708738355200",
+   "en": "It measures pupillary response.",
+   "ro": "Măsoară reacția pupilei."
+  },
+  {
+   "key": "1675368103769825280",
+   "en": "Engram surgery carries an elevated risk of the onset of personality disorder. The test is essential.",
+   "ro": "Operația pe engrame crește riscul apariției unei tulburări de personalitate. Testul e esențial."
+  },
+  {
+   "key": "1675420733879640068",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1675421022011547648",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675422320651952128",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1675422839856455680",
+   "en": "Odyssey.",
+   "ro": "Odisee."
+  },
+  {
+   "key": "1675422973990297600",
+   "en": "Freedom.",
+   "ro": "Libertate."
+  },
+  {
+   "key": "1675425028612055040",
+   "en": "Orbit.",
+   "ro": "Orbită."
+  },
+  {
+   "key": "1675427158831947776",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1675427384049295360",
+   "en": "Home.",
+   "ro": "Acasă."
+  },
+  {
+   "key": "1675427536856178688",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675427775948283904",
+   "en": "Life.",
+   "ro": "Viață."
+  },
+  {
+   "key": "1675427974993174528",
+   "en": "Odyssey.",
+   "ro": "Odisee."
+  },
+  {
+   "key": "1675428181856247808",
+   "en": "Freedom.",
+   "ro": "Libertate."
+  },
+  {
+   "key": "1675428403365830656",
+   "en": "Orbit.",
+   "ro": "Orbită."
+  },
+  {
+   "key": "1675432040280383488",
+   "en": "Dunno.",
+   "ro": "Nu știu."
+  },
+  {
+   "key": "1675432040297160704",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432040297160720",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432040297160736",
+   "en": "Got nothin'.",
+   "ro": "N-am nimic."
+  },
+  {
+   "key": "1675432040313937932",
+   "en": "A megabuilding.",
+   "ro": "Un megabuilding."
+  },
+  {
+   "key": "1675432040313937948",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1675432040381046784",
+   "en": "I… I dunno.",
+   "ro": "Eu... nu știu."
+  },
+  {
+   "key": "1675432040414601216",
+   "en": "Enemy.",
+   "ro": "Dușman."
+  },
+  {
+   "key": "1675432040464932864",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432040515264512",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432040548818944",
+   "en": "Got nothin'.",
+   "ro": "N-am nimic."
+  },
+  {
+   "key": "1675432040582373376",
+   "en": "Megabuilding.",
+   "ro": "Megabuilding."
+  },
+  {
+   "key": "1675432040615927808",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1675432612735770624",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432612752547840",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675432612752547856",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432612752547872",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675432612769325068",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1675432612769325084",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1675432612853211136",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432612903542784",
+   "en": "Principle.",
+   "ro": "Principiu."
+  },
+  {
+   "key": "1675432612970651648",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675432613020983296",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432613088092160",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675432613121646592",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1675432613171978240",
+   "en": "Death.",
+   "ro": "Moarte."
+  },
+  {
+   "key": "1675432998578184192",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432998594961420",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675432998594961436",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675432998611738632",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432998611738648",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1675432998628515848",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1675432998712401920",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675432998813065216",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675432998863396864",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675432998947282944",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675432998980837376",
+   "en": "Rebellion.",
+   "ro": "Rebeliune."
+  },
+  {
+   "key": "1675432999014391808",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1675436412070551552",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675436412070551568",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675436412087328780",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675436412087328796",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675436412104105992",
+   "en": "Principle.",
+   "ro": "Principiu."
+  },
+  {
+   "key": "1675436412104106008",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1675436412959744000",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1675436413010075648",
+   "en": "You're in a cornfield. Tall green plants as far as the eye can see.",
+   "ro": "Ești într-un lan de porumb. Plante verzi înalte cât vezi cu ochii."
+  },
+  {
+   "key": "1675436413043630080",
+   "en": "Me.",
+   "ro": "Eu."
+  },
+  {
+   "key": "1675436413093961728",
+   "en": "Arasaka.",
+   "ro": "Arasaka."
+  },
+  {
+   "key": "1675436413144293376",
+   "en": "The city.",
+   "ro": "Orașul."
+  },
+  {
+   "key": "1675436413194625024",
+   "en": "Principle.",
+   "ro": "Principiu."
+  },
+  {
+   "key": "1675436413228179456",
+   "en": "I dunno.",
+   "ro": "Habar n-am."
+  },
+  {
+   "key": "1679691389412597760",
+   "en": "Respond to the keywords – no thinking, just the first word that comes to mind.",
+   "ro": "Răspunde la cuvintele-cheie – fără să te gândești, primul cuvânt care-ți vine în minte."
+  },
+  {
+   "key": "1679693332918853632",
+   "en": "Betrayal.",
+   "ro": "Trădare."
+  },
+  {
+   "key": "1679705151997763584",
+   "en": "\"Sometimes pitiable, sometimes laughable, at times wonderful and strange...\"",
+   "ro": "„Uneori demn de milă, alteori de râs, câteodată minunat și ciudat...”"
+  },
+  {
+   "key": "1679705890765692928",
+   "en": "That's enough.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "1679713540689649664",
+   "en": "We will see.",
+   "ro": "O să vedem."
+  },
+  {
+   "key": "1679785341000114176",
+   "en": "The sun is bright, blinding. The stalks of corn part as you walk forward.",
+   "ro": "Soarele arde, te orbește. Tulpinile de porumb se dau la o parte pe măsură ce înaintezi."
+  },
+  {
+   "key": "1679786602327990272",
+   "en": "You come across a clearing left by an automated combine in its wake.",
+   "ro": "Dai peste o poiană lăsată în urma unei combine automate."
+  },
+  {
+   "key": "1679790576833683456",
+   "en": "What sorta test is this?",
+   "ro": "Ce fel de test e ăsta?"
+  },
+  {
+   "key": "1679791008058466304",
+   "en": "What's this test for anyway?",
+   "ro": "La ce e testul ăsta, de fapt?"
+  },
+  {
+   "key": "1679791180679241728",
+   "en": "The heat has made your mouth dry and sticky. You spot a rodents' nest at your feet.",
+   "ro": "Căldura ți-a uscat gura și ți-a lăsat-o lipicioasă. Vezi un cuib de rozătoare chiar lângă picioare."
+  },
+  {
+   "key": "1679792884774625280",
+   "en": "The machine has torn through the soft soil. You spot blind, newborn field mice around their mother. The machine has left her sliced in two.",
+   "ro": "Utilajul a brăzdat pământul moale. Vezi pui de șoarece de câmp, orbi, nou-născuți, lângă mama lor. Utilajul a tăiat-o în două."
+  },
+  {
+   "key": "1679795757537320960",
+   "en": "They lie in perfect symmetry, a tiny rodent rosette. Your mouth begins to water.",
+   "ro": "Sunt aranjați perfect simetric, ca o rozetă minusculă. Ți se face gura apă."
+  },
+  {
+   "key": "1679802216748703744",
+   "en": "There something wrong with me?",
+   "ro": "S-a întâmplat ceva cu mine?"
+  },
+  {
+   "key": "1679802579019128832",
+   "en": "That's enough.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "1679804109621321728",
+   "en": "Measurements complete.",
+   "ro": "Măsurători complete."
+  },
+  {
+   "key": "1679804440266694656",
+   "en": "What's wrong with me?",
+   "ro": "Ce am eu?"
+  },
+  {
+   "key": "1679804544872636416",
+   "en": "That's enough.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "1679804818962014208",
+   "en": "The test is necessary.",
+   "ro": "Testul e necesar."
+  },
+  {
+   "key": "1679805190040477696",
+   "en": "I said – enough.",
+   "ro": "Am zis – gata."
+  },
+  {
+   "key": "1679805388783378432",
+   "en": "We shall return to it later.",
+   "ro": "O să revenim la el mai târziu."
+  },
+  {
+   "key": "1682357022126268416",
+   "en": "It tests your level of empathy.",
+   "ro": "Testează nivelul tău de empatie."
+  },
+  {
+   "key": "1711284507755122692",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1720278603685126148",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1730269303944208384",
+   "en": "Motor function test. Please step onto the treadmill.",
+   "ro": "Urcă pe bandă, te rog."
+  },
+  {
+   "key": "1730269305907142656",
+   "en": "Please connect to the device.",
+   "ro": "Conectează-te la dispozitiv, te rog."
+  },
+  {
+   "key": "1730269305957474304",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1730269306980884480",
+   "en": "What's this test all about?",
+   "ro": "Despre ce e testul ăsta, de fapt?"
+  },
+  {
+   "key": "1730269307031216128",
+   "en": "Please walk. Gradually accelerate.",
+   "ro": "Mergi, te rog. Accelerează treptat."
+  },
+  {
+   "key": "1730269307047993360",
+   "en": "This is pointless.",
+   "ro": "E inutil."
+  },
+  {
+   "key": "1730269308104957952",
+   "en": "How am I doing?",
+   "ro": "Cum mă descurc?"
+  },
+  {
+   "key": "1730269308121735168",
+   "en": "What's this s'posed to prove? I already know I can walk.",
+   "ro": "Ce vrea să dovedească asta? Știu deja că pot merge."
+  },
+  {
+   "key": "1730269308289507328",
+   "en": "Please control your breathing.",
+   "ro": "Controlează-ți respirația, te rog."
+  },
+  {
+   "key": "1730269308289507336",
+   "en": "Accelerate by three.",
+   "ro": "Accelerează cu trei."
+  },
+  {
+   "key": "1730269308423725056",
+   "en": "Shit...",
+   "ro": "Căcat..."
+  },
+  {
+   "key": "1730269308524388352",
+   "en": "[Jack out and stand]",
+   "ro": "[Deconectează-te și ridică-te]"
+  },
+  {
+   "key": "1737213798900260864",
+   "en": "Please link yourself to the device.",
+   "ro": "Conectează-te la aparat, te rog."
+  },
+  {
+   "key": "1741493724683919360",
+   "en": "Get up.",
+   "ro": "Ridică-te."
+  },
+  {
+   "key": "1741494395571232768",
+   "en": "You can't stay here.",
+   "ro": "Nu poți rămâne aici."
+  },
+  {
+   "key": "1780550458027618308",
+   "en": "Motor function test.",
+   "ro": "Test de funcție motorie."
+  },
+  {
+   "key": "1790735821958361092",
+   "en": "Hm.",
+   "ro": "Hm."
+  },
+  {
+   "key": "1795168478926548996",
+   "en": "Cognitive function test.",
+   "ro": "Test de funcție cognitivă."
+  },
+  {
+   "key": "1795168483657723904",
+   "en": "Solve the cube.",
+   "ro": "Rezolvă cubul."
+  },
+  {
+   "key": "1866133653435002880",
+   "en": "[Touch]",
+   "ro": "[Atinge]"
+  },
+  {
+   "key": "2047740742895742976",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2047740896541487104",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2047742718949797888",
+   "en": "[Solve]",
+   "ro": "[Rezolvă]"
+  },
+  {
+   "key": "2049170927713071104",
+   "en": "What, no \"I've got good news?\"",
+   "ro": "Ce, n-ai vești bune?"
+  }
+ ]
+}

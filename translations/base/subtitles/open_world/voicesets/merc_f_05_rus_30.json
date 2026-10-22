@@ -1,0 +1,214 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\merc_f_05_rus_30.json",
+ "entries": [
+  {
+   "key": "1958804295729061892",
+   "en": "No funny business.",
+   "ro": "Fără prostii."
+  },
+  {
+   "key": "1958804295745839108",
+   "en": "What the fuck do you think?",
+   "ro": "Ce pula mea crezi?"
+  },
+  {
+   "key": "1958804295846502404",
+   "en": "I will rearrange your pretty little face for you.",
+   "ro": "Îți fac fața praf."
+  },
+  {
+   "key": "1958804295863279620",
+   "en": "Stop! No dickwads allowed.",
+   "ro": "Stop! Proștii nu au ce căuta aici."
+  },
+  {
+   "key": "1958804295963942916",
+   "en": "Weapon down. Down! Fuck!",
+   "ro": "Arma jos. Jos! Futu-i!"
+  },
+  {
+   "key": "1958804295997497348",
+   "en": "I don't like show-offs.",
+   "ro": "Nu-mi plac cei care se dau mari."
+  },
+  {
+   "key": "1958804296064606212",
+   "en": "Drop it, doll.",
+   "en_m": "Drop it, handsome.",
+   "ro": "Aruncă-o, păpușă.",
+   "ro_m": "Aruncă-o, frumosule."
+  },
+  {
+   "key": "1958804296098160640",
+   "en": "Come on, I'd looooove to fuck you up.",
+   "ro": "Hai, mi-ar plăcea să te fac praf."
+  },
+  {
+   "key": "1958804296165269508",
+   "en": "Oh? Why you so nice all of a sudden?",
+   "ro": "A? Ce-i cu tine, deodată ești așa drăguță?",
+   "ro_m": "A? Ce-i cu tine, deodată ești așa drăguț?"
+  },
+  {
+   "key": "1958804296182046724",
+   "en": "Good dog.",
+   "ro": "Bravo, cățelule."
+  },
+  {
+   "key": "1958804296232378372",
+   "en": "Let's go \"identify\" the threat.",
+   "ro": "Hai să \"identificăm\" amenințarea."
+  },
+  {
+   "key": "1958804296249155588",
+   "en": "Oooo, an uninvited guest?",
+   "ro": "Oooo, un musafir nepoftit?"
+  },
+  {
+   "key": "1958804296299487236",
+   "en": "Enough wandering.",
+   "ro": "Gata cu rătăcitul."
+  },
+  {
+   "key": "1958804296316264452",
+   "en": "Area clear.",
+   "ro": "Zonă liberă."
+  },
+  {
+   "key": "1958804296349818884",
+   "en": "Well, little girl? I give up, hide and seek isn't my game!",
+   "en_m": "Well, little boy? I give up, hide and seek isn't my game!",
+   "ro": "Ei, fetițo? Mă predau, eu nu joc de-a v-ați ascunselea!",
+   "ro_m": "Ei, băiatule? Mă predau, eu nu joc de-a v-ați ascunselea!"
+  },
+  {
+   "key": "1958804296366596100",
+   "en": "Where are ya, pussy?",
+   "ro": "Unde ești, pizdă?"
+  },
+  {
+   "key": "1958804296400150532",
+   "en": "Eh! Safeties off! We got a body!",
+   "ro": "Eh! Siguranța dezactivată! Avem un cadavru!"
+  },
+  {
+   "key": "1958804296433704964",
+   "en": "Yup,  got it.",
+   "ro": "Da, am înțeles."
+  },
+  {
+   "key": "1958804296484036612",
+   "en": "Open fire!",
+   "ro": "Deschideți focul!"
+  },
+  {
+   "key": "1958804296500813828",
+   "en": "You're fucked!",
+   "ro": "Ești mort!"
+  },
+  {
+   "key": "1958804296551145476",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1958804296601477120",
+   "en": "<kiroshi l=\"rus\" o=\"Сука!\" t=\"Bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Мудила\" t=\"Asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Сука!\" t=\"Pizda mă-sii!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Мудила\" t=\"Jigodie!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1958804296618254340",
+   "en": "God fucking dammit!",
+   "ro": "Fir-ar al dracului!"
+  },
+  {
+   "key": "1958804296668585988",
+   "en": "<mothertongue l=\"rus\" m=\"Blyad'!\" b=\"They didn't pay me for this! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Blyad'!\" b=\"Nu m-au plătit pentru asta! \" a=\"\"/>"
+  },
+  {
+   "key": "1958804296685363204",
+   "en": "Don't just stand there! Fuckin' fight!",
+   "ro": "Nu sta acolo degeaba! Luptă, pula mea!"
+  },
+  {
+   "key": "1958804296735694852",
+   "en": "The hell.",
+   "ro": "Ce dracu'."
+  },
+  {
+   "key": "1958804296752472068",
+   "en": "Watch it!",
+   "ro": "Ai grijă!"
+  },
+  {
+   "key": "1958804296786026500",
+   "en": "Hey.",
+   "ro": "Hei."
+  },
+  {
+   "key": "1958804296836358148",
+   "en": "What…? What…? Calm down…! Where are you…? Are you fucking crazy?! I can't help you…! Then you're fucked!",
+   "ro": "Ce…? Ce…? Calmează-te…! Unde ești…? Ești smintit de tot?! Nu te pot ajuta…! Atunci ai belit-o!"
+  },
+  {
+   "key": "1958804296853135364",
+   "en": "Uh-huh… Uh-huh… Why don't you fuck off, ok…? Yeah! Everyone's fault but yours…! Fuck you!",
+   "ro": "Aha… aha… Hai, cară-te, ok…? Da! Vina e mereu a altora…! Du-te-n pula mea!"
+  },
+  {
+   "key": "1958804296903467012",
+   "en": "Cut her off, dammit!",
+   "en_m": "Cut him off, dammit!",
+   "ro": "Blocheaz-o, fir-ar!",
+   "ro_m": "Blochează-l, fir-ar!"
+  },
+  {
+   "key": "1958804296937021444",
+   "en": "I'll try to break through!",
+   "ro": "Încerc să sparg!"
+  },
+  {
+   "key": "1958804296970575876",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1958804296987353092",
+   "en": "Bye!",
+   "ro": "Pa!"
+  },
+  {
+   "key": "1958804297004130308",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1958804297054461956",
+   "en": "Ughhhh… Let's get to work.",
+   "ro": "Ughhhh… Hai la treabă."
+  },
+  {
+   "key": "1958804297071239172",
+   "en": "Now what? Goddammit.",
+   "ro": "Și acum ce? Fir-ar al dracului."
+  },
+  {
+   "key": "1958804297121570816",
+   "en": "Go for it.",
+   "ro": "Dă-i bătaie."
+  },
+  {
+   "key": "1958804297138348036",
+   "en": "Move your asses, you freeloaders!",
+   "ro": "Mișcați-vă, paraziților!"
+  },
+  {
+   "key": "1958804297171902468",
+   "en": "Arghhh… fuck… fuck you.",
+   "ro": "Arghhh… pula mea… du-te-n pula mea."
+  }
+ ]
+}

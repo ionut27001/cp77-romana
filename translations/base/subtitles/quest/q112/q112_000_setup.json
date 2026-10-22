@@ -1,0 +1,85 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_000_setup.json",
+ "entries": [
+  {
+   "key": "1651925268530479120",
+   "en": "[GT] Choose another part of the quest",
+   "ro": "[GT] Alege altă parte din quest"
+  },
+  {
+   "key": "3508655611262087172",
+   "en": "[db_db]Tank",
+   "ro": "[db_db]Tank"
+  },
+  {
+   "key": "3508656301845852160",
+   "en": "[db_db]MidArmor",
+   "ro": "[db_db]MidArmor"
+  },
+  {
+   "key": "3508656609976201216",
+   "en": "[db_db]GlassCanon",
+   "ro": "[db_db]GlassCanon"
+  },
+  {
+   "key": "3508657110188896256",
+   "en": "[db_db]MaxAllSkillsWeapon",
+   "ro": "[db_db]MaxAllSkillsWeapon"
+  },
+  {
+   "key": "3508662555066576900",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508663549838045184",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508663717643759616",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508663858756923392",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508668143322345472",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508668294971600896",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508668583170617344",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508669604903071748",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508670113571483648",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508670251832520704",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508670388164177920",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  }
+ ]
+}

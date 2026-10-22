@@ -1,0 +1,545 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NC//LOC-RO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#07070b; --panel:#0e0e15; --panel2:#14141e; --line:#2a2a3a;
+  --yellow:#fcee0a; --cyan:#02d7f2; --red:#ff003c; --green:#00ff9f; --dim:#8a8aa3; --text:#e8e8f0;
+  --font:"Rajdhani","Segoe UI",sans-serif; --mono:"Share Tech Mono",Consolas,monospace;
+  --cut:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,14px 100%,0 calc(100% - 14px));
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{margin:0;background:var(--bg);color:var(--text);font:500 16px/1.35 var(--font)}
+body{background-image:linear-gradient(rgba(2,215,242,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(2,215,242,.04) 1px,transparent 1px);background-size:40px 40px;min-height:100vh}
+body::after{content:"";position:fixed;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.18) 0 1px,transparent 1px 3px);z-index:50}
+a{color:var(--cyan)}
+header{position:sticky;top:0;z-index:20;background:rgba(7,7,11,.94);border-bottom:2px solid var(--yellow);backdrop-filter:blur(4px)}
+.bar{display:flex;align-items:center;gap:18px;padding:10px 20px;flex-wrap:wrap}
+.logo{font:700 26px/1 var(--font);letter-spacing:2px;color:var(--yellow);text-shadow:2px 0 var(--red),-2px 0 var(--cyan);white-space:nowrap}
+.logo small{display:block;font:12px var(--mono);letter-spacing:1px;color:var(--dim);text-shadow:none;margin-top:3px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-left:auto}
+.stat{font:13px var(--mono);padding:5px 10px;border:1px solid var(--line);background:var(--panel);clip-path:var(--cut)}
+.stat b{color:var(--yellow);font-weight:400}
+.led{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--red);box-shadow:0 0 8px var(--red)}
+.led.on{background:var(--green);box-shadow:0 0 8px var(--green)}
+.led.busy{background:var(--yellow);box-shadow:0 0 8px var(--yellow);animation:pulse 1s infinite}
+@keyframes pulse{50%{opacity:.3}}
+.progress{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;padding:0 20px 12px}
+.prog{font:13px var(--mono);color:var(--dim)}
+.prog .track{height:8px;background:var(--panel2);border:1px solid var(--line);margin-top:4px;position:relative;overflow:hidden}
+.prog .fill{height:100%;background:linear-gradient(90deg,var(--yellow),var(--cyan));width:0;transition:width .6s}
+nav{display:flex;gap:4px;padding:0 20px}
+nav button{font:700 15px var(--font);letter-spacing:2px;color:var(--dim);background:none;border:none;border-bottom:3px solid transparent;padding:8px 16px;cursor:pointer}
+nav button.active{color:var(--yellow);border-color:var(--yellow)}
+nav button .n{font:12px var(--mono);color:var(--cyan);margin-left:6px}
+main{padding:18px 20px 60px;max-width:1300px;margin:0 auto}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
+input,select,textarea{font:15px var(--font);color:var(--text);background:var(--panel);border:1px solid var(--line);padding:7px 10px;outline:none}
+input:focus,select:focus,textarea:focus{border-color:var(--cyan)}
+.btn{font:700 13px var(--font);letter-spacing:1.5px;padding:7px 14px;border:1px solid currentColor;background:transparent;cursor:pointer;clip-path:var(--cut);color:var(--cyan)}
+.btn:hover{background:rgba(2,215,242,.12)}
+.btn.y{color:var(--yellow)}.btn.y:hover{background:rgba(252,238,10,.12)}
+.btn.r{color:var(--red)}.btn.r:hover{background:rgba(255,0,60,.12)}
+.btn.g{color:var(--green)}.btn.g:hover{background:rgba(0,255,159,.12)}
+.btn.on{background:currentColor}.btn.on span{color:#000}
+.hint{font:13px var(--mono);color:var(--dim)}
+.list{display:flex;flex-direction:column;gap:12px}
+.card{background:var(--panel);border-left:3px solid var(--cyan);clip-path:var(--cut);padding:14px 18px;position:relative}
+.card.flagged{border-left-color:var(--red);background:linear-gradient(90deg,rgba(255,0,60,.08),var(--panel) 40%)}
+.card.ok{border-left-color:var(--green)}
+.card.new{animation:glitchIn .5s}
+@keyframes glitchIn{0%{opacity:0;transform:translateX(-8px);filter:hue-rotate(90deg)}30%{opacity:1;transform:translateX(4px)}60%{transform:translateX(-2px)}100%{transform:none;filter:none}}
+.row{display:flex;gap:14px;align-items:baseline;flex-wrap:wrap}
+.en{font:600 20px var(--font);color:var(--text)}
+.arrow{color:var(--dim);font-family:var(--mono)}
+.ro{font:700 22px var(--font);color:var(--yellow)}
+.tag{font:12px var(--mono);padding:2px 8px;border:1px solid var(--line);color:var(--dim);text-transform:uppercase;letter-spacing:1px}
+.tag.keep{color:var(--cyan);border-color:var(--cyan)}
+.tag.translate{color:var(--yellow);border-color:var(--yellow)}
+.tag.adapt{color:var(--green);border-color:var(--green)}
+.tag.high{color:var(--green)}.tag.medium{color:var(--yellow)}.tag.low{color:var(--red);border-color:var(--red)}
+.meta{font:13px var(--mono);color:var(--dim);margin-top:6px}
+.note{margin-top:6px;color:#c8c8d8}
+.note b{color:var(--cyan);font-weight:600}
+details{margin-top:10px}
+summary{cursor:pointer;font:700 13px var(--font);letter-spacing:2px;color:var(--cyan);list-style:none}
+summary::before{content:"▸ "}details[open] summary::before{content:"▾ "}
+.src{margin-top:8px;border:1px solid var(--line);background:var(--panel2);padding:10px 12px}
+.src+.src{margin-top:6px}
+.src .l{display:grid;grid-template-columns:34px 1fr;gap:8px;margin:3px 0}
+.src .k{font:12px var(--mono);color:var(--dim);padding-top:3px}
+.src .path{font:12px var(--mono);color:var(--cyan);word-break:break-all;margin-top:6px}
+mark{background:rgba(252,238,10,.22);color:var(--yellow);padding:0 2px}
+.actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}
+.flagform{margin-top:10px;display:grid;gap:8px;grid-template-columns:1fr 1fr;padding:12px;border:1px solid var(--red);background:rgba(255,0,60,.05)}
+.flagform textarea{grid-column:1/-1;min-height:56px;resize:vertical}
+.flagform .actions{grid-column:1/-1;margin:0}
+.flaginfo{margin-top:8px;font-size:15px;color:#ffb3c4}
+.flaginfo b{color:var(--red)}
+.claude{margin-top:10px;padding:8px 12px;font-size:15px;border-left:3px solid var(--cyan);background:rgba(2,215,242,.07)}
+.claude b.h{font:700 12px var(--font);letter-spacing:2px;margin-right:6px}
+.claude.ok b.h{color:var(--green)}.claude.fixed{border-color:var(--yellow);background:rgba(252,238,10,.06)}
+.claude.fixed b.h{color:var(--yellow)}.claude.flagged{border-color:var(--red);background:rgba(255,0,60,.07)}
+.claude.flagged b.h{color:var(--red)}.claude .fix{color:var(--yellow);font-weight:700}
+.empty{padding:40px;text-align:center;color:var(--dim);font:15px var(--mono);border:1px dashed var(--line)}
+.empty b{color:var(--yellow);font-family:var(--font);font-size:20px;display:block;margin-bottom:6px}
+.variants{display:grid;grid-template-columns:110px 1fr;gap:4px 12px;margin-top:6px}
+.variants .k{font:12px var(--mono);color:var(--dim);padding-top:4px}
+.variants .ro{font-size:18px}
+.ctx{margin-top:8px;font-size:14px}
+.ctx div{padding:4px 8px;border-left:2px solid var(--line)}
+.ctx div.me{border-color:var(--yellow);background:rgba(252,238,10,.06)}
+.ctx .ro{font-size:14px;font-weight:600}
+.more{margin:16px auto;display:block}
+.newbar{position:sticky;top:var(--hdr,200px);z-index:10;display:block;width:100%;margin-bottom:12px;padding:9px;cursor:pointer;
+  font:700 14px var(--font);letter-spacing:2px;color:#000;background:var(--yellow);border:none;clip-path:var(--cut);animation:pulse 1.6s infinite}
+.errors{font:13px var(--mono);color:var(--red);padding:0 20px 8px}
+.runs{font:13px var(--mono);color:var(--text);padding:0 20px 8px}
+.runs div{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.runs b{color:var(--yellow);font-weight:400}
+.spin{display:inline-block;width:10px;height:10px;border:2px solid var(--yellow);border-right-color:transparent;border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.slot{display:inline-block;width:18px;height:6px;background:var(--panel2);border:1px solid var(--line);margin-right:3px}
+.slot.on{background:var(--yellow);animation:pulse 1s infinite}
+/* swipe mode */
+.swipe{position:relative;max-width:760px;margin:0 auto;padding-top:6px}
+.deck{position:relative;min-height:360px}
+.deck .card{transition:transform .25s ease,opacity .25s ease;touch-action:pan-y;user-select:none;cursor:grab;padding:22px 26px}
+.deck .card.dragging{transition:none;cursor:grabbing}
+.deck .card.next{position:absolute;inset:0 0 auto 0;transform:scale(.96) translateY(14px);opacity:.35;pointer-events:none;z-index:-1;max-height:200px;overflow:hidden}
+.deck .card .en{font-size:28px}.deck .card .ro{font-size:32px}
+.stamp{position:absolute;top:18px;font:700 26px var(--font);letter-spacing:3px;padding:4px 14px;border:3px solid;opacity:0;pointer-events:none}
+.stamp.okst{right:22px;color:var(--green);transform:rotate(8deg)}
+.stamp.flagst{left:22px;color:var(--red);transform:rotate(-8deg)}
+.keys{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:18px}
+.key{background:var(--panel);border:1px solid var(--line);padding:10px;text-align:center;cursor:pointer;clip-path:var(--cut);font:700 13px var(--font);letter-spacing:1.5px}
+.key kbd{display:block;font:20px var(--mono);margin-bottom:2px}
+.key.l{color:var(--red)}.key.r{color:var(--green)}.key.u{color:var(--cyan)}.key.d{color:var(--dim)}
+.key:hover{background:var(--panel2)}
+.reasons{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:6px;margin-top:12px}
+.reasons button{text-align:left;font:600 14px var(--font);color:var(--text);background:var(--panel2);border:1px solid var(--line);padding:7px 10px;cursor:pointer}
+.reasons button kbd{color:var(--red);font-family:var(--mono);margin-right:6px}
+.reasons button.sel{border-color:var(--red);background:rgba(255,0,60,.15)}
+.swipe .flagpanel{margin-top:14px;padding:14px;border:1px solid var(--red);background:rgba(255,0,60,.05)}
+.swipe .flagpanel input,.swipe .flagpanel textarea{width:100%;margin-top:8px}
+.counter{font:13px var(--mono);color:var(--dim);text-align:center;margin-top:12px}
+.counter b{color:var(--yellow);font-weight:400}
+@media (max-width:640px){.keys{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:640px){.bar{padding:10px 16px}.progress,nav,main{padding-left:16px;padding-right:16px}.flagform{grid-template-columns:1fr}.chips{margin-left:0}}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="logo">NC//LOC-RO<small>CYBERPUNK 2077 · LOCALIZARE ROMÂNĂ · MINIMAX + BEAM</small></div>
+    <div class="chips">
+      <div class="stat" id="s-llm"><span class="led"></span>MINIMAX ...</div>
+      <div class="stat" id="s-rate">RITM <b>–</b></div>
+      <div class="stat" id="s-avg">LOT <b>–</b></div>
+      <div class="stat" id="s-fail">ERORI <b>0</b></div>
+      <div class="stat" id="s-rev">REVIZUIT <b>0</b> · SEMNALAT <b>0</b></div>
+    </div>
+  </div>
+  <div class="progress">
+    <div class="prog" id="p-gloss">GLOSAR<div class="track"><div class="fill"></div></div></div>
+    <div class="prog" id="p-str">TRADUCERI<div class="track"><div class="fill"></div></div></div>
+  </div>
+  <div class="runs" id="runs"></div>
+  <div class="errors" id="errors"></div>
+  <nav>
+    <button data-tab="swipe" class="active">SWIPE<span class="n" id="n-todo"></span></button>
+    <button data-tab="live">LIVE</button>
+    <button data-tab="glossary">GLOSAR<span class="n" id="n-gloss"></span></button>
+    <button data-tab="strings">TRADUCERI<span class="n" id="n-str"></span></button>
+    <button data-tab="terms">TERMENI<span class="n" id="n-terms"></span></button>
+    <button data-tab="flagged">SEMNALATE<span class="n" id="n-flag"></span></button>
+  </nav>
+</header>
+<main>
+  <div class="filters" id="filters"></div>
+  <button class="newbar" id="newbar" hidden></button>
+  <div class="list" id="list"></div>
+  <button class="btn more" id="more" hidden>ÎNCARCĂ MAI MULT</button>
+</main>
+<script>
+const REASONS = ["Traducere greșită","Arhaism / sună învechit","Sună nenatural / calc","Trebuia lăsat în engleză",
+  "Trebuia tradus","Gen / acord greșit","Ortografie / diacritice","Prea lung pentru UI","Ton / registru greșit","Altceva"];
+const SOURCE = {proper:"nume propriu găsit în text", ui:"etichetă de interfață", slang:"argou (listă inițială)",
+  "slang-llm":"argou găsit de MiniMax"};
+const DECISION = {keep:"PĂSTRAT EN", translate:"TRADUS", adapt:"ADAPTAT"};
+const state = {tab:"swipe", items:[], offset:0, total:0, since:0, paused:false, filters:{}, open:new Set(), forms:new Set()};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ago = t => { if(!t) return "–"; const s = Date.now()/1000 - t; return s<60 ? `${s|0}s` : s<3600 ? `${s/60|0}m` : `${s/3600|0}h`; };
+// A failed request yields an empty list instead of breaking the page (the next poll retries).
+const api = (p, q={}) => fetch(p + "?" + new URLSearchParams(Object.entries(q).filter(([,v]) => v !== "" && v != null)))
+  .then(r => r.json()).then(d => d.error ? {items: [], total: 0, error: d.error} : d).catch(() => ({items: [], total: 0}));
+const hl = (text, term) => { const t = esc(text); if(!term) return t; const e = esc(term).replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+  return t.replace(new RegExp(`(?<![\\w])${e}(?![\\w])`, "gi"), m => `<mark>${m}</mark>`); };
+
+// ---------- header stats ----------
+async function stats(){
+  let s; try { s = await api("/api/stats"); } catch { $("#s-llm").innerHTML = `<span class="led"></span>SERVER OFFLINE`; return; }
+  if (!s || !s.llm) return;  // transient server error: keep the last numbers
+  const busy = s.llm.last_at && s.now - s.llm.last_at < 180;
+  $("#s-llm").innerHTML = `<span class="led ${s.ollama ? (busy ? "busy" : "on") : ""}"></span>OLLAMA ${!s.ollama ? "OFFLINE" : busy ? "LUCREAZĂ" : "ONLINE · INACTIV"}`;
+  $("#s-rate").innerHTML = `RITM <b>${s.llm.items_10m ? (s.llm.items_10m/10).toFixed(1) : "–"}</b>/min`;
+  $("#s-avg").innerHTML = `LOT <b>${s.llm.avg_secs ? s.llm.avg_secs.toFixed(0)+"s" : "–"}</b> · ULTIMUL ${ago(s.llm.last_at)}`;
+  $("#s-fail").innerHTML = `ERORI <b style="color:${s.llm.failed ? "var(--red)" : ""}">${s.llm.failed}</b>${s.llm.missing_10m ? ` · LIPSĂ ${s.llm.missing_10m}` : ""}`;
+  const rv = (k, who) => s.reviews.filter(r => r.status === k && (!who || r.reviewer === who)).reduce((a, r) => a + r.n, 0);
+  const cl = rv("ok", "claude") + rv("fixed", "claude") + rv("flagged", "claude");
+  $("#s-rev").innerHTML = `TU <b>${rv("ok", "user")}</b>✓ <b style="color:var(--red)">${rv("flagged", "user")}</b>⚑`
+    + (cl ? ` · CLAUDE <b>${rv("ok", "claude")}</b>✓ <b>${rv("fixed", "claude")}</b>✎ <b style="color:var(--red)">${rv("flagged", "claude")}</b>?` : "");
+  const g = s.glossary, pct = (a, b) => b ? Math.min(100, 100*a/b) : 0;
+  $("#p-gloss").firstChild.textContent = `GLOSAR · ${g.drafted}/${g.candidates} candidați procesați · ${g.terms} termeni unici (+${g.variants || 0} variante comasate) · ${g.noise} respinși ca zgomot`;
+  $("#p-gloss .fill").style.width = pct(g.drafted, g.candidates) + "%";
+  $("#p-str").firstChild.textContent = `TRADUCERI · ${s.strings.translated}/${s.strings.total} replici & texte`;
+  $("#p-str .fill").style.width = pct(s.strings.translated, s.strings.total) + "%";
+  $("#n-gloss").textContent = g.terms || ""; $("#n-str").textContent = s.strings.translated || "";
+  $("#n-flag").textContent = rv("flagged") || "";
+  $("#n-todo").textContent = Math.max(0, g.terms + s.strings.translated - rv("ok") - rv("flagged") - rv("fixed") + rv("flagged", "claude")) || "";
+  $("#errors").textContent = s.llm.errors.length ? "ULTIMA EROARE: " + s.llm.errors[0].error : "";
+  const STAGE = {glossary: "GLOSAR", translate: "TRADUCERE · DEEPSEEK", redo: "REFACERE v1 · BEAM", jargon: "ARGOU"};
+  $("#runs").innerHTML = s.runs.filter(r => r.inflight > 0 || s.now - r.updated_at < 60).map(r => {
+    const live = r.inflight > 0, eta = r.done && live ? (s.now - r.started_at) / r.done * (r.total - r.done) : null;
+    return `<div>${live ? `<span class="spin"></span>` : "✓"} <b>${STAGE[r.stage] || esc(r.stage)}</b>
+      ${live ? `AI lucrează · ${"<span class='slot on'></span>".repeat(r.inflight)} ${r.inflight} loturi în curs` : "gata"}
+      · ${r.done}/${r.total} · pornit acum ${ago(r.started_at)}${eta ? ` · mai durează ~${eta < 3600 ? (eta/60|0) + " min" : (eta/3600).toFixed(1) + " h"}` : live && !r.done ? " · primul rezultat în 1-3 min" : ""}
+      ${r.note ? `<span class="hint">· ${esc(r.note)}</span>` : ""}</div>`; }).join("");
+  if (s.runs.some(r => r.inflight > 0)) $("#s-llm").innerHTML = `<span class="led busy"></span>AI LUCREAZĂ`;
+  state.stats = s;
+  if (state.tab === "glossary" && !$("#f-type").dataset.filled) fillTypes();
+}
+
+// ---------- cards ----------
+function claudeBlock(it){
+  if (it.reviewer !== "claude" || !it.review) return "";
+  const head = {ok: "✓ VERIFICAT DE CLAUDE", fixed: "✎ CLAUDE A CORECTAT", flagged: "? CLAUDE TE ÎNTREABĂ"}[it.review] || it.review;
+  return `<div class="claude ${esc(it.review)}"><b class="h">${head}</b>${it.review === "fixed" ? `<span class="fix">${esc(it.correction)}</span> ` : ""}${esc(it.comment).replace(/\n\{.*$/s, "")}</div>`;
+}
+function reviewBlock(kind, ref, it){
+  const id = kind + ":" + ref, mine = (it.reviewer || "user") === "user";
+  let h = claudeBlock(it);
+  if (mine && it.review === "flagged") h += `<div class="flaginfo"><b>⚑ ${esc(it.reason)}</b>${it.correction ? ` — corectură: <b style="color:var(--yellow)">${esc(it.correction)}</b>` : ""}${it.comment ? `<br>${esc(it.comment)}` : ""}</div>`;
+  h += `<div class="actions">
+    <button class="btn g ${mine && it.review === "ok" ? "on" : ""}" data-act="ok" data-id="${esc(id)}"><span>✓ E OK</span></button>
+    <button class="btn r ${mine && it.review === "flagged" ? "on" : ""}" data-act="flag" data-id="${esc(id)}"><span>⚑ SEMNALEAZĂ</span></button>
+    ${it.review && mine ? `<button class="btn" data-act="clear" data-id="${esc(id)}">ANULEAZĂ</button>` : ""}</div>`;
+  if (state.forms.has(id)) h += `<div class="flagform" data-form="${esc(id)}">
+    <select name="reason">${REASONS.map(r => `<option ${r === it.reason ? "selected" : ""}>${r}</option>`).join("")}</select>
+    <input name="correction" placeholder="Cum ar trebui să fie (opțional)" value="${esc(it.correction)}">
+    <textarea name="comment" placeholder="Ce nu e în regulă? (opțional)">${esc(it.comment)}</textarea>
+    <div class="actions"><button class="btn r" data-act="save" data-id="${esc(id)}">SALVEAZĂ SEMNALAREA</button>
+    <button class="btn" data-act="cancel" data-id="${esc(id)}">RENUNȚĂ</button></div></div>`;
+  return h;
+}
+
+function glossaryCard(g, fresh){
+  const id = "glossary:" + g.term, cls = g.review === "flagged" ? "flagged" : g.review === "ok" ? "ok" : "";
+  const gram = [g.gender && g.gender !== "-" ? `gen ${g.gender}` : "", g.plural ? `pl. ${g.plural}` : ""].filter(Boolean).join(" · ");
+  const ex = (g.examples || []).map(e => `<div class="src">
+      <div class="l"><span class="k">EN</span><span>${hl(e.en, g.term)}</span></div>
+      <div class="l"><span class="k">RO</span><span class="ro" style="font-size:16px">${hl(e.ro, g.ro) || "<i class=hint>—</i>"}</span></div>
+      <div class="path">${esc(e.file || "")}${e.category ? " · " + esc(e.category) : ""}${e.key ? " · " + esc(e.key) : ""}</div></div>`).join("");
+  return `<div class="card ${cls} ${fresh ? "new" : ""}" data-key="${esc(id)}">
+    <div class="row"><span class="en">${esc(g.term)}</span><span class="arrow">──▶</span><span class="ro">${esc(g.ro)}</span>
+      <span class="tag ${esc(g.decision)}">${DECISION[g.decision] || esc(g.decision)}</span>
+      <span class="tag">${esc(g.type)}</span><span class="tag ${esc(g.confidence)}">sigur: ${esc(g.confidence)}</span>
+      ${gram ? `<span class="tag">${esc(gram)}</span>` : ""}</div>
+    ${g.alt ? `<div class="note"><b>Alternativă:</b> ${esc(g.alt)}</div>` : ""}
+    ${g.note ? `<div class="note"><b>Notă AI:</b> ${esc(g.note)}</div>` : ""}
+    ${g.variants ? `<div class="note"><b>Variante incluse:</b> ${esc(g.variants)}</div>` : ""}
+    <details ${state.open.has(id) ? "open" : ""} data-det="${esc(id)}"><summary>SURSĂ — DE UNDE VINE</summary>
+      <div class="meta">${SOURCE[g.source] || esc(g.source)} · apare de ${g.freq}× în joc · propus de ${esc(modelName(g.model))} acum ${ago(g.created_at)} (lot de ${g.batch_secs ? g.batch_secs.toFixed(0) + "s" : "?"})</div>
+      ${ex || `<div class="hint">fără exemple</div>`}</details>
+    ${reviewBlock("glossary", g.term, g)}</div>`;
+}
+
+function stringCard(s, fresh){
+  const id = "string:" + s.id, cls = s.review === "flagged" ? "flagged" : s.review === "ok" ? "ok" : "";
+  const gendered = s.ro_male && s.ro_male !== s.ro_female;
+  return `<div class="card ${cls} ${fresh ? "new" : ""}" data-key="${esc(id)}">
+    <div class="row"><span class="tag">${esc(s.category)}</span><span class="tag">${esc(s.source)}</span>
+      ${s.qa_status ? `<span class="tag ${s.qa_status === "ok" ? "high" : "low"}">QA: ${esc(s.qa_status)}</span>` : ""}
+      ${s.pl_gendered ? `<span class="tag adapt">V ♀/♂</span>` : ""}</div>
+    <div class="variants">
+      <span class="k">EN</span><span>${esc(s.en_female)}${s.en_male ? `<br><span class=hint>♂ ${esc(s.en_male)}</span>` : ""}</span>
+      <span class="k">${gendered ? "RO · V femeie" : "RO"}</span><span class="ro">${esc(s.ro_female)}</span>
+      ${gendered ? `<span class="k">RO · V bărbat</span><span class="ro">${esc(s.ro_male)}</span>` : ""}
+    </div>
+    ${s.qa_notes ? `<div class="note"><b>QA:</b> ${esc(s.qa_notes)}</div>` : ""}
+    <details ${state.open.has(id) ? "open" : ""} data-det="${esc(id)}" data-ctx="${s.id}"><summary>SURSĂ & CONTEXT</summary>
+      <div class="src"><div class="path">${esc(s.depot_path)} · ${esc(s.secondary_key || s.key)}</div>
+      <div class="meta">tradus de ${esc(modelName(s.model))} acum ${ago(s.created_at)}</div></div>
+      <div class="ctx" id="ctx-${s.id}"></div></details>
+    ${reviewBlock("string", s.id, s)}</div>`;
+}
+
+const modelName = m => ({"minimax-m3.1-flash:cloud": "MiniMax M3.1 Flash", "beam:cloud": "Beam"})[m] || m || "?";
+const CAT_RO = {person: "personaj", place: "loc", gang: "gașcă", corporation: "corporație", quest: "misiune",
+  weapon: "armă", cyberware: "cyberware", vehicle: "vehicul", item: "obiect", "perk/skill": "talent/abilitate",
+  quickhack: "quickhack", stat: "statistică", other: "altele"};
+function termCard(t, fresh){
+  const id = "term:" + t.term, cls = t.review === "flagged" ? "flagged" : t.review === "ok" ? "ok" : "";
+  const same = t.ro === t.term;
+  return `<div class="card ${cls} ${fresh ? "new" : ""}" data-key="${esc(id)}">
+    <div class="row"><span class="en">${esc(t.term)}</span><span class="arrow">──▶</span><span class="ro">${esc(t.ro)}</span>
+      <span class="tag ${same ? "keep" : "translate"}">${same ? "RĂMÂNE EN" : "TRADUS"}</span>
+      <span class="tag">${esc(CAT_RO[t.category] || t.category)}</span>
+      <span class="tag">folosit în ${t.refs > 0 ? t.refs : 0} alte texte</span></div>
+    ${t.note ? `<div class="note"><b>Notă:</b> ${esc(t.note)}</div>` : ""}
+    <div class="meta">Termen din lista fixă: se traduce identic peste tot (inventar, descrieri, jurnal, mesaje, dialog).</div>
+    ${reviewBlock("term", t.term, t)}</div>`;
+}
+const card = (it, fresh) => it.kind === "term" ? termCard(it, fresh) : it.term !== undefined ? glossaryCard(it, fresh) : stringCard(it, fresh);
+
+// ---------- tabs & loading ----------
+function filtersFor(tab){
+  const f = $("#filters");
+  if (tab === "swipe") { f.innerHTML = `<select data-k="kind"><option value="glossary">Glosar</option><option value="strings">Traduceri</option></select>
+    <select data-k="order"><option value="freq">cele mai frecvente întâi</option><option value="low">nesigure întâi (low → high)</option><option value="new">cele mai noi întâi</option></select>
+    <span class="hint">→ / buton mouse „înainte” = OK · ← / „înapoi” = problemă · ↑ sursa · ↓ sari · Backspace = anulează ultima</span>`;
+    f.querySelectorAll("select").forEach(s => s.value = state.filters[s.dataset.k] || s.options[0].value); return; }
+  if (tab === "live") { f.innerHTML = `<button class="btn y" id="pause">${state.paused ? "▶ CONTINUĂ" : "❚❚ PAUZĂ"}</button>
+    <span class="hint">Ultimele rezultate de la AI apar aici automat (la fiecare 3s).</span>`; return; }
+  if (tab === "glossary") { f.innerHTML = `<input id="f-q" placeholder="Caută termen EN / RO">
+    <select id="f-type" data-k="type"><option value="">toate tipurile</option></select>
+    <select data-k="conf"><option value="">orice siguranță</option><option>high</option><option>medium</option><option>low</option></select>
+    <select data-k="decision"><option value="">orice decizie</option><option value="keep">păstrat EN</option><option value="translate">tradus</option><option value="adapt">adaptat</option></select>
+    <select data-k="review"><option value="">orice stare</option><option value="human">de decis de tine</option>
+      <option value="claude_flagged">Claude te întreabă</option><option value="claude_fixed">corectat de Claude</option>
+      <option value="user_flagged">semnalat de tine</option><option value="ok">OK</option><option value="none">nerevizuit deloc</option></select>
+    <select data-k="sort"><option value="">cele mai noi</option><option value="freq">cele mai frecvente</option><option value="term">alfabetic</option></select>`;
+    fillTypes(); }
+  if (tab === "strings") f.innerHTML = `<input id="f-q" placeholder="Caută în EN / RO / fișier">
+    <select data-k="source"><option value="">base + Phantom Liberty</option><option value="base">base</option><option value="ep1">Phantom Liberty</option></select>
+    <select data-k="review"><option value="">orice stare</option><option value="none">nerevizuit</option><option value="ok">OK</option><option value="flagged">semnalat</option></select>`;
+  if (tab === "terms") { f.innerHTML = `<input id="f-q" placeholder="Caută termen EN / RO">
+    <select data-k="cat" id="f-cat"><option value="">toate categoriile</option></select>
+    <select data-k="sort"><option value="">cele mai folosite</option><option value="term">alfabetic</option><option value="cat">pe categorii</option></select>
+    <select data-k="review"><option value="">orice stare</option><option value="none">nerevizuit</option><option value="ok">OK</option><option value="flagged">semnalat</option></select>
+    <span class="hint">Lista fixă: tot ce e aici se traduce identic peste tot. Ce nu e aici se traduce liber.</span>`;
+    api("/api/terms", {limit: 1}).then(r => { const sel = $("#f-cat"); if (sel && r.categories) {
+      sel.innerHTML = `<option value="">toate categoriile</option>` + r.categories.map(c => `<option value="${esc(c.category)}">${esc(CAT_RO[c.category] || c.category)} (${c.n})</option>`).join("");
+      sel.value = state.filters.cat || ""; } });
+    const q = $("#f-q"); q.value = state.filters.q || ""; let t; q.oninput = () => { clearTimeout(t); t = setTimeout(() => { state.filters.q = q.value; load(); }, 300); };
+    f.querySelectorAll("select").forEach(x => { if (x.id !== "f-cat") x.value = state.filters[x.dataset.k] || ""; });
+    return; }
+  if (tab === "flagged") f.innerHTML = `<span class="hint">Tot ce ai semnalat. Claude citește lista asta direct din baza de date.</span>`;
+  f.querySelectorAll("select").forEach(s => s.value = state.filters[s.dataset.k] || "");
+  const q = $("#f-q"); if (q) { q.value = state.filters.q || ""; let t; q.oninput = () => { clearTimeout(t); t = setTimeout(() => { state.filters.q = q.value; load(); }, 300); }; }
+}
+function fillTypes(){
+  const sel = $("#f-type"); if (!sel || !state.stats) return;
+  sel.innerHTML = `<option value="">toate tipurile</option>` + state.stats.glossary.by_type.map(t => `<option value="${esc(t.type)}">${esc(t.type)} (${t.n})</option>`).join("");
+  sel.value = state.filters.type || ""; sel.dataset.filled = 1;
+}
+
+async function fetchPage(offset){
+  const f = state.filters, lim = 40;
+  if (state.tab === "glossary") return api("/api/glossary", {...f, limit: lim, offset});
+  if (state.tab === "strings") return api("/api/strings", {...f, limit: lim, offset});
+  if (state.tab === "terms") return api("/api/terms", {...f, limit: lim, offset});
+  if (state.tab === "flagged") {
+    const [g, s] = await Promise.all([api("/api/glossary", {review: "flagged", limit: 500}), api("/api/strings", {review: "flagged", limit: 500})]);
+    return {total: g.total + s.total, items: [...g.items, ...s.items]};
+  }
+  const [g, s] = await Promise.all([api("/api/glossary", {limit: lim}), api("/api/strings", {limit: lim})]);
+  const items = [...g.items, ...s.items].sort((a, b) => b.created_at - a.created_at).slice(0, lim);
+  return {total: items.length, items};
+}
+
+async function load(){
+  if (state.tab === "swipe") return loadSwipe();
+  const tab = state.tab, r = await fetchPage(0);
+  if (state.tab !== tab) return;  // the user switched tabs while this was loading
+  state.items = r.items; state.total = r.total; state.offset = r.items.length;
+  state.since = Math.max(0, ...r.items.map(i => i.created_at || 0));
+  render();
+}
+function render(freshKeys = new Set()){
+  const L = $("#list");
+  if (!state.items.length) {
+    L.innerHTML = state.tab === "strings" ? `<div class="empty"><b>ÎNCĂ NIMIC TRADUS</b>Traducerea replicilor începe după ce aprobi glosarul. Aici vor apărea live.</div>`
+      : state.tab === "flagged" ? `<div class="empty"><b>NIMIC SEMNALAT</b>Apasă ⚑ SEMNALEAZĂ pe orice ți se pare în neregulă.</div>`
+      : `<div class="empty"><b>AȘTEPT DATE DE LA AI</b>Rezultatele apar aici imediat ce un lot e gata — vezi starea sus.</div>`;
+  } else L.innerHTML = state.items.map(i => card(i, freshKeys.has(keyOf(i)))).join("");
+  $("#more").hidden = state.tab === "live" || state.tab === "flagged" || state.offset >= state.total;
+}
+const keyOf = i => i.kind === "term" ? "term:" + i.term : i.term !== undefined ? "glossary:" + i.term : "string:" + i.id;
+const snap = i => i.term !== undefined ? i.ro : `${i.ro_female}|${i.ro_male || ""}`;  // what exactly was reviewed
+
+// New results are buffered and only inserted when the reader is at the top (or clicks the banner),
+// so cards never shift under the cursor.
+async function poll(){
+  if (state.tab !== "live" || state.paused) return;
+  const [g, s] = await Promise.all([api("/api/glossary", {since: state.since, limit: 60}), api("/api/strings", {since: state.since, limit: 60})]);
+  const fresh = [...g.items, ...s.items];
+  if (fresh.length) {
+    state.since = Math.max(state.since, ...fresh.map(i => i.created_at));
+    const keys = new Set(fresh.map(keyOf));
+    state.pending = [...fresh, ...(state.pending || []).filter(i => !keys.has(keyOf(i)))];
+  }
+  if (state.pending?.length && !state.items.length) return flush();
+  showPending();
+}
+function showPending(){
+  const n = state.pending?.length || 0, b = $("#newbar");
+  b.hidden = !n || state.tab !== "live";
+  b.textContent = `▲ ${n} ${n === 1 ? "REZULTAT NOU" : "REZULTATE NOI"} — APASĂ PENTRU A LE VEDEA`;
+}
+function flush(){
+  const fresh = (state.pending || []).sort((a, b) => b.created_at - a.created_at), keys = new Set(fresh.map(keyOf));
+  state.pending = [];
+  state.items = [...fresh, ...state.items.filter(i => !keys.has(keyOf(i)))].slice(0, 150);
+  render(keys); showPending();
+}
+
+// ---------- swipe mode ----------
+const SW = {queue: [], history: [], flagging: false, reason: 0, busy: false, seen: new Set(), done: 0};
+async function loadSwipe(reset = true){
+  if (reset) { SW.queue = []; SW.seen = new Set(SW.history.map(keyOf)); SW.flagging = false; }
+  const kind = state.filters.kind || "glossary", order = state.filters.order || "freq";
+  const r = kind === "glossary"
+    ? await api("/api/glossary", {review: "human", sort: order === "low" ? "conf" : order === "freq" ? "freq" : "", limit: 60})
+    : await api("/api/strings", {review: "none", limit: 60});
+  SW.remaining = r.total;
+  for (const it of r.items) if (!SW.seen.has(keyOf(it))) { SW.seen.add(keyOf(it)); SW.queue.push(it); }
+  renderSwipe();
+}
+function renderSwipe(){
+  if (state.tab !== "swipe") return;  // a late async load must not draw over another tab
+  $("#more").hidden = true; $("#newbar").hidden = true;
+  const it = SW.queue[0], nx = SW.queue[1];
+  if (!it) { $("#list").innerHTML = `<div class="empty"><b>NIMIC DE REVIZUIT ACUM</b>Ai verificat tot ce a propus AI-ul până acum. Revin automat când apar rezultate noi.</div>`; return; }
+  const flag = SW.flagging ? `<div class="flagpanel"><b style="color:var(--red);letter-spacing:2px">CE NU E ÎN REGULĂ?</b> <span class="hint">apasă cifra · Enter salvează · Esc renunță</span>
+      <div class="reasons">${REASONS.map((r, i) => `<button data-reason="${i}" class="${i === SW.reason ? "sel" : ""}"><kbd>${(i + 1) % 10}</kbd>${r}</button>`).join("")}</div>
+      <input id="sw-corr" placeholder="Cum ar trebui să fie (opțional)" value="${it.reviewer === "claude" ? esc(it.correction) : ""}">
+      <textarea id="sw-comm" placeholder="Comentariu (opțional)"></textarea></div>` : "";
+  $("#list").innerHTML = `<div class="swipe"><div class="deck">
+      ${nx ? card(nx).replace('class="card', 'class="card next') : ""}
+      <div id="swcard">${card(it).replace('class="card', 'class="card top').replace("<details ", "<details " + (SW.src ? "open " : ""))}</div>
+    </div>${flag}
+    <div class="keys">
+      <div class="key l" data-k="left"><kbd>←</kbd>PROBLEMĂ</div>
+      <div class="key u" data-k="up"><kbd>↑</kbd>SURSA</div>
+      <div class="key d" data-k="down"><kbd>↓</kbd>SARI PESTE</div>
+      <div class="key r" data-k="right"><kbd>→</kbd>E OK</div>
+    </div>
+    <div class="counter">revizuite acum: <b>${SW.done}</b> · nerevizuite: <b>${Math.max(0, (SW.remaining ?? 0) - SW.done)}</b>${SW.history.length ? " · Backspace = anulează ultima" : ""}</div></div>`;
+  const top = document.querySelector("#swcard .card");
+  top.querySelector(".actions")?.remove(); top.querySelector(".flagform")?.remove();
+  top.insertAdjacentHTML("beforeend", `<div class="stamp okst">OK</div><div class="stamp flagst">PROBLEMĂ</div>`);
+  dragify(top);
+  if (SW.flagging) setTimeout(() => { document.querySelector(".flagpanel")?.scrollIntoView({block: "center", behavior: "smooth"}); $("#sw-corr")?.focus({preventScroll: true}); }, 0);
+}
+function fly(dir){
+  const top = document.querySelector("#swcard .card"); if (!top) return Promise.resolve();
+  top.style.transform = `translateX(${dir * 900}px) rotate(${dir * 18}deg)`; top.style.opacity = 0;
+  return new Promise(r => setTimeout(r, 220));
+}
+async function decide(status, extra = {}){
+  const it = SW.queue[0]; if (!it || SW.busy) return; SW.busy = true;
+  const kind = it.term !== undefined ? "glossary" : "string", ref = it.term !== undefined ? it.term : it.id;
+  fetch("/api/review", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({kind, ref, status, snapshot: snap(it), ...extra})}).then(stats);
+  await fly(status === "ok" ? 1 : -1);
+  SW.history.push(it); SW.queue.shift(); SW.flagging = false; SW.reason = 0; SW.src = false; SW.done++; SW.busy = false;
+  renderSwipe(); if (SW.queue.length < 10) loadSwipe(false);
+}
+async function undo(){
+  const it = SW.history.pop(); if (!it) return;
+  const kind = it.term !== undefined ? "glossary" : "string", ref = it.term !== undefined ? it.term : it.id;
+  await fetch("/api/review", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({kind, ref, status: "clear"})});
+  SW.queue.unshift(it); SW.done = Math.max(0, SW.done - 1); SW.flagging = false; renderSwipe(); stats();
+}
+function act(k){
+  if (state.tab !== "swipe" || SW.busy) return;
+  if (k === "right") return SW.flagging ? saveFlag() : decide("ok");
+  if (k === "left") { if (SW.flagging) return saveFlag(); SW.flagging = true; return renderSwipe(); }
+  if (k === "up") { SW.src = !SW.src; const d = document.querySelector("#swcard details"); if (d) d.open = SW.src; return; }
+  if (k === "down") { const it = SW.queue.shift(); if (it) SW.queue.push(it); SW.flagging = false; return renderSwipe(); }
+  if (k === "undo") return undo();
+  if (k === "esc") { SW.flagging = false; return renderSwipe(); }
+}
+function saveFlag(){
+  decide("flagged", {reason: REASONS[SW.reason], correction: ($("#sw-corr")?.value || "").trim(), comment: ($("#sw-comm")?.value || "").trim()});
+}
+function dragify(el){
+  let x0 = null, dx = 0;
+  el.onpointerdown = e => { if (e.button !== 0 || e.target.closest("summary,button,input,textarea,a,details[open] .src")) return;
+    x0 = e.clientX; dx = 0; el.setPointerCapture(e.pointerId); el.classList.add("dragging"); };
+  el.onpointermove = e => { if (x0 === null) return; dx = e.clientX - x0;
+    el.style.transform = `translateX(${dx}px) rotate(${dx / 25}deg)`;
+    el.querySelector(".okst").style.opacity = Math.max(0, dx / 140); el.querySelector(".flagst").style.opacity = Math.max(0, -dx / 140); };
+  el.onpointerup = () => { if (x0 === null) return; x0 = null; el.classList.remove("dragging");
+    if (dx > 130) return act("right");
+    el.style.transform = ""; el.querySelectorAll(".stamp").forEach(s => s.style.opacity = 0);
+    if (dx < -130) act("left"); };
+}
+document.addEventListener("keydown", e => {
+  if (state.tab !== "swipe") return;
+  const typing = e.target.matches("input,textarea,select");
+  const map = {ArrowRight: "right", ArrowLeft: "left", ArrowUp: "up", ArrowDown: "down", Escape: "esc"};
+  if (SW.flagging && e.key === "Enter" && !(typing && e.target.tagName === "TEXTAREA" && !e.ctrlKey)) { e.preventDefault(); return saveFlag(); }
+  if (SW.flagging && /^[0-9]$/.test(e.key) && !typing) { SW.reason = (+e.key + 9) % 10; document.querySelectorAll(".reasons button").forEach((b, i) => b.classList.toggle("sel", i === SW.reason)); return; }
+  if (typing && e.key !== "Escape") return;
+  if (e.key === "Backspace") { e.preventDefault(); return act("undo"); }
+  if (map[e.key]) { e.preventDefault(); act(map[e.key]); }
+});
+// Mouse side buttons: 3 = back (problem), 4 = forward (OK). Block the browser's history navigation for them.
+let lastAux = 0;
+["mousedown", "mouseup", "auxclick"].forEach(t => document.addEventListener(t, e => {
+  if (e.button !== 3 && e.button !== 4) return;
+  e.preventDefault();
+  if (t === "mouseup" && state.tab === "swipe") { lastAux = Date.now(); act(e.button === 4 ? "right" : "left"); }
+}));
+history.pushState({guard: 1}, "");
+addEventListener("popstate", () => { history.pushState({guard: 1}, ""); if (Date.now() - lastAux > 400 && state.tab === "swipe") act("left"); });
+
+// ---------- events ----------
+document.querySelector("nav").onclick = e => { const b = e.target.closest("button"); if (!b) return;
+  document.querySelectorAll("nav button").forEach(x => x.classList.toggle("active", x === b));
+  state.tab = b.dataset.tab; state.filters = {}; state.forms.clear(); state.pending = []; showPending(); filtersFor(state.tab); load(); };
+$("#filters").onchange = e => { const k = e.target.dataset.k; if (k) { state.filters[k] = e.target.value; load(); } };
+$("#filters").onclick = e => { if (e.target.id === "pause") { state.paused = !state.paused; filtersFor("live"); if (!state.paused) poll(); } };
+$("#newbar").onclick = () => { flush(); window.scrollTo({top: 0}); };
+new ResizeObserver(() => document.documentElement.style.setProperty("--hdr", document.querySelector("header").offsetHeight + "px")).observe(document.querySelector("header"));
+$("#more").onclick = async () => { const r = await fetchPage(state.offset); state.items.push(...r.items); state.offset += r.items.length; render(); };
+$("#list").addEventListener("toggle", async e => {
+  const d = e.target; if (!d.dataset || !d.dataset.det) return;
+  d.open ? state.open.add(d.dataset.det) : state.open.delete(d.dataset.det);
+  if (d.open && d.dataset.ctx) {
+    const r = await api("/api/context", {id: d.dataset.ctx});
+    $("#ctx-" + d.dataset.ctx).innerHTML = `<div class="hint" style="border:0">Replicile vecine din același fișier:</div>` + r.items.map(c =>
+      `<div class="${c.id == d.dataset.ctx ? "me" : ""}">${esc(c.en_female)}${c.ro_female ? `<br><span class="ro">${esc(c.ro_female)}</span>` : ""}</div>`).join("");
+  }
+}, true);
+$("#list").onclick = async e => {
+  const k = e.target.closest("[data-k]"); if (k && state.tab === "swipe") return act(k.dataset.k);
+  const rb = e.target.closest("[data-reason]"); if (rb) { SW.reason = +rb.dataset.reason; document.querySelectorAll(".reasons button").forEach((b, i) => b.classList.toggle("sel", i === SW.reason)); return; }
+  const b = e.target.closest("[data-act]"); if (!b) return;
+  const id = b.dataset.id, i = id.indexOf(":"), kind = id.slice(0, i), ref = id.slice(i + 1);
+  const it = state.items.find(x => keyOf(x) === id);
+  const send = async body => { await fetch("/api/review", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({kind, ref, snapshot: snap(it), ...body})});
+    Object.assign(it, body.status === "clear" ? {review: null, reason: "", correction: "", comment: ""} : {review: body.status, ...body}); state.forms.delete(id); render(); stats(); };
+  if (b.dataset.act === "ok") return send({status: "ok"});
+  if (b.dataset.act === "clear") return send({status: "clear"});
+  if (b.dataset.act === "flag") { state.forms.add(id); return render(); }
+  if (b.dataset.act === "cancel") { state.forms.delete(id); return render(); }
+  if (b.dataset.act === "save") { const f = document.querySelector(`[data-form="${CSS.escape(id)}"]`);
+    const v = n => f.querySelector(`[name=${n}]`).value.trim();
+    return send({status: "flagged", reason: v("reason"), correction: v("correction"), comment: v("comment")}); }
+};
+
+filtersFor(state.tab); stats(); load();
+setInterval(stats, 5000); setInterval(poll, 3000);
+setInterval(() => { if (state.tab === "swipe" && !SW.queue.length) loadSwipe(false); }, 10000);
+</script>
+</body>
+</html>

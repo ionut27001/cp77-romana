@@ -1,0 +1,452 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq012\\sq012_04a_meet_river.json",
+ "entries": [
+  {
+   "key": "1700890536825180160",
+   "en": "You River Ward?",
+   "ro": "Tu ești River Ward?"
+  },
+  {
+   "key": "1700891001688281092",
+   "en": "Detective Ward?",
+   "ro": "Detectivul Ward?"
+  },
+  {
+   "key": "1700982118597382144",
+   "en": "Someone here to see you, looks like.",
+   "ro": "Parcă ai o vizită."
+  },
+  {
+   "key": "1700983760499625984",
+   "en": "In the flesh. V, right?",
+   "ro": "În carne și oase. V, nu?"
+  },
+  {
+   "key": "1700983916276076544",
+   "en": "My partner, Detective Han.",
+   "ro": "Partenerul meu, detectivul Han."
+  },
+  {
+   "key": "1701115711139205120",
+   "en": "Red Queen's Race – heard anything about it? Know what it is?",
+   "ro": "Red Queen's Race – ai auzit ceva despre el? Știi ce e?"
+  },
+  {
+   "key": "1701116952049209344",
+   "en": "Maybe I have, maybe I do. It got anything to do with Rhyne?",
+   "ro": "Poate, poate nu. Are treabă cu Rhyne?"
+  },
+  {
+   "key": "1701118020220997632",
+   "en": "Guy was headed there the day he died.",
+   "en_m": "The guy was headed there the day he died.",
+   "ro": "Tipul se îndrepta acolo în ziua în care a murit."
+  },
+  {
+   "key": "1701118796418895872",
+   "en": "Pssh... fine. We're gonna see my CI.",
+   "ro": "Pssh... bine. Mergem la informatorul meu."
+  },
+  {
+   "key": "1745803853716639744",
+   "en": "All I've heard, it's some fancy-ass club. No idea where to even look for it. CI might know.",
+   "ro": "Din ce-am auzit, e un club de fiță. Habar n-am unde să-l caut. Poate știe informatorul."
+  },
+  {
+   "key": "1745805693204156420",
+   "en": "Let's go see his boss.",
+   "ro": "Hai să vedem șeful lui."
+  },
+  {
+   "key": "1745806603166797824",
+   "en": "Let's meet with your CI.",
+   "ro": "Hai să dăm de informatorul tău."
+  },
+  {
+   "key": "1745806924517593088",
+   "en": "Let's go see his boss first. Guy who can afford all the chrome he was decked out in should have the scratch for psychomuting meds too.",
+   "en_m": "Let's go see his boss first. The guy who can afford all the chrome he was decked out in should have the scratch for psychomuting meds too.",
+   "ro": "Hai să vedem întâi șeful lui. Tipul care-și putea permite tot chrome-ul ăla ar trebui să aibă și banii pentru medicamentele de psihomutare."
+  },
+  {
+   "key": "1745807684760358912",
+   "en": "Let's go see your informer. Club's a better lead.",
+   "ro": "Hai la informatorul tău. Clubul e o pistă mai bună."
+  },
+  {
+   "key": "1756154294396637184",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1806954913600229376",
+   "en": "Fine with me.",
+   "ro": "Mie-mi convine."
+  },
+  {
+   "key": "1933016127373008900",
+   "en": "Thanks for agreeing to meet.",
+   "ro": "Mersi că ai acceptat să ne vedem."
+  },
+  {
+   "key": "1933028122226810916",
+   "en": "Don't know what I intend just yet. For now, gonna see if I hear anything new about Rhyne's death.",
+   "ro": "Nu știu încă ce fac. Deocamdată mai ascult dacă aud ceva nou despre moartea lui Rhyne."
+  },
+  {
+   "key": "1933028122226810928",
+   "en": "You back on that? Boss already told you to drop it. Don't make him say it again. You know he hates to say things twice.",
+   "ro": "Iar ești pe asta? Șeful ți-a zis deja să lași baltă. Nu-l face să se repete. Știi că urăște să zică lucrurile de două ori."
+  },
+  {
+   "key": "1933028122243588100",
+   "en": "And if you couldn't give a rat's fat ass about any of that, heed my advice, as your friend's. Just let the case go.",
+   "ro": "Și dacă ți-e fix indiferent de toate astea, ascultă-mă, ca prieten: lasă cazul."
+  },
+  {
+   "key": "1933028122243588112",
+   "en": "See me doin' anything? Just sittin' here, sippin' coffee, listenin' to gossip.",
+   "ro": "Mă vezi pe mine făcând ceva? Stau aici, îmi beau cafeaua și ascult bârfe."
+  },
+  {
+   "key": "1933028122243588124",
+   "en": "Fine. Do what you want. I'm not about to be part of this. Gotta go get my little girl anyway.",
+   "ro": "Bine. Fă ce vrei. Eu nu mă bag. Oricum trebuie să-mi iau fetița de la grădi."
+  },
+  {
+   "key": "1933028122243588136",
+   "en": "And you two at least find a quieter corner. Wouldn't wanna be overheard.",
+   "ro": "Și voi doi, găsiți măcar un colț mai liniștit. N-ar fi bine să vă audă lumea."
+  },
+  {
+   "key": "1933028122260365312",
+   "en": "OK, talk.",
+   "ro": "OK, vorbește."
+  },
+  {
+   "key": "1933030116433813504",
+   "en": "OK. Thanks for agreeing to meet.",
+   "ro": "OK. Mersi că ai acceptat să ne vedem."
+  },
+  {
+   "key": "1933040774646816768",
+   "en": "You really intend to work with a merc?",
+   "ro": "Chiar vrei să lucrezi cu un merc?"
+  },
+  {
+   "key": "1933076392877711360",
+   "en": "Before the attack, you wanted to talk to Rhyne's huscle, get some info to 'em.",
+   "en_m": "Before the attack, you wanted to talk to Rhyne's huscle, get some info to them.",
+   "ro": "Înainte de atac, voiai să vorbești cu huscle-ul lui Rhyne, să le dai niște info."
+  },
+  {
+   "key": "1933076428931948544",
+   "en": "Liz Peralez hired me. And her husband, Jefferson.",
+   "ro": "Liz Peralez m-a angajat. Și soțul ei, Jefferson."
+  },
+  {
+   "key": "1933081205556338688",
+   "en": "[Sit] Partner's not a fan of edgerunners.",
+   "ro": "[Stai jos] Partenerul nu e fan al edgerunnerilor."
+  },
+  {
+   "key": "1933081855757344768",
+   "en": "See Detective Han's not a fan of edgerunners.",
+   "en_m": "I see Detective Han's not a fan of edgerunners.",
+   "ro": "Se vede că detectivul Han nu e fan al edgerunnerilor."
+  },
+  {
+   "key": "1933105064720424960",
+   "en": "Don't take it personally. Detective Han's not a fan of anybody. 'Cept his daughter.",
+   "ro": "Nu lua personal. Detectivul Han nu e fan nimănui. Doar de fiica lui."
+  },
+  {
+   "key": "1933112870672490496",
+   "en": "What was it?",
+   "ro": "Ce a fost?"
+  },
+  {
+   "key": "1933130031331762176",
+   "en": "Some of the boys from the precinct saw Horváth around Arroyo, shooting up dumpsters, hollering how he's got a meet with the mayor. Brought 'im in.",
+   "ro": "Niște băieți de la secție l-au văzut pe Horváth prin Arroyo, trăgea în containere și striga că are întâlnire cu primarul. L-au adus."
+  },
+  {
+   "key": "1933130075220959232",
+   "en": "Let me ask you a question first. Why do you got your nose in this? Who hired you?",
+   "ro": "Stai, întâi te întreb ceva. De ce-ți bagi nasul în asta? Cine te-a angajat?"
+  },
+  {
+   "key": "1933175609424044032",
+   "en": "Péter Horváth. Cyberpsycho who attacked the mayor later. They took him downtown, but then he got \"lost\" before they could get his statement.",
+   "ro": "Péter Horváth. Cyberpsycho-ul care l-a atacat pe primar mai târziu. L-au dus Downtown, dar apoi s-a „pierdut” înainte să-i ia declarația."
+  },
+  {
+   "key": "1933181626421567488",
+   "en": "So you decided to warn the mayor?",
+   "ro": "Deci ai decis să-l avertizezi pe primar?"
+  },
+  {
+   "key": "1933182033587822592",
+   "en": "He got lost – what do you mean?",
+   "ro": "S-a rătăcit – cum adică?"
+  },
+  {
+   "key": "1933187025396785152",
+   "en": "Sorry, never give up the names of my clients.",
+   "ro": "Scuze, nu dau niciodată numele clienților mei."
+  },
+  {
+   "key": "1933187066484187136",
+   "en": "Said he \"got lost.\" How's that happen, what's it mean?",
+   "en_m": "Said he \"got lost.\" How's that happen? What's it mean?",
+   "ro": "A zis că s-a „rătăcit”. Cum adică? Ce înseamnă asta?"
+  },
+  {
+   "key": "1933187169647288320",
+   "en": "So you saw him as a potential threat, decided to warn the mayor?",
+   "ro": "Deci l-ai văzut ca pe o amenințare potențială și ai decis să-l avertizezi pe primar?"
+  },
+  {
+   "key": "1934314850573049856",
+   "en": "Just like that, 'cause… ya got a good heart?",
+   "ro": "Așa, pur și simplu, pentru că... ai inimă bună?"
+  },
+  {
+   "key": "1934315107281231872",
+   "en": "Make it sound like that's somethin' to be ashamed of.",
+   "ro": "Parcă e ceva de care să-ți fie rușine."
+  },
+  {
+   "key": "1934316634897080320",
+   "en": "Ashamed – no. Just not somethin' you see every day.",
+   "en_m": "Ashamed – nah. Just not somethin' you see every day.",
+   "ro": "Rușine – nu. Doar că nu vezi asta în fiecare zi."
+  },
+  {
+   "key": "1934317625608462336",
+   "en": "It means someone didn't want him counting roaches in a cell that day.",
+   "ro": "Înseamnă că cineva nu voia să numere gândaci într-o celulă în ziua aia."
+  },
+  {
+   "key": "1934325079020888064",
+   "en": "And before you ask me, no... I got no idea who.",
+   "ro": "Și înainte să mă întrebi, nu... n-am nicio idee cine."
+  },
+  {
+   "key": "1934388765618036736",
+   "en": "Brought who in?",
+   "ro": "Pe cine au adus?"
+  },
+  {
+   "key": "1934441210188619776",
+   "en": "My turn. Why's Peralez looking at this now? Why's he want it done unofficial, on the hush-hush?",
+   "ro": "Rândul meu. De ce se uită Peralez la asta acum? De ce vrea totul pe sub mână?"
+  },
+  {
+   "key": "1934460958263697408",
+   "en": "Well then, I'm sure you've got plenty of other leads besides me. I mean, I sure hope so, 'cause I'm not telling you a thing.",
+   "ro": "Păi, sunt sigur că ai destule alte piste în afară de mine. Adică, chiar sper, că nu-ți spun nimic."
+  },
+  {
+   "key": "1934469901190914048",
+   "en": "And I'm not bein' mean, or nosy, nor is it personal. Just coverin' my own ass, my own safety's at stake too.",
+   "ro": "Și nu e din răutate, nici din curiozitate, nimic personal. Doar că-mi acopăr fundul, și pielea mea e în joc."
+  },
+  {
+   "key": "1934480952829632516",
+   "en": "Workin' for the Peralezes.",
+   "ro": "Lucrez pentru Peralezes."
+  },
+  {
+   "key": "1934482865432256512",
+   "en": "Won't give you my client's name.",
+   "ro": "Nu-ți dau numele clientului meu."
+  },
+  {
+   "key": "1934493319701422080",
+   "en": "So... before I open my mouth, I need to know whose ears are listenin'.",
+   "ro": "Deci... înainte să deschid gura, vreau să știu cine ascultă."
+  },
+  {
+   "key": "1934494484358979584",
+   "en": "The presumed future mayor? Haha... Guess I could've seen that comin'…",
+   "ro": "Viitorul primar, ăla presupus? Haha... Ar fi trebuit să-mi dau seama."
+  },
+  {
+   "key": "1934502426844028928",
+   "en": "Know what... Han was right. Acoustics are a little too good in here.",
+   "ro": "Știi ce... Han avea dreptate. Aici se aude tot prea bine."
+  },
+  {
+   "key": "1934503676427853824",
+   "en": "Got my car outside.",
+   "ro": "Am mașina afară."
+  },
+  {
+   "key": "1934504246668648448",
+   "en": "[Stand] OK.",
+   "ro": "[Ridică-te] OK."
+  },
+  {
+   "key": "1934505629161578496",
+   "en": "OK, sure.",
+   "ro": "OK, sigur."
+  },
+  {
+   "key": "1934615348849106944",
+   "en": "Red Queen's Race – know what it is?",
+   "ro": "Red Queen's Race – știi ce e?"
+  },
+  {
+   "key": "1934617133357686784",
+   "en": "Think Peralez is gonna try to smear Holt.",
+   "ro": "Cred că Peralez o să încerce să-l păteze pe Holt."
+  },
+  {
+   "key": "1934667874822742016",
+   "en": "As I see it, Peralez is out to smear Holt.",
+   "ro": "Mie mi se pare că Peralez vrea să-l păteze pe Holt."
+  },
+  {
+   "key": "1934669997157343232",
+   "en": "Peralez might be scared.",
+   "ro": "Peralez ar putea fi speriat."
+  },
+  {
+   "key": "1934670431485911040",
+   "en": "Peralez could just be scared.",
+   "ro": "Peralez ar putea fi doar speriat."
+  },
+  {
+   "key": "1934673191354720256",
+   "en": "So he thinks Holt's involved?",
+   "ro": "Deci crede că Holt e implicat?"
+  },
+  {
+   "key": "1934673357449158656",
+   "en": "Dunno. But even if he's not, a murdered mayor isn't great optics for his deputy.",
+   "ro": "Habar n-am. Dar chiar dacă nu e, un primar omorât nu arată bine pentru adjunctul lui."
+  },
+  {
+   "key": "1934675882218840064",
+   "en": "Doesn't want the job of a guy who just got carried out feet first?",
+   "ro": "Nu vrea postul unui tip care tocmai a fost scos cu picioarele înainte?"
+  },
+  {
+   "key": "1934676423586045952",
+   "en": "Heh, who would?",
+   "ro": "Heh, cine ar vrea?"
+  },
+  {
+   "key": "1934694753197842432",
+   "en": "Then we'll go talk to the woman Horváth worked for.",
+   "ro": "Atunci mergem să vorbim cu femeia pentru care a lucrat Horváth."
+  },
+  {
+   "key": "1934696305140654080",
+   "en": "Or actually... we could see her first. Up to you.",
+   "ro": "Sau, stai... putem s-o vedem pe ea întâi. Tu decizi."
+  },
+  {
+   "key": "1934699234828443648",
+   "en": "\"We\"?",
+   "ro": "„Noi”?"
+  },
+  {
+   "key": "1934699516199133184",
+   "en": "Sorry – \"we\"?",
+   "ro": "Scuze – „noi”?"
+  },
+  {
+   "key": "1934703094309543936",
+   "en": "Can't shake this case. Something's up. Just look at how quickly it was closed.",
+   "ro": "Nu pot să las cazul ăsta baltă. E ceva aici. Uită-te cât de repede a fost închis."
+  },
+  {
+   "key": "1934708604987465728",
+   "en": "This way, you can get your job done while I find evidence that gets my chief to re-open the case.",
+   "ro": "Așa îți faci treaba, iar eu găsesc dovezi ca să-l fac pe șefu' meu să redeschidă cazul."
+  },
+  {
+   "key": "1934711079727489024",
+   "en": "Win-win. So, where to first?",
+   "ro": "Câștig-câștig. Deci, unde mergem întâi?"
+  },
+  {
+   "key": "1944734753104814080",
+   "en": "We'd better check it out.",
+   "ro": "Mai bine verificăm."
+  },
+  {
+   "key": "1948748049721679876",
+   "en": "You wanted to talk?",
+   "ro": "Vroiai să vorbești?"
+  },
+  {
+   "key": "1948748050006892548",
+   "en": "Got a quiet one here.",
+   "ro": "Am unul tăcut aici."
+  },
+  {
+   "key": "1948748050040446980",
+   "en": "Well? Come on.",
+   "ro": "Ei? Hai."
+  },
+  {
+   "key": "1948873165340237824",
+   "en": "[Sit] What'd you wanna tell the mayor?",
+   "ro": "[Stai jos] Ce voiai să-i spui primarului?"
+  },
+  {
+   "key": "1957872228313358336",
+   "en": "Hm. Wonder what about…",
+   "ro": "Hm. Mă întreb despre ce…"
+  },
+  {
+   "key": "1957873563561648128",
+   "en": "Like to talk to you.",
+   "ro": "Aș vrea să vorbesc cu tine."
+  },
+  {
+   "key": "1957874101640519680",
+   "en": "Wanted to talk. You got a minute?",
+   "ro": "Vroiam să vorbesc. Ai un minut?"
+  },
+  {
+   "key": "1957875741361725440",
+   "en": "You must be V.",
+   "ro": "Tu trebuie să fii V."
+  },
+  {
+   "key": "1957876038519775232",
+   "en": "My partner, Detective Han.",
+   "ro": "Partenerul meu, detectivul Han."
+  },
+  {
+   "key": "1957878086950739968",
+   "en": "Step off to the side, talk alone – can we?",
+   "ro": "Ne dăm mai încolo, să vorbim între patru ochi – se poate?"
+  },
+  {
+   "key": "1957878347165360128",
+   "en": "Mind if we step off to the side?",
+   "en_m": "Y'mind if we step off to the side?",
+   "ro": "Te superi dacă ne dăm puțin la o parte?"
+  },
+  {
+   "key": "1957878865698775040",
+   "en": "Han and me, we're like one mind. Got no secrets.",
+   "ro": "Eu și Han suntem ca un singur om. N-avem secrete."
+  },
+  {
+   "key": "2104079250819997700",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  },
+  {
+   "key": "2341373769146523652",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

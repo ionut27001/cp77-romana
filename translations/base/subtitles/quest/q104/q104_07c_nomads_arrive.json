@@ -1,0 +1,616 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q104\\q104_07c_nomads_arrive.json",
+ "entries": [
+  {
+   "key": "1530133159572402176",
+   "en": "The cavalry has arrived. Mitch gathered together a few Aldecaldos.",
+   "ro": "A venit cavaleria. Mitch a strâns câțiva Aldecaldos."
+  },
+  {
+   "key": "1530151565738635264",
+   "en": "The road was clear. I don't think we were spotted. We would still do better not hang around too long.",
+   "ro": "Drumul era liber. Nu cred că ne-a văzut nimeni. Totuși, mai bine nu zăbovim prea mult."
+  },
+  {
+   "key": "1560376755230875652",
+   "en": "[Lean Hellman against bike]",
+   "ro": "[Sprijină-l pe Hellman de motocicletă]"
+  },
+  {
+   "key": "1641948515690893316",
+   "en": "Just need to ask him a few questions.",
+   "ro": "Trebuie doar să-i pun câteva întrebări."
+  },
+  {
+   "key": "1641953883494043648",
+   "en": "Just gotta ask him a few important questions.",
+   "ro": "Trebuie doar să-i pun câteva întrebări importante."
+  },
+  {
+   "key": "1641954543341948928",
+   "en": "The less you know, the better.",
+   "ro": "Cu cât știi mai puțin, cu atât mai bine."
+  },
+  {
+   "key": "1641954791141429248",
+   "en": "Saul.",
+   "ro": "Saul."
+  },
+  {
+   "key": "1641956783150616576",
+   "en": "It's a long story.",
+   "ro": "E o poveste lungă."
+  },
+  {
+   "key": "1641957218620035072",
+   "en": "Trust me – the less you know, the better.",
+   "ro": "Ai încredere în mine – cu cât știi mai puțin, cu atât mai bine."
+  },
+  {
+   "key": "1641957680463237120",
+   "en": "Sheesh, long story. Not sure I'd even know where to start.",
+   "ro": "Pfoai, poveste lungă. Nici nu știu de unde să încep."
+  },
+  {
+   "key": "1641960289068666880",
+   "en": "I sure hope you get some important answers.",
+   "ro": "Sper să obții răspunsuri importante."
+  },
+  {
+   "key": "1641961300181143552",
+   "en": "Tell me next time, then.",
+   "ro": "Atunci zi-mi data viitoare."
+  },
+  {
+   "key": "1641968681384431616",
+   "en": "Everything's done here. All clear.",
+   "ro": "Gata aici. E liber."
+  },
+  {
+   "key": "1641969249276416000",
+   "en": "I heard Mitch is alive thanks to you.",
+   "ro": "Am auzit că Mitch trăiește datorită ție."
+  },
+  {
+   "key": "1641969529204264960",
+   "en": "I just hope he was worth it.",
+   "ro": "Sper doar că a meritat."
+  },
+  {
+   "key": "1641970360548872196",
+   "en": "Thanks for your help.",
+   "ro": "Mulțumesc pentru ajutor."
+  },
+  {
+   "key": "1641970686832168960",
+   "en": "Saul, I tried to raise Scorpion, but he…",
+   "ro": "Saul, am încercat să-l contactez pe Scorpion, dar…"
+  },
+  {
+   "key": "1641971489638731776",
+   "en": "It really wasn't Panam's fault.",
+   "ro": "Chiar nu a fost vina lui Panam."
+  },
+  {
+   "key": "1641971930929844224",
+   "en": "Look, Saul, it really wasn't Panam's fault.",
+   "ro": "Uite, Saul, chiar nu a fost vina lui Panam."
+  },
+  {
+   "key": "1641972056507305984",
+   "en": "Thanks for the support.",
+   "ro": "Mulțumesc pentru sprijin."
+  },
+  {
+   "key": "1641973953171574784",
+   "en": "You helped us, we help you.",
+   "ro": "Ne-ai ajutat, te ajutăm."
+  },
+  {
+   "key": "1641974972337115136",
+   "en": "Careful, you and me are not buddy-buddy. Besides, nobody's blamed anyone for anything – yet.",
+   "ro": "Atenție, tu și cu mine nu suntem prieteni la cataramă. În plus, nimeni n-a învinuit pe nimeni pentru nimic – deocamdată."
+  },
+  {
+   "key": "1672053616975564800",
+   "en": "Is that him?",
+   "ro": "Ăla e?"
+  },
+  {
+   "key": "1672065560642080768",
+   "en": "What do you plan to do with him?",
+   "ro": "Ce vrei să faci cu el?"
+  },
+  {
+   "key": "1699343313190645760",
+   "en": "Sure is.",
+   "ro": "Da, ăla e."
+  },
+  {
+   "key": "1699343616086503424",
+   "en": "Take him outside, toss him on the bike.",
+   "ro": "Scoate-l afară, aruncă-l pe motocicletă."
+  },
+  {
+   "key": "1699441584290525184",
+   "en": "Thanks to V and Panam. They both saved my ass.",
+   "ro": "Mulțumită lui V și Panam. Amândouă mi-au salvat pielea.",
+   "ro_m": "Mulțumită lui V și Panam. Amândoi mi-au salvat pielea."
+  },
+  {
+   "key": "1699455307650560000",
+   "en": "I think you've helped enough.",
+   "ro": "Cred că ai ajutat destul."
+  },
+  {
+   "key": "1699456676704940032",
+   "en": "Maybe I could help out somehow?",
+   "ro": "Poate pot ajuta cumva?"
+  },
+  {
+   "key": "1699463914748243968",
+   "en": "I tried to stop him!",
+   "ro": "Am încercat să-l opresc!"
+  },
+  {
+   "key": "1699469142461640704",
+   "en": "Sure. Just turn around now, let it all be damned! You're good at that, aren't you?!",
+   "ro": "Sigur. Întoarce-te acum, să ia dracu' tot! Ești bună la asta, nu?!",
+   "ro_m": "Sigur. Întoarce-te acum, să ia dracu' tot! Ești bun la asta, nu?!"
+  },
+  {
+   "key": "1699476316986404864",
+   "en": "Have a safe return.",
+   "ro": "Drum bun."
+  },
+  {
+   "key": "1699480277248241664",
+   "en": "Sure, right!",
+   "ro": "Da, sigur!"
+  },
+  {
+   "key": "1699480576134344704",
+   "en": "Panam was just helpin' me. It was my doin', my fault that AV got hit. Without me, Scorpion and his people wouldn't have gone out to grab it. That's the truth.",
+   "ro": "Panam doar m-a ajutat. Eu am greșit, eu am fost de vină că AV-ul a fost lovit. Fără mine, Scorpion și oamenii lui nu ar fi ieșit să-l ia. Asta e adevărul."
+  },
+  {
+   "key": "1699482743649988608",
+   "en": "When you are an Aldecaldo, you are always responsible for yourself and your people. The circumstances change nothing.",
+   "ro": "Când ești Aldecaldo, răspunzi mereu pentru tine și pentru ai tăi. Împrejurările nu schimbă nimic."
+  },
+  {
+   "key": "1699485095127805952",
+   "en": "Perhaps Panam should ask herself if she's still an Aldecaldo.",
+   "ro": "Poate Panam ar trebui să se întrebe dacă mai e Aldecaldo."
+  },
+  {
+   "key": "1699501212428791812",
+   "en": "See you, Panam.",
+   "ro": "Ne vedem, Panam."
+  },
+  {
+   "key": "1699501915629023232",
+   "en": "What'll you do now?",
+   "ro": "Ce o să faci acum?"
+  },
+  {
+   "key": "1699503221299081216",
+   "en": "Think that's it. Until next time?",
+   "ro": "Cred că asta e. Până data viitoare?"
+  },
+  {
+   "key": "1699503332481691648",
+   "en": "So, what now? Back to Night City?",
+   "ro": "Deci, ce facem acum? Înapoi în Night City?"
+  },
+  {
+   "key": "1699504372115435520",
+   "en": "Yeah. I mean, I think so.",
+   "ro": "Da. Adică, cred că da."
+  },
+  {
+   "key": "1699507374683451392",
+   "en": "Maybe you should talk to Saul.",
+   "ro": "Poate ar trebui să vorbești cu Saul."
+  },
+  {
+   "key": "1699509146877554688",
+   "en": "Saul, Mitch – they really treat you like family.",
+   "ro": "Saul, Mitch – chiar te tratează ca pe familie."
+  },
+  {
+   "key": "1699514487048630272",
+   "en": "Maybe you should give them a chance?",
+   "ro": "Poate ar trebui să le dai o șansă?"
+  },
+  {
+   "key": "1699515196674535424",
+   "en": "It is not that simple.",
+   "ro": "Nu e chiar atât de simplu."
+  },
+  {
+   "key": "1699578414096838656",
+   "en": "I have to sit and think... about everything.",
+   "ro": "Trebuie să stau și să mă gândesc... la tot."
+  },
+  {
+   "key": "1699580646691303424",
+   "en": "Like any family.",
+   "ro": "Ca orice familie."
+  },
+  {
+   "key": "1699719625675763712",
+   "en": "I'm also headed out. Take care of Scorpion's bike – it's yours.",
+   "ro": "Plec și eu. Ai grijă de motocicleta lui Scorpion – e a ta."
+  },
+  {
+   "key": "1730146699619987456",
+   "en": "They're coming! You have about a minute to get out of there.",
+   "ro": "Vin! Ai cam un minut să ieși de acolo."
+  },
+  {
+   "key": "1730148615594831872",
+   "en": "They're coming! You got a minute.",
+   "ro": "Vin! Ai un minut."
+  },
+  {
+   "key": "1730149146610495488",
+   "en": "Until next time. Take care of Scorpion's bike! It's yours now.",
+   "ro": "Până data viitoare. Ai grijă de motocicleta lui Scorpion! E a ta acum."
+  },
+  {
+   "key": "1730150361935245312",
+   "en": "Let's move!",
+   "ro": "Mișcă!"
+  },
+  {
+   "key": "1730151544426983424",
+   "en": "Let's move!",
+   "ro": "Mișcă!"
+  },
+  {
+   "key": "1761829411262951428",
+   "en": "What are you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1761830911229947908",
+   "en": "Don't worry about Saul.",
+   "ro": "Nu te mai frământa pentru Saul."
+  },
+  {
+   "key": "1761831662178136076",
+   "en": "Glad to see you, Mitch, but... why'd you even come?",
+   "ro": "Mă bucur să te văd, Mitch, dar... de ce ai venit de fapt?"
+  },
+  {
+   "key": "1761831662178136088",
+   "en": "Saul. He came with our people. We took care of the bodies, I told him what happened.",
+   "ro": "Saul. A venit cu oamenii noștri. Ne-am ocupat de cadavre, i-am spus ce s-a întâmplat."
+  },
+  {
+   "key": "1761831662178136100",
+   "en": "Aaand he told us to up and follow you. He was worried something would happen to you. To Panam.",
+   "ro": "Și ne-a spus să pornim după tine. Era îngrijorat că o să ți se întâmple ceva. Și de Panam."
+  },
+  {
+   "key": "1761831662178136112",
+   "en": "Saul?",
+   "ro": "Saul?"
+  },
+  {
+   "key": "1761831662194913280",
+   "en": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family.",
+   "ro": "Uite, poate voi doi nu vă înțelegeți acum, dar sunteți familie. Și Saul ar face orice pentru familie."
+  },
+  {
+   "key": "1761831662194913292",
+   "en": "The thing is, am I even part of the family anymore…?",
+   "ro": "Problema e, mai fac parte din familie…?"
+  },
+  {
+   "key": "1761831662194913304",
+   "en": "You know you are.",
+   "ro": "Știi că da."
+  },
+  {
+   "key": "1761831662194913316",
+   "en": "Come back to us.",
+   "ro": "Întoarce-te la noi."
+  },
+  {
+   "key": "1761831662211690512",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1761834655837450240",
+   "en": "Hey, don't worry about Saul. He'll get over it.",
+   "ro": "Hei, nu te mai frământa pentru Saul. O să treacă peste."
+  },
+  {
+   "key": "1761834655837450252",
+   "en": "I don't give a damn.",
+   "ro": "Mă doare-n cot."
+  },
+  {
+   "key": "1761834655854227476",
+   "en": "But he gives a damn about you, Panam.",
+   "ro": "Dar lui îi pasă de tine, Panam."
+  },
+  {
+   "key": "1761834655854227488",
+   "en": "As soon as he heard what had happened, he ordered us to follow you. He was worried something would happen to you.",
+   "ro": "De cum a auzit ce s-a întâmplat, ne-a ordonat să te urmărim. Se temea că o să ți se întâmple ceva."
+  },
+  {
+   "key": "1761834655854227500",
+   "en": "Saul? That was his...?",
+   "ro": "Saul? Asta a fost... a lui?"
+  },
+  {
+   "key": "1761834655854227512",
+   "en": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family.",
+   "ro": "Uite, poate voi doi nu vă înțelegeți acum, dar sunteți familie. Și Saul ar face orice pentru familie."
+  },
+  {
+   "key": "1761834655871004676",
+   "en": "The thing is, am I even part of the family anymore...",
+   "ro": "Problema e că mai fac parte din familie...?"
+  },
+  {
+   "key": "1761834655871004688",
+   "en": "You know you are.",
+   "ro": "Știi că da."
+  },
+  {
+   "key": "1761834655871004700",
+   "en": "Come back to us.",
+   "ro": "Întoarce-te la noi."
+  },
+  {
+   "key": "1761834655871004712",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1761834655871004724",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1770694735939743744",
+   "en": "Stay right there.",
+   "ro": "Stai acolo."
+  },
+  {
+   "key": "1915491918382260224",
+   "en": "Why are you so surprised? Did the sun bake your brain? Unlike you, I don't bail – especially if I've already given my word.",
+   "ro": "Ce, ești surprinsă? Ți-a fiert soarele creierul? Eu, spre deosebire de tine, nu las baltă, mai ales dacă mi-am dat deja cuvântul.",
+   "ro_m": "Ce, ești surprins? Ți-a fiert soarele creierul? Eu, spre deosebire de tine, nu las baltă, mai ales dacă mi-am dat deja cuvântul."
+  },
+  {
+   "key": "1915494027446083584",
+   "en": "I managed to help Mitch at the wreck, but Scorpion... we didn't make it.",
+   "ro": "Pe Mitch l-am ajutat la epavă, dar cu Scorpion... n-a fost să fie."
+  },
+  {
+   "key": "1955868560841400320",
+   "en": "Thanks for the support.",
+   "ro": "Mulțumesc pentru sprijin."
+  },
+  {
+   "key": "1955873013095096320",
+   "en": "It's a good thing you're here, but... why?",
+   "ro": "Bine că ești aici, dar... de ce?"
+  },
+  {
+   "key": "1985053416122609664",
+   "en": "And everything's all right?",
+   "ro": "Și totul e în regulă?"
+  },
+  {
+   "key": "1985054071943983104",
+   "en": "I took care of it.",
+   "ro": "M-am ocupat de asta."
+  },
+  {
+   "key": "1985057030824128512",
+   "en": "You have a safe trip back.",
+   "ro": "Drum bun înapoi."
+  },
+  {
+   "key": "1985066796355022848",
+   "en": "We came with Panam. She didn't want to let you go off alone, but Saul worried you two would fall into a Kang Tao ambush.",
+   "ro": "Am venit cu Panam. Nu voia să te lase să pleci singură, dar Saul se temea că voi doi o să cădeți într-o ambuscadă Kang Tao.",
+   "ro_m": "Am venit cu Panam. Nu voia să te lase să pleci singur, dar Saul se temea că voi doi o să cădeți într-o ambuscadă Kang Tao."
+  },
+  {
+   "key": "1985069677154004992",
+   "en": "Saul?",
+   "ro": "Saul?"
+  },
+  {
+   "key": "1985069973087318016",
+   "en": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family.",
+   "ro": "Uite, poate voi doi nu vă înțelegeți acum, dar sunteți familie. Și Saul ar face orice pentru familie."
+  },
+  {
+   "key": "1985070380471676928",
+   "en": "The thing is, am I even part of the family anymore…?",
+   "ro": "Problema e, mai fac parte din familie…?"
+  },
+  {
+   "key": "1985070703466639360",
+   "en": "You know you are.",
+   "ro": "Știi că da."
+  },
+  {
+   "key": "1985071023324262400",
+   "en": "Come back to us.",
+   "ro": "Întoarce-te la noi."
+  },
+  {
+   "key": "1985071582760529920",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1985076939205505024",
+   "en": "As soon as Saul heard you had gone off alone after V, he had us follow you. He was worried something might happen.",
+   "ro": "De cum a auzit Saul că ai plecat singură după V, ne-a pus să te urmăm. Se temea că o să ți se întâmple ceva.",
+   "ro_m": "De cum a auzit Saul că ai plecat singur după V, ne-a pus să te urmăm. Se temea că o să ți se întâmple ceva."
+  },
+  {
+   "key": "1985085991872491520",
+   "en": "Panam?",
+   "ro": "Panam?"
+  },
+  {
+   "key": "1985088609671835648",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "1985088882653917184",
+   "en": "Yeah, thanks.",
+   "ro": "Da, mersi."
+  },
+  {
+   "key": "1985088970717523968",
+   "en": "That's your guy, right? Get him outside and toss him on a bike.",
+   "ro": "Ăla e tipul tău, nu? Scoate-l afară și aruncă-l pe o motocicletă."
+  },
+  {
+   "key": "1985110388159148060",
+   "en": "Think that's it. Until next time?",
+   "ro": "Cred că asta e. Până data viitoare?"
+  },
+  {
+   "key": "1985110390524735488",
+   "en": "They're coming! You have about a minute to get out of there.",
+   "ro": "Vin! Ai cam un minut să ieși de acolo."
+  },
+  {
+   "key": "1985110392756105216",
+   "en": "Let's move!",
+   "ro": "Mișcă!"
+  },
+  {
+   "key": "1985110395004252160",
+   "en": "Until next time.",
+   "ro": "Până data viitoare."
+  },
+  {
+   "key": "1985111307282149428",
+   "en": "Saul, Mitch – they really treat you like family.",
+   "ro": "Saul, Mitch – chiar te tratează ca pe familie."
+  },
+  {
+   "key": "1985111309463187456",
+   "en": "Maybe you should give them a chance?",
+   "ro": "Poate ar trebui să le dai o șansă?"
+  },
+  {
+   "key": "1985111311778443264",
+   "en": "It is not that simple.",
+   "ro": "Nu e chiar atât de simplu."
+  },
+  {
+   "key": "1985111314227916800",
+   "en": "Like any family.",
+   "ro": "Ca orice familie."
+  },
+  {
+   "key": "1985111316442509312",
+   "en": "They're coming! You have about a minute to get out of there.",
+   "ro": "Vin! Ai cam un minut să ieși de acolo."
+  },
+  {
+   "key": "1985111318774542336",
+   "en": "Let's move!",
+   "ro": "Mișcă!"
+  },
+  {
+   "key": "1985111321257570304",
+   "en": "Hey, that's my cue, too.",
+   "ro": "Hei, ăsta e și semnalul meu."
+  },
+  {
+   "key": "2150701112294309888",
+   "en": "Damn it all.",
+   "ro": "Fir-ar tot!"
+  },
+  {
+   "key": "2228731043811356672",
+   "en": "We've got eyes all around.",
+   "ro": "Avem ochi peste tot."
+  },
+  {
+   "key": "2228732904555606016",
+   "en": "Nothing just yet.",
+   "ro": "Nimic deocamdată."
+  },
+  {
+   "key": "2228735767486853120",
+   "en": "Mhm. We'll want to see them coming.",
+   "ro": "Mhm. Vrem să-i vedem venind."
+  },
+  {
+   "key": "2230116999491678208",
+   "en": "Sorry you had to witness that. Things just get complicated, dramatic sometimes.",
+   "ro": "Scuze că ai fost nevoită să vezi asta. Mai complicat e totul uneori, mai iese câte-o dramă.",
+   "ro_m": "Scuze că ai fost nevoit să vezi asta. Mai complicat e totul uneori, mai iese câte-o dramă."
+  },
+  {
+   "key": "2230121768163667968",
+   "en": "But I will manage. And you, you look out for yourself, all right?",
+   "ro": "Dar mă descurc. Și tu, ai grijă de tine, bine?"
+  },
+  {
+   "key": "2230286950475915264",
+   "en": "We collected our people's bodies from the crash site. They need to go back to camp.",
+   "ro": "Am adunat trupurile oamenilor noștri de la locul accidentului. Trebuie să se întoarcă la tabără."
+  },
+  {
+   "key": "2230288155818221568",
+   "en": "So the guy – Mitch and Panam came out to rescue him?",
+   "ro": "Deci tipul – Mitch și Panam au venit să-l salveze?"
+  },
+  {
+   "key": "2231361892591529984",
+   "en": "We oughta ghost, too, know what I mean? 'Fore we step on all the local cats' tails, turn 'em all rabid-assed.",
+   "ro": "Ne tăiem și noi, ce zici? Până nu călcăm pe coada tuturor pisicilor de-aici și nu le facem turbate."
+  },
+  {
+   "key": "2231363429032194048",
+   "en": "Hm, no. Perhaps we should step on tails.",
+   "ro": "Hm, nu. Poate ar trebui să călcăm pe cozi."
+  },
+  {
+   "key": "2231364126259736576",
+   "en": "Look who be wound a little tight…",
+   "ro": "Uite cine-i cam nervos..."
+  },
+  {
+   "key": "2231370699656851456",
+   "en": "That is the word. The AV that came down, and Scorpion… it's all related.",
+   "ro": "Exact. AV-ul ăla care s-a prăbușit și Scorpion... toate sunt legate."
+  },
+  {
+   "key": "2231372757365616640",
+   "en": "I had no idea we'd landed a contract. So… Saul's out to hit corporations, too?",
+   "ro": "Habar n-aveam că am prins un contract. Deci... Saul vrea să lovească și corporațiile?"
+  },
+  {
+   "key": "2231373791009894400",
+   "en": "To me, all these things seem straight out of step.",
+   "ro": "Pentru mine, toate astea nu se leagă deloc."
+  },
+  {
+   "key": "2231374719544913920",
+   "en": "Mitch. We should talk to Mitch.",
+   "ro": "Mitch. Ar trebui să vorbim cu Mitch."
+  }
+ ]
+}

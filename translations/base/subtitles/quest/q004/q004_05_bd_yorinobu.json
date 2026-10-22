@@ -1,0 +1,504 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q004\\q004_05_bd_yorinobu.json",
+ "entries": [
+  {
+   "key": "1646342469183037440",
+   "en": "I said no!",
+   "ro": "Am spus nu!"
+  },
+  {
+   "key": "1646366208037707776",
+   "en": "They'll have my head for this...",
+   "ro": "O să-mi ia capul pentru asta..."
+  },
+  {
+   "key": "1646367615327363072",
+   "en": "Then you shall perish for a good cause.",
+   "ro": "Atunci o să pieri pentru o cauză bună."
+  },
+  {
+   "key": "1646383359368847360",
+   "en": "The program is still in the trial phase. We cannot take it to market as is!",
+   "ro": "Programul e încă în fază de testare. Nu-l putem lansa pe piață așa cum e!"
+  },
+  {
+   "key": "1646383589954904064",
+   "en": "We shall see soon enough.",
+   "ro": "O să vedem destul de curând."
+  },
+  {
+   "key": "1650358263638351872",
+   "en": "Sorry to make you wait. Business... can be stupid.",
+   "ro": "Scuze că te-am ținut în așteptare. Afacerile... pot fi proaste."
+  },
+  {
+   "key": "1650359651785203712",
+   "en": "Ahh, I can get to work on that... Just one condition.",
+   "ro": "Ahh, pot să mă apuc de treaba asta... Doar o condiție."
+  },
+  {
+   "key": "1650361173076041728",
+   "en": "Bedroom. Nightstand.",
+   "ro": "Dormitor. Noptieră."
+  },
+  {
+   "key": "1650454585695494144",
+   "en": "Very nice... But come here already.",
+   "ro": "Foarte frumos... Dar vino aici odată."
+  },
+  {
+   "key": "1650486272622026752",
+   "en": "<mothertongue l=\"jpn\" m=\"Warui-ko-me\" b=\"\" a=\"... I missed this – you.\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"Warui-ko-me\" b=\"\" a=\"... Mi-a fost dor de asta – de tine.\"/>"
+  },
+  {
+   "key": "1650559518658748416",
+   "en": "Alarm firmware's fresh, buuut... saw excited birds chirpin' on a BBS, somethin' about lots of seeds fallin' through this sieve.",
+   "ro": "Firmware-ul alarmei e proaspăt, daaar... am văzut păsări agitate ciripind pe un BBS, ceva despre multe semințe care cad prin sita asta."
+  },
+  {
+   "key": "1650559860880400384",
+   "en": "Automated turrets. Latest scanner model... Systems all connected to the server...",
+   "ro": "Toate sistemele conectate la server... Cel mai nou model de scaner..."
+  },
+  {
+   "key": "1650560025028681728",
+   "en": "Shit, cameras packed with newtech – motion sensors, heat sig activators, IFF.",
+   "ro": "Căcat, camere pline de chestii noi – senzori de mișcare, activatori de semnătură termică, IFF."
+  },
+  {
+   "key": "1650585724082937856",
+   "en": "Mhm. Looks like all their security systems are linked to the hotel subnet.",
+   "ro": "Mhm. Se pare că toate sistemele lor de securitate sunt legate de subrețeaua hotelului."
+  },
+  {
+   "key": "1650587205947318272",
+   "en": "Right, here's the plan. We use the Flathead to pierce their central server.",
+   "ro": "Bine, planul e așa. Folosim Flathead-ul ca să spargem serverul lor central."
+  },
+  {
+   "key": "1650587291746000896",
+   "en": "We need the Flathead. No other way to shut down these systems.",
+   "ro": "Ne trebuie Flathead. Nu e altă cale să închidem sistemele astea."
+  },
+  {
+   "key": "1653700796166660096",
+   "en": "But I--",
+   "ro": "Dar eu--"
+  },
+  {
+   "key": "1653701130570129408",
+   "en": "Make yourself comfortable. I need a minute to finish.",
+   "ro": "Fă-te comodă. Îmi trebuie un minut să termin.",
+   "ro_m": "Fă-te comod. Îmi trebuie un minut să termin."
+  },
+  {
+   "key": "1653708332492087296",
+   "en": "I've got an idea. Be right back.",
+   "ro": "Am o idee. Vin imediat."
+  },
+  {
+   "key": "1654542740130230272",
+   "en": "Noted. Enough.",
+   "ro": "Notat. Destul."
+  },
+  {
+   "key": "1654552079117185024",
+   "en": "Mmh, it wasn't long. Not even long enough for me to grow bored.",
+   "ro": "Mmh, n-a durat mult. Nici destul cât să mă plictisesc."
+  },
+  {
+   "key": "1654553945397915648",
+   "en": "A moment. It will pass.",
+   "ro": "O clipă. O să treacă."
+  },
+  {
+   "key": "1654621623160532992",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1654624110047260672",
+   "en": "Loaded, safety's on. Good to know, though. Once you're in there, don't forget about that iron.",
+   "ro": "Încărcat, siguranța e pusă. Bine de știut, totuși. Odată ce ești acolo, nu uita de fierul ăla."
+  },
+  {
+   "key": "1654790608564908032",
+   "en": "Just a sec, looking for the perfect thing... Oh, you'll like this.",
+   "ro": "Doar o secundă, caut ceva perfect... O să-ți placă asta."
+  },
+  {
+   "key": "1654858051966595072",
+   "en": "You skilled enough to kill it all?",
+   "ro": "Ești destul de bun să le omori pe toate?"
+  },
+  {
+   "key": "1654858195042693120",
+   "en": "Mucho more than enough. Just need access to their subnet.",
+   "ro": "Mucho mai mult decât de ajuns. Îmi trebuie doar acces la subrețeaua lor."
+  },
+  {
+   "key": "1654863053523120128",
+   "en": "Can you shut 'em off?",
+   "ro": "Le poți închide?"
+  },
+  {
+   "key": "1654863217000312832",
+   "en": "Externally? No way. Gotta get in, check out how they link into the system first.",
+   "ro": "Extern? Nici vorbă. Trebuie să intru, să văd mai întâi cum se leagă de sistem."
+  },
+  {
+   "key": "1654864902758199296",
+   "en": "Lemme generate keys. I can forge their sigs.",
+   "ro": "Lasă-mă să generez chei. Le pot falsifica semnăturile."
+  },
+  {
+   "key": "1654869027336089600",
+   "en": "I create a connection, wreak some havoc. Should be enough.",
+   "ro": "Creez o conexiune, fac puțin haos. Ar trebui să ajungă."
+  },
+  {
+   "key": "1654869522062635008",
+   "en": "Can't get around them ourselves?",
+   "ro": "Nu putem să le ocolim singuri?"
+  },
+  {
+   "key": "1654869962867208192",
+   "en": "Nope. Least I'm fresh out of ideas.",
+   "ro": "Nu. Măcar eu am rămas fără idei."
+  },
+  {
+   "key": "1654880736289353728",
+   "en": "Please speak with your father. He's taken a particular interest in this project, he can certainly explain the risks invol--",
+   "ro": "Vorbește cu tatăl tău, te rog. S-a băgat special în proiectul ăsta, sigur poate explica riscurile implicate--"
+  },
+  {
+   "key": "1654883020389871616",
+   "en": "My father is a tired, visionless old greybeard who thinks nothing will change and he'll live forever in his tiny, frozen bubble!",
+   "ro": "Tata e un bătrân obosit, fără viziune, cu barbă cărunță, care crede că nu se schimbă nimic și o să trăiască veșnic în bula lui mică, înghețată!"
+  },
+  {
+   "key": "1654885991064399872",
+   "en": "Read the documentation carefully. The Relic REQUIRES specific storage conditions. You MUST provide them.",
+   "ro": "Citește documentația cu atenție. Relic-ul cere condiții specifice de depozitare. TREBUIE să le asiguri."
+  },
+  {
+   "key": "1654892623685087232",
+   "en": "We have not seen eye to eye for the past twenty years. I am quite sure we won't now.",
+   "ro": "Sunt destul de sigur că nici acum nu o să ne înțelegem."
+  },
+  {
+   "key": "1655204614574399488",
+   "en": "Yorinobu's PDA. Could be something important on there.",
+   "ro": "PDA-ul lui Yorinobu. Ar putea fi ceva important pe el."
+  },
+  {
+   "key": "1655211393643405312",
+   "en": "Manual details a special temp-controlled container.",
+   "ro": "Manualul detaliază un container special cu temperatură controlată."
+  },
+  {
+   "key": "1655219164463980544",
+   "en": "Heard that? Relic docs gotta be around here somewhere. Look for them.",
+   "ro": "Ai auzit? Documentele Relic-ului trebuie să fie pe aici pe undeva. Caută-le."
+  },
+  {
+   "key": "1656209557884198912",
+   "en": "Scan's showing a lower temp. Gotta be a cooler of some sort.",
+   "ro": "Scanarea zice că e mai rece. Trebuie să fie un răcitor."
+  },
+  {
+   "key": "1656219332961329152",
+   "en": "Right, grabbed the heat sig. Matches the spec in the docs.",
+   "ro": "Bine, am prins semnătura termică. Se potrivește cu specificațiile din documente."
+  },
+  {
+   "key": "1656220471446429696",
+   "en": "Mhm. We got it. Good work.",
+   "ro": "Mhm. Am luat-o. Bună treabă."
+  },
+  {
+   "key": "1656224332454256640",
+   "en": "OK, switch on thermal layer detection in the editor.",
+   "ro": "OK, activează detecția stratului termic în editor."
+  },
+  {
+   "key": "1656226543053791232",
+   "en": "Mhh, pretty sure you caught the heat signatures we need back there.",
+   "ro": "Mhh, cred că ai prins semnăturile termice de care avem nevoie acolo."
+  },
+  {
+   "key": "1656236222400126976",
+   "en": "Looks like we got everything we need.",
+   "ro": "Se pare că avem tot ce ne trebuie."
+  },
+  {
+   "key": "1656306459527045120",
+   "en": "\"Clouds\"? That a club of some sort?",
+   "ro": "«Clouds»? E vreun fel de club?"
+  },
+  {
+   "key": "1656316077737205760",
+   "en": "Hm, same guy Yorinobu was yakkin' with at the start.",
+   "ro": "Hm, același tip cu care vorbea Yorinobu la început."
+  },
+  {
+   "key": "1656316180296327168",
+   "en": "Beef between 'em's pretty clear. Either Yorinobu wants the throne, or Saburo's planning to disown him. Or both.",
+   "ro": "Clar e ceva scandal între ei. Fie Yorinobu vrea tronul, fie Saburo plănuiește să-l dezmoștenească. Sau ambele."
+  },
+  {
+   "key": "1656322277321170944",
+   "en": "Wait, just checked. Get this – Yorinobu's got no position at Arasaka, not even on the payroll.",
+   "ro": "Așteaptă, tocmai am verificat. Ține-te bine – Yorinobu n-are nicio poziție la Arasaka, nici măcar pe statele de plată."
+  },
+  {
+   "key": "1658858749527977984",
+   "en": "Hellman wants the Relic back somethin' bad. And not just 'cause he's squirt-shittin' at the thought of Saburo.",
+   "ro": "Hellman vrea Relic-ul înapoi rău de tot. Și nu doar pentru că se cacă pe el când se gândește la Saburo."
+  },
+  {
+   "key": "1658866246041071616",
+   "en": "Worked on it himself. I dunno, think it could be personal?",
+   "ro": "A lucrat el însuși la el. Nu știu, crezi că e ceva personal?"
+  },
+  {
+   "key": "1658890053598441472",
+   "en": "So – chip's gotta stay in the freezer.",
+   "ro": "Deci – cipul trebuie să rămână în congelator."
+  },
+  {
+   "key": "1658890991562256384",
+   "en": "Yep. Could damage it otherwise.",
+   "ro": "Da. Altfel s-ar putea deteriora."
+  },
+  {
+   "key": "1658907042475798528",
+   "en": "Should be easier to spot where Yorinobu's keepin' the chip.",
+   "ro": "Ar trebui să se vadă mai ușor unde ține Yorinobu cipul."
+  },
+  {
+   "key": "1658917149758582784",
+   "en": "Let's take another look.",
+   "ro": "Hai să mai aruncăm o privire."
+  },
+  {
+   "key": "1658921750691966976",
+   "en": "Yorinobu's got the case here, guaranteed.",
+   "ro": "Yorinobu are valiza aici, garantat."
+  },
+  {
+   "key": "1658924156444078080",
+   "en": "Quit outta the editor.",
+   "ro": "Ieși din editor."
+  },
+  {
+   "key": "1658936412821123072",
+   "en": "Mhm. Think exes – exclusive, extravagant, excessive. Tech-heavy escort agency for the rich and bored.",
+   "ro": "Mhm. Gândește-te la ex-uri – exclusiv, extravagant, excesiv. Agenție de escortă cu mult tech pentru bogați și plictisiți."
+  },
+  {
+   "key": "1658955560607412224",
+   "en": "Is everything... all right? You seem tense, edgy...",
+   "ro": "Totul e... în regulă? Pari tensionată, nervoasă...",
+   "ro_m": "Totul e... în regulă? Pari tensionat, nervos..."
+  },
+  {
+   "key": "1658970419147436032",
+   "en": "YOU wish to make demands of ME?",
+   "ro": "TU vrei să-mi pui mie condiții?"
+  },
+  {
+   "key": "1658971083206422528",
+   "en": "Only one. Focus. On me.",
+   "ro": "Doar unul. Concentrează-te pe mine."
+  },
+  {
+   "key": "1658971771508486144",
+   "en": "Oh, got any candy left? Stuff was preeetty fun last time.",
+   "ro": "Mai ai bomboane? Chestia aia a fost destul de tare data trecută."
+  },
+  {
+   "key": "1659500246734692352",
+   "en": "Hearin' a drone – ventilation and cooling? Servers, gotta be.",
+   "ro": "Aud o dronă – ventilare și răcire? Servere, sigur."
+  },
+  {
+   "key": "1659501338595909632",
+   "en": "Fancy doodads in here need to be controlled.",
+   "ro": "Chestiile astea de fițe de aici trebuie controlate."
+  },
+  {
+   "key": "1659529689993797632",
+   "en": "Light's givin' off heat. Standard stuff.",
+   "ro": "Lumina asta degajă căldură. Chestie standard."
+  },
+  {
+   "key": "1659534584964669440",
+   "en": "Gotta learn to ignore the mundane.",
+   "ro": "Trebuie să înveți să ignori lucrurile banale."
+  },
+  {
+   "key": "1660316905839915008",
+   "en": "I should not even be listening to such things.",
+   "ro": "Nici nu ar trebui să ascult așa ceva."
+  },
+  {
+   "key": "1660317068713127936",
+   "en": "You will listen to this – Saburo is an addled despot utterly removed from reality, stuck in some fossilized vision of a world that no longer exists! Of a world that may never have existed!",
+   "ro": "O să asculți asta – Saburo e un despot senil complet rupt de realitate, blocat într-o viziune fosilizată a unei lumi care nu mai există! A unei lumi care poate n-a existat niciodată!"
+  },
+  {
+   "key": "1660328008447815680",
+   "en": "Somethin' to look forward to.",
+   "ro": "Ceva de abia așteptat."
+  },
+  {
+   "key": "1660800326037102592",
+   "en": "Oooh, Donaghy's. Looks like Mr. Arasaka had somethin' to celebrate.",
+   "ro": "Oooh, Donaghy's. Se pare că domnul Arasaka avea ceva de sărbătorit."
+  },
+  {
+   "key": "1660804996595933184",
+   "en": "Really think you'll find the chip in there?",
+   "ro": "Chiar crezi că o să găsești cipul acolo?"
+  },
+  {
+   "key": "1660828525114646528",
+   "en": "Just a fancy-ass fridge.",
+   "ro": "Doar un frigider de fițe."
+  },
+  {
+   "key": "1660828525164978176",
+   "en": "Temp doesn't match the guidelines. Won't find a thing here.",
+   "ro": "Temperatura nu se potrivește cu ghidul. Nu o să găsești nimic aici."
+  },
+  {
+   "key": "1660899619758628864",
+   "en": "Air conditioning. Standard model for hotels of this caliber.",
+   "ro": "Aer condiționat. Model standard pentru hoteluri de calibrul ăsta."
+  },
+  {
+   "key": "1660900974267162624",
+   "en": "Temp matches that stipulated in the docs. But no way the chip's hiding there.",
+   "ro": "Temperatura se potrivește cu cea din documente. Dar nicio șansă ca cipul să fie ascuns acolo."
+  },
+  {
+   "key": "1709886265579139072",
+   "en": "No way. Temp's too low, could fluctuate. Nice try, though.",
+   "ro": "Nicio șansă. Temperatura e prea scăzută, ar putea fluctua. Bună încercare, totuși."
+  },
+  {
+   "key": "1915814643698888704",
+   "en": "Relic needs to be kept real cool.",
+   "ro": "Relic-ul trebuie ținut tare rece."
+  },
+  {
+   "key": "1915815103260389376",
+   "en": "Clouds targets celebs, high-ranking corpos, high-rolling mercs, business dicks and cunts...",
+   "ro": "Clouds vizează vedete, corpoi de rang înalt, merci cu bani mulți, afaceriști de doi bani și jigodii..."
+  },
+  {
+   "key": "1915817320050716672",
+   "en": "So the chip biz is definitely a rogue move on his part.",
+   "ro": "Deci treaba cu cipul a fost clar o mișcare de capul lui."
+  },
+  {
+   "key": "1915818186040274944",
+   "en": "Too risky – temp fluctuations, risk of damage.",
+   "ro": "Prea riscant – fluctuații de temperatură, risc de deteriorare."
+  },
+  {
+   "key": "1928675921689980928",
+   "en": "Already found those docs. Look somewhere else.",
+   "ro": "Am găsit deja documentele alea. Caută în altă parte."
+  },
+  {
+   "key": "1928739524468158464",
+   "en": "All right, V – eyes open. Gotta find out where Yorinobu's keepin' the Relic.",
+   "ro": "Bine, V – ochii în patru. Trebuie să aflăm unde ține Yorinobu Relic-ul."
+  },
+  {
+   "key": "1957616205530279936",
+   "en": "Wow, champagne's decent. The taste boosted somehow?",
+   "ro": "Wow, șampania e decentă. Parcă are un gust mai bun, nu?"
+  },
+  {
+   "key": "1957617154231513088",
+   "en": "Nope. Just the price. Same bubbly you'll be sippin' in realspace soon.",
+   "ro": "Nu. Doar prețul. Aceeași șampanie pe care o să o sorbi în curând în realspace."
+  },
+  {
+   "key": "1957618018375577600",
+   "en": "Hm, smells like...",
+   "ro": "Hm, miroase a..."
+  },
+  {
+   "key": "1957619926515462144",
+   "en": "Evelyn... She... I felt her fear.",
+   "ro": "Evelyn... Ea... I-am simțit frica."
+  },
+  {
+   "key": "1957622654826328064",
+   "en": "Oooh, this BD's starting to get pretty adult.",
+   "ro": "Oooh, BD-ul ăsta începe să devină destul de adult."
+  },
+  {
+   "key": "1957629576216457216",
+   "en": "Oh fuck – i-it's like I'm really...",
+   "en_m": "Oh fuck – it's like I'm really...",
+   "ro": "Futu-i – p-parcă chiar sunt..."
+  },
+  {
+   "key": "1957682279290384384",
+   "en": "Hm, hung up. Go back to when they first start talking. Need to hear the whole thing.",
+   "ro": "Hm, a închis. Dă-o înapoi la momentul când încep să vorbească. Trebuie să aud tot."
+  },
+  {
+   "key": "1957688044327677952",
+   "en": "One more time, rewind. Didn't catch all that.",
+   "ro": "Mai o dată, derulează înapoi. N-am prins tot."
+  },
+  {
+   "key": "1957704010533056512",
+   "en": "Listen in on that conversation, V. Could be something important.",
+   "ro": "Ascultă conversația aia, V. Ar putea fi ceva important."
+  },
+  {
+   "key": "1964965070985883648",
+   "en": "Yep. Cedarwood, black pepper, benzoin, vetiver...",
+   "ro": "Da. Lemn de cedru, piper negru, benzoïnă, vetiver..."
+  },
+  {
+   "key": "1964966082987552768",
+   "en": "Yeah, yeah, those. Shit, that's his cologne!",
+   "ro": "Da, da, alea. Căcat, ăsta e parfumul lui!"
+  },
+  {
+   "key": "1964969308289888256",
+   "en": "V. Eye on the prize, focus.",
+   "ro": "V. Ochi pe premiu, concentrează-te."
+  },
+  {
+   "key": "1964972312334299136",
+   "en": "Sure got it under control quick, too.",
+   "ro": "Sigur l-a controlat repede."
+  },
+  {
+   "key": "1964974960433295360",
+   "en": "No, wait, that-- That was... disappointing. Weird.",
+   "en_m": "No, wait. That was... disappointing. Weird.",
+   "ro": "Nu, așteaptă, aia-- Aia a fost... dezamăgitor. Ciudat."
+  },
+  {
+   "key": "1964977984929132544",
+   "en": "Is it, though?",
+   "ro": "Chiar e?"
+  },
+  {
+   "key": "2006741308582522880",
+   "en": "You look like a cut of fuckable meat. Are you?",
+   "ro": "Arăți ca o bucată de carne de futut. Ești?"
+  }
+ ]
+}

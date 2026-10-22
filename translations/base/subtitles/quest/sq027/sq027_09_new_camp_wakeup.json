@@ -1,0 +1,613 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq027\\sq027_09_new_camp_wakeup.json",
+ "entries": [
+  {
+   "key": "1947404463386521600",
+   "en": "V... You have to tell me what is happening.",
+   "ro": "V... Trebuie să-mi spui ce se întâmplă."
+  },
+  {
+   "key": "1947406641522143232",
+   "en": "The blood... You were out for hours. What's wrong?",
+   "ro": "Sângele... Ai fost inconștientă ore întregi. Ce s-a întâmplat?",
+   "ro_m": "Sângele... Ai fost inconștient ore întregi. Ce s-a întâmplat?"
+  },
+  {
+   "key": "1947407692413399044",
+   "en": "Eh, it's nothing.",
+   "ro": "Eh, nu-i nimic."
+  },
+  {
+   "key": "1947408811587923968",
+   "en": "It's getting worse, Panam.",
+   "ro": "Se agravează, Panam."
+  },
+  {
+   "key": "1947412378944139264",
+   "en": "It's... nothing. I'm fine now.",
+   "ro": "E... nimic. Sunt bine acum."
+  },
+  {
+   "key": "1947412847313678336",
+   "en": "Fuck, so I can see.",
+   "ro": "Futu-i, deci văd."
+  },
+  {
+   "key": "1947413144505282560",
+   "en": "Will you tell me what is going on? Or will we keep playing this stupid charade?",
+   "ro": "Îmi spui ce se întâmplă? Sau continuăm să jucăm mascarada asta prostească?"
+  },
+  {
+   "key": "1947414091914670080",
+   "en": "Panam, I... It's getting worse, every single day...",
+   "ro": "Panam, eu... Se agravează, în fiecare zi..."
+  },
+  {
+   "key": "1947414952367747072",
+   "en": "OK, V, relax. Take it bit by bit. What is happening, exactly?",
+   "ro": "OK, V, relaxează-te. Ia-o încet. Ce se întâmplă, exact?"
+  },
+  {
+   "key": "1947415432951099396",
+   "en": "You know Johnny Silverhand?",
+   "ro": "Îl cunoști pe Johnny Silverhand?"
+  },
+  {
+   "key": "1947416848981684224",
+   "en": "It's the busted tech in my head.",
+   "ro": "E tehnologia aia stricată din capul meu."
+  },
+  {
+   "key": "1947418956921434112",
+   "en": "I'm afraid to tell you the truth.",
+   "ro": "Mi-e teamă să-ți spun adevărul."
+  },
+  {
+   "key": "1947419833950400512",
+   "en": "To tell you the whole truth... I'm afraid things won't be the same between us if I do.",
+   "ro": "Ca să-ți spun tot adevărul... Mi-e teamă că nu o să mai fie la fel între noi, dacă o fac."
+  },
+  {
+   "key": "1947486841144471552",
+   "en": "V, listen to me.",
+   "ro": "V, ascultă-mă."
+  },
+  {
+   "key": "1947486935616974848",
+   "en": "V, cut the crap and tell me what's going on! I'm worried!",
+   "ro": "V, lasă vrăjeala și spune-mi ce se întâmplă! Îmi fac griji!"
+  },
+  {
+   "key": "1947490954582290432",
+   "en": "There is not a thing you could say to me that would change how...",
+   "ro": "Nimic din ce-mi poți spune nu schimbă cum..."
+  },
+  {
+   "key": "1947493282739777536",
+   "en": "I mean, just cut the bullshit and tell me what's going on!",
+   "ro": "Adică, hai, fără căcaturi, și spune-mi ce dracu' se întâmplă!"
+  },
+  {
+   "key": "1947494844782473216",
+   "en": "You know Johnny Silverhand?",
+   "ro": "Îl cunoști pe Johnny Silverhand?"
+  },
+  {
+   "key": "1947494915531993088",
+   "en": "OK. So... You ever hear of the Relic?",
+   "ro": "OK. Deci... Ai auzit vreodată de Relic?"
+  },
+  {
+   "key": "1947496595300413440",
+   "en": "The Arasaka tech? Does something with personalities? I saw the ads. Sounds like some rich people scam, to be honest.",
+   "ro": "Tehnologia Arasaka? Face ceva cu personalitățile? Am văzut reclamele. Sună a țeapă pentru bogați, sincer."
+  },
+  {
+   "key": "1947498317783625728",
+   "en": "It's not bullshit. I've got a biochip in my head with one of those constructs. And the chip's damaged.",
+   "ro": "Nu e vrăjeală. Am un biochip în cap cu unul dintre constructele alea. Și biochipul e stricat."
+  },
+  {
+   "key": "1947499797416636416",
+   "en": "So take it out!",
+   "ro": "Atunci scoate-l!"
+  },
+  {
+   "key": "1947503021360017408",
+   "en": "Yes, they sometimes play those oldies on the radio. Why?",
+   "ro": "Da, mai pun câte o piesă veche la radio. De ce?"
+  },
+  {
+   "key": "1947504691598979072",
+   "en": "That's just it. Johnny's alive. He's sitting in my head.",
+   "ro": "Asta e. Johnny e viu. Stă în capul meu."
+  },
+  {
+   "key": "1947505641373954048",
+   "en": "He's what? A-am I not... is this some sort of strange metaphor?",
+   "ro": "Ce? N-nu... e vreo metaforă ciudată?"
+  },
+  {
+   "key": "1947511706555641856",
+   "en": "V... Back to what we were saying...",
+   "ro": "V... Revenind la ce spuneam..."
+  },
+  {
+   "key": "1947512811486310404",
+   "en": "Honestly? I dunno.",
+   "ro": "Sincer? Nu știu."
+  },
+  {
+   "key": "1947516061451153408",
+   "en": "I'm afraid you can't.",
+   "ro": "Mi-e teamă că nu poți."
+  },
+  {
+   "key": "1947516316330618880",
+   "en": "Honestly? Not a clue.",
+   "ro": "Sincer? Nicio idee."
+  },
+  {
+   "key": "1947520915368177664",
+   "en": "But there has to be something, someone who can...",
+   "ro": "Dar trebuie să fie ceva, cineva care să..."
+  },
+  {
+   "key": "1947523448643907584",
+   "en": "Remember Hellman? He's the one who created the personality construct tech.",
+   "ro": "Îți amintești de Hellman? El a inventat tehnologia constructelor de personalitate."
+  },
+  {
+   "key": "1947524044000194560",
+   "en": "That's why you wanted to get him.",
+   "ro": "De asta voiai să-l prinzi."
+  },
+  {
+   "key": "1947525687949258752",
+   "en": "Couldn't help me. Not sure anyone can.",
+   "ro": "Nu m-a putut ajuta. Nu sunt sigură că poate cineva.",
+   "ro_m": "Nu m-a putut ajuta. Nu sunt sigur că poate cineva."
+  },
+  {
+   "key": "1947526241429614592",
+   "en": "I don't believe that.",
+   "ro": "Nu cred asta."
+  },
+  {
+   "key": "1947527040360640512",
+   "en": "But it was a dead end. Now I have to figure out where to go next.",
+   "ro": "Dar a fost fund de sac. Acum trebuie să-mi dau seama încotro o iau."
+  },
+  {
+   "key": "1947553441960816640",
+   "en": "You'll find a way. And once you do, let me know. I will help.",
+   "ro": "O să găsești o cale. Și când o faci, anunță-mă. Te ajut."
+  },
+  {
+   "key": "1947562000052252676",
+   "en": "Thanks, Panam.",
+   "ro": "Mulțumesc, Panam."
+  },
+  {
+   "key": "1947562560612593664",
+   "en": "[Kiss Panam] Thanks for being here for me.",
+   "ro": "[Sărută-o pe Panam] Mulțumesc că ai fost alături de mine."
+  },
+  {
+   "key": "1947562781836963840",
+   "en": "I'll be fine. You take care of yourself!",
+   "ro": "O să fiu bine. Ai grijă de tine!"
+  },
+  {
+   "key": "1947563333673152512",
+   "en": "Thanks, Panam.",
+   "ro": "Mulțumesc, Panam."
+  },
+  {
+   "key": "1947563407811670016",
+   "en": "Thanks for everything.",
+   "ro": "Mulțumesc pentru tot."
+  },
+  {
+   "key": "1947563488677851136",
+   "en": "I'll be fine, don't worry. Good luck with the new camp.",
+   "ro": "O să fiu bine, nu-ți face griji. Mult succes cu noua tabără."
+  },
+  {
+   "key": "1947564437865623552",
+   "en": "For being here for me.",
+   "ro": "Pentru că ai fost alături de mine."
+  },
+  {
+   "key": "1947564698231238656",
+   "en": "Take care of yourself. And let me know... Well, just please keep in touch.",
+   "ro": "Ai grijă de tine. Și anunță-mă... Mă rog, doar ține legătura, te rog."
+  },
+  {
+   "key": "1947566217273929728",
+   "en": "Want me to walk with you?",
+   "ro": "Vrei să merg cu tine?"
+  },
+  {
+   "key": "1947567810186702848",
+   "en": "Thanks...",
+   "ro": "Mulțumesc..."
+  },
+  {
+   "key": "1947569196957822976",
+   "en": "Take care, Panam!",
+   "ro": "Ai grijă, Panam!"
+  },
+  {
+   "key": "1947620009591828484",
+   "en": "I'm serious. It's a long story.",
+   "ro": "Sunt serios. E o poveste lungă."
+  },
+  {
+   "key": "1947620976966103040",
+   "en": "Silverhand's wreaking havoc in my head.",
+   "ro": "Silverhand face ravagii în capul meu."
+  },
+  {
+   "key": "1947621501103108096",
+   "en": "Long story. Got a job, fucked it up, now Silverhand's personality construct's sitting in my head.",
+   "ro": "Poveste lungă. Am luat un job, am futut-o, și acum mi-a rămas în cap constructul de personalitate al lui Silverhand."
+  },
+  {
+   "key": "1947621619147599872",
+   "en": "Panam, Silverhand's construct is busy wreaking havoc in my head.",
+   "ro": "Panam, constructul lui Silverhand face ravagii în capul meu."
+  },
+  {
+   "key": "1947622932015083520",
+   "en": "Bullshit.",
+   "ro": "Pe dracu'!"
+  },
+  {
+   "key": "1947623142149713920",
+   "en": "Yeah, well, he's not too happy about it either. Turns out we don't really mix. And it's getting worse.",
+   "ro": "Da, păi, nici lui nu-i place. Se pare că nu ne prindem deloc. Și se înrăutățește."
+  },
+  {
+   "key": "1947625918846070784",
+   "en": "You are not joking.",
+   "ro": "Nu glumești."
+  },
+  {
+   "key": "1947626740828991488",
+   "en": "Just trying to live with it. Survive, actually.",
+   "ro": "Doar încerc să trăiesc cu asta. Să supraviețuiesc, de fapt."
+  },
+  {
+   "key": "1947627029111894016",
+   "en": "It's certainly not doing wonders for your health.",
+   "ro": "Sigur nu-ți face bine la sănătate."
+  },
+  {
+   "key": "1947631101562974208",
+   "en": "Impossible. It's not – i-it's simply impossible. Johnny Silverhand?",
+   "ro": "Imposibil. Nu e – n-nu e pur și simplu imposibil. Johnny Silverhand?"
+  },
+  {
+   "key": "1947631731614543872",
+   "en": "Listen, did you try, you know... talking to someone about this?",
+   "ro": "Ascultă, ai încercat, știi tu... să vorbești cu cineva despre asta?"
+  },
+  {
+   "key": "1947632163678187520",
+   "en": "Could tell my therapist a lotta things, but this isn't one of 'em. Construct's more like a cancer, growing every day.",
+   "ro": "I-aș putea spune terapeutului meu o grămadă de lucruri, dar asta nu e una dintre ele. Constructul e ca un cancer, crește zi de zi."
+  },
+  {
+   "key": "1947634931398733828",
+   "en": "More complicated than that. Relic's also keeping me alive.",
+   "ro": "Mai complicat decât atât. Relic-ul mă ține și în viață."
+  },
+  {
+   "key": "1947635269845512192",
+   "en": "The personality construct attacked my brain.",
+   "ro": "Constructul de personalitate mi-a atacat creierul."
+  },
+  {
+   "key": "1947636668092248064",
+   "en": "Definitely not that simple. Relic's also keeping me alive. But...",
+   "ro": "Sigur nu e chiar atât de simplu. Relic-ul mă ține și în viață. Dar..."
+  },
+  {
+   "key": "1947636772580749312",
+   "en": "Chip held a personality construct. Construct attacked my brain.",
+   "ro": "Cipul avea un construct de personalitate. Constructul mi-a atacat creierul."
+  },
+  {
+   "key": "1947637830702985216",
+   "en": "So this is cyberpsychosis? Because if it is, I know people who--",
+   "ro": "Deci asta e cyberpsihoză? Pentru că dacă e, cunosc oameni care--"
+  },
+  {
+   "key": "1947638232584417280",
+   "en": "No, no. The chip's data is infecting my neural connections. Got nothing to do with cyberpsychosis.",
+   "ro": "Nu, nu. Datele cipului infectează conexiunile mele neuronale. Nu are legătură cu cyberpsihoza."
+  },
+  {
+   "key": "1947638889177542656",
+   "en": "I remove the Relic, I die. If I don't deal with the construct, I die.",
+   "ro": "Dacă scot Relic-ul, mor. Dacă nu mă ocup de construct, mor."
+  },
+  {
+   "key": "1947643814229962752",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "1947647502919004160",
+   "en": "You can't reverse it somehow? Stop it? Fuck, you can't get it out of your head?",
+   "ro": "Nu poți inversa cumva? Să-l oprești? Futu-i, nu poți să-l scoți din cap?"
+  },
+  {
+   "key": "1947648959969882112",
+   "en": "That's what I'm trying to do. But the clock's ticking. Getting worse by the day.",
+   "ro": "Asta încerc să fac. Dar ceasul ticăie. Se înrăutățește pe zi ce trece."
+  },
+  {
+   "key": "1947651317470720000",
+   "en": "Fuck.",
+   "ro": "Futu-i."
+  },
+  {
+   "key": "1989299053052841988",
+   "en": "Where are we?",
+   "ro": "Unde suntem?"
+  },
+  {
+   "key": "1989299684866019328",
+   "en": "What happened?",
+   "ro": "Ce s-a întâmplat?"
+  },
+  {
+   "key": "1989300029218377728",
+   "en": "Where... where are we?",
+   "ro": "Unde... unde suntem?"
+  },
+  {
+   "key": "1989300160030330884",
+   "en": "What happened? I remember, I... We were talking, then suddenly...",
+   "ro": "Ce s-a întâmplat? Îmi amintesc, eu... Vorbeam, apoi dintr-o dată..."
+  },
+  {
+   "key": "1989300574360457216",
+   "en": "I gotta go. I'm feeling better, really.",
+   "ro": "Trebuie să plec. Mă simt mai bine, serios."
+  },
+  {
+   "key": "1989304274005020672",
+   "en": "V! Welcome back to the land of the living!",
+   "ro": "V! Bine ai revenit în lumea celor vii!"
+  },
+  {
+   "key": "1989305535668441088",
+   "en": "I know this area, back from the old routes.",
+   "ro": "Cunosc zona asta, de pe vechile rute."
+  },
+  {
+   "key": "1989306481014231040",
+   "en": "I thought I heard that voice!",
+   "ro": "Parcă ți-am auzit vocea!"
+  },
+  {
+   "key": "1989394591764992004",
+   "en": "I can stay for a bit. Thanks.",
+   "ro": "Pot să rămân puțin. Mulțumesc."
+  },
+  {
+   "key": "1989395837305507840",
+   "en": "Remember – our offer still stands.",
+   "ro": "Ține minte – oferta noastră încă e valabilă."
+  },
+  {
+   "key": "1989396850448027648",
+   "en": "See you made yourselves at home already.",
+   "ro": "Văd că v-ați făcut deja comozi aici."
+  },
+  {
+   "key": "1989401209235853312",
+   "en": "Much better now. Thanks for your help.",
+   "ro": "Mult mai bine acum. Mulțumesc pentru ajutor."
+  },
+  {
+   "key": "1989401577093091328",
+   "en": "Thanks, I'll stick around for a bit.",
+   "ro": "Mulțumesc, rămân puțin."
+  },
+  {
+   "key": "1989401769645199364",
+   "en": "All fine now, thanks.",
+   "ro": "Totul e în regulă acum, mulțumesc."
+  },
+  {
+   "key": "1989402808322641920",
+   "en": "See you already settled in here.",
+   "ro": "Văd că v-ați așezat deja aici."
+  },
+  {
+   "key": "1989403539020730368",
+   "en": "We do have some experience in this.",
+   "ro": "Avem ceva experiență în asta."
+  },
+  {
+   "key": "1989403768281387008",
+   "en": "This is a good place. We have greater control over the area. The rest will settle in quickly.",
+   "ro": "E un loc bun. Avem mai mult control pe zonă. Restul o să se așeze repede."
+  },
+  {
+   "key": "1989432291394080768",
+   "en": "You passed out. Completely. We took you with us.",
+   "ro": "Ai leșinat de tot. Te-am luat cu noi."
+  },
+  {
+   "key": "1989434433525796864",
+   "en": "We moved camp. You are safe, everything is under control.",
+   "ro": "Am mutat tabăra. Ești în siguranță, totul e sub control."
+  },
+  {
+   "key": "1989437188864757760",
+   "en": "You passed out. Completely. We took you with us.",
+   "ro": "Ai leșinat de tot. Te-am luat cu noi."
+  },
+  {
+   "key": "1989437286843699200",
+   "en": "Somewhere new. We moved camp. Don't worry, we are safe here. For now.",
+   "ro": "Undeva nou. Am mutat tabăra. Nu-ți face griji, suntem în siguranță aici. Deocamdată."
+  },
+  {
+   "key": "1989438692220751872",
+   "en": "I don't know...",
+   "ro": "Nu știu..."
+  },
+  {
+   "key": "1989438880846991360",
+   "en": "Wait, I will go with you.",
+   "ro": "Stai, vin cu tine."
+  },
+  {
+   "key": "1989442034560946176",
+   "en": "You really safe here, though?",
+   "ro": "Chiar sunteți în siguranță aici?"
+  },
+  {
+   "key": "1989442812252016640",
+   "en": "About time sleeping beauty decided to join us! Hey there.",
+   "ro": "Era și timpul, Frumoasa adormită! Salut.",
+   "ro_m": "Era și timpul, Frumosule adormit! Salut."
+  },
+  {
+   "key": "1989443584557600768",
+   "en": "Hey, Mitch.",
+   "ro": "Hei, Mitch."
+  },
+  {
+   "key": "1989443758403112960",
+   "en": "Took good care of your ride. She's over there.",
+   "ro": "Am avut grijă de mașina ta. E acolo."
+  },
+  {
+   "key": "1989444960037654528",
+   "en": "Make yourself at home.",
+   "ro": "Fă-te ca acasă."
+  },
+  {
+   "key": "1989445834885582848",
+   "en": "I'm glad to hear it.",
+   "ro": "Mă bucur să aud."
+  },
+  {
+   "key": "1989450121413939200",
+   "en": "If you need help, the Aldecaldos are here for you.",
+   "ro": "Dacă ai nevoie de ajutor, clanul Aldecaldos e alături de tine."
+  },
+  {
+   "key": "1989455230277537792",
+   "en": "If you need anything, you know where to find us.",
+   "ro": "Dacă ai nevoie de ceva, știi unde să ne găsești."
+  },
+  {
+   "key": "1999485574543175680",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1999491326695567360",
+   "en": "Panam... I...",
+   "ro": "Panam... eu..."
+  },
+  {
+   "key": "1999491880998006784",
+   "en": "V, relax, everything is OK. How do you feel?",
+   "ro": "V, relaxează-te, totul e OK. Cum te simți?"
+  },
+  {
+   "key": "1999500089217380352",
+   "en": "Where...?",
+   "ro": "Unde...?"
+  },
+  {
+   "key": "1999504706575659008",
+   "en": "Where?",
+   "ro": "Unde?"
+  },
+  {
+   "key": "1999530197072343040",
+   "en": "Finally. We were worried.",
+   "ro": "În sfârșit. Ne-am făcut griji."
+  },
+  {
+   "key": "1999536111594631168",
+   "en": "Is everything OK?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "1999540554755076096",
+   "en": "But tell us, how are you? You scared us.",
+   "ro": "Spune-ne, cum te simți? Ne-ai speriat."
+  },
+  {
+   "key": "1999547341189279744",
+   "en": "Thanks, but I gotta get going.",
+   "ro": "Mulțumesc, dar trebuie să plec."
+  },
+  {
+   "key": "1999547835395731456",
+   "en": "Thanks, Mitch. But I'd better be going.",
+   "ro": "Mulțumesc, Mitch. Dar mai bine plec."
+  },
+  {
+   "key": "1999552354842177536",
+   "en": "You're barely standing, V. You take care of yourself, OK?",
+   "ro": "Abia te ții pe picioare, V. Ai grijă de tine, OK?"
+  },
+  {
+   "key": "1999554930211942400",
+   "en": "And that, at least, we can agree on.",
+   "ro": "Și în asta, cel puțin, suntem de acord."
+  },
+  {
+   "key": "1999558769963036672",
+   "en": "I will not even pretend to understand. I don't think it has even sunk in yet. But I am serious – how can I help?",
+   "ro": "Nu mă prefac că înțeleg. Nu cred că mi-a intrat în cap încă. Dar serios acum – cum te pot ajuta?"
+  },
+  {
+   "key": "1999573728327495680",
+   "en": "This whole family will help. Saul was not joking. You understand?",
+   "ro": "Toată familia asta te ajută. Saul n-a glumit. Pricepi?"
+  },
+  {
+   "key": "1999577078670422016",
+   "en": "For now, yes. Militech does not venture this far. And our vantage points really are much better.",
+   "ro": "Deocamdată, da. Militech nu se bagă atât de departe. Și avem puncte de observație mult mai bune."
+  },
+  {
+   "key": "1999578352665096192",
+   "en": "But you know, everything here... It is temporary, all of it. We will soon have to decide what comes next.",
+   "ro": "Dar, știi, tot ce e aici... e temporar, tot. O să trebuiască să decidem curând ce urmează."
+  },
+  {
+   "key": "2006859935632523264",
+   "en": "But you're not leaving us already, are you?",
+   "ro": "Dar nu ne lași deja, nu?"
+  },
+  {
+   "key": "2077967784476962816",
+   "en": "Gotta go.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "2227325631560499200",
+   "en": "V? Talk to me?",
+   "ro": "V? Vorbește cu mine?"
+  },
+  {
+   "key": "2227358561578074112",
+   "en": "Is anything wrong, V?",
+   "ro": "S-a întâmplat ceva, V?"
+  }
+ ]
+}

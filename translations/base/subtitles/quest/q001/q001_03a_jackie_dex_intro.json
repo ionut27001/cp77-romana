@@ -1,0 +1,448 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_03a_jackie_dex_intro.json",
+ "entries": [
+  {
+   "key": "1145790880853725184",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "1172322775523405824",
+   "en": "Yo, Miss V. A pleasure.",
+   "en_m": "Yo, Mr. V. A pleasure.",
+   "ro": "Yo, domnișoară V. Plăcerea e toată a mea.",
+   "ro_m": "Yo, domnule V. Plăcerea e toată a mea."
+  },
+  {
+   "key": "1172323745498148864",
+   "en": "Mind if I ask you somethin' right off the bangle?",
+   "ro": "Te superi dacă te întreb ceva, direct?"
+  },
+  {
+   "key": "1172327136458715136",
+   "en": "Got a classic tale for ya. Psychogang, doin' its thing two weeks back, jumped a Militech convoy, got away with the gear. Corp don't even know Maelstrom's involved.",
+   "ro": "Am una clasică pentru tine. O gașcă de psihopați, acum două săptămâni, a atacat un convoi Militech și a fugit cu marfa. Corporația nici nu știe că Maelstrom e amestecat."
+  },
+  {
+   "key": "1172332148182233088",
+   "en": "Who's the woman?",
+   "ro": "Cine e femeia?"
+  },
+  {
+   "key": "1172332275437416448",
+   "en": "Who's the prima donna?",
+   "ro": "Cine e prima donna?"
+  },
+  {
+   "key": "1172350021990625280",
+   "en": "Now see, convoy was carryin' the Flathead – a little combat bot, a prototype. And I need me that bit o' high-grade military tech.",
+   "ro": "Păi, convoiul transporta Flathead-ul, un bot de luptă micuț, un prototip. Și am nevoie de tehnologia aia militară de top."
+  },
+  {
+   "key": "1172369506965401600",
+   "en": "Corpo agent, internal affairs. Been skittin' 'round town askin' after the convoy as if her life depended on findin' it. The one lead she got's zip-tied in her trunk.",
+   "ro": "Agent corpo, afaceri interne. Tot umblă prin oraș întrebând de convoi, ca și cum viața ei ar depinde de el. Singurul indiciu pe care l-a avut stă legat fedeleș în portbagaj."
+  },
+  {
+   "key": "1174963773897818112",
+   "en": "Royce guy – who is he?",
+   "ro": "Royce ăla, cine e?"
+  },
+  {
+   "key": "1175126700094685204",
+   "en": "[Take shard]",
+   "ro": "[Ia shard-ul]"
+  },
+  {
+   "key": "1176642317162434560",
+   "en": "Heheh. Let's roll.",
+   "ro": "Heheh. Hai să mergem."
+  },
+  {
+   "key": "1186596413243969536",
+   "en": "Hang on. Got a question of my own, now. Why all this, Dex? Why me?",
+   "en_m": "Hang on. I got a question of my own, now. Why all this, Dex? Why me?",
+   "ro": "Stai. Am și eu o întrebare acum. De ce toate astea, Dex? De ce eu?"
+  },
+  {
+   "key": "1186596661513211904",
+   "en": "The job – tell me more.",
+   "ro": "Treaba – spune-mi mai multe."
+  },
+  {
+   "key": "1186596672972050432",
+   "en": "Why meet me? Why the show?",
+   "ro": "De ce să mă văd cu tine? Și de ce circul ăsta?"
+  },
+  {
+   "key": "1187749962556428288",
+   "en": "Slot in the shard.",
+   "ro": "Conectează shard-ul."
+  },
+  {
+   "key": "1187768799460904960",
+   "en": "Think I got everything. Time I got to work.",
+   "ro": "Cred că am tot ce-mi trebuie. E timpul să mă apuc de treabă."
+  },
+  {
+   "key": "1187780010600615936",
+   "en": "Would you rather live in peace as Miss Nobody, die ripe, old and smellin' slightly of urine? Or go down for all times in a blaze of glory, smellin' near like posies, 'thout seein' your thirtieth?",
+   "en_m": "Would you rather live in peace as Mr. Nobody, die ripe, old and smellin' slightly of urine? Or go down for all times in a blaze of glory, smellin' near like posies, 'thout seein' your thirtieth?",
+   "ro": "Ce preferi: să trăiești în liniște, ca domnișoara Nobody, și să mori bătrână, mirosind ușor a urină? Sau să pleci pe vecie, într-o explozie de glorie, mirosind a trandafiri, fără să apuci treizeci de ani?",
+   "ro_m": "Ce preferi: să trăiești în liniște, ca domnul Nobody, și să mori bătrân, mirosind ușor a urină? Sau să pleci pe vecie, într-o explozie de glorie, mirosind a trandafiri, fără să apuci treizeci de ani?"
+  },
+  {
+   "key": "1196607822107447296",
+   "en": "Call me ol' fashioned, but I like to look anyone I do biz with in the eye.",
+   "ro": "Poate sunt cam demodat, dar îmi place să mă uit în ochi cu oricine fac afaceri."
+  },
+  {
+   "key": "1196610813350842368",
+   "en": "Had the pleasure of meetin' the Jackster in the past. And sweet T-Bug helped this brother out two years ago. So here we are.",
+   "ro": "Am avut plăcerea să-l cunosc pe Jackster cândva. Iar T-Bug a fost un suflet și m-a ajutat pe fratele ăsta acum doi ani. Așa că iată-ne aici."
+  },
+  {
+   "key": "1244940493912739840",
+   "en": "Why, that's just music to my ears. I'll set up the meet with Miss Parker at Lizzie's Bar. Flathead, though, is gonna be all you.",
+   "ro": "Ei, asta-i muzică pentru urechile mele. Aranjez eu întâlnirea cu domnișoara Parker la Lizzie's Bar. Flathead-ul rămâne al tău."
+  },
+  {
+   "key": "1569251174210752512",
+   "en": "Lemme hear it – what's the job?",
+   "ro": "Spune-mi – care e treaba?"
+  },
+  {
+   "key": "1569254923566206976",
+   "en": "There's this… prototype tech – a biochip, to be precise. Job's to grab it. Simple.",
+   "ro": "E vorba de o tehnologie prototip, un biochip, ca să fiu exact. Trebuie doar să-l iei. Simplu."
+  },
+  {
+   "key": "1569297342290612228",
+   "en": "Maelstrom – what's the issue?",
+   "ro": "Maelstrom – care e problema?"
+  },
+  {
+   "key": "1569305716872859648",
+   "en": "Client – tell me about her.",
+   "ro": "Clienta – spune-mi despre ea."
+  },
+  {
+   "key": "1569306134575206400",
+   "en": "What's the issue needs resolving with Maelstrom? Got a beef?",
+   "en_m": "What's the issue needs resolvin' with Maelstrom? Got a beef?",
+   "ro": "Ce ai de rezolvat cu Maelstrom? Ai vreo răfuială cu ei?"
+  },
+  {
+   "key": "1569308812336320512",
+   "en": "Know all I need, I think.",
+   "ro": "Cred că știu tot ce-mi trebuie."
+  },
+  {
+   "key": "1569310770858184704",
+   "en": "Client. What's her thing? Why's she need to meet?",
+   "ro": "Clienta. Ce-i cu ea? De ce vrea să se întâlnească?"
+  },
+  {
+   "key": "1569311546334662656",
+   "en": "Woman's name's Evelyn Parker. Vettin' her wasn't easy. Put the word out I was lookin' for any kinda intel…",
+   "ro": "Pe femeia asta o cheamă Evelyn Parker. N-a fost ușor s-o verific. Am zis pe la toți că umblu după orice informație…"
+  },
+  {
+   "key": "1569316152838082560",
+   "en": "One more thing, Ms. V.",
+   "en_m": "One more thing, Mr. V.",
+   "ro": "Încă ceva, domnișoară V.",
+   "ro_m": "Încă ceva, domnule V."
+  },
+  {
+   "key": "1630085098826035200",
+   "en": "Coulda had Jackie or T-Bug sittin' here. Coulda just done this on comms…",
+   "ro": "Puteam să-i chem pe Jackie sau pe T-Bug aici. Puteam face asta și pe comms…"
+  },
+  {
+   "key": "1630097934570680320",
+   "en": "'Sides all that, got a special little pre-mission just for you. But we'll get to that.",
+   "ro": "Pe lângă toate astea, am o pre-misiune specială, doar pentru tine. Dar ajungem și la asta."
+  },
+  {
+   "key": "1630100503145672704",
+   "en": "Dexter DeShawn in the flesh. Ample, indeed.",
+   "ro": "Dexter DeShawn în carne și oase. Destul de solid, ce să zic."
+  },
+  {
+   "key": "1630147450661433344",
+   "en": "Mmh... guessin' it belongs to a corp?",
+   "en_m": "Yeah...? Huh, guessin' it belongs to a corp.",
+   "ro": "Mhm... ghicesc că e de la vreo corporație?",
+   "ro_m": "Da...? Hm, ghicesc că e de la vreo corporație?"
+  },
+  {
+   "key": "1630147646115999744",
+   "en": "Mhm – Arasaka.",
+   "ro": "Mhm – Arasaka."
+  },
+  {
+   "key": "1630148399865982976",
+   "en": "Surely that's no problem?",
+   "ro": "Sigur nu e o problemă?"
+  },
+  {
+   "key": "1630149136318656516",
+   "en": "Not at all.",
+   "ro": "Deloc."
+  },
+  {
+   "key": "1630149888978120704",
+   "en": "That's a death sentence.",
+   "ro": "Asta e o condamnare la moarte."
+  },
+  {
+   "key": "1630150368487731200",
+   "en": "Pff. Corps don't deserve special treatment.",
+   "en_m": "Heh. Corps don't deserve special treatment.",
+   "ro": "Pff. Corporațiile nu merită tratament special.",
+   "ro_m": "Heh. Corporațiile nu merită tratament special."
+  },
+  {
+   "key": "1630150437811187712",
+   "en": "No, no problem. Just a death sentence. NC's Arasaka's turf, nobody fucks with them here.",
+   "ro": "Nu, nicio problemă. Doar o condamnare la moarte. NC e teritoriul Arasaka, nimeni nu se pune cu ei aici, pula mea."
+  },
+  {
+   "key": "1630150523928637440",
+   "en": "You work this out? Got a plan?",
+   "ro": "Ai rezolvat asta? Ai un plan?"
+  },
+  {
+   "key": "1630164702521651200",
+   "en": "Shit. Heh, you ain't playin' around.",
+   "ro": "Căcat. Heh, tu chiar nu te joci."
+  },
+  {
+   "key": "1630165934573285376",
+   "en": "What can I say, Miss V – high risk, high reward. First rule of the Afterlife.",
+   "en_m": "What can I say, Mr. V – high risk, high reward. First rule of the Afterlife.",
+   "ro": "Ce să zic, doamnă V – cine nu riscă nu câștigă. Prima regulă de la Afterlife.",
+   "ro_m": "Ce să zic, domnule V – cine nu riscă nu câștigă. Prima regulă de la Afterlife."
+  },
+  {
+   "key": "1630166955164889088",
+   "en": "'Sides that, I'm no leadhead. Ain't gonna leave no trace for them to follow 'cause we gonna do this clean an' on the hush-hush. We understand each other?",
+   "ro": "Pe lângă asta, nu-s fraier. N-o să las nicio urmă s-o găsească, că facem treaba asta curat și pe ascuns. Ne înțelegem?"
+  },
+  {
+   "key": "1630168531703099392",
+   "en": "Got a feelin' this could be a start of a beautiful friendship built on heaps of eddies.",
+   "ro": "Simt că asta ar putea fi începutul unei frumoase prietenii, cu grămezi de eddies pe deasupra."
+  },
+  {
+   "key": "1630177638040399872",
+   "en": "Two things. First's a conundrum with the Maelstrom boys. Needs active resolvin', that.",
+   "ro": "Două chestii. Prima e o belea cu băieții de la Maelstrom. Trebuie s-o rezolvăm, și repede."
+  },
+  {
+   "key": "1630181679705288704",
+   "en": "Second's a rendezvous. Simple. Client who brought us the job's anxious. She wants to parley with one o' the team.",
+   "ro": "A doua e o întâlnire. Simplu. Clienta care ne-a dat jobul e stresată. Vrea să vorbească cu unul din echipă."
+  },
+  {
+   "key": "1630235385486307328",
+   "en": "'Cause if we don't get that bot, we don't get no 'Saka chip. An' we sure as hell don't get no happily-ever-after. But don't get excited, it's a single-use toy.",
+   "ro": "Că dacă nu luăm robotelul ăla, nu luăm nici cipul 'Saka. Și sigur nu ne alegem cu happy-end-ul ăla. Da' nu te entuziasma, e o jucărie de unică folosință."
+  },
+  {
+   "key": "1630240516613271552",
+   "en": "Stick up her ass ain't growin' any shorter, so she must be gettin' desperate. Be wise to think how you could use that.",
+   "ro": "Are un băț în cur care nu se scurtează, deci trebuie să fie disperată. Gândește-te cum ai putea s-o folosești în avantajul tău."
+  },
+  {
+   "key": "1630241912058212352",
+   "en": "Royce guy – what's he like?",
+   "ro": "Tipul Royce – cum e?"
+  },
+  {
+   "key": "1630313775652335616",
+   "en": "A straight psychopath, chrome-lovin' kind.",
+   "ro": "Un psihopat pur-sânge, din ăia care înnebunesc după chrome."
+  },
+  {
+   "key": "1630314951651291136",
+   "en": "Big club in this town.",
+   "ro": "Club mare în orașul ăsta."
+  },
+  {
+   "key": "1630319093778149376",
+   "en": "I'll give you that. 'Cept few of its other members, no matter the stakes, would put a friend and associate through an industrial microwave dryer.",
+   "ro": "Recunosc. Doar că puțini din ceilalți, oricât de mare ar fi miza, ar băga un prieten și asociat în uscătorul ăla industrial cu microunde."
+  },
+  {
+   "key": "1630328689775276032",
+   "en": "Woman's a corp agent?",
+   "ro": "Femeia e agentă corpo?"
+  },
+  {
+   "key": "1630329263186964480",
+   "en": "Corpo agent – what's she playin' at?",
+   "ro": "Agentă corpo – ce pune la cale?"
+  },
+  {
+   "key": "1630336251451076608",
+   "en": "Hell if I know. Been skittin' 'round town askin' after the convoy as if her life depended on findin' it. The one lead she got's zip-tied in her trunk.",
+   "ro": "Habar n-am, frate. A tot umblat prin oraș întrebând de convoi de parcă viața ei depinde de asta. Singura pistă pe care o are e legată cu zip-tie în portbagaj."
+  },
+  {
+   "key": "1630336730004385792",
+   "en": "Mhh... Sounds like she was waitin' on the transport, got stood up. Monochrome in the back's probably her chief suspect.",
+   "en_m": "Sounds like she was waitin' on the transport, got stood up. Monochrome in the back's probably her chief suspect.",
+   "ro": "Mhh... Pare că aștepta transportul, a fost lăsată baltă. Tipul în negru din spate e probabil principalul suspect.",
+   "ro_m": "Pare că aștepta transportul, a fost lăsată baltă. Tipul în negru din spate e probabil principalul suspect."
+  },
+  {
+   "key": "1630337177100414976",
+   "en": "Got nothin' from him or on 'im, so she's keepin' him just in case. But she needs to find the stolen gear before her bosses learn she fucked up.",
+   "en_m": "Got nothin' from him or on him, so she's keepin' 'im just in case. But she needs to find the stolen gear before her bosses learn she fucked up.",
+   "ro": "N-a scos nimic de la el și nici despre el, așa că-l ține pe rezervă. Dar trebuie să găsească echipamentul furat înainte ca șefii ei să afle că a dat-o-n bară."
+  },
+  {
+   "key": "1630338374758756352",
+   "en": "Well, Miss V. That is some impressive deduction. Naturally, use that intel as you please, preferably well.",
+   "en_m": "Well, Mr. V. That is some impressive deduction. Naturally, use that intel as you please, preferably well.",
+   "ro": "Mă rog, doamnă V. Deducție impresionantă, să știi. Sigur, folosește informația cum vrei, da' sper să fie cu cap.",
+   "ro_m": "Mă rog, domnule V. Deducție impresionantă, să știi. Sigur, folosește informația cum vrei, da' sper să fie cu cap."
+  },
+  {
+   "key": "1630341567462961152",
+   "en": "Yours truly'll be remote, T-Bug ain't no people person, and Jackie's only good at some things – I know you know what I mean. Pretty much leaves you.",
+   "ro": "Eu o să fiu de la distanță, T-Bug nu-i genul sociabil, iar Jackie e bun doar la unele lucruri – știi tu ce vreau să zic. Practic, rămâi tu."
+  },
+  {
+   "key": "1630342993559875584",
+   "en": "Anyway, our lil' client insisted on meetin' someone with skin in the game – you know, who'll be there for it all.",
+   "ro": "Oricum, clienta noastră a insistat să vorbească cu cineva cu pielea în joc – știi tu, cineva care e alături de noi până la capăt."
+  },
+  {
+   "key": "1630355721997447168",
+   "en": "Right, and...?",
+   "ro": "Bine, și...?"
+  },
+  {
+   "key": "1630356056149258240",
+   "en": "Some brothers from Pacifica got back to me. Tol' me to stop lookin', end of convo, heheh.",
+   "ro": "Niște frați din Pacifica mi-au scris. Mi-au zis să las baltă, discuție închisă, heheh."
+  },
+  {
+   "key": "1630449162265751552",
+   "en": "How they remember you – that's all that counts.",
+   "ro": "Cum te țin minte – asta e tot ce contează."
+  },
+  {
+   "key": "1630449287558000640",
+   "en": "Miss Nobodies don't survive in Night City.",
+   "en_m": "Mr. Nobodies don't survive in Night City.",
+   "ro": "Domnișoarele Nobody nu supraviețuiesc în Night City.",
+   "ro_m": "Domnii Nobody nu supraviețuiesc în Night City."
+  },
+  {
+   "key": "1630449408337178624",
+   "en": "This some sorta test?",
+   "ro": "E vreun fel de test?"
+  },
+  {
+   "key": "1630451353118502912",
+   "en": "It's first place or no place, Dex. Cost isn't a factor.",
+   "ro": "Ori primul loc, ori nimic, Dex. Costul nu contează."
+  },
+  {
+   "key": "1630451995014787072",
+   "en": "You're either somebody or you fizzle out into nothin'. Night City don't let you choose.",
+   "ro": "Ori ești cineva, ori te spulberi. Night City nu te lasă să alegi."
+  },
+  {
+   "key": "1630452298615287808",
+   "en": "This some sorta test?",
+   "ro": "E vreun fel de test?"
+  },
+  {
+   "key": "1630454359411060736",
+   "en": "Y'mean... riddles?",
+   "ro": "Adică... ghicitori?"
+  },
+  {
+   "key": "1630454957820801024",
+   "en": "Mh, just a pet topic o' mine.",
+   "ro": "Mh, un subiect drag mie."
+  },
+  {
+   "key": "1630459997847482368",
+   "en": "No, Miss V. Ontology.",
+   "en_m": "No, Mr. V. Ontology.",
+   "ro": "Nu, doamnă V. Ontologie.",
+   "ro_m": "Nu, domnule V. Ontologie."
+  },
+  {
+   "key": "1630462637205549056",
+   "en": "Oh, but it does. See, in my line of work I choose to be Mr. Chill. But folk who try to take advantage, well, they see the beast inside…",
+   "ro": "Ba da, o face. Uite, în meseria mea am ales să fiu domnul Calm. Da' cine încearcă să profite, păi, ăla vede fiara din mine…"
+  },
+  {
+   "key": "1630464120311443456",
+   "en": "A'ight, listen close. Scannin' a serious job, now. Plain gargantuan compared to smashin' up a scav haunt.",
+   "ro": "Bine, ascultă bine. Avem de scanat o treabă serioasă. Enormă față de o spargere la un cuib de hiene."
+  },
+  {
+   "key": "1630465234687684608",
+   "en": "Huh, classic. I'd expect nothin' less from eager, supple youth. Respect.",
+   "ro": "Hm, clasic. Altceva nu mă așteptam de la tinerii ăștia dornici. Respect."
+  },
+  {
+   "key": "1653396512059617280",
+   "en": "Quiet life or blaze o' glory? Hmm?",
+   "ro": "Viață liniștită sau glorie cu flacără mare? Hm?"
+  },
+  {
+   "key": "1653417621756768256",
+   "en": "Later, now.",
+   "ro": "Ne auzim mai târziu."
+  },
+  {
+   "key": "1667862752152973312",
+   "en": "Apparently, first thing to burst are the eyeballs. Get a nice, clear \"pop!\" Then the rest goes goulash.",
+   "ro": "Se pare că primii care sar sunt ochii. Un «pop!» clar, ce să mai. Apoi restul se face gulaș."
+  },
+  {
+   "key": "1667865798945730560",
+   "en": "'Course, to do so you'll need that frazzled cat's info. Sendin' it now.",
+   "ro": "Sigur, pentru asta o să-ți trebuiască informațiile pisicii ăleia stresate. Ți le trimit acum."
+  },
+  {
+   "key": "1667867078074232832",
+   "en": "'Course, to do so you'll need that frazzled cat's info. Sending it now.",
+   "ro": "Sigur, pentru asta o să-ți trebuiască informațiile pisicii ăleia stresate. Ți le trimit acum."
+  },
+  {
+   "key": "1672282882077290496",
+   "en": "Now, I flat out purchased the damn thing from Maelstrom. Problem is, I did so from a gent went by the name of Brick.",
+   "ro": "Deci, am cumpărat drăcia aia direct de la Maelstrom. Problema e că am făcut-o cu un tip care se numea Brick."
+  },
+  {
+   "key": "1672283756606451712",
+   "en": "I say \"went\" 'cause Brick was the leader. Three days after we'd sealed our deal, his friend and gangmate, one Simon Randall, AKA Royce, plain dropped his ass.",
+   "ro": "Zic «se numea» pentru că Brick era șeful. Cu trei zile după ce ne-am înțeles, prietenul lui din gașcă, un Simon Randall, zis Royce, l-a scos din joc."
+  },
+  {
+   "key": "1672284141995880448",
+   "en": "Royce is in charge now. And I got no way of knowin' if he aims to honor his predecessor's word.",
+   "ro": "Royce e acum la șefie. Și n-am de unde să știu dacă vrea să țină cuvântul celui dinainte."
+  },
+  {
+   "key": "1995112637703057408",
+   "en": "To add to this \"shitstrom,\" one Meredith Stout of Militech has developed an interest in said convoy.",
+   "ro": "Ca să mai adăugăm la «shitstrom»-ul ăsta, o Meredith Stout de la Militech s-a băgat în convoiul ăla."
+  },
+  {
+   "key": "2017298064277725188",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  }
+ ]
+}

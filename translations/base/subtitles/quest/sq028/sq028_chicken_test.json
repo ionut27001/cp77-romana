@@ -1,0 +1,56 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq028\\sq028_chicken_test.json",
+ "entries": [
+  {
+   "key": "1368987833829691392",
+   "en": "From the start.",
+   "en_m": "[db_db]From the start.",
+   "ro": "De la început.",
+   "ro_m": "[db_db]De la început."
+  },
+  {
+   "key": "1368987985562832896",
+   "en": "On the cabin cruiser.",
+   "en_m": "[db_db]On the cabin cruiser.",
+   "ro": "Pe cabin cruiser.",
+   "ro_m": "[db_db]Pe cabin cruiser."
+  },
+  {
+   "key": "1368988636887912448",
+   "en": "On the beach.",
+   "en_m": "[db_db]On the beach.",
+   "ro": "Pe plajă.",
+   "ro_m": "[db_db]Pe plajă."
+  },
+  {
+   "key": "1743057479914385408",
+   "en": "[db_db]Was there kissu kissu with Kerry?",
+   "ro": "[db_db]A fost kissu kissu cu Kerry?"
+  },
+  {
+   "key": "2070517436308033536",
+   "en": "[db_db]After quest - sms",
+   "ro": "[db_db]După misiune - sms"
+  },
+  {
+   "key": "2166441404088487936",
+   "en": "[db_db]Yacht in marina.",
+   "ro": "[db_db]Iaht în marină."
+  },
+  {
+   "key": "2415688967998705668",
+   "en": "[db_db]spawn near",
+   "ro": "[db_db]spawn near"
+  },
+  {
+   "key": "2415689514382299136",
+   "en": "[db_db]spawn far",
+   "ro": "[db_db]spawn far"
+  },
+  {
+   "key": "2543383174829084672",
+   "en": "[db_db]default workspot",
+   "ro": "[db_db]default workspot"
+  }
+ ]
+}

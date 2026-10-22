@@ -1,0 +1,723 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q112\\q112_04_takemura.json",
+ "entries": [
+  {
+   "key": "1660580220269064192",
+   "en": "So? We goin' in?",
+   "ro": "Deci? Intrăm?"
+  },
+  {
+   "key": "1660648652486307840",
+   "en": "Sounds sensible. Better get comfy.",
+   "ro": "Sună cuminte. Mai bine ne așezăm confortabil."
+  },
+  {
+   "key": "1660663118875684868",
+   "en": "Let's just drop it.",
+   "ro": "Hai să lăsăm baltă."
+  },
+  {
+   "key": "1660663443900690432",
+   "en": "Peeps on the streets hate the corps.",
+   "ro": "Tipii de pe stradă urăsc corporațiile."
+  },
+  {
+   "key": "1660706242226384896",
+   "en": "[Stand] I'm getting worse...",
+   "ro": "[Ridică-te] Tot mai rău mi-e..."
+  },
+  {
+   "key": "1685252933890883584",
+   "en": "I think it is time to do something, hm?",
+   "ro": "Cred că e timpul să facem ceva, hm?"
+  },
+  {
+   "key": "1712936061744726016",
+   "en": "I wish to be certain we have not overlooked anything.",
+   "ro": "Vreau să fiu sigur că n-am scăpat ceva din vedere."
+  },
+  {
+   "key": "1713036092657123328",
+   "en": "We should wait and observe.",
+   "ro": "Mai bine așteptăm și observăm."
+  },
+  {
+   "key": "1766413117334360064",
+   "en": "The bakeneko got sick of us, looks like.",
+   "ro": "Parcă bakeneko s-a săturat de noi."
+  },
+  {
+   "key": "1773573723300696064",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1773576740515221504",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1773577106929618944",
+   "en": "Gulp. No sudden movements.",
+   "ro": "Înghiț. Fără mișcări bruște."
+  },
+  {
+   "key": "1773610744643719168",
+   "en": "Do you see it?",
+   "ro": "Îl vezi?"
+  },
+  {
+   "key": "1773611061783433216",
+   "en": "The cat.",
+   "ro": "Pisica."
+  },
+  {
+   "key": "1773616136740278276",
+   "en": "Thought they'd all disappeared from the city.",
+   "ro": "Credeam că au dispărut cu toții din oraș."
+  },
+  {
+   "key": "1773618395104546816",
+   "en": "So? Just some stray.",
+   "ro": "Și? Doar un maidanez."
+  },
+  {
+   "key": "1773620770053689344",
+   "en": "Fine-lookin' feline. Thought they'd all disappeared from the city.",
+   "ro": "Felină frumoasă. Credeam că au dispărut cu toții din oraș."
+  },
+  {
+   "key": "1773620979282350080",
+   "en": "So? Cat like any other.",
+   "en_m": "So? It's a cat like any other.",
+   "ro": "Și? O pisică ca oricare alta."
+  },
+  {
+   "key": "1781989202595811328",
+   "en": "You already forget what happened at Tom's Diner? People hate corps more'n anything.",
+   "en_m": "You already forget what happened at Tom's Diner? People hate corps more than anything.",
+   "ro": "Ai uitat ce-a fost la Tom's Diner? Lumea urăște corporațiile mai mult decât orice."
+  },
+  {
+   "key": "1781998416022081536",
+   "en": "Tired of bickerin'. Let's just drop it.",
+   "ro": "M-am săturat de ceartă. Hai să lăsăm baltă."
+  },
+  {
+   "key": "1782006745440063488",
+   "en": "You got no idea how I feel.",
+   "ro": "N-ai nicio idee cum mă simt."
+  },
+  {
+   "key": "1782006745456840704",
+   "en": "Huh, finally starting to make some sense.",
+   "ro": "Hm, în sfârșit începe să aibă sens."
+  },
+  {
+   "key": "1782126000508637184",
+   "en": "Sometimes I wish to become a nomad. To leave this world, forget everything.",
+   "ro": "Uneori aș vrea să devin nomad. Să părăsesc lumea asta, să uit totul."
+  },
+  {
+   "key": "1782227335463702528",
+   "en": "Finally startin' to make some sense.",
+   "ro": "În sfârșit începe să aibă sens."
+  },
+  {
+   "key": "1783526439892422656",
+   "en": "It will find its own way.",
+   "ro": "O să-și găsească drumul."
+  },
+  {
+   "key": "1834479571673419776",
+   "en": "Hmph. Is this what you said before entering Konpeki Plaza?",
+   "ro": "Hmph. Asta ai spus înainte să intrăm în Konpeki Plaza?"
+  },
+  {
+   "key": "1995380886478856192",
+   "en": "As will we.",
+   "ro": "La fel și noi."
+  },
+  {
+   "key": "2004085483342995456",
+   "en": "If nothing out of the ordinary happens, then yes – \"We goin' in!\"",
+   "ro": "Dacă nu iese nimic din comun, atunci da – „Intrăm!”"
+  },
+  {
+   "key": "2011525265438351360",
+   "en": "About Jack? What is it?",
+   "ro": "Despre Jack? Ce e?"
+  },
+  {
+   "key": "2011526037878153216",
+   "en": "When I set out to find you, others went to find Jackie. They took his body.",
+   "ro": "Când am plecat să te caut eu, alții s-au dus după Jackie. I-au luat trupul."
+  },
+  {
+   "key": "2011528585481625600",
+   "en": "For the life of me, can't figure why. So his mom couldn't give him a proper sendoff?",
+   "ro": "Nu-mi dau seama de ce. Ca mama lui să nu-i poată face o înmormântare ca lumea?"
+  },
+  {
+   "key": "2011529065544884224",
+   "en": "Arasaka has a method... for pulling information from the dead.",
+   "ro": "Arasaka are o metodă... ca să extragă informații de la morți."
+  },
+  {
+   "key": "2011533238558597120",
+   "en": "What're you talkin' about?",
+   "ro": "Despre ce vorbești?"
+  },
+  {
+   "key": "2011533889380360192",
+   "en": "Don't ask for details, I understand little. I know they use the Soulkiller program to do so.",
+   "ro": "Nu mă întreba detalii, că nu prea pricep. Știu că folosesc programul Soulkiller pentru asta."
+  },
+  {
+   "key": "2011535192231845888",
+   "en": "They can pull an engram from Welles' body. Damaged, incomplete, but still an engram.",
+   "ro": "Pot scoate un engram din trupul lui Welles. Avariat, incomplet, da' tot engram."
+  },
+  {
+   "key": "2011536939394342912",
+   "en": "That's bullshit.",
+   "ro": "Sunt numai căcaturi."
+  },
+  {
+   "key": "2011537798622683136",
+   "en": "Don't believe it. Pure bullshit.",
+   "ro": "Nu cred. Vrăjeală curată, pe bune."
+  },
+  {
+   "key": "2011538012012093440",
+   "en": "You survived your death. Is this also \"bullshit?\"",
+   "ro": "Ai supraviețuit morții tale. Și asta e „vrăjeală”?"
+  },
+  {
+   "key": "2011541966066360320",
+   "en": "Where are they holding it?",
+   "ro": "Unde îl țin?"
+  },
+  {
+   "key": "2011543650851168268",
+   "en": "Jackie's psyche – where're are they keepin' it?",
+   "ro": "Psihicul lui Jackie – unde îl țin?"
+  },
+  {
+   "key": "2011543650867945472",
+   "en": "This I do not know.",
+   "ro": "Asta nu știu."
+  },
+  {
+   "key": "2011590749345095684",
+   "en": "Slavin' away for a corp's not for everybody.",
+   "ro": "Să munciești sclav pentru o corporație nu e pentru oricine."
+  },
+  {
+   "key": "2011592214935576576",
+   "en": "Slavin' away for a corp – not exactly everybody's dream.",
+   "ro": "Să muncești ca sclav pentru o corporație – nu e chiar visul tuturor."
+  },
+  {
+   "key": "2011650300626935808",
+   "en": "Why am I only hearin' this now?",
+   "ro": "De ce aud asta abia acum?"
+  },
+  {
+   "key": "2011650478331207680",
+   "en": "I did not know I could trust you. The circumstances have changed.",
+   "ro": "Nu știam că pot avea încredere în tine. Circumstanțele s-au schimbat."
+  },
+  {
+   "key": "2011659115879538688",
+   "en": "I'm not judging you.",
+   "ro": "Nu te judec."
+  },
+  {
+   "key": "2012789124660797440",
+   "en": "Never too late to change.",
+   "ro": "Niciodată nu e prea târziu să te schimbi."
+  },
+  {
+   "key": "2012797710417862656",
+   "en": "Do you know what I think?",
+   "ro": "Știi ce cred?"
+  },
+  {
+   "key": "2012798393686761472",
+   "en": "That day in Konpeki, we both have lost someone important.",
+   "ro": "În ziua aia la Konpeki, amândoi am pierdut pe cineva important."
+  },
+  {
+   "key": "2012803108906541056",
+   "en": "Don't be smart, got no idea what I feel.",
+   "ro": "Nu te da deștept, n-ai nicio idee ce simt."
+  },
+  {
+   "key": "2012842009868181504",
+   "en": "Wasn't judging you.",
+   "ro": "Nu te judecam."
+  },
+  {
+   "key": "2012842998499188736",
+   "en": "And we are not at peace with this, so we seek conflict, argue eagerly.",
+   "ro": "Și nu ne-am împăcat cu asta, așa că ne căutăm certurile cu tot dinadinsul."
+  },
+  {
+   "key": "2012863072589127680",
+   "en": "There is one thing you should know... It is about Mr. Welles…",
+   "ro": "E un lucru pe care trebuie să-l știi... E despre domnul Welles…"
+  },
+  {
+   "key": "2012865370732175360",
+   "en": "It is the duty of the living to atone for the dead.",
+   "ro": "E datoria celor vii să ispășească pentru morți."
+  },
+  {
+   "key": "2012865911679950848",
+   "en": "Hanako-sama shall aid us in our mission.",
+   "ro": "Hanako-sama o să ne ajute în misiune."
+  },
+  {
+   "key": "2012871354477256704",
+   "en": "Or she'll make sure we die for good.",
+   "ro": "Sau o să se asigure că murim de tot."
+  },
+  {
+   "key": "2014141091161120768",
+   "en": "Never too late.",
+   "ro": "Niciodată nu e prea târziu."
+  },
+  {
+   "key": "2014141091161120784",
+   "en": "Pff. Nomads aren't anythin' like that.",
+   "ro": "Pff. Nomazii nu sunt deloc așa."
+  },
+  {
+   "key": "2014151271038918656",
+   "en": "And you know what? Nobody owns me. I'm free. You should try it.",
+   "ro": "Și știi ce? Nimeni nu mă deține. Sunt liberă. Ar trebui să încerci și tu.",
+   "ro_m": "Și știi ce? Nimeni nu mă deține. Sunt liber. Ar trebui să încerci și tu."
+  },
+  {
+   "key": "2014153015047299080",
+   "en": "Nomads aren't lone wolves with egos. Whether they're blood or not – family comes first.",
+   "ro": "Nomazii nu sunt lupi singuratici cu ego. Fie că sunt de sânge sau nu – familia e pe primul loc."
+  },
+  {
+   "key": "2027094611174694912",
+   "en": "I sense that you judge me. And yet you have no right to.",
+   "ro": "Simt că mă judeci. Și totuși nu ai niciun drept."
+  },
+  {
+   "key": "2027271725811310592",
+   "en": "Unlike you and your friend Mr. Welles, I was not arrogant, I did not take the easy path.",
+   "ro": "Spre deosebire de tine și prietenul tău domnul Welles, eu nu am fost arogant, nu am ales calea ușoară."
+  },
+  {
+   "key": "2027328329168527360",
+   "en": "Sayin' you got no dirt on your hands?",
+   "ro": "Zici că n-ai mâini murdare?"
+  },
+  {
+   "key": "2027344169242796032",
+   "en": "You forgetting I worked for Arasaka?",
+   "ro": "Uită că am lucrat pentru Arasaka?"
+  },
+  {
+   "key": "2027345135761432576",
+   "en": "Forgetting I was at Arasaka? Saw how corps operate – wasn't roses and rainbows.",
+   "ro": "Uită că am fost la Arasaka? Am văzut cum funcționează corporațiile – nu era numai flori și curcubeie."
+  },
+  {
+   "key": "2028753201010647040",
+   "en": "Untrue. You oppose the corporations, their order, their world, in a mindless way, yet you offer no worthy alternative.",
+   "ro": "Fals. Te opui corporațiilor, ordinii lor, lumii lor, fără niciun rost, dar nu oferi nicio alternativă care să merite."
+  },
+  {
+   "key": "2028753325598253056",
+   "en": "You show me filthy streets as if no other world exists, as if nothing else is possible. What of the millions who work for Arasaka and receive stability, safety?",
+   "ro": "Îmi arăți străzi murdare de parcă n-ar exista altă lume, de parcă nimic altceva n-ar fi posibil. Și milioanele care lucrează pentru Arasaka și au stabilitate, siguranță?"
+  },
+  {
+   "key": "2028753422889328640",
+   "en": "And Chiba-11's slumrats? They're there, scraping scraps out of scoptins… Corps decided that, too.",
+   "ro": "Și șobolanii din mahalalele Chiba-11? Sunt acolo, scormonind prin gunoaie... Corporațiile au decis și asta."
+  },
+  {
+   "key": "2028753779824599040",
+   "en": "Corporations need capital and resources to keep all in order. Who else is to rule? Corrupt governments? The masses – attached to feeders?",
+   "ro": "Corporațiile au nevoie de capital și resurse ca să mențină ordinea. Cine altul să conducă? Guverne corupte? Masele – lipite de hrănitoare?"
+  },
+  {
+   "key": "2028756566268518400",
+   "en": "Cynics, nihilists – like you?",
+   "ro": "Cinici, nihiliști – ca tine?"
+  },
+  {
+   "key": "2028829904076611644",
+   "en": "Sayin' you got no dirt on your hands?",
+   "ro": "Zici că n-ai mâini murdare?"
+  },
+  {
+   "key": "2028829904093388804",
+   "en": "There are no clean hands. But it is important how they become dirty.",
+   "ro": "Mâini curate nu are nimeni. Dar contează cum ajung murdare."
+  },
+  {
+   "key": "2028829904093388816",
+   "en": "So spill – how'd you sully yours?",
+   "ro": "Așa că spune – cum ți-ai murdărit mâinile?"
+  },
+  {
+   "key": "2028829904093388832",
+   "en": "Arasaka gave me what no one else could – values I could honor, live for. This was most important.",
+   "ro": "Arasaka mi-a dat ce nimeni altul nu putea – valori pe care le puteam onora, pentru care puteam trăi. Asta a fost cel mai important."
+  },
+  {
+   "key": "2037552193874714628",
+   "en": "Believe in ghosts?",
+   "ro": "Crezi în fantome?"
+  },
+  {
+   "key": "2037552315492753408",
+   "en": "It is the first animal I see in Night City. Except cockroaches, of course.",
+   "ro": "E primul animal pe care-l văd în Night City. În afară de gândaci, evident."
+  },
+  {
+   "key": "2037553994506199040",
+   "en": "Perhaps it is a bakeneko?",
+   "ro": "Poate e un bakeneko?"
+  },
+  {
+   "key": "2037556175863046144",
+   "en": "Nope, just a cat.",
+   "ro": "Nu, doar o pisică."
+  },
+  {
+   "key": "2037556515953991680",
+   "en": "Who knows – could be.",
+   "ro": "Cine știe – poate."
+  },
+  {
+   "key": "2037557230009081856",
+   "en": "Bakeneko?",
+   "ro": "Bakeneko?"
+  },
+  {
+   "key": "2037560996309524480",
+   "en": "A \"bakeneko?\" What's that?",
+   "ro": "Un „bakeneko”? Ce-i aia?"
+  },
+  {
+   "key": "2037591566460674048",
+   "en": "First it was birds, then dogs – cats actually put up a fight longest.",
+   "ro": "Mai întâi au fost păsările, apoi câinii – pisicile chiar au rezistat cel mai mult."
+  },
+  {
+   "key": "2037592256893444096",
+   "en": "Believe in ghosts?",
+   "ro": "Crezi în fantome?"
+  },
+  {
+   "key": "2037592348111167488",
+   "en": "Chill. Just a cat.",
+   "ro": "Calmează-te. Doar o pisică."
+  },
+  {
+   "key": "2037592462934433792",
+   "en": "Feline ghost? Ah, suppose anything's possible.",
+   "en_m": "Feline ghost? Suppose anything's possible.",
+   "ro": "Fantoma unei feline? Ah, presupun că orice e posibil.",
+   "ro_m": "Fantoma unei feline? Presupun că orice e posibil."
+  },
+  {
+   "key": "2037592901155315712",
+   "en": "It is a cat spirit – it brings misfortune, can restore the dead back to life.",
+   "ro": "E un spirit de pisică – aduce nenorocire, poate readuce morții la viață."
+  },
+  {
+   "key": "2037593750485098496",
+   "en": "The Relic lets you talk to the dead, does it not? I believe we are past belief.",
+   "ro": "Relic-ul te lasă să vorbești cu morții, nu? Cred că am trecut de partea aia cu credința."
+  },
+  {
+   "key": "2037597760625598464",
+   "en": "Perhaps. Perhaps not.",
+   "ro": "Poate. Poate că nu."
+  },
+  {
+   "key": "2037598986318667776",
+   "en": "My grandmother knew many, many stories about kitsune, kappa – bakeneko, too.",
+   "ro": "Bunica mea știa multe, multe povești despre kitsune, kappa – și bakeneko."
+  },
+  {
+   "key": "2037662730830766084",
+   "en": "Miss home?",
+   "ro": "Ți-e dor de casă?"
+  },
+  {
+   "key": "2037662935026262016",
+   "en": "Where'd you grow up?",
+   "ro": "Unde ai crescut?"
+  },
+  {
+   "key": "2037663511004864512",
+   "en": "Miss home?",
+   "ro": "Ți-e dor de casă?"
+  },
+  {
+   "key": "2037663612238585856",
+   "en": "Where'd you grow up, anyway?",
+   "ro": "Unde ai crescut, de fapt?"
+  },
+  {
+   "key": "2037664110236688384",
+   "en": "A foolish question.",
+   "ro": "O întrebare prostească."
+  },
+  {
+   "key": "2037667150620549120",
+   "en": "I am from the slums of Chiba-11. Once, when I was desperate to leave there, I…",
+   "ro": "Sunt din mahalalele Chiba-11. Odată, când eram disperat să plec de acolo, am…"
+  },
+  {
+   "key": "2037668020301094912",
+   "en": "Egh, bad memories washed away by time. I long only for the simple days of childhood.",
+   "ro": "Eh, amintiri rele, spălate de timp. Tânjesc doar după zilele simple ale copilăriei."
+  },
+  {
+   "key": "2037674193964261380",
+   "en": "Remember when I was a kid…",
+   "ro": "Îmi amintesc când eram copil…"
+  },
+  {
+   "key": "2037676335475220480",
+   "en": "What was it like – growin' up in Chiba-11?",
+   "ro": "Cum a fost – să crești în Chiba-11?"
+  },
+  {
+   "key": "2037678352398573568",
+   "en": "Remember when I was a kid…",
+   "ro": "Îmi amintesc când eram copil…"
+  },
+  {
+   "key": "2037678438029484032",
+   "en": "Remember when I was a kid…",
+   "ro": "Îmi amintesc când eram copil…"
+  },
+  {
+   "key": "2037678479905415168",
+   "en": "Growin' up in Chiba-11 – what was it like?",
+   "ro": "Să crești în Chiba-11 – cum a fost?"
+  },
+  {
+   "key": "2037678690996346880",
+   "en": "My childhood, let's see... Nights spent lookin' for... a star – any star… All dimmed by city lights.",
+   "en_m": "My childhood, let's see... Nights spent lookin' for a star – any star… All dimmed by city lights.",
+   "ro": "Copilăria mea, să vedem... Nopți petrecute căutând... o stea – orice stea… Toate estompate de luminile orașului.",
+   "ro_m": "Copilăria mea, să vedem... Nopți petrecute căutând o stea – orice stea… Toate estompate de luminile orașului."
+  },
+  {
+   "key": "2037678826002604032",
+   "en": "My childhood, let's see... Racin' my bobber for the first time through the hills...",
+   "ro": "Prima oară când am gonit cu bobberul prin dealuri..."
+  },
+  {
+   "key": "2037678927236325376",
+   "en": "Childhood memories, let's see... Hoppin' buildings, runnin' away from badges.",
+   "ro": "Amintiri din copilărie, să vedem... Săream din clădire în clădire, fugind de gabori."
+  },
+  {
+   "key": "2037681769363824640",
+   "en": "Silent lullabies sung by the flickering neon signs of Charter Hill…",
+   "ro": "Cântece de leagăn tăcute cântate de neonurile pâlpâitoare din Charter Hill…"
+  },
+  {
+   "key": "2037682901708464128",
+   "en": "I remember the chemical stench of the canal where we boys washed our shirts.",
+   "ro": "Îmi amintesc de mirosul chimic al canalului unde noi, băieții, ne spălam cămășile."
+  },
+  {
+   "key": "2037684037609873408",
+   "en": "Oh, and uh, first kiss in the middle of a synth-cornfield…",
+   "ro": "Și, ăă, primul sărut în mijlocul unui câmp de porumb sintetic…"
+  },
+  {
+   "key": "2037712798942257152",
+   "en": "Iron taste of blood from a split lip…",
+   "ro": "Gustul de fier al sângelui de la buza spartă…"
+  },
+  {
+   "key": "2037716317610991616",
+   "en": "Corporate transporters sometimes passed through our slum. Arasaka selecting children – but only the clean ones.",
+   "ro": "Transportatoarele corporatiste treceau uneori prin mahalaua noastră. Arasaka alegea copii – dar doar pe cei curați."
+  },
+  {
+   "key": "2037718816208216068",
+   "en": "What'd they need kids for?",
+   "ro": "La ce le trebuiau copii?"
+  },
+  {
+   "key": "2037722349389242368",
+   "en": "They recruit you for military service?",
+   "ro": "Te-au recrutat în armată?"
+  },
+  {
+   "key": "2037724143595053056",
+   "en": "Military transporters? For a slum?",
+   "ro": "Transportatoare militare? Pentru o mahala?"
+  },
+  {
+   "key": "2037728344375058432",
+   "en": "What'd they need kids for?",
+   "en_m": "What did they need kids for?",
+   "ro": "La ce le trebuiau copii?"
+  },
+  {
+   "key": "2037728462352441344",
+   "en": "Lemme guess – so they could turn 'em into corposoldiers?",
+   "ro": "Lasă-mă să ghicesc – ca să-i transforme în corposoldați?"
+  },
+  {
+   "key": "2037728563552608256",
+   "en": "Transporters, you say.",
+   "ro": "Transportatoare, zici."
+  },
+  {
+   "key": "2037729001236619264",
+   "en": "To be corporate soldiers.",
+   "ro": "Ca să fie soldați corporatiști."
+  },
+  {
+   "key": "2037732564968955904",
+   "en": "Exactly.",
+   "ro": "Exact."
+  },
+  {
+   "key": "2037734752181051392",
+   "en": "Armored and armed. Chiba-11 had the most murders in all Japan. It probably still has.",
+   "ro": "Blindați și înarmați. Chiba-11 avea cele mai multe crime din toată Japonia. Probabil încă are."
+  },
+  {
+   "key": "2037738915312984064",
+   "en": "When they chose me, I felt I had won the lottery.",
+   "ro": "Când m-au ales, am simțit că am câștigat la loterie."
+  },
+  {
+   "key": "2037739664583450624",
+   "en": "In the army I was given everything I lacked before – discipline, regular meals, and when I proved I was gifted – an education.",
+   "ro": "În armată mi s-a dat tot ce-mi lipsea înainte – disciplină, mese regulate, iar când am dovedit că sunt talentat – o educație."
+  },
+  {
+   "key": "2037752071116578820",
+   "en": "All you had to do was kill Arasaka's enemies.",
+   "ro": "Tot ce trebuia să faci era să ucizi dușmanii Arasaka."
+  },
+  {
+   "key": "2037752510344093696",
+   "en": "Anything's good that puts food on the table.",
+   "ro": "Orice e bun dacă pune mâncare pe masă."
+  },
+  {
+   "key": "2037760146359738368",
+   "en": "And all you had to do in return was kill Saburo's enemies.",
+   "ro": "Și tot ce trebuia să faci în schimb era să ucizi dușmanii lui Saburo."
+  },
+  {
+   "key": "2037760284654329856",
+   "en": "Did what you had to to keep from goin' hungry.",
+   "ro": "Ai făcut ce trebuia ca să nu mori de foame."
+  },
+  {
+   "key": "2038667239627448320",
+   "en": "You dirty your hands for money. I, in the name of principles.",
+   "ro": "Tu îți murdărești mâinile pe bani. Eu, de dragul principiilor."
+  },
+  {
+   "key": "2038761262937563136",
+   "en": "Take a look around. It's here – your corporate world in its glorious splendor.",
+   "ro": "Uită-te în jur. E aici – lumea ta corporatistă în toată splendoarea ei."
+  },
+  {
+   "key": "2038850407584260096",
+   "en": "C'mon, not everybody wants to change the world.",
+   "ro": "Haide, nu toată lumea vrea să schimbe lumea."
+  },
+  {
+   "key": "2038850835201941504",
+   "en": "Sadly, this is true.",
+   "ro": "Din păcate, e adevărat."
+  },
+  {
+   "key": "2038902374692052992",
+   "en": "We cannot fix everything at once.",
+   "ro": "Nu putem rezolva totul deodată."
+  },
+  {
+   "key": "2038909518833278976",
+   "en": "Can't blame 'em, either. Got some regrets, but kleppin' from Arasaka ain't one of 'em.",
+   "ro": "Nici pe ei nu-i poți da vina. Am ceva regrete, dar să șutez de la Arasaka nu e unul dintre ele."
+  },
+  {
+   "key": "2038955482348544000",
+   "en": "What's that?",
+   "ro": "Ce-i aia?"
+  },
+  {
+   "key": "2039085712031637504",
+   "en": "Motherfuckers… evil.",
+   "ro": "Jigodiile astea… răi."
+  },
+  {
+   "key": "2039190069821595648",
+   "en": "How'd you come to be Saburo's bodyguard?",
+   "ro": "Cum ai ajuns să fii gardă de corp pentru Saburo?"
+  },
+  {
+   "key": "2039190468012040192",
+   "en": "So how's a corpo rookie go from cleanin' latrines to bein' Saburo Arasaka's bodyguard?",
+   "ro": "Deci cum trece un corpo începător de la curățat latrine la gardă de corp pentru Saburo Arasaka?"
+  },
+  {
+   "key": "2039206057887686656",
+   "en": "The highest grades at the academy, service in the special forces, and Arasaka-sama's unmatched eye for talent.",
+   "ro": "Cele mai mari note la academie, serviciu în forțele speciale și ochiul inegalabil al lui Arasaka-sama pentru talent."
+  },
+  {
+   "key": "2039207152282263552",
+   "en": "You're not sayin' Saburo fell for you at first sight.",
+   "ro": "Nu spui că Saburo s-a îndrăgostit de tine la prima vedere."
+  },
+  {
+   "key": "2039207538024013824",
+   "en": "To make the right decisions with imperfect knowledge... that is how you become the world's most powerful man.",
+   "ro": "Să iei decizii bune cu informații incomplete... asta te face cel mai puternic om din lume."
+  },
+  {
+   "key": "2039213022982463488",
+   "en": "One hundred candidates standing at attention... and Arasaka-sama looked into each of our souls and chose the one who would serve him best.",
+   "ro": "O sută de candidați în poziție de drepți... și Arasaka-sama a privit în sufletul fiecăruia dintre noi și l-a ales pe cel care o să-l servească cel mai bine."
+  },
+  {
+   "key": "2039228135160438784",
+   "en": "Ah yes, because thieving is so much more honorable…",
+   "ro": "Ah, da, sigur, că furatul e atât de onorabil…"
+  },
+  {
+   "key": "2039230187064287232",
+   "en": "Least I'm not fleecin' this planet and its people in the name of profit-margins!",
+   "ro": "Cel puțin eu nu jecmănesc planeta asta și oamenii ei de dragul profitului!"
+  },
+  {
+   "key": "2043488478191706112",
+   "en": "What is your expression... \"One cannot teach an old dog new tricks.\"",
+   "ro": "Cum ziceți voi... „Câinele bătrân nu mai învață trucuri noi.”"
+  },
+  {
+   "key": "2043489346311970816",
+   "en": "Yes. But we need not quibble over details.",
+   "ro": "Da. Dar nu ne oprim la detalii."
+  }
+ ]
+}

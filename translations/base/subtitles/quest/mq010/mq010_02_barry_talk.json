@@ -1,0 +1,483 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq010\\mq010_02_barry_talk.json",
+ "entries": [
+  {
+   "key": "1772111680413790212",
+   "en": "[Knock] Hey, Barry!",
+   "ro": "[Bate la ușă] Hei, Barry!"
+  },
+  {
+   "key": "1772112117208608768",
+   "en": "Barry? Am I rememberin' that right?",
+   "ro": "Barry? Mă țin minte bine?"
+  },
+  {
+   "key": "1772112601784938496",
+   "en": "Who is it?",
+   "ro": "Cine e?"
+  },
+  {
+   "key": "1772113695424540672",
+   "en": "I remember. Whaddaya want?",
+   "ro": "Îmi amintesc. Ce vrei?"
+  },
+  {
+   "key": "1772115389705252868",
+   "en": "Stay strong.",
+   "ro": "Fii tare."
+  },
+  {
+   "key": "1772116722118193152",
+   "en": "People like us have to get used to loss.",
+   "ro": "Oamenii ca noi învață să trăiască cu pierderile."
+  },
+  {
+   "key": "1772117316618842112",
+   "en": "I just wanna talk.",
+   "ro": "Vreau doar să stăm de vorbă."
+  },
+  {
+   "key": "1772118135397314560",
+   "en": "Just wanna talk, that's all. I know it's what you need right now, even if you don't wanna admit it.",
+   "ro": "Doar să stăm de vorbă, atât. Știu că asta îți trebuie acum, chiar dacă n-o recunoști."
+  },
+  {
+   "key": "1772118743839830016",
+   "en": "I can't turn back time for you, but I can sit next to you and listen...  remind you that you're not in this alone.",
+   "ro": "Nu pot da timpul înapoi, dar pot să stau lângă tine și să te ascult... să-ți amintesc că nu ești singur în asta."
+  },
+  {
+   "key": "1772118999457492996",
+   "en": "Your friends asked me to drop by.",
+   "ro": "Prietenii tăi m-au rugat să trec pe la tine."
+  },
+  {
+   "key": "1772120695365595136",
+   "en": "You should get out there, live a little!",
+   "ro": "Ar trebui să ieși și tu, să te mai distrezi!"
+  },
+  {
+   "key": "1772121400058998784",
+   "en": "Just wanted to see what's shakin'. Friends say you never leave your unit. Think I've got an inkling as to why.",
+   "en_m": "I just wanted to see what's shakin'. Friends say you never leave your unit. Think I've got an inkling as to why.",
+   "ro": "Am trecut doar să văd ce mai e pe-aici. Prietenii zic că nu mai ieși din casă. Cred că-mi dau seama de ce."
+  },
+  {
+   "key": "1772121758504218624",
+   "en": "Come in.",
+   "ro": "Intră."
+  },
+  {
+   "key": "1772122036754345984",
+   "en": "You can't let yourself fall apart, Barry. Not here, not in Night City.",
+   "ro": "Nu te poți lăsa să te prăbușești, Barry. Nu aici, nu în Night City."
+  },
+  {
+   "key": "1772219995496017920",
+   "en": "Now hold on a sec. We barely know each other, and you just rock up here talkin' to me about my problems?",
+   "ro": "Stai puțin. Abia ne cunoaștem și tu dai buzna aici să-mi vorbești despre problemele mele?"
+  },
+  {
+   "key": "1772222129339789312",
+   "en": "All right, you got me. Your friends asked me to drop in on you, so I thought, hey, why not.",
+   "ro": "Bine, m-ai prins. Prietenii tăi m-au rugat să trec pe la tine, și m-am gândit: de ce nu?"
+  },
+  {
+   "key": "1772226181909868544",
+   "en": "All right, come on in. You wanna talk, so let's talk.",
+   "ro": "Bine, intră. Dacă vrei să vorbim, hai s-o facem."
+  },
+  {
+   "key": "1772230192000036864",
+   "en": "Tell Petrova and Mendez to drop the act already. Mendez especially.",
+   "ro": "Spune-le lui Petrova și lui Mendez să renunțe la teatru. Mai ales lui Mendez."
+  },
+  {
+   "key": "1772241123044126720",
+   "en": "I lost someone close to me, too. Damned good friend.",
+   "en_m": "I lost someone close to me, too. A damned good friend.",
+   "ro": "Am pierdut și eu pe cineva apropiat. Un prieten bun rău."
+  },
+  {
+   "key": "1772241740697333760",
+   "en": "Whaddaya mean \"too\"? Wait, this about Andrew? They... told you about him.",
+   "ro": "Ce vrei să zici cu „și eu”? Stai, e vorba de Andrew? Ți-au... zis despre el."
+  },
+  {
+   "key": "1772242131874902016",
+   "en": "Best bud I ever had... known him my whole life. Only person I could spill to without bein' judged.",
+   "ro": "Cel mai bun prieten pe care l-am avut... îl cunosc de-o viață. Singurul cu care puteam vorbi fără să fiu judecat."
+  },
+  {
+   "key": "1772243795369422848",
+   "en": "Everyone has their limits.",
+   "ro": "Fiecare are limitele lui."
+  },
+  {
+   "key": "1772244079743234048",
+   "en": "We have to forget the dead.",
+   "ro": "Trebuie să-i uităm pe cei morți."
+  },
+  {
+   "key": "1772244463975034880",
+   "en": "Can you tell me how Andrew died?",
+   "ro": "Poți să-mi spui cum a murit Andrew?"
+  },
+  {
+   "key": "1772244910802628608",
+   "en": "Does it matter? Normally. From old age. It's no wonder, seein' as he was only a few years younger than my grandma.",
+   "ro": "Contează? Normal. De bătrânețe. Nu-i de mirare, era cu doar câțiva ani mai tânăr decât bunica mea."
+  },
+  {
+   "key": "1772245939564736512",
+   "en": "Mendez doesn't know shit about life. Everyone's got their limits, even him. He just hasn't reached 'em. Not like you.",
+   "ro": "Mendez nu știe un căcat despre viață. Toată lumea are limite, chiar și el. Doar că n-a ajuns la ele. Nu ca tine."
+  },
+  {
+   "key": "1772246354498842624",
+   "en": "What if he's right though? Maybe my genes are soft? Don't only the strongest survive?",
+   "ro": "Dacă are dreptate? Poate am gene slabe? Nu supraviețuiesc doar cei mai tari?"
+  },
+  {
+   "key": "1772246468885901312",
+   "en": "If you felt nothing, that means his loss wouldn't have had any meaning.",
+   "ro": "Dacă nu ai fi simțit nimic, pierderea lui n-ar fi avut niciun sens."
+  },
+  {
+   "key": "1772246637194932224",
+   "en": "I guess so...",
+   "ro": "Cred că da..."
+  },
+  {
+   "key": "1772247209633542144",
+   "en": "Mendez is right. You gotta toughen up. Tell the world to go fuck itself.",
+   "ro": "Mendez are dreptate. Trebuie să te faci mai dur. Spune lumii să se ducă dracu'."
+  },
+  {
+   "key": "1773738240396914688",
+   "en": "[Knock] Barry! Everything OK?",
+   "ro": "[Bate la ușă] Barry! Totul e în regulă?"
+  },
+  {
+   "key": "1793747692638334976",
+   "en": "Hey, Barry? Everything all right in there?",
+   "en_m": "Hey, Barry! Everything all right in there?",
+   "ro": "Hei, Barry? E totul bine acolo înăuntru?"
+  },
+  {
+   "key": "1837130920566177792",
+   "en": "V, your neighbor from upstairs. Remember me? Talked about preem rides.",
+   "ro": "V, vecinul tău de sus. Îți amintești de mine? Am vorbit despre mașini beton."
+  },
+  {
+   "key": "1837131091962216448",
+   "en": "You gave me this look... I was about to hightail it to the Badlands right then an' there.",
+   "ro": "Ce privire mi-ai dat... eram gata să-mi iau tălpășița spre Badlands chiar atunci."
+  },
+  {
+   "key": "1837131550449975296",
+   "en": "Back then you were pumped 'bout the Mizutani Shion. I said it was for flash-posers.",
+   "ro": "Pe atunci erai încântată de Mizutani Shion. Am zis că e pentru fițe.",
+   "ro_m": "Pe atunci erai încântat de Mizutani Shion. Am zis că e pentru fițe."
+  },
+  {
+   "key": "1837160190080434176",
+   "en": "You're a badge. Ex-badge, but still. You've gotta stay strong... if you won't, who will?",
+   "en_m": "You're a badge. Ex-badge, but still. Gotta stay strong. I mean, if you won't, who will?",
+   "ro": "Ești polițistă. Fostă, da' tot. Trebuie să rămâi puternică... dacă nu tu, atunci cine?",
+   "ro_m": "Ești polițist. Fost, da' tot. Trebuie să rămâi tare... dacă nu tu, cine?"
+  },
+  {
+   "key": "1837180973292961792",
+   "en": "He's a stand-up guy. Who cares if he has shitty taste when it comes to street-shredders?",
+   "ro": "E un tip de treabă. Cui îi pasă dacă are gusturi de căcat la street-shredders?"
+  },
+  {
+   "key": "1837181622453780480",
+   "en": "Come back just to get your ass kicked?",
+   "ro": "Te-ai întors doar să iei bătaie?"
+  },
+  {
+   "key": "1837181755329331200",
+   "en": "Man, you really know how to cheer a guy up. Maybe those two asshats really are worried about me...?",
+   "ro": "Mă, chiar știi cum să înveselești omul. Poate că ăia doi tâmpiți chiar sunt îngrijorați de mine...?"
+  },
+  {
+   "key": "1837195889110401024",
+   "en": "Maybe I don't wanna solve anything? That cross your mind?",
+   "ro": "Poate nu vreau să rezolv nimic? Ți-a dat prin cap?"
+  },
+  {
+   "key": "1837196278341812224",
+   "en": "You should get out there more – go for a drink with your pals. Life goes on, Barry, and it won't wait for you to catch up.",
+   "ro": "Ar trebui să ieși mai des, să bei o bere cu prietenii. Viața merge mai departe, Barry, și nu așteaptă după tine."
+  },
+  {
+   "key": "1837196537096814592",
+   "en": "Wallowing in loneliness and self-loathing isn't gonna solve anything.",
+   "ro": "Să te scalzi în singurătate și în autocompătimire nu rezolvă nimic."
+  },
+  {
+   "key": "1837197199327084544",
+   "en": "Well... all right then. Come on in. Not like you'll change anythin'.",
+   "ro": "Eh... bine atunci. Intră. Nu că ai schimba ceva."
+  },
+  {
+   "key": "1837200781766017024",
+   "en": "You never know.",
+   "en_m": "Hey, you never know.",
+   "ro": "Nu știi niciodată.",
+   "ro_m": "Hei, nu știi niciodată."
+  },
+  {
+   "key": "1837204000844005376",
+   "en": "Oh well, I tried.",
+   "en_m": "Welp, I tried.",
+   "ro": "Eh, am încercat."
+  },
+  {
+   "key": "1841510432347242496",
+   "en": "I've seen that look before. It's all too common 'mong people like us.",
+   "ro": "Am mai văzut privirea asta. E prea comună printre oameni ca noi."
+  },
+  {
+   "key": "1841510576396419072",
+   "en": "\"Us\"? Heh, you don't look like a cop.",
+   "ro": "„Noi”? Heh, nu arăți ca un polițist."
+  },
+  {
+   "key": "1841510674224365568",
+   "en": "Badges don't get a monopoly on loss. You see death every day in my line of work.",
+   "ro": "Gaborii nu sunt singurii care pierd oameni. Eu văd moartea în fiecare zi, la meseria mea."
+  },
+  {
+   "key": "1841510817283686400",
+   "en": "You get used to it, of course... until it hits someone you're close to.",
+   "ro": "Te obișnuiești, sigur... până când nimerește pe cineva apropiat."
+  },
+  {
+   "key": "1841511057533419520",
+   "en": "Heh...",
+   "ro": "Heh..."
+  },
+  {
+   "key": "1841511180376195072",
+   "en": "You, too?",
+   "ro": "Și tu?"
+  },
+  {
+   "key": "1841603088951787520",
+   "en": "Dyin' of old age? In Night City? That merits a monument. Whole world should gaze up at it in awe.",
+   "ro": "Să mori de bătrânețe? În Night City? Merită un monument. Toată lumea ar trebui să se uite la el cu respect."
+  },
+  {
+   "key": "1841603265448099840",
+   "en": "Hehehe... Ashbox in a niche'll have to do.",
+   "ro": "O urnă într-o nișă o să ajungă."
+  },
+  {
+   "key": "1841696313347653632",
+   "en": "Right... so I'm just supposed to forget everything I've seen? That kid... even Andrew?",
+   "ro": "Bine... deci ar trebui să uit tot ce am văzut? Pe puștiul ăla... chiar și pe Andrew?"
+  },
+  {
+   "key": "1841696432616882176",
+   "en": "He's gone, and you're here. It's time to stop livin' in the past.",
+   "ro": "El s-a dus, iar tu ești aici. E timpul să nu mai trăiești în trecut."
+  },
+  {
+   "key": "1841696569938395136",
+   "en": "You won't change anything by sittin' here alone and wallowin' in misery.",
+   "en_m": "You won't change anything by sittin' here alone and wallowing in misery.",
+   "ro": "Nu schimbi nimic stând aici singură și tăvălindu-te în mizerie.",
+   "ro_m": "Nu schimbi nimic stând aici singur și tăvălindu-te în mizerie."
+  },
+  {
+   "key": "1841696676909924352",
+   "en": "I think we're done here.",
+   "ro": "Cred că am terminat aici."
+  },
+  {
+   "key": "1841696866844786688",
+   "en": "Suit yourself.",
+   "ro": "Cum vrei tu."
+  },
+  {
+   "key": "1842890146919989248",
+   "en": "I'm gonna take that as a yes!",
+   "ro": "O să iau asta ca un da!"
+  },
+  {
+   "key": "1842890690468233216",
+   "en": "Eh, try again later...",
+   "ro": "Eh, încearcă mai târziu..."
+  },
+  {
+   "key": "1895218491762130944",
+   "en": "Heh, you don't forget a gonk thing like that.",
+   "ro": "Heh, o nebunie ca asta nu uiți ușor."
+  },
+  {
+   "key": "1895290963312230400",
+   "en": "Where'd you get the idea somethin' with me was up? You watchin' me? Someone send you?",
+   "ro": "De unde ai scos că ceva e în neregulă cu mine? Mă urmărești? Te-a trimis cineva?"
+  },
+  {
+   "key": "1895316828007940096",
+   "en": "None o' you get it, OK? None o' you!",
+   "ro": "Niciunul dintre voi nu pricepe, OK? Niciunul!"
+  },
+  {
+   "key": "1895381606264979460",
+   "en": "What about your friends on the force?",
+   "ro": "Și prietenii tăi de la poliție?"
+  },
+  {
+   "key": "1895381672568537088",
+   "en": "NCPD hasn't improved, has it?",
+   "ro": "NCPD nu s-a schimbat în bine, nu?"
+  },
+  {
+   "key": "1895381798296993792",
+   "en": "Guessin' things at the NCPD haven't changed a lick, huh?",
+   "ro": "Ghicesc că la NCPD nu s-a schimbat nimic, ha?"
+  },
+  {
+   "key": "1895382011434745856",
+   "en": "One time... a Maelstrom ganger killed a young kid right in front of my eyes, for shits 'n' giggles.",
+   "ro": "Odată, un tip din gașca Maelstrom a omorât un copil chiar în fața ochilor mei, doar ca să se distreze."
+  },
+  {
+   "key": "1895382153453879296",
+   "en": "I couldn't do shit. The son of a bitch had corpo protection.",
+   "ro": "N-am putut face nimic, pula mea. Jigodia aia avea protecție corpo."
+  },
+  {
+   "key": "1895382273578745856",
+   "en": "Ehh, typical.",
+   "ro": "Ehh, tipic."
+  },
+  {
+   "key": "1895382362850312192",
+   "en": "Our chief greases his palms with an anonymous donation and guess what. Officially? Kid blew his own brains out.",
+   "ro": "Șeful nostru și-a uns buzunarele cu o donație anonimă, și ghici ce. Oficial? Puștiul s-a sinucis."
+  },
+  {
+   "key": "1895382503074283520",
+   "en": "Somethin' died in me then. I couldn't do it anymore... few months later Andrew passed and everything went to shit.",
+   "ro": "Atunci a murit ceva în mine. N-am mai putut continua... câteva luni mai târziu a murit Andrew și totul s-a dus dracului."
+  },
+  {
+   "key": "1895383914172366848",
+   "en": "You didn't have anyone to unload on at work? How about Petrova and Mendez?",
+   "ro": "N-ai avut pe nimeni la serviciu cu care să te descarci? Ce zici de Petrova și Mendez?"
+  },
+  {
+   "key": "1895403036356624384",
+   "en": "Petrova's a decent gal, but she's not good with this stuff. Mendez just doesn't get it.",
+   "ro": "Petrova e o tipă de treabă, dar nu se pricepe la chestiile astea. Mendez pur și simplu nu înțelege."
+  },
+  {
+   "key": "1895403137036697600",
+   "en": "He thinks us blues need to be tough. Can't bear the sight of a kid gettin' murdered? Born with pussy genes, 'ccordin' to him.",
+   "ro": "Crede că noi, polițaii, trebuie să fim tari. Nu poți suporta să vezi un copil omorât? Născut cu gene de pizdă, după el."
+  },
+  {
+   "key": "1895403304540422144",
+   "en": "But you told him about Andrew.",
+   "ro": "Dar i-ai spus despre Andrew."
+  },
+  {
+   "key": "1895403562372677632",
+   "en": "Honestly? I thought about it a lot. Anyway... they don't know everything. Better that way.",
+   "ro": "Sincer? M-am gândit mult. Oricum... ei nu știu totul. Mai bine așa."
+  },
+  {
+   "key": "1895406270953537536",
+   "en": "How'd Andrew die?",
+   "ro": "Cum a murit Andrew?"
+  },
+  {
+   "key": "1895441300924907520",
+   "en": "Thanks for the talk, V. I, um... I need time to take all this in.",
+   "ro": "Mersi de discuție, V. Eu, ăă... am nevoie de timp să digerez tot."
+  },
+  {
+   "key": "1895441419825037312",
+   "en": "Sure thing. Take care.",
+   "ro": "Sigur. Ai grijă de tine."
+  },
+  {
+   "key": "1905181149760307200",
+   "en": "Barry! You there?",
+   "en_m": "Barry? You there?",
+   "ro": "Barry! Ești acolo?",
+   "ro_m": "Barry? Ești acolo?"
+  },
+  {
+   "key": "1905184717938606080",
+   "en": "Maybe he's talkin' to Mendez...",
+   "ro": "Poate vorbește cu Mendez..."
+  },
+  {
+   "key": "1905551821829292032",
+   "en": "Right in front of your eyes.",
+   "ro": "Chiar sub nasul tău."
+  },
+  {
+   "key": "1967849004892667908",
+   "en": "Everyone's got their limits.",
+   "ro": "Fiecare are limitele lui."
+  },
+  {
+   "key": "1967849129346056192",
+   "en": "People die. You move on.",
+   "ro": "Oamenii mor. Mergi mai departe."
+  },
+  {
+   "key": "1967849460209532928",
+   "en": "So Andrew was like a grandpa to you?",
+   "ro": "Deci Andrew era ca un bunic pentru tine?"
+  },
+  {
+   "key": "1967849848669192192",
+   "en": "So then Andrew was more like a grandpa to you than a friend?",
+   "ro": "Deci Andrew era mai degrabă ca un bunic pentru tine decât un prieten?"
+  },
+  {
+   "key": "1967850945345470464",
+   "en": "Hm. Wouldn't go that far. He was like a... egh, I don't know... A window into the past, or somethin'.",
+   "ro": "Hm. N-aș merge chiar atât de departe. Era ca o... ăă, nu știu... O fereastră spre trecut, ceva de genul."
+  },
+  {
+   "key": "1967851060621721600",
+   "en": "He reminded me of my gram-grams, about our little talks... time when everything had its proper place, y'know?",
+   "ro": "Îmi amintea de bunica mea, de vorbele ei... pe vremea când totul avea rostul lui, știi?"
+  },
+  {
+   "key": "1967851178498441216",
+   "en": "He was the last... living record of those times.",
+   "ro": "Era ultimul... martor viu al vremurilor alea."
+  },
+  {
+   "key": "2088021792150294532",
+   "en": "[Sit] I lost someone too.",
+   "ro": "[Așează-te] Am pierdut și eu pe cineva."
+  },
+  {
+   "key": "2088026239135944708",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2088026347114106884",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2119785631145299972",
+   "en": "I'll take that as a yes.",
+   "ro": "O iau drept un da."
+  }
+ ]
+}

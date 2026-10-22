@@ -1,0 +1,739 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q204\\q204_05_buying_guitar.json",
+ "entries": [
+  {
+   "key": "1305314683049234432",
+   "en": "What can I do for you?",
+   "ro": "Cu ce te ajut?"
+  },
+  {
+   "key": "1305314734790168576",
+   "en": "Lookin' to buy a guitar.",
+   "ro": "Caut o chitară."
+  },
+  {
+   "key": "1305318430508863488",
+   "en": "Seen Kerry Eurodyne in here?",
+   "ro": "L-ai văzut pe Kerry Eurodyne pe aici?"
+  },
+  {
+   "key": "1305318598868226048",
+   "en": "Lookin' for a six-string. Electric.",
+   "ro": "Caut o chitară cu șase corzi. Electrică."
+  },
+  {
+   "key": "1305318647253716992",
+   "en": "Heard Kerry Eurodyne pops by once in a while.",
+   "ro": "Am auzit că Kerry Eurodyne trece pe aici din când în când."
+  },
+  {
+   "key": "1305322227209621504",
+   "en": "Feast your eyes.",
+   "ro": "Uite-le."
+  },
+  {
+   "key": "1305322673483567104",
+   "en": "I want somethin' solid and true.",
+   "ro": "Vreau ceva solid, de calitate."
+  },
+  {
+   "key": "1305347331008253952",
+   "en": "[Take guitar] Let's see.",
+   "ro": "[Ia chitara] Hai să vedem."
+  },
+  {
+   "key": "1305347331008253968",
+   "en": "This a fake?",
+   "ro": "E falsă?"
+  },
+  {
+   "key": "1305347526462820352",
+   "en": "[Take guitar] May I?",
+   "ro": "[Ia chitara] Pot?"
+  },
+  {
+   "key": "1305347526462820368",
+   "en": "This a replica?",
+   "ro": "E replică?"
+  },
+  {
+   "key": "1305350640616099840",
+   "en": "Tensor Paradize... This a replica?",
+   "ro": "Tensor Paradize... E replică?"
+  },
+  {
+   "key": "1305350759734333440",
+   "en": "DeLuze Orphean... Not a fake?",
+   "ro": "DeLuze Orphean... Nu e falsă?"
+  },
+  {
+   "key": "1305351605608009728",
+   "en": "Wanna try this one.",
+   "ro": "Vreau să încerc asta."
+  },
+  {
+   "key": "1305351693671616512",
+   "en": "May I?",
+   "ro": "Pot?"
+  },
+  {
+   "key": "1305368942126059520",
+   "en": "Excellent choice.",
+   "ro": "Bună alegere."
+  },
+  {
+   "key": "1315671961181577216",
+   "en": "Best music store in Night City. Everybody pops by occasionally.",
+   "ro": "Cel mai bun magazin de muzică din Night City. Toată lumea trece pe aici din când în când."
+  },
+  {
+   "key": "1315673975991001088",
+   "en": "Know why else they come?",
+   "ro": "Știi de ce mai vin?"
+  },
+  {
+   "key": "1315682840904163328",
+   "en": "Glad to see she'll be in... in good hands. Help you with anything else?",
+   "ro": "Mă bucur că e în mâini bune. Te mai ajut cu ceva?"
+  },
+  {
+   "key": "1315689901796843520",
+   "en": "Be my guest.",
+   "ro": "Poftim, fă-ți de cap."
+  },
+  {
+   "key": "1315691442280816640",
+   "en": "'Course, strum away.",
+   "ro": "Sigur, cântă."
+  },
+  {
+   "key": "1315695018294075392",
+   "en": "Real as you or me.",
+   "ro": "La fel de reală ca tine sau ca mine."
+  },
+  {
+   "key": "1315717604621115392",
+   "en": "Double humbucker, neck's screwed in, not glued... A beauty, classic.",
+   "ro": "Double humbucker, gâtul e înșurubat, nu lipit... O frumusețe, clasică."
+  },
+  {
+   "key": "1315720375160233984",
+   "en": "Take a good look.",
+   "ro": "Uită-te bine."
+  },
+  {
+   "key": "1315721261097902080",
+   "en": "Relax, just makin' sure. Looks authentic. Well maintained. Must be around... shit, seventy?",
+   "ro": "Stai liniștit, doar verific. Pare autentică. Întreținută bine. Trebuie să aibă... la naiba, vreo șaptezeci?"
+  },
+  {
+   "key": "1315722551198703616",
+   "en": "Perfectly balanced, too. Barely needs holding.",
+   "ro": "Și perfect echilibrată. Abia trebuie ținută."
+  },
+  {
+   "key": "1315723220710285312",
+   "en": "Ninety and still going strong. Fretboard's pure, 'ganic ebony.",
+   "ro": "Nouăzeci și încă e în formă. Tastiera e din abanos pur, 'ganic."
+  },
+  {
+   "key": "1316927838425407536",
+   "en": "I don't snoop on customers, don't keep no record…",
+   "ro": "Nu-i spionez pe clienți, nu țin nicio evidență…"
+  },
+  {
+   "key": "1316927838442184712",
+   "en": "So – how can I help you?",
+   "ro": "Deci, cu ce te ajut?"
+  },
+  {
+   "key": "1316932020012277800",
+   "en": "No, but... got a feeling I'm about to find out.",
+   "en_m": "No, but... got a feelin' I'm about to find out.",
+   "ro": "Nu, da'... cam am senzația că aflu curând."
+  },
+  {
+   "key": "1316936483154386944",
+   "en": "Pretty sure I'm about to find out.",
+   "ro": "Sunt sigură că aflu curând.",
+   "ro_m": "Sunt sigur că aflu curând."
+  },
+  {
+   "key": "1426975004930625536",
+   "en": "Night City Strippers shouldn't be on the same shelf as Neon Haze...",
+   "ro": "Night City Strippers n-ar trebui să stea pe același raft cu Neon Haze..."
+  },
+  {
+   "key": "1426981600222007296",
+   "en": "Never, ever heard anyone play Silverhand like that.",
+   "ro": "N-am mai auzit pe nimeni să cânte Silverhand așa."
+  },
+  {
+   "key": "1426982745501880320",
+   "en": "I am Johnny.",
+   "ro": "Sunt Johnny."
+  },
+  {
+   "key": "1426983767737651200",
+   "en": "Practice, and you will too.",
+   "ro": "Exersează și o să poți și tu."
+  },
+  {
+   "key": "1426984732159135744",
+   "en": "Good ear, kid. No one can imitate Silverhand's style.",
+   "ro": "Ai ureche bună, puștiule. Nimeni nu poate imita stilul lui Silverhand."
+  },
+  {
+   "key": "1426984795056918528",
+   "en": "Practice every day an' you'll play like that, maybe better. You can learn anything, I promise.",
+   "ro": "Exersezi în fiecare zi și o să cânți și tu așa, poate și mai bine. Poți învăța orice, îți promit."
+  },
+  {
+   "key": "1426986864006418432",
+   "en": "Uhh... I dunno. I can learn a few riffs by heart... but it'll only ever be performin', never nextgen.",
+   "ro": "Ăă... nu știu. Pot să țin minte câteva riff-uri... da' e doar interpretare, niciodată nextgen."
+  },
+  {
+   "key": "1426988079515717632",
+   "en": "Let's delta. Still got some biz to take care of.",
+   "ro": "Hai s-o tăiem. Mai am de rezolvat niște afaceri."
+  },
+  {
+   "key": "1426991725355749376",
+   "en": "All right.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1427079070344040448",
+   "en": "Prolly nothin' new... but we'll see.",
+   "ro": "Probabil nimic nou... da' o să vedem."
+  },
+  {
+   "key": "1467754661014102016",
+   "en": "Y'know, I read he never took any lessons. Choom was totally self-taught. Made up his own style.",
+   "ro": "Știi, am citit că n-a luat niciodată lecții. Tipul ăla era autodidact total. Și-a inventat stilul singur."
+  },
+  {
+   "key": "1467767656779833344",
+   "en": "How do you do that? I mean, sound just like him?",
+   "ro": "Cum faci asta? Adică, cum suni exact ca el?"
+  },
+  {
+   "key": "1467793436649938944",
+   "en": "But... how? Johnny'd be, like, eighty million years old, and you're, like, way too young... Plus, you're a girl.",
+   "en_m": "But... how? Johnny'd be, like, eighty million years old, and you're, like, way too young.",
+   "ro": "Dar... cum? Johnny ar avea, gen, optzeci de milioane de ani, iar tu ești, gen, mult prea tânără... Și mai ești și fată.",
+   "ro_m": "Dar... cum? Johnny ar avea, gen, optzeci de milioane de ani, iar tu ești, gen, mult prea tânăr..."
+  },
+  {
+   "key": "1467803735008436224",
+   "en": "But you did. I just heard you.",
+   "ro": "Ba da. Tocmai te-am auzit."
+  },
+  {
+   "key": "1467811931064328192",
+   "en": "This? Just a body. I am who I am.",
+   "ro": "Asta? Doar un corp. Sunt cine sunt."
+  },
+  {
+   "key": "1467811931064328208",
+   "en": "It's tough to explain…",
+   "ro": "E greu de explicat…"
+  },
+  {
+   "key": "1476245672308727808",
+   "en": "Good point. That's why it's better to invent your own jam. That's what practice is for.",
+   "ro": "Bună observație. De aceea e mai bine să-ți inventezi propriul jam. Pentru asta exersezi."
+  },
+  {
+   "key": "1476269761521999872",
+   "en": "Y'know... this is just a body. How the dice landed for me.",
+   "ro": "Știi... e doar un corp. Așa mi-au căzut mie zarurile."
+  },
+  {
+   "key": "1476349744131039232",
+   "en": "Ultimately, I am who I am.",
+   "ro": "Până la urmă, sunt cine sunt."
+  },
+  {
+   "key": "1476616577463574528",
+   "en": "Yeah, it's hard to explain...",
+   "ro": "Da, e greu de explicat..."
+  },
+  {
+   "key": "1476642692475346944",
+   "en": "Hah! Yeah, right, choom! Better try a little harder next time!",
+   "ro": "Hah! Da, sigur, choom! Data viitoare dă-i mai tare!"
+  },
+  {
+   "key": "1477699771537514496",
+   "en": "What, an' they're not?",
+   "ro": "Ce, și ei nu sunt?"
+  },
+  {
+   "key": "1477716491459321856",
+   "en": "I'd rearrange all this.",
+   "ro": "Aș rearanja totul."
+  },
+  {
+   "key": "1477720298394181632",
+   "en": "Point Break Candy's new single...?",
+   "ro": "Noul single Point Break Candy...?"
+  },
+  {
+   "key": "1477722076862963712",
+   "en": "Who even listens to this scop, that's what I wanna know…",
+   "ro": "Cine naiba ascultă vrăjeala asta, asta vreau să știu…"
+  },
+  {
+   "key": "1486624414407286784",
+   "en": "And I don't run my mouth.",
+   "ro": "Și nu-mi dau drumul la gură."
+  },
+  {
+   "key": "1492525316800471040",
+   "en": "Haha! Yeah, right! Choom, you're a bigger psychofan than I am!",
+   "ro": "Haha! Da, sigur! Choom, ești un psychofan mai mare decât mine!"
+  },
+  {
+   "key": "1695547226881482752",
+   "en": "Gotta be over a hundred years old.",
+   "ro": "Trebuie să aibă peste o sută de ani."
+  },
+  {
+   "key": "1695551565603758080",
+   "en": "Fuck, my hands're shakin'!",
+   "ro": "Futu-i, îmi tremură mâinile!"
+  },
+  {
+   "key": "1695551922958458880",
+   "en": "Best. Day. Ever.",
+   "ro": "Cea mai. Bună. Zi. Din viața mea."
+  },
+  {
+   "key": "1695555811749355520",
+   "en": "No, thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1699407496276041728",
+   "en": "In time, you'll learn who you really are, what you really want from the world.",
+   "ro": "Cu timpul o să afli cine ești de fapt, ce vrei de fapt de la lume."
+  },
+  {
+   "key": "1699407496276041752",
+   "en": "I don't understand.",
+   "ro": "Nu înțeleg."
+  },
+  {
+   "key": "1699408145990508544",
+   "en": "Wanna be a real rebel? Gotta be yourself first. Be authentic.",
+   "ro": "Vrei să fii un rebel adevărat? Întâi trebuie să fii tu. Fii autentică.",
+   "ro_m": "Vrei să fii un rebel adevărat? Întâi trebuie să fii tu. Fii autentic."
+  },
+  {
+   "key": "1699409246978531328",
+   "en": "Rockers're rebels. They always speak their minds.",
+   "ro": "Rockerii sunt rebeli. Ei zic mereu ce gândesc."
+  },
+  {
+   "key": "1699411095039205380",
+   "en": "Real rebellion means being authentic.",
+   "ro": "Rebeliunea adevărată înseamnă să fii autentică.",
+   "ro_m": "Rebeliunea adevărată înseamnă să fii autentic."
+  },
+  {
+   "key": "1699426162203910144",
+   "en": "Tried once on my dad, y'know…",
+   "ro": "Am încercat o dată pe taică-miu, știi…"
+  },
+  {
+   "key": "1699431965426147328",
+   "en": "Didn't go so well.",
+   "ro": "N-a mers prea bine."
+  },
+  {
+   "key": "1699433339798904832",
+   "en": "Rebels are made, not born. Made from the punches life throws at 'em, the punches they take.",
+   "ro": "Rebelii nu se nasc, se fac. Din pumnii pe care ți-i trage viața, din cei pe care îi încasezi."
+  },
+  {
+   "key": "1699445646088167424",
+   "en": "A real rockerboy – doubt that'll be me, ever.",
+   "ro": "Un rockerboy adevărat – mă îndoiesc că o să fiu vreodată."
+  },
+  {
+   "key": "1699446189720297472",
+   "en": "Real rebellion takes time to develop.",
+   "ro": "Rebeliunea adevărată cere timp."
+  },
+  {
+   "key": "1699448009108709376",
+   "en": "Look, real rebellion needs time to grow.",
+   "ro": "Uite, rebeliunea adevărată cere timp să crească."
+  },
+  {
+   "key": "1699451698233958400",
+   "en": "Not really sure how to put it. Gotta experience it yourself.",
+   "ro": "Nu prea știu cum să ți-o zic. Trebuie s-o trăiești pe pielea ta."
+  },
+  {
+   "key": "1699470969903210496",
+   "en": "A little self-criticism is useful. But believin' in what you got – that's much more important.",
+   "ro": "Un pic de autocritică nu strică. Dar să crezi în ce ai – asta contează mult mai mult."
+  },
+  {
+   "key": "1712634443571290116",
+   "en": "Rare specimen.",
+   "ro": "Specimen rar."
+  },
+  {
+   "key": "1712635753402097664",
+   "en": "Even Kerry's here.",
+   "ro": "Chiar și Kerry e aici."
+  },
+  {
+   "key": "1712635917231611904",
+   "en": "Still on the shelves...",
+   "ro": "Încă pe rafturi..."
+  },
+  {
+   "key": "1712636119229292544",
+   "en": "Made it big.",
+   "ro": "Au făcut-o mare."
+  },
+  {
+   "key": "1712636876687040512",
+   "en": "Lyridon Chrome... rare edition.",
+   "ro": "Lyridon Chrome... ediție rară."
+  },
+  {
+   "key": "1712636944349552640",
+   "en": "Done pretty well for themselves... one of 'em's even moderately talented.",
+   "ro": "S-au descurcat destul de bine... unul dintre ei are chiar un pic de talent."
+  },
+  {
+   "key": "1712636992416276480",
+   "en": "Still sellin'... Nice.",
+   "ro": "Încă se vinde... Frumos."
+  },
+  {
+   "key": "1712637043351904256",
+   "en": "Then we have the guy who transcends labels…",
+   "ro": "Apoi avem tipul care scapă de etichete…"
+  },
+  {
+   "key": "1712638910605713408",
+   "en": "The hell's this?",
+   "ro": "Ce căcat e asta?"
+  },
+  {
+   "key": "1721495004673433600",
+   "en": "Obviously got a bit of him in me. Or a lot. Maybe I AM Johnny?",
+   "ro": "Evident, am un pic din el în mine. Sau mult. Poate chiar SUNT Johnny?"
+  },
+  {
+   "key": "1721514350833524736",
+   "en": "Y'now, you're weird. But I like you anyway.",
+   "ro": "Știi, ești ciudată. Dar oricum îmi placi.",
+   "ro_m": "Știi, ești ciudat. Dar oricum îmi placi."
+  },
+  {
+   "key": "1721516027095506944",
+   "en": "I like you too.",
+   "ro": "Îmi placi și eu."
+  },
+  {
+   "key": "1721517395747233792",
+   "en": "Heh. You're all right, kid.",
+   "ro": "Heh. Ești în regulă, puștoaică.",
+   "ro_m": "Heh. Ești în regulă, puștiule."
+  },
+  {
+   "key": "1721517395747233808",
+   "en": "Gonna play some more?",
+   "ro": "Mai cânți un pic?"
+  },
+  {
+   "key": "1721618035135700992",
+   "en": "Nah. Short on time.",
+   "ro": "Nu. Nu-mi ajung timpul și banii."
+  },
+  {
+   "key": "1725867462557917184",
+   "en": "Looks like shit, sounds like shit, feels like shit.",
+   "ro": "Arată ca naiba, sună ca naiba, mă simt ca naiba."
+  },
+  {
+   "key": "1730441264767918080",
+   "en": "[Pay] Here you are.",
+   "ro": "[Plătește] Poftim."
+  },
+  {
+   "key": "1730441692637257756",
+   "en": "Here you go.",
+   "ro": "Poftim."
+  },
+  {
+   "key": "1730441692637257772",
+   "en": "See ya.",
+   "ro": "Ne vedem."
+  },
+  {
+   "key": "1730444392309415936",
+   "en": "[Hand Steve money] Here.",
+   "ro": "[Dă-i lui Steve banii] Poftim."
+  },
+  {
+   "key": "1730450149696299008",
+   "en": "Here. This's yours.",
+   "ro": "Poftim. Asta e a ta."
+  },
+  {
+   "key": "1730450149696299024",
+   "en": "I said you didn't--",
+   "ro": "Am spus că nu--"
+  },
+  {
+   "key": "1730451120761561088",
+   "en": "Take it. Before I spend it on another ax.",
+   "ro": "Ia-o. Înainte s-o cheltui pe altă chitară."
+  },
+  {
+   "key": "1760727997082198016",
+   "en": "Most important thing's the pickups. Guitar's gotta have somethin' decent there.",
+   "ro": "Cel mai important sunt dozele. Chitara trebuie să aibă ceva decent acolo."
+  },
+  {
+   "key": "1760729039836504064",
+   "en": "Cheap clunkers made outta shit plywood that itself was made out of unseasoned veneers.",
+   "ro": "Chitare ieftine, din placaj de căcat, făcute din furnir neuscat."
+  },
+  {
+   "key": "1760729595397234688",
+   "en": "Rattle on the low E 'cause the neck's bowed...",
+   "ro": "Zornăie pe mi-ul grav fiindcă gâtul e strâmb..."
+  },
+  {
+   "key": "1760733165588799504",
+   "en": "No offense, but I'm lookin' for a real instrument.",
+   "ro": "Fără supărare, dar caut un instrument adevărat."
+  },
+  {
+   "key": "1760733165588799520",
+   "en": "And willin' to pay real money.",
+   "ro": "Și sunt dispus să dau bani adevărați."
+  },
+  {
+   "key": "1760733165605576716",
+   "en": "Ah, shoulda said so! C'mon, let's go out back.",
+   "ro": "Ah, trebuia să spui! Hai, mergem în spate."
+  },
+  {
+   "key": "1760733165605576732",
+   "en": "I'm comin' too!",
+   "ro": "Vin și eu!"
+  },
+  {
+   "key": "1760748503084785664",
+   "en": "Nothin' a screwdriver won't fix.",
+   "ro": "Nimic ce-o șurubelniță n-ar repara."
+  },
+  {
+   "key": "1760751695067570176",
+   "en": "Still playable. Just gotta know how.",
+   "ro": "Încă se poate cânta. Trebuie doar să știi cum."
+  },
+  {
+   "key": "1760753237262819328",
+   "en": "Don't give half a fuck how it looks.",
+   "ro": "Nu-mi pasă deloc cum arată."
+  },
+  {
+   "key": "1760753585390051328",
+   "en": "OK...",
+   "ro": "OK..."
+  },
+  {
+   "key": "1761957743124242432",
+   "en": "I'll take it.",
+   "ro": "O iau."
+  },
+  {
+   "key": "1774941672414552064",
+   "en": "I'll take this one.",
+   "ro": "O iau pe asta."
+  },
+  {
+   "key": "1774952114151137280",
+   "en": "I'ma let you two play around in here alone. Else those savages out front'll clean out half the store.",
+   "ro": "Vă las pe voi doi să vă jucați aici singuri. Altfel, ăia sălbatici de la intrare golesc jumătate din magazin."
+  },
+  {
+   "key": "1774954338709315584",
+   "en": "Let's pay, delta outta here.",
+   "ro": "Hai să plătim și s-o tăiem de aici."
+  },
+  {
+   "key": "1774979598569611264",
+   "en": "How's this?",
+   "ro": "Cum e asta?"
+  },
+  {
+   "key": "1774985347114901504",
+   "en": "Whoa... Fuckin' awesome!",
+   "ro": "Uau... Pula mea, ce tare!"
+  },
+  {
+   "key": "1792604027136335872",
+   "en": "I got the eddies for somethin' real.",
+   "ro": "Am eddies pentru ceva adevărat."
+  },
+  {
+   "key": "1792609521255145476",
+   "en": "Rattle on the low tones.",
+   "ro": "Zornăie pe tonurile joase."
+  },
+  {
+   "key": "1792609643074510864",
+   "en": "Cheap plywood bodies.",
+   "ro": "Corpuri din placaj ieftin."
+  },
+  {
+   "key": "1792610247272390676",
+   "en": "Weak pickups.",
+   "ro": "Doze slabe."
+  },
+  {
+   "key": "1798344749109805056",
+   "en": "Sure. You might learn something.",
+   "ro": "Sigur. Poate înveți ceva."
+  },
+  {
+   "key": "1798581068092211200",
+   "en": "What, don't think you're any good?",
+   "ro": "Ce, nu crezi că ești bună?",
+   "ro_m": "Ce, nu crezi că ești bun?"
+  },
+  {
+   "key": "1798596135391133712",
+   "en": "You don't think so?",
+   "ro": "Nu crezi?"
+  },
+  {
+   "key": "1798596598073196544",
+   "en": "[Hand Steve guitar] Wouldn't say it if I didn't believe it.",
+   "ro": "[Dă-i lui Steve chitara] N-aș spune asta dacă n-aș crede."
+  },
+  {
+   "key": "1799700144805969920",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1799755755472093188",
+   "en": "What do you think? She all right?",
+   "ro": "Ce zici? E în regulă?"
+  },
+  {
+   "key": "1800938376763867136",
+   "en": "To the right an' left, the latest Chromatix and Hendersons.",
+   "ro": "În dreapta și în stânga, cele mai noi Chromatix și Hendersons."
+  },
+  {
+   "key": "1800943537703944192",
+   "en": "Vintage axes in the back.",
+   "ro": "Chitare vintage în spate."
+  },
+  {
+   "key": "1801262718500536320",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1804124887374168064",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1807104300177645568",
+   "en": "Still haven't explained how you do it.",
+   "ro": "Încă nu mi-ai explicat cum faci."
+  },
+  {
+   "key": "1807109274269868032",
+   "en": "Don't worry about that. Just come up with your own style. And all you need for that is practice.",
+   "ro": "Nu-ți face griji pentru asta. Găsește-ți propriul stil. Și tot ce-ți trebuie pentru asta e exercițiu."
+  },
+  {
+   "key": "1807116104324833280",
+   "en": "And talent...",
+   "ro": "Și talent..."
+  },
+  {
+   "key": "1807116104425496576",
+   "en": "Talent you got.",
+   "ro": "Talent ai."
+  },
+  {
+   "key": "1807116104610045952",
+   "en": "Really? You think so?",
+   "ro": "Serios? Crezi asta?"
+  },
+  {
+   "key": "1807126311281057792",
+   "en": "I just don't say things I don't think are true. Not anymore.",
+   "ro": "Nu zic lucruri în care nu cred. Nu mai."
+  },
+  {
+   "key": "1807139216466599936",
+   "en": "C'mon. Have faith.",
+   "ro": "Hai, ai încredere."
+  },
+  {
+   "key": "1824539786538934272",
+   "en": "I don't understand.",
+   "ro": "Nu înțeleg."
+  },
+  {
+   "key": "2006944323012878340",
+   "en": "Y'know... this is just a body. How the dice landed for me.",
+   "ro": "Știi... e doar un corp. Așa mi-au căzut mie zarurile."
+  },
+  {
+   "key": "2006944323029655552",
+   "en": "Not gonna be a girl much longer, though.",
+   "ro": "Nu mai stau mult fată, oricum."
+  },
+  {
+   "key": "2006944323029655568",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "2006944323029655584",
+   "en": "Hah! Yeah, right, choom! Better try a little harder next time!",
+   "ro": "Hah! Da, sigur, choom! Data viitoare dă-i mai tare!"
+  },
+  {
+   "key": "2157527940312506372",
+   "en": "Wanna see what you got here.",
+   "ro": "Hai să văd ce ai aici."
+  },
+  {
+   "key": "2299631483415863296",
+   "en": "Rare specimen.",
+   "ro": "Specimen rar."
+  },
+  {
+   "key": "2353297980534095876",
+   "en": "[Play guitar]",
+   "ro": "[Cântă la chitară]"
+  },
+  {
+   "key": "2353298231756128256",
+   "en": "[Tune guitar]",
+   "ro": "[Acordă chitara]"
+  }
+ ]
+}

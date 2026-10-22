@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_voodoo_boys_conversation_001.json",
+ "entries": [
+  {
+   "key": "3373600396547960832",
+   "en": "<kiroshi l=\"creo\" o=\"Nou gen kèk nouvo pil pou mete ajou. Sipoze ajoute yon plas nan chak nan yo.\" t=\"We got some new decks to overhaul. Supposed to add a slot to each of 'em.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Nou gen kèk nouvo pil pou mete ajou. Sipoze ajoute yon plas nan chak nan yo.\" t=\"Avem niște deck-uri noi de revizuit. Zic că fiecare primește un slot în plus.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395559913426341888",
+   "en": "<kiroshi l=\"creo\" o=\"MK-4s? Non, batri a pa ka kenbe li.\" t=\"MK-4s? No, the power supply can't handle it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"MK-4s? Non, batri a pa ka kenbe li.\" t=\"MK-4? Nu, bateria n-o ține.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395560322454867968",
+   "en": "<kiroshi l=\"creo\" o=\"Di sa pou fout makak BARGHEST sa yo\" t=\"Tell it to those those fuckin' BARGHEST gonks.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Di sa pou fout makak BARGHEST sa yo\" t=\"Spune-le nenorociților ăstora de fraieri BARGHEST.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

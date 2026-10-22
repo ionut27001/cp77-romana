@@ -1,0 +1,474 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq040\\mq040_01_bar.json",
+ "entries": [
+  {
+   "key": "1797024417207955456",
+   "en": "'Ey, you. Sittin' in the wrong spot.",
+   "ro": "Hei, tu. Stai pe locul greșit."
+  },
+  {
+   "key": "1797025516115603456",
+   "en": "Uhhh... Thisss... This isn't a bar?",
+   "ro": "Ăă... Asta... Nu e un bar?"
+  },
+  {
+   "key": "1797026057113710592",
+   "en": "It is. But it's our bar.",
+   "ro": "E. Dar e barul nostru."
+  },
+  {
+   "key": "1797026714277261312",
+   "en": "Get up. Let's take a walk.",
+   "ro": "Ridică-te. Hai să ne plimbăm."
+  },
+  {
+   "key": "1802787291180183552",
+   "en": "'Ey, back off. Ain't your biz here.",
+   "ro": "Hei, dă-te înapoi. Aici nu-i treaba ta."
+  },
+  {
+   "key": "1802804976328781824",
+   "en": "What, you deaf? You lookin' to get beat? 'Cause that's what's about to happen.",
+   "ro": "Ce, ești surdă? Vrei să iei bătaie? Că asta o să se întâmple.",
+   "ro_m": "Ce, ești surd? Vrei să iei bătaie? Că asta o să se întâmple."
+  },
+  {
+   "key": "1802815930827419652",
+   "en": "Go ahead. Make my day.",
+   "ro": "Hai, fă-mi ziua."
+  },
+  {
+   "key": "1802816295127887872",
+   "en": "Don't even start with me.",
+   "ro": "Nici nu încerca cu mine."
+  },
+  {
+   "key": "1802816360257040384",
+   "en": "Mama Welles doesn't like fights.",
+   "ro": "Mamei Welles nu-i plac bătăile."
+  },
+  {
+   "key": "1802816477680775168",
+   "en": "Fine. Do what you want.",
+   "ro": "Bine. Fă ce vrei."
+  },
+  {
+   "key": "1802820962264166400",
+   "en": "Just try, gonk. C'mon. Let's see what you got.",
+   "ro": "Hai, încearcă, fraierule. Haide. Să vedem ce ai."
+  },
+  {
+   "key": "1802821275226353664",
+   "en": "Really think you're fast enough with that blade? Really?",
+   "ro": "Chiar crezi că ești destul de rapidă cu lama aia? Serios?",
+   "ro_m": "Chiar crezi că ești destul de rapid cu lama aia? Serios?"
+  },
+  {
+   "key": "1802821423100735488",
+   "en": "Really? Mh, wonder what Mama Welles would say – what she'd do when she sees you two gonks fuckin' up her joint.",
+   "en_m": "Really? Wonder what Mama Welles would say – what she'd do when she sees you two gonks fuckin' up her joint.",
+   "ro": "Serios? Hm, mă întreb ce-ar zice Mama Welles când vă vede pe voi doi fraieri cum îi stricați localul ăla al dracului."
+  },
+  {
+   "key": "1802821625232633856",
+   "en": "Know what? Fine. Not my biz, not my corpo.",
+   "en_m": "You know what? Fine. Not my biz, not my corpo.",
+   "ro": "Știi ce? Bine. Nu-i treaba mea, nu-i treaba corpoilor."
+  },
+  {
+   "key": "1802821867613073408",
+   "en": "'Ey, wait! Know this punk. Fought fire with our boys – y'know, back when Gustavo took that hit.",
+   "ro": "Hei, stai! O cunosc pe golancă. A luptat alături de băieții noștri – știi tu, pe vremea când Gustavo a luat lovitura.",
+   "ro_m": "Hei, stai! Îl cunosc pe golan. A luptat alături de băieții noștri – știi tu, pe vremea când Gustavo a luat lovitura."
+  },
+  {
+   "key": "1802839757141716992",
+   "en": "But... What... What just happened?",
+   "ro": "Dar... Ce... Ce s-a întâmplat?"
+  },
+  {
+   "key": "1803779314272055296",
+   "en": "Well. Just got real fuckin' interesting.",
+   "ro": "Păi. Tocmai a devenit al dracului de interesant."
+  },
+  {
+   "key": "1803780257218703360",
+   "en": "A'ight, c'mon, Pedro. Not worth it. Don't work out.",
+   "ro": "Bine, hai, Pedro. Nu merită. Nu iese nimic din asta."
+  },
+  {
+   "key": "1803789537082748932",
+   "en": "'Cause I know you got scratch.",
+   "ro": "Că știu că ai bani."
+  },
+  {
+   "key": "1803790113547890688",
+   "en": "'Cause I knew you were in trouble.",
+   "ro": "Că știam că ai belele."
+  },
+  {
+   "key": "1803802761656152064",
+   "en": "'Cause you look like you got some eds on you.",
+   "ro": "Că arăți de parcă ai eddies la tine."
+  },
+  {
+   "key": "1803802936038535172",
+   "en": "'Cause you woulda caught a beatin'. Or worse.",
+   "ro": "Că ai fi luat o bătaie. Sau ceva mai rău."
+  },
+  {
+   "key": "1803948385340895232",
+   "en": "Nah. Just don't want to go home.",
+   "ro": "Nah. Doar nu vreau să mă duc acasă."
+  },
+  {
+   "key": "1803948831447068676",
+   "en": "Keep talking.",
+   "ro": "Continuă."
+  },
+  {
+   "key": "1803950634326700032",
+   "en": "Meddling in someone's marriage? No thanks.",
+   "ro": "Să mă bag în căsnicia altcuiva? Nu, mersi."
+  },
+  {
+   "key": "1803952405816160256",
+   "en": "Run me through it.",
+   "ro": "Spune-mi tot."
+  },
+  {
+   "key": "1803952497855967236",
+   "en": "Marital strife? Sorry, not my line of work.",
+   "ro": "Certuri de căsnicie? Scuze, nu-i genul meu de treabă."
+  },
+  {
+   "key": "1803977739345211392",
+   "en": "You sure? Damn... Well, if you change your mind, lemme know.",
+   "ro": "Ești sigură? La naiba... Păi, dacă te răzgândești, zi-mi.",
+   "ro_m": "Ești sigur? La naiba... Păi, dacă te răzgândești, zi-mi."
+  },
+  {
+   "key": "1803978363759636480",
+   "en": "It's about my wife, right? Name's Cynthia. She's cheating – damn sure of it. Only question is, who with.",
+   "ro": "E vorba de nevastă-mea, nu? O cheamă Cynthia. Mă înșală, sunt sigur pe-a dracu'. Doar cu cine e întrebarea."
+  },
+  {
+   "key": "1803979515834281988",
+   "en": "Sure, I'm in.",
+   "ro": "Sigur, intru."
+  },
+  {
+   "key": "1803979968265465856",
+   "en": "Where do I find your wife?",
+   "ro": "Unde o găsesc pe nevastă-ta?"
+  },
+  {
+   "key": "1803980456163684352",
+   "en": "How do you know she's cheating?",
+   "ro": "Cum știi că te înșală?"
+  },
+  {
+   "key": "1803980630948720640",
+   "en": "Why do you wanna know?",
+   "ro": "De ce vrei să știi?"
+  },
+  {
+   "key": "1803986762400411648",
+   "en": "Gonna have to keep tabs on your wife, follow her around town. Where'd she be now?",
+   "ro": "Trebuie s-o țin pe nevastă-ta sub ochi, s-o urmăresc prin oraș. Unde ar fi acum?"
+  },
+  {
+   "key": "1803987272712990724",
+   "en": "Sure she's cheatin' on you?",
+   "ro": "Ești sigur că te înșală?"
+  },
+  {
+   "key": "1803992328040493056",
+   "en": "She works nearby, I'll give you the address. Knowing her, she'll be on a smoke break. Smokes like a goddamn tire fire.",
+   "ro": "Lucrează pe aproape, îți dau adresa. O cunosc, sigur e la pauza de fumat. Fumează ca un foc de cauciucuri, fir-ar al dracului."
+  },
+  {
+   "key": "1803993258253234176",
+   "en": "Wait, um... Today, she was wearing a – pink jacket... and, uh... Hmm... She had a blue purse, I think.",
+   "ro": "Stai, ăă... Azi purta o – geacă roz... și, ăă... Hm... Avea o geantă albastră, cred."
+  },
+  {
+   "key": "1803995158340055040",
+   "en": "Let's start with the fact that she always stays late after work. I know she's lying. Called her office one night, she wasn't even there.",
+   "ro": "Pentru început, rămâne mereu peste program. Știu că minte. Am sunat la birou într-o seară și nici nu era acolo."
+  },
+  {
+   "key": "1803996257163816960",
+   "en": "Used to be easy to check these things – but with today's tech? There's a way around every test now.",
+   "ro": "Pe vremuri era ușor să verifici chestiile astea – da' cu tehnologia de azi? La orice test găsești ocolișul acum."
+  },
+  {
+   "key": "1804005183582253056",
+   "en": "Why you wanna know who she's with? What's the point?",
+   "ro": "De ce vrei să știi cu cine e? La ce bun?"
+  },
+  {
+   "key": "1804005524730163200",
+   "en": "What's the point?! What kind of gonk question is that?!",
+   "ro": "La ce bun?! Ce fel de întrebare de fraier e asta?!"
+  },
+  {
+   "key": "1804095019299254272",
+   "en": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\". Looked like a fat wallet, too.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\". Arăta ca un portofel gros.\"/>"
+  },
+  {
+   "key": "1804095712970027008",
+   "en": "Eh – not the only collar in town, man.",
+   "ro": "Eh – nu-i singurul costum din oraș, frate."
+  },
+  {
+   "key": "1804107404038778880",
+   "en": "An' stay out! If ya know what's good for you!",
+   "ro": "Și stai afară! Dacă știi ce-i bine pentru tine!"
+  },
+  {
+   "key": "1913896741858758656",
+   "en": "Really? Ain't deaf or blind, an' all I see is two gonks tryna rob a stumblin' suit.",
+   "ro": "Serios? Nu-s surd, nu-s orb, și tot ce văd sunt doi fraieri care încearcă să jefuiască un costum care abia se ține pe picioare."
+  },
+  {
+   "key": "1913899597861015552",
+   "en": "Choom – fuck off. Or I implant my blade in your ribs.",
+   "ro": "Choom – du-te-n pula mea. Sau îți bag lama în coaste."
+  },
+  {
+   "key": "1913902141958049792",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Oh, so we got your permission, \" a=\"? Great. Now get the fuck out.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Oh, so we got your permission, \" a=\"? Great. Now get the fuck out.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"A, deci avem permisiunea ta, \" a=\"? Super. Acum cară-te dracu'.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hombre\" b=\"A, deci avem permisiunea ta, \" a=\"? Super. Acum cară-te dracu'.\"/>"
+  },
+  {
+   "key": "1913902880944082944",
+   "en": "Well, come on, choom. Fresh air'll do you some good.",
+   "ro": "Păi, hai, choom. Un pic de aer curat o să-ți facă bine."
+  },
+  {
+   "key": "1913908770099220480",
+   "en": "My bet's she'd whip out her shotgun, blast your heads off.",
+   "ro": "Pariul meu e că scoate shotgun-ul și vă împușcă în cap."
+  },
+  {
+   "key": "1913910408075595776",
+   "en": "Way I see it, be a smokin' hole in your chest before your neurons even light up.",
+   "ro": "Cum o văd eu, o să ai o gaură fumegândă în piept până să-ți pornească neuronii."
+  },
+  {
+   "key": "1913913390947160064",
+   "en": "But hey, nothin' like a little experiment, right?",
+   "ro": "Da' hei, nimic ca un mic experiment, nu?"
+  },
+  {
+   "key": "1913915422600908800",
+   "en": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"Yo, fuck you! \" a=\" Fuckin' punk.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"Yo, du-te-n pula mea! \" a=\" Golan nenorocit.\"/>"
+  },
+  {
+   "key": "1913926363610664960",
+   "en": "Landed in a little trouble. Cleaned up now.",
+   "ro": "Am dat de puțină belea. Acum sunt curat."
+  },
+  {
+   "key": "1913926610588061696",
+   "en": "Goddamn, sorry, I... I think I've had a little too much... Fuck! What a night...",
+   "ro": "Fir-ar, scuze, eu... Cred că am băut prea mult... Futu-i! Ce noapte..."
+  },
+  {
+   "key": "1913927466662285312",
+   "en": "Why...? Why'd you help me?",
+   "ro": "De ce...? De ce m-ai ajutat?"
+  },
+  {
+   "key": "1913933411031240704",
+   "en": "I see... Nothing for free. Not in this goddamn city. Not in this goddamn life.",
+   "ro": "Înțeleg... Nimic nu e gratis. Nu în orașul ăsta al naibii. Nici în viața asta de rahat."
+  },
+  {
+   "key": "1913933928373473280",
+   "en": "Here. All I got. The rest... bartender got the rest.",
+   "ro": "Ia. Tot ce am. Restul... barmanul a luat restul."
+  },
+  {
+   "key": "1913935992038150144",
+   "en": "This fuckin' town, these people...? Just here, mindin' my own biz... If it weren't for you, I... ugh...",
+   "ro": "Orașul ăsta nenorocit, oamenii ăștia...? Eu stăteam aici, îmi vedeam de treaba mea... Dacă nu erai tu, eu... ugh..."
+  },
+  {
+   "key": "1913939284382240768",
+   "en": "Here. For your trouble. The rest, uh... bartender got the rest.",
+   "ro": "Ia. Pentru deranj. Restul, ăă... barmanul a luat restul."
+  },
+  {
+   "key": "1913945340890107904",
+   "en": "Ten years married, y'know? Ten years an' suddenly I am not good enough. Nooo, she has to go get some side action.",
+   "ro": "Zece ani de căsnicie, înțelegi? Zece ani și deodată nu mai sunt destul de bun. Nuuu, ea trebuie să-și facă de cap cu altu'."
+  },
+  {
+   "key": "1913947174035836928",
+   "en": "Anyhow, since you brought up money... you wouldn't be lookin' for a gig, would ya, V? Pay's solid.",
+   "ro": "Oricum, de când ai pomenit de bani... n-ai căuta un gig, V? Plata-i solidă."
+  },
+  {
+   "key": "1913954756045623296",
+   "en": "Could let it eat away at me, or I could get someone like you. Ain't no more than an evening's work.",
+   "ro": "Pot să mă rod pe dinăuntru, sau să-mi găsesc pe cineva ca tine. Nu-i mai mult decât o seară de muncă."
+  },
+  {
+   "key": "1913958093855969280",
+   "en": "Eh, not for me after all.",
+   "ro": "Eh, nu-i pentru mine, până la urmă."
+  },
+  {
+   "key": "1913959470493650944",
+   "en": "Can't say I'm interested. Sorry.",
+   "ro": "Nu zic că mă interesează. Scuze."
+  },
+  {
+   "key": "1913961456882470912",
+   "en": "Simple one. Answer it.",
+   "ro": "Unul simplu. Răspunde."
+  },
+  {
+   "key": "1913961881966792704",
+   "en": "I want to look him in the eyes – ask him how it feels, fucking some other guy's wife, breaking up a happy marriage.",
+   "ro": "Vreau să-l privesc în ochi – să-l întreb cum e să futi nevasta altuia, să spargi o căsnicie fericită."
+  },
+  {
+   "key": "1913969914998476800",
+   "en": "Like half this city.",
+   "ro": "Ca jumătate din orașul ăsta."
+  },
+  {
+   "key": "1913970857894793216",
+   "en": "Colorful.",
+   "ro": "Colorat."
+  },
+  {
+   "key": "1913971004091453440",
+   "en": "Always liked dressing up. Get a woman something nice for her birthday, anniversary... And what do you get in return?",
+   "ro": "Mereu mi-a plăcut să arăt bine. Să-i iei unei femei ceva drăguț de ziua ei, de aniversare... Și ce primești în schimb?"
+  },
+  {
+   "key": "1913972066475102208",
+   "en": "No, no, no, no, wait – eh, to hell with it.",
+   "ro": "Nu, nu, nu, nu, stai – eh, dracu' s-o ia."
+  },
+  {
+   "key": "1913973264116666368",
+   "en": "You're my hero, V. Means a lot to me.",
+   "ro": "Ești eroina mea, V. Chiar înseamnă mult pentru mine.",
+   "ro_m": "Ești eroul meu, V. Chiar înseamnă mult pentru mine."
+  },
+  {
+   "key": "1913976634139267072",
+   "en": "OK, fine. I'm in.",
+   "ro": "OK, hai. Mă bag."
+  },
+  {
+   "key": "1933310411455737856",
+   "en": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Ey, leave him alone, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Hei, lasă-l în pace, \" a=\"!\"/>"
+  },
+  {
+   "key": "1933312496276484096",
+   "en": "V! Go teach these assholes how to behave in my bar!",
+   "ro": "V! Du-te și arată-le nemernicilor ăstora cum se poartă în barul meu!"
+  },
+  {
+   "key": "1933320580008914948",
+   "en": "Circling him like sharks on the scent o' fresh corpo blood... Coulda ended badly if you hadn't've stepped in, V.",
+   "ro": "Se învârteau în jurul lui ca rechinii după sânge proaspăt de corpo... Putea să se termine rău dacă nu intervenei, V."
+  },
+  {
+   "key": "1933320581468532736",
+   "en": "How about we drink to you, then? On the house.",
+   "ro": "Și dacă bem în cinstea ta, atunci? Pe casă."
+  },
+  {
+   "key": "1933323141856243716",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1933323317631135744",
+   "en": "No thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1933324834056581120",
+   "en": "Not this time. But thanks.",
+   "ro": "Nu de data asta. Dar mulțumesc."
+  },
+  {
+   "key": "1933324908312539136",
+   "en": "Won't say no to a free drink.",
+   "ro": "Nu zic nu la o băutură gratis."
+  },
+  {
+   "key": "1933328040249667584",
+   "en": "Don't drink on the clock, eh? I get it, respect that.",
+   "ro": "Nu bei în timpul serviciului, nu? Înțeleg, respect."
+  },
+  {
+   "key": "1933328384920793088",
+   "en": "To good fortune and prosperity!",
+   "ro": "La noroc și prosperitate!"
+  },
+  {
+   "key": "1934651021072674816",
+   "en": "Thanks, V. Really outdid yourself.",
+   "ro": "Mersi, V. Chiar ai făcut-o cu moț."
+  },
+  {
+   "key": "1935673400622370816",
+   "en": "You heard what Pepe said. Take a fuckin' walk.",
+   "ro": "Ai auzit ce-a zis Pepe. Cară-te dracu'."
+  },
+  {
+   "key": "1935688948135546880",
+   "en": "Yeah, well, not all heroes wear capes.",
+   "ro": "Da, păi, nu toți eroii poartă cape."
+  },
+  {
+   "key": "1935731572565397504",
+   "en": "Long day?",
+   "ro": "Zi lungă?"
+  },
+  {
+   "key": "1935731945741012992",
+   "en": "Could say that again. I'm on a double, no break.",
+   "ro": "Să zici! Am tură dublă, fără pauză."
+  },
+  {
+   "key": "1935735375138181120",
+   "en": "Workin' overtime to make an extra buck?",
+   "ro": "Lucrezi peste program să mai scoți un ban?"
+  },
+  {
+   "key": "1935755973683892224",
+   "en": "'Sides that? Well, we got a kid together, right? Doesn't even look like me. Different hair, different eyes, all of it!",
+   "ro": "În afară de asta? Păi, avem un copil, nu? Nici nu seamănă cu mine. Alt păr, alți ochi, totul!"
+  },
+  {
+   "key": "1946070515770863616",
+   "en": "So? You gonna help me out after all?",
+   "ro": "Deci? Mă ajuți până la urmă?"
+  },
+  {
+   "key": "1946174875137880064",
+   "en": "Not interested.",
+   "ro": "Nu mă interesează."
+  },
+  {
+   "key": "2095410444337557508",
+   "en": "Lay off him.",
+   "ro": "Lasă-l în pace."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq025\\sq025_06_reward.json",
+ "entries": [
+  {
+   "key": "1729851202988056576",
+   "en": "You've accounted for all my lost items.",
+   "ro": "Ai găsit toate obiectele mele pierdute."
+  },
+  {
+   "key": "1730283129746399236",
+   "en": "Thanks, Del.",
+   "ro": "Mulțumesc, Del."
+  },
+  {
+   "key": "1740126323413786624",
+   "en": "Why'd your personality split, why'd they run?",
+   "ro": "De ce ți s-a scindat personalitatea și de ce au fugit?"
+  },
+  {
+   "key": "1740127855240716288",
+   "en": "How did your personality fracture, anyway? And why?",
+   "en_m": "How'd your personality fracture, anyway? And why?",
+   "ro": "Cum ți s-a fracturat personalitatea, oricum? Și de ce?"
+  },
+  {
+   "key": "1740127907887620096",
+   "en": "Thanks, pleasure to work with you.",
+   "ro": "Mersi, a fost o plăcere să lucrez cu tine."
+  },
+  {
+   "key": "1740129606933061632",
+   "en": "Ah, that is the question! I'm looking into it, but still know little more than you do, I fear.",
+   "ro": "Ah, asta e întrebarea! Cercetez, dar, din păcate, știu cam tot atât cât știți și dumneavoastră."
+  },
+  {
+   "key": "1934372546077548544",
+   "en": "Allow me to express my gratitude for your assistance.",
+   "ro": "Permiteți-mi să-mi exprim recunoștința pentru ajutorul dumneavoastră."
+  },
+  {
+   "key": "1934373207267631104",
+   "en": "Felt like a scavenger hunt for a range of your mood swings. You're more complex than I thought.",
+   "ro": "A fost ca o vânătoare de comori printre schimbările dumneavoastră de dispoziție. Sunteți mai complexă decât credeam.",
+   "ro_m": "A fost ca o vânătoare de comori printre schimbările dumneavoastră de dispoziție. Sunteți mai complex decât credeam."
+  },
+  {
+   "key": "1934376764591071232",
+   "en": "Yes, well... I've sent the final installment of your fee. Truly, I thank you once again.",
+   "ro": "Păi, da... v-am trimis ultima tranșă din onorariu. Vă mulțumesc încă o dată, sincer."
+  },
+  {
+   "key": "1934380960556015616",
+   "en": "Likewise. I look forward to doing so again in the future. A pleasant day to you.",
+   "ro": "La fel. Abia aștept să mai lucrăm împreună. O zi plăcută vă doresc."
+  },
+  {
+   "key": "1945775179374436352",
+   "en": "Hello, miss!",
+   "en_m": "Hello, sir!",
+   "ro": "Bună ziua, domnișoară!",
+   "ro_m": "Bună ziua, domnule!"
+  },
+  {
+   "key": "1945828576253353988",
+   "en": "[Return scanner]",
+   "ro": "[Returnează scanerul]"
+  },
+  {
+   "key": "1999790065613037568",
+   "en": "I forgot to remind you to return the scanner. If you happen to have it on your person, I'd ask you, please, place it back.",
+   "ro": "Am uitat să vă reamintesc să returnați scanerul. Dacă-l aveți cumva asupra dumneavoastră, vă rog să-l puneți la loc."
+  }
+ ]
+}

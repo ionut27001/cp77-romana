@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq042\\mq042_chicken_test.json",
+ "entries": [
+  {
+   "key": "1927298513650982916",
+   "en": "[db_db]Yes.",
+   "ro": "[db_db]Da."
+  },
+  {
+   "key": "1927298757960802304",
+   "en": "[db_db]No.",
+   "ro": "[db_db]Nu."
+  },
+  {
+   "key": "1927298979252281344",
+   "en": "[db_db]Play with debug options?",
+   "ro": "[db_db]Joci cu opțiuni de debug?"
+  }
+ ]
+}

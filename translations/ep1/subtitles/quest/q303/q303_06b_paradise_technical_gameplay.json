@@ -1,0 +1,732 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q303\\q303_06b_paradise_technical_gameplay.json",
+ "entries": [
+  {
+   "key": "3081065283239960588",
+   "en": "Flooding these tunnels must've been Hansen's idea. He probably lacked the manpower to secure all the passages.",
+   "ro": "Inundarea tunelurilor astea e probabil ideea lui Hansen. N-avea oameni destui să securizeze toate trecerile."
+  },
+  {
+   "key": "3082455044076756992",
+   "en": "V? You still there?",
+   "ro": "V? Mai ești acolo?"
+  },
+  {
+   "key": "3085418218619035648",
+   "en": "Patrol incoming!",
+   "ro": "Vine patrula!"
+  },
+  {
+   "key": "3085460013868539908",
+   "en": "Got a clear shot. Just need your go-ahead.",
+   "ro": "Am țintă clară. Dă-mi undă verde."
+  },
+  {
+   "key": "3085460067069091848",
+   "en": "I need an assist. You take the guard on the left, the one behind the wall's mine.",
+   "ro": "Am nevoie de o mână de ajutor. Tu-l iei pe gardianul din stânga, cel de după zid e al meu."
+  },
+  {
+   "key": "3085475959404388352",
+   "en": "Got a clear shot.",
+   "ro": "Am țintă clară."
+  },
+  {
+   "key": "3085476214032195592",
+   "en": "Got another idea – back part of the hallway and down.",
+   "ro": "Am altă idee – din spatele holului și apoi jos."
+  },
+  {
+   "key": "3085519759380209664",
+   "en": "Stop. Got guards right above you. Need to wait.",
+   "ro": "Stai. Ai gardieni chiar deasupra capului. Mai așteaptă."
+  },
+  {
+   "key": "3090961971798761472",
+   "en": "I'm in position. Guard's in view. You need to take him out.",
+   "ro": "Sunt în poziție. Îl am în vizor pe gardian. Trebuie să-l elimini."
+  },
+  {
+   "key": "3092641735538270208",
+   "en": "Clear. You can make your way to the bridge.",
+   "ro": "Curat. Poți merge spre pod."
+  },
+  {
+   "key": "3092788938143588352",
+   "en": "See another way.",
+   "ro": "Văd altă cale."
+  },
+  {
+   "key": "3129475723984769024",
+   "en": "Sure am.",
+   "ro": "Sigur că da."
+  },
+  {
+   "key": "3129475824077639680",
+   "en": "I'm at the warehouse gate. You'll need to secure the area and crack it open from the other side.",
+   "ro": "Sunt la poarta depozitului. Trebuie să securizezi zona și s-o deschizi din cealaltă parte."
+  },
+  {
+   "key": "3134479231985016832",
+   "en": "Reed, you copy? Made it to the hallway.",
+   "ro": "Reed, mă auzi? Am ajuns în hol."
+  },
+  {
+   "key": "3134482039803109376",
+   "en": "Copy you loud and clear. I'm in position too.",
+   "ro": "Te aud clar. Și eu sunt în poziție."
+  },
+  {
+   "key": "3134483930796679180",
+   "en": "I'm in the water.",
+   "ro": "Sunt în apă."
+  },
+  {
+   "key": "3134483930796679188",
+   "en": "Good. Now find a way to the other side.",
+   "ro": "Bine. Acum găsește o cale spre cealaltă parte."
+  },
+  {
+   "key": "3134485921883119616",
+   "en": "In the meantime, I'll do some recon around the hotel.",
+   "ro": "Între timp, mă uit un pic prin jurul hotelului."
+  },
+  {
+   "key": "3140458033695776768",
+   "en": "I have a visual, thanks.",
+   "ro": "Am vizual, mersi."
+  },
+  {
+   "key": "3140568444805931008",
+   "en": "Patrol down, coast is clear.",
+   "ro": "Patrula e jos, drum liber."
+  },
+  {
+   "key": "3140665707142144000",
+   "en": "OK, both down.",
+   "ro": "OK, amândoi jos."
+  },
+  {
+   "key": "3140667927455686656",
+   "en": "Distracted him, you’re good to go on.",
+   "ro": "L-am distras, poți continua."
+  },
+  {
+   "key": "3140674551050231812",
+   "en": "Move now. Guard'll be blind for a sec.",
+   "ro": "Mișcă-te acum. Gardianul o să fie orb o secundă."
+  },
+  {
+   "key": "3140685007986974720",
+   "en": "On my mark...",
+   "ro": "La semnalul meu..."
+  },
+  {
+   "key": "3140685137473527808",
+   "en": "Three...",
+   "ro": "Trei..."
+  },
+  {
+   "key": "3140685308332695552",
+   "en": "Two...",
+   "ro": "Doi..."
+  },
+  {
+   "key": "3140685418911326208",
+   "en": "One.",
+   "ro": "Unul."
+  },
+  {
+   "key": "3141751503194513416",
+   "en": "V! Am I clear to keep movin'?",
+   "ro": "V! Pot să mă mișc mai departe?"
+  },
+  {
+   "key": "3141962350000955400",
+   "en": "It's a Tsunami Tsuchigumo. Can set it to friendly mode.",
+   "ro": "E un Tsunami Tsuchigumo. Poate fi setat pe mod prietenos."
+  },
+  {
+   "key": "3144780669942849536",
+   "en": "Good job. Let’s keep movin'.",
+   "ro": "Bună treabă. Hai să continuăm."
+  },
+  {
+   "key": "3145252263626629120",
+   "en": "Not that one! Quick, the other guy!",
+   "ro": "Nu ăla! Repede, celălalt tip!"
+  },
+  {
+   "key": "3145254161565966336",
+   "en": "We've been spotted! Have to blast our way through!",
+   "ro": "Ne-au văzut! Trecem cu focul!"
+  },
+  {
+   "key": "3145303839523299328",
+   "en": "Guard won't notice you. You're clear to go.",
+   "ro": "Gardianul n-o să te vadă. Poți merge."
+  },
+  {
+   "key": "3145304888216739840",
+   "en": "Hacked the guard, all yours.",
+   "ro": "Am hack-uit gardianul, e al tău."
+  },
+  {
+   "key": "3146597413342765056",
+   "en": "These guys are already out. Good.",
+   "ro": "Tipii ăștia sunt deja la pământ. Bine."
+  },
+  {
+   "key": "3146604176339197952",
+   "en": "Already handled the patrol, coast is clear.",
+   "ro": "Am rezolvat deja patrula, coasta e liberă."
+  },
+  {
+   "key": "3146610344566546440",
+   "en": "Movin' out.",
+   "ro": "Mă mișc."
+  },
+  {
+   "key": "3146611311504613376",
+   "en": "On the move.",
+   "ro": "Pe drum."
+  },
+  {
+   "key": "3150457236681482240",
+   "en": "One more! Quick!",
+   "ro": "Încă unul! Repede!"
+  },
+  {
+   "key": "3152050358129614848",
+   "en": "Do you see that cam above me? We can flip it on them.",
+   "ro": "Vezi camera aia deasupra mea? Putem s-o întoarcem împotriva lor."
+  },
+  {
+   "key": "3152064829183057920",
+   "en": "Camera's mine.",
+   "ro": "Camera e a mea."
+  },
+  {
+   "key": "3152065424203800576",
+   "en": "Good. Tag our target and fire. The rifle should punch right through that wall.",
+   "ro": "Bine. Marchează ținta și trage. Pușca trece prin peretele ăla ca prin unt."
+  },
+  {
+   "key": "3152088599696334860",
+   "en": "Guard's down.",
+   "ro": "Gardianul e jos."
+  },
+  {
+   "key": "3152088599696334868",
+   "en": "Smooth work.",
+   "ro": "Mișto treabă."
+  },
+  {
+   "key": "3152089469242662924",
+   "en": "Not bad.",
+   "ro": "Nu-i rău."
+  },
+  {
+   "key": "3152188682884222976",
+   "en": "Don't forget – hallway's mined. 'Sides that, the coast is clear.",
+   "ro": "Nu uita – holul e minat. În rest, drumul e liber."
+  },
+  {
+   "key": "3152597088457809920",
+   "en": "Careful, V! Snipers above you!",
+   "ro": "Atenție, V! Sniperi deasupra ta!"
+  },
+  {
+   "key": "3152601017128149000",
+   "en": "They're fallin' back – push 'em hard!",
+   "ro": "Se retrag – apăsați-i!"
+  },
+  {
+   "key": "3152623610367401992",
+   "en": "Fuck, I've got a few bogeys on my six!",
+   "ro": "Futu-i, am câțiva după mine!"
+  },
+  {
+   "key": "3152628257152917512",
+   "en": "Don't worry, they're about to step on our mines.",
+   "ro": "Nu-ți face griji, o să calce direct pe minele noastre."
+  },
+  {
+   "key": "3152644886830080008",
+   "en": "They're on the backfoot! Push 'em hard!",
+   "ro": "Sunt în retragere! Apăsați-i!"
+  },
+  {
+   "key": "3228817513982025736",
+   "en": "I'm in position. Do you have a visual on me?",
+   "ro": "Sunt în poziție. Mă vezi?"
+  },
+  {
+   "key": "3228825135636373512",
+   "en": "I got you. What now?",
+   "ro": "Te-am. Și acum?"
+  },
+  {
+   "key": "3231703400218714112",
+   "en": "I see you already took care of this guy.",
+   "ro": "Văd că l-ai rezolvat deja pe ăsta."
+  },
+  {
+   "key": "3231760933805449224",
+   "en": "See 'im.",
+   "ro": "Îl văd."
+  },
+  {
+   "key": "3231762791966007296",
+   "en": "All right. Do the honors.",
+   "ro": "Bine. Fă onorurile."
+  },
+  {
+   "key": "3232196940396847112",
+   "en": "Couldn'ta just slipped past him? Would never've noticed…",
+   "ro": "Nu puteai să te strecoari pe lângă el? N-ar fi observat niciodată…"
+  },
+  {
+   "key": "3232225261696409600",
+   "en": "I couldn't risk him finding his dead pal below. Better safe than sorry.",
+   "ro": "Nu riscam să-i vadă amicul mort jos. Mai bine să previi decât să regreți."
+  },
+  {
+   "key": "3275503742051770368",
+   "en": "Motion detector ahead. Can't get around it. Handle it, will you?",
+   "ro": "Detector de mișcare în față. Nu-l poți ocoli. Rezolvă-l, vrei?"
+  },
+  {
+   "key": "3275504668590301184",
+   "en": "I see a bunch of cables. I'll see where they lead…",
+   "ro": "Văd o grămadă de cabluri. Să văd unde duc…"
+  },
+  {
+   "key": "3275506681302573056",
+   "en": "Sensor disabled.",
+   "ro": "Senzor dezactivat."
+  },
+  {
+   "key": "3275659395475005440",
+   "en": "Good work, proceeding forward.",
+   "ro": "Mișto, merg mai departe."
+  },
+  {
+   "key": "3278219554613190656",
+   "en": "Found a mine.",
+   "ro": "Am găsit o mină."
+  },
+  {
+   "key": "3280177021559595008",
+   "en": "Sniper right above you.",
+   "ro": "Sniper chiar deasupra ta."
+  },
+  {
+   "key": "3280179186692874240",
+   "en": "I see 'im. Pop him off. I'm stuck here otherwise.",
+   "ro": "Îl văd. Pune-l jos. Altfel rămân blocată aici.",
+   "ro_m": "Îl văd. Pune-l jos. Altfel rămân blocat aici."
+  },
+  {
+   "key": "3280187189257134088",
+   "en": "Sniper... I think he spotted me. Deal with 'im, stat.",
+   "ro": "Sniper... Cred că m-a văzut. Rezolvă-l, repede!"
+  },
+  {
+   "key": "3280209868261515264",
+   "en": "Won't see you now. Move!",
+   "ro": "Nu o să te mai vadă acum. Mișcă!"
+  },
+  {
+   "key": "3280244868587544576",
+   "en": "All right, zapped his memory. You're clear to go.",
+   "ro": "Bine, i-am șters memoria. Poți trece."
+  },
+  {
+   "key": "3280246034872492032",
+   "en": "Nice work. On the move.",
+   "ro": "Mișto treabă. Mă mișc."
+  },
+  {
+   "key": "3298577363917692932",
+   "en": "I see you.",
+   "ro": "Te văd."
+  },
+  {
+   "key": "3298581263513116672",
+   "en": "You should see me on your right. Confirm.",
+   "ro": "Ar trebui să mă vezi în dreapta ta. Confirmă."
+  },
+  {
+   "key": "3298582563982237696",
+   "en": "OK, I'm ready. Am I clear to move?",
+   "ro": "OK, sunt gata. Pot să mă mișc?"
+  },
+  {
+   "key": "3298780409654239232",
+   "en": "[Enable friendly mode]",
+   "ro": "[Activează modul prietenos]"
+  },
+  {
+   "key": "3298963390024998912",
+   "en": "V, a few drones headed your way. Take 'em out before they reach you.",
+   "ro": "V, vin câteva drone spre tine. Doboară-le până ajung la tine."
+  },
+  {
+   "key": "3307086145169743872",
+   "en": "Watch out for guards.",
+   "ro": "Atenție la gardieni."
+  },
+  {
+   "key": "3307086503480745984",
+   "en": "See the main elevator.",
+   "ro": "Văd liftul principal."
+  },
+  {
+   "key": "3307087139437895680",
+   "en": "Healthy smattering of guards along your path.",
+   "ro": "Destui gardieni pe traseul tău."
+  },
+  {
+   "key": "3307089050866114560",
+   "en": "Copy that. We'll take 'em out one by one. Best if they never know we were here.",
+   "ro": "Am înțeles. Îi eliminăm unul câte unul. Mai bine dacă nu află că am fost aici."
+  },
+  {
+   "key": "3307091019152318464",
+   "en": "See the main elevator shaft.",
+   "ro": "Văd puțul liftului principal."
+  },
+  {
+   "key": "3307091834223026176",
+   "en": "Too risky – there'll be sentries up top. Keep an eye on it, though.",
+   "ro": "Prea riscant – vor fi străjeri sus. Ține-l totuși în vizor."
+  },
+  {
+   "key": "3307094102485852160",
+   "en": "See a bunch of containers, could use them to get to your side.",
+   "ro": "Văd niște containere, le-am putea folosi ca să ajung lângă tine."
+  },
+  {
+   "key": "3307094429306019840",
+   "en": "See the bridge.",
+   "ro": "Văd podul."
+  },
+  {
+   "key": "3307099950654251008",
+   "en": "Go.",
+   "ro": "Du-te."
+  },
+  {
+   "key": "3307100681050349568",
+   "en": "Go.",
+   "ro": "Du-te."
+  },
+  {
+   "key": "3307105442524913664",
+   "en": "Got a mine just past the corner…",
+   "ro": "Am o mină chiar după colț…"
+  },
+  {
+   "key": "3307109615370854400",
+   "en": "Don't see anything – path's clear.",
+   "ro": "Nu văd nimic – drumul e liber."
+  },
+  {
+   "key": "3307111086564925440",
+   "en": "I'm goin'.",
+   "ro": "Mă duc."
+  },
+  {
+   "key": "3307112853239324672",
+   "en": "Fuck! I almost stepped on a mine. You need to warn me about shit like that.",
+   "ro": "Futu-i! Aproape că am călcat pe o mină. Trebuie să mă previi când mai e câte o chestie d-asta."
+  },
+  {
+   "key": "3307114448853229568",
+   "en": "I'll disarm it, but I can't do this if you're not covering me at all times, got it?",
+   "ro": "O dezamorsez, dar nu pot lucra dacă nu mă acoperi mereu. Pricepi?"
+  },
+  {
+   "key": "3307235168992190464",
+   "en": "Understood. Moving out.",
+   "ro": "Înțeles. Mă mișc."
+  },
+  {
+   "key": "3307328853972967424",
+   "en": "Well spotted. I could've missed it.",
+   "ro": "Bun ochi. Aproape că-l ratam."
+  },
+  {
+   "key": "3329053385470926848",
+   "en": "Remember – the water's highly toxic. Suit up before you get in.",
+   "ro": "Ține minte – apa e foarte toxică. Pune-ți costumul înainte să intri."
+  },
+  {
+   "key": "3343404925996392448",
+   "en": "For the love of god! Again? First you fall into a trap at Slider's place and now you miss a mine?",
+   "ro": "Doamne, iar? Întâi cazi în capcana de la Slider și acum ratezi o mină?"
+  },
+  {
+   "key": "3343420902586867712",
+   "en": "I need support, stat!",
+   "ro": "Îmi trebuie sprijin, repede!"
+  },
+  {
+   "key": "3343421013501042688",
+   "en": "Gotta take 'em all out! Now or never!",
+   "ro": "Trebuie să-i eliminăm pe toți! Acum sau niciodată!"
+  },
+  {
+   "key": "3356345322016215040",
+   "en": "We do this nice and quiet if we can, got it? Spot any guards in my way, you give me the heads up.",
+   "ro": "Facem asta frumos și liniștit dacă putem, înțeles? Dacă vezi vreun gardian în cale, mă anunți."
+  },
+  {
+   "key": "3356346108213334016",
+   "en": "Don’t worry, boss. Rifle sports a silencer if it comes to that.",
+   "ro": "Nu-ți face griji, șefule. Pușca are amortizor, dacă ajungem acolo."
+  },
+  {
+   "key": "3356352653089181696",
+   "en": "Pull yourself together, soldier. I amost blew myself up.",
+   "ro": "Adună-te, soldată. Aproape că am sărit în aer.",
+   "ro_m": "Adună-te, soldat. Aproape că am sărit în aer."
+  },
+  {
+   "key": "3381160241335197696",
+   "en": "Got a sniper here.",
+   "ro": "Am un sniper pe-aici."
+  },
+  {
+   "key": "3382824253886128128",
+   "en": "Cameras. Can hack 'em.",
+   "ro": "Camere. Le poți hack-ui."
+  },
+  {
+   "key": "3447493550994747392",
+   "en": "Finish it, V!",
+   "ro": "Termină-l, V!"
+  },
+  {
+   "key": "3458216688367263748",
+   "en": "[Override elevator destination]",
+   "ro": "[Forțează destinația liftului]"
+  },
+  {
+   "key": "3478299653135265792",
+   "en": "Good work.",
+   "ro": "Bună treabă."
+  },
+  {
+   "key": "3488085718651002880",
+   "en": "Hustle up,  V. Lower that platform.",
+   "ro": "Mișcă-te, V. Coboară platforma aia."
+  },
+  {
+   "key": "3488092998285025280",
+   "en": "I found a breach in their defenses. I should be inside momentarily. Out.",
+   "ro": "Am găsit o spargere în apărarea lor. Intru în câteva secunde. Terminat."
+  },
+  {
+   "key": "3488106016699998212",
+   "en": "I figured out the patrol routes, got 'em down. Set myself a safe path through and past 'em.",
+   "ro": "Am prins rutele de patrulare. Am o cale sigură trecând pe lângă ei."
+  },
+  {
+   "key": "3488106316039086096",
+   "en": "OK, I'm through the outpost. Approaching warehouse gate now.",
+   "ro": "Ok, am trecut de avanpost. Ajung la poarta depozitului."
+  },
+  {
+   "key": "3488149451133837312",
+   "en": "New user detected.",
+   "ro": "Utilizator nou detectat."
+  },
+  {
+   "key": "3488158631861313536",
+   "en": "Calibration in progress. Firing mode inactive.",
+   "ro": "Calibrare în desfășurare. Mod de tragere inactiv."
+  },
+  {
+   "key": "3488171237338669056",
+   "en": "He’s not a threat yet. We’ll deal with him later.",
+   "ro": "Nu e încă o amenințare. Ne ocupăm de el mai târziu."
+  },
+  {
+   "key": "3488172917828509696",
+   "en": "I've got eyes on a sniper. Further down.",
+   "ro": "Am un sniper în vizor. Mai jos."
+  },
+  {
+   "key": "3488177630917582848",
+   "en": "Cams galore, here. Should have access once the snipers' nest completes calibration.",
+   "ro": "Camere peste tot pe-aici. Ar trebui să am acces după ce se termină calibrarea la cuibul de sniperi."
+  },
+  {
+   "key": "3488178531132661760",
+   "en": "Good. They could prove useful.",
+   "ro": "Bine. Ar putea fi utile."
+  },
+  {
+   "key": "3488192802570788864",
+   "en": "Mine disarmed. Moving on.",
+   "ro": "Mina dezamorsată. Merg mai departe."
+  },
+  {
+   "key": "3488194481768783872",
+   "en": "I can’t see around the corner. All clear? Am I OK to move on?",
+   "ro": "Nu văd după colț. E curat? Pot merge mai departe?"
+  },
+  {
+   "key": "3488211700863098880",
+   "en": "Incoming patrol… we need to take them out together. Wait for my mark.",
+   "ro": "Patrulă în apropiere… Îi luăm împreună. Stai până dau semnalul."
+  },
+  {
+   "key": "3488233869353574400",
+   "en": "Surveillance system link established.",
+   "ro": "Sistem de supraveghere conectat."
+  },
+  {
+   "key": "3488235956338581504",
+   "en": "Calibration complete. Firing mode active.",
+   "ro": "Calibrare completă. Mod de tragere activ."
+  },
+  {
+   "key": "3488279572452892672",
+   "en": "Generator – got a visual…",
+   "ro": "Generator – am vizual…"
+  },
+  {
+   "key": "3488281989563179008",
+   "en": "Right. Time to move.",
+   "ro": "Bine. E timpul să mergem."
+  },
+  {
+   "key": "3488289205661884416",
+   "en": "They’ll spot me if I make a move. You know what to do.",
+   "ro": "Ai să mă vezi dacă mă mișc. Știi tu ce ai de făcut."
+  },
+  {
+   "key": "3488291653038268416",
+   "en": "The sniper you spotted before… remember him?",
+   "ro": "Sniperul pe care l-ai văzut mai devreme… îți amintești de el?"
+  },
+  {
+   "key": "3488292693896749056",
+   "en": "Need you to drop him. I can’t progress otherwise.",
+   "ro": "Trebuie să-l dobori. Altfel nu pot merge mai departe."
+  },
+  {
+   "key": "3488295760083968000",
+   "en": "Heads up. Sizeable patrol headed your way.",
+   "ro": "Atenție. O patrulă mare vine spre tine."
+  },
+  {
+   "key": "3488296350843297792",
+   "en": "Copy that. Movin' towards cover.",
+   "ro": "Copiat. Mă duc la acoperire."
+  },
+  {
+   "key": "3488305738802946048",
+   "en": "I’ll take the tango closer. Other one’s yours.",
+   "ro": "Iau tango-ul mai apropiat. Celălalt e al tău."
+  },
+  {
+   "key": "3488319442651078656",
+   "en": "Battery damage detected. Threat of imminent explosion.",
+   "ro": "Daune detectate la baterie. Pericol de explozie iminentă!"
+  },
+  {
+   "key": "3488321259791343616",
+   "en": "The guards could've spotted me. V, I need you to deal with them before they're on me!",
+   "ro": "Gărzile m-ar fi putut vedea. V, trebuie să te ocupi de ele înainte să dea peste mine!"
+  },
+  {
+   "key": "3556410909772615680",
+   "en": "Kill it.",
+   "ro": "Omoară-l."
+  },
+  {
+   "key": "3588474415670509568",
+   "en": "Yeah. See 'em too. Lemme build that bridge. There's a service elevator nearby, we'll take that up.",
+   "ro": "Da, îi văd și eu. Lasă-mă să fac podul ăla. E un lift de serviciu pe aproape, urcăm cu el."
+  },
+  {
+   "key": "3588476310690611200",
+   "en": "Gotta get there first, though. Cover me.",
+   "ro": "Dar trebuie să ajung întâi acolo. Acoperă-mă."
+  },
+  {
+   "key": "3596945872932659212",
+   "en": "Passed my detes to the NCPD. Should get an answer tomorrow.",
+   "ro": "Am trimis detaliile la NCPD. Mâine ar trebui să primesc un răspuns."
+  },
+  {
+   "key": "3596945872932659232",
+   "en": "Shit, man, ya weren't kiddin'. You'd do anything to get outta this dump.",
+   "ro": "Mamă, frate, chiar nu glumeai. Ai face orice să ieși din porcăria asta."
+  },
+  {
+   "key": "3597478390475874308",
+   "en": "Lend me a hunnie till payday?",
+   "ro": "Îmi împrumuți o sută până la salariu?"
+  },
+  {
+   "key": "3597478390492651528",
+   "en": "No can do, chica. I'm flat broke, too.",
+   "ro": "Nu pot, chica. Și eu sunt lefter."
+  },
+  {
+   "key": "3597478390509428744",
+   "en": "Well... guess it's time for a li'l walk around the block.",
+   "ro": "Mă rog... cred că e timpul de o plimbărică prin cartier."
+  },
+  {
+   "key": "3659276138887602176",
+   "en": "The boys grabbed that gonk with the spraypaint again last night.",
+   "ro": "Băieții l-au prins iar pe fraierul ăla cu spray-ul aseară."
+  },
+  {
+   "key": "3659276138887602200",
+   "en": "Mm, the \"fright city\" kid or the \"HEEL!\" idiot?",
+   "ro": "Hm, puștiul ăla cu „fright city” sau tâmpitul cu „HEEL!”?"
+  },
+  {
+   "key": "3660672862050934784",
+   "en": "Hey – how's a scav different from an onion?",
+   "ro": "Hei – care-i diferența între o hienă și o ceapă?"
+  },
+  {
+   "key": "3660672862050934804",
+   "en": "How?",
+   "ro": "Cum?"
+  },
+  {
+   "key": "3660672862050934824",
+   "en": "Don't cry no tears when you slice 'n' dice 'em.",
+   "ro": "Nu plângi când le tai felii-felii."
+  },
+  {
+   "key": "3731837099133759488",
+   "en": "Focus on my target, V.",
+   "ro": "Concentrează-te pe ținta mea, V."
+  },
+  {
+   "key": "3731952643215810560",
+   "en": "Scan the vicinity. Look for a power source.",
+   "ro": "Scanează împrejurimile. Caută o sursă de energie."
+  },
+  {
+   "key": "3836358153697628160",
+   "en": "What a fucking shit-sty.",
+   "ro": "Ce căcat de cocină."
+  },
+  {
+   "key": "3873907071612227584",
+   "en": "Shhhh. Slow down.",
+   "ro": "Șșș. Încetinește."
+  }
+ ]
+}

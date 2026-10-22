@@ -1,0 +1,68 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_mama_welles.json",
+ "entries": [
+  {
+   "key": "1796890166039658500",
+   "en": "Look who it is!",
+   "ro": "Uite cine e!"
+  },
+  {
+   "key": "1796890166073212932",
+   "en": "Ah, V!",
+   "ro": "Ah, V!"
+  },
+  {
+   "key": "1796890166157099012",
+   "en": "You're busy, I understand...",
+   "ro": "Ești ocupată, înțeleg...",
+   "ro_m": "Ești ocupat, înțeleg..."
+  },
+  {
+   "key": "1796890166173876228",
+   "en": "<kiroshi l=\"mex\" o=\"¿A dónde te me vas?\" t=\"Where are you zipping off to?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿A dónde te me vas?\" t=\"Unde te grăbești?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796890166240985092",
+   "en": "Well, since you're here...",
+   "ro": "Ei bine, de vreme ce ești aici..."
+  },
+  {
+   "key": "1796890166274539524",
+   "en": "Where were you? Listen...",
+   "ro": "Unde ai fost? Ascultă..."
+  },
+  {
+   "key": "1796890166291316740",
+   "en": "<mothertongue l=\"mex\" m=\"Rayito de sol\" b=\"\" a=\", what's wrong?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Rayito de sol\" b=\"\" a=\", ce s-a întâmplat?\"/>"
+  },
+  {
+   "key": "1796890166324871172",
+   "en": "Are you getting enough sleep?",
+   "ro": "Dormi suficient?"
+  },
+  {
+   "key": "1796890166526197764",
+   "en": "Where are your manners?!",
+   "ro": "Unde îți sunt manierele?!"
+  },
+  {
+   "key": "1796890166660415492",
+   "en": "You're a big girl. You don't need to hang on to me.",
+   "en_m": "You're a big boy. You don't need to hang on to me.",
+   "ro": "Ești o fată mare. Nu trebuie să te ții de mine.",
+   "ro_m": "Ești un băiat mare. Nu trebuie să te ții de mine."
+  },
+  {
+   "key": "1966188492791619588",
+   "en": "Hello? V...? Maybe disconnected...",
+   "ro": "Alo? V...? Poate s-a deconectat..."
+  },
+  {
+   "key": "1966188492841951236",
+   "en": "V...?",
+   "ro": "V...?"
+  }
+ ]
+}

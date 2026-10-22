@@ -1,0 +1,188 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_12a_braindance_voodooqueen.json",
+ "entries": [
+  {
+   "key": "1711000709600272384",
+   "en": "What am I lookin' out for?",
+   "ro": "La ce să fiu atentă?",
+   "ro_m": "La ce să fiu atent?"
+  },
+  {
+   "key": "1711002373799436288",
+   "en": "Every single piece of tech I see, security?",
+   "ro": "Tot tech-ul pe care-l văd e de securitate?"
+  },
+  {
+   "key": "1711127567499857920",
+   "en": "We need a layout of the whole room.",
+   "ro": "Ne trebuie planul camerei întregi."
+  },
+  {
+   "key": "1711128340208095232",
+   "en": "We will get everything else we need from the virtu.",
+   "ro": "Restul îl luăm din virtu."
+  },
+  {
+   "key": "1711132216818733056",
+   "en": "What about his messages?",
+   "ro": "Dar mesajele lui?"
+  },
+  {
+   "key": "1711133000918700032",
+   "en": "<mothertongue l=\"creo\" m=\"pa fè bri.\" b=\"Only if you can do it and be \" a=\"\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"pa fè bri.\" b=\"Doar dacă poți și să fii \" a=\"\"/>"
+  },
+  {
+   "key": "1711133202916380672",
+   "en": "It is most important that he suspect nothing. Try to be your usual, relaxed self.",
+   "ro": "Cel mai important e să nu bănuiască nimic. Încearcă să fii cum ești de obicei, relaxată.",
+   "ro_m": "Cel mai important e să nu bănuiască nimic. Încearcă să fii cum ești de obicei, relaxat."
+  },
+  {
+   "key": "1711137011226972160",
+   "en": "And if he starts talking about the biochip himself, should I…?",
+   "ro": "Și dacă începe să vorbească despre biochip, ar trebui să…?"
+  },
+  {
+   "key": "1711139490496843776",
+   "en": "Biochip? Where you hear this?",
+   "ro": "Biochip? De unde știi asta?"
+  },
+  {
+   "key": "1711140551253102592",
+   "en": "That is not of interest to you.",
+   "ro": "Nu te privește."
+  },
+  {
+   "key": "1711142096233369600",
+   "en": "You spin the virtu, you come back here, we give you the eddies. That is your ONE job.",
+   "ro": "Dai virtu-ul, vii înapoi aici, îți dăm eddies-urile. Asta-i singura ta treabă."
+  },
+  {
+   "key": "1711142591228350464",
+   "en": "The rest is none of your concern. Understand?",
+   "ro": "Restul nu te privește. Înțeles?"
+  },
+  {
+   "key": "1743187744457211904",
+   "en": "Take a look around, if you want.",
+   "ro": "Uită-te în jur, dacă vrei."
+  },
+  {
+   "key": "1743192635485437952",
+   "en": "Can't see her face.",
+   "ro": "Nu-i văd fața."
+  },
+  {
+   "key": "1743193415424655360",
+   "en": "Hmm... think I recognize these.",
+   "ro": "Hmm... cred că recunosc astea."
+  },
+  {
+   "key": "1743195858304745472",
+   "en": "Might not be important...",
+   "ro": "Poate nu-s importante..."
+  },
+  {
+   "key": "1743196810965401600",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1743197445714591744",
+   "en": "All right, think we got everything.",
+   "ro": "Gata, cred că avem tot."
+  },
+  {
+   "key": "1743214342736691200",
+   "en": "Under normal circumstances, that kinda encryption's easy to crack.",
+   "ro": "În condiții normale, criptarea asta se sparge ușor."
+  },
+  {
+   "key": "1743216914767790080",
+   "en": "Looks like I'm goin' on a field trip to Pacifica.",
+   "ro": "Se pare că mă plimb prin Pacifica."
+  },
+  {
+   "key": "1759339979582693376",
+   "en": "But not this time. Whoever she is, she's got serious netrunning skills.",
+   "ro": "Dar nu de data asta. Cine-o fi, are abilități de netrunning de zile mari."
+  },
+  {
+   "key": "1759345262644125696",
+   "en": "Maybe... but all of them are from Pacifica.",
+   "ro": "Poate... dar toate sunt din Pacifica."
+  },
+  {
+   "key": "1759346732680568832",
+   "en": "Narrows down our search at least.",
+   "ro": "Măcar ne îngustează căutarea."
+  },
+  {
+   "key": "1759348995423690752",
+   "en": "That or someone's working it for her.",
+   "ro": "Sau îi face cineva treaba."
+  },
+  {
+   "key": "1759353237156880384",
+   "en": "What are they?",
+   "ro": "Ce sunt alea?"
+  },
+  {
+   "key": "1759353355671134208",
+   "en": "Veve markings…",
+   "ro": "Marcaje veve…"
+  },
+  {
+   "key": "1759353558423789568",
+   "en": "You familiar with them?",
+   "ro": "Le cunoști?"
+  },
+  {
+   "key": "1759354387520249856",
+   "en": "Not enough to know what they actually mean.",
+   "ro": "Nu destul cât să știu ce înseamnă de fapt."
+  },
+  {
+   "key": "1759355043828162560",
+   "en": "Heard of who might use 'em, though.",
+   "ro": "Da' am auzit cine le-ar putea folosi."
+  },
+  {
+   "key": "1759355337999867904",
+   "en": "Who?",
+   "ro": "Cine?"
+  },
+  {
+   "key": "1759355442001829888",
+   "en": "Could be the Voodoo Boys... But that's just a hunch. Can't be a hundred percent sure.",
+   "ro": "Ar putea fi Voodoo Boys... Da' e doar o bănuială. Nu-s sută la sută sigură.",
+   "ro_m": "Ar putea fi Voodoo Boys... Da' e doar o bănuială. Nu-s sută la sută sigur."
+  },
+  {
+   "key": "1905149008155680768",
+   "en": "Hang on a sec. Seen that place before. Haitian chapel in Pacifica.",
+   "ro": "Stai o sec. Am mai văzut locul ăsta. Capela haitiană din Pacifica."
+  },
+  {
+   "key": "1974926036599267328",
+   "en": "The spine-chillin' netrunner crew? Hard to find, 'cause they don't wanna be. I wouldn't know where to start.",
+   "ro": "Gașca de netrunneri care îți îngheață sângele în vene? Greu de găsit, că nu vor să fie. N-aș ști de unde să încep."
+  },
+  {
+   "key": "2054676224239984644",
+   "en": "Her face – can't see it.",
+   "ro": "Fața ei nu se vede."
+  },
+  {
+   "key": "2054679774651211776",
+   "en": "Flyers from Pacifica.",
+   "ro": "Flyere din Pacifica."
+  },
+  {
+   "key": "2054681818988535808",
+   "en": "Know what these are.",
+   "ro": "Știu ce sunt astea."
+  }
+ ]
+}

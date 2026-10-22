@@ -1,0 +1,80 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_13_chicken_test.json",
+ "entries": [
+  {
+   "key": "2856240458793144320",
+   "en": "[db_db]Start of sts from night city",
+   "ro": "[db_db]Start of sts from night city"
+  },
+  {
+   "key": "3094095338700984320",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "3094095338700984332",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3094095338700984344",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3215724707239612416",
+   "en": "[db_db]Start of sts from test world with autorization",
+   "ro": "[db_db]Start sts din lumea de test cu autorizare"
+  },
+  {
+   "key": "3221602283464085504",
+   "en": "[db_db]Invulnerable",
+   "ro": "[db_db]Invulnerable"
+  },
+  {
+   "key": "3221602283464085516",
+   "en": "[db_db]MaxBuild",
+   "ro": "[db_db]MaxBuild"
+  },
+  {
+   "key": "3221602283464085528",
+   "en": "[db_db]Progress",
+   "ro": "[db_db]în desfășurare"
+  },
+  {
+   "key": "3486943714213285888",
+   "en": "[db_db]Test WST_ep1_15",
+   "ro": "[db_db]Test WST_ep1_15"
+  },
+  {
+   "key": "3486947910698323972",
+   "en": "[db_db]Fiona dead or deal refused",
+   "ro": "[db_db]Fiona moartă sau ofertă refuzată"
+  },
+  {
+   "key": "3486948150276968448",
+   "en": "[db_db]Fiona alive and Tommie pushed inside the club",
+   "ro": "[db_db]Fiona în viață și Tommie împins în club"
+  },
+  {
+   "key": "3486950014728982528",
+   "en": "[db_db]See sts location after sts",
+   "ro": "[db_db]Vezi locația sts după sts"
+  },
+  {
+   "key": "3486950925564039168",
+   "en": "[db_db]See Tommie in his after state",
+   "ro": "[db_db]Vezi-l pe Tommie în starea de după"
+  },
+  {
+   "key": "3569616516988456960",
+   "en": "[db_db]Scene with Fiona",
+   "ro": "[db_db]Scenă cu Fiona"
+  },
+  {
+   "key": "3608728063039688704",
+   "en": "[db_db]Test clean_up phase",
+   "ro": "[db_db]Test faza de curățare"
+  }
+ ]
+}

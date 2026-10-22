@@ -1,0 +1,308 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_00f_ride_with_jackie.json",
+ "entries": [
+  {
+   "key": "1866260973009137664",
+   "en": "Can't stop diggin' Night City.",
+   "ro": "Nu mă pot sătura de Night City."
+  },
+  {
+   "key": "1866261702314717184",
+   "en": "City like any other. Just bigger.",
+   "ro": "Oraș ca oricare altul. Doar mai mare."
+  },
+  {
+   "key": "1866261886444662784",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Nah, \" a=\". Not just any other city.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Nah, \" a=\". Not just any other city.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Nah, \" a=\". Nu e doar un oraș oarecare.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Nah, \" a=\". Nu e doar un oraș oarecare.\"/>"
+  },
+  {
+   "key": "1866263724455784448",
+   "en": "Damn. They're pullin' out all the stops.",
+   "ro": "Dracu'. Se dau peste cap."
+  },
+  {
+   "key": "1866266914542743552",
+   "en": "Officer, ma'am! Damn are we ever lucky we ran into you.",
+   "ro": "Doamnă ofițer! Ce noroc pe noi că v-am întâlnit, pe bune."
+  },
+  {
+   "key": "1866269177185202176",
+   "en": "Really… What's it that makes me so special?",
+   "ro": "Serios… Ce mă face atât de specială?"
+  },
+  {
+   "key": "1866269806381133824",
+   "en": "Aa, a heart o' gold? 'Cause only somebody with a heart o' gold can understand just how much I need to get back to my girl.",
+   "ro": "Aa, o inimă de aur? Că doar cineva cu inimă de aur poate înțelege cât de mult trebuie să ajung la fata mea."
+  },
+  {
+   "key": "1866270179506417664",
+   "en": "Your… girl?",
+   "ro": "Prietenă…?"
+  },
+  {
+   "key": "1866271332487032832",
+   "en": "Uh-huh. Gonna be worried sick if I don't show.",
+   "ro": "Are să moară de grijă dacă nu apar."
+  },
+  {
+   "key": "1866271748578766848",
+   "en": "OK, on your way.",
+   "ro": "OK, poți pleca."
+  },
+  {
+   "key": "1866272021560848384",
+   "en": "Let them through. But they're the last.",
+   "ro": "Lasă-i să treacă. Dar sunt ultimii."
+  },
+  {
+   "key": "1866272726522687488",
+   "en": "You have a good evening, now, officer... ma'am.",
+   "ro": "Să aveți o seară bună, ofițer... doamnă."
+  },
+  {
+   "key": "1866273327818108928",
+   "en": "So you can be nice when you feel like it.",
+   "ro": "Deci poți fi drăguț când vrei."
+  },
+  {
+   "key": "1866274144415543296",
+   "en": "When am I not nice?",
+   "ro": "Când nu sunt drăguț?"
+  },
+  {
+   "key": "1866274463602077696",
+   "en": "Umm... always.",
+   "en_m": "Umm... always?",
+   "ro": "Umm... mereu.",
+   "ro_m": "Umm... mereu?"
+  },
+  {
+   "key": "1866274640484265984",
+   "en": "I'm always never not nice.",
+   "ro": "Sunt mereu drăguț."
+  },
+  {
+   "key": "1866275454447677440",
+   "en": "Made it. Almost at your place.",
+   "ro": "Am ajuns. Aproape la tine acasă."
+  },
+  {
+   "key": "1866277203573108736",
+   "en": "What about you? Not likely to make it back to Heywood now…",
+   "ro": "Tu ce faci? Acum n-ai cum să mai ajungi în Heywood…"
+  },
+  {
+   "key": "1866277348259819520",
+   "en": "Chill, V. They'll let me through.",
+   "ro": "Stai liniștită, V. Mă lasă să trec.",
+   "ro_m": "Stai liniștit, V. Mă lasă să trec."
+  },
+  {
+   "key": "1866288650902466560",
+   "en": "Sure about that?",
+   "ro": "Sigur?"
+  },
+  {
+   "key": "1866288906721456128",
+   "en": "Oh yeah. I'll play nice Jackie again.",
+   "ro": "A, da. O să fiu iar Jackie cel drăguț."
+  },
+  {
+   "key": "1866291136665120768",
+   "en": "Sweet dreams, then.",
+   "ro": "Vise plăcute, atunci."
+  },
+  {
+   "key": "1866291699557494784",
+   "en": "Tell Misty I said \"Hi.\"",
+   "ro": "Spune-i lui Misty că i-am zis \"Salut\"."
+  },
+  {
+   "key": "1866291879677685760",
+   "en": "<mothertongue l=\"mex\" m=\"Ahí luego.\" b=\"I will. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ahí luego.\" b=\"Așa fac. \" a=\"\"/>"
+  },
+  {
+   "key": "1888102015075110916",
+   "en": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"Scavs! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"Hiene! \" a=\"\"/>"
+  },
+  {
+   "key": "1888105196253368320",
+   "en": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"\" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Hijos de puta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1888107160764698624",
+   "en": "Hold tight, V!",
+   "ro": "Ține-te bine, V!"
+  },
+  {
+   "key": "1888110097582804992",
+   "en": "<mothertongue l=\"mex\" m=\"¡Mierda, perdón!\" b=\"\" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Mierda, perdón!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1888111173555998720",
+   "en": "Got you, assholes!",
+   "ro": "V-am prins, nemernicilor!"
+  },
+  {
+   "key": "1888111813439016960",
+   "en": "V! Aim for the driver!",
+   "ro": "V! Țintește șoferul!"
+  },
+  {
+   "key": "1888115393428475904",
+   "en": "Agh. Scratched your baby up pretty bad. Sorry, V.",
+   "ro": "Agh. Ți-am julit rău jucăria. Scuze, V."
+  },
+  {
+   "key": "1888116095504633856",
+   "en": "Aah, it's OK – it can wait. Let's just focus on gettin' home.",
+   "en_m": "It's OK – it can wait. Let's just focus on gettin' home.",
+   "ro": "Aah, nu-i nimic – poate să mai aștepte. Hai să ne concentrăm pe drumul spre casă.",
+   "ro_m": "E OK – poate aștepta. Hai să ne concentrăm să ajungem acasă."
+  },
+  {
+   "key": "1904093492611665920",
+   "en": "Morgan Blackhand, Andrew Weyland, Adam Smasher.",
+   "ro": "Morgan Blackhand, Andrew Weyland, Adam Smasher."
+  },
+  {
+   "key": "1904093608424787968",
+   "en": "Legends are born here.",
+   "ro": "Aici se nasc legendele."
+  },
+  {
+   "key": "1904096055532736512",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingado!\" t=\"Fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingado!\" t=\"Futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1904096844380655616",
+   "en": "Man, I'm starvin'. Let's grab a tight-bite. Whaddaya say?",
+   "ro": "Frate, mor de foame. Hai să luăm ceva de-ale gurii. Ce zici?"
+  },
+  {
+   "key": "1904096844380655624",
+   "en": "Jackie – they're lockin' down Watson, 'member?",
+   "ro": "Jackie – închid Watson-ul, ții minte?"
+  },
+  {
+   "key": "1904096844380655632",
+   "en": "Ah, shit. You're right.",
+   "ro": "Ah, căcat. Ai dreptate."
+  },
+  {
+   "key": "1904206174736109568",
+   "en": "Is it just me or…",
+   "ro": "Doar mie mi se pare sau…"
+  },
+  {
+   "key": "1904207705136975872",
+   "en": "Agh, fuckin' knew it! Van on our ass – tailin' us.",
+   "ro": "Agh, știam eu, pula mea! O dubă pe coada noastră – ne urmărește."
+  },
+  {
+   "key": "1904208096582979584",
+   "en": "<mothertongue l=\"mex\" m=\"Chingado\" b=\"\" a=\". I don't like this, V. Not one tiny bit.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Chingado\" b=\"\" a=\". Nu-mi place deloc, V. Nici cât negru sub unghie.\"/>"
+  },
+  {
+   "key": "1904236666906759168",
+   "en": "Fuckin' drive, Jackie!",
+   "ro": "Condu dracului, Jackie!"
+  },
+  {
+   "key": "1904237082495176708",
+   "en": "Take my iron!",
+   "ro": "Ia arma mea!"
+  },
+  {
+   "key": "1913832294599118848",
+   "en": "Come on, V, shoot!",
+   "ro": "Hai, V, împușcă!"
+  },
+  {
+   "key": "1913833478634360832",
+   "en": "Can't! Keep her steady!",
+   "ro": "Nu pot! Ține-o dreaptă!"
+  },
+  {
+   "key": "1968083140252463104",
+   "en": "Hm… that's a shame.",
+   "ro": "Hm… păcat."
+  },
+  {
+   "key": "1976446662375272448",
+   "en": "She took a likin' to ya.",
+   "en_m": "She took a liking to ya.",
+   "ro": "A prins drag de tine."
+  },
+  {
+   "key": "1976447078064353280",
+   "en": "The devotion I demonstrated grabbed her by the gut.",
+   "ro": "Devotamentul meu a cucerit-o pe loc."
+  },
+  {
+   "key": "1976447318699962368",
+   "en": "Riiight…",
+   "ro": "Da, sigur…"
+  },
+  {
+   "key": "1976447475181056000",
+   "en": "I'm loyal, stable in my affections…",
+   "ro": "Sunt loial, serios în sentimente…"
+  },
+  {
+   "key": "1994001804575043584",
+   "en": "Watson's on lockdown till further notice. Necessary security measure.",
+   "ro": "Watson-ul e în carantină până se dă alt ordin. Măsură de securitate, necesară."
+  },
+  {
+   "key": "1994006296439746560",
+   "en": "Mhhhmm...",
+   "ro": "Mhhhmm..."
+  },
+  {
+   "key": "1994009231345250304",
+   "en": "I mean, I'm tryin' to be a stand-up guy. She giving me a chance, waiting.",
+   "ro": "Adică, încerc să fiu un tip de treabă. Ea mi-a dat o șansă și stă și așteaptă."
+  },
+  {
+   "key": "1994010788874874880",
+   "en": "And unassuming. You get it.",
+   "ro": "Și modest. Înțelegi."
+  },
+  {
+   "key": "2008589281145872384",
+   "en": "[Get out] See ya.",
+   "ro": "[Ieși] Ne vedem."
+  },
+  {
+   "key": "2035906395158306820",
+   "en": "So you can be nice.",
+   "ro": "Deci poți fi drăguț."
+  },
+  {
+   "key": "2035914013624983552",
+   "en": "She took a liking to you.",
+   "ro": "Ai picat bine la ea."
+  },
+  {
+   "key": "2251972292647239680",
+   "en": "Look at 'im. No model citizen, maybe, but he's a good kid.",
+   "ro": "Uite-l. Poate nu e cel mai cuminte, dar e un puști de treabă."
+  },
+  {
+   "key": "2251977181712531460",
+   "en": "Let us through? Please?",
+   "ro": "Ne lăsați să trecem? Vă rog?"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q101_02_hanako_background.json",
+ "entries": [
+  {
+   "key": "1793918409482420224",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ様、お会いできて光栄です\" t=\"It is a true honor to meet you, Hanako-sama.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ様、お会いできて光栄です\" t=\"Este o adevărată onoare să vă întâlnesc, Hanako-sama.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1793928749012205568",
+   "en": "<kiroshi l=\"jpn\" o=\"こちらこそ\" t=\"The honor is mine.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"こちらこそ\" t=\"Onoarea este a mea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1793930495319064576",
+   "en": "Now, Hanako-sama, I would first like to ask you--",
+   "ro": "Acum, Hanako-sama, vreau mai întâi să vă întreb--"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_09_inner_bunker_scenes.json",
+ "entries": [
+  {
+   "key": "3262037475052097536",
+   "en": "Turn it... Turn it off, V...",
+   "ro": "Oprește-o... Oprește-o, V..."
+  },
+  {
+   "key": "3262071117430263808",
+   "en": "So Mi? Turn off what, So Mi? The core? How?",
+   "ro": "Să opresc ce, So Mi? Nucleul? Cum?"
+  },
+  {
+   "key": "3262071502953910272",
+   "en": "So Mi...?",
+   "ro": "So Mi...?"
+  },
+  {
+   "key": "3286939348867354624",
+   "en": "Blackwall's shut me out, initiated lockdown. Gotta find another way.",
+   "ro": "Blackwall m-a dat afară, a pornit blocarea. Trebuie să găsesc altă cale."
+  },
+  {
+   "key": "3288116556302520320",
+   "en": "[Examine]",
+   "ro": "[Examinează]"
+  },
+  {
+   "key": "3291798834685808640",
+   "en": "[Examine]",
+   "ro": "[Examinează]"
+  },
+  {
+   "key": "3291799112432619520",
+   "en": "Cables run to an electrical panel. Could damage it somehow...",
+   "ro": "Cablurile duc la un panou electric. Aș putea să-l stric cumva..."
+  },
+  {
+   "key": "3292486265659592724",
+   "en": "Airlock open.",
+   "ro": "Eclusa deschisă."
+  },
+  {
+   "key": "3292722835243274252",
+   "en": "Adjusting pressure.",
+   "ro": "Se ajustează presiunea."
+  },
+  {
+   "key": "3292722839420801036",
+   "en": "Airlock sealed.",
+   "ro": "Eclusa sigilată."
+  },
+  {
+   "key": "3294194336219926528",
+   "en": "Here it is. Datafort central command.",
+   "ro": "Uite-o. Comanda Centrală Datafort."
+  },
+  {
+   "key": "3294194738554343424",
+   "en": "Thermic control systems. Bingo.",
+   "ro": "Sisteme de control termic. Bingo."
+  },
+  {
+   "key": "3294245421383028736",
+   "en": "Fuck, hunk o' scrap metal again…",
+   "ro": "Futu-i, iar un morman de fier vechi…"
+  },
+  {
+   "key": "3356261079087714304",
+   "en": "Neural-link stabilizer systems – just what I was lookin' for.",
+   "ro": "Stabilizatoare pentru legătura neuronală – fix ce căutam."
+  },
+  {
+   "key": "3356269834680537088",
+   "en": "V… You there…?",
+   "ro": "V… Ești acolo…?"
+  },
+  {
+   "key": "3356271559311233028",
+   "en": "Surprised?",
+   "ro": "Surprinsă?",
+   "ro_m": "Surprins?"
+  },
+  {
+   "key": "3356271873045172224",
+   "en": "So Mi? You inside that thing?",
+   "ro": "So Mi? Ești în chestia aia?"
+  },
+  {
+   "key": "3356272599565733888",
+   "en": "Right here. Still alive, no thanks to you! Surprised?",
+   "ro": "Chiar aici. Încă tot în viață, și nu datorită ție! Surprinsă?",
+   "ro_m": "Chiar aici. Încă tot în viață, și nu datorită ție! Surprins?"
+  },
+  {
+   "key": "3356285881248780288",
+   "en": "It wasn't me… it's them… They're in… control…",
+   "ro": "Nu eu am fost… Ei… au… controlul…"
+  },
+  {
+   "key": "3356287215842758656",
+   "en": "So Mi? Hear me? Gotta be close... Wait, are you… in the core?",
+   "ro": "So Mi? Mă auzi? Trebuie să fiu aproape... Așteaptă, ești... în nucleu?"
+  },
+  {
+   "key": "3356288206872907776",
+   "en": "Yes, they… I… I can't move, V…",
+   "ro": "Da, ei… Eu… Nu mă pot mișca, V…"
+  },
+  {
+   "key": "3356303845083713536",
+   "en": "What do you hope to achieve? You cannot prevent what is in progress and inevitable.",
+   "ro": "Ce speri să obții? Nu poți opri ce e deja în curs și e inevitabil."
+  },
+  {
+   "key": "3386939740723744768",
+   "en": "Blackwall shut me out, initiated lockdown. Take another shot, or look for another way?",
+   "ro": "Blackwall m-a dat afară, a pornit blocarea. Mai încerci o dată sau cauți altă cale?"
+  },
+  {
+   "key": "3446368660338118656",
+   "en": "Lowered shutter in the window, shards of glass on the floor. Hmm…",
+   "ro": "Obloanele trase la geam, cioburi pe jos. Hmm…"
+  },
+  {
+   "key": "3547451692251222016",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "3547459648594251776",
+   "en": "Holy shit, it worked… And nothin' your robot ass can do about it, you bastard.",
+   "ro": "Ce dracu', a mers… Și robotul tău de rahat n-are ce face, nenorocitule."
+  },
+  {
+   "key": "3549262588069941248",
+   "en": "Dammit, gotta use brute force, no other way…",
+   "ro": "La naiba, trebuie să forțez, nu e altă cale…"
+  },
+  {
+   "key": "3549264728909811712",
+   "en": "Agh… Need another way to disable it, gotta find it fast.",
+   "ro": "Agh… Îmi trebuie altă metodă s-o dezactivez, s-o găsesc repede."
+  },
+  {
+   "key": "3549268907896213504",
+   "en": "Hmm… gotta be the neural stabilizer systems control…",
+   "ro": "Hmm… sigur e controlul stabilizatoarelor neuronale…"
+  },
+  {
+   "key": "3682359924152791040",
+   "en": "Please wait.",
+   "ro": "Vă rugăm să așteptați."
+  }
+ ]
+}

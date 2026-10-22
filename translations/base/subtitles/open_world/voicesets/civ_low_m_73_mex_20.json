@@ -1,0 +1,81 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_73_mex_20.json",
+ "entries": [
+  {
+   "key": "1922905386908131332",
+   "en": "<mothertongue l=\"mex\" m=\"Hola,\" b=\"\" a=\" beautiful.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Hola,\" b=\"\" a=\" frumoasă.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"Hola,\" b=\"\" a=\" frumos.\"/>"
+  },
+  {
+   "key": "1922905386924908548",
+   "en": "Your place or mine?",
+   "ro": "La tine sau la mine?"
+  },
+  {
+   "key": "1922905386992017412",
+   "en": "Eh, slow down, girl!",
+   "en_m": "Eh, slow down, boy!",
+   "ro": "Eh, încetinește, fată!",
+   "ro_m": "Eh, încetinește, băiatule!"
+  },
+  {
+   "key": "1922905387025571840",
+   "en": "What's the rush?",
+   "ro": "Ce te grăbești?"
+  },
+  {
+   "key": "1922905387059126276",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué pasa?\" t=\"What's up?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué pasa?\" t=\"Ce faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922905387126235140",
+   "en": "Today…? To Bodycure… About time…! Mm-hmm… The hair too… Got bored.",
+   "ro": "Azi…? La Bodycure… Era și timpul…! Mm-hmm… Și părul… M-am plictisit."
+  },
+  {
+   "key": "1922905387143012356",
+   "en": "For this? Always…! You should also… That's the life…! Ha, ha…! Totally.",
+   "ro": "Pentru asta? Mereu…! Ar trebui și tu… Așa e viața…! Ha, ha…! Total."
+  },
+  {
+   "key": "1922905387193344004",
+   "en": "Later.",
+   "ro": "Pe mai târziu."
+  },
+  {
+   "key": "1922905387377893380",
+   "en": "<kiroshi l=\"mex\" o=\"¡Virgen santísima!\" t=\"Mother of God!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Virgen santísima!\" t=\"Mamă sfântă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1922905387394670596",
+   "en": "Murderers!",
+   "ro": "Ucigași!"
+  },
+  {
+   "key": "1922905387495333892",
+   "en": "Please, please, please!",
+   "ro": "Te rog, te rog, te rog!"
+  },
+  {
+   "key": "1922905387528888324",
+   "en": "What'd I do to you?",
+   "ro": "Ce ți-am făcut?"
+  },
+  {
+   "key": "1922905387629551616",
+   "en": "<mothertongue l=\"mex\" m=\"hermosa\" b=\"Not now, \" a=\". Maybe later.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"guapo\" b=\"Not now, \" a=\". Maybe later.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hermosa\" b=\"Nu acum, \" a=\". Poate mai târziu.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"guapo\" b=\"Nu acum, \" a=\". Poate mai târziu.\"/>"
+  },
+  {
+   "key": "1922905387646328836",
+   "en": "You look scary when you walk behind me like that.",
+   "ro": "Arăți înfricoșătoare când mergi așa în spatele meu.",
+   "ro_m": "Arăți înfricoșător când mergi așa în spatele meu."
+  }
+ ]
+}

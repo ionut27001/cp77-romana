@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_07_garage.json",
+ "entries": [
+  {
+   "key": "1376182346466082816",
+   "en": "<kiroshi l=\"jpn\" o=\"見てよ。1600ccの直列6気筒。これがまたいい音を奏でるの\" t=\"Just look at 'er – 1600cc straight-six engine – an' you know how she purrs, choom? How she sounds?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"見てよ。1600ccの直列6気筒。これがまたいい音を奏でるの\" t=\"Uită-te la ea – motor straight-six de 1600cc – și știi cum toarce, choom? Cum sună?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1376182564469227520",
+   "en": "<kiroshi l=\"jpn\" o=\"下痢してるときみたいな音だろ？\" t=\"Like a colossal waste of scratch?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"下痢してるときみたいな音だろ？\" t=\"Ca o pierdere colossală de bani?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1376183055404122112",
+   "en": "<kiroshi l=\"jpn\" o=\"今に見てな。そっちのちゃっちい電池式のガラクタなんか、置いてけぼりにしてやるから\" t=\"'Ey, just wait till I wake this baby up. Your battery-powered choo-choo won't stand a chance.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"今に見てな。そっちのちゃっちい電池式のガラクタなんか、置いてけぼりにしてやるから\" t=\"Hei, așteaptă să trezesc copila asta. Trenulețul tău pe baterii n-are nicio șansă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1643284118736572416",
+   "en": "<kiroshi l=\"jpn\" o=\"ふん、まずは走れるようにしてから言えよ\" t=\"Pfft, get 'er on the road first, then we'll see.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ふん、まずは走れるようにしてから言えよ\" t=\"Pfft, pune-o pe șosea mai întâi, apoi vedem.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_003.json",
+ "entries": [
+  {
+   "key": "1963267312646660096",
+   "en": "<kiroshi l=\"creo\" o=\"Eske tout bagay sou kontwò?\" t=\"Is everything secured?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eske tout bagay sou kontwò?\" t=\"Totul e securizat?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1965034669974769664",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen fè ekzateman sa ou te mande mwen– mwen pa fout konnen pou kisa.\" t=\"I did exactly what you asked – fuck if I know why.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen fè ekzateman sa ou te mande mwen– mwen pa fout konnen pou kisa.\" t=\"Am făcut exact ce mi-ai cerut – habar n-am de ce, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1965035170304905216",
+   "en": "<kiroshi l=\"creo\" o=\"Si yon zen pete, se sèl kote nap soti.\" t=\"If everything goes to hell, it's our only way out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Si yon zen pete, se sèl kote nap soti.\" t=\"Dacă o ia totul dracu', e singura noastră ieșire.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq006\\mq006_01_intro.json",
+ "entries": [
+  {
+   "key": "1832746423922216964",
+   "en": "What're you doing with the rollercoaster?",
+   "ro": "Ce faci cu rollercoaster-ul?"
+  },
+  {
+   "key": "1832746770522722304",
+   "en": "Heywood.",
+   "ro": "Heywood."
+  },
+  {
+   "key": "1832747160693657600",
+   "en": "I'm from Heywood.",
+   "ro": "Sunt din Heywood."
+  },
+  {
+   "key": "1832748422138974208",
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "key": "1832749029860069380",
+   "en": "You should come by more often.",
+   "ro": "Ar trebui să treci mai des pe aici."
+  },
+  {
+   "key": "1832752007430033408",
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "key": "1832752435232264192",
+   "en": "Come, let's get out of here.",
+   "ro": "Hai, ieșim de aici."
+  },
+  {
+   "key": "1832757185382207488",
+   "en": "What're you tryna do with the rollercoaster?",
+   "ro": "Ce tot încerci cu rollercoaster-ul?"
+  },
+  {
+   "key": "1832757456955002880",
+   "en": "We about to hop in – if Jean can get it fixed.",
+   "ro": "Urcăm imediat – dacă Jean îl repară."
+  },
+  {
+   "key": "1832758058283978752",
+   "en": "He's been at it for three hours already, so he must be almost finish.",
+   "ro": "De trei ore tot lucrează la el, deci trebuie să fie aproape gata."
+  },
+  {
+   "key": "1832758725731962880",
+   "en": "<mothertongue l=\"creo\" m=\"Tonnè\" b=\"\" a=\", you do it if you so smart!\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Tonnè\" b=\"\" a=\", fă-o tu dacă ești așa deștept!\"/>"
+  },
+  {
+   "key": "1832761413928505344",
+   "en": "Why's it matter where I'm from?",
+   "ro": "Ce treabă are de unde sunt?"
+  },
+  {
+   "key": "1832761572489973764",
+   "en": "What's it matter where I'm from?",
+   "ro": "Și ce mare brânză e de unde sunt?"
+  },
+  {
+   "key": "1832766698986426368",
+   "en": "O-oh...! How 'bout now? No?",
+   "ro": "O-oh...! Ce, acum? Nu?"
+  },
+  {
+   "key": "1832767636430147584",
+   "en": "Any minute now...",
+   "ro": "Oricând acum..."
+  },
+  {
+   "key": "1832768811439247364",
+   "en": "You're trying to fix this?",
+   "ro": "Încerci să repari asta?"
+  },
+  {
+   "key": "1832772367470841856",
+   "en": "I've never been on one of these.",
+   "ro": "Nu am mai fost niciodată pe așa ceva."
+  },
+  {
+   "key": "1832773586570465284",
+   "en": "Never been on one of these.",
+   "ro": "N-am mai fost niciodată pe așa ceva."
+  },
+  {
+   "key": "1832774699973627904",
+   "en": "How's it goin'?",
+   "ro": "Cum merge?"
+  },
+  {
+   "key": "1832778624315445248",
+   "en": "Tryna get 'er up and runnin' again?",
+   "ro": "Încerci s-o pui iar pe picioare?"
+  },
+  {
+   "key": "1832780862849044480",
+   "en": "<mothertongue l=\"creo\" m=\"Kaka bèf.\" b=\"\" a=\" I mean, not so good.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Kaka bèf.\" b=\"\" a=\" Adică, nu prea bine.\"/>"
+  },
+  {
+   "key": "1832783626006188032",
+   "en": "Mhm. A few hour now.",
+   "ro": "Mhm. Vreo câteva ore deja."
+  },
+  {
+   "key": "1832784653057019904",
+   "en": "Mind if I give it a shot?",
+   "ro": "Te superi dacă încerc?"
+  },
+  {
+   "key": "1832784653057019920",
+   "en": "Good luck.",
+   "ro": "Baftă."
+  },
+  {
+   "key": "1832785491666161664",
+   "en": "Mind if I give it a shot?",
+   "en_m": "You mind if I give it a shot?",
+   "ro": "Te superi dacă încerc?"
+  },
+  {
+   "key": "1832786032479719424",
+   "en": "Hmph, be my guest. Dey's not helping, that for sure.",
+   "ro": "Hmph, faci cum vrei. Ei nu ajută, sigur."
+  },
+  {
+   "key": "1832786602619850756",
+   "en": "Best of luck, then.",
+   "ro": "Baftă atunci."
+  },
+  {
+   "key": "1832786604264017920",
+   "en": "Thank you. I think I need a break.",
+   "ro": "Mulțumesc. Cred că-mi trebuie o pauză."
+  },
+  {
+   "key": "1916896516315566080",
+   "en": "Come. We have beer.",
+   "ro": "Hai. Avem bere."
+  },
+  {
+   "key": "1916903725149736960",
+   "en": "Here, you take. You from where?",
+   "ro": "Na, ia tu. De unde ești, tu?"
+  },
+  {
+   "key": "1916934051645378560",
+   "en": "He just needs to focus, that's all.",
+   "ro": "Trebuie doar să se concentreze, asta e tot."
+  },
+  {
+   "key": "1916935959969812480",
+   "en": "Will you fuck off already?",
+   "ro": "Cară-te dracu' odată!"
+  },
+  {
+   "key": "1916942908790689792",
+   "en": "From outside of town.",
+   "ro": "Din afara orașului."
+  },
+  {
+   "key": "1916949297806200832",
+   "en": "From outta town.",
+   "ro": "Din alt colț de țară."
+  },
+  {
+   "key": "1916960789645512704",
+   "en": "A nomad? Hah, I like the nomads. I could be a nomad, too.",
+   "ro": "Un nomad? Ha, îmi plac nomazii. Aș putea fi și eu nomad."
+  },
+  {
+   "key": "1916965622423244800",
+   "en": "You? Hahah! You can't even move your ass after a smoke.",
+   "ro": "Tu? Hahaha! După o țigară nici nu te mai miști."
+  },
+  {
+   "key": "1917002910322675712",
+   "en": "Heywood... You have roller coaster there? No? Heh, that's what I thought...",
+   "ro": "Heywood... Aveți roller coaster acolo? Nu? Heh, așa mă gândeam..."
+  },
+  {
+   "key": "1917005758271868928",
+   "en": "Oh, so then you're a corpo, huh?",
+   "ro": "Deci ești corpo, nu?"
+  },
+  {
+   "key": "1917006179698757632",
+   "en": "An agent of Babylon!",
+   "ro": "Un agent al Babilonului!"
+  },
+  {
+   "key": "1917012716689313792",
+   "en": "Who was it that bet they could do it, huh?",
+   "ro": "Cine a pariat că o poate face, nu?"
+  },
+  {
+   "key": "1917026404498427904",
+   "en": "What're you gonna do to me?",
+   "ro": "Ce o să-mi faci?"
+  },
+  {
+   "key": "1917026810624495616",
+   "en": "Not'ing. Sit and enjoy the view.",
+   "ro": "Nimic. Stai și bucură-te de priveliște."
+  },
+  {
+   "key": "1917027771740868608",
+   "en": "<mothertongue l=\"creo\" m=\"Piti\" b=\"See this? It could all be yours someday, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Piti\" b=\"Vezi asta? Într-o zi ar putea fi totul al tău, \" a=\".\"/>"
+  },
+  {
+   "key": "1917035951405420544",
+   "en": "You can come sit wid us.",
+   "ro": "Hai să stai cu noi."
+  },
+  {
+   "key": "1917048750726729728",
+   "en": "How's it going?",
+   "ro": "Ce mai faci?"
+  },
+  {
+   "key": "1917053877843939328",
+   "en": "Aha. Thanks – no pressure.",
+   "ro": "Aha. Mersi – fără presiune."
+  },
+  {
+   "key": "1917056966311301120",
+   "en": "Haven't given up yet?",
+   "ro": "Nu ai renunțat încă?"
+  },
+  {
+   "key": "1917057814617673728",
+   "en": "<mothertongue l=\"creo\" m=\"Fèmen bouch\" b=\"\" a=\"... I want a ride.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Fèmen bouch\" b=\"\" a=\"... Vreau să mă dau.\"/>"
+  },
+  {
+   "key": "1917059406943244288",
+   "en": "In Jean we trust!",
+   "ro": "Jean ne salvează!"
+  },
+  {
+   "key": "1917061990902943744",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1917063983650328576",
+   "en": "<mothertongue l=\"creo\" m=\"Se pou tout bon?\" b=\"\" a=\" There is nothing you can do?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Se pou tout bon?\" b=\"\" a=\" Nu poți face nimic?\"/>"
+  },
+  {
+   "key": "1917089584792752128",
+   "en": "Which family you from?",
+   "ro": "Din ce familie ești?"
+  },
+  {
+   "key": "1917089883024543744",
+   "en": "Bakker.",
+   "ro": "Bakker."
+  },
+  {
+   "key": "1917090058329673728",
+   "en": "Ahhh, de Bakkers... Eh, don't know them.",
+   "ro": "Ahhh, ăia Bakker... Ei, nu-i cunosc."
+  },
+  {
+   "key": "1922603558229528576",
+   "en": "What happened to the Voodoo Boys?",
+   "ro": "Ce s-a întâmplat cu Voodoo Boys?"
+  },
+  {
+   "key": "1922616086296809472",
+   "en": "I don't know what you talk about.",
+   "ro": "Habar n-am despre ce vorbești."
+  },
+  {
+   "key": "1922616355134918656",
+   "en": "Relax. I knew Brigitte and Placide.",
+   "ro": "Relaxează-te. I-am cunoscut pe Brigitte și Placide."
+  },
+  {
+   "key": "1922616646672601088",
+   "en": "Den you know dey are not here no more.",
+   "ro": "Atunci știi că nu mai sunt pe-aici."
+  },
+  {
+   "key": "1922617013892304896",
+   "en": "Nobody here after NetWatch track dem down.",
+   "ro": "Nu mai e nimeni pe-aici, după ce NetWatch i-a urmărit."
+  },
+  {
+   "key": "1922628904375046144",
+   "en": "Seriously? Every last one of 'em?",
+   "ro": "Serios? Toți până la ultimul?"
+  },
+  {
+   "key": "1922629314678640640",
+   "en": "Yes. And dis time nobody in Pacifica know where to find dem.",
+   "ro": "Da. Și de data asta, nimeni din Pacifica nu știe pe unde să-i caute."
+  },
+  {
+   "key": "1922629582073909248",
+   "en": "Some say dey go underground. But I think dis de end.",
+   "ro": "Unii zic că s-au băgat în subteran. Dar cred că s-a terminat."
+  },
+  {
+   "key": "1922632754813227008",
+   "en": "What's it to you?",
+   "ro": "Ce te privește?"
+  },
+  {
+   "key": "1922633200986509312",
+   "en": "I knew Placide and Brigitte. I knew what they had planned, and I know it worked.",
+   "ro": "I-am cunoscut pe Placide și Brigitte. Știam ce plănuiau și știu că a mers."
+  },
+  {
+   "key": "1922635738708201472",
+   "en": "What happened with the Voodoo Boys?",
+   "ro": "Ce s-a întâmplat cu Voodoo Boys?"
+  },
+  {
+   "key": "1922640040017285120",
+   "en": "Hmm... You want de juicy gossip... or de plain fact?",
+   "ro": "Hm... Vrei bârfa picantă... sau doar faptele?"
+  },
+  {
+   "key": "1922644465360326660",
+   "en": "Any idea what happened to the Voodoo Boys?",
+   "ro": "Ai vreo idee ce s-a întâmplat cu Voodoo Boys?"
+  },
+  {
+   "key": "1922645693049884672",
+   "en": "Where is everyone?",
+   "ro": "Unde sunt toți?"
+  },
+  {
+   "key": "1922647308611899392",
+   "en": "Gimme the gossip.",
+   "ro": "Dă-mi bârfa."
+  },
+  {
+   "key": "1922650742337589248",
+   "en": "Cold, hard facts.",
+   "ro": "Fapte reci și dure."
+  },
+  {
+   "key": "1922651597086412800",
+   "en": "Then you have to ask somebody else.",
+   "ro": "Atunci întreabă pe altcineva."
+  },
+  {
+   "key": "1922652072250724352",
+   "en": "All I hear is that Brigitte do deal with powerful AI from de other side.",
+   "ro": "Tot ce aud e că Brigitte face afaceri cu AI-uri puternice de dincolo."
+  },
+  {
+   "key": "1922652693209042944",
+   "en": "Now she is with de Rada Loa, and any day she come back to take us all past de Blackwall.",
+   "ro": "Acum e cu Rada Loa, și oricând se poate întoarce să ne ducă pe toți dincolo de Blackwall."
+  },
+  {
+   "key": "1922655547802013696",
+   "en": "Word is Brigitte do deal with powerful AI from de other side.",
+   "ro": "Se zice că Brigitte face afaceri cu AI-uri puternice de dincolo."
+  },
+  {
+   "key": "1922679819568173056",
+   "en": "All of Pacifica is waiting. And everyone religious now, all of de sudden.",
+   "ro": "Toată Pacifica așteaptă. Și brusc toți s-au făcut religioși."
+  },
+  {
+   "key": "1922687684223717428",
+   "en": "Gossip.",
+   "ro": "Bârfă."
+  },
+  {
+   "key": "1922688515534770176",
+   "en": "Facts.",
+   "ro": "Fapte."
+  },
+  {
+   "key": "1922689847192735776",
+   "en": "You seem skeptical.",
+   "ro": "Pari sceptică.",
+   "ro_m": "Pari sceptic."
+  },
+  {
+   "key": "1922689847192735792",
+   "en": "What's religion got to do with it?",
+   "ro": "Ce treabă are religia cu asta?"
+  },
+  {
+   "key": "1922710812555497472",
+   "en": "You sound skeptical.",
+   "ro": "Pari sceptică.",
+   "ro_m": "Pari sceptic."
+  },
+  {
+   "key": "1922711870660956160",
+   "en": "What's religion got to do with it?",
+   "ro": "Ce treabă are religia cu asta?"
+  },
+  {
+   "key": "1922714492822376448",
+   "en": "AI are like genie in bottle. You get exactly what you wish for.",
+   "ro": "AI-urile sunt ca un duh în sticlă. Obții exact ce-ți dorești."
+  },
+  {
+   "key": "1922714566105255936",
+   "en": "If you say, \"I want to be smaller,\" de mudafucka will rip your head off.",
+   "ro": "Dacă zici «Vreau să fiu mai mică», nenorocitul ăla îți smulge capul.",
+   "ro_m": "Dacă zici «Vreau să fiu mai mic», nenorocitul ăla îți smulge capul."
+  },
+  {
+   "key": "1922714910642163712",
+   "en": "You think that's what happened to the Voodoo Boys?",
+   "en_m": "You think that's what's happened to the Voodoo Boys?",
+   "ro": "Crezi că asta s-a întâmplat cu Voodoo Boys?"
+  },
+  {
+   "key": "1922715243351134208",
+   "en": "All I know is dat dey disappear and no come back. My cousin, Lovelie, was with them.",
+   "ro": "Tot ce știu e că au dispărut și nu s-au mai întors. Verișoara mea, Lovelie, era cu ei."
+  },
+  {
+   "key": "1922715639880634368",
+   "en": "She had a kid here. A girl. If she could, she would already be back.",
+   "ro": "Avea un copil aici. O fată. Dacă ar fi putut, ar fi fost deja înapoi."
+  },
+  {
+   "key": "1922716752042283008",
+   "en": "Nothing. Nobody I know who less religious than Placide.",
+   "ro": "Nimic. Nu cunosc pe nimeni mai puțin religios decât Placide."
+  },
+  {
+   "key": "1922717130016182272",
+   "en": "If he slaughter a black rooster, it food to feed a hungry mouth.",
+   "ro": "Dacă sacrifică un cocoș negru, e mâncare pentru o gură flămândă."
+  },
+  {
+   "key": "1922717690761072640",
+   "en": "I know he was popular around here.",
+   "ro": "Știu că era popular pe aici."
+  },
+  {
+   "key": "1922718511351484416",
+   "en": "People just like to think someone is watching over dem.",
+   "ro": "Oamenii vor să creadă că cineva are grijă de ei."
+  },
+  {
+   "key": "1922719021982830592",
+   "en": "And since the Voodoo Boys are out, the old gods are back in.",
+   "ro": "Și de când au dispărut Voodoo Boys, vechii zei sunt iar în vogă."
+  },
+  {
+   "key": "1936995934835593220",
+   "en": "All right, I'll try to fix it.",
+   "ro": "Bine, o să încerc să repar."
+  },
+  {
+   "key": "1936996511636279296",
+   "en": "How do you know each other?",
+   "ro": "Cum vă cunoașteți?"
+  },
+  {
+   "key": "1936997249313689600",
+   "en": "All right, I'll try to work some magic on 'er.",
+   "ro": "Bine, o să încerc să fac magie cu ea."
+  },
+  {
+   "key": "1936997719008628736",
+   "en": "<mothertongue l=\"creo\" m=\"En fòm.\" b=\"\" a=\" Thanks!\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"En fòm.\" b=\"\" a=\" Mulțumesc!\"/>"
+  },
+  {
+   "key": "1936998840599072768",
+   "en": "How do y'all know each other?",
+   "en_m": "How do you all know each other?",
+   "ro": "Cum vă cunoașteți?"
+  },
+  {
+   "key": "1938893815518351360",
+   "en": "Wanna take a ride on the rollercoaster?",
+   "ro": "Vrei o tură cu rollercoaster-ul?"
+  },
+  {
+   "key": "1938900899714584576",
+   "en": "Where is everyone? No more kickin' back, chillin' out?",
+   "ro": "Unde sunt toți? Nu se mai relaxează nimeni?"
+  },
+  {
+   "key": "1938903054462767104",
+   "en": "Things have changed around here lately.",
+   "ro": "Lucrurile s-au schimbat pe aici în ultima vreme."
+  },
+  {
+   "key": "1938904834777042944",
+   "en": "You wanna take a ride on the coaster?",
+   "ro": "Vrei o tură cu coaster-ul?"
+  },
+  {
+   "key": "1938907103073423360",
+   "en": "Dis is not de best time.",
+   "ro": "Nu e cel mai bun moment."
+  },
+  {
+   "key": "1938917745884942336",
+   "en": "Since we were kids. Same backyard, same line for de laundry, same feeda.",
+   "ro": "De când eram copii. Aceeași curte, aceeași coadă la spălătorie, aceeași mâncare."
+  },
+  {
+   "key": "1938920900722970624",
+   "en": "An' same girls.",
+   "ro": "Și aceleași fete."
+  },
+  {
+   "key": "1938921775235354624",
+   "en": "<mothertongue l=\"creo\" m=\"Eske ou pral lage sa?! Nan!\" b=\"\" a=\" It was one week eight years ago.\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Eske ou pral lage sa?! Nan!\" b=\"\" a=\" A fost o săptămână acum opt ani.\"/>"
+  },
+  {
+   "key": "1948796487755124736",
+   "en": "<mothertongue l=\"creo\" m=\"Aye ou mem la la!\" b=\"\" a=\" Want to join?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Aye ou mem la la!\" b=\"\" a=\" Vrei să te alături?\"/>"
+  }
+ ]
+}

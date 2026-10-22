@@ -1,0 +1,75 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_m_84_rus_25_mt.json",
+ "entries": [
+  {
+   "key": "2209931933941006344",
+   "en": "<kiroshi l=\"rus\" o=\"Кто в Питере не бывал, красоты не видал...\" t=\"You haven't seen beauty until you've seen Leningrad...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Кто в Питере не бывал, красоты не видал...\" t=\"Cine n-a fost în Leningrad n-a văzut frumusețe...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931933957783560",
+   "en": "<kiroshi l=\"rus\" o=\"У меня без тебя проблем хватает!\" t=\"I have my own problems to deal with, OK?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У меня без тебя проблем хватает!\" t=\"Am și eu problemele mele, OK?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934041669640",
+   "en": "<kiroshi l=\"rus\" o=\"Эй, полегче!\" t=\"Hey, watch it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Эй, полегче!\" t=\"Hei, ai grijă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934075224068",
+   "en": "<kiroshi l=\"rus\" o=\"Хм, смотри, куда идёшь!\" t=\"Watch where you're going!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Хм, смотри, куда идёшь!\" t=\"Uită-te pe unde mergi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934142332936",
+   "en": "<kiroshi l=\"rus\" o=\"Да?\" t=\"Yes?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да?\" t=\"Da?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934226219016",
+   "en": "<kiroshi l=\"rus\" o=\"Ну пап... Ну говорил я, что она с тобой только из-за денег... Короче, соберись! Покажи ей, кто в доме хозяин!\" t=\"Oh daddy... I told you she just wanted you for your money... Oh come on, you have to show her who's in charge...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну пап... Ну говорил я, что она с тобой только из-за денег... Короче, соберись! Покажи ей, кто в доме хозяин!\" t=\"Tati... Ți-am zis că voia doar banii tăi... Hai, mă, arată-i cine e șeful în casă...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934259773448",
+   "en": "<kiroshi l=\"rus\" o=\"Подготовь файлы и иди к ним... Завтра, не позже... Лучше не заставляй их ждать... Угу... Да, понял...\" t=\"So pack up those files and go to them... Tomorrow at the latest... Better not leave them hanging... Uh-huh... OK, understood...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Подготовь файлы и иди к ним... Завтра, не позже... Лучше не заставляй их ждать... Угу... Да, понял...\" t=\"Deci strânge fișierele alea și du-te la ei... Mâine, cel târziu... Mai bine nu-i lași să aștepte... Aha... OK, am înțeles...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934310105096",
+   "en": "<kiroshi l=\"rus\" o=\"Я сегодня зайду, обговорим. Пока.\" t=\"I'll come over today, we'll talk it over. Bye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я сегодня зайду, обговорим. Пока.\" t=\"Vin azi, discutăm. Pa.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934544986120",
+   "en": "<kiroshi l=\"rus\" o=\"Ох ты ж господи!\" t=\"Jesus fucking christ!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ох ты ж господи!\" t=\"Futu-i Dumnezeii mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934578540552",
+   "en": "<kiroshi l=\"rus\" o=\"Бегите!\" t=\"Run for it!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Бегите!\" t=\"Fugiți!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934712758280",
+   "en": "<kiroshi l=\"rus\" o=\"Я-я никто! Я ничего не сделал!\" t=\"I'm a nobody, I haven't done anything!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я-я никто! Я ничего не сделал!\" t=\"Sunt un nimeni, n-am făcut nimic!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934746312712",
+   "en": "<kiroshi l=\"rus\" o=\"Только… только не убивай меня!\" t=\"Fuck, fuck, fuck, please don't kill me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Только… только не убивай меня!\" t=\"Futu-i, futu-i, futu-i, te rog nu mă omorî!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934863753224",
+   "en": "<kiroshi l=\"rus\" o=\"Нет у меня ни денег, ни наркоты! Взять нечего, ну отпусти меня!\" t=\"I don't have money, or drugs, nothing, so please just leave me alone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Нет у меня ни денег, ни наркоты! Взять нечего, ну отпусти меня!\" t=\"N-am bani, n-am droguri, nimic, așa că te rog lasă-mă în pace.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209931934897307656",
+   "en": "<kiroshi l=\"rus\" o=\"Чего тебе надо-то? А?\" t=\"What do you want? Huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Чего тебе надо-то? А?\" t=\"Ce vrei? Ha?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

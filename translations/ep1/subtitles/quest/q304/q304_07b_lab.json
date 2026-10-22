@@ -1,0 +1,898 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_07b_lab.json",
+ "entries": [
+  {
+   "key": "2911436508483309568",
+   "en": "While you were waiting, I ran some initial diagnostics.",
+   "ro": "Cât așteptai, am rulat niște diagnosticări inițiale."
+  },
+  {
+   "key": "2911440422104485888",
+   "en": "I managed to simulate the mainframe's native environment – the bunker.",
+   "ro": "Am reușit să simulez mediul nativ al mainframe-ului – buncărul."
+  },
+  {
+   "key": "2911443656349077504",
+   "en": "Listen, V – all hell breaks loose in two minutes. When Hansen flatlines, we haul ass.",
+   "ro": "Ascultă, V – se dezlănțuie iadul în două minute. Când Hansen dă colțul, o tăiem."
+  },
+  {
+   "key": "2911444411172802560",
+   "en": "I'll block access to this room. Alex and Reed're minimizing risk and exfilling early via the route.",
+   "ro": "Blochez accesul în camera asta. Alex și Reed reduc riscurile și ies devreme pe rută."
+  },
+  {
+   "key": "2911446989763792896",
+   "en": "Oh, and don't worry about us – got that sorted already. Checked stadium blueprints, know which way to run.",
+   "ro": "Și nu-ți face griji pentru noi – am rezolvat deja. Am verificat planurile stadionului, știm pe unde să fugim."
+  },
+  {
+   "key": "2911448518671486976",
+   "en": "So, shall we?",
+   "ro": "Deci, începem?"
+  },
+  {
+   "key": "2911458787300757508",
+   "en": "[Jack in] Let's begin.",
+   "ro": "[Conectează-te] Să începem."
+  },
+  {
+   "key": "2911463794477649920",
+   "en": "Linked. Connection quality?",
+   "ro": "Conectat. Calitatea conexiunii?"
+  },
+  {
+   "key": "2911482379203792896",
+   "en": "Thousandth of the decimal. It'll have to do.",
+   "ro": "O miime din zecimală. Trebuie să ajungă."
+  },
+  {
+   "key": "2911484093835268100",
+   "en": "The system is responding.",
+   "ro": "Sistemul răspunde."
+  },
+  {
+   "key": "2911488063593009152",
+   "en": "So I see. It's responding.",
+   "ro": "Văd. Răspunde."
+  },
+  {
+   "key": "2911488709348052992",
+   "en": "Stay sharp, almost open for input.",
+   "ro": "Fii pe fază, aproape deschis pentru input."
+  },
+  {
+   "key": "2911495471069417472",
+   "en": "Left in the dust. Him and the FIA.",
+   "ro": "Lăsat în urmă. El și FIA."
+  },
+  {
+   "key": "2911501950816112640",
+   "en": "OK, your turn. It's ready for the access codes.",
+   "ro": "OK, e rândul tău. E gata pentru codurile de acces."
+  },
+  {
+   "key": "2911503850886156288",
+   "en": "I'm with you, So Mi.",
+   "ro": "Sunt cu tine, So Mi."
+  },
+  {
+   "key": "2911504855036088320",
+   "en": "Look toward Alex. Wait for Kurt to go down.",
+   "ro": "Privește spre Alex. Așteaptă să cadă Kurt."
+  },
+  {
+   "key": "2911509758731112448",
+   "en": "Target down.",
+   "ro": "Țintă doborâtă."
+  },
+  {
+   "key": "2911510855172509704",
+   "en": "Target down.",
+   "ro": "Țintă doborâtă."
+  },
+  {
+   "key": "2911511056935309312",
+   "en": "V, status. Everything all right?",
+   "ro": "V, status. Totul în regulă?"
+  },
+  {
+   "key": "2911512021541343232",
+   "en": "It's done…",
+   "ro": "Gata…"
+  },
+  {
+   "key": "2911536267822911500",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "2911540295898255360",
+   "en": "Wait! NO!",
+   "ro": "Stai! NU!"
+  },
+  {
+   "key": "2911543178995716108",
+   "en": "Wait! NO!",
+   "ro": "Stai! NU!"
+  },
+  {
+   "key": "2957657521365471232",
+   "en": "The mainframe is prepped and linked with our systems. She's ready to go.",
+   "ro": "Mainframe-ul e pregătit și conectat la sistemele noastre. E gata să pornească."
+  },
+  {
+   "key": "2983635373759942656",
+   "en": "You know, he created this lab especially for the occasion.",
+   "ro": "Știi, a creat laboratorul ăsta special pentru ocazie."
+  },
+  {
+   "key": "2983636822774534144",
+   "en": "Tens of millions of eddies invested for your visit alone. That's Kurt for you.",
+   "ro": "Zeci de milioane de eddies-uri doar pe vizita ta. Așa e Kurt."
+  },
+  {
+   "key": "2999793513257783296",
+   "en": "Whole stadium on lockdown now!",
+   "ro": "Tot stadionul e în lockdown acum!"
+  },
+  {
+   "key": "3124477401384534020",
+   "en": "Home stretch.",
+   "ro": "Ultima linie dreaptă."
+  },
+  {
+   "key": "3124477411954180096",
+   "en": "No turnin' back now.",
+   "ro": "Acum nu mai dăm înapoi."
+  },
+  {
+   "key": "3124479068603596800",
+   "en": "Nope. But we're in this together.",
+   "ro": "Nu. Dar suntem în asta împreună."
+  },
+  {
+   "key": "3124833624344674308",
+   "en": "Am I doin' all right?",
+   "ro": "Mă descurc bine?"
+  },
+  {
+   "key": "3124833636491378688",
+   "en": "Hansen suspects somethin'… Just hasn't caught on yet.",
+   "ro": "Hansen suspectează ceva… Doar că nu și-a dat seama încă."
+  },
+  {
+   "key": "3124834690503196672",
+   "en": "Soon it won't matter.",
+   "ro": "În curând n-o să mai conteze."
+  },
+  {
+   "key": "3127503661295648768",
+   "en": "Then in we go.",
+   "ro": "Atunci intrăm."
+  },
+  {
+   "key": "3127504760471732224",
+   "en": "Actuating the mainframe.",
+   "ro": "Activez mainframe-ul."
+  },
+  {
+   "key": "3127506845007265792",
+   "en": "Just… a little… more…",
+   "ro": "Doar… puțin… mai mult…"
+  },
+  {
+   "key": "3127513248316964864",
+   "en": "V, thank you… Really. Thank you for being here.",
+   "ro": "V, mersi… Chiar. Mulțumesc că ești aici."
+  },
+  {
+   "key": "3127537666128789508",
+   "en": "Then what?",
+   "ro": "Și apoi?"
+  },
+  {
+   "key": "3127537674282516480",
+   "en": "Can do. What then?",
+   "ro": "Se poate. Și apoi?"
+  },
+  {
+   "key": "3127537674433511424",
+   "en": "Everything all right? You look like shit…",
+   "ro": "Totu-i ok? Arăți praf…"
+  },
+  {
+   "key": "3127537820160409600",
+   "en": "Everything all right?",
+   "ro": "E totul bine?"
+  },
+  {
+   "key": "3127551801352699904",
+   "en": "We run. Nearly have the matrix... Breaching stadium defenses now…",
+   "ro": "Fugim. Aproape avem matricea... Spargem apărările de pe Stadion acum…"
+  },
+  {
+   "key": "3127553204213170176",
+   "en": "Nice to hear...",
+   "ro": "Bine de auzit..."
+  },
+  {
+   "key": "3127553270650945536",
+   "en": "Runnin' three things at once here. You do one – keep your eyes on Kurt.",
+   "ro": "Aici fac trei chestii odată. Tu faci una – ține ochii pe Kurt."
+  },
+  {
+   "key": "3260751032401182720",
+   "en": "Here she is, in all her glory.",
+   "ro": "Uite-o și pe ea, în toată splendoarea."
+  },
+  {
+   "key": "3269342172301934592",
+   "en": "It'll be ready for the access codes in a moment.",
+   "ro": "Gata într-un minut pentru codurile de acces."
+  },
+  {
+   "key": "3269344944736878592",
+   "en": "I am ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "key": "3269440744955494404",
+   "en": "[BETRAY SONGBIRD] One more second.",
+   "ro": "[TRĂDEAZĂ-O PE SONGBIRD] Încă o secundă."
+  },
+  {
+   "key": "3269441598211145728",
+   "en": "[BETRAY REED] I'm with you.",
+   "ro": "[TRĂDEAZĂ-L PE REED] Sunt cu tine."
+  },
+  {
+   "key": "3269442345099247616",
+   "en": "Link in now.",
+   "ro": "Conectează-te acum."
+  },
+  {
+   "key": "3269442651417657344",
+   "en": "V, what're you waitin' for?",
+   "ro": "V, ce mai aștepți?"
+  },
+  {
+   "key": "3269494978598060032",
+   "en": "'K, almost there... Give Alex the signal.",
+   "ro": "Bine, aproape am ajuns... Dă-i semnalul lui Alex."
+  },
+  {
+   "key": "3269495810311766016",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "3269495833950863360",
+   "en": "Wait... Mean to say, like, the whole stadium?",
+   "ro": "Stai... Adică tot stadionul?"
+  },
+  {
+   "key": "3269496102772195328",
+   "en": "You're hacking... the stadium?",
+   "ro": "Hack-uiești... stadionul?"
+  },
+  {
+   "key": "3269498287769698304",
+   "en": "Cuttin' off the lab now... carvin' a path outta here for us.",
+   "ro": "Închid laboratorul acum... ne deschid drum de-aici."
+  },
+  {
+   "key": "3269498480170811392",
+   "en": "Defense systems are nearly primed to turn on Kurt's forces... Let Alex know.",
+   "ro": "Apărările sunt aproape gata să se întoarcă împotriva lui Kurt... Anunță-l pe Alex."
+  },
+  {
+   "key": "3269500821263532032",
+   "en": "Stadium defenses… hostile and online…",
+   "ro": "Apărările de pe Stadion… ostile și online…"
+  },
+  {
+   "key": "3269507582783569920",
+   "en": "Relax, So Mi. We're almost there…",
+   "ro": "Relaxează-te, So Mi. Suntem aproape..."
+  },
+  {
+   "key": "3269527976143929344",
+   "en": "Home stretch.",
+   "ro": "Ultima linie dreaptă."
+  },
+  {
+   "key": "3269528395943428096",
+   "en": "Kurt, we have a problem.",
+   "ro": "Kurt, avem o problemă."
+  },
+  {
+   "key": "3269529200763256832",
+   "en": "No, I can handle the one down here.",
+   "ro": "Nu, mă descurc cu cel de aici."
+  },
+  {
+   "key": "3269530446605762560",
+   "en": "Really expected this to work?",
+   "ro": "Chiar credeai că o să meargă?"
+  },
+  {
+   "key": "3269530809513721860",
+   "en": "You killed Alex.",
+   "ro": "Ai ucis-o pe Alex."
+  },
+  {
+   "key": "3269530828169986048",
+   "en": "You... You killed Alex...",
+   "en_m": "You k--... You killed Alex...",
+   "ro": "Tu... Tu ai ucis-o pe Alex..."
+  },
+  {
+   "key": "3269530831810641920",
+   "en": "So Mi... You-- You don't know what you're doing.",
+   "en_m": "So Mi, agh... You-- You don't know what you're doing.",
+   "ro": "So Mi... Tu-- Tu nu știi ce faci."
+  },
+  {
+   "key": "3269531040586317824",
+   "en": "Got no idea what you're doing...",
+   "ro": "N-ai nicio idee ce faci..."
+  },
+  {
+   "key": "3269531461493112836",
+   "en": "Tryin' to help you.",
+   "ro": "Încerc să te ajut."
+  },
+  {
+   "key": "3269531485081878528",
+   "en": "Tryin' to save So Mi, who she is...",
+   "ro": "Încerc s-o salvez pe So Mi. Cine e ea, de fapt..."
+  },
+  {
+   "key": "3269531489611726848",
+   "en": "I trust Reed when he says he can help you.",
+   "ro": "Am încredere în Reed când zice că te poate ajuta."
+  },
+  {
+   "key": "3269548352039206912",
+   "en": "No, V. You did.",
+   "ro": "Nu, V. Tu ai făcut-o."
+  },
+  {
+   "key": "3269548883356860416",
+   "en": "Her death, all this, is on you.",
+   "ro": "Moartea ei, tot asta e pe capul tău."
+  },
+  {
+   "key": "3269555349530787840",
+   "en": "Oh, but I do know, V.",
+   "ro": "A, dar știu, V."
+  },
+  {
+   "key": "3269555520004079616",
+   "en": "Doing what I have to to survive.",
+   "ro": "Fac ce trebuie ca să supraviețuiesc."
+  },
+  {
+   "key": "3269555785084092416",
+   "en": "You double-cro-- Agh!",
+   "ro": "Trădătorule-- Agh!"
+  },
+  {
+   "key": "3269557502500585472",
+   "en": "What...? Wha--ngh…",
+   "ro": "Ce...? Ce--ngh…"
+  },
+  {
+   "key": "3269557911831101440",
+   "en": "Why... Why are you doing this…?",
+   "ro": "De ce... De ce faci asta…?"
+  },
+  {
+   "key": "3269558781612310528",
+   "en": "It's workin', V! ICEbreaker's gettin' through.",
+   "ro": "Merge, V! ICEbreaker-ul trece!"
+  },
+  {
+   "key": "3269560348486844416",
+   "en": "You need to trust Reed.",
+   "ro": "Trebuie să ai încredere în Reed."
+  },
+  {
+   "key": "3269562869599092736",
+   "en": "[Give signal to Alex]",
+   "ro": "[Dă semnalul lui Alex]"
+  },
+  {
+   "key": "3269565679229124608",
+   "en": "Blackwall's eatin' your mind.",
+   "en_m": "Blackwall's eating your mind.",
+   "ro": "Blackwall-ul îți mănâncă mintea."
+  },
+  {
+   "key": "3269571945049538560",
+   "en": "Nothing... You understand nothing…",
+   "ro": "Nimic... Nu pricepi nimic…"
+  },
+  {
+   "key": "3269572418452242432",
+   "en": "Two-faced snakes – all of you!",
+   "ro": "Șerpi ipocriți, toți!"
+  },
+  {
+   "key": "3269581804734169088",
+   "en": "Big mistake, V.",
+   "ro": "Greșeală mare, V."
+  },
+  {
+   "key": "3269586179628122112",
+   "en": "And honestly... you should too.",
+   "ro": "Și sincer... ar trebui și tu."
+  },
+  {
+   "key": "3269587775443353600",
+   "en": "All of this… it's on you.",
+   "ro": "Tot ce s-a întâmplat… e vina ta."
+  },
+  {
+   "key": "3273911623995117660",
+   "en": "I managed to simulate the mainframe's native environment – the bunker.",
+   "ro": "Am reușit să simulez mediul nativ al mainframe-ului – buncărul."
+  },
+  {
+   "key": "3273911624011894784",
+   "en": "It'll be ready for the access codes in a moment.",
+   "ro": "Gata într-un minut pentru codurile de acces."
+  },
+  {
+   "key": "3273911626025160756",
+   "en": "Here she is, in all her glory.",
+   "ro": "Uite-o și pe ea, în toată splendoarea."
+  },
+  {
+   "key": "3273911626025160768",
+   "en": "Listen, V – all hell breaks loose in two minutes. When Hansen flatlines, we haul ass.",
+   "ro": "Ascultă, V – se dezlănțuie iadul în două minute. Când Hansen dă colțul, o tăiem."
+  },
+  {
+   "key": "3273911626025160780",
+   "en": "I'll block access to this room. Alex and Reed're minimizing risk and exfilling early via the route.",
+   "ro": "Blochez accesul în camera asta. Alex și Reed reduc riscurile și ies devreme pe rută."
+  },
+  {
+   "key": "3273911628608851988",
+   "en": "Oh, and don't worry about us – got that sorted already. Checked stadium blueprints, know which way to run.",
+   "ro": "Și nu-ți face griji pentru noi – am rezolvat deja. Am verificat planurile stadionului, știm pe unde să fugim."
+  },
+  {
+   "key": "3273911628608852000",
+   "en": "So, shall we?",
+   "ro": "Deci, începem?"
+  },
+  {
+   "key": "3273911630068469760",
+   "en": "[Jack in] Let's begin.",
+   "ro": "[Conectează-te] Să începem."
+  },
+  {
+   "key": "3273911630135578652",
+   "en": "Ready.",
+   "ro": "Gata."
+  },
+  {
+   "key": "3273911630135578664",
+   "en": "Linked. Is the connection clear?",
+   "ro": "Conectat. Ai legătura clară?"
+  },
+  {
+   "key": "3273911631175766048",
+   "en": "Thousandth of the decimal. It'll have to do.",
+   "ro": "O miime din zecimală. Trebuie să ajungă."
+  },
+  {
+   "key": "3273911631175766060",
+   "en": "Time to get wet.",
+   "ro": "E timpul să intrăm în net."
+  },
+  {
+   "key": "3273911631192543240",
+   "en": "Actuating the mainframe.",
+   "ro": "Activez mainframe-ul."
+  },
+  {
+   "key": "3273911632987705344",
+   "en": "The system is responding.",
+   "ro": "Sistemul răspunde."
+  },
+  {
+   "key": "3273911633054814236",
+   "en": "Mm, I see. It's responding.",
+   "ro": "Mm, văd. Răspunde."
+  },
+  {
+   "key": "3273911633054814248",
+   "en": "Stay sharp, almost open for input.",
+   "ro": "Fii pe fază, aproape deschis pentru input."
+  },
+  {
+   "key": "3273911633054814260",
+   "en": "V, thank you… Really. Thanks for bein' here.",
+   "ro": "V, mulțumesc… Serios. Mă bucur că ești aici."
+  },
+  {
+   "key": "3273911633054814272",
+   "en": "Just… a little… more…",
+   "ro": "Doar… puțin… mai mult…"
+  },
+  {
+   "key": "3273911635890163720",
+   "en": "Left in the dust. Him and the FIA.",
+   "ro": "Lăsat în urmă. El și FIA."
+  },
+  {
+   "key": "3273911636460589056",
+   "en": "OK, your turn. It's ready for the access codes.",
+   "ro": "OK, e rândul tău. E gata pentru codurile de acces."
+  },
+  {
+   "key": "3273911636460589068",
+   "en": "Link in now.",
+   "ro": "Conectează-te acum."
+  },
+  {
+   "key": "3273911637903429644",
+   "en": "I'm with you, So Mi.",
+   "ro": "Sunt cu tine, So Mi."
+  },
+  {
+   "key": "3273911637903429656",
+   "en": "Look toward Alex. Wait for Kurt to go down.",
+   "ro": "Privește spre Alex. Așteaptă să cadă Kurt."
+  },
+  {
+   "key": "3273911640587784200",
+   "en": "V, status. Everything all right?",
+   "ro": "V, status. Totul în regulă?"
+  },
+  {
+   "key": "3273911641275650108",
+   "en": "It's done…",
+   "ro": "Gata…"
+  },
+  {
+   "key": "3273911641292427268",
+   "en": "Stadium defenses… hostile and online…",
+   "ro": "Apărările de pe Stadion… ostile și online…"
+  },
+  {
+   "key": "3273911642466832384",
+   "en": "Relax, So Mi. We're almost there…",
+   "ro": "Relaxează-te, So Mi. Suntem aproape..."
+  },
+  {
+   "key": "3273911642466832396",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "3273911642466832408",
+   "en": "Home stretch.",
+   "ro": "Ultima linie dreaptă."
+  },
+  {
+   "key": "3273911659797696512",
+   "en": "Home stretch.",
+   "ro": "Ultima linie dreaptă."
+  },
+  {
+   "key": "3273911659848028172",
+   "en": "No turnin' back now.",
+   "ro": "Acum nu mai dăm înapoi."
+  },
+  {
+   "key": "3273911659848028184",
+   "en": "Nope. But we're in this together.",
+   "ro": "Nu. Dar suntem în asta împreună."
+  },
+  {
+   "key": "3273911661190205440",
+   "en": "Am I doin' all right?",
+   "ro": "Mă descurc bine?"
+  },
+  {
+   "key": "3273911661324423168",
+   "en": "Hansen suspects somethin'… Just hasn't caught on yet.",
+   "ro": "Hansen suspectează ceva… Doar că nu și-a dat seama încă."
+  },
+  {
+   "key": "3273911661324423180",
+   "en": "Soon it won't matter.",
+   "ro": "În curând n-o să mai conteze."
+  },
+  {
+   "key": "3273911662666600448",
+   "en": "Then what?",
+   "ro": "Și apoi?"
+  },
+  {
+   "key": "3273911662666600464",
+   "en": "Everything all right?",
+   "ro": "E totul bine?"
+  },
+  {
+   "key": "3273911662716932112",
+   "en": "Can do. What then?",
+   "ro": "Se poate. Și apoi?"
+  },
+  {
+   "key": "3273911662716932124",
+   "en": "We run. Nearly have the matrix... Breaching stadium defenses now…",
+   "ro": "Fugim. Aproape avem matricea... Spargem apărările de pe Stadion acum…"
+  },
+  {
+   "key": "3273911662716932136",
+   "en": "'K, almost there... Give Alex the signal.",
+   "ro": "Bine, aproape am ajuns... Dă-i semnalul lui Alex."
+  },
+  {
+   "key": "3273911664847638544",
+   "en": "Everything all right? You look like shit…",
+   "ro": "Totu-i ok? Arăți praf…"
+  },
+  {
+   "key": "3273911664847638556",
+   "en": "Nice to hear...",
+   "ro": "Bine de auzit..."
+  },
+  {
+   "key": "3273911664847638568",
+   "en": "Runnin' three things at once here. You do one – keep your eyes on Kurt.",
+   "ro": "Aici fac trei chestii odată. Tu faci una – ține ochii pe Kurt."
+  },
+  {
+   "key": "3273911667800428544",
+   "en": "[BETRAY SONGBIRD] One more second...",
+   "ro": "[TRĂDEAZĂ-O PE SONGBIRD] Încă o secundă..."
+  },
+  {
+   "key": "3273911667817205772",
+   "en": "[BETRAY REED] I'm with you.",
+   "ro": "[TRĂDEAZĂ-L PE REED] Sunt cu tine."
+  },
+  {
+   "key": "3273911667884314624",
+   "en": "V, what're you waiting for?",
+   "ro": "V, ce mai aștepți?"
+  },
+  {
+   "key": "3273911668437962752",
+   "en": "You're hacking... the stadium?",
+   "ro": "Hack-uiești... stadionul?"
+  },
+  {
+   "key": "3273911668505071616",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "3273911669075496976",
+   "en": "Wait... Mean to say, like, the whole stadium?",
+   "ro": "Stai... Adică tot stadionul?"
+  },
+  {
+   "key": "3273911669092274176",
+   "en": "Cuttin' off the lab now... carvin' a path outta here for us.",
+   "ro": "Închid laboratorul acum... ne deschid drum de-aici."
+  },
+  {
+   "key": "3273911672581935116",
+   "en": "We have a problem.",
+   "ro": "Avem o problemă."
+  },
+  {
+   "key": "3273911672581935128",
+   "en": "No, I can handle the one here.",
+   "ro": "Nu, mă descurc cu cel de aici."
+  },
+  {
+   "key": "3273911673924112392",
+   "en": "Really expected this to work?",
+   "ro": "Chiar credeai că o să meargă?"
+  },
+  {
+   "key": "3273911684963520512",
+   "en": "[Give sign to Alex]",
+   "ro": "[Dă semnalul lui Alex]"
+  },
+  {
+   "key": "3273933107471863812",
+   "en": "While you were waiting, I ran some initial diagnostics.",
+   "ro": "Cât așteptai, am rulat niște diagnosticări inițiale."
+  },
+  {
+   "key": "3273933107471863824",
+   "en": "The mainframe is prepped and linked with our systems. She's ready to go.",
+   "ro": "Mainframe-ul e pregătit și conectat la sistemele noastre. E gata să pornească."
+  },
+  {
+   "key": "3273933109518684172",
+   "en": "You know, he created this lab especially for the occasion.",
+   "ro": "Știi, a creat laboratorul ăsta special pentru ocazie."
+  },
+  {
+   "key": "3273933109518684184",
+   "en": "Tens of millions of eddies invested for your visit alone. That's Kurt for you.",
+   "ro": "Zeci de milioane de eddies-uri doar pe vizita ta. Așa e Kurt."
+  },
+  {
+   "key": "3297049959209447424",
+   "en": "Everything OK?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "3297050725710114824",
+   "en": "Something wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "3297054431914569736",
+   "en": "This one of your meditations?",
+   "ro": "Asta-i una din meditațiile tale?"
+  },
+  {
+   "key": "3297054432317222920",
+   "en": "For what we're paying, I expect your complete attention.",
+   "ro": "Pentru cât te plătim, vreau să fii cu totul aici."
+  },
+  {
+   "key": "3297056053600268296",
+   "en": "You keepin' up?",
+   "ro": "Ții pasul?"
+  },
+  {
+   "key": "3297058868062138372",
+   "en": "Everything OK?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "3297058868431237128",
+   "en": "Something wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "3297058868850667528",
+   "en": "Off in la-la land?",
+   "ro": "Ești cu capul în nori?"
+  },
+  {
+   "key": "3297058869270097928",
+   "en": "For what we're paying, I expect your complete attention.",
+   "ro": "Pentru cât te plătim, vreau să fii cu totul aici."
+  },
+  {
+   "key": "3297058869672751112",
+   "en": "You keepin' up?",
+   "ro": "Ții pasul?"
+  },
+  {
+   "key": "3546074225804754944",
+   "en": "I have a plan in place for once we secure the neural matrix.",
+   "ro": "Am un plan pentru după ce punem mâna pe matricea neurală."
+  },
+  {
+   "key": "3546075923541573632",
+   "en": "I'll hack the localnet, override its defense systems, turn the whole stadium hostile… We'll slip out in the chaos.",
+   "ro": "O să hack-uiesc localnet-ul, o să le forțez apărările, să pun tot stadionul pe OSTIL… Ne strecurăm prin haos."
+  },
+  {
+   "key": "3546076356242751492",
+   "en": "A lot of people are gonna die…",
+   "ro": "O să moară mulți oameni…"
+  },
+  {
+   "key": "3546087992936546304",
+   "en": "But… how many would die?",
+   "ro": "Dar… câți ar muri?"
+  },
+  {
+   "key": "3546088835890987008",
+   "en": "They'll die so we can survive, live.",
+   "ro": "O să moară ca să putem supraviețui, să trăim."
+  },
+  {
+   "key": "3546091712747323392",
+   "en": "We can do this, V.",
+   "ro": "Putem face asta, V."
+  },
+  {
+   "key": "3550554717788909576",
+   "en": "I have a plan in place for when we secure the neural matrix.",
+   "ro": "Am un plan pentru după ce punem mâna pe matricea neurală."
+  },
+  {
+   "key": "3550554717788909600",
+   "en": "I'll hack the localnet, override its defense systems, turn the whole stadium hostile… We'll slip out in the chaos.",
+   "ro": "O să hack-uiesc localnet-ul, o să le forțez apărările, să pun tot stadionul pe OSTIL… Ne strecurăm prin haos."
+  },
+  {
+   "key": "3550554719718289428",
+   "en": "But… how many would die?",
+   "ro": "Dar… câți ar muri?"
+  },
+  {
+   "key": "3550554719735066640",
+   "en": "They'll die so we can survive, live.",
+   "ro": "O să moară ca să putem supraviețui, să trăim."
+  },
+  {
+   "key": "3550554721060466692",
+   "en": "We can do this, V.",
+   "ro": "Putem face asta, V."
+  },
+  {
+   "key": "3556412687185686528",
+   "en": "The matrix…  I have it.",
+   "ro": "Matricea… O am."
+  },
+  {
+   "key": "3556412713760796672",
+   "en": "The matrix…  I have it.",
+   "ro": "Matricea… O am."
+  },
+  {
+   "key": "3559266502113046528",
+   "en": "Hey! There a problem?",
+   "ro": "Hei! E vreo problemă?"
+  },
+  {
+   "key": "3559266659583995904",
+   "en": "The hell's goin' on?!",
+   "ro": "Ce dracu' se întâmplă?!"
+  },
+  {
+   "key": "3569693230033453056",
+   "en": "It's... a lot… Had to reach past the Blackwall.",
+   "ro": "E... mult... A trebuit să ajung dincolo de Blackwall."
+  },
+  {
+   "key": "3569693847116234752",
+   "en": "It's... a lot… Had to reach past the Blackwall.",
+   "ro": "E... mult... A trebuit să ajung dincolo de Blackwall."
+  },
+  {
+   "key": "3569704767238356992",
+   "en": "Ugh…",
+   "ro": "Ugh…"
+  },
+  {
+   "key": "3569705028694491136",
+   "en": "Ugh…",
+   "ro": "Ugh…"
+  },
+  {
+   "key": "3576748794003664896",
+   "en": "Stand clear, please. You're blocking the arm.",
+   "ro": "Dați-vă la o parte, vă rog. Blocați brațul."
+  },
+  {
+   "key": "3576749472306507776",
+   "en": "Stand clear, please. You're blocking the arm.",
+   "ro": "Dați-vă la o parte, vă rog. Blocați brațul."
+  },
+  {
+   "key": "3732136391711469568",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "3732138245124075520",
+   "en": "Agh... what… nnghhh…!",
+   "ro": "Agh... ce... nnghhh...!"
+  },
+  {
+   "key": "3732144060358799360",
+   "en": "The neural matrix…",
+   "ro": "Matricea neurală…"
+  }
+ ]
+}

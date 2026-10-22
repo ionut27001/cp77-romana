@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\vendor_sceneblock.json",
+ "entries": [
+  {
+   "key": "1979190270622203908",
+   "en": "[db_db]use vendor",
+   "ro": "[db_db]use vendor"
+  },
+  {
+   "key": "1979196556726272000",
+   "en": "[db_db]ask for fluff",
+   "ro": "[db_db]ask for fluff"
+  }
+ ]
+}

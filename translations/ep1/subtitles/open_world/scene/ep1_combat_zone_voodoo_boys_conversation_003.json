@@ -1,0 +1,20 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\ep1_combat_zone_voodoo_boys_conversation_003.json",
+ "entries": [
+  {
+   "key": "3373608791128649728",
+   "en": "<kiroshi l=\"creo\" o=\"Zanmi nou yo nan Pacifica voye bonjou. Ak kredi a pou rapò sa.\" t=\"Our Pacifica friends send their regards. And the cred for that report.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Zanmi nou yo nan Pacifica voye bonjou. Ak kredi a pou rapò sa.\" t=\"Prietenii noștri din Pacifica te salută. Și reputația pentru raportul ăla.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395564677820141568",
+   "en": "<kiroshi l=\"creo\" o=\"Ugh, mesye, fout kredi a. Konbyen tan mwen oblije rete chita nan kaka sa a?\" t=\"Ugh, man, fuck the cred. How long I gotta keep sitting in this shithole?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ugh, mesye, fout kredi a. Konbyen tan mwen oblije rete chita nan kaka sa a?\" t=\"Ugh, frate, mă piș pe reputație. Cât mai stau în cocina asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3395564874918875136",
+   "en": "<kiroshi l=\"creo\" o=\"Ou ka kite lè ou jwenn yon bagay sou sèk enteryè Slider la. Yon bagay itil fwa sa a\" t=\"Can leave when you find something on Slider's inner circle. Something useful this time.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou ka kite lè ou jwenn yon bagay sou sèk enteryè Slider la. Yon bagay itil fwa sa a\" t=\"Poți pleca dacă găsești ceva despre cercul interior al lui Slider. De data asta, ceva util.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

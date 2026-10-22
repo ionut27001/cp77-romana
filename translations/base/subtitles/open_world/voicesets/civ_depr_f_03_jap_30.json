@@ -1,0 +1,75 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_depr_f_03_jap_30.json",
+ "entries": [
+  {
+   "key": "1955954079799746564",
+   "en": "Wh-what will I do now…?",
+   "ro": "Ce-ce-o să fac acum…?"
+  },
+  {
+   "key": "1955954079833300992",
+   "en": "I can't make it!",
+   "ro": "Nu mai pot!"
+  },
+  {
+   "key": "1955954079883632644",
+   "en": "I'm sorry…",
+   "ro": "Îmi pare rău…"
+  },
+  {
+   "key": "1955954079900409860",
+   "en": "Uh... no problem.",
+   "ro": "Uh... nicio problemă."
+  },
+  {
+   "key": "1955954079933964292",
+   "en": "<kiroshi l=\"jpn\" o=\"はい？\" t=\"Hello?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はい？\" t=\"Alo?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1955954079984295940",
+   "en": "No… Her daughter… Because...because she's dead… Yes… There was an-an attack… She was returning from her friend's house.",
+   "ro": "Nu… Fiica ei… Pentru că… a murit… Da… A fost un atac… Se întorcea de la o prietenă."
+  },
+  {
+   "key": "1955954080001073156",
+   "en": "<mothertongue l=\"jpn\" m=\"Arigatou…\" b=\"Mmm... \" a=\" Me too… I-I don't know what I'll do without her… Mm, maybe so… Of course… You are right.\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"Arigatou…\" b=\"Mmm... \" a=\"Și eu… Nu știu ce-o să fac fără ea… Mm, poate că da… Sigur… Ai dreptate.\"/>"
+  },
+  {
+   "key": "1955954080034627588",
+   "en": "Mmh… goodbye.",
+   "ro": "Mmh… pa."
+  },
+  {
+   "key": "1955954080185622532",
+   "en": "No… no!",
+   "ro": "Nu… nu!"
+  },
+  {
+   "key": "1955954080202399748",
+   "en": "Some kind of nightmare!",
+   "ro": "Un fel de coșmar!"
+  },
+  {
+   "key": "1955954080286285828",
+   "en": "Meh... Ahuh huh... Ahuh huh huh huh huh...",
+   "ro": "Meh... Ahuh huh... Ahuh huh huh huh huh..."
+  },
+  {
+   "key": "1955954080303063044",
+   "en": "Ehh... It wasn't... Supposed to be this way!",
+   "ro": "Ehh... Nu trebuia... să fie așa!"
+  },
+  {
+   "key": "1955954080386949124",
+   "en": "I-I'm… fine. Go away.",
+   "ro": "S-sunt… bine. Pleacă."
+  },
+  {
+   "key": "1955954080403726340",
+   "en": "Leave me alone.",
+   "ro": "Lasă-mă în pace."
+  }
+ ]
+}

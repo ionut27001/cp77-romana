@@ -1,0 +1,72 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_00aa_jackie_hide_body_tutorial.json",
+ "entries": [
+  {
+   "key": "1641760379296006144",
+   "en": "Body's gotta disappear. Can't eat it, so we gotta stash it.",
+   "ro": "Cadavrul trebuie să dispară. Nu-l putem mânca, deci îl ascundem."
+  },
+  {
+   "key": "1641792319424282624",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"They find it, \" a=\", they'll be on us like flies on shit. Don't want that.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"They find it, \" a=\", they'll be on us like flies on shit. And we don't want that.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Dacă îl găsesc, \" a=\", o să ne cadă în cap ca muștele pe rahat. Nu vrem asta.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Dacă îl găsesc, \" a=\", o să ne cadă în cap ca muștele pe rahat. Și nu vrem asta.\"/>"
+  },
+  {
+   "key": "1641795696661086208",
+   "en": "Nice. I couldn'ta done that better myself.",
+   "ro": "Frumos. N-aș fi putut face mai bine nici eu."
+  },
+  {
+   "key": "1641800385809072128",
+   "en": "On your toes. More bodies incoming, they're almost on you.",
+   "ro": "Fii pe fază. Mai vin, sunt deja aproape de tine."
+  },
+  {
+   "key": "1641801968554852352",
+   "en": "Fistfuck these reapers.",
+   "ro": "Futu-i pe reaperii ăștia."
+  },
+  {
+   "key": "1641802083965321216",
+   "en": "Drag that corpse over here, don't want 'em to notice. Wanna surprise these cocksuckers.",
+   "ro": "Trage cadavrul ăla încoace, să nu ne vadă. Vrem să-i prindem pe nenorociții ăștia."
+  },
+  {
+   "key": "1648758626992504832",
+   "en": "<mothertongue l=\"mex\" m=\"mira\" b=\"V, \" a=\", eyes up, <Rich color=\\\"MainColors.ActiveBlue\\\">pendejos</> ahead.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mira\" b=\"V, \" a=\", ochii sus, <Rich color=\\\"MainColors.ActiveBlue\\\">pendejos</> în față.\"/>"
+  },
+  {
+   "key": "1648766252371394560",
+   "en": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\", V! They're comin'!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\", V! Vin!\"/>"
+  },
+  {
+   "key": "1648769660226617344",
+   "en": "Wait for your chance. Pick the prick off.",
+   "ro": "Așteaptă-ți șansa. Scoate-l pe căcatul ăla."
+  },
+  {
+   "key": "1650195529809772544",
+   "en": "Take one down! Just real quiet.",
+   "ro": "Trage unu'! Doar pe tăcute."
+  },
+  {
+   "key": "1650196747298783232",
+   "en": "Hey, grab the one closest.",
+   "ro": "Hei, ia-l pe ăla mai aproape."
+  },
+  {
+   "key": "1945890678242439168",
+   "en": "Drop him quiet, V.",
+   "ro": "Pune-l jos pe tăcute, V."
+  },
+  {
+   "key": "2308278107970506756",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  }
+ ]
+}

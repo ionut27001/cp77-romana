@@ -1,0 +1,55 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_010.json",
+ "entries": [
+  {
+   "key": "1963301420290580480",
+   "en": "<kiroshi l=\"creo\" o=\"Ou bezwen vyann kochon si se griyo ou vle fè.\" t=\"You need pork if you want to make griot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou bezwen vyann kochon si se griyo ou vle fè.\" t=\"Ai nevoie de carne de porc dacă vrei să faci griot.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964886183845318656",
+   "en": "<kiroshi l=\"creo\" o=\"Men tout \\\"vyann\\\" Rolland yo genyen mem gou.\" t=\"But all of that \\\"meat\\\" at Rolland's taste exactly the same.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Men tout \\\"vyann\\\" Rolland yo genyen mem gou.\" t=\"Dar toată \\\"carnea\\\" aia de la Rolland are același gust.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964887673393664000",
+   "en": "<kiroshi l=\"creo\" o=\"Lè sa a pale ak Plasid, pa pale ak Rolan enbecil.\" t=\"Then talk to Placide, not Rolland, idiot.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Lè sa a pale ak Plasid, pa pale ak Rolan enbecil.\" t=\"Atunci vorbește cu Placide, nu cu Rolland, idiotule.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964889335998992384",
+   "en": "<kiroshi l=\"creo\" o=\"Sa k ta pase si mwen nik ajoute ...\" t=\"What if I just added...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sa k ta pase si mwen nik ajoute ...\" t=\"Și dacă aș adăuga...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964889609098514432",
+   "en": "<kiroshi l=\"creo\" o=\"Non.\" t=\"No.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Non.\" t=\"Nu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964894109301493760",
+   "en": "<kiroshi l=\"creo\" o=\"Tille, fòk nou deplase. Ou fin pakè?\" t=\"Tille, we have to go. Are you packed?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tille, fòk nou deplase. Ou fin pakè?\" t=\"Tille, trebuie să plecăm. Ai făcut bagajele?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964906499241955328",
+   "en": "<kiroshi l=\"creo\" o=\"Eske nou pa ka tann jouk demen?\" t=\"Can't we wait until tomorrow?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Eske nou pa ka tann jouk demen?\" t=\"Nu putem aștepta până mâine?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964907067586924544",
+   "en": "<kiroshi l=\"creo\" o=\"Tann kisa? Tann pou Nètwash pete pòt la?\" t=\"Wait for what? For NetWatch to kick down the door?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Tann kisa? Tann pou Nètwash pete pòt la?\" t=\"Să așteptăm ce? Să dea NetWatch buzna pe ușă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964907513139449856",
+   "en": "<kiroshi l=\"creo\" o=\"Oswa ou panse Danyèl ap retounen nan GIM la?\" t=\"Or you think Daniel will be resurrected from the GIM?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Oswa ou panse Danyèl ap retounen nan GIM la?\" t=\"Sau crezi că Daniel o să fie înviat din GIM?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964912132259336192",
+   "en": "<kiroshi l=\"creo\" o=\"Ou konn yon bagay? Lan mèd pou tout bagay sa yo. Degaje w pou kont ou.\" t=\"Know what? Fuck this. Go alone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou konn yon bagay? Lan mèd pou tout bagay sa yo. Degaje w pou kont ou.\" t=\"Știi ce? Bag pula-n asta! Du-te singur.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

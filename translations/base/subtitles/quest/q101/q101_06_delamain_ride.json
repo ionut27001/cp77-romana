@@ -1,0 +1,61 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_06_delamain_ride.json",
+ "entries": [
+  {
+   "key": "1651833571497889792",
+   "en": "Now proceed to connect.",
+   "ro": "Acum procedați la conectare."
+  },
+  {
+   "key": "1651835426001014784",
+   "en": "The personal link is damaged.",
+   "ro": "Legătura personală este avariată."
+  },
+  {
+   "key": "1651835543290531840",
+   "en": "Please proceed to insert the jack below the ear, though not too deep.",
+   "ro": "Vă rog să introduceți jack-ul sub ureche, dar nu prea adânc."
+  },
+  {
+   "key": "1651976446402940928",
+   "en": "If I hit a vein by mistake, she will die.",
+   "en_m": "If I hit a vein by mistake, he will die.",
+   "ro": "Dacă ating din greșeală o venă, ea o să moară.",
+   "ro_m": "Dacă ating din greșeală o venă, el o să moară."
+  },
+  {
+   "key": "1651977667314503680",
+   "en": "Indeed. As she will if you do nothing.",
+   "en_m": "Indeed. As he will if you do nothing.",
+   "ro": "Întocmai. La fel o să moară și ea dacă nu faceți nimic.",
+   "ro_m": "Întocmai. La fel o să moară și el dacă nu faceți nimic."
+  },
+  {
+   "key": "1651994664748240896",
+   "en": "I think I have the sockets.",
+   "ro": "Cred că am soclurile."
+  },
+  {
+   "key": "1651996370387128320",
+   "en": "There is a cable above you – connect it.",
+   "ro": "Deasupra dumneavoastră este un cablu – conectați-l."
+  },
+  {
+   "key": "1652000628125782016",
+   "en": "And then?",
+   "ro": "Și apoi?"
+  },
+  {
+   "key": "1652001223616286720",
+   "en": "I will take over the procedure.",
+   "ro": "O să preiau procedura."
+  },
+  {
+   "key": "1764721937822015488",
+   "en": "There should be auxiliary neurosockets between her lymph nodes, beneath the SCM muscle.",
+   "en_m": "There should be auxiliary neurosockets between his lymph nodes, beneath the SCM muscle.",
+   "ro": "Ar trebui să existe neurosocluri auxiliare între ganglionii ei limfatici, sub mușchiul SCM.",
+   "ro_m": "Ar trebui să existe neurosocluri auxiliare între ganglionii lui limfatici, sub mușchiul SCM."
+  }
+ ]
+}

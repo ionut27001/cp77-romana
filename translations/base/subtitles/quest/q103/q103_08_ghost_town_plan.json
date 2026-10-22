@@ -1,0 +1,155 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q103\\q103_08_ghost_town_plan.json",
+ "entries": [
+  {
+   "key": "1532860777084489728",
+   "en": "Switchgear's got power.",
+   "ro": "Tabloul electric are curent."
+  },
+  {
+   "key": "1644645789060718592",
+   "en": "Now we wait.",
+   "ro": "Acum așteptăm."
+  },
+  {
+   "key": "1663012940700082176",
+   "en": "OK, I've got voltage. Start the terminal inside, and once the power is on in the building, get on that roof.",
+   "ro": "OK, am tensiune. Pornește terminalul de înăuntru, și când se aprinde curentul în clădire, urcă pe acoperișul ăla."
+  },
+  {
+   "key": "1666070078319882240",
+   "en": "OK. Cover me, just in case.",
+   "ro": "OK. Acoperă-mă, mai bine să fiu sigur."
+  },
+  {
+   "key": "1666070498773692416",
+   "en": "Which way will they come from?",
+   "ro": "Din ce direcție or să vină?"
+  },
+  {
+   "key": "1669101016641564672",
+   "en": "The panel looks to be in good shape.",
+   "ro": "Panoul pare în stare bună."
+  },
+  {
+   "key": "1669121672951230464",
+   "en": "Prime. We'll have some fun at the intersection.",
+   "ro": "Super. Ne facem de cap la intersecție."
+  },
+  {
+   "key": "1669129412415188992",
+   "en": "Raffens'll come from where? Any idea?",
+   "ro": "De unde or să vină Raffens? Ai vreo idee?"
+  },
+  {
+   "key": "1669130289024724992",
+   "en": "The northeast, I wager. From the freeway that was never finished.",
+   "ro": "Din nord-est, pariez. De pe autostrada care nu a fost niciodată terminată."
+  },
+  {
+   "key": "1669130961455542272",
+   "en": "Got it. Cover me, just in case.",
+   "ro": "Am înțeles. Acoperă-mă, pentru orice caz."
+  },
+  {
+   "key": "1669131230813745152",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1677754443550552064",
+   "en": "I'll make a bypass circuit to the power supply, that should do it. We just have to get it up and running…",
+   "ro": "O să fac un circuit de bypass la sursa de alimentare, ar trebui să meargă. Trebuie doar s-o pornim…"
+  },
+  {
+   "key": "1692316836672987136",
+   "en": "Just break the glass and dive in.",
+   "ro": "Sparge geamul și bagă-te înăuntru."
+  },
+  {
+   "key": "1693560940687650816",
+   "en": "It's not as if someone'll send you a bill.",
+   "ro": "N-o să-ți trimită nimeni factură."
+  },
+  {
+   "key": "1693561467626450944",
+   "en": "I'll set up on the tower. We'll have the whole intersection on a platter.",
+   "ro": "Mă urc pe turn. Intersecția ne cade pe tavă."
+  },
+  {
+   "key": "1742743360132067332",
+   "en": "[Hide] Now we wait.",
+   "ro": "[Ascunde-te] Acum așteptăm."
+  },
+  {
+   "key": "1773301830947303424",
+   "en": "You got it.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1857286611361751040",
+   "en": "Grab the jumper cables from the trunk. We'll boost it from the car battery.",
+   "ro": "Ia cablurile de pornire din portbagaj. Îl pornim de la bateria mașinii."
+  },
+  {
+   "key": "1857303644379963392",
+   "en": "[Connect positive cable]",
+   "ro": "[Conectează cablul pozitiv]"
+  },
+  {
+   "key": "1857305659122278400",
+   "en": "[Connect negative cable]",
+   "ro": "[Conectează cablul negativ]"
+  },
+  {
+   "key": "1857357231881609216",
+   "en": "There she goes. But the old jalopy served us well.",
+   "ro": "Uite că pornește. Dar rabla asta ne-a prins bine."
+  },
+  {
+   "key": "1964737826819387392",
+   "en": "Remember – as soon as we see them, you give us power.",
+   "ro": "Ține minte – de îndată ce îi vedem, ne dai curent."
+  },
+  {
+   "key": "1977709243874799616",
+   "en": "Let's get into position.",
+   "ro": "Hai să ne punem la locuri."
+  },
+  {
+   "key": "1977710785600286720",
+   "en": "You flip the breakers when I give you the signal to do so, understood?",
+   "ro": "Tu tragi siguranțele când îți dau semnal, ok?"
+  },
+  {
+   "key": "1977713012054290432",
+   "en": "Yes, ma'am.",
+   "ro": "Da, doamnă."
+  },
+  {
+   "key": "1996499844899254272",
+   "en": "Red cable connected.",
+   "ro": "Cablul roșu e conectat."
+  },
+  {
+   "key": "1996501558658314240",
+   "en": "Give me a moment. I need to hook everything up here.",
+   "ro": "Stai puțin. Trebuie să le leg pe toate aici."
+  },
+  {
+   "key": "1996502660636192768",
+   "en": "And done. Now the black rattler.",
+   "ro": "Gata. Acum celălalt, cel negru."
+  },
+  {
+   "key": "1998020401348194308",
+   "en": "[Open trunk]",
+   "ro": "[Deschide portbagajul]"
+  },
+  {
+   "key": "2008459303757701120",
+   "en": "[Open hood]",
+   "ro": "[Deschide capota]"
+  }
+ ]
+}

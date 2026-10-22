@@ -1,0 +1,15 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q305\\q305_hallucination_teleport.json",
+ "entries": [
+  {
+   "key": "3101196284903972868",
+   "en": "[db_db]Teleport to next hallucination",
+   "ro": "[db_db]Teleportează la următoarea halucinație"
+  },
+  {
+   "key": "3101197429143658496",
+   "en": "[db_db]Skip the teleport",
+   "ro": "[db_db]Sari peste teleportare"
+  }
+ ]
+}

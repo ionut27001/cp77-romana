@@ -1,0 +1,440 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\ep1\\ep1_chicken_test.json",
+ "entries": [
+  {
+   "key": "3093979052210348036",
+   "en": "[db_db]q301",
+   "ro": "[db_db]q301"
+  },
+  {
+   "key": "3093979582051606528",
+   "en": "[db_db]q302",
+   "ro": "[db_db]q302"
+  },
+  {
+   "key": "3093979673051226112",
+   "en": "[db_db]q303",
+   "ro": "[db_db]q303"
+  },
+  {
+   "key": "3093979773211205632",
+   "en": "[db_db]q304",
+   "ro": "[db_db]q304"
+  },
+  {
+   "key": "3093979879830413312",
+   "en": "[db_db]q305",
+   "ro": "[db_db]q305"
+  },
+  {
+   "key": "3093979990308380672",
+   "en": "[db_db]q306",
+   "ro": "[db_db]q306"
+  },
+  {
+   "key": "3093980123267817472",
+   "en": "[db_db]q307",
+   "ro": "[db_db]q307"
+  },
+  {
+   "key": "3094084546925125632",
+   "en": "[db_db]MQ019 Done - Holocall available",
+   "ro": "[db_db]MQ019 Finalizat - Holocall disponibil"
+  },
+  {
+   "key": "3094084546925125644",
+   "en": "[db_db]MQ019 Failed - Holocall not available",
+   "ro": "[db_db]MQ019 Eșuat - Holocall indisponibil"
+  },
+  {
+   "key": "3094084546925125656",
+   "en": "[db_db]MQ019 Not Done - Holocall not available",
+   "ro": "[db_db]MQ019 Nefinalizat - Holocall indisponibil"
+  },
+  {
+   "key": "3094095168245030916",
+   "en": "[db_db]No one saw Myers and me",
+   "ro": "[db_db]Nimeni nu ne-a văzut pe Myers și pe mine"
+  },
+  {
+   "key": "3094095826901753856",
+   "en": "[db_db]Kurt's men were alerted",
+   "ro": "[db_db]Oamenii lui Kurt au prins de veste"
+  },
+  {
+   "key": "3094100736468803584",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094126841095479300",
+   "en": "[db_db]All of them",
+   "ro": "[db_db]Toți"
+  },
+  {
+   "key": "3094128371311796224",
+   "en": "[db_db]None :(",
+   "ro": "[db_db]Niciunul :("
+  },
+  {
+   "key": "3094130278226944004",
+   "en": "[db_db]MQ016 Done",
+   "ro": "[db_db]MQ016 Finalizat"
+  },
+  {
+   "key": "3094130752619503616",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094136392364548096",
+   "en": "[db_db]MQ015 Done",
+   "ro": "[db_db]MQ015 Finalizat"
+  },
+  {
+   "key": "3094136504822226944",
+   "en": "[db_db]Both done",
+   "ro": "[db_db]Ambele finalizate"
+  },
+  {
+   "key": "3094137234530459648",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094140150360268804",
+   "en": "[db_db]Yes, SQ004 done",
+   "ro": "[db_db]Da, SQ004 finalizat"
+  },
+  {
+   "key": "3094140840558157824",
+   "en": "[db_db]Yes, MQ002 done",
+   "ro": "[db_db]Da, MQ002 finalizat"
+  },
+  {
+   "key": "3094142320073728000",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094142897679720448",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094144931531284484",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094146198127206400",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094146264732753920",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094151190556925952",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094151190556925964",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094151190556925976",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094153112034697220",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094154194500673536",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094154595425804292",
+   "en": "[db_db]Yes, and I won",
+   "ro": "[db_db]Da, și am câștigat"
+  },
+  {
+   "key": "3094155848415404032",
+   "en": "[db_db]Yes, and killed the Captain",
+   "ro": "[db_db]Da, și l-am ucis pe Căpitan"
+  },
+  {
+   "key": "3094156094050623488",
+   "en": "[db_db]Nope",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094157348634058752",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094158436519075844",
+   "en": "[db_db]Yes, I won. Buck is alive.",
+   "ro": "[db_db]Da, am câștigat. Buck e în viață."
+  },
+  {
+   "key": "3094159167066169344",
+   "en": "[db_db]Killed him, bu didn't win",
+   "ro": "[db_db]L-am ucis, dar n-am câștigat"
+  },
+  {
+   "key": "3094159267528138752",
+   "en": "[db_db]Won and killed him",
+   "ro": "[db_db]Am câștigat și l-am ucis"
+  },
+  {
+   "key": "3094159350994788352",
+   "en": "[db_db]Haven't done it yet.",
+   "ro": "[db_db]N-am făcut-o încă."
+  },
+  {
+   "key": "3094159433085706240",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094162039426211840",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094162644882382852",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094163000794243072",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094163445893783552",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094164226151768064",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094164449792057344",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094165988950630400",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094166062149623808",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094166614958891008",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094166678141886464",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094167513261367296",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094169231281840128",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094169344477716480",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094172939734441984",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094172939734441996",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094172939734442008",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094172939918991360",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094172939918991372",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094172939935768584",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094172940103540736",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094172940103540748",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094172940103540760",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094173574886285312",
+   "en": "[db_db]Yes",
+   "ro": "[db_db]Da"
+  },
+  {
+   "key": "3094173574886285324",
+   "en": "[db_db]No",
+   "ro": "[db_db]Nu"
+  },
+  {
+   "key": "3094173574886285336",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3094300585105514500",
+   "en": "[db_db]Quick Start (Base game after q110)",
+   "ro": "[db_db]Start rapid (Joc de bază după q110)"
+  },
+  {
+   "key": "3094301464399405056",
+   "en": "[db_db]Configure Playthrough (Select base game side content)",
+   "ro": "[db_db]Configurează playthrough-ul (Selectează conținut secundar din jocul de bază)"
+  },
+  {
+   "key": "3094303148899000320",
+   "en": "[db_db]Return to previous selection",
+   "ro": "[db_db]REVENIRE LA SELECȚIA ANTERIOARĂ"
+  },
+  {
+   "key": "3246270127716392964",
+   "en": "[db_db]Yes!",
+   "ro": "[db_db]Da!"
+  },
+  {
+   "key": "3246270771021963264",
+   "en": "[db_db]Nope, he's alive",
+   "ro": "[db_db]Nu, e în viață"
+  },
+  {
+   "key": "3508655611262087172",
+   "en": "[db_db]Tank",
+   "ro": "[db_db]Tank"
+  },
+  {
+   "key": "3508656301845852160",
+   "en": "[db_db]MidArmor",
+   "ro": "[db_db]MidArmor"
+  },
+  {
+   "key": "3508656609976201216",
+   "en": "[db_db]GlassCanon",
+   "ro": "[db_db]GlassCanon"
+  },
+  {
+   "key": "3508657110188896256",
+   "en": "[db_db]MaxAllSkillsWeapon",
+   "ro": "[db_db]MaxAllSkillsWeapon"
+  },
+  {
+   "key": "3508662555066576900",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508663549838045184",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508663717643759616",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508663858756923392",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508668143322345472",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508668294971600896",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508668583170617344",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508669604903071748",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508670113571483648",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508670251832520704",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508670388164177920",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3833165479144013824",
+   "en": "[db_db]Keep EP1 Start Build",
+   "ro": "[db_db]Păstrează build-ul de start EP1"
+  }
+ ]
+}

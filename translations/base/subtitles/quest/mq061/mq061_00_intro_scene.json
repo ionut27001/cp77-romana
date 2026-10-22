@@ -1,0 +1,319 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq061\\mq061_00_intro_scene.json",
+ "entries": [
+  {
+   "key": "5098491997400756224",
+   "en": "Hey, um… is this V?",
+   "ro": "Hei, ăă... ești V?"
+  },
+  {
+   "key": "5098494529871179776",
+   "en": "Depends who’s askin'.",
+   "ro": "Depinde cine întreabă."
+  },
+  {
+   "key": "5098495042582900736",
+   "en": "Name’s Aera. Look, this is random, but I really need help.",
+   "ro": "Mă numesc Aera. Uite, sună random, dar chiar am nevoie de ajutor."
+  },
+  {
+   "key": "5098495338801426432",
+   "en": "My sister, Haze… Someone’s gonna flatline her.",
+   "ro": "Sora mea, Haze... Cineva o să o lichideze."
+  },
+  {
+   "key": "5098506176127987716",
+   "en": "I'm in.",
+   "ro": "Intru."
+  },
+  {
+   "key": "5098520564452978688",
+   "en": "What do you need me to do?",
+   "ro": "Ce vrei să fac?"
+  },
+  {
+   "key": "5098529617170296832",
+   "en": "Not interested. Calendar’s overbooked as it is.",
+   "ro": "Nu sunt interesată. Am calendarul plin oricum.",
+   "ro_m": "Nu sunt interesat. Am calendarul plin oricum."
+  },
+  {
+   "key": "5098541804794310656",
+   "en": "Sendin' you the location of where she stashed the shard.",
+   "ro": "Îți trimit locația unde a ascuns shard-ul."
+  },
+  {
+   "key": "5098584278396989440",
+   "en": "Hey, V. D'you change your mind, maybe? Gotta admit, I'm desperate.",
+   "ro": "Hei, V. Te-ai răzgândit, poate? Recunosc, sunt disperată."
+  },
+  {
+   "key": "5113328049999212544",
+   "en": "Welcome, Mr. Chiang, to the Night Corporation's guided tour of Night City. I… am Richard Night.",
+   "ro": "Bun venit, domnule Chiang, la turul ghidat al Night Corporation prin Night City. Eu... sunt Richard Night."
+  },
+  {
+   "key": "5113329837326364672",
+   "en": "This tour syncs to your personal system to serve as a guide as you visit the city’s landmarks.",
+   "ro": "Turul ăsta se sincronizează cu sistemul tău personal ca să-ți servească drept ghid când vizitezi reperele orașului."
+  },
+  {
+   "key": "5130716356982763520",
+   "en": "We believe this will be an unforgettable experience, one that will inspire you to join our other investors. To begin, please find your way to Night Corp Tower.",
+   "ro": "Credem că va fi o experiență de neuitat, care te va inspira să te alături celorlalți investitori. Ca să începi, te rugăm să găsești drumul spre Night Corp Tower."
+  },
+  {
+   "key": "5133640316812685312",
+   "en": "V, did you find something?",
+   "ro": "V, ai găsit ceva?"
+  },
+  {
+   "key": "5133641177148321796",
+   "en": "Tell me the truth.",
+   "ro": "Spune-mi adevărul."
+  },
+  {
+   "key": "5133641327337959424",
+   "en": "Tell me what you know. Withhold any more deets and I walk.",
+   "ro": "Spune-mi ce știi. Mai ascunzi detalii și plec."
+  },
+  {
+   "key": "5133641435634888704",
+   "en": "Corpos I can handle. Lyin' partners I can’t.",
+   "ro": "Cu corpoii mă descurc. Cu partenerii care mint, nu."
+  },
+  {
+   "key": "5133641570506928128",
+   "en": "So yeah, Haze stole the tech from Night Corp – said it was some big threat, that everyone deserves to know about.",
+   "ro": "Deci da, Haze a ciordit tehnologia de la Night Corp – zicea că e o amenințare mare, că toți ar trebui să știe."
+  },
+  {
+   "key": "5133641680213143552",
+   "en": "You lied to me.",
+   "ro": "Mi-ai mințit."
+  },
+  {
+   "key": "5133643525925007360",
+   "en": "I... I thought you wouldn’t take the job if you knew.",
+   "ro": "Eu... credeam că n-ai fi acceptat jobul dacă știai."
+  },
+  {
+   "key": "5133644202097143808",
+   "en": "But you got the eddies to hire me?",
+   "ro": "Dar ai eddies-urile să mă angajezi?"
+  },
+  {
+   "key": "5133647377587924996",
+   "en": "Who's your sister?",
+   "ro": "Cine e sora ta?"
+  },
+  {
+   "key": "5133647594383110144",
+   "en": "How'd you find me?",
+   "ro": "Cum m-ai găsit?"
+  },
+  {
+   "key": "5133647928820133888",
+   "en": "How'd you find me?",
+   "ro": "Cum m-ai găsit?"
+  },
+  {
+   "key": "5133648074278596608",
+   "en": "A fixer told me you’re one of the best.",
+   "ro": "Un fixer mi-a zis că ești unul dintre cei mai buni."
+  },
+  {
+   "key": "5133648380999659520",
+   "en": "OK, just… slow down. Who’s your sister?",
+   "ro": "Bine, stai puțin, încet. Cine e sora ta?"
+  },
+  {
+   "key": "5133650337055272960",
+   "en": "A hacker. Real save-the-world activist type.",
+   "ro": "Un hacker. De tipul activist, din ăla care salvează lumea."
+  },
+  {
+   "key": "5133650662986248192",
+   "en": "She, uh, stole somethin' big... A shard... From the kinda people you don’t steal from.",
+   "ro": "Ea, ăă, a furat ceva mare... Un shard... De la genul de oameni de la care nu furi."
+  },
+  {
+   "key": "5133650804250406912",
+   "en": "It’s been days now and I haven’t heard a peep. That’s not like her.",
+   "ro": "Au trecut zile și n-am auzit niciun cuvânt. Nu-i de ea."
+  },
+  {
+   "key": "5133651462118600704",
+   "en": "Who’d she steal from?",
+   "ro": "De la cine a furat?"
+  },
+  {
+   "key": "5133651614975815680",
+   "en": "Not interested.",
+   "ro": "Nu mă interesează."
+  },
+  {
+   "key": "5133652203386335232",
+   "en": "Uh, can’t say who she klepped from?",
+   "en_m": "Can’t say who she klepped from?",
+   "ro": "Ăă, nu pot spune de la cine a ciordit?"
+  },
+  {
+   "key": "5133653818210152448",
+   "en": "Uh… wish I could say more. But she was scared to death of them.",
+   "ro": "Ăă... aș vrea să spun mai mult. Dar îi era frică de ei de moarte."
+  },
+  {
+   "key": "5133653903102865408",
+   "en": "Felt someone was tracking her, so she hid the shard.",
+   "ro": "Simțea că cineva o urmărea, așa că a ascuns shard-ul."
+  },
+  {
+   "key": "5133655091047198720",
+   "en": "Find the shard Haze stole, an' look for anythin' explainin' her disappearance.",
+   "ro": "Găsește shard-ul furat de Haze și caută orice ar explica dispariția ei."
+  },
+  {
+   "key": "5133655322958655488",
+   "en": "Thank you, V! You’re a life saver.",
+   "ro": "Mulțumesc, V! Mi-ai salvat viața."
+  },
+  {
+   "key": "5133655492995739648",
+   "en": "Uh, sure... I'll reach out when I've got somethin'.",
+   "ro": "Ăă, sigur... Te sun când am ceva."
+  },
+  {
+   "key": "5133656489193271296",
+   "en": "Night Corp? Hm.",
+   "ro": "Night Corp? Hm."
+  },
+  {
+   "key": "5134780758639931392",
+   "en": "I get it. Just, please... Haze is in real trouble. I don't think I can help her alone.",
+   "ro": "Înțeleg. Te rog, doar... Haze e în belea. Nu cred că pot s-o ajut singură."
+  },
+  {
+   "key": "5134780828298932224",
+   "en": "Right, well… If things open up, please let me know. Haze really needs your help.",
+   "ro": "Bine, păi... Dacă apare ceva nou, te rog să mă anunți. Haze chiar îi trebuie ajutorul tău."
+  },
+  {
+   "key": "5134780910859612160",
+   "en": "Yeah… But please, please ping me if anything changes.",
+   "ro": "Da... Dar, te rog, dă-mi un ping dacă se schimbă ceva."
+  },
+  {
+   "key": "5134828010645385220",
+   "en": "Can you afford me?",
+   "ro": "Îți permiți să mă plătești?"
+  },
+  {
+   "key": "5134829228553826304",
+   "en": "No more lies.",
+   "ro": "Fără minciuni."
+  },
+  {
+   "key": "5134831087972675584",
+   "en": "I do – I will. I’ll manage.",
+   "ro": "Îmi permit – o să-mi permit. Mă descurc."
+  },
+  {
+   "key": "5134835757357101056",
+   "en": "You lie to me again – we’re done.",
+   "ro": "Iar minți? Gata, s-a terminat."
+  },
+  {
+   "key": "5134837094836760576",
+   "en": "I understand. I’m sorry.",
+   "ro": "Înțeleg. Îmi pare rău."
+  },
+  {
+   "key": "5143313628618715136",
+   "en": "Stories 'bout the jobs you pulled got 'round.",
+   "ro": "S-a auzit tot despre joburile pe care le-ai tras."
+  },
+  {
+   "key": "5143324614071316480",
+   "en": "All right, let’s see what you’re packin'.",
+   "ro": "Bine, hai să vedem ce ai la tine."
+  },
+  {
+   "key": "5143326267516284928",
+   "en": "Well, hello there.",
+   "ro": "Ei, salut."
+  },
+  {
+   "key": "5143329198495920128",
+   "en": "Didn’t know who she stole it from, huh? Bullshit.",
+   "ro": "Nu știai de la cine a furat-o, nu? Pe dracu'!"
+  },
+  {
+   "key": "5143333502271254528",
+   "en": "Sitch is high stakes. Could mean life or death for your sis, Aera. Think it's time to hide shit from me?",
+   "ro": "Situația e cu miză mare. Poate fi viață sau moarte pentru sora ta, Aera. Crezi că e momentul să-mi ascunzi porcăriile astea?"
+  },
+  {
+   "key": "5143340327058173968",
+   "en": "Right, let's see if this tour can point me in Haze's direction.",
+   "ro": "Bine, hai să vedem dacă turul ăsta mă duce spre Haze."
+  },
+  {
+   "key": "5149659172752486416",
+   "en": "Not interested. Ain’t takin' on more right now.",
+   "ro": "Nu mă interesează. Nu mai iau altele acum.",
+   "ro_m": "Nu sunt interesat. Nu iau mai multe acum."
+  },
+  {
+   "key": "5149661359092166672",
+   "en": "She sounded paranoid. Sent me a short message about the shard, then vanished. That’s all I know. I swear.",
+   "ro": "Părea paranoică. Mi-a trimis un mesaj scurt despre shard, apoi a dispărut. Asta e tot ce știu. Jur."
+  },
+  {
+   "key": "5149662555391553552",
+   "en": "Hm. You knew Haze stole the shard from fuckin' Night Corp, had to know. Thought I wouldn't figure it out?",
+   "ro": "Hm. Știai că Haze a furat shard-ul de la nenorocita de Night Corp, trebuia să știi. Credeai că n-o să-mi dau seama?"
+  },
+  {
+   "key": "5151299032370278404",
+   "en": "Pretty convenient forgettin' to mention Haze stole the shard from fuckin' Night Corp.",
+   "ro": "Ce convenabil că ai uitat să zici că Haze a furat shard-ul de la nenorocita de Night Corp."
+  },
+  {
+   "key": "5151299129728462908",
+   "en": "What would it change?",
+   "ro": "Ce ar schimba?"
+  },
+  {
+   "key": "5151299224184189000",
+   "en": "Haze is going to die if we don’t find her fast.",
+   "ro": "Haze o să moară dacă nu o găsim repede."
+  },
+  {
+   "key": "5151309614347612172",
+   "en": "She sounded paranoid. Sent me a short message – ‘red cal’ – then vanished. No idea what it means. That’s all I know. I swear.",
+   "ro": "Părea paranoică. Mi-a trimis un mesaj scurt – „red cal” – apoi a dispărut. N-am idee ce înseamnă. Asta e tot ce știu. Jur."
+  },
+  {
+   "key": "5151309896490053688",
+   "en": "I’d slot the shard myself but I can’t afford a neural port. I need you for this. Please.",
+   "ro": "Mi-aș conecta shard-ul singură, dar nu-mi permit un port neural. Am nevoie de tine pentru asta. Te rog.",
+   "ro_m": "Mi-aș conecta shard-ul singur, dar nu-mi permit un port neural. Am nevoie de tine pentru asta. Te rog."
+  },
+  {
+   "key": "5175522529959112704",
+   "en": "V here.",
+   "ro": "V aici."
+  },
+  {
+   "key": "5175522529959112720",
+   "en": "Look, this is random, but I really need help.",
+   "ro": "Uite, sună aiurea, dar chiar am nevoie de ajutor."
+  },
+  {
+   "key": "5175522529959112736",
+   "en": "My sister, Haze… Someone’s gonna flatline her.",
+   "ro": "Sora mea, Haze... Cineva o să o lichideze."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_015.json",
+ "entries": [
+  {
+   "key": "2167890254985875456",
+   "en": "<kiroshi l=\"jpn\" o=\"ここよ、ここ！ あの人たちがライブをした店に自分がいるなんて！\" t=\"Here! Right here! One of their shows, right here!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ここよ、ここ！ あの人たちがライブをした店に自分がいるなんて！\" t=\"Aici! Chiar aici! Unul dintre concertele lor, chiar aici!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2214431610316886016",
+   "en": "Mmm, great. Can we go now?",
+   "ro": "Mmm, grozav. Putem pleca acum?"
+  },
+  {
+   "key": "2221584187127074816",
+   "en": "<kiroshi l=\"jpn\" o=\"もう、冷たいな\" t=\"Ughhh, you are the woooorst.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もう、冷たいな\" t=\"Ugh, ești cea mai nasoală.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"もう、冷たいな\" t=\"Ugh, ești cel mai nasol.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221584597598441472",
+   "en": "Listen, been to a million shows. I love shows. Maybe if I was a few implants short I'd think this was nova.",
+   "ro": "Ascultă, am fost la o mie de concerte. Îmi plac concertele. Poate dacă mi-ar lipsi câteva implanturi, aș zice că e mișto."
+  },
+  {
+   "key": "2221594023155830784",
+   "en": "But I'm not, and I don't.",
+   "ro": "Da' nu-s, și nu cred."
+  },
+  {
+   "key": "2221594210775437312",
+   "en": "<kiroshi l=\"jpn\" o=\"ジョニーが演ったのよ。〈Samurai〉と\" t=\"Johnny played here. With Samurai.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ジョニーが演ったのよ。〈Samurai〉と\" t=\"Johnny a cântat aici. Cu Samurai.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221594701509005312",
+   "en": "Yeah, so what?",
+   "ro": "Da, și ce?"
+  }
+ ]
+}

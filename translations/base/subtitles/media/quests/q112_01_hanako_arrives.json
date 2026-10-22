@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q112_01_hanako_arrives.json",
+ "entries": [
+  {
+   "key": "1743075249131671552",
+   "en": "Night City is still in a state of mourning following the death of Arasaka CEO Saburo Arasaka.",
+   "ro": "Night City e încă în doliu după moartea lui Saburo Arasaka, CEO-ul Arasaka."
+  },
+  {
+   "key": "1743077386448326656",
+   "en": "Flags on all city buildings were lowered to half-mast and all major public events have been postponed until further notice.",
+   "ro": "Steagurile de pe toate clădirile din oraș au fost coborâte în bernă, iar evenimentele publice mari au fost amânate până la nou-anunț."
+  },
+  {
+   "key": "1743077839198277632",
+   "en": "Daughter and heiress, Hanako Arasaka, recently arrived in the city in the wake of the tragedy.",
+   "ro": "Fiica și moștenitoarea, Hanako Arasaka, a ajuns în oraș de curând, după tragedie."
+  },
+  {
+   "key": "1743078341826891776",
+   "en": "A wake will be held at Arasaka Headquarters tomorrow at noon, after which the late CEO's remains will be transported to their final resting place back in his native Japan.",
+   "ro": "Mâine, la prânz, e priveghere la sediul central Arasaka, apoi rămășițele fostului CEO o să fie duse la locul de veci, în Japonia natală."
+  },
+  {
+   "key": "1743078834137518080",
+   "en": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Rest in peace.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Odihnește-te în pace.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

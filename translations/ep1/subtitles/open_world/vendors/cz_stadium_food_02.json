@@ -1,0 +1,39 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\vendors\\cz_stadium_food_02.json",
+ "entries": [
+  {
+   "key": "1935695189159358464",
+   "en": "Can I get any good grub here?",
+   "ro": "Pot să iau ceva bun de mâncare aici?"
+  },
+  {
+   "key": "1935695189159358480",
+   "en": "Smells delicious. Mouth's practically watering.",
+   "ro": "Miroase delicios. Mi se face gura apă."
+  },
+  {
+   "key": "1935695189209690116",
+   "en": "Can I get any good grub here?",
+   "ro": "Pot să iau ceva bun de mâncare aici?"
+  },
+  {
+   "key": "1935695189209690124",
+   "en": "You sure can, miss.",
+   "en_m": "You sure can, friend.",
+   "ro": "Sigur că poți, domnișoară.",
+   "ro_m": "Sigur că poți, prietene."
+  },
+  {
+   "key": "1935695189243244548",
+   "en": "Smells delicious. Mouth's practically watering.",
+   "en_m": "Ooh, smells delicious. Mouth's practically watering.",
+   "ro": "Miroase delicios. Mi se face gura apă.",
+   "ro_m": "Ooh, miroase delicios. Mi se face gura apă."
+  },
+  {
+   "key": "1935695189243244556",
+   "en": "Garlic sautéed in butter. Mm-mmm! Best smell in the whole wide world.",
+   "ro": "Usturoi călit în unt. Mm-mmm! Cel mai bun miros din lume!"
+  }
+ ]
+}

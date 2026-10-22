@@ -1,0 +1,839 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq027\\sq027_02_panam_and_santiago.json",
+ "entries": [
+  {
+   "key": "1776544926192177152",
+   "en": "No. The rest will stay here in camp.",
+   "ro": "Nu. Restul rămâne aici, în tabără."
+  },
+  {
+   "key": "1776648188379598848",
+   "en": "V, you're here.",
+   "ro": "V, ești aici."
+  },
+  {
+   "key": "1776652853401948160",
+   "en": "What is she doing here?",
+   "en_m": "What is he doing here?",
+   "ro": "Ce face ea aici?",
+   "ro_m": "Ce face el aici?"
+  },
+  {
+   "key": "1776653112710598656",
+   "en": "I forbade you from even breathing on that Militech convoy so you call in your friend?",
+   "ro": "Ți-am interzis să te apropii măcar de convoiul Militech, și tu o chemi pe prietena ta?",
+   "ro_m": "Ți-am interzis să te apropii măcar de convoiul Militech, și tu îl chemi pe prietenul tău?"
+  },
+  {
+   "key": "1776660594442964992",
+   "en": "I am starting to wonder.",
+   "ro": "Încep să mă întreb."
+  },
+  {
+   "key": "1776661433958076416",
+   "en": "Uh-huh. That's exactly why I had V come and stand right in front of you. Do you think I'm that stupid?",
+   "ro": "Aha. Exact de-aia am chemat-o pe V să stea chiar în fața ta. Crezi că sunt atât de proastă?",
+   "ro_m": "Aha. Exact de-aia l-am chemat pe V să stea chiar în fața ta. Crezi că sunt atât de proastă?"
+  },
+  {
+   "key": "1776664477932261380",
+   "en": "Got no notion what's going on.",
+   "ro": "N-am nicio idee ce se întâmplă."
+  },
+  {
+   "key": "1776665135649460224",
+   "en": "\"Forbade\" Panam from doing something?",
+   "ro": "„Interzis” lui Panam să facă ceva?"
+  },
+  {
+   "key": "1780583596230512640",
+   "en": "You really think you can \"forbid\" Panam from doing anything?",
+   "ro": "Chiar crezi că poți să-i „interzici” lui Panam să facă orice?"
+  },
+  {
+   "key": "1780584580549775360",
+   "en": "Trust me – no point. She'll do whatever she wants.",
+   "ro": "Crede-mă – n-are rost. Face ce vrea ea."
+  },
+  {
+   "key": "1780591402333573120",
+   "en": "No, she won't. Not if she plans to stay in this family.",
+   "ro": "Nu, nu o să facă. Nu dacă vrea să rămână în familia asta."
+  },
+  {
+   "key": "1780727836516356096",
+   "en": "Got no fuckin' clue what's going on here.",
+   "ro": "N-am nicio idee ce căcat se întâmplă aici."
+  },
+  {
+   "key": "1780735371902259200",
+   "en": "Dammit to hell, Saul!",
+   "ro": "Fir-ar al dracului, Saul!"
+  },
+  {
+   "key": "1780736837392076800",
+   "en": "Are you seriously considering letting that Basilisk slip through our fingers?",
+   "ro": "Chiar te gândești să lași Basilisk-ul ăla să ne scape printre degete?"
+  },
+  {
+   "key": "1780737680715616256",
+   "en": "I am.",
+   "ro": "Da."
+  },
+  {
+   "key": "1780742431167549440",
+   "en": "Or pissing Militech off so they hammer us into the dirt right here?",
+   "ro": "Sau să enervezi Militech, ca să ne zdrobească aici, pe loc?"
+  },
+  {
+   "key": "1780743047445024768",
+   "en": "Shit, Panam, can you please tell him…?",
+   "ro": "La naiba, Panam, poți să-i spui...?"
+  },
+  {
+   "key": "1780743552456003584",
+   "en": "I've already tried. Let it go, Mitch.",
+   "ro": "Am încercat deja. Las-o baltă, Mitch."
+  },
+  {
+   "key": "1780746055901843456",
+   "en": "The Biotechnica people will be here in an hour. Try not to cock anything else up before then.",
+   "ro": "Oamenii de la Biotechnica vor fi aici într-o oră. Încearcă să nu mai dai în bară cu nimic până atunci."
+  },
+  {
+   "key": "1780747141622599680",
+   "en": "I can't believe it. There he goes, off to paint the grass green.",
+   "ro": "Nu-mi vine să cred. Uite-l, se duce să vopsească iarba în verde."
+  },
+  {
+   "key": "1780747809120915456",
+   "en": "What's this about a Basilisk?",
+   "ro": "Despre ce Basilisk e vorba?"
+  },
+  {
+   "key": "1780749884412203008",
+   "en": "Bein' unusually quiet.",
+   "ro": "Ești cam tăcut azi."
+  },
+  {
+   "key": "1780750486764589056",
+   "en": "Bein' unusually quiet. What's up?",
+   "ro": "Ești cam tăcut azi. Ce-i cu tine?"
+  },
+  {
+   "key": "1780752107661758464",
+   "en": "I see no point in arguing with Saul. We can't win.",
+   "ro": "Nu are rost să mă cert cu Saul. Nu putem câștiga."
+  },
+  {
+   "key": "1780752595878744064",
+   "en": "So – givin' up?",
+   "ro": "Deci – te dai bătută?",
+   "ro_m": "Deci – te dai bătut?"
+  },
+  {
+   "key": "1780753108120702976",
+   "en": "Of course not. We'll take the Basilisk ourselves, then wait for Saul to admit we were right.",
+   "ro": "Sigur că nu. Luăm noi Basilisk-ul și așteptăm până când Saul recunoaște că am avut dreptate."
+  },
+  {
+   "key": "1780753455694286848",
+   "en": "Either that or to boot us out of the family.",
+   "ro": "Sau să ne dea afară din familie."
+  },
+  {
+   "key": "1780796771714535424",
+   "en": "It's an armored Militech cargo panzer – junk from back in 2060 or so.",
+   "ro": "E un panzer blindat de transport Militech – vechituri din 2060 sau cam așa."
+  },
+  {
+   "key": "1780804510457073664",
+   "en": "They want to peddle it off to a backwards country, somewhere it can still pass as a technological wonder.",
+   "ro": "Vor să-l vândă unei țări înapoiate, unde poate trece încă drept minune tehnologică."
+  },
+  {
+   "key": "1780819596445814784",
+   "en": "The Militech convoy will take the one-oh-one, right past us.",
+   "ro": "Convoiul Militech o să ia 101-ul, chiar pe lângă noi."
+  },
+  {
+   "key": "1780828145242673152",
+   "en": "Shame not to say hello.",
+   "ro": "Păcat să nu-i salutăm."
+  },
+  {
+   "key": "1780832286463561728",
+   "en": "Lemme guess – whole thing's your idea?",
+   "ro": "Lasă-mă să ghicesc – a fost ideea ta, nu?"
+  },
+  {
+   "key": "1780837009736404992",
+   "en": "How did you know?",
+   "ro": "Cum ai știut?"
+  },
+  {
+   "key": "1780839069408104448",
+   "en": "Saul wouldn't be quite so pissed if it weren't.",
+   "ro": "Saul n-ar fi chiar atât de furios dacă n-ar fi adevărat."
+  },
+  {
+   "key": "1780839744993038340",
+   "en": "What's the plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "1780842766267650048",
+   "en": "'Member when you told me to give you a good kick in the pants?",
+   "ro": "Ții minte când mi-ai zis să-ți trag un șut în fund?"
+  },
+  {
+   "key": "1780843283089788928",
+   "en": "On the contrary, easy as pie. There won't even be much security on the convoy.",
+   "ro": "Dimpotrivă, floare la ureche. Nici n-o să fie prea multă pază pe convoi."
+  },
+  {
+   "key": "1780844154045403136",
+   "en": "Plus, we'll be doing our part towards furthering the cause of world peace.",
+   "ro": "Plus, o să ne facem și noi partea pentru pacea mondială."
+  },
+  {
+   "key": "1780844865953009664",
+   "en": "Thought you and Saul were getting along.",
+   "ro": "Credeam că te înțelegi cu Saul."
+  },
+  {
+   "key": "1780845707632381952",
+   "en": "I believe V is right. If this had been Saul's idea, he would've seen it as the greatest plan on God's green earth.",
+   "ro": "Cred că V are dreptate. Dacă ar fi fost ideea lui Saul, ar fi văzut-o ca pe cel mai mare plan de pe fața pământului."
+  },
+  {
+   "key": "1780854954730524672",
+   "en": "'Member, a while back, told me to give you a solid kick in the pants if I saw you divin' in the stupid pool again?",
+   "ro": "Ții minte, acum ceva vreme, mi-ai zis să-ți trag un șut zdravăn în fund dacă te mai prind că te arunci iar în bazinul ăla de proști?"
+  },
+  {
+   "key": "1780857119494705152",
+   "en": "Why should this beast wind up being used in some little third world skirmish?",
+   "ro": "De ce ar trebui să ajungă fiara asta într-o încăierare de doi bani din lumea a treia?"
+  },
+  {
+   "key": "1780858936819519488",
+   "en": "Basilisk worth a fight with Saul?",
+   "ro": "Merită Basilisk-ul o ceartă cu Saul?"
+  },
+  {
+   "key": "1780860496261746688",
+   "en": "Bull. Saul isn't that petty.",
+   "ro": "Prostii. Saul nu e atât de meschin."
+  },
+  {
+   "key": "1780887625020018688",
+   "en": "He's simply a coward. He would rather play it safe, bide his time. For the family.",
+   "ro": "E doar un fricos. Ar prefera să joace la sigur, să aștepte. Pentru familie."
+  },
+  {
+   "key": "1780911523258241028",
+   "en": "Thought the Biotechnica job was a bust.",
+   "ro": "Credeam că treaba cu Biotechnica s-a dus pe apa sâmbetei."
+  },
+  {
+   "key": "1780911964784234496",
+   "en": "Thought the Biotechnica contract had withered and died.",
+   "ro": "Credeam că s-a zis cu contractul de la Biotechnica."
+  },
+  {
+   "key": "1780930162627776512",
+   "en": "This Basilisk worth another fight with Saul?",
+   "ro": "Merită Basilisk-ul ăsta încă o ceartă cu Saul?"
+  },
+  {
+   "key": "1780942008365682688",
+   "en": "I do. Yet that was before our tandem raid on the Raffen camp.",
+   "ro": "Eu da. Dar asta a fost înainte să facem raidul împreună la tabăra Raffens."
+  },
+  {
+   "key": "1782044560914190336",
+   "en": "The family is falling apart. If we fall into this Biotechnica rut, no one will ever take us seriously again.",
+   "ro": "Familia se destramă. Dacă intrăm în mocirla asta cu Biotechnica, nimeni n-o să ne mai ia în serios."
+  },
+  {
+   "key": "1782045603114848256",
+   "en": "Why's Saul got his briefs in a bunch over this Basilisk?",
+   "ro": "De ce își face Saul atâtea nervi pentru Basilisk-ul ăsta?"
+  },
+  {
+   "key": "1782059656314949632",
+   "en": "Saul insists we see it through to the end – to prove the Aldecaldos keep their word.",
+   "ro": "Saul insistă să ducem până la capăt – ca să dovedim că Aldecaldos își țin cuvântul."
+  },
+  {
+   "key": "1782060507674775552",
+   "en": "Crop protection! Who gives a damn about crop protection?!",
+   "ro": "Protecția culturilor! Pe cine dracu' mai interesează protecția culturilor?!"
+  },
+  {
+   "key": "1782065922219249664",
+   "en": "All Saul is going to prove is that a corp can walk all over us, and we'll say thank you and ask for more.",
+   "ro": "Tot ce o să dovedească Saul e că o corporație poate să calce pe noi, iar noi o să spunem mulțumesc și o să cerem mai mult."
+  },
+  {
+   "key": "1782087362695991296",
+   "en": "OK, so you do wanna go behind Saul's back, dragged me here specifically for that.",
+   "ro": "OK, deci vrei să mergi pe la spatele lui Saul, m-ai adus aici tocmai pentru asta."
+  },
+  {
+   "key": "1782115196332216320",
+   "en": "Cassidy, Ted, Carol and Bob – also on board.",
+   "ro": "Cassidy, Ted, Carol și Bob – și ei sunt de acord."
+  },
+  {
+   "key": "1782121599423811584",
+   "en": "He's afraid Militech will destroy us if we pick a fight with it.",
+   "ro": "Se teme că Militech o să ne zdrobească dacă ne luăm la trântă cu ei."
+  },
+  {
+   "key": "1782123551335452672",
+   "en": "He thinks it safer to stick with the corporations. Like Biotechnica – what a joke!",
+   "ro": "Crede că e mai sigur să rămânem cu corporațiile. Ca Biotechnica – ce glumă!"
+  },
+  {
+   "key": "1782124547281326080",
+   "en": "We would rather go back to plying the trade we know best – logistics.",
+   "ro": "Ne-ar plăcea mai degrabă să ne întoarcem la ce ne iese cel mai bine – logistica."
+  },
+  {
+   "key": "1782167584028037120",
+   "en": "Meanin' smugglin'.",
+   "ro": "Adică contrabanda."
+  },
+  {
+   "key": "1782167869794357248",
+   "en": "That's what I said.",
+   "ro": "Asta am zis."
+  },
+  {
+   "key": "1782169260206133248",
+   "en": "I believe you lost your opportunity there.",
+   "ro": "Cred că ți-ai pierdut șansa acolo."
+  },
+  {
+   "key": "1782171193360846848",
+   "en": "Nope, different, that – rescue mission. Someone from the family.",
+   "ro": "Nu, e altceva – o misiune de salvare. Cineva din familie."
+  },
+  {
+   "key": "1782171699764334592",
+   "en": "Now, you're out to plain trick him.",
+   "ro": "Acum vrei doar să-l tragi pe sfoară."
+  },
+  {
+   "key": "1782172056263397376",
+   "en": "If you plan to lecture me, you can damn well go right now.",
+   "ro": "Dacă vrei să mă ții de morală, poți să te cari dracu' chiar acum."
+  },
+  {
+   "key": "1782182281473232896",
+   "en": "Terrible idea, all this. Sorry, can't, won't get involved.",
+   "en_m": "Terrible idea, all this. Sorry, I can't-- won't get involved.",
+   "ro": "Ideea asta e proastă de tot. Scuze, nu pot – nu vreau să mă bag."
+  },
+  {
+   "key": "1782183723676274688",
+   "en": "Suit yourself.",
+   "ro": "Cum vrei tu."
+  },
+  {
+   "key": "1782184768997494784",
+   "en": "And you plan to grab the Basilisk how?",
+   "ro": "Și cum plănuiești să pui mâna pe Basilisk?"
+  },
+  {
+   "key": "1782187483785924608",
+   "en": "But if you change your mind...",
+   "ro": "Dar dacă te răzgândești..."
+  },
+  {
+   "key": "1782189187512209408",
+   "en": "Fuck, Mitch. You heard her. She said this is not her concern.",
+   "en_m": "Fuck, Mitch. You heard him. He said this is not his concern.",
+   "ro": "Futu-i, Mitch. Ai auzit-o. A zis că nu-i treaba ei.",
+   "ro_m": "Futu-i, Mitch. L-ai auzit. A zis că nu-i treaba lui."
+  },
+  {
+   "key": "1782192144563638272",
+   "en": "Thought you and Saul'd agreed to bury your carbines.",
+   "ro": "Credeam că tu și Saul ați zis să puneți armele-n cui."
+  },
+  {
+   "key": "1782235166898720768",
+   "en": "Thanks, V.",
+   "ro": "Mulțumesc, V."
+  },
+  {
+   "key": "1782236431900807168",
+   "en": "So did I. But it seems that's only true when somebody is trying to kill us.",
+   "ro": "Și eu. Dar se pare că asta e valabil doar când vrea cineva să ne omoare."
+  },
+  {
+   "key": "1782237230915719168",
+   "en": "'Zactly. You saved his life. Wanna fuck things up all over again now?",
+   "en_m": "Zactly. You saved his life. You wanna fuck things up all over again now?",
+   "ro": "Exact. I-ai salvat viața. Acum vrei să faci praf totul iar?"
+  },
+  {
+   "key": "1782239351438381056",
+   "en": "OK, let's go talk to the rest.",
+   "ro": "OK, hai să vorbim cu restul."
+  },
+  {
+   "key": "1782249340861222912",
+   "en": "I saved his life, yet somehow he still ignores everything I say.",
+   "ro": "I-am salvat viața și tot nu bagă în seamă nimic din ce zic."
+  },
+  {
+   "key": "1782251740674199552",
+   "en": "So I do believe we have come full circle.",
+   "ro": "Deci cred că am ajuns la punctul de plecare."
+  },
+  {
+   "key": "1782261366148894720",
+   "en": "I want patrols every half hour, reporting directly to me.",
+   "ro": "Vreau patrule la fiecare jumătate de oră, care să raporteze direct la mine."
+  },
+  {
+   "key": "1782261893591011328",
+   "en": "Are we preparing for a visit from Biotechnica?",
+   "ro": "Ne pregătim de o vizită din partea corporației Biotechnica?"
+  },
+  {
+   "key": "1782262347783802880",
+   "en": "The Raffens could surprise us at any moment.",
+   "ro": "Gașca Raffens ar putea să ne surprindă în orice moment."
+  },
+  {
+   "key": "1782263412130385920",
+   "en": "I don't want any more surprises.",
+   "ro": "Nu mai vreau surprize."
+  },
+  {
+   "key": "1791111866189418496",
+   "en": "No. OK, everyone listen. Militech will transport the Basilisk in parts distributed across two trucks.",
+   "ro": "Nu. OK, ascultați toți. Militech o să transporte Basilisk-ul în piese, împărțite pe două camioane."
+  },
+  {
+   "key": "1791119057642393600",
+   "en": "Wait – do I sense a quiver in your voice?",
+   "ro": "Stai – simt o ezitare în vocea ta?"
+  },
+  {
+   "key": "1791119366477385728",
+   "en": "Fuck you.",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "1791140523922493440",
+   "en": "Haven't said I'd help just yet.",
+   "ro": "N-am zis încă că ajut."
+  },
+  {
+   "key": "1791163498558197760",
+   "en": "The convoy we'll halt at the railroad crossing on the one-oh-one.",
+   "ro": "Convoiul o să-l oprim la trecerea la nivel de pe 101."
+  },
+  {
+   "key": "1791166483560468480",
+   "en": "We'll attack from behind, then get the hell out and away.",
+   "ro": "Atacăm din spate, apoi ne cărăm naibii de-acolo."
+  },
+  {
+   "key": "1791168305817784320",
+   "en": "Questions, comments, motions?",
+   "ro": "Întrebări, comentarii, propuneri?"
+  },
+  {
+   "key": "1791172326645370884",
+   "en": "OK, I'm in.",
+   "ro": "OK, am intrat."
+  },
+  {
+   "key": "1791173472294342656",
+   "en": "It all seems too perfect, too easy…",
+   "ro": "Totul pare prea perfect, prea ușor…"
+  },
+  {
+   "key": "1791174393682268160",
+   "en": "Don't wanna get involved.",
+   "ro": "Nu vreau să mă bag."
+  },
+  {
+   "key": "1791179111368298496",
+   "en": "Panam's got a beef with Saul, I know. But you guys?",
+   "ro": "Panam are o rafă cu Saul, știu. Dar voi?"
+  },
+  {
+   "key": "1791180345147985920",
+   "en": "OK. I'm in.",
+   "ro": "OK. Sunt înăuntru."
+  },
+  {
+   "key": "1791180838146478080",
+   "en": "Hmm. OK. Thanks.",
+   "ro": "Hmm. OK. Mulțumesc."
+  },
+  {
+   "key": "1791181282021281792",
+   "en": "It's all too... easy. Convenient to arrange.",
+   "ro": "E totul prea... ușor. Prea convenabil aranjat."
+  },
+  {
+   "key": "1791182237936717824",
+   "en": "The exact tech you need. Comin' your way almost served on a silver platter.",
+   "ro": "Exact tehnologia de care ai nevoie. Aproape că ți-o servesc pe tavă de argint."
+  },
+  {
+   "key": "1791182427989020672",
+   "en": "Panam's got a beef with Saul, I know. But you guys...?",
+   "ro": "Panam are o rafă cu Saul, știu. Dar voi...?"
+  },
+  {
+   "key": "1791193858188840960",
+   "en": "Nice job, sunshine.",
+   "ro": "Treabă bună, bătrâne."
+  },
+  {
+   "key": "1791194391754641408",
+   "en": "Mhm. Damn short, sweet and pertinent.",
+   "ro": "Mhm. Al naibii de scurt, dulce și la obiect."
+  },
+  {
+   "key": "1791194920975142912",
+   "en": "None of that sad-sack bullshit Saul likes to tack on.",
+   "ro": "Fără toate prostiile alea jalnice pe care le lipește Saul."
+  },
+  {
+   "key": "1791205783987621888",
+   "en": "A few years back, nobody would have given corpo work a second thought.",
+   "ro": "Acum câțiva ani, nimeni nu s-ar fi gândit de două ori la munca pentru corpo."
+  },
+  {
+   "key": "1791207949288673280",
+   "en": "We want a good name, we just need good gear and good jobs.",
+   "ro": "Vrem un nume bun, avem nevoie doar de echipament bun și joburi bune."
+  },
+  {
+   "key": "1791208706092109824",
+   "en": "And Saul would see that if he pulled his head out of his caboose once in a while.",
+   "ro": "Și Saul ar vedea asta dacă și-ar scoate capul din fund din când în când."
+  },
+  {
+   "key": "1791213768130498560",
+   "en": "Yes. Saul also claimed it stinks to high heaven.",
+   "ro": "Da. Saul a zis și că miroase a dracu'."
+  },
+  {
+   "key": "1791213925450452992",
+   "en": "Intel on the convoy – where'd you get it?",
+   "ro": "Informații despre convoi – de unde le-ai luat?"
+  },
+  {
+   "key": "1791214380163338240",
+   "en": "Carol hacked the Militech comms channel. Is that enough for you?",
+   "ro": "Carol a hack-uit canalul de comunicații Militech. Ajunge?"
+  },
+  {
+   "key": "1802438251616997376",
+   "en": "What's this Basilisk nonsense?",
+   "ro": "Ce-i cu prostia asta de Basilisk?"
+  },
+  {
+   "key": "1802443723489218564",
+   "en": "So, just the four vets on board with the plan, nobody else?",
+   "ro": "Deci doar cei patru veterani sunt de acord cu planul, nimeni altcineva?"
+  },
+  {
+   "key": "1802443723539550208",
+   "en": "We didn't bother asking the others.",
+   "ro": "N-am stat să-i întrebăm pe ceilalți."
+  },
+  {
+   "key": "1802448238724583424",
+   "en": "There was too great a risk someone would take it to Saul.",
+   "ro": "Era prea mare riscul ca cineva să-i spună lui Saul."
+  },
+  {
+   "key": "1802453846743912448",
+   "en": "Besides, only the vets understand what we stand to gain by having a Basilisk.",
+   "ro": "Oricum, doar veteranii înțeleg ce avem de câștigat cu un Basilisk."
+  },
+  {
+   "key": "1824359683410169856",
+   "en": "To do it all behind my back, is that it?",
+   "ro": "Să faceți totul pe la spatele meu, asta-i?"
+  },
+  {
+   "key": "1872244887184494592",
+   "en": "And you guys'd rather...?",
+   "ro": "Iar voi ați prefera...?"
+  },
+  {
+   "key": "1874979166444343296",
+   "en": "Did you try to get Saul on board again? No luck, huh?",
+   "ro": "L-ați mai încercat pe Saul? Fără noroc, nu?"
+  },
+  {
+   "key": "1876487755657576452",
+   "en": "Just the vets on board, nobody else?",
+   "ro": "Doar veteranii la bord, nimeni altcineva?"
+  },
+  {
+   "key": "1877830541561843712",
+   "en": "Or a Fourth Corporate War?",
+   "ro": "Sau un Al Patrulea Război Corporatist?"
+  },
+  {
+   "key": "1877831674795675648",
+   "en": "You're not blowing this a little out of proportion...?",
+   "ro": "Nu exagerezi puțin...?"
+  },
+  {
+   "key": "1877831981567070208",
+   "en": "Besides, we'll look good, aware, prepared.",
+   "ro": "Oricum, o să arătăm bine, atenți, pregătiți."
+  },
+  {
+   "key": "1877844127701028864",
+   "en": "Get the sense this fight's grown stale. C'mon, put some feeling into it.",
+   "ro": "Am impresia că lupta asta a devenit plictisitoare. Hai, pune ceva suflet în ea."
+  },
+  {
+   "key": "1877846715922141188",
+   "en": "Feel like this fight's been goin' on a while.",
+   "ro": "Parcă lupta asta ține de ceva vreme."
+  },
+  {
+   "key": "1877847454337748992",
+   "en": "Wow, a lot's changed since I left.",
+   "ro": "Wow, s-au schimbat multe de când am plecat."
+  },
+  {
+   "key": "1877859196426014720",
+   "en": "But a chance like this...",
+   "ro": "Dar o șansă ca asta..."
+  },
+  {
+   "key": "1877860381249785856",
+   "en": "A chance at what? Rotting up the job we came here to do?",
+   "ro": "Șansă la ce? Să dăm în bară la treaba pentru care am venit?"
+  },
+  {
+   "key": "1877934062168723456",
+   "en": "No. This discussion ended long ago.",
+   "ro": "Nu. Discuția asta s-a încheiat de mult."
+  },
+  {
+   "key": "1877948591590100992",
+   "en": "Wow, seems a lot changed while I was away.",
+   "ro": "Wow, parcă s-au schimbat multe cât am lipsit."
+  },
+  {
+   "key": "1877951587698888704",
+   "en": "No, nothing has changed at all.",
+   "ro": "Nu, nu s-a schimbat nimic deloc."
+  },
+  {
+   "key": "1887983066578092032",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1888135099156549632",
+   "en": "Lemme guess. Your idea?",
+   "ro": "Lasă-mă să ghicesc. Ideea ta?"
+  },
+  {
+   "key": "1888148922475237376",
+   "en": "Yes! A craft like that would finally put us back on the right path.",
+   "ro": "Da! Una ca asta ne-ar pune în sfârșit pe drumul cel bun."
+  },
+  {
+   "key": "1888150337297862656",
+   "en": "Basilisk – what's Saul's problem with it?",
+   "ro": "Basilisk – ce problemă are Saul cu el?"
+  },
+  {
+   "key": "1888159554364788740",
+   "en": "Sounds pretty darn risky, this.",
+   "ro": "Sună al naibii de riscant, asta."
+  },
+  {
+   "key": "1888160794972803072",
+   "en": "Sounds pretty risky to me.",
+   "ro": "Mie mi se pare cam riscant."
+  },
+  {
+   "key": "1888167615112433664",
+   "en": "We'll make better use of it right here in America.",
+   "ro": "O să-l folosim mai bine chiar aici, în America."
+  },
+  {
+   "key": "1888174315546628096",
+   "en": "First, we'll ride to the station.",
+   "ro": "Mai întâi, mergem la gară."
+  },
+  {
+   "key": "1888184988389363712",
+   "en": "The train engine we need to block the convoy's way is there.",
+   "ro": "Locomotiva de care avem nevoie ca să blocăm convoiul e acolo."
+  },
+  {
+   "key": "1892182770691362820",
+   "en": "Is everything clear?",
+   "ro": "Totul e clar?"
+  },
+  {
+   "key": "1934231520742756352",
+   "en": "I think I heard a little shake in that voice.",
+   "ro": "Parcă mi s-a părut că ți-a tremurat puțin vocea."
+  },
+  {
+   "key": "1934232031055335428",
+   "en": "But – are you sure you didn't leave any tracks? Militech won't notice a thing?",
+   "ro": "Dar – ești sigur că n-ai lăsat urme? Militech n-o să observe nimic?"
+  },
+  {
+   "key": "1934236677253648384",
+   "en": "Are you trying to insult me, Bobby?",
+   "ro": "Încerci să mă insulți, Bobby?"
+  },
+  {
+   "key": "1934237810185490432",
+   "en": "You did not.",
+   "ro": "N-ai făcut-o."
+  },
+  {
+   "key": "1934241419333750788",
+   "en": "Are we going?",
+   "ro": "Plecam?"
+  },
+  {
+   "key": "1934249007584661508",
+   "en": "I'm riding with.",
+   "ro": "Vin și eu."
+  },
+  {
+   "key": "1934249743315914752",
+   "en": "Are you riding with us, or will we meet you there?",
+   "ro": "Vii cu noi, sau ne întâlnim acolo?"
+  },
+  {
+   "key": "1934253358050988032",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1934254185167736836",
+   "en": "Well? V?",
+   "ro": "Ei? V?"
+  },
+  {
+   "key": "1934261405880176640",
+   "en": "We'll meet there.",
+   "ro": "Ne întâlnim acolo."
+  },
+  {
+   "key": "1934263444446138368",
+   "en": "Ridin' with you.",
+   "ro": "Vin cu voi."
+  },
+  {
+   "key": "1934264412810268676",
+   "en": "Meet you there.",
+   "ro": "Ne vedem acolo."
+  },
+  {
+   "key": "1934267567144980480",
+   "en": "Excellent. Let's get going.",
+   "ro": "Bun. Hai să pornim."
+  },
+  {
+   "key": "1934267782480547840",
+   "en": "Not a problem.",
+   "ro": "Nicio problemă."
+  },
+  {
+   "key": "1934289029532766212",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1957711485775314948",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1993677816921190400",
+   "en": "Come on, let's go.",
+   "ro": "Hai, mergem."
+  },
+  {
+   "key": "1993768991745241088",
+   "en": "Aw, come on. Did your hands get clammy, too?",
+   "ro": "Hai, mă. Ți-au transpirat și mâinile?"
+  },
+  {
+   "key": "1993821569174597632",
+   "en": "Screw you.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1993825663066959872",
+   "en": "OK, OK. Forget I even asked.",
+   "ro": "OK, OK. Uită că am întrebat."
+  },
+  {
+   "key": "2230209024333791232",
+   "en": "If you don't want to, you don't need to drop into the middle of this.",
+   "ro": "Dacă nu vrei, nu ești obligat să te bagi în treaba asta."
+  },
+  {
+   "key": "2230211747443720192",
+   "en": "But we could use your help – that's undeniable.",
+   "ro": "Dar ne-ar prinde bine o mână de ajutor – și asta nu se discută."
+  },
+  {
+   "key": "2266579595219980292",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "2429848719008755712",
+   "en": "OK, I'm in.",
+   "ro": "OK, am intrat."
+  },
+  {
+   "key": "2429848719008755736",
+   "en": "[Stand] Don't wanna get involved.",
+   "ro": "[Ridică-te] Nu vreau să mă bag."
+  },
+  {
+   "key": "2429848719008755760",
+   "en": "It all seems too perfect, too easy…",
+   "ro": "Totul pare prea perfect, prea ușor…"
+  },
+  {
+   "key": "2429861517239545856",
+   "en": "[Stand] I'm riding with.",
+   "ro": "[Ridică-te] Vin cu voi."
+  },
+  {
+   "key": "2429861517239545880",
+   "en": "[Stand] We'll meet there.",
+   "ro": "[Ridică-te] Ne întâlnim acolo."
+  },
+  {
+   "key": "2472132365350367236",
+   "en": "[Get up]",
+   "ro": "[Ridică-te]"
+  }
+ ]
+}

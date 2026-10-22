@@ -1,0 +1,131 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q116\\q116_05a_ripperdoc_roof.json",
+ "entries": [
+  {
+   "key": "2024289353017614336",
+   "en": "<kiroshi l=\"mex\" o=\"Chica.\" t=\"Sister.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"Mano.\" t=\"Brother.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Chica.\" t=\"Soră.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Mano.\" t=\"Frate.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2024289494466322432",
+   "en": "Jackie!",
+   "ro": "Jackie!"
+  },
+  {
+   "key": "2024289619154591748",
+   "en": "Jackie!",
+   "ro": "Jackie!"
+  },
+  {
+   "key": "2024289801724256256",
+   "en": "How'd you wind up here?",
+   "ro": "Cum ai ajuns aici?"
+  },
+  {
+   "key": "2024289895374675968",
+   "en": "How the hell are you in Mikoshi?",
+   "ro": "Cum dracu' ești în Mikoshi?"
+  },
+  {
+   "key": "2024290124517892100",
+   "en": "Why you beein' so strange?",
+   "ro": "De ce ești așa ciudat?"
+  },
+  {
+   "key": "2024290232328282112",
+   "en": "Where are we? This a dream?",
+   "ro": "Unde suntem? E un vis?"
+  },
+  {
+   "key": "2024290471554605056",
+   "en": "What is up with this? Why you actin' so weird?",
+   "ro": "Ce-i cu tine? De ce te porți așa ciudat?"
+  },
+  {
+   "key": "2024290569382551552",
+   "en": "Arasaka do this, hit you with Soulkiller? How's that even possible – you died.",
+   "ro": "Arasaka ți-a făcut asta, cu Soulkiller? Cum dracu' e posibil – ai murit."
+  },
+  {
+   "key": "2024290656926064640",
+   "en": "Arasaka kill your soul, copy you?",
+   "ro": "Arasaka ți-a ucis sufletul, te-a copiat?"
+  },
+  {
+   "key": "2024290835469197312",
+   "en": "Misty knew... Misty always knows...",
+   "ro": "Misty știa... Misty știe mereu..."
+  },
+  {
+   "key": "2024291930685857792",
+   "en": "[Stand] G'bye, Jackie.",
+   "ro": "[Ridică-te] Pa, Jackie."
+  },
+  {
+   "key": "2024293183910338560",
+   "en": "G'bye, old friend.",
+   "ro": "Pa, vechi prieten."
+  },
+  {
+   "key": "2024306196503617536",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Gonna be up to our necks in juicy contracts, \" a=\", I can feel it.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Gonna be to up our necks in juicy contracts, \" a=\", I can feel it.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"O să fim până la gât în contracte bănoase, \" a=\", simt asta.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"bróder\" b=\"O să fim până la gât în contracte bănoase, \" a=\", simt asta.\"/>"
+  },
+  {
+   "key": "2024363843168788480",
+   "en": "It'll be all right, V, you'll see.",
+   "ro": "O să fie bine, V, o să vezi."
+  },
+  {
+   "key": "2024393187945635840",
+   "en": "Afterlife – see you there.",
+   "ro": "Afterlife – ne vedem acolo."
+  },
+  {
+   "key": "2024394628387069952",
+   "en": "<mothertongue l=\"mex\" m=\"mamita\" b=\"Hit the major leagues, \" a=\"! Runnin' with Dex! Fat-assed Black Jesus of the Afterlife. A heap of partly gold-plated cool. Not bad, eh?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Hit the major leagues, \" a=\"! Runnin' with Dex! Fat-assed Black Jesus of the Afterlife. A heap of partly gold-plated cool. Not bad, eh?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mamita\" b=\"Am ajuns în liga mare, \" a=\"! Alergăm cu Dex! Iisusul ăla negru, cu fundul gras, de la Afterlife. O grămadă de stil placat parțial cu aur. Nu-i rău, nu?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Am ajuns în liga mare, \" a=\"! Alergăm cu Dex! Iisusul ăla negru, cu fundul gras, de la Afterlife. O grămadă de stil placat parțial cu aur. Nu-i rău, nu?\"/>"
+  },
+  {
+   "key": "2024436119515979776",
+   "en": "Jackie, amigo…",
+   "ro": "Jackie, amigo…"
+  },
+  {
+   "key": "2024437404533284864",
+   "en": "[Stand] G'bye, my friend.",
+   "ro": "[Ridică-te] Pa, prietene."
+  },
+  {
+   "key": "2024438743740997632",
+   "en": "You really got no idea who I am?",
+   "ro": "Chiar nu știi cine sunt?"
+  },
+  {
+   "key": "2080544086231277572",
+   "en": "[Pick up]",
+   "ro": "[Ridică]"
+  },
+  {
+   "key": "2292571945159081988",
+   "en": "[Sit] Jackie!",
+   "ro": "[Așează-te] Jackie!"
+  },
+  {
+   "key": "2292572629770158080",
+   "en": "[Sit] How are you even here?",
+   "ro": "[Așează-te] Cum dracu' ești aici?"
+  },
+  {
+   "key": "2292572670555570176",
+   "en": "G'bye, Jackie.",
+   "ro": "Pa, Jackie."
+  }
+ ]
+}

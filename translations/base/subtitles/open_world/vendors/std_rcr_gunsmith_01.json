@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_rcr_gunsmith_01.json",
+ "entries": [
+  {
+   "key": "1828465168108400640",
+   "en": "Looking for new weapons.",
+   "ro": "Caut arme noi."
+  },
+  {
+   "key": "1828465168108400656",
+   "en": "How's business?",
+   "ro": "Cum merge afacerea?"
+  },
+  {
+   "key": "1828465168125177860",
+   "en": "Lookin' for some fresh iron.",
+   "ro": "Caut ceva fier proaspăt."
+  },
+  {
+   "key": "1828465168141955072",
+   "en": "Look no further. I've got you covered.",
+   "ro": "Nu mai căuta. Am ce-ți trebuie."
+  },
+  {
+   "key": "1828465168158732292",
+   "en": "How's biz?",
+   "ro": "Cum merge afacerea?"
+  },
+  {
+   "key": "1828465168158732300",
+   "en": "Can't complain. People in Night City rather die of hunger than walk around with last-gen iron.",
+   "ro": "Nu mă plâng. Lumea din Night City ar muri de foame decât să umble cu fiare de muzeu."
+  }
+ ]
+}

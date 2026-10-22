@@ -1,0 +1,470 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq005\\mq005_01_alley.json",
+ "entries": [
+  {
+   "key": "1827261479582191616",
+   "en": "Fuck you lookin' at? Nothin' to see here – move along!",
+   "ro": "Ce pula mea te uiți? Nimic de văzut aici – mișcă-te!"
+  },
+  {
+   "key": "1827262982250319872",
+   "en": "What's going on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1827263983934001152",
+   "en": "Stop it or else you'll kill him.",
+   "ro": "Oprește-te, că îl omori."
+  },
+  {
+   "key": "1827264974796378112",
+   "en": "What's goin' on here?",
+   "ro": "Ce se întâmplă aici?"
+  },
+  {
+   "key": "1827265192178765828",
+   "en": "Take it easy, or you'll kill 'im.",
+   "ro": "Ia-o mai ușor, că-l omori."
+  },
+  {
+   "key": "1827265657964613632",
+   "en": "Is this how you protect and serve?",
+   "ro": "Așa protejați și serviți?"
+  },
+  {
+   "key": "1827268203001171968",
+   "en": "This your first day in Night City? What's it fuckin' look like?",
+   "ro": "Prima zi în Night City? Ce dracu' crezi că e?"
+  },
+  {
+   "key": "1827268956096843776",
+   "en": "Get outta here, piss-ant!",
+   "ro": "Cară-te de aici, pișicherule!"
+  },
+  {
+   "key": "1827271164548894720",
+   "en": "Yeah, and? He your brother or somethin'? The fuck you care?",
+   "ro": "Și? E fratele tău sau ceva? Ce pula mea te interesează?"
+  },
+  {
+   "key": "1827271838573547520",
+   "en": "Oh, is this how Night City's finest \"protect and serve\"?",
+   "en_m": "Is this how Night City's finest \"protect and serve\"?",
+   "ro": "O, așa protejează și servesc cei mai buni din Night City?",
+   "ro_m": "Așa protejează și servesc cei mai buni din Night City?"
+  },
+  {
+   "key": "1827273266364960768",
+   "en": "Don't care – don't know 'im.",
+   "en_m": "I don't care – don't know 'im.",
+   "ro": "Nu-mi pasă – nu-l cunosc."
+  },
+  {
+   "key": "1827273370081710080",
+   "en": "So, why the fuck we talkin'?",
+   "ro": "Atunci de ce pula mea vorbim?"
+  },
+  {
+   "key": "1827274107742343168",
+   "en": "He put a girl into a coma. Daughter of a friend.",
+   "ro": "A băgat o fată în comă. Fiica unui prieten."
+  },
+  {
+   "key": "1827274573695963136",
+   "en": "Like to know what's goin' on around me. Not every day you see a man in a thousand-eddie suit gettin' beaten within an inch of his life. Wouldn't you agree?",
+   "en_m": "I like to know what's goin' on around me. It's not every day you see a man in a thousand-eddie suit gettin' beaten within an inch of his life. Wouldn't you agree?",
+   "ro": "Îmi place să știu ce se întâmplă în jurul meu. Nu în fiecare zi vezi un bărbat în costum de o mie de eddies luat la bătaie până la sânge. Nu?"
+  },
+  {
+   "key": "1827275835074170880",
+   "en": "Leave him alone.",
+   "ro": "Lasă-l în pace."
+  },
+  {
+   "key": "1827276407428894720",
+   "en": "I'll deal with him.",
+   "ro": "Mă ocup eu de el."
+  },
+  {
+   "key": "1827277248974049280",
+   "en": "I was just about to leave.",
+   "ro": "Tocmai voiam să plec."
+  },
+  {
+   "key": "1827278846433447936",
+   "en": "I was just leaving, officer. Enjoy your evening.",
+   "ro": "Tocmai plecam, ofițere. Seară plăcută."
+  },
+  {
+   "key": "1827279028080365572",
+   "en": "Leave him alone.",
+   "en_m": "Leave 'im alone.",
+   "ro": "Lasă-l în pace."
+  },
+  {
+   "key": "1827279494654742528",
+   "en": "From what I can tell, your guy's a mid-level manager.",
+   "ro": "Din câte văd, tipul tău e un manager de nivel mediu."
+  },
+  {
+   "key": "1827280837234675712",
+   "en": "See this badge? That means I can do whatever the fuck I want!",
+   "ro": "Vezi insigna asta? Asta înseamnă că pot face ce pula mea vreau!"
+  },
+  {
+   "key": "1827282091348348928",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1827282222948831232",
+   "en": "Corp won't let this slide. They'll pull the data from this asshole's biomon and find you. And then, they'll shoot you.",
+   "en_m": "The corp won't let this slide. They'll pull the data from this asshole's biomon and find you. And then, they'll shoot you.",
+   "ro": "Corporația nu lasă asta să treacă. O să extragă datele din biomon-ul nenorocitului ăsta și o să te găsească. Și apoi o să te împuște."
+  },
+  {
+   "key": "1827295322112544768",
+   "en": "Rise and shine, corpo-swine...",
+   "ro": "Trezește-te și strălucește, corpo-swine..."
+  },
+  {
+   "key": "1827345226008645636",
+   "en": "[Wake]",
+   "ro": "[Trezește-te]"
+  },
+  {
+   "key": "1827347155774361600",
+   "en": "Akh... oh fuck... khe khe...",
+   "ro": "Akh... oh, pula mea... khe khe..."
+  },
+  {
+   "key": "1827348805343793152",
+   "en": "Heard you've been showing spiked braindances.",
+   "ro": "Am auzit că ai arătat braindance-uri cu spike."
+  },
+  {
+   "key": "1827349428986466304",
+   "en": "The truth. What did they want from you?",
+   "ro": "Adevărul. Ce voiau de la tine?"
+  },
+  {
+   "key": "1827350291368923136",
+   "en": "Eddies.",
+   "ro": "Eddies."
+  },
+  {
+   "key": "1827351269296066560",
+   "en": "Heard you've been showin' girls XBDs. You know – kind where your nose bleeds, your mouth froths, brain fries a little...",
+   "ro": "Am auzit că ai arătat fetelor XBD-uri. Știi – genul în care îți curge sânge din nas, îți spumează gura, creierul se prăjește un pic..."
+  },
+  {
+   "key": "1827353522643947520",
+   "en": "No, no, no, no... Wait, I didn't know... Pusher must've sold me a bad batch...",
+   "ro": "Nu, nu, nu, nu... Stai, nu știam... Pusherul trebuie să-mi fi vândut un lot prost..."
+  },
+  {
+   "key": "1827353934843367424",
+   "en": "Bullshit. Corpo-scum like you don't get their merch on random street corners. You know what you're watchin', and what you're showin' to others.",
+   "ro": "Vrăjeală. Corpo-scum ca tine nu-și iau marfa de la vreun colț de stradă. Știi ce vizionezi și ce arăți altora."
+  },
+  {
+   "key": "1827354832206319616",
+   "en": "All right, all right, it's like... You know how it is when... when you want to get a girl in a club, right?",
+   "ro": "Bine, bine, e ca... Știi cum e când... când vrei să agăți o fată într-un club, nu?"
+  },
+  {
+   "key": "1827355333928964096",
+   "en": "The truth. What did they want from you?",
+   "en_m": "The truth. What do they want from you?",
+   "ro": "Adevărul. Ce voiau de la tine?",
+   "ro_m": "Adevărul. Ce vor de la tine?"
+  },
+  {
+   "key": "1827356336787050496",
+   "en": "I-I-I have no idea. They said somethin' about some slut a-and a virtu...",
+   "ro": "N-n-nu am nicio idee. Au zis ceva despre o curvă și un virtu..."
+  },
+  {
+   "key": "1827356739322793984",
+   "en": "Is it really that hard to figure out? I'll give you a hint. It starts with \"euro\" and ends with \"dollars.\"",
+   "ro": "Chiar e atât de greu de ghicit? Îți dau un indiciu. Începe cu „euro” și se termină cu „dollars”."
+  },
+  {
+   "key": "1827357086527279104",
+   "en": "Yeah... yeah, no, of course... you need a reward... I-is this enough?",
+   "ro": "Da... da, nu, sigur... îți trebuie o recompensă... E-e destul?"
+  },
+  {
+   "key": "1827358336866078724",
+   "en": "Go on, get outta here.",
+   "ro": "Hai, cară-te de aici."
+  },
+  {
+   "key": "1827359292932509696",
+   "en": "Hand over your eddies.",
+   "ro": "Dă-mi eddies-urile."
+  },
+  {
+   "key": "1827359971017248768",
+   "en": "[Punch]",
+   "ro": "[Lovește]"
+  },
+  {
+   "key": "1827360292183494656",
+   "en": "[Shoot]",
+   "ro": "[Împușcă]"
+  },
+  {
+   "key": "1827362979608285184",
+   "en": "Nothing. It's your lucky day.",
+   "ro": "Nimic. E ziua ta norocoasă."
+  },
+  {
+   "key": "1827365260957339652",
+   "en": "Nice chattin' with ya. Now hand over the eddies.",
+   "ro": "Ne-am tot înțeles bine. Acum scoate eddies-urile."
+  },
+  {
+   "key": "1827365397221888004",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1827369628435763200",
+   "en": "You know what I want? For suit 'n' tie slimebags like you to disappear from Night City. For the NCPD to lock you up for good.",
+   "ro": "Știi ce vreau eu? Să dispară din Night City jegoșii ăștia de corpoi în costum. Să-i bage NCPD la răcoare pe vecie."
+  },
+  {
+   "key": "1827373095413895168",
+   "en": "I could've killed you. As a matter of fact, I still want to pretty badly.",
+   "ro": "Te-aș fi putut omorî. Și sincer, încă mi-ar plăcea al naibii de tare."
+  },
+  {
+   "key": "1863401298620076032",
+   "en": "Take this, you corpo bastard!",
+   "ro": "Ia asta, nenorocitule de corpo!"
+  },
+  {
+   "key": "1863473810435788800",
+   "en": "Keep walkin', before you end up like him.",
+   "ro": "Circulă, până nu ajungi ca el."
+  },
+  {
+   "key": "1863477652133040128",
+   "en": "Why? You wanna be some kinda hero?",
+   "ro": "De ce? Vrei să fii vreun erou?"
+  },
+  {
+   "key": "1863480843444736000",
+   "en": "Rotten skiff or an XBD?",
+   "ro": "Skiff stricat sau un XBD?"
+  },
+  {
+   "key": "1863481154292994048",
+   "en": "Second one.",
+   "ro": "Al doilea."
+  },
+  {
+   "key": "1863483796771622912",
+   "en": "Mhm, yeah.",
+   "ro": "Mhm, da."
+  },
+  {
+   "key": "1863487317436846080",
+   "en": "You think I don't know that? Fuckin' corpos walkin' around like holy cows in a two piece. But I ain't lettin' 'im go. No fuckin' chance.",
+   "ro": "Crezi că nu știu? Corpoii ăia nenorociți umblă ca niște vaci sfinte în costum. Dar nu-l las să scape. Nicio șansă, pula mea."
+  },
+  {
+   "key": "1863488880955936768",
+   "en": "Yeah? And what's in it for you?",
+   "ro": "Da? Și ce câștigi tu din asta?"
+  },
+  {
+   "key": "1863489446633328640",
+   "en": "Nothin'. It's just how I unwind.",
+   "ro": "Nimic. Așa mă relaxez."
+  },
+  {
+   "key": "1863489872002863104",
+   "en": "All right, let's go, boys.",
+   "ro": "Bine, hai să mergem, băieți."
+  },
+  {
+   "key": "1863490297556946944",
+   "en": "Take care of yourself... Officer.",
+   "ro": "Ai grijă de tine... Ofițeră.",
+   "ro_m": "Ai grijă de tine... Ofițere."
+  },
+  {
+   "key": "1863491611061964800",
+   "en": "Shit... khe khe... If it wasn't for you, I'd be... well, thank you. Were you sent by the company?",
+   "ro": "Rahat... khe khe... Dacă nu erai tu, eram... mă rog, mulțumesc. Te-a trimis compania?"
+  },
+  {
+   "key": "1863492293928210432",
+   "en": "Wrong answer.",
+   "ro": "Răspuns greșit."
+  },
+  {
+   "key": "1863492519145558016",
+   "en": "Then... hold on... Whaddaya want from me?",
+   "ro": "Atunci... stai... Ce vrei de la mine?"
+  },
+  {
+   "key": "1863494916358066176",
+   "en": "Nothin'.",
+   "ro": "Nimic."
+  },
+  {
+   "key": "1863495466248097792",
+   "en": "I... I don't... I don't believe you. You saved me just like that, because you... felt like it?",
+   "ro": "Eu... nu... nu te cred. M-ai salvat așa, degeaba, pentru că... ți-a venit chef?"
+  },
+  {
+   "key": "1863499430687461376",
+   "en": "Don't measure others by your own yardstick. Prick.",
+   "ro": "Nu-i judeca pe alții după măsura ta. Muistule."
+  },
+  {
+   "key": "1863501473850380288",
+   "en": "You know it's not if you're askin'. Don't make me finish what the badges started.",
+   "ro": "Știi că nu-i vorba de întrebare. Nu mă obliga să termin ce-au început gaborii."
+  },
+  {
+   "key": "1863501842663919616",
+   "en": "OK... Here! Here, here... Tha-that's everything I have on me...",
+   "ro": "Bine... Uite! Uite, uite... A-asta e tot ce am pe mine..."
+  },
+  {
+   "key": "1863502495398285312",
+   "en": "Have a pleasant evening.",
+   "ro": "Să ai o seară faină."
+  },
+  {
+   "key": "1863506211534852096",
+   "en": "But you just need a little... a-a nudge in the right direction.",
+   "ro": "Dar îți trebuie doar o... o mică împingere pe drumul cel bun."
+  },
+  {
+   "key": "1863507186089775104",
+   "en": "But when I asked what I had to do with it, they started beating on me so hard I thought I'd die.",
+   "ro": "Dar când am întrebat ce treabă am eu cu asta, au început să mă bată atât de tare că am crezut că mor."
+  },
+  {
+   "key": "1863507643503792128",
+   "en": "Ah, this city's really going down the drain. For the police to do this, in plain sight, for no reason...",
+   "ro": "Of, orașul ăsta chiar se duce de râpă. Să facă poliția asta, în văzul lumii, fără niciun motiv..."
+  },
+  {
+   "key": "1863517885054636032",
+   "en": "Go on, get outta here.",
+   "ro": "Hai, cară-te de aici."
+  },
+  {
+   "key": "1863518633284915200",
+   "en": "But... I don't understand... Just like that? For nothing in return?",
+   "ro": "Dar... nu înțeleg... Așa, pur și simplu? Fără nimic în schimb?"
+  },
+  {
+   "key": "1863524383038164992",
+   "en": "But that wouldn't change a damn thing. Waste of lead, in fact. City's teemin' with others just waitin' to replace you.",
+   "en_m": "But that wouldn't change a damn thing. A waste of lead, in fact. City's teemin' with others just waitin' to replace you.",
+   "ro": "Dar asta n-ar schimba nimic, la naiba. Doar gloanțe irosite. Orașul e plin de alții care abia așteaptă să te ia locul."
+  },
+  {
+   "key": "1863525630742941696",
+   "en": "Now get the fuck outta my sight. Make me sick just lookin' at you.",
+   "en_m": "Now get the fuck outta my sight. You make me sick just lookin' at ya.",
+   "ro": "Acum dispari dracu' din fața mea. Mi-e scârbă doar să mă uit la tine."
+  },
+  {
+   "key": "1863538853990944768",
+   "en": "Agh! Gah, what the hell was that for?",
+   "ro": "Agh! Gah, ce naiba a fost asta?"
+  },
+  {
+   "key": "1863539628393680896",
+   "en": "If I see you again, or hear that you're jackin' girls into virtus, infected or otherwise...",
+   "ro": "Dacă te mai prind o dată, sau aud că bagi fete în virtus-uri, infectate sau nu..."
+  },
+  {
+   "key": "1863543075104935936",
+   "en": "To be honest with you... I have no idea. But I'm guessin' you do.",
+   "en_m": "To be honest with ya... I have no idea. But I'm guessin' you do.",
+   "ro": "Sincer... habar n-am. Dar pun pariu că tu ai."
+  },
+  {
+   "key": "1863543425715195904",
+   "en": "Somethin' in this whole story of yours just... doesn't sit right with me.",
+   "en_m": "Somethin' in this whole story of yours... it just doesn't sit right with me.",
+   "ro": "Ceva din toată povestea asta a ta... pur și simplu nu-mi miroase bine."
+  },
+  {
+   "key": "1863544914173022208",
+   "en": "I'm not really in the mood for an interrogation, but if I was... I've got a feeling you'd have more than a black eye to worry about.",
+   "ro": "Nu prea am chef de interogatoriu, dar dacă aș avea, cred că ai avea mai mult decât un ochi vânăt de care să-ți faci griji."
+  },
+  {
+   "key": "1863546083595309056",
+   "en": "I'll put you in a coma you'll never wake up from. Do you understand?",
+   "ro": "Te bag în comă din care nu te mai trezești. Ai înțeles?"
+  },
+  {
+   "key": "1863546706784997376",
+   "en": "I... I-I understand!",
+   "ro": "Eu... î-înțeleg!"
+  },
+  {
+   "key": "1863547010519715840",
+   "en": "Now get the fuck outta my sight. Make me sick...",
+   "en_m": "Now get the fuck outta my sight. You make me sick...",
+   "ro": "Acum dispari dracu' din fața mea. Mi-e scârbă..."
+  },
+  {
+   "key": "1863551046832672768",
+   "en": "Agh! Psychos... city of fucking psychos!",
+   "ro": "Agh! Psihopați... oraș de pula mea de psihopați!"
+  },
+  {
+   "key": "1863551444654018560",
+   "en": "Get outta my sight. Chop-chop, on the double.",
+   "ro": "Dispari din fața mea. Hai, mișcă, repede."
+  },
+  {
+   "key": "1903919614585229316",
+   "en": "That'll do.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "1903920296931381248",
+   "en": "Give me everything you've got.",
+   "ro": "Dă-mi tot ce ai."
+  },
+  {
+   "key": "1903923283443601408",
+   "en": "That'll do. Now run off to your little castle made of glass before you run into someone who won't be so understanding.",
+   "en_m": "That'll do. Now, run off to your little castle made of glass before you run into someone who won't be so understanding.",
+   "ro": "Ajunge. Acum cară-te la castelul tău de sticlă, înainte să dai peste cineva care n-o să fie atât de înțelegător."
+  },
+  {
+   "key": "1903923759916535808",
+   "en": "Thank you! You have my gratitude.",
+   "ro": "Mulțumesc! Chiar apreciez asta."
+  },
+  {
+   "key": "1923983258006376448",
+   "en": "Cocksuckin' suits.",
+   "ro": "Costume sugătoare de pulă."
+  },
+  {
+   "key": "1923987034440257536",
+   "en": "I'm not asking you to. What I want is for you to let me finish the job.",
+   "ro": "Nu-ți cer să faci asta. Ce vreau eu e să mă lași să termin treaba."
+  },
+  {
+   "key": "2370851565339693056",
+   "en": "Time to wake up.",
+   "ro": "Hai, s-a terminat somnul."
+  }
+ ]
+}

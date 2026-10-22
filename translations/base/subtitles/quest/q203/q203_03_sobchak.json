@@ -1,0 +1,612 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q203\\q203_03_sobchak.json",
+ "entries": [
+  {
+   "key": "1490657429148004352",
+   "en": "Listen... what's... what's happening to you?",
+   "ro": "Ascultă... ce... ce se întâmplă cu tine?"
+  },
+  {
+   "key": "1490658165063806976",
+   "en": "Something's wrong, V. I can feel it.",
+   "ro": "Ceva nu e în regulă, V. Simt asta."
+  },
+  {
+   "key": "1490658810617524224",
+   "en": "Nothing. Everything'll be fine soon.",
+   "ro": "Nimic. O să fie bine în curând."
+  },
+  {
+   "key": "1490659203858690048",
+   "en": "Just tired.",
+   "ro": "Doar obosită.",
+   "ro_m": "Doar obosit."
+  },
+  {
+   "key": "1490660191868940288",
+   "en": "We'll talk later.",
+   "ro": "Vorbim mai târziu."
+  },
+  {
+   "key": "1490660505871314960",
+   "en": "Nothin'. Everything's fine, will be fine. Don't worry.",
+   "ro": "Nimic. Totul e bine, o să fie bine. Nu-ți face griji."
+  },
+  {
+   "key": "1490664035394908160",
+   "en": "Hey, don't brush me off. Things've been on a downward slope for months. With you... with us.",
+   "ro": "Hei, nu mă mai da la o parte. De luni de zile merg totul de-a vale. Cu tine... cu noi."
+  },
+  {
+   "key": "1490665790996344832",
+   "en": "What's it matter? It'll all be over soon either way.",
+   "ro": "Ce mai contează? Oricum o să se termine curând."
+  },
+  {
+   "key": "1490666596235603968",
+   "en": "V, don't wall yourself off. It won't end well.",
+   "ro": "V, nu te închide în tine. Nu o să se termine bine."
+  },
+  {
+   "key": "1490667494001209344",
+   "en": "You're right, it won't end well.",
+   "ro": "Ai dreptate, nu o să se termine bine."
+  },
+  {
+   "key": "1490668084894756864",
+   "en": "Give me some time.",
+   "ro": "Dă-mi puțin timp."
+  },
+  {
+   "key": "1490669573587464192",
+   "en": "I don't...",
+   "ro": "Nu..."
+  },
+  {
+   "key": "1490669963909394432",
+   "en": "Can we talk later?",
+   "ro": "Putem vorbi mai târziu?"
+  },
+  {
+   "key": "1490670359985909760",
+   "en": "Don't feel so hot... We talked about this. I'm exhausted. Probably the meds.",
+   "ro": "Nu mă simt prea bine... Am vorbit despre asta. Sunt epuizată. Probabil medicamentele.",
+   "ro_m": "Nu mă simt prea bine... Am vorbit despre asta. Sunt epuizat. Probabil medicamentele."
+  },
+  {
+   "key": "1490676038637318144",
+   "en": "Can I help in any way?",
+   "ro": "Pot să ajut cumva?"
+  },
+  {
+   "key": "1490676502862884864",
+   "en": "Not this time.",
+   "ro": "Nu de data asta."
+  },
+  {
+   "key": "1490676784032247808",
+   "en": "You being here's enough.",
+   "ro": "Doar că ești aici îmi ajunge."
+  },
+  {
+   "key": "1490677524394012672",
+   "en": "Not this time, no.",
+   "ro": "Nu, nu de data asta."
+  },
+  {
+   "key": "1490678228349218816",
+   "en": "Most important thing is that you're here, now.",
+   "ro": "Cel mai important e că ești aici, acum."
+  },
+  {
+   "key": "1490679121064882176",
+   "en": "I mean it. My one anchor. Everything else is unknown.",
+   "ro": "Serios. Tu ești singura mea ancoră. Restul e necunoscut."
+  },
+  {
+   "key": "1490680690774765568",
+   "en": "I'll be outside.",
+   "ro": "O să fiu afară."
+  },
+  {
+   "key": "1490682491171368960",
+   "en": "Really, River?",
+   "ro": "Serios, River?"
+  },
+  {
+   "key": "1490683325217107968",
+   "en": "You really thought there was gonna be a happy ending?",
+   "ro": "Chiar credeai că o să fie un final fericit?"
+  },
+  {
+   "key": "1490685795041406976",
+   "en": "Coffee's getting cold. I need some air. Cool down, then we'll talk.",
+   "ro": "Cafeaua se răcește. Am nevoie de aer. Mă liniștesc, apoi vorbim."
+  },
+  {
+   "key": "1490686684200300544",
+   "en": "I... Give me some time. You know I've got unfinished biz, and then...",
+   "ro": "Eu... Dă-mi puțin timp. Știi că mai am niște afaceri neterminate, și apoi..."
+  },
+  {
+   "key": "1490689320001597440",
+   "en": "You'll wait?",
+   "ro": "Aștepți?"
+  },
+  {
+   "key": "1490690343160115200",
+   "en": "Before it gets cold.",
+   "ro": "Până nu se răcește."
+  },
+  {
+   "key": "1490690570290065408",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1490690625285779456",
+   "en": "I'm gonna go get some air.",
+   "ro": "O să ies să iau aer."
+  },
+  {
+   "key": "1496778842211000320",
+   "en": "Fresh coffee, your name on it.",
+   "ro": "Cafea proaspătă, pe numele tău."
+  },
+  {
+   "key": "1702566541243568132",
+   "en": "[Drink coffee]",
+   "ro": "[Bea cafea]"
+  },
+  {
+   "key": "1702645505878249472",
+   "en": "It's Joss.",
+   "ro": "E Joss."
+  },
+  {
+   "key": "1702647179489431552",
+   "en": "Joss says hi.",
+   "ro": "Joss te salută."
+  },
+  {
+   "key": "1702647759830110208",
+   "en": "Thanks. Tell her I said hi, too.",
+   "ro": "Mersi. Spune-i și ei salut din partea mea."
+  },
+  {
+   "key": "1702658767562854400",
+   "en": "On my way out, too.",
+   "ro": "Și eu plec."
+  },
+  {
+   "key": "1702659325069742080",
+   "en": "Later, then. Good luck.",
+   "ro": "Ne auzim mai târziu. Baftă."
+  },
+  {
+   "key": "1793701123210211328",
+   "en": "Cop's intuition?",
+   "ro": "Intuiție de polițist?"
+  },
+  {
+   "key": "1793701422498967552",
+   "en": "Just talk to me. You've been different since Mikoshi. Absent, somehow. What is it?",
+   "ro": "Vorbește cu mine. Ai fost diferită de la Mikoshi. Absentă, cumva. Ce e?",
+   "ro_m": "Vorbește cu mine. Ai fost diferit de la Mikoshi. Absent, cumva. Ce e?"
+  },
+  {
+   "key": "1793708696546177024",
+   "en": "And I don't know who to blame – you, your... your situation, or that damn job.",
+   "ro": "Și nu știu pe cine să dau vina – pe tine, situația ta... sau jobul ăla al naibii."
+  },
+  {
+   "key": "1793711783235153920",
+   "en": "It's a thing I gotta do on my own.",
+   "ro": "E ceva ce trebuie să fac singură.",
+   "ro_m": "E ceva ce trebuie să fac singur."
+  },
+  {
+   "key": "1793772100849889280",
+   "en": "Mhm. I'm at her place now.",
+   "en_m": "Mhm. I'm at his place now.",
+   "ro": "Mhm. Sunt la ea acasă acum.",
+   "ro_m": "Mhm. Sunt la el acasă acum."
+  },
+  {
+   "key": "1793772943871438848",
+   "en": "I promise.",
+   "ro": "Promit."
+  },
+  {
+   "key": "1793773084649058304",
+   "en": "I gotta go, I'll call you later.",
+   "ro": "Trebuie să plec, te sun mai târziu."
+  },
+  {
+   "key": "1793775714813210624",
+   "en": "Maybe you can tell her in person? She said to stop by sometime. She'll make chili.",
+   "ro": "Poate îi spui față în față? Zicea să treci și tu pe la ea. Face chili."
+  },
+  {
+   "key": "1793776528441077760",
+   "en": "Uh, yeah, sure. We'll see. I mean, you know how it is.",
+   "en_m": "Uh, sure. We'll see. I mean, you know how it is.",
+   "ro": "Ăă, da, sigur. O să vedem. Adică, știi cum e.",
+   "ro_m": "Ăă, sigur. O să vedem. Adică, știi cum e."
+  },
+  {
+   "key": "1793776954464923648",
+   "en": "Y'know, lately I'm not sure I do. How is it, V?",
+   "ro": "Știi, în ultima vreme nu mai sunt sigur. Cum e, V?"
+  },
+  {
+   "key": "1793778170125217796",
+   "en": "What do you mean? Thought everything was pretty clear.",
+   "ro": "Ce vrei să spui? Credeam că totul e destul de clar."
+  },
+  {
+   "key": "1793784723255455744",
+   "en": "River – I'm dying, remember?",
+   "ro": "River – mor, îți amintești?"
+  },
+  {
+   "key": "1793785114500132864",
+   "en": "Family is important. But my time's running out.",
+   "ro": "Familia e importantă. Dar timpul meu se scurge."
+  },
+  {
+   "key": "1793788726836064256",
+   "en": "You're acting as if we never talked about it. As if you didn't know I...",
+   "ro": "Te comporți de parcă n-am vorbit niciodată despre asta. De parcă nu știai că eu..."
+  },
+  {
+   "key": "1793789178696822784",
+   "en": "I know. That's not it.",
+   "ro": "Știu. Nu despre asta e vorba."
+  },
+  {
+   "key": "1793789512613752832",
+   "en": "Then what is it?",
+   "ro": "Atunci despre ce e vorba?"
+  },
+  {
+   "key": "1793789585863077888",
+   "en": "Do you feel like you're in this fight alone? Do you think that by cutting me off, you're somehow protecting me?",
+   "ro": "Ai impresia că ești singură în lupta asta? Crezi că tăind legătura cu mine mă protejezi cumva?",
+   "ro_m": "Ai impresia că ești singur în lupta asta? Crezi că tăind legătura cu mine mă protejezi cumva?"
+  },
+  {
+   "key": "1793793621051961348",
+   "en": "Is this an interrogation?",
+   "ro": "E un interogatoriu?"
+  },
+  {
+   "key": "1793795069965889536",
+   "en": "We're partners. But some things I gotta do on my own.",
+   "ro": "Suntem parteneri. Dar unele lucruri trebuie să le fac singură.",
+   "ro_m": "Suntem parteneri. Dar unele lucruri trebuie să le fac singur."
+  },
+  {
+   "key": "1793851895185010688",
+   "en": "Our separate lives never bothered you before.",
+   "ro": "Viețile noastre separate nu te-au deranjat niciodată până acum."
+  },
+  {
+   "key": "1793852424388734976",
+   "en": "I'm dyin', River. You forget that?",
+   "ro": "Mor, River. Ai uitat?"
+  },
+  {
+   "key": "1793852525471461376",
+   "en": "I know family is important, River. Especially for you. Especially now.",
+   "ro": "Știu că familia e importantă, River. Mai ales pentru tine. Mai ales acum."
+  },
+  {
+   "key": "1793853436088414208",
+   "en": "But you gotta understand my time's runnin' out.",
+   "en_m": "But you gotta understand my time is runnin' out.",
+   "ro": "Dar trebuie să înțelegi că timpul meu se scurge."
+  },
+  {
+   "key": "1793853719019384832",
+   "en": "Time for what? For fighting this city tooth and nail? You alone, against the world? For what, V?",
+   "ro": "Timp pentru ce? Să lupți cu orașul ăsta cu dinții și unghiile? Singură, împotriva lumii? Pentru ce, V?",
+   "ro_m": "Timp pentru ce? Să lupți cu orașul ăsta cu dinții și unghiile? Singur, împotriva lumii? Pentru ce, V?"
+  },
+  {
+   "key": "1793858081531752448",
+   "en": "Yes, you're dying. I know. But that shouldn't change things between us.",
+   "ro": "Da, mori. Știu. Dar asta nu ar trebui să schimbe lucrurile între noi."
+  },
+  {
+   "key": "1793859038403489792",
+   "en": "It doesn't.",
+   "ro": "Nu schimbă."
+  },
+  {
+   "key": "1793859107659837440",
+   "en": "I'm a simple guy, V. So answer this simple question – are you sure? You absolutely sure it doesn't change a thing?",
+   "ro": "Sunt un om simplu, V. Așa că răspunde la o întrebare simplă: ești sigură? Ești absolut sigură că asta nu schimbă nimic?",
+   "ro_m": "Sunt un om simplu, V. Așa că răspunde la o întrebare simplă: ești sigur? Ești absolut sigur că asta nu schimbă nimic?"
+  },
+  {
+   "key": "1793867342705979392",
+   "en": "Look, is this an interrogation? I just wanna drink my coffee, River...",
+   "ro": "Uite, e un interogatoriu? Vreau doar să-mi beau cafeaua, River..."
+  },
+  {
+   "key": "1793868606869204992",
+   "en": "At least questioning I'm good at. Understanding what you want – not so much.",
+   "ro": "Cel puțin la întrebări sunt bun. Să înțeleg ce vrei – nu prea."
+  },
+  {
+   "key": "1793869877575544832",
+   "en": "River, listen to me. I need you. That's never gonna change.",
+   "ro": "River, ascultă-mă. Am nevoie de tine. Asta nu o să se schimbe niciodată."
+  },
+  {
+   "key": "1793870676137472000",
+   "en": "So let me help you.",
+   "ro": "Atunci lasă-mă să te ajut."
+  },
+  {
+   "key": "1793872012006518784",
+   "en": "This last fight – it's for me to fight alone.",
+   "ro": "Lupta asta finală – e pentru mine s-o duc singură.",
+   "ro_m": "Lupta asta finală – e pentru mine s-o duc singur."
+  },
+  {
+   "key": "1793872901232521220",
+   "en": "I want Night City to remember me.",
+   "ro": "Vreau ca Night City să-și amintească de mine."
+  },
+  {
+   "key": "1793878258164035584",
+   "en": "One last job's waiting for me at The Afterlife.",
+   "ro": "Mă așteaptă o ultimă treabă la Afterlife."
+  },
+  {
+   "key": "1793881536851472384",
+   "en": "It's got nothing to do with you.",
+   "ro": "Nu are nimic de-a face cu tine."
+  },
+  {
+   "key": "1793881930126192640",
+   "en": "Heh. Good to know.",
+   "ro": "Heh. Bine de știut."
+  },
+  {
+   "key": "1793882002989641728",
+   "en": "You were never bothered by the fact that we led separate lives before. All that mattered was our time together. What changed?",
+   "en_m": "You're never bothered by the fact that we led separate lives before. All that mattered was our time together. What changed?",
+   "ro": "Nu te-a deranjat niciodată faptul că am dus vieți separate înainte. Tot ce conta era timpul petrecut împreună. Ce s-a schimbat?",
+   "ro_m": "Nu te deranjează niciodată faptul că am dus vieți separate înainte. Tot ce conta era timpul petrecut împreună. Ce s-a schimbat?"
+  },
+  {
+   "key": "1793883183300341760",
+   "en": "You tell me. It's about this city, isn't it? Your crusade.",
+   "ro": "Spune-mi tu. E vorba despre orașul ăsta, nu? Cruciada ta."
+  },
+  {
+   "key": "1793888100266143744",
+   "en": "What's your plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "1793895935846772736",
+   "en": "Still feel I got somethin' to prove to this city.",
+   "ro": "Încă simt că am ceva de dovedit acestui oraș."
+  },
+  {
+   "key": "1793898301518114816",
+   "en": "You might not see it yet, but that's a fight this city won't let you win.",
+   "ro": "Poate nu vezi încă, dar e o luptă pe care orașul ăsta nu te lasă s-o câștigi."
+  },
+  {
+   "key": "1793927191598854144",
+   "en": "The city will remember you, V. And I couldn't forget you if I tried.",
+   "ro": "Orașul o să-și amintească de tine, V. Și nu te-aș putea uita nici dacă aș încerca."
+  },
+  {
+   "key": "1793928878078160900",
+   "en": "[Step away] Afterlife awaits.",
+   "ro": "[Fă un pas în spate] Afterlife te așteaptă."
+  },
+  {
+   "key": "1793929413892108288",
+   "en": "Got a job waitin' for me at the Afterlife. Been gettin' ready these past few months.",
+   "ro": "Mă așteaptă o treabă la Afterlife. M-am pregătit în ultimele câteva luni."
+  },
+  {
+   "key": "1793931038245384192",
+   "en": "You sure you don't need any help?",
+   "ro": "Sigur nu ai nevoie de ajutor?"
+  },
+  {
+   "key": "1793932052696526848",
+   "en": "How many times you asked me that?",
+   "ro": "De câte ori m-ai întrebat asta?"
+  },
+  {
+   "key": "1793932984704430080",
+   "en": "Just hoping you changed your mind.",
+   "ro": "Doar speram că te-ai răzgândit."
+  },
+  {
+   "key": "1793936209184681984",
+   "en": "What's your plan? Once I'm gone?",
+   "ro": "Care-i planul? După ce plec?"
+  },
+  {
+   "key": "1793937948679991296",
+   "en": "So what's the plan for once I'm gone?",
+   "en_m": "So what's the plan? For once I'm gone?",
+   "ro": "Deci care-i planul pentru după ce plec?",
+   "ro_m": "Deci care-i planul? După ce plec?"
+  },
+  {
+   "key": "1793939371354353664",
+   "en": "Goin' to see Joss, promised to help her scout out a new used car... Still got that Heywood thing hangin' over my head...",
+   "ro": "Mă duc să o văd pe Joss, i-am promis că o ajut să caute o mașină second-hand... Încă am chestia aia din Heywood care mă apasă..."
+  },
+  {
+   "key": "1793945306143518720",
+   "en": "You can't leave Night City, can you?",
+   "ro": "Nu poți pleca din Night City, nu?"
+  },
+  {
+   "key": "1793945953358180352",
+   "en": "I could. If I could think of anywhere else I wanted to be. And if the people I cared about most weren't already here.",
+   "ro": "Aș putea. Dacă aș găsi vreun loc în care aș vrea să fiu. Și dacă oamenii la care țin cel mai mult nu ar fi deja aici."
+  },
+  {
+   "key": "1793947993887076352",
+   "en": "Got a meet at the Afterlife.",
+   "ro": "Am o întâlnire la Afterlife."
+  },
+  {
+   "key": "1793954637681389568",
+   "en": "Sure. 'Course.",
+   "ro": "Sigur. Normal."
+  },
+  {
+   "key": "1793960289187262464",
+   "en": "Thanks, River. See ya... see ya later.",
+   "en_m": "Thanks, River. See you... see you later.",
+   "ro": "Mersi, River. Pa... ne vedem mai târziu."
+  },
+  {
+   "key": "1809626058650677248",
+   "en": "Then I try. Don't know any other way.",
+   "ro": "Atunci încerc. Nu știu altfel."
+  },
+  {
+   "key": "1809632520881958912",
+   "en": "Haven't. Afterlife's my world, River. Not yours.",
+   "ro": "Nu. Afterlife e lumea mea, River. Nu a ta."
+  },
+  {
+   "key": "1809634313007394816",
+   "en": "You're gonna keep running away to \"your world\" until the very end.",
+   "ro": "O să continui să fugi în „lumea ta” până la capăt."
+  },
+  {
+   "key": "1809636289631875072",
+   "en": "Only way I know.",
+   "ro": "Singura cale pe care o știu."
+  },
+  {
+   "key": "1809636564660776960",
+   "en": "Just remember – I'll be here, waitin' for you to come back.",
+   "ro": "Ține minte – o să fiu aici și te aștept să te întorci."
+  },
+  {
+   "key": "1872059187648385024",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "1872059187765825536",
+   "en": "[Kiss]",
+   "ro": "[Sărută]"
+  },
+  {
+   "key": "1872059187782602752",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1873336511607992320",
+   "en": "Heyyy. Gonna hop in the shower.",
+   "ro": "Heeei. Mă duc la duș."
+  },
+  {
+   "key": "1884942308196610048",
+   "en": "Hmm, OK...",
+   "ro": "Hmm, OK..."
+  },
+  {
+   "key": "1898392406947356676",
+   "en": "[Turn]",
+   "ro": "[Întoarce-te]"
+  },
+  {
+   "key": "1902242213348597760",
+   "en": "Thought you might need some company.",
+   "ro": "Am zis că poate vrei companie."
+  },
+  {
+   "key": "1902334410743963648",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1902420021840535556",
+   "en": "[Wash off blood]",
+   "ro": "[Spală sângele]"
+  },
+  {
+   "key": "1902430265270427648",
+   "en": "Oh, uh... Hey...",
+   "en_m": "Oh, heh... Hey...",
+   "ro": "A, ăă... Hei...",
+   "ro_m": "A, heh... Hei..."
+  },
+  {
+   "key": "1903686103524007940",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1903836668082085888",
+   "en": "[Hug] See you.",
+   "ro": "[Îmbrățișează] Ne vedem."
+  },
+  {
+   "key": "1944661701099778048",
+   "en": "How is she?",
+   "ro": "Cum e ea?"
+  },
+  {
+   "key": "1944663850361810944",
+   "en": "How's she doin'?",
+   "ro": "Cum o duce?"
+  },
+  {
+   "key": "1944665487851646976",
+   "en": "She said we should stop by, she'll make a pot of chili. You in?",
+   "ro": "A zis că ar trebui să trecem pe la ea, face un ceaun de chili. Te bagi?"
+  },
+  {
+   "key": "1944669104901976064",
+   "en": "All right.",
+   "ro": "Bine."
+  },
+  {
+   "key": "2008445702432747520",
+   "en": "On your own, or without me? Like Mikoshi.",
+   "ro": "Singură, sau fără mine? Ca la Mikoshi.",
+   "ro_m": "Singur, sau fără mine? Ca la Mikoshi."
+  },
+  {
+   "key": "2025692660116484100",
+   "en": "[Lean]",
+   "ro": "[Sprijină-te]"
+  },
+  {
+   "key": "2237258257167216640",
+   "en": "Good luck, V. I'll be with you – heart, mind and spirit.",
+   "ro": "Mult noroc, V. Sunt cu tine – cu inima, mintea și sufletul."
+  },
+  {
+   "key": "2237259239708094464",
+   "en": "Get out of here. Somebody's waitin'.",
+   "ro": "Pleacă de aici. Te așteaptă cineva."
+  },
+  {
+   "key": "2405953931371606016",
+   "en": "[Take amulet]",
+   "ro": "[Ia amuleta]"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_06c_memories_p3.json",
+ "entries": [
+  {
+   "key": "1650485380910731264",
+   "en": "My husband died in that tower.",
+   "ro": "Soțul meu a murit în turnul ăla."
+  },
+  {
+   "key": "1732958682626551808",
+   "en": "Hey, gramps. I know you.",
+   "ro": "Hei, moșule. Te cunosc."
+  },
+  {
+   "key": "1732958913430712320",
+   "en": "<kiroshi l=\"jpn\" o=\"外せ\" t=\"Leave us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"外せ\" t=\"Lăsați-ne.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1732959274342182912",
+   "en": "<kiroshi l=\"jpn\" o=\"直接話をする\" t=\"I wish to look him in the eye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"直接話をする\" t=\"Vreau să-l privesc în ochi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1732967691588890624",
+   "en": "<kiroshi l=\"jpn\" o=\"人は嘘をつき、自分自身を欺く\" t=\"I have found that people lie, most often deceiving themselves.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"人は嘘をつき、自分自身を欺く\" t=\"Am observat că oamenii mint, de cele mai multe ori ca să se păcălească singuri.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1760540066848661508",
+   "en": "Give your buddy a chance to speak?",
+   "ro": "Îi dai și lui amicul tău o șansă să vorbească?"
+  },
+  {
+   "key": "1760540109395681280",
+   "en": "Let us try once more.",
+   "ro": "Hai să mai încercăm o dată."
+  },
+  {
+   "key": "1760544752641204232",
+   "en": "Gonna give good cop over there a chance to say somethin'? C'mon...",
+   "ro": "Îi dai și polițistului ăluia bun o șansă să zică ceva? Hai..."
+  },
+  {
+   "key": "1760544752641204240",
+   "en": "How did you acquire fissile material?",
+   "ro": "Cum ai obținut material fisionabil?"
+  },
+  {
+   "key": "1760545803733786624",
+   "en": "I know that old man.",
+   "ro": "Îl cunosc pe bătrânul ăla."
+  },
+  {
+   "key": "1760661241281077248",
+   "en": "Which terrorist organization do you belong to?",
+   "ro": "La ce organizație teroristă aparții?"
+  },
+  {
+   "key": "1764773934742921216",
+   "en": "Your associates – who are they?",
+   "ro": "Complicii tăi – cine-s?"
+  },
+  {
+   "key": "1764774215509630976",
+   "en": "How did you acquire fissile material?",
+   "ro": "Cum ai obținut material fisionabil?"
+  },
+  {
+   "key": "1764788388985593856",
+   "en": "Your boss looks unimpressed.",
+   "ro": "Șeful tău nu pare impresionat."
+  },
+  {
+   "key": "1764797708997517312",
+   "en": "Boss don't look too pleased with your efforts.",
+   "ro": "Șefu' nu pare prea încântat de eforturile tale."
+  },
+  {
+   "key": "1764803828285726720",
+   "en": "But there are fates worse than death...",
+   "ro": "Dar sunt soarte mai rele decât moartea..."
+  },
+  {
+   "key": "1764808575617097728",
+   "en": "I didn't want him to die.",
+   "ro": "N-am vrut să moară."
+  },
+  {
+   "key": "1786421660383469568",
+   "en": "<kiroshi l=\"jpn\" o=\"だが死者は違う\" t=\"Not so the dead...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"だが死者は違う\" t=\"Nu și morții...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1786434182209626112",
+   "en": "<kiroshi l=\"jpn\" o=\"死者は雄弁だが、彼らは決して嘘をつかない\" t=\"The dead are so very, very loud. And yet, lying is not in their nature.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"死者は雄弁だが、彼らは決して嘘をつかない\" t=\"Morții sunt atât de zgomotoși. Și totuși, minciuna nu le stă în fire.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1786434723895599104",
+   "en": "<kiroshi l=\"jpn\" o=\"死者の言葉には… 慎ましさがある\" t=\"It is so... humbling –  to listen to the dead speak.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"死者の言葉には… 慎ましさがある\" t=\"E atât de... umilitor să asculți morții vorbind.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1786435226423549952",
+   "en": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"Begin.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"Începe.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1955062830293606400",
+   "en": "<kiroshi l=\"jpn\" o=\"なぜ… このようなことを？\" t=\"Why did you do this?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なぜ… このようなことを？\" t=\"De ce ai făcut asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1955063003216371712",
+   "en": "Why did you do this?",
+   "ro": "De ce ai făcut asta?"
+  },
+  {
+   "key": "1955064171984347136",
+   "en": "To bring an end to the madness you wreak.",
+   "ro": "Ca să pun capăt nebuniei pe care o răspândiți."
+  },
+  {
+   "key": "2010213332043718656",
+   "en": "Hot damn – done and gone.",
+   "ro": "Futu-i – gata și dus."
+  },
+  {
+   "key": "2433344450384011264",
+   "en": "Aargh...",
+   "ro": "Aargh..."
+  }
+ ]
+}

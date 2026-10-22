@@ -1,0 +1,35 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\cz_terra_cognita_chat_05.json",
+ "entries": [
+  {
+   "key": "3265197232845520896",
+   "en": "<mothertongue l=\"rus\" m=\"molodoy\" b=\"Ribakov... dead!? The Boris Ribakov? That’s bullshit, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"molodoy\" b=\"Ribakov... mort!? Boris Ribakov? Sunt numai căcaturi, \" a=\".\"/>"
+  },
+  {
+   "key": "3349351044463562752",
+   "en": "I never lie to my comrades. Never. I am a man of principle.",
+   "ro": "Nu-mi mint niciodată camarazii. Niciodată. Sunt un om cu principii."
+  },
+  {
+   "key": "3349373104740995072",
+   "en": "We found him in a pool of his own blood. Looks like he didn’t \"poof\" this time.",
+   "ro": "L-am găsit într-o baltă de sânge. Parcă de data asta nu mai face „poof”."
+  },
+  {
+   "key": "3349374442505867264",
+   "en": "Right. Ribakov. Dead. The Spetsnaz legend. The man who knew how kill five man and poof! Disappear in plain sight.",
+   "ro": "Bine. Ribakov. Mort. Legenda Spetsnaz. Ăla care omora cinci inși și, poof!, dispărea în plină lumină."
+  },
+  {
+   "key": "3349376116804915200",
+   "en": "<mothertongue l=\"rus\" m=\"Blyad'.\" b=\"\" a=\".\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Blyad'.\" b=\"\" a=\".\"/>"
+  },
+  {
+   "key": "3349376184568090624",
+   "en": "<mothertongue l=\"rus\" m=\"Blyad'.\" b=\"Yeah. \" a=\".\"/>",
+   "ro": "<mothertongue l=\"rus\" m=\"Blyad'.\" b=\"Da. \" a=\".\"/>"
+  }
+ ]
+}

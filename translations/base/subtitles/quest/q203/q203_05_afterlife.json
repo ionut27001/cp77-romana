@@ -1,0 +1,808 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q203\\q203_05_afterlife.json",
+ "entries": [
+  {
+   "key": "1715685417732919296",
+   "en": "Hey, V.",
+   "ro": "Hei, V."
+  },
+  {
+   "key": "1715691388744093696",
+   "en": "Gonna drink to Johnny.",
+   "ro": "O să beau în cinstea lui Johnny."
+  },
+  {
+   "key": "1715691590221680640",
+   "en": "Wanna drink to Jackie.",
+   "ro": "Vreau să beau în cinstea lui Jackie."
+  },
+  {
+   "key": "1715691640771432448",
+   "en": "Rogue, gonna drink to Rogue.",
+   "ro": "Rogue, o să beau în cinstea lui Rogue."
+  },
+  {
+   "key": "1715691750578311168",
+   "en": "What about my drink? I'll drink to me.",
+   "ro": "Dar băutura mea? O să beau în cinstea mea."
+  },
+  {
+   "key": "1715692801872220160",
+   "en": "Mix me up a Silverhand. Drinkin' to Johnny.",
+   "ro": "Fă-mi un Silverhand. Beau în cinstea lui Johnny."
+  },
+  {
+   "key": "1715698509615321088",
+   "en": "V. I've long awaited this moment. To look the latest Afterlife legend in the eye – I must say, I'm moved.",
+   "ro": "V. De mult aștept momentul ăsta. Să te am în față, cea mai nouă legendă a Afterlife-ului – recunosc, sunt emoționată."
+  },
+  {
+   "key": "1715699657462108160",
+   "en": "Happy not to disappoint.",
+   "ro": "Mă bucur că n-am dezamăgit."
+  },
+  {
+   "key": "1715700198510546944",
+   "en": "I have confirmed the intel leaking out of Arasaka. The casino is currently testing a new security system.",
+   "ro": "Am confirmat scurgerile din Arasaka. Cazinoul testează deja un sistem de securitate nou."
+  },
+  {
+   "key": "1715774636534910976",
+   "en": "I mean, I only know what people say about 'im, but... bet he'd looove what you're planning. Shit, he'd be over the damn moon.",
+   "ro": "Adică, știu doar ce se zice despre el, dar... pariez că i-ar plăcea la nebunie ce plănuiești. Căcat, ar sări în tavan de fericire."
+  },
+  {
+   "key": "1730130817202114560",
+   "en": "Boss.",
+   "ro": "Boss."
+  },
+  {
+   "key": "1730132208838627328",
+   "en": "Hey. We good?",
+   "ro": "Hei. Suntem bine?"
+  },
+  {
+   "key": "1730154586926862336",
+   "en": "Get you somethin'?",
+   "ro": "Îți iau ceva?"
+  },
+  {
+   "key": "1730238423849619460",
+   "en": "[Sit] Whaddaya got for me?",
+   "ro": "[Așează-te] Ce ai pentru mine?"
+  },
+  {
+   "key": "1795324919281217536",
+   "en": "Perfect. Your box is ready an' waitin'.",
+   "ro": "Perfect. Boxul tău e gata și te așteaptă."
+  },
+  {
+   "key": "1795331219159379972",
+   "en": "[Lean in] The usual.",
+   "ro": "[Sprijină-te] Cel obișnuit."
+  },
+  {
+   "key": "1795331419982655488",
+   "en": "[Lean in] No thanks.",
+   "ro": "[Sprijină-te] Nu, mulțumesc."
+  },
+  {
+   "key": "1795333140100280320",
+   "en": "My usual.",
+   "ro": "Cel obișnuit."
+  },
+  {
+   "key": "1795333631353942016",
+   "en": "Sure thing.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1795334285950578688",
+   "en": "People can tell something's up. Won't be able to keep it under wraps much longer.",
+   "ro": "Oamenii își dau seama că ceva nu e în regulă. N-o să mai ținem asta sub tăcere mult timp."
+  },
+  {
+   "key": "1795336090340159488",
+   "en": "Won't have to. Take off's today.",
+   "ro": "Nu o să fie nevoie. Decolăm azi."
+  },
+  {
+   "key": "1795336225228976128",
+   "en": "Today...?",
+   "ro": "Azi...?"
+  },
+  {
+   "key": "1795337100328562688",
+   "en": "Nothin' for me, thanks.",
+   "ro": "Nimic pentru mine, mersi."
+  },
+  {
+   "key": "1795337493972381696",
+   "en": "I understand. It's the big day, isn't it? You're meetin' him?",
+   "ro": "Înțeleg. E ziua cea mare, nu? Te vezi cu el?"
+  },
+  {
+   "key": "1795337918150733824",
+   "en": "Mhm.",
+   "ro": "Mhm."
+  },
+  {
+   "key": "1795340042179833856",
+   "en": "So – I'm gonna knock one back. Your health, V. And to the mission.",
+   "ro": "Așa că, o trag și eu. Noroc, V. Și pe misiune."
+  },
+  {
+   "key": "1795342932072067072",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1795343125697916928",
+   "en": "Good luck, V.",
+   "ro": "Mult noroc, V."
+  },
+  {
+   "key": "1795344828686004224",
+   "en": "Mix me up a Welles. Gonna drink to Jackie.",
+   "ro": "Fă-mi un Welles. O să beau în cinstea lui Jackie."
+  },
+  {
+   "key": "1795345795271749632",
+   "en": "Miss him, don't you?",
+   "ro": "Îți e dor de el, nu?"
+  },
+  {
+   "key": "1795346162390790144",
+   "en": "Mhm... This place was Jack's dream, y'know? Afterlife legends, that's what we were gonna be.",
+   "ro": "Mhm... Locul ăsta era visul lui Jack, știi? Legende ale Afterlife-ului, asta urma să fim."
+  },
+  {
+   "key": "1795346876982751232",
+   "en": "Well, then you made his dream come true.",
+   "ro": "Păi, atunci i-ai împlinit visul."
+  },
+  {
+   "key": "1795346995748663296",
+   "en": "Good luck, V.",
+   "ro": "Mult noroc, V."
+  },
+  {
+   "key": "1795348508701224960",
+   "en": "Drinkin' to Rogue.",
+   "ro": "Beau în cinstea lui Rogue."
+  },
+  {
+   "key": "1795349234231930880",
+   "en": "Gotta say, she'd be happy to see you in her box.",
+   "ro": "Sigur s-ar bucura să te vadă în boxul ei."
+  },
+  {
+   "key": "1795350527704952832",
+   "en": "Think so?",
+   "ro": "Crezi?"
+  },
+  {
+   "key": "1795352046563094528",
+   "en": "Remember that first time you asked her for help? She was hard on you, wasn't she?",
+   "ro": "Ții minte prima dată când i-ai cerut ajutor? A fost tare dură cu tine, nu?"
+  },
+  {
+   "key": "1795352444082450432",
+   "en": "Know what she told me later? She said, \"She's got that blood, Afterlife blood. She'll make the city hers or it'll kill her. No third option.\"",
+   "en_m": "Know what she told me later? She said, \"He's got that blood, Afterlife blood. He'll make the city his or it'll kill him. No third option.\"",
+   "ro": "Știi ce mi-a zis mai târziu? Zicea: „Are sângele ăsta, sânge de Afterlife. O să facă orașul al ei sau o să o omoare. Nu e a treia variantă.”",
+   "ro_m": "Știi ce mi-a zis mai târziu? Zicea: „Are sângele ăsta, sânge de Afterlife. O să facă orașul al lui sau o să-l omoare. Nu e a treia variantă.”"
+  },
+  {
+   "key": "1795356541716131840",
+   "en": "Think that was why she decided to help you. And, well, she was right.",
+   "ro": "Cred că de-asta a decis să te ajute. Și, păi, a avut dreptate."
+  },
+  {
+   "key": "1795356656354848768",
+   "en": "Heh. That she was…",
+   "ro": "Heh. Asta a fost…"
+  },
+  {
+   "key": "1795358674402275328",
+   "en": "What about my drink? Let's raise a glass to me. Might need it.",
+   "ro": "Dar băutura mea? Hai să ciocnim în cinstea mea. S-ar putea să am nevoie."
+  },
+  {
+   "key": "1795359538059800576",
+   "en": "Want the Afterlife to make a drink in your name, you gotta die first. You know the rules.",
+   "ro": "Ca să-ți facă Afterlife-ul o băutură pe nume, trebuie să mori întâi. Știi regulile."
+  },
+  {
+   "key": "1795359669979049984",
+   "en": "Oh, but I did die, Claire.",
+   "ro": "Oh, dar am murit, Claire."
+  },
+  {
+   "key": "1795371768281165828",
+   "en": "I'm the best. Won't let you down.",
+   "ro": "Sunt cea mai bună. Nu te dezamăgesc.",
+   "ro_m": "Sunt cel mai bun. Nu te dezamăgesc."
+  },
+  {
+   "key": "1795371984287821824",
+   "en": "Got doubts?",
+   "ro": "Ai îndoieli?"
+  },
+  {
+   "key": "1795377420693008384",
+   "en": "Won't be disappointed. Picked the best merc around for the job.",
+   "ro": "Nu o să fii dezamăgit. Am ales cel mai bun merc din zonă pentru job."
+  },
+  {
+   "key": "1795378485677125632",
+   "en": "Having second thoughts? Hope that doesn't mean you wanna drop out.",
+   "ro": "Ai emoții? Sper că nu vrei cumva să renunți."
+  },
+  {
+   "key": "1795378935860162560",
+   "en": "So I've heard. But I'd like it proved to me as well.",
+   "ro": "Așa am auzit. Dar aș vrea să mi se dovedească și mie."
+  },
+  {
+   "key": "1795382939944087552",
+   "en": "Drop out? At this stage? No, it would make no sense, I'd take a hit.",
+   "ro": "Să renunț? Acum? Nu, n-ar avea nicio logică, aș pierde tot."
+  },
+  {
+   "key": "1795384639509622784",
+   "en": "Speaking of which – nobody's ever pulled off a stunt like this.",
+   "ro": "Apropo – nimeni n-a mai făcut o ispravă ca asta."
+  },
+  {
+   "key": "1809661701225312256",
+   "en": "Is that a problem?",
+   "ro": "E o problemă?"
+  },
+  {
+   "key": "1809665156140625920",
+   "en": "No, no. Just… in that case, you're gonna need somethin' special.",
+   "ro": "Nu, nu. Doar că… în cazul ăsta, o să ai nevoie de ceva special."
+  },
+  {
+   "key": "1809668463433216000",
+   "en": "Rogue had this little ritual. Before any big op, she'd knock back a shot of tequila. Silverhand's preferred.",
+   "ro": "Rogue avea un ritual. Înainte de orice operațiune mare, dădea pe gât un shot de tequila. Preferata lui Silverhand."
+  },
+  {
+   "key": "1809671895162417152",
+   "en": "Asked her once if it was for luck or whatever. Know what she said?",
+   "ro": "Am întrebat-o odată dacă era pentru noroc sau ceva. Știi ce-a zis?"
+  },
+  {
+   "key": "1809673582967123968",
+   "en": "Said it was about remembering. Said that remembering Johnny that way helped her focus on what was important.",
+   "ro": "A zis că e vorba de amintire. Că, amintindu-și de Johnny în felul ăsta, se concentra mai bine pe ce era important."
+  },
+  {
+   "key": "1873363209342808068",
+   "en": "They'd be all kinds of wrong.",
+   "ro": "Ar fi complet pe lângă."
+  },
+  {
+   "key": "1873363809044393984",
+   "en": "It's why you hired me.",
+   "ro": "De-aia m-ai angajat."
+  },
+  {
+   "key": "1873364021578166272",
+   "en": "Guess that's why you hired me.",
+   "ro": "Cred că de-aia m-ai angajat."
+  },
+  {
+   "key": "1873364335832199168",
+   "en": "Huh. You know why I hired you? Because you'd do anything at all for even the faintest chance at survival.",
+   "ro": "Hm. Știi de ce te-am angajat? Pentru că ai face orice pentru cea mai mică șansă de scăpare cu viață."
+  },
+  {
+   "key": "1873365548472594432",
+   "en": "They'd be dead wrong, all of 'em.",
+   "ro": "Ar greși lamentabil, toți."
+  },
+  {
+   "key": "1873687262833405956",
+   "en": "I'm primed for this.",
+   "ro": "Sunt pregătită pentru asta.",
+   "ro_m": "Sunt pregătit pentru asta."
+  },
+  {
+   "key": "1903882771434827776",
+   "en": "Ladies first.",
+   "en_m": "Sit, sit.",
+   "ro": "Doamnele întâi.",
+   "ro_m": "Așează-te, așează-te."
+  },
+  {
+   "key": "1976712403576541184",
+   "en": "Weyland. Back and better than ever?",
+   "ro": "Weyland. Ai revenit și mai în formă ca niciodată?"
+  },
+  {
+   "key": "1976712619331538948",
+   "en": "Hey. Back at your post already?",
+   "ro": "Hei. Te-ai întors deja la post?"
+  },
+  {
+   "key": "2009531033890451456",
+   "en": "Anyways, Afterlife tradition – gonna mix you up one of our specials. Just tell me who we're drinkin' to.",
+   "ro": "Oricum, tradiție la Afterlife – îți fac una din specialități. Zi doar pentru cine bem."
+  },
+  {
+   "key": "2009557366116839424",
+   "en": "Huh, um, OK...? OK, I'll... I'll mix you somethin'.",
+   "ro": "Hm, ăă, OK...? OK, îți... îți fac ceva."
+  },
+  {
+   "key": "2009558298376400896",
+   "en": "And good luck, V.",
+   "ro": "Și mult noroc, V."
+  },
+  {
+   "key": "2009559665820168192",
+   "en": "Rogue had this little ritual. Before any big op, she'd knock back a shot of tequila. Silverhand's preferred.",
+   "ro": "Rogue avea un ritual. Înainte de orice operațiune mare, dădea pe gât un shot de tequila. Preferata lui Silverhand."
+  },
+  {
+   "key": "2009569466465775616",
+   "en": "And it's true – they will be shutting it down briefly today. I believe you'll know how to use that moment.",
+   "ro": "Și e adevărat – azi o să-l închidă o vreme. Cred că știi ce să faci cu momentul ăla."
+  },
+  {
+   "key": "2009601230986932224",
+   "en": "Talk to me.",
+   "ro": "Vorbește cu mine."
+  },
+  {
+   "key": "2009606624375336960",
+   "en": "Where I'm from, they'd say it's straight impossible.",
+   "ro": "Pe unde am crescut eu, ar zice că e pur și simplu imposibil."
+  },
+  {
+   "key": "2009609542050639872",
+   "en": "Self-confidence worthy of a legend. Or of someone risking it all.",
+   "ro": "Încredere de legendă. Sau de cineva care riscă tot."
+  },
+  {
+   "key": "2009610536905994240",
+   "en": "Oh, I never forget a promise. Good luck.",
+   "ro": "Nu uit niciodată o promisiune. Mult noroc."
+  },
+  {
+   "key": "2009611779560828928",
+   "en": "This time tomorrow – should have the casino's client data, all of it.",
+   "ro": "Mâine pe vremea asta – ar trebui să avem datele clienților de la cazino, toate."
+  },
+  {
+   "key": "2009613931255558144",
+   "en": "Don't forget your side of the bargain.",
+   "ro": "Nu uita de partea ta din înțelegere."
+  },
+  {
+   "key": "2009638840170049536",
+   "en": "Even if it meant coming to within a hair's breadth of your untimely death.",
+   "ro": "Chiar dacă a trebuit să ajungi la un fir de păr de moarte."
+  },
+  {
+   "key": "2009652173879242752",
+   "en": "Hmm. But I sense you know what it's like to lose everything. To fight for one last breath. I see it in you.",
+   "ro": "Hmm. Dar simt că știi cum e să pierzi totul. Să lupți pentru ultima gură de aer. Se vede pe tine."
+  },
+  {
+   "key": "2009655891995521024",
+   "en": "Lookin' brand new.",
+   "ro": "Arăți ca nou."
+  },
+  {
+   "key": "2009656169708777472",
+   "en": "Put you back together beautifully. Brand, shiny new Weyland.",
+   "ro": "Te-am pus la loc frumos. Weyland nou-nouț, strălucitor."
+  },
+  {
+   "key": "2009659264484372480",
+   "en": "Ready and waitin'.",
+   "ro": "Gata, te aștept."
+  },
+  {
+   "key": "2009662342767964160",
+   "en": "But what you plan to do today, V... I mean, respect. Nothin' else will ever come close.",
+   "ro": "Dar ce vrei să faci azi, V... adică, respect. Nimic nu se mai compară."
+  },
+  {
+   "key": "2009663025298665472",
+   "en": "Take gooood care of yourself. And good luck.",
+   "ro": "Ai grijăăă de tine. Și mult noroc."
+  },
+  {
+   "key": "2009663187433680896",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "2009664975784243200",
+   "en": "Heheh. Yeah, somehow. Anyway, had enough of sittin' on my ass in the clinic. Feel much better here.",
+   "ro": "Heheh. Da, cumva. Oricum, m-am săturat să stau degeaba în clinică. Mi-e mult mai bine aici."
+  },
+  {
+   "key": "2009668234909446144",
+   "en": "You tell everyone here about that stunt you pulled at Arasaka Tower?",
+   "en_m": "You tell anyone here about that stunt you pulled at Arasaka Tower?",
+   "ro": "Ai spus la toată lumea de la Afterlife de cascadoria aia de la Turnul Arasaka?",
+   "ro_m": "Ai spus la cineva de la Afterlife de cascadoria aia de la Turnul Arasaka?"
+  },
+  {
+   "key": "2009669081538097152",
+   "en": "Whadda you think? Claire musta heard it three times already.",
+   "ro": "Ce zici? Claire trebuie să fi auzit-o de vreo trei ori deja."
+  },
+  {
+   "key": "2009670066260013056",
+   "en": "Where you can tell everyone about your 'Saka Tower heroics?",
+   "en_m": "Where you can tell everyone about your 'Saka Tower heroics.",
+   "ro": "Unde poți să le spui tuturor de eroismele tale de la 'Saka Tower?",
+   "ro_m": "Unde poți să le spui tuturor de eroismele tale de la 'Saka Tower."
+  },
+  {
+   "key": "2009670769493798912",
+   "en": "Heh, ya know it!",
+   "ro": "Heh, știi bine că da!"
+  },
+  {
+   "key": "2050595512664190980",
+   "en": "Hey.",
+   "ro": "Hei."
+  },
+  {
+   "key": "2169634013014913028",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "2170548781791834116",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2232849145293631488",
+   "en": "Sit down. Let's talk.",
+   "ro": "Stai jos. Hai să vorbim."
+  },
+  {
+   "key": "2232850298341355520",
+   "en": "I wouldn't mind knowing what's sprouted in your mind, V.",
+   "ro": "N-ar strica să știu ce ți-a înflorit în minte, V."
+  },
+  {
+   "key": "2232851514152644608",
+   "en": "Is everything in order?",
+   "ro": "Totul e în ordine?"
+  },
+  {
+   "key": "2232853090724409344",
+   "en": "V...?",
+   "ro": "V...?"
+  },
+  {
+   "key": "2232863366500773888",
+   "en": "Boss?",
+   "ro": "Boss?"
+  },
+  {
+   "key": "2232864293676838912",
+   "en": "So what'd hit the spot about now?",
+   "ro": "Deci ce ți-ar prinde bine acum?"
+  },
+  {
+   "key": "2232866513503842304",
+   "en": "Hey, boss.",
+   "ro": "Hey, boss."
+  },
+  {
+   "key": "2232867747602296832",
+   "en": "Life treatin' you all right?",
+   "ro": "Cum te mai tratează viața?"
+  },
+  {
+   "key": "2251555151481597952",
+   "en": "Hey, Rogue. How's things? Everything in order?",
+   "ro": "Hey, Rogue. Ce mai e? Totul în ordine?"
+  },
+  {
+   "key": "2251556229082181632",
+   "en": "Hey. What's the sich?",
+   "ro": "Hey. Care-i treaba?"
+  },
+  {
+   "key": "2251556931560992768",
+   "en": "Hey. Client seems settled in.",
+   "ro": "Hey. Clientul pare acomodat."
+  },
+  {
+   "key": "2251557460898934784",
+   "en": "Hey. Client's here, waiting.",
+   "ro": "Hey. Clientul e aici, așteaptă."
+  },
+  {
+   "key": "2251558769555337216",
+   "en": "You tell me. Afterlife, all that goes on here – it's your mess now.",
+   "ro": "Ba tu zi-mi. Afterlife, tot ce se întâmplă aici – acum e problema ta."
+  },
+  {
+   "key": "2251558894595928064",
+   "en": "Sit down, let's talk a minute. Before all that swallows you whole.",
+   "ro": "Stai jos, hai să vorbim un minut. Înainte să te înghită totul."
+  },
+  {
+   "key": "2251563033635778560",
+   "en": "Oh, no you don't. Unusual situation – you just can't have the usual.",
+   "ro": "Ba nu. Situație neobișnuită – nu poți avea ce e obișnuit."
+  },
+  {
+   "key": "2251564103267184640",
+   "en": "Off into the wild blue today. And you're well aware of the stakes.",
+   "ro": "Azi pleci în necunoscut. Și știi bine miza."
+  },
+  {
+   "key": "2251564761051492352",
+   "en": "Sure, keep remindin' me…",
+   "ro": "Sigur, continuă să-mi amintești…"
+  },
+  {
+   "key": "2251564832606318592",
+   "en": "Before any big op, and you know this, I'd oil the cogs with a little glass of tequila... Johnny's preferred.",
+   "ro": "Înainte de orice op mare, știi și tu, îmi luam un păhărel de tequila ca să intru în priză... preferata lui Johnny."
+  },
+  {
+   "key": "2251566981851574272",
+   "en": "We all got our rituals, charms, lucky underwear…",
+   "ro": "Fiecare are ritualurile lui, talismanele, chiloții norocoși…"
+  },
+  {
+   "key": "2251568095959379968",
+   "en": "Not talkin' about luck, talkin' about remembering. Remembering Johnny... which is how I knew what this was all for. What I was doing in this mess.",
+   "ro": "Nu vorbesc de noroc, ci de amintiri. Să ții minte de Johnny... și de-acolo am înțeles pentru ce era totul. Ce treabă aveam în mizeria asta."
+  },
+  {
+   "key": "2251568890779987968",
+   "en": "Rogue...",
+   "ro": "Rogue..."
+  },
+  {
+   "key": "2251569519623598080",
+   "en": "So you're gonna honor Afterlife tradition. Claire's gonna mix you a house drink. You just name it.",
+   "ro": "Deci respecți tradiția de la Afterlife. Claire îți face un drink al casei. Tu doar îi spui numele."
+  },
+  {
+   "key": "2251572984018038784",
+   "en": "I'll drink to Johnny.",
+   "ro": "Beau pentru Johnny."
+  },
+  {
+   "key": "2251572984018038808",
+   "en": "I'll drink to Jackie.",
+   "ro": "Beau pentru Jackie."
+  },
+  {
+   "key": "2251572984034816008",
+   "en": "How about mine? Wanna drink to me.",
+   "ro": "Și al meu? Bea pentru mine."
+  },
+  {
+   "key": "2251575208358113300",
+   "en": "He'da gone with you, I just know it. Couldn't resist an op like this.",
+   "ro": "Ar fi mers cu tine, știu sigur. N-ar fi putut rezista la un op ca ăsta."
+  },
+  {
+   "key": "2251575208358113316",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "2251575802640658468",
+   "en": "You miss him?",
+   "ro": "Îți e dor de el?"
+  },
+  {
+   "key": "2251575802640658484",
+   "en": "This place, it was Jackie's dream. He wanted to work with fixers like you. Legends.",
+   "ro": "Locul ăsta era visul lui Jackie. Voia să lucreze cu fixeri ca tine. Legende."
+  },
+  {
+   "key": "2251575802657435652",
+   "en": "Well, consider his dream fulfilled.",
+   "ro": "Păi, consideră visul lui împlinit."
+  },
+  {
+   "key": "2251576361321951260",
+   "en": "I'n't high time to have a V on the menu? Let's drink to me. Could use it today.",
+   "ro": "Nu-i momentul să am și eu un V în meniu? Hai să bem pentru mine. Azi chiar îmi trebuie."
+  },
+  {
+   "key": "2251576361321951276",
+   "en": "Mh, gotta die to have a drink named after you at the Afterlife. You know the rules.",
+   "ro": "Mh, trebuie să mori ca să ai o băutură cu numele tău la Afterlife. Știi regulile."
+  },
+  {
+   "key": "2251576361338728460",
+   "en": "Agreed, and I do know the rules. But I did die, Rogue.",
+   "ro": "Sigur că știu regulile. Dar am murit, Rogue."
+  },
+  {
+   "key": "2251576888092979200",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "2251577551396990976",
+   "en": "Break a leg, V. This heist – if anybody can pull it off, that person's you.",
+   "ro": "Mult succes, V. Heistul ăsta – dacă cineva îl poate duce la capăt, ești tu."
+  },
+  {
+   "key": "2251578122510200832",
+   "en": "[Stand] Thanks.",
+   "ro": "[Ridică-te] Mulțumesc."
+  },
+  {
+   "key": "2251646316474200064",
+   "en": "I remember his smile every time he sensed the world rocking, on the verge of collapse. He'd be smilin' today.",
+   "ro": "Îmi aduc aminte zâmbetul lui de fiecare dată când simțea lumea clătinându-se, gata să se prăbușească. Azi ar zâmbi."
+  },
+  {
+   "key": "2251677011447836672",
+   "en": "You did. A living legend of the Afterlife – how about that.",
+   "ro": "Ai reușit. O legendă vie de la Afterlife – ce zici de asta?"
+  },
+  {
+   "key": "2251677119275003904",
+   "en": "Well then clearly you've risen from the dead. With a bigger head, too.",
+   "ro": "Păi, atunci clar ai înviat din morți. Și cu capul mai mare, pe deasupra."
+  },
+  {
+   "key": "2251703887524458496",
+   "en": "Wanted everybody at the Afterlife to know our names. \"Major leagues, V, that's the place to be, the major leagues.\"",
+   "ro": "Voia ca toată lumea de la Afterlife să ne știe numele. „Liga mare, V, acolo e locul unde trebuie să fii, în liga mare.”"
+  },
+  {
+   "key": "2252986653444599808",
+   "en": "Somebody like this deserves something special, Claire.",
+   "ro": "Cineva ca ăsta merită ceva special, Claire."
+  },
+  {
+   "key": "2252989992228024320",
+   "en": "Long story. Might get the chance to tell it to you some day.",
+   "ro": "Poveste lungă. Poate ți-o spun cândva."
+  },
+  {
+   "key": "2252990746397437952",
+   "en": "OK, I'm willin' to drink to that. Claire, bring us something… appropriate.",
+   "ro": "OK, beau pe asta. Claire, adu ceva… potrivit."
+  },
+  {
+   "key": "2252992202609455104",
+   "en": "Thanks, Rogue.",
+   "ro": "Mulțumesc, Rogue."
+  },
+  {
+   "key": "2252994920988209204",
+   "en": "Mh. I get that. Got an important meeting today.",
+   "ro": "Mh. Înțeleg. Am o întâlnire importantă azi."
+  },
+  {
+   "key": "2252994920988209220",
+   "en": "Goin' up today, Rogue.",
+   "ro": "Azi urc, Rogue."
+  },
+  {
+   "key": "2252994921004986372",
+   "en": "Your ritual, your lucky underwear? Not sure that's my thing.",
+   "ro": "Ritualul tău, chiloții norocoși? Nu cred că e genul meu."
+  },
+  {
+   "key": "2252994921004986420",
+   "en": "So mock me all you want, but I, choomba, drink to you.",
+   "ro": "Râde de mine cât vrei, choomba, da' eu beau pe sănătatea ta."
+  },
+  {
+   "key": "2253001053597528064",
+   "en": "Drink. It'll do you good.",
+   "ro": "Bea. O să-ți priască."
+  },
+  {
+   "key": "2253001991175467008",
+   "en": "Heheh. Having trouble deciding?",
+   "ro": "Nu te poți hotărî?"
+  },
+  {
+   "key": "2253002691355799552",
+   "en": "Sit down, V. We should talk.",
+   "ro": "Trebuie să vorbim."
+  },
+  {
+   "key": "2253033502897532928",
+   "en": "Be careful up there and good luck. And come back to us. Afterlife's your home now.",
+   "ro": "Fii atentă sus și mult noroc. Și întoarce-te la noi. Afterlife e casa ta acum.",
+   "ro_m": "Fii atent sus și mult noroc. Și întoarce-te la noi. Afterlife e casa ta acum."
+  },
+  {
+   "key": "2253046357499768836",
+   "en": "Everything chill?",
+   "ro": "Totul ok, calmă?",
+   "ro_m": "Totul ok, calm?"
+  },
+  {
+   "key": "2253046658885677056",
+   "en": "Hey. All chill here?",
+   "ro": "Hei. E liniște pe aici?"
+  },
+  {
+   "key": "2253069653939253248",
+   "en": "Hey. Client here yet?",
+   "ro": "Hei. A ajuns clientul?"
+  },
+  {
+   "key": "2253070618494955520",
+   "en": "Hey. Client here yet?",
+   "ro": "Hei. A ajuns clientul?"
+  },
+  {
+   "key": "2253073078924013568",
+   "en": "Mmm, yep. Lying in wait, by the booth.",
+   "ro": "Mmm, da. Stă la pândă, lângă cabină."
+  },
+  {
+   "key": "2253074152011526144",
+   "en": "Uh-huh. And he can wait a little longer.",
+   "ro": "Aha. Să mai aștepte puțin."
+  },
+  {
+   "key": "2253076830326288384",
+   "en": "Heh, intrigued to hear what this client has to say.",
+   "ro": "Heh, sunt curioasă să aud ce are de spus clientul ăsta.",
+   "ro_m": "Heh, sunt curios să aud ce are de spus clientul ăsta."
+  },
+  {
+   "key": "2253078486187175936",
+   "en": "I would be too. He awaits. But before you go off, let's you and me swap a few thoughts.",
+   "ro": "Și eu. Te așteaptă. Dar înainte să pleci, hai să stăm de vorbă puțin."
+  },
+  {
+   "key": "2253098355813183488",
+   "en": "Hm, aye, be waitin' for me moment. Long enough me back end's complainin' with a pain.",
+   "ro": "Hm, da, aștept să vină momentul. Am stat destul, că mă doare spatele."
+  },
+  {
+   "key": "2253100375991316480",
+   "en": "Heard you goin' after somethin' big, V. Shimmerin' luck to you, always.",
+   "ro": "Am auzit că te bagi după ceva mare, V. Mult noroc, mereu."
+  },
+  {
+   "key": "2253101370544680960",
+   "en": "Thanks, Crispin.",
+   "ro": "Mulțumesc, Crispin."
+  },
+  {
+   "key": "2303786710141693952",
+   "en": "Well, V... Mikoshi was quite the punch, you TKO'd Arasaka, in fact. Brought you eddies, influence around town. But not just that.",
+   "ro": "Păi, V... Mikoshi a fost o lovitură zdravănă, de fapt i-ai dat KO Arasaka. Ți-a adus eddies, influență prin oraș. Și nu doar atât."
+  },
+  {
+   "key": "2303789378222354432",
+   "en": "It meant positive paralysis of Arasaka systems. A few additional hatches opened up, my people rushed in, grabbed what they could.",
+   "ro": "Am paralizat sistemele Arasaka. S-au deschis câteva trape în plus, oamenii mei s-au repezit și au luat ce-au putut."
+  },
+  {
+   "key": "2303790937429700608",
+   "en": "So it's all systems go for the op.",
+   "ro": "Deci, totul e gata pentru operațiune."
+  },
+  {
+   "key": "2303794015176421376",
+   "en": "They'd say you're taking too big a risk. Poetically speaking, flying towards the sun to burn up.",
+   "ro": "Ar zice că riști prea mult. Ca-n poveste, zbori spre soare să te arzi."
+  }
+ ]
+}

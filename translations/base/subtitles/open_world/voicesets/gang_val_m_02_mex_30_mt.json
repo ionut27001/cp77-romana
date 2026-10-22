@@ -1,0 +1,336 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_val_m_02_mex_30_mt.json",
+ "entries": [
+  {
+   "key": "1805407380061151236",
+   "en": "<kiroshi l=\"mex\" o=\"Así es, culera.\" t=\"Sup, motherfucker.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"Así es, culero.\" t=\"'Sup, motherfucker.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Así es, culera.\" t=\"Ce faci, nenorocitule?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Así es, culero.\" t=\"Ce faci, nenorocitule?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380077928452",
+   "en": "<kiroshi l=\"mex\" o=\"A ver si ya dejas de andar con tus mamadas.\" t=\"But don't go showin' off.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"A ver si ya dejas de andar con tus mamadas.\" t=\"Dar nu te fă mare.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380111482884",
+   "en": "<kiroshi l=\"mex\" o=\"Este es territorio Valentino.\" t=\"This's Valentino turf.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Este es territorio Valentino.\" t=\"Aici e teritoriu Valentinos.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380128260100",
+   "en": "<kiroshi l=\"mex\" o=\"¿Por qué chingados metes las pinches narices donde no te llaman?\" t=\"Why are you sticking your nose where it don't belong?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Por qué chingados metes las pinches narices donde no te llaman?\" t=\"De ce bagi nasul unde nu-ți fierbe oala?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380178591748",
+   "en": "<kiroshi l=\"mex\" o=\"Ya, guarda esa mierda.\" t=\"C'mon, stash that shit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ya, guarda esa mierda.\" t=\"Hai, bagă rahatul ăla la loc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380195368964",
+   "en": "<kiroshi l=\"mex\" o=\"No estoy de humor para amenazas. Nomás guarda eso, ¿sí?\" t=\"In no mood for threats. Just put it away, OK?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No estoy de humor para amenazas. Nomás guarda eso, ¿sí?\" t=\"Nu sunt în toane de amenințări. Lasă-l jos, bine?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380228923396",
+   "en": "<kiroshi l=\"mex\" o=\"No me provoques.\" t=\"Don't provoke me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"No me provoques.\" t=\"Nu mă provoca.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380245700612",
+   "en": "<kiroshi l=\"mex\" o=\"¿Te creíste que encontrabas a una pinche pendeja?\" t=\"What, thought you found a punk bitch?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Te creíste que encontrabas a una pinche pendeja?\" t=\"Ce, ai crezut că ai dat de o golană nenorocită?!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¿Te creíste que encontrabas a una pinche pendeja?\" t=\"Ce, ai crezut că ai dat de un golan nenorocit?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380279255044",
+   "en": "<kiroshi l=\"mex\" o=\"¡A huevo!\" t=\"Damn right.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡A huevo!\" t=\"Exact!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380312809476",
+   "en": "<kiroshi l=\"mex\" o=\"Mucho mejor.\" t=\"Much better.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Mucho mejor.\" t=\"Mult mai bine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380346363908",
+   "en": "<kiroshi l=\"mex\" o=\"Ehhh... Será mejor que cheque.\" t=\"Uhhh... Better check that out.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ehhh... Será mejor que cheque.\" t=\"Uhhh... Mai bine verific.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380363141124",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué? Otra vez no...\" t=\"What? Not again…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué? Otra vez no...\" t=\"Ce? Nu iar…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380413472772",
+   "en": "<kiroshi l=\"mex\" o=\"Todo tranquilón. Por suerte.\" t=\"All quiet. Luckily.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Todo tranquilón. Por suerte.\" t=\"E liniște. Slavă Domnului.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380430249988",
+   "en": "<kiroshi l=\"mex\" o=\"Me vale madres.\" t=\"Don't give a shit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Me vale madres.\" t=\"Mă doare-n cur.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380463804420",
+   "en": "<kiroshi l=\"mex\" o=\"Aquí estoy, esperándote.\" t=\"Right here waiting for ya.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Aquí estoy, esperándote.\" t=\"Aici te aștept.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380480581636",
+   "en": "<kiroshi l=\"mex\" o=\"¿Y luego? ¿Dónde estás?\" t=\"Well? Where are you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Y luego? ¿Dónde estás?\" t=\"Și? Unde ești?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380514136068",
+   "en": "<kiroshi l=\"mex\" o=\"¡Tenemos un problema!\" t=\"We got a problem!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Tenemos un problema!\" t=\"Avem o problemă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380547690496",
+   "en": "<kiroshi l=\"mex\" o=\"Bueno, pues que así sea.\" t=\"Fine, so be it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Bueno, pues que así sea.\" t=\"Bine, așa să fie.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380581244932",
+   "en": "<kiroshi l=\"mex\" o=\"Estás muerta.\" t=\"You're dead.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"Estás muerto.\" t=\"You're dead.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Estás muerta.\" t=\"Ești moartă.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Estás muerto.\" t=\"Ești mort.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380614799364",
+   "en": "<kiroshi l=\"mex\" o=\"Ni pedo, ahora tengo que matarte.\" t=\"And now I gotta kill you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ni pedo, ahora tengo que matarte.\" t=\"Și acum trebuie să te omor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380631576580",
+   "en": "<kiroshi l=\"mex\" o=\"¡A punto de estallar!\" t=\"About to blow!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡A punto de estallar!\" t=\"E gata să explodeze!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380681908228",
+   "en": "<kiroshi l=\"mex\" o=\"¡Solo Valentinos!\" t=\"Valentinos only!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Solo Valentinos!\" t=\"Doar Valentinos!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380698685444",
+   "en": "<kiroshi l=\"mex\" o=\"¡Valentinos por siempre!\" t=\"Valentinos forever!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Valentinos por siempre!\" t=\"Valentinos pe veci!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380732239876",
+   "en": "<kiroshi l=\"mex\" o=\"¡Putísima madre!\" t=\"Motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Putísima madre!\" t=\"Futu-i mama mă-sii!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380749017092",
+   "en": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Căcat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380799348740",
+   "en": "<kiroshi l=\"mex\" o=\"Bájale de huevos.\" t=\"Fuckin' chill.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Bájale de huevos.\" t=\"Calmează-te dracu'.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380816125956",
+   "en": "<kiroshi l=\"mex\" o=\"Órale.\" t=\"Hey.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Órale.\" t=\"Hei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380832903172",
+   "en": "<kiroshi l=\"mex\" o=\"Oye.\" t=\"Hey.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Oye.\" t=\"Hei.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380883234820",
+   "en": "<kiroshi l=\"mex\" o=\"Sipi... seguro... No hay bronca... Mmm, mmm... Ahí estaré...\" t=\"Yep... sure... no problem... mhm, mhm... I'll be there...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sipi... seguro... No hay bronca... Mmm, mmm... Ahí estaré...\" t=\"Da... sigur... nicio problemă... mhm, mhm... vin acolo...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380900012036",
+   "en": "<kiroshi l=\"mex\" o=\"Qué bueno que llamaste... Sí, ayudaré... Sipi, ya está... Sí, va conmigo...\" t=\"Good thing you called... yeah, I'll help... yep, got it... yeah, I'll bring it...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Qué bueno que llamaste... Sí, ayudaré... Sipi, ya está... Sí, va conmigo...\" t=\"Bine că ai sunat... da, ajut... da, am înțeles... da, o să-l aduc...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380933566468",
+   "en": "<kiroshi l=\"mex\" o=\"¡Por un lado! ¡El lado!\" t=\"From the side! The side!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Por un lado! ¡El lado!\" t=\"Din lateral! Lateral!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380967120900",
+   "en": "<kiroshi l=\"mex\" o=\"¡Sí! ¡Allá voy!\" t=\"Yeah! Going in!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Sí! ¡Allá voy!\" t=\"Da! Intru!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407380983898116",
+   "en": "<kiroshi l=\"mex\" o=\"¡Sácate mucho a la chingada!\" t=\"Get the fuck out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Sácate mucho a la chingada!\" t=\"Cară-te dracu' de-aici!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381000675332",
+   "en": "<kiroshi l=\"mex\" o=\"Cuídate.\" t=\"Take care.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Cuídate.\" t=\"Ai grijă de tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381017452548",
+   "en": "<kiroshi l=\"mex\" o=\"¿Qué chingados es eso?\" t=\"The hell is that?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Qué chingados es eso?\" t=\"Ce dracu' e asta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381067784196",
+   "en": "<kiroshi l=\"mex\" o=\"Mmm. Sale pues, vamos.\" t=\"Mhm. All right, let's go.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Mmm. Sale pues, vamos.\" t=\"Mhm. Bine, hai să mergem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381084561412",
+   "en": "<kiroshi l=\"mex\" o=\"Me suena a un problema de dos.\" t=\"Sounds like a problem for two.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Me suena a un problema de dos.\" t=\"Pare treabă pentru doi.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381118115844",
+   "en": "<kiroshi l=\"mex\" o=\"Buena suerte. Pongo chonguitos por ti.\" t=\"Good luck. Fingers crossed for ya.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Buena suerte. Pongo chonguitos por ti.\" t=\"Baftă. Țin pumnii pentru tine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381118115856",
+   "en": "<kiroshi l=\"mex\" o=\"¡Santa Muerte!\" t=\"Santa Muerte!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Santa Muerte!\" t=\"Santa Muerte!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1805407381151670276",
+   "en": "<kiroshi l=\"mex\" o=\"Agh... grave... error...\" t=\"Echh... big... mistake...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Agh... grave... error...\" t=\"Echh... mare... greșeală...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992076528951300",
+   "en": "<kiroshi l=\"mex\" o=\"¿Eh?\" t=\"Huh?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Eh?\" t=\"Eh?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992076797386756",
+   "en": "<kiroshi l=\"mex\" o=\"¡Cúbrete las espaldas! ¡Nos están masacrando!\" t=\"Watch your six! Someone's decomishin' us!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Cúbrete las espaldas! ¡Nos están masacrando!\" t=\"Atenție la spate! Ne lichidează cineva!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992076814163972",
+   "en": "<kiroshi l=\"mex\" o=\"Carajo... No veo ni mierda...\" t=\"Shit... Can't fucking see...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Carajo... No veo ni mierda...\" t=\"Căcat... Nu văd dracu'...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992076931604484",
+   "en": "<kiroshi l=\"mex\" o=\"¿Sí? ¿Qué? No llamé a nadie. Ya déjalo.\" t=\"Yeah? What? Didn't call anyone. Break it up.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Sí? ¿Qué? No llamé a nadie. Ya déjalo.\" t=\"Da? Ce? N-am sunat pe nimeni. Terminați.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077015490564",
+   "en": "<kiroshi l=\"mex\" o=\"¡Carajo, carajo, carajo! ¡Qué pinche mierda!\" t=\"Fuck, fuck, fuck! This is bullshit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Carajo, carajo, carajo! ¡Qué pinche mierda!\" t=\"Futu-i, futu-i, futu-i! Sunt numai căcaturi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077065822212",
+   "en": "<kiroshi l=\"mex\" o=\"¡Ay, carajo! ¡¿Por qué?!\" t=\"Fuuuuck! Why?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Ay, carajo! ¡¿Por qué?!\" t=\"Futu-i! De ce?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077132931072",
+   "en": "<kiroshi l=\"mex\" o=\"¡Ponte de rodillas! ¡Empieza a rezar, carajo!\" t=\"On your fucking knees! Start praying!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Ponte de rodillas! ¡Empieza a rezar, carajo!\" t=\"În genunchi, dracu'! Începe să te rogi!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077183262724",
+   "en": "<kiroshi l=\"mex\" o=\"¡No vas a ir a ningún lado, perra!\" t=\"You ain't goin' nowhere, bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡No vas a ir a ningún lado, pinche cabrón!\" t=\"You ain't goin' nowhere, motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡No vas a ir a ningún lado, perra!\" t=\"Nu mergi nicăieri, curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡No vas a ir a ningún lado, pinche cabrón!\" t=\"Nu mergi nicăieri, nenorocitule!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077233594372",
+   "en": "<kiroshi l=\"mex\" o=\"¡Te vamos a matar, pendeja!\" t=\"We'll flatten you out, bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Te vamos a matar, hijo de puta!\" t=\"We'll flatten you out, motherfucker!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Te vamos a matar, pendeja!\" t=\"Te facem praf, curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Te vamos a matar, hijo de puta!\" t=\"Te facem praf, nenorocitule!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077401366532",
+   "en": "<kiroshi l=\"mex\" o=\"¡Punto para mí, perra!\" t=\"One point for me, bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Punto para mí, culero!\" t=\"One point for me, asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Punto para mí, perra!\" t=\"Un punct pentru mine, curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Punto para mí, culero!\" t=\"Un punct pentru mine, boule!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077585915908",
+   "en": "<kiroshi l=\"mex\" o=\"¡Está a punto de caer! ¡Último esfuerzo!\" t=\"She's about to go down! Last push!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Está a punto de caer! ¡Último esfuerzo!\" t=\"He's about to go down! Last push!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Está a punto de caer! ¡Último esfuerzo!\" t=\"E pe punctul să cadă! Ultimul efort!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077636247556",
+   "en": "<kiroshi l=\"mex\" o=\"¡Yo me encargo de ella!\" t=\"I'll handle her!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡Yo me encargo de él!\" t=\"I'll handle him!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Yo me encargo de ella!\" t=\"Mă ocup de ea!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡Yo me encargo de él!\" t=\"Mă ocup de el!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077686579204",
+   "en": "<kiroshi l=\"mex\" o=\"¡Ja! ¡¿Ahora te vas a esconder?!\" t=\"Now you're gonna fucking hide?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Ja! ¡¿Ahora te vas a esconder?!\" t=\"Acum te ascunzi dracu'?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077753688068",
+   "en": "<kiroshi l=\"mex\" o=\"¡No tengo munición! ¡Un segundo!\" t=\"Out of ammo! Gimme a sec!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡No tengo munición! ¡Un segundo!\" t=\"Fără muniție! Dă-mi o sec.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992077837574144",
+   "en": "<kiroshi l=\"mex\" o=\"¡Qué pedo! ¡Perdieron la pinche cabeza!\" t=\"Fuck! Finally lost their fuckin' mind!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Qué pedo! ¡Perdieron la pinche cabeza!\" t=\"Futu-i! În sfârșit și-au pierdut mințile!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078022123524",
+   "en": "<kiroshi l=\"mex\" o=\"¡Carajo! ¡Estoy pinche ciego!\" t=\"Fuck! I'm blind as shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Carajo! ¡Estoy pinche ciego!\" t=\"Futu-i! Sunt orb ca dracu'!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078089232384",
+   "en": "<kiroshi l=\"mex\" o=\"¡La muy zorra está hackeando!\" t=\"The little bitch is hacking!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"mex\" o=\"¡El muy cabrón está hackeando!\" t=\"Little piece of shit's hacking!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡La muy zorra está hackeando!\" t=\"Cățeaua aia mică hackuiește!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"¡El muy cabrón está hackeando!\" t=\"Nenorocitul ăla mic hackuiește!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078139564036",
+   "en": "<kiroshi l=\"mex\" o=\"¡Uuuf! ¿Cómo es que no te gusta esta mierda?\" t=\"Wooh! How can you not like this shit?! Haha!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Uuuf! ¿Cómo es que no te gusta esta mierda?\" t=\"Wooh! Cum să nu-ți placă rahatul ăsta?! Haha!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078189895684",
+   "en": "<kiroshi l=\"mex\" o=\"¡Esto parece una pinche guerra! ¡Pide refuerzos!\" t=\"It's like a fuckin' warzone in here! Call backup!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Esto parece una pinche guerra! ¡Pide refuerzos!\" t=\"E ca dracu' de zonă de război aici! Cere întăriri!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078240227332",
+   "en": "<kiroshi l=\"mex\" o=\"Je, je, je. ¡Me aseguraré de que ardas en el infierno!\" t=\"I'll make sure you rot in hell!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Je, je, je. ¡Me aseguraré de que ardas en el infierno!\" t=\"Mă asigur că putrezești în iad!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078307336196",
+   "en": "<kiroshi l=\"mex\" o=\"¡Esperé un chingo para usar esto!\" t=\"Waited too long to use this!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Esperé un chingo para usar esto!\" t=\"Am așteptat prea mult să folosesc asta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078357667844",
+   "en": "<kiroshi l=\"mex\" o=\"¡Atentos! ¡Voy con todo!\" t=\"Watch out! I'm comin' in hot!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Atentos! ¡Voy con todo!\" t=\"Atenție! Intru în forță!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2234992078424776708",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chingada madre! ¿Viste eso? ¡Carajo!\" t=\"Holy shit! You see that?! Fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chingada madre! ¿Viste eso? ¡Carajo!\" t=\"Băi, frate! Ai văzut?! Futu-i!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

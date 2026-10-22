@@ -1,0 +1,453 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_06c_finding_studio.json",
+ "entries": [
+  {
+   "key": "1548705495168040960",
+   "en": "Hop in.",
+   "ro": "Urcă."
+  },
+  {
+   "key": "1548705495184818176",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1548705495184818192",
+   "en": "[Get out] We'll meet there.",
+   "ro": "[Ieși] Ne vedem acolo."
+  },
+  {
+   "key": "1548705495604248576",
+   "en": "Let's get going.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1548705495604248584",
+   "en": "On our way.",
+   "ro": "Suntem pe drum."
+  },
+  {
+   "key": "1548705495621025792",
+   "en": "We'll meet on site. Need to get a few things together first.",
+   "ro": "Ne vedem acolo. Mai am de strâns câteva chestii."
+  },
+  {
+   "key": "1548705495621025800",
+   "en": "OK… Just not too long, all right?",
+   "ro": "OK… Nu prea mult, bine?"
+  },
+  {
+   "key": "1548705495872684032",
+   "en": "Lemme get everything prepped. You make sure the wreath's snug on you.",
+   "ro": "Lasă-mă să pregătesc totul. Tu verifică să stea bine coroana pe tine."
+  },
+  {
+   "key": "1548705495923015680",
+   "en": "[Put on headset] Ready.",
+   "ro": "[Pune-ți căștile] Gata."
+  },
+  {
+   "key": "1548705496191451136",
+   "en": "Ready when you are.",
+   "ro": "Gata când ești tu."
+  },
+  {
+   "key": "1548729004443287552",
+   "en": "No time to lose. We gotta go there.",
+   "ro": "N-avem timp de pierdut. Trebuie să mergem acolo."
+  },
+  {
+   "key": "1622711600342278144",
+   "en": "I let her go back to Clouds. Coulda stopped her but I didn't...",
+   "ro": "Am lăsat-o să se întoarcă la Clouds. Aș fi putut s-o opresc, dar n-am făcut-o..."
+  },
+  {
+   "key": "1622712692304158720",
+   "en": "Think I'll try calling Wakako. Fixer Fingers mentioned.",
+   "ro": "Mă gândesc s-o sun pe Wakako. Fixerul Fingers a pomenit de ea."
+  },
+  {
+   "key": "1622712692304158728",
+   "en": "Thought of an angle to run on her?",
+   "ro": "Ai o idee cum s-o abordezi?"
+  },
+  {
+   "key": "1622712692320935940",
+   "en": "Why would I need one?",
+   "ro": "De ce-aș avea nevoie?"
+  },
+  {
+   "key": "1622778108330287104",
+   "en": "Know where we can get our hands on an XBD. Might not be a Death's Head, but it'll be a start.",
+   "ro": "Știu de unde am putea lua un XBD. Poate nu e cap-de-mort, da' e un început."
+  },
+  {
+   "key": "1622778210453200896",
+   "en": "Saw a smut shop on Jig-Jig Street. All kinds of stuff there.",
+   "ro": "Am văzut un sex-shop pe Jig-Jig Street. Tot felul de chestii acolo."
+  },
+  {
+   "key": "1622778697546113024",
+   "en": "Saw a virtu pusher on Jig-Jig Street. Had a wide selection.",
+   "ro": "Am văzut un dealer de virtu-uri pe Jig-Jig Street. Avea o gamă largă."
+  },
+  {
+   "key": "1622784977224507392",
+   "en": "Was on a contract taken out on a guy named Jotaro Shobo.",
+   "ro": "Aveam un contract pe un tip pe nume Jotaro Shobo."
+  },
+  {
+   "key": "1622786589514964992",
+   "en": "Think you might find a Death's Head?",
+   "ro": "Crezi că ai putea găsi un cap-de-mort?"
+  },
+  {
+   "key": "1622787686476455936",
+   "en": "Could have what we're looking for.",
+   "ro": "Ar putea avea ce căutăm."
+  },
+  {
+   "key": "1622787999103098880",
+   "en": "Even if she knows the studio's location, she's not gonna spill. Be putting her neck on the line.",
+   "ro": "Chiar dacă știe unde e studioul, n-o să scoată o vorbă. Și-ar pune capul pe butuc."
+  },
+  {
+   "key": "1637473209511796736",
+   "en": "Want to you describe what you see. Might catch something I'd miss.",
+   "ro": "Vreau să-mi descrii ce vezi. Poate prind ceva ce-mi scapă."
+  },
+  {
+   "key": "1637506397697171456",
+   "en": "You'll watch while I edit in real-time. The ol' one-two.",
+   "ro": "Tu te uiți cât editez în timp real. Clasicul unu-doi."
+  },
+  {
+   "key": "1637516534021316608",
+   "en": "Hm. M'kay. I'm buyin' the braindance. We can analyze, play detective.",
+   "ro": "Hm. Ok, iau braindance-ul. Analizăm și ne jucăm de-a detectivii."
+  },
+  {
+   "key": "1637524562070167552",
+   "en": "Need to find out where they scroll these things.",
+   "ro": "Trebuie să aflăm unde derulează chestiile astea."
+  },
+  {
+   "key": "1637551909687222272",
+   "en": "Mhm. The Mox put a bounty on his head. So you were the one to cut him down?",
+   "ro": "Mhm. Gașca Mox a pus o recompensă pe capul lui. Deci tu ai fost cea care l-a doborât?",
+   "ro_m": "Mhm. Gașca Mox a pus o recompensă pe capul lui. Deci tu ai fost cel care l-a doborât?"
+  },
+  {
+   "key": "1637552223790260224",
+   "en": "Found out he was dealin' in XBDs, sourced from someone on Jig-Jig Street. Got the coordinates.",
+   "ro": "Am aflat că vindea XBD-uri, luate de la cineva de pe Jig-Jig Street. Am rost de coordonate."
+  },
+  {
+   "key": "1637581584908115968",
+   "en": "Can't hurt to try.",
+   "ro": "Nu strică să încerci."
+  },
+  {
+   "key": "1639034783519170560",
+   "en": "Definitely. Ride with me?",
+   "ro": "Sigur. Mergi cu mine?"
+  },
+  {
+   "key": "1672395999352152064",
+   "en": "Death's Head – heard the term used, ever?",
+   "ro": "Cap-de-mort – ai auzit vreodată termenul ăsta?"
+  },
+  {
+   "key": "1672397642529464320",
+   "en": "Death's Head symbol bring anything to mind? Anything, doesn't matter how small.",
+   "ro": "Simbolul cap-de-mort îți spune ceva? Orice, oricât de mic."
+  },
+  {
+   "key": "1672405477959098368",
+   "en": "This industry... I mean, market's lookin' for every kind of fetish out there. It's cavernous. But an XBD outfit'd be on the move almost always.",
+   "ro": "Piața asta... adică, cumpărătorii vor orice fel de fetiș. E uriașă. Da' o trupă de XBD-uri e mereu pe drum."
+  },
+  {
+   "key": "1672410506342391808",
+   "en": "Makes 'em harder to nab, harder to sting.",
+   "ro": "Așa îi e mai greu de prins, mai greu de dat de gol."
+  },
+  {
+   "key": "1711758081233989636",
+   "en": "Can't afford to lose our nerve.",
+   "ro": "Nu putem să ne pierdem cumpătul."
+  },
+  {
+   "key": "1711759120750292992",
+   "en": "Don't worry, we'll find her.",
+   "ro": "Nu-ți face griji, o găsim."
+  },
+  {
+   "key": "1711768625076711424",
+   "en": "Don't worry, we'll find her. I know it.",
+   "ro": "Nu-ți face griji, o găsim. Sunt sigură."
+  },
+  {
+   "key": "1712447394259087360",
+   "en": "Losing our cool won't do us any favors. It's a waste of time.",
+   "ro": "Să ne pierdem cumpătul nu ne ajută cu nimic. Doar pierdem timpul."
+  },
+  {
+   "key": "1712447948276314112",
+   "en": "Only lead we got's an XBD. Where's that get us?",
+   "ro": "Singura pistă e un XBD. Și ce ne facem cu asta?"
+  },
+  {
+   "key": "1712452884787572736",
+   "en": "We'll fuckin' find what's left of her butchered corpse.",
+   "ro": "O să găsim, pula mea, ce-a mai rămas din cadavrul ei măcelărit."
+  },
+  {
+   "key": "1712453618304233472",
+   "en": "And you two... got along swimmingly, didn't ya? Exchange numbers, too?",
+   "ro": "Și voi doi... v-ați înțeles de minune, nu? V-ați și schimbat numerele?"
+  },
+  {
+   "key": "1712454665756160000",
+   "en": "How I got the info shouldn't matter.",
+   "ro": "Cum am aflat nu contează."
+  },
+  {
+   "key": "1712455194272018432",
+   "en": "Fingers isn't that bad.",
+   "ro": "Fingers nu e așa de rău."
+  },
+  {
+   "key": "1712455649723101184",
+   "en": "Can we not lose our cool? Said what I needed to learn what we now know.",
+   "ro": "Putem să nu ne pierdem calmul? Am zis ce trebuia ca să aflu ce știm acum."
+  },
+  {
+   "key": "1712455679200669696",
+   "en": "Trust me, Judy – compared to the pieces of shit I scrape off my shoe every day…",
+   "ro": "Crede-mă, Judy – față de căcaturile pe care le scot de pe pantof în fiecare zi…"
+  },
+  {
+   "key": "1734527195116429312",
+   "en": "Two birds of a fucking feather.",
+   "ro": "Două păsări de același căcat."
+  },
+  {
+   "key": "1734554115166134272",
+   "en": "We also know we're lookin' for something related to the Death's Head. Better than nothing.",
+   "ro": "Știm și că căutăm ceva legat de cap-de-mort. Mai bine decât nimic."
+  },
+  {
+   "key": "1734555364280197120",
+   "en": "Oh, I'm cool. Real fuckin' cool with the fact that Ev's probably already dead!",
+   "ro": "Ce calmă sunt, pula mea, cu faptul că Ev e probabil deja moartă!",
+   "ro_m": "Ce calm sunt, pula mea, cu faptul că Ev e probabil deja moartă!"
+  },
+  {
+   "key": "1734565083623415808",
+   "en": "You don't know that. And I'm sure as hell not gonna squander precious minutes we could spend lookin'.",
+   "ro": "Nu știi asta. Și nici gând să pierd minute prețioase pe care le-am putea petrece căutând."
+  },
+  {
+   "key": "1734596784491814912",
+   "en": "Dark net domain, that's our best bet. Let's stick to the plan.",
+   "ro": "Domeniul dark net, asta e cea mai bună șansă. Să ne ținem de plan."
+  },
+  {
+   "key": "1734596784508592132",
+   "en": "Fine. Here's hoping you turn up something useful.",
+   "ro": "Bine. Sper să dai de ceva util."
+  },
+  {
+   "key": "1734668607585738752",
+   "en": "Meantime, see if I can't find something on the NCP domain.",
+   "ro": "Între timp, mă uit dacă găsesc ceva pe domeniul NCP."
+  },
+  {
+   "key": "1734670286515298304",
+   "en": "Hm, took your sweet time getting to Fingers...",
+   "ro": "Hm, te-ai cam tărăgănat până la Fingers..."
+  },
+  {
+   "key": "1734670756025688064",
+   "en": "Drop it, will ya?",
+   "ro": "Las-o baltă, vrei?"
+  },
+  {
+   "key": "1734670941984350208",
+   "en": "All right, the pusher – what about him?",
+   "ro": "Bine, vânzătorul – ce cu el?"
+  },
+  {
+   "key": "1734673276718505984",
+   "en": "I'll wait in the van.",
+   "ro": "O să aștept în dubă."
+  },
+  {
+   "key": "1734758315527462912",
+   "en": "Really? Ya seemed forgiving to me, like you were letting him off easy.",
+   "ro": "Serios? Mi-ai părut iertătoare, ca și cum l-ai fi lăsat să scape ușor.",
+   "ro_m": "Serios? Mi-ai părut iertător, ca și cum l-ai fi lăsat să scape ușor."
+  },
+  {
+   "key": "1734760562617442304",
+   "en": "Fingers doesn't come close to being half their brand of rotten.",
+   "ro": "Fingers nu e nici pe departe la fel de putred ca ei."
+  },
+  {
+   "key": "1734760869674049536",
+   "en": "Got no fucking words, V, none…",
+   "ro": "N-am cuvinte, pula mea, V, niciunul…"
+  },
+  {
+   "key": "1736059154569322496",
+   "en": "Hey! Keep it together! Wanna give up, now?",
+   "ro": "Hei! Ține-te! Vrei să renunți acum?"
+  },
+  {
+   "key": "1736059517527613440",
+   "en": "No...",
+   "ro": "Nu..."
+  },
+  {
+   "key": "1753450567874994176",
+   "en": "Need to figure out where they're scrollin' this stuff. Gotta be a rat-hole of some sort, doubt they do much shooting on location.",
+   "ro": "Trebuie să aflăm unde rulează chestiile astea. Trebuie să fie vreo vizuină, nu cred că filmează prea mult pe teren."
+  },
+  {
+   "key": "1753450567874994192",
+   "en": "Yeah, gotta be somewhere quiet, out of the way.",
+   "ro": "Da, trebuie să fie undeva liniștit, retras."
+  },
+  {
+   "key": "1753450567874994208",
+   "en": "Could be we'd see something to point us in their direction in one of their virtus.",
+   "ro": "Poate vedem ceva în unul din virtu-urile lor care să ne arate direcția."
+  },
+  {
+   "key": "1753450567891771392",
+   "en": "Ugh. Have to be real gonks to leave a clue…",
+   "ro": "Ugh. Trebuie să fii fraier de-a binelea ca să lași un indiciu…"
+  },
+  {
+   "key": "1753450567891771424",
+   "en": "Lemme think for a sec.",
+   "ro": "Stai să mă gândesc o secundă."
+  },
+  {
+   "key": "1753465613749411844",
+   "en": "I'll take a look around Jig-Jig Street.",
+   "ro": "O să mă uit prin Jig-Jig Street."
+  },
+  {
+   "key": "1764715735219609600",
+   "en": "Know a fixer in Westbrook. I'll drop her a line.",
+   "ro": "Cunosc un fixer în Westbrook. O să-i dau un semn."
+  },
+  {
+   "key": "1766143482942676992",
+   "en": "V, fixers don't hand out information right and left.",
+   "ro": "V, fixerii nu împart informații ca pe bandă rulantă."
+  },
+  {
+   "key": "1766143940960673792",
+   "en": "Done a couple of things for her, not that she owes me… But let's see what she has to say.",
+   "ro": "Am făcut câteva treburi pentru ea, nu că mi-ar datora ceva… Dar să vedem ce are de spus."
+  },
+  {
+   "key": "1774805440663347200",
+   "en": "I don't get your optimism. Still sounds like a big fat nothing to me.",
+   "ro": "Nu înțeleg optimismul tău. Tot mi se pare un mare nimic."
+  },
+  {
+   "key": "1774874681877946372",
+   "en": "Got a better idea?",
+   "ro": "Ai o idee mai bună?"
+  },
+  {
+   "key": "1774875189606834176",
+   "en": "Everyone, everything leaves a trace behind.",
+   "ro": "Oricine și orice lasă urme în urmă."
+  },
+  {
+   "key": "1774876612700626944",
+   "en": "Got a better idea?",
+   "ro": "Ai o idee mai bună?"
+  },
+  {
+   "key": "1774879948598370304",
+   "en": "Matter of fact, I do. A domain called \"Pleasures of Night City\" – there's a twin of it on the dark net.",
+   "ro": "De fapt, da. Un domeniu numit „Pleasures of Night City” – are o versiune geamănă pe dark net."
+  },
+  {
+   "key": "1774888089775988736",
+   "en": "Everyone, everything leaves something behind. Just need to know where to look.",
+   "ro": "Oricine, orice lasă ceva în urmă. Trebuie doar să știi unde să cauți."
+  },
+  {
+   "key": "1774888925264568320",
+   "en": "Lucky for me, I'm runnin' around with the best BD specialist in town. That's an extra pair of expert eyes.",
+   "ro": "Am noroc că umblu cu cel mai bun specialist în BD din oraș. Încă o pereche de ochi de expert, nu strică."
+  },
+  {
+   "key": "1774891549858684928",
+   "en": "Well, your BD expert has a better idea. \"Pleasures of Night City,\" a domain with its twin on the dark net.",
+   "ro": "Păi, expertul tău în BD are o idee mai bună. „Pleasures of Night City”, un domeniu cu o versiune geamănă pe dark net."
+  },
+  {
+   "key": "1774903670726156288",
+   "en": "Let's give the dark net site a shot.",
+   "ro": "Hai să încercăm site-ul de pe dark net."
+  },
+  {
+   "key": "1774971646821228544",
+   "en": "Think I've got a better idea.",
+   "ro": "Cred că am o idee mai bună."
+  },
+  {
+   "key": "1775035839301771264",
+   "en": "Fine.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1824110474945060864",
+   "en": "It's not her.",
+   "ro": "Nu e ea."
+  },
+  {
+   "key": "1824110942022754304",
+   "en": "Would've been pretty strange if the recording we found was hers…",
+   "ro": "Ar fi fost destul de ciudat dacă înregistrarea pe care am găsit-o era a ei…"
+  },
+  {
+   "key": "1824114159188140032",
+   "en": "That supposed to make me feel better?",
+   "ro": "Asta ar trebui să mă liniștească?"
+  },
+  {
+   "key": "1824129130370392064",
+   "en": "Of course. Of all the freaks in Night City, it had to be fuckin' scavs?",
+   "ro": "Sigur. Din toți ciudații din Night City, trebuia să fie tocmai hienele, dracu'?"
+  },
+  {
+   "key": "1824147003138596864",
+   "en": "Building must've been abandoned for a while if they've annexed it.",
+   "ro": "Clădirea trebuie să fi fost abandonată de ceva vreme dacă au anexat-o."
+  },
+  {
+   "key": "1825884440336490496",
+   "en": "Every kind of thing goes on there. Might stumble on something useful.",
+   "ro": "Se întâmplă de toate acolo. S-ar putea să dai peste ceva util."
+  },
+  {
+   "key": "1958869473331945472",
+   "en": "I know a local fixer.",
+   "ro": "Cunosc un fixer local."
+  },
+  {
+   "key": "2312681561123401732",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

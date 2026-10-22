@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_10.json",
+ "entries": [
+  {
+   "key": "2276542429330055180",
+   "en": "<kiroshi l=\"mex\" o=\"Cuando lo metieron en el bote, solo era un oficinista de Militech, pero cuando salió... se había transformado en puro músculo, tatuado de pies a cabeza... Un pendejo bien cabrón.\" t=\"When they tossed him in the slammer, he was just a pen-pushing Militech suit, but when he got out? Beefed, covered head-to-toe in ink – a real hard-ass motherfucker.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Cuando lo metieron en el bote, solo era un oficinista de Militech, pero cuando salió... se había transformado en puro músculo, tatuado de pies a cabeza... Un pendejo bien cabrón.\" t=\"Când l-au băgat la zdup, era doar un funcționar Militech cu pixul în mână, dar când a ieșit? Făcut pompă, tatuat din cap până-n picioare – un nenorocit de tip dur.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276542429346832384",
+   "en": "<kiroshi l=\"mex\" o=\"Y un Valentino. Qué puedo decir... la cárcel no tiene por qué ser algo malo.\" t=\"And a Valentino. What can I say – prison ain't always a bad thing.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Y un Valentino. Qué puedo decir... la cárcel no tiene por qué ser algo malo.\" t=\"Și un Valentino. Ce să-i faci, pușcăria nu e chiar atât de rea.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

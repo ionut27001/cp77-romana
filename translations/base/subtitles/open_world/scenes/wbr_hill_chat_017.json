@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_017.json",
+ "entries": [
+  {
+   "key": "2159269659896934400",
+   "en": "<kiroshi l=\"rus\" o=\"Короче, план такой: заходишь в клуб и толкаешь там обычный порошок.\" t=\"So here's what you do – you go into a club and push some regular flocon on them.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Короче, план такой: заходишь в клуб и толкаешь там обычный порошок.\" t=\"Deci, faza e așa: intri în club și le vinzi praf normal.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209890900342554624",
+   "en": "<kiroshi l=\"rus\" o=\"Только всем говоришь, что это «чёрный снег» и умножаешь цену на два.\" t=\"Except you tell them it's Black Snow and charge 'em double.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Только всем говоришь, что это «чёрный снег» и умножаешь цену на два.\" t=\"Doar că le zici că-i Black Snow și le ceri dublu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209891412517404672",
+   "en": "Yeah, but that'd work only once, right? After that they'd figure it out...",
+   "ro": "Da, dar ar merge doar o dată, nu? După aia își dau seama..."
+  },
+  {
+   "key": "2209891777203748864",
+   "en": "<kiroshi l=\"rus\" o=\"Да ни хера. Через два дня зайдёшь и скажешь, что продаёшь «неоновый сфинкс».\" t=\"One time my ass. Two days later you can tell 'em you've got Neon Sphinx.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да ни хера. Через два дня зайдёшь и скажешь, что продаёшь «неоновый сфинкс».\" t=\"Ce-o dată, mă! Peste două zile le spui că ai Neon Sphinx.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209892193832353792",
+   "en": "<kiroshi l=\"rus\" o=\"Ни один корпорат не признается, что о таком не слышал.\" t=\"No corpo-rat'll even admit they've never heard of it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ни один корпорат не признается, что о таком не слышал.\" t=\"Niciun corpo n-ar recunoaște că n-a auzit de ea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209892651816796160",
+   "en": "<kiroshi l=\"rus\" o=\"Все молча возьмут и заплатят сколько скажешь.\" t=\"But I swear, they'll gobble that shit down like it's Tiancha.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Все молча возьмут и заплатят сколько скажешь.\" t=\"Jur că o să-l înfulece ca pe o Tiancha.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

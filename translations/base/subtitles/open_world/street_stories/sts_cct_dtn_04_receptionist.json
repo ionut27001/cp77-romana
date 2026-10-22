@@ -1,0 +1,56 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_dtn_04_receptionist.json",
+ "entries": [
+  {
+   "key": "1408088290545135616",
+   "en": "I have a meeting with Koch.",
+   "ro": "Am o întâlnire cu Koch."
+  },
+  {
+   "key": "1408091328093646848",
+   "en": "Hi, I have an appointment with Mrs. Koch.",
+   "ro": "Salut, am o programare cu doamna Koch."
+  },
+  {
+   "key": "1408092557276377088",
+   "en": "Very well. Just give me moment to check...",
+   "ro": "Foarte bine. Dați-mi un moment să verific..."
+  },
+  {
+   "key": "1419935019515015168",
+   "en": "I'd like to rent a room.",
+   "ro": "Aș vrea să închiriez o cameră."
+  },
+  {
+   "key": "1935891931595067392",
+   "en": "Hello. How can I help you?",
+   "ro": "Bună. Cu ce vă pot ajuta?"
+  },
+  {
+   "key": "1935892937053622272",
+   "en": "I'd like to rent a room for the night. Single bed's fine.",
+   "ro": "Aș vrea să închiriez o cameră pentru noapte. Un pat single e în regulă."
+  },
+  {
+   "key": "1935899340698865664",
+   "en": "You don't say.",
+   "ro": "Nu mă zi!"
+  },
+  {
+   "key": "1935899944544423936",
+   "en": "I'm afraid that won't be possible. We are a corporate hotel available only to Biotechnica personnel.",
+   "ro": "Îmi pare rău, nu se poate. Suntem un hotel corpo, doar pentru personalul Biotechnica."
+  },
+  {
+   "key": "1946250435674607616",
+   "en": "Ah, that's a shame. Nice place.",
+   "en_m": "Oh, that's a shame. Nice place.",
+   "ro": "Ah, păcat. Ce loc frumos."
+  },
+  {
+   "key": "2523106879086055424",
+   "en": "No, I'm afraid not. There must be a misunderstanding.",
+   "ro": "Nu, din păcate nu. Trebuie să fie o neînțelegere."
+  }
+ ]
+}

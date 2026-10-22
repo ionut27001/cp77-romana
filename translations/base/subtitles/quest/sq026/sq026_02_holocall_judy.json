@@ -1,0 +1,373 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq026\\sq026_02_holocall_judy.json",
+ "entries": [
+  {
+   "key": "1734259821088063488",
+   "en": "The Mox want to take over Clouds?",
+   "ro": "Gașca Mox vrea să preia Clouds?"
+  },
+  {
+   "key": "1734259821104840712",
+   "en": "Takeover of Lizzie's Bar wasn't exactly smooth.",
+   "ro": "N-a fost tocmai lin cu preluarea de la Lizzie's Bar."
+  },
+  {
+   "key": "1734259821138395136",
+   "en": "I'm familiar with the story. Things did not go that smoothly.",
+   "ro": "Știu povestea. N-a mers chiar atât de lin."
+  },
+  {
+   "key": "1734259821138395144",
+   "en": "I didn't say they did, didn't say they would.",
+   "ro": "N-am zis că au mers, nici că ar merge."
+  },
+  {
+   "key": "1734259821155172352",
+   "en": "But Evie thought Clouds would be safe. You saw how far that got her... how she ended.",
+   "ro": "Dar Evie credea că Clouds e sigur. Ai văzut cât de departe a dus-o asta... cum s-a terminat."
+  },
+  {
+   "key": "1734259821188726784",
+   "en": "Got the Mox to agree to take over Clouds?",
+   "ro": "I-ai convins pe Mox să preia Clouds?"
+  },
+  {
+   "key": "1734259821188726792",
+   "en": "No. I'm tryin' to get you. Know someone at Clouds who'll take our side.",
+   "ro": "Nu. Încerc să te conving pe tine. Cunosc pe cineva de la Clouds care o să fie de partea noastră."
+  },
+  {
+   "key": "1734260098314780672",
+   "en": "Hey, Judy. How ya feelin'?",
+   "ro": "Hei, Judy. Cum o mai duci?"
+  },
+  {
+   "key": "1734260434412748804",
+   "en": "What came to you?",
+   "ro": "Ce ți-a venit în cap?"
+  },
+  {
+   "key": "1734262998793437184",
+   "en": "You're still in mourning, grief is a process.",
+   "ro": "Ești încă în doliu, durerea e un proces."
+  },
+  {
+   "key": "1734263369888677888",
+   "en": "Gotta give yourself time to grieve, Judy.",
+   "ro": "Trebuie să-ți dai timp să jelești, Judy."
+  },
+  {
+   "key": "1734263600843833344",
+   "en": "So what'd you come up with?",
+   "ro": "Deci, cu ce ai venit?"
+  },
+  {
+   "key": "1734264170665197568",
+   "en": "I'd say I'm on anger. Gonna stay here for a while, too. I can work with anger.",
+   "ro": "Aș zice că sunt în faza furiei. O să mai stau pe aici o vreme. Cu furia pot lucra."
+  },
+  {
+   "key": "1734264802344157184",
+   "en": "The Mox dive, Lizzie's Bar, used to be a joyhouse. Tyger Claws killed one girl too many, so people took matters into their own hands... Belongs to us, now.",
+   "ro": "Dive-ul Mox, Lizzie's Bar, era un joyhouse. Tyger Claws au ucis o fată în plus, așa că oamenii au luat treaba în mâini... Acum e al nostru."
+  },
+  {
+   "key": "1734265363240042496",
+   "en": "Clouds could stand to get the same makeover.",
+   "ro": "Clouds ar merita același make-over."
+  },
+  {
+   "key": "1734267195010039808",
+   "en": "Will you help?",
+   "ro": "Mă ajuți?"
+  },
+  {
+   "key": "1734268812602097664",
+   "en": "When're we doin' this?",
+   "en_m": "When we doin' this?",
+   "ro": "Când facem asta?"
+  },
+  {
+   "key": "1734389407448809472",
+   "en": "Early morning, Clouds'll be closed – hardly a soul lurkin' at that time.",
+   "ro": "Dimineața devreme, Clouds o să fie închis – abia dacă e cineva pe-acolo la ora aia."
+  },
+  {
+   "key": "1770643260435316736",
+   "en": "Can't be a part of this, Judy. It's just a bad idea.",
+   "en_m": "Can't be part of this, Judy. Just a bad idea.",
+   "ro": "Nu intru în asta, Judy. E doar o idee proastă."
+  },
+  {
+   "key": "1770643804704980992",
+   "en": "Got any better ones?",
+   "ro": "Ai vreo idee mai bună?"
+  },
+  {
+   "key": "1846096795288690688",
+   "en": "Shitty. But somethin' came to me.",
+   "ro": "Nasol. Dar mi-a venit ceva."
+  },
+  {
+   "key": "1846105026140528640",
+   "en": "Experience all its stages, feel 'em, let 'em play out. Shock, anger, depression…",
+   "en_m": "Experience all its stages, feel them, let 'em play out. Shock, anger, depression…",
+   "ro": "Trăiește-le pe toate, simte-le, lasă-le să-și urmeze cursul. Șoc, furie, depresie…"
+  },
+  {
+   "key": "1846119952141737984",
+   "en": "That's your plan?",
+   "ro": "Asta e planul tău?"
+  },
+  {
+   "key": "1846120473158180864",
+   "en": "Takin' control of Clouds? That's your plan? Feels like you're missing a component or two.",
+   "en_m": "Takin' control of Clouds? That's your plan? Heh, feels like you're missing a component or two.",
+   "ro": "Preluarea controlului asupra Clouds? Asta e planul tău? Pare că îți lipsește una-alta."
+  },
+  {
+   "key": "1846126585752281088",
+   "en": "Like what?",
+   "ro": "Ca de exemplu?"
+  },
+  {
+   "key": "1846126811691048960",
+   "en": "Like a beginning and a middle. You've got the end, that's all.",
+   "en_m": "Like a beginning and a middle? You've got the end, that's all.",
+   "ro": "Ca un început și un mijloc. Ai finalul, atât."
+  },
+  {
+   "key": "1846135388791070720",
+   "en": "Middle's in place. Meanin', literally got someone on the inside. And the beginning's you.",
+   "ro": "Mijlocul e gata. Adică avem pe cineva înăuntru, la propriu. Iar începutul ești tu."
+  },
+  {
+   "key": "1846154026969423872",
+   "en": "Will you help?",
+   "ro": "Mă ajuți?"
+  },
+  {
+   "key": "1847329468871041028",
+   "en": "Yeah, I'll help.",
+   "ro": "Da, te ajut."
+  },
+  {
+   "key": "1847330226060353536",
+   "en": "Can't do this. It's a bad idea.",
+   "ro": "Nu pot face asta. E o idee proastă."
+  },
+  {
+   "key": "1847461638436511744",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1847461716735778816",
+   "en": "So you're gonna do nothin'? People are dyin' at Clouds.",
+   "ro": "Deci n-o să faci nimic? Oamenii mor la Clouds."
+  },
+  {
+   "key": "1847523507507519488",
+   "en": "People'll die if I help you, too. Sorry.",
+   "en_m": "Yeah, people die if I help you, too. Sorry.",
+   "ro": "O să moară oameni dacă te ajut și eu. Îmi pare rău.",
+   "ro_m": "Da, o să moară oameni dacă te ajut și eu. Îmi pare rău."
+  },
+  {
+   "key": "1847532527458934784",
+   "en": "Ugh. Guess no means no.",
+   "ro": "Ugh. Deci nu înseamnă nu."
+  },
+  {
+   "key": "1847564012052242432",
+   "en": "How early?",
+   "ro": "Cât de devreme?"
+  },
+  {
+   "key": "1847564124476366848",
+   "en": "Before eight. I'll be by the entrance... Nah, scratch that – the balcony above Clouds.",
+   "ro": "Înainte de opt. O să fiu la intrare... Nu, lasă – balconul de deasupra Clouds."
+  },
+  {
+   "key": "1847577675668611072",
+   "en": "V... I can't stand by and let things go on like this.",
+   "ro": "V... nu pot să stau degeaba și să las lucrurile așa."
+  },
+  {
+   "key": "1847579887811649536",
+   "en": "Sure you've thought this through?",
+   "ro": "Sigur te-ai gândit bine?"
+  },
+  {
+   "key": "1847580248303689728",
+   "en": "Sure you've thought this through, Judy, carefully?",
+   "en_m": "You sure you've thought this through, Judy, carefully?",
+   "ro": "Chiar ai chibzuit bine la asta, Judy?"
+  },
+  {
+   "key": "1847584745251889152",
+   "en": "Pff, haven't thought it through at all.",
+   "ro": "Pff, nu m-am gândit deloc."
+  },
+  {
+   "key": "1847586144790470656",
+   "en": "All I know's the Mox didn't turn things around by sitting on their tanned and toned asses, doin' nothin'.",
+   "ro": "Tot ce știu e că gașca Mox n-a întors lucrurile stând pe fundurile alea bronzate și tonifiate, fără să facă nimic."
+  },
+  {
+   "key": "1906895370260037636",
+   "en": "OK, so... what's the plan?",
+   "en_m": "OK, so. What's the plan?",
+   "ro": "OK, deci... care e planul?"
+  },
+  {
+   "key": "1906895370293592064",
+   "en": "First up – we gotta talk to Maiko Maeda. If she's not with us, might as well throw our hands up in the air.",
+   "ro": "Mai întâi, trebuie să vorbim cu Maiko Maeda. Dacă nu e cu noi, mai bine ne dăm bătuți."
+  },
+  {
+   "key": "1906895370360700944",
+   "en": "Sure she's gonna wanna help us?",
+   "ro": "Sigur o să vrea să ne ajute?"
+  },
+  {
+   "key": "1906895370360700960",
+   "en": "This Maiko – who is she, exactly?",
+   "ro": "Maiko asta, cine e, de fapt?"
+  },
+  {
+   "key": "1906895370377478156",
+   "en": "Seem well-connected at Clouds.",
+   "ro": "Pari bine conectată la Clouds."
+  },
+  {
+   "key": "1906895370411032576",
+   "en": "Sure Maiko's gonna wanna join forces?",
+   "en_m": "You sure Maiko's gonna wanna join forces?",
+   "ro": "Chiar crezi că Maiko o să vrea să ne unim forțele?"
+  },
+  {
+   "key": "1906895370411032592",
+   "en": "If I was sure, I'd be on the holo to her, and we wouldn't be havin' this conversation.",
+   "ro": "Dacă aș fi sigură, eram deja pe holo cu ea, nu stăteam aici să vorbim.",
+   "ro_m": "Dacă aș fi sigur, eram deja pe holo cu ea, nu stăteam aici să vorbim."
+  },
+  {
+   "key": "1906895370411032608",
+   "en": "Let me rephrase. Any chance she'll slap us around, then shove us out her megatower window?",
+   "en_m": "Let me rephrase. Is there any chance she'll slap us around, then shove us out her megatower window?",
+   "ro": "Stai să reformulez. Are vreo șansă să ne tragă două palme, apoi să ne arunce pe geamul din megaturnul ei?"
+  },
+  {
+   "key": "1906895370427809792",
+   "en": "'Course, sure.",
+   "ro": "Normal, sigur."
+  },
+  {
+   "key": "1906895370427809804",
+   "en": "Guess I can work with that.",
+   "ro": "Cred că mă descurc cu asta."
+  },
+  {
+   "key": "1906895370478141444",
+   "en": "How well do you know this Maiko?",
+   "ro": "Cât de bine o cunoști pe Maiko asta?"
+  },
+  {
+   "key": "1906895370478141460",
+   "en": "Too well.",
+   "ro": "Prea bine."
+  },
+  {
+   "key": "1906895370528473092",
+   "en": "Evelyn, Maiko... seem to know your way around Clouds.",
+   "en_m": "Evelyn, Maiko... you seem to know your way around Clouds.",
+   "ro": "Evelyn, Maiko... ești ca acasă la Clouds."
+  },
+  {
+   "key": "1906895370545250304",
+   "en": "Used to work there. Helped 'em out with their behavioral chip, perfectin' it.",
+   "ro": "Am lucrat acolo. Le-am dat o mână de ajutor cu cipul lor comportamental, l-am perfecționat."
+  },
+  {
+   "key": "1906895370562027520",
+   "en": "Why'd you leave?",
+   "ro": "De ce ai plecat?"
+  },
+  {
+   "key": "1906895370562027532",
+   "en": "Didn't like the vibe. Place reeked of exploitation.",
+   "ro": "Nu mi-a plăcut atmosfera. Locul puțea a exploatare."
+  },
+  {
+   "key": "1906895371048566788",
+   "en": "Maiko Maeda... who is she, exactly?",
+   "ro": "Maiko Maeda... cine e, de fapt?"
+  },
+  {
+   "key": "1906895371065344000",
+   "en": "Girl who unofficially runs Clouds. Good at it, too.",
+   "ro": "Fata care conduce Clouds pe sub mână. Și se pricepe, recunosc."
+  },
+  {
+   "key": "1906895371065344016",
+   "en": "What's she do officially?",
+   "ro": "Pe hârtie, ce face?"
+  },
+  {
+   "key": "1906895371082121216",
+   "en": "She's a doll. So she's a nobody.",
+   "ro": "E o păpușă. Deci nu-i nimeni."
+  },
+  {
+   "key": "1906953285226446848",
+   "en": "Fine. Got me on board.",
+   "ro": "Bine. M-ai convins."
+  },
+  {
+   "key": "1912528292027260928",
+   "en": "Woo, yes!",
+   "ro": "Asta da!"
+  },
+  {
+   "key": "1915317265128710148",
+   "en": "When you wanna meet?",
+   "ro": "Când vrei să ne vedem?"
+  },
+  {
+   "key": "1915319250242461696",
+   "en": "You know Maiko well?",
+   "ro": "O cunoști bine pe Maiko?"
+  },
+  {
+   "key": "1944822751565955072",
+   "en": "I can't – not right now.",
+   "ro": "Nu pot – nu acum."
+  },
+  {
+   "key": "1944832319931006976",
+   "en": "I can't – not right now. Too much shit goin' on as it is.",
+   "ro": "Nu pot – nu acum. E prea mult rahat pe capul meu."
+  },
+  {
+   "key": "1944832766926372864",
+   "en": "I get it, V – it's OK. I'm not gonna lie, this'll take a good chunk of time...",
+   "ro": "Înțeleg, V – e în regulă. Să nu mint, o să ia o grămadă de timp..."
+  },
+  {
+   "key": "1988091944792449024",
+   "en": "But when your hands're free, gimme a shout, all right?",
+   "ro": "Dar când te eliberezi, dă-mi un semn, bine?"
+  },
+  {
+   "key": "1993774778962108416",
+   "en": "We'll sneak in – no one needs to know we're there.",
+   "ro": "Intrăm pe furiș – nu trebuie să afle nimeni că suntem acolo."
+  },
+  {
+   "key": "1993777352268275712",
+   "en": "On the balcony. Got it.",
+   "ro": "Pe balcon. Am prins."
+  }
+ ]
+}

@@ -1,0 +1,961 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_06_myers_intro.json",
+ "entries": [
+  {
+   "key": "3002803697359499272",
+   "en": "Civilians're being evacuated.",
+   "ro": "Se evacuează civilii."
+  },
+  {
+   "key": "3002807043105468420",
+   "en": "[Lift] In here!",
+   "ro": "[Ridică] Înăuntru!"
+  },
+  {
+   "key": "3031669045647093780",
+   "en": "Got it!",
+   "ro": "Am înțeles!"
+  },
+  {
+   "key": "3031669047358369804",
+   "en": "Let's move on.",
+   "ro": "Hai să trecem mai departe."
+  },
+  {
+   "key": "3031669048599883788",
+   "en": "Oh shit. Sig's... an NUS comms frequency.",
+   "ro": "Ah, căcat. Semnalul e pe o frecvență NUS."
+  },
+  {
+   "key": "3031669048599883796",
+   "en": "Incoming… in forty-five secs, no more.",
+   "ro": "Vin... în patruzeci și cinci de secunde, cel mult."
+  },
+  {
+   "key": "3031669050848030732",
+   "en": "Need to move on quietly, V. Another fuckup and we're done for.",
+   "ro": "Trebuie să ne mișcăm în liniște, V. Încă o belea și s-a zis cu noi."
+  },
+  {
+   "key": "3031734156931870720",
+   "en": "They're gonna land.",
+   "ro": "O să aterizeze."
+  },
+  {
+   "key": "3031758574408151040",
+   "en": "What're our orders, Sir?",
+   "ro": "Ce ordine avem, domnule?"
+  },
+  {
+   "key": "3031791368647716864",
+   "en": "You heard 'er.",
+   "ro": "Ai auzit-o."
+  },
+  {
+   "key": "3033251429374996480",
+   "en": "Uh-huh. Preppin' to blow in here with all they got.",
+   "en_m": "Mhm. Preppin' to blow in here with all they got.",
+   "ro": "Mhm. Se pregătesc să spargă totul pe aici cu tot ce au."
+  },
+  {
+   "key": "3052640490720047104",
+   "en": "Your weapons.",
+   "ro": "Armele voastre."
+  },
+  {
+   "key": "3052642205972279296",
+   "en": "By the way, great work downstairs. Flitted through like a super spy ghost, full pro.",
+   "ro": "Apropo, jos ai fost tare. Ai trecut pe-acolo ca o fantomă de super-spion, profesionistă până-n măduva oaselor.",
+   "ro_m": "Apropo, jos ai fost tare. Ai trecut pe-acolo ca o fantomă de super-spion, profesionist până-n măduva oaselor."
+  },
+  {
+   "key": "3052644508544512004",
+   "en": "Reed wasn't bluffin', clearly.",
+   "ro": "Reed n-a blufat, e clar."
+  },
+  {
+   "key": "3052644803655741440",
+   "en": "Fuck me. FIA'll find us – Reed said so.",
+   "ro": "Futu-i. FIA o să ne găsească – așa a zis Reed."
+  },
+  {
+   "key": "3052645028118114304",
+   "en": "What's goin' on, what're they up to?",
+   "ro": "Ce se întâmplă, ce pun la cale?"
+  },
+  {
+   "key": "3052646231749144576",
+   "en": "What're they up to?",
+   "ro": "Ce pun la cale?"
+  },
+  {
+   "key": "3052648467229290496",
+   "en": "Four assault choppers incoming, masked transponder sigs. Don't want to reveal they're NUSA.",
+   "ro": "Vin patru elicoptere de asalt, cu semnalele mascate. Nu vor să iasă la iveală că sunt NUSA."
+  },
+  {
+   "key": "3091358915562549248",
+   "en": "OK. What, where now?",
+   "ro": "OK. Ce facem, unde mergem acum?"
+  },
+  {
+   "key": "3091364463032905728",
+   "en": "Now we get creative.",
+   "ro": "Acum devenim creativi."
+  },
+  {
+   "key": "3091369952688975872",
+   "en": "Lemme know when you're ready.",
+   "ro": "Anunță-mă când ești gata."
+  },
+  {
+   "key": "3093105053156225024",
+   "en": "No gun, no fun.",
+   "ro": "Fără armă, fără distracție."
+  },
+  {
+   "key": "3093114429254381568",
+   "en": "Shh! Hold up.",
+   "ro": "Șș! Stai."
+  },
+  {
+   "key": "3093138955447021568",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "3093143129148600320",
+   "en": "So Mi, get inside!",
+   "ro": "So Mi, intră repede!"
+  },
+  {
+   "key": "3093150969930166272",
+   "en": "NUS combat choppers buzzin' the Free City of NC. Shit's heatin' up.",
+   "ro": "Elicoptere de luptă NUS zboară razant peste Orașul Liber NC. Se încinge treaba."
+  },
+  {
+   "key": "3093175753636294656",
+   "en": "Shit!",
+   "ro": "Căcat!"
+  },
+  {
+   "key": "3093204697219575808",
+   "en": "Cover's been blown on a handful. OA won't get a word out of them, I guarantee it.",
+   "ro": "Câțiva au fost dați de gol. OA nu o să scoată o vorbă de la ei, îți garantez."
+  },
+  {
+   "key": "3093205298749878276",
+   "en": "They could dismantle this place, take the parts back to Washington, no one'd be the wiser.",
+   "ro": "Ar putea dezmembra locul ăsta, duce piesele la Washington și nimeni n-ar afla nimic."
+  },
+  {
+   "key": "3093205840167415808",
+   "en": "Does Orbital Air know the stakes?",
+   "ro": "Orbital Air știe miza?"
+  },
+  {
+   "key": "3093212553704615936",
+   "en": "Madam President.",
+   "ro": "Doamna Președintă."
+  },
+  {
+   "key": "3093213768257613824",
+   "en": "We've confirmed V's presence here at NCX.",
+   "ro": "Am confirmat că V e aici, la NCX."
+  },
+  {
+   "key": "3093216116983967744",
+   "en": "They triggered the alarm but failed to find V.",
+   "ro": "Au declanșat alarma, dar n-au reușit să dea de V."
+  },
+  {
+   "key": "3093218354544488448",
+   "en": "And Song So Mi?",
+   "ro": "Și Song So Mi?"
+  },
+  {
+   "key": "3093218851032641536",
+   "en": "Probably too weak to get around on 'er own. Most likely she's waiting somewhere, concealed.",
+   "ro": "Probabil e prea slabă ca să se descurce singură. Cel mai probabil așteaptă undeva, ascunsă."
+  },
+  {
+   "key": "3093220469379674112",
+   "en": "Those still undercover are looking for Songbird.",
+   "ro": "Cei rămași sub acoperire o caută pe Songbird."
+  },
+  {
+   "key": "3093221136106237952",
+   "en": "We'll talk about operational errors later.",
+   "ro": "O să vorbim despre erorile operaționale mai târziu."
+  },
+  {
+   "key": "3093221355099238400",
+   "en": "Fine, have them all engage, get the party started.",
+   "ro": "Bine, pune-i pe toți să atace, dă drumul la petrecere."
+  },
+  {
+   "key": "3093222134753243136",
+   "en": "And our agents?",
+   "ro": "Și agenții noștri?"
+  },
+  {
+   "key": "3093222418657292288",
+   "en": "Have you breached the Orbital Air datafort?",
+   "ro": "Ai spart datafortul Orbital Air?"
+  },
+  {
+   "key": "3093225212499963904",
+   "en": "So I decided for you and brought support.",
+   "ro": "Așa că am decis pentru tine și ți-am adus suport."
+  },
+  {
+   "key": "3093225610052874240",
+   "en": "No, Sol. You lost control, way back. It's time you acknowledged that.",
+   "ro": "Nu, Sol. Ai pierdut controlul, de mult. E timpul s-o recunoști."
+  },
+  {
+   "key": "3093226160546885632",
+   "en": "I have everything under control.",
+   "ro": "Am totul sub control."
+  },
+  {
+   "key": "3093242619482320916",
+   "en": "I know you care about the girl, like her.",
+   "ro": "Știu că ții la fată, că-ți place de ea."
+  },
+  {
+   "key": "3093242619482320924",
+   "en": "I get that you want to protect her. But your duty, first and foremost, is to your country.",
+   "ro": "Înțeleg că vrei s-o protejezi. Dar datoria ta, înainte de orice, e față de țară."
+  },
+  {
+   "key": "3093246652825710592",
+   "en": "The project she was part of… stays well under wraps, none of it leaks.",
+   "ro": "Proiectul din care făcea parte... trebuie ținut sub cheie, să nu scape nimic."
+  },
+  {
+   "key": "3093252471717867520",
+   "en": "Ah, Rosalind Myers, her true face.",
+   "ro": "Rosalind Myers, adevărata ei față."
+  },
+  {
+   "key": "3093270464845819904",
+   "en": "Just so you know, this isn't any easier for me, Reed. I liked the girl, trusted her. But with some choices, there's no way back.",
+   "ro": "Să știi că nu-mi e mai ușor nici mie, Reed. Fata îmi plăcea, aveam încredere în ea. Dar cu unele alegeri, nu mai ai cale de întoarcere."
+  },
+  {
+   "key": "3093967642660679680",
+   "en": "Myers is sooome bitch…",
+   "ro": "Myers e o târfă..."
+  },
+  {
+   "key": "3093968275396603904",
+   "en": "Myers is sooome bitch…",
+   "ro": "Myers e o târfă..."
+  },
+  {
+   "key": "3093969310634717184",
+   "en": "We are fucked… every which way possible.",
+   "ro": "Ne-am futut... din toate părțile."
+  },
+  {
+   "key": "3101677951474114560",
+   "en": "I managed to reach the roof – lower bit, though. Need your help to climb higher and join you.",
+   "ro": "Am ajuns pe acoperiș, dar doar pe partea de jos. Am nevoie de tine ca să urc și să ajung lângă tine."
+  },
+  {
+   "key": "3101724269005414400",
+   "en": "Hey. Did what I could.",
+   "ro": "Hei. Am făcut ce am putut."
+  },
+  {
+   "key": "3101733147508121600",
+   "en": "Had pro support.",
+   "ro": "Am avut suport de profi."
+  },
+  {
+   "key": "3102596317856571392",
+   "en": "Myers?",
+   "ro": "Myers?"
+  },
+  {
+   "key": "3102715379701948416",
+   "en": "\"Most likely\" just doesn't cut it.",
+   "ro": "„Cel mai probabil” nu ajunge."
+  },
+  {
+   "key": "3102814210019991552",
+   "en": "Special Agent Reed.",
+   "ro": "Agent special Reed."
+  },
+  {
+   "key": "3102815152513654784",
+   "en": "Asking for help… never was your strong suit.",
+   "ro": "Să ceri ajutor... n-ai fost niciodată bun la asta."
+  },
+  {
+   "key": "3102824268615294976",
+   "en": "Fuck the one on her billboards.",
+   "ro": "Dracu' s-o ia pe aia de pe panourile ei."
+  },
+  {
+   "key": "3102834779826331648",
+   "en": "You recruited her, trained her.",
+   "ro": "Tu ai recrutat-o, ai antrenat-o."
+  },
+  {
+   "key": "3102836359636099072",
+   "en": "Songbird's made her choice. Now she needs to learn what the consequences are.",
+   "ro": "Songbird și-a făcut alegerea. Acum o să învețe ce costă."
+  },
+  {
+   "key": "3102860729498640384",
+   "en": "Say again?",
+   "ro": "Repetă?"
+  },
+  {
+   "key": "3102861990071541760",
+   "en": "Yes, sir!",
+   "ro": "Da, domnule!"
+  },
+  {
+   "key": "3102872936768774144",
+   "en": "She's just getting started.",
+   "ro": "Abia a început."
+  },
+  {
+   "key": "3134503091098263552",
+   "en": "They ain't gettin' you. Period.",
+   "ro": "Nu te prind. Punct."
+  },
+  {
+   "key": "3134510603096727552",
+   "en": "Relax. I'm here and stayin'. They're not gettin' you.",
+   "ro": "Relaxează-te. Sunt aici și nu plec. Nu te prind."
+  },
+  {
+   "key": "3165099822424694784",
+   "en": "[Take] Always better gun in hand.",
+   "ro": "[Ia] Mereu e mai bine cu o armă în mână."
+  },
+  {
+   "key": "3191145243244666880",
+   "en": "Need detes.",
+   "ro": "Am nevoie de detalii."
+  },
+  {
+   "key": "3191277949060292608",
+   "en": "All set.",
+   "ro": "Sunt pregătită.",
+   "ro_m": "Sunt pregătit."
+  },
+  {
+   "key": "3194044840879235072",
+   "en": "Hasn't yet, let's keep it that way.",
+   "ro": "Încă nu. Hai să rămână așa."
+  },
+  {
+   "key": "3194058304796401664",
+   "en": "Fuck. She's on board!",
+   "ro": "Futu-i. E la bord!"
+  },
+  {
+   "key": "3194130897612218368",
+   "en": "And our agents?",
+   "ro": "Și agenții noștri?"
+  },
+  {
+   "key": "3194220273750941696",
+   "en": "You don't know 'er. I mean, to satisfy her lust for revenge, she'd pull me outta hell.",
+   "ro": "N-o cunoști. Dacă vrea răzbunare, m-ar scoate și din iad."
+  },
+  {
+   "key": "3194312651098726400",
+   "en": "Let's ghost.",
+   "ro": "Hai să dispărem."
+  },
+  {
+   "key": "3215739680401211392",
+   "en": "Got a light ahead. Security. Hold up a sec…",
+   "ro": "Văd lumini în față. Securitate. Stai așa…"
+  },
+  {
+   "key": "3215767789821313024",
+   "en": "FIA must've been on you since you went through security.",
+   "ro": "FIA trebuie să te fi urmărit de când ai trecut de securitate."
+  },
+  {
+   "key": "3224475555933011984",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "3233387263621677060",
+   "en": "[Grip]",
+   "ro": "[Apucă]"
+  },
+  {
+   "key": "3233392011422810112",
+   "en": "Ugh… ah… ngh…",
+   "ro": "Ugh… ah… ngh…"
+  },
+  {
+   "key": "3234504184379293696",
+   "en": "[Grip]",
+   "ro": "[Apucă]"
+  },
+  {
+   "key": "3234504184479956996",
+   "en": "Egh...",
+   "ro": "Egh..."
+  },
+  {
+   "key": "3234814628926980096",
+   "en": "Thisaway.",
+   "ro": "Pe-aici."
+  },
+  {
+   "key": "3285544162680991744",
+   "en": "Have to try harder. Sly and smooth.",
+   "ro": "Trebuie să te străduiești mai tare. Discret și șmecher."
+  },
+  {
+   "key": "3285622647789285376",
+   "en": "Yeah. V got through security based on a false ID.",
+   "ro": "Da. V a trecut de securitate cu un ID fals."
+  },
+  {
+   "key": "3285682169039908864",
+   "en": "Choices…? Yours or hers?",
+   "ro": "Alegeri…? Ale tale sau ale ei?"
+  },
+  {
+   "key": "3297141822437289984",
+   "en": "Got control of the fan.",
+   "ro": "Am pus mâna pe ventilator."
+  },
+  {
+   "key": "3297143021655912448",
+   "en": "They'll be here any sec, comin' to get us. Hurry.",
+   "ro": "Vin în orice clipă după noi. Grăbește-te."
+  },
+  {
+   "key": "3298406949461245952",
+   "en": "[Peek out]",
+   "ro": "[Trage cu ochiul]"
+  },
+  {
+   "key": "3298409725184524288",
+   "en": "[Move away]",
+   "ro": "[Dă-te la o parte]"
+  },
+  {
+   "key": "3302546998729719808",
+   "en": "Quick! Can't have it spinning!",
+   "ro": "Repede! Nu-l lăsa să se învârtă!"
+  },
+  {
+   "key": "3302709529133793280",
+   "en": "[Peek out]",
+   "ro": "[Trage cu ochiul]"
+  },
+  {
+   "key": "3302709529368674304",
+   "en": "[Move away]",
+   "ro": "[Dă-te la o parte]"
+  },
+  {
+   "key": "3302771261420158984",
+   "en": "Stop the fan!",
+   "ro": "Oprește ventilatorul!"
+  },
+  {
+   "key": "3302993647528656900",
+   "en": "[Toss hose end] Catch!",
+   "ro": "[Aruncă capătul furtunului] Prinde!"
+  },
+  {
+   "key": "3302994559286460416",
+   "en": "You're here… hah, here…",
+   "en_m": "Ugh! You're here…! Here…!",
+   "ro": "Ești aici… ha, aici…",
+   "ro_m": "Ugh! Ești aici…! Aici…!"
+  },
+  {
+   "key": "3339005882616160256",
+   "en": "What is it?",
+   "ro": "Ce-i?"
+  },
+  {
+   "key": "3339005960781209600",
+   "en": "Catching a radio sig. Shit... encrypted channel.",
+   "ro": "Prind un semnal radio. Căcat... canal criptat."
+  },
+  {
+   "key": "3339011894798622720",
+   "en": "Can you breach, listen in?",
+   "ro": "Poți să spargi și să asculți?"
+  },
+  {
+   "key": "3339012121106489344",
+   "en": "Givin' it a shot.",
+   "ro": "Încerc."
+  },
+  {
+   "key": "3339054448143409152",
+   "en": "Grab one of the blades. I'll squeeze through.",
+   "ro": "Apucă una dintre palete. Eu mă strecor."
+  },
+  {
+   "key": "3339093360664551424",
+   "en": "This is bad. Really bad.",
+   "ro": "E rău. Foarte rău."
+  },
+  {
+   "key": "3339098951705337864",
+   "en": "D'you hear that?",
+   "ro": "Ai auzit?"
+  },
+  {
+   "key": "3339099958304743432",
+   "en": "Might've expected as much.",
+   "ro": "Ne așteptam la asta."
+  },
+  {
+   "key": "3348875823763927044",
+   "en": "Myers is makin' a mistake.",
+   "ro": "Myers greșește."
+  },
+  {
+   "key": "3348877406207717376",
+   "en": "Myers is desperate. Desperate peeps make mistakes.",
+   "ro": "Myers e disperată. Oamenii disperați fac greșeli."
+  },
+  {
+   "key": "3348878198545297408",
+   "en": "What's it matter, really? Could both be dead and gone in moments.",
+   "ro": "Ce mai contează, de fapt? Într-o clipă am putea fi amândouă moarte.",
+   "ro_m": "Ce mai contează, de fapt? Într-o clipă am putea fi amândoi morți."
+  },
+  {
+   "key": "3359548564898398212",
+   "en": "They're here!",
+   "ro": "Sunt aici!"
+  },
+  {
+   "key": "3365039096670277632",
+   "en": "They're gonna see you! Come on, take cover!",
+   "ro": "O să te vadă! Hai, pune-te la adăpost!"
+  },
+  {
+   "key": "3365039817620803584",
+   "en": "Motherfuckers! They've got you tagged!",
+   "ro": "Pizdele alea! Te-au prins în vizor!"
+  },
+  {
+   "key": "3376520704247808068",
+   "en": "If our little bird lands in the wrong hands… I don't want to think what will happen.",
+   "ro": "Dacă mica noastră pasăre ajunge în mâinile nepotrivite… nu vreau să mă gândesc ce-ar urma."
+  },
+  {
+   "key": "3376520704247808084",
+   "en": "All that – we're the only ones privy.",
+   "ro": "Toate astea – doar noi le știm."
+  },
+  {
+   "key": "3376520704264585216",
+   "en": "It would destroy the NUS. It's not a risk I'm willing to take.",
+   "ro": "Ar distruge NUS. Nu e un risc pe care să-l iau."
+  },
+  {
+   "key": "3376520704264585232",
+   "en": "We're on the same page.",
+   "ro": "Suntem pe aceeași lungime de undă."
+  },
+  {
+   "key": "3376520704264585248",
+   "en": "No risks. That's how it'll be.",
+   "ro": "Fără riscuri. Așa o să fie."
+  },
+  {
+   "key": "3378355137359724544",
+   "en": "[Pull] Grip it tight!",
+   "ro": "[Trage] Ține bine!"
+  },
+  {
+   "key": "3378357826965553168",
+   "en": "Grip it tight!",
+   "ro": "Ține bine!"
+  },
+  {
+   "key": "3378361761507917864",
+   "en": "Ugh, just a little more! Argh!",
+   "ro": "Ugh, încă puțin! Argh!"
+  },
+  {
+   "key": "3378458596055883776",
+   "en": "Ugh, fuck…! Argh, no…!",
+   "en_m": "Ugh, fuck…! No…",
+   "ro": "Ugh, futu-i…! Argh, nu…!",
+   "ro_m": "Ugh, futu-i…! Nu…"
+  },
+  {
+   "key": "3378459957996724224",
+   "en": "Faster!",
+   "ro": "Mai repede!"
+  },
+  {
+   "key": "3378461069403398144",
+   "en": "Gotta… do this!",
+   "en_m": "Gotta… gotta… do this!",
+   "ro": "Trebuie… s-o fac!",
+   "ro_m": "Trebuie… trebuie… s-o fac!"
+  },
+  {
+   "key": "3378486027324137472",
+   "en": "So Mi! Got an idea!",
+   "ro": "So Mi! Am o idee!"
+  },
+  {
+   "key": "3378487972390674432",
+   "en": "Catch, Song!",
+   "ro": "Prinde, Song!"
+  },
+  {
+   "key": "3378494825111658496",
+   "en": "Fuck! No-no-no!",
+   "en_m": "Fuck, no-no-no!",
+   "ro": "Futu-i! Nu-nu-nu!",
+   "ro_m": "Futu-i, nu-nu-nu!"
+  },
+  {
+   "key": "3378498134098747392",
+   "en": "Too fuckin' close.",
+   "ro": "Al dracului de aproape."
+  },
+  {
+   "key": "3378502208210771968",
+   "en": "V? V, what's with you?",
+   "ro": "V? V, ce-i cu tine?"
+  },
+  {
+   "key": "3378503597666246660",
+   "en": "I'm dyin'? D'you forget?",
+   "ro": "Că mor? Ai uitat?"
+  },
+  {
+   "key": "3378503944635850752",
+   "en": "You're heavy.",
+   "ro": "Ești grea.",
+   "ro_m": "Ești greu."
+  },
+  {
+   "key": "3378504072478236672",
+   "en": "Nothin'. I'm fine.",
+   "ro": "Nimic. Sunt bine."
+  },
+  {
+   "key": "3378506122536591360",
+   "en": "You know.",
+   "ro": "Știi tu."
+  },
+  {
+   "key": "3378506160838975492",
+   "en": "Just tired. Your chromed ass weighs a bit.",
+   "ro": "Doar obosită. Curul tău chromat cântărește ceva.",
+   "ro_m": "Doar obosit. Curul tău chromat cântărește ceva."
+  },
+  {
+   "key": "3378506187145650176",
+   "en": "I'm fine. Don't worry about me.",
+   "ro": "Sunt bine. Nu-ți face griji pentru mine."
+  },
+  {
+   "key": "3378507865873883136",
+   "en": "Barely clingin' onto life, both of us.",
+   "ro": "Abia ne mai ținem în viață, amândouă.",
+   "ro_m": "Abia ne mai ținem în viață, amândoi."
+  },
+  {
+   "key": "3378510416883130368",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "3378510968652210176",
+   "en": "Stop it. It'll be over soon. Thanks in no small part to you.",
+   "ro": "Încetează. Se termină curând. Și asta mai ales datorită ție."
+  },
+  {
+   "key": "3378532056706752512",
+   "en": "Crazy, this.",
+   "ro": "Ce nebunie."
+  },
+  {
+   "key": "3378532292611186688",
+   "en": "Shape you're in, can't possibly hope to walk a high-wire.",
+   "ro": "În starea în care ești, n-ai nicio șansă să mergi pe sârmă."
+  },
+  {
+   "key": "3378532508483624960",
+   "en": "Goin' gung-ho, love it.",
+   "ro": "Te arunci cu capul înainte, îmi place."
+  },
+  {
+   "key": "3378533019802836992",
+   "en": "No plan's my favorite way to go. Need a few minutes.",
+   "ro": "Fără plan – așa îmi place cel mai mult. Îmi trebuie câteva minute."
+  },
+  {
+   "key": "3378536679114973184",
+   "en": "It's a hundred twenty, thirty feet. Doable.",
+   "ro": "Sunt o sută douăzeci, o sută treizeci de picioare. Se poate."
+  },
+  {
+   "key": "3378537947556388864",
+   "en": "Givin' you just one, no more.",
+   "ro": "Îți dau unul, nu mai mult."
+  },
+  {
+   "key": "3379433545142804480",
+   "en": "Gotcha! Ah…",
+   "en_m": "Gotcha! Ugh.",
+   "ro": "Te-am prins! Ah…",
+   "ro_m": "Te-am prins! Ugh."
+  },
+  {
+   "key": "3379443705760358400",
+   "en": "There you are!",
+   "ro": "Aici erai!"
+  },
+  {
+   "key": "3379478830288117760",
+   "en": "Ah. Firehose.",
+   "ro": "Ah. Furtun de incendiu."
+  },
+  {
+   "key": "3405702548942016520",
+   "en": "You all right there?",
+   "ro": "Ești bine acolo?"
+  },
+  {
+   "key": "3405702548992348168",
+   "en": "Can’t hang here, let’s go!",
+   "ro": "Nu putem sta aici, hai!"
+  },
+  {
+   "key": "3449608958565064704",
+   "en": "The NUSA'll wind up in everyone's sights – Orbital Air's, that of any corps pullin' strings in NC.",
+   "ro": "NUSA o să ajungă în colimatorul tuturor – al Orbital Air, al oricărei corporații care trage sforile în NC."
+  },
+  {
+   "key": "3449609631616638976",
+   "en": "She's a step, maybe two, from sparkin' the next war. A war she can't win, even with Militech pilin' on forces and arms.",
+   "ro": "E la un pas, poate la doi, de a aprinde următorul război. Un război pe care nu-l poate câștiga, nici cu Militech bagând și trupe, și arme."
+  },
+  {
+   "key": "3449609857991614464",
+   "en": "You are boardin' that fuckin' shuttle. Promise you that.",
+   "en_m": "You're boardin' that fuckin' shuttle. Promise you that.",
+   "ro": "O să te sui în naveta aia nenorocită. Îți promit."
+  },
+  {
+   "key": "3458030068714418180",
+   "en": "[Examine] Hm, piping?",
+   "ro": "[Examinează] Hm, conducte?"
+  },
+  {
+   "key": "3459125304584810496",
+   "en": "Pff, useless, this.",
+   "ro": "Pff, inutil."
+  },
+  {
+   "key": "3476825500332146688",
+   "en": "OK, moved on. Alert, now — eyes and ears.",
+   "ro": "OK, lasă, am trecut peste. Atenție acum, ochii și urechile în patru."
+  },
+  {
+   "key": "3476829056078528512",
+   "en": "Targets neutralized, Sir.",
+   "ro": "Ținte neutralizate, domnule."
+  },
+  {
+   "key": "3476842732596576256",
+   "en": "Move, go! They're gonna spot us.",
+   "ro": "Mișcă, hai! O să ne vadă."
+  },
+  {
+   "key": "3477094003416408068",
+   "en": "Gonna get hot.",
+   "ro": "O să se încingă treaba."
+  },
+  {
+   "key": "3477096051746709504",
+   "en": "Need to delta through fast. Before all hell breaks loose.",
+   "ro": "Trebuie s-o tăiem prin zonă, repede. Până nu se dezlănțuie iadul."
+  },
+  {
+   "key": "3477102555182833664",
+   "en": "Train ride to the launchpad, that's all. Just need to blast through the Tycho Terminal first.",
+   "ro": "O plimbare cu trenul până la rampă, atât. Doar că mai întâi trebuie să spargem Terminalul Tycho."
+  },
+  {
+   "key": "3478020223834431488",
+   "en": "We can do this.",
+   "ro": "Putem face asta."
+  },
+  {
+   "key": "3478021049407676416",
+   "en": "OK, back to the terminal now.",
+   "ro": "Bun, înapoi la terminal."
+  },
+  {
+   "key": "3478023947889844224",
+   "en": "Put you on that shuttle – 's all we need to do. And that'll be that.",
+   "en_m": "Put you on the shuttle – 's all we need to do. And that'll be that.",
+   "ro": "Te bag în naveta aia și gata, atât mai avem de făcut.",
+   "ro_m": "Te bag în navetă și gata, atât mai avem de făcut."
+  },
+  {
+   "key": "3478035120542621696",
+   "en": "In here – quick!",
+   "ro": "Aici – repede!"
+  },
+  {
+   "key": "3487123170027823104",
+   "en": "D'you just eyeball that? Whooaaa.",
+   "ro": "Ai estimat din ochi? Uooo."
+  },
+  {
+   "key": "3487124162668584960",
+   "en": "No way this'll hold the weight.",
+   "ro": "N-are cum să țină greutatea asta."
+  },
+  {
+   "key": "3487128110548836352",
+   "en": "I can hear you. You know that, right?",
+   "ro": "Te aud. Știi asta, nu?"
+  },
+  {
+   "key": "3489829444083163136",
+   "en": "Rain's pourin'...",
+   "ro": "Plouă cu găleata..."
+  },
+  {
+   "key": "3489860073256558592",
+   "en": "I authorize you to take any and all necessary action. Just try not to shoot 'er in the head.",
+   "ro": "Ai mână liberă, fă ce trebuie. Doar încearcă să n-o nimerești în cap."
+  },
+  {
+   "key": "3495656134256533504",
+   "en": "There's one more thing, Sol.",
+   "ro": "Mai e ceva, Sol."
+  },
+  {
+   "key": "3495665319211868160",
+   "en": "You heard me. But no matter. I know what I have to do and I'll do it.",
+   "ro": "M-ai auzit. Dar nu contează. Știu ce am de făcut și o fac."
+  },
+  {
+   "key": "3496788423531208704",
+   "en": "NCX is not technically part of NC. Exterritorial, neutral zone. This is Myers basically blowin' off international law and agreements.",
+   "ro": "Tehnic, NCX nu face parte din NC. E zonă exteritorială, neutră. Practic, Myers își bate joc de dreptul internațional și de acorduri."
+  },
+  {
+   "key": "3497077817873965056",
+   "en": "Hardy-har-har…",
+   "ro": "Ha-ha, foarte amuzant…"
+  },
+  {
+   "key": "3497150102374883328",
+   "en": "Move it, V. Scan the roof for somethin'.",
+   "ro": "Mișcă-te, V. Scanează acoperișul să vezi ce găsești."
+  },
+  {
+   "key": "3536138162277883904",
+   "en": "Reed just stabbed you in the back.",
+   "ro": "Reed tocmai te-a înjunghiat pe la spate."
+  },
+  {
+   "key": "3536239203061243904",
+   "en": "Didn't think Reed'd fold that easily, sell out straight.",
+   "ro": "Nu credeam că Reed cedează atât de ușor. Să-i vândă pe toți, așa, direct."
+  },
+  {
+   "key": "3537399735336214528",
+   "en": "I was afraid to trust him, just couldn't. Understand why now?",
+   "ro": "Mi-era frică să am încredere în el, pur și simplu nu puteam. Acum pricepi de ce?"
+  },
+  {
+   "key": "3537400064924622848",
+   "en": "Think he plain lied? Said he wanted to help you, stressed it.",
+   "ro": "Crezi că a mințit pur și simplu? Zicea că vrea să te ajute, insista pe asta."
+  },
+  {
+   "key": "3537400506333175808",
+   "en": "Was lyin' to himself. Desperate to believe he wouldn't have to choose between me 'n' Myers.",
+   "ro": "Se mințea singur. Disperat să creadă că n-o să fie nevoit să aleagă între mine și Myers."
+  },
+  {
+   "key": "3537401159671521280",
+   "en": "But his and the NUS's national conscience – one and the same.",
+   "ro": "Dar conștiința lui și cea națională a NUS-ului – una și aceeași."
+  },
+  {
+   "key": "3538868566470598660",
+   "en": "[Pull hard] Argh!",
+   "ro": "[Trage tare] Argh!"
+  },
+  {
+   "key": "3538905008831897600",
+   "en": "Arrrgh…!",
+   "ro": "Arrrgh…!"
+  },
+  {
+   "key": "3538907576769355776",
+   "en": "Next time… just shouldn't be a next time, not like this.",
+   "ro": "Data viitoare… n-ar trebui să mai fie o dată viitoare, nu așa."
+  },
+  {
+   "key": "3559497312563011596",
+   "en": "[Examine] Firehose!",
+   "ro": "[Examinează] Furtun de incendiu!"
+  },
+  {
+   "key": "3560690215083745292",
+   "en": "[Examine] Got a ladder…",
+   "ro": "[Examinează] O scară…"
+  },
+  {
+   "key": "3560695392901701644",
+   "en": "[Examine] Some cables.",
+   "ro": "[Examinează] Niște cabluri."
+  },
+  {
+   "key": "3566657751814152192",
+   "en": "Eh, too short.",
+   "en_m": "Uh, too short.",
+   "ro": "Ăă, prea scurt."
+  },
+  {
+   "key": "3569426593682464768",
+   "en": "[Pull] Not far now!",
+   "ro": "[Trage] Nu mai e mult!"
+  },
+  {
+   "key": "3601332535277559808",
+   "en": "Get it open!",
+   "ro": "Deschide-o!"
+  },
+  {
+   "key": "3765348211642654724",
+   "en": "Myers's all in,  ain't takin' any prisoners.",
+   "ro": "Myers e în toi, nu ia prizonieri."
+  },
+  {
+   "key": "4045084668270526464",
+   "en": "Better look around...",
+   "ro": "Mai bine mă uit în jur..."
+  }
+ ]
+}

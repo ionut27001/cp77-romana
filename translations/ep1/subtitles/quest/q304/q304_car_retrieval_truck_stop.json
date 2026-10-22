@@ -1,0 +1,25 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_car_retrieval_truck_stop.json",
+ "entries": [
+  {
+   "key": "3430124549769056256",
+   "en": "Stop your vehicle!",
+   "ro": "Oprește mașina!"
+  },
+  {
+   "key": "3430292956476919808",
+   "en": "You're free to pass.",
+   "ro": "Poți trece."
+  },
+  {
+   "key": "3508411786050457612",
+   "en": "You're late…",
+   "ro": "Întârzii…"
+  },
+  {
+   "key": "3508425972428099600",
+   "en": "Weird… Scanner read-out bugged for a sec.",
+   "ro": "Ciudat… Scanerul a dat-o în bară o secundă."
+  }
+ ]
+}

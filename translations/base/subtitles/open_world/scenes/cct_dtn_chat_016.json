@@ -1,0 +1,46 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_016.json",
+ "entries": [
+  {
+   "key": "2172172634114732032",
+   "en": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"Same with Emilio. Always helps me with my groceries.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"La fel cu Emilio. Mă ajută mereu cu cumpărăturile.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2181106406106959872",
+   "en": "Especially young men like them.",
+   "ro": "Mai ales tinerii ca ei."
+  },
+  {
+   "key": "2181123114301493248",
+   "en": "Exactly. They're good eggs, all of 'em. So what if they get into some mischief sometimes? Boys will be boys.",
+   "ro": "Exact. Sunt niște băieți buni, toți. Și ce dacă mai fac câte o prostie din când în când? Băieții rămân băieți."
+  },
+  {
+   "key": "2181123232127881216",
+   "en": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"If you can't when you're young, when can you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"Dacă nu poți când ești tânără, când mai poți?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"Dacă nu poți când ești tânăr, când mai poți?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2181123659493904384",
+   "en": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"And those officers, I'm telling you, instead of worrying about real criminals, they decide to harrass our boys.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"Și polițiștii ăia, îți zic, în loc să prindă infractorii adevărați, se iau de băieții noștri.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2181124645708992512",
+   "en": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"One cop told me the other day, he said Emilio was with the Valentinos. Can you imagine?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"Un polițist mi-a zis zilele trecute că Emilio e cu Valentinos. Poți să crezi?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2181124829067186176",
+   "en": "Oh, that's just rumors. Boys're just having a little fun.",
+   "ro": "Ei, sunt doar zvonuri. Băieții se mai distrează și ei."
+  },
+  {
+   "key": "2181128622076956672",
+   "en": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"Now, I remember when Emilio was five years old, what an angel. Wouldn't hurt a fly.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"Mai știu când Emilio avea cinci ani, un îngeraș. N-ar fi rănit nici o muscă.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

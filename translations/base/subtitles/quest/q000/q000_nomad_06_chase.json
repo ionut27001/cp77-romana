@@ -1,0 +1,176 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_06_chase.json",
+ "entries": [
+  {
+   "key": "1660701924762079232",
+   "en": "You gonna tell me what happened back there?",
+   "ro": "O să-mi spui ce s-a întâmplat acolo?"
+  },
+  {
+   "key": "1660704519744409600",
+   "en": "Stop your vehicle immediately!",
+   "ro": "Oprește mașina imediat!"
+  },
+  {
+   "key": "1660714183756369924",
+   "en": "[Lean out]",
+   "ro": "[Sprijină-te afară]"
+  },
+  {
+   "key": "1660716411971981328",
+   "en": "Keep driving. We can't stop here.",
+   "ro": "Continuă să conduci. Nu putem opri aici."
+  },
+  {
+   "key": "1725836941312585728",
+   "en": "You are transporting contraband that is corporate property.",
+   "ro": "Transportați contrabandă ce aparține unei corporații."
+  },
+  {
+   "key": "1725837521485492224",
+   "en": "Damn.",
+   "ro": "Naiba."
+  },
+  {
+   "key": "1725837769402413056",
+   "en": "I repeat – stop the car!",
+   "ro": "Repet – opriți mașina!"
+  },
+  {
+   "key": "1725887901065998336",
+   "en": "<mothertongue l=\"mex\" m=\"Jesús\" b=\"\" a=\", not sure my nerves can handle this.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Jesús\" b=\"\" a=\", nu-s sigur că mai rezist.\"/>"
+  },
+  {
+   "key": "1746049290578448384",
+   "en": "Someone's comin' our way. This does not look good.",
+   "ro": "Vine cineva spre noi. Nu arată bine."
+  },
+  {
+   "key": "1746049955409186816",
+   "en": "Let's get outta here!",
+   "ro": "Hai să dispărem de aici!"
+  },
+  {
+   "key": "1771945225346895872",
+   "en": "Place looks deserted. Gonna stop here, need to sort out a few things before we go on.",
+   "ro": "Locul pare pustiu. Opresc aici, am de rezolvat câteva chestii înainte să plecăm mai departe."
+  },
+  {
+   "key": "1823973818851414016",
+   "en": "We lost 'em.",
+   "ro": "I-am pierdut."
+  },
+  {
+   "key": "1823986379516825600",
+   "en": "<kiroshi l=\"mex\" o=\"¡En chinga, en chinga!\" t=\"Faster, faster!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡En chinga, en chinga!\" t=\"Mai repede, mai repede!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1823988349161984004",
+   "en": "Forget them!",
+   "ro": "Uită de ei!"
+  },
+  {
+   "key": "1823988985572118532",
+   "en": "<mothertongue l=\"mex\" m=\"Los pendejos\" b=\"\" a=\" are stubborn!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Los pendejos\" b=\"\" a=\" sunt încăpățânați!\"/>"
+  },
+  {
+   "key": "1837128689430491140",
+   "en": "The customs officer was all over me.",
+   "ro": "Ofițerul vamal m-a luat la puricat."
+  },
+  {
+   "key": "1837128704328658944",
+   "en": "A customs dickhead got nitpicky.",
+   "ro": "Un boule de vameș s-a luat de detalii."
+  },
+  {
+   "key": "1837128711593193472",
+   "en": "Let's say I have a bad feeling about this.",
+   "ro": "Să zicem că am un presentiment rău."
+  },
+  {
+   "key": "1837128869198360576",
+   "en": "I have a sneaky feeling.",
+   "ro": "Am o senzație ciudată."
+  },
+  {
+   "key": "1837134236565303296",
+   "en": "Smellin' trouble 'round the bend?",
+   "ro": "Miroși necazuri după colț?"
+  },
+  {
+   "key": "1837431202062987264",
+   "en": "And that ain't normal?",
+   "ro": "Și asta nu e normal?"
+  },
+  {
+   "key": "1837431347571781632",
+   "en": "Not to that extent.",
+   "ro": "Nu chiar atât."
+  },
+  {
+   "key": "1837434720127741952",
+   "en": "Oh... Happen a lot to you?",
+   "ro": "A... Ți se întâmplă des?"
+  },
+  {
+   "key": "1837434794551472128",
+   "en": "Rarely.",
+   "ro": "Rar."
+  },
+  {
+   "key": "1837434963162492928",
+   "en": "Drive, Jackie, just drive.",
+   "ro": "Condu, Jackie, doar condu."
+  },
+  {
+   "key": "1979238844704247812",
+   "en": "Drove off... Think we can move.",
+   "ro": "Au dispărut... Cred că putem pleca."
+  },
+  {
+   "key": "1979377419206807556",
+   "en": "Park the car so it's damned hard to find. They could circle back.",
+   "en_m": "Park the car so it's damn hard to find. They could circle back.",
+   "ro": "Parchează mașina așa să fie al naibii de greu de găsit. S-ar putea să se întoarcă."
+  },
+  {
+   "key": "1979377419206807564",
+   "en": "Right. Got it.",
+   "ro": "Bine. Am înțeles."
+  },
+  {
+   "key": "1980543274892414976",
+   "en": "Foot of lead – we'll ditch 'em!",
+   "ro": "Pedală la podea – îi scăpăm!"
+  },
+  {
+   "key": "1980545975738978308",
+   "en": "Gotta keep movin'!",
+   "ro": "Trebuie să nu ne oprim!"
+  },
+  {
+   "key": "1980547380814041092",
+   "en": "<kiroshi l=\"mex\" o=\"¡Chinguen a su madre!\" t=\"Sons of bitches!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Chinguen a su madre!\" t=\"Puii de curvă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2082417811499622400",
+   "en": "V, got a problem! Get your ass in here!",
+   "ro": "V, am o problemă! Vino-ncoace, acum!"
+  },
+  {
+   "key": "2232984485669040128",
+   "en": "On it!",
+   "ro": "Mă ocup!"
+  },
+  {
+   "key": "2232998526621773824",
+   "en": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\", close call.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\", pe muchie.\"/>"
+  }
+ ]
+}

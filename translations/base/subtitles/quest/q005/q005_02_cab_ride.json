@@ -1,0 +1,543 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q005\\q005_02_cab_ride.json",
+ "entries": [
+  {
+   "key": "1862181025160769536",
+   "en": "Hold on, lemme grab the Flathead.",
+   "ro": "Stai, să iau Flathead-ul."
+  },
+  {
+   "key": "1866568279945785348",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "1902761554247299072",
+   "en": "My systems inform me that we await one other passenger.",
+   "ro": "Sistemele mele arată că mai așteptăm un pasager."
+  },
+  {
+   "key": "1902765036123598848",
+   "en": "Yep – on his way, catchin' up.",
+   "ro": "Da – e pe drum, ne ajunge din urmă."
+  },
+  {
+   "key": "1902765821582520320",
+   "en": "So? You ready?",
+   "ro": "Ești gata?"
+  },
+  {
+   "key": "1915674589832032256",
+   "en": "Well aren't you the master of disguise? Left your suit in Dex's booth, gonk.",
+   "ro": "Ce maestră a deghizării, nu glumă! Ți-ai uitat costumul în separeul lui Dex, tâmpito.",
+   "ro_m": "Ce maestru al deghizării, nu glumă! Ți-ai uitat costumul în separeul lui Dex, fraierule."
+  },
+  {
+   "key": "1915676267989839872",
+   "en": "Look, V, I know the corpo get-up ain't great for movement, but we both gotta look the part. Suit up.",
+   "ro": "Uite, V, știu că hainele de corpo nu-s grozave la mișcare, dar trebuie să arătăm amândoi cum trebuie. Îmbracă-te."
+  },
+  {
+   "key": "1989698660768489472",
+   "en": "Welcome on board this Delamain service. With Delamain, you leave your problems at the door.",
+   "ro": "Bine ați venit la bordul unei mașini Delamain. Cu Delamain, problemele rămân la ușă."
+  },
+  {
+   "key": "1989698660768489492",
+   "en": "Before we begin our journey, I must verify the identities of all customers.",
+   "ro": "Înainte să începem călătoria, trebuie să verific identitatea tuturor clienților."
+  },
+  {
+   "key": "1989698660768489508",
+   "en": "Please proceed to connect your personal links.",
+   "ro": "Vă rog să vă conectați linkurile personale."
+  },
+  {
+   "key": "1989698660835598336",
+   "en": "Thank you for choosing the Delamain service. And best of luck.",
+   "ro": "Vă mulțumim că ați ales serviciul Delamain. Și mult succes."
+  },
+  {
+   "key": "1989698660835598352",
+   "en": "I shall await here for your return.",
+   "ro": "Voi aștepta aici revenirea dumneavoastră."
+  },
+  {
+   "key": "1989698660885929984",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1989698660936261652",
+   "en": "Ain't goin' anywhere 'less we do this, V.",
+   "ro": "Nu plec nicăieri dacă nu facem asta, V."
+  },
+  {
+   "key": "1989698661036924960",
+   "en": "Shit's finally happenin'...",
+   "ro": "În sfârșit se întâmplă căcatul ăla..."
+  },
+  {
+   "key": "1989698661053702152",
+   "en": "Almost forgot, no iron, eh?",
+   "ro": "Aproape că uitam, fără arme, nu?"
+  },
+  {
+   "key": "1989698661087256576",
+   "en": "[Leave weapon]",
+   "ro": "[Lasă arma]"
+  },
+  {
+   "key": "1989698661154365460",
+   "en": "Hey. How's things?",
+   "ro": "Hei. Ce mai e?"
+  },
+  {
+   "key": "1989698661171142668",
+   "en": "We'll be, uh, pullin' up to the hotel soon.",
+   "ro": "Ajungem, ăă, la hotel în curând."
+  },
+  {
+   "key": "1989698661171142680",
+   "en": "Listen, set up a direct, encrypted line to guide you through Konpeki.",
+   "ro": "Ascultă, stabilește o linie directă, criptată, ca să te ghidez prin Konpeki."
+  },
+  {
+   "key": "1989698661187919876",
+   "en": "V, ring Jackie now, see if we're in sync. Can't be too careful.",
+   "ro": "V, sună-l acum pe Jackie, vezi dacă suntem sincronizați. Nu strică să fim prudenți."
+  },
+  {
+   "key": "1989698661221474304",
+   "en": "[Call Jackie]",
+   "ro": "[Sună-l pe Jackie]"
+  },
+  {
+   "key": "1989698661305360392",
+   "en": "And?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1989698661305360408",
+   "en": "Got static. Say somethin', Bug?",
+   "ro": "Am static pe linie. Zi ceva, Bug?"
+  },
+  {
+   "key": "1989698661305360424",
+   "en": "\"The greatest crimes issue from a desire for excess and not from necessity.\"",
+   "ro": "„Cele mai mari crime izvorăsc din dorința de exces, nu din necesitate.”"
+  },
+  {
+   "key": "1989698661322137608",
+   "en": "Say what now?",
+   "ro": "Ce-ai zis?"
+  },
+  {
+   "key": "1989698661322137624",
+   "en": "Aristotle. Guess you read me, then?",
+   "ro": "Aristotel. Deci m-ai citit, nu?"
+  },
+  {
+   "key": "1989698661338914820",
+   "en": "Yeah, I read you. Not so much your Greek friend, though it was kind of exciting.",
+   "ro": "Da, te-am citit. Pe grecul tău n-am citit prea mult, dar a fost cam palpitant."
+  },
+  {
+   "key": "1989698661338914836",
+   "en": "Could give it some thought, try to understand…?",
+   "ro": "Ai putea să te gândești puțin la asta, să încerci să pricepi…?"
+  },
+  {
+   "key": "1989698661355692032",
+   "en": "How 'bout you, V?",
+   "ro": "Tu ce zici, V?"
+  },
+  {
+   "key": "1989698661439578128",
+   "en": "Waitin' for an important call here, V!",
+   "ro": "Aștept un apel important aici, V!"
+  },
+  {
+   "key": "1989698661523464192",
+   "en": "Loud and clear.",
+   "ro": "Recepționat, tare și clar."
+  },
+  {
+   "key": "1989698661523464208",
+   "en": "I want more Aristotle!",
+   "ro": "Vreau încă Aristotel!"
+  },
+  {
+   "key": "1989698661590573068",
+   "en": "Read you loud and clear.",
+   "ro": "Te-am recepționat tare și clar."
+  },
+  {
+   "key": "1989698661590573084",
+   "en": "Perfect.",
+   "ro": "Perfect."
+  },
+  {
+   "key": "1989698661657681940",
+   "en": "I want more Aristotle!",
+   "ro": "Vreau încă Aristotel!"
+  },
+  {
+   "key": "1989698661657681956",
+   "en": "Fuck off, both.",
+   "ro": "Du-te-n pula mea, amândoi."
+  },
+  {
+   "key": "1989698661674459144",
+   "en": "Hehehe.",
+   "ro": "Hehehe."
+  },
+  {
+   "key": "1989698661724790800",
+   "en": "OK, tech checks out, looks like.",
+   "ro": "OK, se pare că merge tot."
+  },
+  {
+   "key": "1989698661724790816",
+   "en": "<kiroshi l=\"mex\" o=\"Será mejor que sí..\" t=\"Fuckin' better.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Será mejor que sí..\" t=\"Dracu' mai bine.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1989698662328770584",
+   "en": "We are nearing our destination.",
+   "ro": "Ne apropiem de destinație."
+  },
+  {
+   "key": "1989698662345547776",
+   "en": "Yep, don't gotta tell me.",
+   "ro": "Da, nu mai trebuie să-mi zici."
+  },
+  {
+   "key": "1989698663285071904",
+   "en": "Thank you. \"Excelsior\" package activated.",
+   "ro": "Mulțumesc. Pachetul „Excelsior” activat."
+  },
+  {
+   "key": "1989698663285071920",
+   "en": "\"Excelsior\"? Hohoho, this just keeps gettin' better!",
+   "ro": "„Excelsior”? Hohoho, asta e din ce în ce mai tare!"
+  },
+  {
+   "key": "1989698663352180736",
+   "en": "\"Excelsior\" package – what's that?",
+   "ro": "Pachetul „Excelsior” – ce e aia?"
+  },
+  {
+   "key": "1989698663385735168",
+   "en": "What's got you all excited?",
+   "ro": "Ce te-a apucat așa?"
+  },
+  {
+   "key": "1989698663536730112",
+   "en": "Delamain! Initiate combat mode!",
+   "ro": "Delamain! Treci pe modul de luptă!"
+  },
+  {
+   "key": "1989698663536730124",
+   "en": "My apologies, but you do not appear to be in any sort of imminent danger.",
+   "ro": "Îmi pare rău, dar nu pare să fiți în vreun pericol iminent."
+  },
+  {
+   "key": "1989698663603839016",
+   "en": "\"Excelsior\"?",
+   "ro": "„Excelsior”?"
+  },
+  {
+   "key": "1989698663603839028",
+   "en": "The \"Excelsior\" is a package tailored to our premium clientele.",
+   "ro": "„Excelsior” este un pachet creat pentru clienții noștri premium."
+  },
+  {
+   "key": "1989698663620616196",
+   "en": "Top quality don't come free, y'know. Now watch…",
+   "ro": "Calitatea de top nu vine gratis, știi. Acum uită-te..."
+  },
+  {
+   "key": "1989698663788388352",
+   "en": "Package – what else does it include?",
+   "ro": "Pachetul – ce mai include?"
+  },
+  {
+   "key": "1989698663855497252",
+   "en": "Excelsior – what else is included?",
+   "ro": "Excelsior – ce mai e inclus?"
+  },
+  {
+   "key": "1989698663872274452",
+   "en": "Damn. Shit got dark pretty quick.",
+   "ro": "Naiba. S-a întunecat repede rău."
+  },
+  {
+   "key": "1989698663972937764",
+   "en": "Least we got some clue where his sixty five percent's goin', eh?",
+   "ro": "Măcar știm pe unde umblă cei șaizeci și cinci la sută ai lui, nu?"
+  },
+  {
+   "key": "1989698664073601032",
+   "en": "He's takin' seventy percent of the pot... Or've you forgotten already?",
+   "ro": "Ia șaptezeci la sută din pot... Sau ți-ai uitat deja?"
+  },
+  {
+   "key": "1989698664140709896",
+   "en": "Dex ain't skimpin', is he.",
+   "ro": "Dex nu se zgârcește, nu?"
+  },
+  {
+   "key": "1989698664761466896",
+   "en": "All right, \"Hannah,\" let's go.",
+   "en_m": "All right, \"Harry,\" let's go.",
+   "ro": "Bine, „Hannah”, hai să mergem.",
+   "ro_m": "Bine, „Harry”, hai să mergem."
+  },
+  {
+   "key": "1989698664946016264",
+   "en": "Too late to back out now. Come on, V.",
+   "ro": "Prea târziu să dai înapoi acum. Hai, V."
+  },
+  {
+   "key": "1989698664979570696",
+   "en": "You comin'? Time's precious.",
+   "ro": "Vii? Timpul nu așteaptă."
+  },
+  {
+   "key": "1989698665113788432",
+   "en": "And thanks to you, we're still gettin' a juicy forty percent.",
+   "ro": "Și mulțumită ție, tot luăm patruzeci la sută, nu-i rău."
+  },
+  {
+   "key": "1989698665130565640",
+   "en": "You're welcome.",
+   "ro": "Cu plăcere."
+  },
+  {
+   "key": "1989698665499664384",
+   "en": "Don't get too excited.",
+   "ro": "Nu te entuziasma prea tare."
+  },
+  {
+   "key": "1989698665499664400",
+   "en": "That so important?",
+   "ro": "Chiar e așa de important?"
+  },
+  {
+   "key": "1989698665600327688",
+   "en": "Huh, seems to me like it's you who's got some kinda problem...",
+   "ro": "Hm, mie mi se pare că tu ai o problemă..."
+  },
+  {
+   "key": "1989698665650659328",
+   "en": "Just need you to keep your head in the game.",
+   "ro": "Doar să fii cu mintea aici."
+  },
+  {
+   "key": "1989698665667436548",
+   "en": "Forget about it.",
+   "ro": "Uită de asta."
+  },
+  {
+   "key": "1989698665717768204",
+   "en": "Need you to keep your head clear and in the game – we got a job to do.",
+   "ro": "Trebuie să ai mintea limpede și să fii atent – avem o treabă de făcut."
+  },
+  {
+   "key": "1989698665717768216",
+   "en": "Head's never, ever been clearer in my whole fuckin' life!",
+   "ro": "Niciodată nu mi-a fost capul mai limpede în toată nenorocita asta de viață!"
+  },
+  {
+   "key": "1989698665784877068",
+   "en": "Never mind. Delete that – forget about it.",
+   "ro": "Lasă. Șterge-o și uită de ea."
+  },
+  {
+   "key": "1989698665801654276",
+   "en": "Deleted and forgotten.",
+   "ro": "Șters și uitat."
+  },
+  {
+   "key": "1989698665902317576",
+   "en": "\"Excelsior...\"",
+   "ro": "„Excelsior...”"
+  },
+  {
+   "key": "1989698665969426448",
+   "en": "That really your be-all and end-all?",
+   "ro": "Asta e tot ce contează pentru tine?"
+  },
+  {
+   "key": "1989698665969426460",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1989698665986203648",
+   "en": "Dex manage to buy you off that cheap? With a suit, a limo…?",
+   "ro": "Dex te-a cumpărat așa de ieftin? Cu un costum și o limuzină…?"
+  },
+  {
+   "key": "1989698666019758092",
+   "en": "We're not on our way to some party, Jack. We're about to pull a major heist. At Arasaka.",
+   "ro": "Nu mergem la vreo petrecere, Jack. Dăm o lovitură mare. La Arasaka."
+  },
+  {
+   "key": "1989698666036535296",
+   "en": "For real, V...?",
+   "ro": "Pe bune, V...?"
+  },
+  {
+   "key": "1989701653035294720",
+   "en": "Son of a bitch! Better fuckin' believe I will!",
+   "ro": "Pizda mă-sii! Să vezi că o să o fac!"
+  },
+  {
+   "key": "1989702363986599936",
+   "en": "I see no reason why you should be using expletives.",
+   "ro": "Nu văd niciun motiv să folosiți înjurături."
+  },
+  {
+   "key": "1989703429339815936",
+   "en": "Oh yeah? What about that time I wanted to hire you for my cousin's bachelor party, huh?",
+   "ro": "A, da? Dar când am vrut să te angajez pentru petrecerea de burlaci a verișorului, ha?"
+  },
+  {
+   "key": "1989705227857371136",
+   "en": "Unfortunately, we do not take on such contracts.",
+   "ro": "Din păcate, nu luăm contracte de genul ăsta."
+  },
+  {
+   "key": "1989705661263192064",
+   "en": "Three months I'd been savin' up scratch…",
+   "ro": "Trei luni am tot strâns parale…"
+  },
+  {
+   "key": "1989708696479670272",
+   "en": "Egh, water under the bridge. Hit it, Del!",
+   "ro": "Ce-a fost a fost. Hai, Del!"
+  },
+  {
+   "key": "1989724617369788416",
+   "en": "Huh... Oh well.",
+   "ro": "Hm... Ei, ce să faci."
+  },
+  {
+   "key": "1989730792878448640",
+   "en": "Combat mode sounds… illegal.",
+   "ro": "Modul de luptă sună a ilegal..."
+  },
+  {
+   "key": "1989731186773925888",
+   "en": "This combat mode even… legal?",
+   "ro": "Modul ăsta de luptă e... legal?"
+  },
+  {
+   "key": "1989732022816153600",
+   "en": "Of course it is. The Second Amendment says so.",
+   "ro": "Sigur că da. Așa zice Al Doilea Amendament."
+  },
+  {
+   "key": "1989732145071726592",
+   "en": "While on board, you are entirely within your rights to \"bear\" and use me.",
+   "ro": "Pe durata călătoriei, aveți tot dreptul să mă „purtați” și să mă folosiți."
+  },
+  {
+   "key": "1989733041931362304",
+   "en": "Comprehensive health coverage, including the handling and disposal of a client's remains should death occur on board.",
+   "ro": "Acoperire medicală completă, inclusiv manipularea și eliminarea rămășițelor clientului în caz de deces la bord."
+  },
+  {
+   "key": "1989736352143187968",
+   "en": "Trust me, he'll mow down an army of 'Saka ninjas if it comes down to it.",
+   "ro": "Crede-mă, dacă e nevoie, doboară și o armată de ninja 'Saka."
+  },
+  {
+   "key": "1989740258248171520",
+   "en": "Dex didn't skimp.",
+   "ro": "Dex nu s-a zgârcit."
+  },
+  {
+   "key": "1989744516574027776",
+   "en": "What's got you so antsy?",
+   "ro": "Ce te-a apucat așa?"
+  },
+  {
+   "key": "1989745171992748032",
+   "en": "Hang on, watch this…",
+   "ro": "Stai, uită-te la asta…"
+  },
+  {
+   "key": "1989768978358935552",
+   "en": "This is how you wanna cruise into the major leagues…",
+   "ro": "Așa vrei să intri în liga mare…"
+  },
+  {
+   "key": "1989770544042287104",
+   "en": "Wouldn't get overly excited.",
+   "ro": "Nu m-aș entuziasma prea tare."
+  },
+  {
+   "key": "1989787986256797696",
+   "en": "Lemme explain somethin' to you, V…",
+   "ro": "Lasă-mă să-ți explic ceva, V…"
+  },
+  {
+   "key": "1989790572682747904",
+   "en": "My whole life I've spent in this shit around us!",
+   "ro": "Toată viața am trăit în rahatul ăsta din jurul nostru!"
+  },
+  {
+   "key": "1989802901134712832",
+   "en": "<mothertongue l=\"mex\" m=\"Madres\" b=\"\" a=\", V... This is the most important day of my fuckin' life.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Madres\" b=\"\" a=\", V... Asta e cea mai importantă zi din nenorocita mea de viață.\"/>"
+  },
+  {
+   "key": "1989806945953718272",
+   "en": "Smooth as fuckin' sandpaper.",
+   "ro": "Neted ca dracu' hârtia abrazivă."
+  },
+  {
+   "key": "1991099230024704000",
+   "en": "Hm?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1991099567951388672",
+   "en": "Haven't gotten there – not yet.",
+   "ro": "N-am ajuns acolo – nu încă."
+  },
+  {
+   "key": "1991100967506747392",
+   "en": "See me as that shallow?",
+   "ro": "Mă vezi așa de superficial?"
+  },
+  {
+   "key": "1991101605309390848",
+   "en": "Acting as if we're on our way to some party.",
+   "ro": "De parcă ne-am duce la vreo petrecere."
+  },
+  {
+   "key": "1993618525283753984",
+   "en": "And I ain't goin' back!",
+   "ro": "Și nu mă mai întorc!"
+  },
+  {
+   "key": "1993620818309750784",
+   "en": "Dunno, Jack… kinda feels like you're losin' that steel grip o' yours.",
+   "ro": "Nu știu, Jack… parcă îți pierzi strânsoarea aia de oțel."
+  },
+  {
+   "key": "1993623250838298624",
+   "en": "Stay in touch.",
+   "ro": "Ține legătura."
+  },
+  {
+   "key": "2028618756357091332",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  }
+ ]
+}

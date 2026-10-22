@@ -1,0 +1,90 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_hanako.json",
+ "entries": [
+  {
+   "key": "1796583130403946500",
+   "en": "<kiroshi l=\"jpn\" o=\"あら、来たのね\" t=\"You're here.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あら、来たのね\" t=\"Ești aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796583130454278144",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1796583130588495876",
+   "en": "<kiroshi l=\"jpn\" o=\"はあ… まあいい、待ってあげる\" t=\"Ugh... All right, I'll wait.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はあ… まあいい、待ってあげる\" t=\"Ugh... Bine, aștept.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796583130622050308",
+   "en": "We will come back to this.",
+   "ro": "Revenim la asta."
+  },
+  {
+   "key": "1796583130705936388",
+   "en": "Ready? Then let us continue.",
+   "ro": "Gata? Atunci să continuăm."
+  },
+  {
+   "key": "1796583130739490820",
+   "en": "You put my patience to the test. Now, then...",
+   "ro": "Mi-ai pus răbdarea la încercare. Deci, hai să vedem..."
+  },
+  {
+   "key": "1796583130773045252",
+   "en": "Well, then?",
+   "ro": "Ei bine?"
+  },
+  {
+   "key": "1796583130806599680",
+   "en": "Ahem, is everything in order?",
+   "ro": "Ahem, totul e în ordine?"
+  },
+  {
+   "key": "1796583131058257924",
+   "en": "<kiroshi l=\"jpn\" o=\"気をつけなさい\" t=\"Watch it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"気をつけなさい\" t=\"Ai grijă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796583131091812356",
+   "en": "<kiroshi l=\"jpn\" o=\"何なの？\" t=\"What're you doing?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何なの？\" t=\"Ce faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1966137690123280388",
+   "en": "Are you there?",
+   "ro": "Ești acolo?"
+  },
+  {
+   "key": "1966137690156834820",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "2239011497546457088",
+   "en": "V? I am waiting.",
+   "ro": "V? Aștept."
+  },
+  {
+   "key": "2239012910238375940",
+   "en": "We should go. Now.",
+   "ro": "Ar trebui să plecăm. Acum."
+  },
+  {
+   "key": "2239013044305108992",
+   "en": "Ahem. We waste time. Come.",
+   "ro": "Ahem. Pierdem timpul. Vino."
+  },
+  {
+   "key": "2253835415808471040",
+   "en": "Come.",
+   "ro": "Vino."
+  },
+  {
+   "key": "2253835608494796800",
+   "en": "Follow me.",
+   "ro": "Urmează-mă."
+  }
+ ]
+}

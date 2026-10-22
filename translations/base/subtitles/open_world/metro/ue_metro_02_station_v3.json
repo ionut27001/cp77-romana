@@ -1,0 +1,70 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\metro\\ue_metro_02_station_v3.json",
+ "entries": [
+  {
+   "key": "4123227911790546956",
+   "en": "[Fast travel]",
+   "ro": "[Călătorie rapidă]"
+  },
+  {
+   "key": "4123227911790546972",
+   "en": "[Ride metro]",
+   "ro": "[Călătorește cu metroul]"
+  },
+  {
+   "key": "4123227911874433036",
+   "en": "[Red Line: Watson]",
+   "ro": "[Linia roșie: Watson]"
+  },
+  {
+   "key": "4123227911891210248",
+   "en": "[Red Line: Santo Domingo]",
+   "ro": "[Linia roșie: Santo Domingo]"
+  },
+  {
+   "key": "4123227911891210264",
+   "en": "[Yellow Line: Pacifica]",
+   "ro": "[Linia galbenă: Pacifica]"
+  },
+  {
+   "key": "4123227911891210280",
+   "en": "[Yellow Line: Santo Domingo]",
+   "ro": "[Linia galbenă: Santo Domingo]"
+  },
+  {
+   "key": "4123227911907987456",
+   "en": "[Blue Line: City Center]",
+   "ro": "[Linia albastră: City Center]"
+  },
+  {
+   "key": "4123227911907987472",
+   "en": "[Blue Line: Pacifica]",
+   "ro": "[Linia albastră: Pacifica]"
+  },
+  {
+   "key": "4123227911907987488",
+   "en": "[Green Line: Heywood]",
+   "ro": "[Linia verde: Heywood]"
+  },
+  {
+   "key": "4123227911907987504",
+   "en": "[Orange Line: Watson]",
+   "ro": "[Linia portocalie: Watson]"
+  },
+  {
+   "key": "4123227911924764680",
+   "en": "[Orange Line: Westbrook]",
+   "ro": "[Linia portocalie: Westbrook]"
+  },
+  {
+   "key": "4123227911924764696",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "4146440676051013632",
+   "en": "[Green Line: Japantown]",
+   "ro": "[Linia verde: Japantown]"
+  }
+ ]
+}

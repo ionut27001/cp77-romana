@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_apart_river_trailer_interactions.json",
+ "entries": [
+  {
+   "key": "2028697799592157188",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2028698177566056448",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2028699165173653504",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2028737051734482948",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "2078186557357858816",
+   "en": "[Leave shower]",
+   "ro": "[Ieși din duș]"
+  },
+  {
+   "key": "3115963861244993536",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3404142319597645824",
+   "en": "[Open Wardrobe]",
+   "ro": "[Deschide garderoba]"
+  }
+ ]
+}

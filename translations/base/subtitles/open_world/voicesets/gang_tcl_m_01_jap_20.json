@@ -1,0 +1,218 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_tcl_m_01_jap_20.json",
+ "entries": [
+  {
+   "key": "1876172694925877252",
+   "en": "Who sent you?",
+   "ro": "Cine te-a trimis?"
+  },
+  {
+   "key": "1876172695026540548",
+   "en": "Do I know you?",
+   "ro": "Te cunosc?"
+  },
+  {
+   "key": "1876172695110426628",
+   "en": "Goodbye.",
+   "ro": "La revedere."
+  },
+  {
+   "key": "1876172695194312708",
+   "en": "Get lost.",
+   "ro": "Cară-te."
+  },
+  {
+   "key": "1876172695244644356",
+   "en": "We don't play games around here, understand?",
+   "ro": "Aici nu ne jucăm, înțelegi?"
+  },
+  {
+   "key": "1876172695278198788",
+   "en": "Put that away.",
+   "ro": "Pune-o la loc."
+  },
+  {
+   "key": "1876172695328530436",
+   "en": "I'm talking to you!",
+   "ro": "Cu tine vorbesc!"
+  },
+  {
+   "key": "1876172695362084868",
+   "en": "Hello!",
+   "ro": "Salut!"
+  },
+  {
+   "key": "1876172695546634244",
+   "en": "Uh-huh.",
+   "ro": "Uh-huh."
+  },
+  {
+   "key": "1876172695580188676",
+   "en": "Now get out of here.",
+   "ro": "Acum ieși de aici."
+  },
+  {
+   "key": "1876172695664074756",
+   "en": "What the?",
+   "ro": "Ce naiba?"
+  },
+  {
+   "key": "1876172695697629188",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1876172695764738052",
+   "en": "All right, that's enough.",
+   "ro": "Bine, ajunge."
+  },
+  {
+   "key": "1876172695781515268",
+   "en": "Enough of this.",
+   "ro": "Destul cu asta."
+  },
+  {
+   "key": "1876172695848624132",
+   "en": "Where are you hiding?!",
+   "ro": "Unde te ascunzi?!"
+  },
+  {
+   "key": "1876172695865401348",
+   "en": "I smell a rat!",
+   "ro": "Miroase a trădare!"
+  },
+  {
+   "key": "1876172695898955780",
+   "en": "One of ours!",
+   "ro": "Unul de-al nostru!"
+  },
+  {
+   "key": "1876172695949287428",
+   "en": "Understood.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1876172695999619076",
+   "en": "<mothertongue l=\"jpn\" m=\"kuso-ama\" b=\"You little \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"jpn\" m=\"kuso-yarou\" b=\"You little \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"kuso-ama\" b=\"Micuțo \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"jpn\" m=\"kuso-yarou\" b=\"Micuț \" a=\"!\"/>"
+  },
+  {
+   "key": "1876172696033173504",
+   "en": "The cowardly bitch came at me!",
+   "en_m": "The cowardly bastard came at me!",
+   "ro": "Javra aia lașă s-a luat de mine!",
+   "ro_m": "Nenorocitul ăla laș s-a luat de mine!"
+  },
+  {
+   "key": "1876172696066727940",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1876172696117059588",
+   "en": "Banzaiiii, motherfucker!",
+   "ro": "Banzaiiii, futu-ți mama!"
+  },
+  {
+   "key": "1876172696133836804",
+   "en": "End her!",
+   "en_m": "End him!",
+   "ro": "Omoar-o!",
+   "ro_m": "Omoară-l!"
+  },
+  {
+   "key": "1876172696217722884",
+   "en": "Dammit, what's happening?",
+   "ro": "La naiba, ce se întâmplă?"
+  },
+  {
+   "key": "1876172696234500100",
+   "en": "<kiroshi l=\"jpn\" o=\"クソ！\" t=\"Fuck!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソ！\" t=\"Futu-i!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1876172696284831748",
+   "en": "Get lost!",
+   "ro": "Cară-te!"
+  },
+  {
+   "key": "1876172696318386180",
+   "en": "Get fucked!",
+   "ro": "Du-te-n pula mea!"
+  },
+  {
+   "key": "1876172696351940612",
+   "en": "Yeah?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1876172696419049476",
+   "en": "I know… Yes… We'll all go… Hmm… Just remember to bring it…",
+   "ro": "Știu… Da… Mergem toți… Hmm… Nu uita să aduci…"
+  },
+  {
+   "key": "1876172696435826692",
+   "en": "Who told you that…? He's fucking with you, don't listen to him…",
+   "ro": "Cine ți-a zis asta…? Te ia la mișto, pula mea, nu-l asculta…"
+  },
+  {
+   "key": "1876172696502935556",
+   "en": "On 'er flank!",
+   "en_m": "On 'is flank!",
+   "ro": "Pe flancul ei!",
+   "ro_m": "Pe flancul lui!"
+  },
+  {
+   "key": "1876172696553267204",
+   "en": "On my way!",
+   "ro": "Vin!"
+  },
+  {
+   "key": "1876172696603598848",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1876172696620376068",
+   "en": "Goodbye.",
+   "ro": "La revedere."
+  },
+  {
+   "key": "1876172696637153284",
+   "en": "Whuh…?",
+   "ro": "Ce…?"
+  },
+  {
+   "key": "1876172696704262148",
+   "en": "Shhh… you hear that?",
+   "ro": "Șșș… auzi?"
+  },
+  {
+   "key": "1876172696721039364",
+   "en": "Pssst… c'mon.",
+   "ro": "Pssst… hai."
+  },
+  {
+   "key": "1876172696771371012",
+   "en": "Go!",
+   "ro": "Du-te!"
+  },
+  {
+   "key": "1876172696804925444",
+   "en": "Give 'em hell!",
+   "ro": "Fă-i praf!"
+  },
+  {
+   "key": "1876172696838479876",
+   "en": "Argghh… You fuck… fuckin' kill you...",
+   "ro": "Argghh… Nenorocitule… te omor, pula mea..."
+  },
+  {
+   "key": "1876193574255075328",
+   "en": "No one said anything, I promise… No, don't worry about it…",
+   "ro": "Nimeni n-a zis nimic, promit… Nu, nu-ți face griji…"
+  }
+ ]
+}

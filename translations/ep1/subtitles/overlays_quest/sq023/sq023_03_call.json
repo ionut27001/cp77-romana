@@ -1,0 +1,448 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\overlays_quest\\sq023\\sq023_03_call.json",
+ "entries": [
+  {
+   "key": "1937457931769319428",
+   "en": "V, how ya doin', honey? Listen, got a golden opportunity for you.",
+   "ro": "V, ce mai faci, dragă? Ascultă, am o ocazie de aur pentru tine."
+  },
+  {
+   "key": "1937457931769319444",
+   "en": "Word on the street's that when Wako says golden, it's usually a turd wrapped in crepe paper.",
+   "ro": "Se aude pe stradă că, atunci când Wako zice «aur», de regulă e un căcat împachetat în hârtie creponată."
+  },
+  {
+   "key": "1937457931769319460",
+   "en": "It's a... sticky situation.",
+   "ro": "E o... treabă cam lipicioasă."
+  },
+  {
+   "key": "1937457931819651072",
+   "en": "He's been proven guilty?",
+   "ro": "Și l-au găsit vinovat?"
+  },
+  {
+   "key": "1937457931819651092",
+   "en": "Got too much on my plate right now.",
+   "ro": "Am prea multe pe cap acum."
+  },
+  {
+   "key": "1937457931819651112",
+   "en": "Murdering someone? I dunno...",
+   "ro": "Să omor pe cineva? Nu știu..."
+  },
+  {
+   "key": "1937457933379932164",
+   "en": "Sorry, got too much on my plate as it is.",
+   "ro": "Scuze, am prea multe pe cap deja."
+  },
+  {
+   "key": "1937457933379932184",
+   "en": "Of course. So you give me a call when you change your mind.",
+   "ro": "Sigur. Deci sună-mă când te răzgândești."
+  },
+  {
+   "key": "1937457933379932204",
+   "en": "Putting this one on hold for you. You're the only one I trust with it.",
+   "ro": "Țin asta pe loc pentru tine. Ești singura în care am încredere.",
+   "ro_m": "Țin asta pe loc pentru tine. Ești singurul în care am încredere."
+  },
+  {
+   "key": "1937457933413486592",
+   "en": "I'll take it.",
+   "ro": "O iau."
+  },
+  {
+   "key": "1937457933413486612",
+   "en": "Not right now.",
+   "ro": "Nu acum."
+  },
+  {
+   "key": "1937457934420119556",
+   "en": "The perp been proven guilty? Meanin', he deserves to die, truly?",
+   "ro": "Infractorul a fost găsit vinovat? Adică chiar merită să moară?"
+  },
+  {
+   "key": "1937457934420119572",
+   "en": "Do I look like a criminal prosecutor to you?",
+   "ro": "Arăt eu a procuror penal?"
+  },
+  {
+   "key": "1937457934436896768",
+   "en": "What'd he do, exactly?",
+   "en_m": "What did he do, exactly?",
+   "ro": "Ce-a făcut, exact?"
+  },
+  {
+   "key": "1937457934436896784",
+   "en": "I'm not a beat reporter, neither. You want the job or not?",
+   "ro": "Nici eu nu sunt reporter de teren. Vrei treaba sau nu?"
+  },
+  {
+   "key": "1937457934453673988",
+   "en": "All right, I'm in.",
+   "ro": "Bine, mă bag."
+  },
+  {
+   "key": "1937457934453674004",
+   "en": "Good. Client'll be waiting for you by a car at the corner of Sixth and Brandon.",
+   "ro": "Bine. Clientul te așteaptă lângă o mașină, la colțul de la Sixth cu Brandon."
+  },
+  {
+   "key": "1937457934453674020",
+   "en": "Huh, in a car?",
+   "ro": "Cum adică, într-o mașină?"
+  },
+  {
+   "key": "1937457934453674036",
+   "en": "Client wants to tag along, be there in person when you put a bullet through the guy's eye.",
+   "ro": "Clientul vrea să vină și el, să fie față când îi bagi un glonț în ochi tipului."
+  },
+  {
+   "key": "1937457934470451212",
+   "en": "Good luck!",
+   "ro": "Baftă!"
+  },
+  {
+   "key": "1937457934520782852",
+   "en": "Yeah, I'll do it.",
+   "ro": "Da, o fac."
+  },
+  {
+   "key": "1937457934520782868",
+   "en": "Good. Client'll be waiting for you by a car at the corner of Sixth and Brandon.",
+   "ro": "Bine. Clientul te așteaptă lângă o mașină, la colțul de la Sixth cu Brandon."
+  },
+  {
+   "key": "1937457934520782884",
+   "en": "Client wants to tag along, be there in person when you put a bullet through the guy's eye.",
+   "ro": "Clientul vrea să vină și el, să fie față când îi bagi un glonț în ochi tipului."
+  },
+  {
+   "key": "1937457934520782900",
+   "en": "Good luck!",
+   "ro": "Baftă!"
+  },
+  {
+   "key": "1937457934554337284",
+   "en": "Sticky? Wow, you're really sellin' this, Wako.",
+   "en_m": "Sticky? Heh, wow, you're really sellin' this, Wako.",
+   "ro": "Lipicios? Wow, chiar știi să vinzi, Wako.",
+   "ro_m": "Lipicios? Heh, wow, chiar știi să vinzi, Wako."
+  },
+  {
+   "key": "1937457934571114504",
+   "en": "Job's like any other. Just the client's, well, demanding.",
+   "ro": "Treaba e ca oricare alta. Doar că clientul e cam pretențios."
+  },
+  {
+   "key": "1937457934571114520",
+   "en": "Clients got every right to be demanding. What makes this one any different?",
+   "ro": "Clienții au tot dreptul să fie pretențioși. Ce face pe ăsta diferit?"
+  },
+  {
+   "key": "1937457934571114532",
+   "en": "Wants everything to go exactly as planned. Willing to break the bank for it, too.",
+   "ro": "Vrea totul fix cum a plănuit. Și e gata să scoată toți banii pe asta."
+  },
+  {
+   "key": "1937457934571114548",
+   "en": "Job like this needs your magic touch, V. Anyone less experienced'd just fuck it up.",
+   "ro": "O treabă ca asta cere mâna ta magică, V. Orice începător ar futut-o de-a binelea."
+  },
+  {
+   "key": "1937457934571114564",
+   "en": "Huh, thanks for the vote of confidence. Now I'm sure it's a turd in crepe paper.",
+   "ro": "Hm, mulțumesc pentru votul de încredere. Acum sunt sigură că e un căcat învelit în hârtie creponată.",
+   "ro_m": "Hm, mulțumesc pentru votul de încredere. Acum sunt sigur că e un căcat învelit în hârtie creponată."
+  },
+  {
+   "key": "1937457934621446144",
+   "en": "What's the job?",
+   "ro": "Care e treaba?"
+  },
+  {
+   "key": "1937457934621446160",
+   "en": "Sticky? Sounds like something I could regret.",
+   "ro": "Lipicios? Sună a ceva ce-aș putea regreta."
+  },
+  {
+   "key": "1937457935644856324",
+   "en": "So, what's the spec?",
+   "en_m": "So what's the spec?",
+   "ro": "Deci, care-s detaliile?"
+  },
+  {
+   "key": "1937457935644856340",
+   "en": "Caroline Jablonsky – set off any buzzers for you? Murdered in cold blood. Made waves a few years back.",
+   "ro": "Caroline Jablonsky – ți-e cunoscută? Ucisă cu sânge rece. A făcut vâlvă acum câțiva ani."
+  },
+  {
+   "key": "1937457935644856356",
+   "en": "They locked the guy up... but now there's a chance he could walk.",
+   "ro": "L-au băgat la zdup... dar acum are șanse să scape."
+  },
+  {
+   "key": "1937457935644856372",
+   "en": "Jablonsky's family wants to balance the scales of justice, for good. You'll finish him.",
+   "ro": "Familia Jablonsky vrea să-și facă dreptatea, odată pentru totdeauna. Tu îl termini."
+  },
+  {
+   "key": "1937457935678410756",
+   "en": "So, whaddaya say? Gonna do the hit or not?",
+   "ro": "Deci, ce zici? Te bagi sau nu?"
+  },
+  {
+   "key": "1937457935711965184",
+   "en": "I'll do it.",
+   "ro": "O s-o fac."
+  },
+  {
+   "key": "1937457935711965200",
+   "en": "Don't have time.",
+   "ro": "N-am timp."
+  },
+  {
+   "key": "1937457936735375364",
+   "en": "Don't got the time, still.",
+   "ro": "Încă n-am timp."
+  },
+  {
+   "key": "1937457936752152584",
+   "en": "All right. Be holding it just for you, then. Lemme know.",
+   "ro": "Bine. Atunci o țin pe loc doar pentru tine. Zi-mi."
+  },
+  {
+   "key": "1937457936768929796",
+   "en": "So you want me to murder someone?",
+   "ro": "Deci vrei să omor pe cineva?"
+  },
+  {
+   "key": "1937457936768929808",
+   "en": "Wait, this isn't the Dalai Lama? Must've gotten the wrong number!",
+   "ro": "Stai, nu e Dalai Lama? Trebuie că am greșit numărul!"
+  },
+  {
+   "key": "1937457936768929820",
+   "en": "You didn't arrive in this pond yesterday, V. You know how the fish gets sliced.",
+   "ro": "Nu ești de ieri, V. Știi cum ajung peștii ăștia, feliați."
+  },
+  {
+   "key": "1938948459031662592",
+   "en": "Job with Jablonsky – it's done. Stephenson's in a better place now.",
+   "ro": "Treaba cu Jablonsky – e gata. Stephenson e într-un loc mai bun acum."
+  },
+  {
+   "key": "1938952344366452736",
+   "en": "And? Think anything of it?",
+   "ro": "Și? Te frământă ceva?"
+  },
+  {
+   "key": "1938952504353984512",
+   "en": "Professionals don't sit around and think – they do.",
+   "ro": "Profesioniștii nu stau pe gânduri, fac."
+  },
+  {
+   "key": "1938952623287668736",
+   "en": "Well said, V. Eddies are on their way.",
+   "ro": "Bine zis, V. Eddies-urile sunt pe drum."
+  },
+  {
+   "key": "1944739297770835972",
+   "en": "Hey, it's Rachel?",
+   "ro": "Hei, e Rachel?"
+  },
+  {
+   "key": "1944739297770835988",
+   "en": "The, uh, \"Passion\" project? BD?",
+   "ro": "Proiectul ăla, ăă, „Passion”? BD?"
+  },
+  {
+   "key": "1944739297770836000",
+   "en": "Oh yeah. What's up?",
+   "ro": "A, da. Ce-i?"
+  },
+  {
+   "key": "1944739297770836016",
+   "en": "We've got a crisis on our hands. Could reeaaally use your help.",
+   "ro": "Avem o criză pe cap. Chiar ne-ar prinde bine o mână de ajutor."
+  },
+  {
+   "key": "1944739297770836032",
+   "en": "Stephenson's had a breakdown. Nothing any shrink can do about it.",
+   "ro": "Stephenson a făcut o criză de nervi. Niciun psihiatru nu-l poate ajuta."
+  },
+  {
+   "key": "1944739297770836044",
+   "en": "Can you come here, to the studio? Just to... talk to him?",
+   "ro": "Poți veni aici, la studio? Doar să... vorbești cu el?"
+  },
+  {
+   "key": "1944739297804390400",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1944739297804390416",
+   "en": "No thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1944739297821167620",
+   "en": "Fine, sure. On my way.",
+   "ro": "Bine, sigur. Sunt pe drum."
+  },
+  {
+   "key": "1944739297821167636",
+   "en": "She said she'll come.",
+   "en_m": "He said he'll come.",
+   "ro": "Ea a zis că vine.",
+   "ro_m": "El a zis că vine."
+  },
+  {
+   "key": "1944739297821167656",
+   "en": "Huh, thanks, V.",
+   "ro": "Hm, mulțumesc, V."
+  },
+  {
+   "key": "1944739297854722052",
+   "en": "Sorry, can't. Tied up with other stuff.",
+   "ro": "Scuze, nu pot. Sunt prinsă cu alte treburi.",
+   "ro_m": "Scuze, nu pot. Sunt prins cu alte treburi."
+  },
+  {
+   "key": "1944739297854722068",
+   "en": "I need you here, V. With me. Please.",
+   "ro": "Am nevoie de tine aici, V. Vino, te rog."
+  },
+  {
+   "key": "1944739297854722084",
+   "en": "Don't worry, you'll be paid extra for your time.",
+   "ro": "Nu-ți face griji, o să fii plătită în plus pentru timpul tău.",
+   "ro_m": "Nu-ți face griji, o să fii plătit în plus pentru timpul tău."
+  },
+  {
+   "key": "1944739297888276480",
+   "en": "Fine, be there soon.",
+   "ro": "Bine, ajung curând."
+  },
+  {
+   "key": "1944739297888276496",
+   "en": "You're on your own.",
+   "ro": "Ești de capul tău."
+  },
+  {
+   "key": "1944739297921830916",
+   "en": "Sorry. You guys're on your own.",
+   "ro": "Sunteți de capul vostru."
+  },
+  {
+   "key": "1944777926572478468",
+   "en": "Hey!",
+   "ro": "Hei!"
+  },
+  {
+   "key": "1944777926572478480",
+   "en": "Seen the opening numbers? Stephenson's a hit!",
+   "ro": "Ai văzut cifrele de la lansare? Stephenson e un hit!"
+  },
+  {
+   "key": "1944777926622810116",
+   "en": "You stupid fucking cunt! You happy?!",
+   "en_m": "You stupid fucking gonk! You happy?!",
+   "ro": "Pizdă nenorocită ce ești! Ești fericită?!",
+   "ro_m": "Fraier nenorocit ce ești! Ești fericit?!"
+  },
+  {
+   "key": "1944777926622810132",
+   "en": "What's your problem?",
+   "ro": "Ce-i cu tine?"
+  },
+  {
+   "key": "1944777926622810144",
+   "en": "YOU! You fucked everything up sideways!",
+   "ro": "TU! Ai futut totul pe dos!"
+  },
+  {
+   "key": "1944777926622810156",
+   "en": "He doubted! Hesitated! We didn't get that... that damn \"oomph\"!",
+   "ro": "A ezitat! A stat pe gânduri! N-am prins ăla... ăla nenorocit de „oomph”!"
+  },
+  {
+   "key": "1944777926656364544",
+   "en": "Congrats.",
+   "ro": "Bravo."
+  },
+  {
+   "key": "1944777926656364560",
+   "en": "Shouldn't have released it.",
+   "ro": "N-ar fi trebuit să-l lansezi."
+  },
+  {
+   "key": "1944777926689918976",
+   "en": "Sorry.",
+   "ro": "Scuze."
+  },
+  {
+   "key": "1944777926689918992",
+   "en": "Couldn't care less.",
+   "ro": "Nu-mi pasă deloc."
+  },
+  {
+   "key": "1944777926723473412",
+   "en": "Congrats, I guess.",
+   "ro": "Bravo, cred."
+  },
+  {
+   "key": "1944777926740250632",
+   "en": "You, you were great!",
+   "ro": "Tu, tu ai fost grozavă!",
+   "ro_m": "Tu, tu ai fost grozav!"
+  },
+  {
+   "key": "1944777926757027844",
+   "en": "That BD? Shouldn't've released it, really.",
+   "ro": "BD-ul ăla? N-ar fi trebuit să-l lansez, serios."
+  },
+  {
+   "key": "1944777926790582276",
+   "en": "Sorry, I guess?",
+   "ro": "Scuze, zic și eu."
+  },
+  {
+   "key": "1944777926824136708",
+   "en": "Couldn't give the slimmest shit.",
+   "ro": "Nu-mi pasă nici cât de un căcat de pisică."
+  },
+  {
+   "key": "1944777926824136720",
+   "en": "Why?! Why'd I even let you talk to him?!",
+   "ro": "Ce naiba, de ce te-am lăsat să vorbești cu el?!"
+  },
+  {
+   "key": "1944777926840913920",
+   "en": "You softened him up!",
+   "ro": "L-ai muiat!"
+  },
+  {
+   "key": "1944777926857691140",
+   "en": "Forget all that shit I said to you. Eddies'll hit your pocket soon.",
+   "ro": "Uită de tot ce ți-am zis. Eddies-urile o să-ți intre în buzunar în curând."
+  },
+  {
+   "key": "1944777926857691152",
+   "en": "And should I mention there'll be a bonus? Enjooooy!",
+   "ro": "Și să zic că e și un bonus? Bucură-teee!"
+  },
+  {
+   "key": "1944777926891245572",
+   "en": "I'll burn you to the fucking ground!",
+   "ro": "Te ard până-n pământ, pula mea!"
+  },
+  {
+   "key": "1944777926891245588",
+   "en": "Good luck ever finding another job!",
+   "ro": "Baftă să mai găsești alt job!"
+  }
+ ]
+}

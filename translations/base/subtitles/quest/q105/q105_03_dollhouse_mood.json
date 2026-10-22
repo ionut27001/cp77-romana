@@ -1,0 +1,471 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_03_dollhouse_mood.json",
+ "entries": [
+  {
+   "key": "1525796529043914752",
+   "en": "Have you ever heard of Jotaro Shobo? He's one of the T-Claws.",
+   "ro": "Ai auzit vreodată de Jotaro Shobo? E unul dintre T-Gheare."
+  },
+  {
+   "key": "1525798238457675776",
+   "en": "What's got you all glum?",
+   "ro": "Ce-ai, de ești atât de posac?"
+  },
+  {
+   "key": "1525798419282509824",
+   "en": "You hear about Riko Jinsey?",
+   "ro": "Ai auzit de Riko Jinsey?"
+  },
+  {
+   "key": "1615741462198075392",
+   "en": "Second floor is for VIP customers only.",
+   "ro": "Etajul doi e doar pentru clienți VIP."
+  },
+  {
+   "key": "1615760056671780864",
+   "en": "As establishments fucked sideways go, this one takes the whole damn pie.",
+   "ro": "Dintre localurile date peste cap, ăsta le bate pe toate, fir-ar să fie."
+  },
+  {
+   "key": "1618563197527875584",
+   "en": "Hear that?",
+   "ro": "Auzi?"
+  },
+  {
+   "key": "1619761064661704704",
+   "en": "Yeah, I've heard. A fuckin' psycho. Likes to hurt people.",
+   "ro": "Da, am auzit. Un psihopat nenorocit, îi place să facă oamenii varză."
+  },
+  {
+   "key": "1619761422570053632",
+   "en": "Not anymore. Apparently he died.",
+   "ro": "Nu mai. Se pare că a murit."
+  },
+  {
+   "key": "1619761624483848192",
+   "en": "Hmph. He finally pop a bullet in his brain after seein' himself in the mirror?",
+   "ro": "Hm. În sfârșit și-a tras un glonț în cap, după ce s-a văzut în oglindă?"
+  },
+  {
+   "key": "1619762211417972736",
+   "en": "If only... No, I heard the Mox had him on their blacklist.",
+   "ro": "Ar fi fost bine... Nu, am auzit că gașca Mox l-a pus pe lista neagră."
+  },
+  {
+   "key": "1619769007851397120",
+   "en": "Some girls marked him for death.",
+   "ro": "Niște fete i-au pus cruce."
+  },
+  {
+   "key": "1619773420812853248",
+   "en": "Have you ever heard of Jotaro Shobo? He's one of the T-Claws.",
+   "ro": "Ai auzit vreodată de Jotaro Shobo? E unul dintre T-Gheare."
+  },
+  {
+   "key": "1619773420829630468",
+   "en": "Yeah, I've heard. A fuckin' psycho. Likes to hurt people.",
+   "ro": "Da, am auzit. Un psihopat nenorocit, îi place să facă oamenii varză."
+  },
+  {
+   "key": "1619773420829630480",
+   "en": "The Mox have him on their blacklist. Some girls marked him for death.",
+   "ro": "Gașca Mox îl are pe lista neagră. Niște fete i-au pus cruce."
+  },
+  {
+   "key": "1619773420829630492",
+   "en": "Well that's all pudding, honey, but so what? Assholes like Shobo've been on MY blacklist before I heard of 'em.",
+   "ro": "Ei, toate-s vorbe, scumpo, dar și ce? Jigodii ca Shobo erau pe lista mea neagră înainte să aud eu de ei."
+  },
+  {
+   "key": "1619773420829630504",
+   "en": "The Mox blacklist is more powerful. It actually means something.",
+   "ro": "Lista Mox e mai serioasă. Chiar înseamnă ceva."
+  },
+  {
+   "key": "1619773420829630516",
+   "en": "I'll believe it when I see his rotting, stinking corpse.",
+   "ro": "O să cred abia când îi văd cadavrul putrezit și împuțit."
+  },
+  {
+   "key": "1619773420846407688",
+   "en": "Amen to that.",
+   "ro": "Amin."
+  },
+  {
+   "key": "1619791651959169024",
+   "en": "I saw Mr. J today.",
+   "ro": "L-am văzut azi pe domnul J."
+  },
+  {
+   "key": "1619794879710978048",
+   "en": "Thought you liked him. Thought he was your beau.",
+   "ro": "Credeam că-ți place. Credeam că e iubitul tău."
+  },
+  {
+   "key": "1619795065954852864",
+   "en": "He is... but he didn't come to see me.",
+   "ro": "E... dar n-a venit să mă vadă."
+  },
+  {
+   "key": "1624482211630374912",
+   "en": "No. Is she related to that politician-or-whatever, that Natsuko?",
+   "ro": "Nu. E rudă cu aia, politicianca sau ce-o fi, Natsuko?"
+  },
+  {
+   "key": "1624482850473205760",
+   "en": "Mh. Riko was her daughter. Found her dead.",
+   "ro": "Mh. Riko era fiica ei. A fost găsită moartă."
+  },
+  {
+   "key": "1624483012121681920",
+   "en": "Oooh. What happened?",
+   "ro": "Oooh. Ce s-a întâmplat?"
+  },
+  {
+   "key": "1624483721680478208",
+   "en": "Yoshi Wakinoto happened, that's what. Murdered her.",
+   "ro": "Yoshi Wakinoto, ce să mai, a omorât-o."
+  },
+  {
+   "key": "1624484620201058304",
+   "en": "And he would be...?",
+   "ro": "Și el cine e?"
+  },
+  {
+   "key": "1624484730444144640",
+   "en": "Her input. You spend ANY time in realspace?",
+   "ro": "Inputul ei. Petreci vreun timp în realspace?"
+  },
+  {
+   "key": "1624484994685296640",
+   "en": "A T-Claw. Saw 'em here once, came in together. Chrome like that I've never seen, on anyone.",
+   "ro": "Un T-Gheară. I-am văzut aici odată, au intrat împreună. Chrome ca ăla n-am mai văzut la nimeni."
+  },
+  {
+   "key": "1624489523745087488",
+   "en": "Could tell by the way he looked at her, he was butter in her hands…",
+   "ro": "Se vedea din felul cum se uita la ea, era moale ca untul în mâinile ei…"
+  },
+  {
+   "key": "1624490413692510208",
+   "en": "So why did he kill her?",
+   "ro": "Atunci de ce a ucis-o?"
+  },
+  {
+   "key": "1624490751468199936",
+   "en": "The one question I don't have an answer for…",
+   "ro": "Singura întrebare la care n-am răspuns…"
+  },
+  {
+   "key": "1670509826916704256",
+   "en": "Told you, that's how it is with this crowd. You can't get too close. Trust me – the more you treat 'em like shit, the more they'll come back.",
+   "ro": "Ți-am zis, așa-s ăștia. Nu te poți apropia prea mult. Crede-mă, cu cât îi tratezi mai ca pe gunoi, cu atât se întorc mai des."
+  },
+  {
+   "key": "1670727862223618048",
+   "en": "What will you have?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1670728825235816452",
+   "en": "Got a house special?",
+   "ro": "Aveți specialitatea casei?"
+  },
+  {
+   "key": "1670731118630912000",
+   "en": "Got a house special, I'll take it.",
+   "ro": "Aveți specialitatea casei, o iau."
+  },
+  {
+   "key": "1670742664106983424",
+   "en": "You really think they remember nothing?",
+   "ro": "Chiar crezi că nu-și amintesc nimic?"
+  },
+  {
+   "key": "1670761803018125312",
+   "en": "Anything. Whatever stands to fuck me up the quickest.",
+   "ro": "Orice. Orice m-ar face praf mai repede, pula mea."
+  },
+  {
+   "key": "1670816995562471424",
+   "en": "What do you mean, exactly?",
+   "ro": "Ce vrei să spui, exact?"
+  },
+  {
+   "key": "1692444040515772416",
+   "en": "Hard day?",
+   "ro": "Zi grea?"
+  },
+  {
+   "key": "1692444271840026624",
+   "en": "More like hard life.",
+   "ro": "Mai degrabă o viață grea."
+  },
+  {
+   "key": "1692466260461969408",
+   "en": "That's the whole point. They're not supposed to remember, not a smidge.",
+   "ro": "Asta e ideea. Nu ar trebui să-și amintească nimic, nici cât negru sub unghie."
+  },
+  {
+   "key": "1692469135070158848",
+   "en": "So why, every time, do they restart the conversation where we left off? That's not remembering?",
+   "ro": "Atunci de ce, de fiecare dată, reiau conversația de unde am rămas? Asta nu e amintire?"
+  },
+  {
+   "key": "1692470261123342336",
+   "en": "It's saved to the doll-chips that store their personas.",
+   "ro": "E salvat pe cipurile-păpușă care le țin personalitățile."
+  },
+  {
+   "key": "1692475894610485248",
+   "en": "Hold on, reel back a sec... You talk to them? Like, talk-talk?",
+   "ro": "Stai puțin, derulează înapoi o sec... Vorbești cu ele? Adică vorbești-vorbești?"
+  },
+  {
+   "key": "1692514796008333312",
+   "en": "Top-shelf. Lookin' to put the edge on, not take it off.",
+   "ro": "De primă mână. Vreau să ies mai ascuțit, nu mai tocit."
+  },
+  {
+   "key": "1692518474798817280",
+   "en": "It depends what you like.",
+   "ro": "Depinde ce-ți place."
+  },
+  {
+   "key": "1692594269076545536",
+   "en": "Go with your gut. Surprise me.",
+   "ro": "Du-te pe instinct. Surprinde-mă."
+  },
+  {
+   "key": "1703935664427278336",
+   "en": "I can't get in? What's that mean? I'm here every motherfuckin' week!",
+   "ro": "Nu pot intra? Ce înseamnă asta? Sunt aici în fiecare nenorocită de săptămână!"
+  },
+  {
+   "key": "1703936865726275584",
+   "en": "You're not authorized to access the VIP area.",
+   "ro": "Nu aveți voie în zona VIP."
+  },
+  {
+   "key": "1703937217812930560",
+   "en": "You can take it up with the manager.",
+   "ro": "Vorbiți cu managerul."
+  },
+  {
+   "key": "1703939237168979968",
+   "en": "Oh yes, I am.",
+   "ro": "Ba da, sunt."
+  },
+  {
+   "key": "1703942849387470848",
+   "en": "Is there a problem?",
+   "ro": "E vreo problemă?"
+  },
+  {
+   "key": "1703944390626418688",
+   "en": "Ugh. No shortage of wise-asses.",
+   "ro": "Ugh. De deștepți nu ducem lipsă."
+  },
+  {
+   "key": "1703953276863422464",
+   "en": "This gonk don't understand that I've got a right to be in there.",
+   "ro": "Fraierul ăsta nu înțelege că am dreptul să fiu acolo."
+  },
+  {
+   "key": "1703955167420784640",
+   "en": "From what I can see, your VIP membership has been revoked.",
+   "ro": "Din câte văd, ți-a fost retras statutul de VIP."
+  },
+  {
+   "key": "1703955504139509760",
+   "en": "Please stay calm, sir. Or we're gonna have to escort you outside.",
+   "ro": "Vă rog să rămâneți calm, domnule. Altfel o să vă scoatem afară."
+  },
+  {
+   "key": "1703966559704096768",
+   "en": "I'll say. You going back upstairs?",
+   "ro": "Așa zic și eu. Te întorci sus?"
+  },
+  {
+   "key": "1703971128207122432",
+   "en": "In a minute. Need to piss, first.",
+   "ro": "Într-un minut. Mai întâi trebuie să mă duc la pișat."
+  },
+  {
+   "key": "1704102763518926848",
+   "en": "Hold it there, honey. You seem to be in the wrong place.",
+   "ro": "Stai, scumpo. Parcă ai nimerit-o greșit.",
+   "ro_m": "Stai, scumpule. Parcă ai nimerit-o greșit."
+  },
+  {
+   "key": "1704104249678274560",
+   "en": "Hey, did you not hear? You need to leave.",
+   "ro": "Hei, n-ai auzit? Dispari de aici."
+  },
+  {
+   "key": "1704114116660994048",
+   "en": "Hey, no peeking! Bad luck, seein' us like this.",
+   "ro": "Hei, nu te uita! Aduce ghinion să ne vezi așa."
+  },
+  {
+   "key": "1704151411908845568",
+   "en": "The fuck am I lookin' at?",
+   "ro": "Ce căcat mă uit?"
+  },
+  {
+   "key": "1704153018495049728",
+   "en": "Is this some kind of joke?",
+   "ro": "E vreo glumă?"
+  },
+  {
+   "key": "1704159353924132864",
+   "en": "Not bad. But it would be much better real. I would eat those thighs.",
+   "ro": "Nu-i rău. Dar ar fi mult mai bine de-adevărat. I-aș mânca coapsele alea."
+  },
+  {
+   "key": "1704159794376384512",
+   "en": "At least I would hear no laments about pain. It hurts, it hurts.",
+   "ro": "Cel puțin n-aș mai auzi văicărelile alea despre durere. Doare, doare."
+  },
+  {
+   "key": "1704163399414226944",
+   "en": "What's going on?",
+   "ro": "Ce se întâmplă?"
+  },
+  {
+   "key": "1704165723897503744",
+   "en": "What do you mean, real? She's all ones and zeroes.",
+   "ro": "Cum adică, de-adevărat? E doar biți și zerouri."
+  },
+  {
+   "key": "1704167130516070400",
+   "en": "Do you mean I can ask her to do anything? Literally anything?",
+   "ro": "Adică pot să-i cer orice? Orice, chiar orice?"
+  },
+  {
+   "key": "1704168427747188736",
+   "en": "It's a ho-lo-gram. What's so hard to get?",
+   "ro": "E un ho-lo-gram. Ce-i așa greu de înțeles?"
+  },
+  {
+   "key": "1704169342189346816",
+   "en": "Your fuckin' holo's fuckin' with us!",
+   "ro": "Holo-ul tău nenorocit ne ia la mișto!"
+  },
+  {
+   "key": "1704169924056752128",
+   "en": "Is that so? The hologram...?",
+   "ro": "Chiar așa? Holograma...?"
+  },
+  {
+   "key": "1704170093959618560",
+   "en": "This is unacceptable.",
+   "ro": "Nu-i acceptabil."
+  },
+  {
+   "key": "1704170434788761600",
+   "en": "Please, sir, calm down.",
+   "ro": "Vă rog, domnule, calmați-vă."
+  },
+  {
+   "key": "1704170691530498048",
+   "en": "Yeah, just stand there. That will fix it.",
+   "ro": "Da, stai acolo. Asta o să rezolve."
+  },
+  {
+   "key": "1712852739163512832",
+   "en": "Would've had more choices if I didn't have a certain brain parasite.",
+   "ro": "Aveam mai multe opțiuni dacă nu mă chinuia parazitul ăla din creier."
+  },
+  {
+   "key": "1712942415429853184",
+   "en": "Guess that makes you a real deviant.",
+   "ro": "Deci ești un deviant de-a binelea."
+  },
+  {
+   "key": "1714001857326522368",
+   "en": "May I see your credentials?",
+   "ro": "Pot să văd acreditările?"
+  },
+  {
+   "key": "1742911230804975616",
+   "en": "I'm calling security.",
+   "ro": "Chem securitatea."
+  },
+  {
+   "key": "1742915178282573824",
+   "en": "No, sir, you're not.",
+   "ro": "Nu, domnule, nu chemi."
+  },
+  {
+   "key": "1742918635144044544",
+   "en": "No, dawg, I'm takin' it up with you, here, now. You got any idea who I am?",
+   "ro": "Nu, frate, cu tine mă iau aici și acum. Ai habar cine sunt?"
+  },
+  {
+   "key": "1742939898403053568",
+   "en": "Say what, now?",
+   "ro": "Ce-ai zis?"
+  },
+  {
+   "key": "1743139042447024128",
+   "en": "Ask? It's not about askin', man. Just gotta be programmed.",
+   "ro": "Să ceară? Nu se cere, frate. Doar s-o programezi."
+  },
+  {
+   "key": "1743199771858526208",
+   "en": "Let me have my fantasies!",
+   "ro": "Lasă-mă cu fanteziile mele!"
+  },
+  {
+   "key": "1743202766943903744",
+   "en": "Not like you know how to hack it, so why don't we just shut up and enjoy the show?",
+   "ro": "Nu că ai ști tu să-l hack-uiești, așa că hai să tăcem și să ne uităm la spectacol."
+  },
+  {
+   "key": "1743261804440281088",
+   "en": "That's what I said.",
+   "ro": "Asta am zis."
+  },
+  {
+   "key": "1743292978504097792",
+   "en": "Things always this quiet?",
+   "ro": "E mereu atât de liniște?"
+  },
+  {
+   "key": "1743298176102391808",
+   "en": "This place always this dead? Thought I heard a tumbleweed roll by.",
+   "ro": "Locul ăsta e mereu mort? Credeam că aud o tufă de spin rulând."
+  },
+  {
+   "key": "1743300835660226560",
+   "en": "Dead for you. Lively for others. For me, just right.",
+   "ro": "Plictisitor pentru tine. Viu pentru alții. Pentru mine, perfect."
+  },
+  {
+   "key": "1743301325538156544",
+   "en": "What can I get you?",
+   "ro": "Ce-ți aduc?"
+  },
+  {
+   "key": "1743307625701531648",
+   "en": "I'll have another of the same.",
+   "ro": "Mai iau unul la fel."
+  },
+  {
+   "key": "1743308214917357568",
+   "en": "Another of the same.",
+   "ro": "Încă unul la fel."
+  },
+  {
+   "key": "1785301282696708096",
+   "en": "Get outta here!",
+   "ro": "Cară-te!"
+  },
+  {
+   "key": "1947120221179031556",
+   "en": "'Cause of you.",
+   "ro": "Din cauza ta."
+  }
+ ]
+}

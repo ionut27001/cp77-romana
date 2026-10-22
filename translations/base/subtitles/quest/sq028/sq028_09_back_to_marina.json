@@ -1,0 +1,42 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq028\\sq028_09_back_to_marina.json",
+ "entries": [
+  {
+   "key": "1742944464745426944",
+   "en": "Eh, see ya, I guess.",
+   "ro": "Ei, ne vedem, zic."
+  },
+  {
+   "key": "1742945444031524864",
+   "en": "Take care of yourself.",
+   "ro": "Ai grijă de tine."
+  },
+  {
+   "key": "1742945918608633856",
+   "en": "Take care of yourself... Ker.",
+   "ro": "Ai grijă de tine... Ker."
+  },
+  {
+   "key": "1837119685870088192",
+   "en": "See ya soon?",
+   "ro": "Ne vedem curând?"
+  },
+  {
+   "key": "1837120317079285760",
+   "en": "You too. Good luck 'n' all.",
+   "ro": "Și tu. Noroc, pe bune."
+  },
+  {
+   "key": "1837120889769553920",
+   "en": "See ya soon, maybe?",
+   "en_m": "Uh, see ya soon, maybe?",
+   "ro": "Ne vedem curând, poate?",
+   "ro_m": "Ăă, ne vedem curând, poate?"
+  },
+  {
+   "key": "1837122539758415872",
+   "en": "Sure. Maybe. We'll see how it goes, kid.",
+   "ro": "Sigur. Poate. Vedem cum merge, puștiule."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\sandbox_activities\\courier_sandbox_activity_chicken_test.json",
+ "entries": [
+  {
+   "key": "3302637413748334592",
+   "en": "[db_db]Test Main Loop (use only on fresh build)",
+   "ro": "[db_db]Testează bucla principală (folosește doar pe build nou)"
+  },
+  {
+   "key": "3359450782886944768",
+   "en": "[db_db]Test introduction scene (DNU)",
+   "ro": "[db_db]Testează scena de introducere (DNU)"
+  },
+  {
+   "key": "3364921698857148416",
+   "en": "[db_db]Test intro loop (DNU)",
+   "ro": "[db_db]Testează bucla de intro (DNU)"
+  },
+  {
+   "key": "3386695001019932672",
+   "en": "[db_db]Test outro gameplay (DNU)",
+   "ro": "[db_db]Testează gameplay-ul de outro (DNU)"
+  }
+ ]
+}

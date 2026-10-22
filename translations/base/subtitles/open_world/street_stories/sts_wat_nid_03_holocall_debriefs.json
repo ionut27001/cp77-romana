@@ -1,0 +1,27 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_03_holocall_debriefs.json",
+ "entries": [
+  {
+   "key": "2328461726368391168",
+   "en": "Ya messed up, V. Meaning Hwangbo took a hit, and so did my rep.",
+   "ro": "Ai dat-o în bară, V. Adică Hwangbo a luat o lovitură, și reputația mea la fel."
+  },
+  {
+   "key": "2328472824983314436",
+   "en": "Flawless work, V. Hwangbo thinks your nickname should be the \"Mad Lioness\" so I guess he's happy.",
+   "en_m": "Flawless work, V. Hwangbo thinks your nickname should be the \"Furious Lion\" so I guess he's happy.",
+   "ro": "Lucru impecabil, V. Hwangbo crede că porecla ta ar trebui să fie „Leoaica nebună”, deci cred că e mulțumit.",
+   "ro_m": "Lucru impecabil, V. Hwangbo crede că porecla ta ar trebui să fie „Leul furios”, deci cred că e mulțumit."
+  },
+  {
+   "key": "2339566199225290752",
+   "en": "Not cool. Make sure it doesn't happen again. Closing the contract.",
+   "ro": "Nu-i mișto. Asigură-te că nu se mai întâmplă. Închid contractul."
+  },
+  {
+   "key": "2339569079537733632",
+   "en": "Closing the gig, sending you the cred.",
+   "ro": "Închid gig-ul, îți trimit reputația."
+  }
+ ]
+}

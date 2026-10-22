@@ -1,0 +1,46 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_arr_clothingshop_01.json",
+ "entries": [
+  {
+   "key": "1783754628636889088",
+   "en": "What're you selling?",
+   "ro": "Ce vinzi?"
+  },
+  {
+   "key": "1783754628653666308",
+   "en": "You peddling, or begging?",
+   "ro": "Vinzi, sau cerșești?"
+  },
+  {
+   "key": "1783754628670443524",
+   "en": "What're you sellin'?",
+   "ro": "Ce vinzi?"
+  },
+  {
+   "key": "1783754628670443532",
+   "en": "Anything you can see.",
+   "ro": "Orice vezi."
+  },
+  {
+   "key": "1783754628703997956",
+   "en": "You sellin' threads or collecting 'em? Hard to tell at a glance.",
+   "en_m": "You selling threads or collecting 'em? It's hard to tell at a glance.",
+   "ro": "Vinzi haine sau le colecționezi? Greu de spus dintr-o privire."
+  },
+  {
+   "key": "1783754628703997964",
+   "en": "You beg on the street, they tell you to get a job, you get a job, they make fun o' you. Make up your damn minds, people!",
+   "ro": "Cerșești pe stradă, îți zic să-ți găsești o slujbă, îți găsești o slujbă și își bat joc de tine. Hotărâți-vă odată, fir-ar!"
+  },
+  {
+   "key": "3775245001835802624",
+   "en": "I'd like to change my clothes.",
+   "ro": "Aș vrea să-mi schimb hainele."
+  },
+  {
+   "key": "3836297774832152644",
+   "en": "I'd like to use your services.",
+   "ro": "Aș vrea să folosesc serviciile tale."
+  }
+ ]
+}

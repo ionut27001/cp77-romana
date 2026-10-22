@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_017.json",
+ "entries": [
+  {
+   "key": "2161819760690753536",
+   "en": "<kiroshi l=\"rus\" o=\"«Милитех» и «Арасака» скупают сырьё. Скоро будет жарко.\" t=\"Militech and Arasaka are stockpiling. Could heat up soon.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"«Милитех» и «Арасака» скупают сырьё. Скоро будет жарко.\" t=\"Militech și Arasaka acumulează stocuri. S-ar putea să se încingă în curând.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221445345011142656",
+   "en": "<kiroshi l=\"rus\" o=\"Значит, война.\" t=\"So war.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Значит, война.\" t=\"Deci război.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221446370954678272",
+   "en": "<kiroshi l=\"rus\" o=\"Или ещё какая-то корпоратская членомерка.\" t=\"Or some other corporate pissing contest.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Или ещё какая-то корпоратская членомерка.\" t=\"Sau vreo altă competiție corporatistă de pula mea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221446567180996608",
+   "en": "<kiroshi l=\"rus\" o=\"Всё равно рынки могут отреагировать непредсказуемо.\" t=\"Either way, the markets'll be a roller-coaster.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Всё равно рынки могут отреагировать непредсказуемо.\" t=\"Oricum, pe piețe o să fie montagne russe.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221447448454598656",
+   "en": "<kiroshi l=\"rus\" o=\"Ну и что? Я бы вложилась в CHOOH2 и нефть-матушку.\" t=\"Well? I'd go for CHOOH2 and good old fashioned crude.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну и что? Я бы вложилась в CHOOH2 и нефть-матушку.\" t=\"Păi, eu aș băga bani în CHOOH2 și în petrolul ăla vechi, de-ncredere.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221452027929923584",
+   "en": "<kiroshi l=\"rus\" o=\"В серебро и медь, как вариант.\" t=\"Silver and copper might be worth a look, too.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"В серебро и медь, как вариант.\" t=\"Argintul și cuprul merită o șansă, zic.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

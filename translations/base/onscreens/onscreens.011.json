@@ -1,0 +1,10013 @@
+{
+ "depot": "base\\localization\\en-us\\onscreens\\onscreens.json",
+ "entries": [
+  {
+   "key": "28515",
+   "en": "Serial Numbers Not Found",
+   "ro": "Numere de serie negăsite"
+  },
+  {
+   "key": "28516",
+   "en": "Model",
+   "ro": "Model"
+  },
+  {
+   "key": "28517",
+   "en": "Unknown Function",
+   "ro": "Funcție necunoscută"
+  },
+  {
+   "key": "28518",
+   "en": "Astral Rock",
+   "ro": "Astral Rock"
+  },
+  {
+   "key": "28519",
+   "en": "Unknown Model",
+   "ro": "Model necunoscut"
+  },
+  {
+   "key": "28520",
+   "en": "Production Year:",
+   "ro": "An de producție:"
+  },
+  {
+   "key": "28521",
+   "en": "Standard First-Aid Kit",
+   "ro": "Trusă de prim ajutor standard"
+  },
+  {
+   "key": "28522",
+   "en": "2043",
+   "ro": "2043"
+  },
+  {
+   "key": "28523",
+   "en": "Partially used",
+   "ro": "Folosit parțial"
+  },
+  {
+   "key": "28524",
+   "en": "Manufacturer",
+   "ro": "Producător"
+  },
+  {
+   "key": "28525",
+   "en": "Missing Components:",
+   "ro": "Componente lipsă:"
+  },
+  {
+   "key": "28526",
+   "en": "Delif",
+   "ro": "Delif"
+  },
+  {
+   "key": "28527",
+   "en": "Bandages, coagulents, foam dressing",
+   "ro": "Bandaje, coagulanți, pansament din spumă"
+  },
+  {
+   "key": "28528",
+   "en": "Model",
+   "ro": "Model"
+  },
+  {
+   "key": "28529",
+   "en": "Recent Use:",
+   "ro": "Utilizare recentă:"
+  },
+  {
+   "key": "28530",
+   "en": "Astral Rock",
+   "ro": "Astral Rock"
+  },
+  {
+   "key": "28531",
+   "en": "Stanched bleeding",
+   "ro": "Sângerare oprită"
+  },
+  {
+   "key": "28532",
+   "en": "Production Year:",
+   "ro": "An de producție:"
+  },
+  {
+   "key": "28533",
+   "en": "Natural Produce",
+   "ro": "Produse naturale"
+  },
+  {
+   "key": "28534",
+   "en": "2058",
+   "ro": "2058"
+  },
+  {
+   "key": "28535",
+   "en": "Grown naturally from an organic or hydroponic source",
+   "ro": "Cultivat natural dintr-o sursă organică sau hidroponică"
+  },
+  {
+   "key": "28536",
+   "en": "Manufacturer",
+   "ro": "Producător"
+  },
+  {
+   "key": "28537",
+   "en": "Chemical Anomaly Detected",
+   "ro": "Anomalie chimică detectată"
+  },
+  {
+   "key": "28538",
+   "en": "Unknown",
+   "ro": "Necunoscut"
+  },
+  {
+   "key": "28539",
+   "en": "Elevated Levels of Acetylcholine, GABA",
+   "ro": "Niveluri ridicate de acetilcolină, GABA"
+  },
+  {
+   "key": "28540",
+   "en": "Model",
+   "ro": "Model"
+  },
+  {
+   "key": "28541",
+   "en": "Enhanced Nutritional Value",
+   "ro": "Valoare nutritivă crescută"
+  },
+  {
+   "key": "28542",
+   "en": "Balalaika",
+   "ro": "Balalaika"
+  },
+  {
+   "key": "28543",
+   "en": "Production Year:",
+   "ro": "An de producție:"
+  },
+  {
+   "key": "28544",
+   "en": "Effect: Improved cognitive function and capacity to learn, accelerated synapse formation",
+   "ro": "Efect: îmbunătățirea funcțiilor cognitive și a capacității de învățare, formare accelerată a sinapselor"
+  },
+  {
+   "key": "28545",
+   "en": "2029",
+   "ro": "2029"
+  },
+  {
+   "key": "28546",
+   "en": "Title",
+   "ro": "Titlu"
+  },
+  {
+   "key": "28547",
+   "en": "Never Fade Away",
+   "ro": "Never Fade Away"
+  },
+  {
+   "key": "28548",
+   "en": "Artist:",
+   "ro": "Artist:"
+  },
+  {
+   "key": "28549",
+   "en": "Johnny Silverhand",
+   "ro": "Johnny Silverhand"
+  },
+  {
+   "key": "28550",
+   "en": "Power Failure",
+   "ro": "Pană de curent"
+  },
+  {
+   "key": "28551",
+   "en": "Release Date:",
+   "ro": "Data lansării:"
+  },
+  {
+   "key": "28552",
+   "en": "Circuit Break Detected",
+   "ro": "Întrerupere de circuit detectată"
+  },
+  {
+   "key": "28553",
+   "en": "04.16.2009",
+   "ro": "04.16.2009"
+  },
+  {
+   "key": "28554",
+   "en": "Title",
+   "ro": "Titlu"
+  },
+  {
+   "key": "28555",
+   "en": "Internal Damage",
+   "ro": "Daune interne"
+  },
+  {
+   "key": "28556",
+   "en": "Blistering Love",
+   "ro": "Blistering Love"
+  },
+  {
+   "key": "28557",
+   "en": "Central Processor OVERLOAD",
+   "ro": "SUPRAÎNCĂRCARE procesor central"
+  },
+  {
+   "key": "28558",
+   "en": "Artist",
+   "ro": "Artist"
+  },
+  {
+   "key": "28559",
+   "en": "Repair Tips",
+   "ro": "Sfaturi de reparații"
+  },
+  {
+   "key": "28560",
+   "en": "Samurai",
+   "ro": "Samurai"
+  },
+  {
+   "key": "28561",
+   "en": "System Reboot",
+   "ro": "Repornire sistem"
+  },
+  {
+   "key": "28562",
+   "en": "Release Date:",
+   "ro": "Data lansării:"
+  },
+  {
+   "key": "28563",
+   "en": "Power Restored",
+   "ro": "Curent restabilit"
+  },
+  {
+   "key": "28564",
+   "en": "01.01.2007",
+   "ro": "01.01.2007"
+  },
+  {
+   "key": "28565",
+   "en": "Circuit Status NORMAL",
+   "ro": "Stare circuit NORMAL"
+  },
+  {
+   "key": "28566",
+   "en": "Title",
+   "ro": "Titlu"
+  },
+  {
+   "key": "28567",
+   "en": "Internal Damage Mitigated",
+   "ro": "Daune interne atenuate"
+  },
+  {
+   "key": "28568",
+   "en": "Chippin' In",
+   "ro": "Chippin' In"
+  },
+  {
+   "key": "28569",
+   "en": "Central Processor READY",
+   "ro": "Procesor central PREGĂTIT"
+  },
+  {
+   "key": "28570",
+   "en": "Artist",
+   "ro": "Artist"
+  },
+  {
+   "key": "28571",
+   "en": "Function Restored",
+   "ro": "Funcție restabilită"
+  },
+  {
+   "key": "28572",
+   "en": "Samurai",
+   "ro": "Samurai"
+  },
+  {
+   "key": "28573",
+   "en": "Ready for Playback",
+   "ro": "Gata de redare"
+  },
+  {
+   "key": "28574",
+   "en": "Release Date",
+   "ro": "Data lansării"
+  },
+  {
+   "key": "28575",
+   "en": "Speaker:",
+   "ro": "Vorbitor:"
+  },
+  {
+   "key": "28576",
+   "en": "03.27.2004",
+   "ro": "03.27.2004"
+  },
+  {
+   "key": "28577",
+   "en": "Mayor Lucius Rhyne",
+   "ro": "Primarul Lucius Rhyne"
+  },
+  {
+   "key": "28578",
+   "en": "Title",
+   "ro": "Titlu"
+  },
+  {
+   "key": "28579",
+   "en": "Speaker:",
+   "ro": "Vorbitor:"
+  },
+  {
+   "key": "28580",
+   "en": "Second Conflict",
+   "ro": "Second Conflict"
+  },
+  {
+   "key": "28581",
+   "en": "Deputy Mayor Weldon Holt",
+   "ro": "Viceprimarul Weldon Holt"
+  },
+  {
+   "key": "28582",
+   "en": "Artist",
+   "ro": "Artist"
+  },
+  {
+   "key": "28583",
+   "en": "Audio Enhanced",
+   "ro": "Audio îmbunătățit"
+  },
+  {
+   "key": "28584",
+   "en": "Kerry Eurodyne",
+   "ro": "Kerry Eurodyne"
+  },
+  {
+   "key": "28585",
+   "en": "Playback Enabled",
+   "ro": "Redare activată"
+  },
+  {
+   "key": "28586",
+   "en": "Release Date",
+   "ro": "Data lansării"
+  },
+  {
+   "key": "28587",
+   "en": "Occupation:",
+   "ro": "Ocupație:"
+  },
+  {
+   "key": "28588",
+   "en": "05.19.2025",
+   "ro": "05.19.2025"
+  },
+  {
+   "key": "28589",
+   "en": "Seller",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "28590",
+   "en": "Track",
+   "ro": "Urmă"
+  },
+  {
+   "key": "28591",
+   "en": "Appearance:",
+   "ro": "Aspect:"
+  },
+  {
+   "key": "28592",
+   "en": "Tire",
+   "ro": "Anvelopă"
+  },
+  {
+   "key": "28593",
+   "en": "Balding male, mid-40s, subconjunctival hemorrhage",
+   "ro": "Bărbat chel, în jur de 45 de ani, hemoragie subconjunctivală"
+  },
+  {
+   "key": "28594",
+   "en": "Manufacturer",
+   "ro": "Producător"
+  },
+  {
+   "key": "28595",
+   "en": "Cyberware:",
+   "ro": "Cyberware:"
+  },
+  {
+   "key": "28596",
+   "en": "Kaukaz",
+   "ro": "Kaukaz"
+  },
+  {
+   "key": "28597",
+   "en": "Top of the line combat cyberware. Must have been expensive",
+   "ro": "Cyberware de luptă de ultimă generație. Sigur a fost scump"
+  },
+  {
+   "key": "28598",
+   "en": "Jerrycan",
+   "ro": "Canistră"
+  },
+  {
+   "key": "28599",
+   "en": "FILLED WITH CHOOH2",
+   "ro": "PLIN CU CHOOH2"
+  },
+  {
+   "key": "28600",
+   "en": "Estimated Weight",
+   "ro": "Greutate estimată"
+  },
+  {
+   "key": "28601",
+   "en": "24 tons",
+   "ro": "24 de tone"
+  },
+  {
+   "key": "28602",
+   "en": "FLARE GUN",
+   "ro": "PISTOL DE SEMNALIZARE"
+  },
+  {
+   "key": "28603",
+   "en": "Assessment",
+   "ro": "Evaluare"
+  },
+  {
+   "key": "28604",
+   "en": "LOCKED AND LOADED",
+   "ro": "GATA DE TRAGERE"
+  },
+  {
+   "key": "28605",
+   "en": "Distinct tire tracks, heavy truck",
+   "ro": "Urme de anvelope distincte, camion greu"
+  },
+  {
+   "key": "28606",
+   "en": "Door",
+   "ro": "Ușă"
+  },
+  {
+   "key": "28607",
+   "en": "Graffiti",
+   "ro": "Graffiti"
+  },
+  {
+   "key": "28608",
+   "en": "Locked",
+   "ro": "Blocat"
+  },
+  {
+   "key": "28609",
+   "en": "DEN DEN WAS HERE",
+   "ro": "DEN DEN A FOST AICI"
+  },
+  {
+   "key": "28610",
+   "en": "Trash can",
+   "ro": "Pubelă"
+  },
+  {
+   "key": "28611",
+   "en": "Paint",
+   "ro": "Vopsea"
+  },
+  {
+   "key": "28612",
+   "en": "FULL OF USEFUL STUFF",
+   "ro": "PLINĂ DE CHESTII UTILE"
+  },
+  {
+   "key": "28613",
+   "en": "Black spray paint",
+   "ro": "Vopsea spray neagră"
+  },
+  {
+   "key": "28614",
+   "en": "Spike Trap",
+   "ro": "Capcană cu țepi"
+  },
+  {
+   "key": "28615",
+   "en": "A set of road spikes used to stop vehicles",
+   "ro": "Un set de țepi de drum folosit pentru a opri vehiculele"
+  },
+  {
+   "key": "28616",
+   "en": "Ladder",
+   "ro": "Scară"
+  },
+  {
+   "key": "28617",
+   "en": "Certainly within reach",
+   "ro": "Cu siguranță la îndemână"
+  },
+  {
+   "key": "28618",
+   "en": "Ladder",
+   "ro": "Scară"
+  },
+  {
+   "key": "28619",
+   "en": "Fire escape",
+   "ro": "Scară de evacuare"
+  },
+  {
+   "key": "28620",
+   "en": "Empty Aquarium",
+   "ro": "Acvariu gol"
+  },
+  {
+   "key": "28621",
+   "en": "Designed for fish farming at home",
+   "ro": "Proiectat pentru creșterea peștilor acasă"
+  },
+  {
+   "key": "28622",
+   "en": "Basketball",
+   "ro": "Minge de baschet"
+  },
+  {
+   "key": "28623",
+   "en": "Autographed by Dante Gonzalez",
+   "ro": "Autografiat de Dante Gonzalez"
+  },
+  {
+   "key": "28624",
+   "en": "Calavera Feliz",
+   "ro": "Calavera Feliz"
+  },
+  {
+   "key": "28625",
+   "en": "Jackie's favorite beer",
+   "ro": "Berea preferată a lui Jackie"
+  },
+  {
+   "key": "28626",
+   "en": "Leather Belt",
+   "ro": "Curea de piele"
+  },
+  {
+   "key": "28627",
+   "en": "A hand-me-down from Jackie's father",
+   "ro": "O curea moștenită de la tatăl lui Jackie"
+  },
+  {
+   "key": "28628",
+   "en": "Jackie's Book",
+   "ro": "Cartea lui Jackie"
+  },
+  {
+   "key": "28629",
+   "en": "For Whom the Bell Tolls, by Ernest Hemingway",
+   "ro": "Pentru cine bate clopotul, de Ernest Hemingway"
+  },
+  {
+   "key": "28630",
+   "en": "Cardboard Box",
+   "ro": "Cutie de carton"
+  },
+  {
+   "key": "28631",
+   "en": "Contains screamsheet clippings about the Valentinos",
+   "ro": "Conține decupaje din ziare despre Valentinos"
+  },
+  {
+   "key": "28632",
+   "en": "Tsunami Nue",
+   "ro": "Tsunami Nue"
+  },
+  {
+   "key": "28633",
+   "en": "Engraved with a Valentinos motto",
+   "ro": "Gravat cu o deviză a Valentinos"
+  },
+  {
+   "key": "28634",
+   "en": "Gym Equipment",
+   "ro": "Echipament de sală"
+  },
+  {
+   "key": "28635",
+   "en": "Put through hell",
+   "ro": "Dus la limită"
+  },
+  {
+   "key": "28636",
+   "en": "Mandala",
+   "ro": "Mandala"
+  },
+  {
+   "key": "28637",
+   "en": "A Jackie original design",
+   "ro": "Un model original creat de Jackie"
+  },
+  {
+   "key": "28638",
+   "en": "Urn",
+   "ro": "Urnă"
+  },
+  {
+   "key": "28639",
+   "en": "Contains Jackie's ashes",
+   "ro": "Conține cenușa lui Jackie"
+  },
+  {
+   "key": "28640",
+   "en": "Key",
+   "ro": "Cheie"
+  },
+  {
+   "key": "28641",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28642",
+   "en": "To Jackie's motorcycle",
+   "ro": "Pentru motocicleta lui Jackie"
+  },
+  {
+   "key": "28643",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28644",
+   "en": "Key",
+   "ro": "Cheie"
+  },
+  {
+   "key": "28645",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28646",
+   "en": "Opens Jackie's room",
+   "ro": "Deschide camera lui Jackie"
+  },
+  {
+   "key": "28647",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28648",
+   "en": "Key",
+   "ro": "Cheie"
+  },
+  {
+   "key": "28649",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28650",
+   "en": "Opens Jackie's garage",
+   "ro": "Deschide garajul lui Jackie"
+  },
+  {
+   "key": "28651",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28652",
+   "en": "Engraved Machete",
+   "ro": "Macetă gravată"
+  },
+  {
+   "key": "28653",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28654",
+   "en": "An iconic symbol of the Valentinos",
+   "ro": "Un simbol iconic al Valentinos"
+  },
+  {
+   "key": "28655",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28656",
+   "en": "Valentinos Signet Ring",
+   "ro": "Inel cu sigiliu Valentinos"
+  },
+  {
+   "key": "28657",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28658",
+   "en": "A symbol of gang loyalty and belonging",
+   "ro": "Un simbol al loialității și apartenenței la bandă"
+  },
+  {
+   "key": "28659",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28660",
+   "en": "Package",
+   "ro": "Pachet"
+  },
+  {
+   "key": "28661",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28662",
+   "en": "Sent with love from Mama Welles",
+   "ro": "Trimis cu dragoste de la Mama Welles"
+  },
+  {
+   "key": "28663",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28664",
+   "en": "Still of Jackie",
+   "ro": "Poză cu Jackie"
+  },
+  {
+   "key": "28665",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28666",
+   "en": "A portrait of a proud son of Heywood",
+   "ro": "Un portret al unui fiu mândru al Heywood-ului"
+  },
+  {
+   "key": "28667",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28668",
+   "en": "Still of the Welles Family",
+   "ro": "Poză cu familia Welles"
+  },
+  {
+   "key": "28669",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28670",
+   "en": "Jackie looks about 10 here",
+   "ro": "Aici Jackie pare să aibă vreo 10 ani"
+  },
+  {
+   "key": "28671",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28672",
+   "en": "Still of Misty",
+   "ro": "Poză cu Misty"
+  },
+  {
+   "key": "28673",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28674",
+   "en": "Recently taken",
+   "ro": "Făcută recent"
+  },
+  {
+   "key": "28675",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28676",
+   "en": "Posters",
+   "ro": "Postere"
+  },
+  {
+   "key": "28677",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28678",
+   "en": "Pin-up posters",
+   "ro": "Postere pin-up"
+  },
+  {
+   "key": "28679",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28680",
+   "en": "Motivational Posters",
+   "ro": "Postere motivaționale"
+  },
+  {
+   "key": "28681",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28682",
+   "en": "Posters",
+   "ro": "Postere"
+  },
+  {
+   "key": "28683",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28684",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28685",
+   "en": "Toolbox",
+   "ro": "Trusă de scule"
+  },
+  {
+   "key": "28686",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28687",
+   "en": "Recently used for repair",
+   "ro": "Folosită recent pentru reparații"
+  },
+  {
+   "key": "28688",
+   "en": "Shelf",
+   "ro": "Raft"
+  },
+  {
+   "key": "28689",
+   "en": "Lightweight aluminum design, easily movable",
+   "ro": "Construcție ușoară din aluminiu, ușor de mutat"
+  },
+  {
+   "key": "28690",
+   "en": "Tequila Bottle",
+   "ro": "Sticlă de tequila"
+  },
+  {
+   "key": "28691",
+   "en": "Expensive, limited edition",
+   "ro": "Scumpă, ediție limitată"
+  },
+  {
+   "key": "28692",
+   "en": "Boxing Gloves",
+   "ro": "Mănuși de box"
+  },
+  {
+   "key": "28693",
+   "en": "Worn, frequent use",
+   "ro": "Uzate, folosite des"
+  },
+  {
+   "key": "28694",
+   "en": "Never forget.",
+   "ro": "Să nu uităm niciodată."
+  },
+  {
+   "key": "28695",
+   "en": "Memorial to the 2044 School Shooting",
+   "ro": "Memorial al atacului armat din școală din 2044"
+  },
+  {
+   "key": "28696",
+   "en": "School bulletin – subject",
+   "ro": "Panou școlar – subiect"
+  },
+  {
+   "key": "28697",
+   "en": "Drugs are bad",
+   "ro": "Drogurile fac rău"
+  },
+  {
+   "key": "28698",
+   "en": "State Champions",
+   "ro": "Campioni ai statului"
+  },
+  {
+   "key": "28699",
+   "en": "2042",
+   "ro": "2042"
+  },
+  {
+   "key": "28700",
+   "en": "Identity",
+   "ro": "Identitate"
+  },
+  {
+   "key": "28701",
+   "en": "Unknown",
+   "ro": "Necunoscut"
+  },
+  {
+   "key": "28702",
+   "en": "Clothes",
+   "ro": "Haine"
+  },
+  {
+   "key": "28703",
+   "en": "Cheap, well-worn, Night City, mid-2040's",
+   "ro": "Ieftină, foarte uzată, Night City, mijlocul anilor 2040"
+  },
+  {
+   "key": "28704",
+   "en": "Occupation",
+   "ro": "Ocupație"
+  },
+  {
+   "key": "28705",
+   "en": "Teacher, 2045",
+   "ro": "Profesor, 2045"
+  },
+  {
+   "key": "28706",
+   "en": "Stamp",
+   "ro": "Ștampilă"
+  },
+  {
+   "key": "28707",
+   "en": "Certifies Night City Fire Department approval",
+   "ro": "Atestă aprobarea Departamentului de Pompieri din Night City"
+  },
+  {
+   "key": "28708",
+   "en": "Industrial Clock",
+   "ro": "Ceas industrial"
+  },
+  {
+   "key": "28709",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28710",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28711",
+   "en": "A special design for agricultural use",
+   "ro": "Un design special pentru uz agricol"
+  },
+  {
+   "key": "28712",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28713",
+   "en": "Solar Panel",
+   "ro": "Panou solar"
+  },
+  {
+   "key": "28714",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28715",
+   "en": "Used for powering farm devices",
+   "ro": "Folosit pentru alimentarea dispozitivelor agricole"
+  },
+  {
+   "key": "28716",
+   "en": "!OBSOLETE",
+   "ro": "!OBSOLETE"
+  },
+  {
+   "key": "28717",
+   "en": "Farm Model",
+   "ro": "Model de fermă"
+  },
+  {
+   "key": "28718",
+   "en": "!OBSOLETE",
+   "ro": "!OBSOLETE"
+  },
+  {
+   "key": "28719",
+   "en": "SQ021.DK.PT",
+   "ro": "SQ021.DK.PT"
+  },
+  {
+   "key": "28720",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28721",
+   "en": "Effects",
+   "ro": "Efecte"
+  },
+  {
+   "key": "28722",
+   "en": "OBSOLETE",
+   "ro": "OBSOLET"
+  },
+  {
+   "key": "28723",
+   "en": "Light and sound effects of a heavy AV",
+   "ro": "Efecte de lumină și sunet ale unui AV greu"
+  },
+  {
+   "key": "28724",
+   "en": "Breed:",
+   "ro": "Rasă:"
+  },
+  {
+   "key": "28725",
+   "en": "Holstein Friesian",
+   "ro": "Holstein Friesian"
+  },
+  {
+   "key": "28726",
+   "en": "Cattle Brand",
+   "ro": "Marcă de vite"
+  },
+  {
+   "key": "28727",
+   "en": "Property of Biotechnica",
+   "ro": "Proprietatea corporației Biotechnica"
+  },
+  {
+   "key": "28728",
+   "en": "Voltage",
+   "ro": "Tensiune"
+  },
+  {
+   "key": "28729",
+   "en": "10,000 volts",
+   "ro": "10.000 de volți"
+  },
+  {
+   "key": "28730",
+   "en": "Physical Condition",
+   "ro": "Stare fizică"
+  },
+  {
+   "key": "28731",
+   "en": "Enlarged thyroid, muscular atrophy, brain receiving beta waves",
+   "ro": "Tiroidă mărită, atrofie musculară, creierul primește unde beta"
+  },
+  {
+   "key": "28732",
+   "en": "Physical Condition",
+   "ro": "Stare fizică"
+  },
+  {
+   "key": "28734",
+   "en": "Rapid heart rate, stimulated, aggressive",
+   "ro": "Puls rapid, stimulat, agresiv"
+  },
+  {
+   "key": "28736",
+   "en": "Physical Condition",
+   "ro": "Stare fizică"
+  },
+  {
+   "key": "28737",
+   "en": "Pumped with hormones, unconscious",
+   "ro": "Încărcat cu hormoni, inconștient"
+  },
+  {
+   "key": "28738",
+   "en": "Physical Condition",
+   "ro": "Stare fizică"
+  },
+  {
+   "key": "28739",
+   "en": "Afraid, nervous, elevated muscle tension",
+   "ro": "Speriat, nervos, tensiune musculară ridicată"
+  },
+  {
+   "key": "28740",
+   "en": "Cartoon",
+   "ro": "Desen animat"
+  },
+  {
+   "key": "28741",
+   "en": "An old cartoon for children",
+   "ro": "Un desen animat vechi pentru copii"
+  },
+  {
+   "key": "28742",
+   "en": "Oil Barrels",
+   "ro": "Butoaie de petrol"
+  },
+  {
+   "key": "28743",
+   "en": "Once stored the lifeblood of the globalized economy. Now empty",
+   "ro": "Cândva adăposteau vlaga economiei globalizate. Acum sunt goale"
+  },
+  {
+   "key": "28744",
+   "en": "Infusion pump",
+   "ro": "Pompă de perfuzie"
+  },
+  {
+   "key": "28745",
+   "en": "Stationary, linked to a computer",
+   "ro": "Staționar, conectat la un computer"
+  },
+  {
+   "key": "28746",
+   "en": "Control Panel",
+   "ro": "Panou de control"
+  },
+  {
+   "key": "28747",
+   "en": "Controls automated systems in the barn",
+   "ro": "Controlează sistemele automatizate din hambar"
+  },
+  {
+   "key": "28748",
+   "en": "Cattle Injector",
+   "ro": "Injector pentru vite"
+  },
+  {
+   "key": "28749",
+   "en": "For bovine antibiotics",
+   "ro": "Pentru antibiotice bovine"
+  },
+  {
+   "key": "28750",
+   "en": "Dietary Supplements for Cattle",
+   "ro": "Suplimente alimentare pentru vite"
+  },
+  {
+   "key": "28751",
+   "en": "Apple-flavored hormones",
+   "ro": "Hormoni cu aromă de măr"
+  },
+  {
+   "key": "28752",
+   "en": "Workshop Table",
+   "ro": "Masă de atelier"
+  },
+  {
+   "key": "28754",
+   "en": "Turret and antipersonnel mine parts",
+   "ro": "Piese de turelă și de mine antipersonal"
+  },
+  {
+   "key": "28756",
+   "en": "Identity",
+   "ro": "Identitate"
+  },
+  {
+   "key": "28757",
+   "en": "Unknown",
+   "ro": "Necunoscut"
+  },
+  {
+   "key": "28758",
+   "en": "Appearance",
+   "ro": "Aspect"
+  },
+  {
+   "key": "28759",
+   "en": "Male, farmer's build, mid-21st century Texas origin, physical resemblance to Anthony Harris",
+   "ro": "Masculin, constituție de fermier, origine din Texasul de la mijlocul secolului XXI, asemănare fizică cu Anthony Harris"
+  },
+  {
+   "key": "28760",
+   "en": "Relationship to Anthony Harris",
+   "ro": "Relația cu Anthony Harris"
+  },
+  {
+   "key": "28761",
+   "en": "Father",
+   "ro": "Tată"
+  },
+  {
+   "key": "28762",
+   "en": "Fabric",
+   "ro": "Țesătură"
+  },
+  {
+   "key": "28763",
+   "en": "Recycled plastic",
+   "ro": "Plastic reciclat"
+  },
+  {
+   "key": "28764",
+   "en": "Stain Contents:",
+   "ro": "Conținutul petei:"
+  },
+  {
+   "key": "28765",
+   "en": "Sweat, digested alcohol, grease, dust",
+   "ro": "Sudoare, alcool digerat, grăsime, praf"
+  },
+  {
+   "key": "28766",
+   "en": "Probability of Ownership:",
+   "ro": "Probabilitatea de deținere:"
+  },
+  {
+   "key": "28767",
+   "en": "95%: nomad origin",
+   "ro": "95%: origine nomadă"
+  },
+  {
+   "key": "28768",
+   "en": "Hardware Quality",
+   "ro": "Calitate hardware"
+  },
+  {
+   "key": "28769",
+   "en": "Top-Grade",
+   "ro": "Calitate superioară"
+  },
+  {
+   "key": "28770",
+   "en": "Condition",
+   "ro": "Stare"
+  },
+  {
+   "key": "28771",
+   "en": "Device: Excellent.\\nDisc: Scratched",
+   "ro": "Aparat: Excelent.\\nDiscul: Zgâriat"
+  },
+  {
+   "key": "28772",
+   "en": "Owner Profile",
+   "ro": "Profil proprietar"
+  },
+  {
+   "key": "28773",
+   "en": "Audiophile, fanatic of dark music styles",
+   "ro": "Audiofil, fan înrăit al muzicii dark"
+  },
+  {
+   "key": "28774",
+   "en": "Technique",
+   "ro": "Tehnică"
+  },
+  {
+   "key": "28775",
+   "en": "Auto Repair Equipment",
+   "ro": "Echipament de reparații auto"
+  },
+  {
+   "key": "28776",
+   "en": "Crayons on paper",
+   "ro": "Creioane colorate pe hârtie"
+  },
+  {
+   "key": "28777",
+   "en": "Used to repair Delamain cabs",
+   "ro": "Folosit la repararea taxiurilor Delamain"
+  },
+  {
+   "key": "28778",
+   "en": "Fully Automated",
+   "ro": "Complet automatizat"
+  },
+  {
+   "key": "28779",
+   "en": "Style",
+   "ro": "Stil"
+  },
+  {
+   "key": "28780",
+   "en": "Fully automated and perhaps a little dangerous",
+   "ro": "Complet automatizat și poate puțin periculos"
+  },
+  {
+   "key": "28781",
+   "en": "Childish",
+   "ro": "Copilăresc"
+  },
+  {
+   "key": "28782",
+   "en": "AV",
+   "ro": "AV"
+  },
+  {
+   "key": "28783",
+   "en": "Relationship of Photographed Persons",
+   "ro": "Relația dintre persoanele fotografiate"
+  },
+  {
+   "key": "28784",
+   "en": "Yet to be fully assembled",
+   "ro": "Încă nu e asamblat complet"
+  },
+  {
+   "key": "28785",
+   "en": "Partners",
+   "ro": "Parteneri"
+  },
+  {
+   "key": "28786",
+   "en": "Aerial Cab Services",
+   "ro": "Servicii de taxi aerian"
+  },
+  {
+   "key": "28787",
+   "en": "Blurred Inscription",
+   "ro": "Inscripție neclară"
+  },
+  {
+   "key": "28788",
+   "en": "It appears Delamain is expanding his services to include aerial cabs",
+   "ro": "Se pare că Delamain își extinde serviciile și cu taxiuri aeriene"
+  },
+  {
+   "key": "28789",
+   "en": "bRandy",
+   "ro": "bRandy"
+  },
+  {
+   "key": "28790",
+   "en": "Delamain Cab",
+   "ro": "Taxi Delamain"
+  },
+  {
+   "key": "28791",
+   "en": "Creation – Technique",
+   "ro": "Realizare – Tehnică"
+  },
+  {
+   "key": "28792",
+   "en": "Needs some repairs done",
+   "ro": "Are nevoie de niște reparații"
+  },
+  {
+   "key": "28793",
+   "en": "Written by hand with a permanent marker. Scraping, knife",
+   "ro": "Scris de mână cu marker permanent. Zgârieturi, cuțit"
+  },
+  {
+   "key": "28794",
+   "en": "Easy to push.",
+   "ro": "Ușor de împins."
+  },
+  {
+   "key": "28795",
+   "en": "\"bRandy\" – meaning",
+   "ro": "\"bRandy\" – semnificație"
+  },
+  {
+   "key": "28796",
+   "en": "Handbrake isn't up. Should be easy to push",
+   "ro": "Frâna de mână nu e trasă. Ar trebui să fie ușor de împins"
+  },
+  {
+   "key": "28797",
+   "en": "Randy's Nametag",
+   "ro": "Ecusonul lui Randy"
+  },
+  {
+   "key": "28798",
+   "en": "Tainted Overlord",
+   "ro": "Tainted Overlord"
+  },
+  {
+   "key": "28799",
+   "en": "Band",
+   "ro": "Trupă"
+  },
+  {
+   "key": "28800",
+   "en": "Covers",
+   "ro": "Coperți"
+  },
+  {
+   "key": "28801",
+   "en": "Printing ink and bodily fluids",
+   "ro": "Cerneală de tipar și fluide corporale"
+  },
+  {
+   "key": "28802",
+   "en": "Band Poster",
+   "ro": "Poster de trupă"
+  },
+  {
+   "key": "28803",
+   "en": "Typical items in a teenager's room",
+   "ro": "Obiecte tipice într-o cameră de adolescent"
+  },
+  {
+   "key": "28804",
+   "en": "Material",
+   "ro": "Material"
+  },
+  {
+   "key": "28805",
+   "en": "Brass",
+   "ro": "Alamă"
+  },
+  {
+   "key": "28806",
+   "en": "Surface traces",
+   "ro": "Urme de suprafață"
+  },
+  {
+   "key": "28807",
+   "en": "Dust and fingerprints",
+   "ro": "Praf și amprente"
+  },
+  {
+   "key": "28808",
+   "en": "Key",
+   "ro": "Cheie"
+  },
+  {
+   "key": "28809",
+   "en": "Suited to old-fashioned lockers",
+   "ro": "Se potrivește la dulapuri vechi"
+  },
+  {
+   "key": "28810",
+   "en": "Lock",
+   "ro": "Încuietoare"
+  },
+  {
+   "key": "28811",
+   "en": "Open",
+   "ro": "Deschis"
+  },
+  {
+   "key": "28812",
+   "en": "Lock",
+   "ro": "Încuietoare"
+  },
+  {
+   "key": "28813",
+   "en": "Key Required",
+   "ro": "Necesită cheie"
+  },
+  {
+   "key": "28814",
+   "en": "Body type",
+   "ro": "Tip de corp"
+  },
+  {
+   "key": "28815",
+   "en": "Average teenager",
+   "ro": "Adolescent obișnuit"
+  },
+  {
+   "key": "28816",
+   "en": "Health Condition",
+   "ro": "Stare de sănătate"
+  },
+  {
+   "key": "28817",
+   "en": "Poisoned. Extremely high prolactin levels",
+   "ro": "Intoxicat. Niveluri extrem de ridicate de prolactină"
+  },
+  {
+   "key": "28818",
+   "en": "Identity",
+   "ro": "Identitate"
+  },
+  {
+   "key": "28819",
+   "en": "Randy Kutcher",
+   "ro": "Randy Kutcher"
+  },
+  {
+   "key": "28820",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28821",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "28822",
+   "en": "Collector's Edition",
+   "ro": "Ediție de colecție"
+  },
+  {
+   "key": "28823",
+   "en": "Vital Signs: None",
+   "ro": "Semne vitale: niciunul"
+  },
+  {
+   "key": "28824",
+   "en": "Title:",
+   "ro": "Titlu:"
+  },
+  {
+   "key": "28825",
+   "en": "Control Panel",
+   "ro": "Panou de control"
+  },
+  {
+   "key": "28826",
+   "en": "Bushido 1-9",
+   "ro": "Bushido 1-9"
+  },
+  {
+   "key": "28827",
+   "en": "Opens doors and gates",
+   "ro": "Deschide uși și porți"
+  },
+  {
+   "key": "28828",
+   "en": "Bushido Series",
+   "ro": "Seria Bushido"
+  },
+  {
+   "key": "28829",
+   "en": "Computer",
+   "ro": "Computer"
+  },
+  {
+   "key": "28830",
+   "en": "Deluxe, limited edition collection of the Bushido movie series",
+   "ro": "Colecție de lux, ediție limitată, din seria de filme Bushido"
+  },
+  {
+   "key": "28831",
+   "en": "Controls the infusion pumps",
+   "ro": "Controlează pompele de perfuzie"
+  },
+  {
+   "key": "28832",
+   "en": "Artist:",
+   "ro": "Artist:"
+  },
+  {
+   "key": "28833",
+   "en": "Unusually Thin Wall",
+   "ro": "Perete neobișnuit de subțire"
+  },
+  {
+   "key": "28834",
+   "en": "Perilous Futur",
+   "ro": "Perilous Futur"
+  },
+  {
+   "key": "28835",
+   "en": "Electromagnetic Radiation Levels Increased",
+   "ro": "Niveluri crescute de radiații electromagnetice"
+  },
+  {
+   "key": "28836",
+   "en": "Genre",
+   "ro": "Gen"
+  },
+  {
+   "key": "28837",
+   "en": "Plastic Pistol",
+   "ro": "Pistol de plastic"
+  },
+  {
+   "key": "28838",
+   "en": "Electropunk",
+   "ro": "Electropunk"
+  },
+  {
+   "key": "28839",
+   "en": "An accessory for AR games",
+   "ro": "Un accesoriu pentru jocuri AR"
+  },
+  {
+   "key": "28840",
+   "en": "Band Poster",
+   "ro": "Poster de trupă"
+  },
+  {
+   "key": "28841",
+   "en": "Body Condition",
+   "ro": "Starea corpului"
+  },
+  {
+   "key": "28842",
+   "en": "A poster of the electropunk band Perilous Futur",
+   "ro": "Un poster cu trupa electropunk Perilous Futur"
+  },
+  {
+   "key": "28843",
+   "en": "Fit, strong, healthy",
+   "ro": "În formă, puternică, sănătoasă"
+  },
+  {
+   "key": "28844",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28845",
+   "en": "Appearance",
+   "ro": "Aspect"
+  },
+  {
+   "key": "28846",
+   "en": "Deep-sea diving equipment",
+   "ro": "Echipament de scufundări de mare adâncime"
+  },
+  {
+   "key": "28847",
+   "en": "Female, close relative of River Ward, exhibits signs of insomnia",
+   "ro": "Femeie, rudă apropiată a lui River Ward, prezintă semne de insomnie"
+  },
+  {
+   "key": "28848",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28849",
+   "en": "Identity",
+   "ro": "Identitate"
+  },
+  {
+   "key": "28850",
+   "en": "Frequent use",
+   "ro": "Folosit frecvent"
+  },
+  {
+   "key": "28851",
+   "en": "Joss Kutcher",
+   "ro": "Joss Kutcher"
+  },
+  {
+   "key": "28852",
+   "en": "Diving Equipment",
+   "ro": "Echipament de scufundări"
+  },
+  {
+   "key": "28853",
+   "en": "Latest-Gen Laptop",
+   "ro": "Laptop de ultimă generație"
+  },
+  {
+   "key": "28854",
+   "en": "Professional diving equipment that shows signs of use",
+   "ro": "Echipament profesional de scufundări cu urme de folosire"
+  },
+  {
+   "key": "28855",
+   "en": "Property of the NCPD",
+   "ro": "Proprietatea NCPD"
+  },
+  {
+   "key": "28856",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28857",
+   "en": "Data Carrier",
+   "ro": "Suport de date"
+  },
+  {
+   "key": "28858",
+   "en": "Research Facility – Property of the NCPD",
+   "ro": "Centru de cercetare – proprietatea NCPD"
+  },
+  {
+   "key": "28859",
+   "en": "Various electronic parts",
+   "ro": "Diverse piese electronice"
+  },
+  {
+   "key": "28860",
+   "en": "Reports",
+   "ro": "Rapoarte"
+  },
+  {
+   "key": "28861",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28862",
+   "en": "Encrypted",
+   "ro": "Criptat"
+  },
+  {
+   "key": "28863",
+   "en": "Broken",
+   "ro": "Stricat"
+  },
+  {
+   "key": "28864",
+   "en": "Records",
+   "ro": "Înregistrări"
+  },
+  {
+   "key": "28865",
+   "en": "Age:",
+   "ro": "Vârstă:"
+  },
+  {
+   "key": "28866",
+   "en": "Research on Neurotransmitters",
+   "ro": "Cercetări privind neurotransmițătorii"
+  },
+  {
+   "key": "28867",
+   "en": "10-40 years",
+   "ro": "10-40 de ani"
+  },
+  {
+   "key": "28868",
+   "en": "Tablet Owner: Noemi Redweed",
+   "ro": "Proprietar tabletă: Noemi Redweed"
+  },
+  {
+   "key": "28869",
+   "en": "Electronic Components",
+   "ro": "Componente electronice"
+  },
+  {
+   "key": "28870",
+   "en": "Search: \"how to prepare for an audit\"",
+   "ro": "Căutare: „cum să te pregătești pentru un audit”"
+  },
+  {
+   "key": "28871",
+   "en": "A variety of dated electronic parts, likely collected to be repurposed somehow",
+   "ro": "O varietate de piese electronice vechi, probabil strânse ca să fie refolosite cumva"
+  },
+  {
+   "key": "28872",
+   "en": "Confidential – Audit, Day 1",
+   "ro": "Confidențial – Audit, ziua 1"
+  },
+  {
+   "key": "28873",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28874",
+   "en": "Model Not Found",
+   "ro": "Model negăsit"
+  },
+  {
+   "key": "28875",
+   "en": "A list of tasks to check",
+   "ro": "O listă de sarcini de verificat"
+  },
+  {
+   "key": "28876",
+   "en": "Audit: Data Verification",
+   "ro": "Audit: verificarea datelor"
+  },
+  {
+   "key": "28877",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28878",
+   "en": "Overtime: Voluntary vs. Mandatory",
+   "ro": "Ore suplimentare: voluntare vs. obligatorii"
+  },
+  {
+   "key": "28879",
+   "en": "Assembly in Progress",
+   "ro": "Asamblare în desfășurare"
+  },
+  {
+   "key": "28880",
+   "en": "Drawings",
+   "ro": "Desene"
+  },
+  {
+   "key": "28881",
+   "en": "A unique bot, still under construction",
+   "ro": "Un bot unic, încă în construcție"
+  },
+  {
+   "key": "28882",
+   "en": "Art made by autistic children",
+   "ro": "Artă făcută de copii autiști"
+  },
+  {
+   "key": "28883",
+   "en": "A unique bot, still under construction",
+   "ro": "Un bot unic, încă în construcție"
+  },
+  {
+   "key": "28884",
+   "en": "Toy Gun",
+   "ro": "Pistol de jucărie"
+  },
+  {
+   "key": "28885",
+   "en": "Signed: Detective J. McNulty",
+   "ro": "Semnat: detectiv J. McNulty"
+  },
+  {
+   "key": "28886",
+   "en": "Braindance Recorder",
+   "ro": "Înregistrator braindance"
+  },
+  {
+   "key": "28887",
+   "en": "A smaller version of a typical braindance recording device",
+   "ro": "O versiune mai mică a unui dispozitiv obișnuit de înregistrare braindance"
+  },
+  {
+   "key": "28888",
+   "en": "BD Shard",
+   "ro": "Shard BD"
+  },
+  {
+   "key": "28889",
+   "en": "Bill Graham",
+   "ro": "Bill Graham"
+  },
+  {
+   "key": "28890",
+   "en": "BD Shard",
+   "ro": "Shard BD"
+  },
+  {
+   "key": "28891",
+   "en": "Data Deleted",
+   "ro": "Date șterse"
+  },
+  {
+   "key": "28892",
+   "en": "BD Shard",
+   "ro": "Shard BD"
+  },
+  {
+   "key": "28893",
+   "en": "Luca Adebayo",
+   "ro": "Luca Adebayo"
+  },
+  {
+   "key": "28894",
+   "en": "Broken Transformer",
+   "ro": "Transformator stricat"
+  },
+  {
+   "key": "28895",
+   "en": "Manufacturer: Unknown",
+   "ro": "Producător: necunoscut"
+  },
+  {
+   "key": "28896",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28897",
+   "en": "Damaged Capacitor",
+   "ro": "Condensator avariat"
+  },
+  {
+   "key": "28898",
+   "en": "Documents",
+   "ro": "Documente"
+  },
+  {
+   "key": "28899",
+   "en": "Documents and Archival Notes",
+   "ro": "Documente și notițe de arhivă"
+  },
+  {
+   "key": "28900",
+   "en": "Est. Search Success:",
+   "ro": "Șansă estimată de succes:"
+  },
+  {
+   "key": "28901",
+   "en": "53%",
+   "ro": "53%"
+  },
+  {
+   "key": "28902",
+   "en": "Est. Search Success:",
+   "ro": "Șansă estimată de succes:"
+  },
+  {
+   "key": "28903",
+   "en": "67%",
+   "ro": "67%"
+  },
+  {
+   "key": "28904",
+   "en": "Est. Search Success:",
+   "ro": "Șansă estimată de succes:"
+  },
+  {
+   "key": "28905",
+   "en": "71%",
+   "ro": "71%"
+  },
+  {
+   "key": "28906",
+   "en": "Est. Search Success:",
+   "ro": "Șansă estimată de succes:"
+  },
+  {
+   "key": "28907",
+   "en": "49%",
+   "ro": "49%"
+  },
+  {
+   "key": "28908",
+   "en": "Search Result:",
+   "ro": "Rezultatul căutării:"
+  },
+  {
+   "key": "28909",
+   "en": "Search Failed",
+   "ro": "Căutare eșuată"
+  },
+  {
+   "key": "28910",
+   "en": "Search Result:",
+   "ro": "Rezultatul căutării:"
+  },
+  {
+   "key": "28911",
+   "en": "Search Successful",
+   "ro": "Căutare reușită"
+  },
+  {
+   "key": "28912",
+   "en": "Dutch Oven",
+   "ro": "Oală olandeză"
+  },
+  {
+   "key": "28913",
+   "en": "A simple, electric stovetop for all your cooking needs",
+   "ro": "O plită electrică simplă, pentru orice ai nevoie la gătit"
+  },
+  {
+   "key": "28914",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28915",
+   "en": "Ural Kombinat Freight Train",
+   "ro": "Tren de marfă Ural Kombinat"
+  },
+  {
+   "key": "28916",
+   "en": "Dish Origin:",
+   "ro": "Originea felului:"
+  },
+  {
+   "key": "28917",
+   "en": "Originally from Louisiana, this dish combines Spanish, French and West African influences",
+   "ro": "Originară din Louisiana, mâncarea îmbină influențe spaniole, franceze și vest-africane"
+  },
+  {
+   "key": "28918",
+   "en": "Power Source:",
+   "ro": "Sursă de energie:"
+  },
+  {
+   "key": "28919",
+   "en": "Jambalaya",
+   "ro": "Jambalaya"
+  },
+  {
+   "key": "28920",
+   "en": "Systems in Standby Detected",
+   "ro": "Sisteme detectate în standby"
+  },
+  {
+   "key": "28921",
+   "en": "Train operational at 13% power",
+   "ro": "Trenul funcționează la 13% din putere"
+  },
+  {
+   "key": "28922",
+   "en": "A simple, yet hearty mishmash of whatever River could get his hands on",
+   "ro": "Un amestec simplu, dar consistent, din tot ce a putut pune mâna River"
+  },
+  {
+   "key": "28923",
+   "en": "Train operational at 13% power",
+   "ro": "Trenul funcționează la 13% din putere"
+  },
+  {
+   "key": "28924",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28925",
+   "en": "Indian",
+   "ro": "indiană"
+  },
+  {
+   "key": "28926",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28927",
+   "en": "Freshness:",
+   "ro": "Prospețime:"
+  },
+  {
+   "key": "28928",
+   "en": "Freight Carriage",
+   "ro": "Vagon de marfă"
+  },
+  {
+   "key": "28929",
+   "en": "Questionable",
+   "ro": "Îndoielnică"
+  },
+  {
+   "key": "28930",
+   "en": "Cargo:",
+   "ro": "Încărcătură:"
+  },
+  {
+   "key": "28931",
+   "en": "Residual",
+   "ro": "Rezidual"
+  },
+  {
+   "key": "28932",
+   "en": "Quality:",
+   "ro": "Calitate:"
+  },
+  {
+   "key": "28933",
+   "en": "Use spices liberally",
+   "ro": "Folosește condimente din belșug"
+  },
+  {
+   "key": "28934",
+   "en": "Est. Carriage Weight: 1 Tare",
+   "ro": "Greutate estimată a vagonului: 1 tară"
+  },
+  {
+   "key": "28935",
+   "en": "Est. Carriage Weight: 1 Tare",
+   "ro": "Greutate estimată a vagonului: 1 tară"
+  },
+  {
+   "key": "28936",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28937",
+   "en": "Freight Carriage",
+   "ro": "Vagon de marfă"
+  },
+  {
+   "key": "28938",
+   "en": "Cargo:",
+   "ro": "Încărcătură:"
+  },
+  {
+   "key": "28939",
+   "en": "Unknown",
+   "ro": "Necunoscut"
+  },
+  {
+   "key": "28940",
+   "en": "Carriage currently at 2/3 cargo capacity.",
+   "ro": "Vagonul are momentan 2/3 din capacitatea de încărcare."
+  },
+  {
+   "key": "28941",
+   "en": "Carriage currently at 2/3 cargo capacity",
+   "ro": "Vagonul are momentan 2/3 din capacitatea de încărcare"
+  },
+  {
+   "key": "28942",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28943",
+   "en": "Kaukaz Bratsk",
+   "ro": "Kaukaz Bratsk"
+  },
+  {
+   "key": "28944",
+   "en": "Cargo:",
+   "ro": "Încărcătură:"
+  },
+  {
+   "key": "28945",
+   "en": "Militech Basilisk – Body",
+   "ro": "Militech Basilisk – Corp"
+  },
+  {
+   "key": "28946",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28947",
+   "en": "Kaukaz Bratsk",
+   "ro": "Kaukaz Bratsk"
+  },
+  {
+   "key": "28948",
+   "en": "Cargo:",
+   "ro": "Încărcătură:"
+  },
+  {
+   "key": "28949",
+   "en": "Militech Basilisk – Wings",
+   "ro": "Militech Basilisk – Aripi"
+  },
+  {
+   "key": "28950",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28951",
+   "en": "Electronic",
+   "ro": "Electronic"
+  },
+  {
+   "key": "28952",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28953",
+   "en": "Nonoperational",
+   "ro": "Neoperațional"
+  },
+  {
+   "key": "28954",
+   "en": "Sign",
+   "ro": "Firmă"
+  },
+  {
+   "key": "28955",
+   "en": "From Flo's Diner, a local sunken eatery",
+   "ro": "De la Flo's Diner, un restaurant local scufundat"
+  },
+  {
+   "key": "28956",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "28957",
+   "en": "Analogue, capable of printing film",
+   "ro": "Analogică, capabilă să tipărească film"
+  },
+  {
+   "key": "28958",
+   "en": "Specs:",
+   "ro": "Specificații:"
+  },
+  {
+   "key": "28959",
+   "en": "Single-lens camera with manual focus",
+   "ro": "Aparat foto cu un singur obiectiv și focalizare manuală"
+  },
+  {
+   "key": "28960",
+   "en": "Still-Image Camera",
+   "ro": "Aparat foto"
+  },
+  {
+   "key": "28961",
+   "en": "Used for taking instant stills",
+   "ro": "Folosită pentru a face poze instant"
+  },
+  {
+   "key": "28962",
+   "en": "Material:",
+   "ro": "Material:"
+  },
+  {
+   "key": "28963",
+   "en": "Carbon Fiber",
+   "ro": "Fibră de carbon"
+  },
+  {
+   "key": "28964",
+   "en": "Purpose:",
+   "ro": "Scop:"
+  },
+  {
+   "key": "28965",
+   "en": "Children's toy",
+   "ro": "Jucărie de copii"
+  },
+  {
+   "key": "28966",
+   "en": "Material:",
+   "ro": "Material:"
+  },
+  {
+   "key": "28967",
+   "en": "Wood",
+   "ro": "Lemn"
+  },
+  {
+   "key": "28968",
+   "en": "Condition:",
+   "ro": "Stare:"
+  },
+  {
+   "key": "28969",
+   "en": "Rotten",
+   "ro": "Putred"
+  },
+  {
+   "key": "28970",
+   "en": "Model:",
+   "ro": "Model:"
+  },
+  {
+   "key": "28971",
+   "en": "Chevillon 2TY-8",
+   "ro": "Chevillon 2TY-8"
+  },
+  {
+   "key": "28972",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "28973",
+   "en": "Broken-down",
+   "ro": "Stricată"
+  },
+  {
+   "key": "28974",
+   "en": "Old Cars",
+   "ro": "Mașini vechi"
+  },
+  {
+   "key": "28975",
+   "en": "From the 2020s, beyond repair",
+   "ro": "Din anii 2020, nu mai poate fi reparată"
+  },
+  {
+   "key": "28976",
+   "en": "Material:",
+   "ro": "Material:"
+  },
+  {
+   "key": "28977",
+   "en": "Fabric and plastic",
+   "ro": "Textil și plastic"
+  },
+  {
+   "key": "28978",
+   "en": "Doll",
+   "ro": "Păpușă"
+  },
+  {
+   "key": "28979",
+   "en": "An old children's toy",
+   "ro": "O jucărie veche pentru copii"
+  },
+  {
+   "key": "28980",
+   "en": "Material:",
+   "ro": "Material:"
+  },
+  {
+   "key": "28981",
+   "en": "Plastic",
+   "ro": "Plastic"
+  },
+  {
+   "key": "28982",
+   "en": "Era:",
+   "ro": "Eră:"
+  },
+  {
+   "key": "28983",
+   "en": "Entropism",
+   "ro": "Entropism"
+  },
+  {
+   "key": "28984",
+   "en": "Quality:",
+   "ro": "Calitate:"
+  },
+  {
+   "key": "28985",
+   "en": "Poor",
+   "ro": "Precară"
+  },
+  {
+   "key": "28986",
+   "en": "The Heart of Laguna Bend",
+   "ro": "Inima din Laguna Bend"
+  },
+  {
+   "key": "28987",
+   "en": "A cheap, old necklace of poor craftsmanship",
+   "ro": "Un colier vechi și ieftin, prost lucrat"
+  },
+  {
+   "key": "28988",
+   "en": "Model:",
+   "ro": "Model:"
+  },
+  {
+   "key": "28989",
+   "en": "Van der Duke",
+   "ro": "Van der Duke"
+  },
+  {
+   "key": "28990",
+   "en": "Power Output:",
+   "ro": "Putere generată:"
+  },
+  {
+   "key": "28991",
+   "en": "56 kVA",
+   "ro": "56 kVA"
+  },
+  {
+   "key": "28992",
+   "en": "Generator",
+   "ro": "Generator"
+  },
+  {
+   "key": "28993",
+   "en": "Sex",
+   "ro": "Sex"
+  },
+  {
+   "key": "28994",
+   "en": "Female",
+   "ro": "Femeie"
+  },
+  {
+   "key": "28995",
+   "en": "A small generator, sufficient to power one household",
+   "ro": "Un generator mic, suficient pentru a alimenta o gospodărie"
+  },
+  {
+   "key": "28996",
+   "en": "Cause of death",
+   "ro": "Cauza morții"
+  },
+  {
+   "key": "28997",
+   "en": "Shot in the chest",
+   "ro": "Împușcată în piept"
+  },
+  {
+   "key": "28998",
+   "en": "Date of Death",
+   "ro": "Data morții"
+  },
+  {
+   "key": "28999",
+   "en": "4 Days Ago",
+   "ro": "Acum 4 zile"
+  },
+  {
+   "key": "29000",
+   "en": "Status",
+   "ro": "Status"
+  },
+  {
+   "key": "29001",
+   "en": "Strangled (Executed)",
+   "ro": "Strangulată (executată)"
+  },
+  {
+   "key": "29002",
+   "en": "Unit",
+   "ro": "Unitate"
+  },
+  {
+   "key": "29003",
+   "en": "Database",
+   "ro": "Bază de date"
+  },
+  {
+   "key": "29004",
+   "en": "Type",
+   "ro": "Tip"
+  },
+  {
+   "key": "29005",
+   "en": "Audio",
+   "ro": "Audio"
+  },
+  {
+   "key": "29006",
+   "en": "Manufacturer",
+   "ro": "Producător"
+  },
+  {
+   "key": "29007",
+   "en": "Kang Tao",
+   "ro": "Kang Tao"
+  },
+  {
+   "key": "29008",
+   "en": "Destination",
+   "ro": "Destinație"
+  },
+  {
+   "key": "29009",
+   "en": "South Africa",
+   "ro": "Africa de Sud"
+  },
+  {
+   "key": "29010",
+   "en": "Content",
+   "ro": "Conținut"
+  },
+  {
+   "key": "29011",
+   "en": "Firearms",
+   "ro": "Arme de foc"
+  },
+  {
+   "key": "29012",
+   "en": "Cargo Status",
+   "ro": "Starea încărcăturii"
+  },
+  {
+   "key": "29013",
+   "en": "Stolen",
+   "ro": "Furată"
+  },
+  {
+   "key": "29014",
+   "en": "Weight",
+   "ro": "Greutate"
+  },
+  {
+   "key": "29015",
+   "en": "Approx. 26lb",
+   "ro": "Aprox. 26 lb"
+  },
+  {
+   "key": "29016",
+   "en": "Content",
+   "ro": "Conținut"
+  },
+  {
+   "key": "29017",
+   "en": "Tri-phet",
+   "ro": "Tri-phet"
+  },
+  {
+   "key": "29018",
+   "en": "Cargo Status",
+   "ro": "Starea încărcăturii"
+  },
+  {
+   "key": "29019",
+   "en": "Drugs ready for distribution",
+   "ro": "Droguri pregătite pentru distribuire"
+  },
+  {
+   "key": "29020",
+   "en": "Bushido X",
+   "ro": "Bushido X"
+  },
+  {
+   "key": "29021",
+   "en": "Fade To Black",
+   "ro": "Fade To Black"
+  },
+  {
+   "key": "29022",
+   "en": "Premiere",
+   "ro": "Premieră"
+  },
+  {
+   "key": "29023",
+   "en": "March 2nd, 2064",
+   "ro": "2 martie 2064"
+  },
+  {
+   "key": "29024",
+   "en": "Bushido X Poster",
+   "ro": "Poster Bushido X"
+  },
+  {
+   "key": "29025",
+   "en": "Released thirteen years ago as the last movie in the series",
+   "ro": "Lansat acum treisprezece ani ca ultimul film din serie"
+  },
+  {
+   "key": "29026",
+   "en": "Brand",
+   "ro": "Brand"
+  },
+  {
+   "key": "29027",
+   "en": "Chillax",
+   "ro": "Chillax"
+  },
+  {
+   "key": "29028",
+   "en": "Object",
+   "ro": "Obiect"
+  },
+  {
+   "key": "29029",
+   "en": "Blanket",
+   "ro": "Pătură"
+  },
+  {
+   "key": "29030",
+   "en": "Material",
+   "ro": "Material"
+  },
+  {
+   "key": "29031",
+   "en": "87% syn-wool, 13% polycotton",
+   "ro": "87% lână sintetică, 13% polibumbac"
+  },
+  {
+   "key": "29032",
+   "en": "Name",
+   "ro": "Nume"
+  },
+  {
+   "key": "29033",
+   "en": "Ruby Bulgry",
+   "ro": "Ruby Bulgry"
+  },
+  {
+   "key": "29034",
+   "en": "Death",
+   "ro": "Moartea"
+  },
+  {
+   "key": "29035",
+   "en": "Died in her Prime",
+   "ro": "A murit în floarea vârstei"
+  },
+  {
+   "key": "29036",
+   "en": "Pray",
+   "ro": "Rugăciune"
+  },
+  {
+   "key": "29037",
+   "en": "Blessed Art Thou Among Women",
+   "ro": "Binecuvântată ești între femei"
+  },
+  {
+   "key": "29064",
+   "en": "Title:",
+   "ro": "Titlu:"
+  },
+  {
+   "key": "29065",
+   "en": "Two Horizons",
+   "ro": "Două orizonturi"
+  },
+  {
+   "key": "29066",
+   "en": "Artist:",
+   "ro": "Artist:"
+  },
+  {
+   "key": "29067",
+   "en": "Ollie Kelson",
+   "ro": "Ollie Kelson"
+  },
+  {
+   "key": "29068",
+   "en": "Painting:",
+   "ro": "Pictură:"
+  },
+  {
+   "key": "29069",
+   "en": "Used to conceal the safe in the wall",
+   "ro": "Folosită pentru a ascunde seiful din perete"
+  },
+  {
+   "key": "29070",
+   "en": "Company:",
+   "ro": "Companie:"
+  },
+  {
+   "key": "29071",
+   "en": "Unknown",
+   "ro": "Necunoscut"
+  },
+  {
+   "key": "29072",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29073",
+   "en": "Possible Side Effects:",
+   "ro": "Posibile efecte secundare:"
+  },
+  {
+   "key": "29074",
+   "en": "Solar panel",
+   "ro": "Panou solar"
+  },
+  {
+   "key": "29075",
+   "en": "Drowsiness, dizziness",
+   "ro": "Somnolență, amețeli"
+  },
+  {
+   "key": "29076",
+   "en": "Possible Actions",
+   "ro": "Acțiuni posibile"
+  },
+  {
+   "key": "29077",
+   "en": "Sedatives",
+   "ro": "Sedative"
+  },
+  {
+   "key": "29078",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29079",
+   "en": "Potent, black-market sedatives",
+   "ro": "Sedative puternice, de pe piața neagră"
+  },
+  {
+   "key": "29081",
+   "en": "Dried blood",
+   "ro": "Sânge uscat"
+  },
+  {
+   "key": "29082",
+   "en": "A/C",
+   "ro": "Aer condiționat"
+  },
+  {
+   "key": "29083",
+   "en": "Three months old",
+   "ro": "Vechime de trei luni"
+  },
+  {
+   "key": "29084",
+   "en": "Possible Actions",
+   "ro": "Acțiuni posibile"
+  },
+  {
+   "key": "29085",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29086",
+   "en": "Damage:",
+   "ro": "Daune:"
+  },
+  {
+   "key": "29087",
+   "en": "Signs of multiple hits to the same location",
+   "ro": "Semne ale mai multor lovituri în același loc"
+  },
+  {
+   "key": "29088",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29089",
+   "en": "Speaker",
+   "ro": "Difuzor"
+  },
+  {
+   "key": "29090",
+   "en": "Conclusion:",
+   "ro": "Concluzie:"
+  },
+  {
+   "key": "29091",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29092",
+   "en": "Someone struck the wardrobe repeatedly; possible self-mutilation",
+   "ro": "Cineva a lovit garderoba în mod repetat; posibilă automutilare"
+  },
+  {
+   "key": "29093",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29094",
+   "en": "Contents:",
+   "ro": "Conținut:"
+  },
+  {
+   "key": "29095",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29096",
+   "en": "Bandages, painkillers, gauze",
+   "ro": "Bandaje, analgezice, tifon"
+  },
+  {
+   "key": "29097",
+   "en": "Militech Mobile Radar Unit",
+   "ro": "Unitate radar mobilă Militech"
+  },
+  {
+   "key": "29098",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29099",
+   "en": "Last Use:",
+   "ro": "Ultima utilizare:"
+  },
+  {
+   "key": "29100",
+   "en": "3 months ago",
+   "ro": "Acum 3 luni"
+  },
+  {
+   "key": "29101",
+   "en": "Militech SUV",
+   "ro": "Militech SUV"
+  },
+  {
+   "key": "29103",
+   "en": "Old First Aid Kit:",
+   "ro": "Trusă de prim ajutor veche:"
+  },
+  {
+   "key": "29104",
+   "en": "Possible Actions",
+   "ro": "Acțiuni posibile"
+  },
+  {
+   "key": "29106",
+   "en": "Almost entirely used up",
+   "ro": "Aproape complet consumată"
+  },
+  {
+   "key": "29107",
+   "en": "Immobilize",
+   "ro": "Imobilizează"
+  },
+  {
+   "key": "29110",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29113",
+   "en": "Vehicle Diagnostic Screen",
+   "ro": "Ecran de diagnosticare vehicul"
+  },
+  {
+   "key": "29115",
+   "en": "Possible Actions",
+   "ro": "Acțiuni posibile"
+  },
+  {
+   "key": "29117",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29119",
+   "en": "Possible Actions",
+   "ro": "Acțiuni posibile"
+  },
+  {
+   "key": "29121",
+   "en": "Immobilize nearby vehicle",
+   "ro": "Imobilizează vehiculul din apropiere"
+  },
+  {
+   "key": "29123",
+   "en": "Contents",
+   "ro": "Conținut"
+  },
+  {
+   "key": "29125",
+   "en": "Fuses and circuits",
+   "ro": "Siguranțe și circuite"
+  },
+  {
+   "key": "29128",
+   "en": "Contents",
+   "ro": "Conținut"
+  },
+  {
+   "key": "29129",
+   "en": "Dog food, steroids",
+   "ro": "Mâncare de câine, steroizi"
+  },
+  {
+   "key": "29152",
+   "en": "!OBSOLETE",
+   "ro": "!OBSOLETE"
+  },
+  {
+   "key": "29184",
+   "en": "Smuggling Drone",
+   "ro": "Dronă de contrabandă"
+  },
+  {
+   "key": "29185",
+   "en": "Not Operational",
+   "ro": "Neoperațional"
+  },
+  {
+   "key": "29186",
+   "en": "Damage Source",
+   "ro": "Sursa daunelor"
+  },
+  {
+   "key": "29187",
+   "en": "Impact with ground",
+   "ro": "Impact cu solul"
+  },
+  {
+   "key": "29188",
+   "en": "Malfunction Source",
+   "ro": "Sursa defecțiunii"
+  },
+  {
+   "key": "29189",
+   "en": "Code breach (seizure of system control)",
+   "ro": "Spargere de cod (preluarea controlului sistemului)"
+  },
+  {
+   "key": "29190",
+   "en": "Smuggling drone",
+   "ro": "Dronă de contrabandă"
+  },
+  {
+   "key": "29191",
+   "en": "Remote hack",
+   "ro": "Hack de la distanță"
+  },
+  {
+   "key": "29192",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "29193",
+   "en": "STATUS: Operational",
+   "ro": "STATUS: Operațional"
+  },
+  {
+   "key": "29195",
+   "en": "SynthCoke",
+   "ro": "SynthCoke"
+  },
+  {
+   "key": "29196",
+   "en": "Box",
+   "ro": "Cutie"
+  },
+  {
+   "key": "29198",
+   "en": "Narcotics-Filled Boxes",
+   "ro": "Cutii cu narcotice"
+  },
+  {
+   "key": "29199",
+   "en": "Transported via drone",
+   "ro": "Transportate cu drona"
+  },
+  {
+   "key": "29200",
+   "en": "Male",
+   "ro": "Masculin"
+  },
+  {
+   "key": "29202",
+   "en": "Status: Deceased",
+   "ro": "Status: Decedat"
+  },
+  {
+   "key": "29204",
+   "en": "Multiple gunshot wounds",
+   "ro": "Răni multiple de glonț"
+  },
+  {
+   "key": "29208",
+   "en": "Cause of Death:",
+   "ro": "Cauza morții:"
+  },
+  {
+   "key": "29209",
+   "en": "Interaction Type:",
+   "ro": "Tip de interacțiune:"
+  },
+  {
+   "key": "29210",
+   "en": "Gunshot wounds",
+   "ro": "Răni de glonț"
+  },
+  {
+   "key": "29211",
+   "en": "Lethal",
+   "ro": "Letal"
+  },
+  {
+   "key": "29212",
+   "en": "Chemicals",
+   "ro": "Substanțe chimice"
+  },
+  {
+   "key": "29215",
+   "en": "Enhancing Properties",
+   "ro": "Proprietăți de amplificare"
+  },
+  {
+   "key": "29217",
+   "en": "Type:",
+   "ro": "Tip:"
+  },
+  {
+   "key": "29219",
+   "en": "SUV, 4WD, suited for all terrains",
+   "ro": "SUV, tracțiune integrală, potrivit pentru orice teren"
+  },
+  {
+   "key": "29221",
+   "en": "Windshield: Damaged",
+   "ro": "Parbriz: Avariat"
+  },
+  {
+   "key": "29223",
+   "en": "Multiple gunshot wounds",
+   "ro": "Răni multiple de glonț"
+  },
+  {
+   "key": "29225",
+   "en": "Status:",
+   "ro": "Status:"
+  },
+  {
+   "key": "29227",
+   "en": "Damage: 30%",
+   "ro": "Daune: 30%"
+  },
+  {
+   "key": "29229",
+   "en": "Custom nomad car",
+   "ro": "Mașină nomadă personalizată"
+  },
+  {
+   "key": "29231",
+   "en": "4WD",
+   "ro": "Tracțiune integrală"
+  },
+  {
+   "key": "29232",
+   "en": "PHYSICAL DAMAGE",
+   "ro": "DAUNE FIZICE"
+  },
+  {
+   "key": "29233",
+   "en": "Bullet holes",
+   "ro": "Găuri de glonț"
+  },
+  {
+   "key": "29234",
+   "en": "The driver was shot",
+   "ro": "Șoferul a fost împușcat"
+  },
+  {
+   "key": "29235",
+   "en": "from the outside",
+   "ro": "din exterior"
+  },
+  {
+   "key": "29238",
+   "en": "Human blood",
+   "ro": "Sânge uman"
+  },
+  {
+   "key": "29239",
+   "en": "Venous and arterial",
+   "ro": "Venos și arterial"
+  },
+  {
+   "key": "29240",
+   "en": "Human tissue",
+   "ro": "Țesut uman"
+  },
+  {
+   "key": "29241",
+   "en": "Brain tissue, bone fragments",
+   "ro": "Țesut cerebral, fragmente osoase"
+  },
+  {
+   "key": "29242",
+   "en": "The victim was slaughtered",
+   "ro": "Victima a fost măcelărită"
+  },
+  {
+   "key": "29243",
+   "en": "Could belong to Trevor Brass",
+   "ro": "Ar putea aparține lui Trevor Brass"
+  },
+  {
+   "key": "29244",
+   "en": "Sparring Robot",
+   "ro": "Robot de sparring"
+  },
+  {
+   "key": "29246",
+   "en": "Manufacturer: Eversdale",
+   "ro": "Producător: Eversdale"
+  },
+  {
+   "key": "29248",
+   "en": "Production Year:",
+   "ro": "An de producție:"
+  },
+  {
+   "key": "29250",
+   "en": "2076",
+   "ro": "2076"
+  },
+  {
+   "key": "29252",
+   "en": "Malfunction Source:",
+   "ro": "Sursa defecțiunii:"
+  },
+  {
+   "key": "29254",
+   "en": "System damaged by viral attack",
+   "ro": "Sistem avariat de un atac viral"
+  },
+  {
+   "key": "29256",
+   "en": "Biomonitor",
+   "ro": "Biomonitor"
+  },
+  {
+   "key": "29258",
+   "en": "Biomonitor Status: Active",
+   "ro": "Status Biomonitor: Activ"
+  },
+  {
+   "key": "29272",
+   "en": "Still of Kerry and Slayton",
+   "ro": "Poză cu Kerry și Slayton"
+  },
+  {
+   "key": "29274",
+   "en": "Year taken: 2065",
+   "ro": "Anul fotografierii: 2065"
+  },
+  {
+   "key": "29276",
+   "en": "FUCK THE CORPS! FUCK THE SYSTEM! BUT DON'T FUCK WITH SAMURAI! SEE JOHNNY SILVERHAND SHRED IN CONCERT!",
+   "ro": "BAG PULA-N CORPO! MĂ PIȘ PE SISTEM! DAR NU TE PUNE CU SAMURAI! VEZI-L PE JOHNNY SILVERHAND ZDRĂNGĂNIND LA CONCERT!"
+  },
+  {
+   "key": "29278",
+   "en": "04.20.2007",
+   "ro": "04.20.2007"
+  },
+  {
+   "key": "29280",
+   "en": "DON'T LISTEN TO THE COPS. DON'T LISTEN TO THE SUITS IN OFFICE. DON'T LISTEN TO YOUR MOM. LISTEN TO SAMURAI! LIVE IN CONCERT!",
+   "ro": "NU-I ASCULTA PE POLIȚI. NU-I ASCULTA PE CEI ÎN COSTUM DE LA BIROU. NU ASCULTA DE MAMA TA. ASCULTĂ SAMURAI! LIVE ÎN CONCERT!"
+  },
+  {
+   "key": "29282",
+   "en": "11.24.2006",
+   "ro": "11.24.2006"
+  },
+  {
+   "key": "29284",
+   "en": "Basic Information:",
+   "ro": "Informații de bază:"
+  },
+  {
+   "key": "29285",
+   "en": "DON'T MISS IT! A SAMURAI CONCERT FOR THE AGES! WITH SPECIAL GUESTS: UTTER BRAINFUCKS AND SARAH SULFUR!",
+   "ro": "NU RATA! UN CONCERT SAMURAI DE POMENIT! CU INVITAȚI SPECIALI: UTTER BRAINFUCKS ȘI SARAH SULFUR!"
+  },
+  {
+   "key": "29286",
+   "en": "A popular device used to reproduce a wide range of emotions and sensations for entertainment purposes",
+   "ro": "Un aparat răspândit folosit pentru a reproduce o gamă largă de emoții și senzații în scop de divertisment"
+  },
+  {
+   "key": "29287",
+   "en": "09.12.2005",
+   "ro": "09.12.2005"
+  },
+  {
+   "key": "29289",
+   "en": "COMING SOON… SAMURAI IN CONCERT! OLD HITS, NEW THRASHERS! TICKETS AVAILABLE AT THE GATE.",
+   "ro": "ÎN CURÂND… SAMURAI ÎN CONCERT! HITURI VECHI, THRASHERI NOI! BILETE LA POARTĂ."
+  },
+  {
+   "key": "29291",
+   "en": "07.01.2004",
+   "ro": "07.01.2004"
+  },
+  {
+   "key": "29292",
+   "en": "Centzon Totochtin",
+   "ro": "Centzon Totochtin"
+  },
+  {
+   "key": "29293",
+   "en": "Tequila Oro, 40%",
+   "ro": "Tequila Oro, 40%"
+  },
+  {
+   "key": "29294",
+   "en": "Guitar with Samurai Stickers",
+   "ro": "Chitară cu stickere Samurai"
+  },
+  {
+   "key": "29295",
+   "en": "Manufactured: 05/02/2073",
+   "ro": "Fabricat: 05/02/2073"
+  },
+  {
+   "key": "29304",
+   "en": "Status",
+   "ro": "Status"
+  },
+  {
+   "key": "29305",
+   "en": "Deceased",
+   "ro": "Decedat"
+  },
+  {
+   "key": "29306",
+   "en": "Cause of Death",
+   "ro": "Cauza morții"
+  },
+  {
+   "key": "29307",
+   "en": "Multiple gunshot wounds",
+   "ro": "Răni multiple de glonț"
+  },
+  {
+   "key": "29308",
+   "en": "Assessment",
+   "ro": "Evaluare"
+  },
+  {
+   "key": "29309",
+   "en": "Blind fire from an automatic weapon",
+   "ro": "Foc orb din armă automată"
+  },
+  {
+   "key": "29310",
+   "en": "Male, aged 45",
+   "ro": "Bărbat, 45 de ani"
+  },
+  {
+   "key": "29311",
+   "en": "Wounded",
+   "ro": "Rănit"
+  },
+  {
+   "key": "29312",
+   "en": "Status",
+   "ro": "Status"
+  },
+  {
+   "key": "29313",
+   "en": "Multiple gunshot wounds",
+   "ro": "Răni multiple de glonț"
+  },
+  {
+   "key": "29314",
+   "en": "Flavio dos Santos",
+   "ro": "Flavio dos Santos"
+  },
+  {
+   "key": "29315",
+   "en": "Alive – Critical Condition",
+   "ro": "În viață – Stare critică"
+  },
+  {
+   "key": "29317",
+   "en": "Product Selection",
+   "ro": "Selecție produs"
+  },
+  {
+   "key": "29319",
+   "en": "None Found",
+   "ro": "Nu s-a găsit nimic"
+  },
+  {
+   "key": "29321",
+   "en": "Condition",
+   "ro": "Stare"
+  },
+  {
+   "key": "29323",
+   "en": "Scratches and other damage to lower parts near the floor",
+   "ro": "Zgârieturi și alte daune la partea inferioară, lângă podea"
+  },
+  {
+   "key": "29325",
+   "en": "Connection",
+   "ro": "Conexiune"
+  },
+  {
+   "key": "29328",
+   "en": "SCSM connected to another device, possibly remote controlled",
+   "ro": "SCSM conectat la un alt aparat, posibil controlat de la distanță"
+  },
+  {
+   "key": "29330",
+   "en": "Ventilation",
+   "ro": "Ventilație"
+  },
+  {
+   "key": "29332",
+   "en": "Broken",
+   "ro": "Stricat"
+  },
+  {
+   "key": "29334",
+   "en": "Device flooded",
+   "ro": "Aparat inundat"
+  },
+  {
+   "key": "29335",
+   "en": "Processor flooded",
+   "ro": "Procesor inundat"
+  },
+  {
+   "key": "29336",
+   "en": "Ventilation System",
+   "ro": "Sistem de ventilație"
+  },
+  {
+   "key": "29337",
+   "en": "The ventilation system connects this room to the one upstairs",
+   "ro": "Sistemul de ventilație leagă camera asta de cea de sus"
+  },
+  {
+   "key": "29338",
+   "en": "Button",
+   "ro": "Buton"
+  },
+  {
+   "key": "29339",
+   "en": "Press to turn on device",
+   "ro": "Apasă pentru a porni aparatul"
+  },
+  {
+   "key": "29340",
+   "en": "Connection",
+   "ro": "Conexiune"
+  },
+  {
+   "key": "29341",
+   "en": "Use to remotely control another device",
+   "ro": "Folosește pentru a controla de la distanță alt aparat"
+  },
+  {
+   "key": "29342",
+   "en": "Ammo crate",
+   "ro": "Ladă de muniție"
+  },
+  {
+   "key": "29343",
+   "en": "Contains Militech ammo",
+   "ro": "Conține muniție Militech"
+  },
+  {
+   "key": "29344",
+   "en": "Combat Armor",
+   "ro": "Armură de luptă"
+  },
+  {
+   "key": "29386",
+   "en": "Basic Information:",
+   "ro": "Informații de bază:"
+  },
+  {
+   "key": "29389",
+   "en": "Use quickhacks to distract your enemies",
+   "ro": "Folosește quickhack-uri ca să-ți distragi inamicii"
+  },
+  {
+   "key": "29414",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29416",
+   "en": "Central processing unit. Used to establish a network connection in the building, allowing for private access to cyberspace",
+   "ro": "Unitate centrală de procesare. Folosită pentru a stabili o conexiune de rețea în clădire, care permite acces privat la ciberspațiu"
+  },
+  {
+   "key": "29418",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29419",
+   "en": "Lethal",
+   "ro": "Letal"
+  },
+  {
+   "key": "29420",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29421",
+   "en": "A medicinal cocktail designed to lower body temperature. Used by netrunners as a mobile alternative to an ice bath",
+   "ro": "Un cocktail medicinal conceput să reducă temperatura corpului. Folosit de netrunneri ca alternativă portabilă la baia de gheață"
+  },
+  {
+   "key": "29422",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29496",
+   "en": "Description",
+   "ro": "Descriere"
+  },
+  {
+   "key": "29497",
+   "en": "Car-modification machine – manual override suggests illegal operation",
+   "ro": "Aparat de modificat mașini – forțarea manuală sugerează o operațiune ilegală"
+  },
+  {
+   "key": "29498",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29499",
+   "en": "Advanced auto crane with a suspended body",
+   "ro": "Macara auto avansată cu un corp suspendat"
+  },
+  {
+   "key": "29500",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29501",
+   "en": "Distract, Lethal",
+   "ro": "Distrage, Letal"
+  },
+  {
+   "key": "29502",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29503",
+   "en": "A generator connected to the machines",
+   "ro": "Un generator conectat la aparate"
+  },
+  {
+   "key": "29504",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29505",
+   "en": "Lethal",
+   "ro": "Letal"
+  },
+  {
+   "key": "29506",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29507",
+   "en": "Main control unit used to connect the machines' software",
+   "ro": "Unitate principală de control folosită pentru a conecta software-ul aparatelor"
+  },
+  {
+   "key": "29508",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29509",
+   "en": "A datapad with the Kang Tao logo, labeled as containing classified corporate software",
+   "ro": "Un datapad cu logo-ul Kang Tao, etichetat că conține software de corporație clasificat"
+  },
+  {
+   "key": "29520",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29521",
+   "en": "Used to cool objects. Commonly seen in both kitchens as well as ripperdoc clinics",
+   "ro": "Folosit pentru a răci obiecte. Întâlnit des atât în bucătării, cât și în clinicile ripperdoc"
+  },
+  {
+   "key": "29522",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29523",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29524",
+   "en": "Description:",
+   "ro": "Descriere:"
+  },
+  {
+   "key": "29525",
+   "en": "A common mechanical arm implant",
+   "ro": "Un implant mecanic de braț obișnuit"
+  },
+  {
+   "key": "29526",
+   "en": "Possible Actions:",
+   "ro": "Acțiuni posibile:"
+  },
+  {
+   "key": "29527",
+   "en": "Distract",
+   "ro": "Distrage"
+  },
+  {
+   "key": "29528",
+   "en": "Body Temperature:",
+   "ro": "Temperatura corpului:"
+  },
+  {
+   "key": "29529",
+   "en": "87.4F",
+   "ro": "87,4°F"
+  },
+  {
+   "key": "29530",
+   "en": "Heart Rate:",
+   "ro": "Puls:"
+  },
+  {
+   "key": "29531",
+   "en": "33 bpm",
+   "ro": "33 bpm"
+  },
+  {
+   "key": "29532",
+   "en": "Blood Pressure:",
+   "ro": "Tensiune arterială:"
+  },
+  {
+   "key": "29533",
+   "en": "52/102 mmHg",
+   "ro": "52/102 mmHg"
+  },
+  {
+   "key": "29534",
+   "en": "Body Temperature:",
+   "ro": "Temperatura corpului:"
+  },
+  {
+   "key": "29535",
+   "en": "87.4F",
+   "ro": "87,4°F"
+  },
+  {
+   "key": "29536",
+   "en": "Heart Rate:",
+   "ro": "Puls:"
+  },
+  {
+   "key": "29537",
+   "en": "29 bpm",
+   "ro": "29 bpm"
+  },
+  {
+   "key": "29538",
+   "en": "Blood Pressure:",
+   "ro": "Tensiune arterială:"
+  },
+  {
+   "key": "29539",
+   "en": "50/92 mmHg",
+   "ro": "50/92 mmHg"
+  },
+  {
+   "key": "29540",
+   "en": "Body Temperature:",
+   "ro": "Temperatura corpului:"
+  },
+  {
+   "key": "29541",
+   "en": "90.1F",
+   "ro": "90,1°F"
+  },
+  {
+   "key": "29542",
+   "en": "Heart Rate:",
+   "ro": "Puls:"
+  },
+  {
+   "key": "29543",
+   "en": "52 bpm",
+   "ro": "52 bpm"
+  },
+  {
+   "key": "29544",
+   "en": "Blood Pressure:",
+   "ro": "Tensiune arterială:"
+  },
+  {
+   "key": "29545",
+   "en": "58/114 mmHg",
+   "ro": "58/114 mmHg"
+  },
+  {
+   "key": "29546",
+   "en": "Origin:",
+   "ro": "Origine:"
+  },
+  {
+   "key": "29547",
+   "en": "Strip-club promotional material",
+   "ro": "Material promoțional pentru strip-club"
+  },
+  {
+   "key": "29548",
+   "en": "Body Temperature:",
+   "ro": "Temperatura corpului:"
+  },
+  {
+   "key": "29549",
+   "en": "Date Manufactured:",
+   "ro": "Data fabricației:"
+  },
+  {
+   "key": "29550",
+   "en": "No vital signs detected",
+   "ro": "Nu s-au detectat semne vitale"
+  },
+  {
+   "key": "29551",
+   "en": "2019",
+   "ro": "2019"
+  },
+  {
+   "key": "29552",
+   "en": "Heart Rate:",
+   "ro": "Puls:"
+  },
+  {
+   "key": "29553",
+   "en": "No vital signs detected",
+   "ro": "Nu s-au detectat semne vitale"
+  },
+  {
+   "key": "29554",
+   "en": "Blood Pressure:",
+   "ro": "Tensiune arterială:"
+  },
+  {
+   "key": "29555",
+   "en": "No vital signs detected",
+   "ro": "Nu s-au detectat semne vitale"
+  },
+  {
+   "key": "29556",
+   "en": "Glitter",
+   "ro": "Glitter"
+  },
+  {
+   "key": "29574",
+   "en": "Glitter Container (explosive)",
+   "ro": "Container cu Glitter (exploziv)"
+  },
+  {
+   "key": "29575",
+   "en": "Glitter tanks. Market analysis indicates 3-month supply for Night City. Estimated value: €$10 million",
+   "ro": "Rezervoare cu Glitter. Analiza pieței indică un stoc pentru 3 luni pentru Night City. Valoare estimată: 10 milioane €$"
+  },
+  {
+   "key": "31788",
+   "en": "Cyberpsycho",
+   "ro": "Cyberpsycho"
+  },
+  {
+   "key": "31789",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "31790",
+   "en": "Diego",
+   "ro": "Diego"
+  },
+  {
+   "key": "31793",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "31798",
+   "en": "Cat",
+   "ro": "Pisică"
+  },
+  {
+   "key": "31799",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "31802",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "31806",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "31807",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "31853",
+   "en": "Ennis",
+   "ro": "Ennis"
+  },
+  {
+   "key": "31854",
+   "en": "Ennis D.",
+   "ro": "Ennis D."
+  },
+  {
+   "key": "31855",
+   "en": "Jack",
+   "ro": "Jack"
+  },
+  {
+   "key": "31856",
+   "en": "Jack T.",
+   "ro": "Jack T."
+  },
+  {
+   "key": "31857",
+   "en": "Wraith",
+   "ro": "Wraith"
+  },
+  {
+   "key": "31858",
+   "en": "Wraith",
+   "ro": "Wraith"
+  },
+  {
+   "key": "31859",
+   "en": "Cedric Muller",
+   "ro": "Cedric Muller"
+  },
+  {
+   "key": "31860",
+   "en": "Wraiths Leader",
+   "ro": "Liderul Wraiths"
+  },
+  {
+   "key": "31861",
+   "en": "Norio Akuhara",
+   "ro": "Norio Akuhara"
+  },
+  {
+   "key": "31862",
+   "en": "Dao Hyunh",
+   "ro": "Dao Hyunh"
+  },
+  {
+   "key": "31863",
+   "en": "Gaston Phillips",
+   "ro": "Gaston Phillips"
+  },
+  {
+   "key": "31865",
+   "en": "Matt Liaw",
+   "ro": "Matt Liaw"
+  },
+  {
+   "key": "31867",
+   "en": "Smuggler",
+   "ro": "Contrabandistul"
+  },
+  {
+   "key": "31869",
+   "en": "Smuggler",
+   "ro": "Contrabandistul"
+  },
+  {
+   "key": "31871",
+   "en": "Lieutenant Mower",
+   "ro": "Locotenentul Mower"
+  },
+  {
+   "key": "31985",
+   "en": "Aldecaldo Kid",
+   "ro": "Copil Aldecaldo"
+  },
+  {
+   "key": "31986",
+   "en": "Taco",
+   "ro": "Taco"
+  },
+  {
+   "key": "31987",
+   "en": "Jeff",
+   "ro": "Jeff"
+  },
+  {
+   "key": "31988",
+   "en": "Brandon",
+   "ro": "Brandon"
+  },
+  {
+   "key": "31989",
+   "en": "Brandon",
+   "ro": "Brandon"
+  },
+  {
+   "key": "31990",
+   "en": "Rick",
+   "ro": "Rick"
+  },
+  {
+   "key": "31991",
+   "en": "Rick The Cripple",
+   "ro": "Rick Șchiopul"
+  },
+  {
+   "key": "31992",
+   "en": "Josh",
+   "ro": "Josh"
+  },
+  {
+   "key": "31993",
+   "en": "Jumbo Josh",
+   "ro": "Jumbo Josh"
+  },
+  {
+   "key": "31994",
+   "en": "Aldwyn",
+   "ro": "Aldwyn"
+  },
+  {
+   "key": "31995",
+   "en": "Kelly",
+   "ro": "Kelly"
+  },
+  {
+   "key": "31996",
+   "en": "Becker",
+   "ro": "Becker"
+  },
+  {
+   "key": "31997",
+   "en": "Nigel",
+   "ro": "Nigel"
+  },
+  {
+   "key": "31998",
+   "en": "Jean",
+   "ro": "Jean"
+  },
+  {
+   "key": "31999",
+   "en": "Sandley",
+   "ro": "Sandley"
+  },
+  {
+   "key": "32000",
+   "en": "Anel",
+   "ro": "Anel"
+  },
+  {
+   "key": "32001",
+   "en": "Farah",
+   "ro": "Farah"
+  },
+  {
+   "key": "32002",
+   "en": "Darline",
+   "ro": "Darline"
+  },
+  {
+   "key": "32003",
+   "en": "6th Street Soldier",
+   "ro": "Soldat 6th Street"
+  },
+  {
+   "key": "32004",
+   "en": "6th Street Soldier",
+   "ro": "Soldat 6th Street"
+  },
+  {
+   "key": "32005",
+   "en": "6th Street Captain",
+   "ro": "Căpitan 6th Street"
+  },
+  {
+   "key": "32012",
+   "en": "Barry",
+   "ro": "Barry"
+  },
+  {
+   "key": "32013",
+   "en": "Barry Lewis",
+   "ro": "Barry Lewis"
+  },
+  {
+   "key": "32014",
+   "en": "Mendez",
+   "ro": "Mendez"
+  },
+  {
+   "key": "32015",
+   "en": "Juan Mendez",
+   "ro": "Juan Mendez"
+  },
+  {
+   "key": "32016",
+   "en": "Petrova",
+   "ro": "Petrova"
+  },
+  {
+   "key": "32017",
+   "en": "Nadia Petrova",
+   "ro": "Nadia Petrova"
+  },
+  {
+   "key": "32018",
+   "en": "Jesse",
+   "ro": "Jesse"
+  },
+  {
+   "key": "32019",
+   "en": "Jesse Johnson",
+   "ro": "Jesse Johnson"
+  },
+  {
+   "key": "32020",
+   "en": "Brad",
+   "ro": "Brad"
+  },
+  {
+   "key": "32021",
+   "en": "Brad Stacy",
+   "ro": "Brad Stacy"
+  },
+  {
+   "key": "32022",
+   "en": "Vance",
+   "ro": "Vance"
+  },
+  {
+   "key": "32023",
+   "en": "Vance Noren",
+   "ro": "Vance Noren"
+  },
+  {
+   "key": "32024",
+   "en": "Zen Master",
+   "ro": "Maestru Zen"
+  },
+  {
+   "key": "32025",
+   "en": "R3N0",
+   "ro": "R3N0"
+  },
+  {
+   "key": "32026",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32027",
+   "en": "Thomas",
+   "ro": "Thomas"
+  },
+  {
+   "key": "32028",
+   "en": "Thomas Hays",
+   "ro": "Thomas Hays"
+  },
+  {
+   "key": "32030",
+   "en": "Jake Scooter",
+   "ro": "Jake Scooter"
+  },
+  {
+   "key": "32031",
+   "en": "Emily Scooter",
+   "ro": "Emily Scooter"
+  },
+  {
+   "key": "32032",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32033",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32034",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32035",
+   "en": "Karim",
+   "ro": "Karim"
+  },
+  {
+   "key": "32036",
+   "en": "Karim Noel",
+   "ro": "Karim Noel"
+  },
+  {
+   "key": "32037",
+   "en": "Street Musician",
+   "ro": "Muzician de stradă"
+  },
+  {
+   "key": "32038",
+   "en": "Sandra",
+   "ro": "Sandra"
+  },
+  {
+   "key": "32039",
+   "en": "Sandra Dorsett",
+   "ro": "Sandra Dorsett"
+  },
+  {
+   "key": "32048",
+   "en": "Gerald Winkler",
+   "ro": "Gerald Winkler"
+  },
+  {
+   "key": "32050",
+   "en": "Sue Glover",
+   "ro": "Sue Glover"
+  },
+  {
+   "key": "32052",
+   "en": "Meghan Hattori",
+   "ro": "Meghan Hattori"
+  },
+  {
+   "key": "32054",
+   "en": "Airi Okawa",
+   "ro": "Airi Okawa"
+  },
+  {
+   "key": "32056",
+   "en": "John Doe",
+   "ro": "John Doe"
+  },
+  {
+   "key": "32058",
+   "en": "Jane Doe",
+   "ro": "Jane Doe"
+  },
+  {
+   "key": "32067",
+   "en": "Jessica Yu",
+   "ro": "Jessica Yu"
+  },
+  {
+   "key": "32072",
+   "en": "Stanley Carlson",
+   "ro": "Stanley Carlson"
+  },
+  {
+   "key": "32073",
+   "en": "Kikil Ivakin",
+   "ro": "Kikil Ivakin"
+  },
+  {
+   "key": "32074",
+   "en": "Griselda Martinez",
+   "ro": "Griselda Martinez"
+  },
+  {
+   "key": "32075",
+   "en": "James",
+   "ro": "James"
+  },
+  {
+   "key": "32076",
+   "en": "James Ito",
+   "ro": "James Ito"
+  },
+  {
+   "key": "32089",
+   "en": "Bhikkhu",
+   "ro": "Bhikkhu"
+  },
+  {
+   "key": "32090",
+   "en": "Bhikkhu",
+   "ro": "Bhikkhu"
+  },
+  {
+   "key": "32091",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32092",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32093",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32094",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32095",
+   "en": "Pacifica Resident",
+   "ro": "Locuitor Pacifica"
+  },
+  {
+   "key": "32096",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "32097",
+   "en": "Stefan",
+   "ro": "Stefan"
+  },
+  {
+   "key": "32100",
+   "en": "Techie",
+   "ro": "Tehnician"
+  },
+  {
+   "key": "32101",
+   "en": "Jerry [Techie]",
+   "ro": "Jerry [Tehnician]"
+  },
+  {
+   "key": "32102",
+   "en": "Theo",
+   "ro": "Theo"
+  },
+  {
+   "key": "32103",
+   "en": "Theo Price",
+   "ro": "Theo Price"
+  },
+  {
+   "key": "32104",
+   "en": "Vandal",
+   "ro": "Vandal"
+  },
+  {
+   "key": "32105",
+   "en": "Vandal",
+   "ro": "Vandal"
+  },
+  {
+   "key": "32107",
+   "en": "Dennis Cranmer",
+   "ro": "Dennis Cranmer"
+  },
+  {
+   "key": "32109",
+   "en": "Joseph",
+   "ro": "Joseph"
+  },
+  {
+   "key": "32110",
+   "en": "Joseph J. Odman",
+   "ro": "Joseph J. Odman"
+  },
+  {
+   "key": "32111",
+   "en": "Cynthia",
+   "ro": "Cynthia"
+  },
+  {
+   "key": "32112",
+   "en": "Cynthia Najarro",
+   "ro": "Cynthia Najarro"
+  },
+  {
+   "key": "32113",
+   "en": "Shady Ripperdoc",
+   "ro": "Ripperdoc dubios"
+  },
+  {
+   "key": "32114",
+   "en": "Pedro",
+   "ro": "Pedro"
+  },
+  {
+   "key": "32115",
+   "en": "Pedro",
+   "ro": "Pedro"
+  },
+  {
+   "key": "32116",
+   "en": "Lana",
+   "ro": "Lana"
+  },
+  {
+   "key": "32117",
+   "en": "Juan",
+   "ro": "Juan"
+  },
+  {
+   "key": "32118",
+   "en": "Lana Prince",
+   "ro": "Lana Prince"
+  },
+  {
+   "key": "32119",
+   "en": "Juan",
+   "ro": "Juan"
+  },
+  {
+   "key": "32120",
+   "en": "Elderly Lady",
+   "ro": "Bătrâna"
+  },
+  {
+   "key": "32121",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32122",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32123",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32124",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32125",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32126",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32127",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32128",
+   "en": "Trauma Team Paramedic",
+   "ro": "Paramadic Trauma Team"
+  },
+  {
+   "key": "32129",
+   "en": "Trauma Team Soldier",
+   "ro": "Soldat Trauma Team"
+  },
+  {
+   "key": "32130",
+   "en": "Sandra",
+   "ro": "Sandra"
+  },
+  {
+   "key": "32131",
+   "en": "Sandra Dorsett",
+   "ro": "Sandra Dorsett"
+  },
+  {
+   "key": "32132",
+   "en": "Body",
+   "ro": "Cadavru"
+  },
+  {
+   "key": "32133",
+   "en": "Scavenger",
+   "ro": "Hienă"
+  },
+  {
+   "key": "32134",
+   "en": "Body",
+   "ro": "Cadavru"
+  },
+  {
+   "key": "32135",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "32136",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "32137",
+   "en": "Abernathy",
+   "ro": "Abernathy"
+  },
+  {
+   "key": "32138",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "32139",
+   "en": "Lars",
+   "ro": "Lars"
+  },
+  {
+   "key": "32140",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "32141",
+   "en": "Lars",
+   "ro": "Lars"
+  },
+  {
+   "key": "32142",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "32143",
+   "en": "Kurt",
+   "ro": "Kurt"
+  },
+  {
+   "key": "32144",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32145",
+   "en": "Kurt",
+   "ro": "Kurt"
+  },
+  {
+   "key": "32146",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32147",
+   "en": "Militech Guard",
+   "ro": "Gardian Militech"
+  },
+  {
+   "key": "32148",
+   "en": "Frank",
+   "ro": "Frank"
+  },
+  {
+   "key": "32150",
+   "en": "Jenkins",
+   "ro": "Jenkins"
+  },
+  {
+   "key": "32151",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "32152",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "32154",
+   "en": "Carter",
+   "ro": "Carter"
+  },
+  {
+   "key": "32156",
+   "en": "Life Coach",
+   "ro": "Coach de viață"
+  },
+  {
+   "key": "32158",
+   "en": "Mox",
+   "ro": "Mox"
+  },
+  {
+   "key": "32160",
+   "en": "Mox",
+   "ro": "Mox"
+  },
+  {
+   "key": "32162",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "32164",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "32166",
+   "en": "Spec Ops Soldier",
+   "ro": "Soldat operațiuni speciale"
+  },
+  {
+   "key": "32167",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "32168",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "32170",
+   "en": "Regular",
+   "ro": "Client obișnuit"
+  },
+  {
+   "key": "32172",
+   "en": "Regular",
+   "ro": "Client obișnuit"
+  },
+  {
+   "key": "32174",
+   "en": "Gustav",
+   "ro": "Gustav"
+  },
+  {
+   "key": "32176",
+   "en": "Gustav Asensio",
+   "ro": "Gustav Asensio"
+  },
+  {
+   "key": "32178",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "32180",
+   "en": "Camilo",
+   "ro": "Camilo"
+  },
+  {
+   "key": "32182",
+   "en": "Camilo Castilla",
+   "ro": "Camilo Castilla"
+  },
+  {
+   "key": "32183",
+   "en": "Nibbles",
+   "ro": "Nibbles"
+  },
+  {
+   "key": "32184",
+   "en": "Delivery Worker",
+   "ro": "Livrator"
+  },
+  {
+   "key": "32185",
+   "en": "Nibbles",
+   "ro": "Nibbles"
+  },
+  {
+   "key": "32186",
+   "en": "Mercenary",
+   "ro": "Mercenar"
+  },
+  {
+   "key": "32187",
+   "en": "Mercenary",
+   "ro": "Mercenar"
+  },
+  {
+   "key": "32190",
+   "en": "Irene",
+   "ro": "Irene"
+  },
+  {
+   "key": "32191",
+   "en": "Irene Hermoso",
+   "ro": "Irene Hermoso"
+  },
+  {
+   "key": "32192",
+   "en": "Lucas",
+   "ro": "Lucas"
+  },
+  {
+   "key": "32193",
+   "en": "Mox",
+   "ro": "Mox"
+  },
+  {
+   "key": "32194",
+   "en": "Lucas Palmer",
+   "ro": "Lucas Palmer"
+  },
+  {
+   "key": "32196",
+   "en": "Daniel",
+   "ro": "Daniel"
+  },
+  {
+   "key": "32197",
+   "en": "Joytoy",
+   "ro": "Joytoy"
+  },
+  {
+   "key": "32198",
+   "en": "Daniel Duarte",
+   "ro": "Daniel Duarte"
+  },
+  {
+   "key": "32199",
+   "en": "Stripper",
+   "ro": "Stripteuză"
+  },
+  {
+   "key": "32200",
+   "en": "Mateo",
+   "ro": "Mateo"
+  },
+  {
+   "key": "32201",
+   "en": "Employee",
+   "ro": "Angajat"
+  },
+  {
+   "key": "32202",
+   "en": "Mateo Lorenzo",
+   "ro": "Mateo Lorenzo"
+  },
+  {
+   "key": "32203",
+   "en": "Clerk",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "32204",
+   "en": "Big Joe",
+   "ro": "Big Joe"
+  },
+  {
+   "key": "32205",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "32206",
+   "en": "Homeless",
+   "ro": "Fără adăpost"
+  },
+  {
+   "key": "32207",
+   "en": "Store Customer",
+   "ro": "Client de magazin"
+  },
+  {
+   "key": "32208",
+   "en": "Sofia",
+   "ro": "Sofia"
+  },
+  {
+   "key": "32209",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "32210",
+   "en": "Sofia Rossi",
+   "ro": "Sofia Rossi"
+  },
+  {
+   "key": "32211",
+   "en": "Store Customer",
+   "ro": "Client de magazin"
+  },
+  {
+   "key": "32212",
+   "en": "Marcus",
+   "ro": "Marcus"
+  },
+  {
+   "key": "32213",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "32214",
+   "en": "Marcus Barros",
+   "ro": "Marcus Barros"
+  },
+  {
+   "key": "32215",
+   "en": "Store Customer",
+   "ro": "Client de magazin"
+  },
+  {
+   "key": "32216",
+   "en": "6th Street Soldier",
+   "ro": "Soldat 6th Street"
+  },
+  {
+   "key": "32218",
+   "en": "6th Street Soldier",
+   "ro": "Soldat 6th Street"
+  },
+  {
+   "key": "32220",
+   "en": "6th Street Soldier",
+   "ro": "Soldat 6th Street"
+  },
+  {
+   "key": "32222",
+   "en": "Janitor",
+   "ro": "Îngrijitor"
+  },
+  {
+   "key": "32224",
+   "en": "Rick",
+   "ro": "Rick"
+  },
+  {
+   "key": "32225",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32226",
+   "en": "Rick Martinez",
+   "ro": "Rick Martinez"
+  },
+  {
+   "key": "32227",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32228",
+   "en": "Stints",
+   "ro": "Stints"
+  },
+  {
+   "key": "32229",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32230",
+   "en": "Henry Stints",
+   "ro": "Henry Stints"
+  },
+  {
+   "key": "32231",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32232",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "32233",
+   "en": "Regular",
+   "ro": "Client obișnuit"
+  },
+  {
+   "key": "32234",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "32235",
+   "en": "Regular",
+   "ro": "Client obișnuit"
+  },
+  {
+   "key": "32236",
+   "en": "Kaoru",
+   "ro": "Kaoru"
+  },
+  {
+   "key": "32237",
+   "en": "Kaoru",
+   "ro": "Kaoru"
+  },
+  {
+   "key": "32238",
+   "en": "Corporate Security",
+   "ro": "Securitate corporatistă"
+  },
+  {
+   "key": "32239",
+   "en": "McCoy",
+   "ro": "McCoy"
+  },
+  {
+   "key": "32240",
+   "en": "Traveler",
+   "ro": "Călător"
+  },
+  {
+   "key": "32241",
+   "en": "Traveler",
+   "ro": "Călător"
+  },
+  {
+   "key": "32242",
+   "en": "Border Guard",
+   "ro": "Border Guard"
+  },
+  {
+   "key": "32243",
+   "en": "Border Guard",
+   "ro": "Border Guard"
+  },
+  {
+   "key": "32244",
+   "en": "Border Guard",
+   "ro": "Border Guard"
+  },
+  {
+   "key": "32245",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "32246",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "32247",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "32248",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "32249",
+   "en": "Doorman",
+   "ro": "Portar"
+  },
+  {
+   "key": "32250",
+   "en": "Konpeki Plaza Doorman",
+   "ro": "Portar Konpeki Plaza"
+  },
+  {
+   "key": "32251",
+   "en": "Concierge",
+   "ro": "Concierge"
+  },
+  {
+   "key": "32252",
+   "en": "Konpeki Plaza Concierge",
+   "ro": "Concierge Konpeki Plaza"
+  },
+  {
+   "key": "32253",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32254",
+   "en": "Konpeki Plaza Receptionist",
+   "ro": "Recepționer Konpeki Plaza"
+  },
+  {
+   "key": "32255",
+   "en": "Waitress",
+   "ro": "Ospătăriță"
+  },
+  {
+   "key": "32256",
+   "en": "Konpeki Plaza Waitress",
+   "ro": "Ospătăriță Konpeki Plaza"
+  },
+  {
+   "key": "32257",
+   "en": "Janitor",
+   "ro": "Îngrijitor"
+  },
+  {
+   "key": "32258",
+   "en": "Konpeki Plaza Janitor",
+   "ro": "Îngrijitor Konpeki Plaza"
+  },
+  {
+   "key": "32259",
+   "en": "Housekeeping",
+   "ro": "Menajeră"
+  },
+  {
+   "key": "32260",
+   "en": "Konpeki Plaza Housekeeping",
+   "ro": "Menajeră Konpeki Plaza"
+  },
+  {
+   "key": "32261",
+   "en": "Bartender",
+   "ro": "Barman"
+  },
+  {
+   "key": "32262",
+   "en": "Konpeki Plaza Bartender",
+   "ro": "Barman Konpeki Plaza"
+  },
+  {
+   "key": "32263",
+   "en": "Techie",
+   "ro": "Tehnician"
+  },
+  {
+   "key": "32264",
+   "en": "Konpeki Plaza Techie",
+   "ro": "Tehnician Konpeki Plaza"
+  },
+  {
+   "key": "32265",
+   "en": "6th Street",
+   "ro": "6th Street"
+  },
+  {
+   "key": "32266",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "32269",
+   "en": "Arasaka Netrunner",
+   "ro": "Netrunner Arasaka"
+  },
+  {
+   "key": "32271",
+   "en": "Shaitan",
+   "ro": "Shaitan"
+  },
+  {
+   "key": "32272",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "32273",
+   "en": "Shaitan",
+   "ro": "Shaitan"
+  },
+  {
+   "key": "32274",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "32275",
+   "en": "Spider Murphy",
+   "ro": "Spider Murphy"
+  },
+  {
+   "key": "32276",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "32277",
+   "en": "Spider Murphy",
+   "ro": "Spider Murphy"
+  },
+  {
+   "key": "32278",
+   "en": "Konpeki Plaza Security",
+   "ro": "Securitate Konpeki Plaza"
+  },
+  {
+   "key": "32279",
+   "en": "Pilot",
+   "ro": "Pilot"
+  },
+  {
+   "key": "32280",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "32281",
+   "en": "Arasaka Scientist",
+   "ro": "Cercetător Arasaka"
+  },
+  {
+   "key": "32282",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "32283",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32284",
+   "en": "A.I.",
+   "ro": "I.A."
+  },
+  {
+   "key": "32286",
+   "en": "Konpeki Plaza A.I.",
+   "ro": "I.A. Konpeki Plaza"
+  },
+  {
+   "key": "32288",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32290",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "32291",
+   "en": "Groupie",
+   "ro": "Groupie"
+  },
+  {
+   "key": "32292",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32293",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "32294",
+   "en": "Arasaka Agent",
+   "ro": "Agent Arasaka"
+  },
+  {
+   "key": "32295",
+   "en": "Fanboy",
+   "ro": "Fan"
+  },
+  {
+   "key": "32296",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "32297",
+   "en": "Fangirl",
+   "ro": "Fană"
+  },
+  {
+   "key": "32298",
+   "en": "Escort",
+   "ro": "Escortă"
+  },
+  {
+   "key": "32300",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "32301",
+   "en": "Martin Tin",
+   "ro": "Martin Tin"
+  },
+  {
+   "key": "32302",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "32303",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "32304",
+   "en": "Guest",
+   "ro": "Oaspete"
+  },
+  {
+   "key": "32305",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "32306",
+   "en": "Tom",
+   "ro": "Tom"
+  },
+  {
+   "key": "32307",
+   "en": "Konpeki Plaza Guest",
+   "ro": "Oaspete Konpeki Plaza"
+  },
+  {
+   "key": "32308",
+   "en": "Techie",
+   "ro": "Tehnician"
+  },
+  {
+   "key": "32309",
+   "en": "Guest",
+   "ro": "Oaspete"
+  },
+  {
+   "key": "32310",
+   "en": "Konpeki Plaza Guest",
+   "ro": "Oaspete Konpeki Plaza"
+  },
+  {
+   "key": "32311",
+   "en": "Bellhop",
+   "ro": "Bagajist"
+  },
+  {
+   "key": "32312",
+   "en": "Mordellini",
+   "ro": "Mordellini"
+  },
+  {
+   "key": "32313",
+   "en": "Bartolomeo Mordellini",
+   "ro": "Bartolomeo Mordellini"
+  },
+  {
+   "key": "32314",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "32315",
+   "en": "Arasaka Octant",
+   "ro": "Octant Arasaka"
+  },
+  {
+   "key": "32316",
+   "en": "Drone",
+   "ro": "Dronă"
+  },
+  {
+   "key": "32317",
+   "en": "Trauma Team Octant",
+   "ro": "Octant Trauma Team"
+  },
+  {
+   "key": "32318",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "32319",
+   "en": "Kang Tao Pilot",
+   "ro": "Pilot Kang Tao"
+  },
+  {
+   "key": "32320",
+   "en": "Kang Tao Paramedic",
+   "ro": "Paramedic Kang Tao"
+  },
+  {
+   "key": "32321",
+   "en": "Aldecaldo",
+   "ro": "Aldecaldo"
+  },
+  {
+   "key": "32322",
+   "en": "Aldecaldo",
+   "ro": "Aldecaldo"
+  },
+  {
+   "key": "32343",
+   "en": "Milt Nauman",
+   "ro": "Milt Nauman"
+  },
+  {
+   "key": "32344",
+   "en": "Toshiro",
+   "ro": "Toshiro"
+  },
+  {
+   "key": "32345",
+   "en": "Akira",
+   "ro": "Akira"
+  },
+  {
+   "key": "32346",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32347",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "32348",
+   "en": "Cat",
+   "ro": "Pisică"
+  },
+  {
+   "key": "32349",
+   "en": "Godiva",
+   "ro": "Godiva"
+  },
+  {
+   "key": "32350",
+   "en": "Melissa Wellingham",
+   "ro": "Melissa Wellingham"
+  },
+  {
+   "key": "32351",
+   "en": "Ringo",
+   "ro": "Ringo"
+  },
+  {
+   "key": "32352",
+   "en": "Johnnie Peterson",
+   "ro": "Johnnie Peterson"
+  },
+  {
+   "key": "32353",
+   "en": "Zeke",
+   "ro": "Zeke"
+  },
+  {
+   "key": "32354",
+   "en": "Zeke Daniels",
+   "ro": "Zeke Daniels"
+  },
+  {
+   "key": "32355",
+   "en": "Engels",
+   "ro": "Engels"
+  },
+  {
+   "key": "32356",
+   "en": "Freddie Burns",
+   "ro": "Freddie Burns"
+  },
+  {
+   "key": "32357",
+   "en": "Lilayah",
+   "ro": "Lilayah"
+  },
+  {
+   "key": "32358",
+   "en": "Classified",
+   "ro": "Clasificat"
+  },
+  {
+   "key": "32359",
+   "en": "Trigger",
+   "ro": "Trigger"
+  },
+  {
+   "key": "32360",
+   "en": "Annie Capolino",
+   "ro": "Annie Capolino"
+  },
+  {
+   "key": "32361",
+   "en": "Yishen",
+   "ro": "Yishen"
+  },
+  {
+   "key": "32362",
+   "en": "Yishen Rhee",
+   "ro": "Yishen Rhee"
+  },
+  {
+   "key": "32363",
+   "en": "Roxxi",
+   "ro": "Roxxi"
+  },
+  {
+   "key": "32364",
+   "en": "Roxanne Colton",
+   "ro": "Roxanne Colton"
+  },
+  {
+   "key": "32365",
+   "en": "Kissy",
+   "ro": "Kissy"
+  },
+  {
+   "key": "32366",
+   "en": "Kimiko Sanchez",
+   "ro": "Kimiko Sanchez"
+  },
+  {
+   "key": "32367",
+   "en": "Axeman",
+   "ro": "Axeman"
+  },
+  {
+   "key": "32368",
+   "en": "Axel Mankievicz",
+   "ro": "Axel Mankievicz"
+  },
+  {
+   "key": "32369",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32370",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32371",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32372",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "32373",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32375",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32376",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32378",
+   "en": "Agent",
+   "ro": "Agent"
+  },
+  {
+   "key": "32382",
+   "en": "Camera",
+   "ro": "Cameră"
+  },
+  {
+   "key": "32384",
+   "en": "Elderly Man",
+   "ro": "Bătrân"
+  },
+  {
+   "key": "32386",
+   "en": "Wakako's Huscle",
+   "ro": "Bodyguardul lui Wakako"
+  },
+  {
+   "key": "32388",
+   "en": "Techie",
+   "ro": "Tehnician"
+  },
+  {
+   "key": "32390",
+   "en": "Stranger",
+   "ro": "Străin"
+  },
+  {
+   "key": "32392",
+   "en": "Stranger",
+   "ro": "Străin"
+  },
+  {
+   "key": "32394",
+   "en": "Kannushi",
+   "ro": "Kannushi"
+  },
+  {
+   "key": "32396",
+   "en": "Shinshoku",
+   "ro": "Shinshoku"
+  },
+  {
+   "key": "32398",
+   "en": "Miko",
+   "ro": "Miko"
+  },
+  {
+   "key": "32399",
+   "en": "Yorinobu's Bodyguard",
+   "ro": "Gardă de corp a lui Yorinobu"
+  },
+  {
+   "key": "32401",
+   "en": "Fujo",
+   "ro": "Fujo"
+  },
+  {
+   "key": "32402",
+   "en": "Board Member",
+   "ro": "Membru al consiliului"
+  },
+  {
+   "key": "32404",
+   "en": "Board Member",
+   "ro": "Membru al consiliului"
+  },
+  {
+   "key": "32406",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32467",
+   "en": "Aldecaldo",
+   "ro": "Aldecaldo"
+  },
+  {
+   "key": "32468",
+   "en": "Aldecaldo",
+   "ro": "Aldecaldo"
+  },
+  {
+   "key": "32470",
+   "en": "Big Militech Drone",
+   "ro": "Dronă Militech mare"
+  },
+  {
+   "key": "32473",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32474",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32476",
+   "en": "Militech Captain",
+   "ro": "Căpitan Militech"
+  },
+  {
+   "key": "32477",
+   "en": "Waitress",
+   "ro": "Ospătăriță"
+  },
+  {
+   "key": "32479",
+   "en": "Bartender",
+   "ro": "Barman"
+  },
+  {
+   "key": "32480",
+   "en": "Arasaka Mech",
+   "ro": "Mech Arasaka"
+  },
+  {
+   "key": "32481",
+   "en": "Hanako's Bodyguard",
+   "ro": "Gardă de corp a lui Hanako"
+  },
+  {
+   "key": "32482",
+   "en": "Arasaka Drone",
+   "ro": "Dronă Arasaka"
+  },
+  {
+   "key": "32484",
+   "en": "Scientist",
+   "ro": "Om de știință"
+  },
+  {
+   "key": "32486",
+   "en": "Engineer",
+   "ro": "Inginer"
+  },
+  {
+   "key": "32487",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "32490",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "32491",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "32493",
+   "en": "Dr. Taniguchi",
+   "ro": "Dr. Taniguchi"
+  },
+  {
+   "key": "32494",
+   "en": "Dr. Kinuko Taniguchi",
+   "ro": "Dr. Kinuko Taniguchi"
+  },
+  {
+   "key": "32495",
+   "en": "Prof. Kusama",
+   "ro": "Prof. Kusama"
+  },
+  {
+   "key": "32496",
+   "en": "Prof. Sachiko Kusama",
+   "ro": "Prof. Sachiko Kusama"
+  },
+  {
+   "key": "32498",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32499",
+   "en": "Arasaka Guard",
+   "ro": "Gardian Arasaka"
+  },
+  {
+   "key": "32500",
+   "en": "Dr. Yajima",
+   "ro": "Dr. Yajima"
+  },
+  {
+   "key": "32501",
+   "en": "Dr. Ensai Yajima",
+   "ro": "Dr. Ensai Yajima"
+  },
+  {
+   "key": "32502",
+   "en": "Mr. Blue Eyes",
+   "ro": "Mr. Blue Eyes"
+  },
+  {
+   "key": "32504",
+   "en": "Henry Sanchez",
+   "ro": "Henry Sanchez"
+  },
+  {
+   "key": "32786",
+   "en": "Padre",
+   "ro": "Padre"
+  },
+  {
+   "key": "32787",
+   "en": "Sebastian Ibarra",
+   "ro": "Sebastian Ibarra"
+  },
+  {
+   "key": "32788",
+   "en": "Mr. Hands",
+   "ro": "Mr. Hands"
+  },
+  {
+   "key": "32789",
+   "en": "Mr. Hands",
+   "ro": "Mr. Hands"
+  },
+  {
+   "key": "32790",
+   "en": "Regina",
+   "ro": "Regina"
+  },
+  {
+   "key": "32792",
+   "en": "Regina Jones",
+   "ro": "Regina Jones"
+  },
+  {
+   "key": "32793",
+   "en": "Wakako",
+   "ro": "Wakako"
+  },
+  {
+   "key": "32794",
+   "en": "Wakako Okada",
+   "ro": "Wakako Okada"
+  },
+  {
+   "key": "32795",
+   "en": "Dakota",
+   "ro": "Dakota"
+  },
+  {
+   "key": "32796",
+   "en": "Dakota Smith",
+   "ro": "Dakota Smith"
+  },
+  {
+   "key": "32797",
+   "en": "El Capitan",
+   "ro": "El Capitan"
+  },
+  {
+   "key": "32798",
+   "en": "Reyes",
+   "ro": "Reyes"
+  },
+  {
+   "key": "32799",
+   "en": "Dino",
+   "ro": "Dino"
+  },
+  {
+   "key": "32800",
+   "en": "Dino Dinovic",
+   "ro": "Dino Dinovic"
+  },
+  {
+   "key": "32806",
+   "en": "Tanner",
+   "ro": "Tanner"
+  },
+  {
+   "key": "32807",
+   "en": "Iris Tanner",
+   "ro": "Iris Tanner"
+  },
+  {
+   "key": "32809",
+   "en": "Wildriver",
+   "ro": "Wildriver"
+  },
+  {
+   "key": "32810",
+   "en": "Jason Wildriver",
+   "ro": "Jason Wildriver"
+  },
+  {
+   "key": "32811",
+   "en": "Benedict",
+   "ro": "Benedict"
+  },
+  {
+   "key": "32812",
+   "en": "Benedict McAdams",
+   "ro": "Benedict McAdams"
+  },
+  {
+   "key": "32813",
+   "en": "Driver",
+   "ro": "Șofer"
+  },
+  {
+   "key": "32814",
+   "en": "Bentzen",
+   "ro": "Bentzen"
+  },
+  {
+   "key": "32815",
+   "en": "Arden Bentzen",
+   "ro": "Arden Bentzen"
+  },
+  {
+   "key": "32816",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "32817",
+   "en": "Training Bot",
+   "ro": "Robot de antrenament"
+  },
+  {
+   "key": "32818",
+   "en": "Mausser",
+   "ro": "Mausser"
+  },
+  {
+   "key": "32819",
+   "en": "Jack Mausser",
+   "ro": "Jack Mausser"
+  },
+  {
+   "key": "32820",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32821",
+   "en": "Joanne",
+   "ro": "Joanne"
+  },
+  {
+   "key": "32822",
+   "en": "Joanne Koch",
+   "ro": "Joanne Koch"
+  },
+  {
+   "key": "32823",
+   "en": "Tucker",
+   "ro": "Tucker"
+  },
+  {
+   "key": "32824",
+   "en": "Tucker Albach",
+   "ro": "Tucker Albach"
+  },
+  {
+   "key": "32825",
+   "en": "Gina",
+   "ro": "Gina"
+  },
+  {
+   "key": "32826",
+   "en": "Gina Barnes",
+   "ro": "Gina Barnes"
+  },
+  {
+   "key": "32827",
+   "en": "El Gallo",
+   "ro": "El Gallo"
+  },
+  {
+   "key": "32828",
+   "en": "El Gallo",
+   "ro": "El Gallo"
+  },
+  {
+   "key": "32829",
+   "en": "Estevez",
+   "ro": "Estevez"
+  },
+  {
+   "key": "32830",
+   "en": "Jake Estevez",
+   "ro": "Jake Estevez"
+  },
+  {
+   "key": "32831",
+   "en": "Gustavo",
+   "ro": "Gustavo"
+  },
+  {
+   "key": "32832",
+   "en": "Gustavo Orta",
+   "ro": "Gustavo Orta"
+  },
+  {
+   "key": "32834",
+   "en": "Karubo",
+   "ro": "Karubo"
+  },
+  {
+   "key": "32835",
+   "en": "Karubo Barei",
+   "ro": "Karubo Barei"
+  },
+  {
+   "key": "32836",
+   "en": "8ug8ear",
+   "ro": "8ug8ear"
+  },
+  {
+   "key": "32837",
+   "en": "8ug8ear",
+   "ro": "8ug8ear"
+  },
+  {
+   "key": "32838",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "32839",
+   "en": "Jae-Hyun",
+   "ro": "Jae-Hyun"
+  },
+  {
+   "key": "32840",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "32841",
+   "en": "Jose",
+   "ro": "Jose"
+  },
+  {
+   "key": "32842",
+   "en": "José Luis",
+   "ro": "José Luis"
+  },
+  {
+   "key": "32843",
+   "en": "Rebeca",
+   "ro": "Rebeca"
+  },
+  {
+   "key": "32844",
+   "en": "Rebeca Price",
+   "ro": "Rebeca Price"
+  },
+  {
+   "key": "32845",
+   "en": "Logan",
+   "ro": "Logan"
+  },
+  {
+   "key": "32846",
+   "en": "Logan Garcia",
+   "ro": "Logan Garcia"
+  },
+  {
+   "key": "32847",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32848",
+   "en": "Techie",
+   "ro": "Tehnician"
+  },
+  {
+   "key": "32849",
+   "en": "Drug Manufacturer",
+   "ro": "Producător de droguri"
+  },
+  {
+   "key": "32850",
+   "en": "Booker",
+   "ro": "Booker"
+  },
+  {
+   "key": "32851",
+   "en": "Booker Updike",
+   "ro": "Booker Updike"
+  },
+  {
+   "key": "32852",
+   "en": "Ted Fox",
+   "ro": "Ted Fox"
+  },
+  {
+   "key": "32853",
+   "en": "Karl",
+   "ro": "Karl"
+  },
+  {
+   "key": "32854",
+   "en": "Karl Ginsky",
+   "ro": "Karl Ginsky"
+  },
+  {
+   "key": "32855",
+   "en": "Azevedo",
+   "ro": "Azevedo"
+  },
+  {
+   "key": "32856",
+   "en": "Marcelo Azevedo",
+   "ro": "Marcelo Azevedo"
+  },
+  {
+   "key": "32857",
+   "en": "Thoran",
+   "ro": "Thoran"
+  },
+  {
+   "key": "32858",
+   "en": "Lucius Thoran",
+   "ro": "Lucius Thoran"
+  },
+  {
+   "key": "32859",
+   "en": "Pedro",
+   "ro": "Pedro"
+  },
+  {
+   "key": "32860",
+   "en": "Pedro Aimar",
+   "ro": "Pedro Aimar"
+  },
+  {
+   "key": "32861",
+   "en": "Zetatech Soldier",
+   "ro": "Soldat Zetatech"
+  },
+  {
+   "key": "32862",
+   "en": "Vega",
+   "ro": "Vega"
+  },
+  {
+   "key": "32863",
+   "en": "Vic Vega",
+   "ro": "Vic Vega"
+  },
+  {
+   "key": "32864",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32865",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32866",
+   "en": "Dixon",
+   "ro": "Dixon"
+  },
+  {
+   "key": "32867",
+   "en": "Jasmine Dixon",
+   "ro": "Jasmine Dixon"
+  },
+  {
+   "key": "32868",
+   "en": "Doctor",
+   "ro": "Doctor"
+  },
+  {
+   "key": "32869",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32870",
+   "en": "Flavio",
+   "ro": "Flavio"
+  },
+  {
+   "key": "32871",
+   "en": "Flavio dos Santos",
+   "ro": "Flavio dos Santos"
+  },
+  {
+   "key": "32872",
+   "en": "David Konchesky",
+   "ro": "David Konchesky"
+  },
+  {
+   "key": "32873",
+   "en": "Rose",
+   "ro": "Rose"
+  },
+  {
+   "key": "32874",
+   "en": "Rose Horrigan",
+   "ro": "Rose Horrigan"
+  },
+  {
+   "key": "32875",
+   "en": "Juliet",
+   "ro": "Juliet"
+  },
+  {
+   "key": "32876",
+   "en": "Juliet Horrigan",
+   "ro": "Juliet Horrigan"
+  },
+  {
+   "key": "32877",
+   "en": "Lucy",
+   "ro": "Lucy"
+  },
+  {
+   "key": "32878",
+   "en": "Lucy Thackery",
+   "ro": "Lucy Thackery"
+  },
+  {
+   "key": "32879",
+   "en": "Cpl. Hare",
+   "ro": "Cap. Hare"
+  },
+  {
+   "key": "32880",
+   "en": "William Hare",
+   "ro": "William Hare"
+  },
+  {
+   "key": "32881",
+   "en": "Akulov",
+   "ro": "Akulov"
+  },
+  {
+   "key": "32882",
+   "en": "Mikhail Akulov",
+   "ro": "Mikhail Akulov"
+  },
+  {
+   "key": "32883",
+   "en": "Nadezhda",
+   "ro": "Nadezhda"
+  },
+  {
+   "key": "32884",
+   "en": "Nadezhda Tiurina",
+   "ro": "Nadezhda Tiurina"
+  },
+  {
+   "key": "32885",
+   "en": "Receptionist",
+   "ro": "Recepționer"
+  },
+  {
+   "key": "32886",
+   "en": "Jack Paul",
+   "ro": "Jack Paul"
+  },
+  {
+   "key": "32887",
+   "en": "Akulov's Bodyguard",
+   "ro": "Gardă de corp a lui Akulov"
+  },
+  {
+   "key": "32888",
+   "en": "Akulov's Bodyguard",
+   "ro": "Gardă de corp a lui Akulov"
+  },
+  {
+   "key": "32889",
+   "en": "Bucks",
+   "ro": "Bucks"
+  },
+  {
+   "key": "32890",
+   "en": "Charles Bucks",
+   "ro": "Charles Bucks"
+  },
+  {
+   "key": "32891",
+   "en": "Daquin",
+   "ro": "Daquin"
+  },
+  {
+   "key": "32892",
+   "en": "Alois Daquin",
+   "ro": "Alois Daquin"
+  },
+  {
+   "key": "32893",
+   "en": "Blake",
+   "ro": "Blake"
+  },
+  {
+   "key": "32894",
+   "en": "Blake Croyle",
+   "ro": "Blake Croyle"
+  },
+  {
+   "key": "32895",
+   "en": "Jotaro",
+   "ro": "Jotaro"
+  },
+  {
+   "key": "32896",
+   "en": "Jotaro Shobo",
+   "ro": "Jotaro Shobo"
+  },
+  {
+   "key": "32897",
+   "en": "Dealer",
+   "ro": "Dealer"
+  },
+  {
+   "key": "32898",
+   "en": "Anna",
+   "ro": "Anna"
+  },
+  {
+   "key": "32899",
+   "en": "Anna Hamill",
+   "ro": "Anna Hamill"
+  },
+  {
+   "key": "32900",
+   "en": "Eve",
+   "ro": "Eve"
+  },
+  {
+   "key": "32901",
+   "en": "Eve Martinez",
+   "ro": "Eve Martinez"
+  },
+  {
+   "key": "32902",
+   "en": "Imad",
+   "ro": "Imad"
+  },
+  {
+   "key": "32903",
+   "en": "Imad Toma",
+   "ro": "Imad Toma"
+  },
+  {
+   "key": "32908",
+   "en": "Jae-Hyun",
+   "ro": "Jae-Hyun"
+  },
+  {
+   "key": "32909",
+   "en": "Jae-Hyun Lee",
+   "ro": "Jae-Hyun Lee"
+  },
+  {
+   "key": "32915",
+   "en": "Kenji Sakura",
+   "ro": "Kenji Sakura"
+  },
+  {
+   "key": "32916",
+   "en": "Taki",
+   "ro": "Taki"
+  },
+  {
+   "key": "32917",
+   "en": "Taki Kenmochi",
+   "ro": "Taki Kenmochi"
+  },
+  {
+   "key": "32918",
+   "en": "Roh",
+   "ro": "Roh"
+  },
+  {
+   "key": "32919",
+   "en": "Roh Chi-Won",
+   "ro": "Roh Chi-Won"
+  },
+  {
+   "key": "32920",
+   "en": "Timothee",
+   "ro": "Timothee"
+  },
+  {
+   "key": "32921",
+   "en": "Timothee LeBeau",
+   "ro": "Timothee LeBeau"
+  },
+  {
+   "key": "32922",
+   "en": "Hal",
+   "ro": "Hal"
+  },
+  {
+   "key": "32923",
+   "en": "Hal Cantos",
+   "ro": "Hal Cantos"
+  },
+  {
+   "key": "32924",
+   "en": "Mox",
+   "ro": "Mox"
+  },
+  {
+   "key": "32925",
+   "en": "Bex",
+   "ro": "Bex"
+  },
+  {
+   "key": "32926",
+   "en": "Bex Kenerton",
+   "ro": "Bex Kenerton"
+  },
+  {
+   "key": "32927",
+   "en": "Anna",
+   "ro": "Anna"
+  },
+  {
+   "key": "32928",
+   "en": "Anna Nox",
+   "ro": "Anna Nox"
+  },
+  {
+   "key": "32929",
+   "en": "Hwangbo",
+   "ro": "Hwangbo"
+  },
+  {
+   "key": "32930",
+   "en": "Hwangbo Dong-Gun",
+   "ro": "Hwangbo Dong-Gun"
+  },
+  {
+   "key": "32931",
+   "en": "Gottfrid",
+   "ro": "Gottfrid"
+  },
+  {
+   "key": "32932",
+   "en": "Gottfrid Persson",
+   "ro": "Gottfrid Persson"
+  },
+  {
+   "key": "32933",
+   "en": "Fredrik",
+   "ro": "Fredrik"
+  },
+  {
+   "key": "32934",
+   "en": "Fredrik Persson",
+   "ro": "Fredrik Persson"
+  },
+  {
+   "key": "32935",
+   "en": "Brandon",
+   "ro": "Brandon"
+  },
+  {
+   "key": "32936",
+   "en": "Brandon Frost",
+   "ro": "Brandon Frost"
+  },
+  {
+   "key": "32937",
+   "en": "River's Body",
+   "ro": "Trupul lui River"
+  },
+  {
+   "key": "32938",
+   "en": "Aaron",
+   "ro": "Aaron"
+  },
+  {
+   "key": "32939",
+   "en": "Aaron McCarlson",
+   "ro": "Aaron McCarlson"
+  },
+  {
+   "key": "32940",
+   "en": "Max",
+   "ro": "Max"
+  },
+  {
+   "key": "32941",
+   "en": "Max Jones",
+   "ro": "Max Jones"
+  },
+  {
+   "key": "32942",
+   "en": "Security Drone",
+   "ro": "Dronă de securitate"
+  },
+  {
+   "key": "32943",
+   "en": "Wyatt",
+   "ro": "Wyatt"
+  },
+  {
+   "key": "32944",
+   "en": "Wyatt Alken",
+   "ro": "Wyatt Alken"
+  },
+  {
+   "key": "32945",
+   "en": "Dan",
+   "ro": "Dan"
+  },
+  {
+   "key": "32946",
+   "en": "Dan",
+   "ro": "Dan"
+  },
+  {
+   "key": "32947",
+   "en": "Patrick",
+   "ro": "Patrick"
+  },
+  {
+   "key": "32948",
+   "en": "Patrick Sylap",
+   "ro": "Patrick Sylap"
+  },
+  {
+   "key": "32949",
+   "en": "Akane",
+   "ro": "Akane"
+  },
+  {
+   "key": "32950",
+   "en": "Akane Ito",
+   "ro": "Akane Ito"
+  },
+  {
+   "key": "32951",
+   "en": "Vortex",
+   "ro": "Vortex"
+  },
+  {
+   "key": "32952",
+   "en": "Vortex",
+   "ro": "Vortex"
+  },
+  {
+   "key": "32953",
+   "en": "Lauren",
+   "ro": "Lauren"
+  },
+  {
+   "key": "32954",
+   "en": "Lauren Costigan",
+   "ro": "Lauren Costigan"
+  },
+  {
+   "key": "33045",
+   "en": "Mox beanie",
+   "ro": "Fes Mox"
+  },
+  {
+   "key": "33046",
+   "en": "Aztec winter beanie",
+   "ro": "Fes de iarnă aztec"
+  },
+  {
+   "key": "33047",
+   "en": "Worn beanie",
+   "ro": "Fes uzat"
+  },
+  {
+   "key": "33048",
+   "en": "Old Smiley HARD hat",
+   "ro": "Cască veche Smiley HARD"
+  },
+  {
+   "key": "33049",
+   "en": "Kinryū beanie with titanium sequins",
+   "ro": "Fes Kinryū cu paiete de titan"
+  },
+  {
+   "key": "33050",
+   "en": "Durable Emerald Speed polyamide beanie",
+   "ro": "Fes rezistent din poliamidă Emerald Speed"
+  },
+  {
+   "key": "33051",
+   "en": "Trauma Team cap with headset",
+   "ro": "Șapcă Trauma Team cu headset"
+  },
+  {
+   "key": "33052",
+   "en": "Certified cap with camera",
+   "ro": "Șapcă certificată cu cameră"
+  },
+  {
+   "key": "33053",
+   "en": "Cap with makeshift camera",
+   "ro": "Șapcă cu cameră improvizată"
+  },
+  {
+   "key": "33054",
+   "en": "Arasaka cap with camera",
+   "ro": "Șapcă Arasaka cu cameră"
+  },
+  {
+   "key": "33055",
+   "en": "Kang Tao field cap with holodisplay",
+   "ro": "Șapcă de campanie Kang Tao cu holodisplay"
+  },
+  {
+   "key": "33056",
+   "en": "Carbon-fiber Arasaka side cap",
+   "ro": "Chipiu Arasaka din fibră de carbon"
+  },
+  {
+   "key": "33057",
+   "en": "Classic side cap with strengthened polyamide",
+   "ro": "Chipiu clasic din poliamidă întărită"
+  },
+  {
+   "key": "33058",
+   "en": "Officer's side cap with reinforced plastic",
+   "ro": "Chipiu de ofițer din plastic ranforsat"
+  },
+  {
+   "key": "33059",
+   "en": "6th Street side cap",
+   "ro": "Chipiu 6th Street"
+  },
+  {
+   "key": "33060",
+   "en": "Maelstrom side cap",
+   "ro": "Chipiu Maelstrom"
+  },
+  {
+   "key": "33061",
+   "en": "Cotton motorcycle cap with protective inset",
+   "ro": "Șapcă de motociclist din bumbac cu inserție protectoare"
+  },
+  {
+   "key": "33062",
+   "en": "Insulated cap with protective goggles",
+   "ro": "Șapcă termoizolată cu ochelari de protecție"
+  },
+  {
+   "key": "33063",
+   "en": "Smiley HARD pilot cap",
+   "ro": "Cască de pilot Smiley HARD"
+  },
+  {
+   "key": "33064",
+   "en": "Old motorcycle cap",
+   "ro": "Șapcă veche de motociclist"
+  },
+  {
+   "key": "33065",
+   "en": "TELL ME I'M CUTE pilot cap with technopolymer goggles",
+   "ro": "Cască de pilot TELL ME I'M CUTE cu ochelari din tehnopolimer"
+  },
+  {
+   "key": "33066",
+   "en": "Golden Bough pilot cap with composite exterior",
+   "ro": "Cască de pilot Golden Bough cu exterior compozit"
+  },
+  {
+   "key": "33067",
+   "en": "Hella cute.",
+   "ro": "Beton de drăguță."
+  },
+  {
+   "key": "33068",
+   "en": "For if you're like chill or whatever.",
+   "ro": "Pentru când vrei doar să te relaxezi sau ceva."
+  },
+  {
+   "key": "33069",
+   "en": "The roses are the only thing saving this mess.",
+   "ro": "Doar trandafirii mai salvează dezastrul ăsta."
+  },
+  {
+   "key": "33070",
+   "en": "Facial expressions obscured by cyberware? Wear your mood on your hat.",
+   "ro": "Cyberware-ul îți acoperă expresia feței? Poartă-ți starea de spirit pe șapcă."
+  },
+  {
+   "key": "33071",
+   "en": "Soft edges, sharp look.",
+   "ro": "Contururi moi, look tăios."
+  },
+  {
+   "key": "33072",
+   "en": "Some bikers like their hair in the breeze. Others don't.",
+   "ro": "Unii motocicliști preferă vântul în păr. Alții nu."
+  },
+  {
+   "key": "33073",
+   "en": "Microphone included.",
+   "ro": "Microfon inclus."
+  },
+  {
+   "key": "33074",
+   "en": "Provocative in more ways than one.",
+   "ro": "Provocant în mai multe feluri."
+  },
+  {
+   "key": "33075",
+   "en": "When you want to record something and look out of fashion at the same time.",
+   "ro": "Pentru când vrei să înregistrezi ceva și, în același timp, să arăți demodat."
+  },
+  {
+   "key": "33076",
+   "en": "Slightly worn corporate gear.",
+   "ro": "Echipament corporatist puțin uzat."
+  },
+  {
+   "key": "33077",
+   "en": "Cosplay as a corpo for a day.",
+   "ro": "Fă un cosplay de corpo pentru o zi."
+  },
+  {
+   "key": "33078",
+   "en": "Don't wear this unless you're ready to lay down your life for your CEO.",
+   "ro": "Nu purta asta decât dacă ești dispusă să-ți dai viața pentru CEO-ul tău.",
+   "ro_m": "Nu purta asta decât dacă ești dispus să-ți dai viața pentru CEO-ul tău."
+  },
+  {
+   "key": "33079",
+   "en": "No bells, no whistles – just a solid hat.",
+   "ro": "Fără fasoane, doar o pălărie solidă."
+  },
+  {
+   "key": "33080",
+   "en": "Ready to become more than just another rank-and-file grunt? Or at least pretend to?",
+   "ro": "Gata să fii mai mult decât un simplu soldăcel? Sau măcar să te prefaci?"
+  },
+  {
+   "key": "33081",
+   "en": "Possibly from the last war.",
+   "ro": "Posibil din ultimul război."
+  },
+  {
+   "key": "33082",
+   "en": "Perfect for target practice. Doing it, that is.",
+   "ro": "Perfect pentru exerciții de tragere. Adică să tragi la țintă."
+  },
+  {
+   "key": "33083",
+   "en": "Retro isn't synonymous with safety, but safety isn't why you wear this.",
+   "ro": "Retro nu-i sinonim cu siguranța, dar siguranța nu e motivul pentru care porți asta."
+  },
+  {
+   "key": "33084",
+   "en": "Extremely impractical. But how lovely!",
+   "ro": "Extrem de nepractic. Dar ce drăguț!"
+  },
+  {
+   "key": "33085",
+   "en": "Looks like a bunny, doesn't it? Whatever the hell that is.",
+   "ro": "Arată ca un iepuraș, nu-i așa? Ce dracu' o fi și ăla."
+  },
+  {
+   "key": "33086",
+   "en": "Each stain and scrape is like a journal entry.",
+   "ro": "Fiecare pată și zgârietură e ca o însemnare în jurnal."
+  },
+  {
+   "key": "33087",
+   "en": "It looks like it'll give you diabetes.",
+   "ro": "Arată de parcă ți-ar da diabet."
+  },
+  {
+   "key": "33088",
+   "en": "Designed by a certain G. J. Frayser.",
+   "ro": "Proiectat de un anume G. J. Frayser."
+  },
+  {
+   "key": "33103",
+   "en": "Kunio",
+   "ro": "Kunio"
+  },
+  {
+   "key": "33104",
+   "en": "Kunio Shiki",
+   "ro": "Kunio Shiki"
+  },
+  {
+   "key": "33105",
+   "en": "Unknown Caller",
+   "ro": "Apelant necunoscut"
+  },
+  {
+   "key": "33106",
+   "en": "Security Bot",
+   "ro": "Bot de securitate"
+  },
+  {
+   "key": "33107",
+   "en": "Kerry's Security Bot",
+   "ro": "Botul de securitate al lui Kerry"
+  },
+  {
+   "key": "33108",
+   "en": "Steven",
+   "ro": "Steven"
+  },
+  {
+   "key": "33109",
+   "en": "Steven",
+   "ro": "Steven"
+  },
+  {
+   "key": "33110",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "33111",
+   "en": "Patricia",
+   "ro": "Patricia"
+  },
+  {
+   "key": "33112",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33113",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33114",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33115",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33116",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33117",
+   "en": "Tinnitus Member",
+   "ro": "Membru Tinnitus"
+  },
+  {
+   "key": "33118",
+   "en": "Red Dirt Owner",
+   "ro": "Proprietarul Red Dirt"
+  },
+  {
+   "key": "33119",
+   "en": "Red Dirt Owner",
+   "ro": "Proprietarul Red Dirt"
+  },
+  {
+   "key": "33120",
+   "en": "Drausin",
+   "ro": "Drausin"
+  },
+  {
+   "key": "33121",
+   "en": "Drausin",
+   "ro": "Drausin"
+  },
+  {
+   "key": "33122",
+   "en": "Carter",
+   "ro": "Carter"
+  },
+  {
+   "key": "33123",
+   "en": "Donnie Carter",
+   "ro": "Donnie Carter"
+  },
+  {
+   "key": "33124",
+   "en": "Neil",
+   "ro": "Neil"
+  },
+  {
+   "key": "33125",
+   "en": "Neil White",
+   "ro": "Neil White"
+  },
+  {
+   "key": "33126",
+   "en": "Christine Markov",
+   "ro": "Christine Markov"
+  },
+  {
+   "key": "33127",
+   "en": "Christine Markov",
+   "ro": "Christine Markov"
+  },
+  {
+   "key": "33128",
+   "en": "Animals Alpha",
+   "ro": "Alfa Animals"
+  },
+  {
+   "key": "33129",
+   "en": "Detective Han",
+   "ro": "detectiv Han"
+  },
+  {
+   "key": "33130",
+   "en": "Det. Harold Han",
+   "ro": "Detectiv Harold Han"
+  },
+  {
+   "key": "33131",
+   "en": "Mayor Rhyne",
+   "ro": "Primarul Rhyne"
+  },
+  {
+   "key": "33132",
+   "en": "Mayor Lucius Rhyne",
+   "ro": "Primarul Lucius Rhyne"
+  },
+  {
+   "key": "33133",
+   "en": "Holt",
+   "ro": "Holt"
+  },
+  {
+   "key": "33134",
+   "en": "Deputy Mayor Weldon Holt",
+   "ro": "Viceprimarul Weldon Holt"
+  },
+  {
+   "key": "33135",
+   "en": "Lark",
+   "ro": "Lark"
+  },
+  {
+   "key": "33136",
+   "en": "Daniel Lark",
+   "ro": "Daniel Lark"
+  },
+  {
+   "key": "33137",
+   "en": "Lucas",
+   "ro": "Lucas"
+  },
+  {
+   "key": "33138",
+   "en": "John Lucas",
+   "ro": "John Lucas"
+  },
+  {
+   "key": "33139",
+   "en": "Péter",
+   "ro": "Péter"
+  },
+  {
+   "key": "33140",
+   "en": "Péter Horváth",
+   "ro": "Péter Horváth"
+  },
+  {
+   "key": "33141",
+   "en": "Wolfson",
+   "ro": "Wolfson"
+  },
+  {
+   "key": "33142",
+   "en": "Officer Eric Wolfson",
+   "ro": "Ofițer Eric Wolfson"
+  },
+  {
+   "key": "33143",
+   "en": "Barista",
+   "ro": "Barista"
+  },
+  {
+   "key": "33144",
+   "en": "Truck Driver",
+   "ro": "Șofer de camion"
+  },
+  {
+   "key": "33145",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "33146",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "33147",
+   "en": "Staff",
+   "ro": "Personal"
+  },
+  {
+   "key": "33148",
+   "en": "Waitress",
+   "ro": "Ospătăriță"
+  },
+  {
+   "key": "33149",
+   "en": "Security Guard",
+   "ro": "Agent de securitate"
+  },
+  {
+   "key": "33150",
+   "en": "Club Huscle",
+   "ro": "Bodyguardul clubului"
+  },
+  {
+   "key": "33151",
+   "en": "Cook",
+   "ro": "Cook"
+  },
+  {
+   "key": "33153",
+   "en": "Fanboy",
+   "ro": "Fan"
+  },
+  {
+   "key": "33154",
+   "en": "Fangirl",
+   "ro": "Fană"
+  },
+  {
+   "key": "33155",
+   "en": "Fangirl",
+   "ro": "Fană"
+  },
+  {
+   "key": "33156",
+   "en": "Fanboy",
+   "ro": "Fan"
+  },
+  {
+   "key": "33157",
+   "en": "Roadie",
+   "ro": "Roadie"
+  },
+  {
+   "key": "33158",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "33159",
+   "en": "Blue Moon",
+   "ro": "Blue Moon"
+  },
+  {
+   "key": "33160",
+   "en": "Red Menace",
+   "ro": "Red Menace"
+  },
+  {
+   "key": "33161",
+   "en": "Red Menace",
+   "ro": "Red Menace"
+  },
+  {
+   "key": "33162",
+   "en": "Agent Orange",
+   "ro": "Agent Orange"
+  },
+  {
+   "key": "33163",
+   "en": "Purple Force",
+   "ro": "Purple Force"
+  },
+  {
+   "key": "33164",
+   "en": "Purple Force",
+   "ro": "Purple Force"
+  },
+  {
+   "key": "33165",
+   "en": "Bouncer",
+   "ro": "Bodyguard"
+  },
+  {
+   "key": "33166",
+   "en": "VIP",
+   "ro": "VIP"
+  },
+  {
+   "key": "33167",
+   "en": "VIP",
+   "ro": "VIP"
+  },
+  {
+   "key": "33168",
+   "en": "VIP",
+   "ro": "VIP"
+  },
+  {
+   "key": "33169",
+   "en": "Fangirl",
+   "ro": "Fană"
+  },
+  {
+   "key": "33170",
+   "en": "Fangirl",
+   "ro": "Fană"
+  },
+  {
+   "key": "33171",
+   "en": "Fanboy",
+   "ro": "Fan"
+  },
+  {
+   "key": "33172",
+   "en": "Fanboy",
+   "ro": "Fan"
+  },
+  {
+   "key": "33173",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33174",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33175",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33176",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33177",
+   "en": "Juan Esteban Abasto",
+   "ro": "Juan Esteban Abasto"
+  },
+  {
+   "key": "33178",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33179",
+   "en": "Ernesto Muñoz",
+   "ro": "Ernesto Muñoz"
+  },
+  {
+   "key": "33180",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33181",
+   "en": "Martha Young",
+   "ro": "Martha Young"
+  },
+  {
+   "key": "33182",
+   "en": "Gustavo",
+   "ro": "Gustavo"
+  },
+  {
+   "key": "33183",
+   "en": "Gustavo Orta",
+   "ro": "Gustavo Orta"
+  },
+  {
+   "key": "33184",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33185",
+   "en": "Marlon Fuscino",
+   "ro": "Marlon Fuscino"
+  },
+  {
+   "key": "33186",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33187",
+   "en": "Isabella Fuscino",
+   "ro": "Isabella Fuscino"
+  },
+  {
+   "key": "33199",
+   "en": "Anthony",
+   "ro": "Anthony"
+  },
+  {
+   "key": "33200",
+   "en": "Anthony Harris",
+   "ro": "Anthony Harris"
+  },
+  {
+   "key": "33201",
+   "en": "Harris' Dad",
+   "ro": "Tatăl lui Harris"
+  },
+  {
+   "key": "33202",
+   "en": "Anthony Harris' Father",
+   "ro": "Tatăl lui Anthony Harris"
+  },
+  {
+   "key": "33203",
+   "en": "Dr. Packard",
+   "ro": "Dr. Packard"
+  },
+  {
+   "key": "33204",
+   "en": "Dr. Yawen Packard",
+   "ro": "Dr. Yawen Packard"
+  },
+  {
+   "key": "33205",
+   "en": "Joss",
+   "ro": "Joss"
+  },
+  {
+   "key": "33206",
+   "en": "Joss Kutcher",
+   "ro": "Joss Kutcher"
+  },
+  {
+   "key": "33207",
+   "en": "Randy",
+   "ro": "Randy"
+  },
+  {
+   "key": "33208",
+   "en": "Randy Kutcher",
+   "ro": "Randy Kutcher"
+  },
+  {
+   "key": "33209",
+   "en": "Schoolboy",
+   "ro": "Elev"
+  },
+  {
+   "key": "33210",
+   "en": "Schoolboy",
+   "ro": "Elev"
+  },
+  {
+   "key": "33211",
+   "en": "Schoolboy",
+   "ro": "Elev"
+  },
+  {
+   "key": "33212",
+   "en": "Schoolboy",
+   "ro": "Elev"
+  },
+  {
+   "key": "33213",
+   "en": "Schoolgirl",
+   "ro": "Elevă"
+  },
+  {
+   "key": "33214",
+   "en": "Schoolgirl",
+   "ro": "Elevă"
+  },
+  {
+   "key": "33215",
+   "en": "Anthony",
+   "ro": "Anthony"
+  },
+  {
+   "key": "33216",
+   "en": "Anthony Harris",
+   "ro": "Anthony Harris"
+  },
+  {
+   "key": "33217",
+   "en": "Dorian",
+   "ro": "Dorian"
+  },
+  {
+   "key": "33218",
+   "en": "Dorian",
+   "ro": "Dorian"
+  },
+  {
+   "key": "33219",
+   "en": "Monique",
+   "ro": "Monique"
+  },
+  {
+   "key": "33220",
+   "en": "Monique",
+   "ro": "Monique"
+  },
+  {
+   "key": "33221",
+   "en": "Cow",
+   "ro": "Vacă"
+  },
+  {
+   "key": "33222",
+   "en": "Cow",
+   "ro": "Vacă"
+  },
+  {
+   "key": "33223",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33224",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33225",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33226",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33227",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33228",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33229",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33230",
+   "en": "Victim",
+   "ro": "Victimă"
+  },
+  {
+   "key": "33231",
+   "en": "Teacher",
+   "ro": "Profesor"
+  },
+  {
+   "key": "33232",
+   "en": "Teacher",
+   "ro": "Profesor"
+  },
+  {
+   "key": "33233",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33234",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33235",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33236",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33237",
+   "en": "Trauma Team Paramedic",
+   "ro": "Paramadic Trauma Team"
+  },
+  {
+   "key": "33238",
+   "en": "Trauma Team Paramedic",
+   "ro": "Paramadic Trauma Team"
+  },
+  {
+   "key": "33239",
+   "en": "Homeless",
+   "ro": "Fără adăpost"
+  },
+  {
+   "key": "33240",
+   "en": "Bum",
+   "ro": "Boschetar"
+  },
+  {
+   "key": "33255",
+   "en": "Vasquez",
+   "ro": "Vasquez"
+  },
+  {
+   "key": "33256",
+   "en": "Officer Vasquez",
+   "ro": "Ofițer Vasquez"
+  },
+  {
+   "key": "33257",
+   "en": "Joshua",
+   "ro": "Joshua"
+  },
+  {
+   "key": "33258",
+   "en": "Joshua Stephenson",
+   "ro": "Joshua Stephenson"
+  },
+  {
+   "key": "33259",
+   "en": "Rachel",
+   "ro": "Rachel"
+  },
+  {
+   "key": "33260",
+   "en": "Rachel Casich",
+   "ro": "Rachel Casich"
+  },
+  {
+   "key": "33261",
+   "en": "Bill",
+   "ro": "Bill"
+  },
+  {
+   "key": "33262",
+   "en": "Bill Jablonsky",
+   "ro": "Bill Jablonsky"
+  },
+  {
+   "key": "33265",
+   "en": "Studio Employee",
+   "ro": "Angajat al studioului"
+  },
+  {
+   "key": "33266",
+   "en": "Studio Employee",
+   "ro": "Angajat al studioului"
+  },
+  {
+   "key": "33267",
+   "en": "Studio Employee",
+   "ro": "Angajat al studioului"
+  },
+  {
+   "key": "33268",
+   "en": "Studio Employee",
+   "ro": "Angajat al studioului"
+  },
+  {
+   "key": "33269",
+   "en": "Zuleikha",
+   "ro": "Zuleikha"
+  },
+  {
+   "key": "33270",
+   "en": "Zuleikha El Ahmar",
+   "ro": "Zuleikha El Ahmar"
+  },
+  {
+   "key": "33271",
+   "en": "Gloria",
+   "ro": "Gloria"
+  },
+  {
+   "key": "33272",
+   "en": "Gloria El Ahmar",
+   "ro": "Gloria El Ahmar"
+  },
+  {
+   "key": "33273",
+   "en": "Director",
+   "ro": "Regizor"
+  },
+  {
+   "key": "33274",
+   "en": "Olga Cygan",
+   "ro": "Olga Cygan"
+  },
+  {
+   "key": "33275",
+   "en": "Actor",
+   "ro": "Actor"
+  },
+  {
+   "key": "33276",
+   "en": "Actor",
+   "ro": "Actor"
+  },
+  {
+   "key": "33277",
+   "en": "Actor",
+   "ro": "Actor"
+  },
+  {
+   "key": "33278",
+   "en": "Actor",
+   "ro": "Actor"
+  },
+  {
+   "key": "33279",
+   "en": "Studio Security",
+   "ro": "Securitate studio"
+  },
+  {
+   "key": "33280",
+   "en": "Studio Security",
+   "ro": "Securitate studio"
+  },
+  {
+   "key": "33281",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33282",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33283",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33284",
+   "en": "NCPD Officer",
+   "ro": "Ofițer NCPD"
+  },
+  {
+   "key": "33285",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33286",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33287",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33288",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33293",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33294",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33295",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33296",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33297",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33298",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33299",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33300",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33301",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33302",
+   "en": "Client",
+   "ro": "Client"
+  },
+  {
+   "key": "33303",
+   "en": "Truck Driver",
+   "ro": "Șofer de camion"
+  },
+  {
+   "key": "33304",
+   "en": "Truck Driver",
+   "ro": "Șofer de camion"
+  },
+  {
+   "key": "33305",
+   "en": "Body",
+   "ro": "Cadavru"
+  },
+  {
+   "key": "33306",
+   "en": "Body",
+   "ro": "Cadavru"
+  },
+  {
+   "key": "33307",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33308",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33311",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33312",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33313",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33314",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33315",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33316",
+   "en": "Protester",
+   "ro": "Protestatar"
+  },
+  {
+   "key": "33317",
+   "en": "Sampson",
+   "ro": "Sampson"
+  },
+  {
+   "key": "33318",
+   "en": "Peter \"PJ\" Sampson",
+   "ro": "Peter \"PJ\" Sampson"
+  },
+  {
+   "key": "33319",
+   "en": "Announcer",
+   "ro": "Prezentator"
+  },
+  {
+   "key": "33320",
+   "en": "Luigi",
+   "ro": "Luigi"
+  },
+  {
+   "key": "33321",
+   "en": "Jakub \"Luigi\" Antonowicz",
+   "ro": "Jakub \"Luigi\" Antonowicz"
+  },
+  {
+   "key": "33322",
+   "en": "Margot",
+   "ro": "Margot"
+  },
+  {
+   "key": "33323",
+   "en": "Margot Wojciechowicz",
+   "ro": "Margot Wojciechowicz"
+  },
+  {
+   "key": "33324",
+   "en": "Supporter",
+   "ro": "Susținător"
+  },
+  {
+   "key": "33325",
+   "en": "Supporter",
+   "ro": "Susținător"
+  },
+  {
+   "key": "33326",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "33327",
+   "en": "Ganger",
+   "ro": "Membru de gașcă"
+  },
+  {
+   "key": "33328",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33329",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33330",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33331",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33332",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33333",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33334",
+   "en": "Resident",
+   "ro": "Rezident"
+  },
+  {
+   "key": "33336",
+   "en": "Hiromi Sato",
+   "ro": "Hiromi Sato"
+  },
+  {
+   "key": "33337",
+   "en": "Jun Azegami",
+   "ro": "Jun Azegami"
+  },
+  {
+   "key": "33338",
+   "en": "Marcus Ichida",
+   "ro": "Marcus Ichida"
+  },
+  {
+   "key": "33339",
+   "en": "Militech Escort",
+   "ro": "Însoțitor Militech"
+  },
+  {
+   "key": "33340",
+   "en": "Militech Escort",
+   "ro": "Însoțitor Militech"
+  },
+  {
+   "key": "33341",
+   "en": "Militech Escort",
+   "ro": "Însoțitor Militech"
+  },
+  {
+   "key": "33342",
+   "en": "Wraith",
+   "ro": "Wraith"
+  },
+  {
+   "key": "33343",
+   "en": "Wraith",
+   "ro": "Wraith"
+  },
+  {
+   "key": "33344",
+   "en": "Nomad",
+   "ro": "Nomad"
+  },
+  {
+   "key": "33345",
+   "en": "Neighbor",
+   "ro": "Vecin"
+  },
+  {
+   "key": "33346",
+   "en": "Henry Callahan",
+   "ro": "Henry Callahan"
+  },
+  {
+   "key": "33347",
+   "en": "Lt. \"Crazy\" Henry Callahan",
+   "ro": "Lt. \"Crazy\" Henry Callahan"
+  },
+  {
+   "key": "33348",
+   "en": "Joan McClane",
+   "ro": "Joan McClane"
+  },
+  {
+   "key": "33349",
+   "en": "Captain Joan \"By The Book\" McClane",
+   "ro": "Căpitan Joan \"By The Book\" McClane"
+  },
+  {
+   "key": "33350",
+   "en": "River",
+   "ro": "River"
+  },
+  {
+   "key": "33351",
+   "en": "River Ward",
+   "ro": "River Ward"
+  },
+  {
+   "key": "33352",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33353",
+   "en": "Club Security",
+   "ro": "Securitate club"
+  },
+  {
+   "key": "33354",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33355",
+   "en": "Club Security",
+   "ro": "Securitate club"
+  },
+  {
+   "key": "33356",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33357",
+   "en": "Club Security",
+   "ro": "Securitate club"
+  },
+  {
+   "key": "33358",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "33359",
+   "en": "Ruby",
+   "ro": "Ruby"
+  },
+  {
+   "key": "33360",
+   "en": "Jake",
+   "ro": "Jake"
+  },
+  {
+   "key": "33361",
+   "en": "Jake",
+   "ro": "Jake"
+  },
+  {
+   "key": "33362",
+   "en": "Grace",
+   "ro": "Grace"
+  },
+  {
+   "key": "33363",
+   "en": "Grace",
+   "ro": "Grace"
+  },
+  {
+   "key": "33364",
+   "en": "Gorira",
+   "ro": "Gorira"
+  },
+  {
+   "key": "33365",
+   "en": "Gorira",
+   "ro": "Gorira"
+  },
+  {
+   "key": "33366",
+   "en": "Tear-resistant office shirt and vest",
+   "ro": "Cămașă de birou și vestă rezistente la rupere"
+  },
+  {
+   "key": "33367",
+   "en": "Reinforced breathable dress shirt",
+   "ro": "Cămașă elegantă respirabilă, întărită"
+  },
+  {
+   "key": "33368",
+   "en": "Stylish double-weave shirt and vest",
+   "ro": "Cămașă și vestă elegante cu dublu țesut"
+  },
+  {
+   "key": "33369",
+   "en": "Cowboy shirt and vest",
+   "ro": "Cămașă și vestă de cowboy"
+  },
+  {
+   "key": "33370",
+   "en": "Classy pastel shirt and vest",
+   "ro": "Cămașă și vestă pastel, cu clasă"
+  },
+  {
+   "key": "33371",
+   "en": "Penguin dress shirt and vest",
+   "ro": "Cămașă de gală și vestă Penguin"
+  },
+  {
+   "key": "33372",
+   "en": "Dandy Classico shirt with fibrotube weave",
+   "ro": "Cămașă Dandy Classico cu țesătură de fibrotuburi"
+  },
+  {
+   "key": "33373",
+   "en": "Abrasion-resistant Trickster dress shirt and vest",
+   "ro": "Cămașă și vestă Trickster rezistente la abraziune"
+  },
+  {
+   "key": "33374",
+   "en": "Mallow Breeze triweave shirt and vest",
+   "ro": "Cămașă și vestă Mallow Breeze cu triplu țesut"
+  },
+  {
+   "key": "33375",
+   "en": "El Dorado aramid-weave dress shirt and vest",
+   "ro": "Cămașă și vestă El Dorado cu țesătură de aramidă"
+  },
+  {
+   "key": "33376",
+   "en": "Gin no Hoshi neo-silk shirt and vest",
+   "ro": "Cămașă și vestă Gin no Hoshi din neo-mătase"
+  },
+  {
+   "key": "33377",
+   "en": "Paris Blue office shirt and vest with reinforced seams",
+   "ro": "Cămașă de birou și vestă Paris Blue cu cusături întărite"
+  },
+  {
+   "key": "33378",
+   "en": "Semi-formal synfiber button-up",
+   "ro": "Cămașă cu nasturi semi-formală din synfiber"
+  },
+  {
+   "key": "33379",
+   "en": "ArctiCombat semi-formal button-up",
+   "ro": "Cămașă cu nasturi semi-formală ArctiCombat"
+  },
+  {
+   "key": "33380",
+   "en": "Red Leopard button-up with composite insert",
+   "ro": "Cămașă cu nasturi Red Leopard cu inserție compozit"
+  },
+  {
+   "key": "33381",
+   "en": "Classic chem-hardened button-up",
+   "ro": "Cămașă cu nasturi clasică, întărită chimic"
+  },
+  {
+   "key": "33382",
+   "en": "Linen button-up with reactive layering",
+   "ro": "Cămașă cu nasturi din in cu straturi reactive"
+  },
+  {
+   "key": "33383",
+   "en": "Purple Panther shirt",
+   "ro": "Cămașă Purple Panther"
+  },
+  {
+   "key": "33384",
+   "en": "Wrinkled dress button-up",
+   "ro": "Cămașă cu nasturi de gală, șifonată"
+  },
+  {
+   "key": "33385",
+   "en": "Desert Cross strong-weave button-up",
+   "ro": "Cămașă cu nasturi Desert Cross cu țesătură rezistentă"
+  },
+  {
+   "key": "33386",
+   "en": "Paisley Universe armor-coated button-up",
+   "ro": "Cămașă cu nasturi Paisley Universe cu strat de armură"
+  },
+  {
+   "key": "33387",
+   "en": "Liquid Shine dura-polyamide button-up",
+   "ro": "Cămașă cu nasturi Liquid Shine din dura-poliamidă"
+  },
+  {
+   "key": "33388",
+   "en": "Straight out of the company onboarding catalogue.",
+   "ro": "Direct din catalogul de integrare al companiei."
+  },
+  {
+   "key": "33389",
+   "en": "Would offer a sense of professional stoicism if not for the tie.",
+   "ro": "Ți-ar da o senzație de stoicism profesional, dacă n-ar fi cravata."
+  },
+  {
+   "key": "33390",
+   "en": "Doesn't pair well with red wine at corporate banquets.",
+   "ro": "Nu se împacă bine cu vin roșu la banchetele corporatiste."
+  },
+  {
+   "key": "33391",
+   "en": "The nomad equivalent of formal attire.",
+   "ro": "Echivalentul nomad al ținutei formale."
+  },
+  {
+   "key": "33392",
+   "en": "Elegance doesn't come only in black and white. Or with a big price tag.",
+   "ro": "Eleganța nu vine doar în alb-negru. Și nici doar cu un preț piperat."
+  },
+  {
+   "key": "33393",
+   "en": "For those non-gala gala-type events.",
+   "ro": "Pentru evenimentele de gală care nu-s chiar de gală."
+  },
+  {
+   "key": "33394",
+   "en": "Did you know pink was once the color of the aristocracy?",
+   "ro": "Știai că rozul era cândva culoarea aristocrației?"
+  },
+  {
+   "key": "33395",
+   "en": "Formal garb for eddie-heavy punks.",
+   "ro": "Ținută formală pentru punkii plini de eddies."
+  },
+  {
+   "key": "33396",
+   "en": "With a tasteful floral motif.",
+   "ro": "Cu un motiv floral de bun gust."
+  },
+  {
+   "key": "33397",
+   "en": "For when you need a shirt that screams \"Look how much money I have!\"",
+   "ro": "Pentru când ai nevoie de o cămașă care strigă „Uite câți bani am!”"
+  },
+  {
+   "key": "33398",
+   "en": "Sophisticated and modest… for the price.",
+   "ro": "Sofisticat și modest… pe cât costă."
+  },
+  {
+   "key": "33399",
+   "en": "Crafted from genuine biosilk.",
+   "ro": "Fabricat din bio-mătase autentică."
+  },
+  {
+   "key": "33400",
+   "en": "When you can't decide whether you're going for semi-formal or semi-casual.",
+   "ro": "Pentru când nu te poți hotărî între semi-formal și semi-casual."
+  },
+  {
+   "key": "33401",
+   "en": "Boring enough to be suited for every occasion.",
+   "ro": "Suficient de plictisitor încât să meargă la orice ocazie."
+  },
+  {
+   "key": "33402",
+   "en": "For the urban jungle's snappiest hunters.",
+   "ro": "Pentru cei mai șmecheri vânători din jungla urbană."
+  },
+  {
+   "key": "33403",
+   "en": "Cheap and perfectly bland.",
+   "ro": "Ieftin și perfect insipid."
+  },
+  {
+   "key": "33404",
+   "en": "The faded product of years of West Coast sun.",
+   "ro": "Produsul decolorat de ani de soare pe Coasta de Vest."
+  },
+  {
+   "key": "33405",
+   "en": "If you're an antique hunter, this is a real catch.",
+   "ro": "Dacă ești vânător de antichități, asta e o captură pe cinste."
+  },
+  {
+   "key": "33406",
+   "en": "Made from pink polyester.",
+   "ro": "Făcut din poliester roz."
+  },
+  {
+   "key": "33407",
+   "en": "For the refined cowgirl.",
+   "en_m": "For the refined cowboy.",
+   "ro": "Pentru cowgirla rafinată.",
+   "ro_m": "Pentru cowboyul rafinat."
+  },
+  {
+   "key": "33408",
+   "en": "A classic pattern from the East saturated in a sumptuous blue.",
+   "ro": "Un model clasic din Est, scăldat într-un albastru somptuos."
+  },
+  {
+   "key": "33409",
+   "en": "As if worn by King Midas himself.",
+   "ro": "De parcă l-ar fi purtat chiar regele Midas."
+  },
+  {
+   "key": "33410",
+   "en": "Susanna Quinn",
+   "ro": "Susanna Quinn"
+  },
+  {
+   "key": "33411",
+   "en": "Tasha Rodriquez",
+   "ro": "Tasha Rodriquez"
+  },
+  {
+   "key": "33412",
+   "en": "Mitzi Sparks",
+   "ro": "Mitzi Sparks"
+  },
+  {
+   "key": "33413",
+   "en": "Rosie Harper",
+   "ro": "Rosie Harper"
+  },
+  {
+   "key": "33414",
+   "en": "Janet Brewer",
+   "ro": "Janet Brewer"
+  },
+  {
+   "key": "33415",
+   "en": "Ross Austin",
+   "ro": "Ross Austin"
+  },
+  {
+   "key": "33416",
+   "en": "Julius Garrett",
+   "ro": "Julius Garrett"
+  },
+  {
+   "key": "33417",
+   "en": "Ignacio Vega",
+   "ro": "Ignacio Vega"
+  },
+  {
+   "key": "33418",
+   "en": "Dennis Chavez",
+   "ro": "Dennis Chavez"
+  },
+  {
+   "key": "33419",
+   "en": "Wayne Sludge",
+   "ro": "Wayne Sludge"
+  },
+  {
+   "key": "33420",
+   "en": "Earl Diaz",
+   "ro": "Earl Diaz"
+  },
+  {
+   "key": "33421",
+   "en": "Josh Floyd",
+   "ro": "Josh Floyd"
+  },
+  {
+   "key": "33422",
+   "en": "Lenny Nero",
+   "ro": "Lenny Nero"
+  },
+  {
+   "key": "33423",
+   "en": "Davarius Washington",
+   "ro": "Davarius Washington"
+  },
+  {
+   "key": "33424",
+   "en": "Skye",
+   "ro": "Skye"
+  },
+  {
+   "key": "33425",
+   "en": "Skye",
+   "ro": "Skye"
+  },
+  {
+   "key": "33426",
+   "en": "Angel",
+   "ro": "Angel"
+  },
+  {
+   "key": "33427",
+   "en": "Angel",
+   "ro": "Angel"
+  },
+  {
+   "key": "33428",
+   "en": "Miles Toast",
+   "ro": "Miles Toast"
+  },
+  {
+   "key": "33429",
+   "en": "Cheri Nowlin",
+   "ro": "Cheri Nowlin"
+  },
+  {
+   "key": "33430",
+   "en": "TV",
+   "ro": "TV"
+  },
+  {
+   "key": "33431",
+   "en": "Chicken",
+   "ro": "Găină"
+  },
+  {
+   "key": "33432",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "33433",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "33434",
+   "en": "NetWatch Agent",
+   "ro": "Agent NetWatch"
+  },
+  {
+   "key": "33435",
+   "en": "Butcher",
+   "ro": "Măcelar"
+  },
+  {
+   "key": "33436",
+   "en": "Ti Neptune",
+   "ro": "Ti Neptune"
+  },
+  {
+   "key": "33437",
+   "en": "Beggar",
+   "ro": "Cerșetor"
+  },
+  {
+   "key": "33438",
+   "en": "Preacher",
+   "ro": "Predicator"
+  },
+  {
+   "key": "33439",
+   "en": "Emilie",
+   "ro": "Emilie"
+  },
+  {
+   "key": "33441",
+   "en": "Vendor",
+   "ro": "Vânzător"
+  },
+  {
+   "key": "33442",
+   "en": "Tante Myriam",
+   "ro": "Mătușa Myriam"
+  },
+  {
+   "key": "33443",
+   "en": "Grann Ertha",
+   "ro": "Bunica Ertha"
+  },
+  {
+   "key": "33444",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33445",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33446",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33447",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33448",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33449",
+   "en": "Netrunner",
+   "ro": "Netrunner"
+  },
+  {
+   "key": "33450",
+   "en": "Assassin",
+   "ro": "Asasin"
+  },
+  {
+   "key": "33452",
+   "en": "Assassin",
+   "ro": "Asasin"
+  },
+  {
+   "key": "33453",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33454",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33455",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33457",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33460",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33461",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33462",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33463",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33465",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33467",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33468",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33479",
+   "en": "Animal",
+   "ro": "Animal"
+  },
+  {
+   "key": "33501",
+   "en": "Sasquatch",
+   "ro": "Sasquatch"
+  },
+  {
+   "key": "33502",
+   "en": "V",
+   "ro": "V"
+  },
+  {
+   "key": "33503",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33504",
+   "en": "Jinguji Huscle",
+   "ro": "Bodyguard Jinguji"
+  },
+  {
+   "key": "33505",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33506",
+   "en": "Jinguji Huscle",
+   "ro": "Bodyguard Jinguji"
+  },
+  {
+   "key": "33507",
+   "en": "Cyberpsycho",
+   "ro": "Cyberpsycho"
+  },
+  {
+   "key": "33508",
+   "en": "Cyberpsycho",
+   "ro": "Cyberpsycho"
+  },
+  {
+   "key": "33509",
+   "en": "MaxTac Officer",
+   "ro": "Ofițer MaxTac"
+  },
+  {
+   "key": "33510",
+   "en": "MaxTac Officer",
+   "ro": "Ofițer MaxTac"
+  },
+  {
+   "key": "33511",
+   "en": "MaxTac Officer",
+   "ro": "Ofițer MaxTac"
+  },
+  {
+   "key": "33512",
+   "en": "MaxTac Officer",
+   "ro": "Ofițer MaxTac"
+  },
+  {
+   "key": "33513",
+   "en": "MaxTac Lieutenant",
+   "ro": "Locotenent MaxTac"
+  },
+  {
+   "key": "33514",
+   "en": "Melissa Rory",
+   "ro": "Melissa Rory"
+  },
+  {
+   "key": "33515",
+   "en": "Child",
+   "ro": "Copil"
+  },
+  {
+   "key": "33516",
+   "en": "Poor Child",
+   "ro": "Copil sărac"
+  },
+  {
+   "key": "33517",
+   "en": "Razor",
+   "ro": "Razor"
+  },
+  {
+   "key": "33518",
+   "en": "Razor Hughes",
+   "ro": "Razor Hughes"
+  },
+  {
+   "key": "33519",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33520",
+   "en": "Huscle",
+   "ro": "Huscle"
+  },
+  {
+   "key": "33521",
+   "en": "Certo",
+   "ro": "Certo"
+  },
+  {
+   "key": "33522",
+   "en": "Certo Esquerdo",
+   "ro": "Certo Esquerdo"
+  },
+  {
+   "key": "33523",
+   "en": "Esquerdo",
+   "ro": "Esquerdo"
+  },
+  {
+   "key": "33524",
+   "en": "Esquerdo Certo",
+   "ro": "Esquerdo Certo"
+  },
+  {
+   "key": "33525",
+   "en": "Buck",
+   "ro": "Buck"
+  },
+  {
+   "key": "33526",
+   "en": "Buck Arnold",
+   "ro": "Buck Arnold"
+  },
+  {
+   "key": "33527",
+   "en": "El César",
+   "ro": "El César"
+  },
+  {
+   "key": "33528",
+   "en": "César Diego Ruiz",
+   "ro": "César Diego Ruiz"
+  },
+  {
+   "key": "33529",
+   "en": "Micaela",
+   "ro": "Micaela"
+  },
+  {
+   "key": "33530",
+   "en": "Micaela Ruiz",
+   "ro": "Micaela Ruiz"
+  },
+  {
+   "key": "33531",
+   "en": "Announcer",
+   "ro": "Prezentator"
+  },
+  {
+   "key": "33532",
+   "en": "Ring Announcer",
+   "ro": "Prezentator ring"
+  },
+  {
+   "key": "33533",
+   "en": "Fabiola",
+   "ro": "Fabiola"
+  },
+  {
+   "key": "33534",
+   "en": "Ozob",
+   "ro": "Ozob"
+  },
+  {
+   "key": "33535",
+   "en": "Ozob Bozo",
+   "ro": "Ozob Bozo"
+  },
+  {
+   "key": "33536",
+   "en": "Rhino",
+   "ro": "Rhino"
+  },
+  {
+   "key": "33537",
+   "en": "Rhino",
+   "ro": "Rhino"
+  },
+  {
+   "key": "33538",
+   "en": "Valentino",
+   "ro": "Valentino"
+  },
+  {
+   "key": "33539",
+   "en": "Thug",
+   "ro": "Bătăuș"
+  },
+  {
+   "key": "33540",
+   "en": "Get ready to fight more enemies.",
+   "ro": "Pregătește-te să lupți cu mai mulți inamici."
+  },
+  {
+   "key": "33541",
+   "en": "Destroy the turret.",
+   "ro": "Distruge turela."
+  },
+  {
+   "key": "33542",
+   "en": "Follow Rogue.",
+   "ro": "Urmează-o pe Rogue."
+  },
+  {
+   "key": "33543",
+   "en": "Equipment for corporate netrunners and Net security.",
+   "ro": "Echipament pentru netrunnerii corporatiști și securitatea Net."
+  },
+  {
+   "key": "33544",
+   "en": "A popular choice for amateur netrunners.",
+   "ro": "O alegere populară printre netrunnerii amatori."
+  },
+  {
+   "key": "33545",
+   "en": "A little worse for wear but still useful in the right hands.",
+   "ro": "Cu urme de uzură, dar încă își face treaba în mâinile potrivite."
+  },
+  {
+   "key": "33546",
+   "en": "Might have belonged to a corporate agent in another life.",
+   "ro": "Poate a aparținut unui agent corporatist într-o altă viață."
+  },
+  {
+   "key": "33547",
+   "en": "Top-grade netrunning equipment imported from Japan.",
+   "ro": "Echipament de netrunning de top importat din Japonia."
+  },
+  {
+   "key": "33548",
+   "en": "Fear no daemons.",
+   "ro": "Nu te teme de daemoni."
+  },
+  {
+   "key": "33549",
+   "en": "Military-grade aramid netrunning suit",
+   "ro": "Costum de netrunning din aramidă de calitate militară"
+  },
+  {
+   "key": "33550",
+   "en": "Light elastomer netrunning suit",
+   "ro": "Costum de netrunning ușor din elastomer"
+  },
+  {
+   "key": "33551",
+   "en": "Worn netrunning suit",
+   "ro": "Costum de netrunning uzat"
+  },
+  {
+   "key": "33552",
+   "en": "Old netrunning suit",
+   "ro": "Costum de netrunning vechi"
+  },
+  {
+   "key": "33553",
+   "en": "Composite Arasaka netrunning nanoweave suit",
+   "ro": "Costum de netrunning Arasaka din nanoțesătură compozită"
+  },
+  {
+   "key": "33554",
+   "en": "Red Alert anti-surge netrunning suit",
+   "ro": "Costum de netrunning Red Alert anti-supratensiune"
+  },
+  {
+   "key": "33555",
+   "en": "Pink nipple pasties",
+   "ro": "Pastile roz pentru sfârcuri"
+  },
+  {
+   "key": "33556",
+   "en": "Atomic Blast nipple pasties",
+   "ro": "Pastile pentru sfârcuri Atomic Blast"
+  },
+  {
+   "key": "33557",
+   "en": "Secondhand nipple pasties",
+   "ro": "Pastile pentru sfârcuri la mâna a doua"
+  },
+  {
+   "key": "33558",
+   "en": "Old nipple pasties",
+   "ro": "Pastile vechi pentru sfârcuri"
+  },
+  {
+   "key": "33559",
+   "en": "Reinforced spotted bra",
+   "ro": "Sutien întărit cu buline"
+  },
+  {
+   "key": "33560",
+   "en": "Flexi-membrane leather bra",
+   "ro": "Sutien din piele cu membrană flexibilă"
+  },
+  {
+   "key": "33561",
+   "en": "Ultralight Amande Rose anti-puncture bra",
+   "ro": "Sutien ultraușor Amande Rose anti-înțepare"
+  },
+  {
+   "key": "33562",
+   "en": "Padded Denki Hachi hybrid-weave bra",
+   "ro": "Sutien căptușit Denki Hachi din țesătură hibridă"
+  },
+  {
+   "key": "33563",
+   "en": "Simple duolayer bustier",
+   "ro": "Bustier simplu cu două straturi"
+  },
+  {
+   "key": "33564",
+   "en": "Bara Kaika syn-leather bustier",
+   "ro": "Bustier Bara Kaika din piele sintetică"
+  },
+  {
+   "key": "33565",
+   "en": "Stylish Atomic Blast composite bustier",
+   "ro": "Bustier compozit Atomic Blast elegant"
+  },
+  {
+   "key": "33566",
+   "en": "Spotted flexi-membrane bustier",
+   "ro": "Bustier cu buline din membrană flexibilă"
+  },
+  {
+   "key": "33567",
+   "en": "Ultralight Jasmin Doucet syn-cotton bustier",
+   "ro": "Bustier ultraușor Jasmin Doucet din bumbac sintetic"
+  },
+  {
+   "key": "33568",
+   "en": "Reine de Abeilles bustier with bulletproof lining",
+   "ro": "Bustier Reine de Abeilles cu căptușeală antiglonț"
+  },
+  {
+   "key": "33569",
+   "en": "For when your bra feels like a cage.",
+   "ro": "Pentru când sutienul tău pare o cușcă."
+  },
+  {
+   "key": "33570",
+   "en": "Symbolic of how pasties hit the fashion scene.",
+   "ro": "Simbol al felului în care pastilele pentru sfârcuri au luat cu asalt moda."
+  },
+  {
+   "key": "33571",
+   "en": "Will frugality and courage overcome your better judgment?",
+   "ro": "Oare cumpătarea și curajul îți vor învinge bunul simț?"
+  },
+  {
+   "key": "33572",
+   "en": "It's unclear whether these pasties are better suited for fashion or dressing wounds.",
+   "ro": "Nu e clar dacă aceste pastile pentru sfârcuri sunt mai potrivite pentru modă sau pentru pansat răni."
+  },
+  {
+   "key": "33573",
+   "en": "A throwback to trends of the 20th century.",
+   "ro": "Un omagiu adus tendințelor secolului XX."
+  },
+  {
+   "key": "33574",
+   "en": "Call it false advertising if you want. Everyone knows they're synthetic.",
+   "ro": "Poți să le consideri reclamă mincinoasă. Toată lumea știe că sunt sintetice."
+  },
+  {
+   "key": "33575",
+   "en": "A designer bra with a paisley motif.",
+   "ro": "Un sutien de designer cu motiv paisley."
+  },
+  {
+   "key": "33576",
+   "en": "Simultaneously subtle and showy.",
+   "ro": "Deopotrivă discret și ostentativ."
+  },
+  {
+   "key": "33577",
+   "en": "A cheap, non-cybernetic way to shape your figure.",
+   "ro": "O metodă ieftină, necibernetică, de a-ți modela silueta."
+  },
+  {
+   "key": "33578",
+   "en": "Will roses ever not be sexy?",
+   "ro": "Pot trandafirii să nu fie sexy?"
+  },
+  {
+   "key": "33579",
+   "en": "The nova pick for punks.",
+   "ro": "Alegerea mișto pentru punkeri."
+  },
+  {
+   "key": "33580",
+   "en": "Pink like authentic jaguar fur… Jaguars were pink, right?",
+   "ro": "Roz ca blana autentică de jaguar… Jaguarii erau roz, nu-i așa?"
+  },
+  {
+   "key": "33581",
+   "en": "Light, comfortable, delicately white.",
+   "ro": "Ușor, confortabil, alb delicat."
+  },
+  {
+   "key": "33582",
+   "en": "For those unafraid to strut their splendor.",
+   "ro": "Pentru cine nu se sfiește să-și etaleze splendoarea."
+  },
+  {
+   "key": "33583",
+   "en": "Transferring data...",
+   "ro": "Se transferă datele..."
+  },
+  {
+   "key": "33584",
+   "en": "Composite-lined long vest with pattern",
+   "ro": "Vestă lungă cu căptușeală compozită și imprimeu"
+  },
+  {
+   "key": "33585",
+   "en": "Armor-weave long vest",
+   "ro": "Vestă lungă din țesătură cu armură"
+  },
+  {
+   "key": "33586",
+   "en": "Dated long vest",
+   "ro": "Vestă lungă demodată"
+  },
+  {
+   "key": "33587",
+   "en": "Heat-resistant long vest",
+   "ro": "Vestă lungă rezistentă la căldură"
+  },
+  {
+   "key": "33588",
+   "en": "Durable plastic-weave long vest",
+   "ro": "Vestă lungă durabilă din țesătură plastică"
+  },
+  {
+   "key": "33589",
+   "en": "Durable synthetic biker coat",
+   "ro": "Geacă durabilă de motociclist din material sintetic"
+  },
+  {
+   "key": "33590",
+   "en": "Kyūketsuki flame-resistant polyamide rocker coat",
+   "ro": "Palton de rocker Kyūketsuki din poliamidă ignifugă"
+  },
+  {
+   "key": "33591",
+   "en": "Stained puncture-resistant coat",
+   "ro": "Palton pătat rezistent la înțepare"
+  },
+  {
+   "key": "33592",
+   "en": "Wraiths coat with improvised bulletproof lining",
+   "ro": "Geacă Wraiths cu căptușeală antiglonț improvizată"
+  },
+  {
+   "key": "33593",
+   "en": "6th Street combat-tailored biker coat",
+   "ro": "Geacă de motociclist 6th Street croită pentru luptă"
+  },
+  {
+   "key": "33594",
+   "en": "Molto Vivace nanoweave rocker coat",
+   "ro": "Palton de rocker Molto Vivace din nanoțesătură"
+  },
+  {
+   "key": "33595",
+   "en": "Heavy hybrid-armor Trickster coat",
+   "ro": "Palton Trickster greu cu armură hibridă"
+  },
+  {
+   "key": "33596",
+   "en": "Ultralight Shine Spectrum trench coat",
+   "ro": "Palton tip trench ultraușor Shine Spectrum"
+  },
+  {
+   "key": "33597",
+   "en": "Polka dot trench coat with puncture-resistant lining",
+   "ro": "Palton tip trench cu buline și căptușeală rezistentă la înțepare"
+  },
+  {
+   "key": "33598",
+   "en": "Koumori syn-leather trench coat",
+   "ro": "Palton tip trench Koumori din piele sintetică"
+  },
+  {
+   "key": "33599",
+   "en": "Old spotted trench coat",
+   "ro": "Palton tip trench vechi cu buline"
+  },
+  {
+   "key": "33600",
+   "en": "Timeworn trench coat",
+   "ro": "Palton tip trench ros de vreme"
+  },
+  {
+   "key": "33601",
+   "en": "Fairy Frost trench coat with protective mesh",
+   "ro": "Palton tip trench Fairy Frost cu plasă de protecție"
+  },
+  {
+   "key": "33602",
+   "en": "Milky Gold trench coat with bulletproof triweave",
+   "ro": "Palton tip trench Milky Gold cu țesătură triplă antiglonț"
+  },
+  {
+   "key": "33603",
+   "en": "200h 22m",
+   "ro": "200h 22m"
+  },
+  {
+   "key": "33604",
+   "en": "Show your claws!",
+   "ro": "Arată-ți ghearele!"
+  },
+  {
+   "key": "33605",
+   "en": "The brass knuckles on the back fulfill both an aesthetic and warning function.",
+   "ro": "Boxurile de pe spate au atât rol estetic, cât și de avertizare."
+  },
+  {
+   "key": "33606",
+   "en": "An old-timer ready to hit the market again.",
+   "ro": "Un veteran gata să revină pe piață."
+  },
+  {
+   "key": "33607",
+   "en": "Not all that glitters is gold. Sometimes it's silver.",
+   "ro": "Nu tot ce strălucește e aur. Uneori e argint."
+  },
+  {
+   "key": "33608",
+   "en": "Sure you can't spring for a new one?",
+   "ro": "Sigur nu te spargi la bani pentru una nouă?"
+  },
+  {
+   "key": "33609",
+   "en": "You can hear the roar of engine just looking at it.",
+   "ro": "Auzi vuietul motorului doar uitându-te la ea."
+  },
+  {
+   "key": "33610",
+   "en": "Throw it on, walk on stage and just fucking shred.",
+   "ro": "Trage-l pe tine, urcă pe scenă și rupe-o, pula mea."
+  },
+  {
+   "key": "33611",
+   "en": "It smells like it belonged to someone famous.",
+   "ro": "Miroase a ceva care a aparținut cuiva celebru."
+  },
+  {
+   "key": "33612",
+   "en": "The smell of burnt rubber is baked in.",
+   "ro": "Mirosul de cauciuc ars e impregnat în material."
+  },
+  {
+   "key": "33613",
+   "en": "Patriotism always sells.",
+   "ro": "Patriotismul se vinde mereu."
+  },
+  {
+   "key": "33614",
+   "en": "For performers in a higher tax bracket.",
+   "ro": "Pentru artiști dintr-o categorie de impozitare mai mare."
+  },
+  {
+   "key": "33615",
+   "en": "Get out onto the streets and make some noise!",
+   "ro": "Ieși pe străzi și fă gălăgie!"
+  },
+  {
+   "key": "33616",
+   "en": "Let yourself glow.",
+   "ro": "Lasă-te să strălucești."
+  },
+  {
+   "key": "33617",
+   "en": "Ever wanted a street-worthy bathrobe?",
+   "ro": "Ai vrut vreodată un halat de baie bun de purtat pe stradă?"
+  },
+  {
+   "key": "33618",
+   "en": "For those dark and mysterious moods.",
+   "ro": "Pentru momentele tale întunecate și misterioase."
+  },
+  {
+   "key": "33619",
+   "en": "Feel your wild side in this Animals aesthetic.",
+   "ro": "Simte-ți latura sălbatică în estetica Animals."
+  },
+  {
+   "key": "33620",
+   "en": "As dark as chromatic rock.",
+   "ro": "La fel de negru ca rockul cromatic."
+  },
+  {
+   "key": "33621",
+   "en": "There's a certain majesty about it.",
+   "ro": "Are ceva maiestuos."
+  },
+  {
+   "key": "33622",
+   "en": "Like pairing a foil-wrapped chocolate with a glass of milk. Expensive designer chocolate.",
+   "ro": "Parcă ai pune ciocolată în folie lângă un pahar cu lapte. Ciocolată scumpă, de designer."
+  },
+  {
+   "key": "33623",
+   "en": "Hellooo? We're waiting for you.",
+   "ro": "Heeei? Te așteptăm."
+  },
+  {
+   "key": "33624",
+   "en": "Corporation:",
+   "ro": "Corporație:"
+  },
+  {
+   "key": "33625",
+   "en": "!CUT",
+   "ro": "!CUT"
+  },
+  {
+   "key": "33626",
+   "en": "!CUT",
+   "ro": "!CUT"
+  },
+  {
+   "key": "33627",
+   "en": "!CUT",
+   "ro": "!CUT"
+  },
+  {
+   "key": "33628",
+   "en": "!CUT",
+   "ro": "!CUT"
+  },
+  {
+   "key": "33630",
+   "en": "Gameplay",
+   "ro": "Gameplay"
+  },
+  {
+   "key": "33631",
+   "en": "Vehicle Camera",
+   "ro": "Cameră vehicul"
+  },
+  {
+   "key": "33632",
+   "en": "Distance from Third-Person Perspective",
+   "ro": "Distanță pentru perspectiva la persoana a treia"
+  },
+  {
+   "key": "33633",
+   "en": "Third-Person Perspective Camera Angle",
+   "ro": "Unghiul camerei în perspectiva la persoana a treia"
+  },
+  {
+   "key": "33634",
+   "en": "Near",
+   "ro": "Aproape"
+  },
+  {
+   "key": "33635",
+   "en": "Far",
+   "ro": "Departe"
+  },
+  {
+   "key": "33636",
+   "en": "Low",
+   "ro": "Scăzut"
+  },
+  {
+   "key": "33637",
+   "en": "High",
+   "ro": "Ridicat"
+  },
+  {
+   "key": "33638",
+   "en": "STREET CRED",
+   "ro": "REPUTAȚIE"
+  },
+  {
+   "key": "33639",
+   "en": "STREET CRED LEVEL UP!",
+   "ro": "NIVEL DE REPUTAȚIE NOU!"
+  },
+  {
+   "key": "33640",
+   "en": "STREET CRED LEVEL UP!",
+   "ro": "NIVEL DE REPUTAȚIE NOU!"
+  },
+  {
+   "key": "33641",
+   "en": "ACTIONS:",
+   "ro": "ACȚIUNI:"
+  },
+  {
+   "key": "33642",
+   "en": "Director of Global Operations",
+   "ro": "Director de Operațiuni Globale"
+  },
+  {
+   "key": "33643",
+   "en": "Declined",
+   "ro": "Refuzat"
+  },
+  {
+   "key": "33644",
+   "en": "PUBLIC AREA",
+   "ro": "ZONĂ PUBLICĂ"
+  },
+  {
+   "key": "33645",
+   "en": "Scanning environment for next round...",
+   "ro": "Se scanează mediul pentru runda următoare..."
+  },
+  {
+   "key": "33646",
+   "en": "404",
+   "ro": "404"
+  },
+  {
+   "key": "33647",
+   "en": "Hebi Tsukai cashmere-nanofiber shirt",
+   "ro": "Cămașă Hebi Tsukai din nanofibre de cașmir"
+  },
+  {
+   "key": "33648",
+   "en": "DisCOWBOY durable synthfiber western shirt",
+   "ro": "Cămașă western DisCOWBOY durabilă din fibre sintetice"
+  },
+  {
+   "key": "33649",
+   "en": "Denim mesh western shirt",
+   "ro": "Cămașă western din denim cu plasă"
+  },
+  {
+   "key": "33650",
+   "en": "Composite-weave western shirt",
+   "ro": "Cămașă western din țesătură compozită"
+  },
+  {
+   "key": "33651",
+   "en": "Graphite Gem insulated western shirt",
+   "ro": "Cămașă western termoizolată Graphite Gem"
+  },
+  {
+   "key": "33652",
+   "en": "AQUA Universe luxe aramid-weave shirt",
+   "ro": "Cămașă de lux AQUA Universe din țesătură de aramidă"
+  },
+  {
+   "key": "33653",
+   "en": "Saloon Style ultra-durable dress shirt",
+   "ro": "Cămașă elegantă ultrarezistentă Saloon Style"
+  },
+  {
+   "key": "33654",
+   "en": "Increases chance to enchant the public.",
+   "ro": "Crește șansa de a fermeca publicul."
+  },
+  {
+   "key": "33655",
+   "en": "Country style with a splash of neokitsch flavor.",
+   "ro": "Stil country cu o notă de neokitsch."
+  },
+  {
+   "key": "33656",
+   "en": "Traditional, American, traditional American.",
+   "ro": "Tradițional, american, tradițional american."
+  },
+  {
+   "key": "33657",
+   "en": "Ah, the nostalgia of plaid…",
+   "ro": "Ah, nostalgia carourilor…"
+  },
+  {
+   "key": "33658",
+   "en": "Who said cowpokes don't know fashion?",
+   "ro": "Cine a zis că cowboy-ii nu se pricep la modă?"
+  },
+  {
+   "key": "33659",
+   "en": "With blue biofabrics that feel like a crisp drink of water.",
+   "ro": "Cu bioțesături albastre care îți dau senzația unei guri de apă rece."
+  },
+  {
+   "key": "33660",
+   "en": "Plaid gone posh.",
+   "ro": "Carou șic."
+  },
+  {
+   "key": "33661",
+   "en": "As old and cheap as dirt but with years of character.",
+   "ro": "Veche și ieftină ca braga, dar cu ani de caracter."
+  },
+  {
+   "key": "33662",
+   "en": "Militarism with a kitschy flair.",
+   "ro": "Militarism cu o notă kitsch."
+  },
+  {
+   "key": "33663",
+   "en": "A true explosion of style.",
+   "ro": "O adevărată explozie de stil."
+  },
+  {
+   "key": "33664",
+   "en": "A simple cut in subdued colors.",
+   "ro": "O croială simplă, în culori sobre."
+  },
+  {
+   "key": "33665",
+   "en": "Worn Maelstrom jacket",
+   "ro": "Geacă Maelstrom uzată"
+  },
+  {
+   "key": "33666",
+   "en": "Boulet Turquoise combat shirt with protective lining",
+   "ro": "Cămașă de luptă Boulet Turquoise cu căptușeală protectoare"
+  },
+  {
+   "key": "33667",
+   "en": "Atomic Blast composite armor-weave combat shirt",
+   "ro": "Cămașă de luptă Atomic Blast din țesătură compozită de armură"
+  },
+  {
+   "key": "33668",
+   "en": "Decadencia Verde heavy plate-weave combat shirt",
+   "ro": "Cămașă de luptă grea Decadencia Verde din țesătură cu plăci"
+  },
+  {
+   "key": "33669",
+   "en": "Criminal record does not exist, or you do not have access to it",
+   "ro": "Cazierul nu există sau nu ai acces la el"
+  },
+  {
+   "key": "33670",
+   "en": "PUBLIC AREA",
+   "ro": "ZONĂ PUBLICĂ"
+  },
+  {
+   "key": "33671",
+   "en": "Follow Weyland.",
+   "ro": "Urmează-l pe Weyland."
+  },
+  {
+   "key": "33672",
+   "en": "Wait for Nix to connect you.",
+   "ro": "Așteaptă ca Nix să te conecteze."
+  },
+  {
+   "key": "33673",
+   "en": "WARNING!",
+   "ro": "ATENȚIE!"
+  },
+  {
+   "key": "33674",
+   "en": "Disconnect from the drone.",
+   "ro": "Deconectează-te de la dronă."
+  },
+  {
+   "key": "33675",
+   "en": "Transferring...",
+   "ro": "Se transferă..."
+  },
+  {
+   "key": "33676",
+   "en": "Breaking News",
+   "ro": "Știri de ultimă oră"
+  },
+  {
+   "key": "33677",
+   "en": "Topic",
+   "ro": "Subiect"
+  },
+  {
+   "key": "33678",
+   "en": "News Source",
+   "ro": "Sursa știrii"
+  },
+  {
+   "key": "33685",
+   "en": "Talk to Steve.",
+   "ro": "Vorbește cu Steve."
+  },
+  {
+   "key": "33686",
+   "en": "Neokitsch Pasión Púrpura polyamide foldtop",
+   "ro": "Foldtop neokitsch Pasión Púrpura din poliamidă"
+  },
+  {
+   "key": "33687",
+   "en": "Blauer Nebel eazy-breathe high-alloy sequined foldtop",
+   "ro": "Foldtop cu paiete Blauer Nebel eazy-breathe din aliaj de înaltă calitate"
+  },
+  {
+   "key": "33688",
+   "en": "Denim biker jacket with thermoactive collar",
+   "ro": "Geacă de motociclist din denim cu guler termoactiv"
+  },
+  {
+   "key": "33689",
+   "en": "Blurry Road thermoset-fiber biker jacket",
+   "ro": "Geacă de motociclist Blurry Road din fibre termorigide"
+  },
+  {
+   "key": "33690",
+   "en": "Reinforced syn-leather nomad jacket",
+   "ro": "Geacă de nomad din piele sintetică întărită"
+  },
+  {
+   "key": "33691",
+   "en": "Primeval Flame rockerjack",
+   "ro": "Geacă de rocker Primeval Flame"
+  },
+  {
+   "key": "33692",
+   "en": "Salamander eazy-breathe tarp-weave jacket",
+   "ro": "Geacă Salamander eazy-breathe din țesătură tip prelată"
+  },
+  {
+   "key": "33693",
+   "en": "Light Cherry Jinn anti-shrapnel denim jacket",
+   "ro": "Geacă de denim antischije Light Cherry Jinn"
+  },
+  {
+   "key": "33694",
+   "en": "Polyamide-hooded duolayer bomber",
+   "ro": "Bomber cu două straturi și glugă din poliamidă"
+  },
+  {
+   "key": "33695",
+   "en": "Smiley HARD protection-layered bomber",
+   "ro": "Bomber Smiley HARD cu straturi de protecție"
+  },
+  {
+   "key": "33696",
+   "en": "Light Spirit Animal chem-resistant bomber",
+   "ro": "Bomber rezistent la substanțe chimice Light Spirit Animal"
+  },
+  {
+   "key": "33697",
+   "en": "Synweave armor-layered PSYCHO bomber",
+   "ro": "Bomber PSYCHO cu straturi de armură Synweave"
+  },
+  {
+   "key": "33698",
+   "en": "Anti-shrapnel hooded bomber",
+   "ro": "Bomber cu glugă anti-șrapnel"
+  },
+  {
+   "key": "33699",
+   "en": "StreetART hooded bomber",
+   "ro": "Bomber cu glugă StreetART"
+  },
+  {
+   "key": "33700",
+   "en": "Soviet Moscow Dream anti-shrapnel bomber",
+   "ro": "Bomber anti-șrapnel Soviet Moscow Dream"
+  },
+  {
+   "key": "33701",
+   "en": "XX Punch! armor-coated hooded bomber",
+   "ro": "Bomber cu glugă XX Punch! cu înveliș de armură"
+  },
+  {
+   "key": "33702",
+   "en": "Multilayered Maroon Scales syn-coated bomber",
+   "ro": "Bomber Maroon Scales multistratificat cu înveliș sintetic"
+  },
+  {
+   "key": "33703",
+   "en": "Simple bolero rubber-coated bomber",
+   "ro": "Bomber bolero simplu cu înveliș de cauciuc"
+  },
+  {
+   "key": "33704",
+   "en": "Silber Irbis bolero GMO-weave bomber",
+   "ro": "Bomber bolero Silber Irbis din țesătură GMO"
+  },
+  {
+   "key": "33705",
+   "en": "Sturdy syn-leather bolero bomber",
+   "ro": "Bomber bolero solid din piele sintetică"
+  },
+  {
+   "key": "33706",
+   "en": "Lavender Galaxy bolero composite-layered bomber",
+   "ro": "Bomber bolero Lavender Galaxy cu straturi compozite"
+  },
+  {
+   "key": "33707",
+   "en": "Arctic Lychee bolero tungsten microplated bomber",
+   "ro": "Bomber bolero Arctic Lychee microplacat cu tungsten"
+  },
+  {
+   "key": "33708",
+   "en": "Peach syn-thread crop sweater",
+   "ro": "Pulover scurt Peach din fibre sintetice"
+  },
+  {
+   "key": "33709",
+   "en": "Bipolar Rainbow hybrid-weave crop sweater",
+   "ro": "Pulover scurt Bipolar Rainbow din țesătură hibridă"
+  },
+  {
+   "key": "33710",
+   "en": "Danse Macabre crop sweater",
+   "ro": "Pulover scurt Danse Macabre"
+  },
+  {
+   "key": "33711",
+   "en": "Alba Estiva crop sweater",
+   "ro": "Pulover scurt Alba Estiva"
+  },
+  {
+   "key": "33712",
+   "en": "Coral cutout bodysuit",
+   "ro": "Body cu decupaje Coral"
+  },
+  {
+   "key": "33713",
+   "en": "SECOND CONFLICT cutout bodysuit",
+   "ro": "Body cu decupaje SECOND CONFLICT"
+  },
+  {
+   "key": "33714",
+   "en": "Duoweave PSYCHO cutout bodysuit",
+   "ro": "Body cu decupaje Duoweave PSYCHO"
+  },
+  {
+   "key": "33715",
+   "en": "Thermo-quilted cutout bodysuit",
+   "ro": "Body matlasat termic cu decupaje"
+  },
+  {
+   "key": "33716",
+   "en": "Bermuda Triangle cutout bodysuit",
+   "ro": "Body cu decupaje Bermuda Triangle"
+  },
+  {
+   "key": "33717",
+   "en": "For a tougher kind of aesthetic.",
+   "ro": "Pentru un stil mai dur."
+  },
+  {
+   "key": "33718",
+   "en": "When you've got the eddies to shine.",
+   "ro": "Când ai eddies-urile ca să străluiești."
+  },
+  {
+   "key": "33719",
+   "en": "Outerwear doesn't get more American than this.",
+   "ro": "Hainele de exterior nu pot fi mai americane de atât."
+  },
+  {
+   "key": "33720",
+   "en": "To the horizon and beyond!",
+   "ro": "La orizont și dincolo!"
+  },
+  {
+   "key": "33721",
+   "en": "For those who prefer the stars to fluorescent lights.",
+   "ro": "Pentru cei care preferă stelele luminilor fluorescente."
+  },
+  {
+   "key": "33722",
+   "en": "A little worn, but still pretty fuckin' awesome.",
+   "ro": "Puțin uzat, dar încă al dracului de mișto."
+  },
+  {
+   "key": "33723",
+   "en": "If you can afford to buy it, you can afford to wash it.",
+   "ro": "Dacă îți permiți să-l cumperi, îți permiți să-l speli."
+  },
+  {
+   "key": "33724",
+   "en": "Won't find another with this kind of color.",
+   "ro": "N-o să găsești altceva cu asemenea culoare."
+  },
+  {
+   "key": "33725",
+   "en": "Can't do wrong with decorative kanji.",
+   "ro": "Cu kanji decorativ nu dai greș."
+  },
+  {
+   "key": "33726",
+   "en": "The 21st century's only emoji worth a damn.",
+   "ro": "Singurul emoji din secolul 21 care face doi bani."
+  },
+  {
+   "key": "33727",
+   "en": "There must have been an animal with emerald stripes once.",
+   "ro": "Trebuie să fi existat cândva un animal cu dungi de smarald."
+  },
+  {
+   "key": "33728",
+   "en": "Scav chic.",
+   "ro": "Șic de hienă."
+  },
+  {
+   "key": "33729",
+   "en": "Someone never heard of a laundromat.",
+   "ro": "Cineva n-a auzit niciodată de spălătorie."
+  },
+  {
+   "key": "33730",
+   "en": "One helluva stylish old rag.",
+   "ro": "O cârpă veche al naibii de stilată."
+  },
+  {
+   "key": "33731",
+   "en": "+100 mad respect.",
+   "ro": "+100 respect maxim."
+  },
+  {
+   "key": "33732",
+   "en": "Cozy, warm, easy.",
+   "ro": "Confortabil, cald, simplu."
+  },
+  {
+   "key": "33733",
+   "en": "Exclusive sporty model.",
+   "ro": "Model sportiv exclusiv."
+  },
+  {
+   "key": "33734",
+   "en": "Hexagons, hexagons, HEXAGONS!",
+   "ro": "Hexagoane, hexagoane, HEXAGOANE!"
+  },
+  {
+   "key": "33735",
+   "en": "You can almost feel the frost of old Siberia. Almost.",
+   "ro": "Aproape că simți gerul vechii Siberii. Aproape."
+  },
+  {
+   "key": "33736",
+   "en": "The color of blood mixed with mud.",
+   "ro": "Culoarea sângelui amestecat cu noroi."
+  },
+  {
+   "key": "33737",
+   "en": "Gotta have that 'tude, my dude.",
+   "ro": "Trebuie să ai atitudine, frate."
+  },
+  {
+   "key": "33738",
+   "en": "Sweet and refreshing.",
+   "ro": "Dulce și răcoritor."
+  },
+  {
+   "key": "33739",
+   "en": "Perfect for a stroll around the block.",
+   "ro": "Perfect pentru o plimbare prin cartier."
+  },
+  {
+   "key": "33740",
+   "en": "When you're not sure if you're in a pink or blue mood.",
+   "ro": "Când nu ești sigură dacă ai chef de roz sau de albastru.",
+   "ro_m": "Când nu ești sigur dacă ai chef de roz sau de albastru."
+  },
+  {
+   "key": "33741",
+   "en": "People love a little spooky.",
+   "ro": "Lumea adoră un strop de sinistru."
+  },
+  {
+   "key": "33742",
+   "en": "With the color of a smogless sky.",
+   "ro": "Cu culoarea unui cer fără smog."
+  },
+  {
+   "key": "33743",
+   "en": "Why risk heat stroke? Stay cool out there.",
+   "ro": "De ce să riști o insolație? Rămâi cool."
+  },
+  {
+   "key": "33744",
+   "en": "For you Kerry Eurodyne nuts.",
+   "ro": "Pentru tine, care ești nebună după Kerry Eurodyne.",
+   "ro_m": "Pentru tine, care ești nebun după Kerry Eurodyne."
+  },
+  {
+   "key": "33745",
+   "en": "Twisted Maelstrom vibes.",
+   "ro": "Vibe-uri răsucite de Maelstrom."
+  },
+  {
+   "key": "33746",
+   "en": "The physical manifestation of a yawn.",
+   "ro": "Manifestarea fizică a unui căscat."
+  },
+  {
+   "key": "33747",
+   "en": "Many will get lost in your gaze.",
+   "ro": "Mulți se vor pierde în privirea ta."
+  },
+  {
+   "key": "33749",
+   "en": "CONTINUE",
+   "ro": "CONTINUĂ"
+  },
+  {
+   "key": "33750",
+   "en": "CONTINUE",
+   "ro": "CONTINUĂ"
+  },
+  {
+   "key": "33751",
+   "en": "Aramid-enhanced high-collar military vest",
+   "ro": "Vestă militară cu guler înalt ranforsată cu aramidă."
+  },
+  {
+   "key": "33752",
+   "en": "Enhanced high-collar vest",
+   "ro": "Vestă cu guler înalt ranforsată."
+  },
+  {
+   "key": "33753",
+   "en": "Basic detachable reactive-fiber collar",
+   "ro": "Guler detașabil de bază din fibră reactivă."
+  },
+  {
+   "key": "33754",
+   "en": "Punk high-collar vest",
+   "ro": "Vestă punk cu guler înalt."
+  },
+  {
+   "key": "33755",
+   "en": "Durable high-collar vest",
+   "ro": "Vestă rezistentă cu guler înalt."
+  },
+  {
+   "key": "33756",
+   "en": "GRAFFITI detachable collar",
+   "ro": "Guler detașabil GRAFFITI."
+  },
+  {
+   "key": "33757",
+   "en": "SHIROKURO high-collar composite-lined vest",
+   "ro": "Vestă SHIROKURO cu guler înalt și căptușeală compozită."
+  },
+  {
+   "key": "33758",
+   "en": "Urban Jungle high-collar reinforced leather vest",
+   "ro": "Vestă din piele întărită Urban Jungle cu guler înalt."
+  },
+  {
+   "key": "33759",
+   "en": "Magenta puncture-resistant multilayer high-collar vest",
+   "ro": "Vestă magenta cu guler înalt, multistrată, rezistentă la străpungere"
+  },
+  {
+   "key": "33760",
+   "en": "Militech heavy tactical vest",
+   "ro": "Vestă tactică grea Militech"
+  },
+  {
+   "key": "33761",
+   "en": "Kang Tao reinforced tactical vest",
+   "ro": "Vestă tactică întărită Kang Tao"
+  },
+  {
+   "key": "33762",
+   "en": "Border Guard tactical vest",
+   "ro": "Vestă tactică Border Guard"
+  },
+  {
+   "key": "33763",
+   "en": "Camo tactical vest",
+   "ro": "Vestă tactică de camuflaj"
+  },
+  {
+   "key": "33764",
+   "en": "BITCH V.13 dual-reinforced tactical vest",
+   "ro": "Vestă tactică dublu întărită BITCH V.13"
+  },
+  {
+   "key": "33765",
+   "en": "Trauma Team armor-weave tactical vest",
+   "ro": "Vestă tactică Trauma Team din țesătură blindată"
+  },
+  {
+   "key": "33766",
+   "en": "Sturdy shoulder straps",
+   "ro": "Bretele de umăr rezistente"
+  },
+  {
+   "key": "33767",
+   "en": "Valentinos leather shoulder straps",
+   "ro": "Bretele de umăr din piele Valentinos"
+  },
+  {
+   "key": "33768",
+   "en": "Old camo shoulder straps",
+   "ro": "Bretele vechi de umăr cu camuflaj"
+  },
+  {
+   "key": "33769",
+   "en": "6th Street shoulder straps",
+   "ro": "Bretele de umăr 6th Street"
+  },
+  {
+   "key": "33770",
+   "en": "Animals reinforced carbon-fiber shoulder straps",
+   "ro": "Bretele de umăr Animals întărite cu fibră de carbon"
+  },
+  {
+   "key": "33771",
+   "en": "Wraiths dual-reinforced shoulder straps",
+   "ro": "Bretele de umăr Wraiths dublu întărite"
+  },
+  {
+   "key": "33772",
+   "en": "Reflective metalweave nylon vest",
+   "ro": "Vestă din nailon cu țesătură metalică reflectorizantă"
+  },
+  {
+   "key": "33773",
+   "en": "Kang Tao reflective hybridweave utility vest",
+   "ro": "Vestă utilitară Kang Tao din țesătură hibridă reflectorizantă"
+  },
+  {
+   "key": "33774",
+   "en": "Muddy NCPD vest",
+   "ro": "Vestă NCPD noroioasă"
+  },
+  {
+   "key": "33775",
+   "en": "Old 6th Street vest",
+   "ro": "Vestă veche 6th Street"
+  },
+  {
+   "key": "33776",
+   "en": "Cyan thermoset combat camo vest",
+   "ro": "Vestă de camuflaj de luptă din termorigid cyan"
+  },
+  {
+   "key": "33777",
+   "en": "GRAFFITI ultraresistant duolayer vest",
+   "ro": "Vestă GRAFFITI cu două straturi, ultrarezistentă"
+  },
+  {
+   "key": "33778",
+   "en": "Arasaka thermoset aramid collar",
+   "ro": "Guler Arasaka din aramidă termorigidă"
+  },
+  {
+   "key": "33779",
+   "en": "Mox nanoplastic collar",
+   "ro": "Guler Mox din nanoplastic"
+  },
+  {
+   "key": "33780",
+   "en": "Military aramid collar",
+   "ro": "Guler militar din aramidă"
+  },
+  {
+   "key": "33781",
+   "en": "NCPD aramid collar",
+   "ro": "Guler NCPD din aramidă"
+  },
+  {
+   "key": "33782",
+   "en": "Tyger Claws ceramic-laminate aramid collar",
+   "ro": "Guler Tyger Claws din aramidă laminată ceramic"
+  },
+  {
+   "key": "33783",
+   "en": "Valentinos armor-plated thermoset aramid collar",
+   "ro": "Guler Valentinos din aramidă termorigidă cu plăci de armură"
+  },
+  {
+   "key": "33784",
+   "en": "Militech ultralight aramid breastplate",
+   "ro": "Placă de piept Militech ultraușoară din aramidă"
+  },
+  {
+   "key": "33785",
+   "en": "Corporate armor-plated aramid breastplate",
+   "ro": "Placă de piept corporatistă din aramidă cu plăci de armură"
+  },
+  {
+   "key": "33786",
+   "en": "Saeko's prototype tactical aramid breastplate",
+   "ro": "Placă de piept tactică din aramidă, prototipul lui Saeko"
+  },
+  {
+   "key": "33787",
+   "en": "Arumajiro dual-armor aramid breastplate",
+   "ro": "Placă de piept din aramidă cu armură dublă Arumajiro"
+  },
+  {
+   "key": "33788",
+   "en": "Kani Kara titanium-reinforced composite breastplate",
+   "ro": "Placă de piept din compozit întărită cu titan Kani Kara"
+  },
+  {
+   "key": "33789",
+   "en": "5hi3ld Superb combatweave aramid breastplate",
+   "ro": "Placă de piept din aramidă 5hi3ld Superb cu țesătură de luptă"
+  },
+  {
+   "key": "33790",
+   "en": "Microplate-lined camo vest",
+   "ro": "Vestă de camuflaj căptușită cu microplăci"
+  },
+  {
+   "key": "33791",
+   "en": "Lady in Blue synweave vest",
+   "ro": "Vestă Lady in Blue din țesătură sintetică"
+  },
+  {
+   "key": "33792",
+   "en": "NUSA leather vest",
+   "ro": "Vestă NUSA din piele"
+  },
+  {
+   "key": "33793",
+   "en": "Secondhand synthleather vest",
+   "ro": "Vestă second-hand din piele sintetică"
+  },
+  {
+   "key": "33794",
+   "en": "BITCH V.13 composite-enhanced vest",
+   "ro": "Vestă BITCH V.13 întărită cu compozit"
+  },
+  {
+   "key": "33795",
+   "en": "Classy Brass flame-resistant laminated vest",
+   "ro": "Vestă laminată Classy Brass, rezistentă la flăcări"
+  },
+  {
+   "key": "33796",
+   "en": "Hand-reinforced hooded denim cut-off",
+   "ro": "Vestă din denim cu glugă, întărită manual"
+  },
+  {
+   "key": "33797",
+   "en": "Camo combat cut-off",
+   "ro": "Vestă de camuflaj de luptă fără mâneci"
+  },
+  {
+   "key": "33798",
+   "en": "Candy Pill ultra-durable cut-off",
+   "ro": "Vestă Candy Pill fără mâneci, ultrarezistentă"
+  },
+  {
+   "key": "33799",
+   "en": "BLOODY PIGGY cut-off",
+   "ro": "Vestă BLOODY PIGGY fără mâneci"
+  },
+  {
+   "key": "33800",
+   "en": "Shabby hooded cut-off",
+   "ro": "Vestă ponosită cu glugă, fără mâneci"
+  },
+  {
+   "key": "33801",
+   "en": "Cut-off with protective underlayer",
+   "ro": "Vestă fără mâneci cu strat protector dedesubt"
+  },
+  {
+   "key": "33802",
+   "en": "Tamashī enhanced short puffer",
+   "ro": "Geacă puf scurtă Tamashī îmbunătățită"
+  },
+  {
+   "key": "33803",
+   "en": "Nanostitched short puffer",
+   "ro": "Geacă puf scurtă cu cusături nano"
+  },
+  {
+   "key": "33804",
+   "en": "Short puffer with microplate underlayer",
+   "ro": "Geacă puf scurtă cu strat interior de microplăci"
+  },
+  {
+   "key": "33805",
+   "en": "Reinforced short puffer",
+   "ro": "Geacă puf scurtă întărită"
+  },
+  {
+   "key": "33806",
+   "en": "CLAW TASTE ultradurable short puffer",
+   "ro": "Geacă puf scurtă ultrarezistentă CLAW TASTE"
+  },
+  {
+   "key": "33807",
+   "en": "Fancy Dragon aramid-lined short puffer",
+   "ro": "Geacă puf scurtă Fancy Dragon căptușită cu aramidă"
+  },
+  {
+   "key": "33808",
+   "en": "JSHLX reinforced puffer vest",
+   "ro": "Vestă puf întărită JSHLX"
+  },
+  {
+   "key": "33809",
+   "en": "Final Impulse duolayer puffer vest",
+   "ro": "Vestă puf Final Impulse cu două straturi"
+  },
+  {
+   "key": "33810",
+   "en": "WASP anti-puncture polyamide puffer vest",
+   "ro": "Vestă puf WASP din poliamidă rezistentă la străpungere"
+  },
+  {
+   "key": "33811",
+   "en": "Magenta Bee trilayer hybrid puffer vest",
+   "ro": "Vestă puf hibridă Magenta Bee cu trei straturi"
+  },
+  {
+   "key": "33812",
+   "en": "Polycarbonate western fringe vest",
+   "ro": "Vestă western cu franjuri din policarbonat"
+  },
+  {
+   "key": "33813",
+   "en": "ICON America duolayer western fringe vest",
+   "ro": "Vestă western ICON America cu franjuri, cu două straturi"
+  },
+  {
+   "key": "33814",
+   "en": "Camo western fringe vest",
+   "ro": "Vestă western cu franjuri și camuflaj"
+  },
+  {
+   "key": "33815",
+   "en": "Adamant Road composite-reinforced western fringe vest",
+   "ro": "Vestă western cu franjuri Adamant Road, întărită cu compozit"
+  },
+  {
+   "key": "33816",
+   "en": "Anhelo Blanco puncture-resistant western fringe vest",
+   "ro": "Vestă western cu franjuri Anhelo Blanco, rezistentă la străpungere"
+  },
+  {
+   "key": "33817",
+   "en": "Asa no Heiwa enhanced yukata",
+   "ro": "Yukata îmbunătățită Asa no Heiwa"
+  },
+  {
+   "key": "33818",
+   "en": "Elegant nanoweave yukata",
+   "ro": "Yukata elegantă din țesătură nano"
+  },
+  {
+   "key": "33819",
+   "en": "Synweave armor-coated yukata",
+   "ro": "Yukata Synweave cu strat de armură"
+  },
+  {
+   "key": "33820",
+   "en": "Wakai Umi flame-resistant yukata",
+   "ro": "Yukata Wakai Umi rezistentă la flăcări"
+  },
+  {
+   "key": "33821",
+   "en": "Murasaki tear-resistant yukata",
+   "ro": "Yukata Murasaki rezistentă la sfâșiere"
+  },
+  {
+   "key": "33822",
+   "en": "Impact-absorbent padded biker vest",
+   "ro": "Vestă de motociclist vatuită care amortizează impactul"
+  },
+  {
+   "key": "33823",
+   "en": "Junge Werther reinforced leather biker vest",
+   "ro": "Vestă de motociclist Junge Werther din piele ranforsată"
+  },
+  {
+   "key": "33824",
+   "en": "Studded biker vest",
+   "ro": "Vestă de motociclist cu ținte"
+  },
+  {
+   "key": "33825",
+   "en": "Leather biker vest",
+   "ro": "Vestă de motociclist din piele"
+  },
+  {
+   "key": "33826",
+   "en": "SilveRock bulletproof-laminate biker vest",
+   "ro": "Vestă de motociclist SilveRock cu laminat antiglonț"
+  },
+  {
+   "key": "33827",
+   "en": "Rosa Escarlata embossed armoleather biker vest",
+   "ro": "Vestă de motociclist Rosa Escarlata din piele armată cu model în relief"
+  },
+  {
+   "key": "33828",
+   "en": "Upon closer inspection, it's designed more for style than tactical application.",
+   "ro": "La o privire mai atentă, e gândit mai mult pentru stil decât pentru uz tactic."
+  },
+  {
+   "key": "33829",
+   "en": "Subtly cool.",
+   "ro": "Subtil de mișto."
+  },
+  {
+   "key": "33830",
+   "en": "Worn as an accessory or the world's tiniest vest.",
+   "ro": "Se poartă ca accesoriu sau ca cea mai mică vestă din lume."
+  },
+  {
+   "key": "33831",
+   "en": "Gives you bad girl vibes.",
+   "en_m": "Gives you bad boy vibes.",
+   "ro": "Îți dă vibe-uri de fată rea.",
+   "ro_m": "Îți dă vibe-uri de băiat rău."
+  },
+  {
+   "key": "33832",
+   "en": "Ideal for a trip into the boonies.",
+   "ro": "Ideal pentru o escapadă în pustietate."
+  },
+  {
+   "key": "33833",
+   "en": "Preem as fuck and completely impractical.",
+   "ro": "Beton rău și complet nepractic."
+  },
+  {
+   "key": "33834",
+   "en": "The only way to shred.",
+   "ro": "Singurul mod de-a rupe."
+  },
+  {
+   "key": "33835",
+   "en": "Preemest pattern of the season.",
+   "ro": "Cel mai beton model al sezonului."
+  },
+  {
+   "key": "33836",
+   "en": "Some say a certain Kiroshi config will show you different colors.",
+   "ro": "Se zice că o anumită configurație Kiroshi îți arată alte culori."
+  },
+  {
+   "key": "33837",
+   "en": "For cartridges and raid souvenirs.",
+   "ro": "Pentru încărcătoare și suveniruri de la raiduri."
+  },
+  {
+   "key": "33838",
+   "en": "Keep those corp-issue grenades close to the chest.",
+   "ro": "Ține grenadele corporatiste aproape de piept."
+  },
+  {
+   "key": "33839",
+   "en": "A little old, a little dusty.",
+   "ro": "Puțin vechi, puțin prăfuit."
+  },
+  {
+   "key": "33840",
+   "en": "Surprisingly heavy but makes you feel like a true jarhead.",
+   "ro": "Surprinzător de greu, dar te face să te simți un militar adevărat."
+  },
+  {
+   "key": "33841",
+   "en": "Can hold a little C4, some lipstick… Y'know, whatever the day calls for.",
+   "ro": "Încape puțin C4, un ruj… Știi tu, ce-ți trebuie în ziua respectivă."
+  },
+  {
+   "key": "33842",
+   "en": "Good for quick access to medicine, bandages and ammo.",
+   "ro": "Bun pentru acces rapid la medicamente, bandaje și muniție."
+  },
+  {
+   "key": "33843",
+   "en": "You can attach, like, a million things to it.",
+   "ro": "Poți atașa pe el cam un milion de chestii."
+  },
+  {
+   "key": "33844",
+   "en": "The characteristic rose on a red backdrop.",
+   "ro": "Trandafirul caracteristic pe fundal roșu."
+  },
+  {
+   "key": "33845",
+   "en": "This may have seen real time in a war.",
+   "ro": "S-ar putea să fi văzut frontul pe bune."
+  },
+  {
+   "key": "33846",
+   "en": "Is this a Unification War relic?",
+   "ro": "Oare e o relicvă din Războiul Unificării?"
+  },
+  {
+   "key": "33847",
+   "en": "A designer's touch on a purely practical garment.",
+   "ro": "O notă de designer pe o piesă pur practică."
+  },
+  {
+   "key": "33848",
+   "en": "Indispensable on the road.",
+   "ro": "Indispensabil pe șosea."
+  },
+  {
+   "key": "33849",
+   "en": "You never can be too careful walking at night.",
+   "ro": "Nu poți fi niciodată prea precaut când umbli noaptea."
+  },
+  {
+   "key": "33850",
+   "en": "When you're the lowest level of corporat and proud of it.",
+   "ro": "Când ești cel mai mic nivel de corporatist și ești mândru de asta."
+  },
+  {
+   "key": "33851",
+   "en": "An accurate snapshot of the current state of the NCPD.",
+   "ro": "O imagine fidelă a stării actuale a NCPD."
+  },
+  {
+   "key": "33852",
+   "en": "The mud stains add an element of authenticity.",
+   "ro": "Petele de noroi îi dau o notă de autenticitate."
+  },
+  {
+   "key": "33853",
+   "en": "Overall, an eclectic mixture of styles, making this a highly sought-after item in Night City.",
+   "ro": "Per ansamblu, un mix eclectic de stiluri, ceea ce îl face un obiect foarte căutat în Night City."
+  },
+  {
+   "key": "33854",
+   "en": "No one can accuse you of being unoriginal.",
+   "ro": "Nimeni nu te poate acuza că n-ai originalitate."
+  },
+  {
+   "key": "33855",
+   "en": "Never get karate-chopped in the trachea ever again.",
+   "ro": "Să nu mai primești niciodată o lovitură de karate în trahee."
+  },
+  {
+   "key": "33856",
+   "en": "Your jugular is safe.",
+   "ro": "Jugulara ta e în siguranță."
+  },
+  {
+   "key": "33857",
+   "en": "It's amazing how many people take their neck for granted.",
+   "ro": "Uimitor câți oameni își iau gâtul de-a gata."
+  },
+  {
+   "key": "33858",
+   "en": "Increases your chances of surviving the average daily shooting.",
+   "ro": "Îți crește șansele de a supraviețui focurilor de armă zilnice."
+  },
+  {
+   "key": "33859",
+   "en": "Paints a target on your neck. Good thing it's armor.",
+   "ro": "Îți desenează o țintă pe gât. Bine că e armură."
+  },
+  {
+   "key": "33860",
+   "en": "When aesthetics and common sense reach a compromise.",
+   "ro": "Când estetica și bunul simț ajung la un compromis."
+  },
+  {
+   "key": "33861",
+   "en": "The simple elegance of corporate design.",
+   "ro": "Eleganța simplă a designului corporatist."
+  },
+  {
+   "key": "33862",
+   "en": "A future vintage classic of neopostmodern militarism.",
+   "ro": "Un viitor clasic vintage al militarismului neopostmodern."
+  },
+  {
+   "key": "33863",
+   "en": "Distinctly modern but reminiscent of ancient Rome.",
+   "ro": "Clar modern, dar cu amintiri din Roma antică."
+  },
+  {
+   "key": "33864",
+   "en": "The higher the price, the better your chances of survival.",
+   "ro": "Cu cât prețul e mai mare, cu atât șansele de supraviețuire sunt mai bune."
+  },
+  {
+   "key": "33865",
+   "en": "An indispensable safety blanket for the elite.",
+   "ro": "O pătură de siguranță indispensabilă pentru elită."
+  },
+  {
+   "key": "33866",
+   "en": "Sci-fi chic.",
+   "ro": "Șic sci-fi."
+  },
+  {
+   "key": "33867",
+   "en": "With a not-so-military-friendly print on the back.",
+   "ro": "Cu un print pe spate nu tocmai potrivit pentru armată."
+  },
+  {
+   "key": "33868",
+   "en": "In sweet summer colors.",
+   "ro": "În culori dulci de vară."
+  },
+  {
+   "key": "33869",
+   "en": "Flannel AND patriotism? What more could you ask for?",
+   "ro": "Flanel ȘI patriotism? Ce ți-ai putea dori mai mult?"
+  },
+  {
+   "key": "33870",
+   "en": "Has a subtle thrift-store musk that should wash right out.",
+   "ro": "Are un iz subtil de magazine second-hand care ar trebui să iasă la spălare."
+  },
+  {
+   "key": "33871",
+   "en": "Shock value for some. Sentiment for others.",
+   "ro": "Șoc pentru unii. Sentiment pentru alții."
+  },
+  {
+   "key": "33872",
+   "en": "Business on the bottom, party on the top.",
+   "ro": "Business jos, petrecere sus."
+  },
+  {
+   "key": "33873",
+   "en": "Don't count on standing out in it.",
+   "ro": "Nu te baza că o să ieși în evidență cu el."
+  },
+  {
+   "key": "33874",
+   "en": "Maybe if you add more pins it'll keep the threads from falling apart.",
+   "ro": "Poate dacă mai pui niște ace, firele n-o să se mai destrame."
+  },
+  {
+   "key": "33875",
+   "en": "Sweeten up a sour day.",
+   "ro": "Îndulcește o zi acră."
+  },
+  {
+   "key": "33876",
+   "en": "It's beyond saving.",
+   "ro": "Nu mai poate fi salvat."
+  },
+  {
+   "key": "33877",
+   "en": "It might be older than Saburo Arasaka.",
+   "ro": "S-ar putea să fie mai vechi decât Saburo Arasaka."
+  },
+  {
+   "key": "33878",
+   "en": "\"Used\"? For what? Cleaning the floor?",
+   "ro": "„Folosit”? La ce? La spălat pe jos?"
+  },
+  {
+   "key": "33879",
+   "en": "Too short for winter, too thick for summer.",
+   "ro": "Prea scurt pentru iarnă, prea gros pentru vară."
+  },
+  {
+   "key": "33880",
+   "en": "Soft as a cloud.",
+   "ro": "Moale ca un nor."
+  },
+  {
+   "key": "33881",
+   "en": "Surely someone can bring out its good side.",
+   "ro": "Sigur se găsește cineva care să-i scoată în evidență partea bună."
+  },
+  {
+   "key": "33882",
+   "en": "It was in vogue once upon a time.",
+   "ro": "A fost la modă cândva."
+  },
+  {
+   "key": "33883",
+   "en": "Waterproof and stuffed with genuine down.",
+   "ro": "Impermeabil și căptușit cu puf natural."
+  },
+  {
+   "key": "33884",
+   "en": "Real dragon scales! Seriously!",
+   "ro": "Solzi adevărați de dragon! Serios!"
+  },
+  {
+   "key": "33885",
+   "en": "Edgy designer name or keyboard smash?",
+   "ro": "Nume de designer rebel sau ai stat pe tastatură?"
+  },
+  {
+   "key": "33886",
+   "en": "Dark, bleak and perfect for Night City.",
+   "ro": "Întunecat, sumbru și perfect pentru Night City."
+  },
+  {
+   "key": "33887",
+   "en": "Make it clear you have a nasty sting.",
+   "ro": "Fă-le limpede că ai un ac otrăvit."
+  },
+  {
+   "key": "33888",
+   "en": "Look like a million eddies even if the weather takes a nasty turn.",
+   "ro": "Arată ca un milion de eddies chiar și când vremea o ia razna."
+  },
+  {
+   "key": "33889",
+   "en": "You more the bandit or sheriff type?",
+   "ro": "Tu ești mai mult genul bandit sau genul șerif?"
+  },
+  {
+   "key": "33890",
+   "en": "If this isn't dusty, you're doing something wrong.",
+   "ro": "Dacă asta nu e prăfuit, înseamnă că faci ceva greșit."
+  },
+  {
+   "key": "33891",
+   "en": "With neomilitarism all over the place, everything comes in camo.",
+   "ro": "Cu neomilitarismul peste tot, totul vine în camuflaj."
+  },
+  {
+   "key": "33892",
+   "en": "Better suited for a catwalk than a highway.",
+   "ro": "Mai potrivit pentru podium decât pentru autostradă."
+  },
+  {
+   "key": "33893",
+   "en": "Can you hear the roar of the engine? Feel the wind in your hair?",
+   "ro": "Auzi urletul motorului? Simți vântul în păr?"
+  },
+  {
+   "key": "33894",
+   "en": "Be careful to wrap it the right way.",
+   "ro": "Ai grijă să-l legi cum trebuie."
+  },
+  {
+   "key": "33895",
+   "en": "Black obi belt included.",
+   "ro": "Centură obi neagră inclusă."
+  },
+  {
+   "key": "33896",
+   "en": "No flash. For everyday use.",
+   "ro": "Fără fițe. De purtat în fiecare zi."
+  },
+  {
+   "key": "33897",
+   "en": "Unlike a ceremonial kimono, you can put this on yourself.",
+   "ro": "Spre deosebire de un kimono ceremonial, pe ăsta îl pui singură.",
+   "ro_m": "Spre deosebire de un kimono ceremonial, pe ăsta îl pui singur."
+  },
+  {
+   "key": "33898",
+   "en": "If a tradition has lasted this long, what's the harm in adding a little flair?",
+   "ro": "Dacă o tradiție a rezistat atâta timp, ce rău e să mai adaugi puțin șic?"
+  },
+  {
+   "key": "33899",
+   "en": "If you're not trying to \"wow\" anyone, then what's the point?",
+   "ro": "Dacă nu încerci să „impresionezi” pe nimeni, atunci la ce bun?"
+  }
+ ]
+}

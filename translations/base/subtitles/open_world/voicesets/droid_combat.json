@@ -1,0 +1,230 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\droid_combat.json",
+ "entries": [
+  {
+   "key": "1953184422760062976",
+   "en": "Welcome to Night City.",
+   "ro": "Bun venit în Night City."
+  },
+  {
+   "key": "1953184422827171840",
+   "en": "Please vacate the area.",
+   "ro": "Vă rugăm să părăsiți zona."
+  },
+  {
+   "key": "1953184422843949060",
+   "en": "Keep your distance. Hanare-nasai. Mantenga la distancia. Bao chi ju li.",
+   "ro": "Păstrați distanța."
+  },
+  {
+   "key": "1953184422894280704",
+   "en": "Holster your weapon. Buki-wo-shimai-nasai. Guarde su arma. Shou qi wu qi.",
+   "ro": "Puneți arma în toc."
+  },
+  {
+   "key": "1953184422911057924",
+   "en": "Please drop your weapon.",
+   "ro": "Vă rugăm să aruncați arma."
+  },
+  {
+   "key": "1953184422944612356",
+   "en": "You have ten seconds to comply.",
+   "ro": "Aveți zece secunde să vă conformați."
+  },
+  {
+   "key": "1953184422978166788",
+   "en": "This is your final warning. Saigo-no-keikoku-desu. Este es el último aviso. Zhe shi zui hou yi ci jing gao.",
+   "ro": "Acesta este ultimul avertisment."
+  },
+  {
+   "key": "1953184423011721220",
+   "en": "Thank you for your cooperation. Gokyouryoku-ni-kansha-shimasu. Gracias por su cooperación. Gan xie ni de he zuo.",
+   "ro": "Vă mulțumim pentru cooperare."
+  },
+  {
+   "key": "1953184423045275652",
+   "en": "For your own safety, please maintain silence.",
+   "ro": "Pentru propria dumneavoastră siguranță, vă rugăm să păstrați liniștea."
+  },
+  {
+   "key": "1953184423095607296",
+   "en": "Commencing area search.",
+   "ro": "Încep căutarea zonei."
+  },
+  {
+   "key": "1953184423112384516",
+   "en": "Detecting abnormalities.",
+   "ro": "Detectez anomalii."
+  },
+  {
+   "key": "1953184423145938948",
+   "en": "No threat detected.",
+   "ro": "Nicio amenințare detectată."
+  },
+  {
+   "key": "1953184423179493380",
+   "en": "Readings normal. No threat present.",
+   "ro": "Citiri normale. Nicio amenințare prezentă."
+  },
+  {
+   "key": "1953184423229825024",
+   "en": "Locating suspect.",
+   "ro": "Localizez suspectul."
+  },
+  {
+   "key": "1953184423246602244",
+   "en": "You are instructed to reveal yourself.",
+   "ro": "Sunteți instruit să vă dezvăluiți."
+  },
+  {
+   "key": "1953184423280156676",
+   "en": "Orders confirmed.",
+   "ro": "Ordine confirmate."
+  },
+  {
+   "key": "1953184423313711108",
+   "en": "No vital signs detected.",
+   "ro": "Niciun semn vital detectat."
+  },
+  {
+   "key": "1953184423364042752",
+   "en": "Commencing neutralizing threat.",
+   "ro": "Încep neutralizarea amenințării."
+  },
+  {
+   "key": "1953184423380819972",
+   "en": "Terrorist activity detected.",
+   "ro": "Activitate teroristă detectată."
+  },
+  {
+   "key": "1953184423414374404",
+   "en": "Utilizing explosive ordnance.",
+   "ro": "Utilizez muniție explozivă."
+  },
+  {
+   "key": "1953184423464706052",
+   "en": "Pacifying.",
+   "ro": "Pacifizez."
+  },
+  {
+   "key": "1953184423481483268",
+   "en": "Utilizing measures of immediate coersion.",
+   "ro": "Utilizez măsuri de constrângere imediată."
+  },
+  {
+   "key": "1953184423531814916",
+   "en": "Requesting support.",
+   "ro": "Solicit suport."
+  },
+  {
+   "key": "1953184423548592132",
+   "en": "Subject refusing to cooperate.",
+   "ro": "Subiectul refuză să coopereze."
+  },
+  {
+   "key": "1953184423598923780",
+   "en": "Do not damage Night City property.",
+   "ro": "Nu deteriorați proprietatea din Night City."
+  },
+  {
+   "key": "1953184423615700996",
+   "en": "Damage to Night City property will incur monetary fines and may result in a prison sentence.",
+   "ro": "Stricarea proprietății din Night City se pedepsește cu amenzi și poate duce la închisoare."
+  },
+  {
+   "key": "1953184423766695940",
+   "en": "Surround the target.",
+   "ro": "Încercuiți ținta."
+  },
+  {
+   "key": "1953184423800250372",
+   "en": "Carrying out order.",
+   "ro": "Execut ordinul."
+  },
+  {
+   "key": "1953184423833804804",
+   "en": "Danger. Danger. Danger.",
+   "ro": "Pericol. Pericol. Pericol."
+  },
+  {
+   "key": "1953184423867359236",
+   "en": "Inconsistent readings.",
+   "ro": "Citiri inconsistente."
+  },
+  {
+   "key": "1953184423917690884",
+   "en": "Full synchronization.",
+   "ro": "Sincronizare completă."
+  },
+  {
+   "key": "1953184423951245312",
+   "en": "Coordinated tracking commenced.",
+   "ro": "Urmărire coordonată inițiată."
+  },
+  {
+   "key": "1953184423984799744",
+   "en": "Detect and neutralize threat.",
+   "ro": "Detectați și neutralizați amenințarea."
+  },
+  {
+   "key": "1953184424001576964",
+   "en": "Your actions are illegal.",
+   "ro": "Acțiunile dumneavoastră sunt ilegale."
+  },
+  {
+   "key": "1953184424035131396",
+   "en": "You are assaultying Night City property.",
+   "ro": "Atacați proprietatea din Night City."
+  },
+  {
+   "key": "1953190129043546112",
+   "en": "Your safety is assured by Arasaka.",
+   "ro": "Siguranța dumneavoastră este asigurată de Arasaka."
+  },
+  {
+   "key": "1953190181438791684",
+   "en": "Your safety is assured by Militech.",
+   "ro": "Siguranța dumneavoastră este asigurată de Militech."
+  },
+  {
+   "key": "1953190313509036036",
+   "en": "Your safety is assured by Kang Tao.",
+   "ro": "Siguranța dumneavoastră este asigurată de Kang Tao."
+  },
+  {
+   "key": "1953193795452444676",
+   "en": "Law and order guarantee citizens a safe life.",
+   "ro": "Legea și ordinea garantează cetățenilor o viață sigură."
+  },
+  {
+   "key": "1953201927520034816",
+   "en": "Do not damage Arasaka property.",
+   "ro": "Nu deteriorați proprietatea Arasaka."
+  },
+  {
+   "key": "1953202042846617600",
+   "en": "Do not damage Militech property",
+   "ro": "Nu deteriorați proprietatea Militech."
+  },
+  {
+   "key": "1953202077424459780",
+   "en": "Do not damage Kang Tao property.",
+   "ro": "Nu deteriorați proprietatea Kang Tao."
+  },
+  {
+   "key": "1953202430417084420",
+   "en": "Damage to corporation property will incur monetary fines and may result in a prison sentence.",
+   "ro": "Stricarea proprietății corporației se pedepsește cu amenzi și poate duce la închisoare."
+  },
+  {
+   "key": "1953206694497525760",
+   "en": "Do not damage corporation property.",
+   "ro": "Nu deteriorați proprietatea corporației."
+  },
+  {
+   "key": "1953211261591265280",
+   "en": "You are assaulting corporation property.",
+   "ro": "Atacați proprietatea corporației."
+  }
+ ]
+}

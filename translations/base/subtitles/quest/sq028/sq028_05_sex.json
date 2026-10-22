@@ -1,0 +1,44 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq028\\sq028_05_sex.json",
+ "entries": [
+  {
+   "key": "1376445104495005696",
+   "en": "[Kiss]",
+   "ro": "[Sărută]"
+  },
+  {
+   "key": "1376445224183664640",
+   "en": "[Stop Kerry] You got the wrong idea...",
+   "en_m": "[Stop Kerry] Hey, you got it wrong.",
+   "ro": "[Oprește-l pe Kerry] Hei, ai înțeles greșit...",
+   "ro_m": "[Oprește-l pe Kerry] Hei, ai înțeles greșit."
+  },
+  {
+   "key": "1379192736873836544",
+   "en": "",
+   "en_m": "You got it wrong.",
+   "ro": "Ai înțeles greșit."
+  },
+  {
+   "key": "1379193858095181824",
+   "en": "",
+   "en_m": "Yeah. Sure did.",
+   "ro": "Da. Chiar așa."
+  },
+  {
+   "key": "1903599036432834564",
+   "en": "[Help Kerry]",
+   "ro": "[Ajută-l pe Kerry]"
+  },
+  {
+   "key": "1942998503599501312",
+   "en": "Gimme a hand with this motherfucker!",
+   "ro": "Dă-mi o mână cu nenorocitul ăsta!"
+  },
+  {
+   "key": "2016875661656453120",
+   "en": "No thanks, V. I'm all right.",
+   "ro": "Nu, mersi, V. Mă descurc."
+  }
+ ]
+}

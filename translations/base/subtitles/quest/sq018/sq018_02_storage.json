@@ -1,0 +1,854 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq018\\sq018_02_storage.json",
+ "entries": [
+  {
+   "key": "1699619057022443520",
+   "en": "Nice still.",
+   "ro": "Frumos cadru."
+  },
+  {
+   "key": "1699639475498295296",
+   "en": "Well, you got something for your ofrenda. But we could look around a little more.",
+   "ro": "Păi, ai găsit ceva pentru ofrendă. Dar mai putem căuta puțin."
+  },
+  {
+   "key": "1702632339975086080",
+   "en": "An aquarium?",
+   "ro": "Un acvariu?"
+  },
+  {
+   "key": "1718781917489176576",
+   "en": "Looks like he swapped out the exhaust pipe.",
+   "en_m": "Heh, looks like he swapped out the exhaust pipe.",
+   "ro": "Se vede că i-a schimbat țeava de eșapament.",
+   "ro_m": "Heh, se vede că i-a schimbat țeava de eșapament."
+  },
+  {
+   "key": "1718782714323050496",
+   "en": "Fine piece o' metal and mechanics. Yeah – he was sooo psyched...",
+   "en_m": "A fine piece o' metal and mechanics. Heh. He was so psyched...",
+   "ro": "Ce bijuterie de metal și mecanică. Da – era al naibii de entuziasmat...",
+   "ro_m": "Ce bijuterie de metal și mecanică. Heh. Era al naibii de entuziasmat..."
+  },
+  {
+   "key": "1852991538098655232",
+   "en": "Hi, V.",
+   "ro": "Salut, V."
+  },
+  {
+   "key": "1852992277017579524",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1852992530538090496",
+   "en": "Just sitting here? Alone?",
+   "ro": "Stai aici? Singură?"
+  },
+  {
+   "key": "1852993264105082880",
+   "en": "What're you doin' here?",
+   "ro": "Ce faci aici?"
+  },
+  {
+   "key": "1852993476487860224",
+   "en": "You here alone? This is not exactly the safest neighborhood in town, Misty.",
+   "ro": "Ești singură aici? Nu e tocmai cel mai sigur cartier din oraș, Misty."
+  },
+  {
+   "key": "1852995935876730880",
+   "en": "I used to sit on the stairs when I was ten. Twenty-six now – if anything was gonna happen, it wouldn'ta taken this long.",
+   "ro": "Stăteam pe scări pe vremea când aveam zece ani. Acum am douăzeci și șase – dacă trebuia să se întâmple ceva, nu mai dura atâta."
+  },
+  {
+   "key": "1852996823039135744",
+   "en": "Sittin' and waitin'... And, yeah, waitin' for him, though I know he's never comin' back.",
+   "ro": "Stau și aștept... Îl aștept, da, deși știu că nu se mai întoarce."
+  },
+  {
+   "key": "1852996931201847296",
+   "en": "I know it's gonk, it's just... I miss him. A lot.",
+   "ro": "Știu că sună tâmpit, doar că... mi-e tare dor de el."
+  },
+  {
+   "key": "1852997822642442244",
+   "en": "Jack told me about you.",
+   "ro": "Jack mi-a vorbit despre tine."
+  },
+  {
+   "key": "1852998246837571584",
+   "en": "You know each other long?",
+   "ro": "Vă cunoașteți de mult?"
+  },
+  {
+   "key": "1852998688430673920",
+   "en": "Jack talked about you... a lot. Always sayin' how much you meant to 'im.",
+   "en_m": "Jack talked about you a lot. Always sayin' how much you meant to 'im.",
+   "ro": "Jack vorbea mereu despre tine... Zicea tot timpul cât de mult însemnai pentru el.",
+   "ro_m": "Jack vorbea mereu despre tine. Zicea tot timpul cât de mult însemnai pentru el."
+  },
+  {
+   "key": "1852998900746342400",
+   "en": "You knew each other long?",
+   "en_m": "You know each other long?",
+   "ro": "Vă cunoșteați de mult?",
+   "ro_m": "Vă cunoașteți de mult?"
+  },
+  {
+   "key": "1852999987859607552",
+   "en": "Did he really say that? I bet he used different words.",
+   "ro": "Chiar a zis asta? Pun pariu că a folosit alte vorbe."
+  },
+  {
+   "key": "1853000274917773312",
+   "en": "Half our lives. Grew up in the same streets – saw each other a lot but just never got together…",
+   "ro": "Jumătate din viață. Am crescut pe aceleași străzi – ne vedeam des, dar n-am fost niciodată împreună…"
+  },
+  {
+   "key": "1853001989297590272",
+   "en": "Nah, Jack was... Jack was a little of that, too. Always lookin' on the bright side…",
+   "en_m": "No, Jack was... a little of that, too. Always lookin' on the bright side…",
+   "ro": "Nah, Jack era... Era și el puțin din ăsta. Mereu vedea partea bună…",
+   "ro_m": "Nu, Jack era... Era și el puțin din ăsta. Mereu vedea partea bună…"
+  },
+  {
+   "key": "1853002060080664580",
+   "en": "He was like that, too.",
+   "ro": "Și el era așa."
+  },
+  {
+   "key": "1853002197435731968",
+   "en": "Who was he to you?",
+   "ro": "Cine era pentru tine?"
+  },
+  {
+   "key": "1853003700724617216",
+   "en": "He wore his heart on his sleeve. And wasn't at all afraid to live fully.",
+   "ro": "Își purta inima pe mânecă. Și nu se sfia deloc să trăiască din plin."
+  },
+  {
+   "key": "1853004207111327744",
+   "en": "Had his inner demons, though.",
+   "ro": "Avea și el demonii lui, totuși."
+  },
+  {
+   "key": "1853004559969734656",
+   "en": "Who doesn't?",
+   "ro": "Cine nu are?"
+  },
+  {
+   "key": "1853004655650197504",
+   "en": "Exactly. They're what makes us who we really are on the inside.",
+   "ro": "Exact. Ei sunt cei care ne fac ce suntem pe dinăuntru."
+  },
+  {
+   "key": "1853006256448262144",
+   "en": "Mama Welles is having a send-off for Jackie. I need to find somethin' he really cared about.",
+   "ro": "Mama Welles face o ceremonie de rămas bun pentru Jackie. Trebuie să găsesc ceva ce îi plăcea chiar."
+  },
+  {
+   "key": "1853006374241095684",
+   "en": "Help me find something for the ofrenda?",
+   "ro": "Mă ajuți să găsesc ceva pentru ofrendă?"
+  },
+  {
+   "key": "1853006552817782784",
+   "en": "Why didn't you go in?",
+   "ro": "De ce n-ai intrat?"
+  },
+  {
+   "key": "1853006744145154052",
+   "en": "How come you're outside?",
+   "ro": "Cum de ești afară?"
+  },
+  {
+   "key": "1853007979552231424",
+   "en": "I'm not sure I should go in there, V.",
+   "ro": "Nu sunt sigură că ar trebui să intru acolo, V.",
+   "ro_m": "Nu sunt sigur că ar trebui să intru acolo, V."
+  },
+  {
+   "key": "1853008200474611712",
+   "en": "I don't have the key.",
+   "ro": "Nu am cheia."
+  },
+  {
+   "key": "1853029324616945664",
+   "en": "Hm. Locked. Wonder what's in there.",
+   "en_m": "Ugh. Locked. I wonder what's in there.",
+   "ro": "Hm. Blocat. Mă întreb ce e acolo.",
+   "ro_m": "Ugh. Blocat. Mă întreb ce e acolo."
+  },
+  {
+   "key": "1853029448617349120",
+   "en": "That's his lair, slept there. He musta had a different key.",
+   "ro": "Ăla era bârlogul lui, dormea acolo. Trebuie să fi avut altă cheie."
+  },
+  {
+   "key": "1853029703916244992",
+   "en": "Let's look around, might be tucked away somewhere?",
+   "ro": "Hai să căutăm, poate e ascunsă pe undeva?"
+  },
+  {
+   "key": "1853030358999420928",
+   "en": "Found it.",
+   "ro": "Am găsit."
+  },
+  {
+   "key": "1853043435463561216",
+   "en": "Oh, Jackie...",
+   "ro": "Of, Jackie..."
+  },
+  {
+   "key": "1853043801592745984",
+   "en": "Hey, you all right?",
+   "ro": "Hei, ești bine?"
+  },
+  {
+   "key": "1853043872342265860",
+   "en": "You all right?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "1853044462665388036",
+   "en": "That a... a mandala...?",
+   "en_m": "That a... mandala...?",
+   "ro": "Asta e... un mandala...?",
+   "ro_m": "Asta e... mandala...?"
+  },
+  {
+   "key": "1853044783194099716",
+   "en": "I once told Jackie he should sweep all the dark energy out of this place. A sand mandala'd do the trick, for example.",
+   "ro": "I-am zis odată lui Jackie să măture energia aia întunecată din locul ăsta. Un mandala din nisip ar fi de ajuns, de exemplu."
+  },
+  {
+   "key": "1853046276617981952",
+   "en": "I'm so much better than all right.",
+   "ro": "Mă simt mult mai bine decât bine."
+  },
+  {
+   "key": "1853046639123288064",
+   "en": "He told me that out of sand, he'd build a castle, a home, the Welles' family hideout, stronghold, somethin'…",
+   "ro": "Zicea că din nisip ar face un castel, o casă, ascunzătoarea familiei Welles, o fortăreață, nu știu ce…"
+  },
+  {
+   "key": "1853046850935640064",
+   "en": "I guess you made a bigger impression than you thought.",
+   "ro": "Se vede că ai lăsat mai multă impresie decât credeai."
+  },
+  {
+   "key": "1853047008691802112",
+   "en": "I guess I did...",
+   "ro": "Se pare că da..."
+  },
+  {
+   "key": "1853303390506635264",
+   "en": "His favorite.",
+   "ro": "Preferatul lui."
+  },
+  {
+   "key": "1853303505447342080",
+   "en": "Still full.",
+   "ro": "Încă plin."
+  },
+  {
+   "key": "1853303590642044928",
+   "en": "Strategic reserve. No touching.",
+   "ro": "Rezervă strategică. Nu atinge."
+  },
+  {
+   "key": "1853303664461795328",
+   "en": "How come?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1853303799216394240",
+   "en": "<kiroshi l=\"mex\" o=\"«Porque no puedes tocar una reserva estratégica, ¿va?»\" t=\"\\\"Because you can't touch a strategic reserve, OK?\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"«Porque no puedes tocar una reserva estratégica, ¿va?»\" t=\"\\\"Pentru că nu poți atinge o rezervă strategică, OK?\\\" \" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1853306427182731264",
+   "en": "Heh, Jackie loved to pump iron, didn't he?",
+   "en_m": "Jackie loved to pump iron, didn't he?",
+   "ro": "Heh, lui Jackie îi plăcea să tragă de fiare, nu?",
+   "ro_m": "Lui Jackie îi plăcea să tragă de fiare, nu?"
+  },
+  {
+   "key": "1853306580593594368",
+   "en": "He called it his form of meditation.",
+   "ro": "Zicea că e meditația lui."
+  },
+  {
+   "key": "1853306716673593344",
+   "en": "He used to say barbells are the best listeners. They understand all your problems and never give you gonk advice.",
+   "ro": "Zicea că barele sunt cei mai buni ascultători. Înțeleg toate problemele tale și nu-ți dau niciodată sfaturi de fraier."
+  },
+  {
+   "key": "1853307000292429824",
+   "en": "Guess no man cave's complete without some of those, huh?",
+   "ro": "Parcă nicio cameră de bărbați nu e completă fără câteva din astea, nu?"
+  },
+  {
+   "key": "1853307327230038016",
+   "en": "Heh, gotta be hanging here since 2020.",
+   "en_m": "Gotta be hanging here since 2020.",
+   "ro": "Heh, stă aici de pe la 2020.",
+   "ro_m": "Stă aici de pe la 2020."
+  },
+  {
+   "key": "1853307672974905344",
+   "en": "Loved to poke around engines.",
+   "ro": "Îi plăcea să se bage în motoare."
+  },
+  {
+   "key": "1853307731242176512",
+   "en": "He was fifteen when he first got on a bike.",
+   "ro": "Avea cincisprezece ani când s-a urcat prima oară pe motor."
+  },
+  {
+   "key": "1853307881985462272",
+   "en": "Knowing him, it is a miracle he never wiped out.",
+   "en_m": "Knowing him, it's a miracle he never wiped out.",
+   "ro": "Cunoscându-l, e un miracol că nu s-a dat niciodată cu capu' de asfalt."
+  },
+  {
+   "key": "1853309830139006976",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1853309886661447680",
+   "en": "Advised him to do it... right before the job.",
+   "en_m": "I advised him to do it... right before the job.",
+   "ro": "I-am zis s-o facă... chiar înainte de treabă."
+  },
+  {
+   "key": "1854623201962545152",
+   "en": "\"For Whom the Bell Tolls\" – Ernest Hemingway.",
+   "ro": "„Pentru cine bat clopotele” – Ernest Hemingway."
+  },
+  {
+   "key": "1854623312692170752",
+   "en": "Jack read it a dozen times. Always right before a big job.",
+   "ro": "Jack l-a citit de vreo douăsprezece ori. Mereu chiar înainte de o treabă mare."
+  },
+  {
+   "key": "1854623381042548736",
+   "en": "He said the guy who wrote it was tougher than Morgan Blackhand.",
+   "ro": "Zicea că tipul care l-a scris era mai dur decât Morgan Blackhand."
+  },
+  {
+   "key": "1854623528665272320",
+   "en": "You read it? Is it any good?",
+   "en_m": "Have you read it? Is it any good?",
+   "ro": "L-ai citit? E bun?"
+  },
+  {
+   "key": "1854623759922417664",
+   "en": "I, uh... I never got the chance.",
+   "ro": "Eu, ăă... n-am avut ocazia."
+  },
+  {
+   "key": "1854624844787535872",
+   "en": "Used to be Taco's.",
+   "ro": "A fost al lui Taco."
+  },
+  {
+   "key": "1854624931659960320",
+   "en": "And Taco was...",
+   "ro": "Iar Taco era..."
+  },
+  {
+   "key": "1854625261667799040",
+   "en": "His fish. A dwarf shark, like, mini.",
+   "ro": "Peștele lui. Un rechin pitic, gen, mini."
+  },
+  {
+   "key": "1854626545175154688",
+   "en": "Basketball signed by Dante González.",
+   "ro": "Minge de baschet semnată de Dante González."
+  },
+  {
+   "key": "1854626658622689280",
+   "en": "He was from Heywood, too. Everyone here shot hoops, Dante ran circles around 'em.",
+   "ro": "Era și el din Heywood. Toți de pe-aici jucau baschet, iar Dante îi lăsa pe toți în praf."
+  },
+  {
+   "key": "1854626816982831104",
+   "en": "I think he mighta been the first kid to ditch the Valentinos.",
+   "ro": "Cred că a fost primul pici care a ieșit din gașca Valentinos."
+  },
+  {
+   "key": "1854626889443627008",
+   "en": "Like Jackie?",
+   "ro": "Ca Jackie?"
+  },
+  {
+   "key": "1854627103135027200",
+   "en": "Mhm. They both wanted more outta life.",
+   "ro": "Mhm. Amândoi voiau mai mult de la viață."
+  },
+  {
+   "key": "1854627206365237248",
+   "en": "Dante's captain of the NC Blackouts now.",
+   "ro": "Dante e căpitan la NC Blackouts acum."
+  },
+  {
+   "key": "1854628072841334784",
+   "en": "Heh, Jackie's favorite tequila. Still sealed.",
+   "en_m": "Jackie's favorite tequila. Huh, still sealed.",
+   "ro": "Heh, tequila preferată a lui Jackie. Încă sigilată.",
+   "ro_m": "Tequila preferată a lui Jackie. Hm, încă sigilată."
+  },
+  {
+   "key": "1854632228658401284",
+   "en": "Gotta be Jackie's dad.",
+   "en_m": "It's gotta be Jackie's dad.",
+   "ro": "Sigur e tatăl lui Jackie."
+  },
+  {
+   "key": "1854636579426717696",
+   "en": "Leather belt?",
+   "ro": "Curea de piele?"
+  },
+  {
+   "key": "1854637643722969088",
+   "en": "In case his dad ever comes back.",
+   "ro": "Pentru cazul în care se mai întoarce tatăl lui."
+  },
+  {
+   "key": "1854641754342215680",
+   "en": "Did you meet him?",
+   "en_m": "D'you meet him?",
+   "ro": "L-ai întâlnit?"
+  },
+  {
+   "key": "1854644902939119616",
+   "en": "Typical Jackie.",
+   "ro": "Tipic Jackie."
+  },
+  {
+   "key": "1854644988603584512",
+   "en": "Of course he'd go for this one.",
+   "ro": "Normal că pe ăsta l-ar fi luat."
+  },
+  {
+   "key": "1854710069387382784",
+   "en": "Sort of a memento. His dad's. Used to beat both Jackie and his mom with it.",
+   "ro": "O amintire, de la tatăl lui. Îl folosea să-i bată pe Jackie și pe mama lui."
+  },
+  {
+   "key": "1854710141328084992",
+   "en": "Until one day Jackie fought back, kicked his butt, told him he'd kill him next time. Old man was hospitalized and then he left.",
+   "ro": "Până într-o zi, Jackie s-a sculat și l-a bătut măr, i-a zis că data viitoare îl omoară. Bătrânul a ajuns la spital și apoi a dispărut."
+  },
+  {
+   "key": "1854710614529462272",
+   "en": "Why'd he hold onto it?",
+   "ro": "De ce l-a păstrat?"
+  },
+  {
+   "key": "1854713409009668096",
+   "en": "Old school ganger. Valentinos, of course.",
+   "ro": "Gangster de modă veche. Din Valentinos, normal."
+  },
+  {
+   "key": "1854713664392450048",
+   "en": "No, I only ever heard about him. But he didn't exactly inspire many fond memories.",
+   "ro": "Nu, doar am auzit de el. Dar nu prea lăsa amintiri faine."
+  },
+  {
+   "key": "1867799900019544064",
+   "en": "Yeah. Best darn year of my life.",
+   "ro": "Da. Cel mai tare an din viața mea."
+  },
+  {
+   "key": "1867800587348529152",
+   "en": "You actually got to know him – the real Jackie. Everybody else thought he was a goofball with a rough-hewn face and an edge. But they're wrong.",
+   "ro": "Chiar l-ai cunoscut – pe Jackie cel adevărat. Toți ceilalți credeau că e un clovn cu fața aia de bătăuș. Dar greșeau."
+  },
+  {
+   "key": "1885228976896266240",
+   "en": "He said they're collectibles. They don't print them anymore.",
+   "ro": "A zis că sunt piese de colecție. Nu se mai tipăresc."
+  },
+  {
+   "key": "1885231847863799808",
+   "en": "That's definitely why they're up there, yeah.",
+   "ro": "Sigur de-aia sunt acolo sus."
+  },
+  {
+   "key": "1886637819584892932",
+   "en": "Part of the strategic reserve?",
+   "ro": "Parte din rezerva strategică?"
+  },
+  {
+   "key": "1886638287853768704",
+   "en": "It's his lucky charm. One of the first bottles ever made by Jesús de Abajo.",
+   "ro": "E talismanul lui de noroc. Una dintre primele sticle făcute vreodată de Jesús de Abajo."
+  },
+  {
+   "key": "1886638294212333568",
+   "en": "The founder of Centzon Tequila?",
+   "en_m": "Wha-- the founder of Centzon Tequila?",
+   "ro": "Fondatorul Centzon Tequila?",
+   "ro_m": "Ce-- fondatorul Centzon Tequila?"
+  },
+  {
+   "key": "1886638300386349056",
+   "en": "Only a hundred of 'em left in the world – all owned by the one percent.",
+   "ro": "Au mai rămas doar o sută în toată lumea – toate deținute de unu' la sută."
+  },
+  {
+   "key": "1886638306744913920",
+   "en": "How did Jackie get this one?",
+   "en_m": "Wha... how'd Jackie get this one?",
+   "ro": "Cum a obținut Jackie asta?",
+   "ro_m": "Ce... cum a obținut Jackie asta?"
+  },
+  {
+   "key": "1886638313002815488",
+   "en": "<mothertongue l=\"mex\" m=\"abuela\" b=\"Some shriveled \" a=\" in Mexico sold it to him. Told him de Abajo had stolen her recipe.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"abuela\" b=\"O babă ofilită \" a=\" din Mexic i-a vândut-o. I-a spus că de Abajo i-a furat rețeta.\"/>"
+  },
+  {
+   "key": "1927117802346311680",
+   "en": "What'd you see in him?",
+   "ro": "Ce vedeai la el?"
+  },
+  {
+   "key": "1927255087385604096",
+   "en": "Lemme tell you what he told me once.",
+   "ro": "Lasă-mă să-ți zic ce mi-a spus odată."
+  },
+  {
+   "key": "1927255121829228544",
+   "en": "Told me he'd take a bullet for me – in an instant. Even if it'd kill him.",
+   "ro": "Zicea că ar lua un glonț pentru mine, fără să stea pe gânduri. Chiar dacă l-ar omorî."
+  },
+  {
+   "key": "1927255316008726528",
+   "en": "Spoken like a true Heywood boy.",
+   "ro": "Vorbă de băiat din Heywood."
+  },
+  {
+   "key": "1927255392630272000",
+   "en": "A man – with dreams, ambitions. Only thing they cost him was his life.",
+   "ro": "Un om cu vise și ambiții. Doar viața i-a costat."
+  },
+  {
+   "key": "1927275670177509376",
+   "en": "There's a huge chunk of his past in there…",
+   "ro": "E o bucată mare din trecutul lui acolo…"
+  },
+  {
+   "key": "1927296362155536384",
+   "en": "Still too soon?",
+   "ro": "Încă prea devreme?"
+  },
+  {
+   "key": "1927296936741629952",
+   "en": "No, it's not that. Mama Welles and I aren't exactly on the best terms.",
+   "ro": "Nu, nu e asta. Mama Welles și cu mine nu ne prea înțelegem."
+  },
+  {
+   "key": "1927296994388144128",
+   "en": "She wouldn't want me touching any of his things, disturbing the memory – that I know.",
+   "ro": "Nu ar vrea să ating nimic din lucrurile lui, să-i tulbur amintirea – asta știu."
+  },
+  {
+   "key": "1927297159526281216",
+   "en": "Jackie'd want you here – that's more important.",
+   "ro": "Jackie ar vrea să fii aici, asta contează mai mult."
+  },
+  {
+   "key": "1927297250643341312",
+   "en": "Come on.",
+   "ro": "Hai."
+  },
+  {
+   "key": "1927305746709409792",
+   "en": "Heh, maybe, but... that's what he meant. I really believe that.",
+   "en_m": "Heh, maybe, but that's what he meant. I really believe that.",
+   "ro": "Heh, poate, dar... asta a vrut să spună. Chiar cred asta.",
+   "ro_m": "Heh, poate, dar asta a vrut să spună. Chiar cred asta."
+  },
+  {
+   "key": "1928727516846944256",
+   "en": "Wanna sit? Catch up?",
+   "ro": "Vrei să stăm jos? Ne luăm la zi?"
+  },
+  {
+   "key": "1928736007493971968",
+   "en": "Lately I've just been comin' here to sit. An hour, sometimes two.",
+   "ro": "În ultima vreme vin aici doar să stau. O oră, uneori două."
+  },
+  {
+   "key": "1928738017622552576",
+   "en": "Till a year back.",
+   "ro": "Până anul trecut."
+  },
+  {
+   "key": "1928780645474955264",
+   "en": "Mind givin' me a hand?",
+   "en_m": "Ya mind givin' me a hand?",
+   "ro": "Mi-ai da o mână de ajutor?",
+   "ro_m": "Mi-ai da o mână de ajutor, frate?"
+  },
+  {
+   "key": "1928793042847723520",
+   "en": "Jackie never gave you a set? You two didn't get that far?",
+   "en_m": "Jackie never gave you a set? Wha-- you two didn't get that far?",
+   "ro": "Jackie nu ți-a dat un set? N-ați ajuns atât de departe?",
+   "ro_m": "Jackie nu ți-a dat un set? Ce-- n-ați ajuns atât de departe?"
+  },
+  {
+   "key": "1928793270799757312",
+   "en": "He offered. But I wanted him to have his own space, just his own.",
+   "ro": "Mi-a propus. Dar am vrut să aibă și el locul lui, doar al lui."
+  },
+  {
+   "key": "1937314604613824512",
+   "en": "Mhm. Oof, it's a long story.",
+   "ro": "Mhm. Uf, e-o poveste lungă."
+  },
+  {
+   "key": "1937317127722561536",
+   "en": "Looks a little crooked…",
+   "ro": "Pare cam strâmb…"
+  },
+  {
+   "key": "1937317133510701056",
+   "en": "It's beautiful.",
+   "ro": "E frumos."
+  },
+  {
+   "key": "1937317138443202560",
+   "en": "Isn't it just a little... janky?",
+   "en_m": "Isn't it just a little, uh... janky?",
+   "ro": "Nu e doar un pic... de mântuială?",
+   "ro_m": "Nu e doar un pic, uh... de mântuială?"
+  },
+  {
+   "key": "1937317781463560192",
+   "en": "It's beautiful.",
+   "ro": "E frumos."
+  },
+  {
+   "key": "1937319543020908544",
+   "en": "It's hideous.",
+   "ro": "E oribil."
+  },
+  {
+   "key": "1937335792912232448",
+   "en": "But it's also the most beautiful thing I've ever seen.",
+   "ro": "Dar e și cel mai frumos lucru pe care l-am văzut vreodată."
+  },
+  {
+   "key": "1937340415505002496",
+   "en": "It'd be a good tribute for the ofrenda, though.",
+   "ro": "Totuși, ar fi un omagiu bun pentru ofrenda."
+  },
+  {
+   "key": "1937410900213297152",
+   "en": "Sounds like a mighty expensive fish.",
+   "ro": "Pare un pește scump de moarte."
+  },
+  {
+   "key": "1937411098704539648",
+   "en": "Pfft. Oh, I don't think he bought it.",
+   "ro": "Pfft. Nu cred că l-a cumpărat."
+  },
+  {
+   "key": "1942845947135303684",
+   "en": "[Take] The Jackster all the way.",
+   "ro": "[Ia] Jackster-ul până la capăt."
+  },
+  {
+   "key": "1942850655694528512",
+   "en": "[Take] Yeah, nice, fitting.",
+   "ro": "[Ia] Da, fain, se potrivește."
+  },
+  {
+   "key": "1942851325709426688",
+   "en": "[Take] Oughta be just right, this.",
+   "ro": "[Ia] Ăsta ar trebui să fie fix."
+  },
+  {
+   "key": "1942855605912772608",
+   "en": "[Take] This, yeah, this'll be good.",
+   "ro": "[Ia] Ăsta, da, o să fie bun."
+  },
+  {
+   "key": "1943128215422672896",
+   "en": "An autograph?",
+   "ro": "Un autograf?"
+  },
+  {
+   "key": "1943129611270266880",
+   "en": "A book?",
+   "ro": "O carte?"
+  },
+  {
+   "key": "1943140999409606656",
+   "en": "[Sit] That's normal.",
+   "ro": "[Așează-te] E normal."
+  },
+  {
+   "key": "1943141290460749824",
+   "en": "I have to find something for the ofrenda.",
+   "ro": "Trebuie să găsesc ceva pentru ofrendă."
+  },
+  {
+   "key": "1943141844008214528",
+   "en": "Hardly gonk at all... just, well, human.",
+   "ro": "Abia un fraier... doar, păi, om."
+  },
+  {
+   "key": "1943156852117118976",
+   "en": "Jackie's belt?",
+   "ro": "Cureaua lui Jackie?"
+  },
+  {
+   "key": "1943156855069908992",
+   "en": "His favorite tequila.",
+   "ro": "Tequila lui preferată."
+  },
+  {
+   "key": "1978012620067766276",
+   "en": "Haven't been touched.",
+   "ro": "N-au fost atinse."
+  },
+  {
+   "key": "1978015180841353220",
+   "en": "He loved to pump iron.",
+   "ro": "Îi plăcea să ridice greutăți."
+  },
+  {
+   "key": "1978025456617717764",
+   "en": "An essential for every garage.",
+   "ro": "Indispensabil în orice garaj."
+  },
+  {
+   "key": "1978046913670348800",
+   "en": "Classic.",
+   "ro": "Clasic."
+  },
+  {
+   "key": "1978048443182022660",
+   "en": "Loved poking around engines.",
+   "ro": "Îi plăcea să umble prin motoare."
+  },
+  {
+   "key": "1978122641510301700",
+   "en": "He tuned it up.",
+   "ro": "L-a pus la punct."
+  },
+  {
+   "key": "1978148857202147328",
+   "en": "He loved this piece of metal.",
+   "ro": "Ținea mult la bucata asta de fier."
+  },
+  {
+   "key": "1978209060983472132",
+   "en": "Must be Jackie's dad.",
+   "ro": "Trebuie să fie tatăl lui Jackie."
+  },
+  {
+   "key": "1978217029506760708",
+   "en": "Nice photo. This is you.",
+   "ro": "Poză faină. Asta ești tu."
+  },
+  {
+   "key": "1978217383791230980",
+   "en": "An aquarium?",
+   "ro": "Un acvariu?"
+  },
+  {
+   "key": "1979459572135428096",
+   "en": "Better get goin'.",
+   "ro": "Mai bine plecăm."
+  },
+  {
+   "key": "1979597070479040516",
+   "en": "[Open] Let's go.",
+   "ro": "[Deschide] Hai să mergem."
+  },
+  {
+   "key": "2019941391965024256",
+   "en": "I guess.",
+   "ro": "Cred că da."
+  },
+  {
+   "key": "2066633638896640004",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2241811332823318532",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2243207234557378560",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "2262065727332859904",
+   "en": "Jack, pure and simple…",
+   "ro": "Jack, pur și simplu…"
+  },
+  {
+   "key": "2262065731325837312",
+   "en": "V, what're we doing?",
+   "ro": "V, ce facem?"
+  },
+  {
+   "key": "2262097557251604484",
+   "en": "Hm. This'll be... fitting.",
+   "ro": "Hm. Asta chiar se potrivește."
+  },
+  {
+   "key": "2262119988825604096",
+   "en": "What now? Huh?",
+   "ro": "Și acum? Hm?"
+  },
+  {
+   "key": "2262120180454965256",
+   "en": "Uh, whaddaya expect to happen?",
+   "ro": "Ăă, ce te aștepți să se întâmple?"
+  },
+  {
+   "key": "2262120302073004040",
+   "en": "Should we even go in there? I'm not really sure…",
+   "ro": "Ar trebui să intrăm acolo? Nu-s chiar sigură…",
+   "ro_m": "Ar trebui să intrăm acolo? Nu-s chiar sigur…"
+  },
+  {
+   "key": "2262167170450636808",
+   "en": "You decide, V. We goin' in or not?",
+   "ro": "Tu decizi, V. Intrăm sau nu?"
+  },
+  {
+   "key": "2262167178654695432",
+   "en": "Think you have everything you need?",
+   "ro": "Crezi că ai tot ce-ți trebuie?"
+  },
+  {
+   "key": "2262174640908713992",
+   "en": "Something else, V…?",
+   "ro": "Altceva, V…?"
+  },
+  {
+   "key": "2263438725667274760",
+   "en": "True memento, this.",
+   "ro": "Asta-i chiar un suvenir."
+  },
+  {
+   "key": "2263438892852232192",
+   "en": "Takin' this, yeah. Perfect for Jackie.",
+   "ro": "Iau asta, da. Perfect pentru Jackie."
+  }
+ ]
+}

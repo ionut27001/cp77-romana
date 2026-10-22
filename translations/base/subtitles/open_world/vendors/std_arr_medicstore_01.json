@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\std_arr_medicstore_01.json",
+ "entries": [
+  {
+   "key": "1783753696176001024",
+   "en": "Whatcha peddlin'?",
+   "ro": "Ce ai de vânzare?"
+  },
+  {
+   "key": "1783753696176001040",
+   "en": "Heard people in Arroyo get sick a lot.",
+   "ro": "Am auzit că oamenii din Arroyo se îmbolnăvesc des."
+  },
+  {
+   "key": "1783753696192778244",
+   "en": "Whatcha got in stock? Nice variety? Anything worth lookin' at?",
+   "ro": "Ce ai pe stoc? Ai de toate? Ceva care merită o privire?"
+  },
+  {
+   "key": "1783753696209555460",
+   "en": "I have... things.",
+   "ro": "Am... lucruri."
+  },
+  {
+   "key": "1783753696226332676",
+   "en": "Is it true more and more people in Arroyo are gettin' sick?",
+   "ro": "Chiar se îmbolnăvesc tot mai mulți în Arroyo?"
+  },
+  {
+   "key": "1783753696226332684",
+   "en": "People've been reporting strange symptoms. Spontaneous burns, seizures, almost epileptic... All eyes're on the power plant.",
+   "ro": "Lumea zice de simptome ciudate. Arsuri spontane, convulsii, ceva aproape epileptic... Toți se uită spre centrala electrică."
+  }
+ ]
+}

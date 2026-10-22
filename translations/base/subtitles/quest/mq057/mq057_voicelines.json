@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq057\\mq057_voicelines.json",
+ "entries": [
+  {
+   "key": "4890214179442421760",
+   "en": "Holy--",
+   "ro": "Doamne--"
+  },
+  {
+   "key": "4890215446810095616",
+   "en": "Now that that's over...",
+   "ro": "Acum că s-a terminat..."
+  },
+  {
+   "key": "4890219351321243648",
+   "en": "Say your fuckin' goodbyes!",
+   "ro": "Spune-ți adio, pula mea!"
+  },
+  {
+   "key": "4890220039354871808",
+   "en": "Oh, you little bitch!",
+   "ro": "Ah, pizdulice!"
+  }
+ ]
+}

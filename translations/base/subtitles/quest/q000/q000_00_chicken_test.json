@@ -1,0 +1,110 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "1664748155167592448",
+   "en": "Start",
+   "ro": "Începe"
+  },
+  {
+   "key": "1664748281214816256",
+   "en": "Radio Tower",
+   "ro": "Turnul radio"
+  },
+  {
+   "key": "1664749317258235904",
+   "en": "More",
+   "ro": "Mai mult"
+  },
+  {
+   "key": "1746031752515702784",
+   "en": "Back",
+   "ro": "ÎNAPOI"
+  },
+  {
+   "key": "1746031752532480012",
+   "en": "Drive to Border",
+   "ro": "Condu spre graniță"
+  },
+  {
+   "key": "1746031752532480028",
+   "en": "Border Crossing",
+   "ro": "Trecerea frontierei"
+  },
+  {
+   "key": "1746031752532480044",
+   "en": "Chase",
+   "ro": "Urmărire"
+  },
+  {
+   "key": "1746031752532480060",
+   "en": "Hideout",
+   "ro": "Ascunzătoare"
+  },
+  {
+   "key": "1823925090836828160",
+   "en": "Drive to Trailer",
+   "ro": "Condu spre rulotă"
+  },
+  {
+   "key": "1823925219702624256",
+   "en": "Trailer",
+   "ro": "Rulotă"
+  },
+  {
+   "key": "1863383186122231812",
+   "en": "No-Tell Motel",
+   "ro": "No-Tell Motel"
+  },
+  {
+   "key": "1863383408068022272",
+   "en": "Street Kid",
+   "ro": "Street Kid"
+  },
+  {
+   "key": "1863383510207713280",
+   "en": "Corpo",
+   "ro": "Corpo"
+  },
+  {
+   "key": "1863383720107462656",
+   "en": "Nomad",
+   "ro": "Nomad"
+  },
+  {
+   "key": "2260745318138138628",
+   "en": "[db_db]Recodring 01",
+   "ro": "[db_db]Înregistrare 01"
+  },
+  {
+   "key": "2260745607679332352",
+   "en": "[db_db]Recording 02",
+   "ro": "[db_db]Înregistrare 02"
+  },
+  {
+   "key": "2260745703997329408",
+   "en": "[db_db]Recording 03",
+   "ro": "[db_db]Înregistrare 03"
+  },
+  {
+   "key": "2321394752134828036",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2321395318869184512",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2321395458673725440",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "2379619206402285568",
+   "en": "[db_db]Finale (no weather or time restrictions)",
+   "ro": "[db_db]Final (fără restricții de vreme sau oră)"
+  }
+ ]
+}

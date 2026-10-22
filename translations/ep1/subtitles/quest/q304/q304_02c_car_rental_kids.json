@@ -1,0 +1,332 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_02c_car_rental_kids.json",
+ "entries": [
+  {
+   "key": "3242097897294024704",
+   "en": "Borked…",
+   "ro": "Stricat…"
+  },
+  {
+   "key": "3242098653275377668",
+   "en": "[Reboot system]",
+   "ro": "[Repornește sistemul]"
+  },
+  {
+   "key": "3242099238900879360",
+   "en": "[Jack out]",
+   "ro": "[Deconectează-te]"
+  },
+  {
+   "key": "3242106149436149760",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "3337768679369625600",
+   "en": "Warmer!",
+   "ro": "Mai cald!"
+  },
+  {
+   "key": "3337768982533918724",
+   "en": "Warmer, getting hot!",
+   "ro": "Mai cald, se încinge!"
+  },
+  {
+   "key": "3337769135307247620",
+   "en": "Nuh-uh! Ice cold!",
+   "ro": "Nu-nu! Rece ca gheața!"
+  },
+  {
+   "key": "3337769312155881476",
+   "en": "Colder!",
+   "ro": "Mai rece!"
+  },
+  {
+   "key": "3337772598476951552",
+   "en": "What the fuck?! My BD, noooo!",
+   "ro": "Ce pula mea?! BD-ul meu, nuuuu!"
+  },
+  {
+   "key": "3337773490001432584",
+   "en": "Whoo-hoo! Yea-hah! We're back on, baby!",
+   "ro": "Uuu-huu! Iee-haa! Suntem iar pe fază, baby!"
+  },
+  {
+   "key": "3343618703043350532",
+   "en": "[Download data]",
+   "ro": "[Descarcă datele]"
+  },
+  {
+   "key": "3353376909642715136",
+   "en": "This… This's gotta be what havin' a fuckin' stroke feels like.",
+   "ro": "Asta… asta trebuie să fie cum e un AVC al dracului."
+  },
+  {
+   "key": "3353377549290852352",
+   "en": "Just great…",
+   "ro": "Doar minunat…"
+  },
+  {
+   "key": "3353378164209373184",
+   "en": "Fuck me…",
+   "ro": "Futu-i…"
+  },
+  {
+   "key": "3353378834358489088",
+   "en": "Perfect, Johnny... Thanks.",
+   "ro": "Super, Johnny... mersi."
+  },
+  {
+   "key": "3353381573977198592",
+   "en": "Wasn't on purpose. Just gotta pick up the pace. Clock's tickin'.",
+   "ro": "N-a fost intenționat. Doar că trebuie să ne grăbim. Ceasul ticăie."
+  },
+  {
+   "key": "3353381999313178624",
+   "en": "Agh! This fuckin' sucks...",
+   "ro": "Agh! Asta e nasol în pula mea..."
+  },
+  {
+   "key": "3353382482597662720",
+   "en": "Preachin' to the choir…",
+   "ro": "Cui îi spui…"
+  },
+  {
+   "key": "3368054109721772032",
+   "en": "I'm doin' what I can.",
+   "en_m": "'M doin' what I can.",
+   "ro": "Fac ce pot."
+  },
+  {
+   "key": "3370836829065625600",
+   "en": "At the best fuckin' bit, too! Jank-ass power grid!",
+   "ro": "Tocmai la cea mai tare parte! Rețea de curent de căcat!"
+  },
+  {
+   "key": "3506893041589833764",
+   "en": "Looking for somethin'? Won't find it here. There's nothin' to find.",
+   "ro": "Cauți ceva? N-o să găsești aici. Nu e nimic de găsit."
+  },
+  {
+   "key": "3506893046757216256",
+   "en": "Be gone soon as I see to a transceiver.",
+   "ro": "Dispar imediat ce mă ocup de transceiver."
+  },
+  {
+   "key": "3506893046757216280",
+   "en": "Work for Charon Exotics.",
+   "ro": "Lucrez pentru Charon Exotics."
+  },
+  {
+   "key": "3506893046773993484",
+   "en": "Borked transceiver, need to fix it.",
+   "ro": "Transceiver stricat, trebuie să-l repar."
+  },
+  {
+   "key": "3506893046908211200",
+   "en": "Transceiver – need to jack in quick, two secs and I'm gone.",
+   "ro": "Transceiver – trebuie să mă conectez repede, două secunde și dispar."
+  },
+  {
+   "key": "3506893046908211220",
+   "en": "You do you.",
+   "ro": "Fă cum vrei."
+  },
+  {
+   "key": "3506893048904699908",
+   "en": "Charon Exotics? I work for 'em. Need to fix our transceiver.",
+   "en_m": "Charon Exotics... I work for 'em. Need to fix our transceiver.",
+   "ro": "Charon Exotics? Lucrez pentru ei. Trebuie să repar transceiver-ul nostru."
+  },
+  {
+   "key": "3506893048904699928",
+   "en": "Whatever.",
+   "ro": "Oricum."
+  },
+  {
+   "key": "3506893050867634196",
+   "en": "Got a signal from a borked transceiver. Here to fix it.",
+   "ro": "Am primit semnal de la un transceiver stricat. Sunt aici să-l repar."
+  },
+  {
+   "key": "3506893050884411400",
+   "en": "Then fix it.",
+   "ro": "Atunci repară-l."
+  },
+  {
+   "key": "3506894914329792512",
+   "en": "That your mom?",
+   "ro": "Aia e mama ta?"
+  },
+  {
+   "key": "3506895492422324224",
+   "en": "Hey… that your mom? She doin' all right?",
+   "ro": "Hei… aia e mama ta? E bine?"
+  },
+  {
+   "key": "3506896069021683712",
+   "en": "Uh-huh. She's fine.",
+   "ro": "Aha. E bine."
+  },
+  {
+   "key": "3506897576639090688",
+   "en": "You sure about that? Dunno, maybe you oughta tell someone.",
+   "en_m": "Sure 'bout that? Dunno. Maybe you oughta tell someone.",
+   "ro": "Chiar ești sigură? Nu știu, poate ar trebui să spui cuiva.",
+   "ro_m": "Chiar ești sigur? Nu știu, poate ar trebui să spui cuiva."
+  },
+  {
+   "key": "3506897706410856448",
+   "en": "Nah, she just came down from two days of BDin'. She'll wake up soon, snarf a scopdog and cry about havin' a headache. She always does that.",
+   "ro": "Nah, tocmai a ieșit din două zile de BD. O să se trezească curând, o să înfulece un scopdog și o să se tângue că o doare capul. Așa face mereu."
+  },
+  {
+   "key": "3506900140701011976",
+   "en": "It ain't workin'? Jesus…",
+   "ro": "Nu merge? Doamne…"
+  },
+  {
+   "key": "3506900140701011996",
+   "en": "You wanna hint? I can tell ya how to fix it if ya really wanna fix it.",
+   "ro": "Vrei un indiciu? Îți spun cum să-l repari, dacă chiar vrei."
+  },
+  {
+   "key": "3506900140717789188",
+   "en": "Old people need help with this stuff sometimes.",
+   "ro": "Bătrânilor le mai trebuie o mână de ajutor cu chestiile astea."
+  },
+  {
+   "key": "3506900140717789208",
+   "en": "So, yeah – turn it off first, then... turn it back on.",
+   "ro": "Deci, da – întâi îl oprești, apoi... îl pornești iar."
+  },
+  {
+   "key": "3506900144811429936",
+   "en": "Y'know… I can tell ya where to look for the on button for… a thousand eds. Interested?",
+   "ro": "Știi… îți zic eu unde să cauți butonul de pornire pentru… o mie de eddies. Te interesează?"
+  },
+  {
+   "key": "3506900146052943884",
+   "en": "[Pay] Be glad to get any help…",
+   "ro": "[Plătește] M-aș bucura de orice ajutor…"
+  },
+  {
+   "key": "3506900146069721096",
+   "en": "'S all right, I'll manage.",
+   "ro": "E în regulă, mă descurc."
+  },
+  {
+   "key": "3506900146271047720",
+   "en": "Thanks, but no thanks. Be fine on my own.",
+   "ro": "Mulțumesc, dar nu. Mă descurc singură.",
+   "ro_m": "Mulțumesc, dar nu. Mă descurc singur."
+  },
+  {
+   "key": "3506900146287824904",
+   "en": "Sure, sure. Yeah, totally...",
+   "ro": "Sigur, sigur. Da, total..."
+  },
+  {
+   "key": "3506900146287824924",
+   "en": "What about ten? I'll help you for ten eds, too.",
+   "ro": "Ce zici de zece? Te ajut și pentru zece eddies."
+  },
+  {
+   "key": "3506900149139951628",
+   "en": "[Pay] Got yourself a deal.",
+   "ro": "[Plătește] S-a făcut."
+  },
+  {
+   "key": "3506900149156728840",
+   "en": "No thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "3506903210713436164",
+   "en": "OK. Eddies're all yours.",
+   "ro": "OK. Eddies-urile sunt toate ale tale."
+  },
+  {
+   "key": "3506903210713436184",
+   "en": "Nova! Done deal.",
+   "ro": "Mișto! S-a făcut."
+  },
+  {
+   "key": "3506903210713436204",
+   "en": "So, switch – where is it?",
+   "ro": "Deci, comutatorul – unde e?"
+  },
+  {
+   "key": "3506903210730213388",
+   "en": "I dunno 'zactly. Around here. Tellin' ya where to look, not where to find it, just like I said.",
+   "ro": "Nu știu fix. Pe-aici pe undeva. Ți-am zis unde să cauți, nu unde-l găsești, cum ți-am spus."
+  },
+  {
+   "key": "3506903210730213408",
+   "en": "We'll play Hot 'n' Cold. If you're close or far, we'll holler hot or cold.",
+   "ro": "Jucăm Cald-Rece. Dacă ești aproape sau departe, strigăm cald sau rece."
+  },
+  {
+   "key": "3506903210746990596",
+   "en": "Let's start playin'. You'll get it.",
+   "ro": "Hai să începem. O să prinzi."
+  },
+  {
+   "key": "3506903216652570632",
+   "en": "No, really, I'll be fine.",
+   "en_m": "Nah, really, I'll be fine.",
+   "ro": "Nu, chiar, mă descurc."
+  },
+  {
+   "key": "3506903216652570652",
+   "en": "Pff, whatever. I'm not goin' anywhere.",
+   "ro": "Pff, orice. Nu plec nicăieri."
+  },
+  {
+   "key": "3506909496716840992",
+   "en": "Oh… she found it... Game over.",
+   "en_m": "Oh… he found it... Game over.",
+   "ro": "A… l-a găsit... Game over."
+  },
+  {
+   "key": "3506909498444894228",
+   "en": "Ahhh… ya got two surefire fixes. Hard reboot. Or hard kick.",
+   "ro": "Ahh… ai două soluții sigure. Repornire forțată. Sau o lovitură bună."
+  },
+  {
+   "key": "3506909500575600668",
+   "en": "Oof, choom…",
+   "ro": "Oof, choom…"
+  },
+  {
+   "key": "3506909500592377872",
+   "en": "Like we said – ice cold!",
+   "ro": "Cum ziceam – rece ca gheața!"
+  },
+  {
+   "key": "3506909502823747600",
+   "en": "Damn, ya fucked it… Shouldn'ta been so cheap.",
+   "ro": "Ai futut-o… Și nu trebuia să fii așa zgârcit."
+  },
+  {
+   "key": "3506914635091562532",
+   "en": "Yo, yo, yo! Don't even think about flatlinin' here. I ain't gonna touch a corpse!",
+   "ro": "Yo, yo, yo! Nici să nu te gândești să dai colțul aici. Nu ating un cadavru!"
+  },
+  {
+   "key": "3510241257198735368",
+   "en": "Hot! Red hot!",
+   "ro": "Cald! Foarte cald!"
+  },
+  {
+   "key": "3516366045684191232",
+   "en": "[Restart power]",
+   "ro": "[Repornește alimentarea]"
+  },
+  {
+   "key": "3576584869294428172",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  }
+ ]
+}

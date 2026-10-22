@@ -1,0 +1,550 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq028\\mq028_02_park.json",
+ "entries": [
+  {
+   "key": "1816784476100009984",
+   "en": "What'd I tell ya? That's her! Blue Moon!",
+   "ro": "Ce ți-am zis? Iat-o! Blue Moon!"
+  },
+  {
+   "key": "1816794588449513472",
+   "en": "Uh, hey, sorry! Could I get a picture with you? I'm a huge fan...",
+   "ro": "Ăă, salut, scuze! Mi-faci o poză cu tine? Sunt fan înnebunit..."
+  },
+  {
+   "key": "1816830239278538756",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1816830513586020352",
+   "en": "What're you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1816832978662367232",
+   "en": "Yeah, yeah... Perfect...",
+   "ro": "Da, da... Perfect..."
+  },
+  {
+   "key": "1816833074393161728",
+   "en": "Her again? For fuck's sakes...",
+   "ro": "Ea iar? Pula mea, pe bune..."
+  },
+  {
+   "key": "1816902114381832192",
+   "en": "Bullshit. She's way too fat.",
+   "ro": "Vrăjeală. E mult prea grasă."
+  },
+  {
+   "key": "1816902349296410624",
+   "en": "<mothertongue l=\"jpn\" m=\"kuzu-yarou\" b=\"Speak for yourself, \" a=\"\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"kuzu-yarou\" b=\"Vorbește pentru tine, \" a=\"\"/>"
+  },
+  {
+   "key": "1816902534147776512",
+   "en": "Oh-hahahaha! In yo FACE!",
+   "ro": "Oh-hahahaha! Direct în față!"
+  },
+  {
+   "key": "1816903874429231104",
+   "en": "I know!",
+   "ro": "Știu!"
+  },
+  {
+   "key": "1816904872908464128",
+   "en": "Hey! \"Pillow Fight's\" an amazing song!",
+   "ro": "Hei! „Pillow Fight's” e o piesă incredibilă!"
+  },
+  {
+   "key": "1816909236477796352",
+   "en": "Sure. What's your name?",
+   "ro": "Sigur. Cum te cheamă?"
+  },
+  {
+   "key": "1816909491223044096",
+   "en": "Green Cloud!",
+   "ro": "Green Cloud!"
+  },
+  {
+   "key": "1816910463932473344",
+   "en": "<mothertongue l=\"jpn\" m=\"San... Ni... Ichi... Chi-zu!\" b=\"Haha! Awesome! \" a=\" There we go!\"/>",
+   "ro": "<mothertongue l=\"jpn\" m=\"San... Ni... Ichi... Chi-zu!\" b=\"Haha! Super! \" a=\" Gata!\"/>"
+  },
+  {
+   "key": "1816939166997585920",
+   "en": "Admiring the view until you showed up.",
+   "ro": "Admiram peisajul până ai apărut tu."
+  },
+  {
+   "key": "1816989011502342144",
+   "en": "So you think I'm a kid, huh?! I gave you everything! Everything!!",
+   "ro": "Deci crezi că-s copil, ha?! Ți-am dat tot! Tot!!"
+  },
+  {
+   "key": "1816989724164923392",
+   "en": "I... I don't even know who you are! V! V, help!",
+   "ro": "Eu... nici nu știu cine ești! V! V, ajutor!"
+  },
+  {
+   "key": "1817192367567052800",
+   "en": "Hey, isn't... Fuck, it is her!",
+   "ro": "Hei, nu e... Futu-i, chiar ea e!"
+  },
+  {
+   "key": "1817193248572219392",
+   "en": "So fuckin' bored. Gimme a hit.",
+   "ro": "Mă plictisesc al dracului. Dă-mi un fum."
+  },
+  {
+   "key": "1817193477296005120",
+   "en": "\"Gimme,\" he says. Gimme the eddies, first.",
+   "ro": "„Dă-mi”, zice el. Dă-mi întâi eddies-urile."
+  },
+  {
+   "key": "1817239793904558080",
+   "en": "A drink, hehe... that's what I need... just a liiiitle sip...",
+   "ro": "O băutură, hehe... asta îmi trebuie... doar o înghițitură micăăă..."
+  },
+  {
+   "key": "1817240458617856000",
+   "en": "Ugh... my lips! They're burnin'! Hot, hot, hot...!",
+   "ro": "Ugh... buzele mele! Ard! Fierbinte, fierbinte, fierbinte...!"
+  },
+  {
+   "key": "1817264994004410368",
+   "en": "Mh, fuck! She's incredible!",
+   "ro": "Mh, futu-i! E incredibilă!"
+  },
+  {
+   "key": "1821393765695397888",
+   "en": "United in life... united in death!",
+   "ro": "Uniți în viață... uniți în moarte!"
+  },
+  {
+   "key": "1822683487969386496",
+   "en": "Shit! Bitch point-blank shot her, yo!",
+   "ro": "Căcat! Javra aia a împușcat-o din plin, frate!"
+  },
+  {
+   "key": "1822684390667493376",
+   "en": "Fuck's goin' on over here?!",
+   "ro": "Ce căcat se întâmplă aici?!"
+  },
+  {
+   "key": "1864881884746653696",
+   "en": "You're here... awesome. So listen up, in a second I'm gonna get up and walk a little, OK?",
+   "ro": "Ești aici... super. Ascultă, într-o secundă mă ridic și mă plimb puțin, OK?"
+  },
+  {
+   "key": "1864947485808697344",
+   "en": "Fweet, fweet... What's a girl like you doing around here?",
+   "ro": "Fweet, fweet... Ce caută o fată ca tine pe-aici?",
+   "ro_m": "Fweet, fweet... Ce caută un tip ca tine pe-aici?"
+  },
+  {
+   "key": "1864949292245098496",
+   "en": "Lookin' to get lucky, eh?",
+   "ro": "Cauți să dai lovitura, ha?"
+  },
+  {
+   "key": "1864949556251369472",
+   "en": "Mhm. You're lucky if I don't rip your eyes out. Any takers? No? Then shut your yaps.",
+   "ro": "Mhm. Ai noroc că nu-ți scot ochii. Vreun voluntar? Nu? Atunci gura, băi."
+  },
+  {
+   "key": "1864951654074458112",
+   "en": "Bleh. Crusty, old geezers.",
+   "ro": "Bleh. Moși prăfuiți."
+  },
+  {
+   "key": "1865016212549967872",
+   "en": "Change the fuckin' track, will ya?",
+   "ro": "Schimbă piesa aia de căcat, vrei?"
+  },
+  {
+   "key": "1865064865486512128",
+   "en": "Watch out for those gangoons, Blue Moon...",
+   "ro": "Ai grijă la gangsterii ăia, Blue Moon..."
+  },
+  {
+   "key": "1865065471966093312",
+   "en": "Careful. Those guys look like trouble.",
+   "ro": "Atenție. Tipii ăia par periculoși."
+  },
+  {
+   "key": "1865065878813581312",
+   "en": "Eh, just your neighborhood beefnecks. Hate mail isn't their style.",
+   "ro": "Eh, doar niște bătăuși de cartier. Scrisorile de ură nu-s stilul lor."
+  },
+  {
+   "key": "1866125689474949120",
+   "en": "Blue Moon!",
+   "ro": "Blue Moon!"
+  },
+  {
+   "key": "1866133680009945088",
+   "en": "Thank you, thank you so much!",
+   "ro": "Mulțumesc, mulțumesc mult!"
+  },
+  {
+   "key": "1867495788739993600",
+   "en": "Put the camera away. Now.",
+   "ro": "Pune camera jos. Acum."
+  },
+  {
+   "key": "1867496011742748676",
+   "en": "What's with the pictures?",
+   "ro": "Ce-i cu pozele?"
+  },
+  {
+   "key": "1867498766460952576",
+   "en": "I'll rephrase the question, and you rephrase the fuckin' answer. What're the pictures for? Hm?",
+   "en_m": "I'll rephrase the question, and you rephrase the fuckin' answer. What're the pictures for?",
+   "ro": "Reformulez întrebarea, și tu reformulezi răspunsul dracului. La ce-s pozele? Hm?",
+   "ro_m": "Reformulez întrebarea, și tu reformulezi răspunsul dracului. La ce-s pozele?"
+  },
+  {
+   "key": "1867499997254295552",
+   "en": "Uhhh, I don't know? For, like, eddies? To sell? That girl there's Blue Moon...? From Us Cracks...?",
+   "ro": "Ăăă, nu știu? Pentru, gen, eddies? Să vând? Fata aia e Blue Moon...? De la Us Cracks...?"
+  },
+  {
+   "key": "1867503052636987396",
+   "en": "Put the camera away.",
+   "ro": "Pune camera jos."
+  },
+  {
+   "key": "1867512219691032576",
+   "en": "Noticed anything out of the ordinary?",
+   "ro": "Ai observat ceva neobișnuit?"
+  },
+  {
+   "key": "1867514536943329280",
+   "en": "Yeah, right! Blow me.",
+   "ro": "Da, sigur! Suge-o."
+  },
+  {
+   "key": "1867518002377957376",
+   "en": "I tried being polite.",
+   "ro": "Am încercat să fiu politicoasă.",
+   "ro_m": "Am încercat să fiu politicos."
+  },
+  {
+   "key": "1867522197269159936",
+   "en": "Mhm... Take pictures of her often?",
+   "en_m": "Huh... Take pictures of her often?",
+   "ro": "Mhm... Faci poze cu ea des?",
+   "ro_m": "Huh... Faci poze cu ea des?"
+  },
+  {
+   "key": "1867528116757504000",
+   "en": "Yeah. Why? That against the law?",
+   "ro": "Da. De ce? E ilegal?"
+  },
+  {
+   "key": "1867531733170298880",
+   "en": "Anyone hang around her too much? Try to think.",
+   "ro": "Cineva stă prea mult pe lângă ea? Gândește-te."
+  },
+  {
+   "key": "1867531929899933696",
+   "en": "And why would I spill that?",
+   "ro": "Și de ce aș da pe goarnă?"
+  },
+  {
+   "key": "1867540376255111168",
+   "en": "[Draw weapon]",
+   "ro": "[Scoate arma]"
+  },
+  {
+   "key": "1867573180678447104",
+   "en": "Why are you following Blue Moon?",
+   "ro": "De ce o urmărești pe Blue Moon?"
+  },
+  {
+   "key": "1867573390712414208",
+   "en": "Nice nickname.",
+   "ro": "Poreclă faină."
+  },
+  {
+   "key": "1867774440597790720",
+   "en": "I heard you're following Blue Moon?",
+   "en_m": "I heard you're following Blue Moon.",
+   "ro": "Am auzit că o urmărești pe Blue Moon?",
+   "ro_m": "Am auzit că o urmărești pe Blue Moon."
+  },
+  {
+   "key": "1867781750481133568",
+   "en": "Excuse me? This is the first I've seen her in person!",
+   "ro": "Poftim? E prima dată când o văd în persoană!"
+  },
+  {
+   "key": "1867783058097348608",
+   "en": "Nice nickname. Green Cloud.",
+   "ro": "Poreclă faină. Green Cloud."
+  },
+  {
+   "key": "1867783857296809984",
+   "en": "What are you doing here?",
+   "ro": "Ce cauți aici?"
+  },
+  {
+   "key": "1867784509443973120",
+   "en": "That so? I just spoke with a still-taker who begs to differ. Has the shots to prove it, too.",
+   "ro": "Ba da? Tocmai am vorbit cu un paparazzo care zice altceva. Are și poze ca dovadă."
+  },
+  {
+   "key": "1867786327959969792",
+   "en": "Um... thanks.",
+   "ro": "Ăă... mersi."
+  },
+  {
+   "key": "1867786535125032960",
+   "en": "\"GC\" for short. That's how you sign your letters, right?",
+   "ro": "„GC” pe scurt. Așa îți semnezi scrisorile, nu?"
+  },
+  {
+   "key": "1867786739924508672",
+   "en": "Fuck...!",
+   "ro": "Futu-i...!"
+  },
+  {
+   "key": "1867787343015092224",
+   "en": "What're you up to?",
+   "ro": "Ce faci?"
+  },
+  {
+   "key": "1867787562729512960",
+   "en": "Just taking a stroll... That not allowed?",
+   "ro": "Doar mă plimb... Nu e voie?"
+  },
+  {
+   "key": "1867843632789364736",
+   "en": "Ah, sweet kid.",
+   "ro": "Ah, ce copil drăguț."
+  },
+  {
+   "key": "1871943042253246464",
+   "en": "[Draw weapon]",
+   "ro": "[Scoate arma]"
+  },
+  {
+   "key": "1871943294582575104",
+   "en": "Hilarious.",
+   "ro": "Hilarant."
+  },
+  {
+   "key": "1871958054959108096",
+   "en": "Because if some psycho decides to off Blue Moon, you won't have anyone to snap stills of.",
+   "ro": "Pentru că dacă vreun psihopat decide s-o lichideze pe Blue Moon, n-o să mai ai pe cine să fotografiezi."
+  },
+  {
+   "key": "1871958536549093376",
+   "en": "Girl in green, over there. See her in every single frame. Funny, ain't it?",
+   "ro": "Fata în verde, colo. E în fiecare cadru. Ce ironie, nu?"
+  },
+  {
+   "key": "1871959597691228160",
+   "en": "Mhm. Hilarious.",
+   "ro": "Mhm. Tare amuzant."
+  },
+  {
+   "key": "1896814549259165696",
+   "en": "Not so close, V. Keep your distance.",
+   "ro": "Nu te băga atât de aproape, V. Ține-ți distanța."
+  },
+  {
+   "key": "1896823816473190400",
+   "en": "You're getting too close, V!",
+   "ro": "Te apropii prea mult, V!"
+  },
+  {
+   "key": "1896826019858522112",
+   "en": "Argh, whatever, this is pointless. I'm going home.",
+   "ro": "Argh, oricum, n-are rost. Mă car acasă."
+  },
+  {
+   "key": "1915386260258725888",
+   "en": "Just keep an eye on Blue Moon, hm?",
+   "ro": "Doar ține-o cu ochii pe Blue Moon, ok?"
+  },
+  {
+   "key": "1915463148159279104",
+   "en": "I killed your stalker.",
+   "ro": "L-am ucis pe stalkerul tău."
+  },
+  {
+   "key": "1915464299529281536",
+   "en": "Your stalker's dead. Problem solved.",
+   "ro": "Stalkerul tău e mort. Problemă rezolvată."
+  },
+  {
+   "key": "1915464624302628864",
+   "en": "The fuck?! We had a deal, V! No killing!",
+   "ro": "Ce pula mea?! Aveam o înțelegere, V! Fără omoruri!"
+  },
+  {
+   "key": "1915465368422490112",
+   "en": "Better him than you though, right?",
+   "ro": "Mai bine el decât tu, nu?"
+  },
+  {
+   "key": "1915498437791621120",
+   "en": "This is a waste of time. Let's just call it a day, all right?",
+   "ro": "E o pierdere de timp. Hai să lăsăm baltă, bine?"
+  },
+  {
+   "key": "1915541770421313536",
+   "en": "You're not taking this seriously, V. I'm going home.",
+   "ro": "Nu iei treaba asta în serios, V. Mă car acasă."
+  },
+  {
+   "key": "1922679128618868736",
+   "en": "OK. You can go.",
+   "ro": "OK. Poți pleca."
+  },
+  {
+   "key": "1924010139200049152",
+   "en": "When I call you, you'll start following me... But don't get too close, OK? We can't spook our guy.",
+   "ro": "Când te chem, începi să mă urmărești... Dar nu te apropia prea mult, OK? Nu vrem să-l speriem pe ăla."
+  },
+  {
+   "key": "1924011067735068672",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1924011425022660608",
+   "en": "Phew... OK, here goes. Red Menace is keeping an extra lookout from a vantage point high up. Wish me luck!",
+   "ro": "Uf... OK, începem. Red Menace păzește de sus, de la un punct de observație. Ține-mi pumnii!"
+  },
+  {
+   "key": "1924043929016389632",
+   "en": "Argh! OK, I'll handle this – make sure nobody spills to the media vultures. Bye, V. Thanks for your help, I guess...",
+   "ro": "Argh! OK, mă ocup eu – asigură-te că nu scapă nimic la hienele din presă. Pa, V. Mersi de ajutor, zic eu..."
+  },
+  {
+   "key": "1957638791374217216",
+   "en": "I need a new faceplate, like, ASAP!",
+   "ro": "Îmi trebuie o placă frontală nouă, gen, ASAP!"
+  },
+  {
+   "key": "1957746802470068224",
+   "en": "Why were you in a gun store?",
+   "ro": "De ce erai într-un magazin de arme?"
+  },
+  {
+   "key": "1957747721190416384",
+   "en": "What were you looking for in an iron depot?",
+   "ro": "Ce căutai într-un depozit de fier?"
+  },
+  {
+   "key": "1957749148428181504",
+   "en": "What? What are you talking about? I wasn't in any store!",
+   "ro": "Ce? Despre ce vorbești? N-am fost în niciun magazin!"
+  },
+  {
+   "key": "1957749658472325120",
+   "en": "You're a shitty liar.",
+   "ro": "Ești un mincinos jalnic."
+  },
+  {
+   "key": "1957752263520985088",
+   "en": "Dammit... no explosive rounds...",
+   "ro": "Fir-ar... nicio muniție explozivă..."
+  },
+  {
+   "key": "1957755496993824768",
+   "en": "I'll just have to go with regular.",
+   "ro": "O să merg pe varianta obișnuită."
+  },
+  {
+   "key": "1958827136381001728",
+   "en": "This alley's perfect for an ambush... Keep an eye out!",
+   "ro": "Aleea asta e perfectă pentru o ambuscadă... Fii cu ochii în patru!"
+  },
+  {
+   "key": "1959041641912377344",
+   "en": "Phew... Another false alarm.",
+   "ro": "Uf... Încă o alarmă falsă."
+  },
+  {
+   "key": "1959043155687022592",
+   "en": "Look, we've been everywhere... Maybe he isn't here.",
+   "ro": "Uite, am fost peste tot... Poate nu e aici."
+  },
+  {
+   "key": "1963248519896944640",
+   "en": "Let's just forget it, V. I'll tell Red Menace to pick us up.",
+   "ro": "Hai, lasă baltă, V. Îi zic lui Red Menace să ne ia."
+  },
+  {
+   "key": "1963252548995698688",
+   "en": "Well... yeah, but...",
+   "ro": "Păi... da, dar..."
+  },
+  {
+   "key": "1967544093053722624",
+   "en": "Found our stalker. Stay where you are.",
+   "en_m": "Found your stalker. Stay where you are.",
+   "ro": "Am găsit stalkerul nostru. Stai unde ești.",
+   "ro_m": "Am găsit stalkerul tău. Stai unde ești."
+  },
+  {
+   "key": "1967545886370340864",
+   "en": "Oh, OK... Be careful. And remember, no killing! Please!",
+   "ro": "A, OK... Ai grijă. Și ține minte, fără omoruri! Te rog!"
+  },
+  {
+   "key": "1967588025485664256",
+   "en": "Let me know when the coast is clear.",
+   "ro": "Zi-mi când e drumul liber."
+  },
+  {
+   "key": "1974823601985200128",
+   "en": "OK... One last shot. If he doesn't show, we're calling it quits.",
+   "ro": "OK... O ultimă încercare. Dacă nu apare, renunțăm."
+  },
+  {
+   "key": "1975313822573043712",
+   "en": "[Say nothing]",
+   "ro": "[Nu spune nimic]"
+  },
+  {
+   "key": "1979120590027804672",
+   "en": "Keep your eyes peeled for anyone lurking around, watching me, spying on me from above... whatever. Anything creepy like that.",
+   "ro": "Uită-te după oricine se ascunde pe-aici, mă urmărește, mă spionează de sus... orice. Orice chestie ciudată de genul ăsta."
+  },
+  {
+   "key": "2015453437229178880",
+   "en": "One less suspect to worry about...",
+   "ro": "Un suspect mai puțin de care să-ți bați capul..."
+  },
+  {
+   "key": "2070921218581766148",
+   "en": "Sure thing.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "2231705026017607680",
+   "en": "Hm-hm-hmmm... Just look natural, calm... Everything's OK...",
+   "ro": "Hm-hm-hmmm... Fii firesc, calm... Totul e OK..."
+  },
+  {
+   "key": "2231705233753096192",
+   "en": "Ooh, still haven't done a spread for them. What issue is this...?",
+   "ro": "Aoleu, încă n-am făcut un pictorial pentru ei. Ce număr e ăsta...?"
+  },
+  {
+   "key": "2231705351747256320",
+   "en": "Ugh, what what was that? Another weirdo like him and I'll hurl.",
+   "ro": "Pff, ce-a fost aia? Încă un ciudat ca ăla și o să vomit."
+  },
+  {
+   "key": "2233147213842464768",
+   "en": "V, you there? Can't see you. Should be following me.",
+   "ro": "V, ești acolo? Nu te văd. Ar trebui să mă urmărești."
+  }
+ ]
+}

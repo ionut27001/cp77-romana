@@ -1,0 +1,100 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq025\\mq025_00_setup.json",
+ "entries": [
+  {
+   "key": "1821482221316358148",
+   "en": "[db_db]Start of Quest",
+   "ro": "[db_db]Începutul misiunii"
+  },
+  {
+   "key": "1821482642374148096",
+   "en": "[db_db]Choose Fight",
+   "ro": "[db_db]Alege lupta"
+  },
+  {
+   "key": "1821485926782615556",
+   "en": "[db_db]Kabuki (Prologue)",
+   "ro": "[db_db]Kabuki (Prolog)"
+  },
+  {
+   "key": "1821487008845938688",
+   "en": "[db_db]Arroyo",
+   "ro": "[db_db]Arroyo"
+  },
+  {
+   "key": "1821487238173704192",
+   "en": "[db_db]Glen",
+   "ro": "[db_db]Glen"
+  },
+  {
+   "key": "1821487394453471232",
+   "en": "[db_db]More",
+   "ro": "[db_db]More"
+  },
+  {
+   "key": "1821487569842487300",
+   "en": "[db_db]Pacifica",
+   "ro": "[db_db]Pacifica"
+  },
+  {
+   "key": "1821487956456652800",
+   "en": "[db_db]Animals Club",
+   "ro": "[db_db]Clubul Animals"
+  },
+  {
+   "key": "1821488194961555456",
+   "en": "[db_db]Finale",
+   "ro": "[db_db]Final"
+  },
+  {
+   "key": "1821488554295967744",
+   "en": "[db_db]Back",
+   "ro": "[db_db]Back"
+  },
+  {
+   "key": "1862191224752979972",
+   "en": "[db_db]Yes (César will appear in the finale)",
+   "ro": "[db_db]Da (César o să apară în final)"
+  },
+  {
+   "key": "1862192491835441152",
+   "en": "[db_db]No (César won't appear)",
+   "ro": "[db_db]Nu (César nu o să apară)"
+  },
+  {
+   "key": "1862193165977534468",
+   "en": "[db_db]Yes (Rhino will appear in the finale)",
+   "ro": "[db_db]Da (Rhino o să apară în final)"
+  },
+  {
+   "key": "1862193727007637504",
+   "en": "[db_db]No (Rhino won't appear in the finale)",
+   "ro": "[db_db]Nu (Rhino nu o să apară în final)"
+  },
+  {
+   "key": "1904150285366870020",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "1904150614904946688",
+   "en": "[db_db]Streetkid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "1904150699478892544",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2078233917290201092",
+   "en": "[db_db]Yes, I want to start in the prologue (play tutorial)",
+   "ro": "[db_db]Da, vreau să încep în prolog (joacă tutorialul)"
+  },
+  {
+   "key": "2078234875336343552",
+   "en": "[db_db]No, I want to start after the prologue (skip tutorial)",
+   "ro": "[db_db]Nu, vreau să încep după prolog (sari peste tutorial)"
+  }
+ ]
+}

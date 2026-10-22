@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_002.json",
+ "entries": [
+  {
+   "key": "1802505240074379264",
+   "en": "Help! They killed him! Michael's dead!",
+   "ro": "Ajutor! L-au omorât! Michael e mort!"
+  },
+  {
+   "key": "1802506576278970368",
+   "en": "Ma'am, please, calm down. There's nothing we can do.",
+   "ro": "Doamnă, vă rog, calmați-vă. Nu putem face nimic."
+  },
+  {
+   "key": "1802506731166228480",
+   "en": "But he's dead! Jesus! Do something!",
+   "ro": "Dar e mort! Doamne! Faceți ceva!"
+  },
+  {
+   "key": "1802506885097185280",
+   "en": "I'm sorry, but that's the law. You should try calling security.",
+   "ro": "Îmi pare rău, dar asta e legea. Ar fi bine să sunați la securitate."
+  },
+  {
+   "key": "1802507045789360128",
+   "en": "I can't find anybody...",
+   "ro": "Nu găsesc pe nimeni..."
+  },
+  {
+   "key": "1802507230389067776",
+   "en": "Corporate property lies outside our jurisdiction, ma'am.",
+   "ro": "Proprietatea corporativă nu ține de jurisdicția noastră, doamnă."
+  }
+ ]
+}

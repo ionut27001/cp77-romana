@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q202\\q202_chicken_test.json",
+ "entries": [
+  {
+   "key": "1193887821014765568",
+   "en": "[db_db]1. Beginning.",
+   "en_m": "[db_db]1. Motel",
+   "ro": "[db_db]1. Motel"
+  },
+  {
+   "key": "1193888156273872896",
+   "en": "[db_db]2. Badlands drive.",
+   "en_m": "[db_db]2. Motel Fight",
+   "ro": "[db_db]2. Condus prin Badlands.",
+   "ro_m": "[db_db]2. Luptă la motel"
+  },
+  {
+   "key": "1193888374948106240",
+   "en": "[db_db]3. Staging Camp.",
+   "en_m": "[db_db]4. Convoy",
+   "ro": "[db_db]3. Tabără de pregătire.",
+   "ro_m": "[db_db]4. Convoi"
+  },
+  {
+   "key": "1508485869316198400",
+   "en": "[db_db]What is your relationship status going in to the epilogue?",
+   "ro": "[db_db]Care e statusul tău sentimental înainte de epilog?"
+  },
+  {
+   "key": "1668944128065298432",
+   "en": "[db_db]What is your gender?",
+   "ro": "[db_db]Care e genul tău?"
+  },
+  {
+   "key": "1744452729416081408",
+   "en": "[db_db]4. Crossing the border.",
+   "ro": "[db_db]4. Trecem granița."
+  }
+ ]
+}

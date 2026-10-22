@@ -1,0 +1,150 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq062\\mq062_debug_chicken.json",
+ "entries": [
+  {
+   "key": "5393216473743126532",
+   "en": "[01 - Hook]",
+   "ro": "[01 - Agățare]"
+  },
+  {
+   "key": "5393223070024364032",
+   "en": "[02 - Stealth]",
+   "ro": "[02 - Furișare]"
+  },
+  {
+   "key": "5393223684406013952",
+   "en": "[03 - Escape]",
+   "ro": "[03 - Evadare]"
+  },
+  {
+   "key": "5393223766429822976",
+   "en": "[04 - Aftermath]",
+   "ro": "[04 - Consecințe]"
+  },
+  {
+   "key": "5393226806176149508",
+   "en": "[1.1 - Briefing]",
+   "ro": "[1.1 - Informare]"
+  },
+  {
+   "key": "5393229869142142984",
+   "en": "[2.1 - Cells]",
+   "ro": "[2.1 - Celule]"
+  },
+  {
+   "key": "5393229916017684488",
+   "en": "[3.1 - Yard 01]",
+   "ro": "[3.1 - Curte 01]"
+  },
+  {
+   "key": "5393230699916324864",
+   "en": "[1.2 - Entrance]",
+   "ro": "[1.2 - Intrare]"
+  },
+  {
+   "key": "5393233790514393088",
+   "en": "[2.2 - Bathroom]",
+   "ro": "[2.2 - Baie]"
+  },
+  {
+   "key": "5393234037491789824",
+   "en": "[2.4 - Monitoring]",
+   "ro": "[2.4 - Monitorizare]"
+  },
+  {
+   "key": "5393236082080772096",
+   "en": "[3.2 - FinalChoice]",
+   "ro": "[3.2 - Alegere finală]"
+  },
+  {
+   "key": "5393236321374203904",
+   "en": "[3.4 - Exit]",
+   "ro": "[3.4 - Ieșire]"
+  },
+  {
+   "key": "5394361831630204928",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "5394362554677882880",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "5394362732197605376",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "5396100849225068556",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "5396100849225068572",
+   "en": "[Get keycard]",
+   "ro": "[Ia cardul de acces]"
+  },
+  {
+   "key": "5396100849241845764",
+   "en": "[Don't get keycard]",
+   "ro": "[Nu lua cardul de acces]"
+  },
+  {
+   "key": "5419061865470652416",
+   "en": "[3.3 - Yard 02]",
+   "ro": "[3.3 - Curte 02]"
+  },
+  {
+   "key": "5476914633841209344",
+   "en": "[05 - Blockout]",
+   "ro": "[05 - Blockout]"
+  },
+  {
+   "key": "5496086114609295360",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  },
+  {
+   "key": "5498614052265291776",
+   "en": "[2.3 - Encounter]",
+   "ro": "[2.3 - Întâlnire]"
+  },
+  {
+   "key": "5520690606952574976",
+   "en": "[Corporate]",
+   "ro": "[Corporatist]"
+  },
+  {
+   "key": "5520690606952574992",
+   "en": "[Nomad]",
+   "ro": "[nomad]"
+  },
+  {
+   "key": "5520690606952575008",
+   "en": "[Streetkid]",
+   "ro": "[Street Kid]"
+  },
+  {
+   "key": "5520702991021010964",
+   "en": "[Timer Run Oun]",
+   "ro": "[Timpul a expirat]"
+  },
+  {
+   "key": "5520702991021010980",
+   "en": "[Chips Activated]",
+   "ro": "[Cipuri activate]"
+  },
+  {
+   "key": "5520702991021010996",
+   "en": "[Chips Deactivated]",
+   "ro": "[Cipuri dezactivate]"
+  },
+  {
+   "key": "5520707366552498176",
+   "en": "[Back]",
+   "ro": "[ÎNAPOI]"
+  }
+ ]
+}

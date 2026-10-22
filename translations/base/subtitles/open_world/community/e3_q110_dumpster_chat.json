@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\community\\e3_q110_dumpster_chat.json",
+ "entries": [
+  {
+   "key": "1711109139170119680",
+   "en": "<kiroshi l=\"creo\" o=\"M...Mwen pap ale la?\" t=\"I... I'm not goin' in there.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"M...Mwen pap ale la?\" t=\"Eu... eu nu intru acolo.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711110690022412288",
+   "en": "<kiroshi l=\"creo\" o=\"Ou ap plonje. Koulye a?\" t=\"You are diving in now.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou ap plonje. Koulye a?\" t=\"Intri acum.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711110902002536448",
+   "en": "<kiroshi l=\"creo\" o=\"Non non non, ou konnen kisa? Koulye mwen panse 'li te dwe kèk lòt pil fatra. Wi?\" t=\"No no no, know what? Now I'm thinkin' it musta been some other dumpster. Yeah.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Non non non, ou konnen kisa? Koulye mwen panse 'li te dwe kèk lòt pil fatra. Wi?\" t=\"Nu, nu, nu, știi ce? Acu' cred că a fost alt container. Da.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711111124569083904",
+   "en": "<kiroshi l=\"creo\" o=\"Oke. An nou fè sa. Mwen vle bagay yo pa pasè minui?\" t=\"OK. Let's do this. I want the stuff by midnight.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Oke. An nou fè sa. Mwen vle bagay yo pa pasè minui?\" t=\"OK. Hai s-o facem. Vreau marfa până la miezul nopții.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1711111319721660416",
+   "en": "<kiroshi l=\"creo\" o=\"Mwen pa bezwen konnen ki jan ou jwenn li. Sa pa gade bounda'm.\" t=\"I don't need to know how you get it. That has nothing to do with my ass.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Mwen pa bezwen konnen ki jan ou jwenn li. Sa pa gade bounda'm.\" t=\"Nu trebuie să știu cum le iei. Pe mine nu mă doare-n cur.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

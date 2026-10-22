@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q203\\q203_chickentest.json",
+ "entries": [
+  {
+   "key": "1947564300244209664",
+   "en": "[db_db]Boy or Girl?",
+   "ro": "[db_db]Băiat sau fată?"
+  },
+  {
+   "key": "2262133845447528452",
+   "en": "[db_db]Normal Legend Path",
+   "ro": "[db_db]NORMAL Legendă CALE"
+  },
+  {
+   "key": "2262144948776849408",
+   "en": "[db_db]Secret Ending",
+   "ro": "[db_db]Final secret"
+  },
+  {
+   "key": "2422994618464980996",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2422995368221986816",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2422995437545443328",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q115\\q115_11b_netrunners_nest_guards.json",
+ "entries": [
+  {
+   "key": "1724338396454690816",
+   "en": "Is the maintenance hatch locked down?",
+   "ro": "Trapa de întreținere e blocată?"
+  },
+  {
+   "key": "1724338888278777856",
+   "en": "Yes, sir.",
+   "ro": "Da, domnule."
+  },
+  {
+   "key": "1724339155942481920",
+   "en": "And the ETA on support?",
+   "ro": "Și când ajunge sprijinul?"
+  },
+  {
+   "key": "1724339381562482688",
+   "en": "Birds are in the air. Flight time as stipulated in procedures.",
+   "ro": "Păsărelele sunt în aer. Timpul de zbor, cum scrie în proceduri."
+  }
+ ]
+}

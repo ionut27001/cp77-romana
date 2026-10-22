@@ -1,0 +1,493 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq062\\mq062_01_hook_briefing_audiocall.json",
+ "entries": [
+  {
+   "key": "5388638903185862660",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "5388936636861935616",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "5436538643411791872",
+   "en": "Job like this, face-to-face was too risky. Y'know how it is.",
+   "ro": "O treabă ca asta, față în față era prea riscantă. Știi cum e."
+  },
+  {
+   "key": "5436539809713516544",
+   "en": "This is NC, ain’t it?",
+   "ro": "Asta-i NC, nu?"
+  },
+  {
+   "key": "5436540687413571584",
+   "en": "Too many.",
+   "ro": "Prea mulți."
+  },
+  {
+   "key": "5436540773547798528",
+   "en": "A best friend.",
+   "ro": "Un prieten bun."
+  },
+  {
+   "key": "5436540849817022464",
+   "en": "Don’t play games.",
+   "ro": "Nu te juca cu mine."
+  },
+  {
+   "key": "5436542197094576128",
+   "en": "Name me someone in NC who hasn't.",
+   "ro": "Dă-mi un nume din NC care n-a făcut-o."
+  },
+  {
+   "key": "5436542992301060096",
+   "en": "Too many to count.",
+   "ro": "Prea mulți ca să-i numeri."
+  },
+  {
+   "key": "5436544056060440576",
+   "en": "Yeah, he meant a lot. Helped me find myself.",
+   "ro": "Da, a însemnat mult. M-a ajutat să mă găsesc."
+  },
+  {
+   "key": "5436544648531046400",
+   "en": "Somethin' tells me you already know.",
+   "ro": "Parcă simt că știi deja."
+  },
+  {
+   "key": "5436545769651728384",
+   "en": "'S a pain you live through daily. Feelin' you coulda done more to save Jackie.",
+   "ro": "E o durere cu care trăiești zi de zi. Ideea că ai fi putut face mai mult să-l salvezi pe Jackie."
+  },
+  {
+   "key": "5436546717832867840",
+   "en": "Well, the techie in my crew – Miguel – found 'imself behind bars. Gotta save 'im.",
+   "ro": "Păi, tehnicianul din echipa mea – Miguel – a ajuns după gratii. Trebuie să-l scot de acolo."
+  },
+  {
+   "key": "5436546891477053440",
+   "en": "Bustin' 'im out means beatin' shit odds. Not unlike a certain gutsy heist at Konpeki Plaza.",
+   "ro": "Să-l scoți de-acolo înseamnă să bați niște cote de rahat. Nu foarte diferit de un jaf nebunesc de la Konpeki Plaza."
+  },
+  {
+   "key": "5436547586691330052",
+   "en": "Not everyone survived that job.",
+   "ro": "Nu toți au supraviețuit jobului ăla."
+  },
+  {
+   "key": "5436548612534202368",
+   "en": "A prison break? Risky biz.",
+   "ro": "Evadare din pușcărie? Tare riscant."
+  },
+  {
+   "key": "5436548695480758272",
+   "en": "What’d Miguel do?",
+   "ro": "Ce-a făcut Miguel?"
+  },
+  {
+   "key": "5436548963144462336",
+   "en": "Need to know the eddies are real.",
+   "ro": "Vreau să fiu sigur că eddies-urile sunt reale."
+  },
+  {
+   "key": "5436549252836651008",
+   "en": "Hope you got a good plan.",
+   "ro": "Sper că ai un plan bun."
+  },
+  {
+   "key": "5436549418461327360",
+   "en": "Miguel must be family.",
+   "ro": "Miguel trebuie să-ți fie familie."
+  },
+  {
+   "key": "5436551111232090112",
+   "en": "Not everyone survived Konpeki, y'know.",
+   "ro": "Nu toți au supraviețuit la Konpeki, știi."
+  },
+  {
+   "key": "5436552167911485440",
+   "en": "Sounds like you did. Then you know why I can't let Miguel leave that hellhole in a box.",
+   "ro": "Se pare că da. Atunci știi de ce nu pot lăsa pe Miguel să iasă din groapa aia într-un sicriu."
+  },
+  {
+   "key": "5436552492919713792",
+   "en": "Breakin' someone out is beggin' to get yourself tossed in.",
+   "ro": "Să scoți pe cineva de-acolo e ca și cum ai cere să te bage și pe tine."
+  },
+  {
+   "key": "5436553159864381440",
+   "en": "Might have to dirty our hands, yeah. 'Least Miguel won't leave that hellhole in a box. ",
+   "ro": "Poate o să ne murdărim mâinile, da. Cel puțin Miguel n-o să iasă din groapa aia într-un sicriu."
+  },
+  {
+   "key": "5436554149351026688",
+   "en": "What'd they pin on this choom of yours?",
+   "ro": "Ce i-au pus în cârcă unui choom de-al tău?"
+  },
+  {
+   "key": "5436554711807193088",
+   "en": "Think that matters in Night City?",
+   "ro": "Crezi că contează în Night City?"
+  },
+  {
+   "key": "5436554864647630848",
+   "en": "Way I see it, either we all deserve to be locked up, or none of us do.",
+   "ro": "Cum le văd eu, ori merităm toți să fim băgați, ori niciunul."
+  },
+  {
+   "key": "5436555993301282816",
+   "en": "Rep or not, word of a stranger ain't worth much. But if you got the eds, maybe I can lend a hand.",
+   "ro": "Reputație sau nu, vorba unui străin nu prea valorează. Da' dacă ai eddies, poate te ajut eu."
+  },
+  {
+   "key": "5436557098684936192",
+   "en": "Grew up nearby, know it's not a place to be fucked with. Really expect you'll sneak in and get out alive?",
+   "en_m": "Grew up nearby, know it's a place not to be fucked with. Really expect you'll sneak in and get out alive?",
+   "ro": "Am crescut pe aici, știu că nu e loc cu care să te pui, pula mea. Chiar crezi că te strecori și ieși cu viață?"
+  },
+  {
+   "key": "5436558990232154112",
+   "en": "Risk this high, scheme this whacked...? Miguel must be family.",
+   "ro": "Risc atât de mare, plan atât de smintit...? Miguel trebuie să-ți fie familie."
+  },
+  {
+   "key": "5436560156399661056",
+   "en": "You in?",
+   "ro": "Intri?"
+  },
+  {
+   "key": "5436562567503704068",
+   "en": "Hell yeah.",
+   "ro": "Da, bă!"
+  },
+  {
+   "key": "5436563303788605440",
+   "en": "It’s not for me.",
+   "ro": "Nu e pentru mine."
+  },
+  {
+   "key": "5436564565485580288",
+   "en": "Sounds risky as hell. Count me in.",
+   "ro": "Sună riscant rău de tot. Mă bag."
+  },
+  {
+   "key": "5436565683569586176",
+   "en": "Suicide mission, this. No way.",
+   "ro": "Misiune sinucigașă, asta. Nici vorbă."
+  },
+  {
+   "key": "5436567095439421444",
+   "en": "Fine. I'm convinced.",
+   "ro": "Bine, m-ai convins."
+  },
+  {
+   "key": "5436568015485169664",
+   "en": "No can do.",
+   "ro": "Nu se poate."
+  },
+  {
+   "key": "5436568306787971072",
+   "en": "Probably overdue to see time behind bars anyway.",
+   "en_m": "Prolly overdue to see time behind bars anyway.",
+   "ro": "Oricum mi-e rândul la pușcărie."
+  },
+  {
+   "key": "5436569605109608448",
+   "en": "Have to find someone else.",
+   "ro": "Trebuie să găsesc pe altcineva."
+  },
+  {
+   "key": "5436570146879467520",
+   "en": "Shame. I thought you'd do more to honor Jackie's legacy.",
+   "ro": "Păcat. Credeam că o să faci mai mult ca să-i onorezi moștenirea lui Jackie."
+  },
+  {
+   "key": "5436570789245513728",
+   "en": "Preem. The infil is two-pronged. First, get inside under the guise of an inmate visit. Then, into the prison's heart.",
+   "ro": "Beton. Infiltrarea are două etape. Întâi intri ca vizitator la un deținut. Apoi, în inima pușcăriei."
+  },
+  {
+   "key": "5436571345712214016",
+   "en": "My crew and I'll ghost into Max Security to snatch Miguel. You'll be on comms with my 'runner, Meshuga, remote via spiderbot.",
+   "ro": "Eu și echipa mea o să ne strecurăm în Max Security ca să-l luăm pe Miguel. Tu o să fii pe comunicații cu 'runner-ul meu, Meshuga, de la distanță, prin spiderbot."
+  },
+  {
+   "key": "5436571907363074048",
+   "en": "How am I getting in?",
+   "ro": "Cum intru?"
+  },
+  {
+   "key": "5436572634353397760",
+   "en": "Skipped a few details there.",
+   "ro": "Ai sărit peste câteva detalii."
+  },
+  {
+   "key": "5436573434945368064",
+   "en": "Hold up… I visit an inmate, and what, ride piggy-back to their cell?",
+   "ro": "Stai așa… Vizitez un deținut și apoi ce, mă cățăr pe spatele cuiva până la celula lui?"
+  },
+  {
+   "key": "5436574946203430912",
+   "en": "Must have a plan to get me deeper inside, yeah? Good one, I hope.",
+   "ro": "Trebuie să ai un plan ca să mă bagi mai adânc. Unul bun, sper."
+  },
+  {
+   "key": "5436575996591370240",
+   "en": "Got that covered. You'll get in. Just know I'm gonna push ya, 'cause I know you can take it.",
+   "ro": "Am rezolvat. Intri tu. Doar să știi că o să te împing, că știu că ții bine."
+  },
+  {
+   "key": "5436577018525151236",
+   "en": "Sure. But I'm no patsy.",
+   "ro": "Sigur. Dar nu sunt niciun fraier."
+  },
+  {
+   "key": "5436577405172871168",
+   "en": "To be expected.",
+   "ro": "De așteptat."
+  },
+  {
+   "key": "5436577614451863552",
+   "en": "Love the challenge.",
+   "ro": "Îmi place provocarea."
+  },
+  {
+   "key": "5436577913858060288",
+   "en": "Nothin' new.",
+   "ro": "Nimic nou."
+  },
+  {
+   "key": "5436579346732969984",
+   "en": "Fine, but I won't be your Silverhand. Fully intend to walk outta this alive.",
+   "ro": "Bine, dar nu o să fiu Silverhand-ul tău. Vreau să ies de aici întreagă.",
+   "ro_m": "Bine, dar nu o să fiu Silverhand-ul tău. Vreau să ies de aici întreg."
+  },
+  {
+   "key": "5436579859880898560",
+   "en": "That's the plan.",
+   "ro": "Asta e planul."
+  },
+  {
+   "key": "5436580110482173952",
+   "en": "Screw you.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "5436580805545455616",
+   "en": "You push for the best, I deliver it. Only way I work.",
+   "ro": "Tu ceri ce e mai bun, eu livrez. Altfel nu lucrez."
+  },
+  {
+   "key": "5436581320891199488",
+   "en": "What's life on the edge without a little challenge?",
+   "ro": "Ce e viața pe margine fără un pic de provocare?"
+  },
+  {
+   "key": "5436582034191314944",
+   "en": "Survived the Badlands. Know a thing or two 'bout adversity.",
+   "ro": "Am supraviețuit în Badlands. Știu una-alta despre adversitate."
+  },
+  {
+   "key": "5456824999845195776",
+   "en": "V. Unlike most of NC's up-'n'-comin' edgerunners, Wakako tells me you never lose.",
+   "ro": "V. Spre deosebire de majoritatea edgerunnerilor care urcă în NC, Wakako zice că nu pierzi niciodată."
+  },
+  {
+   "key": "5456838071041290256",
+   "en": "Double the rate. Last offer. That stiffen your spine?",
+   "ro": "Dublăm rata. Ultima ofertă. Asta îți dă curaj?"
+  },
+  {
+   "key": "5456838684651188224",
+   "en": "Expected more from someone who escaped Arasaka’s shackles.",
+   "ro": "Mă așteptam la mai mult de la cineva care a scăpat din lanțurile Arasaka."
+  },
+  {
+   "key": "5456838729530241024",
+   "en": "Expected more from someone who clawed their way outta the gutter.",
+   "ro": "Mă așteptam la mai mult de la cineva care s-a cățărat din mizerie."
+  },
+  {
+   "key": "5456838865291472896",
+   "en": "Expected more from a kid hardened in the Badlands.",
+   "ro": "Mă așteptam la mai mult de la un puști călit în Badlands."
+  },
+  {
+   "key": "5475897827261313028",
+   "en": "Won't argue her on that.",
+   "ro": "Nu o contrazic la asta."
+  },
+  {
+   "key": "5475898727375728640",
+   "en": "See my rep precedes me.",
+   "ro": "Se vede că reputația mă precede."
+  },
+  {
+   "key": "5475898790911045632",
+   "en": "It’s just talk.",
+   "ro": "Sunt doar vorbe."
+  },
+  {
+   "key": "5475898880887255040",
+   "en": "Nobody beats NC forever.",
+   "ro": "Nimeni nu bate NC la nesfârșit."
+  },
+  {
+   "key": "5475899851080101888",
+   "en": "Wakako's got a good eye for talent.",
+   "ro": "Wakako se pricepe la talente."
+  },
+  {
+   "key": "5475899921745735680",
+   "en": "See my reps catchin' up to what I knew all along.",
+   "ro": "Se vede că reputația mea prinde din urmă ce știam dintotdeauna."
+  },
+  {
+   "key": "5475899996370792448",
+   "en": "Peeps say a lotta things. I just get the job done.",
+   "ro": "Oamenii spun multe. Eu doar îmi fac treaba."
+  },
+  {
+   "key": "5475900071113289728",
+   "en": "Nobody beats NC. Some of us just last longer.",
+   "ro": "Nimeni nu bate NC. Unii dintre noi doar rezistă mai mult."
+  },
+  {
+   "key": "5478489163936198656",
+   "en": "Asked you a question.",
+   "ro": "Ți-am pus o întrebare."
+  },
+  {
+   "key": "5478508255367819264",
+   "en": "I hit a nerve?",
+   "ro": "Am atins un punct sensibil?"
+  },
+  {
+   "key": "5478509823987183616",
+   "en": "Need an answer.",
+   "ro": "Îmi trebuie un răspuns."
+  },
+  {
+   "key": "5478510390989975552",
+   "en": "Simple question.",
+   "ro": "Întrebare simplă."
+  },
+  {
+   "key": "5478510677175726080",
+   "en": "Well?",
+   "ro": "Ei?"
+  },
+  {
+   "key": "5478512238949986304",
+   "en": "Still there?",
+   "ro": "Mai ești acolo?"
+  },
+  {
+   "key": "5478512722905559040",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "5478513139467055104",
+   "en": "Time's tickin'.",
+   "ro": "Ceasul ticăie."
+  },
+  {
+   "key": "5489113944813367300",
+   "en": "I don’t shy away from risk.",
+   "ro": "Nu mă feresc de risc."
+  },
+  {
+   "key": "5489115152991023104",
+   "en": "You sound paranoid.",
+   "ro": "Pari paranoică.",
+   "ro_m": "Pari paranoic."
+  },
+  {
+   "key": "5489115618458103808",
+   "en": "Can't fault ya for that.",
+   "ro": "Nu te pot învinovăți pentru asta."
+  },
+  {
+   "key": "5489115831579078656",
+   "en": "You too important to show up?",
+   "ro": "Ești prea importantă ca să apari?",
+   "ro_m": "Ești prea important ca să apari?"
+  },
+  {
+   "key": "5489120076382498816",
+   "en": "'M no stranger to risk, but it's your call.",
+   "ro": "Nu-s străină de risc, dar tu decizi.",
+   "ro_m": "Nu-s străin de risc, dar tu decizi."
+  },
+  {
+   "key": "5489120480663072768",
+   "en": "Either this gig's a monster, or you're paranoid as hell.",
+   "ro": "Fie gig-ul ăsta e un monstru, fie ești paranoică ca dracu'.",
+   "ro_m": "Fie gig-ul ăsta e un monstru, fie ești paranoic ca dracu'."
+  },
+  {
+   "key": "5489120635030237184",
+   "en": "That I do. Smart move.",
+   "ro": "Asta fac. Mișcare inteligentă."
+  },
+  {
+   "key": "5489120785823854592",
+   "en": "Too important to show? All right…",
+   "ro": "Prea importantă să apari? Bine…",
+   "ro_m": "Prea important să apari? Bine…"
+  },
+  {
+   "key": "5489132397486043136",
+   "en": "'S a pain you live through daily. Feelin' you coulda done more.",
+   "ro": "E o durere cu care trăiești zilnic. Te roade gândul că ai fi putut face mai mult."
+  },
+  {
+   "key": "5489137348106940416",
+   "en": "Shame. Thought you were aimin' for the major leagues.",
+   "ro": "Păcat. Credeam că țintești liga mare."
+  },
+  {
+   "key": "5489139718895333376",
+   "en": "My crew and I'll ghost into Max Security to snatch Miguel. You’ll be on comms with my 'runner, Meshuga.",
+   "ro": "Eu și echipa mea ne strecurăm în Max Security să-l scoatem pe Miguel. O să fii pe comunicații cu runnerul meu, Meshuga."
+  },
+  {
+   "key": "5489146319253434368",
+   "en": "Head to the Visitor’s Entrance. It's go time.",
+   "ro": "Mergi spre Intrarea Vizitatorilor. Hai, e momentul."
+  },
+  {
+   "key": "5489177264509579264",
+   "en": "Lemme cut straight to it. You've lost someone close, yeah?",
+   "ro": "Hai să trecem direct la subiect. Ai pierdut pe cineva drag, nu?"
+  },
+  {
+   "key": "5503971948821901312",
+   "en": "If shaftin' biz partners was my M.O., Wakako wouldn'ta vouched.",
+   "ro": "Dacă țepuiam partenerii de afaceri, Wakako nu m-ar fi recomandat."
+  },
+  {
+   "key": "5503973255599255552",
+   "en": "The plan's solid. Been smoothin' out the wrinkles since Miguel's bust. Just needs you.",
+   "ro": "Planul e bun. Am șters denivelările de după arestarea lui Miguel. Doar tu mai lipsești."
+  },
+  {
+   "key": "5503974535214297088",
+   "en": "Thicker than blood, yeah. Long as he's in there, I can't walk away.",
+   "ro": "Mai tare decât sângele, da. Cât timp e acolo, nu plec nicăieri."
+  },
+  {
+   "key": "5516399361916825600",
+   "en": "Let's do this.",
+   "ro": "Hai s-o facem."
+  },
+  {
+   "key": "5565696301426700288",
+   "en": "This guy better show.",
+   "ro": "Să sperăm că vine tipul ăsta."
+  }
+ ]
+}

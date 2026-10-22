@@ -1,0 +1,785 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq305\\mq305_04_bunker.json",
+ "entries": [
+  {
+   "key": "3233518984948203520",
+   "en": "Go on, take a look.",
+   "ro": "Hai, aruncă o privire."
+  },
+  {
+   "key": "3234867741598007296",
+   "en": "Really helped me out, V. You go ahead, I'll grab the rest of the files myself.",
+   "ro": "Chiar m-ai ajutat mult, V. Mergi tu, eu iau restul fișierelor singură."
+  },
+  {
+   "key": "3236500862261116928",
+   "en": "The hell's goin' on?",
+   "ro": "Ce dracu' se întâmplă?"
+  },
+  {
+   "key": "3236501646377861120",
+   "en": "Hazed me once, won't do it again. Who the hell are you, really?",
+   "ro": "Odată m-a păcălit, nu mai ține. Cine naiba ești, de fapt?"
+  },
+  {
+   "key": "3236501712496869376",
+   "en": "Wait, who the hell is this guy?",
+   "ro": "Stai, cine naiba e tipul ăsta?"
+  },
+  {
+   "key": "3237783234067677184",
+   "en": "What's he talkin' about?",
+   "ro": "Ce tot vorbește?"
+  },
+  {
+   "key": "3237794194153127936",
+   "en": "What's he talkin' about?",
+   "ro": "Ce tot vorbește?"
+  },
+  {
+   "key": "3237794352966254592",
+   "en": "Can't you see he's threatening me? Militech murdered the scientist, now they're trying to murder me.",
+   "ro": "Nu vezi că mă amenință? Militech l-a omorât pe omul de știință, acum vrea să mă omoare și pe mine."
+  },
+  {
+   "key": "3237794782194548736",
+   "en": "I gotta get this story out, or they'll kill everyone on the project, one by one.",
+   "ro": "Trebuie să scot povestea asta, altfel o să-i omoare pe toți din proiect, unul câte unul."
+  },
+  {
+   "key": "3237799203997597696",
+   "en": "What're you talkin' about?",
+   "ro": "Despre ce vorbești?"
+  },
+  {
+   "key": "3237799427688218624",
+   "en": "Bree's just in it for the cred. Thing is, 'cause of her, they'll wipe anyone who touched the project.",
+   "ro": "Bree vrea doar reputație. Problema e că, din cauza ei, o să-i șteargă pe toți cei care au pus mâna pe proiect."
+  },
+  {
+   "key": "3237801262494892032",
+   "en": "He's just trying to scare us, V. You know that.",
+   "ro": "Vrea doar să ne sperie, V. Știi și tu."
+  },
+  {
+   "key": "3237810504190771200",
+   "en": "Think! You really wanna stick your neck out for her?",
+   "ro": "Gândește-te! Chiar vrei să-ți riști pielea pentru ea?"
+  },
+  {
+   "key": "3242154767359295496",
+   "en": "Sure do.",
+   "ro": "Sigur că da."
+  },
+  {
+   "key": "3242169906078826496",
+   "en": "Bree! Cover, now!",
+   "ro": "Bree! Ascunde-te, acum!"
+  },
+  {
+   "key": "3245147341322305540",
+   "en": "[Take shard] What's this?",
+   "ro": "[Ia shard-ul] Ce-i asta?"
+  },
+  {
+   "key": "3245150790365593600",
+   "en": "So, what now?",
+   "ro": "Și acum ce?"
+  },
+  {
+   "key": "3245152594235080704",
+   "en": "So, that's that?",
+   "ro": "Deci, asta e?"
+  },
+  {
+   "key": "3245184617393799168",
+   "en": "All clear now.",
+   "ro": "E liber acum."
+  },
+  {
+   "key": "3245184952652906496",
+   "en": "Come on out.",
+   "ro": "Hai, ieși."
+  },
+  {
+   "key": "3245186309560582144",
+   "en": "Thanks, V. I mean it.",
+   "ro": "Mersi, V. Pe bune."
+  },
+  {
+   "key": "3246232660985626624",
+   "en": "Pleased with yourself?",
+   "ro": "Mândră de tine?",
+   "ro_m": "Mândru de tine?"
+  },
+  {
+   "key": "3246234307468050432",
+   "en": "How's it feel, cowboy, pullin' triggers for a corp?",
+   "ro": "Cum e, cowboy, să tragi pentru o corporație?"
+  },
+  {
+   "key": "3246234766744338432",
+   "en": "Heard a lotta insults in my day – try again if you wanna surprise me.",
+   "ro": "Am auzit o grămadă de insulte pe vremea mea – mai încearcă, dacă vrei să mă surprinzi."
+  },
+  {
+   "key": "3256295650090434560",
+   "en": "Stand back, merc.",
+   "ro": "Dă-te înapoi, merc."
+  },
+  {
+   "key": "3256369680931766272",
+   "en": "Who the hell's this?",
+   "ro": "Cine naiba e ăsta?"
+  },
+  {
+   "key": "3257826046343004160",
+   "en": "[Stand] Well, got what you wanted.",
+   "ro": "[Ridică-te] Ei, ai ce-ai vrut."
+  },
+  {
+   "key": "3265390153733095424",
+   "en": "That was a million years ago.",
+   "ro": "A fost acum un milion de ani."
+  },
+  {
+   "key": "3265392087458234368",
+   "en": "Look, if it mattered, would've been old news years ago.",
+   "ro": "Uite, dacă ar fi contat, ar fi fost știre veche de ani buni."
+  },
+  {
+   "key": "3265392382435246080",
+   "en": "Kiddin' me? You hear about Soulkiller? Now imagine a similar project, only Militech's pushin' the buttons.",
+   "ro": "Mă iei la mișto? Ai auzit de Soulkiller? Acum imaginează-ți un proiect similar, doar că Militech apasă pe butoane."
+  },
+  {
+   "key": "3265392793493815296",
+   "en": "Sure you're not playing this up a little?",
+   "ro": "Sigur nu exagerezi un pic?"
+  },
+  {
+   "key": "3265393135614803968",
+   "en": "Like other peeps haven't tried to contact Blackwall AIs. Failin' to see the big break there.",
+   "ro": "Ca și cum alții n-ar fi încercat deja să contacteze AI-urile Blackwall. Nu văd unde e marea descoperire."
+  },
+  {
+   "key": "3265396411383005184",
+   "en": "Look, Voodoo Boys pokin' at the Blackwall is one thing. But one of the world's most powerful megacorps weaponizing a wild AI? Infinitely worse.",
+   "ro": "Uite, că Voodoo Boys se joacă cu Blackwall e una. Dar una dintre cele mai puternice megacorporații din lume care transformă un AI sălbatic în armă? Mult mai rău."
+  },
+  {
+   "key": "3265396933942951936",
+   "en": "When people learn NetWatch is busy hunting ordinary Joes while giving the megacorps free reign? Imagine the outcry.",
+   "ro": "Când află lumea că NetWatch vânează oameni de rând, în timp ce dă mână liberă megacorporațiilor? Imaginează-ți scandalul."
+  },
+  {
+   "key": "3265399379524173824",
+   "en": "So, we got it? Grab what you need, let's delta.",
+   "ro": "Deci, îl avem? Ia ce-ți trebuie, hai s-o tăiem."
+  },
+  {
+   "key": "3265524486989004800",
+   "en": "Including you. Y'want that?",
+   "ro": "Și tu cu ei. Asta vrei?"
+  },
+  {
+   "key": "3265533450669637632",
+   "en": "Wrong. It's 'cause of you Mijares got wiped. And what for, huh? The eddies?",
+   "ro": "Greșit. Din cauza ta l-au șters pe Mijares. Și pentru ce, ha? Pentru eddies-uri?"
+  },
+  {
+   "key": "3265713843154829312",
+   "en": "Fuckin' hazed me. Can't believe she was only in it for the scratch.",
+   "ro": "M-a păcălit, dracu' s-o ia. Nu-mi vine să cred că era doar pentru parale."
+  },
+  {
+   "key": "3265715795284574208",
+   "en": "Fuck. Really thought she was tryin' to do somethin' good.",
+   "ro": "Futu-i. Chiar credeam că vrea să facă ceva bun."
+  },
+  {
+   "key": "3265719890938544128",
+   "en": "Think I deserve something.",
+   "ro": "Cred că merit ceva."
+  },
+  {
+   "key": "3265745915068137472",
+   "en": "Better deal with this data.",
+   "ro": "Mai bine ne ocupăm de datele astea."
+  },
+  {
+   "key": "3265746124615565312",
+   "en": "So, the data – what's your plan? Saw the tapes, Militech was tryin' its damndest to breach the Blackwall...",
+   "ro": "Deci, datele – ce plan ai? Am văzut înregistrările, Militech făcea tot ce putea să spargă Blackwall-ul..."
+  },
+  {
+   "key": "3265746503478657024",
+   "en": "Listen to a little voice of reason – forget, move on, live on.",
+   "ro": "Ascultă și tu vocea rațiunii – uită, treci peste, trăiește-ți viața."
+  },
+  {
+   "key": "3265751718558810112",
+   "en": "What did Dante mean?",
+   "ro": "Ce a vrut să zică Dante?"
+  },
+  {
+   "key": "3265754025476341760",
+   "en": "What he was sayin'... any truth to it?",
+   "ro": "Ce zicea el... e ceva adevărat în asta?"
+  },
+  {
+   "key": "3265754393736232960",
+   "en": "Really? The man who just tried to kill us – you give a damn what he thinks?",
+   "ro": "Serios? Tipul ăla tocmai a încercat să ne omoare și ție îți pasă ce crede el?"
+  },
+  {
+   "key": "3265754945421426688",
+   "en": "And, well, I did it. Changed my life. Didn't know I had it in me, but here I am.",
+   "ro": "Păi, am reușit. Mi-a schimbat viața. Nu știam că am în mine asta, da' uite-mă aici."
+  },
+  {
+   "key": "3265755431943913472",
+   "en": "Yeah, I wrote some pulp garbage, sponsored articles. Rent doesn't pay itself.",
+   "ro": "Da, am scris niște porcării pulp, articole sponsorizate. Chiria nu se plătește singură."
+  },
+  {
+   "key": "3265786225097818112",
+   "en": "So, don't you owe me somethin'? For my trouble?",
+   "ro": "Nu-mi datorezi ceva, nu? Pentru bătaia de cap?"
+  },
+  {
+   "key": "3266270132368457740",
+   "en": "Whaddaya mean?",
+   "ro": "Cum adică?"
+  },
+  {
+   "key": "3302464817398956048",
+   "en": "Shit. The oldest ones are encrypted. But wait ...",
+   "ro": "Rahat. Cele mai vechi sunt criptate. Dar stai..."
+  },
+  {
+   "key": "3302464817398956064",
+   "en": "There's some newer footage… Dated twenty sixty-eight.",
+   "ro": "E niște imagini mai noi… din 2068."
+  },
+  {
+   "key": "3302464817398956080",
+   "en": "Must be when they came back. C'mere, take a look.",
+   "ro": "Trebuie să fie de când s-au întors. Hai, uită-te."
+  },
+  {
+   "key": "3302556597897281540",
+   "en": "Shit, this is bigger than I thought. Militech using some rogue AI to augment their old weaponry… This is huge!",
+   "ro": "Rahat, e mai mare decât credeam. Militech folosește un AI rebel ca să-și augmenteze vechile arme… E enorm!"
+  },
+  {
+   "key": "3302583774403510284",
+   "en": "Dante?!",
+   "ro": "Dante?!"
+  },
+  {
+   "key": "3302583774403510308",
+   "en": "Howdy, Bree.",
+   "ro": "Salut, Bree."
+  },
+  {
+   "key": "3302963012349050880",
+   "en": "Unbelievable. There's even files from the Third Corporate War here.",
+   "ro": "Nu-mi vine să cred. Sunt chiar și fișiere din al Treilea Război Corporatist, aici."
+  },
+  {
+   "key": "3303034857505013760",
+   "en": "Yeah. Militech was tap-dancin' on its tits, tryin' to keep 'Saka from pushing 'em off the stage.",
+   "ro": "Da. Militech se zbătea ca peștele pe uscat, încerca să nu-i dea 'Saka jos de pe scenă."
+  },
+  {
+   "key": "3303081381932941312",
+   "en": "Knew Bree was hidin' in the area, knew you had somethin' to do with it. Just had to watch 'n' wait. Thanks, kid.",
+   "ro": "Știam că Bree se ascunde prin zonă, știam că ai ceva de-a face cu asta. Trebuia doar să stau cuminte și să aștept. Mulțumesc, puștoaico.",
+   "ro_m": "Știam că Bree se ascunde prin zonă, știam că ai ceva de-a face cu asta. Trebuia doar să stau cuminte și să aștept. Mulțumesc, puștiule."
+  },
+  {
+   "key": "3303171827703070720",
+   "en": "Hope you're not about to start defendin' her. Must've filled your head with all sorts of horseshit.",
+   "ro": "Sper să nu te apuci s-o aperi. Ți-a băgat în cap tot felul de vrăjeli."
+  },
+  {
+   "key": "3303172003075309568",
+   "en": "Said people like you were after her, were gonna kill her. Hired me to keep that from happenin'.",
+   "ro": "A zis că oameni ca tine sunt pe urmele ei, că o să o omoare. M-a angajat să opresc asta."
+  },
+  {
+   "key": "3303179461420236804",
+   "en": "Bree can speak for herself.",
+   "ro": "Bree se descurcă singură la vorbă."
+  },
+  {
+   "key": "3303180409685262336",
+   "en": "Said you were chasing her.",
+   "ro": "A zis că o urmăreai."
+  },
+  {
+   "key": "3303181358990475264",
+   "en": "Oh, pilgrim. She told you she was a media, right?",
+   "ro": "Ei, pelerino. Ți-a zis că e de la presă, nu?",
+   "ro_m": "Ei, pelerinule. Ți-a zis că e de la presă, nu?"
+  },
+  {
+   "key": "3303182928230596608",
+   "en": "Bree can talk. Ask her yourself.",
+   "ro": "Bree poate vorbi. Întreab-o tu."
+  },
+  {
+   "key": "3303189068322553856",
+   "en": "And what'll I hear? More lies. Spinnin' tall tales is her specialty.",
+   "ro": "Și ce-o să aud acum? Alte minciuni. Să toarne povești e specialitatea ei."
+  },
+  {
+   "key": "3303190324969586688",
+   "en": "You gotta believe me. He knows I'm close, he wants to stop me.",
+   "ro": "Trebuie să mă crezi. Știe că sunt la un pas, vrea să mă oprească."
+  },
+  {
+   "key": "3303190589999267840",
+   "en": "Another failure to communicate. You don't know my mind, but I sure as hell know yours, Bree.",
+   "ro": "Încă o problemă de comunicare. Tu nu-mi știi gândurile, dar pe ale tale le știu clar, Bree."
+  },
+  {
+   "key": "3303201386355867648",
+   "en": "C'mon, just zero him!",
+   "ro": "Hai, lichidează-l!"
+  },
+  {
+   "key": "3304468035880992768",
+   "en": "Dante Caruso, Militech Special Agent. Second class, mind you.",
+   "ro": "Dante Caruso, agent special Militech. Clasa a doua, ca să știi."
+  },
+  {
+   "key": "3304468140772147200",
+   "en": "Give it a rest, Bree.",
+   "ro": "Las-o baltă, Bree."
+  },
+  {
+   "key": "3304468444490088448",
+   "en": "How's it you're here?",
+   "ro": "Cum de ești aici?"
+  },
+  {
+   "key": "3304479085690994688",
+   "en": "That quant you were pulling intel from, Caesar Mijares. Y'know they zeroed him, right?",
+   "ro": "Tipul ăla de la care scoteai intel, Caesar Mijares. Știi că l-au lichidat, nu?"
+  },
+  {
+   "key": "3304559476909129728",
+   "en": "Sorry, Bree. Lab ain't big enough for the both of us.",
+   "ro": "Scuze, Bree. Laboratorul nu e destul de mare pentru amândoi."
+  },
+  {
+   "key": "3304559771584151552",
+   "en": "Stop him, V!",
+   "ro": "Oprește-l, V!"
+  },
+  {
+   "key": "3304569450209067012",
+   "en": "Not anymore.",
+   "ro": "Nu mai."
+  },
+  {
+   "key": "3304569626520829952",
+   "en": "Feelin' fuckin' stupid now.",
+   "ro": "Acum mă simt penibilă în pula mea.",
+   "ro_m": "Acum mă simt penibil în pula mea."
+  },
+  {
+   "key": "3304573716487323648",
+   "en": "Road to hell wouldn't be paved without good intentions, kid. Important thing's to head in the right direction once you see it.",
+   "ro": "Drumul spre iad nu s-ar pava fără intenții bune, puștoaico. Important e să iei direcția bună când o vezi.",
+   "ro_m": "Drumul spre iad nu s-ar pava fără intenții bune, puștiule. Important e să iei direcția bună când o vezi."
+  },
+  {
+   "key": "3304576281186779136",
+   "en": "Why'd you take your gig? Charity? Come on.",
+   "ro": "De ce ți-ai luat gig-ul? Din caritate? Ce, glumești?"
+  },
+  {
+   "key": "3304580374038953984",
+   "en": "One more thing. Did me a solid, kid, deserve your cut.",
+   "ro": "Încă ceva. Mi-ai făcut un serviciu, puștoaico, merită partea ta.",
+   "ro_m": "Încă ceva. Mi-ai făcut un serviciu, puștiule, merită partea ta."
+  },
+  {
+   "key": "3304580825899712512",
+   "en": "Ehh, fine. Grab your cut.",
+   "ro": "Ehh, bine. Ia-ți partea."
+  },
+  {
+   "key": "3304581139113558016",
+   "en": "Now get lost, kid. Gotta wait for all the data to wander home.",
+   "ro": "Acum șterge-o, puștoaico. Trebuie să aștept să se întoarcă toate datele acasă.",
+   "ro_m": "Acum șterge-o, puștiule. Trebuie să aștept să se întoarcă toate datele acasă."
+  },
+  {
+   "key": "3304581653234565120",
+   "en": "Li'l piece of advice, too. Believe in people, sure – but don't ever trust 'em.",
+   "ro": "Încă un sfat. Crede în oameni, sigur – da' nu te încrede niciodată în ei."
+  },
+  {
+   "key": "3304635125208301568",
+   "en": "How'd you know Dante?",
+   "ro": "Cum l-ai cunoscut pe Dante?"
+  },
+  {
+   "key": "3304642550267232256",
+   "en": "But hey, I survived. And I'm gonna milk this chance for all it's worth.",
+   "ro": "Dar hei, am supraviețuit. Și o să storc șansa asta cât se poate."
+  },
+  {
+   "key": "3304643246370701312",
+   "en": "Bettin' he had loads of people like me on his conscience.",
+   "ro": "Pun pariu că avea o droaie de oameni ca mine pe conștiință."
+  },
+  {
+   "key": "3304652713082601472",
+   "en": "What're you gonna do now?",
+   "ro": "Ce-o să faci acum?"
+  },
+  {
+   "key": "3304652907262099456",
+   "en": "Can't wait for the article.",
+   "ro": "Abia aștept articolul."
+  },
+  {
+   "key": "3304655101352853504",
+   "en": "What's the plan now?",
+   "ro": "Care e planul acum?"
+  },
+  {
+   "key": "3304655211327504384",
+   "en": "Can't wait to read the article.",
+   "ro": "Abia aștept să citesc articolul."
+  },
+  {
+   "key": "3304655542526525440",
+   "en": "I publish, then I take a long vacation. Far, far away from anyone wantin' to find me, killer corporats especially.",
+   "ro": "Public, apoi îmi iau o vacanță lungă. Cât mai departe de oricine vrea să mă găsească, mai ales corporațiile alea ucigașe."
+  },
+  {
+   "key": "3304656402140741632",
+   "en": "Mhm – you'll be the first to know when it's ready.",
+   "ro": "Mhm – o să fii prima care află când e gata.",
+   "ro_m": "Mhm – o să fii primul care află când e gata."
+  },
+  {
+   "key": "3304656698275381248",
+   "en": "And then I'll take a long vacation. Far, far away from anyone wantin' to find me, killer corporats especially.",
+   "ro": "Și-apoi îmi iau o vacanță lungă. Cât mai departe de oricine vrea să mă găsească, mai ales corporațiile alea ucigașe."
+  },
+  {
+   "key": "3306820562592612368",
+   "en": "What'm I lookin' at?",
+   "ro": "La ce mă uit?"
+  },
+  {
+   "key": "3306820562592612384",
+   "en": "A log of all her convos with NetWatch. Bree planned to sell the lab data, grab the eddies and run. Like I said.",
+   "ro": "Un jurnal cu toate convorbirile ei cu NetWatch. Bree plănuia să vândă datele din laborator, să ia eddies-urile și să fugă. Cum am zis."
+  },
+  {
+   "key": "3306820562609389568",
+   "en": "Still feelin' sorry for her?",
+   "ro": "Încă îți pare rău de ea?"
+  },
+  {
+   "key": "3306847454490148904",
+   "en": "Meanin', see for yourself.",
+   "ro": "Adică, vezi singură.",
+   "ro_m": "Adică, vezi singur."
+  },
+  {
+   "key": "3307416925479485440",
+   "en": "Yeah. Only journalism she's ever done was to write articles rakin' muck at our competition.",
+   "ro": "Da. Singurul jurnalism pe care l-a făcut vreodată: articole în care aruncau noroi în concurența noastră."
+  },
+  {
+   "key": "3313124884335411200",
+   "en": "Not lookin' for gratitude. Just an easy night's sleep.",
+   "ro": "Nu aștept recunoștință. Vreau doar să dorm noaptea liniștit."
+  },
+  {
+   "key": "3313125471051431936",
+   "en": "It was her. She's the one who gave 'em Mijares.",
+   "ro": "Ea a fost. Ea e cea care i-a dat pe Mijares."
+  },
+  {
+   "key": "3313127298576793600",
+   "en": "Made the right choice.",
+   "ro": "Am făcut alegerea corectă."
+  },
+  {
+   "key": "3313127934433280000",
+   "en": "If Bree printed this data, it'd set off a modern-day witch hunt. Who knows how many'd hang.",
+   "ro": "Dacă Bree publica datele astea, ar fi pornit o vânătoare de vrăjitoare în toată regula. Cine știe câți ajungeau spânzurați."
+  },
+  {
+   "key": "3313131818241343488",
+   "en": "So Militech's going back to the lab?",
+   "ro": "Deci Militech se întoarce la laborator?"
+  },
+  {
+   "key": "3313132676177838080",
+   "en": "Guessin' Militech aims to secure the project, resume research?",
+   "ro": "Bănuiesc că Militech vrea să securizeze proiectul și să reia cercetarea?"
+  },
+  {
+   "key": "3313133244740911104",
+   "en": "Truth be told, hope I'm dead 'n' gone before they do.",
+   "ro": "Sincer, sper să fiu mort și îngropat înainte să o facă."
+  },
+  {
+   "key": "3313133331059687424",
+   "en": "Maybe someday, sure. Not today, not tomorrow – makin' it not our problem.",
+   "ro": "Poate într-o zi, sigur. Nu azi, nu mâine – nu e problema noastră."
+  },
+  {
+   "key": "3313134747643920384",
+   "en": "Thing is, at some point you wake up and you realize you live in a dump and your life's a waste.",
+   "ro": "Problema e că, la un moment dat, te trezești și realizezi că trăiești într-o cocioabă și că viața ta e de aruncat."
+  },
+  {
+   "key": "3313137225236070400",
+   "en": "She tell you how she wrote articles for us, muckin' up the competition?",
+   "ro": "Ți-a zis cum scria articole pentru noi, să dea cu noroi în concurență?"
+  },
+  {
+   "key": "3325673450001547264",
+   "en": "Max Jones, Bree Whitney... Dunno who hurt you, but you clearly got somethin' against the free press.",
+   "ro": "Max Jones, Bree Whitney... Nu știu cine te-a rănit, dar clar ai ceva cu presa liberă."
+  },
+  {
+   "key": "3325848854821748736",
+   "en": "The bastards were tryin' to reopen the project.",
+   "ro": "Nenorociții încercau să redeschidă proiectul."
+  },
+  {
+   "key": "3325850151465664512",
+   "en": "Hear that? They wanted to breach the Blackwall!",
+   "ro": "Auzi? Voiau să spargă Blackwall-ul!"
+  },
+  {
+   "key": "3329327230404902912",
+   "en": "These things change the world. And not for the better – least not for people like us.",
+   "ro": "Lucrurile astea schimbă lumea. Și nu în bine – cel puțin nu pentru oameni ca noi."
+  },
+  {
+   "key": "3329335732359774208",
+   "en": "Dante Caruso, Militech Special Agent. Stand down, I'm here for Bree. Couldn't give half a shit about you.",
+   "ro": "Dante Caruso, agent special Militech. Stai jos, sunt aici pentru Bree. Nici în pula mea nu-mi pasă de tine."
+  },
+  {
+   "key": "3329336886548348928",
+   "en": "Knew she was hiding somewhere in the area, knew you were looking for her. Just had to watch 'n' wait. Thanks, kid.",
+   "ro": "Știam că se ascundea pe undeva prin zonă, știam că o căutai. Trebuia doar să stau și să aștept. Mulțumesc, puștiule."
+  },
+  {
+   "key": "3329363077191811072",
+   "en": "You find yourself losin' sleep over it some day, well... just turn over onto your other side.",
+   "ro": "Dacă într-o zi nu mai dormi din cauza asta, păi... întoarce-te pe cealaltă parte."
+  },
+  {
+   "key": "3329365325657522176",
+   "en": "Now, gotta wait for all the data to wander home. Happy trails, kid.",
+   "ro": "Acum trebuie să aștept să ajungă toate datele acasă. Drum bun, puștiule."
+  },
+  {
+   "key": "3337823739224113152",
+   "en": "You two deserve each other.",
+   "ro": "Voi doi vă meritați unul pe altul."
+  },
+  {
+   "key": "3337824466466095104",
+   "en": "Shit, mighta guessed. Instead of fuckin' around with corp secrets, cobwebs an' dark corners, could've just said it was a corporat tiffle.",
+   "ro": "Rahat, aș fi putut ghici. Ca să mă prostesc cu secrete de corporație, pânze de păianjen și colțuri întunecate, când puteai zice pur și simplu că era o ceartă corporatistă."
+  },
+  {
+   "key": "3337837685268135936",
+   "en": "No, no, it wasn't like that. I wrote for Militech just to get access to their archives.",
+   "ro": "Nu, nu, nu era așa. Am scris pentru Militech doar ca să am acces la arhivele lor."
+  },
+  {
+   "key": "3337843880708128768",
+   "en": "Ah, can see those gears churnin' now. Yeah, Bree worked for Militech.",
+   "ro": "A, văd că rotițele se învârt acum. Da, Bree a lucrat pentru Militech."
+  },
+  {
+   "key": "3337844013617233920",
+   "en": "That true, Bree?",
+   "ro": "E adevărat, Bree?"
+  },
+  {
+   "key": "3337846538118479872",
+   "en": "That true?",
+   "ro": "E adevărat?"
+  },
+  {
+   "key": "3337847093914091520",
+   "en": "Yes. Took the gigs, 'cause that meant I got access to their archives.",
+   "ro": "Da. Am luat gig-urile alea, că așa aveam acces la arhivele lor."
+  },
+  {
+   "key": "3337851633124098048",
+   "en": "Know how you feel. Also left the corp behind, wasn't easy. But it gets better, I promise.",
+   "ro": "Știu cum te simți. Și eu am lăsat corporația în urmă, nu a fost ușor. Dar o să fie mai bine, promit."
+  },
+  {
+   "key": "3337852250139770880",
+   "en": "Know how you feel.",
+   "ro": "Știu cum te simți."
+  },
+  {
+   "key": "3337852927620530176",
+   "en": "Yeah, countin' on it. Anyway, I'll finally be workin' for number one.",
+   "ro": "Da, mizez pe asta. Oricum, în sfârșit o să lucrez pentru numărul unu."
+  },
+  {
+   "key": "3337853253031411712",
+   "en": "Think I'll take a long vacation first, though. Y'know, in case some suit decides to trail me again.",
+   "ro": "Întâi îmi iau o vacanță lungă, totuși. Știi tu, în caz că vreun costum decide să mă urmărească iar."
+  },
+  {
+   "key": "3337958869448114176",
+   "en": "He steal your promotion or you klep his coffee mug?",
+   "ro": "Ți-a furat promovarea sau i-ai ciordit cana de cafea?"
+  },
+  {
+   "key": "3343414497029242880",
+   "en": "Yeah, Militech an' some secret weapon, street's been sayin' it for ages... usually between \"world's ending on Tuesday\" and \"Bartmoss is hibernatin' in a fridge.\"",
+   "ro": "Da, Militech și vreo armă secretă, strada zice asta de ani de zile... de obicei între „lumea se termină marți” și „Bartmoss hibernează într-un frigider.”"
+  },
+  {
+   "key": "3344943067685830656",
+   "en": "You're lying.",
+   "ro": "Minți."
+  },
+  {
+   "key": "3344945082864353280",
+   "en": "I was undercover – took the gigs to get access to their archives.",
+   "ro": "Am fost sub acoperire – am luat gig-urile ca să am acces la arhivele lor."
+  },
+  {
+   "key": "3357798775724818432",
+   "en": "Ran into the guy at your unit – who the fuck was he?",
+   "ro": "M-am întâlnit cu tipul de la unitatea ta – cine pula mea era?"
+  },
+  {
+   "key": "3357799192034656256",
+   "en": "Who was that?",
+   "ro": "Cine era?"
+  },
+  {
+   "key": "3357799479008935936",
+   "en": "Did what you asked.",
+   "ro": "Am făcut ce-ai cerut."
+  },
+  {
+   "key": "3357803153168908288",
+   "en": "You and Dante – know each other well?",
+   "ro": "Tu și Dante – vă cunoașteți bine?"
+  },
+  {
+   "key": "3357805225490628608",
+   "en": "Nah, he was just another Militech wetworker. Cowboy who reined in anyone wantin' off the corpo leash.",
+   "ro": "Nah, era doar un alt wetworker Militech. Un cowboy care trăgea de lesă pe oricine voia să scape de corporație."
+  },
+  {
+   "key": "3357807802756218880",
+   "en": "Was supposed to be your huscle, so I was. Don't care to talk detes.",
+   "ro": "Trebuia să-ți fiu huscle, și așa am fost. Nu vreau să intru în detalii.",
+   "ro_m": "Eram menit să-ți fiu huscle, așa că am fost. Nu vreau să vorbesc despre detalii."
+  },
+  {
+   "key": "3357809871185625088",
+   "en": "Good, 'cause there aren't any. The guy was just another corpo gun out to get me.",
+   "ro": "Bine, pentru că nu sunt. Tipul era doar o altă armă corpo, cu ordin să mă elimine."
+  },
+  {
+   "key": "3357812386056749060",
+   "en": "What'd he want?",
+   "ro": "Ce voia?"
+  },
+  {
+   "key": "3357812869324455936",
+   "en": "Well, that's that.",
+   "ro": "Păi, asta e."
+  },
+  {
+   "key": "3357814919852572672",
+   "en": "Militech, special agent. Guess you really did step on some corp toes.",
+   "ro": "Militech, agent special. Se pare că chiar ai călcat pe câteva bătături corporatiste."
+  },
+  {
+   "key": "3357825756373827584",
+   "en": "Told you the megacorps wanted to bury this story. No surprise they sent one of their own.",
+   "ro": "Ți-am zis că megacorporațiile voiau să îngroape povestea asta. Nu e de mirare că au trimis unul de-al lor."
+  },
+  {
+   "key": "3388479328236486660",
+   "en": "[Play file – REC_09/25/68.vid]",
+   "ro": "[Redă fișierul – REC_09/25/68.vid]"
+  },
+  {
+   "key": "3388485201369382912",
+   "en": "[Play file – REC_10/31/68.vid]",
+   "ro": "[Redă fișierul – REC_10/31/68.vid]"
+  },
+  {
+   "key": "3388485364259373056",
+   "en": "[Play file – REC_11/11/68.vid]",
+   "ro": "[Redă fișierul – REC_11/11/68.vid]"
+  },
+  {
+   "key": "3388518847203655680",
+   "en": "Were they running from the war? Or NetWatch...?",
+   "ro": "Fugeau de război? Sau de NetWatch...?"
+  },
+  {
+   "key": "3389702912745783296",
+   "en": "Unlike you, I'm tellin' the truth. How many lies did you have to spin to even get in here?",
+   "ro": "Eu, spre deosebire de tine, zic adevărul. Câte minciuni ai trebuit să spui ca să intri aici?"
+  },
+  {
+   "key": "3389708779419451392",
+   "en": "The truth? Heh… Mean the kind in those articles of yours muckin' up our competition?",
+   "ro": "Adevărul? Heh... Adică genul din articolele tale care ne încurcă treaba cu concurența?"
+  },
+  {
+   "key": "3389786619594784768",
+   "en": "Bunker the guy mentioned… Guessin' this lab was a Project Cynosure facility. One of many, most likely.",
+   "ro": "Buncărul despre care a vorbit tipul… Parcă laboratorul ăsta era al Proiectului Cynosure. Probabil unul dintre multe."
+  },
+  {
+   "key": "3389787160626446336",
+   "en": "Project Cynosure… recognize the name.",
+   "ro": "Proiectul Cynosure... Recunosc numele."
+  },
+  {
+   "key": "3389788862658232320",
+   "en": "For sure. We're talking a huge investment, gargantuan. Who knows how much tech's collecting rust in Dogtown's depths?",
+   "ro": "Sigur. Vorbim de o investiție gigantică. Cine știe câtă tehnologie mai strânge rugină prin adâncurile Dogtown-ului?"
+  },
+  {
+   "key": "3434953850120945664",
+   "en": "A flag in the wind's whatcha are. Whose pocket're you in right now? Arasaka, NetWatch?",
+   "ro": "Ești ca o girueta. În buzunarul cui ești acum? Arasaka, NetWatch?"
+  },
+  {
+   "key": "3446378943074123776",
+   "en": "Downloadin' loadin' loadin', get that data roamin', hm-hm, hm-hm, hm-hm, roamin'… hm-hm, hm-hm, hm-hm, mhm. Hm-hm, hm-hm, hm-hm, mhm. Hmmm, hm-hm, hm-hm, mhm.",
+   "ro": "Descărcând, încărcând, încărcând, lasă datele să rătăcească, hm-hm, hm-hm, hm-hm, rătăcind… hm-hm, hm-hm, hm-hm, mhm. Hm-hm, hm-hm, hm-hm, mhm. Hmmm, hm-hm, hm-hm, mhm."
+  },
+  {
+   "key": "3855054377593417728",
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  }
+ ]
+}

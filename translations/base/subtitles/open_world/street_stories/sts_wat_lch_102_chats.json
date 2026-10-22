@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_lch_102_chats.json",
+ "entries": [
+  {
+   "key": "1924435941871607808",
+   "en": "And what? Hacked it from here?",
+   "ro": "Și ce? L-ai hack-uit de aici?"
+  },
+  {
+   "key": "1944700504584278016",
+   "en": "No. Those servers were just a proxy. Smoke screen.",
+   "ro": "Nu. Serverele alea erau doar un proxy, o diversiune."
+  },
+  {
+   "key": "1944700907556229120",
+   "en": "Where's the signal lead? You know?",
+   "ro": "Și pista semnalului? Știi ceva?"
+  },
+  {
+   "key": "1944701023671341056",
+   "en": "Nope. Link was hashed. But we'll get there. Just a matter of time.",
+   "ro": "Nu. Conexiunea e hash-uită. Dar ajungem noi acolo, e doar o chestiune de timp."
+  }
+ ]
+}

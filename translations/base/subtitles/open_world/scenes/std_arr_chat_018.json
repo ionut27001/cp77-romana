@@ -1,0 +1,36 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_018.json",
+ "entries": [
+  {
+   "key": "2167925460681805824",
+   "en": "<kiroshi l=\"mex\" o=\"Órale, esa mesa es de los Calle 6.\" t=\"Hey, that's 6th Street's table.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Órale, esa mesa es de los Calle 6.\" t=\"Hei, masa aia e a celor de la 6th Street.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2214493555875221504",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "2221658101366755328",
+   "en": "<kiroshi l=\"mex\" o=\"Pero podrían aparecer en cualquier momento.\" t=\"But they could show up any minute.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Pero podrían aparecer en cualquier momento.\" t=\"Dar ar putea apărea oricând.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221658188574724096",
+   "en": "Sure hope so. I like them bad boys.",
+   "ro": "Chiar sper. Îmi plac și mie băieții ăia răi."
+  },
+  {
+   "key": "2221658314202517504",
+   "en": "<kiroshi l=\"mex\" o=\"Eh, estás casada.\" t=\"Um, you are married.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Eh, estás casada.\" t=\"Ăă, ești căsătorită.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"mex\" o=\"Eh, estás casada.\" t=\"Ăă, ești căsătorit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221658616477618176",
+   "en": "Yeah, nobody's perfect.",
+   "ro": "Da, nimeni nu-i perfect."
+  }
+ ]
+}

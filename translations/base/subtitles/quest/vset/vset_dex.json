@@ -1,0 +1,17 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_dex.json",
+ "entries": [
+  {
+   "key": "1966288354354798596",
+   "en": "Miss V?",
+   "en_m": "Mr. V?",
+   "ro": "Domnișoară V?",
+   "ro_m": "Domnule V?"
+  },
+  {
+   "key": "1966288354388353028",
+   "en": "Hello?",
+   "ro": "Alo?"
+  }
+ ]
+}

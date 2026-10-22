@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\minor_activities\\ma_std_rcr_18_chicken_test.json",
+ "entries": [
+  {
+   "key": "2050444786257494020",
+   "en": "[db_db]Main_entrance",
+   "ro": "[db_db]Main_entrance"
+  },
+  {
+   "key": "2050445225786998784",
+   "en": "[db_db]Side_entrance",
+   "ro": "[db_db]Side_entrance"
+  }
+ ]
+}

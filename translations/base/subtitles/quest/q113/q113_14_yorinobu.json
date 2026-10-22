@@ -1,0 +1,660 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q113\\q113_14_yorinobu.json",
+ "entries": [
+  {
+   "key": "1730251372773777408",
+   "en": "Almost... there.",
+   "ro": "Aproape... gata."
+  },
+  {
+   "key": "1764773498032504832",
+   "en": "I am as well.",
+   "ro": "Și eu."
+  },
+  {
+   "key": "1764773972458618880",
+   "en": "You will watch him, nothing more.",
+   "ro": "O să-l supraveghezi, nimic mai mult."
+  },
+  {
+   "key": "1764777519766061056",
+   "en": "I will stay here.",
+   "ro": "Rămân aici."
+  },
+  {
+   "key": "1764788193162444800",
+   "en": "Wouldn'ta changed a thing.",
+   "ro": "N-aș fi schimbat nimic."
+  },
+  {
+   "key": "1764793118164533248",
+   "en": "Wouldn'ta changed... a damn thing.",
+   "ro": "N-aș fi schimbat... nimic, la naiba."
+  },
+  {
+   "key": "1764796995983130624",
+   "en": "Mean your beloved sibling...? One your men... almost shot and killed?",
+   "ro": "Te referi la sora ta cea dragă...? Pe care oamenii tăi... aproape că au omorât-o?"
+  },
+  {
+   "key": "1764798658403909632",
+   "en": "Any danger she was in was because of you, no one else.",
+   "ro": "Orice pericol prin care a trecut a fost din vina ta, nu a altcuiva."
+  },
+  {
+   "key": "1764809843236945920",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ\" t=\"Hanako.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ\" t=\"Hanako.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1764812022580527104",
+   "en": "I thank you, V. That will be all.",
+   "ro": "Îți mulțumesc, V. Atât e tot."
+  },
+  {
+   "key": "1764812290730770432",
+   "en": "I will keep my end of our agreement. You will go with Hellman.",
+   "ro": "Îmi țin partea din înțelegere. O să mergi cu Hellman."
+  },
+  {
+   "key": "1764812556632866816",
+   "en": "I must stay with my brother.",
+   "ro": "Trebuie să rămân cu fratele meu."
+  },
+  {
+   "key": "1764818464779812864",
+   "en": "<kiroshi l=\"jpn\" o=\"わかってる\" t=\"I know.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"わかってる\" t=\"Știu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1764821320329084928",
+   "en": "<kiroshi l=\"jpn\" o=\"だが、もう… 疲れた…\" t=\"I'm just... tired...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"だが、もう… 疲れた…\" t=\"Sunt doar... obosit...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1764822155062689792",
+   "en": "Fate is a fickle mistress, isn't she?",
+   "ro": "Soarta e o doamnă capricioasă, nu?"
+  },
+  {
+   "key": "1764822519379935232",
+   "en": "You spend your whole life fighting something…",
+   "ro": "Îți petreci toată viața luptând cu ceva…"
+  },
+  {
+   "key": "1764822812914106368",
+   "en": "Only to become that very same thing.",
+   "ro": "Ca să ajungi exact ce ai combătut."
+  },
+  {
+   "key": "1811303377379393536",
+   "en": "Violent delights with violent ends…",
+   "ro": "Plăceri violente, sfârșituri violente…"
+  },
+  {
+   "key": "1811333724326461440",
+   "en": "You?",
+   "ro": "Tu?"
+  },
+  {
+   "key": "1812519762868699140",
+   "en": "A guy who lost.",
+   "ro": "Un tip care a pierdut."
+  },
+  {
+   "key": "1812520064506265600",
+   "en": "Terror.",
+   "ro": "Teroare."
+  },
+  {
+   "key": "1812521791066341376",
+   "en": "A failed coup.",
+   "ro": "O lovitură de stat eșuată."
+  },
+  {
+   "key": "1812534040866717696",
+   "en": "Terror.",
+   "ro": "Teroare."
+  },
+  {
+   "key": "1812535291994046464",
+   "en": "Know what I see...? A corporate coup... that failed.",
+   "ro": "Știi ce văd...? O lovitură de stat corporatistă... care a dat greș."
+  },
+  {
+   "key": "1812537057108164608",
+   "en": "The one thing I cannot deny him – he knew how to cause fear in people.",
+   "ro": "Un lucru nu i-l pot nega: știa să-i facă pe oameni să se teamă."
+  },
+  {
+   "key": "1812537330341904384",
+   "en": "Even now. You saw! Idiots terrified of a dead man talking from a box!",
+   "ro": "Și acum, chiar. Ai văzut? Idioți speriați de un mort care vorbește dintr-o cutie!"
+  },
+  {
+   "key": "1812547933827629056",
+   "en": "He once told me anything of value is only a flag blowing in wind.",
+   "ro": "Mi-a zis odată că tot ce are valoare e doar un steag care flutură în vânt."
+  },
+  {
+   "key": "1812568124099788800",
+   "en": "Your men're out there... spilling blood... for no reason...",
+   "en_m": "Your men out there... spillin' blood... for no reason…",
+   "ro": "Oamenii tăi sunt afară... își varsă sângele... degeaba...",
+   "ro_m": "Oamenii tăi sunt acolo afară... vărsând sânge... degeaba…"
+  },
+  {
+   "key": "1812574171212414976",
+   "en": "And deaths... that could've been... avoided.",
+   "ro": "Și morți... care s-ar fi putut evita..."
+  },
+  {
+   "key": "1812574324472283136",
+   "en": "Avoided?",
+   "ro": "Evitate?"
+  },
+  {
+   "key": "1812574425437569024",
+   "en": "You've lost...",
+   "ro": "Ai pierdut..."
+  },
+  {
+   "key": "1812629191756742656",
+   "en": "Fear. Ever since I can remember.",
+   "ro": "Frica. De când mă știu."
+  },
+  {
+   "key": "1812632513611956224",
+   "en": "It is they who have lost.",
+   "ro": "Ei sunt cei care au pierdut."
+  },
+  {
+   "key": "1812633876190330880",
+   "en": "Saburo.",
+   "ro": "Saburo."
+  },
+  {
+   "key": "1812686126195539968",
+   "en": "That was the one time he was wrong.",
+   "ro": "Aia a fost singura dată când s-a înșelat."
+  },
+  {
+   "key": "1812695621126717440",
+   "en": "Won't last long, though...",
+   "ro": "N-o să țină mult, totuși..."
+  },
+  {
+   "key": "1812720544704495616",
+   "en": "Pathetic.",
+   "ro": "Jalnic."
+  },
+  {
+   "key": "1812732321957806084",
+   "en": "[Move weapon away] Won't need that.",
+   "ro": "[Îndepărtează arma] Nu-ți trebuie asta."
+  },
+  {
+   "key": "1812733448849850368",
+   "en": "This… you won't need.",
+   "ro": "Asta… nu-ți trebuie."
+  },
+  {
+   "key": "1812735471896887296",
+   "en": "Just one bullet left.",
+   "ro": "Mai am un singur glonț."
+  },
+  {
+   "key": "1812756784984227840",
+   "en": "What do you see?",
+   "ro": "Ce vezi?"
+  },
+  {
+   "key": "1812760281825804288",
+   "en": "I tried to protect her.",
+   "ro": "Am încercat s-o protejez."
+  },
+  {
+   "key": "1812773702457753600",
+   "en": "Where is my sister?",
+   "ro": "Unde e sora mea?"
+  },
+  {
+   "key": "1812774610776227844",
+   "en": "[Sit] Don't move. She'll be here any minute.",
+   "ro": "[Stai jos] Nu te mișca. Vine în orice clipă."
+  },
+  {
+   "key": "1812774896710320128",
+   "en": "Be here... any sec, now.",
+   "ro": "Vine... dintr-o clipă în alta."
+  },
+  {
+   "key": "1812775257001033728",
+   "en": "[Sit] Sister you almost killed?",
+   "ro": "[Stai jos] Sora pe care ai împușcat-o și aproape ai omorât-o?"
+  },
+  {
+   "key": "1812776755692961792",
+   "en": "Till then... supposed to watch you... so don't try anything.",
+   "ro": "Până atunci... am ordin să te țin sub ochi... așa că nu încerca nimic."
+  },
+  {
+   "key": "1812777300348502016",
+   "en": "What would I try? I have tried everything – nothing else remain.",
+   "ro": "Ce să mai încerc? Am încercat tot – nu mai e nimic de făcut."
+  },
+  {
+   "key": "1812783472283615232",
+   "en": "Kyoto.",
+   "ro": "Kyoto."
+  },
+  {
+   "key": "1812786215761084416",
+   "en": "Dubai... Paris...",
+   "ro": "Dubai... Paris..."
+  },
+  {
+   "key": "1812787177565323264",
+   "en": "These people had a chance today…",
+   "ro": "Oamenii ăștia au avut o șansă azi…"
+  },
+  {
+   "key": "1812789993453256704",
+   "en": "But they lost it.",
+   "ro": "Dar au pierdut-o."
+  },
+  {
+   "key": "1812791346921603072",
+   "en": "A chance...? A chance for what...?",
+   "ro": "O șansă...? O șansă pentru ce...?"
+  },
+  {
+   "key": "1812791501154549760",
+   "en": "To forget their fear.",
+   "ro": "Să-și uite frica."
+  },
+  {
+   "key": "1813920561503010816",
+   "en": "<kiroshi l=\"jpn\" o=\"俺は結果を恐れたりしない。一度も恐れたことはない\" t=\"I do not fear the consequences. I have never feared them.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"俺は結果を恐れたりしない。一度も恐れたことはない\" t=\"Nu mă tem de consecințe. Nu m-am temut niciodată de ele.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1813922483182108672",
+   "en": "<kiroshi l=\"jpn\" o=\"いいのよ、兄さん…\" t=\"There, there, Yori…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いいのよ、兄さん…\" t=\"Hai, hai, Yori…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1813923509444411392",
+   "en": "<kiroshi l=\"jpn\" o=\"もうお休みなさい\" t=\"It is time you rested.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もうお休みなさい\" t=\"E timpul să te odihnești.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1813976407452811264",
+   "en": "Say what, now...?",
+   "ro": "Ce-ai zis, acum...?"
+  },
+  {
+   "key": "1814006021453643776",
+   "en": "A guy... who lost.",
+   "ro": "Un tip... care a pierdut."
+  },
+  {
+   "key": "1814022075638743040",
+   "en": "It's not for you.",
+   "ro": "Nu e pentru tine."
+  },
+  {
+   "key": "1814022848195985408",
+   "en": "Just one?",
+   "ro": "Doar unul?"
+  },
+  {
+   "key": "1814023095995465728",
+   "en": "I see millions.",
+   "ro": "Văd milioane."
+  },
+  {
+   "key": "1814029022865784832",
+   "en": "This is nonsense.",
+   "ro": "Asta-i o prostie."
+  },
+  {
+   "key": "1814029563192803328",
+   "en": "Don't understand.",
+   "ro": "Nu înțeleg."
+  },
+  {
+   "key": "1814030775447322624",
+   "en": "This is nonsense...",
+   "ro": "Asta-i o prostie..."
+  },
+  {
+   "key": "1814030937230016512",
+   "en": "This how you wanna help people... forget their fear? By killing them...?",
+   "ro": "Asta-i felul în care vrei să ajuți oamenii... să le faci să uite de frică? Omorându-i...?"
+  },
+  {
+   "key": "1814034734081769472",
+   "en": "Sorry... just don't get it.",
+   "ro": "Scuze... nu prind."
+  },
+  {
+   "key": "1814063613945184256",
+   "en": "Not all... not yet!",
+   "ro": "Nu toți... nu încă!"
+  },
+  {
+   "key": "1814067567210921984",
+   "en": "And you?",
+   "ro": "Iar tu?"
+  },
+  {
+   "key": "1814067861667840000",
+   "en": "Leave us.",
+   "ro": "Lasă-ne."
+  },
+  {
+   "key": "1814069810307923968",
+   "en": "Come, time to look to your problem.",
+   "ro": "Hai, e timpul să te ocupi de problema ta."
+  },
+  {
+   "key": "1814138702556430336",
+   "en": "Almost... there.",
+   "ro": "Aproape... gata."
+  },
+  {
+   "key": "1814140077969375232",
+   "en": "Remember, do not harm a hair on his head.",
+   "ro": "Ține minte, nu-i atinge niciun fir de păr."
+  },
+  {
+   "key": "1814148897718272000",
+   "en": "I remember. Privilege... is all yours.",
+   "ro": "Țin minte. Privilegiul... e tot al tău."
+  },
+  {
+   "key": "1814153083969208320",
+   "en": "If I go through that door, I will kill him.",
+   "ro": "Dacă intru pe ușa aia, îl omor."
+  },
+  {
+   "key": "1814172819629146112",
+   "en": "I would change that. If only you did not appear.",
+   "ro": "Aș schimba asta. Dacă n-ai fi apărut."
+  },
+  {
+   "key": "1814177778235998208",
+   "en": "She was to remain at the estate. Stay out of the way.",
+   "ro": "Trebuia să rămână la conac. Nu te băga."
+  },
+  {
+   "key": "1814178425433882624",
+   "en": "Where is she?",
+   "ro": "Unde e?"
+  },
+  {
+   "key": "1814179058656346112",
+   "en": "Look.",
+   "ro": "Uită-te."
+  },
+  {
+   "key": "1814188731157577728",
+   "en": "And wind is fear.",
+   "ro": "Iar vântul e frică."
+  },
+  {
+   "key": "1814192978427248640",
+   "en": "You're exactly like him... All you want... is power.",
+   "ro": "Ești exact ca el... Tot ce vrei... e putere."
+  },
+  {
+   "key": "1814193124456136704",
+   "en": "You're even worse than Saburo.",
+   "ro": "Ești și mai rău decât Saburo."
+  },
+  {
+   "key": "1814194290925633536",
+   "en": "You're even worse... than him.",
+   "ro": "Ești și mai rău... decât el."
+  },
+  {
+   "key": "1814195428957749248",
+   "en": "Saburo ruled... with an iron fist, but he didn't... need a purge... to hold onto power.",
+   "en_m": "Saburo ruled... with an iron fist, but he didn't need a purge... to hold onto power.",
+   "ro": "Saburo a condus cu mână de fier, dar n-a avut nevoie... de o epurare... ca să-și țină puterea."
+  },
+  {
+   "key": "1815436412748169216",
+   "en": "You become bomb.",
+   "ro": "Devii bombă."
+  },
+  {
+   "key": "1815701927408304128",
+   "en": "Power?",
+   "ro": "Putere?"
+  },
+  {
+   "key": "1815702212755193856",
+   "en": "You... You think I wanted power?",
+   "ro": "Tu... Crezi că am vrut putere?"
+  },
+  {
+   "key": "1815703471197388800",
+   "en": "Power? Hah... truly? Power?",
+   "ro": "Putere? Ha... serios? Putere?"
+  },
+  {
+   "key": "1815771519770034176",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1815773885844029440",
+   "en": "And then... you know what he did? Blew in my face.",
+   "ro": "Și apoi... știi ce a făcut? Mi-a suflat în față."
+  },
+  {
+   "key": "1815779097468076032",
+   "en": "And others? It worked on them. They feared him.",
+   "ro": "Iar pe ceilalți? Pe ei i-a prins. Se temeau de el."
+  },
+  {
+   "key": "1816876981856894976",
+   "en": "And...? What it give us?",
+   "ro": "Și...? Ce ne-a dat?"
+  },
+  {
+   "key": "1817103687813300224",
+   "en": "Quite literally.",
+   "ro": "La propriu."
+  },
+  {
+   "key": "1837104310493515776",
+   "en": "Fifty years ago terrorists blew this building into smoke.",
+   "ro": "Acum cincizeci de ani, teroriștii au transformat clădirea asta în scrum."
+  },
+  {
+   "key": "1837105396835028992",
+   "en": "If planting bombs not enough, what can you do?",
+   "ro": "Dacă nu ajunge să plantezi bombe, ce mai poți face?"
+  },
+  {
+   "key": "1837117112767614980",
+   "en": "Thanks. Can't believe we did it.",
+   "ro": "Mulțumesc. Nu-mi vine să cred că am reușit."
+  },
+  {
+   "key": "1837117917822324736",
+   "en": "Thanks, Goro... Can't believe... we actually pulled it off.",
+   "ro": "Mulțumesc, Goro... Nu-mi vine să cred... că am reușit până la urmă."
+  },
+  {
+   "key": "1837277160848363520",
+   "en": "Yeah... so I heard.",
+   "ro": "Da... așa am auzit."
+  },
+  {
+   "key": "1837277790312730624",
+   "en": "Not much.",
+   "ro": "Nu prea mult."
+  },
+  {
+   "key": "1837281272977559552",
+   "en": "Nothing!",
+   "ro": "Nimic!"
+  },
+  {
+   "key": "1837283129477173248",
+   "en": "But I learn lesson!",
+   "ro": "Dar am învățat lecția!"
+  },
+  {
+   "key": "1842988048553218048",
+   "en": "And your agreement with Hanako-sama will be undone.",
+   "ro": "Iar înțelegerea ta cu Hanako-sama o să fie anulată."
+  },
+  {
+   "key": "1842988447750295552",
+   "en": "It is the last favor I can do for you.",
+   "ro": "E ultimul favor pe care ți-l pot face."
+  },
+  {
+   "key": "1843009456649932800",
+   "en": "Go, V. Finish what we started.",
+   "ro": "Du-te, V. Termină ce am început."
+  },
+  {
+   "key": "1843243291010535424",
+   "en": "Do yourself a favor, Goro. Ghost... get outta here.",
+   "ro": "Fă-ți un favor, Goro. Fantomă... dispari de aici."
+  },
+  {
+   "key": "1843243631034372096",
+   "en": "Pardon...?",
+   "ro": "Poftim...?"
+  },
+  {
+   "key": "1843243683362508800",
+   "en": "Forget Arasaka.",
+   "ro": "Uită de Arasaka."
+  },
+  {
+   "key": "1843244422902190080",
+   "en": "Don't you get it...? You were Saburo's bodyguard... and you failed him.",
+   "ro": "Nu înțelegi...? Ai fost gardă de corp a lui Saburo... și ai eșuat."
+  },
+  {
+   "key": "1843245068271357952",
+   "en": "I... I do not know...",
+   "ro": "Eu... nu știu..."
+  },
+  {
+   "key": "1843246683950813184",
+   "en": "Think they're gonna raise their glasses... to you?",
+   "ro": "Crezi că o să-și ridice paharele... pentru tine?"
+  },
+  {
+   "key": "1843249540372500480",
+   "en": "Hit the streets, disappear... get gigs, feed cats… Just stay clear of Arasaka.",
+   "ro": "Ieși pe străzi, dispari... ia gig-uri, hrănește pisici... Doar ține-te departe de Arasaka."
+  },
+  {
+   "key": "1843267840070520832",
+   "en": "Do yourself a favor – get outta here.",
+   "ro": "Fă-ți un favor – dispari de aici."
+  },
+  {
+   "key": "1843270350713786368",
+   "en": "You know I cannot do that.",
+   "ro": "Știi că nu pot face asta."
+  },
+  {
+   "key": "1843271391387717632",
+   "en": "But I thank you. Truly.",
+   "ro": "Dar îți mulțumesc. Sincer."
+  },
+  {
+   "key": "1863433761340596224",
+   "en": "<kiroshi l=\"jpn\" o=\"やめて。人の前よ\" t=\"Quiet, not in front of strangers.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やめて。人の前よ\" t=\"Liniște, nu în fața străinilor.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863438340077723648",
+   "en": "<kiroshi l=\"jpn\" o=\"待っていたぞ… 世界が崩れ去る時は、必ずお前がそこにいる\" t=\"I've been waiting for you... When the world turns to rubble, you always appear.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"待っていたぞ… 世界が崩れ去る時は、必ずお前がそこにいる\" t=\"Te așteptam... Când lumea se face scrum, tu apari mereu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1863444095904325632",
+   "en": "<kiroshi l=\"jpn\" o=\"兄さん\" t=\"Yorinobu.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"兄さん\" t=\"Yorinobu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1886410598805225472",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1886553994928668676",
+   "en": "We should leave them.",
+   "ro": "Ar trebui să-i lăsăm."
+  },
+  {
+   "key": "1886553994962223108",
+   "en": "Come on. You can barely stand.",
+   "ro": "Hai. Abia te ții pe picioare."
+  },
+  {
+   "key": "1925677343180931072",
+   "en": "She'll be here in a sec. Stay put.",
+   "ro": "Vine imediat. Stai pe loc."
+  },
+  {
+   "key": "1925677343180931088",
+   "en": "The sister you almost killed?",
+   "ro": "Sora pe care ai vrut s-o omori?"
+  },
+  {
+   "key": "2089643690079371264",
+   "en": "And you?",
+   "ro": "Iar tu?"
+  },
+  {
+   "key": "2121504880296280064",
+   "en": "[Take one last trip]",
+   "ro": "[Fă o ultimă călătorie]"
+  },
+  {
+   "key": "2228675042219499520",
+   "en": "You're morally bankrupt. Abandoned everything…",
+   "ro": "Ești falită moral. Ai abandonat totul…",
+   "ro_m": "Ești falit moral. Ai abandonat totul…"
+  },
+  {
+   "key": "2228676119048331264",
+   "en": "To think you once dared to lead your own gang…",
+   "ro": "Să te gândești că ai îndrăznit cândva să conduci propria bandă…"
+  },
+  {
+   "key": "2228677970162458624",
+   "en": "But dropped that, all your dreams, ideals… to seek power.",
+   "ro": "Dar ai lăsat totul baltă: visurile, idealurile... doar ca să cauți putere."
+  },
+  {
+   "key": "2230339558707666944",
+   "en": "What are you waiting for? Press the damned button.",
+   "ro": "Ce aștepți? Apasă nenorocitul de buton."
+  },
+  {
+   "key": "2230345571896762376",
+   "en": "Get the fuck back here.",
+   "ro": "Întoarce-ți fundul încoace, bă!"
+  },
+  {
+   "key": "2230347837039026176",
+   "en": "Do you not understand? You are no longer needed. Go with Hellman.",
+   "ro": "Nu înțelegi? Nu mai ești necesară. Du-te cu Hellman.",
+   "ro_m": "Nu înțelegi? Nu mai ești necesar. Du-te cu Hellman."
+  }
+ ]
+}

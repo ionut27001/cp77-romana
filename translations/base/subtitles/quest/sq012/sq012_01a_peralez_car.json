@@ -1,0 +1,338 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq012\\sq012_01a_peralez_car.json",
+ "entries": [
+  {
+   "key": "1692517901624004608",
+   "en": "Are you V?",
+   "ro": "Ești V?"
+  },
+  {
+   "key": "1692563268675686400",
+   "en": "Please, step in the vehicle.",
+   "ro": "Vă rog, urcați în mașină."
+  },
+  {
+   "key": "1692563738639060992",
+   "en": "Hello, V. I'm Jefferson Peralez.",
+   "ro": "Salut, V. Sunt Jefferson Peralez."
+  },
+  {
+   "key": "1692564911735558144",
+   "en": "You've already spoken with Elizabeth, my wife.",
+   "ro": "Ai vorbit deja cu Elizabeth, soția mea."
+  },
+  {
+   "key": "1692576723600265220",
+   "en": "[Take shard] All right. Lemme see the scroll.",
+   "ro": "Bine. Lasă-mă să văd scroll-ul."
+  },
+  {
+   "key": "1692588839669452800",
+   "en": "All right. See what I can do.",
+   "ro": "Bine. Vedem ce pot face."
+  },
+  {
+   "key": "1692596960932515840",
+   "en": "Excellent. We'd be happy with any find that would clarify things, alleviate lingering doubts.",
+   "ro": "Excelent. Ne-ar prinde bine orice descoperire care să limpezească lucrurile și să ne risipească îndoielile."
+  },
+  {
+   "key": "1692618948061286400",
+   "en": "The braindance – it has to be back where it belongs today. Or a lot of people will be in a lot of trouble.",
+   "ro": "Braindance-ul – trebuie să ajungă înapoi unde îi e locul azi. Altfel, o să aibă mulți oameni belele mari."
+  },
+  {
+   "key": "1895403992388427780",
+   "en": "[Get in] Thanks.",
+   "ro": "[Urcă] Mulțumesc."
+  },
+  {
+   "key": "1895405202512240640",
+   "en": "OK…",
+   "ro": "Bine…"
+  },
+  {
+   "key": "1895430810952753152",
+   "en": "Nice to meet you, Mr. Peralez.",
+   "ro": "Mă bucur să vă cunosc, domnule Peralez."
+  },
+  {
+   "key": "1895430840296103936",
+   "en": "Well, as you're probably aware, Mayor Lucius Rhyne recently passed.",
+   "ro": "Păi, după cum probabil știți, Primarul Lucius Rhyne a murit de curând."
+  },
+  {
+   "key": "1895437736436523008",
+   "en": "Hm, right again, Liz.",
+   "ro": "Hm, iar ai dreptate, Liz."
+  },
+  {
+   "key": "1895438108639059968",
+   "en": "You see, my wife is a great judge of character. Said this would work.",
+   "ro": "Vezi tu, soția mea e foarte bună la citit oamenii. A spus că asta o să funcționeze."
+  },
+  {
+   "key": "1895439288094121984",
+   "en": "Now I see why.",
+   "ro": "Acum înțeleg de ce."
+  },
+  {
+   "key": "1895445033468518404",
+   "en": "What's this job?",
+   "ro": "Ce treabă e asta?"
+  },
+  {
+   "key": "1895451939306168320",
+   "en": "Nice to meet you.",
+   "ro": "Mă bucur să vă cunosc."
+  },
+  {
+   "key": "1895456546866552832",
+   "en": "Straight to the matter at hand, huh? Hmhm…",
+   "ro": "Direct la subiect, ha? Hmhm…"
+  },
+  {
+   "key": "1898073547883634692",
+   "en": "Could engage in some small talk first.",
+   "ro": "Am putea schimba câteva vorbe mai întâi."
+  },
+  {
+   "key": "1898073604221526016",
+   "en": "So – whaddaya got for me?",
+   "ro": "Deci – ce ai pentru mine?"
+  },
+  {
+   "key": "1898092288285564928",
+   "en": "My time' valuable, so is yours.",
+   "ro": "Timpul meu e prețios, la fel și al tău."
+  },
+  {
+   "key": "1898097348176470016",
+   "en": "I mean, guess we could chat about the weather or debate where they serve the best ramen…",
+   "en_m": "I mean, I guess we could chat up the weather or debate where they serve the best ramen.",
+   "ro": "Adică, presupun că am putea vorbi despre vreme sau să dezbatem unde fac cel mai bun ramen…"
+  },
+  {
+   "key": "1898097373342294016",
+   "en": "My time's pretty valuable. Pretty sure yours is too.",
+   "ro": "Timpul meu e destul de prețios. Sunt sigur că și al tău e."
+  },
+  {
+   "key": "1898100265231015936",
+   "en": "All the same to me, but…",
+   "ro": "Mie îmi e totuna, dar…"
+  },
+  {
+   "key": "1898100707042222080",
+   "en": "Hahahahaha... Fair enough. To business it is.",
+   "ro": "Hahahahaha... Corect. La treabă, deci."
+  },
+  {
+   "key": "1898107700003954688",
+   "en": "Mrs. Peralez.",
+   "ro": "Doamna Peralez."
+  },
+  {
+   "key": "1898113524667473920",
+   "en": "Elizabeth?",
+   "ro": "Elizabeth?"
+  },
+  {
+   "key": "1898124911363973120",
+   "en": "True.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1898125643521679360",
+   "en": "Far as I know, case is closed already.",
+   "ro": "Din câte știu eu, cazul e deja închis."
+  },
+  {
+   "key": "1898125681253638148",
+   "en": "Case is closed.",
+   "ro": "Cazul e închis."
+  },
+  {
+   "key": "1898167619713458176",
+   "en": "His death was no secret. The media missed something?",
+   "ro": "Moartea lui nu a fost un secret. Media a ratat ceva?"
+  },
+  {
+   "key": "1898168678120906752",
+   "en": "There was an attempt on his life days before his passing.",
+   "ro": "Cu câteva zile înainte să moară, a fost un atentat asupra lui."
+  },
+  {
+   "key": "1898176246557925376",
+   "en": "Far as I remember, someone tried to zero Rhyne a few days before his death.",
+   "ro": "Din câte țin minte, cineva a încercat să-l lichideze pe Rhyne cu câteva zile înainte să moară."
+  },
+  {
+   "key": "1898176268049539072",
+   "en": "It was all over the news.",
+   "ro": "A fost peste tot în știri."
+  },
+  {
+   "key": "1898177668426981376",
+   "en": "It is. Of course the police wrote it off as natural causes. Rhyne passed at home due to a \"cardioimplant malfunction.\"",
+   "ro": "Așa e. Sigur, poliția a pus-o pe seama cauzelor naturale. Rhyne a murit acasă din cauza unei „malfuncționări a cardioimplantului”."
+  },
+  {
+   "key": "1898293739632943104",
+   "en": "The NCPD sees no link. They're saying it was a random cyberpsycho attack.",
+   "ro": "NCPD nu vede nicio legătură. Zic că a fost un atac random de la un cyberpsycho."
+  },
+  {
+   "key": "1898328188441550848",
+   "en": "Pf, of course it was. Media feasted for weeks. Pieces like that are their lifeblood.",
+   "ro": "Pf, sigur. Media s-a ospătat săptămâni întregi. Chestii de-astea le țin în viață."
+  },
+  {
+   "key": "1898330350521376768",
+   "en": "And claimin' the mayor died of natural causes…",
+   "ro": "Și să zici că primarul a murit din cauze naturale…"
+  },
+  {
+   "key": "1898331076521844736",
+   "en": "What makes you think the cops got it wrong? Got any evidence?",
+   "ro": "Ce te face să crezi că polițiștii s-au înșelat? Ai vreo dovadă?"
+  },
+  {
+   "key": "1898343528772886528",
+   "en": "Causes unrelated to the attack. It's in the official reports. Rhyne died at home due to a \"cardioimplant malfunction.\"",
+   "ro": "Cauze fără legătură cu atacul. E în rapoartele oficiale. Rhyne a murit acasă din cauza unei „malfuncționări a cardioimplantului”."
+  },
+  {
+   "key": "1898354419434217472",
+   "en": "We want to know how, why, whatever else is pertinent.",
+   "ro": "Vrem să aflăm cum, de ce și orice altceva e relevant."
+  },
+  {
+   "key": "1898368044714647552",
+   "en": "Right. Think they missed somethin'?",
+   "ro": "Bine. Crezi că au ratat ceva?"
+  },
+  {
+   "key": "1898368395073249280",
+   "en": "We have reason to believe they did, yes.",
+   "ro": "Avem motive să credem că da."
+  },
+  {
+   "key": "1898371169018142720",
+   "en": "But we're left wondering about the cyberpsycho attack at City Hall a few days earlier.",
+   "ro": "Dar ne întrebăm ce s-a întâmplat cu atacul cyberpsycho de la Primărie, cu câteva zile înainte."
+  },
+  {
+   "key": "1898372570049896452",
+   "en": "What makes you think the cops got it wrong?",
+   "ro": "Ce te face să crezi că polițiștii s-au înșelat?"
+  },
+  {
+   "key": "1898374735669714944",
+   "en": "The police say it was completely unrelated.",
+   "ro": "Poliția spune că nu are nicio legătură."
+  },
+  {
+   "key": "1898411669653774336",
+   "en": "This got anything to do with the upcoming election?",
+   "ro": "Are asta vreo legătură cu alegerile care vin?"
+  },
+  {
+   "key": "1924389261430972416",
+   "en": "Peralez? The one running for mayor?",
+   "ro": "Peralez? Cel care candidează la primărie?"
+  },
+  {
+   "key": "1924390084974174208",
+   "en": "Peralez? The one running for mayor of Night City?",
+   "en_m": "Peralez? Heh... The one running for mayor of Night City?",
+   "ro": "Peralez? Cel care candidează la primăria Night City?",
+   "ro_m": "Peralez? Heh... Cel care candidează la primăria Night City?"
+  },
+  {
+   "key": "1924394652655116288",
+   "en": "The one.",
+   "ro": "Cel."
+  },
+  {
+   "key": "1924401832968019968",
+   "en": "So the one who was DA until recently but just vaulted into a seat on the city council.",
+   "ro": "Deci cel care era procuror districtual până de curând, dar tocmai a intrat în consiliul municipal."
+  },
+  {
+   "key": "1924401942288359424",
+   "en": "I gather you now understand why discretion is of the utmost importance.",
+   "ro": "Văd că acum ai înțeles de ce discreția e foarte importantă."
+  },
+  {
+   "key": "1924436682752090112",
+   "en": "These suspicions of yours… wouldn't have anything to do with the upcoming election, would they?",
+   "ro": "Suspiciunile astea ale tale… n-ar avea vreo legătură cu alegerile care vin, nu?"
+  },
+  {
+   "key": "1924453433560752128",
+   "en": "'Course they would. If Lucius Rhyne was murdered, we want to know, need to know.",
+   "ro": "Sigur că da. Dacă Lucius Rhyne a fost ucis, vrem să știm, trebuie să știm."
+  },
+  {
+   "key": "1924454857711509504",
+   "en": "Shortly before Rhyne passed, he made cuts in the NCPD budget. Perhaps got on someone's bad side that way.",
+   "ro": "Cu puțin înainte să moară Rhyne, a făcut tăieri în bugetul NCPD. Poate a călcat pe coada cuiva, așa."
+  },
+  {
+   "key": "1924463438435409920",
+   "en": "In any case, we have the cyberpsycho attack on a BD.",
+   "ro": "Oricum, avem atacul cyberpsycho pe un BD."
+  },
+  {
+   "key": "1924464487044964352",
+   "en": "Our chief of security scanned it but didn't find anything out of the ordinary, so to speak... We need a braindance editor, a real one. It's raw footage.",
+   "ro": "Șeful nostru de securitate l-a scanat, dar n-a găsit nimic ieșit din comun, ca să zic așa... Avem nevoie de un editor de braindance, unul adevărat. E material brut."
+  },
+  {
+   "key": "1924465207374733312",
+   "en": "If you agree to help, you can see it right now.",
+   "ro": "Dacă accepți să ajuți, îl vezi chiar acum."
+  },
+  {
+   "key": "1924492786148270080",
+   "en": "Where'd you get it?",
+   "ro": "De unde l-ai luat?"
+  },
+  {
+   "key": "1924494741398577152",
+   "en": "Where'd you get the scroll?",
+   "ro": "De unde ai luat scroll-ul?"
+  },
+  {
+   "key": "1924506122088833024",
+   "en": "Rhyne was making a public appearance. BD scrolling's standard procedure for events like that.",
+   "ro": "Rhyne făcea o apariție publică. Scrollarea BD-ului e procedură standard la evenimentele de genul ăsta."
+  },
+  {
+   "key": "1924508021890441216",
+   "en": "Following the attack, the NCPD impounded the footage as evidence.",
+   "ro": "După atac, NCPD a confiscat înregistrarea ca probă."
+  },
+  {
+   "key": "1924508423469883392",
+   "en": "We had to pull many strings to extract it.",
+   "ro": "Am tras multe sfori ca să-l scoatem."
+  },
+  {
+   "key": "1947712436352409600",
+   "en": "Lemme look at it now, then.",
+   "ro": "Hai să mă uit la el acum, atunci."
+  },
+  {
+   "key": "1957819339482095616",
+   "en": "Carter, let's go.",
+   "ro": "Carter, hai să mergem."
+  },
+  {
+   "key": "2065155347913728004",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  }
+ ]
+}

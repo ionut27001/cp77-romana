@@ -1,0 +1,59 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\vset\\vset_bella_net.json",
+ "entries": [
+  {
+   "key": "3383726072847978504",
+   "en": "Hello, hello…",
+   "ro": "Salut, salut…"
+  },
+  {
+   "key": "3383726072881532936",
+   "en": "A pleasure.",
+   "ro": "O plăcere."
+  },
+  {
+   "key": "3383726073015750664",
+   "en": "You are pressed to take a piss?",
+   "ro": "Te grăbești să faci pipi?"
+  },
+  {
+   "key": "3383726073049305096",
+   "en": "<kiroshi l=\"fra\" o=\"Putain, les Ricains et la politesse…\" t=\"Rude fucking American…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Putain, les Ricains et la politesse…\" t=\"American nenorocit și nesimțit…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3383726073149968388",
+   "en": "I hate waiting.",
+   "ro": "Urăsc să aștept."
+  },
+  {
+   "key": "3383726073183522824",
+   "en": "So…",
+   "ro": "Deci…"
+  },
+  {
+   "key": "3383726073217077248",
+   "en": "You are struck speechless?",
+   "ro": "Ai rămas fără cuvinte?"
+  },
+  {
+   "key": "3383726073250631680",
+   "en": "Daydreaming? About me?",
+   "ro": "Visezi cu ochii deschiși? La mine?"
+  },
+  {
+   "key": "3383726073602953224",
+   "en": "<kiroshi l=\"fra\" o=\"Regarde où tu vas, connasse…\" t=\"Clumsy fucker...\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"fra\" o=\"Regarde où tu vas, connard…\" t=\"Clumsy fucker...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Regarde où tu vas, connasse…\" t=\"Nenorocită neîndemânatică…\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"fra\" o=\"Regarde où tu vas, connard…\" t=\"Nenorocit neîndemânatic…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3383726073636507656",
+   "en": "<kiroshi l=\"fra\" o=\"Enculée.\" t=\"Asshole.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"fra\" o=\"Enculé.\" t=\"Asshole.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"fra\" o=\"Enculée.\" t=\"Jigodie.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"fra\" o=\"Enculé.\" t=\"Jigodie.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

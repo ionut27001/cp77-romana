@@ -1,0 +1,480 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\vset\\vset_reed.json",
+ "entries": [
+  {
+   "key": "3379764696232284168",
+   "en": "Let's get to work.",
+   "ro": "Hai la treabă."
+  },
+  {
+   "key": "3379764696265838600",
+   "en": "Here we go.",
+   "ro": "Iată-ne."
+  },
+  {
+   "key": "3379764696416833544",
+   "en": "I sure missed this!",
+   "ro": "Mi-a fost dor de asta!"
+  },
+  {
+   "key": "3379764696450387976",
+   "en": "We're almost home now!",
+   "ro": "Suntem aproape acasă!"
+  },
+  {
+   "key": "3379764696534274056",
+   "en": "Came in harder than I thought!",
+   "ro": "A fost mai greu decât credeam!"
+  },
+  {
+   "key": "3379764696567828488",
+   "en": "You’re all pissin’ me off!",
+   "ro": "Mă scoateți din sărite!"
+  },
+  {
+   "key": "3379764696668491784",
+   "en": "You made a big fuckin’ mistake!",
+   "ro": "Ați făcut o greșeală nenorocită!"
+  },
+  {
+   "key": "3379764697356357632",
+   "en": "Where’re you off to?",
+   "ro": "Unde te duci?"
+  },
+  {
+   "key": "3379764697423466504",
+   "en": "We're not finished.",
+   "ro": "Nu am terminat."
+  },
+  {
+   "key": "3379764697624793088",
+   "en": "We good now?",
+   "ro": "Suntem bine acum?"
+  },
+  {
+   "key": "3379764697658347528",
+   "en": "Nice of you to come back...",
+   "ro": "Ce bine că te-ai întors..."
+  },
+  {
+   "key": "3379764697691901960",
+   "en": "We don’t have all day.",
+   "ro": "Nu avem toată ziua."
+  },
+  {
+   "key": "3379764697725456392",
+   "en": "Hello? Earth to V?",
+   "ro": "Alo? Pământul către V?"
+  },
+  {
+   "key": "3379764698463653888",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "3379764698530762752",
+   "en": "All good?",
+   "ro": "Totul bine?"
+  },
+  {
+   "key": "3386733904933052424",
+   "en": "Oooff!",
+   "ro": "Oooff!"
+  },
+  {
+   "key": "3386734539380252680",
+   "en": "Ugh... Goddamn...",
+   "ro": "Ugh... Fir-ar..."
+  },
+  {
+   "key": "3386734645865242632",
+   "en": "Aughh... Shit... not good...",
+   "ro": "Aughh... Căcat... nu e bine..."
+  },
+  {
+   "key": "3386737742989647880",
+   "en": "Augh... They really... got me...",
+   "ro": "Augh... M-au... lovit bine..."
+  },
+  {
+   "key": "3386743860096819200",
+   "en": "Shi...shit... not again...",
+   "ro": "Că...căcat... nu din nou..."
+  },
+  {
+   "key": "3386753803197767684",
+   "en": "Cover me, V. Eye glued to your scope.",
+   "ro": "Acoperă-mă, V. Ochiul lipit de lunetă."
+  },
+  {
+   "key": "3386753804808380424",
+   "en": "Focus. Don’t let me out of your sight.",
+   "ro": "Concentrează-te. Nu mă pierde din vedere."
+  },
+  {
+   "key": "3386773520654426120",
+   "en": "Need you to cover me.",
+   "ro": "Am nevoie să mă acoperi."
+  },
+  {
+   "key": "3386773523422666760",
+   "en": "Watch my six.",
+   "ro": "Păzește-mi spatele."
+  },
+  {
+   "key": "3405784264385810432",
+   "en": "You there?",
+   "ro": "Ești acolo?"
+  },
+  {
+   "key": "3405784264419364872",
+   "en": "Hello, V?",
+   "ro": "Alo, V?"
+  },
+  {
+   "key": "3405784264503250952",
+   "en": "Let's go, V.",
+   "ro": "Hai, V."
+  },
+  {
+   "key": "3405784264603914248",
+   "en": "Here they come.",
+   "ro": "Iată-i că vin."
+  },
+  {
+   "key": "3405784264671023112",
+   "en": "Let’s go!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "3405784264905904136",
+   "en": "They’re done for!",
+   "ro": "S-a zis cu ei!"
+  },
+  {
+   "key": "3405784264956235784",
+   "en": "They got nowhere to run!",
+   "ro": "Nu mai au unde fugi!"
+  },
+  {
+   "key": "3405784265124007944",
+   "en": "That's all of 'em.",
+   "ro": "Asta e tot."
+  },
+  {
+   "key": "3405784265191116800",
+   "en": "We did it.",
+   "ro": "Am reușit."
+  },
+  {
+   "key": "3405784265241448456",
+   "en": "Fine work.",
+   "ro": "Treabă bună."
+  },
+  {
+   "key": "3405784265275002888",
+   "en": "Lay low, V!",
+   "ro": "Ține-te ascuns, V!"
+  },
+  {
+   "key": "3405784265325334536",
+   "en": "Takin’ some heat there!",
+   "ro": "Iei foc acolo!"
+  },
+  {
+   "key": "3405784265375666184",
+   "en": "Not doing so hot, V!",
+   "ro": "Nu te descurci prea bine, V!"
+  },
+  {
+   "key": "3405784267841916936",
+   "en": "They got me pinned!",
+   "ro": "M-au blocat!"
+  },
+  {
+   "key": "3405784267942580232",
+   "en": "V! It’s not looking good!",
+   "ro": "V! Nu arată bine!"
+  },
+  {
+   "key": "3405784268043243524",
+   "en": "They’re blasting us!",
+   "ro": "Ne bombardează!"
+  },
+  {
+   "key": "3405784268110352392",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "3405784268177461256",
+   "en": "I'm empty! Need to reload!",
+   "ro": "Sunt gol! Trebuie să reîncarc!"
+  },
+  {
+   "key": "3405784268345233416",
+   "en": "V! Grenade!",
+   "ro": "V! Granată!"
+  },
+  {
+   "key": "3405784268445896704",
+   "en": "Grenade! Hit the ground!",
+   "ro": "Granată! La pământ!"
+  },
+  {
+   "key": "3405784268496228360",
+   "en": "Unit down!",
+   "ro": "Unitate doborâtă!"
+  },
+  {
+   "key": "3405784268546560008",
+   "en": "Chew on that!",
+   "ro": "Mestecă asta!"
+  },
+  {
+   "key": "3405784268596891656",
+   "en": "You're dead now, friend.",
+   "ro": "Ești mort acum, prietene."
+  },
+  {
+   "key": "3405784268647223304",
+   "en": "Not too shabby, V!",
+   "ro": "Nu-i rău, V!"
+  },
+  {
+   "key": "3405784268697554944",
+   "en": "Keep it up!",
+   "ro": "Țineți-o tot așa!"
+  },
+  {
+   "key": "3405784268731109384",
+   "en": "Hm, not bad, not bad…",
+   "ro": "Hm, nu-i rău, nu-i rău…"
+  },
+  {
+   "key": "3405784268781441032",
+   "en": "Now that's what I'm talking about!",
+   "ro": "Asta e ce ziceam!"
+  },
+  {
+   "key": "3405784268831772672",
+   "en": "V, what’s going on!?",
+   "ro": "V, ce se întâmplă!?"
+  },
+  {
+   "key": "3405784268865327112",
+   "en": "A little more effort! It’s not looking good!",
+   "ro": "Puțin mai mult efort! Nu arată bine!"
+  },
+  {
+   "key": "3405784268915658760",
+   "en": "V, for fuck’s sake! They’re killing us here!",
+   "ro": "V, pula mea! Ne omoară aici!"
+  },
+  {
+   "key": "3405784269100208136",
+   "en": "Eyes on the turret!",
+   "ro": "Ochi pe turelă!"
+  },
+  {
+   "key": "3405784269569970184",
+   "en": "We got some late arrivals...",
+   "ro": "Avem niște întârziăți..."
+  },
+  {
+   "key": "3405784269620301832",
+   "en": "Just what we needed.",
+   "ro": "Exact ce ne trebuia."
+  },
+  {
+   "key": "3405784269670633472",
+   "en": "So they brought the heavy stuff...",
+   "ro": "Deci au adus artileria grea..."
+  },
+  {
+   "key": "3405784269704187912",
+   "en": "V! Watch that big-ass iron!",
+   "ro": "V! Ai grijă la fierul ăla uriaș!"
+  },
+  {
+   "key": "3405784270140395528",
+   "en": "Get to work, V.",
+   "ro": "La treabă, V."
+  },
+  {
+   "key": "3405784270358499336",
+   "en": "Bumpy up ahead.",
+   "ro": "Denivelări în față."
+  },
+  {
+   "key": "3405784270408830984",
+   "en": "Got eyes on them.",
+   "ro": "I-am în vizor."
+  },
+  {
+   "key": "3405784270459162632",
+   "en": "Easy now. No calling attention.",
+   "ro": "Ușor. Fără să atragem atenția."
+  },
+  {
+   "key": "3405784270509494280",
+   "en": "Careful…",
+   "ro": "Atenție…"
+  },
+  {
+   "key": "3405784270559825928",
+   "en": "Keep it down, V.",
+   "ro": "Fii liniștit, V."
+  },
+  {
+   "key": "3405784270593380360",
+   "en": "Don’t blow our cover.",
+   "ro": "Nu ne dați de gol."
+  },
+  {
+   "key": "3405784270660489224",
+   "en": "Watch the cams.",
+   "ro": "Urmărește camerele."
+  },
+  {
+   "key": "3405784270727598080",
+   "en": "V, keep it off camera.",
+   "ro": "V, nu te lăsa filmat."
+  },
+  {
+   "key": "3405784270777929736",
+   "en": "Clean up after yourself, V.",
+   "ro": "Curăță după tine, V."
+  },
+  {
+   "key": "3405784270828261384",
+   "en": "They find that body, they’ll sound the alarm.",
+   "ro": "Dacă găsesc cadavrul, dau alarma."
+  },
+  {
+   "key": "3405784270895370240",
+   "en": "Goddammit!",
+   "ro": "Mama dracului!"
+  },
+  {
+   "key": "3405784270928924680",
+   "en": "Come on!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "3405784270979256328",
+   "en": "Calm and quiet.",
+   "ro": "Calm și liniște."
+  },
+  {
+   "key": "3405784271046365184",
+   "en": "Watch your step, V.",
+   "ro": "Ai grijă pe unde calci, V."
+  },
+  {
+   "key": "3804703220797784080",
+   "en": "Let's get to work.",
+   "ro": "Hai la treabă."
+  },
+  {
+   "key": "3804704479223201808",
+   "en": "We're not finished.",
+   "ro": "Nu am terminat."
+  },
+  {
+   "key": "3804705648628711440",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "3804706256601464848",
+   "en": "All good?",
+   "ro": "Totul bine?"
+  },
+  {
+   "key": "3804706937521553424",
+   "en": "Oooff!",
+   "ro": "Oooff!"
+  },
+  {
+   "key": "3804707679946915856",
+   "en": "Ugh... Goddamn...",
+   "ro": "Ugh... Fir-ar..."
+  },
+  {
+   "key": "3804708722466340880",
+   "en": "Aughh... Shit... not good...",
+   "ro": "Aughh... Căcat... nu e bine..."
+  },
+  {
+   "key": "3804710324438810640",
+   "en": "You there?",
+   "ro": "Ești acolo?"
+  },
+  {
+   "key": "3804710998983557136",
+   "en": "That's all of 'em.",
+   "ro": "Asta e tot."
+  },
+  {
+   "key": "3804712562519425040",
+   "en": "Fine work.",
+   "ro": "Treabă bună."
+  },
+  {
+   "key": "3804715441657462800",
+   "en": "Keep it up!",
+   "ro": "Țineți-o tot așa!"
+  },
+  {
+   "key": "3804716333215498256",
+   "en": "We got some late arrivals...",
+   "ro": "Avem niște întârziăți..."
+  },
+  {
+   "key": "3804717050709917712",
+   "en": "Get to work, V.",
+   "ro": "La treabă, V."
+  },
+  {
+   "key": "3804717975268737040",
+   "en": "Got eyes on them.",
+   "ro": "I-am în vizor."
+  },
+  {
+   "key": "3804718789282480144",
+   "en": "Easy now. No calling attention.",
+   "ro": "Ușor. Fără să atragem atenția."
+  },
+  {
+   "key": "3804719607490527240",
+   "en": "Careful…",
+   "ro": "Atenție…"
+  },
+  {
+   "key": "3804720223029805072",
+   "en": "Don’t blow our cover.",
+   "ro": "Nu ne dați de gol."
+  },
+  {
+   "key": "3804721195739234320",
+   "en": "Goddammit!",
+   "ro": "Mama dracului!"
+  },
+  {
+   "key": "3804722336975798288",
+   "en": "Come on!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "3804723073311031312",
+   "en": "Calm and quiet.",
+   "ro": "Calm și liniște."
+  },
+  {
+   "key": "3804723706114064400",
+   "en": "Watch your step, V.",
+   "ro": "Ai grijă pe unde calci, V."
+  }
+ ]
+}

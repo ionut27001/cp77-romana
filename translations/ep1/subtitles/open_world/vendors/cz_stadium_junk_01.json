@@ -1,0 +1,101 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\vendors\\cz_stadium_junk_01.json",
+ "entries": [
+  {
+   "key": "2950537257307320324",
+   "en": "Show me whatcha got.",
+   "ro": "Arată-mi ce poți."
+  },
+  {
+   "key": "2950540185317388288",
+   "en": "Planning to get out of here?",
+   "ro": "Plănuiești să pleci de aici?"
+  },
+  {
+   "key": "2950540949502799872",
+   "en": "Whaddaya sellin'?",
+   "ro": "Ce vinzi?"
+  },
+  {
+   "key": "2950542259753037824",
+   "en": "Gettin' outta Dogtown? Outta the biz?",
+   "ro": "Pleci din Dogtown? Din afaceri?"
+  },
+  {
+   "key": "3227588841025122304",
+   "en": "<kiroshi l=\"pln\" o=\"Nie uciekać, tylko wynieść biznes na nowy poziom. Już nie tylko dystrybucja, ale stworzenie czegoś swojego!\" t=\"Out of the biz? No, we want to take it to another level. More than distribution, we want to create something all our own!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Nie uciekać, tylko wynieść biznes na nowy poziom. Już nie tylko dystrybucja, ale stworzenie czegoś swojego!\" t=\"Să renunțăm? Nu, vrem să ducem treaba pe alt nivel. Mai mult decât distribuție, vrem să creăm ceva al nostru!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3227589352226893824",
+   "en": "<kiroshi l=\"pln\" o=\"Oto nasza oferta.\" t=\"I'll show you what we have.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Oto nasza oferta.\" t=\"Îți arăt ce avem.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3306996988055203840",
+   "en": "<kiroshi l=\"pln\" o=\"Dokończymy później. Mamy klientkę.\" t=\"Oh, we'll continue this later. We have a customer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Dokończymy później. Mamy klientkę.\" t=\"A, continuăm mai târziu. Avem o clientă.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"pln\" o=\"Dokończymy później. Mamy klientkę.\" t=\"A, continuăm mai târziu. Avem un client.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3307000047095328768",
+   "en": "<kiroshi l=\"pln\" o=\"Czego szukasz? Harmonii? Medytacji? A może tego, co wszyscy? Mamy vana pełnego przygód dla umysłu.\" t=\"Hello there, know what you're looking for? Harmony? Meditation? Something more mainstream? We have a van full of adventures for your mind.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Czego szukasz? Harmonii? Medytacji? A może tego, co wszyscy? Mamy vana pełnego przygód dla umysłu.\" t=\"Salut, știi ce cauți? Armonie? Meditație? Sau ce vrea toată lumea? Avem o dubă plină de aventuri pentru mintea ta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3307000485064552448",
+   "en": "<kiroshi l=\"pln\" o=\"Braindansy to jedna sprawa, ale mało inwazyjne wszczepy? Nieobciążające organizmu?\" t=\"Braindance is one thing, but imagine minimally invasive cyberware, reduced strain on our biology.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Braindansy to jedna sprawa, ale mało inwazyjne wszczepy? Nieobciążające organizmu?\" t=\"Braindance-ul e una, dar gândește-te la cyberware minim invaziv, care nu-ți încarcă biologia.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3332189551703003136",
+   "en": "<kiroshi l=\"pln\" o=\"Weźmy kredyt. Kończymy ze Stadionem i idziemy w legalne rozwiązania. Produkcja na szeroką skalę. Dystrybucja dodatkowo.\" t=\"We'll take out a loan. Enough of the stadium, let's go legit. Large-scale production, distribution – we call the shots.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Weźmy kredyt. Kończymy ze Stadionem i idziemy w legalne rozwiązania. Produkcja na szeroką skalę. Dystrybucja dodatkowo.\" t=\"Luăm un credit. Gata cu Stadionul, hai să intrăm în legalitate. Producție la scară largă, distribuție – noi dăm tonul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3332190218345680896",
+   "en": "<kiroshi l=\"pln\" o=\"Tylko to trzeba z głową. Powoli, żeby to nas nie zjadło.\" t=\"OK, but slow. Don't wanna bite off more than we can chew.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Tylko to trzeba z głową. Powoli, żeby to nas nie zjadło.\" t=\"Bine, dar încet. Nu ne luăm mai mult decât putem duce.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3332190679501017088",
+   "en": "<kiroshi l=\"pln\" o=\"Wracamy na rynki europejskie, a potem cały świat. Mariaż gamedevu z braindansami. To jest przyszłość.\" t=\"Yes, yes, European markets first, then the world. The marriage of video games and braindance – I'm, telling you, this is the future.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Wracamy na rynki europejskie, a potem cały świat. Mariaż gamedevu z braindansami. To jest przyszłość.\" t=\"Da, da, întâi piețele europene, apoi restul lumii. Mariajul dintre jocuri și braindance – îți zic, ăsta e viitorul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3332190916093317120",
+   "en": "<kiroshi l=\"pln\" o=\"Ale z misją. Ludzie to kruche istoty, ścigają się, jakby byli niezniszczalni. Trzeba im przypomnieć o tym, co w życiu ważne.\" t=\"But with a mission. I see people race through life like they're indestructible. We need to remind them what's important.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Ale z misją. Ludzie to kruche istoty, ścigają się, jakby byli niezniszczalni. Trzeba im przypomnieć o tym, co w życiu ważne.\" t=\"Dar cu o misiune. Oamenii aleargă prin viață de parcă ar fi de nezdruncinat. Trebuie să le amintim ce contează.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3332247252927680512",
+   "en": "Nice dream. Lofty, but… nice.",
+   "ro": "Vis frumos. Ambițios, dar... frumos."
+  },
+  {
+   "key": "3337511224317677568",
+   "en": "<kiroshi l=\"pln\" o=\"Małymi kroczkami do celu. Zdrowe ciało to luksus, na który mało kto może sobie dziś pozwolić. To jednak gra warta świeczki.\" t=\"We'll take small steps. A healthy body is a luxury few can afford these days, but it's a goal worthy of pursuing.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Małymi kroczkami do celu. Zdrowe ciało to luksus, na który mało kto może sobie dziś pozwolić. To jednak gra warta świeczki.\" t=\"Facem pași mici. Un corp sănătos e un lux pe care puțini și-l permit azi, dar e un scop care merită.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3337512045814059008",
+   "en": "<kiroshi l=\"pln\" o=\"Pewnie! Ale na razie braindansy!\" t=\"Exactly! First we change the world of braindance!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Pewnie! Ale na razie braindansy!\" t=\"Exact! Mai întâi schimbăm lumea braindance-ului!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3337514516644990976",
+   "en": "<kiroshi l=\"pln\" o=\"Braindansy dla każdego.\" t=\"We have a BD for everyone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Braindansy dla każdego.\" t=\"Avem BD-uri pentru toată lumea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3369577360894824448",
+   "en": "<kiroshi l=\"pln\" o=\"Witamy ponownie.\" t=\"Welcome back.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Witamy ponownie.\" t=\"Bine ai revenit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3369577713518350336",
+   "en": "<kiroshi l=\"pln\" o=\"Co będzie dla ciebie?\" t=\"How can we help you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"pln\" o=\"Co będzie dla ciebie?\" t=\"Cum te putem ajuta?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

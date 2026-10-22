@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_12.json",
+ "entries": [
+  {
+   "key": "2276537882486415364",
+   "en": "<kiroshi l=\"rus\" o=\"Этот хуй ещё мне угрожает! Какие-то имена называет! А если он правда знает их всех?\" t=\"Fucker's starting to threaten me! Tossing around names! And what if he really does know them, huh? What then?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Этот хуй ещё мне угрожает! Какие-то имена называет! А если он правда знает их всех?\" t=\"Nenorocitul ăsta începe să mă amenințe! Aruncă nume! Și dacă chiar îi cunoaște, ha? Atunci ce?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276537882486415376",
+   "en": "<kiroshi l=\"rus\" o=\"Может, блефует просто?\" t=\"Maybe he's just bluffing?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Может, блефует просто?\" t=\"Poate doar blufează?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276537882486415388",
+   "en": "<kiroshi l=\"rus\" o=\"«Мозет, он бьифуит?» Может, ты начнёшь уже что-то делать, чтобы его проверить?\" t=\"\\\"Maybe he's bluffing!\\\" Maybe you should make yourself fucking useful and find out!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"«Мозет, он бьифуит?» Может, ты начнёшь уже что-то делать, чтобы его проверить?\" t=\"„Poate blufează!” Poate ai putea să te apuci de treabă, dracu' să te ia, și să afli!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

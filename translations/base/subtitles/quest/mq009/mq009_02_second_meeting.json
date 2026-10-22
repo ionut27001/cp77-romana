@@ -1,0 +1,413 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq009\\mq009_02_second_meeting.json",
+ "entries": [
+  {
+   "key": "1810907847150505984",
+   "en": "Hey! I know you! We had a deal!",
+   "ro": "Hei! Te cunosc! Aveam o înțelegere!"
+  },
+  {
+   "key": "1810914493008416768",
+   "en": "Hey, Ken. Is it time for the next episode \"Daddy-Daughter Dilemmas?\"",
+   "ro": "Hei, Ken. E timpul pentru următorul episod „Daddy-Daughter Dilemmas”?"
+  },
+  {
+   "key": "1810914990402539520",
+   "en": "Sit. I'll tell you the rest.",
+   "ro": "Stai jos. Îți spun restul."
+  },
+  {
+   "key": "1810916276510363652",
+   "en": "[Sit by Ken.]",
+   "ro": "[Stai jos lângă Ken.]"
+  },
+  {
+   "key": "1810944077481349120",
+   "en": "And she had just called me... a few days before. If only I'd answered...",
+   "ro": "Și tocmai mă sunase... cu câteva zile înainte. Dacă aș fi răspuns..."
+  },
+  {
+   "key": "1810945063964872708",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1810945283041759232",
+   "en": "Fuck... OK. I mean, no one should die alone.",
+   "ro": "Futu-i... Bine. Adică, nimeni nu ar trebui să moară singur."
+  },
+  {
+   "key": "1810945305556783104",
+   "en": "What, suddenly realize your priorities ruined your life? No, this is on you. Don't drag me into it.",
+   "ro": "Ce, ți-ai dat brusc seama că prioritățile ți-au ruinat viața? Nu, asta e pe tine. Nu mă băga și pe mine în asta."
+  },
+  {
+   "key": "1810945491028905984",
+   "en": "Don't rope me into this.",
+   "ro": "Nu mă băga în asta."
+  },
+  {
+   "key": "1810950577662693376",
+   "en": "Thank you... But can we do it elsewhere? I have a place.",
+   "ro": "Mulțumesc... Dar putem să facem asta altundeva? Am eu un loc."
+  },
+  {
+   "key": "1812768080516845572",
+   "en": "Yes.",
+   "ro": "Da."
+  },
+  {
+   "key": "1812768768164597760",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1821258003523801092",
+   "en": "All right.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1821259069229338624",
+   "en": "Maybe later.",
+   "ro": "Poate mai târziu."
+  },
+  {
+   "key": "1821265006283427840",
+   "en": "Yeah, sure.",
+   "ro": "Da, sigur."
+  },
+  {
+   "key": "1821265033680621572",
+   "en": "Can't right now. In a bit of a hurry.",
+   "ro": "Nu pot acum, sunt cam pe fugă."
+  },
+  {
+   "key": "1821269297006088192",
+   "en": "And you just had to know everything about me... Had you pegged for a flake.",
+   "ro": "Și tu ai trebuit să afli totul despre mine... Te credeam neserioasă.",
+   "ro_m": "Și tu ai trebuit să afli totul despre mine... Te credeam neserios."
+  },
+  {
+   "key": "1821336626238820356",
+   "en": "I'm back. Not hurryin' off anywhere else for now.",
+   "ro": "M-am întors. Nu mă grăbesc nicăieri deocamdată."
+  },
+  {
+   "key": "1821337795577221120",
+   "en": "You're just lucky no one took your spot. Have a seat.",
+   "ro": "Ai noroc că nimeni nu ți-a luat locul. Așează-te."
+  },
+  {
+   "key": "1821339843370651652",
+   "en": "I'm back.",
+   "ro": "M-am întors."
+  },
+  {
+   "key": "1847227078311395328",
+   "en": "You, come here!",
+   "ro": "Tu, vino aici!"
+  },
+  {
+   "key": "1847242209078525952",
+   "en": "Last time, I...I wasn't quite myself. It's starting to happen more often... But that's neither here nor there.",
+   "ro": "Data trecută, n-am fost chiar eu. Se întâmplă tot mai des... Dar asta-i altă poveste."
+  },
+  {
+   "key": "1847253026389868544",
+   "en": "Our first conversation made me realize a few things. Strange as it sounds, I want to thank you for being nosy.",
+   "ro": "Prima noastră discuție m-a făcut să-mi dau seama de câteva chestii. Ciudat cum sună, dar vreau să-ți mulțumesc că ai fost curioasă.",
+   "ro_m": "Prima noastră discuție m-a făcut să-mi dau seama de câteva chestii. Ciudat cum sună, dar vreau să-ți mulțumesc că ai fost curios."
+  },
+  {
+   "key": "1847253153460502528",
+   "en": "I'd give it all just to hear her raise her voice again.",
+   "ro": "Aș da totul doar să o mai aud ridicând vocea."
+  },
+  {
+   "key": "1847264318680973312",
+   "en": "I'll be back. Maybe.",
+   "ro": "Mă mai întorc. Poate."
+  },
+  {
+   "key": "1847264685112147968",
+   "en": "I'll still be here. Maybe.",
+   "ro": "Tot aici o să fiu. Poate."
+  },
+  {
+   "key": "1847505636703322112",
+   "en": "Enid, my baby girl...",
+   "ro": "Enid, fetița mea..."
+  },
+  {
+   "key": "1847531502388887556",
+   "en": "You deserved it.",
+   "ro": "Ai meritat-o."
+  },
+  {
+   "key": "1847531765455634432",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "1847581332901445632",
+   "en": "Tell me in the car.",
+   "ro": "Zi-mi în mașină."
+  },
+  {
+   "key": "1867796902854770688",
+   "en": "Happy to be of service.",
+   "ro": "Cu plăcere."
+  },
+  {
+   "key": "1867796976389308416",
+   "en": "Got a quick tongue, don't you? Just like my Enid... You know, there was a time I thought she was incapable of using a normal tone.",
+   "ro": "Ai limbă ascuțită, nu? Ca Enid a mea... Știi, a fost o vreme când credeam că nu știe să vorbească normal."
+  },
+  {
+   "key": "1867801913336774660",
+   "en": "Enid's dead, isn't she?",
+   "ro": "Enid e moartă, nu?"
+  },
+  {
+   "key": "1867802130249400320",
+   "en": "Why'd you bite my head off before?",
+   "ro": "De ce mi-ai sărit în cap mai devreme?"
+  },
+  {
+   "key": "1867804019481362432",
+   "en": "Why'd you bite my head off before?",
+   "ro": "De ce mi-ai sărit în cap mai devreme?"
+  },
+  {
+   "key": "1867817689825394688",
+   "en": "Look, you and Enid... You remind me a lot of her.",
+   "ro": "Tu și Enid... Îmi amintești tare de ea."
+  },
+  {
+   "key": "1867817771178115072",
+   "en": "I fooled myself into thinking if you gave me any words of sympathy, forgiveness, it'd be like it came from her.",
+   "ro": "Mi-am făcut iluzii că, dacă mi-ai da o vorbă de compasiune, de iertare, ar fi ca și cum ar veni de la ea."
+  },
+  {
+   "key": "1867818370493825024",
+   "en": "Noticed a lot past tense before. She...she's dead, isn't she?",
+   "ro": "Am observat că vorbeai la trecut mai devreme. Ea... e moartă, nu?"
+  },
+  {
+   "key": "1867856189996122112",
+   "en": "She called me right after she signed her contract. Explained to me that Biotechnica had the DNA for extinct animals she wanted to resurrect.",
+   "ro": "M-a sunat imediat după ce a semnat contractul. Mi-a explicat că Biotechnica avea ADN-ul pentru animale dispărute pe care voia să le învie."
+  },
+  {
+   "key": "1867856318442487808",
+   "en": "\"Platypuses, dad! Platypuses and axolotls! You know I've dreamed of this since elementary school! Ever since you got me that book.\"",
+   "ro": "„Ornitorinci, tată! Ornitorinci și axolotli! Știi că visez la asta din școala primară! De când mi-ai dat cartea aia.”"
+  },
+  {
+   "key": "1867856431034384384",
+   "en": "I said...I said never wanted to see her again. And hung up.",
+   "ro": "Am zis... am zis că nu vreau s-o mai văd vreodată. Și-am închis."
+  },
+  {
+   "key": "1867856835415621636",
+   "en": "You're a dick.",
+   "ro": "Ești un nesimțit."
+  },
+  {
+   "key": "1867857067259969536",
+   "en": "I understand... in a way.",
+   "ro": "Înțeleg... cumva."
+  },
+  {
+   "key": "1867857134754709504",
+   "en": "Dick move, but I understand the instinct. She knew she picked the enemy over you.",
+   "ro": "Mișcare de nesimțit, da' înțeleg instinctul. Știa că a ales inamicul în locul tău."
+  },
+  {
+   "key": "1867859364547379200",
+   "en": "Thanks for the reminder all corpos are massive dickheads.",
+   "ro": "Mersi că mi-ai reamintit că toți corpoii sunt niște boi nenorociți."
+  },
+  {
+   "key": "1867859465428779008",
+   "en": "I broke off contact, not wanting to know what she did, where she lived. She betrayed the company... and, by extension, me.",
+   "ro": "Am tăiat legătura, că nu voiam să știu ce face, unde stă. A trădat compania... și, pe șleau, pe mine."
+  },
+  {
+   "key": "1867880104290140160",
+   "en": "I know...I know! I was just so furious, I lost myself... How could I know it would be the last time I'd hear her voice?",
+   "ro": "Știu... știu! Eram atât de furios că mi-am pierdut mințile... Cum să știam că va fi ultima dată când îi aud vocea?"
+  },
+  {
+   "key": "1867898013414572032",
+   "en": "That call still haunts my sleep... How could I know it would be the last time I'd hear her voice?",
+   "ro": "Apelul ăla îmi bântuie încă somnul... Cum să știam că va fi ultima dată când îi aud vocea?"
+  },
+  {
+   "key": "1867914514561482752",
+   "en": "Whoever isn't with us is against us... Classic.",
+   "ro": "Cine nu e cu noi e împotriva noastră... Clasic."
+  },
+  {
+   "key": "1867914613882601472",
+   "en": "Don't you mock me. Not right now.",
+   "ro": "Nu te lua de mine. Nu acum."
+  },
+  {
+   "key": "1867926200647401472",
+   "en": "Then, one day the CEO called me in to talk. I thought he wanted to talk strategy for the upcoming quarter...",
+   "ro": "Apoi, într-o zi, CEO-ul m-a chemat la o discuție. Credeam că vrea să vorbim despre strategia pe trimestrul viitor..."
+  },
+  {
+   "key": "1867926278879559680",
+   "en": "But as soon as I stepped in, he told me he had Enid  killed.",
+   "ro": "Dar, imediat ce-am intrat, mi-a zis că a lichidat-o pe Enid."
+  },
+  {
+   "key": "1867927744201605120",
+   "en": "Why do it, have her killed?",
+   "ro": "De ce să facă asta, s-o lichideze?"
+  },
+  {
+   "key": "1867928895991037952",
+   "en": "Competition? To test my loyalty, maybe?",
+   "ro": "Concurență? Ca să-mi testeze loialitatea, poate?"
+  },
+  {
+   "key": "1867928995228270592",
+   "en": "Enid focused on artificial tissues, regenerative work... heart muscle.",
+   "ro": "Enid se concentra pe țesuturi artificiale, muncă regenerativă... mușchi cardiac."
+  },
+  {
+   "key": "1867929105790124032",
+   "en": "If Biotechnica took it to market, Kendachi pacemaker sales... they would have plummeted.",
+   "ro": "Dacă Biotechnica ar fi scos-o pe piață, vânzările de pacemakere Kendachi... s-ar fi prăbușit."
+  },
+  {
+   "key": "1867930808123899904",
+   "en": "Jesus, Ken, I'm sorry... You fucked up, but not enough to deserve this.",
+   "ro": "Doamne, Ken, îmi pare rău... Ai dat-o-n bară, dar nu atât cât să meriți asta."
+  },
+  {
+   "key": "1867930875333427200",
+   "en": "Don't know what you expected after sellin' yourself to a corp. One day you're destroying lives, next it's yours. Circle of life.",
+   "ro": "Nu știu ce te așteptai după ce te-ai vândut unei corporații. Într-o zi distrugi vieți, a doua zi e a ta. Cercul vieții."
+  },
+  {
+   "key": "1867939937294991360",
+   "en": "Why have Enid killed?",
+   "ro": "De ce să o omoare pe Enid?"
+  },
+  {
+   "key": "1871833510218285056",
+   "en": "Your words won't change anything. Still... thank you. I mean it.",
+   "ro": "Cuvintele tale nu schimbă nimic. Totuși... mulțumesc. Pe bune."
+  },
+  {
+   "key": "1871848029808214016",
+   "en": "I didn't deserve that. I did everything for her! Everything!",
+   "ro": "Nu meritam asta. Am făcut totul pentru ea! Totul!"
+  },
+  {
+   "key": "1871848133826953216",
+   "en": "You really so fuckin' certain?",
+   "ro": "Chiar ești atât de sigură, în pula mea?",
+   "ro_m": "Chiar ești atât de sigur, în pula mea?"
+  },
+  {
+   "key": "1871848682676797440",
+   "en": "Guessin' we're at the part we agreed on. What is it you want from me for your story? Revenge?",
+   "ro": "Cred că am ajuns la partea la care ne-am înțeles. Ce vrei de la mine pentru povestea ta? Răzbunare?"
+  },
+  {
+   "key": "1871858202455031808",
+   "en": "I would've killed him.",
+   "ro": "L-aș fi omorât."
+  },
+  {
+   "key": "1871858361905692672",
+   "en": "I'd have gutted the bastard. Dont' care if his security flatlined me after.",
+   "ro": "L-aș fi spintecat pe javra aia. Nu mi-ar fi păsat dacă mă terminau gărzile lui după."
+  },
+  {
+   "key": "1871888298112958464",
+   "en": "When the initial shock passed, I thought of nothing else. I had to wipe that arrogant smirk from his face.",
+   "ro": "Când mi-a trecut primul șoc, nu mă mai gândeam la nimic altceva. Trebuia să-i șterg zâmbetul ăla arogant de pe față."
+  },
+  {
+   "key": "1871888323899539456",
+   "en": "So I threw myself at him in a rage. If only I had mantis blades instead of my bare hands...",
+   "ro": "Așa că m-am repezit la el, din furie oarbă. Dacă aveam Mantis Blades în loc de mâinile goale..."
+  },
+  {
+   "key": "1871888440501190656",
+   "en": "Finally, a good decision. Only a shame it came too late.",
+   "ro": "În sfârșit, o decizie bună. Păcat că a venit prea târziu."
+  },
+  {
+   "key": "1871888500664287232",
+   "en": "They didn't kill me, though. Would've been a bad PR move. Instead they waited – waited until I wound up here.",
+   "ro": "Totuși, nu m-au omorât. Ar fi fost o mutare proastă pentru imagine. În schimb, au așteptat, au așteptat până am ajuns aici."
+  },
+  {
+   "key": "1871895077014192128",
+   "en": "Just... kill me. That's it.",
+   "ro": "Doar... omoară-mă. Atâta tot."
+  },
+  {
+   "key": "1871905031573979136",
+   "en": "I have no strength left, and I don't want it back. I don't even have enough to pull the trigger.",
+   "ro": "Nu mi-a mai rămas nicio putere și nici nu o vreau înapoi. Nici măcar nu am destulă ca să trag trăgaciul."
+  },
+  {
+   "key": "1871921707791138816",
+   "en": "Wait, please! You can't leave me like this now!",
+   "ro": "Stai, te rog! Nu mă lăsa așa acum!"
+  },
+  {
+   "key": "1871921796509057024",
+   "en": "No? Watch me.",
+   "ro": "Nu? Vezi tu."
+  },
+  {
+   "key": "1898229783527669760",
+   "en": "Last one had quite the dramatic conclusion.",
+   "ro": "Ultimul s-a încheiat cam dramatic."
+  },
+  {
+   "key": "1898253983889997828",
+   "en": "[Offer Ken a cigarette.]",
+   "ro": "[Oferă-i lui Ken o țigară.]"
+  },
+  {
+   "key": "1898254042325041152",
+   "en": "I don't smoke.",
+   "ro": "Nu fumez."
+  },
+  {
+   "key": "1898254155856461824",
+   "en": "Here. To cool your nerves?",
+   "ro": "Poftim. Ca să-ți calmezi nervii?"
+  },
+  {
+   "key": "1898254277088624640",
+   "en": "Out of luck. Don't smoke.",
+   "ro": "Ai ghinion. Nu fumez."
+  },
+  {
+   "key": "1898255140913922048",
+   "en": "Got a cigarette? It's a perfect day for a puff.",
+   "ro": "Ai o țigară? Ce zi bună de fumat."
+  },
+  {
+   "key": "1898262313324756992",
+   "en": "For our history lesson.",
+   "ro": "Pentru lecția noastră de istorie."
+  },
+  {
+   "key": "1898264426046013440",
+   "en": "New day, new disappointments... It's fine.",
+   "ro": "Zi nouă, dezamăgiri noi... E în regulă."
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_04_ripperdoc.json",
+ "entries": [
+  {
+   "key": "1009718730310311936",
+   "en": "Kiroshi optics. Best I've got and should be about right under the circumstances.",
+   "ro": "Optică Kiroshi. Cea mai bună pe care o am. Ar trebui să fie ok, pe cât se poate în situația asta."
+  },
+  {
+   "key": "1009722100668456980",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1147127188256489472",
+   "en": "Need some new kit – but tools, not toys, Vik. Time I bumped up my sights and got a grip.",
+   "ro": "Îmi trebuie echipament nou – dar unelte, nu jucării, Vik. Gata, e timpul să-mi ridic ținta și să-mi revin."
+  },
+  {
+   "key": "1147663229031034880",
+   "en": "Looking to upgrade.",
+   "ro": "Vreau un upgrade."
+  },
+  {
+   "key": "1151561049559543808",
+   "en": "Chair, please. Siddown, relax.",
+   "ro": "Pe scaun, te rog. Hai, relaxează-te."
+  },
+  {
+   "key": "1163169593719197696",
+   "en": "The Dexter DeShawn? Heheh, well, that is something. But lemme guess – hasn't paid you yet.",
+   "ro": "Dexter DeShawn? Heheh, asta-i ceva. Dar lasă-mă să ghicesc – nu te-a plătit încă."
+  },
+  {
+   "key": "1163174058924904448",
+   "en": "Pay you once the job's done.",
+   "ro": "Te plătesc când terminăm treaba."
+  },
+  {
+   "key": "1163174354791108608",
+   "en": "Quit cryin', Vik, I'll bring you the eddies later, with interest. You know I will.",
+   "en_m": "Quit cryin', Vik. I'll bring you the eddies later. With interest. You know I will.",
+   "ro": "Lasă plânsul, Vik, îți aduc eddies-urile mai târziu, cu dobândă. Știi că o fac."
+  },
+  {
+   "key": "1174774624411668480",
+   "en": "Vik, shit's gettin' real. Got a job from Dex DeShawn – hittin' the major leagues. Need tech that can perform.",
+   "ro": "Vik, se încinge treaba. Am prins o treabă de la Dex DeShawn – intru în liga mare. Îmi trebuie tech care să performeze."
+  },
+  {
+   "key": "1174777272057679872",
+   "en": "Vik... this job's my golden ticket. I'm talkin' life changing. Without the right tech, I…",
+   "en_m": "Vik, this job's my golden ticket. I'm talkin' life changin'. Without gettin' the right tech, I…",
+   "ro": "Vik... treaba asta e biletul meu de aur. Îmi schimbă viața, serios. Fără tech-ul potrivit, eu…",
+   "ro_m": "Vik, treaba asta e biletul meu de aur. Vorbesc de schimbat viața. Fără tech-ul potrivit, eu…"
+  },
+  {
+   "key": "1174777680029241344",
+   "en": "Take my car in exchange.",
+   "ro": "Ia mașina mea în schimb."
+  },
+  {
+   "key": "1174814694711709696",
+   "en": "MK1, like I said. Decent enough scanner. Displays data on your cornea. Cherry on the top's a built-in external lens disruptor.",
+   "ro": "MK1, cum am zis. Scaner decent. Afișează date pe cornee. Cireașa de pe tort e un disruptor de lentilă externă integrat."
+  },
+  {
+   "key": "1174814808226353168",
+   "en": "Hmm... This should do the trick. Talks to Kiroshi tech, too.",
+   "ro": "Hmm... Ar trebui să meargă. Se înțelege și cu tech-ul Kiroshi."
+  },
+  {
+   "key": "1174821476213411840",
+   "en": "OK, let's test this, see the magic in action. Linking you in.",
+   "ro": "OK, hai să testăm, să vedem magia în acțiune. Te conectez."
+  },
+  {
+   "key": "1174821619943821328",
+   "en": "I'm ready. Carve away.",
+   "ro": "Sunt pregătită. Taie.",
+   "ro_m": "Sunt pregătit. Taie."
+  },
+  {
+   "key": "1174830077053194240",
+   "en": "Better than ever.",
+   "ro": "Mai bine ca niciodată."
+  },
+  {
+   "key": "1174830429408284672",
+   "en": "Whoa, this is fantastic, Vik.",
+   "ro": "Wow, e tare, Vik."
+  },
+  {
+   "key": "1174830470797676544",
+   "en": "Now, a bit of anesthetic and I can start cutting.",
+   "ro": "Acum, puțin anestezic și încep să tai."
+  },
+  {
+   "key": "1174831259645595648",
+   "en": "Haha, beautiful. Time for the scanner.",
+   "ro": "Haha, frumos. Hai cu scanerul."
+  },
+  {
+   "key": "1174832309697990656",
+   "en": "Feels like I'm at the dentist's.",
+   "ro": "Parcă-s la dentist."
+  },
+  {
+   "key": "1174832779208380416",
+   "en": "Play by play, though? Really, doc? Makes you sound like a dentist – always goin' on and on…",
+   "ro": "Pas cu pas, totuși? Serios, doc? Suni ca un dentist – tot vorbești și vorbești…"
+  },
+  {
+   "key": "1174833521902178304",
+   "en": "Don't be mean, now. 'Member, I'm old. I got a shaky, 'ganic hand. Could slip.",
+   "ro": "Nu fi rău acum. Să știi, sunt bătrân. Am o mână ganică, tremurată. Ar putea să alunece."
+  },
+  {
+   "key": "1174833797635723264",
+   "en": "Feel anything?",
+   "ro": "Simți ceva?"
+  },
+  {
+   "key": "1174835892422135808",
+   "en": "Now draw your weapon. You should see your ammo count and a brand new sight.",
+   "ro": "Acum scoate arma. Ar trebui să vezi muniția și țintarul nou."
+  },
+  {
+   "key": "1174836816628633600",
+   "en": "Thanks, Vik.",
+   "ro": "Mulțumesc, Vik."
+  },
+  {
+   "key": "1174837211765624832",
+   "en": "Shit, Viktor, not bad. I dunno what to say.",
+   "ro": "Căcat, Viktor, nu-i rău. Nu știu ce să zic."
+  },
+  {
+   "key": "1174837565764882432",
+   "en": "Say you'll take this and remember the dosage. Two whiffs now and another two in an hour.",
+   "ro": "Zi că o iei și ține minte doza. Două fumuri acum, și alte două peste o oră."
+  },
+  {
+   "key": "1174838562415398912",
+   "en": "[Stand] Thanks, Vik. You're the best.",
+   "ro": "[Ridică-te] Mulțumesc, Vik. Ești cel mai bun."
+  },
+  {
+   "key": "1174838871955034112",
+   "en": "What's this?",
+   "ro": "Ce-i asta?"
+  },
+  {
+   "key": "1174839369164607488",
+   "en": "What'm I lookin' at?",
+   "ro": "La ce mă uit?"
+  },
+  {
+   "key": "1174839691874357248",
+   "en": "You're the best, Vik. I owe you.",
+   "ro": "Ești cel mai bun, Vik. Îți rămân datoare.",
+   "ro_m": "Ești cel mai bun, Vik. Îți rămân dator."
+  },
+  {
+   "key": "1174839959168962560",
+   "en": "A mild stim. Should boost neurotransmission in the short term and muffle some of the side effects while the implant takes.",
+   "ro": "Un stim blând. Ar trebui să-ți mărească neurotransmisia pe moment și să-ți atenueze din efecte până se prinde implantul."
+  },
+  {
+   "key": "1174840999440240640",
+   "en": "Hahahaha… Go on, kid. Show 'em what you're made of.",
+   "ro": "Hai, puștoaico. Arată-le din ce lemn ești.",
+   "ro_m": "Hai, puștiule. Arată-le din ce lemn ești."
+  },
+  {
+   "key": "1174905018360016896",
+   "en": "Viky, spry as ever, you old ripper. Good to see you.",
+   "en_m": "Viky, spry as ever, you old ripper. It's good to see you.",
+   "ro": "Viky, sprinten ca întotdeauna, bătrânule ripper. Bine că te văd."
+  },
+  {
+   "key": "1174906652108533760",
+   "en": "Good to see you too, V. It's been a while. To what do I owe the pleasure today?",
+   "ro": "Bine că te văd și eu, V. A trecut ceva timp. Ce te aduce pe la mine azi?"
+  },
+  {
+   "key": "1174912286149324800",
+   "en": "Eeexcellent. Let's do this.",
+   "ro": "Eeeexcelent. Hai să facem asta."
+  },
+  {
+   "key": "1174912586092392448",
+   "en": "Heh. Lay that major league arm of yours right here.",
+   "ro": "Heh. Pune brațul ăla de liga mare aici."
+  },
+  {
+   "key": "1176795111177637888",
+   "en": "It might take you a few seconds to adjust, but… first time's rarely the charm, with anything, really. Scanner should eventually sync with your thought processes an' read your intentions.",
+   "ro": "S-ar putea să-ți ia câteva secunde să te prinzi, dar… prima dată rareori e cea bună, cu orice, de fapt. Scanerul ar trebui să se sincronizeze până la urmă cu gândurile tale și să-ți citească intențiile."
+  },
+  {
+   "key": "1176820016082374656",
+   "en": "Heheheheh. Really? Now? Finally?",
+   "ro": "Heheheheh. Serios? Acum? În sfârșit?"
+  },
+  {
+   "key": "1185138270639017984",
+   "en": "And once you hit the big leagues, don't forget where you came from.",
+   "ro": "Iar când intri în liga mare, nu uita de unde ai plecat."
+  },
+  {
+   "key": "1193787957690273812",
+   "en": "[Place arm]",
+   "ro": "[Pune brațul]"
+  },
+  {
+   "key": "1193789324848828416",
+   "en": "Just like that. Thanks.",
+   "ro": "Exact așa. Mulțumesc."
+  },
+  {
+   "key": "1193858959724023808",
+   "en": "Heheheheh. It oughta work like a charm…",
+   "ro": "Heheheheh. Ar trebui să meargă ca uns…"
+  },
+  {
+   "key": "1193974764791336960",
+   "en": "Lights out for a minute, all right?",
+   "ro": "Stingem lumina un minut, bine?"
+  },
+  {
+   "key": "1193977745397977088",
+   "en": "You might feel a little discomfort at first. Blurred vision, low contrast, glitches…",
+   "ro": "S-ar putea să simți un pic de disconfort la început. Vedere încețoșată, contrast scăzut, glitch-uri…"
+  },
+  {
+   "key": "1196688739576516608",
+   "en": "Malone drops his guard. Hah – you can see the fatigue on him. It's-it's-it's really startin' to weigh him down, startin' to take over!",
+   "ro": "Malone își lasă garda. Hah – i se vede oboseala. Începe-începe să-l apese, începe să preia controlul!"
+  },
+  {
+   "key": "1196692848501264384",
+   "en": "Oh-ho-hoh! That musta hurt! Wow! Malone's in the corner, he's lookin' for a way out. Just-just lookin' for a breather, here! Tha-- That was the hardest punch of the round, no doubt!",
+   "ro": "Oh-ho-hoh! Aia trebuie să fi durut! Wow! Malone e în colț, caută o ieșire. Doar caută o pauză, aici! Aia-- Aia a fost cea mai dură lovitură a rundei, fără îndoială!"
+  },
+  {
+   "key": "1196694834453876736",
+   "en": "Malone is on the ropes! Malone is in trouble! And... there's the end of the round! Saved by the bell!",
+   "ro": "Malone e pe corzi! Malone e în dificultate! Și... s-a terminat runda! Salvat de clopoțel!"
+  },
+  {
+   "key": "1196695414710669312",
+   "en": "Hernandez keepin' him cornered with excellent footwork, those Zetatech calves of his just shining!",
+   "ro": "Hernandez îl ține în colț cu footwork excelent, vițeii ăia Zetatech strălucind!"
+  },
+  {
+   "key": "1196698551362195456",
+   "en": "Hernandez pounces on the chance, comin' in with a couple of hooks! Gainin' the upper hand pretty darn quickly!",
+   "ro": "Hernandez profită de ocazie, intră cu câteva croșee! Își ia avansul destul de repede!"
+  },
+  {
+   "key": "1214187510669447168",
+   "en": "Now jack in.",
+   "ro": "Acum conectează-te."
+  },
+  {
+   "key": "1215693690470338560",
+   "en": "That's it?",
+   "ro": "Asta e tot?"
+  },
+  {
+   "key": "1215694098475454464",
+   "en": "What about the virus?",
+   "ro": "Dar virusul?"
+  },
+  {
+   "key": "1218472226215727104",
+   "en": "You peruse and choose while I scan. See what's goin' on inside.",
+   "ro": "Tu te uiți și alegi, eu scanez. Să vedem ce se întâmplă înăuntru."
+  },
+  {
+   "key": "1218475025678766080",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1222464861620178944",
+   "en": "Well, how's it look? Feel all right to you?",
+   "ro": "Ei, cum arată? Te simți bine?"
+  },
+  {
+   "key": "1222787449716674560",
+   "en": "Heard of Dexter DeShawn?",
+   "ro": "Ai auzit de Dexter DeShawn?"
+  },
+  {
+   "key": "1244449902516539392",
+   "en": "[Draw weapon]",
+   "ro": "[Scoate arma]"
+  },
+  {
+   "key": "1252936675483750400",
+   "en": "Kiroshi! That's top-shelf tech.",
+   "ro": "Kiroshi! E tehnologie de top."
+  },
+  {
+   "key": "1252941575622004736",
+   "en": "What's new in the life of Viktor?",
+   "ro": "Ce mai e nou în viața lui Viktor?"
+  },
+  {
+   "key": "1265975407413596160",
+   "en": "Nothing.",
+   "ro": "Nimic."
+  },
+  {
+   "key": "1344252293627924480",
+   "en": "OK, let's test this, see the magic in action. Linking you in.",
+   "ro": "OK, hai să testăm, să vedem magia în acțiune. Te conectez."
+  },
+  {
+   "key": "1344252293644701704",
+   "en": "You might feel a little discomfort at first. Blurred vision, low contrast, glitches…",
+   "ro": "S-ar putea să simți un pic de disconfort la început. Vedere încețoșată, contrast scăzut, glitch-uri…"
+  },
+  {
+   "key": "1344252293644701720",
+   "en": "Well, how's it look? Feel all right to you?",
+   "ro": "Ei, cum arată? Te simți bine?"
+  },
+  {
+   "key": "1379332848001757184",
+   "en": "Just like that. Thanks.",
+   "ro": "Exact așa. Mulțumesc."
+  },
+  {
+   "key": "1379332848001757200",
+   "en": "Now, a bit of anesthetic and I can start cutting.",
+   "ro": "Acum, puțin anestezic și încep să tai."
+  },
+  {
+   "key": "1379332848001757216",
+   "en": "Feel anything?",
+   "ro": "Simți ceva?"
+  },
+  {
+   "key": "1379352138713149440",
+   "en": "Thanks again, Vik, you're the best. I owe you.",
+   "ro": "Mersi din nou, Vik, ești cea mai bună. Îți rămân datoare.",
+   "ro_m": "Mersi din nou, Vik, ești cel mai bun. Îți rămân dator."
+  },
+  {
+   "key": "1379352138729926672",
+   "en": "Hahahaha… Go on, kid. Show 'em what you're made of.",
+   "ro": "Hai, puștoaico. Arată-le din ce lemn ești.",
+   "ro_m": "Hai, puștiule. Arată-le din ce lemn ești."
+  },
+  {
+   "key": "1379352138729926688",
+   "en": "And once you hit the big leagues, don't forget where you came from.",
+   "ro": "Iar când intri în liga mare, nu uita de unde ai plecat."
+  },
+  {
+   "key": "1631285549550465024",
+   "en": "Last gig – had to jack into a client's neurosocket… Think I mighta gotten spiked.",
+   "ro": "Ultimul gig – a trebuit să mă conectez la neurosocket-ul unui client… Cred că am fost infectată.",
+   "ro_m": "Ultimul gig – a trebuit să mă conectez la neurosocket-ul unui client… Cred că am fost infectat."
+  },
+  {
+   "key": "1631286212502155264",
+   "en": "Experiencing migraines, nausea, hypersensitivity to bright lights?",
+   "ro": "Ai migrene, greață, te deranjează lumina puternică?"
+  },
+  {
+   "key": "1631286612957523968",
+   "en": "Whole kit and kaboodle.",
+   "ro": "Tot tacâmul."
+  },
+  {
+   "key": "1631288185737637888",
+   "en": "All right, kid. We'll sort you out in a flash. 'Sides that, how're things?",
+   "ro": "Bine, puștiule. Te punem pe picioare imediat. Dar altfel, cum mai ești?"
+  },
+  {
+   "key": "1631294115644633088",
+   "en": "Met a new fixer, gave me a job. Name's Dexter DeShawn.",
+   "en_m": "Met a new fixer, he gave me a job. Name's Dexter DeShawn.",
+   "ro": "Am cunoscut un fixer nou, mi-a dat o treabă. Îl cheamă Dexter DeShawn."
+  },
+  {
+   "key": "1631295213931524096",
+   "en": "Known quantity, from the Afterlife. No denying you're movin' up…",
+   "ro": "Ești o valoare sigură, de la Afterlife. Nu se poate nega că urci…"
+  },
+  {
+   "key": "1631296505978482688",
+   "en": "But? Somethin' you're not tellin' me, Vik?",
+   "en_m": "But? Something you're not tellin' me, Vik?",
+   "ro": "Dar? Ce nu-mi spui, Vik?"
+  },
+  {
+   "key": "1631297470282526720",
+   "en": "Keep your guard up, that's all. I've heard some things about Dex. He's not as \"chill\" as he makes himself out to be.",
+   "ro": "Fii pe fază, atât. Am auzit câteva lucruri despre Dex. Nu e chiar atât de liniștit cum se dă."
+  },
+  {
+   "key": "1631310607782178816",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1631310853568393216",
+   "en": "Last time, you hear?",
+   "ro": "Ultima oară, ai înțeles?"
+  },
+  {
+   "key": "1631311699475623936",
+   "en": "My wheels – give 'em to you as collateral. Fifty-eight Quadra Turbo-R series.",
+   "ro": "Mașina mea – ți-o dau ca garanție. Quadra Turbo-R din '58."
+  },
+  {
+   "key": "1631314189701017600",
+   "en": "Hmm... Fifty-eight, you say? Black?",
+   "ro": "Hmm... din '58, zici? Neagră?"
+  },
+  {
+   "key": "1631314577858686976",
+   "en": "As a moonless night.",
+   "ro": "Ca o noapte fără lună."
+  },
+  {
+   "key": "1631314805122854912",
+   "en": "Don't have the heart to take your baby. Pay me when the job's done.",
+   "ro": "N-am inima să-ți iau copila. Plătește-mi când termini treaba."
+  },
+  {
+   "key": "1631332891968335872",
+   "en": "Same as always – don't feel a thing.",
+   "ro": "Ca întotdeauna – nu simt nimic."
+  },
+  {
+   "key": "1631333382030815232",
+   "en": "Y'ask me that every time, you know. Not as if things're gonna be any different today.",
+   "en_m": "Y'ask me that every time, you know? Not as if things're gonna be any different today.",
+   "ro": "Mă întrebi asta de fiecare dată, știi? Nu că ar fi altfel azi."
+  },
+  {
+   "key": "1631333628236460032",
+   "en": "Sure thing, kid, I mean… not like there's any risk of a stroke or paralysis. But... heh, what do I know? I'm just a doctor…",
+   "ro": "Sigur, puștiule, adică… nu că ar fi vreun risc de AVC sau paralizie. Dar... heh, ce știu eu? Sunt doar un doctor…"
+  },
+  {
+   "key": "1631334617823768576",
+   "en": "That's what I thought.",
+   "ro": "Așa credeam."
+  },
+  {
+   "key": "1631336592334319616",
+   "en": "Seen more dramatic improvements before…",
+   "ro": "Am mai văzut rezultate mai spectaculoase…"
+  },
+  {
+   "key": "1631336592334319632",
+   "en": "Patience, kid. Give it a minute. Time for the scanner.",
+   "ro": "Răbdare, puștiule. Dă-i un minut. Acum vine scanerul."
+  },
+  {
+   "key": "1631340820847063040",
+   "en": "How 'bout the neurovirus, from the last job? Can ya check it?",
+   "ro": "Dar neurovirusul de la ultimul job? Poți să-l verifici?"
+  },
+  {
+   "key": "1631359882700451840",
+   "en": "Done and gone while we were puttin' in your implant. Ran a full sweep on your soft and circuits. Zapped the critter. You're certified bug-free.",
+   "ro": "Dispărut de tot cât ți-am pus implantul. Am dat o scanare completă pe soft și circuite. Am electrocutat creatura. Ești certificată, fără bug-uri.",
+   "ro_m": "Dispărut de tot cât ți-am pus implantul. Am dat o scanare completă pe soft și circuite. Am electrocutat creatura. Ești certificat, fără bug-uri."
+  },
+  {
+   "key": "1631362225118572544",
+   "en": "In layman's terms, any surveillance cam'll capture your face as a blur. Now just remember, your body'll still show up as crystal clear.",
+   "ro": "Pe șleau, orice cameră de supraveghere o să-ți vadă fața ca o pată neclară. Dar ține minte, corpul tău o să apară tot cristal-clar."
+  },
+  {
+   "key": "1782279395901108224",
+   "en": "So… what's new in the life of Viktor Vektor?",
+   "ro": "Deci… ce mai e nou în viața lui Viktor Vektor?"
+  },
+  {
+   "key": "1782283050683396096",
+   "en": "Heh. Er, if I'm bein' honest? Not much. An' that's fine with me.",
+   "ro": "Heh. Păi, să fiu sincer? Nu prea multe. Și-mi convine așa."
+  },
+  {
+   "key": "1782283673403322368",
+   "en": "I used to live in a world where all that mattered was who's who, what's what and how's why.",
+   "ro": "Trăiam într-o lume în care conta doar cine e cine, ce e ce și cum și de ce."
+  },
+  {
+   "key": "1782286508014628864",
+   "en": "And what happened?",
+   "ro": "Și ce s-a întâmplat?"
+  },
+  {
+   "key": "1782286793260855296",
+   "en": "One day I just dropped it and never looked back. I'll never be a legend in this town... but been sleeping nights ever since.",
+   "ro": "Într-o zi am lăsat totul și n-am mai privit înapoi. N-o să ajung niciodată o legendă în orașul ăsta... dar de atunci dorm noaptea."
+  },
+  {
+   "key": "1782294805472014336",
+   "en": "Kiroshi? Whoa! Vik, nothing tops that on the market.",
+   "en_m": "Kiroshi? Whoa! Vik, nothin' tops that on the market.",
+   "ro": "Kiroshi? Whoa! Vik, nimic nu bate asta pe piață."
+  },
+  {
+   "key": "1782295591518138368",
+   "en": "Hm. Sounds like it could come in handy, then.",
+   "ro": "Hm. Pare că ne-ar prinde bine, atunci."
+  },
+  {
+   "key": "1782296264519380992",
+   "en": "Gave you my word I'd pay you back, but this... might be too rich for my blood.",
+   "ro": "Ți-am dat cuvânt că te plătesc, dar asta... poate îmi depășește buzunarul."
+  },
+  {
+   "key": "1782296587162021888",
+   "en": "We'll work something out. Right now, I'm just out to make sure you get back in one piece – eddies in hand.",
+   "ro": "Ne descurcăm noi cumva. Acum vreau doar să mă asigur că te întorci întreagă – cu eddies în mână.",
+   "ro_m": "Ne descurcăm noi cumva. Acum vreau doar să mă asigur că te întorci întreg – cu eddies în mână."
+  },
+  {
+   "key": "1993925586454507520",
+   "en": "I also injected an NCPD file search.",
+   "ro": "Am strecurat și o căutare prin fișierele NCPD."
+  },
+  {
+   "key": "1993925981423726592",
+   "en": "Run into any ne'er-do-wells, heh, you'll know exactly what they ne'er-did-well.",
+   "ro": "Dacă dai de vreun nemernic, heh, o să știi exact ce nemernicie a făcut."
+  },
+  {
+   "key": "2018698482083098624",
+   "en": "Not yet, but I'm good for the eddies anyway. Gotta invest in not fuckin' up this gig.",
+   "en_m": "Not yet, but I'm good for the eddies anyway. I gotta invest in not fuckin' up this gig.",
+   "ro": "Încă nu, dar oricum am eddies. Nu vreau să dau în bară gig-ul ăsta."
+  },
+  {
+   "key": "2018700263504670720",
+   "en": "Got the money.",
+   "ro": "Am banii."
+  },
+  {
+   "key": "2044575130807132160",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "2105509637584019460",
+   "en": "[Open] Hey, Viktor.",
+   "ro": "[Deschide] Hei, Viktor."
+  }
+ ]
+}

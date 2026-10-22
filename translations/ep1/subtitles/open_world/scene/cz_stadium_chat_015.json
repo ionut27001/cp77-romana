@@ -1,0 +1,40 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\cz_stadium_chat_015.json",
+ "entries": [
+  {
+   "key": "3265124318360182784",
+   "en": "<kiroshi l=\"mex\" o=\"¿Un rifle soviético? A huevo. Lo mismo atraviesa cemento armado que un chaleco de kevlar.\" t=\"A Soviet rifle? Great choice. It will go through reinforced concrete like butter, not to mention a kevlar jacket.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Un rifle soviético? A huevo. Lo mismo atraviesa cemento armado que un chaleco de kevlar.\" t=\"O pușcă sovietică? Alegere excelentă. Trece prin beton armat ca prin unt, ca să nu mai zic de o geacă de kevlar.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3288297879030374400",
+   "en": "<kiroshi l=\"mex\" o=\"Los servicios profesionales valen extra.\" t=\"Professional services cost extra.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Los servicios profesionales valen extra.\" t=\"Serviciile profesionale costă în plus.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3385554126338695168",
+   "en": "All you need to do now is find me someone who knows how to use it.",
+   "ro": "Acum trebuie doar să-mi găsești pe cineva care s-o știe folosi."
+  },
+  {
+   "key": "3386797673956155392",
+   "en": "Thirty percent and my gratitude in advance. The rest after the job’s done. I will send the target deets using an encrypted connection 24 hours before the op.",
+   "ro": "Treizeci la sută și recunoștința mea în avans. Restul după ce treaba e gata. O să-ți trimit detaliile țintei pe o conexiune criptată, cu 24 de ore înainte de operațiune."
+  },
+  {
+   "key": "3386804945906212864",
+   "en": "<kiroshi l=\"mex\" o=\"Tu gratitud es lo único que me importa.\" t=\"Your gratitude is what really matters to me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Tu gratitud es lo único que me importa.\" t=\"Recunoștința ta e singurul lucru care mă interesează.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3386812113032224768",
+   "en": "<kiroshi l=\"mex\" o=\"¿Cuántas balas para el rifle?\" t=\"How many bullets for the rifle?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Cuántas balas para el rifle?\" t=\"Câte gloanțe pentru pușcă?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "3386813375349956608",
+   "en": "One.",
+   "ro": "Unul."
+  }
+ ]
+}

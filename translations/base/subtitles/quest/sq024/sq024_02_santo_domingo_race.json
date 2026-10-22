@@ -1,0 +1,353 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq024\\sq024_02_santo_domingo_race.json",
+ "entries": [
+  {
+   "key": "1395314777929031680",
+   "en": "Start your stallions!",
+   "ro": "Scoateți caii din grajd!"
+  },
+  {
+   "key": "1396727471657242624",
+   "en": "Oh yeah, I like that!",
+   "ro": "Aaa, da, asta-mi place!"
+  },
+  {
+   "key": "1396727555526545408",
+   "en": "Let's count it down!",
+   "ro": "Hai să facem numărătoarea!"
+  },
+  {
+   "key": "1396727765778616320",
+   "en": "Three!",
+   "ro": "Trei!"
+  },
+  {
+   "key": "1396727869260484608",
+   "en": "Two!",
+   "ro": "Doi!"
+  },
+  {
+   "key": "1396727960947970048",
+   "en": "One!",
+   "ro": "Unu!"
+  },
+  {
+   "key": "1396728146621419520",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1396729154026131456",
+   "en": "C'mon! I wanna smell that CHOOH-two burn!",
+   "ro": "Hai! Vreau să miros cum arde CHOOH-2!"
+  },
+  {
+   "key": "1396743396691333120",
+   "en": "What the hell was that?! Maelstrom?!",
+   "ro": "Ce naiba a fost asta?! Maelstrom?!"
+  },
+  {
+   "key": "1396751018211463168",
+   "en": "Gotta crash 'em out before they target us.",
+   "ro": "Trebuie să-i eliminăm înainte să ne ia în vizor."
+  },
+  {
+   "key": "1396751571272388608",
+   "en": "I'll take that.",
+   "ro": "Iau eu asta."
+  },
+  {
+   "key": "1405164822234451968",
+   "en": "Let 'em roar, make my ears bleed!",
+   "ro": "Lăsați-le să urle, să-mi spargă urechile!"
+  },
+  {
+   "key": "1753232244267294720",
+   "en": "Hey, V. Gonna take a look under the hood before we start. See if all's OK.",
+   "ro": "Hei, V. O să mă uit sub capotă înainte să începem. Să văd dacă totul e OK."
+  },
+  {
+   "key": "1770605228988571648",
+   "en": "Claire.",
+   "ro": "Claire."
+  },
+  {
+   "key": "1783637609634865156",
+   "en": "Big turn comin'! Cut it sharp!",
+   "ro": "Vine o curbă strânsă! Taie scurt!"
+  },
+  {
+   "key": "1783637609668419588",
+   "en": "Watch our back. They're movin' to pass.",
+   "ro": "Păzește-ne spatele. Încearcă să ne depășească."
+  },
+  {
+   "key": "1783637609701974020",
+   "en": "One up front – see 'im? Luigi. After him!",
+   "ro": "Unul în față – îl vezi? Luigi. După el!"
+  },
+  {
+   "key": "1783637609735528452",
+   "en": "Outta seeds in this spitter! Reloading!",
+   "ro": "Am rămas fără gloanțe la jucăria asta! Reîncarc!"
+  },
+  {
+   "key": "1783637609752305668",
+   "en": "Another one gnawin' tarmac!",
+   "ro": "Încă unul a mușcat asfaltul!"
+  },
+  {
+   "key": "1783637609769082884",
+   "en": "We can win this, V!",
+   "ro": "Putem să câștigăm, V!"
+  },
+  {
+   "key": "1832895045998485504",
+   "en": "V! Ya ready for the next race?",
+   "ro": "V! Ești gata pentru următoarea cursă?"
+  },
+  {
+   "key": "1832895208989138948",
+   "en": "We'll use mine.",
+   "ro": "Mergem cu a mea."
+  },
+  {
+   "key": "1832895308293480448",
+   "en": "Let's take Beast.",
+   "ro": "Hai să luăm Beast."
+  },
+  {
+   "key": "1832896353430151168",
+   "en": "We'll take my ride.",
+   "ro": "Luăm mașina mea."
+  },
+  {
+   "key": "1832896361751650304",
+   "en": "Beast – time to unleash her.",
+   "en_m": "Beast – 's time to unleash her.",
+   "ro": "Beast – timpul să o dezlănțuim."
+  },
+  {
+   "key": "1832897155045531648",
+   "en": "Course, yours it is.",
+   "ro": "Sigur, a ta e."
+  },
+  {
+   "key": "1832897382242590720",
+   "en": "Well said.",
+   "ro": "Bine zis."
+  },
+  {
+   "key": "1832897542733438976",
+   "en": "Meet there, yeah? Rancho?",
+   "en_m": "Meet there, yeah, Rancho?",
+   "ro": "Ne vedem acolo, da? Rancho?",
+   "ro_m": "Ne vedem acolo, da, Rancho?"
+  },
+  {
+   "key": "1859061984764497920",
+   "en": "Already here – ready and waiting.",
+   "ro": "Sunt deja aici, stau pe poziții."
+  },
+  {
+   "key": "1859063004148142080",
+   "en": "Wanna use your own ride or am I bringin' Beast?",
+   "ro": "Vrei să folosești mașina ta sau aduc Beast?"
+  },
+  {
+   "key": "1859066264699408384",
+   "en": "Can't keep a spit-shined animal like that caged up in your garage.",
+   "ro": "Nu poți ține o fiară lustruită ca asta închisă în garajul tău."
+  },
+  {
+   "key": "1859068580525641728",
+   "en": "Feels more natural to me, you get it.",
+   "ro": "Mi se pare mai natural, înțelegi."
+  },
+  {
+   "key": "1859069148384071680",
+   "en": "Be right there. See you then.",
+   "ro": "Vin imediat. Ne vedem atunci."
+  },
+  {
+   "key": "1859071644296941568",
+   "en": "But stay close, just in case.",
+   "ro": "Dar stai aproape, doar în caz de ceva."
+  },
+  {
+   "key": "1859073056250662912",
+   "en": "How d'you see our chances?",
+   "ro": "Cum vezi șansele noastre?"
+  },
+  {
+   "key": "1859073056250662928",
+   "en": "Got a bad feeling about this…",
+   "ro": "Am o senzație proastă cu asta…"
+  },
+  {
+   "key": "1859073056250662944",
+   "en": "Got no fear at all?",
+   "ro": "Nu ți-e frică deloc?"
+  },
+  {
+   "key": "1859073058482032644",
+   "en": "Our chances – how do you see 'em?",
+   "ro": "Șansele noastre – cum le vezi?"
+  },
+  {
+   "key": "1859073060428189696",
+   "en": "Well, s'gonna be tough to beat out Luigi. And he's got Margot ridin' gunner today…",
+   "ro": "Păi, o să fie greu să-l batem pe Luigi. Și azi o are pe Margot ca gunner…"
+  },
+  {
+   "key": "1859073062357569536",
+   "en": "Right, so?",
+   "ro": "Bine, și?"
+  },
+  {
+   "key": "1859073064437944320",
+   "en": "Girl loves poppin' flats. But don't get hung up on it, let it mess with your head.",
+   "ro": "Fetei îi place să spargă cauciucuri. Dar nu te agăța de asta, să nu te ia pe sub piele."
+  },
+  {
+   "key": "1859073066618982400",
+   "en": "Just focus on the route, let me handle the entertainment.",
+   "ro": "Tu fii cu ochii pe traseu, distracția las-o pe seama mea."
+  },
+  {
+   "key": "1859073070377078788",
+   "en": "This race's givin' me all the wrong vibes…",
+   "ro": "Cursa asta nu-mi miroase deloc bine…"
+  },
+  {
+   "key": "1859073072407121920",
+   "en": "Why's that?",
+   "ro": "De ce?"
+  },
+  {
+   "key": "1859073074504273920",
+   "en": "Got 6th Street, The Mox... gangs're well repped.",
+   "ro": "Avem 6th Street, Mox... gașcile sunt bine reprezentate."
+  },
+  {
+   "key": "1859073076416876544",
+   "en": "Just a matter of when a temper goes nuclear.",
+   "ro": "E doar o chestiune de timp până când cineva își pierde nervii."
+  },
+  {
+   "key": "1859073080795729924",
+   "en": "Not worried this'll get you killed?",
+   "ro": "Nu-ți faci griji că asta o să te omoare?"
+  },
+  {
+   "key": "1859073082808995840",
+   "en": "What, today, the race – why?",
+   "ro": "Ce, azi, cursa – de ce?"
+  },
+  {
+   "key": "1859073084906147840",
+   "en": "Not askin' about just today. Could be, though, or the next one, one after that…",
+   "ro": "Nu întreb doar pentru azi. Ar putea fi azi, sau următoarea, sau cea de după…"
+  },
+  {
+   "key": "1859073089083674628",
+   "en": "Sorry, need a minute to kick the tires before we get movin'.",
+   "ro": "Scuze, mai dau o verificare la mașină înainte să pornim."
+  },
+  {
+   "key": "1859073091130494976",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1859090272761286656",
+   "en": "It'll be fine, don't worry.",
+   "ro": "O să fie bine, nu-ți face griji."
+  },
+  {
+   "key": "1859094553149181952",
+   "en": "Choom of mine got shocked and killed by a faulty toaster in her own kitchen.",
+   "ro": "Un choom de-al meu a murit electrocutat de un toaster stricat în propria bucătărie."
+  },
+  {
+   "key": "1859096353562562560",
+   "en": "So, y'know... It is what it is – que sera, sera.",
+   "ro": "Așa că, știi tu... Ce să-i faci, așa-i viața."
+  },
+  {
+   "key": "1859112141543575552",
+   "en": "Dare 'em to try!",
+   "ro": "Să vină, dacă au curaj!"
+  },
+  {
+   "key": "1859117425007661056",
+   "en": "Knew somethin' like this'd happen...",
+   "ro": "Știam eu că o să se întâmple ceva de genul ăsta..."
+  },
+  {
+   "key": "2060652460511412224",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  },
+  {
+   "key": "2060668864115589124",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2237403110057316360",
+   "en": "Dean Russell – knew 'im, didn't you? He owe Matt some scratch? That why they put that dog down?",
+   "ro": "Dean Russell – îl cunoșteai, nu? Îi datora lui Matt niște bani? De-aia l-au eliminat?"
+  },
+  {
+   "key": "2237403110141202440",
+   "en": "D'ya see the bird? The Russian…?",
+   "ro": "Ai văzut-o pe rusoaica aia…?"
+  },
+  {
+   "key": "2237403110241865736",
+   "en": "Kick ass out there! Sixth Street trumps AAAALLLL!",
+   "ro": "Rupeți tot acolo! Sixth Street e peste toțiiiii!"
+  },
+  {
+   "key": "2237403110342529032",
+   "en": "Let's go, guys, get going! How much longer?",
+   "ro": "Hai, băieți, mișcați! Cât mai durează?"
+  },
+  {
+   "key": "2237403110426415112",
+   "en": "Carlos! My man! Fancy seein' you here! Oh! Just remembered I gotta take the trash out today! Thanks!",
+   "ro": "Carlos! Omul meu! Ce surpriză să te văd pe-aici! Oh! Tocmai mi-am amintit că trebuie să scot gunoiul azi! Mulțumesc!"
+  },
+  {
+   "key": "2249110674235068416",
+   "en": "Pff, Russell wa'n't put down. Russell put himself down – didn't let up, didn't know when to.",
+   "ro": "Pff, Russell n-a fost doborât de nimeni. Și-a făcut-o singur – n-a dat înapoi, nu știa când să se oprească."
+  },
+  {
+   "key": "2249119550288302080",
+   "en": "Sure, he owed Matt four thou but that had nothin' to do with it. I mean, think... dead man can't pay you back, can he?",
+   "ro": "Sigur, îi datora lui Matt patru mii, dar n-avea nicio legătură. Adică, gândește-te... un mort nu-ți poate da banii înapoi, nu?"
+  },
+  {
+   "key": "2249122311700615168",
+   "en": "Aaand, Dean was lookin' for the prize money to settle his debt. You know... boom or bust? Heh, wound up bein' the latter.",
+   "ro": "Șiiiii, Dean căuta banii din premiu ca să-și plătească datoria. Știi... ori iese, ori nu? Heh, n-a ieșit."
+  },
+  {
+   "key": "2249240085861109760",
+   "en": "Uh-huh... Reaper lady, yeah?",
+   "ro": "Aha... Doamna Reaper, da?"
+  },
+  {
+   "key": "2249240521783513088",
+   "en": "Raggedy-ass bastards're lyin' in wait along our route. Hopin' for wrecks and loot…",
+   "ro": "Nenorociții ăia zdrențăroși ne pândesc pe traseu. Speră la epave și pradă…"
+  },
+  {
+   "key": "2249241933233917952",
+   "en": "Bag the bodies, then straight to a chop shop. Motherfuckers fear nobody.",
+   "ro": "Strâng cadavrele, apoi direct la un atelier de dezmembrări. Jigodiile astea nu se tem de nimeni."
+  }
+ ]
+}

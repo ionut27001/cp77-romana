@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_04.json",
+ "entries": [
+  {
+   "key": "2276539304640684048",
+   "en": "<kiroshi l=\"jpn\" o=\"おじいちゃんが書いた俳句をタトゥーに？ どこに入れるの？\" t=\"A haiku from your grandpa? Where d'you want it inked?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"おじいちゃんが書いた俳句をタトゥーに？ どこに入れるの？\" t=\"Un haiku de la bunicu’? Unde vrei să ți-l tatuezi?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539304640684060",
+   "en": "<kiroshi l=\"jpn\" o=\"まあ、まずは聞けよ… 「眠る蛇 頭をあげれば 雫したたる」\" t=\"Listen to this – \\\"A sleeping giant, a surge of glory, a dewdrop strokes the firm grain.\\\" \" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"まあ、まずは聞けよ… 「眠る蛇 頭をあげれば 雫したたる」\" t=\"Ascultă asta – „Șarpe adormit, ridică capul și picură roua.”\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539304640684072",
+   "en": "<kiroshi l=\"jpn\" o=\"もっと短くできなかったの？ 入れる場所がないと思うけど…\" t=\"Pop-pop couldn't write anything shorter? Dunno if you even got space...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もっと短くできなかったの？ 入れる場所がないと思うけど…\" t=\"Bunicu’ n-a putut scrie ceva mai scurt? Nu știu dacă mai ai loc...\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

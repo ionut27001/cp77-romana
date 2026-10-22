@@ -1,0 +1,361 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q104\\q104_02_av_shotdown.json",
+ "entries": [
+  {
+   "key": "1492440379460403200",
+   "en": "Shit! Probably jammed again!",
+   "ro": "Căcat! Probabil s-a blocat iar!"
+  },
+  {
+   "key": "1492440452860723200",
+   "en": "It's nothing, I'm fine... OK, it should work now.",
+   "ro": "Nu-i nimic, sunt bine... OK, acum ar trebui să meargă."
+  },
+  {
+   "key": "1496570052137766912",
+   "en": "I'll fix it. Hold on tight, going on autopilot!",
+   "ro": "O repar. Ține-te bine, trec pe pilot automat!"
+  },
+  {
+   "key": "1693717720247955456",
+   "en": "For the time being, at least.",
+   "ro": "Deocamdată, cel puțin."
+  },
+  {
+   "key": "1693717943384928256",
+   "en": "Time being's all we need.",
+   "ro": "Deocamdată e tot ce ne trebuie."
+  },
+  {
+   "key": "1725791139917619200",
+   "en": "The cliff there – we'll set up. It should give us a good view of the antennas. And then we wait.",
+   "ro": "Stânca aia – ne instalăm acolo. Ar trebui să vedem bine antenele. Și apoi așteptăm."
+  },
+  {
+   "key": "1725805911954317312",
+   "en": "They won't know what hit them.",
+   "ro": "N-o să știe ce i-a lovit."
+  },
+  {
+   "key": "1727314148373454848",
+   "en": "Blast off!",
+   "ro": "Decolare!"
+  },
+  {
+   "key": "1727321442016452608",
+   "en": "Bullseye!",
+   "ro": "Direct în țintă!"
+  },
+  {
+   "key": "1727414318872289280",
+   "en": "Panam! The engines are still running. Fuck! They're gettin' away!",
+   "en_m": "Panam! The engines are still runnin'. Fuck! They're gettin' away!",
+   "ro": "Panam! Motoarele încă merg. Futu-i! Scapă!"
+  },
+  {
+   "key": "1727441356161179648",
+   "en": "THAT'S how you do it!",
+   "ro": "AȘA se face!"
+  },
+  {
+   "key": "1728391525985546240",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1728441455081025536",
+   "en": "They're going nowhere.",
+   "ro": "Nu mai merg nicăieri."
+  },
+  {
+   "key": "1728442549223944192",
+   "en": "We gotta go after it!",
+   "ro": "Trebuie s-o urmărim!"
+  },
+  {
+   "key": "1728444024863977472",
+   "en": "Give me a moment…",
+   "ro": "Stai un pic…"
+  },
+  {
+   "key": "1728446908515086336",
+   "en": "It's losing altitude!",
+   "ro": "Pierde altitudine!"
+  },
+  {
+   "key": "1728447050131566592",
+   "en": "We got the bastard.",
+   "ro": "L-am prins pe nenorocit."
+  },
+  {
+   "key": "1728447257883832320",
+   "en": "Let's go!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "1730026357320708096",
+   "en": "Shit. What's happening?",
+   "ro": "Căcat. Ce se întâmplă?"
+  },
+  {
+   "key": "1740291273390682144",
+   "en": "It's there! Coming from Pacifica!",
+   "ro": "E acolo! Vine din Pacifica!"
+  },
+  {
+   "key": "1740292038196850688",
+   "en": "And by the way...",
+   "ro": "Și, apropo..."
+  },
+  {
+   "key": "1751703223005736964",
+   "en": "Blastin' shit is just what I needed.",
+   "ro": "Să trag niște rahat e exact ce-mi trebuia."
+  },
+  {
+   "key": "1751703551151304704",
+   "en": "Let's not screw this up.",
+   "ro": "Să nu stricăm treaba."
+  },
+  {
+   "key": "1751709192523739136",
+   "en": "We only got one chance, Panam. Let's not screw it up.",
+   "ro": "Avem o singură șansă, Panam. Nu-o stricăm."
+  },
+  {
+   "key": "1751709269900259328",
+   "en": "Blastin' shit – 'zactly what the doc ordered.",
+   "ro": "Să aruncăm totul în aer – exact ce ne trebuia."
+  },
+  {
+   "key": "1751709453778546688",
+   "en": "And that's exactly what I like to hear.",
+   "ro": "Asta-mi place să aud."
+  },
+  {
+   "key": "1751711775980122112",
+   "en": "Fear not. I finish what I start. Always.",
+   "ro": "Nu te speria. Termin ce încep. Mereu."
+  },
+  {
+   "key": "1751740062114639872",
+   "en": "How does that make you feel?",
+   "ro": "Și ce simți acum?"
+  },
+  {
+   "key": "1751742351315431424",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1751742439882354688",
+   "en": "We are about to knock a multimillion-eurodollar Kang Tao asset clean out of the sky.",
+   "ro": "Urmează să doborâm un asset Kang Tao de milioane de eurodolari."
+  },
+  {
+   "key": "1752977084250714112",
+   "en": "Not the cleanest job, perhaps, but it still went well.",
+   "ro": "Nu cea mai curată treabă, poate, dar a ieșit bine."
+  },
+  {
+   "key": "1752989875988721664",
+   "en": "What about the detonator? Is it workin'?",
+   "ro": "Dar detonatorul? Merge?"
+  },
+  {
+   "key": "1752990392877969408",
+   "en": "Yes, it's working. And I don't even see a drop in the signal strength.",
+   "ro": "Da, merge. Și nu văd nicio scădere a semnalului."
+  },
+  {
+   "key": "1752992444127506432",
+   "en": "We just need to drive far away enough to keep the pulse from blasting us, too.",
+   "ro": "Trebuie doar să ne ducem destul de departe ca să nu ne prindă și pe noi pulsul."
+  },
+  {
+   "key": "1753006968851263488",
+   "en": "Mhm, seized up. Son of a bitch.",
+   "ro": "Mhm, s-a blocat. Nenorocitul."
+  },
+  {
+   "key": "1753007586823237632",
+   "en": "They're on our tail! Panam!",
+   "ro": "Ne sunt pe coadă! Panam!"
+  },
+  {
+   "key": "1753007825445580800",
+   "en": "I know!",
+   "ro": "Știu!"
+  },
+  {
+   "key": "1753008070661369856",
+   "en": "Fucking latches! Don't want to open!",
+   "ro": "Lacătele alea nenorocite! Nu se deschid!"
+  },
+  {
+   "key": "1753008692794093568",
+   "en": "Just a second...",
+   "ro": "Stai un pic..."
+  },
+  {
+   "key": "1753334906515746828",
+   "en": "Just noticed.",
+   "ro": "Tocmai am observat."
+  },
+  {
+   "key": "1753334906515746844",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "1753334906515746856",
+   "en": "It's quiet. The hum of the city, people's voices, the smells... It's all gone.",
+   "ro": "E liniște. Bâzâitul orașului, vocile oamenilor, mirosurile... Au dispărut toate."
+  },
+  {
+   "key": "1753345423347150848",
+   "en": "Mhmm... Though maybe not the smells. I mean, the coyotes? Rather hard to miss.",
+   "ro": "Mhmm... Deși poate nu și mirosurile. Adică, coioții? Destul de greu de ratat."
+  },
+  {
+   "key": "1753346886471380992",
+   "en": "Wind just intensifies it. Think I forgot quiet exists.",
+   "ro": "Vântul doar le intensifică. Cred că uitasem cum e liniștea."
+  },
+  {
+   "key": "1753350270670729216",
+   "en": "Thought that was just the air freshener in your Thorton.",
+   "ro": "Credeam că era doar odorizantul din Thorton-ul tău."
+  },
+  {
+   "key": "1753350771822948352",
+   "en": "Har-har. Screw you.",
+   "ro": "Ha-ha. Du-te dracu'."
+  },
+  {
+   "key": "1754491532688732160",
+   "en": "Here.",
+   "ro": "Uite."
+  },
+  {
+   "key": "1754499093206904836",
+   "en": "[Press detonator] Boom.",
+   "ro": "[Apasă detonatorul] Boom."
+  },
+  {
+   "key": "1754507128201523200",
+   "en": "Always wanted to push the big red button on somethin' like this.",
+   "ro": "Mereu mi-am dorit să apăs butonul roșu mare de la ceva din ăsta."
+  },
+  {
+   "key": "1754523900535353344",
+   "en": "All right, get ready... One more second... One more...",
+   "ro": "Bine, pregătește-te... Încă o secundă... Încă una..."
+  },
+  {
+   "key": "1754525990473150464",
+   "en": "Fuck! V!",
+   "ro": "Futu-i! V!"
+  },
+  {
+   "key": "1754576900042911744",
+   "en": "How do we know when?",
+   "ro": "Cum știm când?"
+  },
+  {
+   "key": "1754577721723842560",
+   "en": "Don't worry, I'll have eyes on it.",
+   "ro": "Nu-ți face griji, am ochii pe el."
+  },
+  {
+   "key": "1754579246101688320",
+   "en": "You just wait for my signal, then set off that pulse.",
+   "ro": "Doar așteaptă semnalul meu, apoi declanșează pulsul ăla."
+  },
+  {
+   "key": "1754754158057615360",
+   "en": "Wake up!",
+   "ro": "Trezește-te!"
+  },
+  {
+   "key": "1754756388420710400",
+   "en": "Boom. There she is.",
+   "ro": "Boom. Uite-o."
+  },
+  {
+   "key": "1754761276647141376",
+   "en": "Panam! Problem! Not shooting!",
+   "ro": "Panam! Avem problemă! Nu trage!"
+  },
+  {
+   "key": "1764659707586932736",
+   "en": "V! Get the fuck out before something happens to the chip!",
+   "ro": "V! Ieși dracu' de-acolo înainte să pățească ceva cipul!"
+  },
+  {
+   "key": "1764659707603709956",
+   "en": "Thanks for the tip. Y'know, I was just about to set up a picnic, maybe lay out, work on my base tan...",
+   "ro": "Mulțumesc pentru pont. Știi, tocmai mă pregăteam de un picnic, poate să mă întind la soare, să-mi fac bronzul de bază..."
+  },
+  {
+   "key": "1764659707603709976",
+   "en": "I mean it. Watch out, the next one migh--",
+   "ro": "Serios zic. Ai grijă, următorul ar putea--"
+  },
+  {
+   "key": "1764659707620487168",
+   "en": "Johnny? Johnny?!",
+   "ro": "Johnny? Johnny?!"
+  },
+  {
+   "key": "1764659707620487184",
+   "en": "Fuckin' hell...",
+   "ro": "Pula mea..."
+  },
+  {
+   "key": "1764659707620487200",
+   "en": "OK. I'm fine. It's... it's OK, just... It's OK, I'm fine... Yeah... Just – DELTA THE FUCK OUT.",
+   "ro": "OK. Sunt bine. E... e OK, doar... E OK, sunt bine... Da... Doar – S-O TĂIEM DRACU'."
+  },
+  {
+   "key": "1764777238427463680",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1764894041086488576",
+   "en": "Panam?!",
+   "ro": "Panam?!"
+  },
+  {
+   "key": "1790801285091028992",
+   "en": "You'd do better to focus on the AV. Keep your eyes open...",
+   "ro": "Mai bine te concentrezi pe AV. Ține ochii deschiși..."
+  },
+  {
+   "key": "1790805391767629824",
+   "en": "Now!",
+   "ro": "Acum!"
+  },
+  {
+   "key": "1875141063813345284",
+   "en": "[Get out] What're you doin'?",
+   "ro": "[Ieși] Ce naiba faci?"
+  },
+  {
+   "key": "1875141468362354688",
+   "en": "Panam, what're you doin'?",
+   "ro": "Panam, ce dracu' faci?"
+  },
+  {
+   "key": "2073695447814701056",
+   "en": "[Use detonator]",
+   "ro": "[Folosește detonatorul]"
+  },
+  {
+   "key": "2128533937454514180",
+   "en": "[Take]",
+   "ro": "[Ia]"
+  }
+ ]
+}

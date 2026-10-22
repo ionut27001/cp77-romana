@@ -1,0 +1,32 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_04_obtaining_data.json",
+ "entries": [
+  {
+   "key": "1506489845374017536",
+   "en": "<kiroshi l=\"rus\" o=\"Помогите! Пожалуйста!\" t=\"Help! Please...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Помогите! Пожалуйста!\" t=\"Ajutor! Te rog...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1674961916400078848",
+   "en": "<kiroshi l=\"rus\" o=\"Убери руки!\" t=\"Don't touch that!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Убери руки!\" t=\"Nu atinge asta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1674975310322700288",
+   "en": "<kiroshi l=\"rus\" o=\"Ты её убила! Сука!\" t=\"You killed her! You bitch!\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"rus\" o=\"Ты её убил! Паскуда!\" t=\"You killed her! You asshole!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты её убила! Сука!\" t=\"Ai ucis-o! Curvo!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Ты её убил! Паскуда!\" t=\"Ai ucis-o! Jigodie!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1702604233843773440",
+   "en": "<kiroshi l=\"rus\" o=\"У меня дипломатический иммунитет!\" t=\"I have diplomatic immunity!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У меня дипломатический иммунитет!\" t=\"Am imunitate diplomatică!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1702604510600728576",
+   "en": "<kiroshi l=\"rus\" o=\"Ты об этом пожалеешь.\" t=\"You're going to regret this...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты об этом пожалеешь.\" t=\"O să regreți asta...\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

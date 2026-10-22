@@ -1,0 +1,236 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_04_penthouse.json",
+ "entries": [
+  {
+   "key": "1501079970921865216",
+   "en": "<kiroshi l=\"rus\" o=\"Скоро вернусь. Покурю пойду.\" t=\"Be right back. Goin' out for a smoke.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Скоро вернусь. Покурю пойду.\" t=\"Vin imediat. Ies la o țigară.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506454803943809024",
+   "en": "<kiroshi l=\"rus\" o=\"Не выходил бы ты на балкон. Вдруг кто смотрит?\" t=\"You really shouldn't be on that balcony – who knows who's watching?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не выходил бы ты на балкон. Вдруг кто смотрит?\" t=\"Chiar nu ar trebui să stai pe balcon. Cine știe cine se uită?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506454803943809040",
+   "en": "<kiroshi l=\"rus\" o=\"Надеюсь, ты смотришь.\" t=\"You, I hope.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Надеюсь, ты смотришь.\" t=\"Tu, sper.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506454803943809056",
+   "en": "<kiroshi l=\"rus\" o=\"Миш, хватит. Это вопрос государственной безопасности.\" t=\"Stop foolin' around, Misha. This is about national security.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Миш, хватит. Это вопрос государственной безопасности.\" t=\"Lasă prostiile, Misha. E vorba de securitatea națională.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506454803943809068",
+   "en": "<kiroshi l=\"rus\" o=\"Может, бросим всё и просто останемся здесь? Мне нравится этот город.\" t=\"Can't we just drop everything and stay here? I like this city.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Может, бросим всё и просто останемся здесь? Мне нравится этот город.\" t=\"Nu putem lăsa totul baltă și să rămânem aici? Îmi place orașul ăsta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506454803943809080",
+   "en": "<kiroshi l=\"rus\" o=\"Миш, что ты несёшь? Мы ещё даже не закончили с переговорами.\" t=\"Misha, what the hell are you talking about? The negotiations aren't even done yet.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Миш, что ты несёшь? Мы ещё даже не закончили с переговорами.\" t=\"Misha, ce naiba vorbești? Negocierile nici măcar nu s-au terminat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506583389107412992",
+   "en": "<kiroshi l=\"rus\" o=\"Миша! Прячься!\" t=\"Misha! Hide!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Миша! Прячься!\" t=\"Misha! Ascunde-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506592638671806464",
+   "en": "<kiroshi l=\"rus\" o=\"Что... Опять?!\" t=\"What the...? Again?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Что... Опять?!\" t=\"Ce...? Iar?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506592638705360896",
+   "en": "<kiroshi l=\"rus\" o=\"Какого...\" t=\"What the...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Какого...\" t=\"Ce...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506669720114323456",
+   "en": "<kiroshi l=\"rus\" o=\"Не приближайся ко мне! Не подходи!\" t=\"S-stay back! Don't come any closer!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не приближайся ко мне! Не подходи!\" t=\"S-stai departe! Nu te apropia!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1506960871048372224",
+   "en": "<kiroshi l=\"rus\" o=\"Надя!\" t=\"Nadya!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Надя!\" t=\"Nadya!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1507053292436348928",
+   "en": "<kiroshi l=\"rus\" o=\"Пиздец тебе!\" t=\"You're fucking dead!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пиздец тебе!\" t=\"Ești moartă, pula mea!\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Пиздец тебе!\" t=\"Ești mort, pula mea!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1667996294734778368",
+   "en": "<kiroshi l=\"rus\" o=\"Мне приказали закрыть контракт с «Арасакой» к концу недели.\" t=\"I have orders to finalize the contract with Arasaka by the end of the week.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мне приказали закрыть контракт с «Арасакой» к концу недели.\" t=\"Am ordin să închid contractul cu Arasaka până la sfârșitul săptămânii.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1667996294734778380",
+   "en": "<kiroshi l=\"rus\" o=\"Но как? Времени совсем мало.\" t=\"How? It's too soon...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Но как? Времени совсем мало.\" t=\"Cum? E prea devreme...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1667996294751555592",
+   "en": "<kiroshi l=\"rus\" o=\"Мы предложим больше. Нельзя позволить китайцам нас обойти.\" t=\"We're raising our offer. Can't let the Chinese to pull the rug out from under us.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Мы предложим больше. Нельзя позволить китайцам нас обойти.\" t=\"Mărim oferta. Nu putem lăsa chinezii să ne tragă preșul de sub picioare.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1667996294751555604",
+   "en": "<kiroshi l=\"rus\" o=\"Может, заодно и нефть им всю за так отдадим?\" t=\"Well why don't we just throw in all our oil for free, too?!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Может, заодно и нефть им всю за так отдадим?\" t=\"Ce, dăm și tot petrolul gratis?!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1667996294751555616",
+   "en": "<kiroshi l=\"rus\" o=\"Товарищ Надежда, вы ставите под сомнение авторитет генерального секретаря?\" t=\"Comrade Nadezhda, are you questioning the authority of the General Secretary?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Товарищ Надежда, вы ставите под сомнение авторитет генерального секретаря?\" t=\"Tovarășă Nadezhda, pui la îndoială autoritatea Secretarului General?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1668058291866275840",
+   "en": "<kiroshi l=\"rus\" o=\"Как скажешь, милая. Я просто пошутил.\" t=\"Of course, my dear, I was only kidding.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Как скажешь, милая. Я просто пошутил.\" t=\"Sigur, draga mea, doar glumeam.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1668058429036793856",
+   "en": "<kiroshi l=\"rus\" o=\"Пошутил — и будет.\" t=\"Well, stop it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пошутил — и будет.\" t=\"Gata, ajunge.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1675376660839763968",
+   "en": "<kiroshi l=\"rus\" o=\"Да?.. Это защищённая линия... Да... Мы делаем всё, что в наших силах.\" t=\"Yes...? The line's secure... Mhm... We're doing our best...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Да?.. Это защищённая линия... Да... Мы делаем всё, что в наших силах.\" t=\"Da...? Linia e sigură... Mhm... Facem tot ce putem...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1695229997932187648",
+   "en": "<kiroshi l=\"rus\" o=\"Не смешно. И ты это знаешь.\" t=\"That's not funny, and you know it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не смешно. И ты это знаешь.\" t=\"Nu e amuzant, și știi asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1695231591096619008",
+   "en": "<kiroshi l=\"rus\" o=\"Конечно. Мы купим эту технологию, не сомневайтесь. До свидания.\" t=\"Absolutely, the technology will be bought. Consider it done.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Конечно. Мы купим эту технологию, не сомневайтесь. До свидания.\" t=\"Absolut, tehnologia o să fie cumpărată. Considerați că e deja rezolvat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699899273859403776",
+   "en": "<kiroshi l=\"rus\" o=\"Это займёт некоторое время... Если можно... Да, конечно, товарищ генерал...\" t=\"It will still take some time... If I may... Yes, of course, Comrade General...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Это займёт некоторое время... Если можно... Да, конечно, товарищ генерал...\" t=\"O să mai dureze ceva... Dacă îmi permiteți... Da, sigur, tovarășe general...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699903816844283904",
+   "en": "<kiroshi l=\"rus\" o=\"Ну... за народные массы!\" t=\"Three cheers for the proletariat!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну... за народные массы!\" t=\"Trăiască proletariatul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1702628443769114624",
+   "en": "<kiroshi l=\"rus\" o=\"Пф-ф...\" t=\"Pfff...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Пф-ф...\" t=\"Pfff...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1702644821452492800",
+   "en": "<kiroshi l=\"rus\" o=\"Что? Я просто пью.\" t=\"What? I'm just having a drink...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Что? Я просто пью.\" t=\"Ce? Doar beau ceva...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1702645038616776704",
+   "en": "<kiroshi l=\"rus\" o=\"Ты что-то сделал?\" t=\"Did you do something?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты что-то сделал?\" t=\"Ai făcut ceva?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740607815033393152",
+   "en": "<kiroshi l=\"rus\" o=\"Э-э, Надюш, милая, это ты унесла кейс?\" t=\"Uh, Nadya, dear, did you move the briefcase?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Э-э, Надюш, милая, это ты унесла кейс?\" t=\"Ăă, Nadya, dragă, ai mutat servieta?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740609012859506688",
+   "en": "<kiroshi l=\"rus\" o=\"Очень смешно.\" t=\"Very funny.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Очень смешно.\" t=\"Foarte amuzant.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740610447126925312",
+   "en": "<kiroshi l=\"rus\" o=\"Я не шучу. Ты его видела?\" t=\"I'm not joking. Have you seen it?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я не шучу. Ты его видела?\" t=\"Nu glumesc. Ai văzut-o?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740610747204210688",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1740611162993954816",
+   "en": "<kiroshi l=\"rus\" o=\"Он лежал на столе. Я думала, ты его забрал.\" t=\"It was on the table – I thought you took it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Он лежал на столе. Я думала, ты его забрал.\" t=\"Era pe masă – credeam că ai luat-o.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740612144377204736",
+   "en": "<kiroshi l=\"rus\" o=\"Надя!\" t=\"Nadya!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Надя!\" t=\"Nadya!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740612426754527232",
+   "en": "<kiroshi l=\"rus\" o=\"Я не брал...\" t=\"I didn't take it...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я не брал...\" t=\"Nu am luat-o...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740612559646855168",
+   "en": "<kiroshi l=\"rus\" o=\"Ну тогда прекрати дрожать, давай искать.\" t=\"Then stop shaking and start looking.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну тогда прекрати дрожать, давай искать.\" t=\"Atunci nu mai tremura și începe să cauți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740612986224349184",
+   "en": "<kiroshi l=\"rus\" o=\"Ну, нашёл?\" t=\"Do you have it?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну, нашёл?\" t=\"O ai?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740613479055069184",
+   "en": "<kiroshi l=\"rus\" o=\"Должно быть, упал куда-то...\" t=\"It must've fallen somewhere...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Должно быть, упал куда-то...\" t=\"Trebuie să fi căzut undeva...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740613539436269568",
+   "en": "<kiroshi l=\"rus\" o=\"Нужно позвонить.\" t=\"We have to make the call.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Нужно позвонить.\" t=\"Trebuie să sunăm.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740613647632535552",
+   "en": "<kiroshi l=\"rus\" o=\"Может, за диваном?\" t=\"Maybe behind the couch...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Может, за диваном?\" t=\"Poate după canapea...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740614698003697664",
+   "en": "<kiroshi l=\"rus\" o=\"Миша, нужно позвонить. Его явно кто-то забрал.\" t=\"Misha, we have to call, somebody must've taken it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Миша, нужно позвонить. Его явно кто-то забрал.\" t=\"Misha, trebuie să sunăm, cineva trebuie să o fi luat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740615594863333376",
+   "en": "<kiroshi l=\"rus\" o=\"Нет, нет, нет! Пять минут, дай мне ещё пять минут!\" t=\"No, no, no! Five minutes, give me five more minutes!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Нет, нет, нет! Пять минут, дай мне ещё пять минут!\" t=\"Nu, nu, nu! Cinci minute, mai dă-mi cinci minute!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740617061863100416",
+   "en": "<kiroshi l=\"rus\" o=\"Гм.\" t=\"Hm.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Гм.\" t=\"Hm.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1740617245808496640",
+   "en": "<kiroshi l=\"rus\" o=\"Красный.\" t=\"Red.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Красный.\" t=\"Roșu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1747582416854552576",
+   "en": "<kiroshi l=\"rus\" o=\"Подтверждаю. Мы потеряли 7K-T.\" t=\"I confirm – we have lost 7K-T.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Подтверждаю. Мы потеряли 7K-T.\" t=\"Confirmat – am pierdut 7K-T.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1747604396618125312",
+   "en": "<kiroshi l=\"rus\" o=\"Он принимает всех потерянных, отвергнутых, отчаявшихся, заманивает, втирается в доверие — и обирает их до нитки.\" t=\"It takes all the lost, the forsaken, the desperate, dangles their dreams before their eyes, and while they're not looking – steals every last kopeck they have.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Он принимает всех потерянных, отвергнутых, отчаявшихся, заманивает, втирается в доверие — и обирает их до нитки.\" t=\"Îi adună pe toți cei pierduți, părăsiți și disperați, le flutură visurile prin fața ochilor și, cât timp nu sunt atenți, le fură și ultima copeică.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1934391222845411328",
+   "en": "<kiroshi l=\"rus\" o=\"У-у-ух...\" t=\"Ufff...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У-у-ух...\" t=\"Ufff...\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

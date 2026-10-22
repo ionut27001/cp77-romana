@@ -1,0 +1,706 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q303\\q303_06_paradise.json",
+ "entries": [
+  {
+   "key": "3083771203703410688",
+   "en": "Sol... I’ve made... so many mistakes.",
+   "ro": "Sol... Am făcut... atâtea greșeli."
+  },
+  {
+   "key": "3083776380799946752",
+   "en": "Not your fault. The blame’s on us, all of it.",
+   "ro": "Nu e vina ta. Toată vina e a noastră."
+  },
+  {
+   "key": "3083894942147416064",
+   "en": "Plan – you got one.",
+   "ro": "Plan – ai vreunul?"
+  },
+  {
+   "key": "3085493928272728064",
+   "en": "Oof. Preem, it worked. Reestablished our link the moment I touched you. Interesting…",
+   "ro": "Oof. Beton, a funcționat. Legătura s-a reactivat în clipa în care te-am atins. Interesant…"
+  },
+  {
+   "key": "3085496508709212160",
+   "en": "[Stop leaning] The hell's goin' on here?",
+   "ro": "[Oprește-te din aplecare] Ce dracu' se întâmplă aici?"
+  },
+  {
+   "key": "3085887587895873536",
+   "en": "We can do that.",
+   "ro": "Putem face asta."
+  },
+  {
+   "key": "3085890213597286400",
+   "en": "Think I got it. Our targets – where'll we find 'em?",
+   "ro": "Cred că am prins ideea. Țintele noastre – unde le găsim?"
+  },
+  {
+   "key": "3085891859760943104",
+   "en": "Champagne glass over there – prepped some intel for you. Get it to Reed. You'll need it later.",
+   "ro": "Paharul de șampanie de acolo – ți-am pregătit niște informații. Du-le lui Reed. O să-ți trebuiască mai târziu."
+  },
+  {
+   "key": "3105649733322174464",
+   "en": "Ah, So Mi. Care to introduce your friends?",
+   "ro": "Ah, So Mi. Nu ne prezinți și nouă prietenii?"
+  },
+  {
+   "key": "3105667787200425984",
+   "en": "It’s not often I'm simply not familiar with guests attending my own party.",
+   "ro": "Nu mi se întâmplă des să nu cunosc oaspeții de la propria mea petrecere."
+  },
+  {
+   "key": "3105681629225709568",
+   "en": "And I never forget a face. Kurt Hansen.",
+   "ro": "Și nu uit niciodată o față. Kurt Hansen."
+  },
+  {
+   "key": "3105742582982144000",
+   "en": "Hmm. Plus two, I'd say. In any case, enjoy your evening.",
+   "ro": "Hmm. Plus doi, aș zice. Oricum, distracție plăcută."
+  },
+  {
+   "key": "3134838864933580800",
+   "en": "Well... I need to grab you, darling. I've a couple NC politicos here who're dying to meet you.",
+   "ro": "Păi... trebuie să te iau, dragă. Am aici câțiva politicieni din NC care mor să te cunoască."
+  },
+  {
+   "key": "3134839679719075840",
+   "en": "I'm all yours, Kurt.",
+   "ro": "Sunt a ta, Kurt."
+  },
+  {
+   "key": "3152086130576617472",
+   "en": "[Don't shake hand] V. So Mi’s friend.",
+   "ro": "[Nu-i strânge mâna] V. Prietena lui So Mi.",
+   "ro_m": "[Nu-i strânge mâna] V. Prietenul lui So Mi."
+  },
+  {
+   "key": "3152140886577803264",
+   "en": "See you soon, V.",
+   "ro": "Ne vedem curând, V."
+  },
+  {
+   "key": "3154829605023649792",
+   "en": "That's... not happening.",
+   "ro": "Asta... nu se întâmplă."
+  },
+  {
+   "key": "3156322065239379968",
+   "en": "Song… Fuck…",
+   "ro": "Song… Futu-i…"
+  },
+  {
+   "key": "3156355956876644352",
+   "en": "Name's V. So Mi's plus one.",
+   "ro": "Mă numesc V. Plus one-ul lui So Mi."
+  },
+  {
+   "key": "3156465819623493632",
+   "en": "They're downstairs. Redheaded twins walled to the teeth with ICE. Kiroshi scans'll show you bunk.",
+   "ro": "Sunt la parter. Gemeni roșcați, înarmați până-n dinți cu ICE. Scanările Kiroshi o să-ți arate buncărul."
+  },
+  {
+   "key": "3176784785327415296",
+   "en": "Up on the mezzanine – isn't that your damsel in distress?",
+   "ro": "Sus, pe mezanin – nu e aia prințesa ta în primejdie?"
+  },
+  {
+   "key": "3244740934456602628",
+   "en": "[Lean]",
+   "ro": "[Sprijină-te]"
+  },
+  {
+   "key": "3244774545360711684",
+   "en": "[Stop leaning]",
+   "ro": "[Nu te mai sprijini]"
+  },
+  {
+   "key": "3257799998927147008",
+   "en": "[Shake hand] V.",
+   "ro": "[Strânge-i mâna] V."
+  },
+  {
+   "key": "3261169577015513088",
+   "en": "Name's V. Just V.",
+   "ro": "Mă numesc V. Doar V."
+  },
+  {
+   "key": "3261177017006166016",
+   "en": "Interesting. Not the sociable types, are you?",
+   "ro": "Interesant. Nu sunteți genul sociabil, nu?"
+  },
+  {
+   "key": "3261179552311939072",
+   "en": "Haven’t seen So Mi in years. Tryin' to catch up.",
+   "ro": "N-am mai văzut-o pe So Mi de ani. Încerc să recuperez timpul pierdut."
+  },
+  {
+   "key": "3261181896525221888",
+   "en": "Oh, that’s what this is. To me, reunions consist of... picking up the broken, scattered shards of your heart. Or teeth. Always hurts.",
+   "ro": "A, deci asta e. Pentru mine, reuniunile înseamnă... să strângi cioburile sparte și împrăștiate ale inimii. Sau ale dinților. Doare mereu."
+  },
+  {
+   "key": "3261187518838738944",
+   "en": "Kurt, meet some friends of mine. Of yesteryear.",
+   "ro": "Kurt, cunoaște niște prieteni de-ai mei. De pe vremuri."
+  },
+  {
+   "key": "3261278706027597824",
+   "en": "Keepin' somethin' from me, I can tell.",
+   "ro": "Ascunzi ceva de mine, se vede."
+  },
+  {
+   "key": "3265134465052184576",
+   "en": "Right. Main thing is to get you outta here.",
+   "ro": "Bine. Important e să te scot de aici."
+  },
+  {
+   "key": "3275270066099326976",
+   "en": "[Confront] Songbird?",
+   "ro": "[Confruntă] Songbird?"
+  },
+  {
+   "key": "3275273073314631680",
+   "en": "Party, fancy dress, champagne... Don’t exactly look like a prisoner.",
+   "ro": "Petrecere, rochii elegante, șampanie... Nu arăți deloc ca un prizonier."
+  },
+  {
+   "key": "3275273124300591104",
+   "en": "Songbird?",
+   "ro": "Songbird?"
+  },
+  {
+   "key": "3275276623457423360",
+   "en": "Gilded cage, V, textbook example. I can’t stick my nose outta this place.",
+   "ro": "Cușcă aurită, V, exemplu clasic. Nu pot să-mi scot nasul din locul ăsta."
+  },
+  {
+   "key": "3275280015055523840",
+   "en": "See, the Blackwall... it's hard to explain. Each connection, penetration comes at a price…",
+   "ro": "Vezi tu, Blackwall-ul... e greu de explicat. Fiecare conexiune, fiecare pătrundere vine cu un preț…"
+  },
+  {
+   "key": "3275285130730672132",
+   "en": "You didn’t. Blackwall did.",
+   "ro": "Nu tu. Blackwall-ul."
+  },
+  {
+   "key": "3275291851767287808",
+   "en": "V... it's good you're here.",
+   "ro": "V... bine că ești aici."
+  },
+  {
+   "key": "3275337993725022208",
+   "en": "Listen, time's precious.",
+   "ro": "Ascultă, timpul nu-i de pierdut."
+  },
+  {
+   "key": "3275337993792131084",
+   "en": "Listen, guys… we do not have the time for this now.",
+   "ro": "Ascultați, băieți… nu avem timp pentru asta acum."
+  },
+  {
+   "key": "3276826373604380672",
+   "en": "All the chrome on you... How you appear via the Relic is…",
+   "ro": "Tot chrome-ul ăla pe tine... Cum apari prin Relic e…"
+  },
+  {
+   "key": "3301249341150380032",
+   "en": "I'll explain everything – just need you to listen.",
+   "ro": "O să-ți explic totul – trebuie doar să asculți."
+  },
+  {
+   "key": "3301250200177393664",
+   "en": "[Stop leaning] Feels like you tricked me, Song.",
+   "ro": "[Oprește-te din aplecare] Mă simt păcălită de tine, Song.",
+   "ro_m": "[Oprește-te din aplecare] Mă simt păcălit de tine, Song."
+  },
+  {
+   "key": "3301250274651455488",
+   "en": "Lied to me, Song. Said you had the cure. No mention of a fuckload of flaming hoops I gotta jump through to get it.",
+   "ro": "Mi-ai mințit, Song. Ai zis că ai leacul. Nicio vorbă despre o căruță de rahat de cercuri în flăcări prin care trebuie să sar ca să-l iau."
+  },
+  {
+   "key": "3323146913461460996",
+   "en": "[Take shard]",
+   "ro": "[Ia shard-ul]"
+  },
+  {
+   "key": "3336062295474311168",
+   "en": "I need a minute to process. And I need a drink. Heading downstairs.",
+   "ro": "Am nevoie de un minut să-mi revin. Și de ceva de băut. Cobor la parter."
+  },
+  {
+   "key": "3336076144428584960",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3336076534163312640",
+   "en": "Call if you need anything.",
+   "ro": "Sună dacă ai nevoie de ceva."
+  },
+  {
+   "key": "3336078797845958656",
+   "en": "Sure thing.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3336078890657517568",
+   "en": "Call me if anything develops.",
+   "ro": "Sună-mă dacă se întâmplă ceva."
+  },
+  {
+   "key": "3495653735400607744",
+   "en": "Not what you expected, huh? Is it the haircut?",
+   "ro": "Nu ce așteptai, nu? Ți-a sărit în ochi tunsoarea?"
+  },
+  {
+   "key": "3495668034235928576",
+   "en": "The, uh, 'runner… your friend... who helped us reconnect last time... Killed him, fried him, didn't I?",
+   "ro": "Ăă, runnerul… prietenul tău… care ne-a ajutat ultima dată să ne reconectăm… L-am ucis, l-am prăjit, nu?"
+  },
+  {
+   "key": "3495669936621228032",
+   "en": "You didn’t kill Slider. Blackwall did.",
+   "ro": "Nu tu l-ai ucis pe Slider. Blackwall-ul."
+  },
+  {
+   "key": "3495669972658688000",
+   "en": "Well, could say we brought death to his door.",
+   "ro": "Păi, s-ar putea zice că i-am adus moartea în prag."
+  },
+  {
+   "key": "3495670659383693312",
+   "en": "Could say we both did...",
+   "ro": "Putem zice că amândouă...",
+   "ro_m": "Putem zice că amândoi..."
+  },
+  {
+   "key": "3495674915998273536",
+   "en": "Lucky as hell it didn't flatline you, too.",
+   "ro": "Noroc chior că nu te-a lichidat și pe tine."
+  },
+  {
+   "key": "3495677084872871936",
+   "en": "Guess the two of us just lucked out.",
+   "ro": "Cred că am avut noroc amândouă.",
+   "ro_m": "Cred că am avut noroc amândoi."
+  },
+  {
+   "key": "3495688199342264320",
+   "en": "I ran out of time. To explain... ev-everything…",
+   "ro": "N-am mai avut timp. Să-ți explic... tot..."
+  },
+  {
+   "key": "3495696221485535232",
+   "en": "Myers, all of them... I know what they made you do. They pushed and pushed and I... I wasn’t there to stop it.",
+   "ro": "Myers, toți... Știu ce te-au pus să faci. Au tot apăsat pe tine, iar eu... n-am fost acolo să-i opresc."
+  },
+  {
+   "key": "3495706720264654848",
+   "en": "It is. We got in, we can get out. Just trust me.",
+   "ro": "Așa e. Am intrat, deci putem și ieși. Ai încredere în mine."
+  },
+  {
+   "key": "3495708679809929216",
+   "en": "Not the point. I'm… dyin', Sol. Like V. Hansen has the \"cure\" we need. We run now, we both die.",
+   "ro": "Nu despre asta e vorba. Mor, Sol. Ca V. Hansen are „leacul” de care avem nevoie. Dacă fugim acum, murim amândoi."
+  },
+  {
+   "key": "3495786779663011840",
+   "en": "Whoa. Sharin' a boat to oblivion with me? Coulda said somethin'...",
+   "ro": "Whoa. Suntem în aceeași barcă spre neant, cu mine? Puteai să zici ceva..."
+  },
+  {
+   "key": "3495787417935417344",
+   "en": "Had no time. Still don't. But, hear me out… I need help, your help.",
+   "ro": "N-am avut timp. Încă n-am. Dar ascultă-mă… Am nevoie de ajutor, de ajutorul tău."
+  },
+  {
+   "key": "3495788325532471296",
+   "en": "Didn’t mention you were dyin'.",
+   "ro": "N-ai zis că ești pe moarte."
+  },
+  {
+   "key": "3495807573579403264",
+   "en": "Hansen pulled some tech out of a bunker under Dogtown. Tech that could cure both V and me…",
+   "ro": "Hansen a scos niște tech dintr-un buncăr de sub Dogtown. Tech care ar putea să ne vindece pe amândoi, pe V și pe mine…"
+  },
+  {
+   "key": "3495847210909831168",
+   "en": "And if we're to keep hungry rats from devouring Dogtown, we really do need to feed them the occasional scraps.",
+   "ro": "Și dacă vrem ca șobolanii flămânzi să nu devoreze Dogtown, chiar trebuie să le mai aruncăm din când în când câte-o firimitură."
+  },
+  {
+   "key": "3496979123653447680",
+   "en": "Relic’s killing V... Blackwall's my poison. I can't bow out now.",
+   "ro": "Relic-ul o ucide pe V... Blackwall-ul e otrava mea. Nu pot să mă retrag acum.",
+   "ro_m": "Relic-ul îl ucide pe V... Blackwall-ul e otrava mea. Nu pot să mă retrag acum."
+  },
+  {
+   "key": "3496990807843540992",
+   "en": "It was no trick. Just... didn’t tell you the whole story.",
+   "ro": "N-a fost nicio păcăleală. Doar că... nu ți-am spus toată povestea."
+  },
+  {
+   "key": "3497008290793132036",
+   "en": "Your plan – lemme hear it.",
+   "ro": "Planul tău – spune-mi-l."
+  },
+  {
+   "key": "3497009105226305536",
+   "en": "Don't like this, not one bit.",
+   "ro": "Nu-mi place asta, deloc."
+  },
+  {
+   "key": "3497013658747277312",
+   "en": "The cure – how do we get it?",
+   "ro": "Leacul – cum îl obținem?"
+  },
+  {
+   "key": "3497013701126524928",
+   "en": "Not likin' this, not a bit.",
+   "ro": "Nu-mi place deloc."
+  },
+  {
+   "key": "3497025996661592064",
+   "en": "What’s the deal, Song? Doubt I've ever seen a prisoner parade around in a cocktail dress at a swanky party…",
+   "ro": "Ce-i cu tine, Song? Nu cred că am văzut vreodată un prizonier defilând în rochie de cocktail la o petrecere de lux…"
+  },
+  {
+   "key": "3497027642640699392",
+   "en": "It’s a charade, V. Doin' what I need to survive, to get what I want. I'm lettin' Hansen show me off like his personal trophy.",
+   "ro": "E o farsă, V. Fac ce trebuie ca să supraviețuiesc, să obțin ce vreau. Îl las pe Hansen să mă etaleze ca pe trofeul lui personal."
+  },
+  {
+   "key": "3497060038421385216",
+   "en": "I don't like my situation either.",
+   "ro": "Nici mie nu-mi prea place situația asta."
+  },
+  {
+   "key": "3497061915993182208",
+   "en": "In short, it’s storage, a carrier for an AI trapped within certain boundary conditions.",
+   "ro": "Pe scurt, e un depozit, un container pentru un AI blocat în anumite condiții-limită."
+  },
+  {
+   "key": "3497181198274400256",
+   "en": "We need the neural matrix – secret tech that incorporates AIs from beyond the Blackwall.",
+   "ro": "Avem nevoie de matricea neurală – tehnologie secretă care include AI-uri de dincolo de Blackwall."
+  },
+  {
+   "key": "3497181534607249408",
+   "en": "The matrix is nested in a mainframe Hansen pulled out of the bunker. The mainframe's secured, but Hansen lacks the key – that's the problem.",
+   "ro": "Matricea e încastrată într-un mainframe pe care Hansen l-a scos din buncăr. Mainframe-ul e securizat, dar lui Hansen îi lipsește cheia – asta e problema."
+  },
+  {
+   "key": "3497181714744217600",
+   "en": "They're bringin' access, I'm bringin' know-how about how to pull the matrix and data off the mainframe. We're to work side-by-side. Givin' us a chance.",
+   "ro": "Ei aduc accesul, eu știu cum scoatem matricea și datele din mainframe. O să lucrăm umăr la umăr. Ne dă și nouă o șansă."
+  },
+  {
+   "key": "3497186461891039240",
+   "en": "Matrix – we recover it how?",
+   "ro": "Matricea – cum o recuperăm?"
+  },
+  {
+   "key": "3497186461891039260",
+   "en": "No, wait, slow down.",
+   "ro": "Stai, stai, mai încet."
+  },
+  {
+   "key": "3497195820289232908",
+   "en": "Neural matrix? What is it, exactly?",
+   "en_m": "Neural matrix – what is it, exactly?",
+   "ro": "Matricea neurală? Ce e, mai exact?",
+   "ro_m": "Matricea neurală – ce e, mai exact?"
+  },
+  {
+   "key": "3497195820289232928",
+   "en": "When the AI's triggered, it'll execute what's stipulated within those conditions... But I really can’t go into detail now. We don’t have the time.",
+   "ro": "Când AI-ul e activat, o să execute ce e stipulat în condițiile alea... Dar chiar nu pot intra în detalii acum. N-avem timp."
+  },
+  {
+   "key": "3497215663440793600",
+   "en": "Got a plan? Spill it.",
+   "ro": "Ai un plan? Zi-l."
+  },
+  {
+   "key": "3497231903030906880",
+   "en": "This job... this whole... story about Hansen... Not addin' up somethin' fierce, Song.",
+   "ro": "Treaba asta... toată... povestea cu Hansen... nu se leagă deloc, Song."
+  },
+  {
+   "key": "3497236931581972480",
+   "en": "I don’t have time to explain the ins and outs now. V, please, we need the matrix. Focus on the 'runners, find them.",
+   "ro": "Nu am timp să intru în detalii acum. V, te rog, avem nevoie de matrice. Concentrează-te pe runneri, găsește-i."
+  },
+  {
+   "key": "3499918701829951488",
+   "en": "Hansen needs me and a duo of 'runners who worked on this tech in the past. They actually grabbed access codes they're willing to unload for a price. Classic black market shit.",
+   "ro": "Hansen mă vrea pe mine și pe un duo de runneri care au lucrat la tehnologia asta. Au pus mâna pe coduri de acces pe care vor să le vândă, pe bani. Rahat clasic de piață neagră."
+  },
+  {
+   "key": "3507414162874699776",
+   "en": "A vestige of the past. From a time when I still wasn't…",
+   "ro": "O rămășiță din trecut. Dintr-o vreme când încă nu eram…"
+  },
+  {
+   "key": "3507432972163878912",
+   "en": "On you?",
+   "ro": "Pe tine?"
+  },
+  {
+   "key": "3508721034382675968",
+   "en": "You're dyin'. Yet you need to stay.",
+   "ro": "Mori. Și totuși trebuie să rămâi."
+  },
+  {
+   "key": "3508726327242002432",
+   "en": "Nothing’s ever simple, is it?",
+   "ro": "Nimic nu e simplu niciodată, nu?"
+  },
+  {
+   "key": "3508780848462827520",
+   "en": "Not to mention bein' hella friendly with their captor.",
+   "ro": "Ca să nu mai zic că ești tare prietenoasă cu răpitorul lor.",
+   "ro_m": "Ca să nu mai zic că ești tare prietenos cu răpitorul lor."
+  },
+  {
+   "key": "3508842901378568192",
+   "en": "'Runners – how we gonna impersonate 'em?",
+   "ro": "'Runneri – cum o să ne dăm drept ei?"
+  },
+  {
+   "key": "3508843238801936384",
+   "en": "So, 'runners – we're to impersonate 'em? How?",
+   "ro": "Deci, 'runneri – trebuie să ne dăm drept ei? Cum?"
+  },
+  {
+   "key": "3508844320110284800",
+   "en": "Personality theft tech. Firm kinda specializes in it. Alex and Reed know it well, they'll explain.",
+   "ro": "Tehnologie de furt de personalitate. Firma se cam specializează în asta. Alex și Reed o cunosc bine, o să explice ei."
+  },
+  {
+   "key": "3534925371341410304",
+   "en": "Dress looks good on you.",
+   "ro": "Rochia îți vine bine."
+  },
+  {
+   "key": "3534925441939935236",
+   "en": "Lookin' good in the dress.",
+   "ro": "Arăți bine în rochie."
+  },
+  {
+   "key": "3534932148950798336",
+   "en": "You're truly chromed up, different from the hologram.",
+   "ro": "Ești chiar chromat, nu ca în hologramă."
+  },
+  {
+   "key": "3534933784444145664",
+   "en": "Don’t exactly look like a prisoner.",
+   "ro": "Nu arăți deloc a prizonier."
+  },
+  {
+   "key": "3534946186833301504",
+   "en": "Thank you. That was the surprising bit, I'm sure…",
+   "ro": "Mulțumesc. Asta a fost partea surprinzătoare, sunt sigură…"
+  },
+  {
+   "key": "3534951484843233280",
+   "en": "It's so good you're here. Don’t know what I’d do without you, V. Really.",
+   "ro": "E atât de bine că ești aici. Nu știu ce-aș face fără tine, V, serios."
+  },
+  {
+   "key": "3534960500147359748",
+   "en": "Didn't really give me a choice.",
+   "ro": "Nu mi-ai dat prea multe opțiuni."
+  },
+  {
+   "key": "3534967300103999488",
+   "en": "You can count on my help.",
+   "ro": "Poți conta pe ajutorul meu."
+  },
+  {
+   "key": "3534968336919171072",
+   "en": "Didn’t exactly give me a choice, now, did you? Told me to show up here and just ghosted.",
+   "ro": "Nu mi-ai dat chiar de ales, nu? Mi-ai zis să apar aici și apoi ai dispărut."
+  },
+  {
+   "key": "3534968380456046592",
+   "en": "Good to finally meet you in the flesh, face to face. Way our last convo ended was... troubling.",
+   "ro": "Bine că ne vedem în sfârșit față în față. Ultima noastră discuție s-a încheiat cam... tulburător."
+  },
+  {
+   "key": "3534993284219932672",
+   "en": "Yep, zeroed him hard.",
+   "ro": "Da, l-am lichidat de tot."
+  },
+  {
+   "key": "3535025447401295872",
+   "en": "Yeah, his death’s on you.",
+   "ro": "Da, moartea lui e pe capul tău."
+  },
+  {
+   "key": "3535030325376847872",
+   "en": "Sorry to hear it. Not something I intended.",
+   "ro": "Păcat. Nu asta am intenționat."
+  },
+  {
+   "key": "3535035148356685824",
+   "en": "Reed's fault, really.",
+   "ro": "De fapt, e vina lui Reed."
+  },
+  {
+   "key": "3535035702508130304",
+   "en": "Shouldn’t blame yourself. Reed practically forced the guy to make the connection.",
+   "ro": "N-ar trebui să te învinovățești. Practic, Reed l-a forțat pe tip să facă legătura."
+  },
+  {
+   "key": "3535037351372918784",
+   "en": "'Sides, better him than us, right?",
+   "ro": "Oricum, mai bine el decât noi, nu?"
+  },
+  {
+   "key": "3535082497368002560",
+   "en": "Got a plan, hear it in your voice.",
+   "ro": "Ai un plan, îl aud în vocea ta."
+  },
+  {
+   "key": "3535085903394508800",
+   "en": "Yeah. One I can't hope to enact without your help.",
+   "ro": "Da. Unul pe care nu-l pot pune în practică fără ajutorul tău."
+  },
+  {
+   "key": "3536111444478267392",
+   "en": "V, I-- I can't explain everything now, it's... too much. But I really do need your help.",
+   "ro": "V, eu-- nu pot să-ți explic totul acum, e... prea mult. Dar chiar am nevoie de ajutorul tău."
+  },
+  {
+   "key": "3536114871040086016",
+   "en": "All I want is to get that cure for us. It's what I've been chasin' all along.",
+   "ro": "Tot ce vreau e să fac rost de leac pentru noi. Asta caut de tot timpul."
+  },
+  {
+   "key": "3536212168306462720",
+   "en": "You'll then impersonate them for a meet with Hansen. Same meet where we'll swipe the matrix out from under his nose.",
+   "ro": "Apoi o să te dai drept ei la o întâlnire cu Hansen. Aceeași întâlnire în care o să furăm matricea de sub nasul lui."
+  },
+  {
+   "key": "3536256193969393664",
+   "en": "Wait, what's the rush?",
+   "ro": "Așteaptă, ce atâta grabă?"
+  },
+  {
+   "key": "3536257218553974784",
+   "en": "I might be talking to you, but in the flesh I'm with Hansen. I'll need to focus, play nice in a minute or he'll suspect something's up.",
+   "ro": "Vorbesc cu tine, da', dar în carne și oase sunt cu Hansen. Trebuie să mă concentrez, să joc frumos peste un minut, că altfel o să bănuiască ceva."
+  },
+  {
+   "key": "3536287654705500160",
+   "en": "Really need to go now, V. I’m countin' on you.",
+   "ro": "Chiar trebuie să plec acum, V. Mă bazez pe tine."
+  },
+  {
+   "key": "3536294921672724480",
+   "en": "Preem, noted. Anything else?",
+   "ro": "Beton, notat. Altceva?"
+  },
+  {
+   "key": "3536300218021711872",
+   "en": "Songbird...? Right, OK…",
+   "ro": "Songbird...? Bine, OK…"
+  },
+  {
+   "key": "3536310237425438720",
+   "en": "You're blowin' me off…",
+   "ro": "Mă ignori…"
+  },
+  {
+   "key": "3536312428529848320",
+   "en": "Songbird...? Aaand she’s gone.",
+   "ro": "Songbird...? Și gata, a dispărut."
+  },
+  {
+   "key": "3537567501557829632",
+   "en": "Neural matrix – what is it, exactly?",
+   "ro": "Matricea neurală? Ce e, mai exact?",
+   "ro_m": "Matricea neurală – ce e, mai exact?"
+  },
+  {
+   "key": "3539388510313254912",
+   "en": "It's varied shit for all three of us – there, I said it.",
+   "ro": "E rahat de tot felul pentru noi trei – na, am zis-o."
+  },
+  {
+   "key": "3552299072114266112",
+   "en": "It's all right, Song.",
+   "ro": "E în regulă, Song."
+  },
+  {
+   "key": "3552324092714684416",
+   "en": "We'll talk later. First order of business, we pull you outta here.",
+   "ro": "Vorbim mai încolo. Întâi de toate, te scoatem de aici."
+  },
+  {
+   "key": "3552350085185671168",
+   "en": "We need to klep it. Only way I see of doin' that is to stay close, play the prisoner.",
+   "ro": "Trebuie s-o ciordim. Singura șansă e să stăm aproape și să jucăm rolul prizonierului."
+  },
+  {
+   "key": "3552352827522289664",
+   "en": "We'll wait for an opportunity and pounce. I'll be on the inside, ask for your help when the time's right. I can flee once I have that tech.",
+   "ro": "Așteptăm o ocazie și atacăm. Eu stau înăuntru, cer ajutorul tău când e momentul. Fug imediat ce pun mâna pe tehnologia aia."
+  },
+  {
+   "key": "3559632461964120064",
+   "en": "You klep the access codes, then get the 'runners out of the way.",
+   "ro": "Tu ciordești codurile de acces, apoi îi scoți pe runneri din cale."
+  },
+  {
+   "key": "3559651498953674752",
+   "en": "Of all people, could'nt've imagined those two would be on our side, helpin'.",
+   "ro": "Dintre toți, nu mi-aș fi închipuit vreodată că ăia doi o să fie de partea noastră, să ne ajute."
+  },
+  {
+   "key": "3559655999928406016",
+   "en": "You're hidin' somethin', still.",
+   "ro": "Încă ascunzi ceva."
+  },
+  {
+   "key": "3559672151991783424",
+   "en": "Things… happen.",
+   "ro": "Lucrurile… se întâmplă."
+  },
+  {
+   "key": "3601578103744999424",
+   "en": "They're here. Downstairs.",
+   "ro": "Sunt aici. La parter."
+  },
+  {
+   "key": "3601579791264493568",
+   "en": "Redheaded twins walled to the teeth with ICE. Kiroshi scans'll show you bunk.",
+   "ro": "Gemeni roșcați, până-n dinți cu ICE. Scanerele Kiroshi n-o să-ți arate nimic."
+  },
+  {
+   "key": "3721806416471371788",
+   "en": "[Lean] Lookin' good in that dress.",
+   "ro": "[Sprijină-te] Îți stă bine în rochia aia."
+  },
+  {
+   "key": "3721806416471371812",
+   "en": "[Lean] You're chromed out, different from the hologram.",
+   "ro": "[Sprijină-te] Ești chromată, nu ca în hologramă.",
+   "ro_m": "[Sprijină-te] Ești chromat, nu ca în hologramă."
+  },
+  {
+   "key": "3721806416471371836",
+   "en": "[Lean] Don’t exactly look like a prisoner.",
+   "ro": "[Sprijină-te] Nu arăți tocmai a prizonieră.",
+   "ro_m": "[Sprijină-te] Nu arăți tocmai a prizonier."
+  }
+ ]
+}

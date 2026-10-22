@@ -1,0 +1,305 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q307\\q307_00_chickentest.json",
+ "entries": [
+  {
+   "key": "2573847267784171520",
+   "en": "[db_db]Select where to start",
+   "ro": "[db_db]Selectează de unde să începi"
+  },
+  {
+   "key": "2573847419685085184",
+   "en": "[db_db]Choose debug options",
+   "ro": "[db_db]Alege opțiunile de debug"
+  },
+  {
+   "key": "2573848181874008068",
+   "en": "[db_db]Yes, activate Debug Fact",
+   "ro": "[db_db]Da, activează Debug Fact"
+  },
+  {
+   "key": "2573853027352092672",
+   "en": "[db_db]No, don't activate Debug Fact",
+   "ro": "[db_db]Nu, nu activa Debug Fact"
+  },
+  {
+   "key": "2573854005581225988",
+   "en": "[db_db]Corpo Path",
+   "ro": "[db_db]Calea corpo"
+  },
+  {
+   "key": "2573854712858320896",
+   "en": "[db_db]Nomad Path",
+   "ro": "[db_db]Calea nomad"
+  },
+  {
+   "key": "2573854857276596224",
+   "en": "[db_db]Streetkid Path",
+   "ro": "[db_db]Calea Street Kid"
+  },
+  {
+   "key": "2573856548738736132",
+   "en": "[db_db]MaxSkillAllWeapons",
+   "ro": "[db_db]MaxSkillAllWeapons"
+  },
+  {
+   "key": "2573857018769219584",
+   "en": "[db_db]Netrunner",
+   "ro": "[db_db]Netrunner"
+  },
+  {
+   "key": "2573857365839486976",
+   "en": "[db_db]Solo",
+   "ro": "[db_db]Solo"
+  },
+  {
+   "key": "2573857428116512768",
+   "en": "[db_db]Techie",
+   "ro": "[db_db]Tehnician"
+  },
+  {
+   "key": "2573857814378356736",
+   "en": "[db_db]None",
+   "ro": "[db_db]Niciunul"
+  },
+  {
+   "key": "2573860414041530372",
+   "en": "[db_db]After Q110 rooftop",
+   "ro": "[db_db]După acoperiș, Q110"
+  },
+  {
+   "key": "2602925006684069888",
+   "en": "[db_db]Q115 Rooftop",
+   "ro": "[db_db]Acoperiș Q115"
+  },
+  {
+   "key": "2602925502719238144",
+   "en": "[db_db]Hospital",
+   "ro": "[db_db]Spital"
+  },
+  {
+   "key": "2602925961995526144",
+   "en": "[db_db]Cabride",
+   "ro": "[db_db]Cursă cu taxiul"
+  },
+  {
+   "key": "2602964584841256960",
+   "en": "[db_db]More options",
+   "ro": "[db_db]Mai multe opțiuni"
+  },
+  {
+   "key": "2602965052422266896",
+   "en": "[db_db]Alley",
+   "ro": "[db_db]Alee"
+  },
+  {
+   "key": "2602965052422266908",
+   "en": "[db_db]Viktor",
+   "ro": "[db_db]Viktor"
+  },
+  {
+   "key": "2602965052422266920",
+   "en": "[db_db]Thugs",
+   "ro": "[db_db]Bătăuși"
+  },
+  {
+   "key": "2602965052439044096",
+   "en": "[db_db]Misty",
+   "ro": "[db_db]Misty"
+  },
+  {
+   "key": "2602965052439044108",
+   "en": "[db_db]Cutscene",
+   "ro": "[db_db]Cutscene"
+  },
+  {
+   "key": "2602969534623293440",
+   "en": "[db_db]Previous options",
+   "ro": "[db_db]Opțiunile anterioare"
+  },
+  {
+   "key": "2941614140527124484",
+   "en": "[db_db]Yes, skip this sequence.",
+   "ro": "[db_db]Da, sari peste secvența asta."
+  },
+  {
+   "key": "2941615244988030976",
+   "en": "[db_db]No, let me continue.",
+   "ro": "[db_db]Nu, lasă-mă să continui."
+  },
+  {
+   "key": "2941615620428570624",
+   "en": "[db_db]No, and don't ask again.",
+   "ro": "[db_db]Nu, și nu mai întreba."
+  },
+  {
+   "key": "3136245858067193860",
+   "en": "[db_db]Judy is V's lover",
+   "ro": "[db_db]Judy e iubita lui V"
+  },
+  {
+   "key": "3136246651377852416",
+   "en": "[db_db]Kerry is V's lover",
+   "ro": "[db_db]Kerry e iubitul lui V"
+  },
+  {
+   "key": "3136249800142528512",
+   "en": "[db_db]Panam is V's lover",
+   "ro": "[db_db]Panam e iubita lui V"
+  },
+  {
+   "key": "3136250211737968640",
+   "en": "[db_db]River is V's lover",
+   "ro": "[db_db]River e iubitul lui V"
+  },
+  {
+   "key": "3136250591825797120",
+   "en": "[db_db]None of them",
+   "ro": "[db_db]Niciunul"
+  },
+  {
+   "key": "3136250768741539840",
+   "en": "[db_db]All of them (Debug)",
+   "ro": "[db_db]Toți (Debug)"
+  },
+  {
+   "key": "3244786757914501120",
+   "en": "[db_db]Coma",
+   "ro": "[db_db]Comă"
+  },
+  {
+   "key": "3244787101293780992",
+   "en": "[db_db]Pickup",
+   "ro": "[db_db]Preluare"
+  },
+  {
+   "key": "3327326153519308800",
+   "en": "[db_db]Delamain is unchanged",
+   "ro": "[db_db]Delamain e neschimbat"
+  },
+  {
+   "key": "3327393230993137664",
+   "en": "[db_db]Delamain was reset",
+   "ro": "[db_db]Delamain a fost resetat"
+  },
+  {
+   "key": "3327393474413764608",
+   "en": "[db_db]Delamain was destroyed",
+   "ro": "[db_db]Delamain a fost distrus"
+  },
+  {
+   "key": "3327393916661178368",
+   "en": "[db_db]Delamain was merged",
+   "ro": "[db_db]Delamain a fuzionat"
+  },
+  {
+   "key": "3479483901697761284",
+   "en": "[db_db]Friends with Johnny",
+   "ro": "[db_db]Prietenă cu Johnny",
+   "ro_m": "[db_db]Prieten cu Johnny"
+  },
+  {
+   "key": "3479483976255709188",
+   "en": "[db_db]Q305 Ending",
+   "ro": "[db_db]Finalul Q305"
+  },
+  {
+   "key": "3479484881789165568",
+   "en": "[db_db]Not friends with Johnny",
+   "ro": "[db_db]Nu e prietenă cu Johnny",
+   "ro_m": "[db_db]Nu e prieten cu Johnny"
+  },
+  {
+   "key": "3479486152696832000",
+   "en": "[db_db]Q306 Ending",
+   "ro": "[db_db]Finalul Q306"
+  },
+  {
+   "key": "3547957921287675908",
+   "en": "[db_db]V didn't call Reed before",
+   "ro": "[db_db]V nu l-a sunat pe Reed înainte"
+  },
+  {
+   "key": "3547958106323591168",
+   "en": "[db_db]V called Reed before",
+   "ro": "[db_db]V l-a sunat pe Reed înainte"
+  },
+  {
+   "key": "3647999769225371652",
+   "en": "[db_db]Start with Reed",
+   "ro": "[db_db]Începe cu Reed"
+  },
+  {
+   "key": "3648000037778268160",
+   "en": "[db_db]Start after Reed",
+   "ro": "[db_db]Începe după Reed"
+  },
+  {
+   "key": "3669430270502805504",
+   "en": "[db_db]Final Boards",
+   "ro": "[db_db]Panouri finale"
+  },
+  {
+   "key": "3821641946831122440",
+   "en": "[db_db]Delamain is unchanged",
+   "ro": "[db_db]Delamain e neschimbat"
+  },
+  {
+   "key": "3821641946831122456",
+   "en": "[db_db]Delamain was reset",
+   "ro": "[db_db]Delamain a fost resetat"
+  },
+  {
+   "key": "3821641946847899652",
+   "en": "[db_db]Delamain was destroyed",
+   "ro": "[db_db]Delamain a fost distrus"
+  },
+  {
+   "key": "3821641946847899668",
+   "en": "[db_db]Delamain was merged",
+   "ro": "[db_db]Delamain a fuzionat"
+  },
+  {
+   "key": "3821642250330959884",
+   "en": "[db_db]Friends with Johnny",
+   "ro": "[db_db]Prietenă cu Johnny",
+   "ro_m": "[db_db]Prieten cu Johnny"
+  },
+  {
+   "key": "3821642250330959900",
+   "en": "[db_db]Not friends with Johnny",
+   "ro": "[db_db]Nu e prietenă cu Johnny",
+   "ro_m": "[db_db]Nu e prieten cu Johnny"
+  },
+  {
+   "key": "3821642592300953612",
+   "en": "[db_db]Q305 Ending",
+   "ro": "[db_db]Finalul Q305"
+  },
+  {
+   "key": "3821642592317730824",
+   "en": "[db_db]Q306 Ending",
+   "ro": "[db_db]Finalul Q306"
+  },
+  {
+   "key": "3824567618775937024",
+   "en": "[db_db]V accepts Misty hand",
+   "ro": "[db_db]V acceptă mâna lui Misty"
+  },
+  {
+   "key": "3824567830454071296",
+   "en": "[db_db]V stands up by themselves",
+   "ro": "[db_db]V se ridică singură",
+   "ro_m": "[db_db]V se ridică singur"
+  },
+  {
+   "key": "3923002950567501828",
+   "en": "[db_db]Random appearance",
+   "ro": "[db_db]Aspect aleatoriu"
+  },
+  {
+   "key": "3923003282219507712",
+   "en": "[db_db]Custom appearance",
+   "ro": "[db_db]Aspect personalizat"
+  }
+ ]
+}

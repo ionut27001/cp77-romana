@@ -1,0 +1,767 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q110\\q110_14_alt.json",
+ "entries": [
+  {
+   "key": "1567712226695254016",
+   "en": "Why the fuck isn't it?",
+   "ro": "De ce pula mea nu e?"
+  },
+  {
+   "key": "1567848151756640256",
+   "en": "You created Soulkiller. You handed Arasaka a fuckin' super weapon that dismantled me, you and half the 'runners in Night City!",
+   "ro": "Tu ai creat Soulkiller. I-ai dat Arasaka o nenorocită de superarmă care ne-a desființat pe mine, pe tine și pe jumătate dintre netrunnerii din Night City!"
+  },
+  {
+   "key": "1567848513993510912",
+   "en": "Your death was of your own making.",
+   "ro": "Moartea ta a fost opera ta."
+  },
+  {
+   "key": "1567848840025149440",
+   "en": "Jesus, Alt, I dove in after you. Gonna tell me now this ain't your problem?",
+   "ro": "Doamne, Alt, am sărit după tine. Acum o să-mi spui că nu e problema ta?"
+  },
+  {
+   "key": "1567865230123667456",
+   "en": "It is not. The Alt Cunningham you strove to save in Arasaka Tower no longer exists.",
+   "ro": "Nu e. Alt Cunningham pe care ai încercat s-o salvezi în Turnul Arasaka nu mai e."
+  },
+  {
+   "key": "1614242359262121984",
+   "en": "This should be obvious to you as you were responsible for her death.",
+   "ro": "Ar trebui să-ți fie clar, că tu ești de vină pentru moartea ei."
+  },
+  {
+   "key": "1695389307310723072",
+   "en": "Voodoo Boys – what about them?",
+   "ro": "Voodoo Boys – ce e cu ei?"
+  },
+  {
+   "key": "1695391416089333760",
+   "en": "They shall let you pass unharmed. Those were our terms.",
+   "ro": "O să te lase să treci nevătămată. Astea au fost condițiile noastre.",
+   "ro_m": "O să te lase să treci nevătămat. Astea au fost condițiile noastre."
+  },
+  {
+   "key": "1699572875838640128",
+   "en": "Alt, before you leave, we gotta talk. Just you and me.",
+   "ro": "Alt, înainte să pleci, trebuie să vorbim. Doar tu și eu."
+  },
+  {
+   "key": "1699829769710145536",
+   "en": "What of Brigitte and the Voodoo Boys?",
+   "ro": "Ce-i cu Brigitte și cu Voodoo Boys?"
+  },
+  {
+   "key": "1699830939971293184",
+   "en": "I was forced to purge them. NetWatch was exploiting their BBS.",
+   "ro": "Am fost nevoită să-i elimin. NetWatch le exploata BBS-ul."
+  },
+  {
+   "key": "1699831363277230080",
+   "en": "\"Purge?\" Mean they're dead, all of them?",
+   "en_m": "\"Purge?\" Mean they're dead, all of 'em?",
+   "ro": "„Purg?” Adică sunt morți toți?"
+  },
+  {
+   "key": "1699851405641453568",
+   "en": "What'd you do with Brigitte? She still alive?",
+   "ro": "Ce-ai făcut cu Brigitte? E încă în viață?"
+  },
+  {
+   "key": "1699851405641453580",
+   "en": "Yes – but she is not needed at the moment.",
+   "ro": "Da – dar acum nu-i trebuie."
+  },
+  {
+   "key": "1699851405641453592",
+   "en": "What do you want?",
+   "ro": "Ce vrei?"
+  },
+  {
+   "key": "1699852544579538944",
+   "en": "Brigitte – what'd she want from you in exchange for Johnny?",
+   "ro": "Brigitte – ce voia de la tine în schimbul lui Johnny?"
+  },
+  {
+   "key": "1699852544596316176",
+   "en": "And why'd they wanna go out there?",
+   "ro": "Și de ce voiau să iasă acolo?"
+  },
+  {
+   "key": "1699852544596316188",
+   "en": "The corporation-controlled net is now nearly as unstable as it was before the Blackwall's creation.",
+   "ro": "Netul controlat de corporații e acum aproape la fel de instabil ca înainte de crearea Blackwall-ului."
+  },
+  {
+   "key": "1699852544596316200",
+   "en": "The Voodoo Boys wished to use this to their advantage – to fight on our side when the time comes.",
+   "ro": "Voodoo Boys au vrut să profite de asta – să lupte alături de noi când vine momentul."
+  },
+  {
+   "key": "1699852544613093380",
+   "en": "\"Your side\" meaning that of free AIs? That even possible?",
+   "en_m": "\"Your side\" meanin' that of free AIs? That even possible?",
+   "ro": "„Partea voastră” adică cea a AI-urilor libere? E posibil așa ceva?"
+  },
+  {
+   "key": "1699855083895066624",
+   "en": "That I guarantee her and her clan's safety beyond the Blackwall.",
+   "ro": "Că le garantez ei și clanului ei siguranța dincolo de Blackwall."
+  },
+  {
+   "key": "1699855759698104320",
+   "en": "If they prepare appropriately.",
+   "ro": "Dacă se pregătesc cum trebuie."
+  },
+  {
+   "key": "1699957172851773440",
+   "en": "No. That will not be possible.",
+   "ro": "Nu. Nu se poate."
+  },
+  {
+   "key": "1730061768471154688",
+   "en": "Brigitte – what'd she want from you in exchange for Johnny?",
+   "ro": "Brigitte – ce voia de la tine în schimbul lui Johnny?"
+  },
+  {
+   "key": "1730061768471154700",
+   "en": "That I guarantee her and her clan's safety beyond the Blackwall.",
+   "ro": "Că le garantez ei și clanului ei siguranța dincolo de Blackwall."
+  },
+  {
+   "key": "1730061768487931908",
+   "en": "And what'd they wanna find out there?",
+   "ro": "Și ce voiau să găsească acolo?"
+  },
+  {
+   "key": "1730061768487931920",
+   "en": "The corporation-controlled net is now nearly as unstable as it was before the Blackwall's creation.",
+   "ro": "Netul controlat de corporații e acum aproape la fel de instabil ca înainte de crearea Blackwall-ului."
+  },
+  {
+   "key": "1730061768487931932",
+   "en": "The Voodoo Boys wished to use this to their advantage – to fight on our side when the time comes.",
+   "ro": "Voodoo Boys au vrut să profite de asta – să lupte alături de noi când vine momentul."
+  },
+  {
+   "key": "1730067878045356032",
+   "en": "Not actually gonna feel bad for 'em, are ya?",
+   "ro": "Chiar o să-ți pară rău de ei?"
+  },
+  {
+   "key": "1953439749166092288",
+   "en": "NetWatch propaganda has been effective. Do you see me as a demon who requires a pact signed in blood?",
+   "ro": "Propaganda NetWatch a funcționat de minune. Mă vezi ca pe un demon care cere un pact semnat cu sânge?"
+  },
+  {
+   "key": "1953461074484023300",
+   "en": "Johnny's got it planned out. Question is your fee.",
+   "ro": "Johnny are totul pus la punct. Întrebarea e cât ceri."
+  },
+  {
+   "key": "1953461530824298496",
+   "en": "The Relic is killing me.",
+   "ro": "Relic-ul mă omoară."
+  },
+  {
+   "key": "1953471819368124416",
+   "en": "Don't know who you are.",
+   "ro": "Nu știu cine ești."
+  },
+  {
+   "key": "1953472304313552896",
+   "en": "Just wanna survive, live on.",
+   "ro": "Vreau doar să supraviețuiesc, să trăiesc mai departe."
+  },
+  {
+   "key": "1953483168903090176",
+   "en": "Got no clue who you are now. Know a little about who you were.",
+   "ro": "N-am nicio idee cine ești acum. Știu puțin despre cine erai."
+  },
+  {
+   "key": "1953484885178732544",
+   "en": "Listen, I'm just tryna survive.",
+   "ro": "Ascultă, încerc doar să supraviețuiesc."
+  },
+  {
+   "key": "1953485898522578944",
+   "en": "And Johnny, that he was important to you, while I'm no one. So I'm askin' – what's it gonna cost?",
+   "ro": "Și că Johnny ți-a fost important, pe când eu nu sunt nimeni. Deci întreb: cât costă?"
+  },
+  {
+   "key": "1953522599907315712",
+   "en": "I cannot help you.",
+   "ro": "Nu te pot ajuta."
+  },
+  {
+   "key": "1954797616632713216",
+   "en": "Relax, lemme handle this.",
+   "ro": "Relaxează-te, lasă că mă ocup eu."
+  },
+  {
+   "key": "1954797616716599296",
+   "en": "Johnny.",
+   "ro": "Johnny."
+  },
+  {
+   "key": "1954797616817262592",
+   "en": "Came through the Blackwall to meet me… That mean we're good, things're chill between us?",
+   "ro": "Ai trecut prin Blackwall să mă vezi… Deci suntem ok, nu?"
+  },
+  {
+   "key": "1954797616917925888",
+   "en": "I have recognized your engram code, but I do not know why you are here.",
+   "ro": "Ți-am recunoscut codul de engram, dar nu știu de ce ești aici."
+  },
+  {
+   "key": "1954797617236692992",
+   "en": "V, this is Alt – best netrunner Night City's ever seen.",
+   "ro": "V, asta e Alt – cel mai bun netrunner pe care l-a văzut vreodată Night City."
+  },
+  {
+   "key": "1954797617488351232",
+   "en": "My fault, I brought NetWatch here.",
+   "ro": "Vina mea, am adus NetWatch aici."
+  },
+  {
+   "key": "1954797617505128448",
+   "en": "What about the Voodoo Boys?",
+   "ro": "Ce e cu Voodoo Boys?"
+  },
+  {
+   "key": "1954797617505128464",
+   "en": "What did Brigitte want from you?",
+   "ro": "Ce voia Brigitte de la tine?"
+  },
+  {
+   "key": "1954797617639346180",
+   "en": "Dammit. I brought NetWatch here. Agent I dealt with must've slipped me a tracker that led 'em right in.",
+   "en_m": "Dammit! I brought NetWatch here. Agent I dealt with must've slipped me a tracker that led 'em right in.",
+   "ro": "La naiba. Am adus NetWatch aici. Agentul cu care am avut de-a face trebuie să-mi fi strecurat un tracker care i-a adus direct aici.",
+   "ro_m": "La naiba! Am adus NetWatch aici. Agentul cu care am avut de-a face trebuie să-mi fi strecurat un tracker care i-a adus direct aici."
+  },
+  {
+   "key": "1954797617740009472",
+   "en": "Prolly how they got to you.",
+   "ro": "Probabil așa au ajuns la tine."
+  },
+  {
+   "key": "1954797617823895552",
+   "en": "It matters not. The entire subnet was destroyed.",
+   "ro": "Nu contează. Întregul subnet a fost distrus."
+  },
+  {
+   "key": "1954797617907781632",
+   "en": "Alt...",
+   "ro": "Alt..."
+  },
+  {
+   "key": "1954797618008444928",
+   "en": "You pulled us outta there – that mean you and us, we're OK, everything's chill?",
+   "ro": "Ne-ai scos de acolo – asta înseamnă că noi suntem bine, tu și cu noi, totul e în ordine?"
+  },
+  {
+   "key": "1954797618075553792",
+   "en": "I have recognized your engram code, but I do not know why you are here.",
+   "ro": "Ți-am recunoscut codul de engram, dar nu știu de ce ești aici."
+  },
+  {
+   "key": "1954797619082186752",
+   "en": "What's the price I gotta pay for you to save my life?",
+   "ro": "Cât trebuie să plătesc ca să-mi salvezi viața?"
+  },
+  {
+   "key": "1954797619082186768",
+   "en": "What did the VDBs want for in exchange for the construct?",
+   "ro": "Ce voiau VDB-ii în schimbul constructului?"
+  },
+  {
+   "key": "1954797619098963972",
+   "en": "What'd you do with Brigitte?",
+   "ro": "Ce-ai făcut cu Brigitte?"
+  },
+  {
+   "key": "1954797620508250112",
+   "en": "NetWatch cannot touch me here.",
+   "ro": "NetWatch nu mă poate atinge aici."
+  },
+  {
+   "key": "1954797620692799488",
+   "en": "NetWatch was well prepared this time.",
+   "ro": "NetWatch s-a pregătit bine de data asta."
+  },
+  {
+   "key": "1954801787364724736",
+   "en": "To give ya a chance to pay me back for gettin' you outta Arasaka Tower.",
+   "ro": "Ca să-ți dau o șansă să-mi plătești pentru că te-am scos din Turnul Arasaka."
+  },
+  {
+   "key": "1954814379856515072",
+   "en": "Alt, this is V – you need to save her life.",
+   "en_m": "Alt, this is V – you need to save his life.",
+   "ro": "Alt, ăsta e V – trebuie să-i salvezi viața."
+  },
+  {
+   "key": "1954817335314108416",
+   "en": "So you can pay me back for gettin' you outta Arasaka Tower.",
+   "ro": "Ca să-mi plătești pentru că te-am scos din Turnul Arasaka."
+  },
+  {
+   "key": "1954817420508811264",
+   "en": "V, this is Alt – best netrunner Night City's ever seen.",
+   "ro": "V, asta e Alt – cel mai bun netrunner pe care l-a văzut vreodată Night City."
+  },
+  {
+   "key": "1954819219311579136",
+   "en": "Alt, this is V – you need to save her life.",
+   "en_m": "Alt, this is V – you need to save his life.",
+   "ro": "Alt, ăsta e V – trebuie să-i salvezi viața."
+  },
+  {
+   "key": "1954822922848456704",
+   "en": "The Relic is killing me.",
+   "ro": "Relic-ul mă omoară."
+  },
+  {
+   "key": "1954828137307852800",
+   "en": "As you can see, Johnny's got it all thought out.",
+   "ro": "Cum vezi, Johnny a gândit totul."
+  },
+  {
+   "key": "1954830483534401536",
+   "en": "But there's the question of what you'll want in return.",
+   "ro": "Dar rămâne să vedem ce o să vrei în schimb."
+  },
+  {
+   "key": "1954835782030872576",
+   "en": "To save my life… what's it gonna cost?",
+   "ro": "Ca să-mi salvezi viața… cât o să coste?"
+  },
+  {
+   "key": "1954839529054294016",
+   "en": "The chip, the Relic, it's killin' me. Construct on it is wormin' its way through my neural system.",
+   "en_m": "This chip, the Relic, it's killin' me. Construct on it is wormin' its way through my neural system.",
+   "ro": "Cipul ăsta, Relic-ul, mă omoară. Constructul de pe el îmi râmează prin sistemul neural.",
+   "ro_m": "Cipul ăsta, Relic-ul, mă omoară. Constructul de pe el își face loc prin sistemul meu neural."
+  },
+  {
+   "key": "1954847340878385152",
+   "en": "I see this. But why is it my problem?",
+   "ro": "Văd asta. Dar de ce e problema mea?"
+  },
+  {
+   "key": "1954855277508186116",
+   "en": "OK, I get it, you hate Johnny's guts. But what about me?",
+   "ro": "OK, am înțeles, îl urăști pe Johnny de moarte. Dar eu?"
+  },
+  {
+   "key": "1954855278380601344",
+   "en": "I cannot help you.",
+   "ro": "Nu te pot ajuta."
+  },
+  {
+   "key": "1954855281115287552",
+   "en": "Wasn't Johnny's fault.",
+   "ro": "Nu a fost vina lui Johnny."
+  },
+  {
+   "key": "1954855281115287572",
+   "en": "OK, got a beef with Johnny, but what about me?",
+   "ro": "OK, ai o problemă cu Johnny, dar eu?"
+  },
+  {
+   "key": "1954855282021257220",
+   "en": "Your death wasn't Johnny's fault.",
+   "ro": "Moartea ta n-a fost vina lui Johnny."
+  },
+  {
+   "key": "1954855282927226880",
+   "en": "How could you know?",
+   "ro": "Cum ai putut ști?"
+  },
+  {
+   "key": "1954855283749310464",
+   "en": "Seen you in his memories… It was an accident.",
+   "ro": "Te-am văzut în amintirile lui… A fost un accident."
+  },
+  {
+   "key": "1954855284571394048",
+   "en": "What you saw was his subjective view of what happened. A warped account of events he locked away in his subconscious and replayed time and again.",
+   "ro": "Ce ai văzut e doar felul lui subiectiv de a vedea lucrurile. O versiune strâmbă a ce s-a întâmplat, pe care a închis-o în subconștient și a tot derulat-o."
+  },
+  {
+   "key": "1954855285376700416",
+   "en": "It bears no resemblance to the truth.",
+   "ro": "Nu are nicio legătură cu adevărul."
+  },
+  {
+   "key": "1954855287087976452",
+   "en": "If you're not Alt, who are you?",
+   "ro": "Dacă nu ești Alt, cine ești?"
+  },
+  {
+   "key": "1954855287977168896",
+   "en": "I use her engramatic data.",
+   "ro": "Folosesc datele ei engramatice."
+  },
+  {
+   "key": "1954855288799252480",
+   "en": "Really. You find this \"icy bitch\" aspect in there, too?",
+   "ro": "Serios. Găsești și aspectul ăsta de „curvă rece” acolo?"
+  },
+  {
+   "key": "1954863919770914816",
+   "en": "Can't? Or won't?",
+   "ro": "Nu poți? Sau nu vrei?"
+  },
+  {
+   "key": "1954869250546749440",
+   "en": "Mind unloadin' this baggage later?",
+   "en_m": "You mind unloadin' this baggage later?",
+   "ro": "Te superi dacă lăsăm bagajul ăsta pe mai târziu?"
+  },
+  {
+   "key": "1954869257425408000",
+   "en": "Wasn't sure what to expect from a meeting with an AI, but it sure wasn't a digital spat.",
+   "ro": "Nu știam la ce să mă aștept de la o întâlnire cu un AI, dar sigur nu la o ceartă digitală."
+  },
+  {
+   "key": "1954869264505393152",
+   "en": "How's that help me, exactly?",
+   "ro": "Cum mă ajută asta, mai exact?"
+  },
+  {
+   "key": "1954869271316942848",
+   "en": "Well, didn't make it any worse.",
+   "en_m": "Aa, didn't make it any worse.",
+   "ro": "Păi, n-a făcut-o mai rea."
+  },
+  {
+   "key": "1954869412195225600",
+   "en": "Maybe you two can hash this out later?",
+   "ro": "Poate vă lămuriți mai târziu?"
+  },
+  {
+   "key": "1954875850820964356",
+   "en": "What? You created Soulkiller.",
+   "ro": "Ce? Tu ai creat Soulkiller."
+  },
+  {
+   "key": "1954877716145393664",
+   "en": "Can't. To attempt to do so, I would need access to more advanced technology.",
+   "ro": "Nu pot. Ca să încerc, aș avea nevoie de acces la o tehnologie mai avansată."
+  },
+  {
+   "key": "1954880173705547776",
+   "en": "Interesting. Brigitte said it'd be possible.",
+   "ro": "Interesant. Brigitte a spus că ar fi posibil."
+  },
+  {
+   "key": "1954881962576203776",
+   "en": "What? But it's your tech, you created Soulkiller.",
+   "ro": "Ce? Dar e tehnologia ta, tu ai creat Soulkiller."
+  },
+  {
+   "key": "1954882340013232128",
+   "en": "Interesting... Brigitte claimed she alone could help me.",
+   "ro": "Interesant... Brigitte a pretins că doar ea mă poate ajuta."
+  },
+  {
+   "key": "1954886939403112448",
+   "en": "The Voodoo Boys deceived you.",
+   "ro": "Voodoo Boys te-au înșelat."
+  },
+  {
+   "key": "1954887114020376576",
+   "en": "Why'm I not surprised?",
+   "ro": "De ce nu mă mir?"
+  },
+  {
+   "key": "1954891346056335360",
+   "en": "The program I created has little in common with how Arasaka has since repurposed it.",
+   "ro": "Programul pe care l-am creat are puțin în comun cu ce a făcut Arasaka cu el de atunci."
+  },
+  {
+   "key": "1954892883470077952",
+   "en": "Fine... So how about Mikoshi? That advanced enough for ya?",
+   "ro": "Bine... Și Mikoshi? E suficient de avansat pentru tine?"
+  },
+  {
+   "key": "1954894758827282432",
+   "en": "If I could gain access to Mikoshi, it would cease to exist.",
+   "ro": "Dacă aș putea accesa Mikoshi, ar înceta să existe."
+  },
+  {
+   "key": "1954897791392960516",
+   "en": "What can you do for me, exactly?",
+   "ro": "Ce poți face pentru mine, mai exact?"
+  },
+  {
+   "key": "1954899034752438272",
+   "en": "Good, we can work with that. We'll get you inside Mikoshi, and you'll help V – deal?",
+   "ro": "Bine, merge. Te băgăm în Mikoshi, iar tu te ocupi de V – bate palma?"
+  },
+  {
+   "key": "1954900887057747968",
+   "en": "City's best netrunner can't break into Mikoshi on her own?",
+   "ro": "Cel mai bun netrunner din oraș nu poate sparge Mikoshi singură?"
+  },
+  {
+   "key": "1954901708503797760",
+   "en": "What can you do for me, exactly?",
+   "ro": "Ce poți face pentru mine, mai exact?"
+  },
+  {
+   "key": "1954902534462918656",
+   "en": "With the Soulkiller resident inside Mikoshi, I will create a construct of you, then disentangle your neural network from Johnny's.",
+   "ro": "Cu Soulkiller-ul din Mikoshi, o să-ți creez un construct, apoi o să-ți desfac rețeaua neuronală de a lui Johnny."
+  },
+  {
+   "key": "1954903097606950912",
+   "en": "Everyone I've met so far says I'm too far gone.",
+   "en_m": "Everyone I've met so far said I'm too far gone.",
+   "ro": "Toți cei pe care i-am cunoscut până acum zic că am ajuns prea departe."
+  },
+  {
+   "key": "1954904187471679488",
+   "en": "By \"everyone\" you mean Hellman? Saburo's personal assmunch?",
+   "ro": "Prin „toți” te referi la Hellman? Lingăul personal al lui Saburo?"
+  },
+  {
+   "key": "1954906108295139328",
+   "en": "Best 'runner Night City's ever seen can't bust into Mikoshi on her own?",
+   "ro": "Cea mai bună 'runner pe care a văzut-o Night City nu poate sparge Mikoshi de una singură?",
+   "ro_m": "Cel mai bun 'runner pe care l-a văzut Night City nu poate sparge Mikoshi de unul singur?"
+  },
+  {
+   "key": "1954906939891404800",
+   "en": "I am a well known threat there. They have a layer of black ICE with my name on it, literally.",
+   "ro": "Acolo am reputație de amenințare. Au un strat de ICE negru cu numele meu pe el, literal."
+  },
+  {
+   "key": "1954908237659394048",
+   "en": "I refuse to be caged in there ever again.",
+   "ro": "Nu mai vreau să fiu închisă acolo, niciodată.",
+   "ro_m": "Nu mai vreau să fiu închis acolo, niciodată."
+  },
+  {
+   "key": "1954910211448524800",
+   "en": "Kinda like a custom-made prison jumpsuit…",
+   "ro": "Cam ca un combinezon de pușcărie făcut la comandă…"
+  },
+  {
+   "key": "1954916956963098628",
+   "en": "So... you'll save my life but flatline me along the way?",
+   "ro": "Deci... îmi salvezi viața, dar mă lichidezi pe drum?"
+  },
+  {
+   "key": "1954916957114093568",
+   "en": "Your consciousness, neural engrams, will be recorded as data. The rest will cease to exist.",
+   "ro": "Conștiința ta, engramurile neuronale, o să fie înregistrate ca date. Restul o să nu mai existe."
+  },
+  {
+   "key": "1954916957231534080",
+   "en": "The rest?",
+   "ro": "Restul?"
+  },
+  {
+   "key": "1954916957332197376",
+   "en": "The soul. I did not grant the program its name, but Soulkiller does precisely what it promises to do.",
+   "ro": "Sufletul. Nu eu i-am dat programului numele, dar Soulkiller face exact ce promite."
+  },
+  {
+   "key": "1954916957466415104",
+   "en": "Christ, I don't wanna listen to this bullshit.",
+   "ro": "Doamne, nu mai vreau să ascult vrăjeala asta."
+  },
+  {
+   "key": "1954916957650964480",
+   "en": "V just hops back into her body, right? Nothin' changes.",
+   "en_m": "V just hops back into his body, right? Nothin' changes.",
+   "ro": "V sare înapoi în corpul ei, nu? Nu se schimbă nimic.",
+   "ro_m": "V sare înapoi în corpul lui, nu? Nu se schimbă nimic."
+  },
+  {
+   "key": "1954916957785182208",
+   "en": "Everything changes. You know this well.",
+   "ro": "Totul se schimbă. Știi bine asta."
+  },
+  {
+   "key": "1954917137620160516",
+   "en": "OK, so we got a plan.",
+   "ro": "Bun, deci avem plan."
+  },
+  {
+   "key": "1954917734587060224",
+   "en": "Gotta kill me to save me?",
+   "ro": "Trebuie să mă omori ca să mă salvezi?"
+  },
+  {
+   "key": "1954919692974706688",
+   "en": "Right, so we got a plan.",
+   "ro": "Bine, deci avem un plan."
+  },
+  {
+   "key": "1954920779131670528",
+   "en": "But how will you reach Mikoshi? I've created armies that failed to breach it.",
+   "ro": "Dar cum o să ajungi la Mikoshi? Am creat armate care n-au reușit să o spargă."
+  },
+  {
+   "key": "1954921434231623680",
+   "en": "They were children of the Net – there's your problem.",
+   "ro": "Erau copiii Netului, asta-i problema ta."
+  },
+  {
+   "key": "1954921861933191168",
+   "en": "We're bankin' on the human factor.",
+   "ro": "Mizăm pe factorul uman."
+  },
+  {
+   "key": "1954926434127204352",
+   "en": "V's the most sociable fucker I've ever met. Has powerful friends – mercs, nomads…",
+   "ro": "V e cea mai sociabilă nenorocită pe care am întâlnit-o vreodată. Are prieteni puternici – merci, nomazi…",
+   "ro_m": "V e cel mai sociabil nenorocit pe care l-am întâlnit vreodată. Are prieteni puternici – merci, nomazi…"
+  },
+  {
+   "key": "1954926818241564672",
+   "en": "We'll crack a window, slip you into Mikoshi.",
+   "ro": "Deschidem o breșă, te strecurăm în Mikoshi."
+  },
+  {
+   "key": "1954932191832854528",
+   "en": "Believe it or not, folks at the Afterlife adore V. They'll have her back.",
+   "en_m": "Believe it or not, folks at the Afterlife adore V. They'll have his back.",
+   "ro": "Crezi sau nu, lumea de la Afterlife e nebună după V. O să-i țină spatele."
+  },
+  {
+   "key": "1954932569387323392",
+   "en": "V's got a big, dusty nomad family. And they'll do anything for her.",
+   "en_m": "V's got a big, dusty nomad family. And they'll do anything for him.",
+   "ro": "V are o familie de nomazi mare și prăfuită. Ar face orice pentru ea.",
+   "ro_m": "V are o familie de nomazi mare și prăfuită. Ar face orice pentru el."
+  },
+  {
+   "key": "1954939540639338500",
+   "en": "Are we agreed?",
+   "ro": "Suntem de acord?"
+  },
+  {
+   "key": "1954940866643382272",
+   "en": "Johnny's right.",
+   "ro": "Johnny are dreptate."
+  },
+  {
+   "key": "1954941253123330048",
+   "en": "So, we agreed?",
+   "ro": "Deci, ne-am înțeles?"
+  },
+  {
+   "key": "1954943069693169664",
+   "en": "Johnny's right. We can do this.",
+   "ro": "Johnny are dreptate. Putem s-o facem."
+  },
+  {
+   "key": "1954943848306987008",
+   "en": "You trust him deeply, I see.",
+   "ro": "Chiar ai încredere în el, se vede."
+  },
+  {
+   "key": "1954946984908181504",
+   "en": "Yes, we are agreed. Find a path into Mikoshi, I shall prepare a program to help you navigate the localnet.",
+   "ro": "Da, suntem de acord. Găsește o cale spre Mikoshi, o să pregătesc un program care să te ajute să navighezi în localnet."
+  },
+  {
+   "key": "1954949789387608064",
+   "en": "How'll I contact you once I'm ready?",
+   "ro": "Cum te contactez când sunt gata?"
+  },
+  {
+   "key": "1954950537634664448",
+   "en": "This is a BBS address. It will be our secure communication channel.",
+   "ro": "Asta e o adresă BBS. O să fie canalul nostru securizat."
+  },
+  {
+   "key": "1954959234658226176",
+   "en": "You don't?",
+   "ro": "Tu nu?"
+  },
+  {
+   "key": "1954959590368759808",
+   "en": "As you are the \"human factor,\" it is with you that I will set terms.",
+   "ro": "Fiindcă tu ești «factorul uman», cu tine o să stabilesc condițiile."
+  },
+  {
+   "key": "1954961503625695232",
+   "en": "Johnny gets goin', exaggerates sometimes.",
+   "ro": "Johnny se apucă, exagerează uneori."
+  },
+  {
+   "key": "1954962726785404928",
+   "en": "Johnny... embellishes, case you hadn't noticed.",
+   "en_m": "Johnny, uh... embellishes, in case you hadn't noticed.",
+   "ro": "Johnny... mai exagerează, dacă n-ai observat.",
+   "ro_m": "Johnny, ăă... mai exagerează, dacă n-ai observat."
+  },
+  {
+   "key": "1954966219315236864",
+   "en": "You don't trust him, which is fine, but you have my word we'll slip you inside Mikoshi while keepin' you outta harm's way.",
+   "ro": "Nu-l încrezi, și e ok, dar ai cuvântul meu că o să te strecurăm în Mikoshi și o să te ținem departe de belea."
+  },
+  {
+   "key": "1954967468395745280",
+   "en": "I believe this \"human factor\" and I have things in common.",
+   "ro": "Cred că eu și «factorul ăsta uman» avem câte ceva în comun."
+  },
+  {
+   "key": "1954975114930704384",
+   "en": "I shall then inject your engram back into your mortal form.",
+   "ro": "Apoi o să-ți injectez engramul înapoi în forma ta muritoare."
+  },
+  {
+   "key": "1967634147995045888",
+   "en": "What happened out there? Couldn't just take 'em out?",
+   "ro": "Ce-a fost acolo? N-ai putut să-i termini, pur și simplu?"
+  },
+  {
+   "key": "1967636299958210560",
+   "en": "Gotta be Mosley, the fucker.",
+   "ro": "Trebuie să fie Mosley, jigodia."
+  },
+  {
+   "key": "1967642738969825280",
+   "en": "Switched things up on the sly, replacin' the Voodoos' virus with his own brand of rot.",
+   "ro": "Ne-a dat-o pe la spate: a schimbat virusul Voodoos cu mizeria lui."
+  },
+  {
+   "key": "1967654082045562880",
+   "en": "We will talk here.",
+   "ro": "O să vorbim aici."
+  },
+  {
+   "key": "1967673521637969920",
+   "en": "So if you're not Alt, who are you?",
+   "ro": "Deci dacă nu ești Alt, cine ești?"
+  },
+  {
+   "key": "2009946838818115584",
+   "en": "It's really you.",
+   "ro": "Chiar ești tu."
+  },
+  {
+   "key": "2260811523331538944",
+   "en": "What do you expect from me? This I can't fathom.",
+   "ro": "Ce vrei de la mine? Asta nu pricep."
+  },
+  {
+   "key": "2260815330115403776",
+   "en": "Your projection in cyberspace… it's interesting.",
+   "ro": "Proiecția ta în ciberspațiu... e interesantă."
+  },
+  {
+   "key": "2260815409656184836",
+   "en": "Your appearance here – an unnecessary risk.",
+   "ro": "Să apari aici a fost un risc inutil."
+  }
+ ]
+}

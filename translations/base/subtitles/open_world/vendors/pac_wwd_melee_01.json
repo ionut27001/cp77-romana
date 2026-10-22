@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\pac_wwd_melee_01.json",
+ "entries": [
+  {
+   "key": "1886584609891758080",
+   "en": "Looking to arm up – whaddaya got?",
+   "ro": "Vreau să mă înarmez – ce ai?"
+  },
+  {
+   "key": "1886584609908535300",
+   "en": "What kind of fighting do you specialize in?",
+   "ro": "La ce fel de luptă te specializezi?"
+  },
+  {
+   "key": "1886584609958866948",
+   "en": "Just wonderin' what you've got on hand.",
+   "ro": "Doar mă întrebam ce aveți la îndemână."
+  },
+  {
+   "key": "1886584609992421380",
+   "en": "What martial arts do you specialize in?",
+   "ro": "La ce arte marțiale te specializezi?"
+  },
+  {
+   "key": "1886584610009198596",
+   "en": "\"Martial arts.\" Please...",
+   "ro": "„Arte marțiale.” Te rog..."
+  },
+  {
+   "key": "1983444773822058496",
+   "en": "<mothertongue l=\"mex\" m=\"A huevo.\" b=\"Breaking faces isn't an art. Whoever fucks up the other one wins. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"A huevo.\" b=\"Să spargi fețe nu e o artă. Câștigă cine îl fute pe celălalt până nu mai e nimic. \" a=\"\"/>"
+  }
+ ]
+}

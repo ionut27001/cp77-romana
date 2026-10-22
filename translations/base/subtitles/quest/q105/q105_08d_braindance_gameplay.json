@@ -1,0 +1,460 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_08d_braindance_gameplay.json",
+ "entries": [
+  {
+   "key": "1520146136574181376",
+   "en": "Did you get everything inside?",
+   "ro": "Ai luat tot ce era înăuntru?"
+  },
+  {
+   "key": "1520146164340473856",
+   "en": "How is going, Foz? This gig treating you well?",
+   "ro": "Cum o duci, Foz? Îți priește gig-ul ăsta?"
+  },
+  {
+   "key": "1520146189992837120",
+   "en": "Do you know how much our boss takes in from this trash?",
+   "ro": "Știi cât încasează șeful nostru din vechiturile astea?"
+  },
+  {
+   "key": "1520146220527370240",
+   "en": "I hate this place…",
+   "ro": "Urăsc locul ăsta…"
+  },
+  {
+   "key": "1520146941008134144",
+   "en": "All right, enough slacking around. Get that shit off the street.",
+   "ro": "Bine, ajunge cu chiulitul. Luați rahatul ăla de pe stradă."
+  },
+  {
+   "key": "1520147026035064832",
+   "en": "I've been chopping chrome for five years and I'm telling you – we don't do breaks.",
+   "ro": "De cinci ani sparg chrome-ul ăsta și-ți spun – pauze nu avem."
+  },
+  {
+   "key": "1520150222262484992",
+   "en": "I sit here all day, doing fuck all... I see your ugly face more than my input's input, you know what I mean?",
+   "ro": "Stau aici toată ziua, nefăcând niciun căcat... Îți văd fața aia urâtă mai mult decât input-ul input-ului meu, știi ce zic?"
+  },
+  {
+   "key": "1520150322925780992",
+   "en": "What did you last see on TV?",
+   "ro": "Ce-ai văzut ultima dată la TV?"
+  },
+  {
+   "key": "1524402204519153664",
+   "en": "I tell you, this new one is the next level.",
+   "ro": "Îți spun, ăsta nou e de alt nivel."
+  },
+  {
+   "key": "1524403197965221888",
+   "en": "He's the boss, isn't he? So he should live like one.",
+   "ro": "El e șefu', nu? Deci ar trebui să trăiască ca șef."
+  },
+  {
+   "key": "1524403491449061376",
+   "en": "Hey, what if we stopped losing and started winning for once?",
+   "ro": "Hei, și dacă n-am mai pierde și am câștiga o dată?"
+  },
+  {
+   "key": "1524403869859168256",
+   "en": "What's so good about it? I mean, the stuff she records.",
+   "ro": "Ce-i așa de bun la el? Adică la ce înregistrează ea."
+  },
+  {
+   "key": "1524404101082759168",
+   "en": "Imagine that you smack her in the mouth. Yeah?",
+   "ro": "Imaginează-ți că-i tragi una peste bot. Da?"
+  },
+  {
+   "key": "1524560380296151040",
+   "en": "No, I hate that everyone here is dumber than bricks.",
+   "ro": "Nu, îmi vine să urlu că toți de aici sunt proști de bubuie."
+  },
+  {
+   "key": "1524560477989879808",
+   "en": "Who put sand in your ass?",
+   "ro": "Ce mușcă din tine?"
+  },
+  {
+   "key": "1636331862738583552",
+   "en": "We don't have enough methionine for today's batch.",
+   "ro": "Nu avem destulă metionină pentru lotul de azi."
+  },
+  {
+   "key": "1636331862939910144",
+   "en": "This RTL… it won't make anyone foam a the mouth, will it? Because if it does we'll be out of biz.",
+   "ro": "RTL-ul ăsta… nu-i face pe oameni să spumege la gură, nu? Că dacă da, rămânem fără afaceri."
+  },
+  {
+   "key": "1636331863158013952",
+   "en": "I don't understand why they take it…",
+   "ro": "Nu înțeleg de ce-l iau…"
+  },
+  {
+   "key": "1636332135284457472",
+   "en": "Did you see the crowd we got yesterday?",
+   "ro": "Ai văzut câți oameni am avut ieri?"
+  },
+  {
+   "key": "1636332135502561280",
+   "en": "What the hell are you talking about? We charge five hundred to get in.",
+   "ro": "Ce naiba vorbești? Luăm cinci sute la intrare."
+  },
+  {
+   "key": "1636332135687110656",
+   "en": "So? It's still worth it.",
+   "ro": "Și? Tot merită."
+  },
+  {
+   "key": "1638776212261158912",
+   "en": "The hell? You see that?",
+   "ro": "Ce dracu'? Vezi asta?"
+  },
+  {
+   "key": "1638776663836704768",
+   "en": "Now the AC's busted?",
+   "ro": "Acum s-a stricat și AC-ul?"
+  },
+  {
+   "key": "1638776693800812544",
+   "en": "Fuuuuuuuck... shitter's turned into a goddamn fountain.",
+   "ro": "Futu-i... toaleta s-a făcut fântână, fir-ar să fie."
+  },
+  {
+   "key": "1650448036254146560",
+   "en": "Almost.",
+   "ro": "Aproape."
+  },
+  {
+   "key": "1650448198422716416",
+   "en": "What you do mean \"almost\"? Grab a crate and get your ass moving.",
+   "ro": "Ce vrei să zici cu „aproape”? Ia o ladă și mișcă-ți fundul."
+  },
+  {
+   "key": "1650494963637248000",
+   "en": "It's my break. Chill.",
+   "ro": "E pauza mea. Calmează-te."
+  },
+  {
+   "key": "1650499426443812864",
+   "en": "If you're in such a hurry, you do it!",
+   "ro": "Dacă ești așa de grăbit, fă-o tu!"
+  },
+  {
+   "key": "1650519021896556544",
+   "en": "Looks like no one's taught you your place yet…",
+   "ro": "Se vede că nimeni nu ți-a arătat încă unde ți-e locul…"
+  },
+  {
+   "key": "1702367694640865280",
+   "en": "Well, I've been here four days, doing nothing but moving crates. And I fucking quit!",
+   "ro": "Păi, sunt aici de patru zile și n-am făcut decât să mut lăzi. Și mă las, pula mea!"
+  },
+  {
+   "key": "1702437783843069952",
+   "en": "Relax. We'll add RTL and the weight will be right.",
+   "ro": "Relaxează-te. Punem RTL și greutatea iese bine."
+  },
+  {
+   "key": "1702448202997522432",
+   "en": "RTL?",
+   "ro": "RTL?"
+  },
+  {
+   "key": "1702448625783365632",
+   "en": "Erythritol. It's like candy for grown-ups.",
+   "ro": "Eritritol. E ca bomboanele, da' pentru adulți."
+  },
+  {
+   "key": "1702455157388435456",
+   "en": "Do you have any clue what we're baking here?",
+   "ro": "Ai habar ce coacem aici?"
+  },
+  {
+   "key": "1702457365622382592",
+   "en": "Propylmethionine makes you trip so hard even an Animal would shit himself.",
+   "ro": "Propilmetionina te face să tripezi atât de tare, că și un Animal s-ar caca pe el."
+  },
+  {
+   "key": "1702469084558090240",
+   "en": "Do you really think a little synth sugar is going to hurt?",
+   "ro": "Chiar crezi că puțin zahăr sintetic o să facă rău?"
+  },
+  {
+   "key": "1702479774563917824",
+   "en": "Nobody buys it because they like it. Except for the schizos.",
+   "ro": "Nu-l ia nimeni pentru că-i place. Afară de schizații ăia."
+  },
+  {
+   "key": "1702684160565141504",
+   "en": "So who buys it?",
+   "ro": "Atunci cine-l cumpără?"
+  },
+  {
+   "key": "1702684310150799360",
+   "en": "The fucking corps, who else?!",
+   "ro": "Corporațiile dracului, cine altcineva?!"
+  },
+  {
+   "key": "1702692515568377856",
+   "en": "Uuh... Maybe ten in all? The same as always.",
+   "ro": "Uuh... Poate zece în total? Ca de obicei."
+  },
+  {
+   "key": "1702693080406908928",
+   "en": "Exactly. Did it ever occur to you that's a loss?",
+   "ro": "Exact. Ți-a trecut vreodată prin cap că e pierdere?"
+  },
+  {
+   "key": "1702700028607029248",
+   "en": "You know what five hundred times ten is? That's how much we pull in per night.",
+   "ro": "Știi cât fac cinci sute ori zece? Atât facem pe noapte."
+  },
+  {
+   "key": "1702703490702991360",
+   "en": "And how many nights do we do each month? Two? Maybe three?",
+   "ro": "Și câte nopți facem pe lună? Două? Poate trei?"
+  },
+  {
+   "key": "1702706569389236224",
+   "en": "Not if you count the cost of the implants.",
+   "ro": "Nu dacă pui la socoteală cât costă implanturile."
+  },
+  {
+   "key": "1702724346778968064",
+   "en": "You know how much that junk costs? Eight thousand.",
+   "ro": "Știi cât costă vechiturile alea? Opt mii."
+  },
+  {
+   "key": "1702725188223459328",
+   "en": "Shiiiiiiit…",
+   "ro": "Rahaaaaaat…"
+  },
+  {
+   "key": "1702786970942136320",
+   "en": "Meh.",
+   "ro": "Meh."
+  },
+  {
+   "key": "1702787145240633344",
+   "en": "Meh? What the fuck does \"meh\" mean? Huh?",
+   "ro": "Meh? Ce pula mea înseamnă „meh”? Cum adică?"
+  },
+  {
+   "key": "1702791412156424192",
+   "en": "You know, you could say something interesting once in a while.",
+   "ro": "Ai putea și tu să zici ceva interesant, din când în când."
+  },
+  {
+   "key": "1702791739614126080",
+   "en": "A joke, whatever, I don't care.",
+   "ro": "O glumă, orice, nu-mi pasă."
+  },
+  {
+   "key": "1702792895329427456",
+   "en": "We have nothing but time to kill in this dump.",
+   "ro": "Avem doar timp de pierdut în cocina asta."
+  },
+  {
+   "key": "1702793937513308160",
+   "en": "Did you pick up any woman? Get laid?",
+   "ro": "Ai agățat vreo fată? Ai tras și tu?"
+  },
+  {
+   "key": "1702794599106043904",
+   "en": "Let's try food. Did you eat anything good lately?",
+   "ro": "Hai să trecem la mâncare. Ai mâncat ceva bun zilele astea?"
+  },
+  {
+   "key": "1702794954229374976",
+   "en": "Will you say anything?",
+   "ro": "Spui ceva?"
+  },
+  {
+   "key": "1702795176259051520",
+   "en": "Ugh…",
+   "ro": "Ugh…"
+  },
+  {
+   "key": "1703895693479600128",
+   "en": "How much?",
+   "ro": "Cât?"
+  },
+  {
+   "key": "1703895885360619520",
+   "en": "Ten times what we make slumming here for a whole MONTH.",
+   "ro": "De zece ori cât facem aici, într-o lună întreagă."
+  },
+  {
+   "key": "1703902753583751168",
+   "en": "How do you know?",
+   "ro": "Cum știi?"
+  },
+  {
+   "key": "1703903111240441856",
+   "en": "I've seen his pad. I know.",
+   "ro": "I-am văzut garsoniera. Știu."
+  },
+  {
+   "key": "1703928115483074560",
+   "en": "He's the boss because he can get any pussy to work for dirt.",
+   "ro": "E șef pentru că poate pune orice fătălău să muncească pe nimic."
+  },
+  {
+   "key": "1703929660714999808",
+   "en": "It used to be that pussies were just pussies... Now we're the ones with our dicks in our hands.",
+   "ro": "Pe vremuri, lașii erau doar lași... Acum noi suntem ăia cu pula-n mână."
+  },
+  {
+   "key": "1703934062653825024",
+   "en": "Pussies like you.",
+   "ro": "Lași ca tine."
+  },
+  {
+   "key": "1703935644275531776",
+   "en": "Go on.",
+   "ro": "Zi mai departe."
+  },
+  {
+   "key": "1703935758041833472",
+   "en": "You and me load the crates into my old beater and take the high road.",
+   "ro": "Tu și eu încărcăm lăzile în bătrâna mea și luăm drumul mare."
+  },
+  {
+   "key": "1703937510489153536",
+   "en": "That piece of junk? We wouldn't get past the first intersection before they dragged us out and splattered our brains on the pavement.",
+   "ro": "Rablaua aia? N-ajungem nici la prima intersecție și ne scot afară și ne împrăștie creierii pe asfalt."
+  },
+  {
+   "key": "1703938744470167552",
+   "en": "Any other genius ideas?",
+   "ro": "Mai ai vreo idee genială?"
+  },
+  {
+   "key": "1703981383361978368",
+   "en": "You've seen this already?",
+   "ro": "Ai mai văzut asta?"
+  },
+  {
+   "key": "1703982846368768000",
+   "en": "She records the craziest shit you can imagine and cranks the real-feel up real high.",
+   "ro": "Ea înregistrează cele mai nebune chestii pe care ți le poți imagina și dă real-feel-ul pe maxim."
+  },
+  {
+   "key": "1703983288179974144",
+   "en": "Are you joking? I'm too young to go insane.",
+   "ro": "Glumești? Sunt prea tânăr să-mi ies din minți."
+  },
+  {
+   "key": "1704006483201187840",
+   "en": "Christ, choom. Do  you know what a house of mirrors is?",
+   "ro": "Doamne, choom. Știi ce-i aia, casa oglinzilor?"
+  },
+  {
+   "key": "1704010288139558912",
+   "en": "Maybe.",
+   "ro": "Poate."
+  },
+  {
+   "key": "1704010452002627584",
+   "en": "It's like that, that's what she has in her HEAD.",
+   "ro": "Ceva de genul ăsta are ea în CAP."
+  },
+  {
+   "key": "1704010648010842112",
+   "en": "For example?",
+   "ro": "De exemplu?"
+  },
+  {
+   "key": "1704015575932166144",
+   "en": "OK.",
+   "ro": "OK."
+  },
+  {
+   "key": "1704015715199836160",
+   "en": "Now when you play back the virtu, there you are, doing your thing, right?",
+   "ro": "Acum, când redai virtu-ul, ești acolo, îți vezi de treabă, nu?"
+  },
+  {
+   "key": "1704016911700549632",
+   "en": "Yeah. Obviously.",
+   "ro": "Da. Evident."
+  },
+  {
+   "key": "1704017058501189632",
+   "en": "OK. Except then you see another guy smacking her up. Only it's somewhere else, and different.",
+   "ro": "OK. Doar că apoi vezi un alt tip care o snopește. Numai că e în altă parte și e altfel."
+  },
+  {
+   "key": "1704017866659684352",
+   "en": "And then another, and another.",
+   "ro": "Și apoi altul, și altul."
+  },
+  {
+   "key": "1704018767344525312",
+   "en": "OK, that is crazy. How does she do it?",
+   "ro": "OK, asta e nebunie. Cum face?"
+  },
+  {
+   "key": "1704019206085500928",
+   "en": "I have no idea. If they're memories, I've never seen anything cleaner in my life.",
+   "ro": "Habar n-am. Dacă sunt amintiri, n-am văzut în viața mea ceva mai curat."
+  },
+  {
+   "key": "1704019706885398528",
+   "en": "House of mirrors, I tell you.",
+   "ro": "Casă a oglinzilor, zic eu."
+  },
+  {
+   "key": "1704070693247475712",
+   "en": "What's there to hate? That nobody checks on us and every day is chill?",
+   "ro": "Ce să urăști? Că nu ne verifică nimeni și fiecare zi e lejeră?"
+  },
+  {
+   "key": "1704071692381020160",
+   "en": "That we don't have to stand outside all day in the rain?",
+   "ro": "Că nu trebuie să stăm toată ziua afară în ploaie?"
+  },
+  {
+   "key": "1704085920735256576",
+   "en": "Hey, the door is open. Walk out, no one will stop you.",
+   "ro": "Hei, ușa e deschisă. Ieși, nu te oprește nimeni."
+  },
+  {
+   "key": "1704087653603565568",
+   "en": "That sucks so much, man, yeah.",
+   "ro": "Chiar e nasol rău, frate."
+  },
+  {
+   "key": "1704100397929160704",
+   "en": "Or I could just crack your skull, shut you up.",
+   "ro": "Sau îți sparg capul și taci din gură."
+  },
+  {
+   "key": "1704113423558336512",
+   "en": "No one. I just hate it. It always smells like piss on a rotting corpse.",
+   "ro": "Nimeni. Doar că mă enervează locul. Miroase mereu a pișat pe un cadavru în putrefacție."
+  },
+  {
+   "key": "1704114196451123200",
+   "en": "Take a walk to the docks. Your brain needs air.",
+   "ro": "Ia-o pe jos până la docuri. Ai nevoie de aer."
+  },
+  {
+   "key": "1704119742327644160",
+   "en": "I hate the docks, too. The whole city is one giant rot pile.",
+   "ro": "Și pe docuri le urăsc. Tot orașul ăsta e o grămadă de putregai."
+  },
+  {
+   "key": "1704125446430089216",
+   "en": "Something's not right…",
+   "ro": "Ceva nu-i în regulă…"
+  },
+  {
+   "key": "1704128722147958784",
+   "en": "And who the fuck's gonna clean that?",
+   "ro": "Și cine pula mea o să curețe asta?"
+  }
+ ]
+}

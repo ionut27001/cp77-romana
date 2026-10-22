@@ -1,0 +1,559 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq304\\mq304_02_hands_briefing.json",
+ "entries": [
+  {
+   "key": "3206962508353150976",
+   "en": "Ah, at last.",
+   "ro": "A, în sfârșit."
+  },
+  {
+   "key": "3207255316807036932",
+   "en": "Not here for tea.",
+   "ro": "N-am venit pentru ceai."
+  },
+  {
+   "key": "3207256296260907008",
+   "en": "'S cool, not here for tea. What's so urgent?",
+   "ro": "Ok, n-am venit pentru ceai. Ce-i atât de urgent?"
+  },
+  {
+   "key": "3211745379435687936",
+   "en": "No ordinary job, to be sure. Dogtown's future hangs in the balance.",
+   "ro": "Nu e o treabă obișnuită, sigur. Viitorul Dogtown-ului e în joc."
+  },
+  {
+   "key": "3212951837527519236",
+   "en": "Don't worry, got this.",
+   "ro": "Nu-ți face griji, mă ocup."
+  },
+  {
+   "key": "3212953835576504320",
+   "en": "Once you've shown him reason, call me. And remember, my district's future is riding on this.",
+   "ro": "După ce îi bagi minte, sună-mă. Și nu uita, de asta depinde viitorul districtului meu."
+  },
+  {
+   "key": "3212958156112277504",
+   "en": "Don't worry, won't disappoint.",
+   "ro": "Nu-ți face griji, nu te voi dezamăgi."
+  },
+  {
+   "key": "3213042636541931520",
+   "en": "That is the hope. Good luck.",
+   "ro": "Asta sper și eu. Noroc."
+  },
+  {
+   "key": "3214646474285789184",
+   "en": "I lacked the time to brew tea. My apologies.",
+   "ro": "N-am apucat să fac ceai. Scuze."
+  },
+  {
+   "key": "3217232752244174852",
+   "en": "Open",
+   "ro": "Deschide"
+  },
+  {
+   "key": "3217312889958576132",
+   "en": "[Take shard] Got someone in mind, don'tcha?",
+   "ro": "[Ia shard-ul] Ai pe cineva în cap, nu?"
+  },
+  {
+   "key": "3217413038126936064",
+   "en": "Lemme guess – got a successor all lined up, don'tcha.",
+   "ro": "Lasă-mă să ghicesc – ai deja un succesor pus la punct, nu?"
+  },
+  {
+   "key": "3217413601841393664",
+   "en": "The logical choice, this gentleman soldier. Alas, he has competition – a man named Jago.",
+   "ro": "Alegerea logică, soldatul ăsta gentleman. Din păcate, are concurență – un tip pe nume Jago."
+  },
+  {
+   "key": "3217424735503921152",
+   "en": "What's Bennett's story?",
+   "ro": "Care e povestea lui Bennett?"
+  },
+  {
+   "key": "3217450910745899008",
+   "en": "Sorry, Hands. Rather keep my mitts outta politics for a little.",
+   "ro": "Scuze, Hands. Mai bine mă țin departe de politică o vreme."
+  },
+  {
+   "key": "3217451632585617408",
+   "en": "And people complain when their ambivalence yields no progress... It seems you wasted a trip.",
+   "ro": "Și oamenii se plâng când indecizia lor nu duce nicăieri... Se pare că ai făcut drumul degeaba."
+  },
+  {
+   "key": "3217452797377392640",
+   "en": "Wait.",
+   "ro": "Stai."
+  },
+  {
+   "key": "3217453360320098304",
+   "en": "I'll double your usual rate. And provide support. Are you certain you want to leave?",
+   "ro": "Îți dublez tariful obișnuit. Și îți dau suport. Sigur vrei să pleci?",
+   "ro_m": "Îți dublez tariful obișnuit. Și ofer suport. Ești sigur că vrei să pleci?"
+  },
+  {
+   "key": "3217455224050692100",
+   "en": "Deal. Got a gift for persuasion, Hands.",
+   "ro": "S-a făcut. Ai talent la convingere, Hands."
+  },
+  {
+   "key": "3217467432964993024",
+   "en": "Jago not up to snuff? Why?",
+   "ro": "Jago nu e la înălțime? De ce?"
+  },
+  {
+   "key": "3217476201811816448",
+   "en": "Yes, Hands. Open the goddamn door.",
+   "ro": "Da, Hands. Deschide ușa aia afurisită."
+  },
+  {
+   "key": "3217478417327075328",
+   "en": "OK, I'll handle that.",
+   "ro": "OK, mă ocup eu."
+  },
+  {
+   "key": "3217479375037673472",
+   "en": "Sharp, Hands. Got a keen eye for biz. I'm in. I'll handle it.",
+   "ro": "Sharp, Hands. Ai ochi buni pentru afaceri. Mă bag. Mă ocup eu."
+  },
+  {
+   "key": "3217481886939230208",
+   "en": "No, you won't. But Aguilar will.",
+   "ro": "Nu, tu nu. Dar Aguilar o să."
+  },
+  {
+   "key": "3217487784667525124",
+   "en": "So, need me to pose as this Aguilar.",
+   "ro": "Deci vrei să mă dau drept Aguilar ăsta?"
+  },
+  {
+   "key": "3221543765001121792",
+   "en": "Your loss, not Dogtown's. I'll find someone else.",
+   "ro": "Pierderea ta, nu a Dogtown-ului. Găsesc pe altcineva."
+  },
+  {
+   "key": "3221584264311353344",
+   "en": "Lemme summarize. Need me to assume Aguilar's identity…",
+   "ro": "Lasă-mă să rezum. Trebuie să preiau identitatea lui Aguilar…"
+  },
+  {
+   "key": "3221586114620174336",
+   "en": "Have a chat with Jago, talk him out of any silly ideas he might have... Child's play.",
+   "ro": "Stau de vorbă cu Jago și îl fac să renunțe la vreo idee prostească... Fleac."
+  },
+  {
+   "key": "3221586928533254144",
+   "en": "All clear.",
+   "ro": "Totul curat."
+  },
+  {
+   "key": "3221587026797408260",
+   "en": "Need some more info on Aguilar.",
+   "ro": "Mai am nevoie de info despre Aguilar."
+  },
+  {
+   "key": "3221636463213162500",
+   "en": "Yes. Door, please.",
+   "ro": "Da. Ușa, te rog."
+  },
+  {
+   "key": "3221657900703559680",
+   "en": "Ex-Marine, took part in Operation Midnight Storm. He never questioned orders, didn't serve for glory or medals. Loyal from start to finish.",
+   "ro": "Fost pușcaș marin, a fost în Operațiunea Midnight Storm. Nu a pus niciodată la îndoială ordinele și n-a servit pentru glorie sau medalii. Loial până la capăt."
+  },
+  {
+   "key": "3221660107981205504",
+   "en": "OK, all's crystal.",
+   "ro": "OK, clar."
+  },
+  {
+   "key": "3221660366048342016",
+   "en": "I've prepared a shard with helpful intelligence. Also a weapon – the same Aguilar uses. Help yourself to both.",
+   "ro": "Ți-am pregătit un shard cu informații utile. Și o armă, aceeași cu a lui Aguilar. Ia-le pe amândouă."
+  },
+  {
+   "key": "3221661684703965188",
+   "en": "[Take imprint] OK.",
+   "ro": "[Ia amprenta] OK."
+  },
+  {
+   "key": "3221677715266744320",
+   "en": "You'll make a strong impression on Jago, too. A trusted source tells me he's to meet soon with a delegation of the Dogtown Voodoos. I'll forward the coordinates.",
+   "ro": "O să faci impresie și asupra lui Jago. O sursă de încredere îmi zice că se vede în curând cu o delegație a Voodoos din Dogtown. Îți trimit coordonatele acum."
+  },
+  {
+   "key": "3221830868717023232",
+   "en": "Kurt Hansen – a man of many hats. A criminal, dog of war…",
+   "ro": "Kurt Hansen – un om cu multe fețe. Un criminal, câine de război…"
+  },
+  {
+   "key": "3221887858302529536",
+   "en": "Merc assassin, huh? Color me curious. Anything else I oughta know?",
+   "ro": "Asasin merc, ha? Mi-ai stârnit curiozitatea. Mai e ceva ce ar trebui să știu?"
+  },
+  {
+   "key": "3236194916592029700",
+   "en": "Changes comin' for BARGHEST, huh?",
+   "ro": "Vin schimbări pentru BARGHEST, nu?"
+  },
+  {
+   "key": "3236195395581546496",
+   "en": "Guessin' changes afoot for BARGHEST, huh? What with Hansen flatlined?",
+   "en_m": "Guessin' changes afoot for BARGHEST, huh? What with Hansen flatlined.",
+   "ro": "Bănuiesc că vin schimbări pentru BARGHEST, nu? Cu Hansen dat gata, ce-o să fie?"
+  },
+  {
+   "key": "3236195816907771904",
+   "en": "Hmm. Don't envy whoever's fillin' his boots. Man, it'll be a looong road to restorin' order, even in their own ranks.",
+   "ro": "Hmm. Nu invidiez pe cine îi ia locul. Băi, o să fie un drum lung până să pună ordine, chiar și în rândurile lor."
+  },
+  {
+   "key": "3236196058382241792",
+   "en": "Dogtown – what's the mood these days?",
+   "ro": "Dogtown – cum mai e atmosfera zilele astea?"
+  },
+  {
+   "key": "3236196298279653376",
+   "en": "So, Dogtown – what's the mood like now?",
+   "ro": "Deci, Dogtown – cum e atmosfera acum?"
+  },
+  {
+   "key": "3236196901823221760",
+   "en": "On edge. Who knows what'll happen next. Colonel had the 'hood's balls in his iron jaws, but, man, it all  worked somehow. Now…?",
+   "ro": "Pe muchie. Cine știe ce o să se mai întâmple. Colonelul ținea coaiele cartierului în pumnul lui de fier, dar, frate, cumva mergea totul. Acum…?"
+  },
+  {
+   "key": "3236216959505043456",
+   "en": "I'm lucky to have her behavioral imprint on hand. You're lucky to have experience with the tech already.",
+   "ro": "Am noroc că am la îndemână amprenta ei comportamentală. Tu ai noroc că ai deja experiență cu tehnologia."
+  },
+  {
+   "key": "3237674858771132416",
+   "en": "Bennett – tell me more.",
+   "ro": "Bennett – spune-mi mai multe."
+  },
+  {
+   "key": "3237677926904508416",
+   "en": "Anything else I should know about Aguilar?",
+   "ro": "Mai e ceva ce ar trebui să știu despre Aguilar?"
+  },
+  {
+   "key": "3237735407357800448",
+   "en": "[Activate imprint]",
+   "ro": "[Activează amprenta]"
+  },
+  {
+   "key": "3237738195529773060",
+   "en": "[Take gun] Interesting piece.",
+   "ro": "[Ia arma] Piesă interesantă."
+  },
+  {
+   "key": "3237769821135581184",
+   "en": "Interesting piece of iron.",
+   "ro": "Piesă interesantă de fier."
+  },
+  {
+   "key": "3241926460218552320",
+   "en": "So's yours. Don't fuck me over.",
+   "ro": "Și a ta. Nu mă fute."
+  },
+  {
+   "key": "3241927041851076608",
+   "en": "Dogtown's future and yours. Don't fuck me over, Hands.",
+   "ro": "Viitorul Dogtown-ului și al tău. Nu mă fute, Hands."
+  },
+  {
+   "key": "3241927590214381568",
+   "en": "Hah, rehearsing, are you? Close, just a bit lacking. Good luck.",
+   "ro": "Hah, repeți? Aproape, da' îți lipsește ceva. Mult noroc."
+  },
+  {
+   "key": "3278144376813162496",
+   "en": "Dogtown without the colonel... Can't hardly imagine it…",
+   "ro": "Dogtown fără colonel... Abia mi-l imaginez..."
+  },
+  {
+   "key": "3278144376813162504",
+   "en": "Oh please, brother, he a common thug. Not even that – not no more. Worm food's worm food.",
+   "ro": "Lasă, frate, era un bătăuș ca toții. Nici atât nu mai e – acum e hrană pentru viermi."
+  },
+  {
+   "key": "3287008548940521472",
+   "en": "Tone it down, choomba! Wanna wind up like him?",
+   "ro": "Mai potolește-te, choomba! Vrei să ajungi ca el?"
+  },
+  {
+   "key": "3287030536740380672",
+   "en": "Face-to-face again? What's changed?",
+   "ro": "Iar față în față? Ce s-a schimbat?"
+  },
+  {
+   "key": "3287032470801063936",
+   "en": "Everything. And that's what we'll discuss.",
+   "ro": "Totul. Și despre asta vorbim."
+  },
+  {
+   "key": "3287034034773139456",
+   "en": "Another meet in the flesh. Startin' to feel special.",
+   "ro": "Încă o întâlnire în carne și oase. Încep să mă simt special."
+  },
+  {
+   "key": "3287056618013171712",
+   "en": "To mine eye – an entrepreneur. And business suffocates in a vacuum.",
+   "ro": "În ochii mei – un antreprenor. Iar afacerile nu prea rezistă în vid."
+  },
+  {
+   "key": "3287057450112753664",
+   "en": "Vultures circle the colonel's corpse already. The enterprise he built must choose a new leader.",
+   "ro": "Vulturii și-au făcut deja loc în jurul cadavrului colonelului. Întreprinderea pe care a ridicat-o trebuie să-și aleagă un lider nou."
+  },
+  {
+   "key": "3287076249469820928",
+   "en": "We will make certain they choose correctly.",
+   "ro": "O să ne asigurăm că aleg bine."
+  },
+  {
+   "key": "3287084988771966976",
+   "en": "Lieutenant Colonel Bennett. One of Hansen's most loyal. Commands respect, is capable of rallying a strong base.",
+   "ro": "Locotenent-colonel Bennett, unul dintre cei mai loiali ai lui Hansen. Impune respect și poate strânge o bază puternică."
+  },
+  {
+   "key": "3287158947890700288",
+   "en": "What's this \"we\"? And whence \"our\" interest?",
+   "ro": "Ce-i cu „noi” ăsta? Și de unde „interesul nostru”?"
+  },
+  {
+   "key": "3287159335796711424",
+   "en": "Uh-huh... And why's it \"we\" care?",
+   "ro": "Aha... Și de ce ne-ar păsa nouă?"
+  },
+  {
+   "key": "3287161219911622656",
+   "en": "I take the long view of Dogtown's well-being. You care for short-term profit. Should Dogtown drown in blood, neither is achievable.",
+   "ro": "Eu mă gândesc la binele Dogtown-ului pe termen lung. Tu te uiți doar la profitul de moment. Dacă Dogtown se îneacă în sânge, nu se poate nici una, nici alta."
+  },
+  {
+   "key": "3295459017104855040",
+   "en": "Do you feel the difference?",
+   "ro": "Simți diferența?"
+  },
+  {
+   "key": "3295471887528005632",
+   "en": "Seriously, Hands? You make me your guinea pig for untested tech? Thought you valued your well-being more than that.",
+   "ro": "Serios, Hands? Mă faci cobai pentru tehnologie netestată? Credeam că ții mai mult la pielea ta."
+  },
+  {
+   "key": "3295502533898047504",
+   "en": "Seriously, Hands? Makin' me your guinea pig for untested tech? Thought you valued your well-being more than that.",
+   "ro": "Serios, Hands? Mă faci cobai cu tehnologia asta netestată? Credeam că ții mai mult la pielea ta."
+  },
+  {
+   "key": "3295508210888511488",
+   "en": "Hm. Better than expected, V... or rather, Aguilar.",
+   "ro": "Hm. Mai bine decât mă așteptam, V... sau mai degrabă Aguilar."
+  },
+  {
+   "key": "3296008416149217280",
+   "en": "He's an accountant, no soldier. Kept Hansen's books for him. V, you don't win hearts by counting numbers.",
+   "ro": "E contabil, nu soldat. Ținea contabilitatea lui Hansen. V, nu câștigi inimi numărând cifre."
+  },
+  {
+   "key": "3296014556895485952",
+   "en": "Uh, ya lost me.",
+   "ro": "Ăă, m-ai pierdut."
+  },
+  {
+   "key": "3296014978456592384",
+   "en": "Enter Aguilar – a merc assassin from Havana. A living legend...",
+   "ro": "Intră în scenă Aguilar – un asasin merc din Havana. O legendă vie..."
+  },
+  {
+   "key": "3334796847767461888",
+   "en": "Hansen remained on top because he had the contacts to stay afloat. Most important among them was a Cuban cartel.",
+   "ro": "Hansen s-a menținut sus pentru că avea contactele necesare. Cel mai important dintre ele era un cartel cubanez."
+  },
+  {
+   "key": "3334824531784474624",
+   "en": "Custom-made. A unique and highly persuasive tool.",
+   "ro": "Făcut la comandă. Un instrument unic și foarte convingător."
+  },
+  {
+   "key": "3334829282102190080",
+   "en": "Every time someone in Havana lights a cigar, Aguilar extinguishes a life somewhere around the globe.",
+   "ro": "De fiecare dată când cineva din Havana aprinde un trabuc, Aguilar stinge o viață undeva pe glob."
+  },
+  {
+   "key": "3334832742017114112",
+   "en": "Rumors, perhaps. But rumors often make for crowning arguments in negotiation.",
+   "ro": "Zvonuri, poate. Dar în negocieri, un zvon bun face cât un argument hotărâtor."
+  },
+  {
+   "key": "3334857395162947588",
+   "en": "Hm, turnin' me into your guinea pig now?",
+   "ro": "Hm, mă faci cobai acum?"
+  },
+  {
+   "key": "3334865827827916828",
+   "en": "My time's precious, Hands. If this don't work, you'll need to find ten new digits or aim for a rebrand.",
+   "ro": "Timpul meu e prețios, Hands. Dacă nu merge, o să-ți cauți zece cifre noi sau te rebranduiești."
+  },
+  {
+   "key": "3334872476437291024",
+   "en": "My time's precious, Hands. If this don't work, you'll need to find ten new digits or aim for a rebrand.",
+   "ro": "Timpul meu e prețios, Hands. Dacă nu merge, o să-ți cauți zece cifre noi sau te rebranduiești."
+  },
+  {
+   "key": "3334874390868631552",
+   "en": "Whoah.",
+   "ro": "Uau."
+  },
+  {
+   "key": "3363670518577602560",
+   "en": "He's starting from a lower rung but has high aspirations. He's already begun seeking outside support – from the Voodoo Boys.",
+   "ro": "Pornește de jos, dar visează mare. A și început deja să caute sprijin afară, la Voodoo Boys."
+  },
+  {
+   "key": "3363675211953446912",
+   "en": "What's wrong with Jago?",
+   "ro": "Ce are Jago?"
+  },
+  {
+   "key": "3363675772262129664",
+   "en": "Count me in.",
+   "ro": "Mă bag."
+  },
+  {
+   "key": "3363676081365557248",
+   "en": "Pass. Plain sick of politics.",
+   "ro": "Pass. Mi-e lehamite de politică."
+  },
+  {
+   "key": "3363749547167031296",
+   "en": "Time to kick the tires, V. Suit up and take the imprint for a whirl.",
+   "ro": "Hai s-o testăm, V. Echipează-te și ia amprenta la o tură."
+  },
+  {
+   "key": "3363751393684201472",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "3363753667483508736",
+   "en": "Works dandy.",
+   "ro": "Merge strună."
+  },
+  {
+   "key": "3363765159742251008",
+   "en": "Real name – unknown. Body count – unknown. Conservative estimates put it in the dozens... per continent.",
+   "ro": "Nume real – necunoscut. Număr de victime – necunoscut. Estimările prudente vorbesc de zeci... pe continent."
+  },
+  {
+   "key": "3373805717843976192",
+   "en": "Now peeps gotta take care of themselves. 'Parently a problem, that. For some.",
+   "ro": "Acum fiecare-și vede de el. Parcă-i o problemă, zic. Pentru unii."
+  },
+  {
+   "key": "3373815458125160448",
+   "en": "Tellin' you, man, they gonna implode. And good fuckin' riddance, I say.",
+   "ro": "Îți zic, frate, o să pocnească din interior. Și bine că scăpăm de rahații ăia, pula mea."
+  },
+  {
+   "key": "3387019062558433280",
+   "en": "You will meet with Jago. You will convince him to back down.",
+   "ro": "O să te întâlnești cu Jago. O să-l convingi să se dea la o parte."
+  },
+  {
+   "key": "3387099140394950656",
+   "en": "I care not at all for how you handle the gangoons. As you will. I have only one request – Jago withdraws his candidacy.",
+   "ro": "Mie nu-mi pasă cum te descurci cu gangsterii. Cum vrei. Am o singură cerere – Jago își retrage candidatura."
+  },
+  {
+   "key": "3460619620745228288",
+   "en": "The shard, please, insert it.",
+   "ro": "Shard-ul, te rog, bagă-l."
+  },
+  {
+   "key": "3460733801326718976",
+   "en": "OK, fine. Convincing enough…",
+   "ro": "OK, bine. Suficient de convingător…"
+  },
+  {
+   "key": "3460735505975750656",
+   "en": "Y'know… mm, sure. Changed my mind. I'll take on the gig.",
+   "en_m": "Y'know… sure. Changed my mind. I'll take on the gig.",
+   "ro": "Știi… mm, sigur. Mi-am schimbat părerea. Iau gig-ul.",
+   "ro_m": "Știi… sigur. Mi-am schimbat părerea. Iau gig-ul."
+  },
+  {
+   "key": "3465252085178839044",
+   "en": "[Deactivate imprint] Hah.",
+   "ro": "[Dezactivează amprenta] Hah."
+  },
+  {
+   "key": "3469409394360688640",
+   "en": "Take the shard, V. It doesn't bite, I promise.",
+   "ro": "Ia shard-ul, V. Nu mușcă, promit."
+  },
+  {
+   "key": "3469410599166124032",
+   "en": "Well? How long shall you hold me in suspense?",
+   "ro": "Ei? Cât mă mai ții în suspans?"
+  },
+  {
+   "key": "3682608032960438272",
+   "en": "[Murderous grin]",
+   "ro": "[Zâmbet ucigaș]"
+  },
+  {
+   "key": "3682623185135296512",
+   "en": "[Dead serious]",
+   "ro": "[Serios ca moartea]"
+  },
+  {
+   "key": "3682696180168089600",
+   "en": "[Complete contempt]",
+   "ro": "[Dispreț total]"
+  },
+  {
+   "key": "3682697428946608128",
+   "en": "[Deep disgust]",
+   "ro": "[Dezgust profund]"
+  },
+  {
+   "key": "3682697603278659584",
+   "en": "[Poker face]",
+   "ro": "[Față impasibilă]"
+  },
+  {
+   "key": "4055060412732063744",
+   "en": "No, you won't. But Aguilar will.",
+   "ro": "Nu, tu nu. Dar Aguilar o să."
+  },
+  {
+   "key": "4055061819149303808",
+   "en": "Uh, ya lost me.",
+   "ro": "Ăă, m-ai pierdut."
+  },
+  {
+   "key": "4055063866892402688",
+   "en": "Hansen remained on top because he had the contacts to stay afloat. Most important among them was a Cuban cartel.",
+   "ro": "Hansen s-a menținut sus pentru că avea contactele necesare. Cel mai important dintre ele era un cartel cubanez."
+  },
+  {
+   "key": "4055063941953667072",
+   "en": "Enter Aguilar – a merc assassin from Havana. A living legend...",
+   "ro": "Intră în scenă Aguilar – un asasin merc din Havana. O legendă vie..."
+  },
+  {
+   "key": "4055064504074289152",
+   "en": "Every time someone in Havana lights a cigar, Aguilar extinguishes a life somewhere around the globe.",
+   "ro": "De fiecare dată când cineva din Havana aprinde un trabuc, Aguilar stinge o viață undeva pe glob."
+  },
+  {
+   "key": "4055064897063796736",
+   "en": "I'm lucky to have his behavioral imprint on hand. You're lucky to have experience with the tech already.",
+   "ro": "Am noroc că am amprenta lui comportamentală la îndemână. Tu ai noroc că ai deja experiență cu tehnologia."
+  }
+ ]
+}

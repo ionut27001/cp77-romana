@@ -1,0 +1,417 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_02_terminal_recon.json",
+ "entries": [
+  {
+   "key": "3001300166228029440",
+   "en": "Welcome to Night City International and Translunar, your gateway to the world and the stars.",
+   "ro": "Bun venit la Night City International and Translunar, poarta ta spre lume și stele."
+  },
+  {
+   "key": "3014437721999912964",
+   "en": "Which cam?",
+   "ro": "Care cameră?"
+  },
+  {
+   "key": "3014439582861602816",
+   "en": "Busy day, looks like.",
+   "ro": "Zi aglomerată, se pare."
+  },
+  {
+   "key": "3014441579702628356",
+   "en": "Aw, jeez, pret-ty busy today, huh? Peeps movin', goin' places… heh.",
+   "en_m": "Pff, wha… Jeez, pretty busy today, huh? Peeps movin', goin' places…",
+   "ro": "Of, Doamne, destul de aglomerat azi, nu? Lumea se perindă, merge încoace și încolo… heh.",
+   "ro_m": "Pff, ce… Doamne, destul de aglomerat azi, nu? Lumea se perindă, merge încoace și încolo…"
+  },
+  {
+   "key": "3014443486936543232",
+   "en": "All set. Go ahead, do it.",
+   "ro": "Totul e pregătit. Hai, fă-o."
+  },
+  {
+   "key": "3014443769867513856",
+   "en": "Look at the cam, please?",
+   "ro": "Privește în cameră, te rog?"
+  },
+  {
+   "key": "3014443984716541952",
+   "en": "Done.",
+   "ro": "Gata."
+  },
+  {
+   "key": "3014444162219487232",
+   "en": "I need to temporarily power down any unauthorized implants. Personal link in the panel, please.",
+   "ro": "Trebuie să opresc temporar orice implant neautorizat. Legătura personală în panou, te rog."
+  },
+  {
+   "key": "3033387700936224768",
+   "en": "OK, now you need to let me in.",
+   "ro": "OK, acum trebuie să mă lași să intru."
+  },
+  {
+   "key": "3085298663693565952",
+   "en": "[Jack out]",
+   "ro": "[Deconectează-te]"
+  },
+  {
+   "key": "3091869429568471040",
+   "en": "Look straight into the camera for me.",
+   "ro": "Privește direct în cameră pentru mine."
+  },
+  {
+   "key": "3091871513986564096",
+   "en": "Scan's all good. Orbital Air thanks you for your cooperation and your patronage.",
+   "ro": "Scanarea e în regulă. Orbital Air îți mulțumește pentru cooperare și patronaj."
+  },
+  {
+   "key": "3092463517061693440",
+   "en": "Hm, ID unknown. Show me your ticket.",
+   "ro": "Hm, ID necunoscut. Arată-mi biletul."
+  },
+  {
+   "key": "3092499500415139840",
+   "en": "Told you to wait! Be done stat.",
+   "ro": "Ți-am zis să aștepți! Gata, termin acum."
+  },
+  {
+   "key": "3092509253916770304",
+   "en": "Look at the cam, please.",
+   "ro": "Privește în cameră, te rog."
+  },
+  {
+   "key": "3092620986064912412",
+   "en": "Scan's complete. Sorry for the hassle, thanks for your understanding.",
+   "ro": "Scanarea e completă. Scuze pentru neplăcere, mulțumesc pentru înțelegere."
+  },
+  {
+   "key": "3093787960304287744",
+   "en": "Right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "3130027848825405460",
+   "en": "Um, which cam'd that be?",
+   "en_m": "Uh, which cam'd that be?",
+   "ro": "Ăă, care cameră ar fi aia?"
+  },
+  {
+   "key": "3130027848825405472",
+   "en": "THAT one.",
+   "ro": "ACEEA."
+  },
+  {
+   "key": "3130027848825405484",
+   "en": "Look at the camera, please. It'll be over in a few seconds.",
+   "ro": "Privește în cameră, te rog. Se termină în câteva secunde."
+  },
+  {
+   "key": "3130027848842182656",
+   "en": "Ready. Just do what he says.",
+   "ro": "Gata. Fă doar ce spune el."
+  },
+  {
+   "key": "3134715253859196928",
+   "en": "Look at the cam? You takin' my pic?",
+   "ro": "Privește în cameră? Îmi faci poză?"
+  },
+  {
+   "key": "3134716113859289088",
+   "en": "Takin' my pic, Officer? I get a print if it's cute?",
+   "ro": "Îmi faci poză, ofițere? Dacă e drăguță, primesc o copie?"
+  },
+  {
+   "key": "3134716537064562688",
+   "en": "Hah, that'll do. Just look straight into the camera for me.",
+   "ro": "Ha, merge. Privește direct în cameră pentru mine."
+  },
+  {
+   "key": "3134729306337878016",
+   "en": "Please look in the camera and remain still.",
+   "ro": "Te rog, privește în cameră și stai nemișcat."
+  },
+  {
+   "key": "3224865172465221680",
+   "en": "For biometric ID authentication, please look at the camera.",
+   "ro": "Pentru autentificarea biometrică, te rog privește în cameră."
+  },
+  {
+   "key": "3224865172465221692",
+   "en": "Wait! Don't yet!",
+   "ro": "Stai! Nu încă!"
+  },
+  {
+   "key": "3224865172465221704",
+   "en": "Buy me some time. Need to link your metrics to a fake profile.",
+   "ro": "Câștigă-mi timp. Trebuie să-ți leg metricile de un profil fals."
+  },
+  {
+   "key": "3224874380355010684",
+   "en": "Implant power-down complete.",
+   "ro": "Implanturile au fost oprite."
+  },
+  {
+   "key": "3231998258797707264",
+   "en": "OK, you're full of shit. Wanna talk to your supervisor.",
+   "ro": "OK, minți de stă pământul. Vreau să vorbesc cu șeful tău."
+  },
+  {
+   "key": "3231998258797707280",
+   "en": "\"Please present your ticket...\"",
+   "ro": "\"Te rog, arată biletul...\""
+  },
+  {
+   "key": "3231998258814484488",
+   "en": "Plan to stow myself away.",
+   "ro": "Am de gând să mă strecor pe ascuns."
+  },
+  {
+   "key": "3232207311784214528",
+   "en": "OK, stop puttin' up this wall of bullshit, fuckin' sop. Got any idea who I am?",
+   "ro": "OK, nu mai băga vrăjeala asta, idiotule nenorocit. Ai habar cine sunt?"
+  },
+  {
+   "key": "3232215105891565576",
+   "en": "Got a code yellow.",
+   "ro": "Am cod galben."
+  },
+  {
+   "key": "3232234101340733440",
+   "en": "Dammit!",
+   "ro": "La naiba!"
+  },
+  {
+   "key": "3232241756264300556",
+   "en": "Nah, no ticket here. Meant to find a cozy nook in the luggage hold.",
+   "ro": "Nu, n-am bilet. Voiam să-mi găsesc un locșor comod în cala de bagaje."
+  },
+  {
+   "key": "3232247321820495884",
+   "en": "First, what's with the attitude?",
+   "ro": "Mai întâi, ce-i cu atitudinea asta?"
+  },
+  {
+   "key": "3232249096933834752",
+   "en": "Need two more secs…",
+   "ro": "Îmi trebuie două secunde…"
+  },
+  {
+   "key": "3232250459210219520",
+   "en": "[Jack out] Yellow 'cause you just pissed yourself?",
+   "ro": "[Deconectează-te] Galben pentru că tocmai ți-ai făcut în pantaloni?"
+  },
+  {
+   "key": "3232250459210219536",
+   "en": "[Jack out] So Mi, time I got my tail outta here.",
+   "ro": "[Deconectează-te] So Mi, e timpul să-mi iau tălpășița de aici."
+  },
+  {
+   "key": "3232255300292673548",
+   "en": "I'll fuckin' code yellow you!",
+   "ro": "Te codez galben, pula mea!"
+  },
+  {
+   "key": "3232259287884595212",
+   "en": "Time to delta out!",
+   "ro": "E timpu' s-o tăiem!"
+  },
+  {
+   "key": "3232260698831683596",
+   "en": "Waaaiiit... Yeah, OK, clear. Code yellow cancelled.",
+   "ro": "Staaai... Da, OK, liber. Cod galben anulat."
+  },
+  {
+   "key": "3232260698831683604",
+   "en": "Now jack out and move forward, please? We apologize for any inconvenience.",
+   "ro": "Acum deconectează-te și mergi înainte, te rog? Ne cerem scuze pentru neplăcere."
+  },
+  {
+   "key": "3232285520504651776",
+   "en": "Code red!",
+   "ro": "Cod roșu!"
+  },
+  {
+   "key": "3234783893367390212",
+   "en": "Unauthorized implants? Specifically?",
+   "ro": "Implanturi neautorizate? Care anume?"
+  },
+  {
+   "key": "3234785735237271552",
+   "en": "[Jack in] You got it.",
+   "ro": "[Conectează-te] Am înțeles."
+  },
+  {
+   "key": "3234808993089159168",
+   "en": "[Threaten] Peeps're dangerous, implants per se aren't, ya hick.",
+   "ro": "[Amenință] Tipii ăia sunt periculoși, implanturile în sine nu, măi țărane."
+  },
+  {
+   "key": "3234855457303658512",
+   "en": "Wait, unauthorized implants? Specifically?",
+   "ro": "Stai, implanturi neautorizate? Care anume?"
+  },
+  {
+   "key": "3234855457303658528",
+   "en": "A detailed schedule was in the spaceport terms and conditions you acknowledged when you purchased your ticket.",
+   "ro": "Programul detaliat e scris în termenii și condițiile spațioportului, pe care i-ai acceptat când ai luat biletul."
+  },
+  {
+   "key": "3234855457303658544",
+   "en": "V!",
+   "ro": "V!"
+  },
+  {
+   "key": "3234858060506824704",
+   "en": "Right, 'course.",
+   "ro": "Da, sigur."
+  },
+  {
+   "key": "3234861686834954256",
+   "en": "Sheesh, how backwards can you be? Should fear peeps, not the implants they wear.",
+   "ro": "Of, cât de învechit poți fi? Ar trebui să te temi de tipi, nu de implanturile pe care le poartă."
+  },
+  {
+   "key": "3234861686834954272",
+   "en": "'Ey, V!",
+   "ro": "Hei, V!"
+  },
+  {
+   "key": "3234861686851731468",
+   "en": "Code yellow. Got an uppity one at the gate.",
+   "ro": "Cod galben. Am unul obraznic la poartă."
+  },
+  {
+   "key": "3234870569179643904",
+   "en": "Be chill, draw no attention.",
+   "ro": "Relaxează-te, nu atrage atenția."
+  },
+  {
+   "key": "3234927140878254080",
+   "en": "Tycho Terminal – go… and draw absolutely no eyes.",
+   "ro": "Terminalul Tycho – mergi… și nu atrage nicio privire."
+  },
+  {
+   "key": "3241209169123049556",
+   "en": "On the ground, hands behind your head!",
+   "ro": "La pământ, mâinile la ceafă!"
+  },
+  {
+   "key": "3241209169123049564",
+   "en": "Shit!",
+   "ro": "Căcat!"
+  },
+  {
+   "key": "3246410512245026816",
+   "en": "Ahh, it's all that Arasaka confusion. Peeps feelin' just a little unsafe in the city.",
+   "en_m": "It's all that... Arasaka confusion. Yeheh. Peeps feelin' just a... little unsafe in the city.",
+   "ro": "Ahh, e toată confuzia aia cu Arasaka. Oamenii se simt puțin nesiguri în oraș.",
+   "ro_m": "E toată... confuzia aia cu Arasaka. Yeheh. Oamenii se simt puțin... nesiguri în oraș."
+  },
+  {
+   "key": "3246599401266049024",
+   "en": "Um, not sure what you want me to do…",
+   "en_m": "Um, ah, not sure what you want me to do…",
+   "ro": "Ăă, nu-s sigură ce vrei să fac…",
+   "ro_m": "Ăă, ah, nu-s sigur ce vrei să fac…"
+  },
+  {
+   "key": "3247606615321702400",
+   "en": "Second, scan again. With greater care this time?",
+   "en_m": "Second, scan again. With greater care this time.",
+   "ro": "În al doilea rând, scanează iar. De data asta cu mai multă grijă?",
+   "ro_m": "În al doilea rând, scanează iar. De data asta cu mai multă grijă."
+  },
+  {
+   "key": "3247630966595088384",
+   "en": "Wanna talk to your supervisor – hop to it!",
+   "ro": "Vrei să vorbești cu șeful tău – hai, mișcă-te!"
+  },
+  {
+   "key": "3292702127545835520",
+   "en": "Wanna make some spare eds?",
+   "ro": "Vrei să faci niște eddie-uri în plus?"
+  },
+  {
+   "key": "3292702451899752448",
+   "en": "Seemed wasteful to buy a ticket, but... I did manage to set somethin' aside for you.",
+   "en_m": "Seemed wasteful to buy a ticket. But I did manage to set somethin' aside for you.",
+   "ro": "Mi s-a părut risipă să iau bilet, da' am reușit să-ți țin ceva deoparte.",
+   "ro_m": "Mi s-a părut risipă să iau bilet. Da' am reușit să-ți țin ceva deoparte."
+  },
+  {
+   "key": "3292711919937052672",
+   "en": "Usually enough to keep border officials happy, right?",
+   "en_m": "Usually enough to keep a border official happy, right?",
+   "ro": "De obicei ajunge ca să-i țină mulțumiți pe oficialii de la frontieră, nu?",
+   "ro_m": "De obicei ajunge ca să-l țină mulțumit pe oficialul de la frontieră, nu?"
+  },
+  {
+   "key": "3357934045421559808",
+   "en": "He came close, V. You're welcome.",
+   "ro": "La mustață, V. Cu plăcere."
+  },
+  {
+   "key": "3364801166102056960",
+   "en": "Don't push it, V.",
+   "ro": "Nu exagera, V."
+  },
+  {
+   "key": "3364819891807145988",
+   "en": "Sorry, humor's my go-to when I'm tense.",
+   "ro": "Scuze, umorul e soluția mea când sunt încordată.",
+   "ro_m": "Scuze, umorul e soluția mea când sunt încordat."
+  },
+  {
+   "key": "3364821048076095488",
+   "en": "Damn, you're tense. Got a friend with a thing for paunches…",
+   "ro": "Mamă, ești încordată. Am o prietenă care are o slăbiciune pentru burtici…",
+   "ro_m": "Mamă, ești încordat. Am o prietenă care are o slăbiciune pentru burtici…"
+  },
+  {
+   "key": "3364821646771048448",
+   "en": "Sorry, read the vibe wrong. Just, officials and their brows and their frowns – ah, it makes me tense.",
+   "en_m": "Sorry, heh. Read the vibe wrong. Just, officials and their brows and their frowns, heh – makes me tense.",
+   "ro": "Scuze, am ghicit prost vibe-ul. Oficialii ăia, cu sprâncenele și fețele lor încruntate – ah, mă face încordată.",
+   "ro_m": "Scuze, am ghicit prost vibe-ul. Oficialii ăia, cu sprâncenele și fețele lor încruntate – ah, mă face încordat."
+  },
+  {
+   "key": "3364822101735591936",
+   "en": "Stressful, this job. You could use some relief. Know this girl with a thing for paunches…",
+   "en_m": "Stressful, this job. You could use some relief. Know this girl with a thing for, uh, paunches…",
+   "ro": "Stresant jobul ăsta. Ți-ar prinde bine o pauză. Cunosc o tipă cu o slăbiciune pentru burtici…",
+   "ro_m": "Stresant jobul ăsta. Ți-ar prinde bine o pauză. Cunosc o tipă cu o slăbiciune pentru, ăă, burtici…"
+  },
+  {
+   "key": "3364824494804127744",
+   "en": "Hm. Will you please just do as instructed?",
+   "ro": "Hm. Vrei să faci ce ți s-a spus, te rog?"
+  },
+  {
+   "key": "3364825029225566208",
+   "en": "All good.",
+   "ro": "Totul bine."
+  },
+  {
+   "key": "3364827328710791168",
+   "en": "And I know wound-up smart-asses like you. How about you unwind in a cell.",
+   "ro": "Și cunosc tipi încordați și obraznici ca tine. Ce zici să te relaxezi într-o celulă?"
+  },
+  {
+   "key": "3364834747243384832",
+   "en": "And humor's my go-to, so…",
+   "en_m": "Yeah, and humor's my go-to, so… heh.",
+   "ro": "Și umorul e soluția mea, așa că…",
+   "ro_m": "Da, și umorul e soluția mea, așa că… heh."
+  },
+  {
+   "key": "3364835062151729152",
+   "en": "I truly apologize…",
+   "en_m": "I... truly apologize.",
+   "ro": "Chiar îmi pare rău…"
+  },
+  {
+   "key": "3943381836790808580",
+   "en": "Please just do as instructed.",
+   "ro": "Te rog, fă ce ți s-a spus."
+  }
+ ]
+}

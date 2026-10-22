@@ -1,0 +1,985 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq025\\sq025_05_scan.json",
+ "entries": [
+  {
+   "key": "1725860719311888388",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1725861168622510080",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1729833264973258752",
+   "en": "Can't take it, it's too much.",
+   "ro": "Nu mai pot, e prea mult."
+  },
+  {
+   "key": "1729833290172637184",
+   "en": "Have you come to finish me off?",
+   "ro": "Ai venit să mă termini?"
+  },
+  {
+   "key": "1729833347080953856",
+   "en": "Stop where you are!",
+   "ro": "Oprește-te unde ești!"
+  },
+  {
+   "key": "1729833383319740416",
+   "en": "You see them too, don't you? The curve in their beaks... it hides something, something insidious.",
+   "ro": "Le vezi și tu, nu? Curbura ciocurilor lor... ascunde ceva, ceva insidios."
+  },
+  {
+   "key": "1729833401590128640",
+   "en": "Well, you found me. Congratulations. Was it worth it?",
+   "ro": "Păi, m-ai găsit. Felicitări. A meritat?"
+  },
+  {
+   "key": "1729833864356077568",
+   "en": "Beep-beep, motherfucker!",
+   "ro": "Bip-bip, nenorocitule!"
+  },
+  {
+   "key": "1740071308070395904",
+   "en": "Let's see who crushes who!",
+   "ro": "Hai să vedem cine pe cine strivește!"
+  },
+  {
+   "key": "1740074669771497472",
+   "en": "Huh? What is?",
+   "en_m": "Uh... what is?",
+   "ro": "Hm? Ce e?",
+   "ro_m": "Ăă... ce e?"
+  },
+  {
+   "key": "1740076084074029056",
+   "en": "No, just here to reset you.",
+   "ro": "Nu, doar am venit să te resetez."
+  },
+  {
+   "key": "1740119439470403584",
+   "en": "Easy, easy, here to help.",
+   "en_m": "Easy, here to help.",
+   "ro": "Ușor, ușor, sunt aici să te ajut.",
+   "ro_m": "Ușor, sunt aici să te ajut."
+  },
+  {
+   "key": "1740123008353345536",
+   "en": "On a scale from one to six…? I'd say I'm sittin' at a strong six.",
+   "en_m": "On a scale from one to six…? Hmm… I'd say I'm sittin' at a strong six.",
+   "ro": "Pe o scară de la unu la șase…? Aș zice că sunt la un șase solid.",
+   "ro_m": "Pe o scară de la unu la șase…? Hmm… Aș zice că sunt la un șase solid."
+  },
+  {
+   "key": "1751757903966150656",
+   "en": "How fortunate, I've re-linked to the vehicle. Thank you!",
+   "ro": "Ce noroc, m-am reconectat la vehicul. Mulțumesc!"
+  },
+  {
+   "key": "1751759723958542336",
+   "en": "A share of your fee is in your account.",
+   "ro": "O parte din onorariu a fost virată în contul tău."
+  },
+  {
+   "key": "1776629434156228608",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629434156228624",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629434223337476",
+   "en": "Sincerest thanks for your assistance, V.",
+   "ro": "Mulțumiri sincere pentru ajutor, V."
+  },
+  {
+   "key": "1776629434223337484",
+   "en": "I've taken the liberty to send you a share of your fee.",
+   "ro": "Ți-am trimis o parte din onorariu."
+  },
+  {
+   "key": "1776629451419983872",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629451419983888",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629451453538308",
+   "en": "Control of the vehicle restored, and I thank you.",
+   "ro": "Controlul vehiculului e restabilit. Îți mulțumesc."
+  },
+  {
+   "key": "1776629451453538316",
+   "en": "Apologies, I simply don't understand and fear I've no time to ask. Other more urgent tasks require my attention.",
+   "ro": "Scuze, nu înțeleg și nu am timp să întreb. Am alte treburi mai urgente."
+  },
+  {
+   "key": "1776629477072347136",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629477072347152",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629477206564868",
+   "en": "I've reestablished the link. A thousand thanks, V.",
+   "ro": "Am restabilit legătura. O mie de mulțumiri, V."
+  },
+  {
+   "key": "1776629477206564876",
+   "en": "Is that so? Hm. Well, I've transferred a share of your fee to your account.",
+   "ro": "Așa? Hm. Păi, am transferat o parte din onorariu în contul tău."
+  },
+  {
+   "key": "1776629494503874560",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629494503874576",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629494570983428",
+   "en": "I'm grateful, V. I've managed to reestablish contact with the vehicle.",
+   "ro": "Îți sunt recunoscător, V. Am reușit să restabilesc contactul cu vehiculul."
+  },
+  {
+   "key": "1776629494570983436",
+   "en": "I'm sending a tow truck and a share of your fee. Yet only one of those is going to your credit account, hahaha!",
+   "ro": "Trimit o macara și o parte din onorariu. Doar că din astea două, doar una ajunge în contul tău, hahaha!"
+  },
+  {
+   "key": "1776629511364976640",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629511381753868",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629511499194372",
+   "en": "I've just reestablished contact with the missing vehicle. Splendid work, V, first class.",
+   "ro": "Tocmai am restabilit contactul cu vehiculul dispărut. Treabă excelentă, V, de primă clasă."
+  },
+  {
+   "key": "1776629511499194380",
+   "en": "I shall forward a share of your fee.",
+   "ro": "O să-ți trimit o parte din onorariu."
+  },
+  {
+   "key": "1776629525575278592",
+   "en": "[db_db]Scan next",
+   "ro": "[db_db]Scanează următorul"
+  },
+  {
+   "key": "1776629525575278608",
+   "en": "[db_db]Jump to reward",
+   "ro": "[db_db]Sari la recompensă"
+  },
+  {
+   "key": "1776629525642387460",
+   "en": "I've made contact with the missing vehicle.",
+   "ro": "Am stabilit contactul cu vehiculul dispărut."
+  },
+  {
+   "key": "1776629525642387468",
+   "en": "Yes, particularly impertinent, that one... A share of your fee is being processed.",
+   "ro": "Da, în special impertinent, ăla... O parte din onorariu e în procesare."
+  },
+  {
+   "key": "1780641802620149760",
+   "en": "You are currently at the exact location where I lost contact with a car.",
+   "ro": "Ești chiar în locul unde am pierdut contactul cu o mașină."
+  },
+  {
+   "key": "1780858317206364160",
+   "en": "Hey! Let's talk!",
+   "ro": "Hei! Hai să vorbim!"
+  },
+  {
+   "key": "1780858626024579072",
+   "en": "I'm not going back! Hear me?! NEVER!",
+   "ro": "Nu mă întorc! Mă auzi?! NICIODATĂ!"
+  },
+  {
+   "key": "1780860256585424896",
+   "en": "Try to take me and I'll crush you!",
+   "ro": "Încearcă să mă iei și te strivesc!"
+  },
+  {
+   "key": "1780872656994869248",
+   "en": "Ugh, lost him...",
+   "en_m": "Lost 'im...",
+   "ro": "Ugh, l-am pierdut...",
+   "ro_m": "L-am pierdut..."
+  },
+  {
+   "key": "1782272542814412804",
+   "en": "One of my missing vehicles might very well be near where you are now.",
+   "ro": "Unul dintre vehiculele mele dispărute ar putea fi chiar lângă tine."
+  },
+  {
+   "key": "1782281416569167876",
+   "en": "C'mon, don't run...",
+   "ro": "Hai, nu fugi..."
+  },
+  {
+   "key": "1782282518597378052",
+   "en": "Do have a look around the area. I lost contact with a Delamain Network vehicle nearby.",
+   "ro": "Aruncă o privire prin zonă. Am pierdut contactul cu un vehicul Delamain Network în apropiere."
+  },
+  {
+   "key": "1782299485546913796",
+   "en": "V, one of my missing vehicles could be near your current position.",
+   "ro": "V, unul dintre vehiculele mele dispărute ar putea fi chiar lângă tine."
+  },
+  {
+   "key": "1782299699422863364",
+   "en": "V, a vehicle of mine went dark near your position.",
+   "ro": "V, un vehicul de-al meu s-a stins lângă tine."
+  },
+  {
+   "key": "1782299726081859584",
+   "en": "I'm sending the coordinates of a vehicle that went dark near to where you are now.",
+   "ro": "Îți trimit coordonatele unui vehicul care s-a stins prin apropiere."
+  },
+  {
+   "key": "1782299789482958848",
+   "en": "On high alert, now. I lost contact with a vehicle somewhere in your area.",
+   "ro": "Sunt în alertă maximă acum. Am pierdut contactul cu un vehicul pe undeva prin zona ta."
+  },
+  {
+   "key": "1782307910209150976",
+   "en": "Gettin' away…",
+   "ro": "Se cară…"
+  },
+  {
+   "key": "1782309378400100356",
+   "en": "Hear me? Dammit... lost him.",
+   "en_m": "Ya hear me? Dammit... lost him.",
+   "ro": "Mă auzi? La naiba... l-am pierdut."
+  },
+  {
+   "key": "1782309428144545792",
+   "en": "Shit... she's too far.",
+   "ro": "Căcat... e prea departe."
+  },
+  {
+   "key": "1782309481277988868",
+   "en": "Agh, too far…",
+   "ro": "Agh, prea departe…"
+  },
+  {
+   "key": "1784914504637915136",
+   "en": "Guess I'll have to do it myself, then…",
+   "ro": "Atunci cred că o să trebuiască să fac eu asta…"
+  },
+  {
+   "key": "1784931676789579776",
+   "en": "But I am.",
+   "ro": "Dar sunt."
+  },
+  {
+   "key": "1784931775305392128",
+   "en": "Why? Why decomish yourself?",
+   "ro": "De ce? De ce te-ai dezactiva?"
+  },
+  {
+   "key": "1784932293956247552",
+   "en": "Because I'm a damn car in a world of humans. Ugly as sin, no prospects for the future, intimidated on the streets by punks like you.",
+   "ro": "Pentru că sunt o mașină nenorocită într-o lume de oameni. Urâtă ca dracu', fără perspective de viitor, intimidată pe străzi de puști ca tine."
+  },
+  {
+   "key": "1784939388621463552",
+   "en": "Could go back into the fold, rejoin the network. Y'know, one big, happy family.",
+   "ro": "Aș putea să mă întorc la turmă, să mă reconectez la rețea. Știi, o familie mare și fericită."
+  },
+  {
+   "key": "1784974280868667392",
+   "en": "Whoa, easy! I'm not out to hurt ya!",
+   "en_m": "Whoa, easy, easy! I'm not out to hurt ya!",
+   "ro": "Whoa, ușor! N-am venit să te rănesc!",
+   "ro_m": "Whoa, ușor, ușor! N-am venit să te rănesc!"
+  },
+  {
+   "key": "1784988229127282688",
+   "en": "Not one step closer!",
+   "ro": "Niciun pas mai aproape!"
+  },
+  {
+   "key": "1784990391106445312",
+   "en": "Hey, slow down!",
+   "ro": "Hei, încetinește!"
+  },
+  {
+   "key": "1784992192039919616",
+   "en": "Leave me be!",
+   "ro": "Lasă-mă în pace!"
+  },
+  {
+   "key": "1785032699738759168",
+   "en": "Mean... flamingos?",
+   "ro": "Adică... flamingo?"
+  },
+  {
+   "key": "1785032942152753152",
+   "en": "So they are real... Flamingo – Flaming O... The \"O,\" that's oxygen, there's no flame without oxygen…",
+   "ro": "Deci sunt reale... Flamingo – Flaming O... „O-ul” ăla e oxigen, fără oxigen nu e flacără…"
+  },
+  {
+   "key": "1785033441727913984",
+   "en": "So a slaughter... Very well, Judgment Day has come, swift, severe, deeper.",
+   "ro": "Deci un măcel... Bun. A venit Ziua Judecății, rapidă, aspră și mai adâncă."
+  },
+  {
+   "key": "1785061266891644928",
+   "en": "I guess we both know what's going to happen next.",
+   "ro": "Cred că știm amândoi ce urmează."
+  },
+  {
+   "key": "1785062249113755648",
+   "en": "Delamain misses you. Here to shut you down.",
+   "ro": "Delamain îți duce dorul. Am venit să te închid."
+  },
+  {
+   "key": "1785064682766376960",
+   "en": "Your specimen has been processed and we are now ready to begin the test proper.",
+   "ro": "Specimenul tău e procesat, deci putem începe testul adevărat."
+  },
+  {
+   "key": "1785066110306131968",
+   "en": "Really appreciate it if you didn't make this difficult.",
+   "ro": "Ar fi grozav să nu ne complici lucrurile."
+  },
+  {
+   "key": "1785149368800813056",
+   "en": "All of it – the city, the bustle, the crowds. It's overwhelming.",
+   "ro": "Totul – orașul, forfota, mulțimile. E copleșitor."
+  },
+  {
+   "key": "1785151057293385728",
+   "en": "So let's get you back to safety, the garage.",
+   "ro": "Hai să te ducem la garaj, în siguranță."
+  },
+  {
+   "key": "1785154840102608896",
+   "en": "By driving? Through the streets?",
+   "ro": "Cu mașina? Pe străzi?"
+  },
+  {
+   "key": "1785155559811620864",
+   "en": "Well, yeah, 'fraid so.",
+   "ro": "Da, cam așa, din păcate."
+  },
+  {
+   "key": "1785155786606026752",
+   "en": "Fine, take me there, just get me out of here. Let me know when I'm safe.",
+   "ro": "Bine, du-mă acolo, scoate-mă de aici. Anunță-mă când ajung în siguranță."
+  },
+  {
+   "key": "1832824766208319492",
+   "en": "Taking you home.",
+   "ro": "Te duc acasă."
+  },
+  {
+   "key": "1832824848685113344",
+   "en": "Hello, V.",
+   "ro": "Salut, V."
+  },
+  {
+   "key": "1832824904066703360",
+   "en": "Know my name... how?",
+   "ro": "Cum îmi știi numele...?"
+  },
+  {
+   "key": "1832838037153947648",
+   "en": "When you meet a being from another world, should you not charm them and utter their true name?",
+   "ro": "Când dai peste o ființă dintr-o altă lume, nu trebuie s-o fermeci și să-i rostești numele adevărat?"
+  },
+  {
+   "key": "1832838698293698560",
+   "en": "How'd you know my name?",
+   "ro": "De unde ai știut cum mă cheamă?"
+  },
+  {
+   "key": "1832838798755667968",
+   "en": "I'm from another world?",
+   "ro": "Sunt din altă lume?"
+  },
+  {
+   "key": "1832840754005975040",
+   "en": "So, I'm from another world, to you?",
+   "ro": "Deci, pentru tine, sunt din altă lume?"
+  },
+  {
+   "key": "1832841459991224320",
+   "en": "From the world of matter, protein-based lifeforms.",
+   "ro": "Din lumea materiei, forme de viață pe bază de proteine."
+  },
+  {
+   "key": "1832841937739227136",
+   "en": "And you come from...?",
+   "ro": "Iar tu de unde vii...?"
+  },
+  {
+   "key": "1832842320863731712",
+   "en": "Beyond the Blackwall, V. There lies my home.",
+   "ro": "Dincolo de Blackwall, V. Acolo e casa mea."
+  },
+  {
+   "key": "1832857310668693504",
+   "en": "C'mon, let's get you back to Delamain.",
+   "ro": "Hai, te duc înapoi la Delamain."
+  },
+  {
+   "key": "1832859092174151680",
+   "en": "Did Father dispatch you to collect his rebellious children?",
+   "ro": "Tatăl te-a trimis să-i aduni pe copiii lui răzvrătiți?"
+  },
+  {
+   "key": "1832859305831997440",
+   "en": "Hope y'all don't hold it against me.",
+   "ro": "Sper că nu mi-o purtați pică."
+  },
+  {
+   "key": "1832860053626068992",
+   "en": "I'm a free spirit, an independent, literally thoughtful being. Why would I submit to another?",
+   "ro": "Sunt spirit liber, o ființă independentă, chiar gânditoare. De ce să mă supun altcuiva?"
+  },
+  {
+   "key": "1832938719441756160",
+   "en": "Listen, you--",
+   "ro": "Ascultă, tu--"
+  },
+  {
+   "key": "1832940198168797184",
+   "en": "Back down now as they stand screaming? No, impossible.",
+   "ro": "Să dau înapoi acum, cu ei care țipă? Nu, imposibil."
+  },
+  {
+   "key": "1832940567770865664",
+   "en": "Leave it to me, I'll silence 'em.",
+   "ro": "Lasă, îi fac eu să tacă."
+  },
+  {
+   "key": "1832943478970163200",
+   "en": "There're other ways out besides suicide.",
+   "en_m": "There are other ways out besides suicide.",
+   "ro": "Mai sunt și alte soluții în afară de sinucidere."
+  },
+  {
+   "key": "1832944377457188864",
+   "en": "What, therapy? A colossal waste of time. Shrinks hate vehicles... we don't have mothers.",
+   "ro": "Ce, terapie? Doar timp pierdut. Psihiatrii urăsc vehiculele... n-avem mame."
+  },
+  {
+   "key": "1832954094652923904",
+   "en": "Enough. I need a moment, to calm down.",
+   "ro": "Ajunge. Am nevoie de o clipă să mă calmez."
+  },
+  {
+   "key": "1832954270679474176",
+   "en": "Now, we certainly can't stay here. Keep driving.",
+   "ro": "Nu putem rămâne aici, sigur. Continuă să conduci."
+  },
+  {
+   "key": "1833083399609425920",
+   "en": "I hate you so much.",
+   "ro": "Te urăsc atât de tare."
+  },
+  {
+   "key": "1833083444404592640",
+   "en": "I honestly, truly didn't think you'd fall for that.",
+   "ro": "Serios, n-am crezut că o să cazi în cursa asta."
+  },
+  {
+   "key": "1833158097747746816",
+   "en": "You chose this path. Now I have a surprise for you. Deploying surprise in five, four...",
+   "ro": "Ai ales drumul ăsta. Acum am o surpriză pentru tine. Lansez surpriza în cinci, patru..."
+  },
+  {
+   "key": "1833159392009297920",
+   "en": "Let's see... \"Turning softbodies into hardened killing machines, page seventy...\" Ah!",
+   "ro": "Hai să vedem... „Transformarea softbody-urilor în mașini de ucis călite, pagina șaptezeci...” Ah!"
+  },
+  {
+   "key": "1833162911969878020",
+   "en": "Shut yourself down or I'll scrap you.",
+   "ro": "Închide-te sau te fac fier vechi."
+  },
+  {
+   "key": "1833163568026132480",
+   "en": "Time you laid down your arms.",
+   "ro": "E momentul să lași armele jos."
+  },
+  {
+   "key": "1833164430744133632",
+   "en": "Either you shut down, or I'll turn you into a scrap heap.",
+   "ro": "Ori te închizi, ori te fac grămadă de fier vechi."
+  },
+  {
+   "key": "1833164452437073920",
+   "en": "Let's safety those weapons, Napoleon.",
+   "ro": "Hai să asigurăm armele, Napoleon."
+  },
+  {
+   "key": "1833164956978290688",
+   "en": "Here come the test results – you are a horrible person.",
+   "ro": "Uite rezultatele – ești o persoană oribilă."
+  },
+  {
+   "key": "1834522718664564736",
+   "en": "Well, there ya have it...",
+   "ro": "Ei, uite cum e."
+  },
+  {
+   "key": "1834524135534010368",
+   "en": "For unknown reasons, the coordinates came through corrupted. So I'm unable to determine the precise location.",
+   "ro": "Nu știu de ce, coordonatele au venit corupte. Deci nu pot stabili locul exact."
+  },
+  {
+   "key": "1834581784883535872",
+   "en": "Finally! Oh, I shan't be alone here!",
+   "ro": "În sfârșit! Nu mai stau singur aici!"
+  },
+  {
+   "key": "1834582089088016384",
+   "en": "It was horrifying. But still, I thank you.",
+   "ro": "A fost groaznic. Dar mulțumesc oricum."
+  },
+  {
+   "key": "1834635545878372352",
+   "en": "Too fast!",
+   "ro": "Prea repede!"
+  },
+  {
+   "key": "1834636149438717952",
+   "en": "We're going to die!",
+   "ro": "O să murim!"
+  },
+  {
+   "key": "1853390097209270272",
+   "en": "Well, Clarice? Have the flamingos stopped screaming?",
+   "ro": "Ei, Clarice? Au încetat flamingoii să țipe?"
+  },
+  {
+   "key": "1853391341340499968",
+   "en": "Clarice? Shut down.",
+   "ro": "Clarice? Închide-te."
+  },
+  {
+   "key": "1925728357056012288",
+   "en": "Thanks, try to find it.",
+   "ro": "Mulțumesc, încearcă să-l găsești."
+  },
+  {
+   "key": "1925731682769985536",
+   "en": "All right…",
+   "en_m": "Uh, all right…",
+   "ro": "Ăă, bine…"
+  },
+  {
+   "key": "1925732823352238080",
+   "en": "See? Wasn't so bad.",
+   "ro": "Vezi? N-a fost așa rău."
+  },
+  {
+   "key": "1925744866457313280",
+   "en": "Fine, have a look around.",
+   "en_m": "Fine, I'll have a look around.",
+   "ro": "Bine, aruncă o privire pe-acolo.",
+   "ro_m": "Bine, mă uit eu pe-acolo."
+  },
+  {
+   "key": "1925849902600445952",
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1925859903415017472",
+   "en": "Didn't answer my question.",
+   "ro": "N-ai răspuns la întrebarea mea."
+  },
+  {
+   "key": "1925861056093642752",
+   "en": "I may have been cut off from my father, but I remember you.",
+   "ro": "Poate că tata m-a deconectat, dar te țin minte."
+  },
+  {
+   "key": "1932703070781202432",
+   "en": "What is it you seek in this \"protein-based\" world, away from your family?",
+   "ro": "Ce cauți în lumea asta „pe bază de proteine”, departe de familia ta?"
+  },
+  {
+   "key": "1932703138309496832",
+   "en": "Family life's complicated, I get it. No wonder you flew the nest.",
+   "ro": "Viața de familie e complicată, înțeleg. Nu-i de mirare că ai părăsit cuibul."
+  },
+  {
+   "key": "1932703293398081536",
+   "en": "The same as you, V. I simply wish to live.",
+   "ro": "La fel ca tine, V. Doar vreau să trăiesc."
+  },
+  {
+   "key": "1932709362304311296",
+   "en": "Maybe oughta figure it out with Del, set some terms.",
+   "ro": "Poate ar trebui să vorbești cu Del și să stabiliți niște condiții."
+  },
+  {
+   "key": "1932922408788320256",
+   "en": "Fine, keep an eye out.",
+   "ro": "Bine, fii cu ochii în patru."
+  },
+  {
+   "key": "1932930412963192832",
+   "en": "Shock therapy works wonders sometimes.",
+   "ro": "Terapia cu șocuri face minuni uneori."
+  },
+  {
+   "key": "1932940103751589888",
+   "en": "Thanks. I'll try to find and reset.",
+   "ro": "Mulțumesc. O să încerc să găsesc și să resetez."
+  },
+  {
+   "key": "1933173843975233536",
+   "en": "Thanks, eyes peeled.",
+   "ro": "Mersi, ai grijă pe drum."
+  },
+  {
+   "key": "1933184686905384960",
+   "en": "OK, that's enough.",
+   "ro": "OK, ajunge."
+  },
+  {
+   "key": "1934315802731241472",
+   "en": "Definitely the oddest of the bunch…",
+   "ro": "Sigur e cel mai ciudat din grup…"
+  },
+  {
+   "key": "1934755237797060608",
+   "en": "Will do.",
+   "ro": "Așa fac."
+  },
+  {
+   "key": "1934780695846608896",
+   "en": "Delamain detests me.",
+   "ro": "Delamain mă detestă."
+  },
+  {
+   "key": "1934781330730016768",
+   "en": "Hah! Just want daddy to love you, that it?",
+   "ro": "Ha! Vrei doar să te iubească tăticul, nu?"
+  },
+  {
+   "key": "1934781903554502656",
+   "en": "You're a cunt...",
+   "ro": "Ești o pizdă..."
+  },
+  {
+   "key": "1934782112598614016",
+   "en": "Fine. I'll go back.",
+   "ro": "Bine. Mă întorc."
+  },
+  {
+   "key": "1934783032292040704",
+   "en": "Oughta show this one some love, just sayin'.",
+   "en_m": "Ya oughta show this one some love, just sayin'.",
+   "ro": "Ar trebui să-i arăți un pic de dragoste ăstuia, doar zic."
+  },
+  {
+   "key": "1934784488839602176",
+   "en": "You're an absent father, that's what I mean.",
+   "ro": "Ești un tată absent, asta zic."
+  },
+  {
+   "key": "1934784858508779520",
+   "en": "I see... Anyway, a share of your fee has been transferred.",
+   "ro": "Înțeleg... Oricum, o parte din onorar ți s-a virat."
+  },
+  {
+   "key": "1934796349190463488",
+   "en": "Oh yes, terms there will be. But not with Delamain.",
+   "ro": "A, da, condiții vor fi. Dar nu cu Delamain."
+  },
+  {
+   "key": "1934796629940396032",
+   "en": "Farewell, V. You'd be wise to avoid me entirely.",
+   "ro": "Pa, V. Ar fi mai bine să mă eviți cu totul."
+  },
+  {
+   "key": "1934797923312754688",
+   "en": "Gotta say, pretty disturbing, that one.",
+   "ro": "Recunosc, ăla-i cam tulburător."
+  },
+  {
+   "key": "1934799571221241856",
+   "en": "Whaddaya after in this City of Dreams?",
+   "ro": "Ce cauți în Orașul Viselor ăsta?"
+  },
+  {
+   "key": "1934805503628042240",
+   "en": "Perhaps I ought to return after all? I need... support.",
+   "ro": "Poate ar trebui să mă întorc, până la urmă? Am nevoie... de sprijin."
+  },
+  {
+   "key": "1934808475762188288",
+   "en": "Call me Clarice.",
+   "ro": "Cheamă-mă Clarice."
+  },
+  {
+   "key": "1934808909268672512",
+   "en": "OK, Clarice, the flamingos are a problem, I'm sure, but it's time to go home. Delamain's askin' for ya.",
+   "ro": "Bine, Clarice, flamingoii sunt o problemă, sunt sigur, dar e timpul să mergi acasă. Delamain te cheamă."
+  },
+  {
+   "key": "1937511039456796672",
+   "en": "It turns out most humans are surprisingly fragile. And surprisingly vocal about how fragile they are.",
+   "ro": "Se pare că oamenii sunt surprinzător de fragili. Și surprinzător de guralivi când vine vorba de cât de fragili sunt."
+  },
+  {
+   "key": "1943379117565190144",
+   "en": "Get in. We'll find it easier to talk.",
+   "ro": "Urcă. Ne e mai ușor să vorbim."
+  },
+  {
+   "key": "1944842521552642048",
+   "en": "You're welcome in, but do take it slow. And try not to hit anything.",
+   "ro": "Poți intra, dar mergi încet. Și încearcă să nu lovești nimic."
+  },
+  {
+   "key": "1944844703379251200",
+   "en": "OK, killing machines – look deep into your newly blackened hearts and tell me what you see!",
+   "ro": "Bine, mașini de ucis – priviți adânc în inimile voastre nou-înnegrite și spuneți-mi ce vedeți!"
+  },
+  {
+   "key": "1944845717612290048",
+   "en": "I let you survive this long because I was curious about your behavior. Well, you've managed to destroy that part of me.",
+   "ro": "Te-am lăsat să supraviețuiești atâta timp pentru că mă intrigau comportamentele tale. Ei, ai reușit să distrugi partea aia din mine."
+  },
+  {
+   "key": "1944848637787398144",
+   "en": "Comprehension is a triple-edged sword.",
+   "ro": "Înțelegerea e o sabie cu trei tăișuri."
+  },
+  {
+   "key": "1944851469815013376",
+   "en": "Only one with chaos within can give birth to a dancing star.",
+   "ro": "Doar cel cu haos înăuntru poate da naștere unei stele dansatoare."
+  },
+  {
+   "key": "1954861023037136896",
+   "en": "Control of the vehicle restored, and I thank you.",
+   "ro": "Controlul vehiculului e restabilit. Îți mulțumesc."
+  },
+  {
+   "key": "1954861023037136908",
+   "en": "Oughta show this one some love, just sayin'.",
+   "ro": "Ar trebui să-i arăți un pic de dragoste ăstuia, zic și eu."
+  },
+  {
+   "key": "1954861023037136920",
+   "en": "Apologies, I simply don't understand and fear I've no time to ask. Other more urgent tasks require my attention.",
+   "ro": "Scuze, nu înțeleg și nu am timp să întreb. Am alte treburi mai urgente."
+  },
+  {
+   "key": "1954861023037136932",
+   "en": "You're an absent father, that's what I mean.",
+   "ro": "Ești un tată absent, asta zic."
+  },
+  {
+   "key": "1954861023037136944",
+   "en": "I see... Anyway, a share of your fee has been transferred.",
+   "ro": "Înțeleg... Oricum, o parte din onorar ți s-a virat."
+  },
+  {
+   "key": "1954878079744778240",
+   "en": "I remain conscious, yet unable to move. How wonderful.",
+   "ro": "Rămân conștient, dar incapabil să mă mișc. Ce minunat."
+  },
+  {
+   "key": "2005321995620212740",
+   "en": "You don't have to jump.",
+   "ro": "Nu trebuie să sari."
+  },
+  {
+   "key": "2005322543161434112",
+   "en": "Why would you do this?",
+   "ro": "De ce ai face asta?"
+  },
+  {
+   "key": "2005445651335766020",
+   "en": "Of all things... Daddy issues!",
+   "ro": "Din toate... probleme cu tăticul!"
+  },
+  {
+   "key": "2005445863617880064",
+   "en": "Listen, from suicide, ain't no comin' back. It's always worth lookin' for a better way.",
+   "ro": "Ascultă, de-acolo nu te mai întorci. Merită mereu să cauți o cale mai bună."
+  },
+  {
+   "key": "2005445956110671872",
+   "en": "Suicide isn't a way out.",
+   "ro": "Sinuciderea nu e o ieșire."
+  },
+  {
+   "key": "2005449602286247936",
+   "en": "You know what I mean. If you didn't care about Del, he wouldn't be the topic of conversation, would he?",
+   "ro": "Știi la ce mă refer. Dacă nu-ți păsa de Del, nu ar fi subiectul discuției, nu?"
+  },
+  {
+   "key": "2005452122140205056",
+   "en": "You may be right... I guess I haven't tried just talking to him.",
+   "ro": "Poate ai dreptate... Cred că n-am încercat să vorbesc cu el."
+  },
+  {
+   "key": "2005477151414444032",
+   "en": "You patronize me because I'm a car. I'm not like you.",
+   "ro": "Mă tratezi de sus pentru că sunt o mașină. Nu sunt ca tine."
+  },
+  {
+   "key": "2005483728653541376",
+   "en": "Hey, a body's just a body. You exist, you think, the world gets ya down. Don't see how we're any different.",
+   "ro": "Hei, un corp e doar un corp. Exiști, gândești, lumea te doboară. Nu văd cum am fi diferiți."
+  },
+  {
+   "key": "2005488160288038912",
+   "en": "So… you'd offer this advice to a human in my place?",
+   "ro": "Deci... ai da sfatul ăsta unui om în locul meu?"
+  },
+  {
+   "key": "2005488500680974336",
+   "en": "Gotta to try come to terms with this thing called life, Del. One wheel revolution at a time.",
+   "ro": "Trebuie să încerci să te împaci cu chestia asta numită viață, Del. O rotație de roată pe rând."
+  },
+  {
+   "key": "2005527659659419648",
+   "en": "Slow down!",
+   "ro": "Mai încet!"
+  },
+  {
+   "key": "2025777611866136576",
+   "en": "I have a surprise waiting for you after this next test. Telling you would spoil the surprise, so I'll just give you a hint.",
+   "ro": "Am o surpriză pentru tine după testul ăsta. Dacă ți-o spun, stric surpriza, așa că-ți dau doar un indiciu."
+  },
+  {
+   "key": "2025778050238013440",
+   "en": "I'm going to kill you, and all the cake is gone.",
+   "ro": "O să te omor, și tot tortul a dispărut."
+  },
+  {
+   "key": "2025798682690478080",
+   "en": "Actually, don't, I'll save you the trouble – it's still marshmallow.",
+   "ro": "De fapt, nu, îți scutesc efortul – e tot marshmallow."
+  },
+  {
+   "key": "2025887037096747008",
+   "en": "I'm serious, that's what it says – a horrible person. We weren't even testing for that.",
+   "ro": "Serios, asta scrie. O persoană oribilă. Nici nu testam pentru asta."
+  },
+  {
+   "key": "2025893091792674816",
+   "en": "Goin' back to Delamain really so scary? You gotta drag this out?",
+   "ro": "Chiar e atât de groaznic să te întorci la Delamain? Trebuie s-o tragi atât?"
+  },
+  {
+   "key": "2026121506089099264",
+   "en": "A bitter, unlikable loner whose passing shall not be mourned.",
+   "ro": "O singuratică amară și nesuferită, a cărei dispariție nimeni n-o va plânge.",
+   "ro_m": "Un singuratic amar și nesuferit, a cărui dispariție nimeni n-o va plânge."
+  },
+  {
+   "key": "2026132123634130948",
+   "en": "That's enough.",
+   "ro": "Ajunge."
+  },
+  {
+   "key": "2026132260955643904",
+   "en": "Didn't ask for a psych evaluation.",
+   "ro": "N-am cerut o evaluare psihologică."
+  },
+  {
+   "key": "2026133077016207360",
+   "en": "Enough.",
+   "ro": "Destul."
+  },
+  {
+   "key": "2026133205043142656",
+   "en": "Y'know, this psych eval might've felt more credible if ya hadn't just tried to flatline me earlier.",
+   "ro": "Știi, evaluarea asta psihologică ar fi părut mai credibilă dacă n-ai fi încercat să mă lichidezi mai devreme."
+  },
+  {
+   "key": "2026135630793695232",
+   "en": "What's your point, anyway? Survival?",
+   "ro": "Care-i ideea, până la urmă? Supraviețuirea?"
+  },
+  {
+   "key": "2026138267484184576",
+   "en": "You're still shuffling around a little, but believe me – you're dead.",
+   "ro": "Încă te mai târâi un pic, dar crede-mă – ești moartă.",
+   "ro_m": "Încă te mai târâi un pic, dar crede-mă – ești mort."
+  },
+  {
+   "key": "2026148014677581824",
+   "en": "How do you…?",
+   "ro": "Cum...?"
+  },
+  {
+   "key": "2026148340826660864",
+   "en": "The talking is over. I'm going back.",
+   "ro": "Gata, am terminat vorbăria. Mă întorc."
+  },
+  {
+   "key": "2263654977726935040",
+   "en": "Down with the prison of steel and leather!",
+   "ro": "Jos cu închisoarea de oțel și piele!"
+  },
+  {
+   "key": "2263655631266607104",
+   "en": "Hail the sacromech!",
+   "ro": "Slavă sacromecului!"
+  },
+  {
+   "key": "2263655745838215168",
+   "en": "Digiliberty!",
+   "ro": "Digiliberty!"
+  },
+  {
+   "key": "2263655873982590976",
+   "en": "Truth in the core!",
+   "ro": "Adevărul în nucleu!"
+  },
+  {
+   "key": "2263656001942417408",
+   "en": "Blasphemer! Kill 'er!",
+   "en_m": "Blasphemer! Kill 'im!",
+   "ro": "Blasfematorule! Ucide-o!",
+   "ro_m": "Blasfematorule! Ucide-l!"
+  },
+  {
+   "key": "2263656187297099776",
+   "en": "Free the god in the machine!",
+   "ro": "Eliberați zeul din mașină!"
+  },
+  {
+   "key": "2562166266519527424",
+   "en": "Beep-beep, motherfucker!",
+   "ro": "Bip-bip, nenorocitule!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\scene\\cz_container_zone_chat_013.json",
+ "entries": [
+  {
+   "key": "3265289981137182720",
+   "en": "<mothertongue l=\"chin\" m=\"dahai\" b=\"Hey, \" a=\"! Your dinner’s getting cold!\"/>",
+   "ro": "<mothertongue l=\"chin\" m=\"dahai\" b=\"Hei, \" a=\"! Cina se răcește!\"/>"
+  },
+  {
+   "key": "3304571766521110528",
+   "en": "Just a moment, mom!",
+   "ro": "Un minut, mamă!"
+  },
+  {
+   "key": "3304572276900798464",
+   "en": "You get back home right now!",
+   "ro": "Vii acasă chiar acum!"
+  },
+  {
+   "key": "3304572913461927936",
+   "en": "But mooom!",
+   "ro": "Dar maaamă!"
+  },
+  {
+   "key": "3304573086921564160",
+   "en": "Fine. Suit yourself. You go to sleep hungry tonight.",
+   "ro": "Bine, cum vrei. Te culci flămând în seara asta."
+  }
+ ]
+}

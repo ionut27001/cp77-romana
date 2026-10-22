@@ -1,0 +1,965 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q115\\q115_00b_hanako.json",
+ "entries": [
+  {
+   "key": "1651729622285426688",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ様がお待ちです\" t=\"Hanako-sama is waiting.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ様がお待ちです\" t=\"Hanako-sama așteaptă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1651764434454978560",
+   "en": "You could use some air. Right now.",
+   "ro": "Ți-ar prinde bine niște aer. Acum."
+  },
+  {
+   "key": "1680635610711068672",
+   "en": "I do not expect you to understand. I wish you merely to know I do not oppose my brother willingly, that it is difficult.",
+   "ro": "Nu cer să înțelegi. Vreau doar să știi că nu mă opun fratelui meu de bunăvoie. E greu."
+  },
+  {
+   "key": "1680638817122258944",
+   "en": "Don't try anything!",
+   "ro": "Nu încerca nimic!"
+  },
+  {
+   "key": "1680645781495615488",
+   "en": "We're getting the fuck outta here.",
+   "ro": "Hai să ne cărăm dracu' de-aici!"
+  },
+  {
+   "key": "1680645781512392704",
+   "en": "Are you well?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "1680647899753353216",
+   "en": "Let's fly the fuck outta here.",
+   "ro": "Hai să zburăm dracu' de-aici!"
+  },
+  {
+   "key": "1680660288569741316",
+   "en": "It's fine. I'm OK.",
+   "ro": "E în regulă. Sunt bine."
+  },
+  {
+   "key": "1680661102700924928",
+   "en": "You are bleeding.",
+   "ro": "Sângerezi."
+  },
+  {
+   "key": "1680662543645675520",
+   "en": "Yeah, i-it's just, uh...",
+   "en_m": "Yeah, yeah, it's just, um…",
+   "ro": "Da, e-e doar, ăă…",
+   "ro_m": "Da, da, e doar, ăă…"
+  },
+  {
+   "key": "1680662972773306368",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1680665149633859584",
+   "en": "I need to leave.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "key": "1680666391701491712",
+   "en": "I am fine. She is not.",
+   "en_m": "I am fine. He is not.",
+   "ro": "Eu sunt bine. Ea nu.",
+   "ro_m": "Eu sunt bine. El nu."
+  },
+  {
+   "key": "1680667908647030784",
+   "en": "It's fine... I'm... I'm OK...",
+   "en_m": "It's fine... I'm OK...",
+   "ro": "E în regulă... Sunt... sunt bine...",
+   "ro_m": "E în regulă... Sunt bine..."
+  },
+  {
+   "key": "1680668037059842048",
+   "en": "I gotta go…",
+   "en_m": "Ugh, I gotta go...",
+   "ro": "Trebuie să plec…",
+   "ro_m": "Pff, trebuie să plec..."
+  },
+  {
+   "key": "1680695280238727168",
+   "en": "I can lead you to Mikoshi.",
+   "ro": "Te pot duce la Mikoshi."
+  },
+  {
+   "key": "1680698203433734148",
+   "en": "[Sit] Got my attention. Go on.",
+   "ro": "[Sit] Mi-ai atras atenția. Continuă."
+  },
+  {
+   "key": "1680701486130925568",
+   "en": "[Sit] And you'll help me in exchange for... what?",
+   "ro": "[Stai jos] Și mă ajuți în schimbul... ce, exact?"
+  },
+  {
+   "key": "1680703821066407936",
+   "en": "Sure know how to prick up my ears.",
+   "ro": "Mi-ai ciulit urechile."
+  },
+  {
+   "key": "1680703918122602496",
+   "en": "And you'll help me in exchange for…?",
+   "ro": "Și ce primesc în schimb?"
+  },
+  {
+   "key": "1680791610030166016",
+   "en": "My brother...",
+   "ro": "Fratele meu..."
+  },
+  {
+   "key": "1680810055589302272",
+   "en": "He must be made to take responsibility for his deeds.",
+   "ro": "Trebuie făcut să-și asume responsabilitatea pentru ce a făcut."
+  },
+  {
+   "key": "1680812089524752384",
+   "en": "Wanna avenge your father.",
+   "ro": "Vrei să-ți răzbuni tatăl."
+  },
+  {
+   "key": "1681004401416605708",
+   "en": "Sit. We have little time.",
+   "ro": "Stai jos. Nu avem mult timp."
+  },
+  {
+   "key": "1681005282337886208",
+   "en": "Let's get to it, then.",
+   "ro": "Hai să trecem la treabă, atunci."
+  },
+  {
+   "key": "1681006055666880524",
+   "en": "I... don't know.",
+   "ro": "Eu... nu știu."
+  },
+  {
+   "key": "1681006055683657736",
+   "en": "Three times now that AV has flown by.",
+   "ro": "AV-ul ăla a trecut pe aici de trei ori."
+  },
+  {
+   "key": "1681006055683657748",
+   "en": "Think someone mighta tailed you?",
+   "ro": "Crezi că te-a urmărit cineva?"
+  },
+  {
+   "key": "1681006055683657760",
+   "en": "We must not get distracted. Did you bring Soulkiller?",
+   "ro": "Nu trebuie să ne distragem. Ai adus Soulkiller?"
+  },
+  {
+   "key": "1681007519780966400",
+   "en": "Seem on edge. Something got ya spooked?",
+   "ro": "Pari nervos. Te-a speriat ceva?"
+  },
+  {
+   "key": "1681018084863643648",
+   "en": "Your biz, not mine.",
+   "ro": "Treaba ta, nu a mea."
+  },
+  {
+   "key": "1682212773218357248",
+   "en": "Just say it. Be easier that way.",
+   "ro": "Zi-o direct. Așa e mai simplu."
+  },
+  {
+   "key": "1682212880407990272",
+   "en": "Hm, sounds like dirty laundry, a family matter. Why should I get involved?",
+   "en_m": "Sounds like dirty laundry, a family matter. Why should I get involved?",
+   "ro": "Hm, sună a rufe murdare, o chestie de familie. De ce să mă implic?",
+   "ro_m": "Sună a rufe murdare, o chestie de familie. De ce să mă implic?"
+  },
+  {
+   "key": "1682218315672326144",
+   "en": "Don't like this at all. Sounds like you wanna use me.",
+   "ro": "Nu-mi place deloc. Parcă vrei să mă folosești."
+  },
+  {
+   "key": "1682226487787130880",
+   "en": "Go on. Talk.",
+   "ro": "Continuă. Vorbește."
+  },
+  {
+   "key": "1682234701626871808",
+   "en": "\"Responsibility\"? You wanna kill your baby bro.",
+   "ro": "„Responsabilitate”? Vrei să-ți omori frățiorul."
+  },
+  {
+   "key": "1682235383419375616",
+   "en": "I want the Arasaka Corporation to know the truth.",
+   "ro": "Vreau ca Corporația Arasaka să afle adevărul."
+  },
+  {
+   "key": "1682235756930535424",
+   "en": "I want him punished.",
+   "ro": "Vreau să fie pedepsit."
+  },
+  {
+   "key": "1682236259072610304",
+   "en": "Still vague. You want him dead.",
+   "ro": "Încă vag. Îl vrei mort."
+  },
+  {
+   "key": "1682236572286455808",
+   "en": "I want the Arasaka Corporation to know the truth.",
+   "ro": "Vreau ca Corporația Arasaka să afle adevărul."
+  },
+  {
+   "key": "1682257105266806784",
+   "en": "Sounds like you want to avenge dead ol' dad.",
+   "ro": "Sună de parcă vrei să-ți răzbuni bătrânul."
+  },
+  {
+   "key": "1682286027039707136",
+   "en": "You already are. You willed it so.",
+   "ro": "Deja ești. Așa ai vrut."
+  },
+  {
+   "key": "1682287103667212288",
+   "en": "Offer's intriguing. Need to think about it.",
+   "ro": "Oferta e interesantă. Trebuie să mă gândesc."
+  },
+  {
+   "key": "1682288154709463040",
+   "en": "Gotta think about it.",
+   "ro": "Trebuie să mă gândesc."
+  },
+  {
+   "key": "1682289000096600064",
+   "en": "Don't like what I'm hearin'.",
+   "ro": "Nu-mi place ce aud."
+  },
+  {
+   "key": "1682291571288838144",
+   "en": "How you plan to do this?",
+   "ro": "Cum plănuiești să faci asta?"
+  },
+  {
+   "key": "1682292578022461440",
+   "en": "Naturally. But think quickly.",
+   "ro": "Sigur. Dar gândește-te repede."
+  },
+  {
+   "key": "1682292915093508096",
+   "en": "You are bleeding.",
+   "ro": "Sângerezi."
+  },
+  {
+   "key": "1682295622281859072",
+   "en": "No. I simply offer you an opportunity.",
+   "ro": "Nu. Îți ofer doar o oportunitate."
+  },
+  {
+   "key": "1682296441244880896",
+   "en": "Call me crazy, but that sounds like fuckin' suicide.",
+   "ro": "Zi-mi nebun, dar asta sună a sinucidere curată."
+  },
+  {
+   "key": "1682296531623743488",
+   "en": "Sounds risky.",
+   "ro": "Sună riscant."
+  },
+  {
+   "key": "1682298853036789760",
+   "en": "If it works, you take the throne?",
+   "ro": "Dacă funcționează, iei tronul?"
+  },
+  {
+   "key": "1682299852438769664",
+   "en": "Let's assume it works. Then what? You take the Arasaka throne?",
+   "ro": "Să zicem că merge. Și pe urmă? Iei tronul Arasaka?"
+  },
+  {
+   "key": "1682300643417395200",
+   "en": "That is a fact my brother has never understood.",
+   "ro": "Asta e ceva ce fratele meu n-a priceput niciodată."
+  },
+  {
+   "key": "1682303389092679680",
+   "en": "Everyone must know their place, V.",
+   "ro": "Fiecare trebuie să-și cunoască locul, V."
+  },
+  {
+   "key": "1682303881889845248",
+   "en": "I know my place. And I have no wish to change it.",
+   "ro": "Îmi știu locul. Și nu vreau să-l schimb."
+  },
+  {
+   "key": "1682334337066733568",
+   "en": "This I know. And that is why we will take all the necessary precautions.",
+   "ro": "Știu. Tocmai de aceea o să ne asigurăm că luăm toate precauțiile."
+  },
+  {
+   "key": "1682336268342398976",
+   "en": "I was to be its heart – to uphold life, ensure continuity, stability, never to oppose it.",
+   "ro": "Trebuia să fiu inima ei – să țin viața în picioare, să asigur continuitatea și stabilitatea, să nu mă opun niciodată."
+  },
+  {
+   "key": "1682353465123016704",
+   "en": "Not the first to try.",
+   "ro": "Nu ești prima care încearcă.",
+   "ro_m": "Nu ești primul care încearcă."
+  },
+  {
+   "key": "1682369908925403136",
+   "en": "It seems you are running out of time.",
+   "ro": "Pare că ți-a rămas tot mai puțin timp."
+  },
+  {
+   "key": "1682387207879266308",
+   "en": "Nope. Don't have Soulkiller.",
+   "ro": "Nu. N-am Soulkiller."
+  },
+  {
+   "key": "1682387470912458756",
+   "en": "I wanna hear her out.",
+   "ro": "Vreau s-o ascult."
+  },
+  {
+   "key": "1682403125766262784",
+   "en": "Wanna leave?",
+   "ro": "Vrei să pleci?"
+  },
+  {
+   "key": "1682419939590148096",
+   "en": "Where would you get that idea?",
+   "ro": "De unde ți-a venit ideea asta?"
+  },
+  {
+   "key": "1682420236815306752",
+   "en": "Figured it as a given. Besides, Takemura said you were supposed to step in for Yorinobu here in Night City.",
+   "ro": "Am luat-o de-a gata. Și oricum, Takemura a zis că trebuie să-i ții locul lui Yorinobu aici, în Night City."
+  },
+  {
+   "key": "1682429303558377476",
+   "en": "No wish to? Or no permission?",
+   "ro": "Nu vrei? Sau nu ți se permite?"
+  },
+  {
+   "key": "1682431218644029440",
+   "en": "OK, your biz.",
+   "ro": "OK, afacerile tale."
+  },
+  {
+   "key": "1682431707632766976",
+   "en": "I know my place too.",
+   "ro": "Și eu îmi știu locul."
+  },
+  {
+   "key": "1682434210625622016",
+   "en": "Sure, whatever. Your biz, not mine.",
+   "ro": "Sigur, cum vrei. Afacerile tale, nu ale mele."
+  },
+  {
+   "key": "1682434402154319872",
+   "en": "Know my place too. Know exactly where I came from.",
+   "ro": "Și eu îmi știu locul. Știu exact de unde am venit."
+  },
+  {
+   "key": "1682435970371031040",
+   "en": "Maybe, once it's all said and done, I'll find my way back there.",
+   "ro": "Poate, când s-a terminat totul, o să-mi găsesc drumul înapoi acolo."
+  },
+  {
+   "key": "1682439290313641984",
+   "en": "Shut up.",
+   "ro": "Taci."
+  },
+  {
+   "key": "1682439935347265536",
+   "en": "Shut up. For one goddamn minute, shut up!",
+   "ro": "Taci! Măcar un minut, fir-ar, taci odată!"
+  },
+  {
+   "key": "1682457408968724480",
+   "en": "No wish to? Or no permission? You being a woman.",
+   "en_m": "No wish to? Or no permission? You bein' a woman.",
+   "ro": "Nu vrei? Sau nu ți se permite? Fiindcă ești femeie."
+  },
+  {
+   "key": "1682461018385420288",
+   "en": "I decide my own fate. As should you.",
+   "ro": "Îmi decid singură soarta. Și tu ar trebui să-ți decizi a ta.",
+   "ro_m": "Îmi decid singur soarta. Și tu ar trebui să-ți decizi a ta."
+  },
+  {
+   "key": "1682494063880572928",
+   "en": "Perhaps. If you can prove your value.",
+   "ro": "Poate. Dacă reușești să-ți dovedești valoarea."
+  },
+  {
+   "key": "1682494155920379904",
+   "en": "Jesus, I'm gonna fuckin' puke…",
+   "ro": "Doamne, o să vomit în pula mea…"
+  },
+  {
+   "key": "1683591408747679744",
+   "en": "Excellent. You have come.",
+   "ro": "Excelent. Ai venit."
+  },
+  {
+   "key": "1683606571341189120",
+   "en": "Something got you spooked?",
+   "ro": "Te-a speriat ceva?"
+  },
+  {
+   "key": "1683611739210256384",
+   "en": "Take me for a fool?",
+   "ro": "Mă iei de nebun?"
+  },
+  {
+   "key": "1683612879104643072",
+   "en": "'Course I didn't bring Soulkiller. 'Fraid we don't know each other that well.",
+   "ro": "Sigur că n-am adus Soulkiller. Mi-e teamă că nu ne cunoaștem chiar atât de bine."
+  },
+  {
+   "key": "1683612960172150784",
+   "en": "Take me for a fool, think I'd fall for that? Got plans to walk outta here alive.",
+   "ro": "Mă iei de prost? Crezi că pic în capcana asta? Am de gând să ies de aici în viață."
+  },
+  {
+   "key": "1683648943441711104",
+   "en": "This is gonna be a disaster.",
+   "ro": "O să fie un dezastru."
+  },
+  {
+   "key": "1683658588377976832",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1683671896803905536",
+   "en": "Your coffee, ma'am.",
+   "ro": "Cafeaua dumneavoastră, doamnă."
+  },
+  {
+   "key": "1683816371115134976",
+   "en": "Wait.",
+   "ro": "Stai."
+  },
+  {
+   "key": "1683816813463212032",
+   "en": "Is everything all right, Hanako-sama?",
+   "ro": "Totul în regulă, Hanako-sama?"
+  },
+  {
+   "key": "1683821015618949120",
+   "en": "V? Do you feel all right?",
+   "ro": "V? Te simți bine?"
+  },
+  {
+   "key": "1683821794551533568",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1683822307951120384",
+   "en": "Gettin' us outta here!",
+   "ro": "Ne scoatem de-aici!"
+  },
+  {
+   "key": "1683859895541960704",
+   "en": "What gave you that idea?",
+   "ro": "Ce ți-a dat ideea asta?"
+  },
+  {
+   "key": "1683860017176776704",
+   "en": "Quit buttin' in so I can hear her out.",
+   "ro": "Lasă-mă s-o ascult, te rog."
+  },
+  {
+   "key": "1683951113618513920",
+   "en": "Finger on the trigger. Don't say a word.",
+   "ro": "Degetul pe trăgaci. Nu scoate un cuvânt."
+  },
+  {
+   "key": "1684900268070539264",
+   "en": "We oughta leave. Right now.",
+   "ro": "Trebuie să plecăm. Acum."
+  },
+  {
+   "key": "1684904963140882432",
+   "en": "You catch a whiff of that? Smells like shit. Careful not to step in it.",
+   "ro": "Simți mirosul ăsta? Pute a căcat. Ai grijă să nu calci prin el."
+  },
+  {
+   "key": "1685002531829899264",
+   "en": "Thanks for meeting me.",
+   "en_m": "Thanks for meetin' me.",
+   "ro": "Mulțumesc că m-ai întâlnit."
+  },
+  {
+   "key": "1689301500272971784",
+   "en": "Jesus fuck, how many times you gonna bow?",
+   "ro": "Doamne, futu-i, câte plecăciuni mai faci?"
+  },
+  {
+   "key": "1689302645317963776",
+   "en": "Of course, V. And I thank you.",
+   "ro": "Sigur, V. Și eu îți mulțumesc."
+  },
+  {
+   "key": "1689302985526349824",
+   "en": "Let us begin.",
+   "ro": "Să începem."
+  },
+  {
+   "key": "1689306773821722624",
+   "en": "Let's step to it, then.",
+   "ro": "Atunci hai să trecem la treabă."
+  },
+  {
+   "key": "1689308648474284032",
+   "en": "God, I feel sick. Don't like this at all.",
+   "ro": "Doamne, mi-e rău. Nu-mi place deloc."
+  },
+  {
+   "key": "1689318612009881600",
+   "en": "We are here because I know how to save your life.",
+   "ro": "Suntem aici pentru că știu cum să-ți salvez viața."
+  },
+  {
+   "key": "1689422413551243264",
+   "en": "You are bleeding.",
+   "ro": "Sângerezi."
+  },
+  {
+   "key": "1689422966175961088",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1692314910178807808",
+   "en": "Yorinobu will soon call a meeting of the board. Representatives of all factions are expected to attend.",
+   "ro": "Yorinobu o să convoace curând ședința consiliului. Se așteaptă ca reprezentanții tuturor facțiunilor să vină."
+  },
+  {
+   "key": "1692318855005605888",
+   "en": "The perfect moment for them to learn the circumstances of my father's death.",
+   "ro": "Momentul perfect ca ei să afle cum a murit tatăl meu."
+  },
+  {
+   "key": "1692326256039563264",
+   "en": "Yorinobu raised his hand against our father. But he is an Arasaka, he is family.",
+   "ro": "Yorinobu a ridicat mâna pe tatăl nostru. Dar e Arasaka, e familie."
+  },
+  {
+   "key": "1692403056027504640",
+   "en": "Yorinobu is on high alert after the parade. He may harbor suspicions.",
+   "ro": "Yorinobu e cu ochii în patru după paradă. Poate are bănuieli."
+  },
+  {
+   "key": "1692436520818839552",
+   "en": "So?",
+   "ro": "Și?"
+  },
+  {
+   "key": "1692441869881839616",
+   "en": "But what if I am the last? You cannot take that chance.",
+   "ro": "Dar dacă eu sunt ultima? Nu poți risca asta."
+  },
+  {
+   "key": "1692705925679996940",
+   "en": "She emptied the place? Shit...",
+   "ro": "A golit locul? Căcat..."
+  },
+  {
+   "key": "1693954801086947328",
+   "en": "This porcelain bitch is the worst kind of news…",
+   "ro": "Javra asta de porțelan e cea mai proastă veste…"
+  },
+  {
+   "key": "1695297798067326976",
+   "en": "You are bleeding.",
+   "ro": "Sângerezi."
+  },
+  {
+   "key": "1695298475313205248",
+   "en": "Fuck...",
+   "ro": "Futu-i..."
+  },
+  {
+   "key": "1702496054254690304",
+   "en": "Fuckin' busboys here must make a killin' in tips.",
+   "ro": "Nenorociții ăștia de chelneri trebuie să-și facă avere din bacșișuri."
+  },
+  {
+   "key": "1702509824507043844",
+   "en": "Can you chill for two seconds?",
+   "ro": "Te poți calma două secunde?"
+  },
+  {
+   "key": "1702513631324463104",
+   "en": "I know. I'll be careful.",
+   "ro": "Știu. O să fiu atentă.",
+   "ro_m": "Știu. O să fiu atent."
+  },
+  {
+   "key": "1702514784439296000",
+   "en": "Can you chill for two secs? We go in, we talk, we leave. That's it.",
+   "ro": "Calmează-te două secunde. Intrăm, vorbim, plecăm. Atât."
+  },
+  {
+   "key": "1702514899010904064",
+   "en": "I know. I'll be careful.",
+   "ro": "Știu. O să fiu atentă.",
+   "ro_m": "Știu. O să fiu atent."
+  },
+  {
+   "key": "1702534570548322308",
+   "en": "[Take a drink]",
+   "ro": "[Ia o băutură]"
+  },
+  {
+   "key": "1702584677163524096",
+   "en": "Mhm.",
+   "en_m": "Ahh.",
+   "ro": "Mhm.",
+   "ro_m": "Ahh."
+  },
+  {
+   "key": "1702784518887182336",
+   "en": "Not exactly one of your strong suits...",
+   "ro": "Nu e chiar punctul tău forte..."
+  },
+  {
+   "key": "1702785258410086400",
+   "en": "Listen, first sign of trouble, we delta.",
+   "ro": "Ascultă, la primul semn de belea, ne cărăm."
+  },
+  {
+   "key": "1702790912700977152",
+   "en": "Had I any ill intentions, I would have chosen a site far more discreet than this.",
+   "ro": "Dacă aveam intenții rele, alegeam un loc mult mai discret decât ăsta."
+  },
+  {
+   "key": "1733115674434920448",
+   "en": "Agh... I'll think it over...",
+   "ro": "Agh... Mă mai gândesc..."
+  },
+  {
+   "key": "1733116807266099204",
+   "en": "[Stand] We'll see.",
+   "ro": "[Ridică-te] O să vedem."
+  },
+  {
+   "key": "1743248069187473408",
+   "en": "Don't delay, make your decision.",
+   "ro": "Nu mai amâna, decide odată."
+  },
+  {
+   "key": "1754353495610101760",
+   "en": "You prefer to keep your guard up. Understandable but unnecessary.",
+   "ro": "Preferi să stai cu garda sus. Se înțelege, dar e degeaba."
+  },
+  {
+   "key": "1754373025631703040",
+   "en": "We are here because I know how to save your life.",
+   "ro": "Suntem aici pentru că știu cum să-ți salvez viața."
+  },
+  {
+   "key": "1754378767650656256",
+   "en": "Meanin'? Mikoshi don't exist in realspace.",
+   "ro": "Adică? Mikoshi nu e în spațiul real."
+  },
+  {
+   "key": "1754378872072048640",
+   "en": "Yet its access points do. And one is very near.",
+   "ro": "Totuși, punctele lui de acces sunt. Și unul e foarte aproape."
+  },
+  {
+   "key": "1754380263339462656",
+   "en": "Where?",
+   "ro": "Unde?"
+  },
+  {
+   "key": "1754380311372632064",
+   "en": "Here in Night City. Beneath Arasaka Tower.",
+   "ro": "Aici, în Night City. Sub Turnul Arasaka."
+  },
+  {
+   "key": "1754384127400742912",
+   "en": "I will get you into this meeting. And you will testify against my brother.",
+   "ro": "Te bag la ședința asta. Și o să depui mărturie împotriva fratelui meu."
+  },
+  {
+   "key": "1754519707757449216",
+   "en": "[Stand] I won't.",
+   "ro": "[Ridică-te] Nu o să o fac."
+  },
+  {
+   "key": "1754521658662457344",
+   "en": "No worries... 'bout that...",
+   "ro": "Nu-i bai... cu asta..."
+  },
+  {
+   "key": "1754604277777436672",
+   "en": "Yorinobu--",
+   "ro": "Yorinobu--"
+  },
+  {
+   "key": "1754604384077877248",
+   "en": "<kiroshi l=\"jpn\" o=\"ハナコ様、すぐに邸宅へお向かいください\" t=\"Hanako-sama, you are expected at the residence.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ハナコ様、すぐに邸宅へお向かいください\" t=\"Hanako-sama, sunteți așteptată la reședință.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1754605305079926784",
+   "en": "<kiroshi l=\"jpn\" o=\"すぐに済むわ\" t=\"We will finish soon.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"すぐに済むわ\" t=\"Terminăm în curând.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1760682294001930240",
+   "en": "\"Testify...\" Listen, mind if I'm straight with you?",
+   "ro": "„Testify...” Ascultă, n-ai nimic împotrivă dacă vorbim pe șleau?"
+  },
+  {
+   "key": "1760684011720413184",
+   "en": "Want me to throw Yorinobu under the bus in front of Arasaka top brass?",
+   "ro": "Vrei să-l bag pe Yorinobu la apă în fața șefilor de la Arasaka?"
+  },
+  {
+   "key": "1760684595282317312",
+   "en": "Like, such as...?",
+   "en_m": "Like, such as…?",
+   "ro": "Adică, de exemplu...?"
+  },
+  {
+   "key": "1760684665629184000",
+   "en": "You will see.",
+   "ro": "O să vezi."
+  },
+  {
+   "key": "1760688551500845056",
+   "en": "Help me get rid of Yorinobu. I will help you get rid of the construct.",
+   "ro": "Ajută-mă să scap de Yorinobu. Eu te ajut să scapi de construct."
+  },
+  {
+   "key": "1761953646030544896",
+   "en": "[Bow] Thank you for meeting with me.",
+   "ro": "[Pleacă din cap] Mulțumesc că ne-am întâlnit."
+  },
+  {
+   "key": "1802644506266177536",
+   "en": "<kiroshi l=\"jpn\" o=\"女が来ました。武装しているようです\" t=\"She's here. And she looks like she's armed.\" b=\"\" a=\"\"/>",
+   "en_m": "<kiroshi l=\"jpn\" o=\"男が来ました。武装しているようです\" t=\"He's here. And he looks like he's armed.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"女が来ました。武装しているようです\" t=\"E aici. Și pare înarmată.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"jpn\" o=\"男が来ました。武装しているようです\" t=\"E aici. Și pare înarmat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1802682666580840448",
+   "en": "<kiroshi l=\"jpn\" o=\"もちろんです。わかりました\" t=\"Of course. Understood.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もちろんです。わかりました\" t=\"Desigur. Am înțeles.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2060540422630432768",
+   "en": "Before we discuss details, I feel I owe you an explanation. I must tell you why I changed my mind and wish to help.",
+   "ro": "Înainte să discutăm detaliile, cred că îți sunt datoare cu o explicație. Trebuie să-ți spun de ce mi-am schimbat părerea și vreau să ajut."
+  },
+  {
+   "key": "2060545501429260288",
+   "en": "I knew. From the start.",
+   "ro": "Știam. De la început."
+  },
+  {
+   "key": "2060546556397379584",
+   "en": "All the board members knew. Not one soul even slightly interested in the matter believed in the poisoning. Details were disparate, inconsistent.",
+   "ro": "Toți din consiliu știau. Nimeni care chiar era interesat de treaba asta nu credea în otrăvire. Detaliile se contraziceau."
+  },
+  {
+   "key": "2060549036355117056",
+   "en": "Didn't do a thing about it – why?",
+   "ro": "N-ați făcut nimic cu asta – de ce?"
+  },
+  {
+   "key": "2060549514304446464",
+   "en": "You're no better than your brother.",
+   "ro": "Nu ești mai bună decât fratele tău.",
+   "ro_m": "Nu ești mai bun decât fratele tău."
+  },
+  {
+   "key": "2060564173782802432",
+   "en": "You knew but didn't do a thing about it? Why? Suddenly sprout a conscience just yesterday?",
+   "en_m": "You knew but didn't do a thing about it – why? Suddenly sprout a conscience just yesterday?",
+   "ro": "Ai știut, dar n-ai făcut nimic? De ce? Și ți-a venit conștiința ieri, așa, dintr-odată?"
+  },
+  {
+   "key": "2060564275083632640",
+   "en": "Helped your brother cover up. Makes you no better than him, not a smidge.",
+   "ro": "L-ai ajutat pe fratele tău să acopere. Nu te face mai bună decât el, nici cât negru sub unghie.",
+   "ro_m": "L-ai ajutat pe fratele tău să acopere. Nu te face mai bun decât el, nici cât negru sub unghie."
+  },
+  {
+   "key": "2060564778936983552",
+   "en": "My father had flaws – I know this, I harbor no illusions about it. When a foe needed removal, my father ordered it without a thought to mercy.",
+   "ro": "Tatăl meu avea defecte – știu asta, nu-mi fac iluzii. Când un dușman trebuia eliminat, tatăl meu ordona fără milă."
+  },
+  {
+   "key": "2060575063773044736",
+   "en": "You do not know my family, not in the least.",
+   "ro": "Nu cunoști familia mea, nici pe departe."
+  },
+  {
+   "key": "2060586480299433984",
+   "en": "Power.",
+   "ro": "Puterea."
+  },
+  {
+   "key": "2060586581533155328",
+   "en": "Ties that bind.",
+   "ro": "Legături care nu se rup."
+  },
+  {
+   "key": "2060586686105542660",
+   "en": "Power.",
+   "ro": "Puterea."
+  },
+  {
+   "key": "2060586793043517440",
+   "en": "Family.",
+   "ro": "Familia."
+  },
+  {
+   "key": "2066335169236197376",
+   "en": "Weren't sure of anything – if you could trust me, if Yorinobu'd killed your father. Now…?",
+   "ro": "Nu erai sigură de nimic – dacă poți avea încredere în mine, dacă Yorinobu l-ar fi omorât pe tatăl tău. Acum…?",
+   "ro_m": "Nu erai sigur de nimic – dacă poți avea încredere în mine, dacă Yorinobu l-ar fi omorât pe tatăl tău. Acum…?"
+  },
+  {
+   "key": "2066336550521167872",
+   "en": "You... knew?",
+   "ro": "Tu... știai?"
+  },
+  {
+   "key": "2066341865509642240",
+   "en": "A way of being Yorinobu could not abide. But to my father, ends ever justified means.",
+   "ro": "Un fel de a fi pe care Yorinobu nu-l suporta. Dar pentru tatăl meu, scopul scuză întotdeauna mijloacele."
+  },
+  {
+   "key": "2066342513462501376",
+   "en": "Saburo Arasaka has always valued just one thing – do you know what it is?",
+   "ro": "Saburo Arasaka a ținut întotdeauna la un singur lucru – știi care?"
+  },
+  {
+   "key": "2066348206911414272",
+   "en": "The corp.",
+   "ro": "Corporația."
+  },
+  {
+   "key": "2066348302742872064",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "2066348744554078208",
+   "en": "The corporation.",
+   "ro": "Corporația."
+  },
+  {
+   "key": "2066348927509618688",
+   "en": "No idea.",
+   "ro": "Nicio idee."
+  },
+  {
+   "key": "2066356138659045376",
+   "en": "Family. Our family.",
+   "ro": "Familia. Familia noastră."
+  },
+  {
+   "key": "2066357164552249344",
+   "en": "Yes, family.",
+   "ro": "Da, familia."
+  },
+  {
+   "key": "2066358214688530432",
+   "en": "Huh, guess Yorinobu's instructions were a little different.",
+   "ro": "Hm, pare că Yorinobu avea alte instrucțiuni."
+  },
+  {
+   "key": "2066362249122439172",
+   "en": "Didn't say why you changed your mind.",
+   "ro": "N-ai zis de ce ți-ai schimbat părerea."
+  },
+  {
+   "key": "2066362401291788288",
+   "en": "Mhm, he's your brother, it's been hard, it'll be hard. Let's say I get that. But what changed your mind?",
+   "ro": "Mhm, e fratele tău, a fost greu, o să fie greu. Să zicem că înțeleg. Dar ce ți-a schimbat părerea?"
+  },
+  {
+   "key": "2066362485630853120",
+   "en": "We were gonna talk biz, specifics.",
+   "ro": "Urma să vorbim de afaceri, de detalii."
+  },
+  {
+   "key": "2066362596998012928",
+   "en": "We received a warning during the parade – security protocols were violated. The first doubts sprouted then.",
+   "ro": "La parada aia am primit un avertisment – protocoalele de securitate au fost încălcate. Atunci mi-au apărut primele îndoieli."
+  },
+  {
+   "key": "2066362721484955648",
+   "en": "Got biz to discuss.",
+   "ro": "Avem de discutat niște afaceri."
+  },
+  {
+   "key": "2066371935548760064",
+   "en": "They grew yet greater in your hideout, when my brother's assault group arrived not to rescue, but to kill.",
+   "ro": "Au crescut și mai mult în ascunzătoarea ta, când echipa de asalt a fratelui meu n-a venit să te salveze, ci să te omoare."
+  },
+  {
+   "key": "2066372640745480192",
+   "en": "Yorinobu was just plain willin' to sacrifice you.",
+   "ro": "Yorinobu era pur și simplu dispus să te sacrifice."
+  },
+  {
+   "key": "2066373112655011840",
+   "en": "My father was right about my brother. He never cared for us.",
+   "ro": "Tata avea dreptate cu fratele meu. Nu i-a păsat niciodată de noi."
+  },
+  {
+   "key": "2066375012121075712",
+   "en": "I was brought up to be the heart of the family. It is time for the Arasakas to listen to their heart.",
+   "ro": "Am fost crescută să fiu inima familiei. E timpul ca Arasaka să-și asculte inima."
+  },
+  {
+   "key": "2066376065713463296",
+   "en": "It will bring justice.",
+   "ro": "O să aducă dreptate."
+  },
+  {
+   "key": "2066386872522268672",
+   "en": "Did you bring Soulkiller, as we agreed you would?",
+   "ro": "Ai adus Soulkiller, așa cum am convenit?"
+  },
+  {
+   "key": "2066387764197744640",
+   "en": "Let us do so.",
+   "ro": "Să facem asta."
+  },
+  {
+   "key": "2258820060879888384",
+   "en": "Please sit, you are my guest.",
+   "ro": "Te rog, stai jos, ești oaspetele meu."
+  },
+  {
+   "key": "2258820367298961412",
+   "en": "And? I will need to return to the estate soon. So as not raise any suspicions.",
+   "ro": "Și? Trebuie să mă întorc curând la conac. Ca să nu ridic suspiciuni."
+  },
+  {
+   "key": "2258821506169937924",
+   "en": "Is all in order? You may speak plainly.",
+   "ro": "Totul e în regulă? Poți vorbi pe față."
+  },
+  {
+   "key": "2456241390180503552",
+   "en": "Thanks for seeing me.",
+   "ro": "Mulțumesc că m-ai primit."
+  }
+ ]
+}

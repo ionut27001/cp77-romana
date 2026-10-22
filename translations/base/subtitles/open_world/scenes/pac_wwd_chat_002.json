@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_002.json",
+ "entries": [
+  {
+   "key": "1963304545701371904",
+   "en": "<kiroshi l=\"creo\" o=\"Brigitte pap renmen sa a ditou.\" t=\"Brigitte won't like this one bit.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Brigitte pap renmen sa a ditou.\" t=\"Brigitte n-o să-i placă deloc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964713802564653056",
+   "en": "<kiroshi l=\"creo\" o=\"Depi ki lè li oblije konnen?\" t=\"And since when was she supposed to know about it?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Depi ki lè li oblije konnen?\" t=\"Și de când trebuia ea să știe?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964714061973966848",
+   "en": "<kiroshi l=\"creo\" o=\"Ou panse manzè se yon Danbala ki wè tout bagay?\" t=\"You think she some Damballa dat see all?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou panse manzè se yon Danbala ki wè tout bagay?\" t=\"Crezi că e vreo Damballa care vede tot?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964716264101007360",
+   "en": "<kiroshi l=\"creo\" o=\"Sa ou reproche manzè?\" t=\"What you have against her?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Sa ou reproche manzè?\" t=\"Ce ai împotriva ei?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964716805669539840",
+   "en": "<kiroshi l=\"creo\" o=\"Manzè se tout moun, li pwoteje nou...\" t=\"She cares about everyone, protects us...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Manzè se tout moun, li pwoteje nou...\" t=\"Îi pasă de toată lumea, ne protejează...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964717670031708160",
+   "en": "<kiroshi l=\"creo\" o=\"Fòk mwen di manzè tou lè mwen pral lan twalèt?\" t=\"Should I inform her when I go take a shit, too?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Fòk mwen di manzè tou lè mwen pral lan twalèt?\" t=\"Să-i spun și când mă duc să fac căcat?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,468 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q306\\q306_04_meeting_contact.json",
+ "entries": [
+  {
+   "key": "3241938545183653888",
+   "en": "Hey! Get up!",
+   "ro": "Hei! Ridică-te!"
+  },
+  {
+   "key": "3241989696868417536",
+   "en": "Ugh…",
+   "ro": "Ugh…"
+  },
+  {
+   "key": "3241996185188270208",
+   "en": "Nguh…",
+   "en_m": "Ooh…",
+   "ro": "Nguh…",
+   "ro_m": "Ooh…"
+  },
+  {
+   "key": "3241997134795472900",
+   "en": "[Rise]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3241998457158860800",
+   "en": "V, dammit!",
+   "ro": "V, la naiba!"
+  },
+  {
+   "key": "3242010080682541064",
+   "en": "Get yourself together, V.",
+   "ro": "Adună-te, V."
+  },
+  {
+   "key": "3242011913543057408",
+   "en": "Got good news and shit news. Latter first – they've locked you up. Upside – lock-up's actually inside the Tycho Terminal.",
+   "ro": "Am una bună și una de căcat. Întâi cea proastă – te-au băgat la zdup. Partea bună e că zdupul e chiar în Terminalul Tycho."
+  },
+  {
+   "key": "3242020658465570820",
+   "en": "Well, got where I needed to, at least.",
+   "ro": "Ei, am ajuns unde trebuia, cel puțin."
+  },
+  {
+   "key": "3242022099326435328",
+   "en": "Fucking hate border guard martinets.",
+   "ro": "Urăsc în pula mea nenorociții ăia de martineți de la Border Guard."
+  },
+  {
+   "key": "3242024004781965312",
+   "en": "Well, least I'm where I need to be. Got here fast, too. Hm, gimme a minute – I'll figure a way out.",
+   "en_m": "Well, least I'm where I need to be. Heh. Got here fast, too. Gimme a minute – I'll figure a way out.",
+   "ro": "Ei, măcar sunt unde trebuie. Am ajuns repede și aici. Hm, dă-mi un minut, mă descurc eu.",
+   "ro_m": "Ei, măcar sunt unde trebuie. Heh. Am ajuns repede și aici. Dă-mi un minut, mă descurc eu."
+  },
+  {
+   "key": "3242025723976843264",
+   "en": "Help me get outta here?",
+   "ro": "Mă ajuți să ies de aici?"
+  },
+  {
+   "key": "3242103333431902216",
+   "en": "Not the first time border guards've given me a hard time.",
+   "ro": "Nu e prima dată când agenții Border Guard îmi fac zile negre."
+  },
+  {
+   "key": "3242103377203658760",
+   "en": "Gimme a hand to get outta here?",
+   "ro": "Mi-ai da o mână de ajutor să ies de-aici?"
+  },
+  {
+   "key": "3242108923885486080",
+   "en": "Tell you what – get me access to the system. Find a port, jack in, I'll see what's possible.",
+   "ro": "Uite ce facem – dă-mi acces la sistem. Găsește un port, conectează-te, văd ce se poate."
+  },
+  {
+   "key": "3242110424305467392",
+   "en": "[Jack in] See me on the net?",
+   "ro": "[Conectează-te] Mă vezi pe net?"
+  },
+  {
+   "key": "3242112661429780480",
+   "en": "V, find a port, clip in – your personal.",
+   "ro": "V, găsește un port, conectează-te – personalul tău."
+  },
+  {
+   "key": "3242113555839942664",
+   "en": "See me all right?",
+   "ro": "Mă vezi bine?"
+  },
+  {
+   "key": "3242138406789152768",
+   "en": "Just don't let the guard see you.",
+   "ro": "Doar să nu te vadă gardianul."
+  },
+  {
+   "key": "3242160966641745928",
+   "en": "Now come out. Eyes peeled for the guard.",
+   "ro": "Acum ieși. Ține ochii pe gardian."
+  },
+  {
+   "key": "3242215426407628800",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3242265852410691584",
+   "en": "Words you're lookin' for are \"fuck me,\" I think.",
+   "ro": "Cuvântul pe care-l cauți e „futu-i”, cred."
+  },
+  {
+   "key": "3243177126157975576",
+   "en": "I aim to please – open it is.",
+   "ro": "Mă străduiesc să fiu de ajutor – deschis e."
+  },
+  {
+   "key": "3243177452843925504",
+   "en": "Hh. Clear and sharp. Gimme a sec, now.",
+   "ro": "Hh. Clar și ascuțit. Dă-mi o secundă, acum."
+  },
+  {
+   "key": "3243180823990599680",
+   "en": "Gotcha.",
+   "ro": "Am prins."
+  },
+  {
+   "key": "3243201209113346048",
+   "en": "Detained for what?",
+   "ro": "Reținută pentru ce?",
+   "ro_m": "Reținut pentru ce?"
+  },
+  {
+   "key": "3243202208548880384",
+   "en": "Either charge me, all official, or lemme go. Gotta do one or the other.",
+   "ro": "Ori mă acuzați oficial, ori mă lăsați să plec. Alegeți una din două."
+  },
+  {
+   "key": "3243202208548880392",
+   "en": "We don't gotta do anything, friend.",
+   "ro": "Nu suntem obligați la nimic, amice."
+  },
+  {
+   "key": "3243282371563323396",
+   "en": "[Jack out] Thanks.",
+   "ro": "[Deconectează-te] Mulțumesc."
+  },
+  {
+   "key": "3243283826902925312",
+   "en": "I've come to get you.",
+   "ro": "Am venit să te iau."
+  },
+  {
+   "key": "3243284970907729928",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "3243451037915381788",
+   "en": "Detainee's awake.",
+   "ro": "Deținuta e trează.",
+   "ro_m": "Deținutul e treaz."
+  },
+  {
+   "key": "3244863166287544320",
+   "en": "Motherfucker... I got FIA agents on the OA net. They've breached.",
+   "ro": "Pizda mă-sii... Am agenți FIA pe netul OA. Au spart."
+  },
+  {
+   "key": "3244865656982700032",
+   "en": "No chance of detection. Our people're the best. Invisible to me too if I didn't know what to look for.",
+   "ro": "Nicio șansă să fim depistați. Oamenii noștri sunt cei mai buni. Invizibili chiar și pentru mine, dacă nu știam ce să caut."
+  },
+  {
+   "key": "3244866276531732480",
+   "en": "Godammit! Not good…",
+   "ro": "La naiba! Nu e bine…"
+  },
+  {
+   "key": "3244866276531732488",
+   "en": "Orbital Air security's got an APB out about a terrorist on site. Your biometrics sent through.",
+   "ro": "Securitatea Orbital Air a dat alarma pentru un terorist în incintă. Biometricele tale au fost deja trimise."
+  },
+  {
+   "key": "3244868382156226560",
+   "en": "What do I do?",
+   "ro": "Ce fac?"
+  },
+  {
+   "key": "3244868527866347520",
+   "en": "Counter-terrorists on site. They'll start scanning passengers on the sly.",
+   "ro": "Contrateroriștii sunt pe site. O să înceapă să scaneze pasagerii pe ascuns."
+  },
+  {
+   "key": "3244870043721367552",
+   "en": "Get movin' or get nabbed, V. Tycho Terminal, quick.",
+   "ro": "Mișcă-te sau te prind, V. Terminalul Tycho, repede."
+  },
+  {
+   "key": "3244870407803731992",
+   "en": "Shit...! On me, that. My bad.",
+   "ro": "Căcat...! Asta e pe mine. Scuze, vina mea."
+  },
+  {
+   "key": "3244870407803732000",
+   "en": "Biometric profile I fed to security at the gate? The FIA's 'runners must've grabbed it.",
+   "ro": "Profilul biometric pe care l-am dat securității la poartă? Cred că l-au luat runnerii FIA."
+  },
+  {
+   "key": "3244870407803732008",
+   "en": "Used it to file an anonymous terror suspect report. Shoulda seen it coming.",
+   "ro": "L-au folosit ca să depună un raport anonim despre un suspect de terorism. Trebuia să-mi dau seama."
+  },
+  {
+   "key": "3245323248318119936",
+   "en": "You're getting scanned.",
+   "ro": "Ești scanată.",
+   "ro_m": "Ești scanat."
+  },
+  {
+   "key": "3245324260118462464",
+   "en": "Can't you do something?",
+   "en_m": "Can't you do something?!",
+   "ro": "Nu poți face ceva?",
+   "ro_m": "Nu poți face ceva?!"
+  },
+  {
+   "key": "3245326035651231744",
+   "en": "I don't know what!",
+   "ro": "Habar n-am ce!"
+  },
+  {
+   "key": "3245344749578715152",
+   "en": "Positive ID on the target. Neutralizing now.",
+   "ro": "Țintă confirmată. Neutralizez acum."
+  },
+  {
+   "key": "3245344781086326800",
+   "en": "Got 'er. Goin' in to neutralize.",
+   "en_m": "Got 'im. Goin' in to neutralize.",
+   "ro": "Am prins-o. Intru să neutralizez.",
+   "ro_m": "L-am prins. Intru să neutralizez."
+  },
+  {
+   "key": "3245345040646635536",
+   "en": "That's her. Engage, engage!",
+   "en_m": "That's him. Engage, engage!",
+   "ro": "Ea e. Angajați, angajați!",
+   "ro_m": "El e. Angajați, angajați!"
+  },
+  {
+   "key": "3245345077539733520",
+   "en": "Target spotted and marked. Gonna grab the bitch.",
+   "en_m": "Target spotted and marked. Gonna grab the bastard.",
+   "ro": "Țintă observată și marcată. O să pun mâna pe curva aia.",
+   "ro_m": "Țintă observată și marcată. O să pun mâna pe nenorocitul ăla."
+  },
+  {
+   "key": "3245386280721285132",
+   "en": "Aggrrrr...!",
+   "ro": "Aggrrrr...!"
+  },
+  {
+   "key": "3245386280721285140",
+   "en": "V! V!!",
+   "ro": "V! V!!"
+  },
+  {
+   "key": "3245394775478730760",
+   "en": "Dammit!",
+   "ro": "La naiba!"
+  },
+  {
+   "key": "3245394775478730768",
+   "en": "You've been flagged, V. As a potential threat. Orbital Air security's got orders to detain you on sight.",
+   "ro": "Ai fost marcată, V. Ca potențială amenințare. Securitatea Orbital Air are ordin să te rețină pe loc.",
+   "ro_m": "Ai fost marcat, V. Ca potențială amenințare. Securitatea Orbital Air are ordin să te rețină pe loc."
+  },
+  {
+   "key": "3245394775478730776",
+   "en": "Ah, shit. What now?",
+   "en_m": "Shit! What now?",
+   "ro": "Ah, căcat. Și acum ce?",
+   "ro_m": "Căcat! Și acum ce?"
+  },
+  {
+   "key": "3245394775478730784",
+   "en": "Get moving. They're coming for you!",
+   "ro": "Mișcă-te. Vin după tine!"
+  },
+  {
+   "key": "3255626552218583040",
+   "en": "Target identified. Proceeding to neutralize.",
+   "ro": "Țintă identificată. Trec la neutralizare."
+  },
+  {
+   "key": "3271521350024527872",
+   "en": "Orbital's network traffic's looking itchy. Not liking this.",
+   "ro": "Traficul din rețeaua Orbital miroase a ceva. Nu-mi place."
+  },
+  {
+   "key": "3271523183891677184",
+   "en": "OK, in human terms?",
+   "ro": "Ok, pe românește?"
+  },
+  {
+   "key": "3271523275948261376",
+   "en": "They're watching you. Do nothing even remotely sus.",
+   "ro": "Te urmăresc. Nu face nimic nici cât de cât suspect."
+  },
+  {
+   "key": "3277181179695038472",
+   "en": "Hey, Song – cams, these models? Coprocessor software security's got holes like Swiss cheese.",
+   "en_m": "Hey, Song? Cams – these models? Coprocessor software security's got holes like Swiss cheese.",
+   "ro": "Hei, Song – camerele astea, modelele? Securitatea software a coprocesorului are găuri cât brânza elvețiană.",
+   "ro_m": "Hei, Song? Camerele – modelele astea? Securitatea software a coprocesorului are găuri cât brânza elvețiană."
+  },
+  {
+   "key": "3277181479906541568",
+   "en": "Cams can be powered down.",
+   "ro": "Camerele pot fi oprite."
+  },
+  {
+   "key": "3277182813342892032",
+   "en": "Good call. Powering 'em down.",
+   "ro": "Bună idee. Le opresc."
+  },
+  {
+   "key": "3295506419603042304",
+   "en": "Detection by Orbital security means a brawl, I say.",
+   "ro": "Dacă te detectează securitatea Orbital Air, se lasă cu bătaie, zic eu."
+  },
+  {
+   "key": "3295507736127959040",
+   "en": "Our people? Huh.",
+   "ro": "Oamenii noștri? Hm."
+  },
+  {
+   "key": "3295507831103778816",
+   "en": "Just hurry the hell up.",
+   "ro": "Grăbește-te odată, dracu' să te ia."
+  },
+  {
+   "key": "3295553971836776448",
+   "en": "Now wait.",
+   "ro": "Stai puțin."
+  },
+  {
+   "key": "3296912702626783232",
+   "en": "Lock-up's my bad. Didn't think to encrypt those biometrics at the security gate.",
+   "ro": "Arestul e vina mea. Nu m-am gândit să criptez datele alea biometrice la poarta de securitate."
+  },
+  {
+   "key": "3296915788091023360",
+   "en": "Sorry. You were cruising, ghosting through.",
+   "ro": "Scuze. Mergeai lin, te strecurai ca o fantomă."
+  },
+  {
+   "key": "3296917955925434380",
+   "en": "You decided to show off. Now you've got your audience.",
+   "ro": "Ai vrut să faci spectacol. Acum ai public."
+  },
+  {
+   "key": "3296917955925434388",
+   "en": "Orbital Air's attention is all yours. Satisfied?",
+   "ro": "Atenția Orbital Air e toată a ta. Mulțumită?",
+   "ro_m": "Atenția Orbital Air e toată a ta. Mulțumit?"
+  },
+  {
+   "key": "3296918921907200012",
+   "en": "You know, you didn't have to take that guard for a ride.",
+   "ro": "Știi, nu trebuia să-l iei la plimbare pe gardianul ăla."
+  },
+  {
+   "key": "3296918921907200020",
+   "en": "OA has exactly no sense of humor.",
+   "ro": "OA n-are deloc simțul umorului."
+  },
+  {
+   "key": "3296919817139445772",
+   "en": "Get a little carried away there?",
+   "ro": "Te-ai luat cam tare?"
+  },
+  {
+   "key": "3296919817139445780",
+   "en": "OA security's not door selection at a club. Furled brows and menacing grins don't move them.",
+   "ro": "Securitatea OA nu e ca selecția de la ușa unui club. Sprâncenele încruntate și zâmbetele amenințătoare nu-i impresionează."
+  },
+  {
+   "key": "3296924368596819980",
+   "en": "Did you really try to grease an OA security guy's palm? With your chump change?",
+   "ro": "Chiar ai încercat să-i ungi palma unui agent de securitate OA? Cu mărunțișul tău?"
+  },
+  {
+   "key": "3296924368613597184",
+   "en": "Corporate officers, these, V. An incident like this, reporting it? Ka-ching – bonus time.",
+   "ro": "Ofițeri corporatiști, ăștia, V. Un incident ca ăsta, dacă-l raportezi? Ka-ching – timp de bonus."
+  },
+  {
+   "key": "3302689381647310860",
+   "en": "What the hell were you thinking?",
+   "ro": "Ce naiba gândeai?"
+  },
+  {
+   "key": "3302689381647310868",
+   "en": "If getting into the Tycho Terminal were that simple, I'd be sitting on that shuttle hours ago.",
+   "ro": "Dacă intrarea în Terminalul Tycho ar fi atât de simplă, aș fi în naveta aia de ore bune."
+  },
+  {
+   "key": "3302919226918346752",
+   "en": "Came out alive last time, will this time too.",
+   "ro": "Am scăpat cu viață data trecută, o să scap și acum."
+  },
+  {
+   "key": "3369234480287637508",
+   "en": "I dunno. Maybe try the hole in the shitter?",
+   "ro": "Nu știu. Poate gaura din căcatul ăla de toaletă?"
+  },
+  {
+   "key": "3476522603785920512",
+   "en": "We both munched ass.",
+   "ro": "Am dat-o în bară amândouă.",
+   "ro_m": "Am dat-o în bară amândoi."
+  },
+  {
+   "key": "3476524815006212096",
+   "en": "OK, OK, screwed the pooch, fine. But you didn't exactly shine, either.",
+   "ro": "Bine, bine, am dat-o în bară, recunosc. Dar nici tu n-ai strălucit, să fiu sincer."
+  },
+  {
+   "key": "3476534984079482880",
+   "en": "No worries, I'll handle this.",
+   "ro": "Nicio grijă, mă ocup eu."
+  },
+  {
+   "key": "3476538004632674304",
+   "en": "Got myself nabbed, but not about to stay in lock-up.",
+   "ro": "M-au prins, da' nu stau la zdup."
+  },
+  {
+   "key": "3476546845587972096",
+   "en": "Ain't the end of life on Earth, Song.",
+   "ro": "Nu e sfârșitul lumii, Song."
+  },
+  {
+   "key": "3476549480399413248",
+   "en": "Right, good, we'll get this done-done. Gonna see what I can do to free you.",
+   "ro": "Bine, bine, o facem cum trebuie. Stai să văd ce pot face să te scot."
+  },
+  {
+   "key": "3476559944969789440",
+   "en": "Coulda done better, admittedly, so now I'll spring you free.",
+   "ro": "Puteam s-o fac mai bine, recunosc. Acum te scot eu de-acolo."
+  },
+  {
+   "key": "3733570372915355648",
+   "en": "Plus, made yourself pretty fucking memorable, given your antics…",
+   "ro": "Plus, te-ai făcut al dracului de memorabilă, cu tâmpeniile tale…",
+   "ro_m": "Plus, te-ai făcut al dracului de memorabil, cu tâmpeniile tale…"
+  },
+  {
+   "key": "3733571828858937344",
+   "en": "Crap, V, really! Can't you just stick to my instructions?!",
+   "ro": "Rahat, V, serios acum! Nu poți pur și simplu să urmezi instrucțiunile mele?!"
+  }
+ ]
+}

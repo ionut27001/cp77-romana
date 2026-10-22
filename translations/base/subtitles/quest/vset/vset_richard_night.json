@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_richard_night.json",
+ "entries": [
+  {
+   "key": "5151195787362725888",
+   "en": "We'll resume when you return.",
+   "ro": "Reluăm când te întorci."
+  },
+  {
+   "key": "5151197017182990352",
+   "en": "Please return to continue the tour.",
+   "ro": "Te rog să te întorci pentru a continua turul."
+  },
+  {
+   "key": "5151198363219030016",
+   "en": "Let's resume the tour, shall we?",
+   "ro": "Hai să reluăm turul, nu?"
+  },
+  {
+   "key": "5151199064322109452",
+   "en": "Welcome back. Let's continue.",
+   "ro": "Bine ai revenit. Hai să continuăm."
+  }
+ ]
+}

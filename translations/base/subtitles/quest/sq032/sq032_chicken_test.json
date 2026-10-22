@@ -1,0 +1,65 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq032\\sq032_chicken_test.json",
+ "entries": [
+  {
+   "key": "2322788887359823876",
+   "en": "[db_db][Sickness off]",
+   "ro": "[db_db][Sickness off]"
+  },
+  {
+   "key": "2322789527377059840",
+   "en": "[db_db][Sickness on]",
+   "ro": "[db_db][Sickness on]"
+  },
+  {
+   "key": "2322808037125824512",
+   "en": "[db_db][Test Sickness Only]",
+   "ro": "[db_db][Test Sickness Only]"
+  },
+  {
+   "key": "2322808768629219332",
+   "en": "[db_db][one by one]",
+   "ro": "[db_db][one by one]"
+  },
+  {
+   "key": "2322809623747141632",
+   "en": "[db_db][Pick Stage]",
+   "ro": "[db_db][Pick Stage]"
+  },
+  {
+   "key": "2322810295288766468",
+   "en": "[db_db][glitch]",
+   "ro": "[db_db][glitch]"
+  },
+  {
+   "key": "2322810537518211072",
+   "en": "[db_db][Headache]",
+   "ro": "[db_db][Headache]"
+  },
+  {
+   "key": "2322810607848300544",
+   "en": "[db_db][Nosebleed]",
+   "ro": "[db_db][Nosebleed]"
+  },
+  {
+   "key": "2322810978993872896",
+   "en": "[db_db][Heavy headache]",
+   "ro": "[db_db][Heavy headache]"
+  },
+  {
+   "key": "2322811340677095424",
+   "en": "[db_db][Nausea]",
+   "ro": "[db_db][Nausea]"
+  },
+  {
+   "key": "2334584494794420228",
+   "en": "[db_db]early stage",
+   "ro": "[db_db]early stage"
+  },
+  {
+   "key": "2334584825741783040",
+   "en": "[db_db]late stage",
+   "ro": "[db_db]late stage"
+  }
+ ]
+}

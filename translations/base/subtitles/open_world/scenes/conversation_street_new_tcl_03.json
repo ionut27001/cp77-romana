@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_03.json",
+ "entries": [
+  {
+   "key": "2276539121383153680",
+   "en": "<kiroshi l=\"jpn\" o=\"クソ、何か新しい趣味が必要だ。気が紛れるなら何でもいい\" t=\"Shit, I need a hobby. Anything to take my mind off things.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"クソ、何か新しい趣味が必要だ。気が紛れるなら何でもいい\" t=\"Căcat, îmi trebuie un hobby nou. Orice, ca să uit de rahat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539121383153692",
+   "en": "<kiroshi l=\"jpn\" o=\"なんかモンスターを集めるヤツやってただろ。あれじゃダメなのか？\" t=\"What about those little monsters you were collecting?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"なんかモンスターを集めるヤツやってただろ。あれじゃダメなのか？\" t=\"Ce-i cu monștrii ăia mici pe care-i colecționai?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539121383153704",
+   "en": "<kiroshi l=\"jpn\" o=\"こないだ3匹を見つけて、捕まえにいこうと思ったらメイルストロームのシマだったんだ。趣味のために命を失うつもりはねえよ\" t=\"Nah, last three I found were on Maelstrom turf. It's not worth it, trust me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"こないだ3匹を見つけて、捕まえにいこうと思ったらメイルストロームのシマだったんだ。趣味のために命を失うつもりはねえよ\" t=\"Nah, ultimii trei pe care i-am găsit erau în teritoriul Maelstrom. Nu merită, crede-mă.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

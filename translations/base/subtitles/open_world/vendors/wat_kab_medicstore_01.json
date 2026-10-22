@@ -1,0 +1,238 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\wat_kab_medicstore_01.json",
+ "entries": [
+  {
+   "key": "1908245097976578048",
+   "en": "You're in business thanks to me.",
+   "ro": "Ești în afaceri datorită mie."
+  },
+  {
+   "key": "1908245097976578068",
+   "en": "Looking to buy.",
+   "ro": "Vreau să cumpăr."
+  },
+  {
+   "key": "1908245098026909700",
+   "en": "Handled your little debt problem.",
+   "ro": "Ți-am rezolvat problema cu datoria."
+  },
+  {
+   "key": "1908245098043686912",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1908245098077241348",
+   "en": "Need to buy some meds.",
+   "ro": "Trebuie să cumpăr niște medicamente."
+  },
+  {
+   "key": "1908245098077241360",
+   "en": "Yes, yes.",
+   "ro": "Da, da."
+  },
+  {
+   "key": "1908245098161127428",
+   "en": "Why'd you borrow in the first place?",
+   "ro": "De ce ai împrumutat în primul rând?"
+  },
+  {
+   "key": "1908245098177904648",
+   "en": "No money! I did not borrow! I only ask him!",
+   "ro": "N-am bani! N-am împrumutat! Doar l-am întrebat!"
+  },
+  {
+   "key": "1908245098177904660",
+   "en": "You know what the asshole do? He make me pay \"for wasting time!\"",
+   "ro": "Știi ce face nesimțitul ăla? Mă pune să plătesc „pentru timp pierdut!”"
+  },
+  {
+   "key": "1908245098211459076",
+   "en": "Figured you'd show a little more appreciation than \"thank you.\"",
+   "ro": "Credeam că arăți un pic mai multă recunoștință decât un „mulțumesc”."
+  },
+  {
+   "key": "1908245098228236288",
+   "en": "I already pay fixer.",
+   "ro": "Am plătit deja fixerul."
+  },
+  {
+   "key": "1908245098228236300",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1908245098228236312",
+   "en": "Now you I owe...?",
+   "ro": "Acum ție îți sunt dator...?"
+  },
+  {
+   "key": "1908245098261790720",
+   "en": "You misunderstand.",
+   "ro": "Nu înțelegi."
+  },
+  {
+   "key": "1908245098261790736",
+   "en": "How about a discount?",
+   "ro": "Ce zici de o reducere?"
+  },
+  {
+   "key": "1908245098328899588",
+   "en": "No, no, no, you don't owe me. I just thought your prices could be... relaxed a bit.",
+   "en_m": "No, no, you don't owe me. I just thought your prices could be... relaxed a bit.",
+   "ro": "Nu, nu, nu, nu-mi ești dator. Mă gândeam doar că prețurile tale ar putea fi... mai relaxate, cam atât.",
+   "ro_m": "Nu, nu, nu-mi ești dator. Mă gândeam doar că prețurile tale ar putea fi... mai relaxate, cam atât."
+  },
+  {
+   "key": "1908245098345676800",
+   "en": "I will not. I cannot.",
+   "ro": "Nu pot. Nu am cum."
+  },
+  {
+   "key": "1908245098345676812",
+   "en": "Uh-huh. Got it.",
+   "ro": "Aha. Am înțeles."
+  },
+  {
+   "key": "1908245098379231232",
+   "en": "You know how long it take to earn back losses?",
+   "ro": "Știi cât durează să recuperezi pierderile?"
+  },
+  {
+   "key": "1908245098396008448",
+   "en": "All right, I heard ya.",
+   "ro": "Bine, te-am auzit."
+  },
+  {
+   "key": "1908245098412785668",
+   "en": "Good... You buy something?",
+   "ro": "Bine... Cumperi ceva?"
+  },
+  {
+   "key": "1908245098513448960",
+   "en": "Think I've earned a discount.",
+   "ro": "Cred că am câștigat o reducere."
+  },
+  {
+   "key": "1908245098513448976",
+   "en": "You--you know how much time... my--my sweat... to this all?!",
+   "ro": "Tu... tu știi cât timp... sudoarea mea... am pus în toate astea?!"
+  },
+  {
+   "key": "1908245098513448988",
+   "en": "Leeches! All of you leeches!",
+   "ro": "Lipitori! Toți sunteți lipitori!"
+  },
+  {
+   "key": "1908245098547003392",
+   "en": "Hmm... OK. I give discount.",
+   "ro": "Hmm... OK. Îți dau reducere."
+  },
+  {
+   "key": "1908245098580557824",
+   "en": "Ten percent what you get.",
+   "ro": "Zece la sută din ce iei."
+  },
+  {
+   "key": "1908245098748329988",
+   "en": "You talk to the police?",
+   "ro": "Ai vorbit cu poliția?"
+  },
+  {
+   "key": "1908245098832216064",
+   "en": "Didn't call the NCPD?",
+   "ro": "N-ai sunat la NCPD?"
+  },
+  {
+   "key": "1908245098848993284",
+   "en": "I called! They tell me to tell him... wait, what they say... Oh, to tell him \"Stop, you're breaking the law.\"",
+   "ro": "Am sunat! Mi-au zis să-i spun... stai, ce-au zis... Ah, să-i spun „Stai, încalci legea.”"
+  },
+  {
+   "key": "1908245098882547716",
+   "en": "Mhm. And the Tygers? This's their turf.",
+   "ro": "Mhm. Și Tygers? E teritoriul lor."
+  },
+  {
+   "key": "1908245098916102148",
+   "en": "To do what? To take debt from Blake? It is even worse!",
+   "ro": "Să facă ce? Să preia datoria lui Blake? E și mai rău!"
+  },
+  {
+   "key": "1908245098983211012",
+   "en": "How did you even get in touch with Blake?",
+   "en_m": "How'd you even get in touch with Blake?",
+   "ro": "Cum ai ajuns să-l contactezi pe Blake?"
+  },
+  {
+   "key": "1908245099016765440",
+   "en": "My friend recommend him. Then I learn he have debt with him too.",
+   "ro": "Mi l-a recomandat un prieten. Apoi am aflat că și el îi datora."
+  },
+  {
+   "key": "1908245099050319876",
+   "en": "This bastard know how to get into man's head. Did it many times already.",
+   "ro": "Nenorocitul ăsta știe să intre în capul omului. A mai făcut asta de multe ori."
+  },
+  {
+   "key": "1908245099083874304",
+   "en": "Well, don't gotta worry about him anymore.",
+   "ro": "Ei bine, nu mai trebuie să-ți faci griji din cauza lui."
+  },
+  {
+   "key": "1908245099117428736",
+   "en": "Yes... thank you.",
+   "ro": "Da... mulțumesc."
+  },
+  {
+   "key": "1908420427719741440",
+   "en": "Did you pay him?",
+   "ro": "L-ai plătit?"
+  },
+  {
+   "key": "1908420732461092864",
+   "en": "You pay 'im?",
+   "ro": "L-ai plătit?"
+  },
+  {
+   "key": "1908421035759603712",
+   "en": "What you think! Of course I pay! What else I can do?!",
+   "ro": "Ce crezi! Sigur că am plătit! Ce altceva puteam face?!"
+  },
+  {
+   "key": "1908421416921174016",
+   "en": "Problem was I could not pay it all. It grew and grew.",
+   "ro": "Problema era că nu puteam plăti tot. Datoria tot creștea."
+  },
+  {
+   "key": "1908473406778871808",
+   "en": "Yes.",
+   "ro": "Da."
+  },
+  {
+   "key": "1908473516032102400",
+   "en": "Hey there.",
+   "ro": "Salut."
+  },
+  {
+   "key": "2253553231203766272",
+   "en": "Got no inkling to up your gratitude and my reward a bit?",
+   "ro": "N-ai chef să-ți mărești un pic recunoștința și răsplata mea?"
+  },
+  {
+   "key": "2253558649774772224",
+   "en": "What possessed you to borrow from Blake?",
+   "ro": "Ce te-a apucat să împrumuți de la Blake?"
+  },
+  {
+   "key": "2253567473030107136",
+   "en": "Blake – how'd you even meet him?",
+   "ro": "Blake – cum l-ai cunoscut?"
+  },
+  {
+   "key": "2991122407711551488",
+   "en": "Wanna buy something.",
+   "ro": "Vreau să cumpăr ceva."
+  }
+ ]
+}

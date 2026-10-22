@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq062\\mq062_14_escape_finalchoice_terminal.json",
+ "entries": [
+  {
+   "key": "5403398085533397004",
+   "en": "[Get up]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "5438078745283817476",
+   "en": "[Jack In]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "5438107601357139972",
+   "en": "[Activate all Cell Block C failsafes]",
+   "ro": "[Activează toate sistemele de siguranță din Blocul C]"
+  },
+  {
+   "key": "5438108945212141568",
+   "en": "[Deactivate all Cell Block C failsafes]",
+   "ro": "[Dezactivează toate sistemele de siguranță din Blocul C]"
+  },
+  {
+   "key": "5459613461174448140",
+   "en": "[Open Cell Block C doors] Opening…",
+   "ro": "[Deschide ușile Blocului C] Se deschid…"
+  },
+  {
+   "key": "5459613461191225352",
+   "en": "[Open Cell Block C doors] Get them out.",
+   "ro": "[Deschide ușile Blocului C] Scoate-i afară."
+  }
+ ]
+}

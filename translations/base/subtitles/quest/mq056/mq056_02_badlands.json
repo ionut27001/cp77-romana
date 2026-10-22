@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq056\\mq056_02_badlands.json",
+ "entries": [
+  {
+   "key": "1395316292542537728",
+   "en": "Ladies and gentlemen! Get your pants on right, strap in and fire up your engines!",
+   "ro": "Doamnelor și domnilor! Trageți-vă pantalonii în sus, legați-vă și turați motoarele!"
+  },
+  {
+   "key": "1397864879895400448",
+   "en": "Three!",
+   "ro": "Trei!"
+  },
+  {
+   "key": "1397866326594736128",
+   "en": "Two!",
+   "ro": "Doi!"
+  },
+  {
+   "key": "1397866444605673472",
+   "en": "One!",
+   "ro": "Unu!"
+  },
+  {
+   "key": "1397866521596317696",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "2055025166241579012",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2056328576408567808",
+   "en": "[Sit and wait]",
+   "ro": "[Stai jos și așteaptă]"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_apart_cct_dtn_interactions.json",
+ "entries": [
+  {
+   "key": "2028697799592157188",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "2028698177566056448",
+   "en": "[Sleep]",
+   "ro": "[Dormi]"
+  },
+  {
+   "key": "2028699165173653504",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2028737051734482948",
+   "en": "[Take shower]",
+   "ro": "[Fă duș]"
+  },
+  {
+   "key": "2078186557357858816",
+   "en": "[Leave shower]",
+   "ro": "[Ieși din duș]"
+  },
+  {
+   "key": "2086887489105780736",
+   "en": "[Look in mirror]",
+   "ro": "[Privește în oglindă]"
+  },
+  {
+   "key": "2086931518929461248",
+   "en": "[Stop looking]",
+   "ro": "[Nu mai privi]"
+  },
+  {
+   "key": "2123159550320091136",
+   "en": "[Turn on TV]",
+   "ro": "[Pornește televizorul]"
+  },
+  {
+   "key": "2318488737380474884",
+   "en": "[Switch to next channel]",
+   "ro": "[Schimbă pe canalul următor]"
+  },
+  {
+   "key": "2318489634374328320",
+   "en": "[Switch to previous channel]",
+   "ro": "[Schimbă pe canalul anterior]"
+  },
+  {
+   "key": "2318490007398948864",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2531839124031037440",
+   "en": "[Smile]",
+   "ro": "[Zâmbește]"
+  },
+  {
+   "key": "2531839124031037460",
+   "en": "[Scowl]",
+   "ro": "[Încruntă-te]"
+  },
+  {
+   "key": "2531839124031037480",
+   "en": "[Pout]",
+   "ro": "[Bosumflat]"
+  },
+  {
+   "key": "2531839124047814664",
+   "en": "[Gawk]",
+   "ro": "[Uimire]"
+  },
+  {
+   "key": "2531839124047814684",
+   "en": "[Stare]",
+   "ro": "[Privește fix]"
+  },
+  {
+   "key": "2736102100211507200",
+   "en": "[Turn on]",
+   "ro": "[Pornește]"
+  },
+  {
+   "key": "2736102100396056576",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "2736198692985806848",
+   "en": "[Brew coffee]",
+   "ro": "[Prepară cafea]"
+  },
+  {
+   "key": "2744549212410519556",
+   "en": "[Rent apartment]",
+   "ro": "[Închiriază apartament]"
+  },
+  {
+   "key": "2898453766201040896",
+   "en": "[Change appearance]",
+   "ro": "[Schimbă aspectul]"
+  },
+  {
+   "key": "2898453766201040912",
+   "en": "[Change facial expression]",
+   "ro": "[Schimbă expresia facială]"
+  },
+  {
+   "key": "2898454155650555904",
+   "en": "[Back]",
+   "ro": "[Înapoi]"
+  },
+  {
+   "key": "3070789334893670400",
+   "en": "[Smoke]",
+   "ro": "[Fumează]"
+  },
+  {
+   "key": "3070789334893670420",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "3070789335162105856",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "3070789335447318528",
+   "en": "[Take a drag]",
+   "ro": "[Trage un fum]"
+  },
+  {
+   "key": "3070789335447318548",
+   "en": "[Flick ash]",
+   "ro": "[Scutură cenușa]"
+  },
+  {
+   "key": "3070789335447318564",
+   "en": "[Put out]",
+   "ro": "[Stinge]"
+  },
+  {
+   "key": "3070806750868615168",
+   "en": "[Drink tea]",
+   "ro": "[Bea ceai]"
+  },
+  {
+   "key": "3075158488790675456",
+   "en": "[Drink whiskey]",
+   "ro": "[Bea whiskey]"
+  },
+  {
+   "key": "3357982563347881984",
+   "en": "[Open Wardrobe]",
+   "ro": "[Deschide garderoba]"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_corpo_01_security_gate.json",
+ "entries": [
+  {
+   "key": "1658959814221275136",
+   "en": "One person at a time, please.",
+   "ro": "Câte unul, vă rog."
+  },
+  {
+   "key": "1658969088162963456",
+   "en": "Mhm. Everything appears to be in order.",
+   "ro": "Mhm. Totul pare în regulă."
+  },
+  {
+   "key": "1659131319999700992",
+   "en": "We'll finish this later.",
+   "ro": "Terminăm mai târziu."
+  },
+  {
+   "key": "1660558826519044096",
+   "en": "It's because of what happened in Europe.",
+   "ro": "E de la ce s-a întâmplat în Europa."
+  },
+  {
+   "key": "1676720331205570560",
+   "en": "Why's this taking so long?",
+   "ro": "De ce durează atât?"
+  },
+  {
+   "key": "1676721467274752000",
+   "en": "Mhm, I heard. Data leak in Frankfurt.",
+   "ro": "Mhm, am auzit. Scurgere de date la Frankfurt."
+  },
+  {
+   "key": "1676721671872901120",
+   "en": "Ugh. Half-brain management we're gonna pay for in sweat.",
+   "ro": "Ugh. Management de doi bani, o să ne coste sudoare."
+  },
+  {
+   "key": "1676737528590168064",
+   "en": "I'll call you on an encrypted line.",
+   "ro": "Te sun pe o linie criptată."
+  },
+  {
+   "key": "1701347050759581696",
+   "en": "Have a nice day.",
+   "ro": "O zi faină."
+  },
+  {
+   "key": "1793905306761097216",
+   "en": "V, you there?",
+   "ro": "V, ești acolo?"
+  },
+  {
+   "key": "1793905756491149312",
+   "en": "Ah, yeah… ahem, yeah, I'm here.",
+   "en_m": "Ah, yeah, khe khe… yeah, I'm here.",
+   "ro": "Ah, da… khe khe, da, sunt aici.",
+   "ro_m": "Ah, da, khe khe… da, sunt aici."
+  },
+  {
+   "key": "1793906269286756352",
+   "en": "Er, sounded like you blew your gut's airlock…",
+   "ro": "Ăă, părea că ți-a cedat ecluza stomacului…"
+  },
+  {
+   "key": "1793906637043331072",
+   "en": "Nah, yeah, I barfed. It's just stress.",
+   "en_m": "Yeah, I barfed. It's just stress.",
+   "ro": "Nah, da, am vomitat. E doar stres.",
+   "ro_m": "Da, am vomitat. E doar stres."
+  },
+  {
+   "key": "1793961187171299328",
+   "en": "You all right?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "1793961578634080256",
+   "en": "Khe, fine, ahem. Just... needed a breather.",
+   "en_m": "Khe, fine. Just, uh... needed a breather.",
+   "ro": "Khe, bine, khe. Doar... aveam nevoie de-o pauză.",
+   "ro_m": "Khe, bine. Doar, ăă... aveam nevoie de-o pauză."
+  },
+  {
+   "key": "1793962760102408192",
+   "en": "<kiroshi l=\"mex\" o=\"Agh, esa chamba te va a matar.\" t=\"Job's gonna kill you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Agh, esa chamba te va a matar.\" t=\"Jobul te omoară.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1877858732519387140",
+   "en": "Everyone's a critic.",
+   "ro": "Toți au ceva de comentat."
+  },
+  {
+   "key": "1877858746209595392",
+   "en": "Don't worry. I'm not dead yet.",
+   "ro": "Nu-ți face griji. Nu sunt moartă încă.",
+   "ro_m": "Nu-ți face griji. Nu sunt mort încă."
+  },
+  {
+   "key": "1877858749716033536",
+   "en": "Yeah, maybe I shoulda gotten a safe one. Like you did.",
+   "ro": "Da, poate ar fi trebuit să iau una sigură. Ca tine."
+  },
+  {
+   "key": "1877859003823747072",
+   "en": "Not dead yet.",
+   "ro": "Încă nu ești moartă.",
+   "ro_m": "Încă nu ești mort."
+  },
+  {
+   "key": "1877859238788657152",
+   "en": "We had a leak. My boss called, dragged me in because we had to... intervene. Everyone at Night City HQ is on edge.",
+   "en_m": "We had a leak. My boss called, dragged me in because we had to intervene. Everyone at Night City HQ is on edge.",
+   "ro": "Am avut o scurgere. Șeful meu a sunat, m-a tras deoparte pentru că trebuia să intervenim. Toată lumea de la HQ-ul din Night City e cu nervii întinși."
+  },
+  {
+   "key": "1877986794485510144",
+   "en": "But no way you're fucked, right? Hey, you're the one who fixes other people's shit.",
+   "ro": "Dar nu ești terminată, nu? Hei, tu ești cea care repară rahaturile altora.",
+   "ro_m": "Dar nu ești terminat, nu? Hei, tu ești cel care repară rahaturile altora."
+  },
+  {
+   "key": "1877987192474628096",
+   "en": "Jackie, if you work in Arasaka counterintel, you're always fucked.",
+   "ro": "Jackie, dacă lucrezi la contrainformațiile Arasaka, ești mereu futut."
+  },
+  {
+   "key": "1877988767083458560",
+   "en": "Listen, gotta go. Work won't do itself.",
+   "ro": "Ascultă, trebuie să plec. Treaba nu se face singură."
+  },
+  {
+   "key": "1877989126535311360",
+   "en": "<kiroshi l=\"mex\" o=\"Buena suerte.\" t=\"G'luck.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Buena suerte.\" t=\"Baftă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1878047465914953728",
+   "en": "Hey, least I always know who's shootin' at me, sometimes even why.",
+   "ro": "Hei, cel puțin știu mereu cine trage în mine, uneori și de ce."
+  },
+  {
+   "key": "1878047791342612480",
+   "en": "Anyway, what's goin' on?",
+   "ro": "Oricum, ce se întâmplă?"
+  },
+  {
+   "key": "1878078664205070336",
+   "en": "Exactly – \"yet.\"",
+   "ro": "Exact – „yet.”"
+  },
+  {
+   "key": "1908123495424958468",
+   "en": "Is there a problem?",
+   "ro": "E vreo problemă?"
+  },
+  {
+   "key": "1908125806083809280",
+   "en": "Is there a problem?",
+   "ro": "E vreo problemă?"
+  },
+  {
+   "key": "1934262180604125188",
+   "en": "[Answer call]",
+   "ro": "[Răspunde]"
+  },
+  {
+   "key": "2035942313869549568",
+   "en": "[Stand] Gotta go.",
+   "ro": "[Ridică-te] Trebuie să plec."
+  },
+  {
+   "key": "2035950762103775232",
+   "en": "[Stand] Don't worry about me.",
+   "ro": "[Ridică-te] Nu-ți face griji de mine."
+  },
+  {
+   "key": "2036084339811217408",
+   "en": "Don't worry about me. I'll manage on my own.",
+   "ro": "Nu-ți face griji de mine. Mă descurc singură.",
+   "ro_m": "Nu-ți face griji de mine. Mă descurc singur."
+  },
+  {
+   "key": "2058982566171615236",
+   "en": "It's just stress.",
+   "ro": "E doar stres."
+  },
+  {
+   "key": "2080599014937567236",
+   "en": "I'm fine.",
+   "ro": "Sunt bine."
+  },
+  {
+   "key": "2197998574323736576",
+   "en": "Somebody turned coat, gave up our agents.",
+   "ro": "Cineva ne-a vândut agenții."
+  },
+  {
+   "key": "2239163066690486272",
+   "en": "Talk to me, choomba.",
+   "ro": "Zi-mi, choomba."
+  },
+  {
+   "key": "2239169221663834120",
+   "en": "Hey, you all there, V?",
+   "ro": "Hei, ești acolo, V?"
+  }
+ ]
+}

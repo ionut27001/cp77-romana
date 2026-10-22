@@ -1,0 +1,677 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_03a_dollhouse_manager.json",
+ "entries": [
+  {
+   "key": "1468126466250096640",
+   "en": "Welcome to Clouds.",
+   "ro": "Bun venit la Clouds."
+  },
+  {
+   "key": "1468129118476288000",
+   "en": "Would you care to jack into the terminal?",
+   "ro": "Vrei să te conectezi la terminal?"
+  },
+  {
+   "key": "1551774672304979968",
+   "en": "Now bear with me a moment…",
+   "ro": "Mai ai puțin răbdare…"
+  },
+  {
+   "key": "1551775778678489088",
+   "en": "Two matches... Interesting...",
+   "ro": "Două potriviri... Interesant..."
+  },
+  {
+   "key": "1551776677635276800",
+   "en": "Who can say what is… \"normal\"? You're clearly a unique person with... unique tastes.",
+   "ro": "Cine poate spune ce înseamnă „normal”? Ești clar o persoană unică, cu gusturi unice...",
+   "ro_m": "Cine poate spune ce înseamnă „normal”? Ești clar un om unic, cu gusturi unice..."
+  },
+  {
+   "key": "1551781493837119492",
+   "en": "Angel.",
+   "ro": "Angel."
+  },
+  {
+   "key": "1551782203429470208",
+   "en": "Skye.",
+   "ro": "Skye."
+  },
+  {
+   "key": "1551783968728137728",
+   "en": "Thinkin' Angel looks good.",
+   "ro": "Cred că Angel arată bine."
+  },
+  {
+   "key": "1551784008557248512",
+   "en": "Rather go with Skye.",
+   "ro": "Prefer Skye."
+  },
+  {
+   "key": "1551784031743361024",
+   "en": "And... saved.",
+   "ro": "Și... salvat."
+  },
+  {
+   "key": "1551800944921919488",
+   "en": "Angel awaits you in booth six.",
+   "ro": "Angel te așteaptă în cabina șase."
+  },
+  {
+   "key": "1551801100530597888",
+   "en": "The entire floor is open to you if you wish to wind down first.",
+   "ro": "Tot etajul e al tău dacă vrei să te relaxezi mai întâi."
+  },
+  {
+   "key": "1551802109327818756",
+   "en": "[Jack out] That it?",
+   "ro": "[Deconectează-te] Asta e tot?"
+  },
+  {
+   "key": "1551805276497100800",
+   "en": "Only two willin' to spread their legs for you? Sad.",
+   "ro": "Doar două dispuse să se culce cu tine? Trist."
+  },
+  {
+   "key": "1551824726508158976",
+   "en": "I couldn't have chosen better myself.",
+   "ro": "N-aș fi putut alege mai bine nici eu."
+  },
+  {
+   "key": "1551825688010407936",
+   "en": "I couldn't have chosen better myself.",
+   "ro": "N-aș fi putut alege mai bine nici eu."
+  },
+  {
+   "key": "1615539550852702208",
+   "en": "Ahem. We have a strict no-weapons policy here at Clouds. Please deposit any and all hazardous items with me.",
+   "ro": "Ahem. Aici la Clouds avem politică strictă: fără arme. Predă-mi tot ce e periculos."
+  },
+  {
+   "key": "1615542964865163264",
+   "en": "You realize personal links aren't secure, right? Could get hit with malware straight to my core – end up paying an arm and a leg for a ripperdoc.",
+   "ro": "Știi că linkurile personale nu sunt sigure? Poți lua malware direct în nucleu și ajungi să scoți o avere pe un ripperdoc."
+  },
+  {
+   "key": "1615544460906291200",
+   "en": "Lookin' for an Evelyn Parker. She work here?",
+   "en_m": "Lookin' for Evelyn Parker. She work here?",
+   "ro": "Caut pe Evelyn Parker. Lucrează aici?"
+  },
+  {
+   "key": "1615544460906291208",
+   "en": "Hmm... Give me a moment…",
+   "ro": "Hmm... Stai un pic…"
+  },
+  {
+   "key": "1615548422057320448",
+   "en": "We need data from your core to pair you up with a doll.",
+   "ro": "Ne trebuie date din nucleul tău ca să te potrivim cu o păpușă."
+  },
+  {
+   "key": "1615549158610657280",
+   "en": "Just that. If anything goes wrong, you can lodge a complaint. But that's never happened.",
+   "ro": "Atât. Dacă ceva nu merge bine, poți depune plângere. Dar până acum nu s-a întâmplat niciodată."
+  },
+  {
+   "key": "1615642661776744448",
+   "en": "So how's this all work?",
+   "ro": "Deci cum merge treaba asta?"
+  },
+  {
+   "key": "1615642792672583680",
+   "en": "An algorithm pilots the doll's motor functions. It takes your profile data and transforms into... experiences in real-time.",
+   "ro": "Un algoritm pilotează funcțiile motorii ale păpușii. Ia datele din profilul tău și le transformă în... experiențe în timp real."
+  },
+  {
+   "key": "1615644216252915712",
+   "en": "That is one way to put it. One thing is for sure, you never get what you expect.",
+   "ro": "Așa se poate spune. Un lucru e sigur: nu primești niciodată ce te aștepți."
+  },
+  {
+   "key": "1615650441438912512",
+   "en": "The algorithm knows best. Trust me, it will choose a doll that will thrill you.",
+   "ro": "Algoritmul știe cel mai bine. Ai încredere în mine, o să aleagă o păpușă care te va încânta."
+  },
+  {
+   "key": "1615662097946599424",
+   "en": "Scanning your personal profile. You should see compatible dolls in just a second.",
+   "ro": "Scanăm profilul tău personal. Ar trebui să vezi păpușile compatibile într-o secundă."
+  },
+  {
+   "key": "1615664910227431424",
+   "en": "Is that normal or...?",
+   "ro": "E normal sau...?"
+  },
+  {
+   "key": "1615666513927954432",
+   "en": "Our system can handle it.",
+   "ro": "Sistemul nostru poate face față."
+  },
+  {
+   "key": "1615666766190174208",
+   "en": "So who will it be? Angel or Skye?",
+   "ro": "Deci cine o să fie? Angel sau Skye?"
+  },
+  {
+   "key": "1615679980059713536",
+   "en": "Skye awaits you in booth nine.",
+   "ro": "Skye te așteaptă în cabina nouă."
+  },
+  {
+   "key": "1615681956214431744",
+   "en": "Go eat a dick, Johnny.",
+   "ro": "Sugi pula, Johnny."
+  },
+  {
+   "key": "1648779031323828224",
+   "en": "You're saying it's not dangerous, but there's some risk involved.",
+   "ro": "Zici că nu e periculos, da' e un pic de risc."
+  },
+  {
+   "key": "1648787335055892480",
+   "en": "Afterlife.",
+   "ro": "Afterlife."
+  },
+  {
+   "key": "1648790431777644544",
+   "en": "Samurai.",
+   "ro": "Samurai."
+  },
+  {
+   "key": "1648802754894454784",
+   "en": "If you feel unready to handle what comes next, you can interrupt the session immediately.",
+   "ro": "Dacă te simți nepregătită să faci față ce urmează, poți întrerupe sesiunea imediat.",
+   "ro_m": "Dacă te simți nepregătit să faci față ce urmează, poți întrerupe sesiunea imediat."
+  },
+  {
+   "key": "1663334768855465984",
+   "en": "Thank you. We hope you enjoy your stay.",
+   "ro": "Sperăm să-ți placă șederea."
+  },
+  {
+   "key": "1664726335477579776",
+   "en": "And... the payment's come through.",
+   "ro": "Și... plata a intrat."
+  },
+  {
+   "key": "1664815788489506816",
+   "en": "[Jack in] All right.",
+   "ro": "[Conectează-te] Bine."
+  },
+  {
+   "key": "1666242230222544896",
+   "en": "Where we know what you're looking for.",
+   "ro": "Aici știm ce cauți."
+  },
+  {
+   "key": "1666295844903280640",
+   "en": "How could you possibly know what I'm looking for?",
+   "ro": "Cum ai putea ști ce caut?"
+  },
+  {
+   "key": "1666319952101728256",
+   "en": "Clouds always knows. Your deepest desire – we find it.",
+   "ro": "Clouds știe mereu. Dorința ta cea mai profundă – o găsim."
+  },
+  {
+   "key": "1666321289833046016",
+   "en": "You'll have your needs fulfilled – and maybe much more. \"Less\" is not a word we use around here.",
+   "ro": "O să-ți împlinim orice nevoie – și poate mult mai mult. „Less” nu e un cuvânt pe care-l folosim pe aici."
+  },
+  {
+   "key": "1666322276970881024",
+   "en": "I just want to talk to her.",
+   "ro": "Vreau doar să vorbesc cu ea."
+  },
+  {
+   "key": "1666363994189553664",
+   "en": "I'm not a customer.",
+   "ro": "Nu sunt client."
+  },
+  {
+   "key": "1666368668993019904",
+   "en": "I'm not a customer.",
+   "ro": "Nu sunt client."
+  },
+  {
+   "key": "1666368712714444800",
+   "en": "I just wanna talk to her, that's all.",
+   "ro": "Vreau doar să vorbesc cu ea, atât."
+  },
+  {
+   "key": "1666376324000473088",
+   "en": "I'm sorry, she finally say anything useful?",
+   "ro": "Scuze, a zis ea în sfârșit ceva util?"
+  },
+  {
+   "key": "1666380695270547456",
+   "en": "Fuck the menu, let's ditch this waitress and take our special order to the chef, point-blank.",
+   "ro": "Bag pula-n meniu, hai să scăpăm de chelnerița asta și să ducem comanda specială direct la bucătar, fără ocol."
+  },
+  {
+   "key": "1666381416187518976",
+   "en": "Meaning?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "1666381525591744512",
+   "en": "Meaning you go in as a customer, keep a low profile. They wanna keep their cards close? Fine. We'll play our own game.",
+   "ro": "Adică intri ca client și stai discret. Vor să-și țină cărțile la piept? Bine. Jucăm după regulile noastre."
+  },
+  {
+   "key": "1666423750035988480",
+   "en": "All you need to do is jack in. We'll create your personal profile and you'll be good to go.",
+   "ro": "Tot ce ai de făcut e să te conectezi. O să-ți creăm profilul personal și ești gata."
+  },
+  {
+   "key": "1666423786643873792",
+   "en": "Please, no need for concern. Your doll will talk to you about anything you wish.",
+   "ro": "Te rog, nu e nevoie să-ți faci griji. Păpușa ta va vorbi cu tine despre orice dorești."
+  },
+  {
+   "key": "1666435210250248192",
+   "en": "Jack in, please.",
+   "ro": "Conectează-te, te rog."
+  },
+  {
+   "key": "1666472035064963072",
+   "en": "Meanin' a biometric scan?",
+   "ro": "Adică o scanare biometrică?"
+  },
+  {
+   "key": "1666475716808237056",
+   "en": "Well, all the more reason to be excited! There's a first time for everyone at Clouds. It's no reason to dawdle.",
+   "ro": "Păi, cu atât mai mult motiv să fii entuziasmat! E prima dată pentru toată lumea la Clouds. Nu e motiv să te tot gândești."
+  },
+  {
+   "key": "1667703609538338816",
+   "en": "Now for your safeword.",
+   "ro": "Acum, cuvântul tău de siguranță."
+  },
+  {
+   "key": "1667797626795393024",
+   "en": "Evelyn's not available at this time.",
+   "ro": "Evelyn nu e disponibilă momentan."
+  },
+  {
+   "key": "1669309024897662976",
+   "en": "Disconnect, please.",
+   "ro": "Deconectează-te, te rog."
+  },
+  {
+   "key": "1670503585275772932",
+   "en": "Afterlife.",
+   "ro": "Afterlife."
+  },
+  {
+   "key": "1670509253055545344",
+   "en": "Samurai.",
+   "ro": "Samurai."
+  },
+  {
+   "key": "1670689909110800384",
+   "en": "Well, all the more reason to be excited, then! There's a first time for everyone at Clouds. Don't dawdle.",
+   "ro": "Ei, cu atât mai bine, ai motiv să fii entuziasmată! Toată lumea are o primă dată la Clouds. Nu zăbovi.",
+   "ro_m": "Ei, cu atât mai bine, ai motiv să fii entuziasmat! Toată lumea are o primă dată la Clouds. Nu zăbovi."
+  },
+  {
+   "key": "1670690700794068992",
+   "en": "Please, no need for concern. Your doll will talk to you about anything you wish.",
+   "ro": "Te rog, nu e nevoie să-ți faci griji. Păpușa ta va vorbi cu tine despre orice dorești."
+  },
+  {
+   "key": "1690789989588123648",
+   "en": "Now for the payment. And you'll venture into the Clouds.",
+   "ro": "Acum, plata. Și apoi intri în Clouds."
+  },
+  {
+   "key": "1690794492509011972",
+   "en": "[Pay] Here.",
+   "ro": "[Plătește] Poftim."
+  },
+  {
+   "key": "1690804069363335168",
+   "en": "[Jack out] Damn, I'm short.",
+   "ro": "[Deconectează-te] Fir-ar, nu-mi ajung banii."
+  },
+  {
+   "key": "1690811231573622784",
+   "en": "Welcome to Clouds.",
+   "ro": "Bun venit la Clouds."
+  },
+  {
+   "key": "1690811719270514688",
+   "en": "[Jack in]",
+   "ro": "[Conectează-te]"
+  },
+  {
+   "key": "1690812883139543040",
+   "en": "I see you chose our doll Angel, but didn't make use of his services…",
+   "ro": "Văd că ai ales păpușa noastră Angel, dar nu ai folosit serviciile lui…"
+  },
+  {
+   "key": "1690813757081501700",
+   "en": "I'll stick with my first choice.",
+   "ro": "Rămân la prima alegere."
+  },
+  {
+   "key": "1690814411560697856",
+   "en": "I want Angel.",
+   "ro": "Vreau-l pe Angel."
+  },
+  {
+   "key": "1690814754285666304",
+   "en": "I prefer Skye.",
+   "ro": "O prefer pe Skye."
+  },
+  {
+   "key": "1690816411622948864",
+   "en": "Think I'll stick with my first choice.",
+   "ro": "Cred că rămân la prima alegere."
+  },
+  {
+   "key": "1690816604208611328",
+   "en": "Huh... Wouldn't mind exploring whatever else is out there. Let's try Angel.",
+   "en_m": "Uh… I wouldn't mind exploring whatever else is out there. Let's try Angel.",
+   "ro": "Hm... N-ar fi rău să explorez și altceva. Hai să încercăm pe Angel."
+  },
+  {
+   "key": "1690817314455273472",
+   "en": "One last formality before we're done.",
+   "ro": "O ultimă formalitate înainte să terminăm."
+  },
+  {
+   "key": "1690836213838102528",
+   "en": "Looks like I might be a little short this time.",
+   "ro": "Se pare că de data asta nu-mi ajung banii."
+  },
+  {
+   "key": "1690836861639966720",
+   "en": "So, we look forward to seeing you again when circumstances are more favorable.",
+   "ro": "Deci abia așteptăm să te revedem, când lucrurile o să stea mai bine."
+  },
+  {
+   "key": "1690839685362860032",
+   "en": "Of course...",
+   "ro": "Sigur..."
+  },
+  {
+   "key": "1690991986412838912",
+   "en": "Would you care to jack into the terminal?",
+   "ro": "Vrei să te conectezi la terminal?"
+  },
+  {
+   "key": "1690997156630716416",
+   "en": "Welcome back. Your current safeword is... Afterlife.",
+   "ro": "Bine ați revenit. Cuvântul de siguranță e... Afterlife."
+  },
+  {
+   "key": "1690998053792342016",
+   "en": "Welcome, a pleasure to see you again. Your current safeword is... Samurai.",
+   "ro": "Bine ați venit, ce plăcere să vă revedem. Cuvântul de siguranță e... Samurai."
+  },
+  {
+   "key": "1691033106765275136",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1691033336596357120",
+   "en": "If you'd like, you could try someone else. Perhaps you'd prefer Skye?",
+   "ro": "Dacă doriți, ați putea încerca pe altcineva. Poate ați prefera-o pe Skye?"
+  },
+  {
+   "key": "1691034657584013312",
+   "en": "I see you chose our doll Skye, but didn't make use of her services...",
+   "ro": "Văd că ați ales păpușa noastră Skye, dar nu ați folosit serviciile ei..."
+  },
+  {
+   "key": "1691034657584013324",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "1691034657584013336",
+   "en": "If you'd like, you could try someone else. Perhaps you'd prefer Angel?",
+   "ro": "Dacă doriți, ați putea încerca pe altcineva. Poate ați prefera pe Angel?"
+  },
+  {
+   "key": "1691065772508143616",
+   "en": "I like a person who knows what they want.",
+   "ro": "Îmi plac oamenii care știu ce vor."
+  },
+  {
+   "key": "1691079177403064320",
+   "en": "Huh... Wouldn't mind exploring whatever else is out there. Let's try Skye.",
+   "en_m": "Huh... I wouldn't mind exploring whatever else is out there. Let's try Skye.",
+   "ro": "Hm... N-ar fi rău să explorez și altceva. Hai să încercăm pe Skye."
+  },
+  {
+   "key": "1691079177403064332",
+   "en": "Of course...",
+   "ro": "Sigur..."
+  },
+  {
+   "key": "1691114181185200128",
+   "en": "Need to see her. It's important.",
+   "ro": "Trebuie s-o văd. E important."
+  },
+  {
+   "key": "1694156232986419200",
+   "en": "Consider my interest piqued.",
+   "ro": "Mi-ai stârnit interesul."
+  },
+  {
+   "key": "1694159178411237376",
+   "en": "Memory dampers on the doll's behavioral chip block any recall of the session.",
+   "ro": "Amortizoarele de memorie de pe cipul comportamental al păpușii blochează orice amintire din sesiune."
+  },
+  {
+   "key": "1694160215008305152",
+   "en": "This will be a live session, so events may take an unexpected turn. But don't quit if you feel uncomfortable – you could miss out on something truly remarkable.",
+   "ro": "Asta o să fie o sesiune live, așa că lucrurile pot lua o turnură neașteptată. Dar nu renunțați dacă vi se pare incomod – ați putea rata ceva chiar grozav."
+  },
+  {
+   "key": "1694161384262819840",
+   "en": "So there'll be no trace of the meeting?",
+   "ro": "Deci nu o să rămână nicio urmă a întâlnirii?"
+  },
+  {
+   "key": "1694161869258579968",
+   "en": "Well, I could say yes, but that would strip it of mystery and suspense, wouldn't it? Once you're in there, you set the stakes.",
+   "ro": "Păi, aș putea spune da, dar asta i-ar strica misterul și suspansul, nu? Odată ajuns înăuntru, dumneavoastră stabiliți mizele."
+  },
+  {
+   "key": "1712741180357566464",
+   "en": "Don't worry, all your grown-up toys will be safe with us.",
+   "ro": "Nu vă faceți griji, jucăriile dvs. de adulți sunt în siguranță la noi."
+  },
+  {
+   "key": "1712741180391120896",
+   "en": "You won't find any use for weapons inside.",
+   "ro": "Înăuntru n-o să vă trebuiască arme."
+  },
+  {
+   "key": "1712741180407898112",
+   "en": "Clouds is one of the safest places in all of Night City.",
+   "ro": "Clouds e unul dintre cele mai sigure locuri din tot Night City."
+  },
+  {
+   "key": "1717366385843175428",
+   "en": "Jacking in the personal isn't safe.",
+   "ro": "Conectarea la personal nu e sigură."
+  },
+  {
+   "key": "1717368951096279040",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1717371297339604992",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1717375988786069504",
+   "en": "You know why I'm here?",
+   "ro": "Știi de ce sunt aici?"
+  },
+  {
+   "key": "1717391883822497792",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1717397341081763844",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1717400176464822272",
+   "en": "How's this work?",
+   "ro": "Cum funcționează asta?"
+  },
+  {
+   "key": "1717400643374743552",
+   "en": "How does this work?",
+   "ro": "Cum funcționează asta?"
+  },
+  {
+   "key": "1717401497720913924",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1717402126111539200",
+   "en": "How does this work?",
+   "ro": "Cum funcționează asta?"
+  },
+  {
+   "key": "1717402852732764160",
+   "en": "Where we know what you're looking for.",
+   "ro": "Aici știm ce cauți."
+  },
+  {
+   "key": "1717403020303597568",
+   "en": "How could you possibly know what I'm looking for?",
+   "ro": "Cum ai putea ști ce caut?"
+  },
+  {
+   "key": "1717410163958284288",
+   "en": "How does this work?",
+   "ro": "Cum funcționează asta?"
+  },
+  {
+   "key": "1718701425810276352",
+   "en": "Looking for an Evelyn Parker.",
+   "ro": "O caut pe Evelyn Parker."
+  },
+  {
+   "key": "1755936585237094400",
+   "en": "Our dolls can change their hair and eye color in real time to look just as you wish.",
+   "ro": "Păpușile noastre își pot schimba culoarea părului și a ochilor în timp real, ca să arate exact cum doriți."
+  },
+  {
+   "key": "1763705850014269440",
+   "en": "Should anything go wrong in session, you'll need a safeword. Choose one now.",
+   "ro": "Dacă ceva nu merge bine în sesiune, o să aveți nevoie de un cuvânt de siguranță. Alegeți unul acum."
+  },
+  {
+   "key": "1785404286447894528",
+   "en": "All right, let's do this.",
+   "ro": "Bine, hai să facem asta."
+  },
+  {
+   "key": "1785406426247577600",
+   "en": "There you go.",
+   "ro": "Poftim."
+  },
+  {
+   "key": "1785407423485296640",
+   "en": "That it?",
+   "ro": "Asta e tot?"
+  },
+  {
+   "key": "1806829685857828864",
+   "en": "Hey, I don't know anything! I just work here!",
+   "ro": "Hei, nu știu nimic! Doar lucrez aici!"
+  },
+  {
+   "key": "1903747150828707840",
+   "en": "I'm required to return your weapons... even though I'd rather not.",
+   "ro": "Trebuie să vă dau armele înapoi... deși n-aș vrea."
+  },
+  {
+   "key": "1903776263626989572",
+   "en": "You may take your weapons.",
+   "ro": "Vă puteți lua armele."
+  },
+  {
+   "key": "1905350165717229568",
+   "en": "A pleasant day to you. The next time you have that urge for Clouds – don't wait!",
+   "ro": "O zi bună! Data viitoare când vă vine chef de Clouds – nu mai așteptați!"
+  },
+  {
+   "key": "1946090223496658948",
+   "en": "Meaning?",
+   "ro": "Adică?"
+  },
+  {
+   "key": "1957465474810757120",
+   "en": "[Jack out] Don't wanna pay.",
+   "ro": "[Deconectează-te] Nu vreau să plătesc."
+  },
+  {
+   "key": "1957465995642650624",
+   "en": "Not here to pay and play. Just want some info.",
+   "ro": "N-am venit să plătesc și să mă joc. Vreau doar niște info."
+  },
+  {
+   "key": "1957466559088672768",
+   "en": "Ah... unfortunately, that we do not sell.",
+   "ro": "Ah... din păcate, asta nu se vinde."
+  },
+  {
+   "key": "1957478167915511812",
+   "en": "Changed my mind. I'll pay.",
+   "ro": "M-am răzgândit. Plătesc."
+  },
+  {
+   "key": "1957479283164168192",
+   "en": "All right, I changed my mind. I'll pay.",
+   "ro": "Bine, m-am răzgândit. Plătesc."
+  },
+  {
+   "key": "1957479763378421760",
+   "en": "Temptation is often too strong to resist. Please jack in.",
+   "ro": "Tentația e de multe ori prea puternică ca s-o poți refuza. Vă rugăm să vă conectați."
+  },
+  {
+   "key": "1965006805066039300",
+   "en": "Wanna book a doll.",
+   "ro": "Vreau să rezerv o păpușă."
+  },
+  {
+   "key": "1965007717260050432",
+   "en": "I'd like to book a doll.",
+   "ro": "Aș vrea să rezerv o păpușă."
+  },
+  {
+   "key": "1965008089328369664",
+   "en": "I'm sorry, I'm afraid that's not possible. You are flagged in the system as \"problematic.\"",
+   "ro": "Îmi pare rău, nu se poate. Sunteți marcată în sistem ca „problematică”.",
+   "ro_m": "Îmi pare rău, nu se poate. Sunteți marcat în sistem ca „problematic”."
+  },
+  {
+   "key": "1973720209079099392",
+   "en": "Should you change your mind, come back.",
+   "ro": "Dacă te răzgândești, mai treci pe aici."
+  },
+  {
+   "key": "2012963162996932608",
+   "en": "[Jack in] There you go.",
+   "ro": "[Conectează-te] Ia de aici."
+  }
+ ]
+}

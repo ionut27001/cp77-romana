@@ -1,0 +1,442 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_takemura.json",
+ "entries": [
+  {
+   "key": "1796550020769497092",
+   "en": "<kiroshi l=\"jpn\" o=\"さあ、かかってこい！\" t=\"Let the festivities begin!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さあ、かかってこい！\" t=\"Să înceapă distracția!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550020803051524",
+   "en": "<kiroshi l=\"jpn\" o=\"ふん、無駄な努力を\" t=\"I do not know why they even try.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ふん、無駄な努力を\" t=\"Nici nu știu de ce se mai chinuie.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550020853383172",
+   "en": "Careful, grenade!",
+   "ro": "Atenție, granată!"
+  },
+  {
+   "key": "1796550020920492036",
+   "en": "Oh, I missed this!",
+   "ro": "Oh, cât mi-a lipsit asta!"
+  },
+  {
+   "key": "1796550020937269252",
+   "en": "Not much longer now!",
+   "ro": "Nu mai durează mult!"
+  },
+  {
+   "key": "1796550021004378116",
+   "en": "<kiroshi l=\"jpn\" o=\"ゴミの多い街だ！\" t=\"Fucking Night City!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ゴミの多い街だ！\" t=\"Naiba de Night City!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550021037932548",
+   "en": "<kiroshi l=\"jpn\" o=\"後悔しても遅いぞ！\" t=\"You made a big mistake!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"後悔しても遅いぞ！\" t=\"Ai greșit amarnic!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550021071486980",
+   "en": "This will buy us some time!",
+   "ro": "Asta ne va cumpăra ceva timp!"
+  },
+  {
+   "key": "1796550021105041412",
+   "en": "<kiroshi l=\"jpn\" o=\"アラサカ様万歳！\" t=\"For Arasaka-sama!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"アラサカ様万歳！\" t=\"Pentru Arasaka-sama!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550021155373060",
+   "en": "<kiroshi l=\"jpn\" o=\"くっ… 息が… できん…\" t=\"I... can't... breathe...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"くっ… 息が… できん…\" t=\"Nu... pot... respira...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550021390254084",
+   "en": "I can wait. It is not me who is dying.",
+   "ro": "Pot să aștept. Nu eu mor aici."
+  },
+  {
+   "key": "1796550021423808516",
+   "en": "Do you have what they call \"ADD?\"",
+   "ro": "Ai ceva ce numesc ei „ADD”?"
+  },
+  {
+   "key": "1796550021474140164",
+   "en": "Ready to give your full attention?",
+   "ro": "Ești gata să-ți dai toată atenția?"
+  },
+  {
+   "key": "1796550021507694596",
+   "en": "Shall we continue?",
+   "ro": "Continuăm?"
+  },
+  {
+   "key": "1796550021541249028",
+   "en": "There is no time to waste, V.",
+   "ro": "Nu e timp de pierdut, V."
+  },
+  {
+   "key": "1796550021591580676",
+   "en": "V?",
+   "ro": "V?"
+  },
+  {
+   "key": "1796550021809684484",
+   "en": "V.",
+   "ro": "V."
+  },
+  {
+   "key": "1796550021826461700",
+   "en": "It is good you are here.",
+   "ro": "Bine că ești aici."
+  },
+  {
+   "key": "1796550021977456644",
+   "en": "<kiroshi l=\"jpn\" o=\"ちゃんと前を見て歩け！\" t=\"Like a blind man without canes!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ちゃんと前を見て歩け！\" t=\"Ca un orb fără baston!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796550022027788292",
+   "en": "Argh, V! Control your movements!",
+   "ro": "Argh, V! Controlează-ți mișcările!"
+  },
+  {
+   "key": "1966134070640254980",
+   "en": "Are you still there?",
+   "ro": "Mai ești acolo?"
+  },
+  {
+   "key": "1966134070657032196",
+   "en": "Let us be quick.",
+   "ro": "Hai să fim rapizi."
+  },
+  {
+   "key": "2238853762959908864",
+   "en": "The time for doubts has passed.",
+   "ro": "Timpul îndoielilor a trecut."
+  },
+  {
+   "key": "2238859762962112520",
+   "en": "Get out. Let's not waste time.",
+   "ro": "Ieși. Să nu pierdem timpul."
+  },
+  {
+   "key": "2238859883237974024",
+   "en": "You aim to be found? Let's move.",
+   "ro": "Vrei să fii găsit? Hai să mișcăm."
+  },
+  {
+   "key": "2248174479292407816",
+   "en": "Sharpen your mind.",
+   "ro": "Ascute-ți mintea."
+  },
+  {
+   "key": "2248174479376293896",
+   "en": "I have eagerly awaited this!",
+   "ro": "Am așteptat cu nerăbdare asta!"
+  },
+  {
+   "key": "2248174479745392648",
+   "en": "<kiroshi l=\"jpn\" o=\"流れに身を任せよう！\" t=\"Feel the momentum!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"流れに身を任せよう！\" t=\"Simte elanul!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174479795724296",
+   "en": "<kiroshi l=\"jpn\" o=\"すぐに終わらせてやる！\" t=\"This will be quick!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"すぐに終わらせてやる！\" t=\"Termin repede!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174480030605320",
+   "en": "It had been too long.",
+   "ro": "A trecut prea mult timp."
+  },
+  {
+   "key": "2248174480080936968",
+   "en": "I have nothing more to add.",
+   "ro": "Nu mai am nimic de adăugat."
+  },
+  {
+   "key": "2248174480114491400",
+   "en": "Ahh… How hungry I was.",
+   "ro": "Ahh… Cât de flămând eram."
+  },
+  {
+   "key": "2248174480164823048",
+   "en": "Do not charge recklessly!",
+   "ro": "Nu te repezi fără cap!"
+  },
+  {
+   "key": "2248174480198377480",
+   "en": "This ends poorly if you black out!",
+   "ro": "Se termină prost dacă leșini!"
+  },
+  {
+   "key": "2248174480231931912",
+   "en": "Retreat! Gather your strength!",
+   "ro": "Retrage-te! Adună-ți forțele!"
+  },
+  {
+   "key": "2248174482798845960",
+   "en": "V! I cannot manage alone!",
+   "ro": "V! Nu mă descurc singur!"
+  },
+  {
+   "key": "2248174482849177608",
+   "en": "I require backup!",
+   "ro": "Am nevoie de întăriri!"
+  },
+  {
+   "key": "2248174482899509256",
+   "en": "Help! V!",
+   "ro": "Ajutor! V!"
+  },
+  {
+   "key": "2248174482933063688",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2248174482966618120",
+   "en": "<kiroshi l=\"jpn\" o=\"弾切れだ！\" t=\"Clip's empty…\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"弾切れだ！\" t=\"S-a golit încărcătorul…\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483016949768",
+   "en": "<kiroshi l=\"jpn\" o=\"リロードしなければ\" t=\"Need to reload.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"リロードしなければ\" t=\"Trebuie să reîncarc.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483117613064",
+   "en": "<kiroshi l=\"jpn\" o=\"手榴弾だ！\" t=\"Grenade!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"手榴弾だ！\" t=\"Granată!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483151167496",
+   "en": "Incoming! Grenade!",
+   "ro": "Vine! Granată!"
+  },
+  {
+   "key": "2248174483268608008",
+   "en": "<kiroshi l=\"jpn\" o=\"受け取れ！\" t=\"This is for you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"受け取れ！\" t=\"Na, ia!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483318939656",
+   "en": "<kiroshi l=\"jpn\" o=\"とくと味わえ！\" t=\"You'll enjoy this!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"とくと味わえ！\" t=\"O să-ți placă asta!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483352494088",
+   "en": "<kiroshi l=\"jpn\" o=\"ざまあみろ！\" t=\"One less!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ざまあみろ！\" t=\"Unul mai puțin!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483386048520",
+   "en": "<kiroshi l=\"jpn\" o=\"もらった！\" t=\"I have you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"もらった！\" t=\"Te-am prins!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483419602952",
+   "en": "<kiroshi l=\"jpn\" o=\"手加減無用だ！\" t=\"I hope that didn't hurt!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"手加減無用だ！\" t=\"Sper că nu te-a durut!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174483973251080",
+   "en": "Stay alert – we may be in sniper crosshairs!",
+   "ro": "Fiți cu ochii în patru – poate suntem în vizorul unui sniper!"
+  },
+  {
+   "key": "2248174484006805512",
+   "en": "<kiroshi l=\"jpn\" o=\"頭出すな！ 狙撃手だ！\" t=\"Heads down! Sniper!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"頭出すな！ 狙撃手だ！\" t=\"Capul jos! Sniper!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484073914376",
+   "en": "Enemy turret!",
+   "ro": "Turelă inamică!"
+  },
+  {
+   "key": "2248174484124246024",
+   "en": "<kiroshi l=\"jpn\" o=\"タレットに気をつけろ！\" t=\"Watch out for the turret!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"タレットに気をつけろ！\" t=\"Atenție la turelă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484208132104",
+   "en": "Careful, active netrunner!",
+   "ro": "Atenție, netrunner activ!"
+  },
+  {
+   "key": "2248174484241686536",
+   "en": "Hostile netrunner alert to you!",
+   "ro": "Atenție, netrunner ostil!"
+  },
+  {
+   "key": "2248174484342349828",
+   "en": "<kiroshi l=\"jpn\" o=\"ドローンは好かん！\" t=\"I despise drones!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ドローンは好かん！\" t=\"Detest dronele!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484392681480",
+   "en": "<kiroshi l=\"jpn\" o=\"空飛ぶゴミめ\" t=\"Flying vermin!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"空飛ぶゴミめ\" t=\"Jeguri zburătoare!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484493344768",
+   "en": "<kiroshi l=\"jpn\" o=\"気をつけろ、オクタントだ！\" t=\"Look out, an Octant!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"気をつけろ、オクタントだ！\" t=\"Atenție, un Octant!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484543676424",
+   "en": "This does not bode well!",
+   "ro": "Nu prevestește nimic bun!"
+  },
+  {
+   "key": "2248174484627562504",
+   "en": "<kiroshi l=\"jpn\" o=\"ブリキを相手にせざるを得ないとは！\" t=\"I prefer a fight human on human!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ブリキを相手にせざるを得ないとは！\" t=\"Mai bine ne luptăm om cu om!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484677894152",
+   "en": "Do you see what I see?!",
+   "ro": "Vezi ce văd și eu?!"
+  },
+  {
+   "key": "2248174484761780232",
+   "en": "Now comes the real test!",
+   "ro": "Acum vine testul adevărat!"
+  },
+  {
+   "key": "2248174484795334664",
+   "en": "<kiroshi l=\"jpn\" o=\"面倒な奴が現れた\" t=\"We have a problem.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"面倒な奴が現れた\" t=\"Avem o problemă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174484895997960",
+   "en": "And who is this wretch?!",
+   "ro": "Și cine e nemernicul ăsta?!"
+  },
+  {
+   "key": "2248174484963106824",
+   "en": "<kiroshi l=\"jpn\" o=\"何だ、あれは…？\" t=\"What the hell…!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何だ、あれは…？\" t=\"Ce dracu'…!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174485046992904",
+   "en": "Now! We have the advantage!",
+   "ro": "Acum! Suntem în avantaj!"
+  },
+  {
+   "key": "2248174485080547336",
+   "en": "They are reloading! We attack now!",
+   "ro": "Reîncarcă! Atacăm acum!"
+  },
+  {
+   "key": "2248174485164433416",
+   "en": "Yes? Moving then?",
+   "ro": "Da? Ne mișcăm atunci?"
+  },
+  {
+   "key": "2248174485197987848",
+   "en": "Well, let's go.",
+   "ro": "Ei, hai să mergem."
+  },
+  {
+   "key": "2248174485248319488",
+   "en": "Biochip got your brain? Let's move.",
+   "ro": "Biochipul ți-a luat creierul? Hai să ne mișcăm."
+  },
+  {
+   "key": "2248174485281873928",
+   "en": "This is not a good time to ponder life.",
+   "ro": "Nu e momentul de filosofie."
+  },
+  {
+   "key": "2248174485332205576",
+   "en": "Quickly, V.",
+   "ro": "Repede, V."
+  },
+  {
+   "key": "2248174485382537224",
+   "en": "Keep a low profile this time, yes?",
+   "ro": "Ține-te discret de data asta, da?"
+  },
+  {
+   "key": "2248174485416091656",
+   "en": "Much better. But remember we do not want attention.",
+   "ro": "Mai bine. Dar ține minte, nu vrem atenție."
+  },
+  {
+   "key": "2248174485499977736",
+   "en": "There.",
+   "ro": "Acolo."
+  },
+  {
+   "key": "2248174485550309384",
+   "en": "We are not alone.",
+   "ro": "Nu suntem singuri."
+  },
+  {
+   "key": "2248174485600641032",
+   "en": "I see someone.",
+   "ro": "Văd pe cineva."
+  },
+  {
+   "key": "2248174485634195464",
+   "en": "<kiroshi l=\"jpn\" o=\"気づかれたか…？\" t=\"Did they notice…?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"気づかれたか…？\" t=\"Ne-au observat…?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174485701304320",
+   "en": "Be careful!",
+   "ro": "Ai grijă!"
+  },
+  {
+   "key": "2248174485734858760",
+   "en": "Did they notice us?",
+   "ro": "Ne-au observat?"
+  },
+  {
+   "key": "2248174485768413192",
+   "en": "Their security is comprehensive. Think before you step.",
+   "ro": "Securitatea lor e cuprinzătoare. Gândește-te înainte să faci un pas."
+  },
+  {
+   "key": "2248174485818744836",
+   "en": "You must be vigilant in this area.",
+   "ro": "Trebuie să fii vigilantă în zona asta.",
+   "ro_m": "Trebuie să fii vigilent în zona asta."
+  },
+  {
+   "key": "2248174485919408136",
+   "en": "You plan to leave them exposed?",
+   "ro": "Plănuiești să-i lași expuși?"
+  },
+  {
+   "key": "2248174485952962568",
+   "en": "It is in plain sight…",
+   "ro": "E la vedere…"
+  },
+  {
+   "key": "2248174486036848648",
+   "en": "<kiroshi l=\"jpn\" o=\"さあ来い！\" t=\"Come on!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"さあ来い！\" t=\"Hai!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2248174486087180296",
+   "en": "Hahaha!",
+   "ro": "Hahaha!"
+  },
+  {
+   "key": "2248174486154289160",
+   "en": "Quietly…!",
+   "ro": "Încet…!"
+  },
+  {
+   "key": "2248174486204620808",
+   "en": "Exercise caution.",
+   "ro": "Fii prudentă.",
+   "ro_m": "Fii prudent."
+  }
+ ]
+}

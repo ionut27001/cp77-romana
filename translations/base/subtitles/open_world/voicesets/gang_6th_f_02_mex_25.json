@@ -1,0 +1,235 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_6th_f_02_mex_25.json",
+ "entries": [
+  {
+   "key": "1789969747397677060",
+   "en": "Lookin' pretty lost, punk.",
+   "ro": "Arăți pierdut rău, golan."
+  },
+  {
+   "key": "1789969747431231492",
+   "en": "City's going to the dogs.",
+   "ro": "Orașul se duce de râpă."
+  },
+  {
+   "key": "1789969747481563140",
+   "en": "You ain't welcome here.",
+   "ro": "Nu ești binevenită aici.",
+   "ro_m": "Nu ești binevenit aici."
+  },
+  {
+   "key": "1789969747498340356",
+   "en": "Get lost!",
+   "ro": "Cară-te!"
+  },
+  {
+   "key": "1789969747548672004",
+   "en": "Holster that. Right fuckin' now!",
+   "ro": "Pune arma în toc. Chiar acum, pula mea!"
+  },
+  {
+   "key": "1789969747565449220",
+   "en": "The hell you doin' with that?",
+   "ro": "Ce dracu' faci cu aia?"
+  },
+  {
+   "key": "1789969747615780868",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"You're on real fuckin' thin ice, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"You're on real fuckin' thin ice, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ești pe gheață subțire ca dracu', \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Ești pe gheață subțire ca dracu', \" a=\".\"/>"
+  },
+  {
+   "key": "1789969747632558084",
+   "en": "'Bout to let my iron do my talkin' for me.",
+   "ro": "Fierul o să vorbească în locul meu."
+  },
+  {
+   "key": "1789969747682889732",
+   "en": "Let's be good, now.",
+   "ro": "Hai să fim cuminți acum."
+  },
+  {
+   "key": "1789969747699666948",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Good \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"chico\" b=\"Good \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Bine \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"chico\" b=\"Bine \" a=\".\"/>"
+  },
+  {
+   "key": "1789969747749998596",
+   "en": "Hmm...",
+   "ro": "Hmm..."
+  },
+  {
+   "key": "1789969747766775812",
+   "en": "Got possible enemy contact...",
+   "ro": "Posibil contact inamic..."
+  },
+  {
+   "key": "1789969747817107460",
+   "en": "All under control.",
+   "ro": "Totul sub control."
+  },
+  {
+   "key": "1789969747833884676",
+   "en": "All clear.",
+   "ro": "Totul curat."
+  },
+  {
+   "key": "1789969747884216324",
+   "en": "Enough with the fuckin' games! Come out!",
+   "ro": "Gata cu jocurile de căcat! Ieși afară!"
+  },
+  {
+   "key": "1789969747900993540",
+   "en": "C'mon out, I won't hurt you. Here, kitty kitty.",
+   "ro": "Ieși afară, nu-ți fac nimic. Pisi, pisi."
+  },
+  {
+   "key": "1789969747934547972",
+   "en": "Got one of ours down! Shit!",
+   "ro": "Unul de-al nostru a căzut! Căcat!"
+  },
+  {
+   "key": "1789969747968102404",
+   "en": "Mhm. On it.",
+   "ro": "Mhm. Mă ocup."
+  },
+  {
+   "key": "1789969748018434052",
+   "en": "Mmm, got that adrenaline pumpin'!",
+   "ro": "Mmm, am adrenalina la maxim!"
+  },
+  {
+   "key": "1789969748035211268",
+   "en": "Ah, let the games begin!",
+   "ro": "Ah, să înceapă jocurile!"
+  },
+  {
+   "key": "1789969748068765700",
+   "en": "Hope it tears your guts out!",
+   "ro": "Sper să-ți sfâșie măruntaiele!"
+  },
+  {
+   "key": "1789969748119097348",
+   "en": "Hit to kill!",
+   "ro": "Trage să ucidă!"
+  },
+  {
+   "key": "1789969748135874564",
+   "en": "Oooooo-rah!",
+   "ro": "Oooooo-rah!"
+  },
+  {
+   "key": "1789969748186206212",
+   "en": "Do something! Anything, dammit!",
+   "ro": "Fă ceva! Orice, la naiba!"
+  },
+  {
+   "key": "1789969748202983428",
+   "en": "<mothertongue l=\"mex\" m=\"cabrón!\" b=\"You fucking \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"cabrón!\" b=\"Ești un nenorocit, \" a=\"\"/>"
+  },
+  {
+   "key": "1789969748270092292",
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "key": "1789969748286869508",
+   "en": "You cruisin' for a fuckin' bruisin'?",
+   "ro": "Cauți bătaie, pula mea?"
+  },
+  {
+   "key": "1789969748337201156",
+   "en": "What's up?",
+   "ro": "Ce faci?"
+  },
+  {
+   "key": "1789969748404310020",
+   "en": "So what...? So deal with him...",
+   "ro": "Și ce...? Atunci ocupă-te de el..."
+  },
+  {
+   "key": "1789969748421087236",
+   "en": "Mhm.. How's she feelin'...?",
+   "ro": "Mhm.. Cum se simte...?"
+  },
+  {
+   "key": "1789969748471418884",
+   "en": "Check the bitch's six!",
+   "ro": "Verifică spatele cățelei!"
+  },
+  {
+   "key": "1789969748504973316",
+   "en": "Comin' from the right!",
+   "ro": "Vine din dreapta!"
+  },
+  {
+   "key": "1789969748538527748",
+   "en": "She's 'bout to blow!",
+   "ro": "O să explodeze!"
+  },
+  {
+   "key": "1789969748572082180",
+   "en": "Great. Gotta go.",
+   "ro": "Super. Trebuie să plec."
+  },
+  {
+   "key": "1789969748605636612",
+   "en": "<mothertongue l=\"mex\" m=\"chingados\" b=\"What the \" a=\" is going on…\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chingados\" b=\"Ce \" a=\" se întâmplă…\"/>"
+  },
+  {
+   "key": "1789969748672745476",
+   "en": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Căcat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1789969748706299908",
+   "en": "'ey! Hear that? C'mon!",
+   "ro": "Hei! Auzi? Hai!"
+  },
+  {
+   "key": "1789969748756631556",
+   "en": "Don't shoot! Check an' see what it is.",
+   "ro": "Nu trage! Verifică și vezi ce e."
+  },
+  {
+   "key": "1789969748773408772",
+   "en": "Oorah! Motherfuckers!",
+   "ro": "Oorah! Nenorociților!"
+  },
+  {
+   "key": "1789969748840517632",
+   "en": "Echhh... Owww... Get off... Augh...",
+   "ro": "Echhh... Owww... Dă-te jos... Augh..."
+  },
+  {
+   "key": "1790045516677353472",
+   "en": "No. Ain't got time now...",
+   "ro": "Nu. N-am timp acum..."
+  },
+  {
+   "key": "1790045833431191552",
+   "en": "Tell 'er I said hi, too... Mmhm. Mhm... Sure...",
+   "ro": "Spune-i că o salut și eu... Mmhm. Mmhm... Sigur..."
+  },
+  {
+   "key": "1958892970177503236",
+   "en": "Something happen? You can't talk?",
+   "ro": "S-a întâmplat ceva? Nu poți vorbi?"
+  },
+  {
+   "key": "1958892970227834884",
+   "en": "We good now?",
+   "ro": "Suntem bine acum?"
+  },
+  {
+   "key": "1958892970261389316",
+   "en": "Hurry up.",
+   "ro": "Grăbește-te."
+  }
+ ]
+}

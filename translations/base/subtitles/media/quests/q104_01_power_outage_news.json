@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q104_01_power_outage_news.json",
+ "entries": [
+  {
+   "key": "1744501745799192576",
+   "en": "We return to today's breaking story of an attack on a Santo Domingo power station.",
+   "ro": "Revenim la știrea de ultimă oră de astăzi despre un atac asupra unei centrale electrice din Santo Domingo."
+  },
+  {
+   "key": "1744506598827024384",
+   "en": "The assailants, who remain unidentified, broke into the station and severely damaged the cooling system, which led to a sharp spike in EMP emissions.",
+   "ro": "Atacatorii, care rămân neidentificați, au pătruns în centrală și au avariat grav sistemul de răcire, ceea ce a dus la o creștere bruscă a emisiilor EMP."
+  },
+  {
+   "key": "1744506840989360128",
+   "en": "In the immediate aftermath of the attack, many residents nearest to the power station suffered critical implant failures.",
+   "ro": "Imediat după atac, mulți locuitori din apropierea centralei au suferit defecțiuni critice ale implanturilor."
+  },
+  {
+   "key": "1744507208863375360",
+   "en": "So powerful were the EMP, the entire city was plunged into darkness for several hours.",
+   "ro": "EMP-urile au fost atât de puternice încât întregul oraș a fost cufundat în întuneric timp de câteva ore."
+  },
+  {
+   "key": "1744507349540331520",
+   "en": "Reports from the NCPD suggest nomad outlaws are likely to blame and are currently weighing plans for retaliation.",
+   "ro": "Din rapoartele NCPD reiese că nomazii ar fi probabil vinovați și că se gândesc deja la represalii."
+  },
+  {
+   "key": "1744507582273871872",
+   "en": "We will continue to keep you updated as the situation develops.",
+   "ro": "O să vă ținem la curent pe măsură ce situația evoluează."
+  },
+  {
+   "key": "1902236446178463744",
+   "en": "Fortunately, most nearby populated areas avoided exposure to the EMP. Considering the scale of the damage, human casualties were held at a minimum.",
+   "ro": "Din fericire, majoritatea zonelor populate din apropiere au scăpat de expunerea la EMP. Ținând cont de amploarea pagubelor, victimele au fost puține."
+  }
+ ]
+}

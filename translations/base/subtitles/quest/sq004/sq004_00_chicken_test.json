@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq004\\sq004_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "2331508216483164164",
+   "en": "[db_db]Combat chase",
+   "ro": "[db_db]Urmărire în luptă"
+  },
+  {
+   "key": "2331508690120749056",
+   "en": "[db_db]Stealth",
+   "ro": "[db_db]Furișare"
+  }
+ ]
+}

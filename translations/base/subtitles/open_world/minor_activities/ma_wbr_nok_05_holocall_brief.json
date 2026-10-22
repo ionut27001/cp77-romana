@@ -1,0 +1,25 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\minor_activities\\ma_wbr_nok_05_holocall_brief.json",
+ "entries": [
+  {
+   "key": "2328827125123489792",
+   "en": "Calling all NCPD subcons. APB out on suspected organized crime activity over on Sycamore Street.",
+   "ro": "Apel către toți subcons NCPD. APB pentru suspiciune de crimă organizată pe Sycamore Street."
+  },
+  {
+   "key": "2358369312207900672",
+   "en": "Due to nonpayment of rent and related fees, Night City has terminated its lease agreement with Impala Automatics for industrial property owned by the city.",
+   "ro": "Din cauza restanțelor la chirie și a altor taxe, Night City a reziliat contractul de închiriere cu Impala Automatics pentru proprietatea industrială deținută de oraș."
+  },
+  {
+   "key": "2358369442986299392",
+   "en": "City authorities have offered a reward for the successful eviction of Impala Automatics.",
+   "ro": "Autoritățile oferă recompensă pentru cine reușește să scoată pe Impala Automatics de acolo."
+  },
+  {
+   "key": "2363322155968860160",
+   "en": "Impala Automatics has failed to comply with the decision and now illegally occupies the premises specified in the contract.",
+   "ro": "Impala Automatics n-a respectat decizia și acum ocupă ilegal spațiul din contract."
+  }
+ ]
+}

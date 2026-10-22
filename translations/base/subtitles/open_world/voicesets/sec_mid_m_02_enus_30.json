@@ -1,0 +1,361 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\sec_mid_m_02_enus_30.json",
+ "entries": [
+  {
+   "key": "1912516326217752580",
+   "en": "Get outta my way.",
+   "ro": "Dă-te din drum."
+  },
+  {
+   "key": "1912516326251307012",
+   "en": "Fuck off, you idiot.",
+   "ro": "Du-te-n pula mea, idiotule."
+  },
+  {
+   "key": "1912516326301638660",
+   "en": "Get outta here – chop, chop!",
+   "ro": "Dispari – repede, repede!"
+  },
+  {
+   "key": "1912516326335193092",
+   "en": "Stay back.",
+   "ro": "Stai pe loc."
+  },
+  {
+   "key": "1912516326385524740",
+   "en": "Drop your weapon!",
+   "ro": "Aruncă arma!"
+  },
+  {
+   "key": "1912516326419079172",
+   "en": "Put it away!",
+   "ro": "Pune-o la loc!"
+  },
+  {
+   "key": "1912516326469410820",
+   "en": "I'm prepared to use excessive force!",
+   "ro": "Sunt pregătit să folosesc forță excesivă!"
+  },
+  {
+   "key": "1912516326502965252",
+   "en": "Last warning!",
+   "ro": "Ultimul avertisment!"
+  },
+  {
+   "key": "1912516326570074116",
+   "en": "Now get yourself gone.",
+   "ro": "Acum cară-te."
+  },
+  {
+   "key": "1912516326603628548",
+   "en": "Very good.",
+   "ro": "Foarte bine."
+  },
+  {
+   "key": "1912516326653960196",
+   "en": "Going to check it out.",
+   "ro": "Merg să verific."
+  },
+  {
+   "key": "1912516326670737412",
+   "en": "That needs to be investigated.",
+   "ro": "Trebuie investigat."
+  },
+  {
+   "key": "1912516326737846276",
+   "en": "False alarm.",
+   "ro": "Alarmă falsă."
+  },
+  {
+   "key": "1912516326754623492",
+   "en": "It's all under control.",
+   "ro": "Totul e sub control."
+  },
+  {
+   "key": "1912516326821732356",
+   "en": "You're only making it much worse for yourself. Come out.",
+   "ro": "Doar ție îți faci și mai rău. Ieși afară.",
+   "ro_m": "Doar îți faci rău singur. Ieși afară."
+  },
+  {
+   "key": "1912516326855286788",
+   "en": "Come on out. You're not in trouble.",
+   "ro": "Ieși afară. Nu ești în belea."
+  },
+  {
+   "key": "1912516326888841220",
+   "en": "Found a body!",
+   "ro": "Am găsit un cadavru!"
+  },
+  {
+   "key": "1912516326939172868",
+   "en": "Roger that.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1912516327006281732",
+   "en": "Open fire!",
+   "ro": "Deschideți focul!"
+  },
+  {
+   "key": "1912516327039836160",
+   "en": "She attacked me!",
+   "en_m": "He attacked me!",
+   "ro": "Ea m-a atacat!",
+   "ro_m": "El m-a atacat!"
+  },
+  {
+   "key": "1912516327073390596",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1912516327123722244",
+   "en": "Fire at will!",
+   "ro": "Foc la discreție!"
+  },
+  {
+   "key": "1912516327157276676",
+   "en": "She's armed!",
+   "en_m": "He's armed!",
+   "ro": "E înarmată!",
+   "ro_m": "E înarmat!"
+  },
+  {
+   "key": "1912516327207608324",
+   "en": "Call for backup!",
+   "ro": "Cere întăriri!"
+  },
+  {
+   "key": "1912516327241162756",
+   "en": "Focus!",
+   "ro": "Concentrare!"
+  },
+  {
+   "key": "1912516327291494404",
+   "en": "Watch it!",
+   "ro": "Ai grijă!"
+  },
+  {
+   "key": "1912516327325048836",
+   "en": "Back off!",
+   "ro": "Dă-te înapoi!"
+  },
+  {
+   "key": "1912516327358603268",
+   "en": "It's me.",
+   "ro": "Sunt eu."
+  },
+  {
+   "key": "1912516327425712132",
+   "en": "How much…? Twice that… No, no.",
+   "ro": "Cât…? Dublu… Nu, nu."
+  },
+  {
+   "key": "1912516327459266564",
+   "en": "I know how to do it… Mm… No, we're not waiting 'til next year… I'm waiting for a decision.",
+   "ro": "Știu cum se face… Mm… Nu, nu așteptăm până anul viitor… Aștept o decizie."
+  },
+  {
+   "key": "1912516327526375428",
+   "en": "Surround her!",
+   "en_m": "Surround him!",
+   "ro": "Înconjurați-o!",
+   "ro_m": "Înconjurați-l!"
+  },
+  {
+   "key": "1912516327593484292",
+   "en": "Affirmative!",
+   "ro": "Afirmativ!"
+  },
+  {
+   "key": "1912516327627038724",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1912516327660593156",
+   "en": "Keep me posted.",
+   "ro": "Ține-mă la curent."
+  },
+  {
+   "key": "1912516327694147588",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1912516327744479236",
+   "en": "After me.",
+   "ro": "După mine."
+  },
+  {
+   "key": "1912516327778033668",
+   "en": "Cover me.",
+   "ro": "Acoperă-mă."
+  },
+  {
+   "key": "1912516327811588100",
+   "en": "Go for recon.",
+   "ro": "Mergi la recunoaștere."
+  },
+  {
+   "key": "1912516327845142532",
+   "en": "Shoot!",
+   "ro": "Trage!"
+  },
+  {
+   "key": "1912516327895474180",
+   "en": "Argh… big… mistake.",
+   "ro": "Argh… mare… greșeală."
+  },
+  {
+   "key": "1912532725946392576",
+   "en": "Ok… I'll leave the footage with the rest of the gear… 'Course.",
+   "ro": "Ok… Las înregistrarea cu restul echipamentului… Sigur."
+  },
+  {
+   "key": "1912533169888305152",
+   "en": "Listen, I need to be sure that everything will be taken care of.",
+   "ro": "Ascultă, vreau să fiu sigur că totul se rezolvă."
+  },
+  {
+   "key": "1958949728371646468",
+   "en": "Y-you'll be back, right?",
+   "ro": "T-te întorci, nu?"
+  },
+  {
+   "key": "1958949728421978116",
+   "en": "So, uh... what I was I saying? Oh, right.",
+   "ro": "Deci, ăă... unde rămăsesem? A, da."
+  },
+  {
+   "key": "1958949728455532548",
+   "en": "Time's critical, here.",
+   "ro": "Timpul e critic aici."
+  },
+  {
+   "key": "2233829878763003908",
+   "en": "Take cover!",
+   "ro": "La adăpost!"
+  },
+  {
+   "key": "2233829878913998852",
+   "en": "Soldier wounded!",
+   "ro": "Soldat rănit!"
+  },
+  {
+   "key": "2233829878947553284",
+   "en": "Second time in a week...",
+   "ro": "A doua oară într-o săptămână..."
+  },
+  {
+   "key": "2233829879115325444",
+   "en": "Didn't put any call out. Must be something with the signal.",
+   "ro": "N-am dat niciun apel. Trebuie să fie ceva cu semnalul."
+  },
+  {
+   "key": "2233829879199211524",
+   "en": "Don't break ranks!",
+   "ro": "Nu rupeți rândurile!"
+  },
+  {
+   "key": "2233829879316652036",
+   "en": "Man down! Take their position!",
+   "ro": "Omul jos! Preluă-i poziția!"
+  },
+  {
+   "key": "2233829879400538116",
+   "en": "I'm right here! Come on!",
+   "ro": "Sunt chiar aici! Hai!"
+  },
+  {
+   "key": "2233829879467646976",
+   "en": "You're a goddamn psycho!",
+   "ro": "Ești o nebună afurisită!",
+   "ro_m": "Ești un nebun afurisit!"
+  },
+  {
+   "key": "2233829879635419140",
+   "en": "She's hit!",
+   "en_m": "He's hit!",
+   "ro": "A fost lovită!",
+   "ro_m": "A fost lovit!"
+  },
+  {
+   "key": "2233829879719305216",
+   "en": "Target wounded!",
+   "ro": "Ținta rănită!"
+  },
+  {
+   "key": "2233829879887077380",
+   "en": "She's bleeding! Finish her off!",
+   "en_m": "He's bleeding! Finish him off!",
+   "ro": "Sângerează! Termin-o!",
+   "ro_m": "Sângerează! Termină-l!"
+  },
+  {
+   "key": "2233829879987740676",
+   "en": "Understood!",
+   "ro": "Înțeles!"
+  },
+  {
+   "key": "2233829880071626756",
+   "en": "She's hiding!",
+   "en_m": "He's hiding!",
+   "ro": "Se ascunde!"
+  },
+  {
+   "key": "2233829880121958404",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2233829880189067268",
+   "en": "Taking friendly fire!",
+   "ro": "Sunt lovit de foc prietenos!"
+  },
+  {
+   "key": "2233829880306507780",
+   "en": "She blinded me!",
+   "en_m": "He blinded me!",
+   "ro": "M-a orbit!"
+  },
+  {
+   "key": "2233829880373616640",
+   "en": "Protect your implants!",
+   "ro": "Protejați-vă implanturile!"
+  },
+  {
+   "key": "2233829880423948292",
+   "en": "Needed that!",
+   "ro": "Aveam nevoie de asta!"
+  },
+  {
+   "key": "2233829880608497668",
+   "en": "I'll put her down!",
+   "en_m": "I'll put him down!",
+   "ro": "O pun jos!",
+   "ro_m": "Îl pun jos!"
+  },
+  {
+   "key": "2233829880675606532",
+   "en": "Approaching target!",
+   "ro": "Mă apropii de țintă!"
+  },
+  {
+   "key": "2233829880742715396",
+   "en": "Heads down!",
+   "ro": "Capetele jos!"
+  },
+  {
+   "key": "2233829880809824260",
+   "en": "We've got heavy casualties!",
+   "ro": "Avem pierderi grele!"
+  },
+  {
+   "key": "2233829881195700228",
+   "en": "Huh...? Think I saw something. On my way to investigate.",
+   "ro": "Hm? Cred că am văzut ceva. Mă duc să verific."
+  }
+ ]
+}

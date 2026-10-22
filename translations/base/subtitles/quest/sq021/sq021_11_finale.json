@@ -1,0 +1,892 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq021\\sq021_11_finale.json",
+ "entries": [
+  {
+   "key": "1355659239742423040",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "1355664257052753920",
+   "en": "H-he's here! Randy!",
+   "ro": "E-e aici! Randy!"
+  },
+  {
+   "key": "1355667742301274112",
+   "en": "He's hangin' in there! We made it! V, shut down the machine. Can't unlink Randy otherwise.",
+   "ro": "Rezistă! Am reușit! V, oprește mașinăria, că altfel nu-l putem deconecta pe Randy."
+  },
+  {
+   "key": "1355671021592690688",
+   "en": "Hurry! Gotta shut it off!",
+   "ro": "Grăbește-te! Trebuie să-l oprim!"
+  },
+  {
+   "key": "1355676265563209728",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "1355724114518786048",
+   "en": "[Remove]",
+   "ro": "[Scoate]"
+  },
+  {
+   "key": "1355725032819703808",
+   "en": "It's OK, don't-don't be scared. We're here to help. A bit dehydrated, but you are gonna be fine.",
+   "en_m": "It's OK, don't be scared. We're here to help. You're a bit dehydrated, but you're gonna be fine.",
+   "ro": "E în regulă, nu-nu te speria. Suntem aici să te ajutăm. Ești cam deshidratat, da' o să fii bine.",
+   "ro_m": "E în regulă, nu te speria. Suntem aici să te ajutăm. Ești cam deshidratat, da' o să fii bine."
+  },
+  {
+   "key": "1355732336445145088",
+   "en": "Been dead a few days already...",
+   "ro": "E mort de câteva zile deja..."
+  },
+  {
+   "key": "1355732426236805120",
+   "en": "[Remove]",
+   "ro": "[Scoate]"
+  },
+  {
+   "key": "1355740529128816640",
+   "en": "[Remove]",
+   "ro": "[Scoate]"
+  },
+  {
+   "key": "1355742092379471872",
+   "en": "Alive... Whoa, whoa, whoa, whoa, easy there, you're all right now.",
+   "en_m": "Alive... Whoa, whoa, easy there, easy now. Hey, you're all right now.",
+   "ro": "E în viață... Ho, ho, ho, ușor, ești bine acum.",
+   "ro_m": "E în viață... Ho, ho, ușor, ușor. Hei, ești bine acum."
+  },
+  {
+   "key": "1358727528139898880",
+   "en": "No, no, kid, please... Shit, he's not breathing!",
+   "ro": "Nu, nu, puștiule, te rog... Căcat, nu respiră!"
+  },
+  {
+   "key": "1358728970191945728",
+   "en": "Get that fucking computer off!",
+   "ro": "Scoate computerul ăla al dracului de pe el!"
+  },
+  {
+   "key": "1358742821411143680",
+   "en": "Poor kid…",
+   "ro": "Săracul puști…"
+  },
+  {
+   "key": "1358749205527707648",
+   "en": "Must've died a few days back…",
+   "ro": "Trebuie să fi murit de câteva zile…"
+  },
+  {
+   "key": "1358752378283802624",
+   "en": "Got a pulse, but it's weak. Need to get him to a hospital, quick.",
+   "en_m": "I got a pulse, but it's weak. We need to get him to a hospital, quick.",
+   "ro": "Am puls, dar e slab. Trebuie să-l ducem la spital, repede."
+  },
+  {
+   "key": "1360107280880812032",
+   "en": "[Teleport to farm]",
+   "ro": "[Teleportează-te la fermă]"
+  },
+  {
+   "key": "1567561205312307200",
+   "en": "The horror that bastard inflicted... Can't let it go.",
+   "ro": "Groaza pe care a lăsat-o nenorocitul ăla în urmă... Nu pot s-o las așa."
+  },
+  {
+   "key": "1567566319829827588",
+   "en": "Do whatcha gotta do, but count me out.",
+   "ro": "Fă ce trebuie să faci, dar fără mine."
+  },
+  {
+   "key": "1567566836651966464",
+   "en": "Don't do it, River.",
+   "ro": "Nu face asta, River."
+  },
+  {
+   "key": "1567567587331719168",
+   "en": "I'll help you.",
+   "ro": "Te ajut."
+  },
+  {
+   "key": "1567568347876474880",
+   "en": "Do whatcha gotta do. Kill him, spare him... Just one request, River...",
+   "ro": "Fă ce trebuie să faci. Ucide-l, cruță-l... O singură cerere, River..."
+  },
+  {
+   "key": "1567569076376748032",
+   "en": "Not willin' to see this through with me?",
+   "ro": "Nu vrei să duci asta până la capăt cu mine?"
+  },
+  {
+   "key": "1567569746022547456",
+   "en": "Too bad. Thought we'd take this to the end together. But it's all right, I'll handle it.",
+   "ro": "Păcat. Credeam că terminăm asta împreună. Da' nu-i nimic, mă descurc eu."
+  },
+  {
+   "key": "1567570585537658880",
+   "en": "River, come on, man... It won't change anything.",
+   "en_m": "River, c'mon, man... It won't change anything.",
+   "ro": "River, hai, frate... Nu schimbă nimic."
+  },
+  {
+   "key": "1567580382190288896",
+   "en": "Anthony Harris is a sad sack of meat hooked up to a respirator now.",
+   "en_m": "Anthony Harris is a sad sack of meat, hooked up to a respirator now.",
+   "ro": "Anthony Harris e acum o grămadă tristă de carne, conectată la un respirator."
+  },
+  {
+   "key": "1567581730910683136",
+   "en": "Ugh, I dunno. Maybe you're right. But it's drivin' me crazy not doin' anything.",
+   "ro": "Ugh, nu știu. Poate ai dreptate. Da' mă înnebunește să stau degeaba."
+  },
+  {
+   "key": "1567584243701432320",
+   "en": "No, River. Want that fucker's blood on my hands, too.",
+   "ro": "Nu, River. Vreau și eu sângele ticălosului ăla pe mâini."
+  },
+  {
+   "key": "1567585557256781824",
+   "en": "Gonna take him out in my own way, amidst all this confusion.",
+   "ro": "O să-l rezolv pe-ale mele, în harababura asta."
+  },
+  {
+   "key": "1598003832943722496",
+   "en": "You alive? C'mon, eyes open. Help's on the way.",
+   "en_m": "You alive? C'mon, c'mon, eyes open. Help's on the way.",
+   "ro": "Ești în viață? Hai, deschide ochii. Vine ajutorul.",
+   "ro_m": "Ești în viață? Hai, hai, deschide ochii. Vine ajutorul."
+  },
+  {
+   "key": "1598003994843856896",
+   "en": "Too late for this one…",
+   "ro": "Prea târziu pentru ăsta…"
+  },
+  {
+   "key": "1598004226386214912",
+   "en": "Breathin', good. Hey, just hold on a bit longer.",
+   "en_m": "Breathin', good. Just hold on a bit longer.",
+   "ro": "Respiri, bine. Hei, mai ține-te puțin.",
+   "ro_m": "Respiri, bine. Mai ține-te puțin."
+  },
+  {
+   "key": "1598004346628521984",
+   "en": "Randy? Hey, you got this, buddy. Here with your uncle. It's gonna be all right.",
+   "en_m": "Randy? Hey, you got this, buddy. I'm here with your uncle. It's gonna be all right.",
+   "ro": "Randy? Hei, ține-te, puștiule. Sunt aici cu unchiu' tău. O să fie bine."
+  },
+  {
+   "key": "1598048235439702020",
+   "en": "You alive?",
+   "ro": "Ești în viață?"
+  },
+  {
+   "key": "1598048296491991044",
+   "en": "Randy?",
+   "ro": "Randy?"
+  },
+  {
+   "key": "1598048338871238660",
+   "en": "Hope it isn't too late...",
+   "ro": "Sper să nu fie prea târziu..."
+  },
+  {
+   "key": "1598048383733514244",
+   "en": "Hey, kid...",
+   "ro": "Hei, puștiule..."
+  },
+  {
+   "key": "1679484051362123776",
+   "en": "River, this is the farm! We got it!",
+   "en_m": "River, this is the farm! We got it.",
+   "ro": "River, asta e ferma! Am reușit!",
+   "ro_m": "River, asta e ferma! Am reușit."
+  },
+  {
+   "key": "1679485354414936064",
+   "en": "The barn! Quick!",
+   "ro": "Hambarul! Repede!"
+  },
+  {
+   "key": "1679486120009633792",
+   "en": "I know. Let's get to the barn, quick.",
+   "ro": "Știu. Hai la hambar, repede."
+  },
+  {
+   "key": "1679533881841127424",
+   "en": "Leave me out of it. Had my fill of this case.",
+   "ro": "Scoate-mă din treaba asta. M-am săturat de cazul ăsta."
+  },
+  {
+   "key": "1679535846453121024",
+   "en": "Appreciate your dedication, V... but this is between me and Harris.",
+   "ro": "Îți apreciez implicarea, V... dar asta e între mine și Harris."
+  },
+  {
+   "key": "1680551616654053376",
+   "en": "Randy! Don't you do this to me, kid.",
+   "ro": "Randy! Nu-mi face asta, puștiule."
+  },
+  {
+   "key": "1680564792674193408",
+   "en": "Yep, we sure did. But I'm not about leave it like this.",
+   "ro": "Da, și încă cum. Dar nu las lucrurile așa."
+  },
+  {
+   "key": "1680576853563117568",
+   "en": "Do whatcha gotta do, but count me out.",
+   "ro": "Fă ce trebuie să faci, dar fără mine."
+  },
+  {
+   "key": "1680576853563117584",
+   "en": "Don't do it, River.",
+   "ro": "Nu face asta, River."
+  },
+  {
+   "key": "1680576853563117600",
+   "en": "We both will.",
+   "ro": "Amândoi."
+  },
+  {
+   "key": "1680579354324602880",
+   "en": "We fucked up, River...",
+   "ro": "Am futut-o, River..."
+  },
+  {
+   "key": "1680580559482359808",
+   "en": "Yep, we sure did. But it is far from over.",
+   "ro": "Da, ai dreptate. Dar nu s-a terminat aici."
+  },
+  {
+   "key": "1680582941662482500",
+   "en": "Besides, I shouldn't've asked for your help to begin with. It was a dumb call.",
+   "ro": "Oricum, n-ar fi trebuit să-ți cer ajutorul de la început. A fost o idee proastă."
+  },
+  {
+   "key": "1680609407234183168",
+   "en": "Knew from the start I shoulda hired a professional. Not you.",
+   "ro": "De la început ar fi trebuit să angajez un profesionist. Nu pe tine."
+  },
+  {
+   "key": "1709998400568528896",
+   "en": "Grab something!",
+   "ro": "Ține-te de ceva!"
+  },
+  {
+   "key": "1719861939697324032",
+   "en": "Hey, are you alive?",
+   "en_m": "Hey, you alive?",
+   "ro": "Hei, ești în viață?"
+  },
+  {
+   "key": "1719862821524574208",
+   "en": "Hey, kid…",
+   "ro": "Hei, puștiule…"
+  },
+  {
+   "key": "1719863599182090240",
+   "en": "I'm sorry, buddy…",
+   "ro": "Îmi pare rău, prietene…"
+  },
+  {
+   "key": "1719864523489251328",
+   "en": "Shit, too late…?",
+   "ro": "Căcat, a fost prea târziu…?"
+  },
+  {
+   "key": "1719865753124966400",
+   "en": "We fucked up…",
+   "ro": "Am futut-o…"
+  },
+  {
+   "key": "1719896877796659200",
+   "en": "[Turn off]",
+   "ro": "[Oprește]"
+  },
+  {
+   "key": "1719896877914099712",
+   "en": "Security systems neutralized!",
+   "ro": "Securitatea e neutralizată!"
+  },
+  {
+   "key": "1719896877914099728",
+   "en": "Nice work!",
+   "ro": "Bună treabă!"
+  },
+  {
+   "key": "1719903318704099328",
+   "en": "10-52, I repeat, I've got a 10-52 at a farm south of the city.",
+   "ro": "10-52, repet, am un 10-52 la o fermă la sud de oraș."
+  },
+  {
+   "key": "1719907058026778624",
+   "en": "Oh, and watch for automated defenses on site. They're substantial.",
+   "ro": "Și ai grijă la apărările automate de acolo. Sunt serioase."
+  },
+  {
+   "key": "1722843281213067264",
+   "en": "See that coyote?",
+   "ro": "Vezi coyote-ul ăla?"
+  },
+  {
+   "key": "1785348595354046464",
+   "en": "Yes, send the fucking squad!",
+   "ro": "Da, trimite echipa dracului!"
+  },
+  {
+   "key": "1785349011026350080",
+   "en": "Yeah, relaying coordinates now... No, several, at least... Do it quick, dammit.",
+   "ro": "Da, transmit coordonatele acum... Nu, mai mulți, cel puțin... Fă repede, fir-ar!"
+  },
+  {
+   "key": "1785354870049607680",
+   "en": "Not good...",
+   "ro": "Nu e bine..."
+  },
+  {
+   "key": "1785374523199197184",
+   "en": "We did it, River.",
+   "ro": "Am reușit, River."
+  },
+  {
+   "key": "1785379104452907008",
+   "en": "What's that?",
+   "ro": "Ce-i aia?"
+  },
+  {
+   "key": "1785380512782749696",
+   "en": "Helped you 'cause it was about your nephew. That's over, so enough.",
+   "ro": "Te-am ajutat pentru că era vorba de nepotul tău. Gata, s-a terminat."
+  },
+  {
+   "key": "1785386943841964032",
+   "en": "For how long? He has to die. It's the only way I'll be sure.",
+   "ro": "Pentru cât timp? Trebuie să moară. Doar așa o să fiu sigur."
+  },
+  {
+   "key": "1785387359346495488",
+   "en": "Stop. Gonna throw your life away gettin' revenge on a braindead vegetable?",
+   "ro": "Stai. Chiar vrei să-ți irosești viața ca să te răzbuni pe o legumă fără creier?"
+  },
+  {
+   "key": "1785417127295062016",
+   "en": "Like dodgy takeout…",
+   "ro": "Ca shaorma aia de proastă calitate…"
+  },
+  {
+   "key": "1785417829102784512",
+   "en": "Grenade or anti-personnel mine. Gotta be careful.",
+   "ro": "Granată sau mină antipersonal. Trebuie să fim atenți."
+  },
+  {
+   "key": "1841490807670050820",
+   "en": "What's your plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "1841491072196415488",
+   "en": "They nabbed him already. He's not goin' anywhere.",
+   "ro": "L-au prins deja. Nu mai scapă nicăieri."
+  },
+  {
+   "key": "1841491620341616640",
+   "en": "Whaddaya wanna do? Zero him?",
+   "ro": "Ce vrei să faci? Să-l lichidezi?"
+  },
+  {
+   "key": "1841491650859372544",
+   "en": "He's in a coma, in police custody. He's not gettin' away with anything.",
+   "ro": "E în comă, în custodia poliției. Nu scapă cu nimic."
+  },
+  {
+   "key": "1841492461853216768",
+   "en": "Exactly. Squeeze the life out of him with my bare hands.",
+   "ro": "Exact. Să-i storc viața cu mâinile goale."
+  },
+  {
+   "key": "1841492996878635008",
+   "en": "Sick fuck has to die.",
+   "ro": "Nenorocitul ăsta trebuie să moară."
+  },
+  {
+   "key": "1841494736172617728",
+   "en": "He's still alive. So in a sense, he is gettin' away with it... Not for long, though.",
+   "ro": "E încă în viață. Deci, într-un fel, scapă... Dar nu pentru mult timp."
+  },
+  {
+   "key": "1841496536854433792",
+   "en": "Gonna squeeze the life outta him with my bare hands.",
+   "ro": "O să-i storc viața cu mâinile goale."
+  },
+  {
+   "key": "1841500597376913412",
+   "en": "Best of luck.",
+   "ro": "Baftă."
+  },
+  {
+   "key": "1841500925371486208",
+   "en": "Really aim to do this?",
+   "ro": "Chiar vrei să faci asta?"
+  },
+  {
+   "key": "1841502571199598592",
+   "en": "Best of luck, then.",
+   "ro": "Baftă atunci."
+  },
+  {
+   "key": "1841502593462964224",
+   "en": "Really aim to do it? They'll catch you.",
+   "ro": "Chiar vrei să faci asta? O să te prindă."
+  },
+  {
+   "key": "1841503612007747584",
+   "en": "No they won't.",
+   "ro": "Nu, n-o să mă prindă."
+  },
+  {
+   "key": "1841503837627748352",
+   "en": "I'm... Well… That is, I was a detective, remember? I know how to cover my tracks.",
+   "ro": "Eu... Păi... Adică, am fost detectiv, îți amintești? Știu cum să-mi acopăr urmele."
+  },
+  {
+   "key": "1841505032970833920",
+   "en": "See each other around?",
+   "ro": "Ne mai vedem?"
+  },
+  {
+   "key": "1841505276727005184",
+   "en": "Probably, eventually. Need a little time to myself for now.",
+   "ro": "Probabil, cândva. Acum am nevoie de puțin timp pentru mine."
+  },
+  {
+   "key": "1841506006854668288",
+   "en": "Really, V, thanks. Couldn't've done it without you.",
+   "ro": "Chiar, V, mulțumesc. N-aș fi reușit fără tine."
+  },
+  {
+   "key": "1841506602915598336",
+   "en": "Don't mention it. And holo if you need anything.",
+   "ro": "Nu-i nimic. Dă-mi un holo dacă ai nevoie de ceva."
+  },
+  {
+   "key": "1841529338677301252",
+   "en": "Forget about Harris and go on with your life.",
+   "ro": "Uită de Harris și vezi-ți de viață."
+  },
+  {
+   "key": "1841529487373766656",
+   "en": "Forget about Harris. Take one day at a time. But rest first.",
+   "ro": "Uită de Harris. Ia-o câte o zi. Dar odihnește-te întâi."
+  },
+  {
+   "key": "1841529513395228672",
+   "en": "Actually, got quite a bit you can do, River.",
+   "ro": "Pe bune, ai destul de lucru, River."
+  },
+  {
+   "key": "1841529580084662272",
+   "en": "Joss and Randy'll need you now.",
+   "ro": "Joss și Randy au nevoie de tine acum."
+  },
+  {
+   "key": "1841531855880458240",
+   "en": "Joss, Randy, the kids... They're gonna need you now more than ever.",
+   "en_m": "Joss, Randy, the kids... They're gonna need you now, more than ever.",
+   "ro": "Joss, Randy, copiii... Au nevoie de tine mai mult ca niciodată."
+  },
+  {
+   "key": "1841532918599651328",
+   "en": "Yeah... No, you're right…",
+   "ro": "Da... Nu, ai dreptate…"
+  },
+  {
+   "key": "1841536038742396928",
+   "en": "Once your head's on straight again, gimme a holo. We'll talk.",
+   "ro": "Când îți revii, dă-mi un holo. Vorbim."
+  },
+  {
+   "key": "1841536676427599872",
+   "en": "No problem. Don't be a stranger.",
+   "en_m": "No problem. Hey, don't be a stranger.",
+   "ro": "Nicio problemă. Nu te face străin.",
+   "ro_m": "Nicio problemă. Hei, nu te face străin."
+  },
+  {
+   "key": "1841539812760358916",
+   "en": "Just remember you can count on me.",
+   "ro": "Ține minte că te poți baza pe mine."
+  },
+  {
+   "key": "1841539944528613376",
+   "en": "Just remember – say the word, I'm there. You can count on me.",
+   "ro": "Ține minte – spune cuvântul și sunt acolo. Te poți baza pe mine."
+  },
+  {
+   "key": "1841539971506376704",
+   "en": "Sure you don't want help? They'll catch you.",
+   "ro": "Sigur nu vrei ajutor? O să te prindă."
+  },
+  {
+   "key": "1841540028129480704",
+   "en": "Sure you wanna do this alone?",
+   "ro": "Sigur vrei să faci asta singur?"
+  },
+  {
+   "key": "1841541223606784000",
+   "en": "No they won't. I'm... Well... That is, I was a detective, remember?",
+   "ro": "Nu, n-o să mă prindă. Eu... Păi... Adică, am fost detectiv, îți amintești?"
+  },
+  {
+   "key": "1841541551232258048",
+   "en": "I know how to cover my tracks.",
+   "ro": "Știu cum să-mi acopăr urmele."
+  },
+  {
+   "key": "1841543462073274368",
+   "en": "Need a little time to myself now… But I'll remember.",
+   "ro": "Am nevoie de puțin timp pentru mine acum… Dar o să-mi amintesc."
+  },
+  {
+   "key": "1841544311134621696",
+   "en": "Don't mention it. And holler if you change your mind. Or, if you're just in the mood to holler.",
+   "ro": "Nu-i nimic. Strigă dacă te răzgândești. Sau dacă ai chef pur și simplu să strigi."
+  },
+  {
+   "key": "1841551128724115456",
+   "en": "Psychoscum's gonna pay for it.",
+   "ro": "Psihopatul ăsta o să plătească."
+  },
+  {
+   "key": "1841552176276705280",
+   "en": "What's your plan?",
+   "ro": "Care-i planul?"
+  },
+  {
+   "key": "1841552176276705296",
+   "en": "They nabbed him already. He's not goin' anywhere.",
+   "ro": "L-au prins deja. Nu mai scapă nicăieri."
+  },
+  {
+   "key": "1841556924497268736",
+   "en": "Don't get caught.",
+   "ro": "Nu te lăsa prins."
+  },
+  {
+   "key": "1841556924497268752",
+   "en": "You blame me?",
+   "ro": "Mă învinovățești?"
+  },
+  {
+   "key": "1841556924530823172",
+   "en": "Whatever you decide... don't get caught.",
+   "ro": "Orice decizi... nu te lăsa prins."
+  },
+  {
+   "key": "1841556924547600396",
+   "en": "Like it matters.",
+   "ro": "De parcă ar conta."
+  },
+  {
+   "key": "1841556924547600420",
+   "en": "Still, thanks. For tryin' to help.",
+   "ro": "Totuși, mersi. Că ai încercat să ajuți."
+  },
+  {
+   "key": "1841556924547600432",
+   "en": "Yeah, for tryin'...",
+   "ro": "Da, că ai încercat..."
+  },
+  {
+   "key": "1841556924581154820",
+   "en": "Hang on, you tryna to blame for me for the fuck-up?",
+   "ro": "Stai puțin, vrei să dai vina pe mine pentru rahatul ăsta?"
+  },
+  {
+   "key": "1841556924581154832",
+   "en": "You're grieving, so I'll forget you said that.",
+   "ro": "Ești în doliu, așa că o să uit că ai spus asta."
+  },
+  {
+   "key": "1841556924581154844",
+   "en": "Yeah, forget it. Forget everything.",
+   "ro": "Da, uită. Uită tot."
+  },
+  {
+   "key": "1841580473165418496",
+   "en": "It was my mistake. Thought you could help me, that we'd fare better together.",
+   "ro": "A fost greșeala mea. Credeam că mă poți ajuta, că ne-ar merge mai bine împreună."
+  },
+  {
+   "key": "1841589546418049024",
+   "en": "Joss will need you now.",
+   "ro": "Joss o să aibă nevoie de tine acum."
+  },
+  {
+   "key": "1841589546418049040",
+   "en": "You blame me?",
+   "ro": "Mă învinovățești?"
+  },
+  {
+   "key": "1841589550612353028",
+   "en": "Just... take it one day at a time. Y'still got Joss.",
+   "ro": "Doar... ia-o zi cu zi. Încă o ai pe Joss."
+  },
+  {
+   "key": "1841589554806657024",
+   "en": "Her and the kiddos'll need Uncle River more than ever.",
+   "en_m": "Her and the kiddos will need Uncle River more than ever.",
+   "ro": "Ea și copiii o să aibă nevoie de Unchiul River mai mult ca oricând."
+  },
+  {
+   "key": "1841589562759057408",
+   "en": "Yeah, got a point... Anyway, thanks for tryin' to help.",
+   "ro": "Da, ai dreptate... Oricum, mulțumesc că ai încercat să ajuți."
+  },
+  {
+   "key": "1841589567003693056",
+   "en": "Yeah, for tryin'...",
+   "ro": "Da, că ai încercat..."
+  },
+  {
+   "key": "1841598290770137088",
+   "en": "So kill him yourself, then.",
+   "ro": "Atunci omoară-l tu singură.",
+   "ro_m": "Atunci omoară-l tu singur."
+  },
+  {
+   "key": "1841598290770137104",
+   "en": "You blame me?",
+   "ro": "Mă învinovățești?"
+  },
+  {
+   "key": "1841598295216099328",
+   "en": "So please, zero the fucker yourself then. Enjoy kickin' it in prison after.",
+   "en_m": "So please, zero the fucker yourself then. And enjoy kickin' it in prison after.",
+   "ro": "Așa că, te rog, lichidează tu nenorocitul ăsta. Și bucură-te de pușcărie după."
+  },
+  {
+   "key": "1841598299292962816",
+   "en": "Like I care.",
+   "ro": "De parcă mi-ar păsa."
+  },
+  {
+   "key": "1841598307681570816",
+   "en": "But despite all this... thanks for tryin' to help.",
+   "ro": "Dar în ciuda tuturor... mulțumesc că ai încercat să ajuți."
+  },
+  {
+   "key": "1841598311674548224",
+   "en": "Yeah, for tryin'...",
+   "ro": "Da, că ai încercat..."
+  },
+  {
+   "key": "1857553750124630020",
+   "en": "Cameras and turrets're linked... It's a goddamn shooting range.",
+   "ro": "Camerele și turelele sunt legate... E un poligon de tragere al dracului."
+  },
+  {
+   "key": "1857557531256131588",
+   "en": "Sure are a lotta cameras here…",
+   "ro": "Chiar sunt o grămadă de camere pe aici…"
+  },
+  {
+   "key": "1857576449546883072",
+   "en": "Breathe a bit. Got the last stretch to the barn left.",
+   "ro": "Respiră puțin. Mai e ultima bucată până la hambar."
+  },
+  {
+   "key": "1857597482085617668",
+   "en": "V! Get down!",
+   "ro": "V! La pământ!"
+  },
+  {
+   "key": "1857636124309032960",
+   "en": "Careful, River! Watch the mines!",
+   "ro": "Atenție, River! Ai grijă la minele alea!"
+  },
+  {
+   "key": "1861803155149262852",
+   "en": "OK, all disconnected!",
+   "ro": "OK, toți deconectați!"
+  },
+  {
+   "key": "1861803155166040076",
+   "en": "Check the others! Could still be alive.",
+   "ro": "Verifică-i pe ceilalți! Ar putea fi încă în viață."
+  },
+  {
+   "key": "1861803155166040092",
+   "en": "Right!",
+   "ro": "Bine!"
+  },
+  {
+   "key": "1861803155216371716",
+   "en": "OK, all disconnected!",
+   "ro": "OK, toți deconectați!"
+  },
+  {
+   "key": "1861803155216371732",
+   "en": "Check the others! We gotta try to help, even if it means just saving one.",
+   "ro": "Verifică-i pe ceilalți! Trebuie să încercăm să ajutăm, chiar dacă salvăm doar unul."
+  },
+  {
+   "key": "1861803155216371748",
+   "en": "On it.",
+   "ro": "Mă ocup."
+  },
+  {
+   "key": "1861873311242227712",
+   "en": "V! V, he's not responding! H-help him, please!",
+   "ro": "V! V, nu răspunde! A-ajută-l, te rog!"
+  },
+  {
+   "key": "1861876096662736900",
+   "en": "V! H-help me with Randy!",
+   "ro": "V! A-ajută-mă cu Randy!"
+  },
+  {
+   "key": "1886746269776482304",
+   "en": "Dammit! Right behind you!",
+   "ro": "La naiba! Sunt chiar în spatele tău!"
+  },
+  {
+   "key": "1926067691199795200",
+   "en": "Yeah, need a little time to myself now. But then I'll call ya. I will.",
+   "ro": "Da, acum am nevoie de puțin timp pentru mine. Dar te sun după. Chiar o să te sun."
+  },
+  {
+   "key": "1933132212020940804",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1943063193309908992",
+   "en": "River! C'mere, quick!",
+   "ro": "River! Vino aici, repede!"
+  },
+  {
+   "key": "1943189432179855360",
+   "en": "Oh fuck...",
+   "ro": "Ah, pula mea..."
+  },
+  {
+   "key": "1950322098729345028",
+   "en": "[Release]",
+   "ro": "[Eliberează]"
+  },
+  {
+   "key": "1954837610917335044",
+   "en": "Heads up! Turrets are live! The system controlling them must be in the house.",
+   "ro": "Atenție! Turetele sunt active! Sistemul care le controlează trebuie să fie în casă."
+  },
+  {
+   "key": "1954859119610236932",
+   "en": "By the barn, two more turrets. That front gate's a death trap.",
+   "ro": "Lângă hambar, încă două turete. Poarta din față e o capcană mortală."
+  },
+  {
+   "key": "1955013739624075268",
+   "en": "Got cables comin' outta this wall. Should be a switch somewhere.",
+   "ro": "Ies cabluri din peretele ăsta. Ar trebui să fie un întrerupător pe undeva."
+  },
+  {
+   "key": "1955039413395066884",
+   "en": "It's gotta be here! Have a look around.",
+   "ro": "Trebuie să fie aici! Uită-te în jur."
+  },
+  {
+   "key": "1955068971058008068",
+   "en": "Try disabling the defense system then haul ass to the barn!",
+   "ro": "Încearcă să dezactivezi sistemul de apărare, apoi taie-o spre hambar!"
+  },
+  {
+   "key": "1956454142806134788",
+   "en": "Dammit. Locked up tight. Need to find another way...",
+   "ro": "La naiba. E blocat bine. Trebuie să găsim altă cale..."
+  },
+  {
+   "key": "1957856993077071872",
+   "en": "V, wrong way! Randy needs us NOW, you forget that?!",
+   "ro": "V, ai luat-o greșit! Randy are nevoie de noi ACUM, ai uitat?!"
+  },
+  {
+   "key": "1957858852747579392",
+   "en": "There we go...",
+   "ro": "Na, gata..."
+  },
+  {
+   "key": "1977970262663106560",
+   "en": "Poor bastard... You just left him.",
+   "ro": "Săracul de el... L-ai lăsat pur și simplu."
+  },
+  {
+   "key": "1977974270521905152",
+   "en": "Yeah. Yeah, I did.",
+   "ro": "Da. Da, am făcut-o."
+  },
+  {
+   "key": "2014452056023240704",
+   "en": "Hey, we're ready for evac. Are you riding along or not?",
+   "ro": "Hei, suntem gata de evacuare. Vii cu noi sau nu?"
+  },
+  {
+   "key": "2014452100466085888",
+   "en": "Poor boys… All your years, ever seen anything like this?",
+   "ro": "Săracii băieți… În atâția ani de meserie, ai mai văzut așa ceva?"
+  },
+  {
+   "key": "2014452128500813824",
+   "en": "Area is secure, all witnesses questioned, and victims are en route.",
+   "ro": "Zona e securizată, martorii au fost audiați, iar victimele sunt pe drum."
+  },
+  {
+   "key": "2014457242078810112",
+   "en": "Eight years on the force, nothin' comes close... Beyond twisted.",
+   "ro": "Opt ani la poliție și nimic nu se compară cu asta... Complet aiurea."
+  },
+  {
+   "key": "2014472689230680064",
+   "en": "Have Ramirez debrief with her boys here. They'll be gathering evidence till morning.",
+   "ro": "Pune-o pe Ramirez să debrifeze cu băieții ei aici. Băieții ei strâng probe până dimineață.",
+   "ro_m": "Pune-l pe Ramirez să debrifeze cu băieții lui aici. Băieții lui strâng probe până dimineață."
+  },
+  {
+   "key": "2078257841316782080",
+   "en": "[Release]",
+   "ro": "[Eliberează]"
+  },
+  {
+   "key": "2078264344971010048",
+   "en": "[Release]",
+   "ro": "[Eliberează]"
+  },
+  {
+   "key": "2172324552881704960",
+   "en": "Shut down that damned contraption, V!",
+   "ro": "Oprește mașinăria aia nenorocită, V!"
+  },
+  {
+   "key": "2172326975931125760",
+   "en": "Help me!",
+   "ro": "Ajută-mă!"
+  },
+  {
+   "key": "2172327615965138944",
+   "en": "Need to loosen this, help me!",
+   "ro": "Trebuie s-o slăbesc, ajută-mă!"
+  },
+  {
+   "key": "2329201790322171904",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2329202642067873792",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  }
+ ]
+}

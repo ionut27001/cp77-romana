@@ -1,0 +1,312 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_kid_02a_confront_jackie.json",
+ "entries": [
+  {
+   "key": "1660704640910368772",
+   "en": "[Get in car]",
+   "ro": "[Intră în mașină]"
+  },
+  {
+   "key": "1661692110850367488",
+   "en": "Get the fuck out.",
+   "ro": "Cară-te dracu' de-aici!"
+  },
+  {
+   "key": "1661736575489155072",
+   "en": "Rayfield's mine.",
+   "ro": "Rayfield-ul e al meu."
+  },
+  {
+   "key": "1661989024120578048",
+   "en": "NCPD! Drop your weapons!",
+   "ro": "NCPD! Lăsați armele jos!"
+  },
+  {
+   "key": "1664714892374843392",
+   "en": "Hands where I can see 'em! Nice an' slow!",
+   "ro": "Mâinile la vedere! Încet și frumos!"
+  },
+  {
+   "key": "1664763149268426752",
+   "en": "Jackie Welles, my old pal from the 'hood. See you haven't grown an ounce wiser.",
+   "ro": "Jackie Welles, amicul meu din cartier. Văd că tot n-ai ajuns mai deștept."
+  },
+  {
+   "key": "1665134998057787392",
+   "en": "It's a waste of effort. I have no time to testify or play at an investigation.",
+   "ro": "Pierdere de timp. N-am timp să depun mărturie sau să mă joc de-a ancheta."
+  },
+  {
+   "key": "1665136348053250048",
+   "en": "I suggest you toss them in the sea. Cuffed legs broken so this trash doesn't float.",
+   "ro": "Sugerez să-i arunci în mare. Cu picioarele rupte și cătușele pe ei, să nu mai plutească gunoiul ăsta."
+  },
+  {
+   "key": "1675013408091414528",
+   "en": "Hm... Looks like this'll be a cool breeze.",
+   "ro": "Hm... Se pare că o să fie floare la ureche."
+  },
+  {
+   "key": "1720055862083330048",
+   "en": "Suggestin' we let 'em go, sir?",
+   "ro": "Să-i lăsăm să plece, domnule?"
+  },
+  {
+   "key": "1809728861681623040",
+   "en": "Kirk? I see the ride.",
+   "ro": "Kirk? Văd mașina."
+  },
+  {
+   "key": "1809729277504921600",
+   "en": "Your moment to shine, kiddo. Good luck.",
+   "ro": "E momentul tău să strălucești, puștoaico. Baftă.",
+   "ro_m": "E momentul tău să strălucești, puștiule. Baftă."
+  },
+  {
+   "key": "1809801026460327936",
+   "en": "Let's take this piece of wondertech for a whirl.",
+   "ro": "Hai să dăm o tură cu fiara asta de tehnologie."
+  },
+  {
+   "key": "1809830926730797056",
+   "en": "You're a woman of little faith.",
+   "en_m": "You're a man of little faith.",
+   "ro": "Ai tu prea puțină credință, fato.",
+   "ro_m": "Ai tu prea puțină credință, frate."
+  },
+  {
+   "key": "1809831201306714112",
+   "en": "Now fire 'er up and call me when you're underway. Tell you where to go.",
+   "ro": "Acum pornește-o și sună-mă când ești pe drum. Îți zic eu unde."
+  },
+  {
+   "key": "1832964489896456192",
+   "en": "OK, easy.",
+   "ro": "OK, ușor."
+  },
+  {
+   "key": "1833058147513593856",
+   "en": "What, man, never heard of thieves' honor? Finders keepers. I was first.",
+   "en_m": "What, man, never heard of thieves' honor? Finders keepers? I was first.",
+   "ro": "Ce, frate, n-ai auzit de onoarea hoților? Cine găsește, ține. Eu am fost primul."
+  },
+  {
+   "key": "1833059554887135232",
+   "en": "Listen, only one of two ways to do this – friendly or fucked up.",
+   "ro": "Ascultă, e doar o variantă: ori ne înțelegem frumos, ori iese nasol rău."
+  },
+  {
+   "key": "1833091660858191872",
+   "en": "<kiroshi l=\"mex\" o=\"¡¿Qué chingados...?!\" t=\"The fuck...?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡¿Qué chingados...?!\" t=\"Ce pula mea...?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1833092910710452224",
+   "en": "Either way, the ending's the same – I'm takin' the car.",
+   "ro": "Oricum, finalul e același – iau mașina."
+  },
+  {
+   "key": "1833094767881154560",
+   "en": "Same shit.",
+   "ro": "Iar porcăria asta."
+  },
+  {
+   "key": "1833096631460753408",
+   "en": "Speakin' of… your mug's familiar, too.",
+   "ro": "Apropo... pe tine te cunosc de undeva."
+  },
+  {
+   "key": "1833099794418954240",
+   "en": "Yeah? Yours ain't to me.",
+   "ro": "Da? A ta nu-mi e."
+  },
+  {
+   "key": "1833099870386188292",
+   "en": "Not familiar with yours.",
+   "ro": "Pe a ta nu te cunosc."
+  },
+  {
+   "key": "1833099878204370944",
+   "en": "How about that – a pig that chatters.",
+   "en_m": "How about that, ugh – a pig that chatters.",
+   "ro": "Uite ce, un porc care vorbește.",
+   "ro_m": "Uf, uite ce – un porc care vorbește."
+  },
+  {
+   "key": "1833100127648018432",
+   "en": "Whaddaya know – a talkative pig.",
+   "ro": "Ce să vezi – un porc vorbăreț."
+  },
+  {
+   "key": "1833100990198247424",
+   "en": "Left for Atlanta, lookin' for a slice of happiness. Guess you didn't find it.",
+   "ro": "Ai plecat la Atlanta să cauți o felie de fericire. Pare că n-ai găsit-o."
+  },
+  {
+   "key": "1833103298978050048",
+   "en": "I've always maintained it's the same for all you termites in Heywood. Born here, live here, die here.",
+   "ro": "Mereu am zis că e la fel pentru toți termiții din Heywood. Născuți aici, trăiți aici, muriți aici."
+  },
+  {
+   "key": "1833103977750654976",
+   "en": "Looks like I was right.",
+   "ro": "Vezi? Aveam dreptate."
+  },
+  {
+   "key": "1833109528727449600",
+   "en": "Hey, c'mon, Stints, give us a break, huh? You lock us up, we'll just jerk off till trial, and then what?",
+   "ro": "Hei, hai, Stints, lasă-ne mai moale, da? Ne bagi la zdup, ne batem pula până la proces, și apoi ce?"
+  },
+  {
+   "key": "1833110145759899648",
+   "en": "<mothertongue l=\"mex\" m=\"el bote\" b=\"Worst case, agh, we get some months. Hell, standin' room only nowadays in \" a=\", so... we'll prob'ly be out early.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"el bote\" b=\"Cel mai rău, agh, luăm câteva luni. Pe bune, acum e plin ochi în \" a=\", așa că... probabil ieșim devreme.\"/>"
+  },
+  {
+   "key": "1833110574954639364",
+   "en": "You know fuck all about me.",
+   "ro": "Habar n-ai pula despre mine."
+  },
+  {
+   "key": "1833110593845784576",
+   "en": "You know fuck all about me.",
+   "ro": "Habar n-ai pula despre mine."
+  },
+  {
+   "key": "1833110599315156992",
+   "en": "Enough of the chatter. What now?",
+   "ro": "Gata cu vorbăria. Și acum ce?"
+  },
+  {
+   "key": "1833111201684320256",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1833111900069490688",
+   "en": "Truth hurts, huh? Just watch your tone – I'm not a patient man.",
+   "ro": "Doare adevărul, nu? Atenție la ton, că n-am răbdare multă."
+  },
+  {
+   "key": "1833112462475325440",
+   "en": "Gettin' booked, gonna do a stint. Heh – get it?",
+   "ro": "Mă bagă la zdup, fac o perioadă. Heh – ai prins?"
+  },
+  {
+   "key": "1833123735288082432",
+   "en": "Are these the thieves? Ordinary street trash.",
+   "ro": "Ăștia sunt hoții? Gunoi de cartier, nimic altceva."
+  },
+  {
+   "key": "1833124041153507328",
+   "en": "Got 'em in custody, Mr. Fujioka. We'll be takin' 'em now.",
+   "ro": "Îi avem în custodie, domnule Fujioka. Îi luăm noi acum."
+  },
+  {
+   "key": "1834361465607221248",
+   "en": "<mothertongue l=\"mex\" m=\"compa\" b=\"Nothin' personal, \" a=\". Just biz.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"compa\" b=\"Nimic personal, \" a=\". Doar afaceri.\"/>"
+  },
+  {
+   "key": "1834365141562355712",
+   "en": "Hey, argh... Detective Stints! Been a while, huh?",
+   "ro": "Hei, argh... Detectivul Stints! Ce mai faci, de când nu te-am mai văzut?"
+  },
+  {
+   "key": "1834365188370788352",
+   "en": "Inspector Stints.",
+   "ro": "Inspectorul Stints."
+  },
+  {
+   "key": "1837109250425286656",
+   "en": "See? We're rich.",
+   "ro": "Vezi? Suntem bogați."
+  },
+  {
+   "key": "1902858219802628096",
+   "en": "[Gun it]",
+   "ro": "[Accelerează]"
+  },
+  {
+   "key": "1998512004494823424",
+   "en": "[Hack lock] Let's give it a shot.",
+   "ro": "[Hack-uiește lacătul] Hai să încercăm."
+  },
+  {
+   "key": "2238997905535057920",
+   "en": "Get-the-fuck-out.",
+   "ro": "Ieși din mașină, dracu' să te ia!"
+  },
+  {
+   "key": "2238997915299397632",
+   "en": "Wow, you can drive. Now out.",
+   "ro": "Wow, știi să conduci. Acum ieși."
+  },
+  {
+   "key": "2239005150809341952",
+   "en": "Heh, fuuuck…",
+   "ro": "Heh, futu-i…"
+  },
+  {
+   "key": "2239178499564945408",
+   "en": "C'mon, spit it out. I'm waitin'.",
+   "ro": "Hai, scuipă. Aștept."
+  },
+  {
+   "key": "2239179720845606920",
+   "en": "Rat got your tongue?",
+   "ro": "Ți-a mâncat pisica limba?"
+  },
+  {
+   "key": "2239183297345404928",
+   "en": "You heard 'im.",
+   "ro": "L-ai auzit."
+  },
+  {
+   "key": "2239189505737408512",
+   "en": "Fuck, he's here.",
+   "ro": "Futu-i, e aici."
+  },
+  {
+   "key": "2249096308658978816",
+   "en": "Stay where you are!",
+   "ro": "Stai pe loc!"
+  },
+  {
+   "key": "2249097353560768520",
+   "en": "Don't move!",
+   "ro": "Nu mișca!"
+  },
+  {
+   "key": "2249099975118209032",
+   "en": "On the ground, motherfuckers! Now!",
+   "ro": "La pământ, jigodiilor! Acum!"
+  },
+  {
+   "key": "2249100488064811016",
+   "en": "You're under arrest!",
+   "ro": "Ești arestată!",
+   "ro_m": "Ești arestat!"
+  },
+  {
+   "key": "2303734941410906112",
+   "en": "Easy now...",
+   "ro": "Calm acum..."
+  },
+  {
+   "key": "2415822679640514560",
+   "en": "What the…?",
+   "ro": "Ce naiba…?"
+  },
+  {
+   "key": "2415825834897973248",
+   "en": "Fuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "2415827554730385408",
+   "en": "Wha- What're you doin'?",
+   "ro": "Ce- Ce faci?"
+  }
+ ]
+}

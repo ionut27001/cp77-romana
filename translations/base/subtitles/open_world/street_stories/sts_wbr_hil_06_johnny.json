@@ -1,0 +1,28 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_hil_06_johnny.json",
+ "entries": [
+  {
+   "key": "1918603290202107904",
+   "en": "I remember that gig. Blew my vocal cords out so hard I couldn't speak for a week.",
+   "ro": "Mi-aduc aminte de gig-ul ăla. Mi-am ars corzile vocale atât de tare că n-am putut vorbi o săptămână."
+  },
+  {
+   "key": "1925539716237938688",
+   "en": "Must've been fun to watch.",
+   "en_m": "Wow, man. That must've been fun to watch.",
+   "ro": "Trebuie că a fost amuzant de privit.",
+   "ro_m": "Wow, frate. Trebuie că a fost amuzant de privit."
+  },
+  {
+   "key": "1925541234273996800",
+   "en": "What, the gig?",
+   "ro": "Ce, gig-ul?"
+  },
+  {
+   "key": "1925541354096873472",
+   "en": "No, you not speaking for an entire week.",
+   "en_m": "No, you not speakin' for an entire week.",
+   "ro": "Nu, că n-ai vorbit o săptămână întreagă."
+  }
+ ]
+}

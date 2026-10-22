@@ -1,0 +1,456 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\vset\\vset_myers.json",
+ "entries": [
+  {
+   "key": "3379601425986539520",
+   "en": "Keep your eyes open!",
+   "ro": "Ține ochii deschiși!"
+  },
+  {
+   "key": "3379601426053648392",
+   "en": "Enemy in range!",
+   "ro": "Inamic în rază!"
+  },
+  {
+   "key": "3379601426171088904",
+   "en": "Get down!",
+   "ro": "Jos!"
+  },
+  {
+   "key": "3379601426322083848",
+   "en": "Hold your position!",
+   "ro": "Ține poziția!"
+  },
+  {
+   "key": "3379601426389192712",
+   "en": "They won’t get me!",
+   "ro": "Nu mă prind ei!"
+  },
+  {
+   "key": "3379601426556964864",
+   "en": "This is an embarrassment!",
+   "ro": "E o rușine!"
+  },
+  {
+   "key": "3379601426607296520",
+   "en": "No, no, noooo!",
+   "ro": "Nu, nu, nuuu!"
+  },
+  {
+   "key": "3379601426724737032",
+   "en": "Attack! Now!",
+   "ro": "Atac! Acum!"
+  },
+  {
+   "key": "3379601426791845896",
+   "en": "I will not be surrounded!",
+   "ro": "Nu mă las înconjurată!"
+  },
+  {
+   "key": "3379601426909286408",
+   "en": "Hands to yourself!",
+   "ro": "Ține-ți mâinile la tine!"
+  },
+  {
+   "key": "3379601427496488968",
+   "en": "What on earth?",
+   "ro": "Ce naiba?"
+  },
+  {
+   "key": "3379601427563597832",
+   "en": "We’re not finished here.",
+   "ro": "Nu am terminat aici."
+  },
+  {
+   "key": "3379601427714592776",
+   "en": "Don’t do that again.",
+   "ro": "Nu mai face asta."
+  },
+  {
+   "key": "3379601427781701640",
+   "en": "Well? What is it?",
+   "ro": "Ei? Ce e?"
+  },
+  {
+   "key": "3379601427848810504",
+   "en": "Don't make me repeat myself.",
+   "ro": "Nu mă face să mă repet."
+  },
+  {
+   "key": "3379601427915919364",
+   "en": "You're wasting my time.",
+   "ro": "Îmi pierzi timpul."
+  },
+  {
+   "key": "3379601428519899144",
+   "en": "Ah, it’s you.",
+   "ro": "Ah, tu ești."
+  },
+  {
+   "key": "3379601428603785220",
+   "en": "Here you are.",
+   "ro": "Iată."
+  },
+  {
+   "key": "3379601429006438408",
+   "en": "Was that on purpose?",
+   "ro": "A fost intenționat?"
+  },
+  {
+   "key": "3379601429090324488",
+   "en": "Little care, please!?",
+   "ro": "Puțină grijă, te rog!?"
+  },
+  {
+   "key": "3405757401059872776",
+   "en": "Do you hear me?",
+   "ro": "Mă auzi?"
+  },
+  {
+   "key": "3405757401563189256",
+   "en": "Are you there?",
+   "ro": "Ești acolo?"
+  },
+  {
+   "key": "3405757402402050056",
+   "en": "Follow me, V.",
+   "ro": "Vino după mine, V."
+  },
+  {
+   "key": "3405757403173801992",
+   "en": "It’s about to begin. Are you ready?",
+   "ro": "E pe cale să înceapă. Ești pregătită?",
+   "ro_m": "E pe cale să înceapă. Ești pregătit?"
+  },
+  {
+   "key": "3405757403844890632",
+   "en": "No negotiating with the enemy. Eliminate them!",
+   "ro": "Nicio negociere cu inamicul. Lichidați-i!"
+  },
+  {
+   "key": "3405757404750860296",
+   "en": "Let's zero them!",
+   "ro": "Să-i lichidăm!"
+  },
+  {
+   "key": "3405757406378250248",
+   "en": "Well, that’s over with.",
+   "ro": "Ei bine, s-a terminat."
+  },
+  {
+   "key": "3405757407351328776",
+   "en": "That didn’t take too long.",
+   "ro": "N-a durat prea mult."
+  },
+  {
+   "key": "3405757408089526280",
+   "en": "Excellent work, V.",
+   "ro": "Excelentă treabă, V."
+  },
+  {
+   "key": "3405757408945164296",
+   "en": "V! Are you OK?",
+   "ro": "V! Ești bine?"
+  },
+  {
+   "key": "3405757409616252936",
+   "en": "You’re supposed to dodge the bullets.",
+   "ro": "Ar trebui să eschivezi gloanțele."
+  },
+  {
+   "key": "3405757411210088456",
+   "en": "V! I can’t lose you! Not now!",
+   "ro": "V! Nu te pot pierde! Nu acum!"
+  },
+  {
+   "key": "3405757414750081032",
+   "en": "V, gather up!",
+   "ro": "V, strânge rândurile!"
+  },
+  {
+   "key": "3405757415521832968",
+   "en": "I need backup!",
+   "ro": "Am nevoie de întăriri!"
+  },
+  {
+   "key": "3405757416176144392",
+   "en": "Shit! Regroup, now!",
+   "ro": "Rahat! Reorganizați-vă, acum!"
+  },
+  {
+   "key": "3405757416947896320",
+   "en": "I’m reloading! V, rapid fire.",
+   "ro": "Reîncarc! V, foc rapid."
+  },
+  {
+   "key": "3405757417535098888",
+   "en": "Stay sharp, I need to reload.",
+   "ro": "Fii cu ochii în patru, trebuie să reîncarc."
+  },
+  {
+   "key": "3405757418155855880",
+   "en": "Reloading. Cover me!",
+   "ro": "Reîncarc. Acoperă-mă!"
+  },
+  {
+   "key": "3405757418877276168",
+   "en": "They’ve got grenades!",
+   "ro": "Au granate!"
+  },
+  {
+   "key": "3405757419481255944",
+   "en": "Grenade! Take cover!",
+   "ro": "Granată! La adăpost!"
+  },
+  {
+   "key": "3405757420202676232",
+   "en": "Now that was by the book.",
+   "ro": "Asta a fost după carte."
+  },
+  {
+   "key": "3405757421007982600",
+   "en": "Watch and learn, punks.",
+   "ro": "Privește și învață, puștanilor."
+  },
+  {
+   "key": "3405757421947506688",
+   "en": "That’s one down.",
+   "ro": "Unul jos."
+  },
+  {
+   "key": "3405757422568263688",
+   "en": "Nice, V! You should think about joining up!",
+   "ro": "Bine, V! Ar trebui să te gândești să te înrolezi!"
+  },
+  {
+   "key": "3405757423272906752",
+   "en": "Really pulled that off!",
+   "ro": "Chiar ai reușit!"
+  },
+  {
+   "key": "3405757423927218184",
+   "en": "Technique’s lacking, but you get the job done!",
+   "ro": "Tehnica lasă de dorit, dar îți faci treaba!"
+  },
+  {
+   "key": "3405757424665415688",
+   "en": "Excellent! They’ll remember that one.",
+   "ro": "Excelent! O să-și amintească de asta."
+  },
+  {
+   "key": "3405757425521053704",
+   "en": "They’re gaining ground!",
+   "ro": "Câștigă teren!"
+  },
+  {
+   "key": "3405757426343137288",
+   "en": "Head in the game! Keep ‘em busy!",
+   "ro": "Concentrează-te! Ține-i ocupați!"
+  },
+  {
+   "key": "3405757427265884168",
+   "en": "V, don’t get sloppy!",
+   "ro": "V, nu te lăsa!"
+  },
+  {
+   "key": "3405757427936972808",
+   "en": "It’s not looking good!",
+   "ro": "Nu arată bine!"
+  },
+  {
+   "key": "3405757428608061448",
+   "en": "Sniper! Take ‘em out!",
+   "ro": "Sniper! Lichidați-l!"
+  },
+  {
+   "key": "3405757429480476680",
+   "en": "Careful! Sniper’s tagged you!",
+   "ro": "Atenție! Sniperul te-a marcat!"
+  },
+  {
+   "key": "3405757430151565320",
+   "en": "Turret, you see it?",
+   "ro": "Tureta, o vezi?"
+  },
+  {
+   "key": "3405757430856208392",
+   "en": "Turret, shoot the turret!",
+   "ro": "Tureta, împușcă tureta!"
+  },
+  {
+   "key": "3405757431577628680",
+   "en": "Sent their netrunner in! V, show ‘em out!",
+   "ro": "Au trimis netrunnerul! V, dă-i afară!"
+  },
+  {
+   "key": "3405757432584261640",
+   "en": "Eliminate the netrunner!",
+   "ro": "Elimină netrunnerul!"
+  },
+  {
+   "key": "3405757433473454088",
+   "en": "Drones! Drones!",
+   "ro": "Drone! Drone!"
+  },
+  {
+   "key": "3405757434144542728",
+   "en": "Drones incoming! You know what to do!",
+   "ro": "Vin drone! Știi ce ai de făcut!"
+  },
+  {
+   "key": "3405757434882740232",
+   "en": "Been years since I fought one like that! Careful, V!",
+   "ro": "Au trecut ani de când n-am mai luptat cu așa ceva! Atenție, V!"
+  },
+  {
+   "key": "3405757435570606088",
+   "en": "What now? An Octant?!",
+   "ro": "Ce mai e și asta? Un Octant?!"
+  },
+  {
+   "key": "3405757436459798536",
+   "en": "V, got a mech on you! Don’t let it approach!",
+   "ro": "V, ai un mech pe cap! Nu-l lăsa să se apropie!"
+  },
+  {
+   "key": "3405757437432877064",
+   "en": "Eyes on that mech!",
+   "ro": "Ochii pe mech-ul ăla!"
+  },
+  {
+   "key": "3405757438103965704",
+   "en": "They called in backup! Fuckin’ perfect.",
+   "ro": "Au chemat întăriri! Perfect, pula mea."
+  },
+  {
+   "key": "3405757438791831560",
+   "en": "How many more could there be...",
+   "ro": "Câți mai pot fi..."
+  },
+  {
+   "key": "3405757439798464512",
+   "en": "Where the hell’d they get iron like that?",
+   "ro": "De unde dracu' au scos fierul ăsta?"
+  },
+  {
+   "key": "3405757440620548104",
+   "en": "Stay alert, V! They’re on you!",
+   "ro": "Fii pe fază, V! Sunt pe urmele tale!"
+  },
+  {
+   "key": "3405757441291636744",
+   "en": "Now, now! They're reloading!",
+   "ro": "Acum, acum! Se reîncarcă!"
+  },
+  {
+   "key": "3405757442013057032",
+   "en": "They stopped to reload! Hit ‘em, now!",
+   "ro": "S-au oprit să reîncarce! Lovește-i acum!"
+  },
+  {
+   "key": "3405757442633814024",
+   "en": "My time's worth millions, V.",
+   "ro": "Timpul meu valorează milioane, V."
+  },
+  {
+   "key": "3405757443254571016",
+   "en": "This is no time to stop and think.",
+   "ro": "Nu e momentul să te oprești să te gândești."
+  },
+  {
+   "key": "3405757443959214088",
+   "en": "We’ve got plenty on our plates.",
+   "ro": "Avem destule pe cap."
+  },
+  {
+   "key": "3405757445334945800",
+   "en": "What is it now? Let’s move, please.",
+   "ro": "Ce mai e și acum? Hai să mișcăm, te rog."
+  },
+  {
+   "key": "3405757446375133192",
+   "en": "No need to delay.",
+   "ro": "Nu e nevoie să întârziem."
+  },
+  {
+   "key": "3405757447281102848",
+   "en": "They can’t see us.",
+   "ro": "Nu ne văd."
+  },
+  {
+   "key": "3405757447952191496",
+   "en": "Now, don’t do anything stupid.",
+   "ro": "Acum, nu face nimic prostesc."
+  },
+  {
+   "key": "3405757448807829504",
+   "en": "They’re looking for us.",
+   "ro": "Ne caută."
+  },
+  {
+   "key": "3405757449411809288",
+   "en": "Careful, don’t bump into anything.",
+   "ro": "Atenție, nu te lovi de nimic."
+  },
+  {
+   "key": "3405757450200338440",
+   "en": "Slow and steady.",
+   "ro": "Încet și sigur."
+  },
+  {
+   "key": "3405757451223748616",
+   "en": "Shh, they'll hear!",
+   "ro": "Șșș, ne aud!"
+  },
+  {
+   "key": "3405757452012277768",
+   "en": "Use your eyes!",
+   "ro": "Folosește-ți ochii!"
+  },
+  {
+   "key": "3405757452867915784",
+   "en": "Quiet! They’ll map us!",
+   "ro": "Liniște! Ne vor mapa!"
+  },
+  {
+   "key": "3405757453723553800",
+   "en": "Careful now. We’re on camera.",
+   "ro": "Atenție acum. Suntem pe cameră."
+  },
+  {
+   "key": "3405757454478528520",
+   "en": "I spot cameras. Stay alert, V.",
+   "ro": "Văd camere. Fii pe fază, V."
+  },
+  {
+   "key": "3405757455267057664",
+   "en": "Don’t leave a trail, hide the body.",
+   "ro": "Nu lăsa urme, ascunde cadavrul."
+  },
+  {
+   "key": "3405757455921369088",
+   "en": "Don’t just leave it out in the open. Stash it.",
+   "ro": "Nu-l lăsa așa, la vedere. Bagă-l în depozit."
+  },
+  {
+   "key": "3405757456558903304",
+   "en": "I’ll kill ‘em!",
+   "ro": "Îi omor!"
+  },
+  {
+   "key": "3405757457146105864",
+   "en": "Right here!",
+   "ro": "Chiar aici!"
+  },
+  {
+   "key": "3405757457750085640",
+   "en": "Hold your breath if you have to.",
+   "ro": "Ține-ți respirația dacă trebuie."
+  },
+  {
+   "key": "3405757458337288200",
+   "en": "Quiet as you can...",
+   "ro": "Cât mai liniștit..."
+  }
+ ]
+}

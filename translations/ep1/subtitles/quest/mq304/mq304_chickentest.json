@@ -1,0 +1,430 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\mq304\\mq304_chickentest.json",
+ "entries": [
+  {
+   "key": "2573891051653865472",
+   "en": "[db_db][db_db]Yes, activate Debug Fact",
+   "ro": "[db_db][db_db]Da, activează Debug Fact"
+  },
+  {
+   "key": "2573891051653865484",
+   "en": "[db_db][db_db]No, don't activate Debug Fact",
+   "ro": "[db_db][db_db]Nu, nu activa Debug Fact"
+  },
+  {
+   "key": "2573891052140404736",
+   "en": "[db_db][db_db]Corpo Path",
+   "ro": "[db_db][db_db]Cale corpo"
+  },
+  {
+   "key": "2573891052140404748",
+   "en": "[db_db][db_db]Nomad Path",
+   "ro": "[db_db][db_db]Cale nomad"
+  },
+  {
+   "key": "2573891052140404760",
+   "en": "[db_db][db_db]Streetkid Path",
+   "ro": "[db_db][db_db]Cale Street Kid"
+  },
+  {
+   "key": "2573891052341731328",
+   "en": "[db_db][db_db]MaxSkillAllWeapons",
+   "ro": "[db_db][db_db]MaxSkillAllWeapons"
+  },
+  {
+   "key": "2573891052341731340",
+   "en": "[db_db][db_db]Netrunner",
+   "ro": "[db_db][db_db]Netrunner"
+  },
+  {
+   "key": "2573891052341731352",
+   "en": "[db_db][db_db]Solo",
+   "ro": "[db_db][db_db]Solo"
+  },
+  {
+   "key": "2573891052341731364",
+   "en": "[db_db][db_db]Techie",
+   "ro": "[db_db][db_db]Tehnician"
+  },
+  {
+   "key": "2573891052341731376",
+   "en": "[db_db][db_db]None",
+   "ro": "[db_db][db_db]Niciunul"
+  },
+  {
+   "key": "2573891052425617408",
+   "en": "[db_db][db_db]Start from beginning",
+   "ro": "[db_db][db_db]Începe de la început"
+  },
+  {
+   "key": "2573893234269003776",
+   "en": "[db_db][db_db]Mr. Hands Meeting",
+   "ro": "[db_db][db_db]Întâlnire cu Mr. Hands"
+  },
+  {
+   "key": "2573893841621000192",
+   "en": "[db_db][db_db]Jago Meeting",
+   "ro": "[db_db][db_db]Întâlnire cu Jago"
+  },
+  {
+   "key": "2573893942955384832",
+   "en": "[db_db][db_db]Bennett Meeting",
+   "ro": "[db_db][db_db]Întâlnire cu Bennett"
+  },
+  {
+   "key": "2573893991005331456",
+   "en": "[db_db][db_db]Kurt's Wake",
+   "ro": "[db_db][db_db]Veghea lui Kurt"
+  },
+  {
+   "key": "2573894028066201600",
+   "en": "[db_db][db_db]Finale",
+   "ro": "[db_db][db_db]Final"
+  },
+  {
+   "key": "3004219664460062720",
+   "en": "[db_db][db_db]Yes, skip this sequence.",
+   "ro": "[db_db][db_db]Da, sari peste secvență."
+  },
+  {
+   "key": "3004219664460062732",
+   "en": "[db_db][db_db]No, let me continue.",
+   "ro": "[db_db][db_db]Nu, lasă-mă să continui."
+  },
+  {
+   "key": "3004219664460062744",
+   "en": "[db_db][db_db]No, and don't ask again.",
+   "ro": "[db_db][db_db]Nu, și nu mai întreba."
+  },
+  {
+   "key": "3307043391185129476",
+   "en": "[db_db][db_db]We met Bennett",
+   "ro": "[db_db][db_db]L-am întâlnit pe Bennett"
+  },
+  {
+   "key": "3307044717541494784",
+   "en": "[db_db][db_db]Didn't meet Bennett",
+   "ro": "[db_db][db_db]Nu l-am întâlnit pe Bennett"
+  },
+  {
+   "key": "3307076049294364672",
+   "en": "[db_db][db_db]Jago boss",
+   "ro": "[db_db][db_db]Jago șef"
+  },
+  {
+   "key": "3307077169525854208",
+   "en": "[db_db][db_db]Bennett boss",
+   "ro": "[db_db][db_db]Bennett șef"
+  },
+  {
+   "key": "3307082669315362820",
+   "en": "[db_db][db_db]Jago gave contacts (and died)",
+   "ro": "[db_db][db_db]Jago a dat contacte (și a murit)"
+  },
+  {
+   "key": "3307083142181195776",
+   "en": "[db_db][db_db]Jago became Bennett adiutant",
+   "ro": "[db_db][db_db]Jago a devenit aghiotantul lui Bennett"
+  },
+  {
+   "key": "3307091032438771716",
+   "en": "[db_db][db_db]Bennett killed",
+   "ro": "[db_db][db_db]Bennett ucis"
+  },
+  {
+   "key": "3307091395699052544",
+   "en": "[db_db][db_db]Bennett alive",
+   "ro": "[db_db][db_db]Bennett în viață"
+  },
+  {
+   "key": "3307095967188422660",
+   "en": "[db_db][db_db]Told Hands about Bennett and Arasaka before",
+   "ro": "[db_db][db_db]I-am spus lui Hands despre Bennett și Arasaka înainte"
+  },
+  {
+   "key": "3307096460539236352",
+   "en": "[db_db][db_db]Didn't tell",
+   "ro": "[db_db][db_db]Nu am spus"
+  },
+  {
+   "key": "3359413825297358852",
+   "en": "[db_db][db_db]Start downstairs",
+   "ro": "[db_db][db_db]Începe jos"
+  },
+  {
+   "key": "3359415419116101632",
+   "en": "[db_db][db_db]Start upstairs before wake",
+   "ro": "[db_db][db_db]Începe sus, înainte de veghe"
+  },
+  {
+   "key": "3447595203272286212",
+   "en": "[db_db][db_db]STS EP1 06 was done",
+   "ro": "[db_db][db_db]STS EP1 06 finalizat"
+  },
+  {
+   "key": "3447598031709577216",
+   "en": "[db_db][db_db]STS EP1 06 was not done",
+   "ro": "[db_db][db_db]STS EP1 06 nefinalizat"
+  },
+  {
+   "key": "3515884087038615552",
+   "en": "[db_db][db_db]Start upstairs after wake",
+   "ro": "[db_db][db_db]Începe sus, după veghe"
+  },
+  {
+   "key": "3582395266711592960",
+   "en": "[db_db][db_db]City Scenes",
+   "ro": "[db_db][db_db]Scene din oraș"
+  },
+  {
+   "key": "3608791014729216004",
+   "en": "[db_db][db_db]After VDBs",
+   "ro": "[db_db][db_db]După VDB"
+  },
+  {
+   "key": "3608807369276813312",
+   "en": "[db_db][db_db]Before VDBs",
+   "ro": "[db_db][db_db]Înainte de VDB"
+  },
+  {
+   "key": "3608808988177494020",
+   "en": "[db_db][db_db]Charlie killed",
+   "ro": "[db_db][db_db]Charlie ucis"
+  },
+  {
+   "key": "3608809909498310656",
+   "en": "[db_db][db_db]Charlie alive",
+   "ro": "[db_db][db_db]Charlie în viață"
+  },
+  {
+   "key": "3631852006368518148",
+   "en": "[db_db]",
+   "ro": "[db_db]"
+  },
+  {
+   "key": "3631852615633117184",
+   "en": "[db_db]",
+   "ro": "[db_db]"
+  },
+  {
+   "key": "3631854199486193668",
+   "en": "[db_db]",
+   "ro": "[db_db]"
+  },
+  {
+   "key": "3631856255097806848",
+   "en": "[db_db]",
+   "ro": "[db_db]"
+  },
+  {
+   "key": "3721655304386158596",
+   "en": "[db_db]Continue to Debug Options",
+   "ro": "[db_db]Continuă la Opțiuni Debug"
+  },
+  {
+   "key": "3721677919200911360",
+   "en": "[db_db]Return to Game",
+   "ro": "[db_db]Înapoi la joc"
+  },
+  {
+   "key": "3795726073229897732",
+   "en": "[db_db]sa_ep1_30_mq304",
+   "ro": "[db_db]sa_ep1_30_mq304"
+  },
+  {
+   "key": "3795726145204154372",
+   "en": "[db_db]city_scene 1",
+   "ro": "[db_db]city_scene 1"
+  },
+  {
+   "key": "3795726182080475140",
+   "en": "[db_db]city_scene_7",
+   "ro": "[db_db]city_scene_7"
+  },
+  {
+   "key": "3795726338679009284",
+   "en": "[db_db]city_scene_13",
+   "ro": "[db_db]city_scene_13"
+  },
+  {
+   "key": "3795726375303671812",
+   "en": "[db_db]city_scene_19",
+   "ro": "[db_db]city_scene_19"
+  },
+  {
+   "key": "3795731128121192448",
+   "en": "[db_db]Airdrops",
+   "ro": "[db_db]Airdrop-uri"
+  },
+  {
+   "key": "3795740683651674112",
+   "en": "[db_db]City Scenes 7-12",
+   "ro": "[db_db]Scene din oraș 7-12"
+  },
+  {
+   "key": "3795741158044233728",
+   "en": "[db_db]City Scenes 1-6",
+   "ro": "[db_db]Scene din oraș 1-6"
+  },
+  {
+   "key": "3795742099095056384",
+   "en": "[db_db]City Scenes 13-18",
+   "ro": "[db_db]Scene din oraș 13-18"
+  },
+  {
+   "key": "3795742277873070080",
+   "en": "[db_db]City Scenes 19-21",
+   "ro": "[db_db]Scene din oraș 19-21"
+  },
+  {
+   "key": "3795747039028867072",
+   "en": "[db_db]sa_ep1_34_mq304",
+   "ro": "[db_db]sa_ep1_34_mq304"
+  },
+  {
+   "key": "3795747126924701696",
+   "en": "[db_db]back",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "3795748931079401472",
+   "en": "[db_db]city_scene_2",
+   "ro": "[db_db]city_scene_2"
+  },
+  {
+   "key": "3795748983709528064",
+   "en": "[db_db]city_scene_3",
+   "ro": "[db_db]city_scene_3"
+  },
+  {
+   "key": "3795749059039227904",
+   "en": "[db_db]city_scene_4",
+   "ro": "[db_db]city_scene_4"
+  },
+  {
+   "key": "3795749103465295872",
+   "en": "[db_db]city_scene_5",
+   "ro": "[db_db]city_scene_5"
+  },
+  {
+   "key": "3795749232683413504",
+   "en": "[db_db]city_scene_6",
+   "ro": "[db_db]city_scene_6"
+  },
+  {
+   "key": "3795749304875773952",
+   "en": "[db_db]back",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "3795752331351322624",
+   "en": "[db_db]city_scene_8",
+   "ro": "[db_db]city_scene_8"
+  },
+  {
+   "key": "3795752442517155840",
+   "en": "[db_db]city_scene_9",
+   "ro": "[db_db]city_scene_9"
+  },
+  {
+   "key": "3795752528668160000",
+   "en": "[db_db]city_scene_10",
+   "ro": "[db_db]city_scene_10"
+  },
+  {
+   "key": "3795752634716942336",
+   "en": "[db_db]city_scene_11",
+   "ro": "[db_db]city_scene_11"
+  },
+  {
+   "key": "3795752790510170112",
+   "en": "[db_db]city_scene_12",
+   "ro": "[db_db]city_scene_12"
+  },
+  {
+   "key": "3795752889311195136",
+   "en": "[db_db]back",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "3795755505600589824",
+   "en": "[db_db]city_scene_14",
+   "ro": "[db_db]city_scene_14"
+  },
+  {
+   "key": "3795755580678631424",
+   "en": "[db_db]city_scene_15",
+   "ro": "[db_db]city_scene_15"
+  },
+  {
+   "key": "3795755622470676480",
+   "en": "[db_db]city_scene_16",
+   "ro": "[db_db]city_scene_16"
+  },
+  {
+   "key": "3795755805107449856",
+   "en": "[db_db]city_scene_17",
+   "ro": "[db_db]city_scene_17"
+  },
+  {
+   "key": "3795755932295524352",
+   "en": "[db_db]city_scene_18",
+   "ro": "[db_db]city_scene_18"
+  },
+  {
+   "key": "3795756067452776448",
+   "en": "[db_db]back",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "3795757041789595648",
+   "en": "[db_db]city_scene_20",
+   "ro": "[db_db]city_scene_20"
+  },
+  {
+   "key": "3795757152720547840",
+   "en": "[db_db]back",
+   "ro": "[db_db]ÎNAPOI"
+  },
+  {
+   "key": "3801728257276932096",
+   "en": "[db_db]city_scene_21",
+   "ro": "[db_db]city_scene_21"
+  },
+  {
+   "key": "3922980269049409536",
+   "en": "[db_db]sa_ep1_37_mq304",
+   "ro": "[db_db]sa_ep1_37_mq304"
+  },
+  {
+   "key": "3922980999596503040",
+   "en": "[db_db]sa_ep1_31_mq304",
+   "ro": "[db_db]sa_ep1_31_mq304"
+  },
+  {
+   "key": "3922981646593060864",
+   "en": "[db_db]sa_ep1_32_mq304",
+   "ro": "[db_db]sa_ep1_32_mq304"
+  },
+  {
+   "key": "3922981884946968576",
+   "en": "[db_db]sa_ep1_35_mq304",
+   "ro": "[db_db]sa_ep1_35_mq304"
+  },
+  {
+   "key": "3923074107290054660",
+   "en": "[db_db]Kurt dead",
+   "ro": "[db_db]Kurt dead"
+  },
+  {
+   "key": "3923074550359552000",
+   "en": "[db_db]kurt spared",
+   "ro": "[db_db]kurt spared"
+  },
+  {
+   "key": "3923074824063053824",
+   "en": "[db_db]Kurt Sneaked",
+   "ro": "[db_db]Kurt Sneaked"
+  }
+ ]
+}

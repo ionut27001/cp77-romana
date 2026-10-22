@@ -1,0 +1,38 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_03.json",
+ "entries": [
+  {
+   "key": "1857532471949017088",
+   "en": "I could eat something.",
+   "ro": "Aș mânca ceva."
+  },
+  {
+   "key": "1857532471949017104",
+   "en": "What's that weird smell?",
+   "ro": "Ce miros ciudat e ăsta?"
+  },
+  {
+   "key": "1857532471982571524",
+   "en": "Could eat somethin'.",
+   "en_m": "I could eat somethin'.",
+   "ro": "Aș mânca ceva."
+  },
+  {
+   "key": "1857532471982571532",
+   "en": "Hmm? Like what?",
+   "ro": "Hmm? De exemplu?"
+  },
+  {
+   "key": "1857532472016125956",
+   "en": "Ugh, what's that weird smell?",
+   "en_m": "What's that weird smell?",
+   "ro": "Ugh, ce miros ciudat e ăsta?",
+   "ro_m": "Ce miros ciudat e ăsta?"
+  },
+  {
+   "key": "1857532472016125964",
+   "en": "Rat poison. Had to put it all over the kitchen because... egh, i-it doesn't matter.",
+   "ro": "Otravă de șobolani. A trebuit s-o pun peste tot în bucătărie fiindcă... ăă, n-nu contează."
+  }
+ ]
+}

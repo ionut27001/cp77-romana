@@ -1,0 +1,500 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q301\\q301_chicken_test.json",
+ "entries": [
+  {
+   "key": "2585278946853478404",
+   "en": "[db_db]AT THE BEGINNING",
+   "ro": "[db_db]LA ÎNCEPUT"
+  },
+  {
+   "key": "2585279832740814848",
+   "en": "[db_db]AT THE BORDER",
+   "ro": "[db_db]LA GRANIȚĂ"
+  },
+  {
+   "key": "2585279976907431936",
+   "en": "[db_db]AT THE STADIUM",
+   "ro": "[db_db]LA STADION"
+  },
+  {
+   "key": "2585280071262494720",
+   "en": "[db_db]WITH THE CRASH",
+   "ro": "[db_db]CU PRĂBUȘIREA"
+  },
+  {
+   "key": "2585280187344052224",
+   "en": "[db_db]WAY TO CRASHSITE",
+   "ro": "[db_db]DRUM SPRE LOCUL PRĂBUȘIRII"
+  },
+  {
+   "key": "2585280356324171776",
+   "en": "[db_db]AT THE CRASHSITE",
+   "ro": "[db_db]LA LOCUL PRĂBUȘIRII"
+  },
+  {
+   "key": "2585280506379591680",
+   "en": "[db_db]AT THE SHUTTLE",
+   "ro": "[db_db]LA NAVETĂ"
+  },
+  {
+   "key": "2585281563025432580",
+   "en": "[db_db]AT THE BORDER",
+   "ro": "[db_db]LA GRANIȚĂ"
+  },
+  {
+   "key": "2585281943935344640",
+   "en": "[db_db]AT THE START",
+   "ro": "[db_db]LA ÎNCEPUT"
+  },
+  {
+   "key": "2585281966517477376",
+   "en": "[db_db]SONGBIRD INTRO",
+   "ro": "[db_db]INTRODUCERE SONGBIRD"
+  },
+  {
+   "key": "2585281992606048256",
+   "en": "[db_db]AT THE START",
+   "ro": "[db_db]LA ÎNCEPUT"
+  },
+  {
+   "key": "2585283239639736320",
+   "en": "[db_db]AT THE BOTTOM",
+   "ro": "[db_db]LA BAZĂ"
+  },
+  {
+   "key": "2585283355150868480",
+   "en": "[db_db]ARRIVAL / MYERS INTRO",
+   "ro": "[db_db]SOSIRE / INTRODUCERE MYERS"
+  },
+  {
+   "key": "2585284142237179904",
+   "en": "[db_db]AT THE HIDDEN ENTRANCE",
+   "ro": "[db_db]LA INTRAREA ASCUNSĂ"
+  },
+  {
+   "key": "2585287575543439360",
+   "en": "[db_db]WITH THE CRASH",
+   "ro": "[db_db]CU PRĂBUȘIREA"
+  },
+  {
+   "key": "2585287766686261248",
+   "en": "[db_db]SCENE: DEBRIS",
+   "ro": "[db_db]SCENĂ: DĂRÂMĂTURI"
+  },
+  {
+   "key": "2585288078037835776",
+   "en": "[db_db]BLOCKADE ARRIVAL",
+   "ro": "[db_db]SOSIRE LA BLOCADĂ"
+  },
+  {
+   "key": "2585288219369103360",
+   "en": "[db_db]SCENE: KURTZ INTRO",
+   "ro": "[db_db]SCENĂ: INTRODUCERE KURTZ"
+  },
+  {
+   "key": "2585288603919671296",
+   "en": "[db_db]ON THE ROOF",
+   "ro": "[db_db]PE ACOPERIȘ"
+  },
+  {
+   "key": "2585288677370322944",
+   "en": "[db_db]COMBAT",
+   "ro": "[db_db]LUPTĂ"
+  },
+  {
+   "key": "2585288881481932800",
+   "en": "[db_db]COMBAT",
+   "ro": "[db_db]LUPTĂ"
+  },
+  {
+   "key": "2585288995734773760",
+   "en": "[db_db]MYERS MAIN SCENE",
+   "ro": "[db_db]SCENĂ PRINCIPALĂ MYERS"
+  },
+  {
+   "key": "2585292282861150208",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585292551548264448",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585292689003995136",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585292893014941696",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585293059830800384",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585293212016926720",
+   "en": "[db_db]Return to previous section",
+   "ro": "[db_db]Revino la secțiunea anterioară"
+  },
+  {
+   "key": "2585393714016772100",
+   "en": "[db_db]STREET KID",
+   "ro": "[db_db]STREET KID"
+  },
+  {
+   "key": "2585394081890787328",
+   "en": "[db_db]CORPO",
+   "ro": "[db_db]CORPO"
+  },
+  {
+   "key": "2585394180490485760",
+   "en": "[db_db]NOMAD",
+   "ro": "[db_db]NOMAD"
+  },
+  {
+   "key": "2857709973415092224",
+   "en": "[db_db]WITH THE ELEVATOR RIDE",
+   "ro": "[db_db]ÎN LIFT"
+  },
+  {
+   "key": "2857710255473647616",
+   "en": "[db_db]WITH THE TRAVERSAL",
+   "ro": "[db_db]LA TRAVERSARE"
+  },
+  {
+   "key": "2857710408129536000",
+   "en": "[db_db]AT THE CATWALK",
+   "ro": "[db_db]LA PASARELĂ"
+  },
+  {
+   "key": "2860362331626364928",
+   "en": "[db_db]AT THE CONSTRUCTION SITE",
+   "ro": "[db_db]LA ȘANTIER"
+  },
+  {
+   "key": "2860573406988820484",
+   "en": "[db_db]HELL, YES",
+   "ro": "[db_db]DA, DRACU'!"
+  },
+  {
+   "key": "2860573749327912960",
+   "en": "[db_db]UHM, NO",
+   "ro": "[db_db]UHM, NU"
+  },
+  {
+   "key": "3024350803713286144",
+   "en": "[db_db]ESCAPING THE SHUTTLE",
+   "ro": "[db_db]EVADARE DIN NAVETĂ"
+  },
+  {
+   "key": "3083893374453768196",
+   "en": "[db_db]MEH, YES",
+   "ro": "[db_db]MEH, DA"
+  },
+  {
+   "key": "3083894086864691200",
+   "en": "[db_db]NO, I'M A NINJA",
+   "ro": "[db_db]NU, SUNT NINJA"
+  },
+  {
+   "key": "3083894805634179072",
+   "en": "[db_db]OF COURSE",
+   "ro": "[db_db]BINEÎNȚELES"
+  },
+  {
+   "key": "3083894805634179084",
+   "en": "[db_db]EXPLORATION? WHAT EXPLORATION? [NO]",
+   "ro": "[db_db]EXPLORARE? CE EXPLORARE? [NU]"
+  },
+  {
+   "key": "3083897716816699392",
+   "en": "[db_db]OF COURSE",
+   "ro": "[db_db]BINEÎNȚELES"
+  },
+  {
+   "key": "3083897716816699404",
+   "en": "[db_db]EXPLORATION? WHAT EXPLORATION? [NO]",
+   "ro": "[db_db]EXPLORARE? CE EXPLORARE? [NU]"
+  },
+  {
+   "key": "3112842685694566400",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112843631694667776",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112845335790051332",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112845947034361856",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112847785716572160",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112847785716572172",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112847785766903808",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112847785766903820",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112856750252843012",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112857625536978944",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112858133064540160",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112858133064540172",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112859513443540992",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112859513443541004",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112860405991432192",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112860405991432204",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112861888375906304",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112861888375906316",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112861888493346816",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112861888493346828",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3112864423128031232",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3112864423128031244",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3121664662957940736",
+   "en": "[db_db]YES",
+   "ro": "[db_db]DA"
+  },
+  {
+   "key": "3121664662957940748",
+   "en": "[db_db]NO",
+   "ro": "[db_db]NU"
+  },
+  {
+   "key": "3282605690255835136",
+   "en": "[db_db]ABSOLUTELY!",
+   "ro": "[db_db]ABSOLUT!"
+  },
+  {
+   "key": "3282605690272612360",
+   "en": "[db_db]BART- WHO? (NO)",
+   "ro": "[db_db]BART- CINE? (NU)"
+  },
+  {
+   "key": "3282607081523249152",
+   "en": "[db_db]ABSOLUTELY!",
+   "ro": "[db_db]ABSOLUT!"
+  },
+  {
+   "key": "3282607081523249164",
+   "en": "[db_db]BART- WHO? (NO)",
+   "ro": "[db_db]BART- CINE? (NU)"
+  },
+  {
+   "key": "3437382734926839812",
+   "en": "[db_db]RIVER WARD",
+   "ro": "[db_db]RIVER WARD"
+  },
+  {
+   "key": "3437390798778269696",
+   "en": "[db_db]JDUDY ALVAREZ",
+   "ro": "[db_db]JUDY ALVAREZ"
+  },
+  {
+   "key": "3437391095516889088",
+   "en": "[db_db]I'M A HEARTLESS HERMIT (NEITHER)",
+   "ro": "[db_db]SUNT UN EREMIT FĂRĂ INIMĂ (NICIUNA)"
+  },
+  {
+   "key": "3437405331789971460",
+   "en": "[db_db]RIVER WARD",
+   "ro": "[db_db]RIVER WARD"
+  },
+  {
+   "key": "3437406237860298752",
+   "en": "[db_db]JUDY ALVAREZ",
+   "ro": "[db_db]JUDY ALVAREZ"
+  },
+  {
+   "key": "3437406405582127104",
+   "en": "[db_db]I'M A HEARTLESS HERMIT.",
+   "ro": "[db_db]SUNT UN EREMIT FĂRĂ INIMĂ."
+  },
+  {
+   "key": "3437413553615667204",
+   "en": "[db_db]RIVER WARD",
+   "ro": "[db_db]RIVER WARD"
+  },
+  {
+   "key": "3437414350667644928",
+   "en": "[db_db]JUDY ALVAREZ",
+   "ro": "[db_db]JUDY ALVAREZ"
+  },
+  {
+   "key": "3437414518020374528",
+   "en": "[db_db]I'M A HEARTLESS HERMIT (NEITHER).",
+   "ro": "[db_db]SUNT UN EREMIT FĂRĂ INIMĂ (NICIUNA)."
+  },
+  {
+   "key": "3437500917864202244",
+   "en": "[db_db]RIVER WARD",
+   "ro": "[db_db]RIVER WARD"
+  },
+  {
+   "key": "3437501469616504832",
+   "en": "[db_db]JUDY ALVAREZ",
+   "ro": "[db_db]JUDY ALVAREZ"
+  },
+  {
+   "key": "3437501632976257024",
+   "en": "[db_db]I'M A HEARTLESS HERMIT (NEITHER).",
+   "ro": "[db_db]SUNT UN EREMIT FĂRĂ INIMĂ (NICIUNA)."
+  },
+  {
+   "key": "3508655611262087172",
+   "en": "[db_db]Tank",
+   "ro": "[db_db]Tank"
+  },
+  {
+   "key": "3508656301845852160",
+   "en": "[db_db]MidArmor",
+   "ro": "[db_db]MidArmor"
+  },
+  {
+   "key": "3508656609976201216",
+   "en": "[db_db]GlassCanon",
+   "ro": "[db_db]GlassCanon"
+  },
+  {
+   "key": "3508657110188896256",
+   "en": "[db_db]MaxAllSkillsWeapon",
+   "ro": "[db_db]MaxAllSkillsWeapon"
+  },
+  {
+   "key": "3508662555066576900",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508663549838045184",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508663717643759616",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508663858756923392",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508668143322345472",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508668294971600896",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508668583170617344",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  },
+  {
+   "key": "3508669604903071748",
+   "en": "[db_db]10lv",
+   "ro": "[db_db]10lv"
+  },
+  {
+   "key": "3508670113571483648",
+   "en": "[db_db]20lv",
+   "ro": "[db_db]20lv"
+  },
+  {
+   "key": "3508670251832520704",
+   "en": "[db_db]30lv",
+   "ro": "[db_db]30lv"
+  },
+  {
+   "key": "3508670388164177920",
+   "en": "[db_db]40lv",
+   "ro": "[db_db]40lv"
+  }
+ ]
+}

@@ -1,0 +1,425 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_05_border_crossing.json",
+ "entries": [
+  {
+   "key": "1660532849951920128",
+   "en": "Please direct your vehicle to the inspection area.",
+   "ro": "Vă rugăm să direcționați vehiculul către zona de inspecție."
+  },
+  {
+   "key": "1660629253579886592",
+   "en": "Remain in your vehicle. The security check will begin shortly.",
+   "ro": "Rămâneți în vehicul. Controlul de securitate va începe în curând."
+  },
+  {
+   "key": "1660629844339216384",
+   "en": "I got a real bad feelin' about this…",
+   "ro": "Am un presentiment tare prost cu asta…"
+  },
+  {
+   "key": "1660633705565147140",
+   "en": "Calm down.",
+   "ro": "Calmează-te."
+  },
+  {
+   "key": "1660635662140854272",
+   "en": "[Take document] Hand me the manifest.",
+   "ro": "[Ia documentul] Dă-mi manifestul."
+  },
+  {
+   "key": "1660637394170302464",
+   "en": "Grab these.",
+   "ro": "Ia-le pe astea."
+  },
+  {
+   "key": "1725817784919584768",
+   "en": "You know they'll notice if you're nervous, right?",
+   "ro": "Știi că o să observe dacă ești nervoasă, nu?",
+   "ro_m": "Știi că o să observe dacă ești nervos, nu?"
+  },
+  {
+   "key": "1725820610974511104",
+   "en": "You have got to calm down.",
+   "en_m": "You have to calm down.",
+   "ro": "Trebuie să te calmezi."
+  },
+  {
+   "key": "1725820906085740544",
+   "en": "Right, right, yeah…",
+   "ro": "Da, da, da…"
+  },
+  {
+   "key": "1725823397435207680",
+   "en": "Hand me the manifest. They'll need to see it.",
+   "ro": "Dă-mi manifestul. Trebuie să-l vadă."
+  },
+  {
+   "key": "1725823727342383104",
+   "en": "Let me see... Ah! It's marked LOA. Perfect.",
+   "en_m": "Let me see... Heh, it's marked LOA. Perfect.",
+   "ro": "Să văd... Ah! E marcat LOA. Perfect.",
+   "ro_m": "Să văd... Heh, e marcat LOA. Perfect."
+  },
+  {
+   "key": "1745908337402204160",
+   "en": "The owner of the vehicle in the inspection area will report for further questioning.",
+   "ro": "Proprietarul vehiculului din zona de inspecție o să se prezinte pentru interogatoriu suplimentar."
+  },
+  {
+   "key": "1745914294672838656",
+   "en": "<mothertongue l=\"mex\" m=\"chingada madre...\" b=\"Ugh, \" a=\" What now?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chingada madre...\" b=\"Uf, \" a=\" Ce facem acum?\"/>"
+  },
+  {
+   "key": "1745916599476441088",
+   "en": "I'll keep the engine runnin'... in case of a cock-up.",
+   "ro": "Țin motorul pornit... în caz că dă rateu."
+  },
+  {
+   "key": "1745918865474342912",
+   "en": "Now please report to room number two.",
+   "ro": "Acum prezentați-vă în camera numărul doi."
+  },
+  {
+   "key": "1745920106719891456",
+   "en": "Please sit.",
+   "ro": "Vă rog, luați loc."
+  },
+  {
+   "key": "1745920676658696196",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1745923202887995392",
+   "en": "Papers.",
+   "ro": "Actele."
+  },
+  {
+   "key": "1745924676816752640",
+   "en": "[Hand over papers] Is this routine?",
+   "ro": "[Predă actele] E rutină?"
+  },
+  {
+   "key": "1745925350623301632",
+   "en": "[Hand over papers] I know the drill.",
+   "ro": "[Predă actele] Știu procedura."
+  },
+  {
+   "key": "1745926609971466240",
+   "en": "Is this routine?",
+   "ro": "E rutină?"
+  },
+  {
+   "key": "1745927387343769600",
+   "en": "I know the rules. Everything's there.",
+   "ro": "Știu regulile. E totul acolo."
+  },
+  {
+   "key": "1745927602696114176",
+   "en": "Mmh...",
+   "ro": "Mmh..."
+  },
+  {
+   "key": "1745927602696114184",
+   "en": "What are you transporting?",
+   "ro": "Ce transportați?"
+  },
+  {
+   "key": "1745927602712891392",
+   "en": "[Give bribe] Actually, I forgot this.",
+   "ro": "[Dă mita] De fapt, am uitat de asta."
+  },
+  {
+   "key": "1745927602712891408",
+   "en": "Is anything wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "1745927602746445824",
+   "en": "There's one additional enclosure to the manifest.",
+   "ro": "E o anexă în plus la manifest."
+  },
+  {
+   "key": "1745927602763223040",
+   "en": "If anything's wrong, just say so. I'm sure we can figure it out.",
+   "ro": "Dacă s-a întâmplat ceva, spune. Sigur găsim o soluție."
+  },
+  {
+   "key": "1745929126134435840",
+   "en": "...",
+   "ro": "..."
+  },
+  {
+   "key": "1745935402272837632",
+   "en": "Go on, now. Your associate's waiting for you in the car.",
+   "ro": "Hai, du-te. Asociatul tău te așteaptă în mașină."
+  },
+  {
+   "key": "1745936319500013572",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1745939096162816000",
+   "en": "What happened in there?",
+   "ro": "Ce s-a întâmplat acolo?"
+  },
+  {
+   "key": "1745939473700507648",
+   "en": "I'll tell you soon. We need to get outta here.",
+   "ro": "Îți spun în curând. Trebuie să ieșim de aici."
+  },
+  {
+   "key": "1815731105973596160",
+   "en": "What's that mean?",
+   "ro": "Ce înseamnă asta?"
+  },
+  {
+   "key": "1815731169089482752",
+   "en": "Lost on Arrival. Means the cargo was flagged as \"to be lost\" as soon as it crossed the border.",
+   "en_m": "Lost on Arrival. It means the cargo was flagged as \"to be lost\" as soon as it crossed the border.",
+   "ro": "Lost on Arrival. Înseamnă că marfa a fost marcată „de pierdut” imediat ce a trecut granița."
+  },
+  {
+   "key": "1815731644086022144",
+   "en": "Whoa, so they know we're smugglin'?",
+   "ro": "Whoa, deci știu că facem contrabandă?"
+  },
+  {
+   "key": "1815731911196078080",
+   "en": "Well, they're about to find out.",
+   "en_m": "They're about to find out.",
+   "ro": "Păi, o să afle.",
+   "ro_m": "O să afle."
+  },
+  {
+   "key": "1815734083241570304",
+   "en": "If we want the customs officer to turn a blind eye to our dubious docs, we'll need a sweetener. Do you have the credit chip with the bribe?",
+   "en_m": "If we want the customs officer to turn a blind eye to our dubious docus, we'll need a sweetener. Do you have the credit chip with the bribe?",
+   "ro": "Dacă vrem ca vameșul să se facă că nu vede actele noastre dubioase, ne trebuie un stimulent. Ai cipul cu mita?"
+  },
+  {
+   "key": "1815734803906883584",
+   "en": "Oh... yeah. Heh, forgot about that.",
+   "ro": "A... da. Heh, am uitat de-asta."
+  },
+  {
+   "key": "1815734872307593216",
+   "en": "Right. You forgot.",
+   "ro": "Așa. Ai uitat."
+  },
+  {
+   "key": "1817126272429387776",
+   "en": "It might be. We'll see.",
+   "ro": "S-ar putea. O să vedem."
+  },
+  {
+   "key": "1817126712445431808",
+   "en": "It might be, it might not be. We'll see.",
+   "ro": "Poate e, poate nu. O să vedem."
+  },
+  {
+   "key": "1817163208846143488",
+   "en": "It's all in there.",
+   "ro": "E totul acolo."
+  },
+  {
+   "key": "1817163285685792768",
+   "en": "Everything...?",
+   "ro": "Tot...?"
+  },
+  {
+   "key": "1817164322115088384",
+   "en": "I haven't said anything yet.",
+   "ro": "N-am spus nimic încă."
+  },
+  {
+   "key": "1817164673530654720",
+   "en": "The question is, should I expect to find anything out of order?",
+   "ro": "Întrebarea e dacă ar trebui să găsesc ceva care nu e în ordine."
+  },
+  {
+   "key": "1817166927851614208",
+   "en": "Ah, yes… Remind me, you drive for which nomad clan?",
+   "ro": "A, da… Zi-mi, pentru ce clan nomad conduci?"
+  },
+  {
+   "key": "1817188737410330628",
+   "en": "I feel the same way.",
+   "ro": "Și eu la fel."
+  },
+  {
+   "key": "1817188753382240256",
+   "en": "The feeling's mutual.",
+   "ro": "Simt la fel."
+  },
+  {
+   "key": "1883809499365437440",
+   "en": "Do that.",
+   "ro": "Fă-o."
+  },
+  {
+   "key": "1883858553243889664",
+   "en": "Yeah, OK.",
+   "ro": "Da, OK."
+  },
+  {
+   "key": "1908331701848018944",
+   "en": "You have bribe money?",
+   "ro": "Ai bani de șpagă?"
+  },
+  {
+   "key": "1908332506785288192",
+   "en": "This is how it works.",
+   "ro": "Așa funcționează."
+  },
+  {
+   "key": "1908333198677676032",
+   "en": "Relax. It's all in line with procedures. It's all part of the plan.",
+   "ro": "Relaxează-te. Totul e după procedură. E parte din plan."
+  },
+  {
+   "key": "1914000072512565248",
+   "en": "Hey, guess you know what you're doin', huh?",
+   "ro": "Hei, ghicesc că știi ce faci, nu?"
+  },
+  {
+   "key": "1915576214748155904",
+   "en": "Attempt to cross the border, and we will open fire.",
+   "ro": "Dacă încercați să treceți granița, deschidem focul."
+  },
+  {
+   "key": "1915579325864759296",
+   "en": "Proceed to the office for questioning. All other areas are off limits.",
+   "ro": "Mergeți la birou pentru audiere. Celelalte zone sunt interzise."
+  },
+  {
+   "key": "1915619282633379844",
+   "en": "Return to your vehicle immediately.",
+   "ro": "Reveniți imediat la vehicul."
+  },
+  {
+   "key": "1967515890164363264",
+   "en": "Any attempt at unlawful crossing will be met with force.",
+   "ro": "Orice încercare de trecere ilegală se oprește cu forța."
+  },
+  {
+   "key": "1979090529668845568",
+   "en": "If you're armed, place your weapon here.",
+   "ro": "Dacă sunteți înarmată, puneți arma aici.",
+   "ro_m": "Dacă sunteți înarmat, puneți arma aici."
+  },
+  {
+   "key": "1979094424616980484",
+   "en": "[Place weapon]",
+   "ro": "[Pune arma]"
+  },
+  {
+   "key": "1979168689332703232",
+   "en": "Don't forget to take your personal items.",
+   "ro": "Nu uitați să luați obiectele personale."
+  },
+  {
+   "key": "1979180039974965248",
+   "en": "[Take gun]",
+   "ro": "[Ia arma]"
+  },
+  {
+   "key": "1985307043203928068",
+   "en": "[Take money and get out] Right…",
+   "ro": "[Ia banii și ieși] Bine…"
+  },
+  {
+   "key": "1996740732432347140",
+   "en": "That's not your concern.",
+   "ro": "Nu e treaba ta."
+  },
+  {
+   "key": "1996740741710147584",
+   "en": "I don't think that's any concern of yours.",
+   "ro": "Nu cred că te privește."
+  },
+  {
+   "key": "1996740745401135104",
+   "en": "None, no clan. I drive for myself.",
+   "ro": "Niciunul, niciun clan. Conduc pentru mine."
+  },
+  {
+   "key": "1996741285275168768",
+   "en": "I don't drive for any clan.",
+   "ro": "Nu conduc pentru niciun clan."
+  },
+  {
+   "key": "1996743954798669824",
+   "en": "Is that what you believe?",
+   "ro": "Asta crezi?"
+  },
+  {
+   "key": "1996745404484349952",
+   "en": "Bold. And none too wise…",
+   "ro": "Îndrăzneață. Și nu prea înțeleaptă…",
+   "ro_m": "Îndrăzneț. Și nu prea înțelept…"
+  },
+  {
+   "key": "1996746100453601280",
+   "en": "Y'know, whenever I see someone like you, I'm oh so grateful not to be on that side of the table.",
+   "ro": "Știi, ori de câte ori văd pe cineva ca tine, mă bucur tare că nu sunt de partea aia a mesei."
+  },
+  {
+   "key": "2239109368962531328",
+   "en": "C'mon, don't make me wait, choom…",
+   "ro": "Hai, nu mă face să aștept, choom…"
+  },
+  {
+   "key": "2253228609118584832",
+   "en": "Room two.",
+   "ro": "Camera doi."
+  },
+  {
+   "key": "2253305459622723596",
+   "en": "Be careful with that toy.",
+   "ro": "Ai grijă cu jucăria aia."
+  },
+  {
+   "key": "2253305459622723608",
+   "en": "And welcome to Night City.",
+   "ro": "Și bun venit în Night City."
+  },
+  {
+   "key": "2253309757106601984",
+   "en": "Siddown.",
+   "ro": "Așează-te."
+  },
+  {
+   "key": "2253319572096729096",
+   "en": "Papers. Hand them over.",
+   "ro": "Acte. Dă-le aici."
+  },
+  {
+   "key": "2253320904224456712",
+   "en": "Is that all you have for me?",
+   "ro": "Asta e tot ce ai pentru mine?"
+  },
+  {
+   "key": "2253374931842809864",
+   "en": "It's time you left.",
+   "ro": "E timpul să pleci."
+  },
+  {
+   "key": "2253377278472011784",
+   "en": "Out of my sight, before I change my mind.",
+   "ro": "Dispari din fața mea, înainte să mă răzgândesc."
+  },
+  {
+   "key": "2253392234890313728",
+   "en": "Proceed to customs without undue delay.",
+   "ro": "Mergeți la vamă fără întârziere."
+  },
+  {
+   "key": "2289348898572402688",
+   "en": "[Get in] I'll tell you soon.",
+   "ro": "[Urcă] Îți spun curând."
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\sec_mid_m_01_enus_30.json",
+ "entries": [
+  {
+   "key": "1912499198408269828",
+   "en": "Hands to yourself.",
+   "ro": "Mâinile la tine."
+  },
+  {
+   "key": "1912499198441824260",
+   "en": "Got my eye on you.",
+   "ro": "Te am în vizor."
+  },
+  {
+   "key": "1912499198508933124",
+   "en": "You – back off.",
+   "ro": "Tu – dă-te înapoi."
+  },
+  {
+   "key": "1912499198525710340",
+   "en": "Out of here. Now.",
+   "ro": "Afară. Acum."
+  },
+  {
+   "key": "1912499198592819204",
+   "en": "Drop your weapon, or I shoot!",
+   "ro": "Arma jos, sau trag!"
+  },
+  {
+   "key": "1912499198626373636",
+   "en": "You're asking for trouble.",
+   "ro": "Cauți necazuri."
+  },
+  {
+   "key": "1912499198693482500",
+   "en": "This will end badly for you.",
+   "ro": "Se va termina prost pentru tine."
+  },
+  {
+   "key": "1912499198727036932",
+   "en": "Very unwise.",
+   "ro": "Foarte neînțelept."
+  },
+  {
+   "key": "1912499198794145796",
+   "en": "Get moving.",
+   "ro": "Mișcă-te."
+  },
+  {
+   "key": "1912499198810923012",
+   "en": "Out of my sight.",
+   "ro": "Dispari din fața mea."
+  },
+  {
+   "key": "1912499198878031876",
+   "en": "Halt! Who's there!",
+   "ro": "Stai! Cine e acolo!"
+  },
+  {
+   "key": "1912499198894809092",
+   "en": "I've got this.",
+   "ro": "Mă ocup eu."
+  },
+  {
+   "key": "1912499198978695168",
+   "en": "I got nothing.",
+   "ro": "N-am nimic."
+  },
+  {
+   "key": "1912499199012249604",
+   "en": "No threat detected.",
+   "ro": "Nicio amenințare detectată."
+  },
+  {
+   "key": "1912499199096135684",
+   "en": "I'll piss on your grave when this is over!",
+   "ro": "O să-ți pisez pe mormânt când se termină!"
+  },
+  {
+   "key": "1912499199112912900",
+   "en": "Hellooooo? Where are youuuu?",
+   "ro": "Halloooo? Unde eștiuuu?"
+  },
+  {
+   "key": "1912499199163244548",
+   "en": "I think it's one of ours!",
+   "ro": "Cred că e unul de-al nostru!"
+  },
+  {
+   "key": "1912499199196798980",
+   "en": "Understood.",
+   "ro": "Înțeles."
+  },
+  {
+   "key": "1912499199263907844",
+   "en": "Shoot!",
+   "ro": "Trage!"
+  },
+  {
+   "key": "1912499199280685060",
+   "en": "Enemy contact! I'm engaging!",
+   "ro": "Contact inamic! Mă angajez!"
+  },
+  {
+   "key": "1912499199331016708",
+   "en": "Frag out!",
+   "ro": "Grenadă!"
+  },
+  {
+   "key": "1912499199398125572",
+   "en": "Neutralize the target!",
+   "ro": "Neutralizați ținta!"
+  },
+  {
+   "key": "1912499199431680004",
+   "en": "Open fire!",
+   "ro": "Deschideți focul!"
+  },
+  {
+   "key": "1912499199498788868",
+   "en": "She's chipped!",
+   "en_m": "He's chipped!",
+   "ro": "E cipată!",
+   "ro_m": "E cipat!"
+  },
+  {
+   "key": "1912499199515566084",
+   "en": "I need backup!",
+   "ro": "Am nevoie de întăriri!"
+  },
+  {
+   "key": "1912499199582674948",
+   "en": "Back up, lady.",
+   "en_m": "Back it up, man.",
+   "ro": "Dă-te înapoi, doamnă.",
+   "ro_m": "Dă-te înapoi, băiete."
+  },
+  {
+   "key": "1912499199616229376",
+   "en": "Watch it.",
+   "ro": "Atenție."
+  },
+  {
+   "key": "1912499199649783812",
+   "en": "Yes?",
+   "ro": "Da?"
+  },
+  {
+   "key": "1912499199750447108",
+   "en": "Uh-huh… Please explain exactly why… Why the badges will be guarding the perimeter?",
+   "ro": "Explică exact de ce… De ce o să păzească polițaii perimetrul?"
+  },
+  {
+   "key": "1912499199784001540",
+   "en": "OK, but I want to lead the mission myself.",
+   "ro": "OK, dar vreau eu să conduc misiunea."
+  },
+  {
+   "key": "1912499199851110404",
+   "en": "Together!",
+   "ro": "Împreună!"
+  },
+  {
+   "key": "1912499199901442052",
+   "en": "Affirmative!",
+   "ro": "Afirmativ!"
+  },
+  {
+   "key": "1912499199951773700",
+   "en": "Get down!",
+   "ro": "Jos!"
+  },
+  {
+   "key": "1912499199985328128",
+   "en": "Yes, I will.",
+   "ro": "Da, o să."
+  },
+  {
+   "key": "1912499200018882564",
+   "en": "Commencing patrol.",
+   "ro": "Încep patrularea."
+  },
+  {
+   "key": "1912499200102768644",
+   "en": "Psst. Safety off.",
+   "ro": "Psst. Siguranța scoasă."
+  },
+  {
+   "key": "1912499200136323076",
+   "en": "Shh… Shoot at will.",
+   "ro": "Șșș… Trageți la discreție."
+  },
+  {
+   "key": "1912499200186654724",
+   "en": "Go there.",
+   "ro": "Du-te acolo."
+  },
+  {
+   "key": "1912499200220209156",
+   "en": "Go! Go! Go!",
+   "ro": "Hai! Hai! Hai!"
+  },
+  {
+   "key": "1912499200270540804",
+   "en": "Ekhh… ghh… I'm corporation… idiot….",
+   "ro": "Ekhh… ghh… Sunt corporatist… idiot…."
+  },
+  {
+   "key": "1912514399924920320",
+   "en": "I'd rather use my own guys… OK, I see.",
+   "ro": "Aș prefera să-mi folosesc oamenii… OK, am înțeles."
+  },
+  {
+   "key": "1912514691328385024",
+   "en": "It'll be better that way, trust me… Of course it'll be on the down-low… Mm.",
+   "ro": "Așa o să fie mai bine, ai încredere… Sigur că o să fie pe ascuns… Mm."
+  },
+  {
+   "key": "1958947896232550404",
+   "en": "Hey, I wasn't finished...",
+   "ro": "Hei, nu terminasem…"
+  },
+  {
+   "key": "1958947896299659268",
+   "en": "You ready to hear me out now?",
+   "ro": "Ești gata să mă asculți acum?"
+  },
+  {
+   "key": "1958947896316436484",
+   "en": "Ahe-he-he-hem!",
+   "ro": "Ahe-he-he-hem!"
+  },
+  {
+   "key": "2233834383059623940",
+   "en": "Unit down!",
+   "ro": "Unitate doborâtă!"
+  },
+  {
+   "key": "2233834383193841668",
+   "en": "Goddamn optics...",
+   "ro": "Opticile dracului…"
+  },
+  {
+   "key": "2233834383378391040",
+   "en": "It wasn't me. At ease and spread out.",
+   "ro": "Nu eu am fost. La odihnă și răspândiți-vă."
+  },
+  {
+   "key": "2233834383512608772",
+   "en": "Damn it, we're exposed!",
+   "ro": "La naiba, suntem expuși!"
+  },
+  {
+   "key": "2233834383630049284",
+   "en": "Heads down! Keep it together!",
+   "ro": "Capetele jos! Țineți-vă!"
+  },
+  {
+   "key": "2233834383680380932",
+   "en": "You'll pay for this!",
+   "ro": "O să plătești pentru asta!"
+  },
+  {
+   "key": "2233834383747489796",
+   "en": "You're dead!",
+   "ro": "Ești moartă!",
+   "ro_m": "Ești mort!"
+  },
+  {
+   "key": "2233834383948816388",
+   "en": "That's a hit!",
+   "ro": "Lovitură!"
+  },
+  {
+   "key": "2233834384032702468",
+   "en": "She's hit! Keep firing!",
+   "en_m": "He's hit! Keep firing!",
+   "ro": "A fost lovită! Continuați focul!",
+   "ro_m": "A fost lovit! Continuați focul!"
+  },
+  {
+   "key": "2233834384250806276",
+   "en": "She's almost down! It's now or never!",
+   "en_m": "He's almost down! It's now or never!",
+   "ro": "E aproape căzută! Acum sau niciodată!",
+   "ro_m": "E aproape căzut! Acum sau niciodată!"
+  },
+  {
+   "key": "2233834384317915140",
+   "en": "Copy!",
+   "ro": "Recepționat!"
+  },
+  {
+   "key": "2233834384368246788",
+   "en": "Smoke her out!",
+   "en_m": "Smoke him out!",
+   "ro": "Scoate-o din ascunzătoare!",
+   "ro_m": "Scoate-l din ascunzătoare!"
+  },
+  {
+   "key": "2233834384435355652",
+   "en": "Out of ammo! Reloading!",
+   "ro": "Fără muniție! Reîncărcare!"
+  },
+  {
+   "key": "2233834384485687300",
+   "en": "Neutralize the psycho!",
+   "ro": "Neutralizează nebunul!"
+  },
+  {
+   "key": "2233834384619905028",
+   "en": "I've lost all visual!",
+   "ro": "Am pierdut tot contactul vizual!"
+  },
+  {
+   "key": "2233834384687013888",
+   "en": "She's net-capable!",
+   "en_m": "He's net-capable!",
+   "ro": "E capabilă de net!",
+   "ro_m": "E capabil de net!"
+  },
+  {
+   "key": "2233834384754122756",
+   "en": "Got a boost!",
+   "ro": "Am un boost!"
+  },
+  {
+   "key": "2233834384888340484",
+   "en": "Close contact!",
+   "ro": "Contact apropiat!"
+  },
+  {
+   "key": "2233834384972226564",
+   "en": "Enemy contact!",
+   "ro": "Contact inamic!"
+  },
+  {
+   "key": "2233834385039335424",
+   "en": "Cover you!",
+   "ro": "Te acopăr!"
+  },
+  {
+   "key": "2233834385089667076",
+   "en": "Units lost!",
+   "ro": "Unități pierdute!"
+  },
+  {
+   "key": "2233834385307770884",
+   "en": "Engaging hostile!",
+   "ro": "Angajez inamicul ostil!"
+  },
+  {
+   "key": "2233834385374879748",
+   "en": "Huh?",
+   "ro": "Hm?"
+  }
+ ]
+}

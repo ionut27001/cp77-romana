@@ -1,0 +1,413 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_07_final_meeting.json",
+ "entries": [
+  {
+   "key": "2262118195608117256",
+   "en": "Sure.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3140594617160544256",
+   "en": "The bomb - y-you take care of it?",
+   "ro": "Te-ai ocupat de bombă?"
+  },
+  {
+   "key": "3142020757578297348",
+   "en": "[Return shard] Arrest her. I'm clean.",
+   "ro": "[Înapoiază shard-ul] Arestați-o. Eu sunt pe curat."
+  },
+  {
+   "key": "3150851637050585088",
+   "en": "She's telling the truth.",
+   "en_m": "He's telling the truth.",
+   "ro": "Spune adevărul."
+  },
+  {
+   "key": "3152133653717037056",
+   "en": "Think you'll ever come 'round to forgiving yourself?",
+   "ro": "Crezi că o să ajungi vreodată să te ierți?"
+  },
+  {
+   "key": "3193831852949090304",
+   "en": "The Crimson Harvest manipulated Nele.",
+   "ro": "Crimson Harvest a manipulat-o pe Nele."
+  },
+  {
+   "key": "3193833350936375296",
+   "en": "Listen, fellas. You've got the wrong gal.",
+   "en_m": "Listen, fellas. You got it all wrong.",
+   "ro": "Ascultați, băieți. Ați nimerit-o pe cea greșită.",
+   "ro_m": "Ascultați, băieți. Ați greșit total."
+  },
+  {
+   "key": "3193836975804887040",
+   "en": "[Draw weapon] Cuff me. I dare you.",
+   "ro": "[Scoate arma] Încătușați-mă. Hai, încercați."
+  },
+  {
+   "key": "3193838157994635264",
+   "en": "The Crimson Harvest was supposed to detonate a bomb in Biotechnica's HQ. I disarmed it.",
+   "ro": "Crimson Harvest urma să detoneze o bombă în HQ-ul Biotechnica. Eu am dezamorsat-o."
+  },
+  {
+   "key": "3225878677373562880",
+   "en": "Disarmed. We're in the clear.",
+   "ro": "Dezamorsată. Suntem scoși din belea."
+  },
+  {
+   "key": "3225879805976883200",
+   "en": "Biotechnica! You're under arrest!",
+   "ro": "Biotechnica! Ești arestată!",
+   "ro_m": "Biotechnica! Ești arestat!"
+  },
+  {
+   "key": "3225885365006741504",
+   "en": "What the--?",
+   "ro": "Ce naiba--?"
+  },
+  {
+   "key": "3225888546587652096",
+   "en": "Got nothin' to do with this.",
+   "ro": "N-am nimic de-a face cu asta."
+  },
+  {
+   "key": "3225893397568663552",
+   "en": "This wasn't me.",
+   "ro": "Nu eu am fost."
+  },
+  {
+   "key": "3226023339656720384",
+   "en": "Wanna cuff me? Go right ahead.",
+   "ro": "Vrei să mă încătușezi? Fă-o."
+  },
+  {
+   "key": "3226025058985816064",
+   "en": "Take Springer away.",
+   "ro": "Luați-o pe Springer."
+  },
+  {
+   "key": "3230598095129976832",
+   "en": "Quick, hand me the shard. Gotta make tracks.",
+   "ro": "Repede, dă-mi shard-ul. Trebuie să mă car."
+  },
+  {
+   "key": "3231759108458061824",
+   "en": "Is that true?",
+   "ro": "E adevărat?"
+  },
+  {
+   "key": "3231762737252442112",
+   "en": "You didn't tell me the whole truth.",
+   "ro": "Nu mi-ai spus tot adevărul."
+  },
+  {
+   "key": "3231765087035760640",
+   "en": "That true? You the one who planted that bomb?",
+   "en_m": "That true? You the one that planted that bomb?",
+   "ro": "E adevărat? Tu ai plantat bomba aia?"
+  },
+  {
+   "key": "3231765139900768260",
+   "en": "So you're a dyed-in-the-wool terrorist, after all.",
+   "ro": "Deci până la urmă ești teroristă de carieră.",
+   "ro_m": "Deci până la urmă ești terorist de carieră."
+  },
+  {
+   "key": "3232114020178108416",
+   "en": "Nele manipulated me.",
+   "ro": "Nele m-a manipulat."
+  },
+  {
+   "key": "3232143542122356736",
+   "en": "They're gonna kill me, V!",
+   "ro": "O să mă omoare, V!"
+  },
+  {
+   "key": "3233134794586365952",
+   "en": "No, wait! I gave her that shard! I planned this. Please!",
+   "en_m": "No, wait! I gave him that shard! I planned this. Please!",
+   "ro": "Nu, stai! I-am dat ei shard-ul ăla! Eu am pus totul la cale. Te rog!",
+   "ro_m": "Nu, stai! I-am dat lui shard-ul ăla! Eu am pus totul la cale. Te rog!"
+  },
+  {
+   "key": "3233193222281273344",
+   "en": "For the record - got nothin' to do with the Paris attack or any terrorist group.",
+   "ro": "Să fie clar, n-am nimic de-a face cu atacul din Paris sau cu vreo grupare teroristă."
+  },
+  {
+   "key": "3233193891188875264",
+   "en": "Not only that, but I happened to save a few of your pals in Berlin.",
+   "ro": "Și mai și: am salvat câțiva dintre prietenii tăi din Berlin."
+  },
+  {
+   "key": "3233201057274699776",
+   "en": "Can verify the bomb's signature and subnet parameters. S'all there.",
+   "ro": "Pot verifica semnătura bombei și parametrii subnetului. E tot acolo."
+  },
+  {
+   "key": "3233208441263005696",
+   "en": "Dunno. Already hate myself for what I did.",
+   "ro": "Nu știu. Mă urăsc deja pentru ce am făcut."
+  },
+  {
+   "key": "3233210517527371776",
+   "en": "Got your whole life to turn things around. Today was the first step.",
+   "ro": "Ai toată viața s-o îndrepți. Azi a fost primul pas."
+  },
+  {
+   "key": "3234559481779826688",
+   "en": "Chit-chat's over! Step out of the vehicle, hands in the air!",
+   "ro": "Gata cu vorbăria! Ieși din vehicul, mâinile sus!"
+  },
+  {
+   "key": "3236410284436791296",
+   "en": "Save it. Evidence speaks for itself.",
+   "ro": "Lasă. Dovezile vorbesc singure."
+  },
+  {
+   "key": "3236454456799698948",
+   "en": "[Return shard] You can start fresh.",
+   "ro": "[Înapoiază shard-ul] Poți să începi de la zero."
+  },
+  {
+   "key": "3236455231923855360",
+   "en": "[Return shard] Get out of here.",
+   "ro": "[Înapoiază shard-ul] Dispari de aici."
+  },
+  {
+   "key": "3236455967772549140",
+   "en": "Get outta here and don't come back.",
+   "ro": "Cară-te de aici și nu te mai întoarce."
+  },
+  {
+   "key": "3236455967772549152",
+   "en": "I owe you, V. Big time.",
+   "ro": "Îți rămân dator, V. Și încă cum."
+  },
+  {
+   "key": "3236455967789326344",
+   "en": "Don't want anything from you.",
+   "ro": "Nu vreau nimic de la tine."
+  },
+  {
+   "key": "3236455967789326356",
+   "en": "Sure, I get it. Thanks, V…",
+   "ro": "Sigur, înțeleg. Mulțumesc, V…"
+  },
+  {
+   "key": "3236458861758423040",
+   "en": "Couldn't have done it without you. Thanks, V.",
+   "ro": "Fără tine nu reușeam. Mulțumesc, V."
+  },
+  {
+   "key": "3243419756946432000",
+   "en": "Nele Springer! You're under arrest for organizing last year's bombing of a Biotechnica lab in Paris.",
+   "ro": "Nele Springer! Ești arestată pentru că ai organizat atentatul de anul trecut de la laboratorul Biotechnica din Paris."
+  },
+  {
+   "key": "3243421310348861440",
+   "en": "Your bomb killed thirty-two innocent people.",
+   "ro": "Bomba ta a ucis treizeci și doi de oameni nevinovați."
+  },
+  {
+   "key": "3243502129084014592",
+   "en": "Woah, slow down. Know nothin' 'bout no attack. I don't consort with terrorists…",
+   "ro": "Woah, stai așa. Nu știu nimic de niciun atac. Nu am de-a face cu teroriști…"
+  },
+  {
+   "key": "3243561777841479680",
+   "en": "Please! Don't do this!",
+   "ro": "Te rog! Nu face asta!"
+  },
+  {
+   "key": "3243562083472023552",
+   "en": "Let's go. Move it.",
+   "ro": "Hai, mișcă-te!"
+  },
+  {
+   "key": "3243576700470468608",
+   "en": "Proof is on this.",
+   "ro": "Dovada e aici."
+  },
+  {
+   "key": "3244798474684112896",
+   "en": "Fine, you can go.",
+   "ro": "Bine, poți pleca."
+  },
+  {
+   "key": "3244822481823244288",
+   "en": "You all right?",
+   "ro": "Ești bine?"
+  },
+  {
+   "key": "3244822926184587264",
+   "en": "Why did you lie to me?",
+   "ro": "De ce mi-ai mințit?"
+  },
+  {
+   "key": "3244823421867433984",
+   "en": "You hit?",
+   "ro": "Te-au lovit?"
+  },
+  {
+   "key": "3244823469212737540",
+   "en": "Could've told me you had more than the Crimson Harvest to worry about.",
+   "ro": "Puteai să-mi spui că aveai alte belele pe lângă Crimson Harvest."
+  },
+  {
+   "key": "3244824104482021376",
+   "en": "No, I... I don't think so. Thanks, V.",
+   "ro": "Nu, eu... nu cred. Mulțumesc, V."
+  },
+  {
+   "key": "3244859144989483008",
+   "en": "I… I thought if you found out the truth, you wouldn't help.",
+   "ro": "Credeam că, dacă afli adevărul, n-o să mă mai ajuți."
+  },
+  {
+   "key": "3244860641651367936",
+   "en": "I… I'm sorry. I misjudged you.",
+   "ro": "Îmi pare rău... M-am înșelat în privința ta."
+  },
+  {
+   "key": "3244887001543385088",
+   "en": "Good luck out there.",
+   "ro": "Baftă acolo."
+  },
+  {
+   "key": "3246440867393085440",
+   "en": "What a waste. Chick had potential – coulda gone far. Pains me to see promisin' careers flushed down the drain.",
+   "ro": "Ce risipă. Tipa avea potențial – putea ajunge departe. Mă doare să văd cariere promițătoare trase pe apa sâmbetei."
+  },
+  {
+   "key": "3247683640825913344",
+   "en": "This wasn't my fault, V! You have to believe me!",
+   "ro": "Nu a fost vina mea, V! Trebuie să mă crezi!"
+  },
+  {
+   "key": "3253587265590829056",
+   "en": "Did you sell me out?!",
+   "ro": "M-ai vândut?!"
+  },
+  {
+   "key": "3253590202811588608",
+   "en": "W-w-what's goin' on?!",
+   "ro": "C-ce se întâmplă?!"
+  },
+  {
+   "key": "3253601032370298880",
+   "en": "No, no, no... This isn't happenin'…",
+   "ro": "Nu, nu, nu... Nu se întâmplă asta…"
+  },
+  {
+   "key": "3253630994984902656",
+   "en": "V, do something!",
+   "ro": "V, fă ceva!"
+  },
+  {
+   "key": "3253646040892874752",
+   "en": "Find anything?",
+   "ro": "Ai găsit ceva?"
+  },
+  {
+   "key": "3253658808605908992",
+   "en": "Can't do anything more for you.",
+   "ro": "Nu mai pot face nimic pentru tine."
+  },
+  {
+   "key": "3253694899971072000",
+   "en": "Had a deal, Nele. Nothin' more I can do for you.",
+   "ro": "Am avut o înțelegere, Nele. Nu mai pot face nimic pentru tine."
+  },
+  {
+   "key": "3253726559030648832",
+   "en": "No, this isn't over! Don’t leave me like this, please!",
+   "ro": "Nu, nu s-a terminat! Nu mă lăsa așa, te rog!"
+  },
+  {
+   "key": "3255113534228832256",
+   "en": "Just stay calm.",
+   "ro": "Stai calm."
+  },
+  {
+   "key": "3255151679896985600",
+   "en": "Just stay calm, OK? We'll figure this out.",
+   "ro": "Stai calm, OK? O să rezolvăm."
+  },
+  {
+   "key": "3255164326746955776",
+   "en": "I swear on my life, V! I had no idea civilians would die!",
+   "ro": "Jur pe viața mea, V! N-aveam nicio idee că o să moară civili!"
+  },
+  {
+   "key": "3255168817168818176",
+   "en": "Nele was just following orders -  manipulated against her will by terrorists.",
+   "ro": "Nele doar urma ordinele – teroriștii au manipulat-o împotriva voinței ei."
+  },
+  {
+   "key": "3292719213659463680",
+   "en": "V, please, come on, don't leave me…",
+   "ro": "V, te rog, hai, nu mă lăsa…"
+  },
+  {
+   "key": "3292719450805411844",
+   "en": "[Get out] Do what he says.",
+   "ro": "[Ieși] Fă ce spune."
+  },
+  {
+   "key": "3305729017256357892",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "3318881673546051584",
+   "en": "[Get out and draw weapon] Stay in the car. I'll deal with them.",
+   "ro": "[Ieși și scoate arma] Rămâi în mașină. Mă ocup eu de ei."
+  },
+  {
+   "key": "3318884912538595328",
+   "en": "Not givin' myself up. Stay here.",
+   "ro": "Nu mă predau. Stai aici."
+  },
+  {
+   "key": "3322937212622249984",
+   "en": "Get out.",
+   "ro": "Ieși afară."
+  },
+  {
+   "key": "3322940781538746368",
+   "en": "They'll kill you!",
+   "ro": "O să te omoare!"
+  },
+  {
+   "key": "3324652653983997952",
+   "en": "Four 'gainst one, huh? Bring it.",
+   "ro": "Patru contra unu, ha? Hai."
+  },
+  {
+   "key": "3324687169280712704",
+   "en": "Take them.",
+   "ro": "Ia-i."
+  },
+  {
+   "key": "3343614675186524160",
+   "en": "So that's why you didn't want to warn Biotechnica.",
+   "ro": "Deci de asta nu voiai să-i anunți pe ăia de la Biotechnica."
+  },
+  {
+   "key": "3343618292236853248",
+   "en": "Get now why you didn't want the corporate leash.",
+   "ro": "Acum îmi dau seama de ce n-ai vrut lesa aia corporatistă."
+  },
+  {
+   "key": "3343621025396334592",
+   "en": "'Cause they would've strung you up with it.",
+   "ro": "Că te-ar fi spânzurat cu ea."
+  },
+  {
+   "key": "3344641540848263168",
+   "en": "Shit, the car's hacked!",
+   "ro": "La naiba, mașina e hack-uită!"
+  }
+ ]
+}

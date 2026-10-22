@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\interrupt_voiceset_scene_block.json",
+ "entries": [
+  {
+   "key": "1947296794515374084",
+   "en": "[db_db]Voiceset Interrupt A",
+   "ro": "[db_db]Voiceset Interrupt A"
+  },
+  {
+   "key": "1947296794599260164",
+   "en": "[db_db]Voiceset Return A",
+   "ro": "[db_db]Voiceset Return A"
+  },
+  {
+   "key": "1947296794632814596",
+   "en": "[db_db]Voiceset Urgent A",
+   "ro": "[db_db]Voiceset Urgent A"
+  }
+ ]
+}

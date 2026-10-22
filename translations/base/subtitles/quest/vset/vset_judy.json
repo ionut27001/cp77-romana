@@ -1,0 +1,282 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_judy.json",
+ "entries": [
+  {
+   "key": "1796592928298090500",
+   "en": "Oh, shit!",
+   "ro": "Ah, căcat!"
+  },
+  {
+   "key": "1796592928331644932",
+   "en": "Incoming!",
+   "ro": "Vine!"
+  },
+  {
+   "key": "1796592928415531012",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1796592928516194308",
+   "en": "Now I'm really pissed off!",
+   "ro": "Acum chiar sunt nervoasă!"
+  },
+  {
+   "key": "1796592928549748740",
+   "en": "You asked for this!",
+   "ro": "Tu ai cerut asta!"
+  },
+  {
+   "key": "1796592928616857604",
+   "en": "Fuuuuuck!",
+   "ro": "Futu-i!"
+  },
+  {
+   "key": "1796592928633634820",
+   "en": "What the fuck!",
+   "ro": "Ce pula mea?!"
+  },
+  {
+   "key": "1796592928683966464",
+   "en": "See how you like them apples?!",
+   "ro": "Vezi cum îți plac merele astea?!"
+  },
+  {
+   "key": "1796592928700743684",
+   "en": "I'm done playing around!",
+   "ro": "Gata, nu mă mai joc!"
+  },
+  {
+   "key": "1796592928734298116",
+   "en": "Ekhkh... Aagghh... Let me... go!",
+   "ro": "Ekhkh... Aagghh... Lasă-mă... să plec!"
+  },
+  {
+   "key": "1796592928985956356",
+   "en": "'Kay, we'll pick this up later.",
+   "ro": "Bine, continuăm mai târziu."
+  },
+  {
+   "key": "1796592929002733572",
+   "en": "I'm sorry, was I boring you?",
+   "ro": "Scuze, te plictiseam?"
+  },
+  {
+   "key": "1796592929069842432",
+   "en": "What were we talking about?",
+   "ro": "Despre ce vorbeam?"
+  },
+  {
+   "key": "1796592929086619652",
+   "en": "You're back.",
+   "ro": "Te-ai întors."
+  },
+  {
+   "key": "1796592929120174084",
+   "en": "What's up with you?",
+   "ro": "Ce-i cu tine?"
+  },
+  {
+   "key": "1796592929136951300",
+   "en": "V! Get it together!",
+   "ro": "V! Pune-te pe picioare!"
+  },
+  {
+   "key": "1796592929388609540",
+   "en": "Oh, hey!",
+   "ro": "Oh, salut!"
+  },
+  {
+   "key": "1796592929422163972",
+   "en": "Hey, V.",
+   "ro": "Hei, V."
+  },
+  {
+   "key": "1796592929640267780",
+   "en": "Hey, watch out...",
+   "ro": "Hei, ai grijă..."
+  },
+  {
+   "key": "1796592929690599424",
+   "en": "Come on, seriously?",
+   "ro": "Hai, serios?"
+  },
+  {
+   "key": "1966166854243065860",
+   "en": "Uhh... V?",
+   "ro": "Uhh... V?"
+  },
+  {
+   "key": "1966166854276620292",
+   "en": "You there? Can you hear me?",
+   "ro": "Ești acolo? Mă auzi?"
+  },
+  {
+   "key": "2248180971236139016",
+   "en": "I'll help.",
+   "ro": "O să ajut."
+  },
+  {
+   "key": "2248180971773009928",
+   "en": "Oh shit... It's over. We did it.",
+   "ro": "Ah, căcat... S-a terminat. Am reușit."
+  },
+  {
+   "key": "2248180971806564360",
+   "en": "Look at us now – still standing.",
+   "ro": "Uite-ne acum – încă în picioare."
+  },
+  {
+   "key": "2248180971890450440",
+   "en": "Jesus, careful! No chargin' in now.",
+   "ro": "Doamne, ai grijă! Nu te repezi acum."
+  },
+  {
+   "key": "2248180971940782088",
+   "en": "V, cut that shit! I don't need you dead!",
+   "ro": "V, gata cu rahatul ăsta! Nu am nevoie de tine moartă!",
+   "ro_m": "V, gata cu rahatul ăsta! Nu am nevoie de tine mort!"
+  },
+  {
+   "key": "2248180971974336520",
+   "en": "Everything OK? Take a quick beat.",
+   "ro": "Totul OK? Ia o pauză scurtă."
+  },
+  {
+   "key": "2248180975128453128",
+   "en": "Do somethin', V! Fuckin' dyin' over here!",
+   "ro": "Fă ceva, V! Mor în pula mea aici!"
+  },
+  {
+   "key": "2248180975346556936",
+   "en": "Heads up, need to reload.",
+   "ro": "Atenție, trebuie să reîncarc."
+  },
+  {
+   "key": "2248180975480774660",
+   "en": "Cover me! I'm empty!",
+   "ro": "Acoperă-mă! Am rămas fără muniție!"
+  },
+  {
+   "key": "2248180975581437960",
+   "en": "Out of ammo, gimme a sec.",
+   "ro": "Fără muniție, dă-mi o sec."
+  },
+  {
+   "key": "2248180975782764552",
+   "en": "Grenade! Watch it!",
+   "ro": "Granată! Ai grijă!"
+  },
+  {
+   "key": "2248180975833096200",
+   "en": "'Nade airborne! Take cover!",
+   "ro": "Granată în aer! Adăpost!"
+  },
+  {
+   "key": "2248180977846362120",
+   "en": "Where'd they get gear like that?!",
+   "ro": "De unde au scos echipamentul ăsta?!"
+  },
+  {
+   "key": "2248180977879916552",
+   "en": "Well prepared, these guys!",
+   "ro": "Bine echipați, tipii ăștia!"
+  },
+  {
+   "key": "2248180978249015304",
+   "en": "Well? C'mon!",
+   "ro": "Ei? Hai!"
+  },
+  {
+   "key": "2248180978265792520",
+   "en": "Forget why we're here?",
+   "ro": "Ai uitat de ce suntem aici?"
+  },
+  {
+   "key": "2248180978316124168",
+   "en": "Focus, V.",
+   "ro": "Concentrare, V."
+  },
+  {
+   "key": "2248180978450341896",
+   "en": "Perfect… Don't see us anymore.",
+   "ro": "Perfect… Nu ne mai văd."
+  },
+  {
+   "key": "2248180978483896328",
+   "en": "It worked. Lost 'em.",
+   "ro": "A funcționat. I-am pierdut."
+  },
+  {
+   "key": "2248180978584559624",
+   "en": "See them up ahead!",
+   "ro": "Îi văd în față!"
+  },
+  {
+   "key": "2248180978618114056",
+   "en": "They're here. Stay alert.",
+   "ro": "Sunt aici. Fii pe fază."
+  },
+  {
+   "key": "2248180978702000136",
+   "en": "They'll see us! Get outta sight!",
+   "ro": "Ne văd! Dispari din câmpul vizual!"
+  },
+  {
+   "key": "2248180978752331784",
+   "en": "Careful, they heard something!",
+   "ro": "Ai grijă, au auzit ceva!"
+  },
+  {
+   "key": "2248180978819440648",
+   "en": "Cams are watching. Don't get seen.",
+   "ro": "Camerele ne urmăresc. Nu te lăsa văzută.",
+   "ro_m": "Camerele ne urmăresc. Nu te lăsa văzut."
+  },
+  {
+   "key": "2248180978869772296",
+   "en": "They got eyes on everything.",
+   "ro": "Au ochi peste tot."
+  },
+  {
+   "key": "2248180978953658376",
+   "en": "Either clean this up or the rest'll get wise.",
+   "ro": "Ori cureți asta, ori ceilalți se prind."
+  },
+  {
+   "key": "2248180979003990024",
+   "en": "Better hide that body.",
+   "ro": "Mai bine ascunde cadavrul."
+  },
+  {
+   "key": "2248180979071098888",
+   "en": "Oh, come on!",
+   "ro": "Hai, mă!"
+  },
+  {
+   "key": "2248180979121430536",
+   "en": "Aaaarghh!",
+   "ro": "Aaaarghh!"
+  },
+  {
+   "key": "2248180979171762184",
+   "en": "Quiet!",
+   "ro": "Liniște!"
+  },
+  {
+   "key": "2248180979222093832",
+   "en": "Careful!",
+   "ro": "Atenție!"
+  },
+  {
+   "key": "2253529377170743296",
+   "en": "What's with you? Quit laggin' behind.",
+   "ro": "Ce-ai pățit? Nu mai rămâne în urmă."
+  },
+  {
+   "key": "2253530582395609096",
+   "en": "Stay with me, V. C'mon.",
+   "ro": "Rămâi cu mine, V. Hai."
+  }
+ ]
+}

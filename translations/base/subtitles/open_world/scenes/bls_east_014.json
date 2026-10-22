@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\bls_east_014.json",
+ "entries": [
+  {
+   "key": "2189456006657564672",
+   "en": "Ugh, sure is a scorcher. The power's out again, I can't even get a fan goin'.",
+   "ro": "Ugh, ce caniculă. Iar a picat curentul, nu pot porni nici ventilatorul."
+  },
+  {
+   "key": "2189472625848967168",
+   "en": "<kiroshi l=\"jpn\" o=\"はあ、本当困るわよね。水も出ないし。でも仕方ないから。ところで新しい仕事はどう？\" t=\"Oof. Tell me about it. Water's out, too. But what can you do, you know? How's things in the new job?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はあ、本当困るわよね。水も出ないし。でも仕方ないから。ところで新しい仕事はどう？\" t=\"Of, da, și mie-mi zici. Și apa e tăiată. Dar ce să-i faci, știi? Cum merge la noul job?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189475760571113472",
+   "en": "Barely keepin' up with all those orders. But at least I get to take the leftovers home.",
+   "ro": "Abia țin pasul cu toate comenzile. Dar cel puțin pot lua resturile acasă."
+  },
+  {
+   "key": "2189482292226514944",
+   "en": "<kiroshi l=\"jpn\" o=\"へえ、何かいいのがあったら分けてよ。食べ物はいつでも大歓迎よ\" t=\"Oooh. Well, if you get your hands on something good, you know I'm always hungry.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"へえ、何かいいのがあったら分けてよ。食べ物はいつでも大歓迎よ\" t=\"Oooh. Ei, dacă pui mâna pe ceva bun, știi că mi-e foame mereu.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189482860722479104",
+   "en": "Nah, I don't touch the ganic stuff. Small portions, and what's there is gross. Took some home once, we all got sick.",
+   "ro": "Nah, nu mă ating de chestiile ganice. Porții mici, și ce e acolo e scârbos. Am luat o dată acasă, ne-am îmbolnăvit toți."
+  },
+  {
+   "key": "2189495729048477696",
+   "en": "<kiroshi l=\"jpn\" o=\"コックが中に唾入れてたりして\" t=\"I bet if someone orders fresh, the cooks just spit in it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"コックが中に唾入れてたりして\" t=\"Pun pariu că dacă cineva comandă ceva proaspăt, bucătarii scuipă în ea.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2189496390104342528",
+   "en": "Hell, I'd spit too, if I wasn't afraid they'd trace my DNA. Or catch me on camera.",
+   "ro": "La naiba, aș scuipa și eu, dacă nu mi-ar fi frică să nu-mi urmărească ADN-ul. Sau să mă prindă camerele."
+  }
+ ]
+}

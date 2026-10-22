@@ -1,0 +1,264 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q113\\q113_05_av_flight.json",
+ "entries": [
+  {
+   "key": "1722857444705574912",
+   "en": "Did you prepare everything?",
+   "ro": "Ai pregătit totul?"
+  },
+  {
+   "key": "1805351569475899392",
+   "en": "Is it not too early for champagne?",
+   "ro": "Nu e prea devreme pentru șampanie?"
+  },
+  {
+   "key": "1805352240547762176",
+   "en": "Ahem!",
+   "ro": "Ahem!"
+  },
+  {
+   "key": "1805355264976490496",
+   "en": "But if it helps you calm down…",
+   "ro": "Dar dacă te ajută să te calmezi…"
+  },
+  {
+   "key": "1805365726107537412",
+   "en": "No thanks. My hands are fine.",
+   "ro": "Nu, mulțumesc. Mâinile mi-s bine."
+  },
+  {
+   "key": "1805365991573426176",
+   "en": "[Accept drink] Sure, might clear my head.",
+   "ro": "[Acceptă băutura] Sigur, poate-mi limpezește mintea."
+  },
+  {
+   "key": "1805369893903536128",
+   "en": "No need. My hands are fine.",
+   "ro": "Nu e nevoie. Mâinile mi-s bine."
+  },
+  {
+   "key": "1805370042147016704",
+   "en": "Why not?",
+   "ro": "De ce nu?"
+  },
+  {
+   "key": "1805370345344864256",
+   "en": "Huh, weird…",
+   "en_m": "Ugh, weird…",
+   "ro": "Hm, ciudat…",
+   "ro_m": "Ugh, ciudat…"
+  },
+  {
+   "key": "1805431184915566592",
+   "en": "Your central nervous system.",
+   "ro": "Sistemul tău nervos central."
+  },
+  {
+   "key": "1805432210859102208",
+   "en": "Hmph, what is strange is that this has only happened now.",
+   "ro": "Hmph, ciudat e că s-a întâmplat abia acum."
+  },
+  {
+   "key": "1805442880900042752",
+   "en": "She asked you a question.",
+   "en_m": "He asked you a question.",
+   "ro": "Ea ți-a pus o întrebare.",
+   "ro_m": "El ți-a pus o întrebare."
+  },
+  {
+   "key": "1805442981294903296",
+   "en": "And I have no answer for her.",
+   "en_m": "And I have no answer for him.",
+   "ro": "Și n-am niciun răspuns pentru ea.",
+   "ro_m": "Și n-am niciun răspuns pentru el."
+  },
+  {
+   "key": "1805445333880016896",
+   "en": "You will lose your hearing next. Then your sight.",
+   "ro": "Urmează auzul. Apoi vederea."
+  },
+  {
+   "key": "1825600280806166528",
+   "en": "Meaning what?",
+   "ro": "Adică ce?"
+  },
+  {
+   "key": "1825600766640787456",
+   "en": "It's a shambles.",
+   "ro": "E un dezastru."
+  },
+  {
+   "key": "1825611203411316740",
+   "en": "[Finish champagne] Well, no time to lose, then.",
+   "ro": "[Termină șampania] Păi, nu e timp de pierdut, atunci."
+  },
+  {
+   "key": "1825612911348682752",
+   "en": "[Set glass down] Not thirsty anymore.",
+   "ro": "[Pune paharul jos] Mi-a trecut setea."
+  },
+  {
+   "key": "1825613395589468160",
+   "en": "Any of it reversible?",
+   "ro": "E reversibil ceva din asta?"
+  },
+  {
+   "key": "1825615414224097280",
+   "en": "Not here, not without proper equipment.",
+   "ro": "Nu aici, nu fără echipamentul potrivit."
+  },
+  {
+   "key": "1825616735782178816",
+   "en": "Well, no time to waste, then.",
+   "ro": "Păi, nu e timp de pierdut, atunci."
+  },
+  {
+   "key": "1825616917714309120",
+   "en": "Not thirsty anymore.",
+   "ro": "Mi-a trecut setea."
+  },
+  {
+   "key": "1825618177230245888",
+   "en": "Might help clear my head.",
+   "en_m": "Heh, might help clear my head.",
+   "ro": "Poate îmi limpezește mintea.",
+   "ro_m": "Heh, poate îmi limpezește mintea."
+  },
+  {
+   "key": "1825619202989232128",
+   "en": "It's flavorless.",
+   "ro": "N-are gust."
+  },
+  {
+   "key": "1825622151467503616",
+   "en": "I might beg to differ, V.",
+   "ro": "Aș zice că nu sunt de acord, V."
+  },
+  {
+   "key": "1825630904694738944",
+   "en": "Does anyone else have trembling hands?",
+   "ro": "Mai tremură cuiva mâinile?"
+  },
+  {
+   "key": "1825694657226346500",
+   "en": "Everything's fine.",
+   "ro": "Totul e bine."
+  },
+  {
+   "key": "1825695080834273280",
+   "en": "Felt better.",
+   "ro": "Mă simțeam mai bine."
+  },
+  {
+   "key": "1825695772575666176",
+   "en": "Rest of me's up to scratch, too.",
+   "ro": "Restul e în regulă, mersi."
+  },
+  {
+   "key": "1825695843409072128",
+   "en": "Ugh, felt better.",
+   "ro": "Ugh, mă simțeam mai bine."
+  },
+  {
+   "key": "1825696273476227072",
+   "en": "That is a lie.",
+   "ro": "Minți."
+  },
+  {
+   "key": "1825696532533219328",
+   "en": "She faded out in the car.",
+   "en_m": "He faded out in the car.",
+   "ro": "Ea a leșinat în mașină.",
+   "ro_m": "El a leșinat în mașină."
+  },
+  {
+   "key": "1825697572955492352",
+   "en": "Just tired.",
+   "ro": "Doar obosită.",
+   "ro_m": "Doar obosit."
+  },
+  {
+   "key": "1825698140193165312",
+   "en": "Your central nervous system is a shambles.",
+   "ro": "Sistemul nervos central e praf."
+  },
+  {
+   "key": "1825699208515948544",
+   "en": "That is to be expected.",
+   "ro": "E de așteptat."
+  },
+  {
+   "key": "1825699578403229696",
+   "en": "To be honest, it's a miracle you can still walk.",
+   "ro": "Sincer, e un miracol că mai poți merge."
+  },
+  {
+   "key": "1825700135524241408",
+   "en": "We must make haste.",
+   "ro": "Trebuie să ne grăbim."
+  },
+  {
+   "key": "1825701721021485056",
+   "en": "How do you mean?",
+   "ro": "Ce vrei să zici?"
+  },
+  {
+   "key": "1825701784640688128",
+   "en": "Get these, uh... blackouts...",
+   "ro": "Scapă de astea, ăă... leșinurile..."
+  },
+  {
+   "key": "1825703608626057216",
+   "en": "Her central nervous system is a shambles.",
+   "en_m": "His central nervous system is a shambles.",
+   "ro": "Sistemul ei nervos central e un dezastru.",
+   "ro_m": "Sistemul lui nervos central e un dezastru."
+  },
+  {
+   "key": "1825704809069416448",
+   "en": "Hellman?",
+   "ro": "Hellman?"
+  },
+  {
+   "key": "1825705492237651968",
+   "en": "If I had to guess...",
+   "ro": "Dacă ar fi să ghicesc..."
+  },
+  {
+   "key": "1825706499642363904",
+   "en": "Honestly, it's a miracle she can still walk.",
+   "en_m": "Honestly, it's a miracle he can still walk.",
+   "ro": "Sincer, e un miracol că mai poate merge."
+  },
+  {
+   "key": "1825710758219878400",
+   "en": "Watch your tone, or it is you who will find it hard to walk.",
+   "ro": "Mai bine ai grijă la ton, că ajungi tu să ai probleme să mergi."
+  },
+  {
+   "key": "1825712984506109952",
+   "en": "Enough.",
+   "ro": "Destul."
+  },
+  {
+   "key": "1825742389429276672",
+   "en": "Is your nervous system a shambles, too?",
+   "ro": "Și sistemul tău nervos e varză?"
+  },
+  {
+   "key": "1825742622548692992",
+   "en": "Any of it reversible?",
+   "ro": "E reversibil ceva din asta?"
+  },
+  {
+   "key": "1825746766420381696",
+   "en": "Once Yorinobu has been dealt with, we shall attend to your needs.",
+   "ro": "După ce terminăm cu Yorinobu, ne ocupăm și de nevoile tale."
+  },
+  {
+   "key": "1825820404490309632",
+   "en": "Quite.",
+   "ro": "Sigur."
+  }
+ ]
+}

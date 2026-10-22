@@ -1,0 +1,961 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq023\\sq023_07_restaurant.json",
+ "entries": [
+  {
+   "key": "1380647231712051200",
+   "en": "[Sit] Tough customer, that Vasquez.",
+   "ro": "[Stai jos] Client dur, Vasquez ăsta."
+  },
+  {
+   "key": "1563588639853535232",
+   "en": "Got a tough customer with that Vasquez – even for a badge.",
+   "ro": "Vasquez ăsta e un client greu, chiar și pentru un polițist."
+  },
+  {
+   "key": "1568866410607566848",
+   "en": "Props – really well played, that.",
+   "ro": "Respect – chiar bine jucat."
+  },
+  {
+   "key": "1568872611047170048",
+   "en": "What do you make of it all?",
+   "ro": "Ce părere ai despre toată treaba asta?"
+  },
+  {
+   "key": "1568872851749888000",
+   "en": "Guy just might be the biggest nutjob I've ever seen, but it's still corporate exploitation.",
+   "ro": "Tipul ăsta poate fi cel mai mare țicnit pe care l-am văzut, dar tot exploatare corporatistă e."
+  },
+  {
+   "key": "1773533062359912448",
+   "en": "If he's as crazy as you say, why's he so important to you?",
+   "en_m": "If he's as crazy as you say, why is he so important to you?",
+   "ro": "Dacă e așa nebun cum spui, de ce e atât de important pentru tine?"
+  },
+  {
+   "key": "1773545705602781188",
+   "en": "Fine.",
+   "ro": "Bine."
+  },
+  {
+   "key": "1773546922638807040",
+   "en": "Fine. Deal.",
+   "ro": "Bine. S-a făcut."
+  },
+  {
+   "key": "1773547592351715328",
+   "en": "No way.",
+   "ro": "Nici vorbă."
+  },
+  {
+   "key": "1773548161552322560",
+   "en": "My answer's no.",
+   "ro": "Eu zic nu."
+  },
+  {
+   "key": "1773563512402972672",
+   "en": "Very wise choice.",
+   "ro": "Ai ales bine."
+  },
+  {
+   "key": "1773573910636236800",
+   "en": "Why do I think you don't understand what I'm offering you… ?",
+   "ro": "De ce am impresia că nu înțelegi ce-ți ofer…?"
+  },
+  {
+   "key": "1773584804267134976",
+   "en": "Understand just fine. Let's go inside.",
+   "ro": "Înțeleg perfect. Hai să intrăm."
+  },
+  {
+   "key": "1773586333812363264",
+   "en": "Fucking pathetic.",
+   "ro": "Penibil în pula mea!"
+  },
+  {
+   "key": "1773649125412147200",
+   "en": "I'm sorry it had to end this way.",
+   "ro": "Îmi pare rău că s-a terminat așa."
+  },
+  {
+   "key": "1773651305661698048",
+   "en": "Fuck off.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1773651480664838144",
+   "en": "Just go already!",
+   "ro": "Pleacă odată!"
+  },
+  {
+   "key": "1783852380582809600",
+   "en": "Pay me more and I will.",
+   "ro": "Plătește-mă mai mult și o fac."
+  },
+  {
+   "key": "1783853559450669060",
+   "en": "Please, I know the kinds of budgets BDs get. You can do better than that. Lots better.",
+   "en_m": "Please, I know what kind of budgets BDs get. You can do better than that. Lots better.",
+   "ro": "Te rog, știu ce bugete au BD-urile. Poți mai bine de-atât. Mult mai bine."
+  },
+  {
+   "key": "1783853559450669068",
+   "en": "Fine! Triple... and you disappear like the morning dew off North Oak front yards.",
+   "ro": "Bine! Triplu... și dispari ca roua dimineții de pe peluzele din North Oak."
+  },
+  {
+   "key": "1803755698729750528",
+   "en": "Don't follow me in. I'll tell Stephenson you said goodbye.",
+   "ro": "Nu mă urma înăuntru. Îi spun eu lui Stephenson că ai zis pa."
+  },
+  {
+   "key": "1803762980695805952",
+   "en": "Not bad, for a petty merc off the streets…",
+   "ro": "Nu e rău, pentru un merc de stradă…"
+  },
+  {
+   "key": "1803768386751008772",
+   "en": "What's going on here?",
+   "ro": "Ce se întâmplă aici?"
+  },
+  {
+   "key": "1803770119652872192",
+   "en": "Corpocunts like that annoy the fuck out of me.",
+   "ro": "Corpo-pulii ca ăsta mă enervează de nu mai pot."
+  },
+  {
+   "key": "1803770253065293824",
+   "en": "Grown curious how this'll all end.",
+   "ro": "Mă taie curiozitatea cum o să se termine totul."
+  },
+  {
+   "key": "1803771764373688320",
+   "en": "In pain and profit, that's how. One's sacred, the other's insane, though who knows if they aren't congruous concepts.",
+   "ro": "În durere și profit, așa. Una e sacră, cealaltă e nebunie, deși cine știe, poate sunt compatibile."
+  },
+  {
+   "key": "1803775051802054660",
+   "en": "Corporats... think they can solve everything with eddies...",
+   "ro": "Corporațiștii... cred că pot rezolva totul cu eddies-uri..."
+  },
+  {
+   "key": "1803775051852386308",
+   "en": "And you proved her wrong. Just don't make her desperate, she's liable to bite back.",
+   "ro": "Și i-ai dovedit că greșește. Doar nu o împinge la disperare, că mușcă."
+  },
+  {
+   "key": "1803777315434369024",
+   "en": "Joshua deserves our support.",
+   "ro": "Joshua merită sprijinul nostru."
+  },
+  {
+   "key": "1803778433719701508",
+   "en": "Joshua deserves better company than us.",
+   "ro": "Joshua merită o companie mai bună decât noi."
+  },
+  {
+   "key": "1803778433719701516",
+   "en": "C'mon, two sinners is just what Jesus of Arroyo needs.",
+   "ro": "Hai, doi păcătoși e exact ce-i trebuie Iisusului din Arroyo."
+  },
+  {
+   "key": "1803789808907030528",
+   "en": "Deal.",
+   "ro": "S-a făcut."
+  },
+  {
+   "key": "1805611572299063300",
+   "en": "[Get out] Joshua needs psychiatric care.",
+   "ro": "[Ieși] Lui Joshua îi trebuie un psihiatru."
+  },
+  {
+   "key": "1805611847495737344",
+   "en": "Honestly? Can't rightly make up my mind about him.",
+   "en_m": "Honestly? Can't rightly make my mind up about him.",
+   "ro": "Sincer? Nu-mi dau seama ce să cred despre el."
+  },
+  {
+   "key": "1805612117340479488",
+   "en": "So, what do you think about our next, big BD star?",
+   "ro": "Deci, ce zici de următoarea noastră mare stea BD?"
+  },
+  {
+   "key": "1805613361001947136",
+   "en": "[Get out] He's a true believer.",
+   "ro": "[Ieși] E un credincios adevărat."
+  },
+  {
+   "key": "1805613424335937536",
+   "en": "[Get out] Seems like a nice guy.",
+   "ro": "[Ieși] Pare un tip de treabă."
+  },
+  {
+   "key": "1805614355538534400",
+   "en": "[Get out] Can't make up my mind about him.",
+   "ro": "[Ieși] Nu-mi dau seama ce să cred despre el."
+  },
+  {
+   "key": "1805614984365367296",
+   "en": "He's a true believer if I've ever seen one.",
+   "en_m": "He's a true believer if I ever saw one.",
+   "ro": "E un credincios cum rar găsești."
+  },
+  {
+   "key": "1805615122525741056",
+   "en": "He's got some organic chips loose, needs psychiatric help.",
+   "ro": "Are niște șuruburi slăbite, îi trebuie un psihiatru."
+  },
+  {
+   "key": "1805615456191012864",
+   "en": "Nah, he seems nice... y'know, for a murderer.",
+   "en_m": "Seems nice... y'know, for a murderer.",
+   "ro": "Ba pare simpatic... știi tu, pentru un criminal.",
+   "ro_m": "Pare drăguț... știi tu, pentru un criminal."
+  },
+  {
+   "key": "1805619484551569408",
+   "en": "Hmm... my thoughts exactly. But it's too late for that.",
+   "ro": "Hm... exact ce gândeam și eu. Dar acum e prea târziu."
+  },
+  {
+   "key": "1805624876614574080",
+   "en": "He's a true nutcase, that's what he is. But that's beside the point.",
+   "ro": "E un nebun de legat, asta e. Dar nu asta e problema acum."
+  },
+  {
+   "key": "1805627137663197184",
+   "en": "Nice? Maybe. But I'd go with completely lost and unhinged.",
+   "ro": "Drăguț? Poate. Eu zic mai degrabă că e complet sărit de pe fix."
+  },
+  {
+   "key": "1805631173607055360",
+   "en": "Some people are only nice because they're afraid of getting hurt. Or 'cause their religion tells 'em to be.",
+   "ro": "Unii sunt drăguți doar ca să nu pățească ei ceva. Sau pentru că așa le spune religia."
+  },
+  {
+   "key": "1805634883368280064",
+   "en": "Lemme help you out.",
+   "ro": "Lasă că te ajut eu."
+  },
+  {
+   "key": "1805635802491281408",
+   "en": "Stephenson's a very disturbed man whose obsession with guilt is driving him to the brink of insanity.",
+   "ro": "Stephenson e rău de tot, obsesia lui cu vinovăția îl împinge spre nebunie."
+  },
+  {
+   "key": "1805638538670661632",
+   "en": "Because Stephenson's got a little somethin' that's in short supply but in very high demand.",
+   "ro": "Pentru că Stephenson are ceva rar, și lumea îl caută."
+  },
+  {
+   "key": "1805640006458957824",
+   "en": "That little somethin's called authenticity. In that brain composed entirely of cat shit at this point, he truly believes what he says.",
+   "ro": "Ăla se cheamă autenticitate. Creierul lui e acum numai rahat de pisică, dar chiar crede ce zice."
+  },
+  {
+   "key": "1805641998921129988",
+   "en": "Ah, the perfect actor.",
+   "ro": "A, actorul perfect."
+  },
+  {
+   "key": "1805642190986698752",
+   "en": "Ah, sounds like the perfect BD actor.",
+   "en_m": "Huh, sounds like the perfect BD actor.",
+   "ro": "A, sună a actor BD perfect.",
+   "ro_m": "Hm, sună a actor BD perfect."
+  },
+  {
+   "key": "1805642268480659456",
+   "en": "Think he might be more self-possessed than you think.",
+   "ro": "Cred că e mai cu capul pe umeri decât crezi."
+  },
+  {
+   "key": "1805642341864202240",
+   "en": "Think you might be underestimating him.",
+   "ro": "Cred că-l subestimezi."
+  },
+  {
+   "key": "1805685483300741120",
+   "en": "Mhm, and one incapable of fucking up in any way.",
+   "ro": "Mhm, și unul care n-ar da greș nici în ruptul căcatului."
+  },
+  {
+   "key": "1805694187605614592",
+   "en": "Look, you're no shrink and neither am I. We're both just out to get paid.",
+   "ro": "Uite, nu ești psihiatru și nici eu. Noi vrem doar banii, atâta tot."
+  },
+  {
+   "key": "1805695588301824000",
+   "en": "Stephenson could be a fat, old, fucking gold vein for our studio…",
+   "ro": "Stephenson ar putea fi un filon de aur gras, bătrân și al dracului, pentru studioul nostru…"
+  },
+  {
+   "key": "1805696411861803008",
+   "en": "And that's my concern because...?",
+   "ro": "Și de ce ar fi treaba mea?"
+  },
+  {
+   "key": "1805696853169692672",
+   "en": "You're fucking with his mind, asking probing questions. You're making him doubt, and most importantly, jeopardizing my investment.",
+   "ro": "Îi dai peste cap mintea cu întrebările tale de căcat. Îl faci să se îndoiască și, mai ales, îmi pui în pericol investiția."
+  },
+  {
+   "key": "1805698011200249856",
+   "en": "So I'm prepared to pay you double what he's promised you to quietly walk away.",
+   "ro": "Deci îți dau dublu față de ce ți-a promis el, numai să pleci în liniște."
+  },
+  {
+   "key": "1805716479576399872",
+   "en": "Very wise choice.",
+   "ro": "Ai ales bine."
+  },
+  {
+   "key": "1805716631812857856",
+   "en": "Don't follow me in. I'll tell Stephenson you said goodbye.",
+   "ro": "Nu mă urma înăuntru. Îi spun eu lui Stephenson că ai zis pa."
+  },
+  {
+   "key": "1805717465288171520",
+   "en": "Fucking pathetic.",
+   "ro": "Penibil în pula mea!"
+  },
+  {
+   "key": "1805724991228502016",
+   "en": "But yeah, I'm curious, too. And I've been surprised before.",
+   "ro": "Dar da, și pe mine mă mănâncă curiozitatea. Și m-au mai surprins și alții."
+  },
+  {
+   "key": "1805727303833509888",
+   "en": "A thief and a terrorist. I'm in!",
+   "ro": "Un hoț și un terorist. Mă bag!"
+  },
+  {
+   "key": "1814308228943077376",
+   "en": "Vasquez – he blue inside and out?",
+   "ro": "Vasquez – e albastru până în măduva oaselor?"
+  },
+  {
+   "key": "1814308882616967172",
+   "en": "Really wonder what kind of dirt you're holdin' on Vasquez.",
+   "ro": "Chiar mă întreb ce mizerie ai pe Vasquez."
+  },
+  {
+   "key": "1814389200602554368",
+   "en": "Can we please talk about something besides faith?",
+   "ro": "Putem vorbi despre altceva decât credința?"
+  },
+  {
+   "key": "1814389268030185472",
+   "en": "Chatter's pointless – that's enough. Stephenson can't be distracted, he has to focus now.",
+   "ro": "Gata cu bălăcăreala – ajunge. Stephenson nu se lasă distras, trebuie să se concentreze acum."
+  },
+  {
+   "key": "1814459749550809092",
+   "en": "Fuck off already.",
+   "ro": "Du-te dracu' odată."
+  },
+  {
+   "key": "1814460083467739136",
+   "en": "What do you do to relax, Rachel?",
+   "ro": "Cum te relaxezi, Rachel?"
+  },
+  {
+   "key": "1814460470333562880",
+   "en": "Tell me about this braindance.",
+   "ro": "Spune-mi despre braindance-ul ăsta."
+  },
+  {
+   "key": "1814467639758053376",
+   "en": "This braindance – I'm curious, tell me more.",
+   "ro": "Braindance-ul ăsta – sunt curios, zi mai multe."
+  },
+  {
+   "key": "1814469931894857728",
+   "en": "Title's \"The Passion\" – we're speakin' to the LCD, of course. And it's gonna revolutionize BD.",
+   "ro": "Titlul e „The Passion” – vorbim, sigur, pe înțelesul tuturor. Și o să revoluționeze BD-ul."
+  },
+  {
+   "key": "1814471525378056192",
+   "en": "How so?",
+   "ro": "Cum așa?"
+  },
+  {
+   "key": "1814471652348026880",
+   "en": "Well, Stephenson's furlough is only so long. We can only scroll the last bit with him.",
+   "ro": "Păi, permisia lui Stephenson e limitată. Putem derula doar ultima parte cu el."
+  },
+  {
+   "key": "1814472912098844672",
+   "en": "But we'll fill in the run-up to the finale with BD doubles and emobank assets. It'll feel like Stephenson, though.",
+   "ro": "Dar preludiul finalului o să-l completăm cu dubluri BD și active din emobank. O să pară tot Stephenson, totuși."
+  },
+  {
+   "key": "1814475496075321344",
+   "en": "How is that even possible?",
+   "en_m": "How's that even possible?",
+   "ro": "Cum e posibil așa ceva?"
+  },
+  {
+   "key": "1814475730419474432",
+   "en": "Gimme a break, we're part of EBM. Infinite investment in tech. Couple of years and we won't be using actors anymore. I dream of the day…",
+   "ro": "Lasă-mă, mă, suntem parte din EBM. Investiție infinită în tech. În câțiva ani n-o să mai folosim actori. Visul meu…"
+  },
+  {
+   "key": "1814475975501045760",
+   "en": "So why Josh? Sounds like you don't even need him now.",
+   "ro": "Deci de ce Josh? Parcă nici nu mai ai nevoie de el acum."
+  },
+  {
+   "key": "1814476427009482752",
+   "en": "The Son of Man's agony – you can't weave it strictly out of digital threads just yet.",
+   "ro": "Agonia Fiului Omului – nu o poți țese doar din fire digitale, nu încă."
+  },
+  {
+   "key": "1814478886046031872",
+   "en": "What's your part in all this?",
+   "ro": "Care e rolul tău în toată treaba asta?"
+  },
+  {
+   "key": "1814479100660178944",
+   "en": "Can we please stop talking about faith?",
+   "ro": "Putem înceta odată să vorbim despre credință?"
+  },
+  {
+   "key": "1814480294375874560",
+   "en": "And you? Get any say in all this?",
+   "ro": "Iar tu? Ai vreun cuvânt de spus în toată treaba asta?"
+  },
+  {
+   "key": "1814480859398955008",
+   "en": "He forced the writers to go with the Christian Gospel according to Luke. They'd originally opted for John.",
+   "ro": "I-a forțat pe scriitori să meargă cu Evanghelia după Luca. Ei inițial optaseră pentru John."
+  },
+  {
+   "key": "1814482992974290944",
+   "en": "Mm. Guess that's important for…",
+   "en_m": "Guess that's, uh... important for…",
+   "ro": "Mhm. Sigur e important pentru…",
+   "ro_m": "Sigur e, ăă... important pentru…"
+  },
+  {
+   "key": "1814487459488620544",
+   "en": "John's version is crude and over the top – the Gospel of Luke speaks more to my sensibility.",
+   "ro": "Versiunea lui John e brută și exagerată – mie mi se potrivește mai mult Evanghelia după Luca."
+  },
+  {
+   "key": "1814488924072468480",
+   "en": "Besides, Luke's Christ is prepared for what awaits him. I want the world to understand that – feel it.",
+   "ro": "În plus, Cristosul lui Luca e pregătit pentru ce-l așteaptă. Vreau ca lumea să înțeleagă asta – să o simtă."
+  },
+  {
+   "key": "1814520740485554180",
+   "en": "Sound like an actor who wants to really become the role.",
+   "ro": "Sună a actor care chiar vrea să devină rolul."
+  },
+  {
+   "key": "1814520985164472320",
+   "en": "So what're you trying to convey to the world?",
+   "ro": "Deci ce vrei să transmiți lumii?"
+  },
+  {
+   "key": "1814527441590837248",
+   "en": "Sound like an actor who really wants to become the part.",
+   "en_m": "Y'sound like an actor who really wants to become the part.",
+   "ro": "Sună a actor care chiar vrea să devină personajul."
+  },
+  {
+   "key": "1814527502274027520",
+   "en": "So what is it you want to convey, exactly?",
+   "ro": "Deci ce vrei să transmiți, mai exact?"
+  },
+  {
+   "key": "1814535801912451072",
+   "en": "That Christ was merciful and continues to die for the world's sins.",
+   "ro": "Că Hristos a fost milostiv și continuă să moară pentru păcatele lumii."
+  },
+  {
+   "key": "1814544328211062784",
+   "en": "I only have one shot at this, I... I need to make it count.",
+   "ro": "Am o singură șansă la asta, eu... trebuie să merite."
+  },
+  {
+   "key": "1814550499475087360",
+   "en": "Joshua and I are talking, so fuck off, will ya?",
+   "en_m": "Joshua and I are talkin' – so fuck off, will ya?",
+   "ro": "Joshua și cu mine vorbim, așa că du-te dracu', vrei?",
+   "ro_m": "Joshua și cu mine vorbim – așa că du-te dracu', vrei?"
+  },
+  {
+   "key": "1814569469322223616",
+   "en": "Might as well've been born with a badge.",
+   "ro": "Parcă s-a născut cu insignă."
+  },
+  {
+   "key": "1814569733194276864",
+   "en": "Must have some solid dirt on him, then.",
+   "ro": "Atunci trebuie să aibă ceva murdar pe el."
+  },
+  {
+   "key": "1814570085666807808",
+   "en": "The studio's majority stakeholder's a corp. Unlike you, Vasquez would clearly mind having enemies in high places.",
+   "ro": "Acționarul majoritar al studioului e o corporație. Spre deosebire de tine, lui Vasquez i-ar păsa clar să aibă dușmani la vârf."
+  },
+  {
+   "key": "1814577813101502464",
+   "en": "Josh, your night. Topic of choice?",
+   "ro": "Josh, e noaptea ta. Ce subiect alegi?"
+  },
+  {
+   "key": "1814578770895986688",
+   "en": "Uhh... I-I dunno, heh, I-I spent years not talking to anyone…",
+   "ro": "Uhh... n-nu știu, heh, am stat ani fără să vorbesc cu nimeni…"
+  },
+  {
+   "key": "1814579499933130752",
+   "en": "OK. Nothing hard. What do you do to relax?",
+   "en_m": "OK. Nothin' hard. What do you do to relax?",
+   "ro": "OK. Nimic greu. Cum te relaxezi?"
+  },
+  {
+   "key": "1814579768922234880",
+   "en": "Uhhh, haha, well let's see I... I-I read scripture, watch braindances and movies. Did you hear about the remake of \"Badlands Raid\"?",
+   "ro": "Uhhh, haha, păi să văd, eu... citesc din Scriptură, mă uit la BD-uri și filme. Ai auzit de remake-ul „Badlands Raid”?"
+  },
+  {
+   "key": "1814581589703155716",
+   "en": "Remake kicks the original's ass.",
+   "ro": "Remake-ul îl întrece pe original."
+  },
+  {
+   "key": "1814581867819065344",
+   "en": "Nothing like an original.",
+   "ro": "Nimic nu se compară cu un original."
+  },
+  {
+   "key": "1814582038258802688",
+   "en": "Never saw either.",
+   "ro": "N-am văzut niciunul."
+  },
+  {
+   "key": "1814582374792978432",
+   "en": "Never saw either – braindances aren't my thing.",
+   "ro": "N-am văzut niciunul – BD-urile nu-s genul meu."
+  },
+  {
+   "key": "1814582684701712384",
+   "en": "Original's always the original. And ten times better.",
+   "en_m": "The original's always the original. And ten times better.",
+   "ro": "Originalul e mereu originalul. Și de zece ori mai bun."
+  },
+  {
+   "key": "1814582843145740288",
+   "en": "Yeah, kicks the original's ass, trust me.",
+   "ro": "Da, îi dă clasă originalului, crede-mă."
+  },
+  {
+   "key": "1814589770340786176",
+   "en": "Relax, Rachel.",
+   "ro": "Relaxează-te, Rachel."
+  },
+  {
+   "key": "1814591013968699392",
+   "en": "Yes, why, I don't know anything about you. How do you spend your leisure time? What do you do to unwind?",
+   "ro": "Da, de ce, nu știu nimic despre tine. Cum îți petreci timpul liber? Cum te mai destinzi?"
+  },
+  {
+   "key": "1814591990251675648",
+   "en": "None of your fuckin' business.",
+   "ro": "Nu-i treaba ta, pula mea."
+  },
+  {
+   "key": "1814592341902123008",
+   "en": "I mean it as a serious question.",
+   "ro": "Întreb serios."
+  },
+  {
+   "key": "1814592905096486912",
+   "en": "I meditate.",
+   "ro": "Medit."
+  },
+  {
+   "key": "1815279374970675200",
+   "en": "Excuse me?! Realize the stakes here. Tomorrow, this guy's gonna create his masterwork.",
+   "ro": "Scuză-mă?! Pune-ți în cap ce e în joc. Mâine tipul ăsta o să-și facă capodopera."
+  },
+  {
+   "key": "1815281519451201536",
+   "en": "He needs to focus, keep his head in the game and put in the performance of his lifetime. There aren't any do-overs.",
+   "ro": "Trebuie să se concentreze, să fie cu mintea la treabă și să dea reprezentația vieții lui. Nu sunt reluări."
+  },
+  {
+   "key": "1815282379786838016",
+   "en": "I'd... like to rest, now…",
+   "ro": "Aș... vrea să mă odihnesc acum…"
+  },
+  {
+   "key": "1815282687967518720",
+   "en": "Perfect timing. Your job's done here – you can go. And don't worry, you'll get your fuckin' money.",
+   "ro": "Perfect timing. Treaba ta aici s-a terminat – poți pleca. Și nu-ți face griji, o să-ți primești banii ăia de pula mea."
+  },
+  {
+   "key": "1815283879284072448",
+   "en": "Goodbye, V.",
+   "ro": "La revedere, V."
+  },
+  {
+   "key": "1815285181229588484",
+   "en": "Didn't take you for one with a spiritual side.",
+   "ro": "Nu te credeam cu o latură spirituală."
+  },
+  {
+   "key": "1815285661980712960",
+   "en": "Glad it works for you.",
+   "ro": "Mă bucur că funcționează pentru tine."
+  },
+  {
+   "key": "1815285752997109760",
+   "en": "Didn't take you for one with a spiritual side, you being, well, heh... you.",
+   "en_m": "Didn't take you for one with a spiritual side, you being, heh, well... you.",
+   "ro": "Nu te credeam cu o latură spirituală, tu fiind, ei bine, heh... tu."
+  },
+  {
+   "key": "1815285818025598976",
+   "en": "Great to have an outlet, something to give you peace of mind.",
+   "ro": "E bine să ai o supapă, ceva care să-ți liniștească mintea."
+  },
+  {
+   "key": "1815290019560579072",
+   "en": "Know what your problem is, all of you?",
+   "ro": "Știți care e problema voastră, toți?"
+  },
+  {
+   "key": "1815290694306652160",
+   "en": "True peace of mind can only come through the spirit of divine grace.",
+   "ro": "Adevărata liniște sufletească vine doar prin spiritul harului divin."
+  },
+  {
+   "key": "1815291794069938176",
+   "en": "You refuse to understand that spirituality can only ever be personal.",
+   "ro": "Refuzați să pricepeți că spiritualitatea e doar personală."
+  },
+  {
+   "key": "1815308531809148932",
+   "en": "That's cynical.",
+   "ro": "Asta e cinic."
+  },
+  {
+   "key": "1815308797979680768",
+   "en": "Just plain feel bad for him.",
+   "ro": "Îmi pare pur și simplu rău de el, atât."
+  },
+  {
+   "key": "1815309034018332672",
+   "en": "Your cynicism's startin' to wear thin on me.",
+   "en_m": "Your cynicism is startin' to wear thin on me.",
+   "ro": "Cinismul ăsta al tău începe să mă calce pe nerv."
+  },
+  {
+   "key": "1815309108123295744",
+   "en": "I just feel bad for him.",
+   "ro": "Pur și simplu îmi pare rău de el."
+  },
+  {
+   "key": "1815310384450002944",
+   "en": "Doesn't matter, long as it's made him a better man.",
+   "ro": "Nu contează, dacă l-a făcut un om mai bun."
+  },
+  {
+   "key": "1815311045589753856",
+   "en": "Doesn't matter, long as he's a better man than he used to be…",
+   "en_m": "It doesn't matter, as long as he's a better man than he used to be…",
+   "ro": "Nu contează, dacă e un om mai bun decât era…"
+  },
+  {
+   "key": "1815311191853522944",
+   "en": "We could talk in circles, but who cares what we think. What would it change? Corps'll continue grow rich off his type, and the masses'll live on with their pipe dreams.",
+   "ro": "Am putea tot vorbi în cerc, da' cui îi pasă ce gândim noi. Ce schimbă? Corporațiile o să se îmbogățească mai departe pe seama tipului ăstuia, iar masele o să trăiască în continuare cu iluziile lor."
+  },
+  {
+   "key": "1815313645135486976",
+   "en": "He's fucked in the head, the world's fucked in the head – and you're fucked in the head 'cause MY fucked up head is inside it.",
+   "ro": "E dus cu pluta, lumea e nebună de legat – și tu ești nebunică, pentru că MINTEA mea sărită de pe fix e înăuntrul tău.",
+   "ro_m": "E dus cu pluta, lumea e nebună de legat – și tu ești nebun, pentru că MINTEA mea sărită de pe fix e înăuntrul tău."
+  },
+  {
+   "key": "1815316461811949568",
+   "en": "Guess if you want to save the world, that's the first step – get fucked in the head.",
+   "ro": "Dacă vrei să salvezi lumea, primul pas e să-ți sară țandăra."
+  },
+  {
+   "key": "1831940653428793344",
+   "en": "Wait up a sec. I wanna talk.",
+   "ro": "Stai puțin. Vreau să vorbesc."
+  },
+  {
+   "key": "1831947084202795008",
+   "en": "Don't do it, V.",
+   "ro": "Nu face asta, V."
+  },
+  {
+   "key": "1831962013794328576",
+   "en": "And why the fuck are you here, anyway? For the free meal?",
+   "ro": "Și de ce pula mea ești aici, oricum? Pentru masa gratis?"
+  },
+  {
+   "key": "1831963854355587076",
+   "en": "Tell you why I'm here.",
+   "ro": "Îți zic eu de ce sunt aici."
+  },
+  {
+   "key": "1831964201274859520",
+   "en": "Tell you exactly why. I--",
+   "ro": "Îți zic exact de ce. Eu--"
+  },
+  {
+   "key": "1831964272007602176",
+   "en": "Back off me, OK?",
+   "ro": "Lasă-mă în pace, OK?"
+  },
+  {
+   "key": "1831964358326378496",
+   "en": "Back off.",
+   "ro": "Dă-te înapoi."
+  },
+  {
+   "key": "1831966377229443072",
+   "en": "No! I don't give the slimmest shit what you have to say!",
+   "ro": "Nu-mi pasă nici cât negru sub unghie de ce ai tu de zis, pula mea!"
+  },
+  {
+   "key": "1831967193793323008",
+   "en": "And maybe you should fuck off, huh? You're not part of our group!",
+   "ro": "Și poate ar trebui să te duci dracu', ha? Nu faci parte din grupul nostru!"
+  },
+  {
+   "key": "1831967998713815040",
+   "en": "Ugh! All this talk about grace and salvation and transformation! I could puke.",
+   "ro": "Pff! Toată tărășenia asta cu harul, mântuirea și transformarea! Mi-e greață."
+  },
+  {
+   "key": "1831968994743574528",
+   "en": "Take it from a BD producer, religion's an elaborate lie. All of 'em.",
+   "ro": "Ia de la un producător de BD, religia e o minciună gogonată. Toate din astea."
+  },
+  {
+   "key": "1831969478195830784",
+   "en": "But, heh, Rachel...",
+   "ro": "Dar, heh, Rachel..."
+  },
+  {
+   "key": "1831969741799448576",
+   "en": "No, we're done for the day. Finish your meal, we'll put you up at the studio.",
+   "ro": "Nu, am terminat pentru azi. Termină-ți masa, te cazăm la studio."
+  },
+  {
+   "key": "1831970791147200512",
+   "en": "And you? Get lost. You'll get your fee soon.",
+   "ro": "Iar tu? Cară-te. Îți vine onorariul curând."
+  },
+  {
+   "key": "1831971070269743104",
+   "en": "Goodbye, V. I am truly glad to have met you.",
+   "ro": "Pa, V. Chiar mă bucur că te-am cunoscut."
+  },
+  {
+   "key": "1846317134728683520",
+   "en": "Really believe you're like Jesus?",
+   "en_m": "You really believe you're like Jesus?",
+   "ro": "Chiar crezi că ești ca Iisus?"
+  },
+  {
+   "key": "1846317976760377344",
+   "en": "I... I believe we should all follow his example.",
+   "ro": "Eu... cred că ar trebui să-i urmăm cu toții exemplul."
+  },
+  {
+   "key": "1857721637021442048",
+   "en": "Joshua?",
+   "en_m": "Josh?",
+   "ro": "Joshua?",
+   "ro_m": "Josh?"
+  },
+  {
+   "key": "1857796513904222208",
+   "en": "Don't even feel sorry for him.",
+   "ro": "Nici măcar nu-i pare rău de el."
+  },
+  {
+   "key": "1857797024669786112",
+   "en": "Don't even feel sorry for him... in the least.",
+   "ro": "Nici măcar nu-i pare rău de el... deloc."
+  },
+  {
+   "key": "1857800744681889792",
+   "en": "Whaddaya think? God exist?",
+   "en_m": "What do you think? God exist?",
+   "ro": "Ce zici, Dumnezeu e real?"
+  },
+  {
+   "key": "1857800808720523268",
+   "en": "You think God exists?",
+   "ro": "Crezi că Dumnezeu e real?"
+  },
+  {
+   "key": "1857801543663247360",
+   "en": "Agh, weird as fuck, today. Heh, just kinda... unreal. But reality beckons.",
+   "en_m": "Weird as fuck, today. Just… kinda unreal. But reality beckons.",
+   "ro": "Agh, ciudat în pula mea azi. Heh, doar... cam nereal. Dar realitatea cheamă."
+  },
+  {
+   "key": "1857801615520063488",
+   "en": "Let's get outta here.",
+   "ro": "Hai să ne cărăm de aici."
+  },
+  {
+   "key": "1857802561201397760",
+   "en": "Hang on, where's rebel Johnny? Seem to have lost him.",
+   "ro": "Stai puțin, unde e Johnny rebelul? Parcă l-am pierdut."
+  },
+  {
+   "key": "1857803411604922368",
+   "en": "Well, I found him. He's inside that guy. He's the real rebel.",
+   "ro": "Păi, l-am găsit. E în tipul ăla. El e adevăratul rebel."
+  },
+  {
+   "key": "1857803618568658944",
+   "en": "Make up your mind. Which is it – nutjob or messiah?",
+   "ro": "Hotărăște-te. Care e – nebun sau mesia?"
+  },
+  {
+   "key": "1857809392598540288",
+   "en": "C'mon. We got places to trash.",
+   "ro": "Haide. Avem locuri de distrus."
+  },
+  {
+   "key": "1857908716435169280",
+   "en": "Fuck. Kill me, please.",
+   "ro": "Futu-i. Ucide-mă, te rog."
+  },
+  {
+   "key": "1857909083134779392",
+   "en": "C'mon, serious question.",
+   "ro": "Haide, întrebare serioasă."
+  },
+  {
+   "key": "1857972812480274432",
+   "en": "What, why? So you flatlined, then got your beat back. Don't tell me that's left you wondering if a construct can even be saved.",
+   "ro": "Ce? De ce? Deci ai fost terminată, apoi ți-ai revenit. Nu-mi spune că asta te-a lăsat să te întrebi dacă un construct poate fi salvat.",
+   "ro_m": "Ce? De ce? Deci ai fost terminat, apoi ți-ai revenit. Nu-mi spune că asta te-a lăsat să te întrebi dacă un construct poate fi salvat."
+  },
+  {
+   "key": "1857995182146347012",
+   "en": "All right. Let's go.",
+   "ro": "Bine. Hai să mergem."
+  },
+  {
+   "key": "1857997612258975744",
+   "en": "Gonna tell me you don't think about being a digital psyche? Possible consequences thereof? Really?",
+   "ro": "O să-mi zici că nu te gândești că ești o psihă digitală? Și la consecințe? Serios?"
+  },
+  {
+   "key": "1857997708979625984",
+   "en": "Construct's not a soul. Different things.",
+   "ro": "Constructul nu e suflet. Sunt lucruri diferite."
+  },
+  {
+   "key": "1857997804458762240",
+   "en": "I died and rose again. Can't deny that.",
+   "ro": "Am murit și am înviat. Nu poți nega asta."
+  },
+  {
+   "key": "1858867846150905856",
+   "en": "Truth is I died and rose again. Plain and simple.",
+   "ro": "Adevărul e că am murit și am înviat. Simplu."
+  },
+  {
+   "key": "1858876599596244992",
+   "en": "Uh-huh. So, what was that? A miracle? What's it make you – a messiah, a phoenix or a factory-restored, early model Archer?",
+   "ro": "Aha. Deci ce-a fost? O minune? Ce ești tu, mesia, phoenix sau un Archer restaurat la fabrică, model vechi?"
+  },
+  {
+   "key": "1858876935660658688",
+   "en": "I got no fuckin' idea what it was and neither do you.",
+   "en_m": "Got no fuckin' idea what it was and neither do you.",
+   "ro": "Habar n-am ce dracu' a fost și nici tu nu ai."
+  },
+  {
+   "key": "1858881851233951744",
+   "en": "Tell you exactly what brought you back – a clever bit of corpo tech. If there's a true messiah among us, I'll tell you who it is – Saburo Arasaka.",
+   "ro": "Îți spun eu exact ce te-a adus înapoi – o chestie de tech corpo. Dacă e vreun mesia adevărat printre noi, îți zic eu cine e – Saburo Arasaka."
+  },
+  {
+   "key": "1858884658196406272",
+   "en": "Mhm, one you'd summarily execute if you ran into him.",
+   "en_m": "Hah, one you'd summarily execute if you ran into him.",
+   "ro": "Mhm, unul pe care l-ai executa sumar dacă l-ai întâlni.",
+   "ro_m": "Hah, unul pe care l-ai executa sumar dacă l-ai întâlni."
+  },
+  {
+   "key": "1858885146212065280",
+   "en": "See, that's why I'm me and you're you. You drop to your knees before gods. I drop them, pop 'em right between the eyes.",
+   "ro": "Vezi, de-aia sunt eu și tu ești tu. Tu te arunci în genunchi în fața zeilor. Eu îi dobor, le trag una fix între ochi."
+  },
+  {
+   "key": "1858917176366882816",
+   "en": "I mean, are you already dead? Or alive till the last existing digighost of you is shredded?",
+   "ro": "Adică, ești deja mort? Sau viu până când ultimul digighost al tău e făcut bucăți?"
+  },
+  {
+   "key": "1858917783333003264",
+   "en": "Meanin', like am I gonna ascend to digiheaven?",
+   "ro": "Adică, o să ascensionez în digi-rai?"
+  },
+  {
+   "key": "1858918150032613376",
+   "en": "Descent to digi-hell's more likely, but... yeah. If there is life after death, is Silverhand already livin' the afterlife? Meanin' I'm talkin' to his animated epitaph?",
+   "en_m": "Descent to digi-hell's more likely, but yeah. If there is life after death, is Silverhand already livin' the afterlife? Meanin' I'm talkin' to his animated epitaph?",
+   "ro": "Coborârea în digi-iad e mai probabilă, dar... da. Dacă e viață după moarte, Silverhand trăiește deja în lumea de apoi? Adică vorbesc cu epitaful lui animat?",
+   "ro_m": "Coborârea în digi-iad e mai probabilă, dar da. Dacă e viață după moarte, Silverhand trăiește deja în lumea de apoi? Adică vorbesc cu epitaful lui animat?"
+  },
+  {
+   "key": "1858919067880546304",
+   "en": "I don't give it an ounce of thought – surprise. To me I'm just that... me. No netherworld, no happy wonderworld, just duped, digital psyches.",
+   "ro": "Nici nu mă gândesc la asta – surpriză. Pentru mine sunt doar... eu. Nici lume de dincolo, nici lume fericită, doar psihicuri digitale păcălite."
+  },
+  {
+   "key": "1877867438723272704",
+   "en": "Seen every kind of dirtbag in this city. This Jesus shit ain't foolin' me.",
+   "ro": "Am văzut tot felul de jeguri în orașul ăsta. Rahatul ăsta cu Iisus nu mă păcălește."
+  },
+  {
+   "key": "1877867713987055616",
+   "en": "You even think about makin' a break for it, your ass is goin' down.",
+   "ro": "Dacă te gândești măcar să fugi, ești mort."
+  },
+  {
+   "key": "1877868019735040000",
+   "en": "Nobody's paying you to open your mouth, Vasquez.",
+   "ro": "Nimeni nu te plătește să deschizi gura, Vasquez."
+  },
+  {
+   "key": "1895648604114673664",
+   "en": "He is set in his ways, like so many men.",
+   "ro": "E fixat pe ideile lui, ca atâția bărbați."
+  },
+  {
+   "key": "1966048519104311296",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "1985010349784772608",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2474996895498711040",
+   "en": "Can we change the subject?",
+   "ro": "Putem schimba subiectul?"
+  }
+ ]
+}

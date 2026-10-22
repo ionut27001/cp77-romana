@@ -1,0 +1,352 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_03a_meet_jackie_downstairs.json",
+ "entries": [
+  {
+   "key": "1567632940189503488",
+   "en": "Mm! Woman of the hour! Sheesh, it took you long enough! Worked up an appetite just waitin'!",
+   "en_m": "Mm! Man of the hour! Heheh, sheesh – took you long enough! Worked up an appetite just waiting!",
+   "ro": "Mm! Femeia momentului! Pfoai, ai întârziat destul! Mi-am făcut poftă doar așteptând!",
+   "ro_m": "Mm! Omul momentului! Heheh, pfoai – ai întârziat destul! Mi-am făcut poftă doar așteptând!"
+  },
+  {
+   "key": "1567641019241091072",
+   "en": "<kiroshi l=\"mex\" o=\"Gracias a dios. ¡Estoy lleno!\" t=\"Thank God. I'm stuffed!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Gracias a dios. ¡Estoy lleno!\" t=\"Mulțumesc lui Dumnezeu. Sunt plin!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1567646508209295360",
+   "en": "We'll see about that...",
+   "ro": "Vedem noi..."
+  },
+  {
+   "key": "1567656088553279488",
+   "en": "Let's feel this factory-new ride.",
+   "ro": "Hai să simțim mașina asta nou-nouță."
+  },
+  {
+   "key": "1612597925540225024",
+   "en": "Siddown, lemme finish this. Then we can drop in on Señor Vektor.",
+   "ro": "Stai jos, lasă-mă să termin. Apoi putem da o fugă la Señor Vektor."
+  },
+  {
+   "key": "1612617099599634432",
+   "en": "[Take] Thanks.",
+   "ro": "[Ia] Mulțumesc."
+  },
+  {
+   "key": "1612887922805792768",
+   "en": "Prolly both 'cause you usually forget shit. But it just so happens, I think I mighta bagged us a sweet-ass J-O-B.",
+   "ro": "Probabil amândouă, că de obicei uiți porcării. Dar, na, cred că am prins un job beton."
+  },
+  {
+   "key": "1614075227454722048",
+   "en": "Mentioned somethin' about a surprise yesterday. 'M I rememberin' right or... just had a brain fart?",
+   "ro": "Ai pomenit ieri de o surpriză. Mă prind eu bine sau ți s-a făcut o pană de creier?"
+  },
+  {
+   "key": "1614104983625682944",
+   "en": "I mean, maybe it's not as big as that, but... Just that it's fronted by a little-known someone named Dexter DeShawn.",
+   "ro": "Adică, poate nu e chiar atât de mare, da'... e vorba că îl susține un tip mai puțin cunoscut, Dexter DeShawn."
+  },
+  {
+   "key": "1614105900919967744",
+   "en": "Only the top fixer in Night-fuckin'-City! Fat-assed Black Jesus of the Afterlife. Three hundred pounds of partly gold-plated cool.",
+   "ro": "Doar cel mai bun fixer din Night City-ul dracului! Iisusul negru cu fund mare de la Afterlife. Trei sute de kile de șmecherie, cu aur pe ici pe colo."
+  },
+  {
+   "key": "1614108004497641472",
+   "en": "Oh, was supposed to stop by Vik's anyhow. I got a date – me and Misty.",
+   "ro": "A, oricum trebuia să trec pe la Vik. Am o întâlnire – eu și Misty."
+  },
+  {
+   "key": "1625657108910239744",
+   "en": "Didn't figure you as the type for Asian. Woulda thought you'd find it too exotic.",
+   "ro": "Nu te vedeam cu asiatică. Aș fi zis că ți se pare prea exotică."
+  },
+  {
+   "key": "1625679758051176448",
+   "en": "Whaddaya mean? What's there not to like?",
+   "ro": "Ce vrei să zici? Ce să nu-ți placă?"
+  },
+  {
+   "key": "1625680459640795136",
+   "en": "Noodles – check. Synthsirloin – check. Get some more chili action up in here, and you're lookin' at Mama Welles' signature sopa de fideos, hahah!",
+   "ro": "Tăiței – bifat. Synthsirloin – bifat. Mai pune niște chili înăuntru și ai în față sopa de fideos a lui Mama Welles, hahah!"
+  },
+  {
+   "key": "1625751678268403716",
+   "en": "What's the job, exactly?",
+   "ro": "Care e jobul, exact?"
+  },
+  {
+   "key": "1625766005272670208",
+   "en": "Go on...",
+   "ro": "Continuă..."
+  },
+  {
+   "key": "1625767162867019776",
+   "en": "How'd you manage this?",
+   "ro": "Cum ai reușit?"
+  },
+  {
+   "key": "1625767198770262016",
+   "en": "Dex ain't outta the picture?",
+   "ro": "Dex n-a ieșit din peisaj?"
+  },
+  {
+   "key": "1625771698855800832",
+   "en": "How did you manage to pull this? Trade in your spleen or something? Far as I know, we're not the type to get fingered by Dex.",
+   "en_m": "How'd you manage to pull this? Trade in your spleen or somethin'? Far as I know, we're not the type to get fingered by Dex.",
+   "ro": "Cum ai reușit asta? Ți-ai vândut splina ori ceva? Din câte știu eu, nu suntem genul de oameni pe care Dex să-i bage în seamă."
+  },
+  {
+   "key": "1625774137474478080",
+   "en": "You, me – nah. But T-Bug – she's the one that hooked us up, got us talkin'. Knew it was a done deal the moment he laid eyes on me.",
+   "ro": "Pe tine, pe mine – nu. Dar T-Bug, ea ne-a pus în legătură, ne-a băgat la vorbă. Știam că e gata treaba din clipa în care m-a văzut."
+  },
+  {
+   "key": "1625774667634503680",
+   "en": "'Cause, c'mon – ain't nobody who can resist this. Am I right?",
+   "ro": "Că, hai – nu e nimeni care să reziste la asta. Am dreptate?"
+  },
+  {
+   "key": "1625775243025903616",
+   "en": "Heh, sure, Jack. Whatever you say.",
+   "ro": "Heh, sigur, Jack. Ce zici tu."
+  },
+  {
+   "key": "1625776699456024576",
+   "en": "Tell me more about Dex.",
+   "ro": "Spune-mi mai multe despre Dex."
+  },
+  {
+   "key": "1625783708976869376",
+   "en": "Thought Dex bounced outta the ring a few years ago. Messed with a nasty crew in Pacifica, things got ugly.",
+   "ro": "Credeam că Dex a ieșit din joc acum câțiva ani. S-a băgat cu o gașcă nasoală în Pacifica, și s-a făcut varză."
+  },
+  {
+   "key": "1625797257719640064",
+   "en": "Mhm. Gang wars two years back. Somehow Dex got caught up in the craziness. Lotta bodies lyin' in the streets by the time the shootin' stopped.",
+   "ro": "Mhm. Războiul de bande de acum doi ani. Dex s-a trezit în mijlocul nebuniei. Până s-a terminat cu împușcăturile, erau cadavre peste tot pe străzi."
+  },
+  {
+   "key": "1625802947678892032",
+   "en": "Eh, Dex got lucky, though. Managed to slip under the radar till tempers cooled. Took a while… but he's made one hell of a comeback.",
+   "ro": "Eh, Dex a avut noroc, totuși. S-a ascuns până s-au mai liniștit lucrurile. A durat, da', și-a făcut un comeback de zile mari."
+  },
+  {
+   "key": "1625805164653768704",
+   "en": "Guy's up to his elbows in blood, Jack. And you wanna shake his hand, work with him.",
+   "en_m": "Guy's up to his elbows in blood, Jack. And you wanna shake his hand, work with him?",
+   "ro": "Tipul e până la coate în sânge, Jack. Și vrei să-i strângi mâna, să lucrezi cu el?"
+  },
+  {
+   "key": "1625805318467284996",
+   "en": "This is it, Jackie – our big break.",
+   "ro": "Asta e, Jackie – marea noastră șansă."
+  },
+  {
+   "key": "1625813871341006848",
+   "en": "This is it, Jackie – our break. Dex needs friends, needs us, we can use him.",
+   "ro": "Asta e, Jackie – șansa noastră. Lui Dex îi trebuie prieteni, îi trebuim noi. Îl putem folosi."
+  },
+  {
+   "key": "1625814068657844224",
+   "en": "Something about this stinks.",
+   "ro": "Treaba asta miroase a rahat."
+  },
+  {
+   "key": "1625818508680949760",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Amen, \" a=\". It's a win-win.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Amen, \" a=\". It's a win-win.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Amen, \" a=\". E câștig de ambele părți.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Amen, \" a=\". E câștig de ambele părți.\"/>"
+  },
+  {
+   "key": "1625819953367019520",
+   "en": "It's the biz, V. Everyone's got blood on their hands. You deal with it, you move on.",
+   "ro": "Așa merg afacerile, V. Toți avem sânge pe mâini. Te descurci cu asta și mergi mai departe."
+  },
+  {
+   "key": "1625821414662533120",
+   "en": "So what's the gig? We meant to come out in one piece?",
+   "ro": "Deci care-i gig-ul? Vrem să ieșim întregi din el, nu?"
+  },
+  {
+   "key": "1625822200037568512",
+   "en": "Dexter DeShawn... What's the latest spec on him? Know you got info to spill.",
+   "en_m": "Dexter DeShawn…? What's the latest spec on him? Know you got info to spill.",
+   "ro": "Dexter DeShawn... Ce se zvonește ultima dată despre el? Știu că ai info de vărsat."
+  },
+  {
+   "key": "1625825400660619264",
+   "en": "He's been off the grid for about two years. Word on the street was... he took a little vacay.",
+   "ro": "A fost dispărut vreo doi ani. Se zicea pe stradă că și-a luat o vacanțică."
+  },
+  {
+   "key": "1625826535119187968",
+   "en": "Two years? That's exile, not a vacation. Hell was he up to?",
+   "ro": "Doi ani? Aia nu e vacanță, e exil. Ce naiba făcea acolo?"
+  },
+  {
+   "key": "1625826733107113984",
+   "en": "Aa, guessin' he shoved pizzas in his mouth while jerkin' off to hardcore virtus. Important thing is he's back, needs a fresh crew and he found us.",
+   "ro": "Aa, bănuiesc că înfuleca pizza și se masturba la virtu-uri hardcore. Important e că s-a întors, îi trebuie o echipă nouă și ne-a găsit pe noi."
+  },
+  {
+   "key": "1625832302186524672",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Well, our savior wants to tell you everything himself. Face to face. No pressure, but... whole deal's ridin' on you now, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Our lord and savior wants to tell you everything himself. Face to face. Oh, no pressure, but, uh... this whole deal? 'S ridin' on you now, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Păi, salvatorul nostru vrea să-ți spună totul el însuși. Față în față. Fără presiune, da'... toată treaba asta e pe capul tău acum, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Păi, domnul și salvatorul nostru vrea să-ți spună totul el însuși. Față în față. Fără presiune, da', ăă... toată treaba asta e pe capul tău acum, \" a=\".\"/>"
+  },
+  {
+   "key": "1625833270567432196",
+   "en": "Don't see why not.",
+   "ro": "Și de ce nu?"
+  },
+  {
+   "key": "1625833831983411200",
+   "en": "Wait, why me?",
+   "ro": "Stai, de ce eu?"
+  },
+  {
+   "key": "1625834248846897152",
+   "en": "All right. Let's hear what old Dex has to say. Set it up.",
+   "en_m": "All right. Let's hear what ol' Dex has to say. Set it up.",
+   "ro": "Bine. Hai să auzim ce are de zis bătrânul Dex. Pregătește."
+  },
+  {
+   "key": "1625834365649874944",
+   "en": "Why do I gotta go? You and T-Bug draw straws without me?",
+   "ro": "De ce trebuie să merg eu? Tu și T-Bug ați tras paiul fără mine?"
+  },
+  {
+   "key": "1625837983656505344",
+   "en": "T-Bug and Dex go way back. And my face is yesterday's news. Aw, Dex says he needs to check you, talk to you.",
+   "ro": "T-Bug și Dex se cunosc de mult. Iar pe mine nu mă mai bagă nimeni în seamă. Of, Dex zice că trebuie să te verifice, să stea de vorbă cu tine."
+  },
+  {
+   "key": "1625838454207082496",
+   "en": "Look, V, it's his job, his rules. I can't blame 'im for takin' a personal approach. An' it ain't as bad as you think, OK? Trust me.",
+   "ro": "Uite, V, e treaba lui, regulile lui. Nu-l pot blama că vrea să se ocupe personal. Și nu e chiar așa rău cum crezi, OK? Crede-mă."
+  },
+  {
+   "key": "1625838746063532032",
+   "en": "Guess I got no choice, then.",
+   "ro": "Ce să fac, n-am de ales, atunci."
+  },
+  {
+   "key": "1628830076146479104",
+   "en": "Some top-notch work, Miguel did. Rides like it looks – factory new.",
+   "ro": "Miguel a muncit ca lumea. Merge exact cum arată – nou-nouță, ieșită din fabrică."
+  },
+  {
+   "key": "1628835765535305728",
+   "en": "So we rollin' or what?",
+   "ro": "Deci pornim sau ce?"
+  },
+  {
+   "key": "1628839785490477056",
+   "en": "You don't say…",
+   "ro": "Nu mi-ai zice!"
+  },
+  {
+   "key": "1628839857783500800",
+   "en": "She's sooo sweet. Really gets me, y'know?",
+   "ro": "E atât de dulce. Chiar mă înțelege, știi?"
+  },
+  {
+   "key": "1705592372028665856",
+   "en": "First stop – ripperdoc?",
+   "ro": "Prima oprire – ripperdoc?"
+  },
+  {
+   "key": "1715376873840504832",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"An', \" a=\", easy on the gas, 'ey? I just ate.\"/>",
+   "en_m": "An', holmes, easy on the gas, uh? I just ate.",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"An', \" a=\", ușor cu gazul, 'ey? Tocmai am mâncat.\"/>",
+   "ro_m": "An', holmes, ușor cu gazul, uh? Tocmai am mâncat."
+  },
+  {
+   "key": "1782309496897564672",
+   "en": "Aa, this is it! C'mon, V.",
+   "ro": "Aa, asta e! Hai, V."
+  },
+  {
+   "key": "1801258019034193920",
+   "en": "[Stand] Let's go.",
+   "ro": "[Ridică-te] Hai să mergem."
+  },
+  {
+   "key": "1875104239217438720",
+   "en": "Find me once Vik's done dustin' your circuits. We'll hash out what Dex's cooked up for us.",
+   "ro": "Dă-mi un semn după ce termină Vik cu circuitele tale. Vedem ce-a gătit Dex pentru noi."
+  },
+  {
+   "key": "1904241146442444800",
+   "en": "Brought your wheels. Gave 'em to my guy yesterday to smooth over the dents after our, uh, dust-up with the scavs.",
+   "ro": "Ți-am adus mașina. Ieri i-am dat-o omului meu să îndrepte tablele după scandalul nostru, ăă, cu hienele."
+  },
+  {
+   "key": "1912716507681550336",
+   "en": "Dex is the real deal when it comes to fixers. Don't get me wrong, don't got nothin' against the Padre or Wakako, but... Dex is in a league of his own. You know what I'm sayin'?",
+   "ro": "Să nu mă-nțelegi greșit, n-am nimic cu Padre sau cu Wakako, dar... Dex e într-o ligă a lui. Știi ce zic?"
+  },
+  {
+   "key": "1912745604642140164",
+   "en": "Not really.",
+   "ro": "Nu prea."
+  },
+  {
+   "key": "1912746641255985152",
+   "en": "Know my way around fixers.",
+   "ro": "Mă descurc cu fixerii."
+  },
+  {
+   "key": "1912746877797953536",
+   "en": "Not really, no.",
+   "ro": "Nu chiar, nu."
+  },
+  {
+   "key": "1912747430187790336",
+   "en": "It's always the same story. You land on fresh turf, local fixer waves his dick around, but... he's smilin' – sayin' you'll be up to your neck in gigs and eddies.",
+   "ro": "E mereu aceeași poveste. Ajungi pe teren nou, fixerul local face pe grozavul, dar... zâmbește – zice că o să fii până peste cap în gig-uri și eddies."
+  },
+  {
+   "key": "1912747511255298048",
+   "en": "Still, all you are's another name in their little black book. Nifty tool for gettin' them a fat slice o' whatever half-baked shitpie their client put on the table.",
+   "ro": "Totuși, ești doar un nume în carnețelul lor. Un instrument bun ca să-și ia o felie groasă din orice rahat pe jumătate copt pe care l-a pus clientul pe masă."
+  },
+  {
+   "key": "1912747920384487424",
+   "en": "Don't get me started on fixers. They catch a client, find the cheapest gonk to do the job, then drop their corpse at a landfill.",
+   "ro": "Nu mă mai lua pe fixeri. Prind un client, găsesc cel mai ieftin fraier să facă treaba, apoi îi aruncă trupul la groapa de gunoi."
+  },
+  {
+   "key": "1912748404625272832",
+   "en": "Shit. Hit the nail on the head, V.",
+   "ro": "Căcat. Ai nimerit-o, V."
+  },
+  {
+   "key": "1967900937706991616",
+   "en": "Sure, you crack jokes over drinks, but in the end… it's biz.",
+   "ro": "Sigur, mai glumești una-alta la băutură, dar până la urmă… sunt afaceri."
+  },
+  {
+   "key": "1985173493174431744",
+   "en": "Thanks, Jack. Much appreciated.",
+   "ro": "Mersi, Jack. Chiar apreciez."
+  },
+  {
+   "key": "2163617952398270484",
+   "en": "Whatcha eatin'?",
+   "ro": "Ce mănânci?"
+  },
+  {
+   "key": "2163638983242506240",
+   "en": "[Sit] Said you had a surprise for me?",
+   "ro": "[Așează-te] Ai zis că ai o surpriză pentru mine?"
+  }
+ ]
+}

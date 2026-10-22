@@ -1,0 +1,76 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_f_84_rus_30_mt.json",
+ "entries": [
+  {
+   "key": "2209935866033897480",
+   "en": "<kiroshi l=\"rus\" o=\"Можешь ничего не втюхивать, всё равно не куплю.\" t=\"I'm not buying anything from you. Leave me alone.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Можешь ничего не втюхивать, всё равно не куплю.\" t=\"Nu cumpăr nimic de la tine. Lasă-mă în pace.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866067451912",
+   "en": "<kiroshi l=\"rus\" o=\"Слушай, уйди, а?\" t=\"Please, just go away.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Слушай, уйди, а?\" t=\"Te rog, pleacă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866151337992",
+   "en": "<kiroshi l=\"rus\" o=\"Тупица.\" t=\"Loser.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Тупица.\" t=\"Ratat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866184892424",
+   "en": "<kiroshi l=\"rus\" o=\"Глаза разуй!\" t=\"You blind?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Глаза разуй!\" t=\"Ești oarbă?\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"rus\" o=\"Глаза разуй!\" t=\"Ești orb?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866235224072",
+   "en": "<kiroshi l=\"rus\" o=\"Алё.\" t=\"Hey. What's up?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Алё.\" t=\"Hei. Ce mai faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866302332936",
+   "en": "<kiroshi l=\"rus\" o=\"Опять? Слушай, мне уже надоело!.. А ребёнок теперь... А завтра что? Внезапно киберпсих нападёт?.. Вечно твои гнилые отмазки…\" t=\"Again? This is starting to get out of hand... Oh, I see, it's the kid this time. What's next? A cyberspycho attack...? There's always some explanation...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Опять? Слушай, мне уже надоело!.. А ребёнок теперь... А завтра что? Внезапно киберпсих нападёт?.. Вечно твои гнилые отмазки…\" t=\"Iar? Gata, asta a ieșit din mână... A, văd, de data asta e copilul. Ce urmează? Un atac ciberpsiho...? Mereu ai câte-o scuză...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866335887368",
+   "en": "<kiroshi l=\"rus\" o=\"Когда?.. А боссу уже сказала?.. Если что, я тебя прикрывать не буду... Ну так договаривайся... Угу...\" t=\"When...? You talk to the boss already...? I'm not going to lie for you... Well then figure it out with-- ...Mhm...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Когда?.. А боссу уже сказала?.. Если что, я тебя прикрывать не буду... Ну так договаривайся... Угу...\" t=\"Când...? Ai vorbit deja cu șefu'...? N-o să mint pentru tine... Păi, atunci rezolvă tu cu-- ...Mhm...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866402996232",
+   "en": "<kiroshi l=\"rus\" o=\"Ладно, выйду я в твою смену. Но это реально последний раз... Угу... Давай-давай, пока.\" t=\"Yes, I'll take the shift. But this is really the last time... Yeah, whatever. Bye.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ладно, выйду я в твою смену. Но это реально последний раз... Угу... Давай-давай, пока.\" t=\"Bine, preiau tura. Da' chiar e ultima dată... Da, da, ce-o fi. Pa.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866654654472",
+   "en": "<kiroshi l=\"rus\" o=\"Полиция!\" t=\"Someone call the police!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Полиция!\" t=\"Sunați poliția, cineva!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866688208904",
+   "en": "<kiroshi l=\"rus\" o=\"Спасите!\" t=\"Help!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Спасите!\" t=\"Ajutor!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866822426624",
+   "en": "<kiroshi l=\"rus\" o=\"Я не хочу умирать!\" t=\"Please, I don't wanna die...!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я не хочу умирать!\" t=\"Nu vreau să mor, te rog...!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866855981064",
+   "en": "<kiroshi l=\"rus\" o=\"Не убивай меня!\" t=\"Spare me, please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не убивай меня!\" t=\"Nu mă omorî, te rog!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935866973421576",
+   "en": "<kiroshi l=\"rus\" o=\"У меня пушка, так что ты не балуй!\" t=\"I'm armed, so don't try anything...!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У меня пушка, так что ты не балуй!\" t=\"Am armă, așa că nu faci prostii...!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935867023753220",
+   "en": "<kiroshi l=\"rus\" o=\"Отвали!\" t=\"Leave me alone!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Отвали!\" t=\"Lasă-mă în pace!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

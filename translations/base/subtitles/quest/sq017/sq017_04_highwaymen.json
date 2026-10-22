@@ -1,0 +1,576 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq017\\sq017_04_highwaymen.json",
+ "entries": [
+  {
+   "key": "1334369286923227152",
+   "en": "Here we are.",
+   "ro": "Am ajuns."
+  },
+  {
+   "key": "1334374478800490496",
+   "en": "What'd I say? Drives like a fuckin' cyberpsycho.",
+   "ro": "Ce-am zis? Conduce ca un cyberpsycho nenorocit."
+  },
+  {
+   "key": "1334406835389599744",
+   "en": "Now we wait.",
+   "ro": "Acum așteptăm."
+  },
+  {
+   "key": "1334407236935487488",
+   "en": "There she is. Right on the dot.",
+   "ro": "Iat-o. La fix."
+  },
+  {
+   "key": "1334433943377678336",
+   "en": "What we ordered – musical gear.",
+   "ro": "Ce-am comandat – echipament muzical."
+  },
+  {
+   "key": "1334435073323175936",
+   "en": "What's inside?",
+   "ro": "Ce e înăuntru?"
+  },
+  {
+   "key": "1334435406686457856",
+   "en": "Your lucky day, Ker. Crates 'n' crates of nothin' but gear.",
+   "ro": "Ai noroc, Ker. Lăzi peste lăzi, numai echipament."
+  },
+  {
+   "key": "1334435757296717824",
+   "en": "Hell yeaaah, we got a hit!",
+   "ro": "Da, bă, am dat lovitura!"
+  },
+  {
+   "key": "1337381437262794752",
+   "en": "Now for the grand finale. Want this set to be a smoldering puddle of chrome and plastic when we're done.",
+   "ro": "Acum, marea finală. Vreau ca din setul ăsta să rămână o baltă fumegândă de chrome și plastic până terminăm."
+  },
+  {
+   "key": "1508094565279199236",
+   "en": "[Set up stinger]",
+   "ro": "[Pune stinger-ul]"
+  },
+  {
+   "key": "1508108005624377344",
+   "en": "Fuck, V, honestly?",
+   "ro": "Pula mea, V, serios?"
+  },
+  {
+   "key": "1508108718706388992",
+   "en": "No idea. Hope whatever happens, you'll be able to handle it.",
+   "ro": "Habar n-am. Sper că orice-o fi, te descurci."
+  },
+  {
+   "key": "1508198181264551940",
+   "en": "You're the boss.",
+   "ro": "Tu ești șefa.",
+   "ro_m": "Tu ești șeful."
+  },
+  {
+   "key": "1508198528385150976",
+   "en": "This your new signature move?",
+   "ro": "Asta e noua ta mișcare de semnătură?"
+  },
+  {
+   "key": "1508199279920541696",
+   "en": "You're the boss.",
+   "en_m": "You're the boss!",
+   "ro": "Tu ești șefa.",
+   "ro_m": "Tu ești șeful!"
+  },
+  {
+   "key": "1508201172289843200",
+   "en": "Ah – new signature move?",
+   "en_m": "Ah – a new signature move?",
+   "ro": "Ah – noua ta mișcare de semnătură?",
+   "ro_m": "Ah – o mișcare nouă de semnătură?"
+  },
+  {
+   "key": "1508201865641848832",
+   "en": "Mhm, you got it. So don't miss.",
+   "ro": "Mhm, ai prins. Deci nu rata."
+  },
+  {
+   "key": "1508216598604410880",
+   "en": "Got your mixers, speakers, drums, cables by the mile.",
+   "ro": "Am mixere, boxe, tobe, cabluri cât vezi cu ochii."
+  },
+  {
+   "key": "1675125934088417284",
+   "en": "Guys we're waitin' on – they armed?",
+   "ro": "Tipii pe care-i așteptăm – sunt înarmați?"
+  },
+  {
+   "key": "1675139298432806912",
+   "en": "You two whacked?! The hell was that?!",
+   "ro": "Sunteți nebuni, bă?! Ce naiba a fost aia?!"
+  },
+  {
+   "key": "1675213599454425088",
+   "en": "You got it.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "1802312133223510016",
+   "en": "Nice cache.",
+   "ro": "Frumos cache."
+  },
+  {
+   "key": "1802318628069699584",
+   "en": "Those are police stingers and grenades. Where'd you get 'em?",
+   "ro": "Alea sunt stinger-uri și granate de poliție. De unde le-ai luat?"
+  },
+  {
+   "key": "1802361618309967876",
+   "en": "Well, well... quite the arsenal.",
+   "ro": "Ei, ei... arsenal serios."
+  },
+  {
+   "key": "1802361618309967900",
+   "en": "We're fighting for art. Art with a capital A. C'mon, get to work.",
+   "ro": "Luptăm pentru artă. Artă cu A mare. Hai, la treabă."
+  },
+  {
+   "key": "1802361618326745092",
+   "en": "Hm, I know the guy – this ain't about art.",
+   "ro": "Hm, îl cunosc pe tip – nu e vorba de artă."
+  },
+  {
+   "key": "1803760487245672448",
+   "en": "C'mon, fess up. This a publicity stunt?",
+   "ro": "Hai, recunoaște. E un truc publicitar?"
+  },
+  {
+   "key": "1803761124830212096",
+   "en": "All right, just spit it out. This a set-up? Flock of medias about to fly in?",
+   "en_m": "All right, just spit it out. Is this a set-up? Is a flock of medias about to fly in?",
+   "ro": "Bine, zi-o odată. E vreo capcană? O să dea năvală vreo turmă de media?"
+  },
+  {
+   "key": "1803761684434251776",
+   "en": "Whoever's driving that truck – they armed, maybe? Got any huscle?",
+   "ro": "Cine conduce camionul ăla – e înarmat, poate? Are și oameni de bătaie?"
+  },
+  {
+   "key": "1803817188682493952",
+   "en": "Stuff worth a couple hundred thou. Could be ours.",
+   "ro": "Marfă de câteva sute de mii. Ar putea fi a noastră."
+  },
+  {
+   "key": "1803822169569488896",
+   "en": "Stuff's worth at least a couple hundred thou'. Really wanna trash it, not klep it?",
+   "en_m": "Stuff's worth at least a couple hundred thou'. You really wanna trash it, not klep it?",
+   "ro": "Marfa valorează cel puțin câteva sute de mii. Chiar vrei s-o distrugi, nu s-o ciordi?"
+  },
+  {
+   "key": "1803849159043313664",
+   "en": "Please... Never stolen a thing in my life.",
+   "ro": "Te rog... N-am furat niciodată nimic în viața mea."
+  },
+  {
+   "key": "1803851578066202624",
+   "en": "Fuck me, he really believes that? I remember all my strings getting swiped back in the day. Never had his own.",
+   "ro": "Pula mea, chiar crede asta? Pe vremuri mi se ciordeau toate firele. El n-a avut niciodată ale lui."
+  },
+  {
+   "key": "1803899576271892480",
+   "en": "Light 'er up.",
+   "ro": "Aprinde-o."
+  },
+  {
+   "key": "1803900684859994112",
+   "en": "Fuck me, Kerry.",
+   "ro": "Pula mea, Kerry."
+  },
+  {
+   "key": "1803901155511234560",
+   "en": "Meanin', it's just a truck of toys for some plastic Japanese dolls. Might as well blow up a cotton candy stand, but...",
+   "ro": "Adică e doar un camion cu jucării pentru niște păpuși japoneze de plastic. Ca și cum ai arunca în aer un stand de vată de zahăr, dar..."
+  },
+  {
+   "key": "1803902921816535040",
+   "en": "Still a big step forward. I hardly recognize the bastard.",
+   "ro": "Totuși, un pas mare înainte. Abia îl mai recunosc pe nenorocitul."
+  },
+  {
+   "key": "1805378097040928772",
+   "en": "[Take card] Quit squirming.",
+   "ro": "[Ia cardul] Nu te mai zvârcoli."
+  },
+  {
+   "key": "1805379210947407872",
+   "en": "Quit squirmin'. And no gonk moves.",
+   "ro": "Nu te mai zvârcoli. Și fără mișcări de fraier."
+  },
+  {
+   "key": "1805465746401472512",
+   "en": "Lay it out here.",
+   "ro": "Pune-o aici."
+  },
+  {
+   "key": "1805493101853487108",
+   "en": "[Hide] Now what?",
+   "ro": "[Ascunde-te] Și acum?"
+  },
+  {
+   "key": "1806644304519966724",
+   "en": "[Take stinger and grenades] You got it.",
+   "ro": "[Ia stinger-ul și granatele] Ai înțeles."
+  },
+  {
+   "key": "1806763155089862656",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1806794827084673024",
+   "en": "H-hey, man, lose the iron. Let's talk it out.",
+   "ro": "H-hei, frate, lasă fierul. Hai să vorbim."
+  },
+  {
+   "key": "1806794829802582016",
+   "en": "Not a word. It'll all be over soon.",
+   "ro": "Nicio vorbă. O să se termine repede."
+  },
+  {
+   "key": "1806794832503713792",
+   "en": "Ugh, fuckin' hell...",
+   "ro": "Ugh, pula mea..."
+  },
+  {
+   "key": "1806794835221622784",
+   "en": "Access card, grab it!",
+   "ro": "Card de acces, ia-l!"
+  },
+  {
+   "key": "1807063785805262848",
+   "en": "Y'know they killed IV Coma right here, in this very spot? The DJ?",
+   "ro": "Știi că l-au ucis pe IV Coma chiar aici, exact aici? Ăla era DJ-ul?"
+  },
+  {
+   "key": "1811002884727582720",
+   "en": "[Draw gun] Get out! On the ground!",
+   "ro": "[Scoate arma] Jos! La pământ!"
+  },
+  {
+   "key": "1811037494681350148",
+   "en": "Move, move! 'Less you want somethin' to happen to our friend here!",
+   "ro": "Mișcă, mișcă! Dacă nu vrei să pățească ceva prietenul nostru de aici!"
+  },
+  {
+   "key": "1811302890021924868",
+   "en": "V, move! Don't have time.",
+   "ro": "V, mișcă! N-avem timp."
+  },
+  {
+   "key": "1811362027594395648",
+   "en": "Right, gents. Now run along and don't look back.",
+   "ro": "Bine, domnilor. Acum cărați-vă și nu vă uitați înapoi."
+  },
+  {
+   "key": "1812602101136961536",
+   "en": "You drive. Get 'em off our ass.",
+   "ro": "Tu conduci. Scapă-i de pe coada noastră."
+  },
+  {
+   "key": "1814423292914393088",
+   "en": "Trunk. Grab what's in there.",
+   "ro": "Portbagaj. Ia ce e acolo."
+  },
+  {
+   "key": "1814498268916965380",
+   "en": "Come on, set those spikes – today, maybe?",
+   "ro": "Hai, pune țepii ăia – poate azi?"
+  },
+  {
+   "key": "1815303914956480512",
+   "en": "Showtime. I take the driver, you get his sidechoom. We want 'em outta the truck!",
+   "ro": "Showtime. Eu îl iau pe șofer, tu pe omul lui. Îi scoatem din camion!"
+  },
+  {
+   "key": "1815305051797413888",
+   "en": "Sure hope you know what you're doin'.",
+   "ro": "Sper că știi ce faci."
+  },
+  {
+   "key": "1815418889670713344",
+   "en": "Outta the truck, on the ground, hands where I can see 'em.",
+   "ro": "Jos din camion, la pământ, mâinile unde le văd."
+  },
+  {
+   "key": "1815478078061371392",
+   "en": "Get out! Ground, now!",
+   "ro": "Jos! La pământ, acum!"
+  },
+  {
+   "key": "1815594361549447168",
+   "en": "Pop the back.",
+   "ro": "Deschide portbagajul."
+  },
+  {
+   "key": "1815674506427719684",
+   "en": "[Open]",
+   "ro": "[Deschide]"
+  },
+  {
+   "key": "1815756838232875012",
+   "en": "Hahaha...! Fuck yeah!",
+   "ro": "Hahaha...! Așa, pula mea!"
+  },
+  {
+   "key": "1815756838232875040",
+   "en": "Good workin' with ya, V!",
+   "ro": "Bine a fost să lucrăm împreună, V!"
+  },
+  {
+   "key": "1815756838450978820",
+   "en": "Well, wouldn't it've been better to have a lawyer fight this fight for you?",
+   "en_m": "Wouldn't it've been better to have a lawyer fight this fight for ya?",
+   "ro": "Ei, n-ar fi fost mai bine să ți se ocupe un avocat de treaba asta?"
+  },
+  {
+   "key": "1815756838450978832",
+   "en": "This here? I'm sendin' a message. This is how you do biz in Night City.",
+   "ro": "Ăsta? Trimit un mesaj. Așa se fac afacerile în Night City."
+  },
+  {
+   "key": "1815789471008514052",
+   "en": "Sick burn. But for what?",
+   "ro": "Arsură nasoală. Dar pentru ce?"
+  },
+  {
+   "key": "1815791159970848768",
+   "en": "Considering a new career in terrorism?",
+   "ro": "Te-ai apucat de terorism, sau ce?"
+  },
+  {
+   "key": "1815792229988130840",
+   "en": "Burnin' real nice, I'll grant you that. Thing is, I mean, what's it actually get you?",
+   "en_m": "It's burnin' real nice, I'll grant ya that. Thing is, I mean, what's it actually get ya?",
+   "ro": "Arde al dracului de frumos, recunosc. Da' ce-ți aduce, de fapt?"
+  },
+  {
+   "key": "1815803989323374596",
+   "en": "Couldn't a lawyer do this better?",
+   "ro": "N-ar fi putut un avocat s-o facă mai bine?"
+  },
+  {
+   "key": "1815805633876418560",
+   "en": "Woulda done the same. Props.",
+   "ro": "Aș fi făcut la fel. Respect."
+  },
+  {
+   "key": "1815813192314216448",
+   "en": "Cops. Let's delta.",
+   "ro": "Poliția. Hai s-o tăiem!"
+  },
+  {
+   "key": "1823373038441947136",
+   "en": "Get out! On the ground!",
+   "ro": "Ieșiți afară! La pământ!"
+  },
+  {
+   "key": "1823380448015507456",
+   "en": "Ah, scared two chooms shitless, flamed a truck... Tryin' to be the next Johnny Silverhand, Kerry? Play terrorist?",
+   "en_m": "Scared two chooms shitless, flamed a truck... Tryin' to be the next Johnny Silverhand, Kerry? Play terrorist?",
+   "ro": "Ah, i-ai făcut pe doi chooms să se cace pe ei de frică, ai dat foc la un camion... Vrei să fii următorul Johnny Silverhand, Kerry? Te joci de-a teroristul?",
+   "ro_m": "I-ai făcut pe doi chooms să se cace pe ei de frică, ai dat foc la un camion... Vrei să fii următorul Johnny Silverhand, Kerry? Te joci de-a teroristul?"
+  },
+  {
+   "key": "1823380448502046720",
+   "en": "You always oversimplify shit? Nuance, V. You say vandalism, I say artistic protest.",
+   "ro": "De ce dracu' simplifici mereu totul? Nuanțe, V. Tu zici vandalism, eu zic protest artistic."
+  },
+  {
+   "key": "1823383719304192004",
+   "en": "That is how you do biz in Night City. Respect, Ker.",
+   "en_m": "Heh, that's how you do biz in Night City. Respect, Ker.",
+   "ro": "Așa se fac afacerile în Night City. Respect, Ker.",
+   "ro_m": "Heh, așa se fac afacerile în Night City. Respect, Ker."
+  },
+  {
+   "key": "1823383719790731264",
+   "en": "Ya get me, finally. Thanks.",
+   "ro": "În sfârșit, m-ai priceput. Mersi."
+  },
+  {
+   "key": "1832688827151020032",
+   "en": "Turned out later she wasn't the target. Some Biotechnica suit, busy eatin' 'er out when the bullets started flyin'. Found the bodies... just like that.",
+   "ro": "S-a dovedit mai târziu că nu ea era ținta. Un corporatist de la Biotechnica, ocupat să-i sugă pula când au început să zboare gloanțele. Am găsit cadavrele... așa, pur și simplu."
+  },
+  {
+   "key": "1832695331174346752",
+   "en": "Right. Hide. Quick.",
+   "ro": "Bine. Ascunde-te. Repede."
+  },
+  {
+   "key": "1832713424109957120",
+   "en": "Get out. Do what I say, everything'll be fine.",
+   "ro": "Ieși. Fă ce-ți spun și o să fie bine."
+  },
+  {
+   "key": "1832719338179260416",
+   "en": "Get out. Nice 'n' easy, no weirdness, nothing'll happen.",
+   "en_m": "Get out. Nice and easy, no weirdness, nothing'll happen.",
+   "ro": "Ieși. Liniștit, fără prostii, n-o să se întâmple nimic."
+  },
+  {
+   "key": "1832720064733376512",
+   "en": "Hey, man, listen...",
+   "ro": "Hei, frate, ascultă..."
+  },
+  {
+   "key": "1832720474902753280",
+   "en": "On the ground, I said!",
+   "ro": "La pământ, am zis!"
+  },
+  {
+   "key": "1832736285432344576",
+   "en": "I said, delta the fuck off!",
+   "ro": "Am zis, cară-te dracu'!"
+  },
+  {
+   "key": "1834122335081852928",
+   "en": "Playin' by ear, huh? Ah, wouldn't be my first time.",
+   "en_m": "Playin' by ear, huh? Wouldn't be my first time.",
+   "ro": "Improvisăm, deci? Ah, n-ar fi prima dată.",
+   "ro_m": "Improvisăm, deci? N-ar fi prima dată."
+  },
+  {
+   "key": "1834150985047076864",
+   "en": "Got the wrong truck! Fuck, we're not--",
+   "ro": "Au luat camionul greșit! Futu-i, noi nu suntem--"
+  },
+  {
+   "key": "1834189849316945920",
+   "en": "I said – easy. Now get down on the ground. Won't say it a third time.",
+   "ro": "Am zis – ușor. Acum la pământ. Nu o să mai spun a treia oară."
+  },
+  {
+   "key": "1834206657839230976",
+   "en": "Next me? Hah, please. Kerry's got a short fuse, sure, but ain't no dynamite in that soul.",
+   "ro": "Următorul eu? Ha, te rog. Kerry are un fitil scurt, sigur, dar nu e dinamită în sufletul ăla."
+  },
+  {
+   "key": "1834209712232067072",
+   "en": "Mmh. And the real reason?",
+   "ro": "Mmh. Și motivul real?"
+  },
+  {
+   "key": "1837374321998819348",
+   "en": "If those little bitches think they can make it big on MY song, they got another thing comin'.",
+   "ro": "Dacă pizdele alea mici cred că pot da lovitura pe cântecul MEU, se înșală amarnic."
+  },
+  {
+   "key": "1837374322015596552",
+   "en": "You even know what I had to sacrifice to get where I am? The price I paid for success?!",
+   "ro": "Știi măcar ce am sacrificat ca să ajung unde sunt? Prețul pe care l-am plătit pentru succes?!"
+  },
+  {
+   "key": "1837374322015596564",
+   "en": "And those ten-enny whores wanna klep my tune and expect me to just let 'em?! Fucking pig-ignorant hacks.",
+   "ro": "Iar curvele alea de doi bani vor să-mi ciordă melodia și se așteaptă să le las?! Niște amatori ignoranți ca dracu'."
+  },
+  {
+   "key": "1837374322032373764",
+   "en": "Yeah, \"success.\" Always a sore spot of Ker's. See nothing's changed.",
+   "ro": "Da, „succes”. Mereu o rană deschisă la Ker. Se vede că nu s-a schimbat nimic."
+  },
+  {
+   "key": "1922735219663302656",
+   "en": "Automated modules, hollow spikes for better control of the vehicle – standard-issue police tech. 'Nades, too. Where'd you get 'em?",
+   "ro": "Module automate, țepi goi pentru control mai bun al vehiculului – tech standard de poliție. Și grenade. De unde le-ai luat?"
+  },
+  {
+   "key": "1922741441175089152",
+   "en": "Same place you get designer drugs, the latest, still-patent-pending AudioVox and fresh Yubaris.",
+   "ro": "Din același loc de unde iei droguri de designer: ultimul AudioVox, încă în curs de brevetare, și Yubari proaspete."
+  },
+  {
+   "key": "1922743994868690944",
+   "en": "Black market?",
+   "ro": "Piața neagră?"
+  },
+  {
+   "key": "1922744103836708864",
+   "en": "Nah – fans.",
+   "ro": "Nu – fani."
+  },
+  {
+   "key": "1922767440205967360",
+   "en": "Oh, you're one to talk. I've flashed my teeth and signed papers enough for one lifetime.",
+   "ro": "Ha, tu să vorbești. Mi-am arătat dinții și am semnat hârtii cât să-mi ajungă o viață."
+  },
+  {
+   "key": "1928413355222626304",
+   "en": "Cloaked AV followed her limo. Almost nothin' left of 'er afterwards... or the limo.",
+   "ro": "Un AV camuflat i-a urmărit limuzina. După, n-a mai rămas aproape nimic din ea... sau din limuzină."
+  },
+  {
+   "key": "1928416297812094976",
+   "en": "Wouldn't mind that, actually.",
+   "ro": "Chiar nu m-ar deranja."
+  },
+  {
+   "key": "1928417011833630720",
+   "en": "Honestly, no idea what's about to go down. Just... improvise.",
+   "ro": "Serios, habar n-am ce urmează. Doar... improvizează."
+  },
+  {
+   "key": "2099844757670146052",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2231409120504901632",
+   "en": "Ah, stay nice an' still there, boys.",
+   "ro": "Hai, stați cuminți și liniștiți acolo, băieți."
+  },
+  {
+   "key": "2231409891669635072",
+   "en": "Nuh-uh, calm and quiet. It'll be over soon.",
+   "ro": "Nu-nu, calm și liniște. Se termină repede."
+  },
+  {
+   "key": "2231411298506305536",
+   "en": "Let's go, V! Pop 'er open!",
+   "ro": "Hai, V! Deschide-o!"
+  },
+  {
+   "key": "2231414076075077632",
+   "en": "Fuck, can't keep me on edge like this, V! Whadda we got there?",
+   "ro": "Futu-i, nu mă ține așa cu sufletul la gură, V! Ce avem acolo?"
+  },
+  {
+   "key": "2237193681243402240",
+   "en": "Get goin'!",
+   "ro": "Hai, mișcă!"
+  },
+  {
+   "key": "2237198347876364288",
+   "en": "Give those little bitches a taste of American hospitality. C'mon, V!",
+   "ro": "Dă-le fraierilor ăstora mici o doză de ospitalitate americană. Hai, V!"
+  },
+  {
+   "key": "2237199814070824960",
+   "en": "Waitin' for a special invite?",
+   "ro": "Ce, aștepți invitație specială?"
+  },
+  {
+   "key": "2237200606861389824",
+   "en": "What the fuuuck?",
+   "ro": "Ce căcaaaat?"
+  },
+  {
+   "key": "2237202292837380096",
+   "en": "Keep your traps shut, gents. No chatter.",
+   "ro": "Gura, băieți. Fără flecăreală."
+  },
+  {
+   "key": "2413983319915163652",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

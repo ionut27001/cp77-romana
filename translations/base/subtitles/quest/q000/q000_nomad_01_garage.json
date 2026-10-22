@@ -1,0 +1,523 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_nomad_01_garage.json",
+ "entries": [
+  {
+   "key": "1658943164544733184",
+   "en": "[Hotwire] I'll bypass the coupling.",
+   "ro": "[Hotwire] O să ocolesc cuplajul."
+  },
+  {
+   "key": "1658944511469965312",
+   "en": "Hmmm… Mhuh…",
+   "en_m": "Mh. Hmmm… huh…",
+   "ro": "Hmmm… Mhuh…",
+   "ro_m": "Mh. Hmmm… huh…"
+  },
+  {
+   "key": "1658945468308148224",
+   "en": "Got any idea what to do?",
+   "ro": "Ai vreo idee ce să facem?"
+  },
+  {
+   "key": "1658945812392071168",
+   "en": "Did anyone ask your opinion?",
+   "ro": "Te-a întrebat cineva părerea?"
+  },
+  {
+   "key": "1658946851371503616",
+   "en": "[Start engine]",
+   "ro": "[Pornește motorul]"
+  },
+  {
+   "key": "1658947444328648704",
+   "en": "It'll get me to Night City. I'll figure somethin' else out there.",
+   "ro": "Mă duce până în Night City. Acolo mai văd eu ce fac."
+  },
+  {
+   "key": "1659027221819445248",
+   "en": "Right...",
+   "ro": "Bine..."
+  },
+  {
+   "key": "1659039329181257728",
+   "en": "Hey, Mike. Didn't know you had a customer...",
+   "ro": "Hei, Mike. Nu știam că ai client..."
+  },
+  {
+   "key": "1659039329198034948",
+   "en": "Don't you sweat it, Mike. We're gonna hash it out.",
+   "ro": "Nu-ți face griji, Mike. O s-o lămurim noi."
+  },
+  {
+   "key": "1659043146534768640",
+   "en": "Don'tcha know you owe the sheriff a word when you pay his town a visit? To tell 'im what's brought ya here, maybe even over a cup o' coffee?",
+   "ro": "Nu știi că îi datorezi șerifului o vorbă când treci pe la oraș? Să-i spui ce te-a adus pe-aici, poate chiar la o cafea?"
+  },
+  {
+   "key": "1659074800695398400",
+   "en": "I'm here alone.",
+   "ro": "Sunt singură.",
+   "ro_m": "Sunt singur."
+  },
+  {
+   "key": "1659074800695398416",
+   "en": "What do you have against nomads?",
+   "ro": "Ce ai cu nomazii?"
+  },
+  {
+   "key": "1659075828299878400",
+   "en": "There's no clan, there's no camp. I'm here alone.",
+   "en_m": "There is no clan, there is no camp. I'm here alone.",
+   "ro": "Nu e niciun clan, nu e nicio tabără. Sunt singură.",
+   "ro_m": "Nu e niciun clan, nu e nicio tabără. Sunt singur."
+  },
+  {
+   "key": "1659076201592934400",
+   "en": "Are you one of those who believe everything the talkin' heads say? That nomads are the world's greatest evil?",
+   "en_m": "Are you one of those who believe everything the talking heads say? That nomads are the world's greatest evil?",
+   "ro": "Ești dintre cei care cred tot ce zic gurile alea de la televizor? Că nomazii sunt cel mai mare rău din lume?"
+  },
+  {
+   "key": "1659076921268391936",
+   "en": "Ain't buyin' it. Nomads always stick to their packs.",
+   "ro": "Nu-mi intră. Nomazii stau mereu cu haita lor."
+  },
+  {
+   "key": "1659077284646113280",
+   "en": "My family's in pieces. That's why I'm headed for Night City.",
+   "ro": "Familia mea s-a făcut praf. De-aia mă duc spre Night City."
+  },
+  {
+   "key": "1724295886243033088",
+   "en": "I'm gonna bypass the coupling and rig a hotwire.",
+   "ro": "O să ocolesc cuplajul și fac un hotwire de fortună."
+  },
+  {
+   "key": "1724296169727651840",
+   "en": "Compressor'll run on and on. Could seize up.",
+   "ro": "Compresorul o să tot meargă. Poate să se blocheze."
+  },
+  {
+   "key": "1724296505188085760",
+   "en": "OK, let's see what happens…",
+   "ro": "Bun, să vedem ce iese…"
+  },
+  {
+   "key": "1724331619800510464",
+   "en": "The corps pay you and have you on a leash like a dog, you know that?",
+   "ro": "Corporațiile te plătesc și te țin în lesă ca pe un câine, știi asta?"
+  },
+  {
+   "key": "1724332530400686080",
+   "en": "No. I'm a man that respects order. Corps brought us that order, and I intend for it to stay that way.",
+   "ro": "Nu. Eu respect ordinea. Corporațiile ne-au adus ordinea asta și vreau să rămână așa."
+  },
+  {
+   "key": "1724389689402519552",
+   "en": "Makes you an outcast among outcasts.",
+   "ro": "Deci ești proscris printre proscriși."
+  },
+  {
+   "key": "1800880561081741316",
+   "en": "I'm just passing through.",
+   "ro": "Doar trec prin zonă."
+  },
+  {
+   "key": "1800880577825402880",
+   "en": "No need to worry – I won't be stayin' long.",
+   "en_m": "No need to worry. I won't be stayin' long.",
+   "ro": "Nu-ți face griji – nu o să stau mult."
+  },
+  {
+   "key": "1800880581935820800",
+   "en": "My mistake. I hadn't planned on stopping. A failed coupling forced my hand.",
+   "ro": "Scuze. Nu voiam să mă opresc. Cuplajul ăla stricat m-a obligat."
+  },
+  {
+   "key": "1800881200260116480",
+   "en": "My mistake.",
+   "ro": "Scuze."
+  },
+  {
+   "key": "1800882552084295680",
+   "en": "Name's Andrew Jones. Probably heard of me.",
+   "ro": "Numele meu e Andrew Jones. Probabil ai auzit de mine."
+  },
+  {
+   "key": "1800882948227919872",
+   "en": "Didn't answer my question, now, did ya?",
+   "ro": "Nu mi-ai răspuns la întrebare, nu?"
+  },
+  {
+   "key": "1800883214079684608",
+   "en": "I can't say that I have.",
+   "ro": "Nu pot spune că da."
+  },
+  {
+   "key": "1800883613763301376",
+   "en": "Yeah, always some failure 'hind mistakes.",
+   "ro": "Da, mereu e vreun rateu în spatele greșelilor."
+  },
+  {
+   "key": "1800885125122027520",
+   "en": "Served in spec ops during the last war. \"Silver Shoguns\"... ring any bells?",
+   "ro": "Am fost în forțele speciale în ultimul război. „Silver Shoguns”... îți sună ceva?"
+  },
+  {
+   "key": "1800885280932032512",
+   "en": "I can't say that it does.",
+   "ro": "Nu-mi sună a nimic."
+  },
+  {
+   "key": "1800885349886390272",
+   "en": "Don't like to get along, do ya?",
+   "ro": "Nu-ți place să te înțelegi cu lumea, nu?"
+  },
+  {
+   "key": "1801280255737917440",
+   "en": "That a nomad vehicle? Mighta expected that…",
+   "ro": "Vehicul nomad, nu? Mă așteptam la asta…"
+  },
+  {
+   "key": "1801280645673971716",
+   "en": "I'll just fix it and be on my way.",
+   "ro": "O să-l repar și plec."
+  },
+  {
+   "key": "1801280656746934272",
+   "en": "If you have a problem, I'm willin' to hear it.",
+   "ro": "Dacă ai vreo problemă, sunt toate urechile."
+  },
+  {
+   "key": "1801280662367301632",
+   "en": "I'll just fix it up and go. I've no reason to linger.",
+   "en_m": "I'll just fix it and go, I've no reason to linger.",
+   "ro": "O să-l repar și plec. N-am motiv să zăbovesc."
+  },
+  {
+   "key": "1801280931842945024",
+   "en": "Do you have a problem?",
+   "ro": "Ai o problemă?"
+  },
+  {
+   "key": "1801282219007733760",
+   "en": "Ahhh, nope, ya sure as shit don't.",
+   "ro": "Ahhh, nu, sigur ca dracu' că nu."
+  },
+  {
+   "key": "1801282761062805504",
+   "en": "Lemme tell ya what my problem is.",
+   "ro": "Lasă-mă să-ți zic care-i problema mea."
+  },
+  {
+   "key": "1801283140144001024",
+   "en": "Nothin' boils my blood like a fuckin' stray.",
+   "ro": "Nimic nu mă scoate din minți ca un rătăcitor nenorocit."
+  },
+  {
+   "key": "1801284018313818112",
+   "en": "Where'd your clan pitch camp?",
+   "ro": "Unde și-a înfipt clanul cortul?"
+  },
+  {
+   "key": "1801285274608529408",
+   "en": "Mhm. But you don't wanna see me bare my fangs, so I'll ask again – where's your clan?",
+   "ro": "Mhm. Da' nu vrei să mă vezi cum îmi arăt colții, așa că întreb iar – unde e clanul tău?"
+  },
+  {
+   "key": "1801292689601130500",
+   "en": "I need to use your radio tower.",
+   "ro": "Am nevoie de turnul tău radio."
+  },
+  {
+   "key": "1801292707854741504",
+   "en": "I saw a broadcast and comms tower on my way in. My antenna's down, and I need to radio someone.",
+   "ro": "Am văzut un turn de emisie pe drum. Antena mi-a căzut și trebuie să contactez pe cineva pe radio."
+  },
+  {
+   "key": "1801297994825265152",
+   "en": "What you need's to hightail it outta here without another word.",
+   "ro": "Ce-ți trebuie e să te cari de aici fără să mai spui o vorbă."
+  },
+  {
+   "key": "1801303778854367232",
+   "en": "You're a real hospitable bunch.",
+   "ro": "Ce gașcă ospitalieră mai sunteți."
+  },
+  {
+   "key": "1801304779900514304",
+   "en": "I heard this place was famous for its hospitality. Aw, glad to see it wasn't just rumors.",
+   "en_m": "I heard this place was famous for its hospitality. Glad to see it wasn't just rumors.",
+   "ro": "Auzisem că locul ăsta e faimos pentru ospitalitate. Ah, bine că nu-s doar bârfe.",
+   "ro_m": "Am auzit că locul ăsta era faimos pentru ospitalitate. Mă bucur să văd că nu erau doar zvonuri."
+  },
+  {
+   "key": "1801318268698292224",
+   "en": "You're damn right we are – when people come along who know how to behave.",
+   "ro": "Normal că suntem – când vin oameni care știu să se poarte."
+  },
+  {
+   "key": "1801338433469083648",
+   "en": "Electric coupling module.",
+   "ro": "Modul de cuplare electrică."
+  },
+  {
+   "key": "1801338951901835264",
+   "en": "You said it was nothing serious when I came in. You said you were sure.",
+   "ro": "Ai spus că nu e nimic grav când am intrat. Ai spus că ești sigur."
+  },
+  {
+   "key": "1801339113181212672",
+   "en": "Guess I was wrong.",
+   "ro": "Se pare că m-am înșelat."
+  },
+  {
+   "key": "1801339326503514112",
+   "en": "I'm 'onna pay you what we agreed. Not one enny more.",
+   "en_m": "I'm gonna pay you what we agreed. Not one enny more.",
+   "ro": "O să-ți plătesc ce-am stabilit. Niciun enny în plus."
+  },
+  {
+   "key": "1801339451846094848",
+   "en": "Huh. For that you can borrow my tools and fix it yourself.",
+   "ro": "Hm. Pentru asta poți să-ți împrumuți sculele mele și să-l repari singură.",
+   "ro_m": "Hm. Pentru asta poți să-ți împrumuți sculele mele și să-l repari singur."
+  },
+  {
+   "key": "1801341335860342784",
+   "en": "Can always look for another shop where they won't ask a lone nomad why she's huggin' the border.",
+   "en_m": "Can always look for another shop where they won't ask a lone nomad why he's huggin' the border.",
+   "ro": "Pot să caut oricând alt atelier unde nimeni nu întreabă de ce stă o nomadă singură lipită de graniță.",
+   "ro_m": "Pot să caut oricând alt atelier unde nimeni nu întreabă de ce stă un nomad singur lipit de graniță."
+  },
+  {
+   "key": "1801342680487096320",
+   "en": "That's fine. Step aside.",
+   "ro": "Bine. Dă-te la o parte."
+  },
+  {
+   "key": "1802402267155853312",
+   "en": "Not shabby at all. Question's how long it'll last ya.",
+   "ro": "Deloc rău. Întrebarea e cât o să-ți țină."
+  },
+  {
+   "key": "1837458000964415488",
+   "en": "Uh, ro-rolled in a-a few hours past. I... I thought she'd at least called into ya.",
+   "en_m": "Uh, ro-rolled in a few hours past. I... I… I thought, er, he'd at least called into ya.",
+   "ro": "Ăă, a-a intrat acum câteva ore. Credeam că măcar te-a sunat."
+  },
+  {
+   "key": "1837461122516447232",
+   "en": "Sure as hell hope you'll be on your way before long…",
+   "ro": "Sper de-a binelea să pleci de-aici curând…"
+  },
+  {
+   "key": "1837462051605114880",
+   "en": "Ain't got no mind to see you driftin' around these parts. Got it?",
+   "ro": "Nu vreau să te mai văd rătăcind pe-aici. Ai priceput?"
+  },
+  {
+   "key": "1908323534565052416",
+   "en": "[Connect to radio station]",
+   "ro": "[Conectează-te la postul de radio]"
+  },
+  {
+   "key": "1908324405755547648",
+   "en": "Mmm…",
+   "en_m": "Mhmm…",
+   "ro": "Mmm…",
+   "ro_m": "Mhmm…"
+  },
+  {
+   "key": "1908324706168377344",
+   "en": "So, doable? It sure was.",
+   "ro": "Deci, se poate? Sigur că s-a putut."
+  },
+  {
+   "key": "1908326812010975232",
+   "en": "Antenna on this heap don't seem like it packs a punch. Not liable to hear much.",
+   "ro": "Antena de pe rablă nu pare să aibă putere. N-o să prinzi mare lucru."
+  },
+  {
+   "key": "1908327430570151936",
+   "en": "Satisficing, that – not a solid fix. Might as well have used spit and duct tape.",
+   "ro": "Reparație de ocazie, asta – nu e nimic solid. Puteai la fel de bine să lipești cu scuipat și scotch."
+  },
+  {
+   "key": "1908336642436141056",
+   "en": "Doable? Doable.",
+   "ro": "Se poate? Se poate."
+  },
+  {
+   "key": "1912677811012694016",
+   "en": "You don't say…",
+   "ro": "Nu mi-ai zice!"
+  },
+  {
+   "key": "1912685125207781376",
+   "en": "It worked – that's what matters.",
+   "ro": "A mers – asta contează."
+  },
+  {
+   "key": "1927069568474390532",
+   "en": "[Remove patch]",
+   "ro": "[Scoate patch-ul]"
+  },
+  {
+   "key": "1937172807092047876",
+   "en": "[Check engine] Step aside. I'll handle it.",
+   "ro": "[Verifică motorul] Dă-te la o parte. Mă ocup eu."
+  },
+  {
+   "key": "1985203227518234624",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "1993676855788367872",
+   "en": "You like the sound of your voice, don't you?",
+   "ro": "Îți place să te auzi vorbind, nu?"
+  },
+  {
+   "key": "1993676874343968772",
+   "en": "[Close door] I don't want any trouble.",
+   "ro": "[Închide ușa] Nu vreau probleme."
+  },
+  {
+   "key": "1993676898167615488",
+   "en": "I've made it clear – I don't want any trouble.",
+   "ro": "Am fost clar – nu vreau probleme."
+  },
+  {
+   "key": "1993676994552721408",
+   "en": "[Close door] You like the sound of your voice, don't you?",
+   "ro": "[Închide ușa] Îți place să te auzi vorbind, nu?"
+  },
+  {
+   "key": "1993679867499966464",
+   "en": "Then stop lookin' for it and hit the road, quick.",
+   "ro": "Atunci nu-l mai căuta și cară-te, repede."
+  },
+  {
+   "key": "1993684418001039360",
+   "en": "What's that, drifter? What're you on about?",
+   "ro": "Ce-i aia, nomadule? Despre ce vorbești?"
+  },
+  {
+   "key": "1993684522019778560",
+   "en": "Nothin', nothin' at all.",
+   "ro": "Nimic, nimic deloc."
+  },
+  {
+   "key": "1993684599278858240",
+   "en": "Hm, yeah. Best that way.",
+   "ro": "Hm, da. Așa e mai bine."
+  },
+  {
+   "key": "2005644882674294784",
+   "en": "I'm thinking.",
+   "ro": "Mă gândesc."
+  },
+  {
+   "key": "2007055332096798720",
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "key": "2007055438061694976",
+   "en": "I said step aside. I'll handle it.",
+   "ro": "Ți-am zis, dă-te la o parte. Mă ocup eu."
+  },
+  {
+   "key": "2007067268230344704",
+   "en": "I'm thinkin', I'm thinkin'…",
+   "ro": "Mă gândesc, mă gândesc…"
+  },
+  {
+   "key": "2007070494371540992",
+   "en": "Mmh. And?",
+   "ro": "Mmh. Și?"
+  },
+  {
+   "key": "2007070536415244288",
+   "en": "And your chirping is not helping.",
+   "ro": "Și ciripitul tău nu ajută."
+  },
+  {
+   "key": "2019968813187047428",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "2019981139541860352",
+   "en": "Afraid not.",
+   "ro": "Din păcate, nu."
+  },
+  {
+   "key": "2034261697897799680",
+   "en": "It's like I was tellin' ya…",
+   "ro": "Cum ziceam…"
+  },
+  {
+   "key": "2057812437547196420",
+   "en": "No, no…",
+   "ro": "Nu, nu…"
+  },
+  {
+   "key": "2057850477871210496",
+   "en": "[Start engine]",
+   "ro": "[Pornește motorul]"
+  },
+  {
+   "key": "2057850939513085952",
+   "en": "[Start engine]",
+   "ro": "[Pornește motorul]"
+  },
+  {
+   "key": "2182345968431767552",
+   "en": "I'm going to pay you what we agreed.",
+   "ro": "O să-ți plătesc ce-am stabilit."
+  },
+  {
+   "key": "2231630453306212352",
+   "en": "Y'know, I don't have all day.",
+   "ro": "Știi, n-am toată ziua."
+  },
+  {
+   "key": "2231630476274221056",
+   "en": "You're wearin' on my patience now.",
+   "ro": "Mă scoți din răbdare."
+  },
+  {
+   "key": "2231795917005176832",
+   "en": "What, suddenly all shy?",
+   "ro": "Ce, deodată ești timidă?",
+   "ro_m": "Ce, deodată ești timid?"
+  },
+  {
+   "key": "2231795922541658112",
+   "en": "Hey, I'm talkin' to you.",
+   "ro": "Hei, cu tine vorbesc."
+  },
+  {
+   "key": "2231809915662548992",
+   "en": "Heh. It die on you after all?",
+   "ro": "Heh. Ți-a crăpat până la urmă?"
+  },
+  {
+   "key": "2253050588814295040",
+   "en": "I'm lookin' for someone – Jackie Welles? Have you maybe--?",
+   "ro": "Caut pe cineva – pe Jackie Welles? Nu cumva ați--?"
+  },
+  {
+   "key": "2253050599216168960",
+   "en": "I'm looking for Jackie Welles.",
+   "ro": "Îl caut pe Jackie Welles."
+  },
+  {
+   "key": "2292491454017634308",
+   "en": "Did anyone ask your opinion?",
+   "ro": "Te-a întrebat cineva părerea?"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\ncpd_low_m_09_jap_25.json",
+ "entries": [
+  {
+   "key": "1863505667854819332",
+   "en": "Protect and serve.",
+   "ro": "Protejează și servește."
+  },
+  {
+   "key": "1863505667871596548",
+   "en": "Please remain calm.",
+   "ro": "Vă rog, rămâneți calmi."
+  },
+  {
+   "key": "1863505667888373764",
+   "en": "I'm sorry, ma'am! Please move back!",
+   "en_m": "I'm sorry, sir! Please move back!",
+   "ro": "Îmi pare rău, doamnă! Vă rog, dați-vă înapoi!",
+   "ro_m": "Îmi pare rău, domnule! Vă rog, dați-vă înapoi!"
+  },
+  {
+   "key": "1863505667921928192",
+   "en": "Please stay back.",
+   "ro": "Vă rog, dați-vă înapoi."
+  },
+  {
+   "key": "1863505667955482628",
+   "en": "Drop it!",
+   "ro": "Aruncă!"
+  },
+  {
+   "key": "1863505667989037060",
+   "en": "You can't do that, ma'am!",
+   "en_m": "You can't do that, sir!",
+   "ro": "Nu puteți face asta, doamnă!",
+   "ro_m": "Nu puteți face asta, domnule!"
+  },
+  {
+   "key": "1863505668022591492",
+   "en": "You have to do as I say!",
+   "ro": "Trebuie să faceți ce spun!"
+  },
+  {
+   "key": "1863505668039368708",
+   "en": "Please do as I say! I'm police!",
+   "ro": "Vă rog, faceți ce spun! Sunt polițist!"
+  },
+  {
+   "key": "1863505668089700356",
+   "en": "Thank you for complying.",
+   "ro": "Mulțumesc că ați cooperat."
+  },
+  {
+   "key": "1863505668106477572",
+   "en": "A model citizen.",
+   "ro": "O cetățeană model.",
+   "ro_m": "Un cetățean model."
+  },
+  {
+   "key": "1863505668156809220",
+   "en": "Hmm?",
+   "ro": "Hmm?"
+  },
+  {
+   "key": "1863505668173586436",
+   "en": "What's that?",
+   "ro": "Ce-i aia?"
+  },
+  {
+   "key": "1863505668223918084",
+   "en": "Ready for my next assignment!",
+   "ro": "Gata pentru următoarea misiune!"
+  },
+  {
+   "key": "1863505668257472516",
+   "en": "All done!",
+   "ro": "Gata!"
+  },
+  {
+   "key": "1863505668307804164",
+   "en": "Please surrender immediately!",
+   "ro": "Vă rog, predați-vă imediat!"
+  },
+  {
+   "key": "1863505668324581380",
+   "en": "You come out willingly, you'll keep your rights!",
+   "ro": "Dacă ieșiți de bunăvoie, vă păstrați drepturile!"
+  },
+  {
+   "key": "1863505668358135812",
+   "en": "Dead! Got a body!",
+   "ro": "Mort! Avem un cadavru!"
+  },
+  {
+   "key": "1863505668374913028",
+   "en": "Yes, yes. Of course!",
+   "ro": "Da, da. Desigur!"
+  },
+  {
+   "key": "1863505668425244676",
+   "en": "Jesus! Help!",
+   "ro": "Doamne! Ajutor!"
+  },
+  {
+   "key": "1863505668442021892",
+   "en": "Help! Help me!",
+   "ro": "Ajutor! Ajută-mă!"
+  },
+  {
+   "key": "1863505668475576324",
+   "en": "Ughh!",
+   "ro": "Ughh!"
+  },
+  {
+   "key": "1863505668525907972",
+   "en": "Where's the arrests?!",
+   "ro": "Unde-s arestările?!"
+  },
+  {
+   "key": "1863505668542685188",
+   "en": "Shouldn't we have arrested her?",
+   "ro": "Nu trebuia să o arestăm?",
+   "ro_m": "Nu trebuia să-l arestăm?"
+  },
+  {
+   "key": "1863505668593016836",
+   "en": "Don't let me die! Please!",
+   "ro": "Nu mă lăsa să mor! Vă rog!"
+  },
+  {
+   "key": "1863505668609794052",
+   "en": "Wasn't s'posed to be like this!",
+   "ro": "Nu trebuia să fie așa!"
+  },
+  {
+   "key": "1863505668643348484",
+   "en": "Sorry.",
+   "ro": "Scuze."
+  },
+  {
+   "key": "1863505668676902916",
+   "en": "Sorry, my bad.",
+   "ro": "Scuze, vina mea."
+  },
+  {
+   "key": "1863505668710457348",
+   "en": "Copy.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1863505668760788996",
+   "en": "Copy that... Yes sir... Yes, of course, captain... Everything's clear...",
+   "ro": "Am înțeles... Da, domnule... Da, sigur, căpitane... Totul e clar..."
+  },
+  {
+   "key": "1863505668777566212",
+   "en": "Yes... Yes, of course... Yes, everything I saw...",
+   "ro": "Da... Da, desigur... Da, tot ce am văzut..."
+  },
+  {
+   "key": "1863505668827897860",
+   "en": "Where I gotta go?! Which side?!",
+   "ro": "Unde trebuie să merg?! Pe care parte?!"
+  },
+  {
+   "key": "1863505668878229508",
+   "en": "Comin' from the right!",
+   "ro": "Vine din dreapta!"
+  },
+  {
+   "key": "1863505668911783940",
+   "en": "Run! Save yourselves!",
+   "ro": "Fugiți! Salvați-vă!"
+  },
+  {
+   "key": "1863505668928561156",
+   "en": "Over and out.",
+   "ro": "Terminat."
+  },
+  {
+   "key": "1863505668945338372",
+   "en": "Hope it's nothing serious.",
+   "ro": "Sper să nu fie nimic grav."
+  },
+  {
+   "key": "1863505668995670016",
+   "en": "We gotta go investigate!",
+   "ro": "Trebuie să mergem să investigăm!"
+  },
+  {
+   "key": "1863505669012447236",
+   "en": "This is our chance to shine!",
+   "ro": "E șansa noastră să strălucim!"
+  },
+  {
+   "key": "1863505669046001664",
+   "en": "I'll cover you!",
+   "ro": "Te acopăr!"
+  },
+  {
+   "key": "1863505669062778884",
+   "en": "NCPD! I'm police!",
+   "ro": "NCPD! Sunt polițist!"
+  },
+  {
+   "key": "1863505669096333312",
+   "en": "Ech... ech... beggin' you... no...",
+   "ro": "Eh... eh... te rog... nu..."
+  },
+  {
+   "key": "1867743226956996608",
+   "en": "Absolutely... Yes, I'll write up a report... Yes...",
+   "ro": "Absolut... Da, o să scriu un raport... Da..."
+  }
+ ]
+}

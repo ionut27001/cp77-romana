@@ -1,0 +1,191 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q101\\q101_00_chicken_test.json",
+ "entries": [
+  {
+   "key": "1425545463101022208",
+   "en": "[db_db]Current events",
+   "en_m": "[db_db]Current events.",
+   "ro": "[db_db]Evenimente curente",
+   "ro_m": "[db_db]Evenimente curente."
+  },
+  {
+   "key": "1425547078663036928",
+   "en": "[db_db]Johnny's past",
+   "en_m": "[db_db]Johnny's past.",
+   "ro": "[db_db]Trecutul lui Johnny",
+   "ro_m": "[db_db]Trecutul lui Johnny."
+  },
+  {
+   "key": "1425547498345095168",
+   "en": "[db_db]Concert",
+   "en_m": "[db_db]Backstage.",
+   "ro": "[db_db]Concert",
+   "ro_m": "[db_db]În culise."
+  },
+  {
+   "key": "1425547498361872392",
+   "en": "[db_db]Backalley",
+   "en_m": "[db_db]Kerry farewell.",
+   "ro": "[db_db]Aleea din spate"
+  },
+  {
+   "key": "1425547812548796416",
+   "en": "[db_db]Rooftop and Saburo office",
+   "en_m": "[db_db]Arasaka corridors.",
+   "ro": "[db_db]Terasă și biroul lui Saburo",
+   "ro_m": "[db_db]Coridoarele Arasaka."
+  },
+  {
+   "key": "1425548067948355584",
+   "en": "[db_db]NEXT>",
+   "ro": "[db_db]URMĂTORUL>"
+  },
+  {
+   "key": "1425549234082308096",
+   "en": "[db_db]Smasher",
+   "en_m": "[db_db]Fight with Smasher.",
+   "ro": "[db_db]Smasher",
+   "ro_m": "[db_db]Luptă cu Smasher."
+  },
+  {
+   "key": "1425549234082308112",
+   "en": "[db_db]Soulkiller room1",
+   "en_m": "[db_db]Soulkiller room",
+   "ro": "[db_db]Camera Soulkiller 1",
+   "ro_m": "[db_db]Camera Soulkiller"
+  },
+  {
+   "key": "1425549234099085316",
+   "en": "[db_db]Back to JOHNNY CHOICE",
+   "en_m": "[db_db]Back to JOHNNY CHOICE.",
+   "ro": "[db_db]Înapoi la ALEGEREA LUI JOHNNY",
+   "ro_m": "[db_db]Înapoi la ALEGEREA LUI JOHNNY."
+  },
+  {
+   "key": "1425556186208296960",
+   "en": "[db_db]Resurrection",
+   "en_m": "[db_db]Resurrection.",
+   "ro": "[db_db]Înviere",
+   "ro_m": "[db_db]Înviere."
+  },
+  {
+   "key": "1425556186208296976",
+   "en": "[db_db]Talk with Takemura",
+   "en_m": "[db_db]Talk with Takemura.",
+   "ro": "[db_db]Vorbește cu Takemura",
+   "ro_m": "[db_db]Vorbește cu Takemura."
+  },
+  {
+   "key": "1425556186208297008",
+   "en": "[db_db]NEXT>",
+   "ro": "[db_db]URMĂTORUL>"
+  },
+  {
+   "key": "1425569691917508608",
+   "en": "[db_db]Start quest",
+   "en_m": "[db_db]Start quest.",
+   "ro": "[db_db]Începe misiunea",
+   "ro_m": "[db_db]Începe misiunea."
+  },
+  {
+   "key": "1426919086269292560",
+   "en": "[db_db]Victor 1",
+   "en_m": "[db_db]Victor Vector appointment.",
+   "ro": "[db_db]Victor 1",
+   "ro_m": "[db_db]Programare la Victor Vector."
+  },
+  {
+   "key": "1426919086286069760",
+   "en": "[db_db]Victor final",
+   "en_m": "[db_db]Victor continues.",
+   "ro": "[db_db]Victor final",
+   "ro_m": "[db_db]Victor continuă."
+  },
+  {
+   "key": "1496835922544451584",
+   "en": "[db_db]Back to TIME CHOICE",
+   "en_m": "[db_db]Back to TIME CHOICE.",
+   "ro": "[db_db]Înapoi la ALEGEREA TIMPULUI",
+   "ro_m": "[db_db]Înapoi la ALEGEREA TIMPULUI."
+  },
+  {
+   "key": "1624348068628549632",
+   "en": "[db_db]Start chase",
+   "ro": "[db_db]Începe urmărirea"
+  },
+  {
+   "key": "1624349902747357184",
+   "en": "[db_db]After car crash",
+   "ro": "[db_db]După accident"
+  },
+  {
+   "key": "1624350412674060288",
+   "en": "[db_db]Misty in V's flat",
+   "en_m": "[db_db]V's flat.",
+   "ro": "[db_db]Misty în apartamentul lui V",
+   "ro_m": "[db_db]Apartamentul lui V."
+  },
+  {
+   "key": "1624351139865710592",
+   "en": "[db_db]Back to V'S CHOICE",
+   "ro": "[db_db]Înapoi la ALEGEREA LUI V"
+  },
+  {
+   "key": "1624351222996815872",
+   "en": "[db_db]Back to TIME CHOICE",
+   "en_m": "[db_db]Back to TIME CHOICE.",
+   "ro": "[db_db]Înapoi la ALEGEREA TIMPULUI",
+   "ro_m": "[db_db]Înapoi la ALEGEREA TIMPULUI."
+  },
+  {
+   "key": "1640088411038699520",
+   "en": "[db_db]Takemura in diner",
+   "ro": "[db_db]Takemura la restaurant"
+  },
+  {
+   "key": "1699594608895488000",
+   "en": "[db_db]Evacuation",
+   "ro": "[db_db]Evacuare"
+  },
+  {
+   "key": "1709591824234082304",
+   "en": "[db_db]Whiteroom",
+   "ro": "[db_db]Camera albă"
+  },
+  {
+   "key": "1719879442997866496",
+   "en": "[db_db]Delamain ride",
+   "ro": "[db_db]Cursă cu Delamain"
+  },
+  {
+   "key": "1732992276954771456",
+   "en": "[db_db]Soulkiller room2",
+   "ro": "[db_db]Camera Soulkiller 2"
+  },
+  {
+   "key": "1734101020312760320",
+   "en": "[db_db]Saburo combat",
+   "ro": "[db_db]Luptă cu Saburo"
+  },
+  {
+   "key": "1746157083539173376",
+   "en": "[db_db]Victor 2",
+   "ro": "[db_db]Victor 2"
+  },
+  {
+   "key": "1754590951434776576",
+   "en": "[db_db]Johnny in V's flat",
+   "ro": "[db_db]Johnny în apartamentul lui V"
+  },
+  {
+   "key": "1760643721891835904",
+   "en": "[db_db]Room activities",
+   "ro": "[db_db]Activități în cameră"
+  },
+  {
+   "key": "2157429763955003392",
+   "en": "[db_db]Combat on stairs",
+   "ro": "[db_db]Luptă pe scări"
+  }
+ ]
+}

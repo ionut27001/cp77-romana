@@ -1,0 +1,90 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_03_chicken_test.json",
+ "entries": [
+  {
+   "key": "3054935539983544320",
+   "en": "[db_db]Start directly from beggining (shootout location in Container Zone)",
+   "ro": "[db_db]Start directly from beggining (shootout location in Container Zone)"
+  },
+  {
+   "key": "3054935539983544332",
+   "en": "[db_db]Start directly from sequence with Wagner",
+   "ro": "[db_db]Pornește direct din secvența cu Wagner"
+  },
+  {
+   "key": "3080961715860369408",
+   "en": "[db_db]Start from motel location",
+   "ro": "[db_db]Start from motel location"
+  },
+  {
+   "key": "3131873834814107652",
+   "en": "[db_db]Nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "3131874386549633024",
+   "en": "[db_db]Street Kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3131874413074411520",
+   "en": "[db_db]Corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3365197493723688960",
+   "en": "[db_db]Investigation in Longshore Stacks done",
+   "ro": "[db_db]Investigation in Longshore Stacks done"
+  },
+  {
+   "key": "3365197493723688972",
+   "en": "[db_db]Investigation in Longshore Stacks not done",
+   "ro": "[db_db]Investigation in Longshore Stacks not done"
+  },
+  {
+   "key": "3365197533284364288",
+   "en": "[db_db]Investigation in Longshore Stacks done",
+   "ro": "[db_db]Investigation in Longshore Stacks done"
+  },
+  {
+   "key": "3365197533284364300",
+   "en": "[db_db]Investigation in Longshore Stacks not done",
+   "ro": "[db_db]Investigation in Longshore Stacks not done"
+  },
+  {
+   "key": "3611479625297784832",
+   "en": "[db_db]STS_ep1_03",
+   "ro": "[db_db]STS_ep1_03"
+  },
+  {
+   "key": "3611480763027910656",
+   "en": "[db_db]wst_ep1_03",
+   "ro": "[db_db]wst_ep1_03"
+  },
+  {
+   "key": "3611579121218318336",
+   "en": "[db_db]wst_ep1_04",
+   "ro": "[db_db]wst_ep1_04"
+  },
+  {
+   "key": "3965165779080978432",
+   "en": "[db_db]Start from default scene with Briana",
+   "ro": "[db_db]Pornește din scena implicită cu Briana"
+  },
+  {
+   "key": "3965187955339304960",
+   "en": "[db_db]Briana default",
+   "ro": "[db_db]Briana default"
+  },
+  {
+   "key": "3965194458339221508",
+   "en": "[db_db]Rinder killed",
+   "ro": "[db_db]Rinder killed"
+  },
+  {
+   "key": "3965194831934267392",
+   "en": "[db_db]Rinder spared",
+   "ro": "[db_db]Rinder spared"
+  }
+ ]
+}

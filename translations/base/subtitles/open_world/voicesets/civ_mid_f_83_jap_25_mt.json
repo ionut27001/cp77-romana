@@ -1,0 +1,75 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_f_83_jap_25_mt.json",
+ "entries": [
+  {
+   "key": "2209935003433336840",
+   "en": "<kiroshi l=\"jpn\" o=\"話すことは何もないわ\" t=\"I have nothing to say to you.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"話すことは何もないわ\" t=\"Nu am nimic să-ți spun.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003466891272",
+   "en": "<kiroshi l=\"jpn\" o=\"悪いけどお金はないの\" t=\"Sorry, I don't have any money.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"悪いけどお金はないの\" t=\"Scuze, n-am bani.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003550777352",
+   "en": "<kiroshi l=\"jpn\" o=\"あら、失礼！\" t=\"Excuse me!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あら、失礼！\" t=\"Scuzați-mă!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003584331784",
+   "en": "<kiroshi l=\"jpn\" o=\"ちょっと？\" t=\"Seriously?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ちょっと？\" t=\"Serios?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003651440648",
+   "en": "<kiroshi l=\"jpn\" o=\"あー、久しぶり！\" t=\"Oh, it's you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あー、久しぶり！\" t=\"Ah, tu ești!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003718549512",
+   "en": "<kiroshi l=\"jpn\" o=\"ええ、今夜なら空いてる。…じゃあ、『電気仕掛けの殺人者』はどう？ 面白いらしいよ… うん…\" t=\"Sure, I'm free tonight. Hey, how about \\\"Electronic Murderer?\\\" I heard it's super good... Mhm...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ええ、今夜なら空いてる。…じゃあ、『電気仕掛けの殺人者』はどう？ 面白いらしいよ… うん…\" t=\"Sigur, sunt liberă diseară. Hei, ce zici de „Electronic Murderer”? Am auzit că e super bun... Mhm...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003752103944",
+   "en": "<kiroshi l=\"jpn\" o=\"レーザーコアとラテックス？ いいわね… この間ツァイク・ディッヒに行ったから着るものはわかるわ… ええ、前回と同じね…\" t=\"Lazrcore and latex? I'm in... Yeah, I was in Zeig Dich recently, so I already know what to wear... Of course, we do the same as last time...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"レーザーコアとラテックス？ いいわね… この間ツァイク・ディッヒに行ったから着るものはわかるわ… ええ、前回と同じね…\" t=\"Lazrcore și latex? Sunt de acord... Da, am fost recent la Zeig Dich, așa că știu deja ce să port... Bineînțeles, facem la fel ca data trecută...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935003802435592",
+   "en": "<kiroshi l=\"jpn\" o=\"わかった。じゃあまた後で\" t=\"So I'll see you later then!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"わかった。じゃあまた後で\" t=\"Ne vedem mai târziu, atunci!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004037316616",
+   "en": "<kiroshi l=\"jpn\" o=\"ウソでしょ！\" t=\"Oh shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ウソでしょ！\" t=\"Ah, căcat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004070871048",
+   "en": "<kiroshi l=\"jpn\" o=\"みんな、逃げて！\" t=\"Everyone! Run!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"みんな、逃げて！\" t=\"Toată lumea! Fugiți!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004188311560",
+   "en": "<kiroshi l=\"jpn\" o=\"お願いだから、見逃して！\" t=\"I'm begging you, just let me go!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"お願いだから、見逃して！\" t=\"Te rog, lasă-mă să plec!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004238643208",
+   "en": "<kiroshi l=\"jpn\" o=\"誰にも言わないから、命だけは！\" t=\"Please, I won't tell anyone! Just leave me be!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"誰にも言わないから、命だけは！\" t=\"Te rog, nu spun nimănui! Lasă-mă în pace!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004372860936",
+   "en": "<kiroshi l=\"jpn\" o=\"あたしに構わないで。警察呼ぶわよ！\" t=\"Leave me alone or I'll call the police!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あたしに構わないで。警察呼ぶわよ！\" t=\"Lasă-mă în pace sau chem poliția!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2209935004406415368",
+   "en": "<kiroshi l=\"jpn\" o=\"構わないでよ！\" t=\"Just leave me in peace!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"構わないでよ！\" t=\"Lasă-mă în pace!\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

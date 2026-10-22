@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_013.json",
+ "entries": [
+  {
+   "key": "2167578797545377792",
+   "en": "<kiroshi l=\"rus\" o=\"А, нет-нет, я сюда ненадолго. Скоро перееду в центр.\" t=\"Oh, no, no, I'll be moving to City Center in no time. Trust me, this is just a temporary situation.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"А, нет-нет, я сюда ненадолго. Скоро перееду в центр.\" t=\"A, nu, nu, mă mut în City Center imediat. Crede-mă, e ceva temporar.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2214542464295211008",
+   "en": "<kiroshi l=\"jpn\" o=\"ふうん。みんなそう言うのよね\" t=\"Uh-huh. That's what they all say.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ふうん。みんなそう言うのよね\" t=\"Mhm. Asta zic toți.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228748255877238784",
+   "en": "<kiroshi l=\"rus\" o=\"Что? Нет, это правда временно. Мне в отделе кадров так сказали.\" t=\"What? No, I'm serious. The company promised me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Что? Нет, это правда временно. Мне в отделе кадров так сказали.\" t=\"Ce? Nu, serios! Mi-a zis compania asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228752829933522944",
+   "en": "<kiroshi l=\"jpn\" o=\"あー、嘘だと言ってるわけじゃないのよ。ねえ、上の階のアダムには会った？ 両腕がクロームの黒人の人なんだけど\" t=\"Oh, I'm not denying that. Say, you wouldn't happen to know Adam – from upstairs? The black guy with chrome arms?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"あー、嘘だと言ってるわけじゃないのよ。ねえ、上の階のアダムには会った？ 両腕がクロームの黒人の人なんだけど\" t=\"A, nu zic că nu. Hai, îl cunoști pe Adam, de la etajul de sus? Tipul ăla de culoare cu brațele de chrome?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228759076040708096",
+   "en": "<kiroshi l=\"rus\" o=\"Э-э-э… Нет. Я же сказала, я здесь ненадолго.\" t=\"Uhh, no...? Like I said, I'm not staying here for long.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Э-э-э… Нет. Я же сказала, я здесь ненадолго.\" t=\"Ăă, nu...? Cum am zis, nu stau mult aici.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228759728087207936",
+   "en": "<kiroshi l=\"jpn\" o=\"そのアダムもね、もう2年くらいここが「仮住まい」なの。それからマリコ。引っ越すって言い続けて、もう5年よ。さらに古株の人もいるわ\" t=\"Well, Adam has been \\\"between places\\\" for almost two years. Oh, and I'm sure you'll run into Mariko. She's been moving out for five years already. And that's not even the highest record.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"そのアダムもね、もう2年くらいここが「仮住まい」なの。それからマリコ。引っ越すって言い続けて、もう5年よ。さらに古株の人もいるわ\" t=\"Păi, Adam e „între locuri” de vreo doi ani. A, și sigur dai peste Mariko. Tot zice că se mută de cinci ani. Și nici măcar nu e recordul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228762015962599424",
+   "en": "<kiroshi l=\"rus\" o=\"Ну… У меня другая ситуация.\" t=\"Well... it's different for me.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ну… У меня другая ситуация.\" t=\"Păi... la mine e altfel.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2228767972427927552",
+   "en": "<kiroshi l=\"jpn\" o=\"まあ、そのうちわかるんじゃない？\" t=\"Mhm. I guess we'll find out, won't we?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"まあ、そのうちわかるんじゃない？\" t=\"Mhm. Probabil o să aflăm, nu?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

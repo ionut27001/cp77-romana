@@ -1,0 +1,30 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q108\\q108_17_riots.json",
+ "entries": [
+  {
+   "key": "1822709923072352256",
+   "en": "Gonna take out the corporate man!",
+   "ro": "Îl doborâm pe corporatist!"
+  },
+  {
+   "key": "1827025186639785984",
+   "en": "Start the fire!",
+   "ro": "Dați foc!"
+  },
+  {
+   "key": "2391084085232218112",
+   "en": "[db_db]REC RIOTS",
+   "ro": "[db_db]REC RIOTS"
+  },
+  {
+   "key": "2391084085232218124",
+   "en": "[db_db]REC RIOTS2",
+   "ro": "[db_db]REC RIOTS2"
+  },
+  {
+   "key": "2431809605183680512",
+   "en": "[db_db]REC TABLET",
+   "ro": "[db_db]REC TABLET"
+  }
+ ]
+}

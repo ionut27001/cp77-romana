@@ -1,0 +1,42 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_009.json",
+ "entries": [
+  {
+   "key": "1963301793348755456",
+   "en": "<kiroshi l=\"creo\" o=\"Ou te bloke la a pandan prèske karant èdtan.\" t=\"You were stuck in there for almost forty hours.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou te bloke la a pandan prèske karant èdtan.\" t=\"Ai fost blocată acolo vreo patruzeci de ore.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Ou te bloke la a pandan prèske karant èdtan.\" t=\"Ai fost blocat acolo vreo patruzeci de ore.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964863901840199680",
+   "en": "<kiroshi l=\"creo\" o=\"Okenn sekirite, Okenn bakòp. Mwen pa sezi ki ou ...\" t=\"No security, no backup. No surprise that you...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Okenn sekirite, Okenn bakòp. Mwen pa sezi ki ou ...\" t=\"Fără pază, fără întăriri. Nu-i de mirare că...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964864726876573696",
+   "en": "<kiroshi l=\"creo\" o=\"Si m mande anraje?\" t=\"That I went crazy?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Si m mande anraje?\" t=\"Că am înnebunit?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964865057354174464",
+   "en": "<kiroshi l=\"creo\" o=\"Ou te tande kèk bagay dròl. Ou te dezidrate epi lòlòj tap vire tout boulin.\" t=\"That you heard some weird things. You were dehydrated and overclocked.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Ou te tande kèk bagay dròl. Ou te dezidrate epi lòlòj tap vire tout boulin.\" t=\"Că ai auzit tot felul de chestii ciudate. Erai deshidratată și cu sistemul supraîncălzit.\" b=\"\" a=\"\"/>",
+   "ro_m": "<kiroshi l=\"creo\" o=\"Ou te tande kèk bagay dròl. Ou te dezidrate epi lòlòj tap vire tout boulin.\" t=\"Că ai auzit tot felul de chestii ciudate. Erai deshidratat și cu sistemul supraîncălzit.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964866329855676416",
+   "en": "<kiroshi l=\"creo\" o=\"Se sa manzè te di m. Si mwen te ka rete pi lontan.\" t=\"That's what she told me. If I could stay longer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se sa manzè te di m. Si mwen te ka rete pi lontan.\" t=\"Asta mi-a spus ea. Dacă aș fi putut rămâne mai mult.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964870697266991104",
+   "en": "<kiroshi l=\"creo\" o=\"Kiyès ki di w sa?\" t=\"Who told you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Kiyès ki di w sa?\" t=\"Cine ți-a spus?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1964870887856164864",
+   "en": "<kiroshi l=\"creo\" o=\"Se pa enpòtan.\" t=\"Doesn't matter.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"creo\" o=\"Se pa enpòtan.\" t=\"Nu contează.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_75_mex_30.json",
+ "entries": [
+  {
+   "key": "1896705196203450372",
+   "en": "<kiroshi l=\"mex\" o=\"¿Quiubo?\" t=\"How are you?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¿Quiubo?\" t=\"Ce mai faci?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1896705196220227588",
+   "en": "Nice weather today.",
+   "ro": "Ce vreme frumoasă azi."
+  },
+  {
+   "key": "1896705196270559236",
+   "en": "You shouldn't be here.",
+   "ro": "Nu ar trebui să fii aici."
+  },
+  {
+   "key": "1896705196304113664",
+   "en": "Go on. Git!",
+   "ro": "Hai, pleacă!"
+  },
+  {
+   "key": "1896705196354445316",
+   "en": "Excuse me… please put that away!",
+   "ro": "Scuzați… vă rog puneți asta la loc!"
+  },
+  {
+   "key": "1896705196371222532",
+   "en": "That's not allowed!",
+   "ro": "Nu e voie!"
+  },
+  {
+   "key": "1896705196455108612",
+   "en": "You'll regret that!",
+   "ro": "O să regreți!"
+  },
+  {
+   "key": "1896705196471885828",
+   "en": "Leave or you will pay!",
+   "ro": "Pleacă sau plătești!"
+  },
+  {
+   "key": "1896705196538994692",
+   "en": "Very wise.",
+   "ro": "Foarte înțelept."
+  },
+  {
+   "key": "1896705196572549120",
+   "en": "And? That wasn't so hard.",
+   "ro": "Și? N-a fost așa greu."
+  },
+  {
+   "key": "1896705196622880772",
+   "en": "<kiroshi l=\"mex\" o=\"Qué chingados...\" t=\"What the hell...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Qué chingados...\" t=\"Ce dracu'...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1896705196639657988",
+   "en": "Well, well!",
+   "ro": "Ei, ei!"
+  },
+  {
+   "key": "1896705196689989636",
+   "en": "Just seeing things.",
+   "ro": "Doar văd lucruri."
+  },
+  {
+   "key": "1896705196723544068",
+   "en": "All good.",
+   "ro": "Totul bine."
+  },
+  {
+   "key": "1896705196773875716",
+   "en": "<mothertongue l=\"mex\" m=\"¡Hola!\" b=\"\" a=\" Anyone here?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¡Hola!\" b=\"\" a=\" E cineva aici?\"/>"
+  },
+  {
+   "key": "1896705196807430148",
+   "en": "I saw you!",
+   "ro": "Te-am văzut!"
+  },
+  {
+   "key": "1896705196857761796",
+   "en": "What the hell?!",
+   "ro": "Ce dracu'?!"
+  },
+  {
+   "key": "1896705196874539012",
+   "en": "You blind?!",
+   "ro": "Ești oarbă?!",
+   "ro_m": "Ești orb?!"
+  },
+  {
+   "key": "1896705196924870660",
+   "en": "Speaking.",
+   "ro": "La telefon."
+  },
+  {
+   "key": "1896705196975202308",
+   "en": "I can afford-- If you-- If you knew-- Money's got nothing to do with-- Mm-hmm. Ah – exactly!",
+   "ro": "Îmi permit-- Dacă-- Dacă ai ști-- Banii n-au nicio legătură cu-- Mm-hmm. Ah – exact!"
+  },
+  {
+   "key": "1896705197008756740",
+   "en": "<mothertongue l=\"mex\" m=\"Jesús.\" b=\"So... ? What debts? Pfft, I can pay it! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Jesús.\" b=\"Deci... ? Ce datorii? Pfft, pot să plătesc! \" a=\"\"/>"
+  },
+  {
+   "key": "1896705197042311172",
+   "en": "Bye.",
+   "ro": "Pa."
+  },
+  {
+   "key": "1896705197059088388",
+   "en": "Well that's new…",
+   "ro": "Ei, asta-i nou…"
+  },
+  {
+   "key": "1896705197444964356",
+   "en": "Hello? Security?",
+   "ro": "Alo? Securitate?"
+  },
+  {
+   "key": "1896705197478518784",
+   "en": "Someone's here!",
+   "ro": "E cineva aici!"
+  },
+  {
+   "key": "1896705197612736512",
+   "en": "Save me!",
+   "ro": "Salvează-mă!"
+  },
+  {
+   "key": "1896705197629513732",
+   "en": "She's trying to kill me!",
+   "en_m": "He's trying to kill me!",
+   "ro": "Ea încearcă să mă omoare!",
+   "ro_m": "El încearcă să mă omoare!"
+  },
+  {
+   "key": "1896705197730177028",
+   "en": "Mercy!",
+   "ro": "Milă!"
+  },
+  {
+   "key": "1896705197763731460",
+   "en": "Let me go!",
+   "ro": "Dă-mi drumul!"
+  },
+  {
+   "key": "1896705197847617540",
+   "en": "Back off! Don't come closer!",
+   "ro": "Dă-te înapoi! Nu te apropia!"
+  },
+  {
+   "key": "1896705197881171972",
+   "en": "I warn you! My brother's a cop!",
+   "ro": "Te avertizez! Fratele meu e polițist!"
+  },
+  {
+   "key": "1958901853394608128",
+   "en": "Don't let me get in your way...",
+   "ro": "Nu mă lăsa să-ți stau în cale..."
+  },
+  {
+   "key": "1958901853444939780",
+   "en": "Right... so where was I? Ah, that was it.",
+   "ro": "Bine... deci unde eram? Ah, aia era."
+  },
+  {
+   "key": "1958901853461716996",
+   "en": "What's the holdup?",
+   "ro": "Ce te ține?"
+  }
+ ]
+}

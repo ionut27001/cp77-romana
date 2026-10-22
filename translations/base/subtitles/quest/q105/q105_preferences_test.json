@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q105\\q105_preferences_test.json",
+ "entries": [
+  {
+   "key": "1467862794986569728",
+   "en": "[db_db]Active / In Controle",
+   "ro": "[db_db]Activ / În control"
+  },
+  {
+   "key": "1467863158464954368",
+   "en": "[db_db]Passive / Losing Controle",
+   "ro": "[db_db]Pasiv / Pierzi controlul"
+  }
+ ]
+}

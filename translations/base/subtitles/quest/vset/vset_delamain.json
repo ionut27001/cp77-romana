@@ -1,0 +1,42 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\vset\\vset_delamain.json",
+ "entries": [
+  {
+   "key": "1796554766993571840",
+   "en": "Thank you for using the Delamain Network.",
+   "ro": "Mulțumim că folosiți Delamain Network."
+  },
+  {
+   "key": "1796555181021708292",
+   "en": "Miss V, how lovely!",
+   "en_m": "Mr. V, how lovely!",
+   "ro": "Domnișoară V, ce plăcere!",
+   "ro_m": "Domnule V, ce plăcere!"
+  },
+  {
+   "key": "1796555442729500676",
+   "en": "Call accepted.",
+   "ro": "Apel acceptat."
+  },
+  {
+   "key": "1796555472928489476",
+   "en": "I'm here!",
+   "ro": "Sunt aici!"
+  },
+  {
+   "key": "1796555498530521092",
+   "en": "Call accepted.",
+   "ro": "Apel acceptat."
+  },
+  {
+   "key": "1966121933733765124",
+   "en": "The call has been interrupted.",
+   "ro": "Apelul a fost întrerupt."
+  },
+  {
+   "key": "1966121933767319556",
+   "en": "Unexpected error, conversation interrupted.",
+   "ro": "Eroare neașteptată, conversație întreruptă."
+  }
+ ]
+}

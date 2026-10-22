@@ -1,0 +1,337 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\sec_high_f_05_afam_30.json",
+ "entries": [
+  {
+   "key": "1898173521873870848",
+   "en": "I command, you obey.",
+   "ro": "Eu comand, tu asculți."
+  },
+  {
+   "key": "1898173521890648068",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1898173521940979716",
+   "en": "Step back.",
+   "ro": "Dă-te înapoi."
+  },
+  {
+   "key": "1898173521957756932",
+   "en": "I don't think so.",
+   "ro": "Nu cred."
+  },
+  {
+   "key": "1898173522008088580",
+   "en": "You bored?",
+   "ro": "Te plictisești?"
+  },
+  {
+   "key": "1898173522041643012",
+   "en": "Oh no you don't.",
+   "ro": "Nici gând."
+  },
+  {
+   "key": "1898173522091974660",
+   "en": "You want to die today?",
+   "ro": "Vrei să mori azi?"
+  },
+  {
+   "key": "1898173522108751876",
+   "en": "Start complying.",
+   "ro": "Începe să asculți."
+  },
+  {
+   "key": "1898173522192637956",
+   "en": "That's what I like to see.",
+   "ro": "Asta îmi place să văd."
+  },
+  {
+   "key": "1898173522226192388",
+   "en": "Smart move.",
+   "ro": "Mișcare inteligentă."
+  },
+  {
+   "key": "1898173522310078464",
+   "en": "Full standby!",
+   "ro": "Standby total!"
+  },
+  {
+   "key": "1898173522326855684",
+   "en": "Whuh?",
+   "ro": "Hă?"
+  },
+  {
+   "key": "1898173522393964548",
+   "en": "Nothin'.",
+   "ro": "Nimic."
+  },
+  {
+   "key": "1898173522410741764",
+   "en": "Area secure.",
+   "ro": "Zonă securizată."
+  },
+  {
+   "key": "1898173522461073412",
+   "en": "Watch yourselves! She's armed!",
+   "en_m": "Watch yourselves! He's armed!",
+   "ro": "Feriți-vă! E înarmată!",
+   "ro_m": "Feriți-vă! E înarmat!"
+  },
+  {
+   "key": "1898173522511405060",
+   "en": "She's close!",
+   "en_m": "He's close!",
+   "ro": "E aproape!"
+  },
+  {
+   "key": "1898173522544959492",
+   "en": "Body!",
+   "ro": "Un cadavru!"
+  },
+  {
+   "key": "1898173522578513924",
+   "en": "Done.",
+   "ro": "Gata."
+  },
+  {
+   "key": "1898173522645622788",
+   "en": "Taking fire!",
+   "ro": "Iau foc!"
+  },
+  {
+   "key": "1898173522679177220",
+   "en": "Defensive positions!",
+   "ro": "Poziții defensive!"
+  },
+  {
+   "key": "1898173522712731652",
+   "en": "Grenade!",
+   "ro": "Granată!"
+  },
+  {
+   "key": "1898173522796617732",
+   "en": "Clear to neutralize!",
+   "ro": "Liber la neutralizare!"
+  },
+  {
+   "key": "1898173522830172160",
+   "en": "Keep it up!",
+   "ro": "Țineți-o tot așa!"
+  },
+  {
+   "key": "1898173522880503812",
+   "en": "We need aerial backup!",
+   "ro": "Avem nevoie de suport aerian!"
+  },
+  {
+   "key": "1898173522914058244",
+   "en": "Medic! Medic!",
+   "ro": "Medic! Medic!"
+  },
+  {
+   "key": "1898173522997944320",
+   "en": "Watch it.",
+   "ro": "Atenție."
+  },
+  {
+   "key": "1898173523014721540",
+   "en": "Don't let it happen again.",
+   "ro": "Să nu se mai repete."
+  },
+  {
+   "key": "1898173523081830404",
+   "en": "Hello.",
+   "ro": "Salut."
+  },
+  {
+   "key": "1898173523165716484",
+   "en": "Uh-huh… Mm… I can't… I'm on a no-compete...",
+   "ro": "Da… Mm… Nu pot… Am o clauză de neconcurență..."
+  },
+  {
+   "key": "1898173523216048128",
+   "en": "No… I ain't interested… There's a Kiroshi packet with my name on it… Mm… Yeah.",
+   "ro": "Nu… Nu mă interesează… E un pachet Kiroshi cu numele meu pe el… Mm… Da."
+  },
+  {
+   "key": "1898173523266379780",
+   "en": "Flank right!",
+   "ro": "Flanc pe dreapta!"
+  },
+  {
+   "key": "1898173523316711428",
+   "en": "I'll take that one!",
+   "ro": "Pe aia o iau eu!",
+   "ro_m": "Pe ăla îl iau eu!"
+  },
+  {
+   "key": "1898173523350265860",
+   "en": "Get clear!",
+   "ro": "La adăpost!"
+  },
+  {
+   "key": "1898173523367043076",
+   "en": "Thanks.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1898173523400597508",
+   "en": "Something's wrong.",
+   "ro": "Ceva nu e în regulă."
+  },
+  {
+   "key": "1898173523467706372",
+   "en": "Need to investigate.",
+   "ro": "Trebuie să verific."
+  },
+  {
+   "key": "1898173523484483588",
+   "en": "Let's go.",
+   "ro": "Hai să mergem."
+  },
+  {
+   "key": "1898173523518038020",
+   "en": "Go.",
+   "ro": "Du-te."
+  },
+  {
+   "key": "1898173523551592448",
+   "en": "Aim for the head!",
+   "ro": "Țintește în cap!"
+  },
+  {
+   "key": "1898173523585146884",
+   "en": "Argh… ekhh… khhh...",
+   "ro": "Argh… ekhh… khhh..."
+  },
+  {
+   "key": "1898179717263532032",
+   "en": "Yep… No private gigs… No. Nah, I got too much to lose.",
+   "ro": "Da… Fără gig-uri private… Nu. Nu, am prea multe de pierdut."
+  },
+  {
+   "key": "2236487811992788996",
+   "en": "Take cover!",
+   "ro": "La adăpost!"
+  },
+  {
+   "key": "2236487812093452292",
+   "en": "Hold position!",
+   "ro": "Țineți poziția!"
+  },
+  {
+   "key": "2236487812311556100",
+   "en": "Operative down! Still breathing!",
+   "ro": "Agent căzut! Încă respiră!"
+  },
+  {
+   "key": "2236487812378664964",
+   "en": "Goddamn buggy updates...",
+   "ro": "Update-urile astea pline de bug-uri, fir-ar să fie..."
+  },
+  {
+   "key": "2236487812647100420",
+   "en": "Back into position! Do not bother me!",
+   "ro": "Înapoi în poziție! Nu mă deranja!"
+  },
+  {
+   "key": "2236487812865204228",
+   "en": "Hold your positions!",
+   "ro": "Țineți-vă pozițiile!"
+  },
+  {
+   "key": "2236487813032976388",
+   "en": "We're losing ground! Get it together!",
+   "ro": "Pierdem teren! Puneți-vă pe treabă!"
+  },
+  {
+   "key": "2236487813301411844",
+   "en": "Up yours!",
+   "ro": "Să-ți bag pula!"
+  },
+  {
+   "key": "2236487813402075140",
+   "en": "Scopsucker!",
+   "ro": "Jigodie!"
+  },
+  {
+   "key": "2236487813737619460",
+   "en": "Target hit!",
+   "ro": "Țintă lovită!"
+  },
+  {
+   "key": "2236487813821505540",
+   "en": "Change positions! Take the flank!",
+   "ro": "Schimbați pozițiile! Luați flancul!"
+  },
+  {
+   "key": "2236487814039609348",
+   "en": "She's vulnerable! Move in!",
+   "en_m": "He's vulnerable! Move in!",
+   "ro": "E vulnerabilă! Înaintați!",
+   "ro_m": "E vulnerabil! Înaintați!"
+  },
+  {
+   "key": "2236487814123495428",
+   "en": "Copy!",
+   "ro": "Recepționat!"
+  },
+  {
+   "key": "2236487814190604292",
+   "en": "Set aim! Target can't hide forever!",
+   "ro": "Țintiți! Ținta nu se poate ascunde la infinit!"
+  },
+  {
+   "key": "2236487814274490368",
+   "en": "Reloading!",
+   "ro": "Reîncărcare!"
+  },
+  {
+   "key": "2236487814358376452",
+   "en": "Friendly fire! Eliminate the threat!",
+   "ro": "Foc pe ai noștri! Eliminați amenințarea!"
+  },
+  {
+   "key": "2236487814526148612",
+   "en": "She downed my optics!",
+   "en_m": "He downed my optics!",
+   "ro": "Mi-a scos optica din uz!"
+  },
+  {
+   "key": "2236487814610034692",
+   "en": "Target's a netrunner!",
+   "ro": "Ținta e netrunner!"
+  },
+  {
+   "key": "2236487814710697988",
+   "en": "Oof! I'm back in action!",
+   "ro": "Uf! Sunt din nou în acțiune!"
+  },
+  {
+   "key": "2236487814878470148",
+   "en": "Eliminating target!",
+   "ro": "Elimin ținta!"
+  },
+  {
+   "key": "2236487814979133444",
+   "en": "Target in range!",
+   "ro": "Ținta e în rază!"
+  },
+  {
+   "key": "2236487815046242308",
+   "en": "Find cover!",
+   "ro": "Găsește adăpost!"
+  },
+  {
+   "key": "2236487815130128388",
+   "en": "We're losing assets!",
+   "ro": "Ne pierdem oamenii!"
+  },
+  {
+   "key": "2236487815448895492",
+   "en": "Huh...?",
+   "ro": "Hm...?"
+  }
+ ]
+}

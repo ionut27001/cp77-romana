@@ -1,0 +1,529 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq030\\mq030_01_melisa.json",
+ "entries": [
+  {
+   "key": "1811438801777287168",
+   "en": "Welcome back to our little oasis of elegance!",
+   "ro": "Bine ai revenit în micul nostru oazis de eleganță!"
+  },
+  {
+   "key": "1811441489604730880",
+   "en": "Inspire me.",
+   "ro": "Inspiră-mă."
+  },
+  {
+   "key": "1811442145660985344",
+   "en": "No sequins.",
+   "ro": "Fără paiete."
+  },
+  {
+   "key": "1811442913621270528",
+   "en": "A little quiet in here.",
+   "ro": "E cam liniște aici."
+  },
+  {
+   "key": "1811443426936971264",
+   "en": "Agh, dunno... surprise me, inspire me. Fresh jacket, maybe, some new pants...?",
+   "en_m": "I dunno, uh... surprise me, inspire me. Uh, fresh jacket, maybe, some new pants...?",
+   "ro": "Agh, habar n-am... surprinde-mă, inspiră-mă. O geacă nouă, poate, niște pantaloni...?",
+   "ro_m": "Habar n-am, ăă... surprinde-mă, inspiră-mă. Ăă, o geacă nouă, poate, niște pantaloni noi...?"
+  },
+  {
+   "key": "1811443957617090560",
+   "en": "Or both? You are begging for a new do. Of course, nothing wrong with this look, but – fashion waits for no man!",
+   "ro": "Sau amândouă? Îți trebuie o tunsoare nouă. Sigur, cu look-ul ăsta nu-i nimic, dar – moda nu așteaptă pe nimeni!"
+  },
+  {
+   "key": "1811444263667064836",
+   "en": "Me, sequins? Gotta be kiddin'.",
+   "en_m": "Me, sequins? You gotta be kiddin'.",
+   "ro": "Eu, paiete? Faci mișto de mine?"
+  },
+  {
+   "key": "1811444263667064844",
+   "en": "Now, just between the two of us – a touch of elegance can go a long way.",
+   "ro": "Hai, între noi fie vorba – un strop de eleganță face minuni."
+  },
+  {
+   "key": "1811444283212521476",
+   "en": "Lookin' a little empty these days.",
+   "ro": "E cam gol pe aici zilele astea."
+  },
+  {
+   "key": "1811444283229298688",
+   "en": "What can I say? Jinguji is about quality, not quantity.",
+   "ro": "Ce să zic? La Jinguji contează calitatea, nu cantitatea."
+  },
+  {
+   "key": "1811445828914208768",
+   "en": "I'm sounding the alarm! Hold on!",
+   "ro": "Trag alarma! Ține-te bine!"
+  },
+  {
+   "key": "1811456126769389572",
+   "en": "Fuck, V! Get down! He's whacked!",
+   "ro": "Pula mea, V! Jos! E nebun!"
+  },
+  {
+   "key": "1811579334197731328",
+   "en": "Aaaugh!",
+   "ro": "Aaaugh!"
+  },
+  {
+   "key": "1811582285410689028",
+   "en": "Take 'im down! Now!",
+   "ro": "Doboară-l! Acum!"
+  },
+  {
+   "key": "1811629837946413056",
+   "en": "MaxTac... Be here in a moment. Hold him! Hold him till they get here!",
+   "ro": "MaxTac... Sunt pe drum. Ține-l! Ține-l până ajung!"
+  },
+  {
+   "key": "1811630797317955584",
+   "en": "Don't let him kill me!",
+   "ro": "Nu-l lăsa să mă omoare!"
+  },
+  {
+   "key": "1811783547829837824",
+   "en": "MaxTac! Thank god!",
+   "ro": "MaxTac! Slavă Domnului!"
+  },
+  {
+   "key": "1811798454252036096",
+   "en": "Going in! Surround the target!",
+   "ro": "Intrăm! Încercuiți ținta!"
+  },
+  {
+   "key": "1811799389128843268",
+   "en": "Move! Keep it up!",
+   "ro": "Mișcați-vă! Continuați!"
+  },
+  {
+   "key": "1811799576916221952",
+   "en": "Eliminate him!",
+   "ro": "Eliminați-l!"
+  },
+  {
+   "key": "1811802121332023300",
+   "en": "Target neutralized. Secure the witnesses!",
+   "ro": "Țintă neutralizată. Asigurați martorii!"
+  },
+  {
+   "key": "1811812972332015616",
+   "en": "You, over there! Statements, now!",
+   "ro": "Tu, dincolo! Declarații, acum!"
+  },
+  {
+   "key": "1812400529243594756",
+   "en": "Refusing to give a statement to a MaxTac officer may result in imprisonment.",
+   "ro": "Refuzul de a da o declarație unui ofițer MaxTac poate duce la închisoare."
+  },
+  {
+   "key": "1812400529293926404",
+   "en": "You trying my patience here?",
+   "ro": "Îmi testezi răbdarea?"
+  },
+  {
+   "key": "1812403706344988672",
+   "en": "Sit. Hands where I can see 'em.",
+   "ro": "Stai jos. Mâinile unde le văd."
+  },
+  {
+   "key": "1812407724270116868",
+   "en": "[Sit]",
+   "ro": "[Stai jos]"
+  },
+  {
+   "key": "1812415657393479684",
+   "en": "I said, sit.",
+   "ro": "Am zis, stai jos."
+  },
+  {
+   "key": "1812415657410256900",
+   "en": "Please, let's get this over with. I have to call the cleaners.",
+   "ro": "Te rog, hai să terminăm odată. Trebuie să chem echipa de curățenie."
+  },
+  {
+   "key": "1812455858874572800",
+   "en": "Melissa Rory, MaxTac senior officer. Please state your name and occupation.",
+   "ro": "Melissa Rory, ofițer superior MaxTac. Vă rog să vă spuneți numele și ocupația."
+  },
+  {
+   "key": "1812456786520399872",
+   "en": "Zane Jagger. I work for Jinguji, an oasis of elegance in--",
+   "ro": "Zane Jagger. Lucrez pentru Jinguji, un oazis de eleganță în--"
+  },
+  {
+   "key": "1812457541646114816",
+   "en": "V, merc. Occasional client of Zane's.",
+   "ro": "V, merc. Client ocazional al lui Zane."
+  },
+  {
+   "key": "1812458108565020672",
+   "en": "Checks out. Please describe what happened, starting from the moment of the attack.",
+   "ro": "Se potrivește. Vă rog să descrieți ce s-a întâmplat, începând de la momentul atacului."
+  },
+  {
+   "key": "1812458319538511872",
+   "en": "I was just presenting V with a one-of-a-kind offer when I... I suddenly heard shouting from the street.",
+   "ro": "Tocmai îi prezentam lui V o ofertă unică atunci când... Am auzit brusc strigăte de pe stradă."
+  },
+  {
+   "key": "1812458886474194944",
+   "en": "Then that... psychopath ran in. He killed... eh, fuck it – he slaughtered my guards!",
+   "ro": "Apoi... psihopatul ăla a intrat. A ucis... eh, dă-o-n pula mea – mi-a măcelărit gărzile!"
+  },
+  {
+   "key": "1812459153265483776",
+   "en": "I hit the alarm, V pinned the crazy bastard. Weren't for her... Wouldn't be anything left to clean up.",
+   "en_m": "I hit the alarm, V pinned the crazy bastard. Weren't for him... Wouldn't be anything left to clean up.",
+   "ro": "Am apăsat alarma, V l-a imobilizat pe nenorocitul ăla. Dacă nu era ea... Nu mai rămânea nimic de curățat.",
+   "ro_m": "Am apăsat alarma, V l-a imobilizat pe nenorocitul ăla. Dacă nu era el... Nu mai rămânea nimic de curățat."
+  },
+  {
+   "key": "1812459549744652288",
+   "en": "Hey, no problem. Was savin' my own ass, too.",
+   "en_m": "Eh, no problem. Was savin' my own ass, too.",
+   "ro": "Hei, nicio problemă. Și eu îmi salvam fundul.",
+   "ro_m": "Eh, nicio problemă. Și eu îmi salvam fundul."
+  },
+  {
+   "key": "1812460242878554116",
+   "en": "Those mantis blades... Higurashis?",
+   "ro": "Mantis Blades-urile alea... Higurashi?"
+  },
+  {
+   "key": "1812461372706611200",
+   "en": "Situation resolved. Deactivate alarm.",
+   "ro": "Situație rezolvată. Dezactivează alarma."
+  },
+  {
+   "key": "1812479466531414016",
+   "en": "Did you really have to kill him?",
+   "ro": "Chiar trebuia să-l omori?"
+  },
+  {
+   "key": "1812480137435504640",
+   "en": "Hold up a sec... Your mantis blades – Higurashi 20-13's. Weren't those pulled off the market in '69?",
+   "ro": "Stai puțin... Mantis Blades-urile tale – Higurashi 20-13. Nu au fost retrase de pe piață în '69?"
+  },
+  {
+   "key": "1812480592651706368",
+   "en": "Good eye. Had them installed years ago. They're very... precise.",
+   "ro": "Ochi bun. Le-am instalat acum ani. Sunt foarte... precise."
+  },
+  {
+   "key": "1812480971397357568",
+   "en": "They're my... reminder. When I see them, I see what they've sliced... Muscle, tendon, bone... even implants. Like a hot knife through butter.",
+   "ro": "Sunt... amintirea mea. Când le văd, văd ce au tăiat... Mușchi, tendoane, os... chiar și implanturi. Ca un cuțit prin unt.",
+   "ro_m": "Sunt... amintirea mea. Când le văd, văd ce au tăiat... Mușchi, tendoane, os... chiar și implanturi. Ca cuțitul prin unt."
+  },
+  {
+   "key": "1812481365242503168",
+   "en": "You always just wipe 'em? Y'know, heard therapy can sometimes work--",
+   "ro": "Tu le ștergi mereu? Știi, am auzit că terapia uneori funcționează--"
+  },
+  {
+   "key": "1812511302708060160",
+   "en": "Apprehending the target alive carries additional risk for bystanders. Rarely done. Very rarely.",
+   "ro": "Reținerea țintei vii pune martorii în pericol suplimentar. Se face rar. Foarte rar."
+  },
+  {
+   "key": "1812514633505529856",
+   "en": "Coroner's been notified. Be here any minute.",
+   "ro": "Medicul legist a fost anunțat. Vine imediat."
+  },
+  {
+   "key": "1812515309644111872",
+   "en": "Jagger – this store is closed until the investigation is complete.",
+   "ro": "Jagger – magazinul ăsta e închis până se termină investigația."
+  },
+  {
+   "key": "1812515762779938816",
+   "en": "Nice work. You feel that back there? Feel his life leave his body?",
+   "ro": "Bună treabă. Simți asta? Simți cum i-a plecat viața din corp?"
+  },
+  {
+   "key": "1812522879238758400",
+   "en": "Smith, report! How's it looking?",
+   "ro": "Smith, raportează! Cum arată?"
+  },
+  {
+   "key": "1812523852535390208",
+   "en": "Two killed, two wounded inside the store. Six bodies on the street outside.",
+   "ro": "Doi morți, doi răniți în magazin. Șase cadavre pe stradă, afară."
+  },
+  {
+   "key": "1812524290605277184",
+   "en": "Where's the coroner?",
+   "ro": "Unde-i medicul legist?"
+  },
+  {
+   "key": "1812524433815592960",
+   "en": "Sitting in traffic. Be a little late.",
+   "ro": "Stă în trafic. O să întârzie puțin."
+  },
+  {
+   "key": "1813265806692933632",
+   "en": "Welcome to Jinguji.",
+   "ro": "Bine ați venit la Jinguji."
+  },
+  {
+   "key": "1813272095229698048",
+   "en": "Ah, look who it is! What a lovely surprise!",
+   "ro": "Ah, uite cine e! Ce surpriză plăcută!"
+  },
+  {
+   "key": "1813312626148204548",
+   "en": "Uh, heh, all right? Whaddaya lookin' at?",
+   "en_m": "Uh, all right? Whaddaya lookin' at?",
+   "ro": "Ăă, heh, bine? La ce te uiți?",
+   "ro_m": "Ăă, bine? La ce te uiți?"
+  },
+  {
+   "key": "1876499120005038080",
+   "en": "Now, what can I do for you today? Maybe a little upgrade, hm? Sequins are back, you know.",
+   "ro": "Deci, cu ce te pot ajuta azi? Poate un mic upgrade, hm? Paietele sunt iar în trend, știi."
+  },
+  {
+   "key": "1876513924472094720",
+   "en": "Well, on a more, ahem, generous frame, no – but with what you're working with, dear, they're perfect. You want to be shimra, you have to shine first.",
+   "ro": "Păi, pe o constituție mai, ahem, generoasă, nu – dar cu ce ai tu, dragă, sunt perfecte. Vrei să fii shimra? Trebuie întâi să strălucești.",
+   "ro_m": "Păi, pe o constituție mai, ahem, generoasă, nu – dar cu ce ai tu, dragule, sunt perfecte. Vrei să fii shimra? Trebuie întâi să strălucești."
+  },
+  {
+   "key": "1876521445077270528",
+   "en": "If I can't convince you of that, I'll take it as a personal and professional failure. Someone like... like you...",
+   "ro": "Dacă nu te pot convinge de asta, o să consider un eșec personal și profesional. Cineva ca... ca tine..."
+  },
+  {
+   "key": "1876563634742345728",
+   "en": "Guards! Get the door! Hold him there!",
+   "ro": "Gărzile! Deschideți ușa! Țineți-l acolo!"
+  },
+  {
+   "key": "1876576594135072768",
+   "en": "I'd almost forgotten that pretty face. And what a pity that would be!",
+   "ro": "Aproape uitasem fața aia frumoasă. Și ce păcat ar fi fost!"
+  },
+  {
+   "key": "1876600422496190464",
+   "en": "Just had to go play dutiful consumer in a corpo suit shop, didn't we?",
+   "ro": "Trebuia neapărat să faci pe clientul model la un magazin de costume corpo, nu?"
+  },
+  {
+   "key": "1876624384722714624",
+   "en": "Did you hear that...?",
+   "ro": "Ai auzit asta...?"
+  },
+  {
+   "key": "1876640938852073472",
+   "en": "Talkin' to me?",
+   "ro": "Cu mine vorbești?"
+  },
+  {
+   "key": "1877664478715953152",
+   "en": "Can hear you, remember?!",
+   "ro": "Te aud, ți-aduci aminte?!"
+  },
+  {
+   "key": "1877664573758881792",
+   "en": "How could I forget.",
+   "ro": "Cum aș putea uita."
+  },
+  {
+   "key": "1877682696507604992",
+   "en": "Finally... Just have to mop this gunk up – we'll be back in business.",
+   "ro": "În sfârșit... Trebuie doar să șterg mizeria asta – ne întoarcem la treabă."
+  },
+  {
+   "key": "1877685692230516736",
+   "en": "Please, sit down. Let's get this over with.",
+   "ro": "Te rog, stai jos. Hai să terminăm odată."
+  },
+  {
+   "key": "1877713966738423808",
+   "en": "In accordance with Article 105 of the Cyberpsychosis Procedure Code, your statements will be recorded and retained.",
+   "ro": "Conform articolului 105 din Codul de procedură pentru cyberpsihoză, declarațiile tale vor fi înregistrate și păstrate."
+  },
+  {
+   "key": "1877751644003483648",
+   "en": "Sorry. Habit.",
+   "ro": "Scuze. Obișnuință."
+  },
+  {
+   "key": "1877771288277925888",
+   "en": "Johnny Silverhand. Rock legend, voice in V's head, and also...",
+   "ro": "Johnny Silverhand. Legendă rock, vocea din capul lui V și, de asemenea..."
+  },
+  {
+   "key": "1877771456167526400",
+   "en": "The fuck, Johnny...",
+   "ro": "Ce pula mea, Johnny..."
+  },
+  {
+   "key": "1877771572534296576",
+   "en": "Lemme pretend I exist sometimes, OK?",
+   "ro": "Lasă-mă să mă prefac că exist uneori, OK?"
+  },
+  {
+   "key": "1877772509407592448",
+   "en": "Was talking to Zane, when all of a sudden...",
+   "ro": "Vorbeam cu Zane, când deodată..."
+  },
+  {
+   "key": "1877772806548865024",
+   "en": "Zane was tryna sweet-talk me into some sparkly sequin shit. Psycho storms in, wipes the huscle.",
+   "ro": "Zane încerca să mă convingă cu niște rahaturi sclipicioase cu paiete. Psihopatul intră și șterge huscle-ul."
+  },
+  {
+   "key": "1877834586952286208",
+   "en": "Zane hits the alarm, locks us in with the fucker. Thanks, Zane.",
+   "ro": "Zane apasă alarma, ne închide cu nenorocitul. Mulțumesc, Zane."
+  },
+  {
+   "key": "1877834779571503104",
+   "en": "Mr. Jagger followed the correct security protocol. He significantly reduced the assailant's range of effectiveness.",
+   "ro": "Domnul Jagger a urmat protocolul de securitate corect. A redus semnificativ raza de acțiune a atacatorului."
+  },
+  {
+   "key": "1877834884529766400",
+   "en": "Yeah, noted... Played cat-and-mouse 'round the whole range of effectiveness before you lot showed up.",
+   "ro": "Da, notat... M-am jucat de-a pisica și șoarecele pe toată raza aia până ați apărut voi."
+  },
+  {
+   "key": "1877872788505346048",
+   "en": "Anything else? Unusual behavior?",
+   "ro": "Altceva? Comportament neobișnuit?"
+  },
+  {
+   "key": "1877881403857420288",
+   "en": "Don't drag this out!",
+   "ro": "Nu mai lungi asta!"
+  },
+  {
+   "key": "1877908632020697088",
+   "en": "But you're with the good guys now, right?",
+   "ro": "Dar acum ești cu băieții buni, nu?"
+  },
+  {
+   "key": "1877922675322241024",
+   "en": "Rarely? More like never. How many psychos you save in your life?",
+   "ro": "Rareori? Mai degrabă niciodată. Câți nebuni ai salvat în viața ta?"
+  },
+  {
+   "key": "1877933966556381184",
+   "en": "Join us. Could use a few more like you.",
+   "ro": "Alătură-te nouă. Ne-ar prinde bine câțiva ca tine."
+  },
+  {
+   "key": "1877938078836572164",
+   "en": "I'll think about it.",
+   "ro": "Mă gândesc."
+  },
+  {
+   "key": "1877938135895883776",
+   "en": "Thanks, but no thanks.",
+   "ro": "Mulțumesc, dar nu."
+  },
+  {
+   "key": "1877938247313375232",
+   "en": "Me, a cop? Heh, last time I wanted that, was pushin' six, maybe. Yeah I'll, uh, heh – I'll think about it.",
+   "ro": "Eu, polițist? Heh, ultima dată când am vrut asta aveam vreo șase ani, poate. Da, o să... heh – o să mă gândesc.",
+   "ro_m": "Eu, polițist? Ultima dată când am vrut asta aveam vreo șase ani, poate. Da, o să... o să mă gândesc."
+  },
+  {
+   "key": "1877938375340310528",
+   "en": "Ooh, nice compliment, but uh, I'd feel like, I dunno... a merc in fuckin' sequins. Still might give it a think.",
+   "en_m": "Ooh, nice compliment, but I'd feel like, uh, dunno... a merc in fuckin' sequins? Still might give it a think.",
+   "ro": "Ooo, mișto compliment, dar, ăă, nu știu, m-aș simți ca un merc în paiete al dracului. Totuși, poate mă mai gândesc."
+  },
+  {
+   "key": "1877957115842904064",
+   "en": "You do that. You certainly got a gift.",
+   "ro": "Fă tu cum știi. Dar talent ai, sigur."
+  },
+  {
+   "key": "1898174020222435328",
+   "en": "Hey, V. Once we clean this place up, come by whenever you like. I'll hand-pick something special, just for you.",
+   "ro": "Hei, V. După ce curățăm locul ăsta, treci pe aici când vrei. Îți aleg eu ceva special, doar pentru tine."
+  },
+  {
+   "key": "1898174350112833536",
+   "en": "Thanks. Later, Zane.",
+   "ro": "Mulțumesc. Pe mai târziu, Zane."
+  },
+  {
+   "key": "1905457797663539200",
+   "en": "What? That's it? No more questions?",
+   "ro": "Cum, asta-i tot? Nu mai ai nicio întrebare?"
+  },
+  {
+   "key": "1905464296318156800",
+   "en": "Besides slicing and dicing my people and this store's reputation? No, nothing at all!",
+   "ro": "Pe lângă faptul că mi-ai tocat oamenii și reputația magazinului? Nu, nimic, nimic!"
+  },
+  {
+   "key": "1905465107513327616",
+   "en": "Thank you for your cooperation. That is all.",
+   "ro": "Mulțumim pentru cooperare. Asta e tot."
+  },
+  {
+   "key": "2005472613429395456",
+   "en": "Recall they don't play well with neural processors – poking at a part of the prefrontal cortex that shouldn't be poked at. Prolly would've bought a pair myself weren't for that.",
+   "en_m": "Recall they don't play well with neural processors – poking a part of the prefronal cortex that shouldn't be poked at. Prolly would've bought a pair myself weren't for that.",
+   "ro": "Din câte știu, nu se înțeleg bine cu procesoarele neurale – atingi o zonă din cortexul prefrontal la care nu ar trebui să ajungi. Probabil mi-aș fi luat și eu o pereche, dacă nu era asta."
+  },
+  {
+   "key": "2005473502420516864",
+   "en": "Huh. Thought MaxTac preferred Arasaka blades as their standard issue. But, well... seein' how you handled these wrist razors...",
+   "ro": "Hm. Credeam că MaxTac preferă lamele Arasaka ca dotare standard. Dar, păi... după cum te-ai descurcat cu bricegele astea de încheietură..."
+  },
+  {
+   "key": "2114168369483497476",
+   "en": "V, merc.",
+   "ro": "V, merc."
+  },
+  {
+   "key": "2114311593137160192",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2231422728571437060",
+   "en": "Nope. I'm not you.",
+   "ro": "Nu. Nu sunt ca tine."
+  },
+  {
+   "key": "2231422870909337600",
+   "en": "Don't change the subject. You felt him die. Did you... like it? That split second when the blood still flows... but his light's gone out.",
+   "ro": "Nu sări de la subiect. Ai simțit cum moare. Ți-a... plăcut? Secunda aia când sângele încă mai curge... dar lumina lui s-a stins."
+  },
+  {
+   "key": "2231423120386539520",
+   "en": "Well, the adrenaline's all right, but... don't think I share your level of enthusiasm.",
+   "ro": "Păi, adrenalina e ok, da' nu cred că am același nivel de entuziasm ca tine."
+  },
+  {
+   "key": "2231423201336606720",
+   "en": "If you're lookin' for a psycho soulmate – it ain't me, babe.",
+   "ro": "Dacă cauți un suflet pereche sărit de pe fix – nu-s eu, baby."
+  },
+  {
+   "key": "2231424297140469760",
+   "en": "Maybe a little...",
+   "ro": "Poate un pic..."
+  },
+  {
+   "key": "2231425449634545664",
+   "en": "You love the hunt, love the kill. Don't matter if they're psychos or regular Joes.",
+   "ro": "Iubești vânătoarea, iubești omorâtul. Nu contează dacă-s nebuni sau oameni normali."
+  },
+  {
+   "key": "2231425491946684416",
+   "en": "Oh, we're not so different, you and I. Saw that look on your face right after. You can't hide it.",
+   "ro": "Hei, nu suntem chiar diferiți, tu și eu. Am văzut privirea aia pe fața ta imediat după. Nu poți s-o ascunzi."
+  }
+ ]
+}

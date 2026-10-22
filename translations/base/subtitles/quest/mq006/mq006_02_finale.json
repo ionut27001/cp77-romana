@@ -1,0 +1,380 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq006\\mq006_02_finale.json",
+ "entries": [
+  {
+   "key": "1833009678875906052",
+   "en": "Should be all set to go.",
+   "ro": "Ar trebui să fie totul gata de plecare."
+  },
+  {
+   "key": "1833009992408518656",
+   "en": "You come here often?",
+   "ro": "Vii pe aici des?"
+  },
+  {
+   "key": "1833010382512345088",
+   "en": "Come by here often?",
+   "ro": "Treci pe aici des?"
+  },
+  {
+   "key": "1833011213538185216",
+   "en": "Should be all set to go.",
+   "ro": "Ar trebui să fie totul gata de plecare."
+  },
+  {
+   "key": "1833012131067351040",
+   "en": "<mothertongue l=\"creo\" m=\"Koumanman.\" b=\"\" a=\" You serious?\"/>",
+   "ro": "<mothertongue l=\"creo\" m=\"Koumanman.\" b=\"\" a=\" Serios?\"/>"
+  },
+  {
+   "key": "1833013487354269696",
+   "en": "Dumped the safety mechanisms and switched on the emergency power.",
+   "ro": "Am dezactivat mecanismele de siguranță și am pornit alimentarea de urgență."
+  },
+  {
+   "key": "1833014203808501760",
+   "en": "Hey, you hear dat? Who wanna go first?",
+   "ro": "Hei, auziți? Cine vrea să meargă primul?"
+  },
+  {
+   "key": "1833015529644773376",
+   "en": "I think I drank too much.",
+   "ro": "Cred că am băut prea mult."
+  },
+  {
+   "key": "1833020054896136192",
+   "en": "All right, fine.",
+   "ro": "Bine, bine."
+  },
+  {
+   "key": "1833020773330079744",
+   "en": "No thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1833021274197086208",
+   "en": "All right, fine.",
+   "ro": "Bine, bine."
+  },
+  {
+   "key": "1833021811420319744",
+   "en": "'Ey! Dat de spirit! We sit back and watch.",
+   "ro": "Hei! Asta-i spiritul! Noi stăm și ne uităm."
+  },
+  {
+   "key": "1833022806443446272",
+   "en": "Nuh-uh, no thanks.",
+   "ro": "Nu-nu, mersi."
+  },
+  {
+   "key": "1833023191849652224",
+   "en": "Heh, all right. I go, den.",
+   "ro": "Heh, bine. Mă duc, atunci."
+  },
+  {
+   "key": "1833023483924205568",
+   "en": "Bravo, Jean! At least one of us here is no pussy-ass chicken! Haha!",
+   "ro": "Bravo, Jean! Cel puțin unul dintre noi nu e o pizdă de fricos! Haha!"
+  },
+  {
+   "key": "1833024562380427264",
+   "en": "Come on, what you waiting for?",
+   "ro": "Hai, ce aștepți?"
+  },
+  {
+   "key": "1833033761797722112",
+   "en": "Jean! Jean!",
+   "ro": "Jean! Jean!"
+  },
+  {
+   "key": "1833034166564835328",
+   "en": "Jean! Jean!",
+   "ro": "Jean! Jean!"
+  },
+  {
+   "key": "1833034310865670144",
+   "en": "Go for it!",
+   "ro": "Dă-i bătaie!"
+  },
+  {
+   "key": "1833034735178240004",
+   "en": "Hey, she really gonna do it!",
+   "en_m": "Hey, he really gonna do it!",
+   "ro": "Hei, chiar o să facă asta!"
+  },
+  {
+   "key": "1833048350744662016",
+   "en": "Dat was...! I almost shit myself from watching you.",
+   "ro": "Aia a fost...! Era cât pe ce să mă cac pe mine uitându-mă la tine."
+  },
+  {
+   "key": "1833049637943005188",
+   "en": "So, how was it?",
+   "ro": "Deci, cum a fost?"
+  },
+  {
+   "key": "1833050409007075328",
+   "en": "Oooh! Amazing! I almost shit myself!",
+   "ro": "Oooh! Mișto! Era cât pe ce să mă cac pe mine!"
+  },
+  {
+   "key": "1873399965842165760",
+   "en": "Bet you anything you're gonna scream like a little girl.",
+   "ro": "Pariez orice că o să țipi ca o fetiță."
+  },
+  {
+   "key": "1873445699576680448",
+   "en": "Ohhh, shiiiiiiiiiit!",
+   "ro": "Ohhh, căcaaaaaaat!"
+  },
+  {
+   "key": "1873448938636333060",
+   "en": "Whoa...",
+   "ro": "Uau..."
+  },
+  {
+   "key": "1873453733111681028",
+   "en": "Whooooah!",
+   "ro": "Uaaaaau!"
+  },
+  {
+   "key": "1873454581199949828",
+   "en": "Holy fuck...",
+   "ro": "Băi, pula mea..."
+  },
+  {
+   "key": "1873455661132566532",
+   "en": "You seein' this?!",
+   "ro": "Vezi asta?!"
+  },
+  {
+   "key": "1873511148368711684",
+   "en": "Fuck yeah!",
+   "ro": "Așa, pula mea!"
+  },
+  {
+   "key": "1873532075076767748",
+   "en": "Looks like you've got a pair, after all.",
+   "ro": "Văd că ai totuși coaie, până la urmă."
+  },
+  {
+   "key": "1873533832976683008",
+   "en": "Animals on one side, juju wireheads on the other... But fuck it. Today we ride!",
+   "ro": "Animals de o parte, juju wireheads de cealaltă... Dar dă-o-n pula mea. Azi călărim!"
+  },
+  {
+   "key": "1873536562478731268",
+   "en": "Whoa...",
+   "ro": "Uau..."
+  },
+  {
+   "key": "1917098048042586112",
+   "en": "Hey-wood!",
+   "ro": "Hey-wood!"
+  },
+  {
+   "key": "1917098371524087808",
+   "en": "Ba-by-lon! Ba-by-lon!",
+   "ro": "Ba-by-lon! Ba-by-lon!"
+  },
+  {
+   "key": "1917098688277925888",
+   "en": "Ba-kker! Ba-kker!",
+   "ro": "Ba-kker! Ba-kker!"
+  },
+  {
+   "key": "1917100649953906688",
+   "en": "Hey-wood! Hey-wood!",
+   "ro": "Hey-wood! Hey-wood!"
+  },
+  {
+   "key": "1917101791995777024",
+   "en": "Ba-by-lon! Ba-by-lon!",
+   "ro": "Ba-by-lon! Ba-by-lon!"
+  },
+  {
+   "key": "1917102327742615552",
+   "en": "Come on!",
+   "ro": "Hai!"
+  },
+  {
+   "key": "1917103214586253312",
+   "en": "Ba-kker! Ba-kker!",
+   "ro": "Ba-kker! Ba-kker!"
+  },
+  {
+   "key": "1917114861480595456",
+   "en": "Let her go first. She de one who fix it.",
+   "en_m": "Let him go first. He de one who fix it.",
+   "ro": "Las-o să meargă prima. Ea l-a reparat.",
+   "ro_m": "Lasă-l să meargă primul. El l-a reparat."
+  },
+  {
+   "key": "1917115167094362112",
+   "en": "What if we stop in the middle?",
+   "ro": "Și dacă ne oprim la mijloc?"
+  },
+  {
+   "key": "1917121582852755456",
+   "en": "Hold my beer.",
+   "ro": "Ține-mi berea."
+  },
+  {
+   "key": "1917122274594148352",
+   "en": "We're doing this, V.",
+   "ro": "Facem asta, V."
+  },
+  {
+   "key": "1917126549311344640",
+   "en": "But if it stop in the middle... you will come for me?",
+   "ro": "Dar dacă se oprește la mijloc... vii după mine?"
+  },
+  {
+   "key": "1917126862827180032",
+   "en": "Fuck partner, of course! You can count on us!",
+   "ro": "Futu-i, partener, normal! Te poți baza pe noi!"
+  },
+  {
+   "key": "1917128295215550464",
+   "en": "Too bad you not go!",
+   "ro": "Păcat că n-ai mers!"
+  },
+  {
+   "key": "1917138532756639744",
+   "en": "Doooo it, doooo it!",
+   "ro": "Faaaa-o, faaaa-o!"
+  },
+  {
+   "key": "1917140553706524672",
+   "en": "Jean! Jean!",
+   "ro": "Jean! Jean!"
+  },
+  {
+   "key": "1917161416392724480",
+   "en": "You're a crazy bitch, you know that?",
+   "en_m": "You're a crazy fuck, you know that?",
+   "ro": "Ești o cățea nebună, știi asta?",
+   "ro_m": "Ești un nenorocit nebun, știi asta?"
+  },
+  {
+   "key": "1917161419798499328",
+   "en": "You wanted it.",
+   "ro": "Tu ai vrut asta."
+  },
+  {
+   "key": "1917161423422377984",
+   "en": "Now you'll do whatever I want, huh? Heh! 'Bout fuckin' time.",
+   "ro": "Acum o să faci tot ce zic eu, da? Heh! Era și timpul, pula mea."
+  },
+  {
+   "key": "1917165378281951232",
+   "en": "Beer?",
+   "ro": "Bere?"
+  },
+  {
+   "key": "1917168850897227776",
+   "en": "When der is time.",
+   "ro": "Când o fi timp."
+  },
+  {
+   "key": "1917171691162456064",
+   "en": "As you know – de rest of de time we steal cars and bake sweet potato. As one does in Pacifica.",
+   "ro": "Cum știi – restul timpului furăm mașini și coacem cartofi dulci. Așa se face în Pacifica."
+  },
+  {
+   "key": "1927168464186527744",
+   "en": "Dis was a good day.",
+   "ro": "A fost o zi faină."
+  },
+  {
+   "key": "1927169771584638980",
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "key": "1927170061293604868",
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "key": "1927170357864452096",
+   "en": "So? Tomorrow we fire up the ferris wheel?",
+   "ro": "Deci? Mâine pornim roata mare?"
+  },
+  {
+   "key": "1927180492829642752",
+   "en": "Hey, anything possible now.",
+   "ro": "Hei, acum orice e posibil."
+  },
+  {
+   "key": "1927183042698039296",
+   "en": "Tomorrow we were supposed to swim.",
+   "ro": "Mâine trebuia să înotăm."
+  },
+  {
+   "key": "1927184292030205952",
+   "en": "You can come wid us to da beach, if you want.",
+   "ro": "Poți veni cu noi la plajă, dacă vrei."
+  },
+  {
+   "key": "1940138545259761664",
+   "en": "Ba-by-lon! Ba-by-lon!",
+   "ro": "Ba-by-lon! Ba-by-lon!"
+  },
+  {
+   "key": "1940138873958977536",
+   "en": "Ba-by-lon! Ba-by-lon!",
+   "ro": "Ba-by-lon! Ba-by-lon!"
+  },
+  {
+   "key": "1940139378349199360",
+   "en": "Ba-by-lon! Ba-by-lon!",
+   "ro": "Ba-by-lon! Ba-by-lon!"
+  },
+  {
+   "key": "1940141232147681280",
+   "en": "Ba-kker! Ba-kker!",
+   "ro": "Ba-kker! Ba-kker!"
+  },
+  {
+   "key": "1940141570678345728",
+   "en": "Ba-kker! Ba-kker!",
+   "ro": "Ba-kker! Ba-kker!"
+  },
+  {
+   "key": "1940141743114571776",
+   "en": "Ba-kker! Ba-kker!",
+   "ro": "Ba-kker! Ba-kker!"
+  },
+  {
+   "key": "1940142866399514624",
+   "en": "Hey-wood! Hey-wood!",
+   "ro": "Hey-wood! Hey-wood!"
+  },
+  {
+   "key": "1940142963858362368",
+   "en": "Hey-wood! Hey-wood!",
+   "ro": "Hey-wood! Hey-wood!"
+  },
+  {
+   "key": "1940143156309807104",
+   "en": "Hey-wood! Hey-wood!",
+   "ro": "Hey-wood! Hey-wood!"
+  },
+  {
+   "key": "2074789858831781892",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "2075001373287534596",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2076272792726163460",
+   "en": "[Raise arms]",
+   "ro": "[Ridică brațele]"
+  }
+ ]
+}

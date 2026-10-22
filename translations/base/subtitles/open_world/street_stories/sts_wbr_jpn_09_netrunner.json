@@ -1,0 +1,263 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_jpn_09_netrunner.json",
+ "entries": [
+  {
+   "key": "1610055420243058688",
+   "en": "They're already here!",
+   "ro": "Sunt deja aici!"
+  },
+  {
+   "key": "1610056278850641920",
+   "en": "I literally just need one more minute!",
+   "ro": "Mai am nevoie de un minut, serios!"
+  },
+  {
+   "key": "1610056998173777920",
+   "en": "Ah, OK, I think it worked.",
+   "ro": "A, bine, cred că a mers."
+  },
+  {
+   "key": "1610060807474225152",
+   "en": "Impressive work, V. Thank you.",
+   "ro": "Chiar ai fost impresionantă, V. Mulțumesc.",
+   "ro_m": "Chiar ai fost impresionant, V. Mulțumesc."
+  },
+  {
+   "key": "1612748491237859328",
+   "en": "But Okada will arrange a safehouse for him – until everything settles down.",
+   "ro": "Dar Okada o să-i aranjeze un adăpost sigur – până se liniștesc lucrurile."
+  },
+  {
+   "key": "1734578835890688000",
+   "en": "Hey, you must be V.",
+   "ro": "Hei, tu trebuie să fii V."
+  },
+  {
+   "key": "1734579230172041220",
+   "en": "Where's the client?",
+   "ro": "Unde e clientul?"
+  },
+  {
+   "key": "1734579284496666624",
+   "en": "What else do you know about this virus?",
+   "ro": "Ce altceva știi despre virusul ăsta?"
+  },
+  {
+   "key": "1734579393817006080",
+   "en": "Where's the client?",
+   "ro": "Unde e clientul?"
+  },
+  {
+   "key": "1734579421952397312",
+   "en": "Know anything else about this virus?",
+   "en_m": "You know anything else about this virus?",
+   "ro": "Mai știi ceva despre virusul ăsta?"
+  },
+  {
+   "key": "1734580252290371584",
+   "en": "All right. Let's get moving.",
+   "ro": "Bine. Hai să ne mișcăm."
+  },
+  {
+   "key": "1734580252290371600",
+   "en": "How is this virus linked up to its coder?",
+   "ro": "Cum e legat virusul ăsta de coderul lui?"
+  },
+  {
+   "key": "1734580252323926016",
+   "en": "How's the virus linked up to its script-monkey?",
+   "ro": "Cum e legat virusul de script-monkey-ul lui?"
+  },
+  {
+   "key": "1734580898162855936",
+   "en": "We can limit the virus's signal to the router.",
+   "ro": "Putem limita semnalul virusului la router."
+  },
+  {
+   "key": "1734580999849562112",
+   "en": "We could somehow limit the signal to the network.",
+   "ro": "Am putea limita semnalul la rețea, cumva."
+  },
+  {
+   "key": "1734581680400551936",
+   "en": "All right, let's burn rubber.",
+   "ro": "Bine, hai să dăm gaz."
+  },
+  {
+   "key": "1737006367093084160",
+   "en": "I've heard about you, y'know.",
+   "ro": "Am auzit despre tine, știi."
+  },
+  {
+   "key": "1737017640526598144",
+   "en": "I'm Umbrage. I'll be handling the virus.",
+   "ro": "Sunt Umbrage. Mă ocup eu de virus."
+  },
+  {
+   "key": "1737017780633128960",
+   "en": "Pleasure's all yours.",
+   "ro": "Plăcerea e toată a ta."
+  },
+  {
+   "key": "1737022107326140416",
+   "en": "That so?",
+   "en_m": "Is that so?",
+   "ro": "Așa-i?"
+  },
+  {
+   "key": "1737022145292980224",
+   "en": "Uh-huh. Quite the character.",
+   "ro": "Aha. Un personaj, ce să zic."
+  },
+  {
+   "key": "1737031048491749376",
+   "en": "In the back – asleep. We can go whenever you're ready.",
+   "ro": "În spate – doarme. Putem pleca oricând ești gata."
+  },
+  {
+   "key": "1737031451782467584",
+   "en": "You're gonna reset his implant on the road?",
+   "ro": "O să-i resetezi implantul pe drum?"
+  },
+  {
+   "key": "1737031668829310976",
+   "en": "We have to suppress the virus's connection to its owner. Besides, I've done more difficult procedures.",
+   "ro": "Trebuie să tăiem legătura virusului cu stăpânul lui. Și am mai făcut operații mai grele."
+  },
+  {
+   "key": "1737032643065466880",
+   "en": "Bet you've never done that.",
+   "ro": "Pariez că n-ai făcut niciodată asta."
+  },
+  {
+   "key": "1737033155441643520",
+   "en": "Anyway, it'll be harder for them to track us while we're on the move.",
+   "ro": "Oricum, o să le fie mai greu să ne urmărească cât suntem în mișcare."
+  },
+  {
+   "key": "1737034963287330816",
+   "en": "Judging by the level of coding, I'm thinking Militech – someone with skills.",
+   "ro": "Judecând după codare, mă gândesc la Militech – cineva priceput."
+  },
+  {
+   "key": "1737035039791435776",
+   "en": "Can you get it out?",
+   "ro": "Poți să-l scoți?"
+  },
+  {
+   "key": "1737035094803927040",
+   "en": "Since it looks like your average firmware – I can. But... I'll have to do a hard reset.",
+   "ro": "Din moment ce arată ca un firmware obișnuit, pot. Dar... o să trebuiască să fac un hard reset."
+  },
+  {
+   "key": "1737035222310768640",
+   "en": "Which means whoever programmed the virus will be alerted.",
+   "ro": "Adică cine a programat virusul o să fie alertat."
+  },
+  {
+   "key": "1737035331849211904",
+   "en": "You should count on a few unfriendly faces showing up here – and not the kind who like asking questions.",
+   "ro": "Să te aștepți la câteva fețe neprietenoase pe-aici – și nu de alea care pun întrebări."
+  },
+  {
+   "key": "1737039624669024256",
+   "en": "Heh. You drive, I'll do my thing.",
+   "ro": "Heh. Tu conduci, eu îmi fac treaba."
+  },
+  {
+   "key": "1737040249200889856",
+   "en": "The source code contains strings that-- Basically, once we restart the implant, it'll automatically relay his coordinates to the nearest router.",
+   "ro": "Codul sursă conține șiruri care-- Practic, odată ce repornim implantul, o să retransmită automat coordonatele lui către cel mai apropiat router."
+  },
+  {
+   "key": "1737040581540761600",
+   "en": "In other words, our coder will be able to triangulate our client's precise location.",
+   "ro": "Cu alte cuvinte, coderul nostru o să poată triangula locația exactă a clientului."
+  },
+  {
+   "key": "1737040723945771008",
+   "en": "The only thing we can do is keep moving and not get caught.",
+   "ro": "Singurul lucru pe care-l putem face e să continuăm să ne mișcăm și să nu fim prinși."
+  },
+  {
+   "key": "1737041110056620032",
+   "en": "You mean choking the bandwidth?",
+   "ro": "Vrei să spui să sufocăm lățimea de bandă?"
+  },
+  {
+   "key": "1737041228570873856",
+   "en": "Exactly. It'd put some lag on the connection to the access point.",
+   "ro": "Exact. Ar băga lag în conexiunea la punctul de acces."
+  },
+  {
+   "key": "1737041348158869504",
+   "en": "Well, well, we have an expert here! I mean, they'll still read our position...",
+   "ro": "Ei, ei, avem un expert aici! Adică tot o să ne citească poziția..."
+  },
+  {
+   "key": "1737041585053159424",
+   "en": "Just with a little delay.",
+   "ro": "Doar cu o mică întârziere."
+  },
+  {
+   "key": "1737041839915847680",
+   "en": "Brilliant. I'll draft up a script right now.",
+   "ro": "Briliant. Îmi scriu scriptul chiar acum."
+  },
+  {
+   "key": "1737047207198904320",
+   "en": "Shit, they found us...",
+   "ro": "Căcat, ne-au găsit..."
+  },
+  {
+   "key": "1737051064935174144",
+   "en": "What about the client?",
+   "ro": "Dar clientul?"
+  },
+  {
+   "key": "1737051143972638720",
+   "en": "He'll be fine. I mean, it's not like his problems will magically disappear.",
+   "ro": "O să fie bine. Adică nu e ca și cum problemele lui o să dispară ca prin minune."
+  },
+  {
+   "key": "1737051671901294592",
+   "en": "Ramming through those gates... Nice moves, V.",
+   "ro": "Rupând porțile alea... Mișcări frumoase, V."
+  },
+  {
+   "key": "1737051745939148800",
+   "en": "'Kay, then... Until next time. V.",
+   "ro": "Bine, atunci... Până data viitoare. V."
+  },
+  {
+   "key": "1895399092352688128",
+   "en": "Hey, careful! You want to get us killed?!",
+   "ro": "Hei, atenție! Vrei să ne omori?!"
+  },
+  {
+   "key": "1925862126262734852",
+   "en": "No sweat.",
+   "ro": "Nicio grijă."
+  },
+  {
+   "key": "1925862222731726848",
+   "en": "What about the client?",
+   "ro": "Dar clientul?"
+  },
+  {
+   "key": "1925864270911033344",
+   "en": "Impressive work back there, V. Thanks.",
+   "ro": "Ce treabă ai făcut acolo, V. Mersi."
+  },
+  {
+   "key": "1925864646653562880",
+   "en": "S'what they pay me for.",
+   "ro": "Asta-s plătit să fac."
+  },
+  {
+   "key": "1925865128310657024",
+   "en": "Don't sell yourself so short.",
+   "ro": "Nu te mai subestima atât."
+  }
+ ]
+}

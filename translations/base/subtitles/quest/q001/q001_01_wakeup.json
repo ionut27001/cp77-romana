@@ -1,0 +1,83 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_01_wakeup.json",
+ "entries": [
+  {
+   "key": "1623126824373383168",
+   "en": "Woah, V! Tsk, you get your beauty sleep? Hah, no matter. Time you got up!",
+   "en_m": "Woah, V! You get any sleep? Aa, no matter. Time you got up!",
+   "ro": "Uau, V! Tsk, ai dormit bine? Hah, nu-i nimic. Gata, e timpul să te scoli!",
+   "ro_m": "Uau, V! Tsk, ai dormit ceva? Ha, nu-i nimic. Gata, e timpul să te scoli!"
+  },
+  {
+   "key": "1623139818662719488",
+   "en": "I'm up.",
+   "ro": "Sunt trează.",
+   "ro_m": "Sunt treaz."
+  },
+  {
+   "key": "1623140181688119296",
+   "en": "Do I have to?",
+   "ro": "Chiar trebuie?"
+  },
+  {
+   "key": "1623204012669988864",
+   "en": "I am up. Just don't see any reason why I should be.",
+   "ro": "Sunt trează. Doar că nu înțeleg de ce ar trebui să fiu.",
+   "ro_m": "Sunt treaz. Doar că nu înțeleg de ce ar trebui să fiu."
+  },
+  {
+   "key": "1623204145713311744",
+   "en": "Be nice, asshole. Yesterday was shit and you know it.",
+   "ro": "Fii drăguț, nesimțitule. Ieri a fost cel mai mare rahat și știi și tu."
+  },
+  {
+   "key": "1623208923512107008",
+   "en": "OK, lemme take ya. I brought your ride. Yeah, throw on some threads, meet me downstairs.",
+   "ro": "Ok, te iau eu. Ți-am adus mașina. Trage ceva pe tine și coboară."
+  },
+  {
+   "key": "1623222054099546112",
+   "en": "Damn, V. Still carryin' yesterday's grief, huh? Want me to call later?",
+   "en_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Damn, \" a=\". Still carryin' yesterday's grief? Want me to call later?\"/>",
+   "ro": "Naiba, V. Tot porți doliul de ieri, nu? Vrei să te sun mai târziu?",
+   "ro_m": "<mothertongue l=\"mex\" m=\"ese\" b=\"Naiba, \" a=\". Încă porți doliul de ieri? Vrei să te sun mai târziu?\"/>"
+  },
+  {
+   "key": "1623222682255290368",
+   "en": "Shoulda drowned your grief in tequila like I did. Want me to call later?",
+   "ro": "Ar fi trebuit să-ți îneci necazul în tequila, ca mine. Vrei să te sun mai târziu?"
+  },
+  {
+   "key": "1623226480247894016",
+   "en": "Think I mighta caught somethin'. When I jacked into that corpo's biomon... Dunno, a neurovirus or…",
+   "ro": "Cred că am prins ceva. Când m-am conectat la biomonul corpo-ului ăla... Habar n-am, un neurovirus sau…"
+  },
+  {
+   "key": "1624372076606320640",
+   "en": "Wait, wait... like, you seein' trippy shit?",
+   "ro": "Stai, stai... vezi tu chestii psihedelice de rahat?"
+  },
+  {
+   "key": "1624372349269635072",
+   "en": "Heh, I wish. No, feels like a hangover for the fuckin' ages. Think I might vom…",
+   "en_m": "I wish. No, feels more like a hangover for the fuckin' ages. Ugh, think I might vom…",
+   "ro": "Heh, aș vrea. Nu, e o mahmureală de nu mai trece, dracu' s-o ia. Cred că o să vomit…",
+   "ro_m": "Aș vrea. Nu, pare mai mult o mahmureală pentru dracu' de veacuri. Ugh, cred că o să vomit…"
+  },
+  {
+   "key": "1625588173477179392",
+   "en": "Need to see Vik. Let him tell me what's got my head reelin' and my stomach churnin'.",
+   "ro": "Trebuie să-l văd pe Vik, să-mi zică el ce naiba mi-a făcut capul calendar și stomacul pe dos."
+  },
+  {
+   "key": "1867549271199477760",
+   "en": "<mothertongue l=\"mex\" m=\"¿Cómo te sientes?\" b=\"V, hey! \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"¿Cómo te sientes?\" b=\"V, hei! \" a=\"\"/>"
+  },
+  {
+   "key": "1877747864803897348",
+   "en": "[Rest]",
+   "ro": "[Odihnește-te]"
+  }
+ ]
+}

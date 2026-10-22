@@ -1,0 +1,197 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_corpo_03b_fly_to_lizzies.json",
+ "entries": [
+  {
+   "key": "1857631696514469888",
+   "en": "Please provide your destination.",
+   "ro": "Vă rog să indicați destinația."
+  },
+  {
+   "key": "1857632815487668224",
+   "en": "Bring up district analytics first.",
+   "ro": "Afișează mai întâi analizele districtelor."
+  },
+  {
+   "key": "1857633009952378880",
+   "en": "Bring up district analytics.",
+   "ro": "Afișează analizele districtelor."
+  },
+  {
+   "key": "1857633445388242944",
+   "en": "Destination – Lizzie's Bar.",
+   "ro": "Destinație – Lizzie's Bar."
+  },
+  {
+   "key": "1857634072805789696",
+   "en": "Noted, en route.",
+   "ro": "Notat, pe drum."
+  },
+  {
+   "key": "1857637583052361732",
+   "en": "[Take drink]",
+   "ro": "[Ia băutura]"
+  },
+  {
+   "key": "1857669146985123840",
+   "en": "[Switch on news]",
+   "ro": "[Pornește știrile]"
+  },
+  {
+   "key": "1857669869764366336",
+   "en": "[Switch off news]",
+   "ro": "[Oprește știrile]"
+  },
+  {
+   "key": "1861757367541059584",
+   "en": "This is N54 News broadcasting with a breaking story for you.",
+   "ro": "Aici N54 News. Avem o știre de ultimă oră."
+  },
+  {
+   "key": "1861759913315815424",
+   "en": "A conference of the European Space Council screeched to a grisly halt following a failure in a neural stabilization system.",
+   "ro": "O conferință a European Space Council s-a terminat în tragedie, după ce un sistem de stabilizare neurală a cedat."
+  },
+  {
+   "key": "1861762178474856448",
+   "en": "Five European Space Council members are dead, while three remain in critical condition.",
+   "ro": "Cinci membri ai European Space Council sunt morți, iar trei rămân în stare critică."
+  },
+  {
+   "key": "1861794168632791040",
+   "en": "Hello, V.",
+   "ro": "Salut, V."
+  },
+  {
+   "key": "1861794609806462976",
+   "en": "Yes? We weren't scheduled to connect until the end of the week.",
+   "en_m": "Yes? We weren't scheduled to connect till the end of the week.",
+   "ro": "Da? Trebuia să vorbim abia la sfârșitul săptămânii."
+  },
+  {
+   "key": "1861798065845850112",
+   "en": "Quantified Satori received notification of a somewhat troubling biometric reading – I felt I should call.",
+   "ro": "Quantified Satori a primit o notificare despre o valoare biometrică oarecum îngrijorătoare – m-am gândit să te sun."
+  },
+  {
+   "key": "1861800049885859840",
+   "en": "Is everything in order?",
+   "ro": "Totul e în ordine?"
+  },
+  {
+   "key": "1861845181821636608",
+   "en": "The council members were all wearing Biotechnica provided devices. The corporation's representatives have, as yet, refused to comment.",
+   "ro": "Membrii consiliului purtau toți dispozitive furnizate de Biotechnica. Reprezentanții corporației au refuzat până acum să comenteze."
+  },
+  {
+   "key": "1861845945033969664",
+   "en": "Stay with N54 News for the latest.",
+   "ro": "Rămâneți cu N54 News pentru cele mai noi informații."
+  },
+  {
+   "key": "1862006856285704192",
+   "en": "Access granted.",
+   "ro": "Acces acordat"
+  },
+  {
+   "key": "1862007242732097540",
+   "en": "Access denied.",
+   "ro": "Acces refuzat"
+  },
+  {
+   "key": "1866201421606481920",
+   "en": "Increased NCPD presence and activity has been reported in Heywood. No official statement has been forthcoming.",
+   "ro": "Se raportează o prezență și activitate crescută a NCPD în Heywood. Până acum, nicio declarație oficială."
+  },
+  {
+   "key": "1866202560209022976",
+   "en": "Intercepted radio communications suggest MaxTac has been sent to the area.",
+   "ro": "Interceptările radio sugerează că unitatea MaxTac a fost trimisă în zonă."
+  },
+  {
+   "key": "1866203016196976640",
+   "en": "All other districts exhibit activity within expected parameters.",
+   "ro": "Restul districtelor au o activitate normală."
+  },
+  {
+   "key": "1866205848811794432",
+   "en": "A widespread power failure has been reported in Santo Domingo.",
+   "ro": "Se raportează o pană de curent generalizată în Santo Domingo."
+  },
+  {
+   "key": "1866231156520710144",
+   "en": "Everything's dandy.",
+   "ro": "Totul e grozav."
+  },
+  {
+   "key": "1866231161184776192",
+   "en": "Dealin' with a temporary nuisance. Nothin' you should worry about.",
+   "en_m": "I'm dealin' with a temporary nuisance. Nothin' you should worry about.",
+   "ro": "Mă ocup de o pacoste temporară. Nu-i ceva de care să-ți faci griji."
+  },
+  {
+   "key": "1866231163248373760",
+   "en": "Things're dandy, everything is.",
+   "ro": "Totul e super, serios."
+  },
+  {
+   "key": "1866231203614355456",
+   "en": "Just think back to our last session.",
+   "ro": "Gândește-te doar la ultima noastră ședință."
+  },
+  {
+   "key": "1866232202110365696",
+   "en": "Honestly? Things're only all right.",
+   "ro": "Sincer? Merge cum merge."
+  },
+  {
+   "key": "1866309294390964224",
+   "en": "The neuromotor relaxation exercises, three times a day – they'll soothe and lift your spirit, I know this.",
+   "ro": "Exercițiile de relaxare neuromotorie, de trei ori pe zi, o să te liniștească și o să-ți ridice moralul. Știu asta."
+  },
+  {
+   "key": "1866310044718395392",
+   "en": "Sure, OK. See you later.",
+   "ro": "Sigur, OK. Ne vedem mai târziu."
+  },
+  {
+   "key": "1879248799373742080",
+   "en": "No designated landing site has been detected at the destination.",
+   "ro": "Nu s-a detectat niciun punct de aterizare la destinație."
+  },
+  {
+   "key": "1879249393840836608",
+   "en": "Find a spot close to the bar, as close as you can. Fuck procedures.",
+   "ro": "Găsește un loc cât mai aproape de bar, cât de aproape poți. Futu-i procedurile."
+  },
+  {
+   "key": "1966034147636867072",
+   "en": "Initiating landing sequence based on new parameters.",
+   "ro": "Pornesc aterizarea cu noii parametri."
+  },
+  {
+   "key": "1966124675397251072",
+   "en": "Authorities are still looking into what might have caused this shocking incident.",
+   "ro": "Autoritățile încă investighează ce a putut cauza incidentul ăsta șocant."
+  },
+  {
+   "key": "1973309117342699524",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "1985193020629118976",
+   "en": "Our reporter is on the scene. We'll have updates on developments as they come to light.",
+   "ro": "Reporterul nostru e chiar acolo. O să avem noutăți pe măsură ce apar detalii noi."
+  },
+  {
+   "key": "2031741058951520256",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "2057919070294089728",
+   "en": "Lizzie's Bar.",
+   "ro": "Lizzie's Bar."
+  }
+ ]
+}

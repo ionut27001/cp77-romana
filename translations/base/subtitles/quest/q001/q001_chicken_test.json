@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q001\\q001_chicken_test.json",
+ "entries": [
+  {
+   "key": "1511436577328484352",
+   "en": "[db_db]Where do you want to start?",
+   "ro": "[db_db]De unde vrei să începi?"
+  },
+  {
+   "key": "2292491895678734340",
+   "en": "[db_db]corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "2292496436751011840",
+   "en": "[db_db]street kid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "2292496462084608000",
+   "en": "[db_db]nomad",
+   "ro": "[db_db]nomad"
+  },
+  {
+   "key": "2292496887017934848",
+   "en": "[db_db]Lifepath?",
+   "ro": "[db_db]Origine?"
+  },
+  {
+   "key": "2424413092082016256",
+   "en": "[db_db]NCW_GUNS",
+   "ro": "[db_db]NCW_GUNS"
+  }
+ ]
+}

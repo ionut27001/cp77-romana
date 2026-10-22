@@ -1,0 +1,886 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_corpo_04_lizzies_club.json",
+ "entries": [
+  {
+   "key": "1661700260668284928",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"Don't come here often, do ya? Heheh. It's good to see you, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Don't come here often, do ya? Heheh. It's good to see you, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Nu vii pe-aici prea des, nu? Heheh. Mă bucur să te văd, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Nu vii pe-aici prea des, nu? Heheh. Mă bucur să te văd, \" a=\".\"/>"
+  },
+  {
+   "key": "1661702811308433412",
+   "en": "[Sit] It's good to see you, too.",
+   "ro": "[Așează-te] Mă bucur să te văd și eu."
+  },
+  {
+   "key": "1661704725739773952",
+   "en": "Mhm... Mhm...",
+   "ro": "Mhm... Mhm..."
+  },
+  {
+   "key": "1661705188874821632",
+   "en": "Full-crew job, for sure... A techie, maybe two... a 'runner with a gold-plated brain... an' a driver with wheels from hell…",
+   "ro": "Treabă cu echipă completă, sigur... Un tehnician, poate doi... un runner cu creier placat cu aur... și un șofer cu roți din iad…"
+  },
+  {
+   "key": "1661705426977071104",
+   "en": "Not to mention – a solo.",
+   "ro": "Ca să nu mai zic – un solo."
+  },
+  {
+   "key": "1661705872965804032",
+   "en": "Mhm. The piece I'm missing.",
+   "en_m": "Huh. The piece I'm missing.",
+   "ro": "Mhm. Piesa care-mi lipsește.",
+   "ro_m": "Huh. Piesa care-mi lipsește."
+  },
+  {
+   "key": "1661706261240913920",
+   "en": "That what you need from me? My trigger finger to zero this lady?",
+   "ro": "Asta vrei de la mine? Să-mi pun degetul pe trăgaci și s-o lichidez pe tipa asta?"
+  },
+  {
+   "key": "1661707460224655360",
+   "en": "Those're the rules, Jack. You wanna be top, y'gotta have some skin in the game.",
+   "en_m": "Those're the rules, Jack. You wanna be top, gotta have some skin in the game.",
+   "ro": "Acestea-s regulile, Jack. Vrei să fii în top, trebuie să ai și tu ceva de pierdut."
+  },
+  {
+   "key": "1661707574376833028",
+   "en": "Those are the rules.",
+   "ro": "Acestea sunt regulile."
+  },
+  {
+   "key": "1661708321080385536",
+   "en": "<mothertongue l=\"mex\" m=\"Un pacto con el diablo.\" b=\"\" a=\" Been sayin' it all along. Sold your soul to those Arasaka fuckers.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Un pacto con el diablo.\" b=\"\" a=\" Tot timpul am spus-o. Ți-ai vândut sufletul nenorociților ăia de la Arasaka.\"/>"
+  },
+  {
+   "key": "1661713245293944836",
+   "en": "[Raise toast] To this.",
+   "ro": "[Ridică paharul] Pentru asta."
+  },
+  {
+   "key": "1661714128547258368",
+   "en": "To this.",
+   "ro": "Pentru asta."
+  },
+  {
+   "key": "1661715724513484800",
+   "en": "Now, whaddaya say we liquor up and talk life.",
+   "ro": "Acum, ce zici să ne încingem și să stăm de vorbă despre viață."
+  },
+  {
+   "key": "1661726780447170560",
+   "en": "Think I have a choice?",
+   "ro": "Crezi că am de ales?"
+  },
+  {
+   "key": "1661728342372425728",
+   "en": "Think I have a choice? If I refuse, they take everything and leave me nothing.",
+   "en_m": "Think I have a choice? If I refuse, they take everything and leave me nothin'.",
+   "ro": "Crezi că am de ales? Dacă refuz, îmi iau totul și nu-mi lasă nimic."
+  },
+  {
+   "key": "1661729121170792448",
+   "en": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Yeah, but you're not on top – Saburo Arasaka is. And you're the \" a=\" who keeps him there.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Yeah, but you're not on top – Saburo Arasaka is. And you're the \" a=\" who keeps him there.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Da, dar nu ești în top – Saburo Arasaka e. Și tu ești \" a=\" care-l ține acolo.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Da, dar nu ești în top – Saburo Arasaka e. Și tu ești \" a=\" care-l ține acolo.\"/>"
+  },
+  {
+   "key": "1661729406668677120",
+   "en": "Yeah, well let 'em. They'll also take the fist they got grippin' your balls.",
+   "ro": "Da, lasă-i. O să-ți ia și pumnul cu care-ți țin coaiele."
+  },
+  {
+   "key": "1661729593029992448",
+   "en": "You'll always be within reach. Always re--",
+   "ro": "Vei fi mereu la îndemână. Mereu re--"
+  },
+  {
+   "key": "1661732161470767104",
+   "en": "V. Is that right?",
+   "ro": "V. Chiar așa?"
+  },
+  {
+   "key": "1661771344725843968",
+   "en": "Your access to company networks is hereby revoked.",
+   "ro": "Accesul tău la rețelele companiei e revocat. Din clipa asta."
+  },
+  {
+   "key": "1661772820869193728",
+   "en": "Give us the data you received from Jenkins. This will conclude termination procedures.",
+   "ro": "Dă-ne datele pe care le-ai primit de la Jenkins. Asta o să încheie procedurile de terminare."
+  },
+  {
+   "key": "1661774018695307264",
+   "en": "Ugh, information's on the shard.",
+   "en_m": "Information's on the shard.",
+   "ro": "Ugh, informațiile sunt pe shard.",
+   "ro_m": "Informațiile sunt pe shard."
+  },
+  {
+   "key": "1661774656296624128",
+   "en": "No, thanks.",
+   "ro": "Nu, mulțumesc."
+  },
+  {
+   "key": "1661823248130547712",
+   "en": "You know I don't drink.",
+   "ro": "Știi că nu beau."
+  },
+  {
+   "key": "1661867248644431872",
+   "en": "With the formalities, yes. But I think Abernathy would gladly up our fee for ridding her of a piece of rot like you.",
+   "ro": "Cu formalitățile, da. Dar cred că Abernathy ar mări onorariul ca să scape de o javră ca tine."
+  },
+  {
+   "key": "1661869070096441344",
+   "en": "Come on, move it.",
+   "ro": "Hai, mișcă-te."
+  },
+  {
+   "key": "1661869223540858880",
+   "en": "<kiroshi l=\"mex\" o=\"Vaya, esperen.\" t=\"Whoa, hold on.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Vaya, esperen.\" t=\"Stai puțin.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1661869875822239744",
+   "en": "Is that a threat?",
+   "ro": "E o amenințare?"
+  },
+  {
+   "key": "1661870092063776768",
+   "en": "We have what we came for. It'll do for now.",
+   "ro": "Avem ce am venit să luăm. Deocamdată e suficient."
+  },
+  {
+   "key": "1662026042997383168",
+   "en": "<mothertongue l=\"mex\" m=\"Hijo de la chingada...\" b=\"Phew, dodged one there. \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Hijo de la chingada...\" b=\"Pfiu, am scăpat ieftin. \" a=\"\"/>"
+  },
+  {
+   "key": "1672130344050925568",
+   "en": "Welcome to Lizzie's.",
+   "ro": "Bun venit la Lizzie's."
+  },
+  {
+   "key": "1692160316603822080",
+   "en": "Thought I could count on you.",
+   "ro": "Credeam că mă pot baza pe tine."
+  },
+  {
+   "key": "1692160354251894784",
+   "en": "Delicate situation, I know. That's why I need somebody I can trust.",
+   "ro": "Situație delicată, știu. De-aia am nevoie de cineva în care să am încredere."
+  },
+  {
+   "key": "1692160365475852288",
+   "en": "Thought I could always count on you, Jack…",
+   "ro": "Credeam că mă pot baza mereu pe tine, Jack…"
+  },
+  {
+   "key": "1692160982290198528",
+   "en": "I need someone I can trust.",
+   "ro": "Am nevoie de cineva de încredere."
+  },
+  {
+   "key": "1692474422040915968",
+   "en": "Now siddown and tell me what's got your shorts in a knot.",
+   "ro": "Acum stai jos și spune-mi ce te-a apucat."
+  },
+  {
+   "key": "1692497066987548672",
+   "en": "Hagh, you know me, I'm not all sunshine and rainbows, but... this job ain't my style.",
+   "ro": "Hagh, mă știi, nu-s numai zâmbete și curcubee, dar... treaba asta nu-i stilul meu."
+  },
+  {
+   "key": "1692497482223644672",
+   "en": "Actually, I didn't think it was yours, either.",
+   "ro": "De fapt, nu credeam că e nici stilul tău."
+  },
+  {
+   "key": "1692497774029762560",
+   "en": "<mothertongue l=\"mex\" m=\"hermana\" b=\"This ain't no \\\"delicate situation\\\", \" a=\". It's a hitjob, plain an' simple.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"This ain't no \\\"delicate situation\\\", \" a=\". It's a hitjob, plain an' simple.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Nu-i nicio \\\"situație delicată\\\", \" a=\". E un asasinat, fără ocolișuri.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Nu-i nicio \\\"situație delicată\\\", \" a=\". E un asasinat, fără ocolișuri.\"/>"
+  },
+  {
+   "key": "1692524646130184192",
+   "en": "This isn't a professional request I can refuse.",
+   "ro": "Nu e o cerere de serviciu pe care s-o pot refuza."
+  },
+  {
+   "key": "1692524921477853184",
+   "en": "You know how Arasaka operates... Or, OK, maybe you don't.",
+   "ro": "Știi cum operează Arasaka... Sau, OK, poate că nu."
+  },
+  {
+   "key": "1692525541362429952",
+   "en": "But I can. And I am. And you should, too.",
+   "ro": "Dar eu pot. Și o fac. Și ar trebui să faci și tu."
+  },
+  {
+   "key": "1692684696576520192",
+   "en": "Was that a toast? The hell does that even mean?",
+   "ro": "A fost un toast? Ce naiba înseamnă asta?"
+  },
+  {
+   "key": "1692684899060740096",
+   "en": "<mothertongue l=\"mex\" m=\"mamá\" b=\"You raise a glass to your \" a=\", your <Rich color=\\\"MainColors.ActiveBlue\\\">hermana</>. To the <Rich color=\\\"MainColors.ActiveBlue\\\">mamacita</> you'll meet at the bar. But \\\"this\\\" – doesn't say a damn thing.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Ridici paharul pentru \" a=\", pentru <Rich color=\\\"MainColors.ActiveBlue\\\">hermana</> ta. Pentru <Rich color=\\\"MainColors.ActiveBlue\\\">mamacita</> pe care o să o întâlnești la bar. Dar \\\"asta\\\" – nu înseamnă nimic, la naiba.\"/>"
+  },
+  {
+   "key": "1692686605924364288",
+   "en": "Sheesh. \"To this.\"",
+   "ro": "Of. \"Pentru asta.\""
+  },
+  {
+   "key": "1692687762478526464",
+   "en": "You still never bend the rules, huh?",
+   "ro": "Tot nu încalci niciodată regulile, nu?"
+  },
+  {
+   "key": "1692688755152842752",
+   "en": "Hey, OK, I getcha.",
+   "ro": "Hei, OK, te-am prins."
+  },
+  {
+   "key": "1693844276660596736",
+   "en": "This job and all the rest of that corpo bullshit – y'know what it is?",
+   "ro": "Treaba asta și toate porcăriile astea de corpo – știi cum e?"
+  },
+  {
+   "key": "1693848106580242432",
+   "en": "Today, they got you to zero somebody. Tomorrow, they'll get somebody else to zero you.",
+   "ro": "Azi te-au pus să lichidezi pe cineva. Mâine, o să pună pe altcineva să te lichideze pe tine."
+  },
+  {
+   "key": "1693856036364939264",
+   "en": "<mothertongue l=\"mex\" m=\"matones\" b=\"I dunno 'bout you, but I'm pretty picky about who I let touch my balls. And Saburo and his \" a=\"? Oh, they definitely do not make the cut.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"matones\" b=\"Nu știu de tine, dar sunt destul de pretențios cu cine las să-mi atingă coaiele. Și Saburo și \" a=\" lui? Ei, sigur nu trec testul.\"/>"
+  },
+  {
+   "key": "1693862219540787200",
+   "en": "Maybe someday. But for now, I'm still well within their reach.",
+   "ro": "Poate într-o zi. Dar deocamdată tot le sunt la mână."
+  },
+  {
+   "key": "1693863389432836096",
+   "en": "Work for yourself, live for yourself. That's the only way.",
+   "ro": "Lucrează pentru tine, trăiește pentru tine. E singura cale."
+  },
+  {
+   "key": "1693990433760145412",
+   "en": "Don't believe we've met.",
+   "ro": "Nu cred că ne-am întâlnit."
+  },
+  {
+   "key": "1693990463405486080",
+   "en": "Did Jenkins send you? Don't believe I know you.",
+   "ro": "Te-a trimis Jenkins? Nu cred că te cunosc."
+  },
+  {
+   "key": "1693990471726985216",
+   "en": "You're from Arasaka HQ. Er, is there a problem? Are you here about Frankfurt?",
+   "en_m": "You're from Arasaka HQ. Is there a problem? Are you here about Frankfurt?",
+   "ro": "Ești de la sediul central Arasaka. Ăă, e vreo problemă? Ai venit pentru Frankfurt?",
+   "ro_m": "Ești de la sediul central Arasaka. E vreo problemă? Ai venit pentru Frankfurt?"
+  },
+  {
+   "key": "1693990635422281728",
+   "en": "You're from headquarters.",
+   "ro": "Ești de la sediu."
+  },
+  {
+   "key": "1694044751993434112",
+   "en": "You don't. But we know you very well.",
+   "ro": "Nu. Dar te cunoaștem foarte bine."
+  },
+  {
+   "key": "1694045548290437120",
+   "en": "Hey, you lost? Got a problem?",
+   "ro": "Hei, te-ai rătăcit? Ai vreo problemă?"
+  },
+  {
+   "key": "1694050529043214336",
+   "en": "We're here for you.",
+   "ro": "Suntem alături de tine."
+  },
+  {
+   "key": "1694052646629863424",
+   "en": "Jenkins assigned you a task today. You'll share all the details with us.",
+   "ro": "Jenkins ți-a dat o sarcină azi. O să ne spui toate detaliile."
+  },
+  {
+   "key": "1694054414596108292",
+   "en": "Who are you again?",
+   "ro": "Cine ești, din nou?"
+  },
+  {
+   "key": "1694054444946092032",
+   "en": "Name and department, again? Didn't quite catch it the first time around.",
+   "en_m": "Name and department, again? Didn't quite catch it first time around.",
+   "ro": "Nume și departament, iar? N-am prins bine prima dată."
+  },
+  {
+   "key": "1694054454727208960",
+   "en": "No, don't believe I will. That's between me and Jenkins.",
+   "ro": "Nu, nu cred că o să. Asta e între mine și Jenkins."
+  },
+  {
+   "key": "1694054606426796032",
+   "en": "Task's not your concern.",
+   "ro": "Treaba nu te privește."
+  },
+  {
+   "key": "1694138588506025984",
+   "en": "Hgh, how the hell did you find out?",
+   "ro": "Hgh, cum dracu' ai aflat?"
+  },
+  {
+   "key": "1694142904528728064",
+   "en": "That is not your concern.",
+   "ro": "Asta nu te privește."
+  },
+  {
+   "key": "1694143715052810240",
+   "en": "The data. Now.",
+   "ro": "Datele. Acum."
+  },
+  {
+   "key": "1694146284064010240",
+   "en": "We done?",
+   "ro": "Am terminat?"
+  },
+  {
+   "key": "1694147336263888896",
+   "en": "In two minutes, any company cybernetics in your possession will cease functioning.",
+   "ro": "Peste două minute, orice cibernetică de firmă pe care o porți o să se oprească."
+  },
+  {
+   "key": "1694148347242147840",
+   "en": "How'd you find out?",
+   "ro": "Cum ai aflat?"
+  },
+  {
+   "key": "1694154739998978048",
+   "en": "I think you fellas mighta forgotten just how far from home you are.",
+   "ro": "Cred că v-ați uitat cât de departe de casă sunteți, băieți."
+  },
+  {
+   "key": "1694155333979533312",
+   "en": "<mothertongue l=\"mex\" m=\"barrio\" b=\"Not sure this \" a=\"'s your style, let alone a healthy option. <Rich color=\\\"MainColors.ActiveBlue\\\">¿Queda claro?</>\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"barrio\" b=\"Nu cred că asta \" a=\"e stilul tău, darămite o opțiune sănătoasă. <Rich color=\\\"MainColors.ActiveBlue\\\">¿Queda claro?</>\"/>"
+  },
+  {
+   "key": "1694155961950728192",
+   "en": "Well, you start shootin', maybe we join in, huh? Before you know it, somebody might die today.",
+   "ro": "Ei, dacă începeți să trageți, poate intrăm și noi, nu? Și până vă prindeți, poate moare cineva azi."
+  },
+  {
+   "key": "1694159111302606848",
+   "en": "Stand up, you're comin' with us.",
+   "ro": "Ridică-te, vii cu noi."
+  },
+  {
+   "key": "1695401359793123328",
+   "en": "That, mh... That'd be that, Jack. Just lost control of my life, completely…",
+   "en_m": "That... that'd be that, Jack. Just lost control of my life, completely…",
+   "ro": "Ei, asta ar fi tot, Jack. Tocmai mi-am pierdut controlul vieții, complet…"
+  },
+  {
+   "key": "1695401507348738048",
+   "en": "I'd say you got it back.",
+   "ro": "Aș zice că l-ai recuperat."
+  },
+  {
+   "key": "1695401578215698432",
+   "en": "You couldn't say \"no\" to 'em, so they said it to you. This is a turn for the better, you'll see.",
+   "ro": "N-ai putut să le zici „nu”, așa că ți-au zis ei. E o întorsătură bună, o să vezi."
+  },
+  {
+   "key": "1796845955038769152",
+   "en": "Datashard – take it.",
+   "ro": "Datashard – ia-l."
+  },
+  {
+   "key": "1796848190049153024",
+   "en": "It's good to see you, too, Jack. How ya been?",
+   "ro": "Și eu mă bucur să te văd, Jack. Ce mai faci?"
+  },
+  {
+   "key": "1796849308351262720",
+   "en": "[Hand over datashard] Have a glance.",
+   "ro": "[Dă datashard-ul] Aruncă o privire."
+  },
+  {
+   "key": "1796850143353303040",
+   "en": "This needs to stay between us.",
+   "ro": "Asta trebuie să rămână între noi."
+  },
+  {
+   "key": "1796850462489505792",
+   "en": "Got sparks flyin' between the Valentino boys and Maelstrom. Eddies there for the takin'... as long as ya don't get flatlined.",
+   "ro": "Sunt scântei între gașca Valentinos și Maelstrom. Eddies de luat... numai să nu ajungi terminată.",
+   "ro_m": "Sunt scântei între gașca Valentinos și Maelstrom. Eddies de luat... numai să nu ajungi terminat."
+  },
+  {
+   "key": "1796856792415662080",
+   "en": "Jackie, before I start... this stays between us.",
+   "ro": "Jackie, înainte să încep... asta rămâne între noi."
+  },
+  {
+   "key": "1796891426260185088",
+   "en": "<kiroshi l=\"mex\" o=\"Por supuesto.\" t=\"Of course.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Por supuesto.\" t=\"Sigur.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1796894794990940160",
+   "en": "I'm serious... This thing, it… it could ruin me.",
+   "en_m": "I'm serious... This thing, it could ruin me.",
+   "ro": "Sunt serioasă... Chestia asta... m-ar putea ruina.",
+   "ro_m": "Sunt serios... Chestia asta... m-ar putea ruina."
+  },
+  {
+   "key": "1796894913169649664",
+   "en": "So could I. You do realize who you're talkin' to, right? A guy who's done this before.",
+   "ro": "Și eu. Îți dai seama cu cine vorbești, nu? O tipă care a mai făcut asta.",
+   "ro_m": "Și eu. Îți dai seama cu cine vorbești, nu? Un tip care a mai făcut asta."
+  },
+  {
+   "key": "1796895371808403456",
+   "en": "I know, you saved my ass. If word about the cartels had gotten out...",
+   "ro": "Știu, mi-ai salvat pielea. Dacă se afla de cartele..."
+  },
+  {
+   "key": "1796895416922337280",
+   "en": "But it didn't, and this won't either. It's why you came to see dear old Jackie.",
+   "ro": "Dar nu s-a aflat, și nu o să se afle nici asta. De-aia ai venit la bătrânul Jackie."
+  },
+  {
+   "key": "1802536361386766336",
+   "en": "Remember what happened in México, at the border? I peep one word…",
+   "ro": "Îți amintești ce s-a întâmplat în México, la graniță? Scap un cuvânt…"
+  },
+  {
+   "key": "1802550543586881536",
+   "en": "Whaddaya think?",
+   "ro": "Ce zici?"
+  },
+  {
+   "key": "1802555911037710336",
+   "en": "Lemme hear about this problem o' yours.",
+   "ro": "Hai, zi-mi de problema ta."
+  },
+  {
+   "key": "1802558615088721920",
+   "en": "Double tequila with grenadine and lime. Nothin' better for drownin' nerves.",
+   "ro": "Tequila dublă cu grenadină și lime. Nimic mai bun ca să-ți îneci nervii."
+  },
+  {
+   "key": "1802570368669380608",
+   "en": "Smart choice.",
+   "ro": "Alegere inteligentă."
+  },
+  {
+   "key": "1802590928224841728",
+   "en": "V, how you feel? You all right?",
+   "ro": "V, cum te simți? Ești bine?"
+  },
+  {
+   "key": "1802596456032301056",
+   "en": "Like shit...",
+   "ro": "Ca naiba..."
+  },
+  {
+   "key": "1802596467893792768",
+   "en": "Like, argh... Like shit, agh…",
+   "en_m": "Like, ugh... Like shit…",
+   "ro": "Ca, argh... Ca naiba, agh…",
+   "ro_m": "Ca, ugh... Ca naiba…"
+  },
+  {
+   "key": "1802596474571124736",
+   "en": "I... Agh, I can't breathe...",
+   "ro": "Eu... Agh, nu pot respira..."
+  },
+  {
+   "key": "1802596722790035456",
+   "en": "I... I can't...",
+   "ro": "Eu... Nu pot..."
+  },
+  {
+   "key": "1802597637584515072",
+   "en": "Need help?",
+   "ro": "Îți trebuie ajutor?"
+  },
+  {
+   "key": "1802597903721492480",
+   "en": "N-no... It's just, agh... withdrawal syndrome... Ugh, sort of…",
+   "en_m": "N-no, no... It's just... withdrawal syndrome... Sort of…",
+   "ro": "N-nu... E doar, agh... sindrom de sevraj... Ugh, cam așa…",
+   "ro_m": "N-nu, nu... E doar... sindrom de sevraj... Cam așa…"
+  },
+  {
+   "key": "1802598048206876672",
+   "en": "Think they cut off my hormone regulators, biomon and sat-analysis system... Body's got to adjust…",
+   "ro": "Cred că mi-au tăiat regulatorii hormonali, biomon-ul și sistemul de analiză sat... Corpul trebuie să se acomodeze…"
+  },
+  {
+   "key": "1802599085508587520",
+   "en": "<mothertongue l=\"mex\" m=\"primito\" b=\"It's like when my little \" a=\" was ditchin' drugs. Nasty chills, tremblin' hands, a cold sweat and dry heavin'…\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"primito\" b=\"E ca atunci când micul meu \" a=\" se lăsa de droguri. Frisoane nasoale, mâini tremurânde, transpirație rece și vărsături uscate…\"/>"
+  },
+  {
+   "key": "1802599598237085696",
+   "en": "Ye-yeah... Sounds about right...",
+   "ro": "Da-da... Sună cam așa..."
+  },
+  {
+   "key": "1802689463280660480",
+   "en": "Won't come cheap. And it'll have to be done on the sly — no trail, hard eddies only.",
+   "ro": "Nu o să fie ieftin. Și trebuie făcut pe ascuns — fără urme, doar eddies cash."
+  },
+  {
+   "key": "1802689792718073856",
+   "en": "Got the money.",
+   "ro": "Am banii."
+  },
+  {
+   "key": "1802695679675396096",
+   "en": "Ugh, my throat's like sandpaper... Not sure I can breathe…",
+   "en_m": "My throat's like sandpaper... N-not sure I can breathe…",
+   "ro": "Ugh, gâtul meu e ca șmirghelul... Nu sunt sigură că pot respira…",
+   "ro_m": "Gâtul meu e ca șmirghelul... N-nu sunt sigur că pot respira…"
+  },
+  {
+   "key": "1802712144365416448",
+   "en": "'Sides, ya haven't lost everything.",
+   "ro": "Și oricum, n-ai pierdut totul."
+  },
+  {
+   "key": "1802712362670551040",
+   "en": "About to say I--I still have a friend? That's sweet.",
+   "ro": "Voiai să zici că... mai am un prieten? Drăguț."
+  },
+  {
+   "key": "1802712381108711428",
+   "en": "Still have a friend?",
+   "ro": "Mai am un prieten?"
+  },
+  {
+   "key": "1802712391762243584",
+   "en": "No, Jack, I did... Lost everything... Access to intel systems, my pad, car, contacts... every shred of credibility.",
+   "ro": "Nu, Jack, ba da... Am pierdut totul... Gata cu accesul la sistemele Intel, apartamentul, mașina, contactele... orice urmă de credibilitate."
+  },
+  {
+   "key": "1802712671790755840",
+   "en": "No, Jack, I did... I lost everything.",
+   "ro": "Ba da, Jack... Am pierdut totul."
+  },
+  {
+   "key": "1802713237199712256",
+   "en": "Haha, no… dumbass. Y'still got that wad for the hit job, don'tcha?",
+   "ro": "Haha, nu... tâmpito. Încă ai banii pentru jobul ăla, nu?",
+   "ro_m": "Haha, nu... tâmpitule. Încă ai banii pentru jobul ăla, nu?"
+  },
+  {
+   "key": "1802719692602667008",
+   "en": "Umh. Least you still got the eddies for the hitjob.",
+   "ro": "Hm. Măcar ai eddies pentru jobul ăla."
+  },
+  {
+   "key": "1802724160308178944",
+   "en": "Probably some fat-ass chunk o' cha-ching. Just right for a new start.",
+   "ro": "Probabil o grămadă de bani. Perfect pentru un nou început."
+  },
+  {
+   "key": "1802763781398261760",
+   "en": "<mothertongue l=\"mex\" m=\"chica\" b=\"That's right, \" a=\". Buckle up.\"/>",
+   "en_m": "That's right, fool. Buckle up.",
+   "ro": "<mothertongue l=\"mex\" m=\"chica\" b=\"Așa e, \" a=\". Pune centura.\"/>",
+   "ro_m": "Așa e, nebunule. Pune centura."
+  },
+  {
+   "key": "1857718947785232384",
+   "en": "We have arrived at your destination.",
+   "ro": "Am ajuns la destinație."
+  },
+  {
+   "key": "1861666308579323904",
+   "en": "Eh, you know how it is, can't complain, but... we ain't here to shoot the shit about me.",
+   "ro": "Eh, știi cum e, nu mă plâng, dar nu suntem aici să flecărim despre mine, la naiba."
+  },
+  {
+   "key": "1861942814782189568",
+   "en": "Hey, hey, should I get you to a ripper?",
+   "ro": "Hei, hei, să te duc la un ripper?"
+  },
+  {
+   "key": "1861949747362721792",
+   "en": "TT policy's gone, Jack... so're my biochem controllers, company pad... I mean, they have seized my bank account. Not frozen – seized!",
+   "en_m": "TT policy's gone, Jack... so're my biochem controllers, company pad... I mean, they've seized my bank account. Not frozen – seized!",
+   "ro": "Polița TT s-a dus, Jack... la fel și controller-ele biochimice, locuința de firmă... Adică mi-au confiscat contul bancar. Nu l-au înghețat – l-au confiscat!"
+  },
+  {
+   "key": "1861950605567651840",
+   "en": "Just need to catch my breath.",
+   "ro": "Trebuie doar să-mi trag sufletul."
+  },
+  {
+   "key": "1861951502108520448",
+   "en": "Or, I guess, maybe Trauma Team's on its way…",
+   "ro": "Sau poate vine deja Trauma Team…"
+  },
+  {
+   "key": "1861959910547189760",
+   "en": "I've lost everything.",
+   "ro": "Am pierdut totul."
+  },
+  {
+   "key": "1861972099194613760",
+   "en": "Jesus, these fuckers move fast!",
+   "ro": "Doamne, pizdele astea se mișcă repede!"
+  },
+  {
+   "key": "1861972623717494784",
+   "en": "You sure you feel OK, though? I mean--",
+   "ro": "Chiar ești ok, totuși? Adică--"
+  },
+  {
+   "key": "1861973287558377472",
+   "en": "Gimme a minute, ugh, get my shit together…",
+   "en_m": "Gimme a minute, get my shit together…",
+   "ro": "Dă-mi un minut, ugh, să-mi revin…"
+  },
+  {
+   "key": "1877972820407898112",
+   "en": "Fuck's your problem, psychosuit?!",
+   "ro": "Ce pula mea ai, psihosuit?!"
+  },
+  {
+   "key": "1877976530756325376",
+   "en": "[Attack]",
+   "ro": "[Atacă]"
+  },
+  {
+   "key": "1877987316845268992",
+   "en": "Seems trouble wants in.",
+   "ro": "Pare că necazul vrea în casă."
+  },
+  {
+   "key": "1877988965424844800",
+   "en": "Couldn't use the front door like everyone else?",
+   "ro": "Nu puteai folosi ușa din față ca toată lumea?"
+  },
+  {
+   "key": "1877989920534974468",
+   "en": "Just here on business.",
+   "ro": "Sunt aici doar pentru afaceri."
+  },
+  {
+   "key": "1877990563521777664",
+   "en": "Keep an eye on the AV.",
+   "ro": "Ai grijă la AV."
+  },
+  {
+   "key": "1877990718107045888",
+   "en": "I'm in a hurry.",
+   "ro": "Mă grăbesc."
+  },
+  {
+   "key": "1877990718107045904",
+   "en": "Keep an eye on the AV.",
+   "ro": "Ai grijă la AV."
+  },
+  {
+   "key": "1877991747741569024",
+   "en": "Keep an eye on the AV for me, will ya?",
+   "ro": "Ai grijă de AV pentru mine, bine?"
+  },
+  {
+   "key": "1877993093039411200",
+   "en": "I don't want any trouble – just here on business.",
+   "ro": "Nu vreau necazuri – sunt aici doar pentru afaceri."
+  },
+  {
+   "key": "1877994627231928320",
+   "en": "Good to hear.",
+   "ro": "Bine de știut."
+  },
+  {
+   "key": "1877995355027558400",
+   "en": "Listen, I'm in a hurry, and you're wasting my time.",
+   "en_m": "Listen, I'm in a hurry, and you're wastin' my time.",
+   "ro": "Ascultă, mă grăbesc, și-mi pierzi timpul."
+  },
+  {
+   "key": "1877996582163468288",
+   "en": "Gonna keep an eye on you.",
+   "ro": "O să te țin sub observație."
+  },
+  {
+   "key": "1882070930158448640",
+   "en": "This look like a landin' pad to you? Coulda fuckin' crushed us!",
+   "ro": "Ți se pare că e pistă de aterizare? Puteai să ne strivești, pula mea!"
+  },
+  {
+   "key": "1882143275694878720",
+   "en": "Outta my way.",
+   "ro": "Dă-te din drum."
+  },
+  {
+   "key": "1882143565840052224",
+   "en": "Wha--? Who the fuck're you to say that to me?",
+   "ro": "Ce--? Cine pula mea ești tu să-mi spui asta?"
+  },
+  {
+   "key": "1882143753862311936",
+   "en": "Arasaka Counterintel. We done here?",
+   "ro": "Contrainformații Arasaka. Am terminat aici?"
+  },
+  {
+   "key": "1882153628629659648",
+   "en": "Teh, yeah, yeah...",
+   "en_m": "Heh, yeah, yeah...",
+   "ro": "Ha, da, da...",
+   "ro_m": "Heh, da, da..."
+  },
+  {
+   "key": "1882154225697222656",
+   "en": "Pff. I don't get paid to do that.",
+   "ro": "Pff. Nu mă plătește nimeni pentru asta."
+  },
+  {
+   "key": "1882154730641092608",
+   "en": "I wasn't asking. And not a scratch on it when I get back.",
+   "ro": "Nu te-am întrebat. Și fără nicio zgârietură când mă întorc."
+  },
+  {
+   "key": "1883849269254066176",
+   "en": "<kiroshi l=\"mex\" o=\"Gracias, mamita.\" t=\"Thanks, babe.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Gracias, mamita.\" t=\"Mulțumesc, scumpo.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1902258535312412672",
+   "en": "Jesus Christ...",
+   "ro": "Doamne, Dumnezeule..."
+  },
+  {
+   "key": "1902258888707690496",
+   "en": "OK, no no, hey, w-we ain't lookin' for no beef witchoo!",
+   "ro": "OK, nu, nu, hei, n-noi nu căutăm ceartă cu tine!"
+  },
+  {
+   "key": "1966298326746722304",
+   "en": "Lookin' for your choom? Already here, tappin' his fingers, waitin' for ya.",
+   "ro": "Cauți un choom de-al tău? E deja aici, își bate degetele, te așteaptă."
+  },
+  {
+   "key": "1966329956496502784",
+   "en": "Ey, you hearin' all right? Don't look so hot.",
+   "ro": "Hei, auzi bine? Nu arăți prea grozav."
+  },
+  {
+   "key": "1966330359166464000",
+   "en": "V...! V!",
+   "ro": "V...! V!"
+  },
+  {
+   "key": "1985029826350608384",
+   "en": "You expecting something?",
+   "ro": "Aștepți ceva?"
+  },
+  {
+   "key": "1985029922668605440",
+   "en": "Well...? Don't got all day.",
+   "ro": "Ei...? Nu am toată ziua."
+  },
+  {
+   "key": "1985029939546484736",
+   "en": "What the fuck you doin'?",
+   "ro": "Ce pula mea faci?"
+  },
+  {
+   "key": "1995034559412019200",
+   "en": "[Surrender shard] It's all here.",
+   "ro": "[Predă shard-ul] E totul aici."
+  },
+  {
+   "key": "2007000272632651784",
+   "en": "I'm waiting.",
+   "ro": "Aștept."
+  },
+  {
+   "key": "2007000272649429000",
+   "en": "The data. Immediately.",
+   "ro": "Datele. Imediat."
+  },
+  {
+   "key": "2029921564457279492",
+   "en": "[Throw ball]",
+   "ro": "[Aruncă mingea]"
+  },
+  {
+   "key": "2031755256116912128",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2231669070565130240",
+   "en": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Hey, \" a=\". Your new life... it starts now.\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Hey, \" a=\". Your new life... it starts now.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Hei, \" a=\". Noua ta viață... începe acum.\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Hei, \" a=\". Noua ta viață... începe acum.\"/>"
+  },
+  {
+   "key": "2251839473149198336",
+   "en": "V, you still with me...?",
+   "ro": "V, ești încă cu mine...?"
+  },
+  {
+   "key": "2251840759961665544",
+   "en": "You there? All OK?",
+   "ro": "Ești acolo? Totul OK?"
+  },
+  {
+   "key": "2251854480654123008",
+   "en": "<mothertongue l=\"mex\" m=\"Ándale\" b=\"\" a=\", let's drink.\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"Ándale\" b=\"\" a=\", hai să bem.\"/>"
+  },
+  {
+   "key": "2259039541241495552",
+   "en": "The data from Jenkins – I'm waiting.",
+   "ro": "Datele de la Jenkins – aștept."
+  },
+  {
+   "key": "2259211327853740032",
+   "en": "Fuuuck…",
+   "ro": "Futu-i…"
+  },
+  {
+   "key": "2259211342198259712",
+   "en": "Corpos... fucking do whatever, think the world's theirs.",
+   "ro": "Corpoii... fac orice, fir-ar ei de căcat, cred că lumea e a lor."
+  },
+  {
+   "key": "2259211342366031872",
+   "en": "Used to be our 'hood, this.",
+   "ro": "Pe-aici era cartierul nostru."
+  },
+  {
+   "key": "2260632304412180480",
+   "en": "Gah, fuck…",
+   "ro": "Gah, pula mea…"
+  },
+  {
+   "key": "2260632310988849152",
+   "en": "How you feelin'? Pretty sharp dive, huh?",
+   "ro": "Cum te simți? Coborâre cam bruscă, nu?"
+  }
+ ]
+}

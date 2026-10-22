@@ -1,0 +1,35 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\media\\quests\\q104_02_av_down_news.json",
+ "entries": [
+  {
+   "key": "1745883341299179520",
+   "en": "We've just received word on a breaking story – a Kang Tao AV has crashed outside of Night City.",
+   "ro": "Tocmai am primit informații despre o știre de ultimă oră – un AV Kang Tao s-a prăbușit în afara orașului Night City."
+  },
+  {
+   "key": "1745883713468162048",
+   "en": "The aircraft's thrusters were deactivated by a sudden EMP discharge from a nearby damaged power station in Santo Domingo. The emergency landing attempt proved unsuccessful.",
+   "ro": "Propulsoarele aeronavei au fost scoase din uz de o descărcare EMP venită de la o centrală electrică avariată din Santo Domingo. Aterizarea de urgență nu a reușit."
+  },
+  {
+   "key": "1745883970629328896",
+   "en": "The passengers who survived the crash landing were met by a band of nomads.",
+   "ro": "Pasagerii care au scăpat cu viață din aterizarea forțată au fost întâmpinați de o bandă de nomazi."
+  },
+  {
+   "key": "1745884119359348736",
+   "en": "Fortunately, Kang Tao's surviving security personnel managed to fend off the attack without suffering addtional losses.",
+   "ro": "Din fericire, personalul de securitate al Kang Tao rămas în viață a reușit să respingă atacul fără alte pierderi."
+  },
+  {
+   "key": "1745884264566153216",
+   "en": "The company has already announced a forceful response against the nomads' camps.",
+   "ro": "Compania a anunțat deja că răspunde cu forța împotriva taberelor nomazilor."
+  },
+  {
+   "key": "1745884564140122112",
+   "en": "After the break – President Myers has released a statement on the flow of refugees from the Netherlands.",
+   "ro": "După pauză – președinta Myers a dat o declarație despre valul de refugiați din Olanda."
+  }
+ ]
+}

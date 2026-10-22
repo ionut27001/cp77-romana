@@ -1,0 +1,464 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_ep1_01_final.json",
+ "entries": [
+  {
+   "key": "3265310406359425024",
+   "en": "Where's Gaspar? Tell me!",
+   "ro": "Unde-i Gaspar? Zi-mi!"
+  },
+  {
+   "key": "3265310427012177920",
+   "en": "What did you do, you quack piece of shit?!!",
+   "ro": "Ce-ai făcut, șarlatan de căcat?!"
+  },
+  {
+   "key": "3265310448755449856",
+   "en": "Oh, you think this is a joke?!",
+   "ro": "Ce, crezi că e o glumă?!"
+  },
+  {
+   "key": "3265314721778147328",
+   "en": "We'll talk calmly or not at all.",
+   "ro": "Vorbim calm sau deloc."
+  },
+  {
+   "key": "3265315544432156672",
+   "en": "Quit wavin' that around!",
+   "ro": "Lasă aia naibii jos!"
+  },
+  {
+   "key": "3265316226207883264",
+   "en": "What is it you want?!",
+   "ro": "Ce vrei?!"
+  },
+  {
+   "key": "3265320422709698560",
+   "en": "Stay back!",
+   "ro": "Nu te apropia!"
+  },
+  {
+   "key": "3266410353490173952",
+   "en": "And I'm here for my brother.",
+   "ro": "Și eu am venit după fratele meu."
+  },
+  {
+   "key": "3266412225357717504",
+   "en": "You – off your ass! Where's Gaspar!?",
+   "ro": "Tu – mișcă-ți fundul! Unde e Gaspar!?"
+  },
+  {
+   "key": "3266475819243970560",
+   "en": "You won't lay a goddamn finger on him. Give me my brother, now!",
+   "ro": "Nu-i pui nici un deget al dracului pe el. Dă-mi fratele, acum!"
+  },
+  {
+   "key": "3266476490869481472",
+   "en": "No.",
+   "ro": "Nu."
+  },
+  {
+   "key": "3266477664167305216",
+   "en": "What did you say?",
+   "ro": "Ce-ai zis?"
+  },
+  {
+   "key": "3266481246237138944",
+   "en": "Give Nika her brother.",
+   "ro": "Dă-i lui Nika fratele ei."
+  },
+  {
+   "key": "3266483152984514560",
+   "en": "Y'need those implants, I get it. Gonna have to find another way.",
+   "ro": "Îți trebuie implanturile alea, mai știu. Trebuie să găsești altă cale."
+  },
+  {
+   "key": "3266483181086351360",
+   "en": "Your brother's gone. Accept it, let Anderson go.",
+   "ro": "Fratele tău e mort. Acceptă asta și lasă-l pe Anderson să plece."
+  },
+  {
+   "key": "3266484122086842368",
+   "en": "I won't let him gut Gaspar!",
+   "ro": "Nu-l las să-l taie pe Gaspar!"
+  },
+  {
+   "key": "3266486225916174336",
+   "en": "My, how wasteful.",
+   "ro": "Ce risipă."
+  },
+  {
+   "key": "3266487075782828032",
+   "en": "Morgue in the storage room. Here's the card.",
+   "ro": "Morga e în depozit. Uite cardul."
+  },
+  {
+   "key": "3275331444086448128",
+   "en": "Everyone chill.",
+   "ro": "Calm, toată lumea!"
+  },
+  {
+   "key": "3275331833686958080",
+   "en": "Can shoot from here just fine.",
+   "ro": "Pot trage de aici fără probleme."
+  },
+  {
+   "key": "3275351819897839620",
+   "en": "Just tell her, doc.",
+   "ro": "Zi-i doar ei, doc."
+  },
+  {
+   "key": "3275354712625422340",
+   "en": "Don't seem too scared of you.",
+   "ro": "Nu pare prea speriat de tine."
+  },
+  {
+   "key": "3275372364722905088",
+   "en": "Thought about switchin' up your game?",
+   "ro": "Te-ai gândit să-ți schimbi tactica, ce zici?"
+  },
+  {
+   "key": "3275373044619583488",
+   "en": "That iron's not makin' much of an impact.",
+   "ro": "Cu fierul ăla nu prea impresionezi."
+  },
+  {
+   "key": "3275389665874583552",
+   "en": "Tell her what you know, nobody gets hurt.",
+   "ro": "Zi-i ce știi și nu pățește nimeni nimic."
+  },
+  {
+   "key": "3275390487891058688",
+   "en": "I'm sorry, do you work for me or the scavs?",
+   "ro": "Scuze, tu lucrezi pentru mine sau pentru hienele alea?"
+  },
+  {
+   "key": "3275394544554778624",
+   "en": "To hell your other patients!",
+   "ro": "La dracu' cu ceilalți pacienți!"
+  },
+  {
+   "key": "3275395238678536192",
+   "en": "You-- you fucking murderer!",
+   "ro": "Tu-- tu nenorocitule de ucigaș!"
+  },
+  {
+   "key": "3275397053872644100",
+   "en": "Least he didn't suffer.",
+   "ro": "Cel puțin n-a suferit."
+  },
+  {
+   "key": "3275398267200905216",
+   "en": "You killed him for parts?",
+   "ro": "L-ai ucis pentru piese?"
+  },
+  {
+   "key": "3275401474098634752",
+   "en": "For Night City, not the worst way to go.",
+   "ro": "Pentru Night City, nu-i cel mai rău fel să mori."
+  },
+  {
+   "key": "3275401713610170368",
+   "en": "Am I hearin' this right? You flatlined a patient just to save a few eddies?",
+   "ro": "Să înțeleg bine? Ai terminat un pacient doar ca să economisești câțiva eddies?"
+  },
+  {
+   "key": "3275579783726014464",
+   "en": "Chill. Gun down, let's talk.",
+   "ro": "Calmează-te. Arma jos, hai să vorbim."
+  },
+  {
+   "key": "3275580824467054592",
+   "en": "No, you step back. Or I blast you.",
+   "ro": "Nu, tu dai înapoi. Altfel te împușc."
+  },
+  {
+   "key": "3312915487918563328",
+   "en": "Go help yourself.",
+   "ro": "Servește-te singur."
+  },
+  {
+   "key": "3312918400745250816",
+   "en": "I can't fucking believe this.",
+   "ro": "Nu-mi vine să cred, pula mea."
+  },
+  {
+   "key": "3312936517319958528",
+   "en": "Nah, not zeroin' anyone just 'cause you don't wanna use your words.",
+   "ro": "Nu lichidez pe nimeni doar fiindcă nu vrei să vorbești ca lumea."
+  },
+  {
+   "key": "3312947931178770432",
+   "en": "Gaspar's dead.",
+   "ro": "Gaspar e mort."
+  },
+  {
+   "key": "3312952290587353088",
+   "en": "What?! You're lying! He was just a little sick!",
+   "ro": "Ce?! Minciuni! Era doar puțin bolnav!"
+  },
+  {
+   "key": "3312960669917552640",
+   "en": "Your brother was so high out of his mind it scorched his metabolic editor. The kid was in a coma before he even hit the table.",
+   "ro": "Fratele tău era atât de drogat, că i-a ars editorul metabolic. Puștiul era în comă înainte să ajungă pe masă."
+  },
+  {
+   "key": "3312990157183295488",
+   "en": "Huh? How'd he die?!",
+   "ro": "Ce? Cum a murit?!"
+  },
+  {
+   "key": "3312990802653126656",
+   "en": "Morphine injection. His remaining implants were at risk, and I've got patients who need them.",
+   "ro": "Injecție cu morfină. Implanturile lui rămase erau în pericol, iar eu am pacienți cărora le trebuie."
+  },
+  {
+   "key": "3313001326195417088",
+   "en": "Wasn't your choice to make, doc.",
+   "ro": "Nu era alegerea ta de făcut, doc."
+  },
+  {
+   "key": "3313004399093522432",
+   "en": "Where's...",
+   "ro": "Unde e..."
+  },
+  {
+   "key": "3313008366754111488",
+   "en": "F-fuck! Ugh, help!",
+   "ro": "F-futu-i! Ugh, ajutor!"
+  },
+  {
+   "key": "3313017787865538560",
+   "en": "You call yourself a doctor? What happened to \"first do no harm\"?",
+   "ro": "Te numești doctor? Ce s-a întâmplat cu „mai întâi nu face rău”?"
+  },
+  {
+   "key": "3313042693105819648",
+   "en": "Know what? He's all yours.",
+   "ro": "Știi ce? E al tău."
+  },
+  {
+   "key": "3313180209234485248",
+   "en": "Me? I profit from none of this.",
+   "ro": "Eu? Nu profit de nimic din asta."
+  },
+  {
+   "key": "3313185078653657088",
+   "en": "There was nothing I could do. Why delay the inevitable?",
+   "ro": "Nu puteam face nimic. De ce să întârzii inevitabilul?"
+  },
+  {
+   "key": "3313185506623660032",
+   "en": "We'll extract his implants, they'll go to people who still need them.",
+   "ro": "O să-i extragem implanturile, o să ajungă la oameni cărora încă le trebuie."
+  },
+  {
+   "key": "3313189586809036800",
+   "en": "Story old as time. Skezzheads rarely live to a ripe old age.",
+   "ro": "Poveste veche. Skezzhead-ii rar ajung bătrâni."
+  },
+  {
+   "key": "3313194660088160300",
+   "en": "[Separate] Stop!",
+   "ro": "[Separat] Stai!"
+  },
+  {
+   "key": "3313221819213193216",
+   "en": "Tell Nika where her brother's at, or I \"donate\" your chrome myself.",
+   "ro": "Spune-i lui Nika unde e fratele ei, altfel îți „donez” eu chrome-ul."
+  },
+  {
+   "key": "3313224780257599488",
+   "en": "Son of a fucking bitch.",
+   "ro": "Pizda mă-sii."
+  },
+  {
+   "key": "3313227254796296192",
+   "en": "My patients have no one but me! No one! Ugh, you don't know shit about the decisions I face!",
+   "ro": "Pacienții mei n-au pe nimeni în afară de mine! Pe nimeni! Ugh, nu știi un căcat despre deciziile pe care le iau!"
+  },
+  {
+   "key": "3313227954540421120",
+   "en": "What, who lives and who dies?",
+   "ro": "Ce, cine trăiește și cine moare?"
+  },
+  {
+   "key": "3313228099646562304",
+   "en": "That junkie was dead already.",
+   "ro": "Tipul ăla drogat era deja mort."
+  },
+  {
+   "key": "3313229236302946304",
+   "en": "You're fucking dead!",
+   "ro": "Ești mort, pula mea!"
+  },
+  {
+   "key": "3313237489485258760",
+   "en": "Sick fuck.",
+   "ro": "Pervers nenorocit."
+  },
+  {
+   "key": "3313241566080311296",
+   "en": "Gear up, leave. Join you later.",
+   "ro": "Echipează-te și pleacă. Ajung eu mai târziu."
+  },
+  {
+   "key": "3313347907625066496",
+   "en": "He died in the street, woulda just landed in a dump.",
+   "ro": "A murit pe stradă, oricum ar fi ajuns la gunoi."
+  },
+  {
+   "key": "3313362991399215108",
+   "en": "I'm sorry.",
+   "ro": "Îmi pare rău."
+  },
+  {
+   "key": "3313364455798513664",
+   "en": "Know how you feel. Lost someone like a brother to me too, once.",
+   "ro": "Știu cum te simți. Și eu am pierdut pe cineva care era ca un frate pentru mine, odată."
+  },
+  {
+   "key": "3313367614159757312",
+   "en": "Then you'll know I don't wanna talk about it.",
+   "ro": "Atunci știi că nu vreau să vorbesc despre asta."
+  },
+  {
+   "key": "3314358304788357120",
+   "en": "Here for Anderson. Need him outta here alive.",
+   "ro": "Sunt aici pentru Anderson. Trebuie scos de aici viu."
+  },
+  {
+   "key": "3314370680099086336",
+   "en": "One shot too many, scav.",
+   "ro": "O doză prea multă, hienă."
+  },
+  {
+   "key": "3314371242890797060",
+   "en": "[Draw gun] Gone too far now.",
+   "ro": "[Scoate arma] Ai dus-o prea departe."
+  },
+  {
+   "key": "3314381562120151040",
+   "en": "Talk, for fuck's sake!",
+   "ro": "Vorbește, pula mea!"
+  },
+  {
+   "key": "3314382776153055232",
+   "en": "Aaugh! The fuck?!",
+   "ro": "Aaugh! Ce pula mea?!"
+  },
+  {
+   "key": "3314387057077821440",
+   "en": "Brother did it to himself.",
+   "ro": "Fratele lui și-a făcut-o singur."
+  },
+  {
+   "key": "3314399992395243520",
+   "en": "Patients gotta come back in.",
+   "ro": "Pacienții trebuie să intre înapoi."
+  },
+  {
+   "key": "3314400501667635200",
+   "en": "Patients gotta come back in. Gonna give 'em any trouble?",
+   "ro": "Pacienții trebuie să intre înapoi. Ai de gând să le faci probleme?"
+  },
+  {
+   "key": "3314402683443912704",
+   "en": "No, no, I won't. Owe you that much.",
+   "ro": "Nu, nu, n-o fac. Atâta îți rămân dator."
+  },
+  {
+   "key": "3324446617608036352",
+   "en": "Couldn't give a fuck about this quack.",
+   "ro": "Mă doare-n pulă de doctorul ăsta fals."
+  },
+  {
+   "key": "3324456450616893440",
+   "en": "Mmph… You, merc! Help me!",
+   "ro": "Mmph… Tu, merc! Ajută-mă!"
+  },
+  {
+   "key": "3324490710866370560",
+   "en": "[Separate] Stop!",
+   "ro": "[Separat] Stai!"
+  },
+  {
+   "key": "3324491388716228608",
+   "en": "[Ignore Nika] Anderson's all yours.",
+   "ro": "[Ignoră-o pe Nika] Anderson e al tău."
+  },
+  {
+   "key": "3324494510150819840",
+   "en": "What?! Are you insane?! No!",
+   "ro": "Ce?! Ești nebun?! Nu!"
+  },
+  {
+   "key": "3324495688012046336",
+   "en": "Give Nika her brother.",
+   "ro": "Dă-i lui Nika fratele ei."
+  },
+  {
+   "key": "3324500725153046528",
+   "en": "Leave me here, go.",
+   "ro": "Lasă-mă aici, pleacă."
+  },
+  {
+   "key": "3324504090796793856",
+   "en": "His...",
+   "ro": "Al lui..."
+  },
+  {
+   "key": "3324504824112128000",
+   "en": "Body?!",
+   "ro": "Corp?!"
+  },
+  {
+   "key": "3324505204770381824",
+   "en": "Fuck off, scav!",
+   "ro": "Du-te-n pula mea, hienă!"
+  },
+  {
+   "key": "3366528577655115784",
+   "en": "Talk! Or you'll regret it!",
+   "ro": "Vorbește! Sau o să-ți pară rău!"
+  },
+  {
+   "key": "3366528578946961416",
+   "en": "I wanna see my brother!",
+   "ro": "Vreau să-mi văd fratele!"
+  },
+  {
+   "key": "3469582084599414784",
+   "en": "Augh...",
+   "ro": "Augh..."
+  },
+  {
+   "key": "3521909693978738688",
+   "en": "Your brother's gone… augh! Ugh…",
+   "en_m": "Your brother's gone… augh! Tssh…",
+   "ro": "Fratele tău a murit… augh! Ugh…",
+   "ro_m": "Fratele tău a murit… augh! Tssh…"
+  },
+  {
+   "key": "3521910094048231424",
+   "en": "Mmph, accept it, let Anderson go.",
+   "en_m": "Accept it, let Anderson go.",
+   "ro": "Mmph, acceptă, lasă-l pe Anderson să plece.",
+   "ro_m": "Acceptă, lasă-l pe Anderson să plece."
+  },
+  {
+   "key": "3791467658150453248",
+   "en": "Ugh... auhh...",
+   "ro": "Ugh... auhh..."
+  },
+  {
+   "key": "3791517607814799360",
+   "en": "Pwoo... augh!",
+   "ro": "Pwoo... augh!"
+  },
+  {
+   "key": "3937745430073352200",
+   "en": "[Attack] Gone too far now.",
+   "ro": "[Atacă] Ai mers prea departe acum."
+  }
+ ]
+}

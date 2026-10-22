@@ -1,0 +1,627 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q114\\q114_09a_construction.json",
+ "entries": [
+  {
+   "key": "1811099400440434692",
+   "en": "Hey, no firing at civilians!",
+   "ro": "Hei, nu trageți în civili!"
+  },
+  {
+   "key": "1811099400524320776",
+   "en": "Careful! They're just workers, for chrissake!",
+   "ro": "Atenție! Sunt doar muncitori, pe bune!"
+  },
+  {
+   "key": "1811099400692092932",
+   "en": "You won't blow it open that way!",
+   "ro": "Așa nu o s-o deschizi!"
+  },
+  {
+   "key": "1811099400708870144",
+   "en": "Let's help the others first. That gate's not going anywhere.",
+   "ro": "Să-i ajutăm mai întâi pe ceilalți. Poarta aia nu pleacă nicăieri."
+  },
+  {
+   "key": "1811099400759201796",
+   "en": "Right as rain. OK, it's our turn now.",
+   "ro": "Perfect. OK, acum e rândul nostru."
+  },
+  {
+   "key": "1811099400775979012",
+   "en": "V – watch them, all right?",
+   "ro": "V, ține-i sub ochi, bine?"
+  },
+  {
+   "key": "1811099400775979024",
+   "en": "Copy that.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1811099400843087876",
+   "en": "I got a terminal. We're jacking in.",
+   "ro": "Am un terminal. Ne conectăm."
+  },
+  {
+   "key": "1811099400843087888",
+   "en": "What about security protocols?",
+   "ro": "Dar protocoalele de securitate?"
+  },
+  {
+   "key": "1811099400859865096",
+   "en": "V, it's not a space station, it's a dumb, big-ass drill.",
+   "ro": "V, nu e stație spațială, e un burghiu tâmpit, cât casa."
+  },
+  {
+   "key": "1811099400859865108",
+   "en": "Don't worry. Carol will slice through it like butter.",
+   "ro": "Nu-ți face griji. Carol o taie ca pe unt."
+  },
+  {
+   "key": "1811099401027637252",
+   "en": "Watch out! Coming from the right!",
+   "ro": "Atenție! Vin din dreapta!"
+  },
+  {
+   "key": "1811099401044414464",
+   "en": "How are we doing, Mitch?",
+   "ro": "Cum mergem, Mitch?"
+  },
+  {
+   "key": "1811099401044414476",
+   "en": "Eleven percent!",
+   "ro": "Unsprezece la sută!"
+  },
+  {
+   "key": "1811099401044414488",
+   "en": "Shit. Can't you speed it up?",
+   "ro": "Căcat. Nu poți să grăbești?"
+  },
+  {
+   "key": "1811099401044414500",
+   "en": "Our hands are tied.",
+   "ro": "Ne-au legat mâinile."
+  },
+  {
+   "key": "1811099401128300548",
+   "en": "Dammit, left side too!",
+   "ro": "Fir-ar, și din stânga!"
+  },
+  {
+   "key": "1811099401145077768",
+   "en": "Whoever's closest, deal with them!",
+   "ro": "Cine e mai aproape, să se ocupe de ei!"
+  },
+  {
+   "key": "1811099401145077780",
+   "en": "Carol? Mitch? How much longer?",
+   "ro": "Carol? Mitch? Cât mai durează?"
+  },
+  {
+   "key": "1811099401145077792",
+   "en": "Twenty-seven percent.",
+   "ro": "Douăzeci și șapte la sută."
+  },
+  {
+   "key": "1811099401463844864",
+   "en": "Guess that's all of 'em.",
+   "ro": "Cred că ăștia au fost toți."
+  },
+  {
+   "key": "1811099401782611972",
+   "en": "There's likely a control room upstairs. We can link remotely to the SERC from there.",
+   "ro": "Probabil e o sală de control la etaj. De acolo ne putem conecta de la distanță la SERC."
+  },
+  {
+   "key": "1811099401816166404",
+   "en": "Damn, it’s lookin' like the drill vector's on auto.",
+   "ro": "Pula mea, se pare că vectorul burghiului e pe automat."
+  },
+  {
+   "key": "1811099401832943616",
+   "en": "How can we possibly turn it?",
+   "ro": "Cum naiba să-l întoarcem?"
+  },
+  {
+   "key": "1811099401832943628",
+   "en": "We gonna sweet-talk this bitch into it. Mitch, kill that autopilot and hit manual override.",
+   "ro": "O convingem cu vorba, futu-i. Mitch, oprește pilotul automat și forțează manual."
+  },
+  {
+   "key": "1815632709683007488",
+   "en": "Got it. It's working!",
+   "ro": "Am înțeles. Merge!"
+  },
+  {
+   "key": "1815632758789918720",
+   "en": "Prepare for takeoff.",
+   "ro": "Pregătiți-vă de decolare."
+  },
+  {
+   "key": "1816887740868612096",
+   "en": "We've got company!",
+   "ro": "Avem companie!"
+  },
+  {
+   "key": "1816892319941283840",
+   "en": "A lot of it, too.",
+   "ro": "Și multă."
+  },
+  {
+   "key": "1823967277447172124",
+   "en": "Fuck. How much longer up there?!",
+   "ro": "Futu-i! Cât mai durează acolo sus?!"
+  },
+  {
+   "key": "1823967277463949316",
+   "en": "Almost there! Nearly at sixty percent!",
+   "ro": "Aproape! Aproape de șaizeci la sută!"
+  },
+  {
+   "key": "1841709827561934848",
+   "en": "What do you mean? We keep going! Finish this!",
+   "ro": "Cum adică? Continuăm! Terminăm treaba!"
+  },
+  {
+   "key": "1841709875729321984",
+   "en": "What now?",
+   "ro": "Ce acum?"
+  },
+  {
+   "key": "1898056079095123968",
+   "en": "We're in!",
+   "ro": "Am intrat!"
+  },
+  {
+   "key": "1898056535401844736",
+   "en": "Move, move!",
+   "ro": "Mișcă, mișcă!"
+  },
+  {
+   "key": "1922800318366371840",
+   "en": "AV! Goddamn AV inbound!",
+   "ro": "AV! AV al dracului în zonă!"
+  },
+  {
+   "key": "1922801298944315392",
+   "en": "It's like they've sent a small army against us.",
+   "ro": "Parcă ne-au trimis o mică armată."
+  },
+  {
+   "key": "1922802229056393216",
+   "en": "They're going to land!",
+   "ro": "O să aterizeze!"
+  },
+  {
+   "key": "1922803559758057472",
+   "en": "Everybody ready!",
+   "ro": "Toată lumea gata!"
+  },
+  {
+   "key": "1922803938386268160",
+   "en": "Just as I thought – a whole squad comin' at us!",
+   "ro": "Exact cum bănuiam – un pluton întreg vine spre noi!"
+  },
+  {
+   "key": "1922829507014447104",
+   "en": "Teddy, get the hell out of there!",
+   "ro": "Teddy, cară-te naibii de-acolo!"
+  },
+  {
+   "key": "1922829641265729536",
+   "en": "Teddy!",
+   "ro": "Teddy!"
+  },
+  {
+   "key": "1922830031117897728",
+   "en": "Oh my lord!",
+   "ro": "Doamne!"
+  },
+  {
+   "key": "1937248243510013952",
+   "en": "Things are about to get real ugly.",
+   "ro": "O să se împuțească rău."
+  },
+  {
+   "key": "2008329638509301760",
+   "en": "I have eyes on the fuckers. Mitch?",
+   "ro": "Îi am în vizor pe javrele alea. Mitch?"
+  },
+  {
+   "key": "2008343256525197320",
+   "en": "Listen, we just hit Night Corp ICE. Carol's cutting through. It's slow work, but it'll get done. Where are you all at?",
+   "ro": "Ascultă, tocmai am dat de ICE-ul de la Night Corp. Carol taie prin el. E muncă lentă, dar o să iasă. Voi pe unde sunteți?"
+  },
+  {
+   "key": "2008343762240819208",
+   "en": "I got him! Direct hit!",
+   "ro": "L-am nimerit! Lovitură directă!"
+  },
+  {
+   "key": "2008344753556181000",
+   "en": "He's out of our hair! Shit, V, we might actually pull this off!",
+   "ro": "Ne-am scăpat de el! Căcat, V, chiar am putea reuși!"
+  },
+  {
+   "key": "2008344824691576840",
+   "en": "How do you like that, Milishits?!",
+   "ro": "Cum vă place, milishitilor?!"
+  },
+  {
+   "key": "2008345546615181320",
+   "en": "Holy shit. We did it! They're smoldering wrecks! We did that!",
+   "ro": "Băi, pula mea! Am reușit! Sunt epave fumegânde! Noi am făcut asta!"
+  },
+  {
+   "key": "2008364834306674696",
+   "en": "We're moving on. We'll try to buy you as much time as we can.",
+   "ro": "Plecăm. Încercăm să vă câștigăm cât mai mult timp."
+  },
+  {
+   "key": "2008371859782651904",
+   "en": "Much obliged. We'll keep watch over Mitch and Carol and see to that gate.",
+   "ro": "Mersi. Ne ținem de Mitch și Carol și ne ocupăm de poartă."
+  },
+  {
+   "key": "2008375765535313920",
+   "en": "So, Panam? Gonna show 'em what this lump of scrap can do?",
+   "ro": "Deci, Panam? Le arăți ce poate face mormanul ăsta de fiare?"
+  },
+  {
+   "key": "2008388027583057928",
+   "en": "We're hit!",
+   "ro": "Suntem loviți!"
+  },
+  {
+   "key": "2008388027750830088",
+   "en": "Fuck! We can't hold out much longer!",
+   "ro": "Futu-i! Nu mai rezistăm mult!"
+  },
+  {
+   "key": "2008388027801161736",
+   "en": "They're tearing us to shreds!",
+   "ro": "Ne fac praf!"
+  },
+  {
+   "key": "2008390067977736196",
+   "en": "V, we've taken hard hits, too hard! Everything here's hanging by a thread and sheer will!",
+   "ro": "V, am luat lovituri grele, prea grele! Totul aici atârnă de un fir și de voință!"
+  },
+  {
+   "key": "2008398665176862720",
+   "en": "The gate is planted firm in the land and secured tight. We're trying to figure out where to place the charges, but we need more time!",
+   "ro": "Poarta e înfiptă bine în pământ și asigurată. Încercăm să stabilim unde punem încărcăturile, dar avem nevoie de mai mult timp!"
+  },
+  {
+   "key": "2008399245232328704",
+   "en": "There's no thumb-twiddling going on here! We'll buy you as much time as we can! Hang in there!",
+   "ro": "Nu stăm degeaba! Vă câștigăm timp cât putem! Țineți-vă bine!"
+  },
+  {
+   "key": "2008400946928570368",
+   "en": "Saul, Mitch, headin' back your way.",
+   "ro": "Saul, Mitch, ne întoarcem la voi."
+  },
+  {
+   "key": "2008406000930672640",
+   "en": "We're on our way.",
+   "ro": "Venim."
+  },
+  {
+   "key": "2008412392362102784",
+   "en": "I'm wondering if I really believed… believed we'd make it through.",
+   "ro": "Mă întreb dacă chiar am crezut… că o să scăpăm."
+  },
+  {
+   "key": "2008412573203714052",
+   "en": "After that display, you can be sure there's a place for you in the panzerboy ranks!",
+   "ro": "După ce-ai arătat asta, poți fi sigură că ai loc printre panzerboys!",
+   "ro_m": "După ce-ai arătat asta, poți fi sigur că ai loc printre panzerboys!"
+  },
+  {
+   "key": "2008418916820078592",
+   "en": "Impressive, V. Thanks.",
+   "ro": "Impresionant, V. Mulțumesc."
+  },
+  {
+   "key": "2008419239479496704",
+   "en": "Now, if you don't mind – there's a monster gate that needs to be blown open.",
+   "ro": "Acum, dacă nu te superi – mai e o poartă monstru de aruncat în aer."
+  },
+  {
+   "key": "2008453766855806976",
+   "en": "V, get back to the panzer! We don't have time!",
+   "ro": "V, înapoi la panzer! Nu avem timp!"
+  },
+  {
+   "key": "2018439929582604288",
+   "en": "V, she's dying, like I said she would. Propulsion, weapons systems, launchers – all falling like dominoes!",
+   "ro": "V, o să moară, cum am spus. Propulsie, sisteme de armament, lansatoare – toate cad ca niște domino!"
+  },
+  {
+   "key": "2018446929154560004",
+   "en": "[Get out] We'll provide cover, just hurry!",
+   "ro": "[Ieși] Noi acoperim, grăbește-te!"
+  },
+  {
+   "key": "2018448053748125696",
+   "en": "I can't believe it, but I think it worked! The lump of scrap's still got some life in her! Systems are lighting up. We're back!",
+   "ro": "Nu-mi vine să cred, dar cred că a mers! Grămada aia de fiare încă mai are viață în ea! Sistemele se aprind. Ne-am întors!"
+  },
+  {
+   "key": "2018450108118224896",
+   "en": "We'll provide cover. Just hurry, all right?!",
+   "ro": "Te acoperim. Grăbește-te, bine?!"
+  },
+  {
+   "key": "2018450826401173504",
+   "en": "You get out. Help our folks!",
+   "ro": "Tu ieși. Ajută-i pe ai noștri!"
+  },
+  {
+   "key": "2018453432708124672",
+   "en": "Panam, how much longer?!",
+   "ro": "Panam, cât mai durează?!"
+  },
+  {
+   "key": "2018453909214613504",
+   "en": "Uh, listen, this party is spinning out of control! Militech is sending tanks our way!",
+   "ro": "Ăă, ascultă, petrecerea asta a scăpat de sub control! Militech ne trimite tancuri!"
+  },
+  {
+   "key": "2018454536699269120",
+   "en": "Coming down the road. I've got the drone watching them! It's a damned combat unit!",
+   "ro": "Vin pe drum. Drona îi ține în ochi! E o unitate de luptă afurisită!"
+  },
+  {
+   "key": "2018454668786290688",
+   "en": "I'm doing my best! Mitch, do you read? The navigation module is jamming the other systems. Can I cut it?",
+   "ro": "Fac tot ce pot! Mitch, mă auzi? Modulul de navigație blochează celelalte sisteme. Pot să-l tai?"
+  },
+  {
+   "key": "2018459542332657664",
+   "en": "Inside, V, quick!",
+   "ro": "Înăuntru, V, repede!"
+  },
+  {
+   "key": "2018469580057104384",
+   "en": "I'm doing what I can, Saul! It's not like Mitch is here, Bobby's dead...! I'm by my fucking self here!",
+   "ro": "Fac ce pot, Saul! Nu e ca și cum Mitch ar fi aici, Bobby e mort...! Sunt singură aici, pula mea!",
+   "ro_m": "Fac ce pot, Saul! Nu e ca și cum Mitch ar fi aici, Bobby e mort...! Sunt singur aici, pula mea!"
+  },
+  {
+   "key": "2024164160675901440",
+   "en": "I'll try. Either I do this, or this rattle trap will really be scrap!",
+   "ro": "Încerc. Fie fac asta, fie rablele astea devin fiare vechi de-a binelea!"
+  },
+  {
+   "key": "2024169726752190464",
+   "en": "There anything you can do about it?",
+   "ro": "Poți face ceva cu asta?"
+  },
+  {
+   "key": "2024173031242985472",
+   "en": "Their position?",
+   "ro": "Unde sunt?"
+  },
+  {
+   "key": "2024174400263811072",
+   "en": "We won't stand a chance without the panzer. Panam?",
+   "ro": "Nu avem nicio șansă fără panzer. Panam?"
+  },
+  {
+   "key": "2024213052771659776",
+   "en": "Yes! Cut it! She'll be fine without it!",
+   "ro": "Da! Taie-l! Se descurcă și fără el!"
+  },
+  {
+   "key": "2024217588710109184",
+   "en": "I know, Panam. I know. We'll keep you covered.",
+   "ro": "Știu, Panam. Știu. Te acoperim."
+  },
+  {
+   "key": "2024218292531097600",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "2024229459680948224",
+   "en": "If those Militch tanks reach us, they'll roll us flat like so many roaches.",
+   "ro": "Dacă tancurile alea Militech ne ajung, ne aplatizează ca pe niște gândaci."
+  },
+  {
+   "key": "2024230404036882432",
+   "en": "Stop thinkin' about the tanks, consider 'em gone. You blast open that gate.",
+   "ro": "Nu mai sta pe tancuri, sunt istorie. Tu aruncă în aer poarta aia."
+  },
+  {
+   "key": "2024238167056052224",
+   "en": "Are you two all right?",
+   "ro": "Sunteți bine amândoi?"
+  },
+  {
+   "key": "2024258535250587648",
+   "en": "Those aren't standard issue armor... What the hell are they?",
+   "ro": "Astea nu sunt armuri standard... Ce naiba sunt?"
+  },
+  {
+   "key": "2024261650712489984",
+   "en": "The latest models, just off Militech's assembly line.",
+   "ro": "Cele mai noi modele, tocmai ieșite de pe linia de asamblare Militech."
+  },
+  {
+   "key": "2024266820846481408",
+   "en": "Be careful, all right? We don't want any more casulaties.",
+   "ro": "Ai grijă, ok? Nu vrem și alți morți."
+  },
+  {
+   "key": "2024269817961902080",
+   "en": "Mitch would never forgive me if I let them bust her up. Let's give 'em hell.",
+   "ro": "Mitch nu mi-ar ierta niciodată dacă i-aș lăsa să o distrugă. Hai să-i facem praf."
+  },
+  {
+   "key": "2024271174097825792",
+   "en": "Shit's about to get biblical…",
+   "ro": "Acum se face Apocalipsă, pula mea…"
+  },
+  {
+   "key": "2024282040096649224",
+   "en": "Good work. But we've got a minor hitch here.",
+   "ro": "Bună treabă. Dar avem o mică problemă aici."
+  },
+  {
+   "key": "2024282040096649256",
+   "en": "What is it?",
+   "ro": "Ce-i?"
+  },
+  {
+   "key": "2024282040113426440",
+   "en": "Raggedy-ass system spat us out. And no hard-reset didn't help. We pretty much outta options, here.",
+   "ro": "Sistemul ăsta de căcat ne-a dat afară. Nici resetarea forțată n-a ajutat. Practic, nu mai avem opțiuni."
+  },
+  {
+   "key": "2024282040113426456",
+   "en": "Hot-wiring the SERC on location – that seems our one option, now.",
+   "ro": "Să conectăm SERC-ul pe loc – asta pare singura variantă acum."
+  },
+  {
+   "key": "2024282040130203656",
+   "en": "It could have been worse. What about the gate?",
+   "ro": "Putea fi mai rău. Dar poarta?"
+  },
+  {
+   "key": "2024282040146980864",
+   "en": "The blasts shook the foundations, but it won't yield without the panzer's help. We need you for the finishing touch.",
+   "ro": "Explozia a zguduit fundația, dar poarta nu cedează fără panzer. Avem nevoie de tine pentru lovitura de grație."
+  },
+  {
+   "key": "2024295855446159360",
+   "en": "And… I don't know. It's as if my brain was on autopilot the whole time.",
+   "ro": "Și... nu știu. Parcă tot timpul am fost pe pilot automat."
+  },
+  {
+   "key": "2024296684676837376",
+   "en": "We're past the worst of this storm, there's that.",
+   "ro": "Am trecut de partea cea mai rea, cel puțin atât."
+  },
+  {
+   "key": "2024297152106852356",
+   "en": "Knew we'd make it, whole time.",
+   "ro": "Știam tot timpul că o să reușim."
+  },
+  {
+   "key": "2024297394705395712",
+   "en": "Don't jinx this.",
+   "ro": "Nu strica norocul."
+  },
+  {
+   "key": "2024297811585658880",
+   "en": "Honestly, doubted we'd make it.",
+   "ro": "Sincer, nu prea credeam că o să reușim."
+  },
+  {
+   "key": "2024298836958769152",
+   "en": "Knew the whole time we'd make it. Felt it in my bones.",
+   "ro": "Știam tot timpul că o să ieșim din asta. Simțeam asta-n oase."
+  },
+  {
+   "key": "2024298934551834624",
+   "en": "Honestly? Thought we'd be maggot-meat by now.",
+   "ro": "Serios? Credeam că suntem deja hrană de viermi."
+  },
+  {
+   "key": "2024299066051653632",
+   "en": "Don't jinx it! Not now.",
+   "ro": "Nu da ghinion! Nu acum."
+  },
+  {
+   "key": "2024299983530487808",
+   "en": "Someday you will have to tell me how you came to be so damned cocksure about everything.",
+   "ro": "Odată o să-mi spui și mie cum ai ajuns atât de sigur pe tine în toate, al dracului de încrezut ce ești."
+  },
+  {
+   "key": "2024300237705310208",
+   "en": "It's just not fair.",
+   "ro": "Nu e drept."
+  },
+  {
+   "key": "2024302022599766016",
+   "en": "You saw those tanks. You an' me still breathin's a minor miracle.",
+   "ro": "Ai văzut tancurile alea. Că tu și eu mai respirăm e cam un miracol."
+  },
+  {
+   "key": "2024302493703991296",
+   "en": "If anyone ought to believe in miracles, V, it's you.",
+   "ro": "Dacă cineva ar trebui să creadă în miracole, V, ești tu."
+  },
+  {
+   "key": "2024304363373719552",
+   "en": "Oh, stop. The odds had us face down in the mud long past. But we beat them. We have the right to be pleased.",
+   "ro": "A, lasă. Șansele ne-au băgat de mult cu fața în noroi. Dar le-am bătut. Avem tot dreptul să fim mândri."
+  },
+  {
+   "key": "2236678167676604416",
+   "en": "OK, let's move on quick. Militech's bit down, they won't let go. Support's likely on the way.",
+   "ro": "OK, hai să ne mișcăm. Militech s-a agățat ca rahatul și nu mai dă drumul. Probabil vine suport."
+  },
+  {
+   "key": "2236686126301335560",
+   "en": "All right. We're firing up the SERC, aiming to bore through to Arasaka Tower. This will take some time.",
+   "ro": "Bine. Pornim SERC-ul, vrem să forăm până la Turnul Arasaka. Asta o să dureze ceva."
+  },
+  {
+   "key": "2236690244336111616",
+   "en": "V! Militech's throwing more armor at us! By the ton!",
+   "ro": "V! Militech ne aruncă și mai multă armură! Cu tonele!"
+  },
+  {
+   "key": "2236691728817737736",
+   "en": "V, help us out, here! Fucking Militech is not letting up!",
+   "ro": "V, ajută-ne aici! Militech ăsta nenorocit nu se lasă!"
+  },
+  {
+   "key": "2236716471419686912",
+   "en": "God damned corpos! More company incoming!",
+   "ro": "Corpoii ăștia al naibii! Vine întărire!"
+  },
+  {
+   "key": "2236716930058440708",
+   "en": "Oh my, that's what I call a true whoomp. Mitch, is everything all right?",
+   "ro": "A, Doamne, asta-i un whoomp adevărat. Mitch, ești bine?"
+  },
+  {
+   "key": "2236717825290686464",
+   "en": "We'll handle them.",
+   "ro": "Ne ocupăm de ei."
+  },
+  {
+   "key": "2236718272537710592",
+   "en": "Impressive rumble, yeah, but all seems good.",
+   "ro": "Bubuit de zile mari, da, dar pare că e totul în regulă."
+  },
+  {
+   "key": "2238806381853601792",
+   "en": "V, we'll need you to cover us!",
+   "ro": "V, acoperă-ne!"
+  },
+  {
+   "key": "2238836441406959616",
+   "en": "Get your ass moving our way, fast!",
+   "ro": "Hai, mișcă-ți fundul încoace!"
+  },
+  {
+   "key": "2238885961608130560",
+   "en": "The Militech armor – we have to intercept. Before it reaches the others.",
+   "ro": "Armura Militech – trebuie s-o interceptăm, până nu ajunge la ceilalți."
+  },
+  {
+   "key": "2238888463242031104",
+   "en": "Mhm. They're done and gone.",
+   "ro": "Mhm. Gata, au dispărut."
+  },
+  {
+   "key": "3064821406380830720",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  }
+ ]
+}

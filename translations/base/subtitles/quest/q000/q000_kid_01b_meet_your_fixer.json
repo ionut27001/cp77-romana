@@ -1,0 +1,654 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\q000\\q000_kid_01b_meet_your_fixer.json",
+ "entries": [
+  {
+   "key": "1659263327530786816",
+   "en": "Hey, Kirk. Wanna talk.",
+   "ro": "Hei, Kirk, vorbim?"
+  },
+  {
+   "key": "1659281257861619716",
+   "en": "Car's security – how do I get around it?",
+   "ro": "Cum trec de securitatea mașinii?"
+  },
+  {
+   "key": "1659281912525365248",
+   "en": "Who owns this ride?",
+   "ro": "Cine deține mașina asta?"
+  },
+  {
+   "key": "1659282626932776960",
+   "en": "Who's the owner?",
+   "ro": "Cine e proprietarul?"
+  },
+  {
+   "key": "1659284938380156928",
+   "en": "Just an Arasaka suit from across the water. Spews cash outta every hole in his body.",
+   "ro": "Doar un fraier în costum Arasaka, de peste apă. Varsă bani pe toate găurile."
+  },
+  {
+   "key": "1659285692616679424",
+   "en": "Whole thing's simple – you swipe the Rayfield for me, I clear Pepe's account. Even toss in a cut for you I'm such a nice guy.",
+   "ro": "E simplu de tot – tu îmi furi Rayfield-ul, eu îi șterg datoria lui Pepe. Și tu primești o parte, că sunt generos."
+  },
+  {
+   "key": "1659286837410013184",
+   "en": "My man Rick works a parking structure by Embers, club where our Rayfield driver likes to kick it. There every Friday night like clockwork.",
+   "ro": "Omul meu Rick lucrează la o parcare lângă Embers, clubul unde șoferul nostru de Rayfield își face de cap. Vine acolo în fiecare vineri, ca la ceas."
+  },
+  {
+   "key": "1660247550441955328",
+   "en": "[Take device and stand] Agreed.",
+   "ro": "[Ia dispozitivul și ridică-te] De acord."
+  },
+  {
+   "key": "1712868380845678592",
+   "en": "How ya been? 'Sides the biz, I mean.",
+   "ro": "Ce mai faci? Afară de afaceri, adică."
+  },
+  {
+   "key": "1712869344377970692",
+   "en": "How ya been?",
+   "ro": "Ce mai faci?"
+  },
+  {
+   "key": "1712869875561406464",
+   "en": "Valentinos are seemin' jumpy.",
+   "ro": "Valentinos par cam nervoși."
+  },
+  {
+   "key": "1712870188523593728",
+   "en": "Valentinos're seemin' jumpy. Thought you might know somethin'.",
+   "ro": "Valentinos par cam nervoși. Credeam că poate știi ceva."
+  },
+  {
+   "key": "1722728314934587392",
+   "en": "V, been a while. Spin it – whatcha need?",
+   "ro": "V, n-ai mai dat pe aici. Zi, ce-ți trebuie?"
+  },
+  {
+   "key": "1722791262176604160",
+   "en": "Cut him some slack, will ya? He'll pay – just needs some more time.",
+   "ro": "Lasă-l în pace, ce zici? O să plătească, îi trebuie doar mai mult timp."
+  },
+  {
+   "key": "1722791270581989376",
+   "en": "What's he owe you?",
+   "en_m": "What's he owe ya?",
+   "ro": "Ce-ți datorează?"
+  },
+  {
+   "key": "1722792237117403136",
+   "en": "Cut him a break.",
+   "ro": "Dă-i un pic de răgaz."
+  },
+  {
+   "key": "1722793710811279360",
+   "en": "What's he owe?",
+   "ro": "Ce datorează?"
+  },
+  {
+   "key": "1722795848077602816",
+   "en": "Do I look like a priest that runs a charity to you?",
+   "ro": "Ce, arăt a preot care dă de pomană?"
+  },
+  {
+   "key": "1722795905808003072",
+   "en": "You suggestin' I let a flaky cunt who can't keep a deal off the hook?",
+   "ro": "Vrei să zici că las să scape o jigodie nesigură care nu-și ține înțelegerile?"
+  },
+  {
+   "key": "1722795964746362880",
+   "en": "No, you let him off because it's me askin'.",
+   "ro": "Nu, îl lași pentru că eu cer."
+  },
+  {
+   "key": "1722796476166238208",
+   "en": "Afraid that's client confidentiality. Call it a lot and leave it at that.",
+   "ro": "Îmi pare rău, e confidențial, cu clientul. Zi că e mult și gata."
+  },
+  {
+   "key": "1722797150593544192",
+   "en": "A credshark with business ethics. Sounds too good to be true.",
+   "ro": "Un cămătar cu principii? Sună prea bun ca să fie adevărat."
+  },
+  {
+   "key": "1722808686456270848",
+   "en": "Hah. You know me – I'm a man of the biz. So I need to know what I get out of it.",
+   "ro": "Ha. Mă cunoști – sunt om de afaceri. Deci vreau să știu ce iese pentru mine."
+  },
+  {
+   "key": "1722813989029605376",
+   "en": "Well, Merry Fuckin' Christmas.",
+   "ro": "Păi, Crăciun fericit, pula mea."
+  },
+  {
+   "key": "1723128771746131972",
+   "en": "[Put down paper] Not sure I can pull it off.",
+   "ro": "[Pune jos hârtia] Nu sunt sigură că pot s-o fac.",
+   "ro_m": "[Pune jos hârtia] Nu sunt sigur că pot s-o fac."
+  },
+  {
+   "key": "1723128788707897344",
+   "en": "I am no thief. Even if I wanted to, stealin' a ride like that'd be a level beyond me. Hell, two levels.",
+   "en_m": "I'm no thief. Even if I wanted to, stealin' a ride like that'd be a level beyond me – hell, two levels.",
+   "ro": "Nu sunt hoață. Chiar dacă aș vrea, să fur o mașină ca asta e un nivel peste mine. Ba chiar două, la naiba.",
+   "ro_m": "Nu sunt hoț. Chiar dacă aș vrea, să fur o mașină ca asta e un nivel peste mine. Ba chiar două, la naiba."
+  },
+  {
+   "key": "1723128794814803968",
+   "en": "I do this, and Pepe's debt is squared?",
+   "ro": "Adică fac asta și gata cu datoria lui Pepe?"
+  },
+  {
+   "key": "1723128869104316416",
+   "en": "[Put down paper] I do this and the debt's paid?",
+   "ro": "[Pune jos hârtia] Fac asta și gata cu datoria?"
+  },
+  {
+   "key": "1723129962592923648",
+   "en": "How am I supposed to do this? Expect me to slide under the chassis on a skateboard for a quick hotwire, fast an' easy?",
+   "en_m": "How'm I supposed to do this? Expect me to slide under the chassis on a skateboard for a quick hotwire, fast an' easy?",
+   "ro": "Cum naiba să fac asta? Te aștepți să mă strecor sub șasiu pe un skateboard ca să fac hotwire rapid și simplu?"
+  },
+  {
+   "key": "1723141514746327040",
+   "en": "Beautiful thing is, a grand theft auto virgin like you don't need to know how. I already planned it.",
+   "ro": "Partea bună e că un începător în furtul de mașini ca tine nu trebuie să știe cum. Deja am planificat tot."
+  },
+  {
+   "key": "1730193565045157888",
+   "en": "Real, like? Got a problem with my neph. Seems to think runnin' with a gang's a good career choice.",
+   "ro": "Serios? Am o problemă cu nepotul meu. Crede că e o idee bună să umble cu o bandă."
+  },
+  {
+   "key": "1730193682804436992",
+   "en": "Even after all the fine, upstanding people you've surrounded him with all his life?",
+   "ro": "Chiar și după toți oamenii fini, respectabili cu care l-ai înconjurat toată viața?"
+  },
+  {
+   "key": "1730193753704951808",
+   "en": "You don't get it, he ain't like me.",
+   "ro": "Nu înțelegi, nu e ca mine."
+  },
+  {
+   "key": "1730193852875075584",
+   "en": "Meanin' he's honest, straight up and pays his debts?",
+   "ro": "Adică e cinstit, pe brazdă și își plătește datoriile?"
+  },
+  {
+   "key": "1730193952313634816",
+   "en": "Hah. You're killin' me, V.",
+   "ro": "Ha. Mă omori, V."
+  },
+  {
+   "key": "1730212801364815872",
+   "en": "Yeah, I know some…",
+   "ro": "Da, cunosc pe cineva…"
+  },
+  {
+   "key": "1730212961771778048",
+   "en": "Product's their problem. Source dried up.",
+   "ro": "Marfa e problema lor. Sursa s-a secat."
+  },
+  {
+   "key": "1730218543702536192",
+   "en": "Dealers're flippin' shit?",
+   "ro": "Dealerii își pierd mințile, pe bune?"
+  },
+  {
+   "key": "1730218696995958784",
+   "en": "Dealers just mopin' – boys at the top're flippin'. Heard they even wanna pop a delegation over to Colombia.",
+   "ro": "Dealerii doar mormăie – ăia de sus își fac sânge rău. Am auzit că vor să trimită o delegație în Columbia."
+  },
+  {
+   "key": "1762087098783768576",
+   "en": "We are.",
+   "ro": "Suntem."
+  },
+  {
+   "key": "1767874417795198976",
+   "en": "Can you imagine that? Our local leadheads sharin' a table with the cartel…",
+   "ro": "Ți-o imaginezi? Capii noștri locali stau la aceeași masă cu cartelul…"
+  },
+  {
+   "key": "1802768607702032384",
+   "en": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Everything chill, \" a=\"?\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Everything chill, \" a=\"?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Totul e chill, \" a=\"?\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"mano\" b=\"Totul e chill, \" a=\"?\"/>"
+  },
+  {
+   "key": "1802768867463667712",
+   "en": "Some bastard tried to mug me. I handled it.",
+   "ro": "Un nenorocit a încercat să mă jefuiască. M-am descurcat."
+  },
+  {
+   "key": "1802769123802750976",
+   "en": "Who? Local guy?",
+   "ro": "Cine? Tip local?"
+  },
+  {
+   "key": "1803742734738923524",
+   "en": "Hey, Kirk. Wanna talk.",
+   "ro": "Hei, Kirk, vorbim?"
+  },
+  {
+   "key": "1822689492162506752",
+   "en": "Urgh, motherfucker…!",
+   "ro": "Urgh, pula mea…!"
+  },
+  {
+   "key": "1822690001384566784",
+   "en": "You really think somebody local'd try to mug me, Pepe?",
+   "en_m": "Ya really think somebody local'd try to mug me, Pepe?",
+   "ro": "Chiar crezi că vreun local ar încerca să mă jefuiască, Pepe?"
+  },
+  {
+   "key": "1822692389755482112",
+   "en": "I'll talk to Kirk. But then you're gonna owe me one.",
+   "ro": "Vorbesc cu Kirk. Dar după aia îmi rămâi datoare.",
+   "ro_m": "Vorbesc cu Kirk. Dar după aia îmi rămâi dator."
+  },
+  {
+   "key": "1822699264068743168",
+   "en": "Pepe asked me to talk you up.",
+   "ro": "Pepe m-a rugat să te laud."
+  },
+  {
+   "key": "1822699306515099648",
+   "en": "What, he too shy to hand over the eddies hisself? Ah, tell him I don't bite. Not yet.",
+   "ro": "Ce, e prea fricos să-ți dea singur eddies-urile? Ei, spune-i că nu mușc. Încă."
+  },
+  {
+   "key": "1822703780981829632",
+   "en": "You borrow eddies, you gotta pay 'em back – with interest. It's common fuckin' knowledge.",
+   "ro": "Dacă împrumuți eddies, îi dai înapoi – cu dobândă. Asta știe oricine, pula mea."
+  },
+  {
+   "key": "1822711910197293056",
+   "en": "I'll owe you one.",
+   "ro": "Îți rămân datoare.",
+   "ro_m": "Îți rămân dator."
+  },
+  {
+   "key": "1822711928182468608",
+   "en": "Transactions go two ways, I get that. I'll owe you a favor.",
+   "ro": "Schimburile merg în ambele sensuri, înțeleg. Îți rămân datoare cu un serviciu.",
+   "ro_m": "Schimburile merg în ambele sensuri, înțeleg. Îți rămân dator cu un serviciu."
+  },
+  {
+   "key": "1822711930598387712",
+   "en": "Know what, Kirk? I sometimes get the impression you forget you aren't from around here.",
+   "ro": "Știi ce, Kirk? Uneori am impresia că uiți că nu ești de-aici."
+  },
+  {
+   "key": "1822713151191183360",
+   "en": "You avoid trouble.",
+   "ro": "Eviti problemele."
+  },
+  {
+   "key": "1822715219268268032",
+   "en": "Tempting... Got a nova idea already.",
+   "ro": "Tentant... Am deja o idee nouă."
+  },
+  {
+   "key": "1822715666901168128",
+   "en": "Pop into Heywood for the occasional visit, sure, but you live far, far away, in Pacifica.",
+   "ro": "Treci pe la Heywood din când în când, sigur, dar stai departe, departe, în Pacifica."
+  },
+  {
+   "key": "1822715829707272192",
+   "en": "What're you gettin' at?",
+   "ro": "Unde vrei să ajungi?"
+  },
+  {
+   "key": "1822715913123590144",
+   "en": "Gettin' at you prolly needin' to think before you start somethin' with a local son.",
+   "ro": "Că ar fi bine să te gândești înainte să începi ceva cu un puști de-aici."
+  },
+  {
+   "key": "1822716012646035456",
+   "en": "Hmm... I'm open to other options.",
+   "ro": "Hmm... Sunt deschisă și la alte variante.",
+   "ro_m": "Hmm... Sunt deschis și la alte variante."
+  },
+  {
+   "key": "1822728226006298628",
+   "en": "[Take screamsheet] And...?",
+   "ro": "[Ia screamsheet-ul] Și...?"
+  },
+  {
+   "key": "1822728306620821504",
+   "en": "What's this?",
+   "ro": "Ce-i asta?"
+  },
+  {
+   "key": "1822728311083560960",
+   "en": "Mhm...?",
+   "ro": "Mhm...?"
+  },
+  {
+   "key": "1822731721556029440",
+   "en": "What's this?",
+   "ro": "Ce-i asta?"
+  },
+  {
+   "key": "1822732625713754112",
+   "en": "Preem ride there on the page. Only four of 'em in NC as of now.",
+   "ro": "Mașină beton pe pagina aia. Sunt doar patru în NC, deocamdată."
+  },
+  {
+   "key": "1822733467040804864",
+   "en": "Grab a look.",
+   "ro": "Aruncă o privire."
+  },
+  {
+   "key": "1822734561838034944",
+   "en": "One – Rayfield regional director. Two – Mayor Rhyne. Three – a rental service.",
+   "ro": "Unu – directorul regional Rayfield. Doi – Primarul Rhyne. Trei – un serviciu de închirieri."
+  },
+  {
+   "key": "1822734800208719872",
+   "en": "Uh-huh. And four?",
+   "ro": "Aha. Și al patrulea?"
+  },
+  {
+   "key": "1822734857905565696",
+   "en": "Number four'll belong to my client – just as soon as you klep it for me, that is.",
+   "ro": "Al patrulea o să fie al clientului meu – imediat ce mi-l ciordești, adică."
+  },
+  {
+   "key": "1822737765145440256",
+   "en": "And his name?",
+   "ro": "Și numele lui?"
+  },
+  {
+   "key": "1822738031097868288",
+   "en": "How would I know? Why would I care? It's a hot item, and I know where to find it.",
+   "ro": "De unde să știu? Și de ce m-ar interesa? E marfă fierbinte și știu unde s-o găsesc."
+  },
+  {
+   "key": "1822928907430457344",
+   "en": "Course. I'm a man o' my word, you know that.",
+   "ro": "Sigur. Sunt om de cuvânt, știi asta."
+  },
+  {
+   "key": "1822944102722760704",
+   "en": "Soon as you appear, security cams shut down, gate swings up – the road is yours. Just gotta grab the Rayfield and roll out. Simple.",
+   "ro": "Imediat ce apari, camerele de securitate se opresc, poarta se ridică – drumul e al tău. Trebuie doar să iei Rayfield-ul și să pleci. Simplu."
+  },
+  {
+   "key": "1822944401323651072",
+   "en": "And your man Rick…?",
+   "ro": "Și omul tău Rick…?"
+  },
+  {
+   "key": "1822944453987332096",
+   "en": "Trust him like my own brother.",
+   "ro": "Am încredere în el ca în fratele meu de sânge."
+  },
+  {
+   "key": "1822945763902025728",
+   "en": "Honestly, shit plan.",
+   "ro": "Sincer, plan de rahat."
+  },
+  {
+   "key": "1822946058660933632",
+   "en": "Plan sounds shaky as fuck.",
+   "ro": "Planul ăsta sună șubred în pula mea."
+  },
+  {
+   "key": "1822959109506265088",
+   "en": "Oh? How so?",
+   "ro": "Aha? Cum așa?"
+  },
+  {
+   "key": "1822959219464138752",
+   "en": "Sounds like you're lookin' for a sucker.",
+   "ro": "Pare că cauți un fraier."
+  },
+  {
+   "key": "1822959275114164224",
+   "en": "This ain't no setup, V. Heard you got a good head. Maybe we help each other make a few eddies.",
+   "ro": "Nu e nicio capcană, V. Am auzit că ai capul pe umeri. Poate ne ajutăm să facem niște eddies."
+  },
+  {
+   "key": "1822967544402604032",
+   "en": "Kirk, wheels like this got security systems. Good ones.",
+   "ro": "Kirk, mașinile astea au sisteme de securitate. Și nu proaste."
+  },
+  {
+   "key": "1822967830017929216",
+   "en": "This bitty bop works like the key Rayfield techs use for repairs. Opens locks, bypasses identity authorization.",
+   "ro": "Chestia asta funcționează ca cheia pe care o folosesc tehnicienii Rayfield la reparații. Deschide încuietorile, ocolește verificarea identității."
+  },
+  {
+   "key": "1822968120934854656",
+   "en": "A skeleton key for all Rayfields in the city. Agh, c'mon, Kirk, even you don't buy that.",
+   "en_m": "A skeleton key for all Rayfields in the city. Heh, c'mon, Kirk, even you don't buy that.",
+   "ro": "O cheie universală pentru toate Rayfield-urile din oraș. Agh, hai, Kirk, nici tu n-o crezi.",
+   "ro_m": "O cheie universală pentru toate Rayfield-urile din oraș. Heh, hai, Kirk, nici tu n-o crezi."
+  },
+  {
+   "key": "1822968250807283712",
+   "en": "Kabuki's tech wizards sell more magical shit than this under the counter. Have a little faith.",
+   "ro": "Vrăjitorii tech din Kabuki vând sub mână mult mai mult rahat magic decât asta. Ai un pic de încredere."
+  },
+  {
+   "key": "1822968981522149376",
+   "en": "So... we all agreed, then?",
+   "ro": "Deci... ne-am înțeles, atunci?"
+  },
+  {
+   "key": "1822982924462387200",
+   "en": "[Take device and stand] Better keep your word.",
+   "ro": "[Ia dispozitivul și ridică-te] Mai bine ții-ți cuvântul."
+  },
+  {
+   "key": "1822994622627901440",
+   "en": "Glad to hear it. Always said you were a bright bulb.",
+   "ro": "Mă bucur să aud. Am zis mereu că ești isteață.",
+   "ro_m": "Mă bucur să aud. Am zis mereu că ești isteț."
+  },
+  {
+   "key": "1822995124937748480",
+   "en": "Best keep your word, Kirk.",
+   "ro": "Mai bine ții-ți cuvântul, Kirk."
+  },
+  {
+   "key": "1822995534268264448",
+   "en": "Eeeaasy, V. Job's gonna pad your wallet too, y'know.",
+   "ro": "Eeeaasy, V. Jobul ăsta îți umple și ție portofelul, știi."
+  },
+  {
+   "key": "1831285702792245248",
+   "en": "Good luck out there. We'll be in touch.",
+   "ro": "Baftă acolo. Ținem legătura."
+  },
+  {
+   "key": "1902575182399250436",
+   "en": "[Set broken nose]",
+   "ro": "[Setează nasul stricat]"
+  },
+  {
+   "key": "1902649577356500992",
+   "en": "[Stand] I'll talk to Kirk.",
+   "ro": "[Ridică-te] Vorbesc cu Kirk."
+  },
+  {
+   "key": "1902650146959761408",
+   "en": "You ever gonna learn?",
+   "ro": "Chiar n-o să înveți vreodată?"
+  },
+  {
+   "key": "1905251904549429248",
+   "en": "Ugh, you ever gonna get wise, Pepe?",
+   "en_m": "Huh, you ever gonna get wise, Pepe?",
+   "ro": "Ugh, o să te prinzi vreodată, Pepe?",
+   "ro_m": "Hm, o să te prinzi vreodată, Pepe?"
+  },
+  {
+   "key": "1912887818002034692",
+   "en": "Got trouble?",
+   "ro": "Ai probleme?"
+  },
+  {
+   "key": "1912887830450728960",
+   "en": "Found yourself in a hole, sounds like. You need help?",
+   "en_m": "Found yourself'n a hole, sounds like. You need help?",
+   "ro": "Parcă ești în belea. Îți trebuie ajutor?"
+  },
+  {
+   "key": "1912887835416784896",
+   "en": "C'mon, spin it – what is it now?",
+   "ro": "Hai, spune – ce e acum?"
+  },
+  {
+   "key": "1912888076220166144",
+   "en": "Spit it out.",
+   "ro": "Scoate-o."
+  },
+  {
+   "key": "1912888839331835904",
+   "en": "Ah, knew I could count on you.",
+   "ro": "Ce bine, știam că pot conta pe tine."
+  },
+  {
+   "key": "1912890407481438208",
+   "en": "It's, uh, Kirk... I owe 'im. Don't pay by tomorrow, said he'd bust my legs.",
+   "ro": "E, ăă, Kirk... Îi datorez. Dacă nu plătesc până mâine, a zis că-mi rupe picioarele."
+  },
+  {
+   "key": "1912891460872499200",
+   "en": "An' he don't joke about that stuff. Got cartels in his corner.",
+   "ro": "Și cu chestiile astea nu glumește. Are cartelurile în spate."
+  },
+  {
+   "key": "1912891978936152064",
+   "en": "You in it with Kirk?! Every man, woman and rat in Heywood knows he's a fuckin' shark.",
+   "ro": "Te-ai băgat cu Kirk?! Orice bărbat, femeie și șobolan din Heywood știe că e un rechin nenorocit."
+  },
+  {
+   "key": "1912892439521062912",
+   "en": "My bro jumped the joint, deserved a hero's welcome... I know I fuck up, V.",
+   "ro": "Fratele meu a ieșit din pușcărie, merita o primire de erou... Știu că am belit-o, V."
+  },
+  {
+   "key": "1912893447412314112",
+   "en": "Least tell me your brother's doin' all right.",
+   "ro": "Măcar spune-mi că fratele tău e bine."
+  },
+  {
+   "key": "1912893701184483328",
+   "en": "Ah, doing his thing, you know…",
+   "ro": "Ah, își face treaba, știi…"
+  },
+  {
+   "key": "1912894015337852928",
+   "en": "So, can you help?",
+   "ro": "Deci, mă poți ajuta?"
+  },
+  {
+   "key": "1912901991796764672",
+   "en": "Head to Embers, in the Glen. Rick's in the garage, be waitin' for ya. You two'll hit it off.",
+   "ro": "Du-te la Embers, în Glen. Rick e în garaj, te așteaptă. O să vă înțelegeți."
+  },
+  {
+   "key": "1926933095683911680",
+   "en": "Listen, V... I got a problem. Serious this time.",
+   "ro": "Ascultă, V... Am o problemă. De data asta chiar serioasă."
+  },
+  {
+   "key": "1935833944889266176",
+   "en": "A little... anesthesia.",
+   "ro": "Un pic de... anestezie."
+  },
+  {
+   "key": "1935836990272737284",
+   "en": "[Knock back shot]",
+   "ro": "[Dă pe gât shot-ul]"
+  },
+  {
+   "key": "1948694199721562116",
+   "en": "[Sit] Heard about you and Pepe.",
+   "ro": "[Stai jos] Am auzit de tine și Pepe."
+  },
+  {
+   "key": "1948695662459916288",
+   "en": "Hell's your problem?",
+   "ro": "Ce dracu' problemă ai?"
+  },
+  {
+   "key": "1948697174489731076",
+   "en": "What's your deal?",
+   "ro": "Ce-i cu tine?"
+  },
+  {
+   "key": "1983689931747106820",
+   "en": "Kirk'll let it slide.",
+   "ro": "Kirk trece cu vederea."
+  },
+  {
+   "key": "1983710666624475136",
+   "en": "Kirk's lettin' it go, leavin' you be. I'm not, though – you fuckin' owe me big.",
+   "ro": "Kirk trece cu vederea, te lasă în pace. Eu nu, pula mea – îmi datorezi enorm."
+  },
+  {
+   "key": "1985309305560035328",
+   "en": "V, you savin' my life. I mean that.",
+   "ro": "V, mi-ai salvat viața. Pe bune."
+  },
+  {
+   "key": "1985350350985424896",
+   "en": "So how's it gonna be, V?",
+   "ro": "Deci cum rămâne, V?"
+  },
+  {
+   "key": "2024658295406759936",
+   "en": "And your man Rick...?",
+   "ro": "Și omul tău Rick...?"
+  },
+  {
+   "key": "2248808532747141120",
+   "en": "And you're savin' my life, V, truly.",
+   "ro": "Chiar îmi salvezi viața, V, serios."
+  },
+  {
+   "key": "2248835470043824128",
+   "en": "A moment of pain, and you'll be set. Do it, choom.",
+   "ro": "O clipă de durere și gata treaba. Hai, choom."
+  },
+  {
+   "key": "2248837507804479496",
+   "en": "So, you gonna help me out, V?",
+   "ro": "Deci, mă ajuți, V?"
+  },
+  {
+   "key": "2248839846934265856",
+   "en": "Prefer to stand tall? Creeps me out. Sit.",
+   "ro": "Preferi să stai în picioare? Mă dă fiori. Stai jos."
+  },
+  {
+   "key": "2248892040735801348",
+   "en": "Ya got biz for me? Siddown.",
+   "ro": "Ai vreo treabă pentru mine? Ia loc."
+  },
+  {
+   "key": "2248894044908470272",
+   "en": "Screamsheet – scope it out.",
+   "ro": "Screamsheet – aruncă un ochi."
+  },
+  {
+   "key": "2260285601179942912",
+   "en": "Got some grease on your shirt, there, tough guy.",
+   "ro": "Ai o pată de grăsime pe cămașă, dură.",
+   "ro_m": "Ai o pată de grăsime pe cămașă, durule."
+  },
+  {
+   "key": "2260287182583545860",
+   "en": "Got grease on your shirt.",
+   "ro": "Ai o pată de grăsime pe cămașă."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_tcl_05.json",
+ "entries": [
+  {
+   "key": "2276539494776872972",
+   "en": "<kiroshi l=\"jpn\" o=\"ゾンビ系のアポカリプス物、弾切れ、それとクモ。その順でな\" t=\"Zombie apocalypse, running out of ammo, and spiders – in that order.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ゾンビ系のアポカリプス物、弾切れ、それとクモ。その順でな\" t=\"Apocalipsă cu zombi, fără gloanțe și păianjeni – în ordinea asta.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276539494793650176",
+   "en": "<kiroshi l=\"jpn\" o=\"俺が一番怖いのは… 元アウトプットだ\" t=\"Know what scares the life outta me? My ex-output.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"俺が一番怖いのは… 元アウトプットだ\" t=\"Știi ce mă sperie de-mi iese sufletul? Fostul meu output.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

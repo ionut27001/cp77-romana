@@ -1,0 +1,60 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\vendors\\cct_dtn_food_01.json",
+ "entries": [
+  {
+   "key": "1935648808663166980",
+   "en": "Could use a drink.",
+   "ro": "Mi-ar prinde bine o băutură."
+  },
+  {
+   "key": "1979191361760894976",
+   "en": "Get me a drink.",
+   "ro": "Dă-mi ceva de băut."
+  },
+  {
+   "key": "1979191702573260800",
+   "en": "What beer do you recommend?",
+   "ro": "Ce bere recomanzi?"
+  },
+  {
+   "key": "1979192270549131264",
+   "en": "Get me a drink.",
+   "ro": "Dă-mi ceva de băut."
+  },
+  {
+   "key": "1979193755081089024",
+   "en": "Sure. Anything you want.",
+   "ro": "Sigur. Orice vrei."
+  },
+  {
+   "key": "1979195265936498688",
+   "en": "What beer would you recommend?",
+   "ro": "Ce bere ai recomanda?"
+  },
+  {
+   "key": "1979196494079041536",
+   "en": "Hm... Calavera Feliz has subtle, malty undertones. Then there's Abydos, which has a unique herbal aroma.",
+   "ro": "Hm... Calavera Feliz are note subtile de malț. Iar Abydos are o aromă de plante aparte."
+  },
+  {
+   "key": "1979196930689310720",
+   "en": "I'd avoid Broseph altogether. Tastes like carbonated piss.",
+   "ro": "Aș evita Broseph-ul cu totul. Gustă ca pișă carbogazoasă."
+  },
+  {
+   "key": "4108571656794812416",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "4108572562814808064",
+   "en": "[Step away from bar]",
+   "ro": "[Depărtează-te de bar]"
+  },
+  {
+   "key": "4115800971752124416",
+   "en": "[Sit at bar] Could use a drink.",
+   "ro": "[Stai la bar] Mi-ar prinde bine o băutură."
+  }
+ ]
+}

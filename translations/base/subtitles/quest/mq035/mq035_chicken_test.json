@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\mq035\\mq035_chicken_test.json",
+ "entries": [
+  {
+   "key": "1864851589889404932",
+   "en": "[db_db]Start.",
+   "ro": "[db_db]Începe."
+  },
+  {
+   "key": "1864853072710086656",
+   "en": "[db_db]Ride to robbery.",
+   "ro": "[db_db]Drum spre jaf."
+  },
+  {
+   "key": "1864853321918853120",
+   "en": "[db_db]Robbery.",
+   "ro": "[db_db]Jaf."
+  }
+ ]
+}

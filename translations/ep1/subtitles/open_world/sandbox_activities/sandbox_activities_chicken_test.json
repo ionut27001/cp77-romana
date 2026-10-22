@@ -1,0 +1,70 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\open_world\\sandbox_activities\\sandbox_activities_chicken_test.json",
+ "entries": [
+  {
+   "key": "3201542740544909316",
+   "en": "[db_db]Activate all Sandbox Activities",
+   "ro": "[db_db]Activează toate activitățile sandbox"
+  },
+  {
+   "key": "3201544180499804160",
+   "en": "[db_db]Activate Courier",
+   "ro": "[db_db]Activează curierul"
+  },
+  {
+   "key": "3201544585149476864",
+   "en": "[db_db]Activate Airdrop",
+   "ro": "[db_db]Activează Airdrop"
+  },
+  {
+   "key": "3201546492635049984",
+   "en": "[db_db]Finish chicken test",
+   "ro": "[db_db]Termină testul cu puiul"
+  },
+  {
+   "key": "3231938846600523780",
+   "en": "[db_db]All active at once",
+   "ro": "[db_db]Toate active deodată"
+  },
+  {
+   "key": "3231939290391441408",
+   "en": "[db_db]Proper delay loop reset",
+   "ro": "[db_db]Resetare corectă a buclei de întârziere"
+  },
+  {
+   "key": "3336289265304268800",
+   "en": "[db_db]Cyberjunkies",
+   "ro": "[db_db]Cyberjunkies"
+  },
+  {
+   "key": "3336290801006735364",
+   "en": "[db_db]All at once",
+   "ro": "[db_db]Toate deodată"
+  },
+  {
+   "key": "3336291131652108288",
+   "en": "[db_db]Proper Tiers",
+   "ro": "[db_db]Niveluri corecte"
+  },
+  {
+   "key": "3446457736867934208",
+   "en": "[db_db]Test new intro",
+   "ro": "[db_db]Testează noua introducere"
+  },
+  {
+   "key": "3527403041418964996",
+   "en": "[db_db]Jacob killed",
+   "ro": "[db_db]Jacob ucis"
+  },
+  {
+   "key": "3527403340875493376",
+   "en": "[db_db]Jacob alive",
+   "ro": "[db_db]Jacob în viață"
+  },
+  {
+   "key": "3743698425424318464",
+   "en": "[db_db]Quick reset loop (reset after loot)",
+   "ro": "[db_db]Bucle de resetare rapidă (resetare după loot)"
+  }
+ ]
+}

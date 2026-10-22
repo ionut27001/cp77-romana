@@ -1,0 +1,45 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_023.json",
+ "entries": [
+  {
+   "key": "2167970579850121216",
+   "en": "<kiroshi l=\"mex\" o=\"Pero eso no es asunto mío, ¿verdad?\" t=\"But that's none of my biz, isn't it?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Pero eso no es asunto mío, ¿verdad?\" t=\"Dar asta nu-i treaba mea, nu?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2214519107709407232",
+   "en": "I gotta beg, is that it? 'Cause I will.",
+   "ro": "Trebuie să cerșesc, asta vrei? Pentru că o fac."
+  },
+  {
+   "key": "2221836612706603008",
+   "en": "<kiroshi l=\"mex\" o=\"Ay, ¿estás llorando?\" t=\"Are you crying?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Ay, ¿estás llorando?\" t=\"Plângi?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221836885957120000",
+   "en": "I'm... I beg you. Please, give me another week. I'll get the money. I swear. I-I swear.",
+   "ro": "Eu... Te rog... Mai dă-mi o săptămână. Fac rost de bani, jur. J-jur."
+  },
+  {
+   "key": "2221838427867156480",
+   "en": "<kiroshi l=\"mex\" o=\"Sí estás llorando. Repugnante.\" t=\"You ARE crying. Disgusting.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Sí estás llorando. Repugnante.\" t=\"Chiar plângi. Scârbos.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221839197488386048",
+   "en": "I... Please.",
+   "ro": "Eu... Te rog."
+  },
+  {
+   "key": "2221840478160392192",
+   "en": "<kiroshi l=\"mex\" o=\"Quiero el dinero. Mañana. Si no, hay mucha gente esperando para ocupar tu lugar. ¿Está claro?\" t=\"The money. Tomorrow. If not, I got plenty of others ready to pay for your spot. Clear?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"Quiero el dinero. Mañana. Si no, hay mucha gente esperando para ocupar tu lugar. ¿Está claro?\" t=\"Banii. Mâine. Dacă nu, am destui alții gata să plătească pentru locul tău. Clar?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2221840955992281088",
+   "en": "Please, I-I can't... My brother's sick. P-please.",
+   "ro": "Te rog, n-nu pot... Fratele meu e bolnav. T-te rog."
+  }
+ ]
+}

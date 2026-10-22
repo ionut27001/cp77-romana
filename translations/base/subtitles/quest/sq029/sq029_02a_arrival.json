@@ -1,0 +1,817 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq029\\sq029_02a_arrival.json",
+ "entries": [
+  {
+   "key": "1467767613846839296",
+   "en": "Hi!",
+   "ro": "Salut!"
+  },
+  {
+   "key": "1467767614400487424",
+   "en": "Thanks for havin' me.",
+   "ro": "Mulțumesc că m-ai primit."
+  },
+  {
+   "key": "1468876195438911488",
+   "en": "Lookin' good, Joss.",
+   "ro": "Arăți bine, Joss."
+  },
+  {
+   "key": "1468876896458104832",
+   "en": "Lookin' good, Joss.",
+   "ro": "Arăți bine, Joss."
+  },
+  {
+   "key": "1468877562194812928",
+   "en": "Really think so? Thanks.",
+   "ro": "Chiar crezi? Mulțumesc."
+  },
+  {
+   "key": "1468879596985901056",
+   "en": "Thanks for havin' me over.",
+   "en_m": "Uh, thanks for havin' me over.",
+   "ro": "Mulțumesc că m-ai invitat.",
+   "ro_m": "Ăă, mulțumesc că m-ai invitat."
+  },
+  {
+   "key": "1468881823473459200",
+   "en": "How's Randy?",
+   "ro": "Cum e Randy?"
+  },
+  {
+   "key": "1468897740538372116",
+   "en": "Just helped River out.",
+   "ro": "Doar l-am ajutat pe River."
+  },
+  {
+   "key": "1468898314319159296",
+   "en": "It's over now, that's what matters.",
+   "ro": "S-a terminat, asta contează."
+  },
+  {
+   "key": "1468899885438328832",
+   "en": "What matters is it's over now.",
+   "ro": "Ce contează e că s-a terminat."
+  },
+  {
+   "key": "1468899943487496192",
+   "en": "It was all River. I just helped.",
+   "ro": "A fost tot River. Eu doar am ajutat."
+  },
+  {
+   "key": "1468901433404940288",
+   "en": "I just don't know... how to repay you... If Randy had--",
+   "ro": "Nu știu... cum să-ți răsplătesc... Dacă Randy ar fi--"
+  },
+  {
+   "key": "1468904469795823616",
+   "en": "Don't owe me a thing, Joss.",
+   "en_m": "Uh, don't owe me a thing, Joss.",
+   "ro": "Nu-mi datorezi nimic, Joss.",
+   "ro_m": "Ăă, nu-mi datorezi nimic, Joss."
+  },
+  {
+   "key": "1468907600944422912",
+   "en": "Thank you.",
+   "ro": "Mulțumesc."
+  },
+  {
+   "key": "1511127588943810560",
+   "en": "Not comin'?",
+   "ro": "Nu vii?"
+  },
+  {
+   "key": "1511319042429407236",
+   "en": "Not coming?",
+   "ro": "Nu vii?"
+  },
+  {
+   "key": "1572068379557748736",
+   "en": "Spinnin' a new song anyway. Rather focus on that.",
+   "ro": "Oricum lucrez la o piesă nouă. Mai bine mă concentrez pe asta."
+  },
+  {
+   "key": "1725669026180337664",
+   "en": "Jambalaya. C'mon, you can stir the meat.",
+   "ro": "Jambalaya. Hai, poți să amesteci carnea."
+  },
+  {
+   "key": "1725694887973588992",
+   "en": "Basmati, nice.",
+   "ro": "Basmati, bun."
+  },
+  {
+   "key": "1725696439882846208",
+   "en": "Tomatoes in next...",
+   "ro": "Urmează roșiile..."
+  },
+  {
+   "key": "1725697013999177728",
+   "en": "Now you can toss in the rice.",
+   "ro": "Acum poți să pui orezul."
+  },
+  {
+   "key": "1725697800011747332",
+   "en": "[Add rice] Rice is in.",
+   "ro": "[Adaugă orezul] Orezul e înăuntru."
+  },
+  {
+   "key": "1729849648595570688",
+   "en": "Really nice of you to come.",
+   "ro": "Chiar ai fost drăguță că ai venit.",
+   "ro_m": "Chiar ai fost drăguț că ai venit."
+  },
+  {
+   "key": "1729858342179803136",
+   "en": "Over here!",
+   "ro": "Aici!"
+  },
+  {
+   "key": "1731407383472607232",
+   "en": "No, Randy's always been that way. But I'm sure this didn't help none... You know, his father was a difficult man, too…",
+   "ro": "Nu, Randy a fost mereu așa. Dar sunt sigură că nici asta n-a ajutat... Știi, tatăl lui a fost și el un om dificil…"
+  },
+  {
+   "key": "1792592307712823296",
+   "en": "Oh, hey!",
+   "ro": "A, salut!"
+  },
+  {
+   "key": "1792597148157743104",
+   "en": "I should be thanking you.",
+   "ro": "Ar trebui eu să-ți mulțumesc."
+  },
+  {
+   "key": "1793917909808058368",
+   "en": "Joss did her bit. Just grab the damn spoon and start stirring.",
+   "ro": "Joss și-a făcut partea. Ia lingura aia afurisită și începe să amesteci."
+  },
+  {
+   "key": "1793951003051167744",
+   "en": "And when can I visit again?",
+   "ro": "Și când pot să mai vin?"
+  },
+  {
+   "key": "1793951325559590912",
+   "en": "That's great, 'cause I really wanna bring him something. He loves music so... Sorry?",
+   "ro": "Super, pentru că chiar vreau să-i aduc ceva. Îi place muzica atât de mult... Scuze?"
+  },
+  {
+   "key": "1793951922560045056",
+   "en": "No, I'll remember. Just tell me.",
+   "ro": "Nu, îmi amintesc. Spune-mi doar."
+  },
+  {
+   "key": "1793952342023999488",
+   "en": "Thanks so, so much. You've been wonderful, a huge help. Mhm... Yes, talk again soon.",
+   "ro": "Mulțumesc din suflet. Ai fost minunată, un ajutor enorm. Mhm... Da, vorbim curând.",
+   "ro_m": "Mulțumesc din suflet. Ai fost minunat, un ajutor enorm. Mhm... Da, vorbim curând."
+  },
+  {
+   "key": "1805317148954824708",
+   "en": "Glad you're here.  I need your help, cookin'.",
+   "ro": "Mă bucur că ești aici. Îmi trebuie o mână de ajutor la gătit."
+  },
+  {
+   "key": "1805317148954824720",
+   "en": "What's on the menu?",
+   "ro": "Ce aveți în meniu?"
+  },
+  {
+   "key": "1805317148954824744",
+   "en": "Dunno... Maybe Joss'd be more help.",
+   "ro": "Nu știu... Poate Joss ar fi mai de ajutor."
+  },
+  {
+   "key": "1805324684592386052",
+   "en": "This an ancient Ward family secret?",
+   "ro": "E un secret străvechi al familiei Ward?"
+  },
+  {
+   "key": "1805324684592386064",
+   "en": "Uh-huh. Onions, paprika, thyme…",
+   "ro": "Mhm. Ceapă, boia, cimbru…"
+  },
+  {
+   "key": "1805543136359845892",
+   "en": "Look strange, different than usual.",
+   "ro": "Arăți ciudat, altfel decât de obicei."
+  },
+  {
+   "key": "1805543746245201920",
+   "en": "Thought you were joking about cooking together.",
+   "ro": "M-am gândit că glumeai cu gătitul împreună."
+  },
+  {
+   "key": "1805544474007277568",
+   "en": "Somehow look different than usual today.",
+   "ro": "Parcă ești altfel azi."
+  },
+  {
+   "key": "1805544512913641472",
+   "en": "Honestly? Thought you were kidding about the cook-off.",
+   "ro": "Sincer? M-am gândit că glumeai cu concursul de gătit."
+  },
+  {
+   "key": "1805545602744815616",
+   "en": "Yeah… different, meanin' normal. As if you got a good night's sleep.",
+   "ro": "Da… altfel, adică normal. Parcă ai fi dormit bine."
+  },
+  {
+   "key": "1805545845175586816",
+   "en": "Or that Joss'd sweat away in the kitchen, while…",
+   "ro": "Sau că Joss ar transpira în bucătărie, în timp ce…"
+  },
+  {
+   "key": "1823884956834861056",
+   "en": "You flatline him?",
+   "ro": "L-ai lichidat?"
+  },
+  {
+   "key": "1823884987990151168",
+   "en": "One shot to the head. Quick and clean.",
+   "ro": "Un glonț în cap. Rapid și curat."
+  },
+  {
+   "key": "1823885021813018624",
+   "en": "He still in a coma?",
+   "ro": "E încă în comă?"
+  },
+  {
+   "key": "1823886683646595072",
+   "en": "I wasn't sure that was what I really wanted.",
+   "ro": "Nu eram sigur că asta chiar voiam."
+  },
+  {
+   "key": "1823887329804292096",
+   "en": "I had the same thought. It would be so easy…",
+   "ro": "Am avut aceeași idee. Ar fi fost atât de ușor…"
+  },
+  {
+   "key": "1823887919405993984",
+   "en": "Yep. In a strange slumber between life and death. An empty shell in a hospital bed.",
+   "ro": "Da. Într-un somn ciudat între viață și moarte. O coajă goală într-un pat de spital."
+  },
+  {
+   "key": "1844535253764542464",
+   "en": "Not really my jam, picnics. But you have fun.",
+   "ro": "Nu mi-s fan la picnicuri. Dar distrează-te."
+  },
+  {
+   "key": "1844539881474363392",
+   "en": "Still in the hospital, still in shock. But he's makin' progress.",
+   "ro": "Tot în spital, tot în șoc. Dar mai progresează ceva."
+  },
+  {
+   "key": "1844540005474766848",
+   "en": "Haven't had the chance to tell you just how grateful I am.",
+   "ro": "N-am apucat să-ți spun cât de recunoscător sunt."
+  },
+  {
+   "key": "1845939007655120896",
+   "en": "How? Joss doesn't know the first thing about cooking.",
+   "ro": "Cum? Joss nu se pricepe deloc la gătit."
+  },
+  {
+   "key": "1845939459297775616",
+   "en": "Actually, I like to torture foodstuffs, heh… Haven't had many opportunities lately.",
+   "ro": "Păi, îmi place să chinui mâncarea, heh… N-am prea avut ocazii pe ultima vreme."
+  },
+  {
+   "key": "1845942268642594816",
+   "en": "Is that so?",
+   "ro": "Așa?"
+  },
+  {
+   "key": "1845944266758688768",
+   "en": "Mh. Well, wanted you to see this side of me, too.",
+   "ro": "Mh. Păi, am vrut să vezi și partea asta din mine."
+  },
+  {
+   "key": "1846042664576880640",
+   "en": "Don't mean to spoil a nice day, but I gotta ask...",
+   "ro": "Nu vreau să ți-o stric, da' trebuie să întreb..."
+  },
+  {
+   "key": "1846042691554643968",
+   "en": "How's Randy holdin' up?",
+   "en_m": "How's, uh, Randy holdin' up?",
+   "ro": "Cum o duce Randy?"
+  },
+  {
+   "key": "1846043889145876480",
+   "en": "He's looking for his old self.",
+   "ro": "Încearcă să fie iar el însuși."
+  },
+  {
+   "key": "1846044045777965056",
+   "en": "Physically, though –  it'll be a long road before he's back to full health.",
+   "ro": "Fizic, în schimb – o să-i ia mult până-și revine complet."
+  },
+  {
+   "key": "1846044205362843648",
+   "en": "And mentally? That was some experience…",
+   "en_m": "And, uh, mentally? That was some experience…",
+   "ro": "Și psihic? Ce experiență…"
+  },
+  {
+   "key": "1846044378235277312",
+   "en": "What Harris did to him – fucked as this might sound – might've helped the kid.",
+   "ro": "Ce i-a făcut Harris – oricât de dement ar suna – poate l-a ajutat pe puști."
+  },
+  {
+   "key": "1846044517838491648",
+   "en": "Could be wrong, but... it feels like a clean break for him.",
+   "ro": "Poate greșesc, dar... pare o tăietură curată pentru el."
+  },
+  {
+   "key": "1846048007214206976",
+   "en": "What about Peter Pan?",
+   "ro": "Dar Peter Pan?"
+  },
+  {
+   "key": "1846048161312935936",
+   "en": "You're asking if I killed him.",
+   "ro": "Mă întrebi dacă l-am ucis."
+  },
+  {
+   "key": "1846048601681301504",
+   "en": "We'll talk later, OK?",
+   "ro": "Vorbim mai încolo, da?"
+  },
+  {
+   "key": "1846049752095002624",
+   "en": "Sure, no pressure. It's just I... y'know.",
+   "en_m": "Sure, no pressure. It's just I, uh... y'know.",
+   "ro": "Sigur, fără presiune. Doar că eu... știi cum e."
+  },
+  {
+   "key": "1846050296297558016",
+   "en": "I know.",
+   "ro": "Știu."
+  },
+  {
+   "key": "1846053967571849216",
+   "en": "All right, I think you've stirred enough.",
+   "ro": "Bine, cred că ai amestecat destul."
+  },
+  {
+   "key": "1846054508049862656",
+   "en": "Mind grabbing the rice from the kitchen?",
+   "ro": "Mi-aduci orezul din bucătărie?"
+  },
+  {
+   "key": "1846055070556360704",
+   "en": "Yes, sir.",
+   "ro": "Da, domnule."
+  },
+  {
+   "key": "1848698917249748992",
+   "en": "I paid him a visit at the hospital.",
+   "ro": "L-am vizitat la spital."
+  },
+  {
+   "key": "1848836810983215104",
+   "en": "I pressed the gun to his head and…",
+   "ro": "I-am pus pistolul la cap și…"
+  },
+  {
+   "key": "1848838973096595456",
+   "en": "Remembered something…",
+   "ro": "Mi-am amintit de ceva…"
+  },
+  {
+   "key": "1848839389590982656",
+   "en": "How my parents died. Sure you want to hear this…?",
+   "ro": "Cum au murit părinții mei. Sigur vrei să auzi asta…?"
+  },
+  {
+   "key": "1848842770518773760",
+   "en": "You know, probably not the best time now?",
+   "ro": "Știi, poate nu e momentul potrivit acum?"
+  },
+  {
+   "key": "1848844123685130240",
+   "en": "Old man had a farm, like Harris' dad. But when business took a turn, well…",
+   "ro": "Bătrânul avea o fermă, ca tatăl lui Harris. Dar când au mers afacerile prost, păi…"
+  },
+  {
+   "key": "1848844563667619840",
+   "en": "My parents managed to open a small grocery. We lived on the floor above.",
+   "ro": "Părinții mei au reușit să deschidă o alimentară mică. Locuiam chiar deasupra."
+  },
+  {
+   "key": "1848848292437430272",
+   "en": "They wanted cash, register was empty, so they stormed upstairs.",
+   "ro": "Vroiau bani, casa de marcat era goală, așa că au năvălit sus."
+  },
+  {
+   "key": "1848850226045128704",
+   "en": "Forced us all to kneel and demanded my dad tell 'em where he hid the money.",
+   "ro": "Ne-au pus pe toți în genunchi și i-au cerut tatei să le spună unde ținea banii."
+  },
+  {
+   "key": "1848850575984300032",
+   "en": "Mostly I remember my mom cryin' while my dad swore they'd found all we had…",
+   "ro": "Cel mai mult îmi aduc aminte de mama plângând, în timp ce tata jura că au găsit tot ce aveam…"
+  },
+  {
+   "key": "1848851324013252608",
+   "en": "River, you don't gotta go on…",
+   "ro": "River, n-ai de ce să continui…"
+  },
+  {
+   "key": "1848851350722580480",
+   "en": "One was skezzed out of his mind. He fired first, blew half my dad's skull off.",
+   "ro": "Unul era drogat până în măduva oaselor. A tras primul, i-a zburat jumătate din craniu tatălui meu."
+  },
+  {
+   "key": "1848851547468992512",
+   "en": "Heard sob stories enough?",
+   "ro": "Ți-ajung poveștile astea triste?"
+  },
+  {
+   "key": "1848852298937274368",
+   "en": "Jesus, River... I'm sorry.",
+   "ro": "Doamne, River... îmi pare rău."
+  },
+  {
+   "key": "1848852456743768064",
+   "en": "He was erratic, went rabid. Handed me his gun and ordered me to aim it at my mom's head.",
+   "ro": "Era scos din minți, a luat-o razna. Mi-a dat pistolul și mi-a ordonat să-l țintesc spre capul mamei."
+  },
+  {
+   "key": "1848852641561579520",
+   "en": "I still can see her tear filled eyes at the end of that barrel to this day.",
+   "ro": "Și până azi îi văd ochii plini de lacrimi la capătul țevii."
+  },
+  {
+   "key": "1848854783324196864",
+   "en": "What'd you do?",
+   "ro": "Ce-ai făcut?"
+  },
+  {
+   "key": "1848855534691815424",
+   "en": "Nothin'. I stood frozen.",
+   "ro": "Nimic. Am stat înghețat."
+  },
+  {
+   "key": "1848855891811635200",
+   "en": "Finally he just snatched the gun back, shot my mother and they left. Police never caught 'em.",
+   "ro": "La final i-a smuls pistolul, a împușcat-o pe mama și au plecat. Poliția nu i-a prins niciodată."
+  },
+  {
+   "key": "1848856729229594624",
+   "en": "That was why I joined the force. I couldn't agree with scum like that roaming free, no one to hunt 'em.",
+   "ro": "De-asta m-am făcut polițist. Nu suportam ca șobolanii ăia să umble liberi, fără ca nimeni să-i vâneze."
+  },
+  {
+   "key": "1848858376265666560",
+   "en": "Can't tell you how sorry I am.",
+   "ro": "Nu-ți pot spune cât îmi pare de rău."
+  },
+  {
+   "key": "1848858380745183232",
+   "en": "Was Joss there too? Saw all this?",
+   "ro": "Și Joss era acolo? A văzut tot?"
+  },
+  {
+   "key": "1848858960918089728",
+   "en": "So when I stood over Harris in that hospital bed, barrel to his brow…",
+   "ro": "Așa că, pe când stăteam deasupra lui Harris în patul de spital, cu țeava la tâmplă…"
+  },
+  {
+   "key": "1848859445041434624",
+   "en": "Mhm. And I think, when she looks at me, she still sees that boy holdin' a gun to her mom's head.",
+   "ro": "Mhm. Cred că, uitându-se la mine, vede tot băiatul ăla cu pistolul la capul mamei ei."
+  },
+  {
+   "key": "1848860489305690112",
+   "en": "I was that kid again... But I was also the junkie who shot my parents.",
+   "ro": "Eram iar copilul ăla... Dar eram și drogatul care și-a împușcat părinții."
+  },
+  {
+   "key": "1848863771298238464",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1848863808040341504",
+   "en": "Didn't kill him, then?",
+   "ro": "Atunci nu l-ai ucis?"
+  },
+  {
+   "key": "1848864659970592768",
+   "en": "I've ended a few lives in my time... but never like that. Never an execution.",
+   "ro": "Am luat câteva vieți de-a lungul timpului... dar niciodată așa. Niciodată o execuție."
+  },
+  {
+   "key": "1848864978016276480",
+   "en": "I slipped outta the hospital quick, told myself the case was closed.",
+   "ro": "Am ieșit repede din spital și mi-am zis că dosarul e închis."
+  },
+  {
+   "key": "1848867727248330752",
+   "en": "That's good. But what now? You're not goin' back to the PD?",
+   "en_m": "That's good. But what now? You're not goin' back to the PD…",
+   "ro": "Bine. Și acum ce? Nu te mai întorci la poliție?"
+  },
+  {
+   "key": "1848868130287390720",
+   "en": "\"PI\" has a nice ring to it. Who knows – we'll see.",
+   "ro": "„PI” sună bine. Cine știe, o să vedem."
+  },
+  {
+   "key": "1872262060496261120",
+   "en": "A loud noise woke us one night…",
+   "ro": "Un zgomot puternic ne-a trezit într-o noapte…"
+  },
+  {
+   "key": "1904172619986505728",
+   "en": "River's out back. Y'know, he can't seem to stop gushin' about you.",
+   "en_m": "River's in the backyard. He couldn't wait to see you again.",
+   "ro": "River e în spate. Știi, nu mai contenește să vorbească despre tine.",
+   "ro_m": "River e în curtea din spate. Abia aștepta să te vadă iar."
+  },
+  {
+   "key": "1905691732789563392",
+   "en": "That's exactly what I told 'em. But I always got the same speech back. Nobody cares about these kids who don't exactly fit the mold.",
+   "ro": "Exact asta le-am zis. Dar mereu primeam același discurs. Nimănui nu-i pasă de copiii ăștia care nu intră deloc în tipar."
+  },
+  {
+   "key": "1905692788026118144",
+   "en": "In those words, yeah. Wanted to tear my hair out every time I heard 'em.",
+   "ro": "Exact cu vorbele astea, da. Voiam să-mi smulg părul din cap de fiecare dată când le auzeam."
+  },
+  {
+   "key": "1921535222464090116",
+   "en": "Hm, I think it was here…",
+   "ro": "Hm, cred că era aici…"
+  },
+  {
+   "key": "1937170448015921156",
+   "en": "Umm, rice?",
+   "ro": "Ăă, orez?"
+  },
+  {
+   "key": "1937171366165843968",
+   "en": "How you doin', Joss?",
+   "ro": "Ce faci, Joss?"
+  },
+  {
+   "key": "1937172822092648448",
+   "en": "Um, where'll I find the rice?",
+   "ro": "Ăă, unde e orezul?"
+  },
+  {
+   "key": "1937174436111159296",
+   "en": "I'll call you back later.",
+   "ro": "Te sun mai târziu."
+  },
+  {
+   "key": "1937204120140091392",
+   "en": "Anyway, the rice is… right there.",
+   "ro": "Oricum, orezul e… chiar acolo."
+  },
+  {
+   "key": "1944599319619448832",
+   "en": "[Stir] This a family recipe?",
+   "ro": "[Amestecă] Rețeta asta e de familie?"
+  },
+  {
+   "key": "1968168959607242752",
+   "en": "How's Randy doin'?",
+   "ro": "Ce face Randy?"
+  },
+  {
+   "key": "1969089996066848768",
+   "en": "You kill him?",
+   "ro": "L-ai ucis?"
+  },
+  {
+   "key": "1969089996083626012",
+   "en": "He still in a coma?",
+   "ro": "E încă în comă?"
+  },
+  {
+   "key": "1969089996469501952",
+   "en": "You don't have to go on...",
+   "ro": "Nu trebuie să continui..."
+  },
+  {
+   "key": "1969089996771491840",
+   "en": "Can't tell you how sorry I am.",
+   "ro": "Nu-ți pot spune cât îmi pare de rău."
+  },
+  {
+   "key": "1969089996788269056",
+   "en": "Joss witnessed all this?",
+   "ro": "Joss a văzut tot?"
+  },
+  {
+   "key": "1969089996888932352",
+   "en": "I understand.",
+   "ro": "Înțeleg."
+  },
+  {
+   "key": "1969089996905709572",
+   "en": "Didn't kill him, then?",
+   "ro": "Atunci nu l-ai ucis?"
+  },
+  {
+   "key": "1969106268590637056",
+   "en": "OK, now this has to bubble and brew. Patio?",
+   "ro": "OK, acum trebuie să dea în clocot și să fiarbă. Hai pe terasă?"
+  },
+  {
+   "key": "1969153477763858432",
+   "en": "Grab a chair… and a beer or something else.",
+   "ro": "Ia un scaun… și o bere sau altceva."
+  },
+  {
+   "key": "1969159772726296576",
+   "en": "[Sit] This is nice.",
+   "ro": "[Se așază] Ce bine e aici."
+  },
+  {
+   "key": "1969161237058486272",
+   "en": "It's nice out here.",
+   "ro": "Ce bine e afară."
+  },
+  {
+   "key": "1969188799994331136",
+   "en": "Uncle River, you said you'd play with us!",
+   "ro": "Unchiule River, ai spus că te joci cu noi!"
+  },
+  {
+   "key": "1969530769014980608",
+   "en": "Yeah. It seems all good, like nothing bad ever happened.",
+   "ro": "Da. Pare totul în regulă, de parcă n-ar fi fost nimic rău."
+  },
+  {
+   "key": "1970444021232238608",
+   "en": "Sure. No pressure.",
+   "ro": "Sigur. Fără presiune."
+  },
+  {
+   "key": "1970445471790333952",
+   "en": "Peter Pan – revenge exacted?",
+   "ro": "Peter Pan – răzbunare împlinită?"
+  },
+  {
+   "key": "1970445528128225280",
+   "en": "How's Randy holdin' up?",
+   "ro": "Cum se ține Randy?"
+  },
+  {
+   "key": "1970455480255315968",
+   "en": "How are you?",
+   "ro": "Ce faci?"
+  },
+  {
+   "key": "1978155355433881600",
+   "en": "Um, soymeat? OK.",
+   "ro": "Ăă, carne de soia? OK."
+  },
+  {
+   "key": "1978162610673831936",
+   "en": "Gotta keep mixin' if it's not gonna burn.",
+   "ro": "Trebuie să tot amesteci, că arde."
+  },
+  {
+   "key": "1978165895501729796",
+   "en": "Still stirrin'?",
+   "ro": "Tot amesteci?"
+  },
+  {
+   "key": "1978168286104014848",
+   "en": "Bet my socks you've never had better jambalaya.",
+   "ro": "Pun pariu că n-ai mâncat niciodată jambalaya mai bună."
+  },
+  {
+   "key": "1978169142832549888",
+   "en": "Just need to mince some celery and garlic. But you stir, please. Stir.",
+   "ro": "Trebuie doar să tocăm niște țelină și usturoi. Dar tu amestecă, te rog. Amestecă."
+  },
+  {
+   "key": "1978170469407019008",
+   "en": "I'm stirrin', I'm stirrin'.",
+   "ro": "Amestec, amestec."
+  },
+  {
+   "key": "1978181018886885376",
+   "en": "Rice is in.",
+   "ro": "Orezul e în oală."
+  },
+  {
+   "key": "1978184846071844864",
+   "en": "Tell me now? About Harris?",
+   "ro": "Acum îmi spui? Despre Harris?"
+  },
+  {
+   "key": "1978187298179403776",
+   "en": "River...?",
+   "ro": "River...?"
+  },
+  {
+   "key": "1978190352219918340",
+   "en": "Hmm. Maybe not just now.",
+   "ro": "Hmm. Poate nu chiar acum."
+  },
+  {
+   "key": "1978191222168899584",
+   "en": "Your parents – what happened?",
+   "ro": "Părinții tăi – ce s-a întâmplat?"
+  },
+  {
+   "key": "1978194030188318720",
+   "en": "What… happened?",
+   "ro": "Ce… s-a întâmplat?"
+  },
+  {
+   "key": "1978198353207119872",
+   "en": "We were gonna do the nice, relaxing thing. Uh, sounds heavy, this.",
+   "ro": "Voiam să facem ceva plăcut, relaxant. Ăă, sună greu, asta."
+  },
+  {
+   "key": "1978200006031331328",
+   "en": "OK, yeah. You're probably right.",
+   "ro": "OK, da. Probabil ai dreptate."
+  },
+  {
+   "key": "1978200586254569472",
+   "en": "Just… Harris – what did you do? Had the gun to his head and…?",
+   "ro": "Doar… Harris – ce-ai făcut? I-ai pus pistolul la cap și…?"
+  },
+  {
+   "key": "1978208606367797248",
+   "en": "No, just… this is tough, I can tell. You really don't need to rehash it now.",
+   "ro": "Nu, doar… e greu, se vede. N-ai de ce să-l reiei acum."
+  },
+  {
+   "key": "1978212477777498112",
+   "en": "You promised!",
+   "ro": "Ai promis!"
+  },
+  {
+   "key": "1978212788743196672",
+   "en": "All right, all right. Let's go. V, join us?",
+   "ro": "Bine, bine. Hai să mergem. V, vii și tu?"
+  },
+  {
+   "key": "1978213316285976580",
+   "en": "[Stand] What are we playing?",
+   "ro": "[Ridică-te] Ce jucăm?"
+  },
+  {
+   "key": "1978213966939967488",
+   "en": "What're we gonna play, Uncle River?",
+   "ro": "Ce jucăm, Unchiul River?"
+  },
+  {
+   "key": "1978214595582251008",
+   "en": "You'll see!",
+   "ro": "O să vezi!"
+  },
+  {
+   "key": "1978220510171648000",
+   "en": "Heh. I'm so quick to break down.",
+   "ro": "Heh. Mă las prea ușor."
+  },
+  {
+   "key": "2044836924885184520",
+   "en": "Joss wouldn't be more help?",
+   "ro": "Joss n-ar fi de folos?"
+  },
+  {
+   "key": "2047363457415053312",
+   "en": "[Stir]",
+   "ro": "[Amestecă]"
+  },
+  {
+   "key": "2119840637512724480",
+   "en": "[Wait]",
+   "ro": "[Așteaptă]"
+  },
+  {
+   "key": "2222888715950518276",
+   "en": "[Stand]",
+   "ro": "[Ridică-te]"
+  },
+  {
+   "key": "2230311342334685184",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "2443210360907657220",
+   "en": "Hey, what's up?",
+   "ro": "Hei, ce faci?"
+  },
+  {
+   "key": "2483811212787097600",
+   "en": "Hey. How's it goin'?",
+   "ro": "Hei. Ce mai faci?"
+  }
+ ]
+}

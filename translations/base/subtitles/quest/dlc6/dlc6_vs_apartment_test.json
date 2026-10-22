@@ -1,0 +1,125 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\dlc6\\dlc6_vs_apartment_test.json",
+ "entries": [
+  {
+   "key": "2627144322164629508",
+   "en": "[db_db]dlc6_apart_cct_dtn [City Centre Downtown]",
+   "ro": "[db_db]dlc6_apart_cct_dtn [Centrul Orașului Downtown]"
+  },
+  {
+   "key": "2688156543119958016",
+   "en": "[db_db]dlc6_apart_hey_gle [Heywood Glen]",
+   "ro": "[db_db]dlc6_apart_hey_gle [Heywood Glen]"
+  },
+  {
+   "key": "2740351868311871488",
+   "en": "[db_db]dlc6_apart_wat_nid [ Watson North Industrial District]",
+   "ro": "[db_db]dlc6_apart_wat_nid [ Districtul Industrial de Nord, Watson]"
+  },
+  {
+   "key": "2740352316330647552",
+   "en": "[db_db]dlc6_apart_wbr_jpn [Westbrook Japantown]",
+   "ro": "[db_db]dlc6_apart_wbr_jpn [Westbrook Japantown]"
+  },
+  {
+   "key": "3041634146205999104",
+   "en": "[db_db]Test interactions at Kerry's Villa",
+   "ro": "[db_db]Interacțiuni de test la vila lui Kerry"
+  },
+  {
+   "key": "3043413933610147840",
+   "en": "[db_db]Test interactions in Megabuilding",
+   "ro": "[db_db]Interacțiuni de test în Megabuilding"
+  },
+  {
+   "key": "3054677394193293316",
+   "en": "[db_db]Black And Gold",
+   "ro": "[db_db]Negru și auriu"
+  },
+  {
+   "key": "3054678424599568384",
+   "en": "[db_db]White",
+   "ro": "[db_db]Alb"
+  },
+  {
+   "key": "3054678481004568576",
+   "en": "[db_db]Blue and Yellow",
+   "ro": "[db_db]Albastru și galben"
+  },
+  {
+   "key": "3054678591331540992",
+   "en": "[db_db]Lime and Purple",
+   "ro": "[db_db]Lime și violet"
+  },
+  {
+   "key": "3054678810743971840",
+   "en": "[db_db]Pink and Teal",
+   "ro": "[db_db]Roz și turcoaz"
+  },
+  {
+   "key": "3054678982005792768",
+   "en": "[db_db]Default",
+   "ro": "[db_db]Implicit"
+  },
+  {
+   "key": "3060926194557820928",
+   "en": "[db_db]Nibbles Sleep 01",
+   "ro": "[db_db]Nibbles doarme 01"
+  },
+  {
+   "key": "3060926316058419200",
+   "en": "[db_db]Nibbles Scratch couch",
+   "ro": "[db_db]Nibbles zgârie canapeaua"
+  },
+  {
+   "key": "3060926484501667840",
+   "en": "[db_db]Nibbles lies",
+   "ro": "[db_db]Nibbles se culcă"
+  },
+  {
+   "key": "3060926601489195008",
+   "en": "[db_db]Nibbles idle",
+   "ro": "[db_db]Nibbles în repaus"
+  },
+  {
+   "key": "3060926690609766400",
+   "en": "[db_db]Nibbles clean",
+   "ro": "[db_db]Nibbles se curăță"
+  },
+  {
+   "key": "3060927637314510848",
+   "en": "[db_db]Nibbles Sleep 02",
+   "ro": "[db_db]Nibbles doarme 02"
+  },
+  {
+   "key": "3064982771355000832",
+   "en": "[db_db]Test interactions at Judy's Apartment",
+   "ro": "[db_db]Interacțiuni de test la Apartamentul lui Judy"
+  },
+  {
+   "key": "3064982872890712064",
+   "en": "[db_db]Test interactions at River's Trailer Park",
+   "ro": "[db_db]Interacțiuni de test la parcul de rulote al lui River"
+  },
+  {
+   "key": "3064983034958618624",
+   "en": "[db_db]Test interactions at Panam's Nomad Camp",
+   "ro": "[db_db]Interacțiuni de test la Tabăra nomazilor lui Panam"
+  },
+  {
+   "key": "3612943267223433220",
+   "en": "[db_db]streetkid",
+   "ro": "[db_db]Street Kid"
+  },
+  {
+   "key": "3612943472392007680",
+   "en": "[db_db]corpo",
+   "ro": "[db_db]corpo"
+  },
+  {
+   "key": "3612943603153629184",
+   "en": "[db_db]nomad",
+   "ro": "[db_db]nomad"
+  }
+ ]
+}

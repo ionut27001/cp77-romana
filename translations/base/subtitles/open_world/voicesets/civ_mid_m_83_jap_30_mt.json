@@ -1,0 +1,85 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\civ_mid_m_83_jap_30_mt.json",
+ "entries": [
+  {
+   "key": "1949016093127991300",
+   "en": "<kiroshi l=\"jpn\" o=\"やあ\" t=\"Hello.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やあ\" t=\"Salut.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093144768516",
+   "en": "<kiroshi l=\"jpn\" o=\"静かに過ごしたいだけだよ\" t=\"I just want some peace and quiet.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"静かに過ごしたいだけだよ\" t=\"Vreau doar puțină liniște.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093195100164",
+   "en": "<kiroshi l=\"jpn\" o=\"おい！\" t=\"Hey!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"おい！\" t=\"Hei!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093228654596",
+   "en": "<kiroshi l=\"jpn\" o=\"やめろ\" t=\"Stop it.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やめろ\" t=\"Oprește-te!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093262209028",
+   "en": "<kiroshi l=\"jpn\" o=\"はい？\" t=\"Yes?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"はい？\" t=\"Da?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093312540676",
+   "en": "<kiroshi l=\"jpn\" o=\"何か特別なものにしたいですね…\" t=\"I want it to be something really special...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何か特別なものにしたいですね…\" t=\"Vreau să fie ceva special...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093329317892",
+   "en": "<kiroshi l=\"jpn\" o=\"ふむ… そういうのなら持ってたかもしれません… 古い漫画はみんな欲しがりますから…\" t=\"Hmm... I think I have something like that... People always want old comics...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"ふむ… そういうのなら持ってたかもしれません… 古い漫画はみんな欲しがりますから…\" t=\"Hmm... Cred că am ceva de genul ăsta... Oamenii vor mereu benzi desenate vechi...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093362872324",
+   "en": "<kiroshi l=\"jpn\" o=\"いえ、こちらこそありがとうございます\" t=\"No, thank you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"いえ、こちらこそありがとうございます\" t=\"Nu, mulțumesc!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093530644484",
+   "en": "<kiroshi l=\"jpn\" o=\"みんな！ 逃げろ！\" t=\"Everyone! Run!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"みんな！ 逃げろ！\" t=\"Toată lumea! Fugiți!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093564198916",
+   "en": "<kiroshi l=\"jpn\" o=\"やめてくれ！ お願いだ！\" t=\"No, no, no! Please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"やめてくれ！ お願いだ！\" t=\"Nu, nu, nu! Te rog!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093681639428",
+   "en": "<kiroshi l=\"jpn\" o=\"勘弁してくれ！\" t=\"Mercy!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"勘弁してくれ！\" t=\"Îndurare!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093715193860",
+   "en": "<kiroshi l=\"jpn\" o=\"頼む！ 何もしてないだろ！\" t=\"Please! I have done nothing to you!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"頼む！ 何もしてないだろ！\" t=\"Te rog! Nu ți-am făcut nimic!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093782302724",
+   "en": "<kiroshi l=\"jpn\" o=\"とにかく放っといてくれ！\" t=\"Just leave me alone, please!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"とにかく放っといてくれ！\" t=\"Lasă-mă în pace, te rog!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949016093815857156",
+   "en": "<kiroshi l=\"jpn\" o=\"何がしたいんだ？\" t=\"What do you want?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"何がしたいんだ？\" t=\"Ce vrei?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949017515970125824",
+   "en": "<kiroshi l=\"jpn\" o=\"本ですか、いいですね！ 100年、いや200年前の古いものを見つければ… ええ…\" t=\"A book, of course! Maybe one hundred, even two hundred years old... Mh-hm...\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"本ですか、いいですね！ 100年、いや200年前の古いものを見つければ… ええ…\" t=\"Sigur, o carte! Poate de o sută, chiar două sute de ani... Mh-hm...\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1949018112953802752",
+   "en": "<kiroshi l=\"jpn\" o=\"奥様、家に帰って調べてみて、それから連絡を差し上げますよ。それでよろしいですか？\" t=\"Ma'am, let me go home and check first, and then I'll call you, OK?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"jpn\" o=\"奥様、家に帰って調べてみて、それから連絡を差し上げますよ。それでよろしいですか？\" t=\"Doamnă, mă duc acasă să verific întâi, apoi vă sun, OK?\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

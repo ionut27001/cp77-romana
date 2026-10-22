@@ -1,0 +1,20 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_04.json",
+ "entries": [
+  {
+   "key": "2276536222213120016",
+   "en": "FM-2030. Read up on him. Now he was the man. They've kept 'im in cryostasis to this day – collection of some billionaire from Bahrain or wherever the fuck.",
+   "ro": "FM-2030. Citește despre el. Pe vremea aia era tipul. L-au ținut în criostază până azi – colecție a vreunui miliardar din Bahrain sau de unde dracu'."
+  },
+  {
+   "key": "2276536222229897216",
+   "en": "<kiroshi l=\"rus\" o=\"Ты про Фёдорова слышал? Это с него всё началось, он всё предсказал. Остальные уже потом присоединились.\" t=\"Ever heard of Fyodor? It all started with him. He predicted everything. Everyone else is just a lousy imitator.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты про Фёдорова слышал? Это с него всё началось, он всё предсказал. Остальные уже потом присоединились.\" t=\"Ai auzit de Fyodor? Totul a pornit de la el. A prezis tot. Ceilalți sunt doar copiatori penibili.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "2276536222229897228",
+   "en": "Oh yeah? But did they preserve your guy in cryostasis? Didn't think so. So stop tryna get smart with me and get back to work.",
+   "ro": "Da? Dar pe ăla al tău l-au băgat în criostază? Nu cred. Așa că nu mai încerca să te dai deștept și întoarce-te la treabă."
+  }
+ ]
+}

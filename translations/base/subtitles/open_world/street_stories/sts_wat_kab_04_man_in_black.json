@@ -1,0 +1,40 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_04_man_in_black.json",
+ "entries": [
+  {
+   "key": "1664744714262646784",
+   "en": "<kiroshi l=\"rus\" o=\"Я вот думаю, что сила в правде, а не в деньгах.\" t=\"I believe true power lies not in fortune, but in truth.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Я вот думаю, что сила в правде, а не в деньгах.\" t=\"Cred că adevărata putere nu stă în avere, ci în adevăr.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1664747014670618624",
+   "en": "<kiroshi l=\"rus\" o=\"Вот ты обманул кого-то, денег нажил.\" t=\"But you – you profited by cheating a man.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Вот ты обманул кого-то, денег нажил.\" t=\"Dar tu – ai făcut bani păcălind un om.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1664747243276963840",
+   "en": "<kiroshi l=\"rus\" o=\"Слышь, задолбал проповедями.\" t=\"Cut this crazy prophet shit out already.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Слышь, задолбал проповедями.\" t=\"Gata cu predicile de profet nebun, m-ai săturat.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1664747625411612672",
+   "en": "<kiroshi l=\"rus\" o=\"Не стал. Вот тебе и ответ.\" t=\"No. That's the answer.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Не стал. Вот тебе и ответ.\" t=\"Nu. Asta e răspunsul.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699896373934395392",
+   "en": "<kiroshi l=\"rus\" o=\"У кого в руках правда, тот и сильней.\" t=\"He who holds truth in one hand, holds power in the other.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"У кого в руках правда, тот и сильней.\" t=\"Cine ține adevărul într-o mână, ține puterea în cealaltă.\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699896629216514048",
+   "en": "<kiroshi l=\"rus\" o=\"И чё, ты сильнее стал?\" t=\"Did it make you strong?\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"И чё, ты сильнее стал?\" t=\"Te-a făcut puternic?\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1699896960214208512",
+   "en": "<kiroshi l=\"rus\" o=\"Ты обманул, правда от тебя ушла и сделала обманутого сильней.\" t=\"The truth abandoned you for the man you cheated and made HIM strong.\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"rus\" o=\"Ты обманул, правда от тебя ушла и сделала обманутого сильней.\" t=\"Adevărul te-a părăsit pentru omul pe care l-ai înșelat și l-a făcut pe EL puternic.\" b=\"\" a=\"\"/>"
+  }
+ ]
+}

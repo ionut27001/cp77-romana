@@ -1,0 +1,205 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\combat_voiceset_scene_block.json",
+ "entries": [
+  {
+   "key": "1625548647180898304",
+   "en": "[db_db]Greeting A",
+   "ro": "[db_db]Greeting A"
+  },
+  {
+   "key": "1625549251731099648",
+   "en": "[db_db]Greeting B",
+   "ro": "[db_db]Greeting B"
+  },
+  {
+   "key": "1625570508379885568",
+   "en": "[db_db]Reprimand Ask To Leave A",
+   "ro": "[db_db]Reprimand Ask To Leave A"
+  },
+  {
+   "key": "1625570508396662784",
+   "en": "[db_db]Reprimand Ask To Leave B",
+   "ro": "[db_db]Reprimand Ask To Leave B"
+  },
+  {
+   "key": "1625572863682908160",
+   "en": "[db_db]Reprimand Ask To Holster A",
+   "ro": "[db_db]Reprimand Ask To Holster A"
+  },
+  {
+   "key": "1625572863699685376",
+   "en": "[db_db]Reprimand Ask To Holster B",
+   "ro": "[db_db]Reprimand Ask To Holster B"
+  },
+  {
+   "key": "1625590316869718016",
+   "en": "[db_db]Reprimand Final Warning A",
+   "ro": "[db_db]Reprimand Final Warning A"
+  },
+  {
+   "key": "1625590316903272448",
+   "en": "[db_db]Reprimand Final Warning B",
+   "ro": "[db_db]Reprimand Final Warning B"
+  },
+  {
+   "key": "1625590387619237888",
+   "en": "[db_db]Reprimand Complies A",
+   "ro": "[db_db]Reprimand Complies A"
+  },
+  {
+   "key": "1625590387636015104",
+   "en": "[db_db]Reprimand Complies B",
+   "ro": "[db_db]Reprimand Complies B"
+  },
+  {
+   "key": "1625590494422994944",
+   "en": "[db_db]Stealth Curious A",
+   "ro": "[db_db]Furișare Curious A"
+  },
+  {
+   "key": "1625590494439772160",
+   "en": "[db_db]Stealth Curious B",
+   "ro": "[db_db]Furișare Curious B"
+  },
+  {
+   "key": "1625598629309157376",
+   "en": "[db_db]Stealth Patrol Back A",
+   "ro": "[db_db]Furișare Patrol Back A"
+  },
+  {
+   "key": "1625598629325934592",
+   "en": "[db_db]Stealth Patrol Back B",
+   "ro": "[db_db]Furișare Patrol Back B"
+  },
+  {
+   "key": "1625598774717288448",
+   "en": "[db_db]Stealth Search A",
+   "ro": "[db_db]Furișare Search A"
+  },
+  {
+   "key": "1625598774734065664",
+   "en": "[db_db]Stealth Search B",
+   "ro": "[db_db]Furișare Search B"
+  },
+  {
+   "key": "1625598844057522176",
+   "en": "[db_db]Stealth Body",
+   "ro": "[db_db]Furișare Corp"
+  },
+  {
+   "key": "1625602419097702400",
+   "en": "[db_db]Stealth Call",
+   "ro": "[db_db]Furișare Call"
+  },
+  {
+   "key": "1625602499326349312",
+   "en": "[db_db]Danger A",
+   "ro": "[db_db]Danger A"
+  },
+  {
+   "key": "1625602499359903744",
+   "en": "[db_db]Danger B",
+   "ro": "[db_db]Danger B"
+  },
+  {
+   "key": "1625612200382402560",
+   "en": "[db_db]Enemy Throwing grenade at V",
+   "ro": "[db_db]Enemy Throwing grenade at V"
+  },
+  {
+   "key": "1625612314752684032",
+   "en": "[db_db]Battlecry Morale A",
+   "ro": "[db_db]Battlecry Morale A"
+  },
+  {
+   "key": "1625612314769461248",
+   "en": "[db_db]Battlecry Morale B",
+   "ro": "[db_db]Battlecry Morale B"
+  },
+  {
+   "key": "1625612366191628288",
+   "en": "[db_db]Battlecry Morale C",
+   "ro": "[db_db]Battlecry Morale C"
+  },
+  {
+   "key": "1625612366208405504",
+   "en": "[db_db]Battlecry Curse B",
+   "ro": "[db_db]Battlecry Curse B"
+  },
+  {
+   "key": "1625614313506312192",
+   "en": "[db_db]Bump A",
+   "ro": "[db_db]Bump A"
+  },
+  {
+   "key": "1625614313523089408",
+   "en": "[db_db]Bump B",
+   "ro": "[db_db]Bump B"
+  },
+  {
+   "key": "1625615051737370624",
+   "en": "[db_db]Phone Start",
+   "ro": "[db_db]Phone Start"
+  },
+  {
+   "key": "1625615119383105536",
+   "en": "[db_db]Phone A",
+   "ro": "[db_db]Phone A"
+  },
+  {
+   "key": "1625615119399882752",
+   "en": "[db_db]Phone B",
+   "ro": "[db_db]Phone B"
+  },
+  {
+   "key": "1625652938700853248",
+   "en": "[db_db]Flank Order",
+   "ro": "[db_db]Flank Order"
+  },
+  {
+   "key": "1625653692299841536",
+   "en": "[db_db]Flank Reaction",
+   "ro": "[db_db]Flank Reaction"
+  },
+  {
+   "key": "1625655252631261184",
+   "en": "[db_db]Run from Grenade",
+   "ro": "[db_db]Run from Grenade"
+  },
+  {
+   "key": "1695564949177794560",
+   "en": "[db_db]Phone End",
+   "ro": "[db_db]Phone End"
+  },
+  {
+   "key": "1763356787634118656",
+   "en": "[db_db]Stealth Curious C",
+   "ro": "[db_db]Furișare Curious C"
+  },
+  {
+   "key": "1763362543091621888",
+   "en": "[db_db]Stealth Curious Together A",
+   "ro": "[db_db]Furișare Curious Together A"
+  },
+  {
+   "key": "1763362712054964224",
+   "en": "[db_db]Stealth Curious Together B",
+   "ro": "[db_db]Furișare Curious Together B"
+  },
+  {
+   "key": "1763365391024037888",
+   "en": "[db_db]Stealth Order",
+   "ro": "[db_db]Furișare Order"
+  },
+  {
+   "key": "1763371321417572352",
+   "en": "[db_db]Battlecry Morale C",
+   "ro": "[db_db]Battlecry Morale C"
+  },
+  {
+   "key": "1763619903571795968",
+   "en": "[db_db]Grapple",
+   "ro": "[db_db]Grapple"
+  }
+ ]
+}

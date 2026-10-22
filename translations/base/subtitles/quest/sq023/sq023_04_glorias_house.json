@@ -1,0 +1,819 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\quest\\sq023\\sq023_04_glorias_house.json",
+ "entries": [
+  {
+   "key": "1561834548131422208",
+   "en": "You're... late!",
+   "ro": "Ai... întârziat!"
+  },
+  {
+   "key": "1561845962845872128",
+   "en": "I... found a companion along the way.",
+   "ro": "Am... dat peste un tovarăș pe drum."
+  },
+  {
+   "key": "1561846529244684288",
+   "en": "Someone from the studio?",
+   "ro": "Cineva de la studio?"
+  },
+  {
+   "key": "1561849602897764352",
+   "en": "V, meet Zuleikha.",
+   "ro": "V, fă cunoștință cu Zuleikha."
+  },
+  {
+   "key": "1561932080983465984",
+   "en": "Zuleikha is the sister of the man I killed.",
+   "ro": "Zuleikha e sora bărbatului pe care l-am ucis."
+  },
+  {
+   "key": "1561943568947240960",
+   "en": "She wrote me letters while I was doing time.",
+   "ro": "Mi-a scris scrisori cât am făcut pușcărie."
+  },
+  {
+   "key": "1561961856397893632",
+   "en": "Joshua Stephenson... we meet again. And who are you?",
+   "ro": "Joshua Stephenson... iar ne vedem. Și tu cine ești?"
+  },
+  {
+   "key": "1772039950399672324",
+   "en": "[Stand] Let's go.",
+   "ro": "[Ridică-te] Hai să mergem."
+  },
+  {
+   "key": "1772040432862072832",
+   "en": "[Stand] Had enough of this, Josh. I'm out.",
+   "ro": "[Ridică-te] M-am săturat de porcăria asta, Josh. Mă car."
+  },
+  {
+   "key": "1772043282858086400",
+   "en": "We should leave. Really.",
+   "ro": "Trebuie să plecăm. Serios."
+  },
+  {
+   "key": "1772043536814804992",
+   "en": "Had enough of this, Josh.",
+   "ro": "M-am săturat de porcăria asta, Josh."
+  },
+  {
+   "key": "1772044680601505792",
+   "en": "Please, Mrs. El-Ahmar!",
+   "ro": "Vă rog, doamnă El-Ahmar!"
+  },
+  {
+   "key": "1772045029550821376",
+   "en": "Wait!",
+   "ro": "Stai!"
+  },
+  {
+   "key": "1772176648135741440",
+   "en": "Do you remember what you wrote me in your last letter? She is everything you spoke of.",
+   "en_m": "Do you remember what you wrote me in your last letter? He is everything you spoke of.",
+   "ro": "Îți amintești ce mi-ai scris în ultima scrisoare? Ea e tot ce ai descris.",
+   "ro_m": "Îți amintești ce mi-ai scris în ultima scrisoare? El e tot ce ai descris."
+  },
+  {
+   "key": "1773651305661698048",
+   "en": "Fuck off.",
+   "ro": "Du-te dracu'!"
+  },
+  {
+   "key": "1811138549722406912",
+   "en": "V. Pleasure.",
+   "ro": "V. Plăcere."
+  },
+  {
+   "key": "1811139031480164356",
+   "en": "Nice to meet ya.",
+   "ro": "Mă bucur să te cunosc."
+  },
+  {
+   "key": "1811148222190084096",
+   "en": "Wouldn't mind knowin' what's goin' on here. Anyone?",
+   "ro": "N-ar strica să știu ce-i pe-aici. Cineva?"
+  },
+  {
+   "key": "1811155094926286848",
+   "en": "Really wouldn't mind knowing what's going on.",
+   "ro": "Chiar n-ar strica să știu ce-i cu toate astea."
+  },
+  {
+   "key": "1811156189337640960",
+   "en": "You haven't told her anything?",
+   "en_m": "You haven't told him anything?",
+   "ro": "Nu i-ai spus nimic?"
+  },
+  {
+   "key": "1811156888880439296",
+   "en": "We just met. There wasn't time.",
+   "ro": "Tocmai ne-am cunoscut. N-a fost timp."
+  },
+  {
+   "key": "1811157650431827968",
+   "en": "Mama isn't... back yet. We can talk inside until she returns. Come in.",
+   "ro": "Mama nu-i acasă încă. Putem sta de vorbă înăuntru până vine. Intră."
+  },
+  {
+   "key": "1811157890446680064",
+   "en": "Mmm.",
+   "ro": "Mmm."
+  },
+  {
+   "key": "1811157976312471552",
+   "en": "You are a friend of Joshua's?",
+   "ro": "Ești prietenă cu Joshua?",
+   "ro_m": "Ești prieten cu Joshua?"
+  },
+  {
+   "key": "1811159385883828224",
+   "en": "You really are insane…",
+   "ro": "Chiar ești nebună…",
+   "ro_m": "Chiar ești nebun…"
+  },
+  {
+   "key": "1811161631665184772",
+   "en": "Recent acquaintance, more like.",
+   "ro": "Mai degrabă o cunoștință recentă.",
+   "ro_m": "Mai degrabă un cunoscut recent."
+  },
+  {
+   "key": "1811162098726100992",
+   "en": "It's complicated.",
+   "ro": "E complicat."
+  },
+  {
+   "key": "1811162537618071552",
+   "en": "Nope, not friends.",
+   "ro": "Nu, nu suntem prieteni."
+  },
+  {
+   "key": "1811162793973932032",
+   "en": "Recent acquaintance, more like.",
+   "ro": "Mai degrabă o cunoștință recentă.",
+   "ro_m": "Mai degrabă un cunoscut recent."
+  },
+  {
+   "key": "1811162857945456640",
+   "en": "It's a long, strange story…",
+   "ro": "E o poveste lungă și ciudată…"
+  },
+  {
+   "key": "1811162962501066752",
+   "en": "Nope. We are not friends.",
+   "en_m": "No. We're not friends.",
+   "ro": "Nu. Nu suntem prieteni."
+  },
+  {
+   "key": "1811176682589544448",
+   "en": "Hehh...",
+   "ro": "Hehh..."
+  },
+  {
+   "key": "1811179700106059776",
+   "en": "Mama isn't... back yet. We can talk inside until she returns. Come in.",
+   "ro": "Mama nu-i acasă încă. Putem sta de vorbă înăuntru până vine. Intră."
+  },
+  {
+   "key": "1811269762651021312",
+   "en": "Don't know how you can forgive someone for that.",
+   "ro": "Nu știu cum poți ierta pe cineva pentru așa ceva."
+  },
+  {
+   "key": "1811269951226929152",
+   "en": "Why are we here?",
+   "ro": "De ce suntem aici?"
+  },
+  {
+   "key": "1811269990988931072",
+   "en": "Joshua found redemption because of you?",
+   "ro": "Joshua și-a găsit mântuirea din cauza ta?"
+  },
+  {
+   "key": "1811270692494663680",
+   "en": "Mean to say you let the man who killed your brother off the hook?",
+   "en_m": "You mean to say, you let the man who killed your brother off the hook?",
+   "ro": "Vrei să spui că l-ai lăsat pe bărbatul care i-a ucis fratele să scape?"
+  },
+  {
+   "key": "1811270860988243968",
+   "en": "You're the reason Joshua found redemption?",
+   "ro": "Tu ești motivul pentru care Joshua și-a găsit mântuirea?"
+  },
+  {
+   "key": "1811271103570010112",
+   "en": "Why're we here? And who're we waitin' for?",
+   "ro": "De ce suntem aici? Și pe cine așteptăm?"
+  },
+  {
+   "key": "1811439695431229440",
+   "en": "That is how we two were united. Through forgiveness.",
+   "ro": "Așa ne-am unit noi doi. Prin iertare."
+  },
+  {
+   "key": "1811440619100856320",
+   "en": "\"Judge not, and you will not be judged. Condemn not, and you will not be condemned. Forgive, and you will be forgiven.\"",
+   "ro": "«Nu judecați, și nu o să fiți judecați. Nu osândiți, și nu o să fiți osândiți. Iertați, și o să vi se ierte.»"
+  },
+  {
+   "key": "1811442825942294528",
+   "en": "It was her letter that started everything.",
+   "ro": "Scrisoarea ei a pornit totul."
+  },
+  {
+   "key": "1811444224205807616",
+   "en": "I lost a brother. God gave me another.",
+   "ro": "Am pierdut un frate. Dumnezeu mi-a dat altul."
+  },
+  {
+   "key": "1811447492457816068",
+   "en": "Your God allowed innocent people to die.",
+   "ro": "Dumnezeul tău a lăsat oameni nevinovați să moară."
+  },
+  {
+   "key": "1811447936164847616",
+   "en": "True believers – hard to come by these days.",
+   "ro": "Credincioșii adevărați sunt rari în ziua de azi."
+  },
+  {
+   "key": "1811448304441516032",
+   "en": "Not buyin' it. Not at all.",
+   "en_m": "I'm not buyin' it, not at all.",
+   "ro": "Nu-mi intră. Deloc."
+  },
+  {
+   "key": "1811448378596810752",
+   "en": "Not every day you run into a true believer in Night City.",
+   "en_m": "It's not every day you run into a true believer in Night City.",
+   "ro": "Nu prea dai în fiecare zi de un credincios adevărat în Night City."
+  },
+  {
+   "key": "1811454099476471808",
+   "en": "You believe in a merciful God. Yet he allowed for your brother's murder. Let it happen.",
+   "ro": "Crezi într-un Dumnezeu milostiv. Și totuși a lăsat să-l omoare pe fratele tău."
+  },
+  {
+   "key": "1811459055650627584",
+   "en": "Why are we here?",
+   "ro": "De ce suntem aici?"
+  },
+  {
+   "key": "1811485843697197056",
+   "en": "I grieved for Ruben. You cannot know how much. I wanted him back... But then God showed me his plan, and I found peace.",
+   "ro": "Am plâns după Ruben. Nu poți ști cât de mult. Mi-aș fi dorit să se întoarcă... Dar apoi Dumnezeu mi-a arătat planul Lui și am găsit liniștea."
+  },
+  {
+   "key": "1811487559301750784",
+   "en": "The Lord knows I regret killing Ruben, but... if not for him, I never would have found the path to God.",
+   "ro": "Domnul știe că regret că l-am ucis pe Ruben, dar... dacă nu era el, n-aș fi găsit niciodată calea spre Dumnezeu."
+  },
+  {
+   "key": "1811489986914574340",
+   "en": "Still not buyin' it.",
+   "ro": "Tot nu mă convinge."
+  },
+  {
+   "key": "1811490264359395328",
+   "en": "So it was all Divine Providence?",
+   "ro": "Deci totul a fost opera Providenței Divine?"
+  },
+  {
+   "key": "1811491176150753280",
+   "en": "Yep, still not buyin' it.",
+   "en_m": "Yeah, still not buyin' it.",
+   "ro": "Da, tot nu mă convinge."
+  },
+  {
+   "key": "1811491257050488832",
+   "en": "We can't know the paths of Divine Providence.",
+   "ro": "Nu putem cunoaște căile Providenței Divine."
+  },
+  {
+   "key": "1811494094664916992",
+   "en": "It was Providence that brought you under my roof. We met because of Him.",
+   "ro": "Providența te-a adus sub acoperișul meu. Ne-am întâlnit datorită Lui."
+  },
+  {
+   "key": "1811497254469001216",
+   "en": "Do you believe in God, V?",
+   "ro": "Crezi în Dumnezeu, V?"
+  },
+  {
+   "key": "1811497641250938880",
+   "en": "I guess, then... you don't believe in the Creator?",
+   "ro": "Atunci... presupun că nu crezi în Creator?"
+  },
+  {
+   "key": "1811497981828423684",
+   "en": "Yes, I do.",
+   "ro": "Da, cred."
+  },
+  {
+   "key": "1811498165773819904",
+   "en": "Nope.",
+   "ro": "Nu."
+  },
+  {
+   "key": "1811498617584246784",
+   "en": "Could be some higher power.",
+   "ro": "Ar putea fi o putere superioară."
+  },
+  {
+   "key": "1811499676612452352",
+   "en": "Sure, I believe.",
+   "ro": "Sigur, cred."
+  },
+  {
+   "key": "1811499757478633472",
+   "en": "Can't say I do.",
+   "ro": "Nu zic că da."
+  },
+  {
+   "key": "1811499828228153344",
+   "en": "For all I know there could be a higher power out there, but nobody's been able to prove it. No one ever will.",
+   "ro": "Din câte știu, ar putea fi o putere superioară pe-acolo, dar nimeni n-a reușit s-o dovedească. Și nici nu o să reușească vreodată."
+  },
+  {
+   "key": "1811500367246548992",
+   "en": "Why're we even talking about this?",
+   "ro": "Oricum, de ce vorbim despre asta?"
+  },
+  {
+   "key": "1811501415302455296",
+   "en": "Why're we even talking about this?",
+   "ro": "Oricum, de ce vorbim despre asta?"
+  },
+  {
+   "key": "1811507218289811456",
+   "en": "Faith is something no one but you can prove.",
+   "ro": "Credința e ceva ce doar tu poți dovedi."
+  },
+  {
+   "key": "1811508137177931776",
+   "en": "Zuleikha and I have a... a running dispute. I was thinking you could help us resolve it.",
+   "ro": "Zuleikha și cu mine avem o... o ceartă veche. Mă gândeam că ne-ai putea ajuta s-o rezolvăm."
+  },
+  {
+   "key": "1811509781345099776",
+   "en": "Whether it finds enemies or neighbors, God's love knows no bounds on Earth, and neither should ours.",
+   "ro": "Fie că dă de dușmani sau de vecini, dragostea lui Dumnezeu nu cunoaște limite pe Pământ, și nici a noastră n-ar trebui."
+  },
+  {
+   "key": "1811511187946889216",
+   "en": "Tell me, V. Do you believe in God?",
+   "ro": "Spune-mi, V. Crezi în Dumnezeu?"
+  },
+  {
+   "key": "1811512360724619264",
+   "en": "No, no, I never agreed to anything like this!",
+   "ro": "Nu, nu, n-am zis niciodată da pentru așa ceva!"
+  },
+  {
+   "key": "1811512786631024644",
+   "en": "I'm all ears.",
+   "ro": "Sunt toată ureche."
+  },
+  {
+   "key": "1811513129020448768",
+   "en": "Religious debates – not really my thing.",
+   "ro": "Dezbaterile religioase – nu prea sunt genul meu."
+  },
+  {
+   "key": "1811513682937012224",
+   "en": "I'm all ears.",
+   "ro": "Sunt toată ureche."
+  },
+  {
+   "key": "1811513760464527360",
+   "en": "Eh, religious debates – not my thing.",
+   "en_m": "Religious debates – not my thing.",
+   "ro": "Eh, dezbaterile religioase – nu sunt genul meu."
+  },
+  {
+   "key": "1811514137784115200",
+   "en": "Joshua, he... he thinks he's the Messiah and wants to end his own life.",
+   "ro": "Joshua... crede că e Mesia și vrea să-și ia viața."
+  },
+  {
+   "key": "1811517334867173376",
+   "en": "That is not true – I never said I was any sort of messiah.",
+   "ro": "Nu e adevărat – n-am spus niciodată că aș fi vreun mesia."
+  },
+  {
+   "key": "1811519190846693376",
+   "en": "Suicide! Do you really think that's what the Lord could ever want from you?",
+   "ro": "Sinucidere?! Chiar crezi că asta și-ar dori vreodată Domnul de la tine?"
+  },
+  {
+   "key": "1811521289223430144",
+   "en": "It won't be suicide.",
+   "ro": "N-o să fie sinucidere."
+  },
+  {
+   "key": "1811522415494717440",
+   "en": "Whoa. Insane, that's what this is.",
+   "ro": "Whoa. Nebunie curată, asta e."
+  },
+  {
+   "key": "1811528246265143296",
+   "en": "Zuleikha, tell me what's going on.",
+   "ro": "Zuleikha, spune-mi ce se întâmplă."
+  },
+  {
+   "key": "1811531016921702400",
+   "en": "What exactly's going on here, Joshua?",
+   "en_m": "What exactly's going on here, Josh?",
+   "ro": "Ce se întâmplă exact aici, Joshua?",
+   "ro_m": "Ce se întâmplă exact aici, Josh?"
+  },
+  {
+   "key": "1811531101126549504",
+   "en": "I still don't get what's happening here, Zuleikha.",
+   "ro": "Tot nu înțeleg ce se întâmplă aici, Zuleikha."
+  },
+  {
+   "key": "1811532787136094208",
+   "en": "When the media learned I'd found God in prison, the next day my face was on the cover of every screamsheet.",
+   "ro": "Când presa a aflat că mi-am găsit credința în pușcărie, a doua zi fața mea era pe copertele tuturor screamsheet-urilor."
+  },
+  {
+   "key": "1811533748437016576",
+   "en": "A braindance studio took notice. They sent representatives to make me an offer.",
+   "ro": "Un studio de braindance s-a prins. Mi-au trimis reprezentanți cu o ofertă."
+  },
+  {
+   "key": "1811536365414277120",
+   "en": "Egh, bloodsuckers...",
+   "ro": "Eh, sugătorii ăștia de sânge..."
+  },
+  {
+   "key": "1811536696126758912",
+   "en": "I was facing the electric chair. Now, with the studio's help, my death will be more than a state-sanctioned murder.",
+   "ro": "Eram cu un picior pe scaunul electric. Acum, cu ajutorul studioului, moartea mea o să fie mai mult decât o execuție de stat."
+  },
+  {
+   "key": "1811538281774997504",
+   "en": "They want to scroll a braindance of Joshua being crucified – an execution like any other, just garbed in holy robes!",
+   "ro": "Vor să difuzeze un braindance cu Joshua răstignit – o execuție ca oricare alta, doar că în haine sfinte!"
+  },
+  {
+   "key": "1811542239067267072",
+   "en": "Why the braindance? What do you hope to achieve?",
+   "ro": "De ce braindance? Ce speri să câștigi cu asta?"
+  },
+  {
+   "key": "1811542324681400320",
+   "en": "Law's got nothing to say about this?",
+   "ro": "Legea n-are nimic de zis despre asta?"
+  },
+  {
+   "key": "1811543037796966400",
+   "en": "Hang on. A... a BD studio changed how a convict's going to be executed? Doesn't the law say something about that?",
+   "en_m": "Wha-- hang on. A BD studio changed how a convict's going to be executed? Doesn't the law say somethin' about that?",
+   "ro": "Stai puțin. Un... un studio de BD a schimbat cum o să fie executat un condamnat? Nu zice legea ceva despre asta?",
+   "ro_m": "Ce-- stai puțin. Un studio de BD a schimbat cum o să fie executat un condamnat? Nu zice legea ceva despre asta?"
+  },
+  {
+   "key": "1811544639719104512",
+   "en": "Corps write the laws. Corps choose the judges. All it takes is a sit-down between the studio's CEO and a state's attorney.",
+   "ro": "Corporațiile scriu legile. Corporațiile aleg judecătorii. Tot ce trebuie e o întâlnire între CEO-ul studioului și un procuror."
+  },
+  {
+   "key": "1811545251198296064",
+   "en": "Officially, I'm here on a supervised, one-day furlough. But no law can prevent me from spending that with new acquaintances.",
+   "ro": "Oficial, sunt aici cu o permisie de o zi, sub supraveghere. Dar nicio lege nu mă oprește s-o petrec cu cunoștințe noi."
+  },
+  {
+   "key": "1811551495007002624",
+   "en": "When they put Joshua away, the screamsheets devoted space to him on page five.",
+   "ro": "Când l-au închis pe Joshua, screamsheet-urile i-au dedicat spațiu pe pagina cinci."
+  },
+  {
+   "key": "1811552475333287936",
+   "en": "But when they discovered he'd found God, suddenly he was on primetime TV.",
+   "ro": "Dar când au descoperit că a găsit credința, brusc era în prime-time la TV."
+  },
+  {
+   "key": "1811553203632234496",
+   "en": "What's wrong with using a platform to tell people about my faith, and God's grace, hm?",
+   "ro": "Ce e rău în a folosi o platformă ca să le vorbesc oamenilor despre credința mea și despre harul lui Dumnezeu, hm?"
+  },
+  {
+   "key": "1811553690540597248",
+   "en": "We are way past that, Joshua! Instead of being executed in prison, he agreed to let braindance studio vultures record his agony as he's being crucified!",
+   "ro": "Am trecut de mult de prostia asta, Joshua! În loc să fie executat în închisoare, a acceptat să lase hienele de la studiourile de braindance să-i filmeze agonia cât e răstignit!"
+  },
+  {
+   "key": "1811561695805988864",
+   "en": "Corruption's a sin, too, isn't it? And corruption got you here.",
+   "ro": "Corupția e și ea păcat, nu? Și corupția te-a adus aici."
+  },
+  {
+   "key": "1811561871379554304",
+   "en": "This is much bigger than the laws of man. With this braindance, I'll take God's message to billions.",
+   "ro": "E mult mai mare decât legile oamenilor. Cu braindance-ul ăsta o să duc mesajul lui Dumnezeu la miliarde."
+  },
+  {
+   "key": "1811566712260681728",
+   "en": "This is insanity, pure and simple.",
+   "ro": "Nebunie, pur și simplu."
+  },
+  {
+   "key": "1811566786432753664",
+   "en": "W-why the braindance? What's in it for you?",
+   "en_m": "Why the braindance? Wh-what's in it for you?",
+   "ro": "D-de ce braindance-ul? Ce câștigi din asta?",
+   "ro_m": "De ce braindance-ul? C-ce câștigi din asta?"
+  },
+  {
+   "key": "1811567998704050176",
+   "en": "It's the one thing worse than insanity – blasphemy.",
+   "ro": "E singurul lucru mai rău decât nebunia – blasfemia."
+  },
+  {
+   "key": "1811577709037903872",
+   "en": "Zuleikha transformed me into a child of God. It's time I repaid that debt.",
+   "ro": "Zuleikha m-a transformat într-un copil al lui Dumnezeu. E timpul să-mi plătesc datoria."
+  },
+  {
+   "key": "1811578731273674752",
+   "en": "Think of the millions jacked into their feeds like livestock, the children growing up in gang-infested streets. Do they know love?",
+   "ro": "Gândește-te la milioanele conectate la feed-uri ca la niște vite, la copiii care cresc pe străzi infestate de bande. Știu ei ce e dragostea?"
+  },
+  {
+   "key": "1811580596883316736",
+   "en": "Think of the joytoys on Jig-Jig Street! Coked-out corpos in their offices, an' murderers who stalk the streets! I want to reach them. I will reach them!",
+   "ro": "Gândește-te la Joytoy-urile de pe Jig-Jig Street! Corpoi drogați în birourile lor și ucigași care bântuie străzile! Vreau să ajung la ei. Și o să ajung!"
+  },
+  {
+   "key": "1811598778872389632",
+   "en": "And think of paid killers like you, V. Have you known love? Do you know what it is?",
+   "ro": "Și gândește-te la ucigași plătiți ca tine, V. Ai cunoscut dragostea? Știi ce e?"
+  },
+  {
+   "key": "1811599568592723968",
+   "en": "Uh, mother's home!",
+   "ro": "Ăă, mama e acasă!"
+  },
+  {
+   "key": "1811600494409834496",
+   "en": "Tell me, V. Do you believe in God?",
+   "ro": "Spune-mi, V. Crezi în Dumnezeu?"
+  },
+  {
+   "key": "1811602284085796864",
+   "en": "There's nothing to debate. Those BD studio hyenas convinced Joshua to trade one execution for another – his own crucifixion.",
+   "ro": "Nu e nimic de discutat. Hienele de la studiourile de BD l-au convins pe Joshua să schimbe o execuție cu alta – propria lui răstignire."
+  },
+  {
+   "key": "1811603067397234688",
+   "en": "He wants everyone to experience his agony! Feel his pain and suffering!",
+   "ro": "Vrea ca toată lumea să-i trăiască agonia! Să simtă durerea și suferința lui!"
+  },
+  {
+   "key": "1811604787800072192",
+   "en": "I want to bear witness to love's existence – in a manner that all the lost souls on this wretched earth can understand.",
+   "ro": "Vreau să mărturisesc existența dragostei – într-un mod pe care toate sufletele pierdute de pe pământul ăsta nenorocit să-l poată înțelege."
+  },
+  {
+   "key": "1811607145183469568",
+   "en": "Why love?",
+   "ro": "De ce dragostea?"
+  },
+  {
+   "key": "1811607228113248256",
+   "en": "If unconditional love exists, then so must God! It's time the world was reminded of His divine presence.",
+   "ro": "Dacă dragostea necondiționată e reală, atunci și Dumnezeu trebuie să fie! E timpul ca lumea să-și amintească de prezența Lui."
+  },
+  {
+   "key": "1812391006913978368",
+   "en": "Name's V.",
+   "ro": "Mă numesc V."
+  },
+  {
+   "key": "1812391364671332352",
+   "en": "She the one we've been waiting for?",
+   "ro": "Ea e cea pe care o așteptam?"
+  },
+  {
+   "key": "1812391461794635776",
+   "en": "My name is V.",
+   "ro": "Mă numesc V."
+  },
+  {
+   "key": "1812391529104826368",
+   "en": "This who we've been waiting for?",
+   "ro": "Asta e cea pe care o așteptam?"
+  },
+  {
+   "key": "1812392991306309632",
+   "en": "Go. You are not welcome here.",
+   "ro": "Du-te. Nu ești binevenită aici.",
+   "ro_m": "Du-te. Nu ești binevenit aici."
+  },
+  {
+   "key": "1812395297636638720",
+   "en": "Yes.",
+   "ro": "Da."
+  },
+  {
+   "key": "1812395582614429696",
+   "en": "Mrs. El-Ahmar... I have come to beg you for forgiveness.",
+   "ro": "Doamnă El-Ahmar... am venit să vă cer iertare."
+  },
+  {
+   "key": "1812402402586288128",
+   "en": "You... You murdered my son!",
+   "ro": "Tu... Tu mi-ai ucis fiul!"
+  },
+  {
+   "key": "1812402544857079808",
+   "en": "That is something I can never forgive.",
+   "ro": "Asta nu o pot ierta niciodată."
+  },
+  {
+   "key": "1812402743499317248",
+   "en": "Out of my house, now!",
+   "ro": "Afară din casa mea, acum!"
+  },
+  {
+   "key": "1812402916908621824",
+   "en": "Out! All of you!",
+   "ro": "Afară! Toți afară!"
+  },
+  {
+   "key": "1812403482518904832",
+   "en": "I truly do regret the pain I have caused you…",
+   "ro": "Chiar regret durerea pe care ți-am cauzat-o…"
+  },
+  {
+   "key": "1812407937003970560",
+   "en": "Nope, count me out.",
+   "en_m": "No, count me out.",
+   "ro": "Nu, nu mă bag."
+  },
+  {
+   "key": "1831726537145606144",
+   "en": "Zuleikha..?",
+   "ro": "Zuleikha..?"
+  },
+  {
+   "key": "1831812314202398724",
+   "en": "[Sit] Water'd be fine.",
+   "ro": "[Stai jos] Apă ar merge."
+  },
+  {
+   "key": "1831812422063120384",
+   "en": "Please, sit down.",
+   "ro": "Te rog, ia loc."
+  },
+  {
+   "key": "1831812734270332928",
+   "en": "Can I offer you anything, a drink?",
+   "ro": "Îți aduc ceva de băut?"
+  },
+  {
+   "key": "1831813890925158400",
+   "en": "[Sit] Something... strong?",
+   "ro": "[Stai jos] Ceva... tare?"
+  },
+  {
+   "key": "1831814457072312320",
+   "en": "[Sit] I'm good, thanks.",
+   "ro": "[Stai jos] Mersi, sunt ok."
+  },
+  {
+   "key": "1831816429049503744",
+   "en": "Uh, glass of water.",
+   "ro": "Ăă, un pahar cu apă."
+  },
+  {
+   "key": "1831816506593796096",
+   "en": "Think I could have something... stronger, maybe?",
+   "en_m": "Think I could have somethin'... stronger, maybe?",
+   "ro": "Crezi că aș putea avea ceva... mai tare, poate?"
+  },
+  {
+   "key": "1831816574038204416",
+   "en": "I'm good, thanks.",
+   "ro": "Mersi, sunt ok."
+  },
+  {
+   "key": "1831823181526622208",
+   "en": "Please.",
+   "ro": "Vă rog."
+  },
+  {
+   "key": "1831823659056521216",
+   "en": "We do not serve any alcohol under this roof. We have none.",
+   "ro": "Nu servim alcool în casa asta. Nu avem deloc."
+  },
+  {
+   "key": "1831857185755783168",
+   "en": "You took my Ruben from me…",
+   "ro": "Mi l-ai luat pe Ruben…"
+  },
+  {
+   "key": "1831857908367253504",
+   "en": "My child, my son…",
+   "ro": "Copilul meu, fiul meu…"
+  },
+  {
+   "key": "1831858327680212992",
+   "en": "You killed my child!",
+   "ro": "L-ai ucis pe copilul meu!"
+  },
+  {
+   "key": "1831858860256157696",
+   "en": "My Ruben...",
+   "ro": "Rubenul meu..."
+  },
+  {
+   "key": "1831892645978857472",
+   "en": "In the name of Father, and of the Son, and of the Holy Spirit, One God. Amen.",
+   "ro": "În numele Tatălui, și al Fiului, și al Sfântului Duh, Unul Dumnezeu. Amin."
+  },
+  {
+   "key": "1846398371870826496",
+   "en": "Murderer!",
+   "ro": "Ucigașo!",
+   "ro_m": "Ucigașule!"
+  },
+  {
+   "key": "1846398920569675776",
+   "en": "It's OK, just go.",
+   "ro": "E în regulă, pleacă."
+  },
+  {
+   "key": "1846399980621291520",
+   "en": "Mrs. El-Ahmar! Please!",
+   "ro": "Doamna El-Ahmar! Vă rog!"
+  },
+  {
+   "key": "1846400327708336128",
+   "en": "Just go, please...",
+   "ro": "Pleacă, te rog..."
+  },
+  {
+   "key": "1885205295892934660",
+   "en": "Not a fan of waiting, huh?",
+   "ro": "Nu-ți place să aștepți, nu?"
+  },
+  {
+   "key": "1885212122491793408",
+   "en": "Looks like someone doesn't enjoy waiting patiently.",
+   "en_m": "Looks like someone doesn't enjoy waitin' patiently.",
+   "ro": "Parcă cuiva nu-i place să stea degeaba."
+  },
+  {
+   "key": "1943348215006859264",
+   "en": "Vasquez, keep an eye on them. I'm gonna stay in the car.",
+   "ro": "Vasquez, ține-i pe ochi. Eu rămân în mașină."
+  },
+  {
+   "key": "1943348585162575872",
+   "en": "Keep it short. We're on a tight schedule.",
+   "ro": "Fii scurt. Suntem cam pe fugă."
+  },
+  {
+   "key": "1957784562128203776",
+   "en": "Hurry up. I'll be waitin' outside.",
+   "ro": "Grăbește-te. O să te aștept afară."
+  },
+  {
+   "key": "1983947927548407808",
+   "en": "Joshua, care to explain?",
+   "ro": "Joshua, vrei să explici?"
+  },
+  {
+   "key": "2008499214941184000",
+   "en": "Let's go back to the car.",
+   "ro": "Hai înapoi la mașină."
+  },
+  {
+   "key": "2095269084884447236",
+   "en": "[Get out]",
+   "ro": "[Ieși]"
+  },
+  {
+   "key": "2218693984013070336",
+   "en": "[Drink]",
+   "ro": "[Bea]"
+  },
+  {
+   "key": "2221575440561418240",
+   "en": "[Get in]",
+   "ro": "[Intră]"
+  },
+  {
+   "key": "2230541593284538368",
+   "en": "Is everything all right?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "2230541798855766016",
+   "en": "Hello?",
+   "ro": "Alo?"
+  }
+ ]
+}

@@ -1,0 +1,550 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q303\\q303_00_chickentest.json",
+ "entries": [
+  {
+   "key": "2898254972297584640",
+   "en": "[db_db][Start]",
+   "ro": "[db_db][Începe]"
+  },
+  {
+   "key": "2898255361260560384",
+   "en": "[db_db][Choose where to start]",
+   "ro": "[db_db][Alege de unde să începi]"
+  },
+  {
+   "key": "2898256726338740224",
+   "en": "[db_db]Nighthawks",
+   "ro": "[db_db]Nighthawks"
+  },
+  {
+   "key": "2898256943620464640",
+   "en": "[db_db]Voodoo Boys",
+   "ro": "[db_db]Voodoo Boys"
+  },
+  {
+   "key": "2898257119764455424",
+   "en": "[db_db]Mr. Hands",
+   "ro": "[db_db]Mr. Hands"
+  },
+  {
+   "key": "2898257790282670080",
+   "en": "[db_db]Safehouse",
+   "ro": "[db_db]Refugiu"
+  },
+  {
+   "key": "2898257990401302528",
+   "en": "[db_db]Paradise [Black Sapphire]",
+   "ro": "[db_db]Paradise [Black Sapphire]"
+  },
+  {
+   "key": "2898258516887117824",
+   "en": "[db_db]Casino & exit",
+   "ro": "[db_db]Cazino și ieșire"
+  },
+  {
+   "key": "3031829731630555136",
+   "en": "[db_db]MQ019 Done - dialogue available",
+   "ro": "[db_db]MQ019 finalizat - dialog disponibil"
+  },
+  {
+   "key": "3031829731630555148",
+   "en": "[db_db]MQ019 Failed - alternative dialogue",
+   "ro": "[db_db]MQ019 eșuat - dialog alternativ"
+  },
+  {
+   "key": "3031834834320138244",
+   "en": "[db_db]Nighthawks sickness attack.",
+   "ro": "[db_db]Atacul de boală Nighthawks."
+  },
+  {
+   "key": "3111361287616880640",
+   "en": "[db_db]Start from the beginning of VDB.",
+   "ro": "[db_db]Începe de la începutul VDB."
+  },
+  {
+   "key": "3111361287633657856",
+   "en": "[db_db]Start from the Baron scene.",
+   "ro": "[db_db]Începe de la scena cu Baronul."
+  },
+  {
+   "key": "3130536617514524672",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3130537818142433280",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3130540529961295876",
+   "en": "[db_db]Start from the casino.",
+   "ro": "[db_db]Începe de la cazino."
+  },
+  {
+   "key": "3130540709175517184",
+   "en": "[db_db]After casino.",
+   "ro": "[db_db]După cazino."
+  },
+  {
+   "key": "3130541728961814528",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3130554284728279040",
+   "en": "[db_db]Beginning.",
+   "ro": "[db_db]Început."
+  },
+  {
+   "key": "3130554284728279052",
+   "en": "[db_db]Interlude - outside.",
+   "ro": "[db_db]Interludiu - afară."
+  },
+  {
+   "key": "3130554883842662400",
+   "en": "[db_db]Going back to Reed.",
+   "ro": "[db_db]Înapoi la Reed."
+  },
+  {
+   "key": "3131578940126027776",
+   "en": "[db_db]Technical path start",
+   "ro": "[db_db]Începutul căii tehnice"
+  },
+  {
+   "key": "3131731964593070080",
+   "en": "[db_db]Mr. Hands - setting an appointment.",
+   "ro": "[db_db]Mr. Hands - programare întâlnire."
+  },
+  {
+   "key": "3131731964609847300",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3136245063700799488",
+   "en": "[db_db]Technical path sniper section",
+   "ro": "[db_db]Secțiunea cu sniper din calea tehnică"
+  },
+  {
+   "key": "3136304441623666688",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3141915800541421568",
+   "en": "[db_db][Choose Build and Level]",
+   "ro": "[db_db][Alege build-ul și nivelul]"
+  },
+  {
+   "key": "3172282201862463488",
+   "en": "[db_db][MQ019 - Lizzy's fate]",
+   "ro": "[db_db][MQ019 - soarta lui Lizzy]"
+  },
+  {
+   "key": "3221672417542692864",
+   "en": "[db_db]Mr. Hands - club meeting.",
+   "ro": "[db_db]Mr. Hands - întâlnire la club."
+  },
+  {
+   "key": "3221779308792930304",
+   "en": "[db_db]MQ019 Not Done - dialogue unavailable",
+   "ro": "[db_db]MQ019 nefinalizat - dialog indisponibil"
+  },
+  {
+   "key": "3222988045836861440",
+   "en": "[db_db][EP1 STS completed]",
+   "ro": "[db_db][EP1 STS finalizat]"
+  },
+  {
+   "key": "3223054821958336516",
+   "en": "[db_db]sts_ep1_01 finished",
+   "ro": "[db_db]sts_ep1_01 finalizat"
+  },
+  {
+   "key": "3223059063473422336",
+   "en": "[db_db]sts_ep1_04 finished",
+   "ro": "[db_db]sts_ep1_04 finalizat"
+  },
+  {
+   "key": "3223059140346626048",
+   "en": "[db_db]sts_ep1_10 finished",
+   "ro": "[db_db]sts_ep1_10 finalizat"
+  },
+  {
+   "key": "3223059180041519104",
+   "en": "[db_db]sts_ep1_12 finished",
+   "ro": "[db_db]sts_ep1_12 finalizat"
+  },
+  {
+   "key": "3223059225340002304",
+   "en": "[db_db]all sts finished",
+   "ro": "[db_db]toate sts finalizate"
+  },
+  {
+   "key": "3223062333151494144",
+   "en": "[db_db]done selecting sts",
+   "ro": "[db_db]selectare sts finalizată"
+  },
+  {
+   "key": "3227312116083286016",
+   "en": "[db_db]Technical path reconnecting with Reed",
+   "ro": "[db_db]Cale tehnică - reconectare cu Reed"
+  },
+  {
+   "key": "3293961340817661952",
+   "en": "[db_db]Restaurant",
+   "ro": "[db_db]Restaurant"
+  },
+  {
+   "key": "3293961340851216384",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3293963028387487744",
+   "en": "[db_db]Songbird Confrontation",
+   "ro": "[db_db]Confruntarea cu Songbird"
+  },
+  {
+   "key": "3293971618926059524",
+   "en": "[db_db]Tech Path",
+   "ro": "[db_db]Cale Tech"
+  },
+  {
+   "key": "3293971824547618816",
+   "en": "[db_db]Restaurant",
+   "ro": "[db_db]Restaurant"
+  },
+  {
+   "key": "3304102934722469888",
+   "en": "[db_db]Technical path warehouse",
+   "ro": "[db_db]Cale tehnică - depozit"
+  },
+  {
+   "key": "3327328834030559232",
+   "en": "[db_db]Arrival in the lobby.",
+   "ro": "[db_db]Sosire în hol."
+  },
+  {
+   "key": "3334779180590391308",
+   "en": "[db_db]Enable Tech Floor combat fact",
+   "ro": "[db_db]Activează faptul de luptă Tech Floor"
+  },
+  {
+   "key": "3334779180607168520",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3334781170686976000",
+   "en": "[db_db]Disable Tech Floor combat fact",
+   "ro": "[db_db]Dezactivează faptul de luptă Tech Floor"
+  },
+  {
+   "key": "3334781301683478528",
+   "en": "[db_db]Enable warehouse combat fact",
+   "ro": "[db_db]Activează faptul de luptă din depozit"
+  },
+  {
+   "key": "3334781622883278848",
+   "en": "[db_db]Disable warehouse combat fact",
+   "ro": "[db_db]Dezactivează faptul de luptă din depozit"
+  },
+  {
+   "key": "3334782981519007744",
+   "en": "[db_db]Start",
+   "ro": "[db_db]Start"
+  },
+  {
+   "key": "3349158155287126020",
+   "en": "[db_db][Nomad]",
+   "ro": "[db_db][Nomad]"
+  },
+  {
+   "key": "3349160954230071296",
+   "en": "[db_db][Streetkid]",
+   "ro": "[db_db][Street Kid]"
+  },
+  {
+   "key": "3349161058013929472",
+   "en": "[db_db][Corporate]",
+   "ro": "[db_db][Corporatist]"
+  },
+  {
+   "key": "3349163298661457920",
+   "en": "[db_db][Choose Lifepath]",
+   "ro": "[db_db][Alege originea]"
+  },
+  {
+   "key": "3349183250596487168",
+   "en": "[db_db][Q112 - Takemura's fate]",
+   "ro": "[db_db][Q112 - soarta lui Takemura]"
+  },
+  {
+   "key": "3349189443754778628",
+   "en": "[db_db]Q112 not done / Q112 done and Takemura survived",
+   "ro": "[db_db]Q112 nefinalizat / Q112 finalizat și Takemura a supraviețuit"
+  },
+  {
+   "key": "3349189968965525504",
+   "en": "[db_db]Q112 done and Takemura died",
+   "ro": "[db_db]Q112 finalizat și Takemura a murit"
+  },
+  {
+   "key": "3357649782050807808",
+   "en": "[db_db]Johnny's arc.",
+   "ro": "[db_db]Arcul lui Johnny."
+  },
+  {
+   "key": "3357663413924683776",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3428756169631358976",
+   "en": "[db_db]Start from the exit scene (including encounter).",
+   "ro": "[db_db]Începe de la scena de ieșire (inclusiv întâlnirea)."
+  },
+  {
+   "key": "3428761648029917184",
+   "en": "[db_db]Safehouse.",
+   "ro": "[db_db]Adăpost."
+  },
+  {
+   "key": "3456199926008340484",
+   "en": "[db_db][Challange 01 - Approaching Mine]",
+   "ro": "[db_db][Provocare 01 - Apropierea de mină]"
+  },
+  {
+   "key": "3456200637412630528",
+   "en": "[db_db][Challange 03 - Incoming Elevator]",
+   "ro": "[db_db][Provocare 03 - Lift care vine]"
+  },
+  {
+   "key": "3456200972453634048",
+   "en": "[db_db]Technical path sniper section (choose challange)",
+   "ro": "[db_db]Secțiune sniper pe calea tehnică (alege provocarea)"
+  },
+  {
+   "key": "3456203508648599552",
+   "en": "[db_db][Challange 04 - Obstructed Guard]",
+   "ro": "[db_db][Provocare 04 - Paznic blocat]"
+  },
+  {
+   "key": "3510153791283748864",
+   "en": "[db_db]Enable hacked turrets fact",
+   "ro": "[db_db]Activează faptul: turele hack-uite"
+  },
+  {
+   "key": "3510153853963427840",
+   "en": "[db_db]Disable hacked mechs fact",
+   "ro": "[db_db]Dezactivează faptul: mech-uri hack-uite"
+  },
+  {
+   "key": "3510154057152290816",
+   "en": "[db_db]Enable hacked mechs fact",
+   "ro": "[db_db]Activează faptul: mech-uri hack-uite"
+  },
+  {
+   "key": "3510154223565496320",
+   "en": "[db_db]Disable hacked turrets fact",
+   "ro": "[db_db]Dezactivează faptul: turele hack-uite"
+  },
+  {
+   "key": "3511295833805840384",
+   "en": "[db_db]Start from the Blackwall connection.",
+   "ro": "[db_db]Începe de la conexiunea Blackwall."
+  },
+  {
+   "key": "3520429587728064512",
+   "en": "[db_db]Lizzy's Concert",
+   "ro": "[db_db]Concertul lui Lizzy"
+  },
+  {
+   "key": "3524556718358224900",
+   "en": "[db_db][Start]",
+   "ro": "[db_db][Începe]"
+  },
+  {
+   "key": "3524558407605772288",
+   "en": "[db_db][Mines reported]",
+   "ro": "[db_db][Mine raportate]"
+  },
+  {
+   "key": "3524558790478618624",
+   "en": "[db_db][Sniper Reported]",
+   "ro": "[db_db][Sniper raportat]"
+  },
+  {
+   "key": "3524559133841121292",
+   "en": "[db_db][Start]",
+   "ro": "[db_db][Începe]"
+  },
+  {
+   "key": "3524559356508332032",
+   "en": "[db_db][Sniper Reported]",
+   "ro": "[db_db][Sniper raportat]"
+  },
+  {
+   "key": "3524562532737310720",
+   "en": "[db_db][VDB trap triggered]",
+   "ro": "[db_db][Capcană VDB declanșată]"
+  },
+  {
+   "key": "3524567485052706816",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3643378985325649920",
+   "en": "[db_db][Back to start]",
+   "ro": "[db_db][ÎNAPOI la început]"
+  },
+  {
+   "key": "3676858116264517632",
+   "en": "[db_db][Challange 01 - Incoming Patrol]",
+   "ro": "[db_db][Provocare 01 - Patrulă care vine]"
+  },
+  {
+   "key": "3676858598643032064",
+   "en": "[db_db][Challange 02 - Double Takedown]",
+   "ro": "[db_db][Provocare 02 - Eliminare dublă]"
+  },
+  {
+   "key": "3676909136097140736",
+   "en": "[db_db][Challange 05 - Incoming Guards]",
+   "ro": "[db_db][Provocare 05 - Paznici care vin]"
+  },
+  {
+   "key": "3676912549002305536",
+   "en": "[db_db][enable WIP autosave feature]",
+   "ro": "[db_db][Activează funcția de salvare automată WIP]"
+  },
+  {
+   "key": "3676912620708126720",
+   "en": "[db_db][disable WIP autosave feature]",
+   "ro": "[db_db][Dezactivează funcția de salvare automată WIP]"
+  },
+  {
+   "key": "3681240689906958336",
+   "en": "[db_db]Roulette game.",
+   "ro": "[db_db]Joc de ruletă."
+  },
+  {
+   "key": "3719047577750880260",
+   "en": "[db_db]Start before the Blackwall connection.",
+   "ro": "[db_db]Începe înainte de conexiunea Blackwall."
+  },
+  {
+   "key": "3719048458470834176",
+   "en": "[db_db]Start after the Blackwall connection.",
+   "ro": "[db_db]Începe după conexiunea Blackwall."
+  },
+  {
+   "key": "3719048516268343296",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3720443735287152640",
+   "en": "[db_db][Q110 - Brigitte's fate]",
+   "ro": "[db_db][Q110 - Soarta lui Brigitte]"
+  },
+  {
+   "key": "3720444153610256388",
+   "en": "[db_db]V and VDB are at peace.",
+   "ro": "[db_db]V și VDB sunt în pace."
+  },
+  {
+   "key": "3720444411157299200",
+   "en": "[db_db]V killed Brigitte and VDB.",
+   "ro": "[db_db]V a ucis-o pe Brigitte și pe VDB."
+  },
+  {
+   "key": "3775463880451309568",
+   "en": "[db_db][Concert braindance]",
+   "ro": "[db_db][Braindance de concert]"
+  },
+  {
+   "key": "3795662077192134660",
+   "en": "[db_db]Netrunner",
+   "ro": "[db_db]Netrunner"
+  },
+  {
+   "key": "3795662719474294784",
+   "en": "[db_db]Ranged",
+   "ro": "[db_db]La distanță"
+  },
+  {
+   "key": "3795662823174266880",
+   "en": "[db_db]Melee",
+   "ro": "[db_db]corp la corp"
+  },
+  {
+   "key": "3795662891289763840",
+   "en": "[db_db]MaxSkillAllWeapons",
+   "ro": "[db_db]MaxSkillAllWeapons"
+  },
+  {
+   "key": "3863893554092720132",
+   "en": "[db_db]Entered with combat.",
+   "ro": "[db_db]Intrat în luptă."
+  },
+  {
+   "key": "3863894055580483584",
+   "en": "[db_db]Entered with stealth.",
+   "ro": "[db_db]Intrat cu furișare."
+  },
+  {
+   "key": "3863894656288702464",
+   "en": "[db_db][Back to main]",
+   "ro": "[db_db][Înapoi la principal]"
+  },
+  {
+   "key": "3905567926420594692",
+   "en": "[db_db]LVL 10",
+   "ro": "[db_db]LVL 10"
+  },
+  {
+   "key": "3905568398900551680",
+   "en": "[db_db]LVL 20",
+   "ro": "[db_db]LVL 20"
+  },
+  {
+   "key": "3905568483776487424",
+   "en": "[db_db]LVL 30",
+   "ro": "[db_db]LVL 30"
+  },
+  {
+   "key": "3905575524855275524",
+   "en": "[db_db]LVL 10",
+   "ro": "[db_db]LVL 10"
+  },
+  {
+   "key": "3905577659638571008",
+   "en": "[db_db]LVL 20",
+   "ro": "[db_db]LVL 20"
+  },
+  {
+   "key": "3905577726948761600",
+   "en": "[db_db]LVL 30",
+   "ro": "[db_db]LVL 30"
+  },
+  {
+   "key": "3905578828641427460",
+   "en": "[db_db]LVL 10",
+   "ro": "[db_db]LVL 10"
+  },
+  {
+   "key": "3905579565211541504",
+   "en": "[db_db]LVL 20",
+   "ro": "[db_db]LVL 20"
+  },
+  {
+   "key": "3905579624284119040",
+   "en": "[db_db]LVL 30",
+   "ro": "[db_db]LVL 30"
+  }
+ ]
+}

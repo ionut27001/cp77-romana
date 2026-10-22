@@ -1,0 +1,2997 @@
+{
+ "depot": "ep1\\localization\\en-us\\subtitles\\quest\\q304\\q304_07_deal.json",
+ "entries": [
+  {
+   "key": "2908727973962076160",
+   "en": "All right, I'm in position. Preparing our evac route now.",
+   "ro": "Bine, sunt în poziție. Pregătesc ruta de evacuare acum."
+  },
+  {
+   "key": "2908731160559374336",
+   "en": "And Aymeric, this should go without sayin', but... stay in character.",
+   "ro": "Și Aymeric, ar trebui să fie clar, dar... rămâi în personaj."
+  },
+  {
+   "key": "2908731433608564740",
+   "en": "And Aurore, this should go without sayin', but... stay in character.",
+   "ro": "Și Aurore, ar trebui să fie clar, dar... rămâi în personaj."
+  },
+  {
+   "key": "2909866364539785216",
+   "en": "What I wouldn't give for a Broseph and a burger…",
+   "ro": "Ce n-aș da pentru un Broseph și un burger…"
+  },
+  {
+   "key": "2909867309113823232",
+   "en": "Shh! Hansen's got guests, man…!",
+   "ro": "Șșș! Hansen are musafiri, frate…!"
+  },
+  {
+   "key": "2909867409089253388",
+   "en": "Copy that. I'll check it out.",
+   "ro": "Am înțeles. Mă duc să verific."
+  },
+  {
+   "key": "2909934944396529664",
+   "en": "A pleasure to see you both.",
+   "ro": "Mă bucur să vă văd pe amândoi."
+  },
+  {
+   "key": "2909997905613967360",
+   "en": "Let's keep movin'.",
+   "ro": "Hai să mergem mai departe."
+  },
+  {
+   "key": "2910031937022218240",
+   "en": "Changing the subject… did you enjoy yourselves at the Black Sapphire?",
+   "ro": "Să schimb subiectul… v-a plăcut la Black Sapphire?"
+  },
+  {
+   "key": "2910095000261906432",
+   "en": "A Porsche 911.",
+   "ro": "Un Porsche 911."
+  },
+  {
+   "key": "2910098411841671168",
+   "en": "A Quadra Turbo-R.",
+   "ro": "Un Quadra Turbo-R."
+  },
+  {
+   "key": "2910098839375466496",
+   "en": "Perhaps you know this man, Greyson…? He wanted to sell me a classic Porsche once owned by a famous American rockerboy.",
+   "ro": "Poate îl cunoști pe tipul ăsta, Greyson…? Voia să-mi vândă un Porsche clasic care a fost al unui rockerboy american celebru."
+  },
+  {
+   "key": "2910138920849133568",
+   "en": "I was shopping for a Quadra Turbo-R, a model from fifty-five.",
+   "ro": "Căutam un Quadra Turbo-R, un model din '55."
+  },
+  {
+   "key": "2910147996870004736",
+   "en": "Ah, a connoisseur of the classics.",
+   "ro": "Ah, un cunoscător al clasicelor."
+  },
+  {
+   "key": "2910148613969563652",
+   "en": "I collect many cars.",
+   "ro": "Adun o grămadă de mașini."
+  },
+  {
+   "key": "2910151280758378496",
+   "en": "Your source is wrong.",
+   "ro": "Sursa ta s-a înșelat."
+  },
+  {
+   "key": "2910153085835825168",
+   "en": "Which gives us a chance to chat.",
+   "ro": "Și asta ne dă ocazia să stăm de vorbă."
+  },
+  {
+   "key": "2910159883191996416",
+   "en": "I have a diverse collection. I work much and spend even more – you understand.",
+   "ro": "Am o colecție variată. Muncesc mult și cheltuiesc și mai mult, știi cum e."
+  },
+  {
+   "key": "2910160621087510528",
+   "en": "Of course. Although my spending differs from yours.",
+   "ro": "Sigur. Deși cheltuielile mele sunt altfel decât ale tale."
+  },
+  {
+   "key": "2910161250451214336",
+   "en": "Then your man misled you. Perhaps by accident, perhaps not.",
+   "ro": "Atunci omul tău te-a dus de nas. Poate din greșeală, poate nu."
+  },
+  {
+   "key": "2910170171719045120",
+   "en": "Please, I have vodka. Help yourselves.",
+   "ro": "Vă rog, am vodcă. Serviți-vă."
+  },
+  {
+   "key": "2910170171769376768",
+   "en": "I'm sure you never put pleasure before business, but I insist. A symbolic drink.",
+   "ro": "Sunt sigur că nu pui niciodată plăcerea înaintea afacerilor, dar insist. Un pahar simbolic."
+  },
+  {
+   "key": "2910170171819708416",
+   "en": "Haha, I could not say it better myself. Symbolic, yes.",
+   "ro": "Haha, n-aș fi putut spune mai bine. Simbolic, da."
+  },
+  {
+   "key": "2910170171970703360",
+   "en": "[Don't take a drink] You have many friends.",
+   "ro": "[Nu bea] Ai mulți prieteni."
+  },
+  {
+   "key": "2910170171970703372",
+   "en": "[Don't take a drink] The Americans don't really like you.",
+   "ro": "[Nu bea] Americanii nu te plac prea mult."
+  },
+  {
+   "key": "2910170172071366664",
+   "en": "You have many friends, it seems.",
+   "ro": "Se pare că ai o grămadă de prieteni."
+  },
+  {
+   "key": "2910170172222361612",
+   "en": "Your old friends in the New States – there is bad blood, no?",
+   "ro": "Vechii tăi prieteni din Statele Noi – e sânge rău între voi, nu?"
+  },
+  {
+   "key": "2910170172406910976",
+   "en": "[Hand drink to Alex] You take it.",
+   "ro": "[Dă-i băutura lui Alex] Ia-o tu."
+  },
+  {
+   "key": "2910170172423688192",
+   "en": "[Take a drink] Cheers.",
+   "ro": "[Bea] Noroc."
+  },
+  {
+   "key": "2910170172507574284",
+   "en": "None for me. All yours, Aurore.",
+   "ro": "Eu nu. A ta, Aurore."
+  },
+  {
+   "key": "2910170172557905920",
+   "en": "I never say no to good vodka.",
+   "ro": "Nu spun niciodată nu la o vodcă bună."
+  },
+  {
+   "key": "2910170172692123656",
+   "en": "To your health.",
+   "ro": "Pentru sănătatea ta."
+  },
+  {
+   "key": "2910175819567484928",
+   "en": "[Hand drink to Alex] You take it.",
+   "ro": "[Dă-i băutura lui Alex] Ia-o tu."
+  },
+  {
+   "key": "2910178117475651600",
+   "en": "Ah, right, I'd almost forgotten. My friends in La Santé send their regards. C Block.",
+   "ro": "Ah, da, era să uit. Prietenii mei de la La Santé îți transmit salutări. Blocul C."
+  },
+  {
+   "key": "2910178117542760448",
+   "en": "Are you sure? You spent two years in that prison. Under a false name.",
+   "ro": "Ești sigur? Ai petrecut doi ani în pușcăria aia. Sub un nume fals."
+  },
+  {
+   "key": "2910178117593092096",
+   "en": "That's right. In the VIP wing. But the cockroaches in C Block don't know who is there.",
+   "ro": "Așa e. În aripa VIP. Dar gândacii din blocul C nu știu cine e acolo."
+  },
+  {
+   "key": "2911094806824374276",
+   "en": "Let's begin.",
+   "ro": "Să începem."
+  },
+  {
+   "key": "2911095805421047808",
+   "en": "Follow me.",
+   "ro": "Urmează-mă."
+  },
+  {
+   "key": "2911099949561171984",
+   "en": "A pleasure to see you both.",
+   "ro": "Mă bucur să vă văd pe amândoi."
+  },
+  {
+   "key": "2911099950366478344",
+   "en": "This way.",
+   "ro": "Pe aici."
+  },
+  {
+   "key": "2911099950551027712",
+   "en": "So tell me – how do ya like NC now that you're back?",
+   "ro": "Deci spune-mi – cum îți place NC acum că te-ai întors?"
+  },
+  {
+   "key": "2911099950718799872",
+   "en": "This hollow shell? With shining promises and colorful pleasures without meaning?",
+   "ro": "Coaja asta goală? Cu promisiuni sclipitoare și plăceri colorate fără rost?"
+  },
+  {
+   "key": "2911099950785908736",
+   "en": "Kinda like suckin' your own cock, huh? Pardon the analogy. but you're right, I agree.",
+   "ro": "Cam ca să-ți sugi pula, nu? Scuze pentru comparație, dar ai dreptate, sunt de acord."
+  },
+  {
+   "key": "2911099950903349248",
+   "en": "We were in different blocks.",
+   "ro": "Am fost în blocuri diferite."
+  },
+  {
+   "key": "2911099950903349260",
+   "en": "Ah, the tattoo I remember.",
+   "ro": "Aha, tatuajul ăla. Îl țin minte."
+  },
+  {
+   "key": "2911099950953680904",
+   "en": "Pff, this Raquel is clearly mistaken. Max security is separate from the VIP wing, where I stayed. Heh, thank God.",
+   "ro": "Pff, Raquel aia se înșeală clar. Securitatea maximă e separată de aripa VIP, unde am stat eu. Heh, slavă Domnului."
+  },
+  {
+   "key": "2911099951087898636",
+   "en": "Ah, yes, the rat tattoo! I remember! Oh, please give Raquel my warmest regards.",
+   "ro": "A, da, tatuajul cu șobolanul! Îmi amintesc! Te rog, transmite-i lui Raquel cele mai calde salutări."
+  },
+  {
+   "key": "2911099951155007488",
+   "en": "Wait, did I say Raquel? I meant Ruth. From B Block, not C.",
+   "ro": "Stai, am zis Raquel? Vroiam să zic Ruth. Din Blocul B, nu C."
+  },
+  {
+   "key": "2911099951339556864",
+   "en": "Then give my regards to Ruth as well.",
+   "ro": "Atunci transmite-i salutări și lui Ruth."
+  },
+  {
+   "key": "2911099951339556876",
+   "en": "We were both mistaken.",
+   "ro": "Ne-am înșelat amândoi."
+  },
+  {
+   "key": "2911099951423442956",
+   "en": "Which gives us a chance to chat.",
+   "ro": "Și asta ne dă ocazia să stăm de vorbă."
+  },
+  {
+   "key": "2911099951691878412",
+   "en": "Heh! Then say hello to Ruth.",
+   "ro": "Heh! Atunci salută-o pe Ruth."
+  },
+  {
+   "key": "2911099951876427784",
+   "en": "So... we were both mistaken.",
+   "ro": "Deci... ne-am înșelat amândoi."
+  },
+  {
+   "key": "2911099952060977168",
+   "en": "How many years have you been in Night City? They say you served with Militech once.",
+   "ro": "Câți ani ai în Night City? Se spune că ai servit odată la Militech."
+  },
+  {
+   "key": "2911099952195194880",
+   "en": "Seven years now. And yes, before that it was my mission to plant an NUS flag on this soil.",
+   "ro": "Șapte ani acum. Și da, înainte de asta, misiunea mea era să plantez un steag NUS pe pământul ăsta."
+  },
+  {
+   "key": "2911099952413298696",
+   "en": "Ah, the tailor of Kerry Eurodyne. Oh, he is so flavorful! Mmm, I must have a taste, hahaha!",
+   "ro": "A, croitorul lui Kerry Eurodyne. Oho, ce savuros e! Mmm, trebuie să gust, hahaha!"
+  },
+  {
+   "key": "2911099952564293644",
+   "en": "We spoke of, uh, Lizzy Wizzy's stylist. Oh, magnifique!",
+   "ro": "Am vorbit despre, ăă, stilistul lui Lizzy Wizzy. Oh, magnifique!"
+  },
+  {
+   "key": "2911099952631402496",
+   "en": "Are you certain? If that's the case, I could've asked her then and there. She was at the party, too.",
+   "ro": "Ești sigur? Dacă e așa, aș fi putut s-o întreb chiar atunci. Și ea a fost la petrecere."
+  },
+  {
+   "key": "2911099952748843008",
+   "en": "I'm afraid I don't remember.",
+   "ro": "Nu-mi amintesc, îmi pare rău."
+  },
+  {
+   "key": "2911099952748843020",
+   "en": "I'm afraid I don't remember.",
+   "ro": "Nu-mi amintesc, îmi pare rău."
+  },
+  {
+   "key": "2911099952748843032",
+   "en": "Never mind.",
+   "ro": "Lasă."
+  },
+  {
+   "key": "2911099952815951884",
+   "en": "Uh, so many in Night City ooze style – ah, I just don't know. Lizzy Wizzy, Kerry Eurodyne, Arif Iqbal – I spoke of each, no? Perhaps I am wrong?",
+   "ro": "Ăă, atâția din Night City au stil – ah, nu mai știu. Lizzy Wizzy, Kerry Eurodyne, Arif Iqbal – am vorbit despre fiecare, nu? Poate greșesc?"
+  },
+  {
+   "key": "2911099952883060736",
+   "en": "Perfect!",
+   "ro": "Perfect!"
+  },
+  {
+   "key": "2911099953034055688",
+   "en": "Ah, it's a small problem. It is time to attend to business, no?",
+   "ro": "A, e o problemă mică. Hai să trecem la treabă, nu?"
+  },
+  {
+   "key": "2911099953285713936",
+   "en": "Your sister certainly is the more talkative of you two.",
+   "ro": "Sora ta e clar mai vorbăreață dintre voi doi."
+  },
+  {
+   "key": "2911099953352822784",
+   "en": "You noticed?",
+   "ro": "Ai observat?"
+  },
+  {
+   "key": "2911099953604481032",
+   "en": "I'm sorry, Colonel, but you are teasing the wrong cock.",
+   "ro": "Îmi pare rău, Colonel, dar te iei de pula greșită."
+  },
+  {
+   "key": "2911099953738698764",
+   "en": "Hah! Anyone with even a bit of cred in France knows who they are.",
+   "ro": "Hah! Oricine are un pic de reputație în Franța știe cine sunt."
+  },
+  {
+   "key": "2911099953805807616",
+   "en": "We can put you in contact, easily enough.",
+   "ro": "Te putem pune în contact, fără probleme."
+  },
+  {
+   "key": "2911099953940025344",
+   "en": "There is one \"but\".",
+   "ro": "E un singur „dar”."
+  },
+  {
+   "key": "2911099953940025356",
+   "en": "There is one \"but\".",
+   "ro": "E un singur „dar”."
+  },
+  {
+   "key": "2911099953940025368",
+   "en": "We are well acquainted.",
+   "ro": "Ne cunoaștem bine."
+  },
+  {
+   "key": "2911099953990357000",
+   "en": "Oui, one fat, juicy \"but.\" They have, uh, sentenced me to death.",
+   "ro": "Oui, un „dar” gras și suculent. M-au, ăă, condamnat la moarte."
+  },
+  {
+   "key": "2911099954057465856",
+   "en": "For that much cash, I can ask. But no assurance, that would cost more.",
+   "ro": "Pentru atâția bani, pot întreba. Dar fără asigurări, ar costa mai mult."
+  },
+  {
+   "key": "2911099954174906368",
+   "en": "Yes, I and Le Collectif, we are very close.",
+   "ro": "Da, eu și Le Collectif suntem foarte apropiați."
+  },
+  {
+   "key": "2911099956003622912",
+   "en": "Let's begin.",
+   "ro": "Să începem."
+  },
+  {
+   "key": "2911099956087509000",
+   "en": "Follow me.",
+   "ro": "Urmează-mă."
+  },
+  {
+   "key": "2952142301901639680",
+   "en": "Ugh, my brother, he talks little.",
+   "ro": "Ugh, fratele meu vorbește puțin."
+  },
+  {
+   "key": "2952143317913063424",
+   "en": "Sometime, I find this creepy. But not you I hope?",
+   "ro": "Uneori mi se pare ciudat. Dar tu nu, sper?"
+  },
+  {
+   "key": "2952143379200233472",
+   "en": "Hey, just met the guy.",
+   "ro": "Hei, abia l-am cunoscut pe tipul ăsta."
+  },
+  {
+   "key": "2970743031763849216",
+   "en": "Good, you made it.",
+   "ro": "Bine, ai ajuns."
+  },
+  {
+   "key": "2970755645780807684",
+   "en": "Have you been with Hansen since the beginning?",
+   "ro": "Ai fost cu Hansen de la început?"
+  },
+  {
+   "key": "2970755645780807692",
+   "en": "Since the op in Night City,  you mean?",
+   "ro": "Din operațiunea din Night City, zici?"
+  },
+  {
+   "key": "2970755645780807700",
+   "en": "Could say that. But we served together earlier, too.",
+   "ro": "Aș putea spune că da. Dar am servit împreună și mai devreme."
+  },
+  {
+   "key": "2970758787096399872",
+   "en": "Got our people mannin' the whole stadium. Drone-aided scans providin' surveillance support, too.",
+   "ro": "Avem oameni pe tot stadionul. Scanări cu drone care oferă suport de supraveghere."
+  },
+  {
+   "key": "2970770515360239624",
+   "en": "Good, you made it.",
+   "ro": "Bine, ai ajuns."
+  },
+  {
+   "key": "2970770516618530824",
+   "en": "Need you to leave your weapons here.",
+   "ro": "Trebuie să-ți lași armele aici."
+  },
+  {
+   "key": "2971114693118152704",
+   "en": "Good luck.",
+   "ro": "Baftă."
+  },
+  {
+   "key": "2999654771553488896",
+   "en": "We can begin. The mainframe is ready.",
+   "ro": "Putem începe. Mainframe-ul e gata."
+  },
+  {
+   "key": "2999656747121004576",
+   "en": "We can begin. The mainframe is ready.",
+   "ro": "Putem începe. Mainframe-ul e gata."
+  },
+  {
+   "key": "3004141478537613316",
+   "en": "Is Hansen here?",
+   "ro": "E Hansen aici?"
+  },
+  {
+   "key": "3004142078021095424",
+   "en": "Quite the stadium.",
+   "ro": "Ce stadion."
+  },
+  {
+   "key": "3004142818198310912",
+   "en": "So... this is your celebrated stadium.",
+   "ro": "Deci... ăsta e celebrul tău stadion."
+  },
+  {
+   "key": "3004144856999153664",
+   "en": "The colonel is here already?",
+   "ro": "Colonelul e deja aici?"
+  },
+  {
+   "key": "3004146946970505216",
+   "en": "Lead the way.",
+   "ro": "Tu condu."
+  },
+  {
+   "key": "3004146946987282440",
+   "en": "You look nervous.",
+   "ro": "Pari nervoasă.",
+   "ro_m": "Pari nervos."
+  },
+  {
+   "key": "3004146947155054600",
+   "en": "Murphy… It seems familiar. No, I believe we have met.",
+   "ro": "Murphy… Mi se pare cunoscut. Nu, cred că ne-am mai văzut."
+  },
+  {
+   "key": "3004146948866330628",
+   "en": "Oh, let's finish this quickly. My hangover is killing me.",
+   "ro": "Hai să terminăm repede, mahmureala mă omoară."
+  },
+  {
+   "key": "3014159939217149952",
+   "en": "Area's off limits. Move along.",
+   "ro": "Zona e interzisă. Circulă."
+  },
+  {
+   "key": "3023090183563137028",
+   "en": "[Leave weapons]",
+   "ro": "[Lasă armele]"
+  },
+  {
+   "key": "3023094113072336896",
+   "en": "[Leave weapons]",
+   "ro": "[Lasă armele]"
+  },
+  {
+   "key": "3028658239664312320",
+   "en": "A Rayfield Aerondight.",
+   "ro": "Un Rayfield Aerondight."
+  },
+  {
+   "key": "3028658625120849932",
+   "en": "I had my eyes on a Rayfield Aerondight. Second-hand, of course. The new ones are overpriced.",
+   "ro": "Pusesem ochii pe un Rayfield Aerondight. La mâna a doua, normal. Cele noi sunt supraprețuite."
+  },
+  {
+   "key": "3028658625120849940",
+   "en": "Interesting. Because the first I ever heard of you, why, it was about you being  in the market for a used car. But certainly not a Rayfield.",
+   "ro": "Interesant. Pentru că prima dată când am auzit de tine, era despre faptul că erai în căutarea unei mașini second-hand. Dar sigur nu un Rayfield."
+  },
+  {
+   "key": "3028660171392962572",
+   "en": "Ah, a fact about me that is not so easy to learn.",
+   "ro": "Ah, un fapt despre mine nu tocmai ușor de aflat."
+  },
+  {
+   "key": "3028660171392962580",
+   "en": "Very true.",
+   "ro": "Foarte adevărat."
+  },
+  {
+   "key": "3028660434090610688",
+   "en": "I do not know any Raquel.",
+   "ro": "Nu cunosc nicio Raquel."
+  },
+  {
+   "key": "3028664130362953740",
+   "en": "Symbolic…",
+   "ro": "Simbolic…"
+  },
+  {
+   "key": "3028664130362953748",
+   "en": "Mhmmm.",
+   "ro": "Mhmmm."
+  },
+  {
+   "key": "3028664726222557184",
+   "en": "[Take a drink] Symbolically.",
+   "ro": "[Ia o băutură] Simbolic."
+  },
+  {
+   "key": "3028666093297225728",
+   "en": "Lizzy Wizzy's stylist.",
+   "ro": "Stilistul lui Lizzy Wizzy."
+  },
+  {
+   "key": "3028666093314002948",
+   "en": "Kerry Eurodyne's tailor.",
+   "ro": "Croitorul lui Kerry Eurodyne."
+  },
+  {
+   "key": "3028666093314002960",
+   "en": "Arif Iqbal's personal couturier.",
+   "ro": "Couturierul personal al lui Arif Iqbal."
+  },
+  {
+   "key": "3028666668973838340",
+   "en": "Uh, the couturier of, uh, Arif Iqbal – oh, that tasty morsel on WNS News.",
+   "ro": "Ăă, couturierul lui, ăă, Arif Iqbal – of, delicatesa aia de la WNS News."
+  },
+  {
+   "key": "3028666668973838348",
+   "en": "You sure of this? I think I'd remember if that son-of-a-bitch's name came up…",
+   "ro": "Ești sigur? Cred că mi-aș aminti dacă numele nenorocitului ăla ar fi apărut…"
+  },
+  {
+   "key": "3028702049639354368",
+   "en": "We can manage that.",
+   "ro": "Ne descurcăm."
+  },
+  {
+   "key": "3028702049639354380",
+   "en": "It will cost more.",
+   "ro": "O să coste mai mult."
+  },
+  {
+   "key": "3028702049639354392",
+   "en": "Impossible.",
+   "ro": "Imposibil."
+  },
+  {
+   "key": "3028702049723240460",
+   "en": "It will cost. More than your two stacks. Much more.",
+   "ro": "O să coste. Mai mult decât cele două stack-uri ale tale. Mult mai mult."
+  },
+  {
+   "key": "3028702049723240468",
+   "en": "Call it four, then.",
+   "ro": "Să zicem patru, atunci."
+  },
+  {
+   "key": "3028739320275030016",
+   "en": "You should expect to have eyes on you all day today. Kurt got a tip – the FIA plans to pull some gonk move.",
+   "ro": "Ar trebui să te aștepți să fii cu ochii pe tine toată ziua de azi. Kurt a primit un pont – FIA vrea să facă o fraierie."
+  },
+  {
+   "key": "3028747230799482888",
+   "en": "You should expect to have eyes on you all day today. Kurt got a tip – the FIA plans to pull some gonk move.",
+   "ro": "Ar trebui să te aștepți să fii cu ochii pe tine toată ziua de azi. Kurt a primit un pont – FIA vrea să facă o fraierie."
+  },
+  {
+   "key": "3032979438775062528",
+   "en": "This here's the heart of our little empire.",
+   "ro": "Aici e inima micului nostru imperiu."
+  },
+  {
+   "key": "3032980150867218432",
+   "en": "Hell, it's not even that little anymore.",
+   "ro": "La naiba, nici nu mai e chiar atât de mic."
+  },
+  {
+   "key": "3032984616190365696",
+   "en": "Tell me – what do you do here, your operation, precisely?",
+   "ro": "Zi-mi – ce faceți voi aici, exact?"
+  },
+  {
+   "key": "3032985215170531336",
+   "en": "Ah, how you sell these war machines – it's like a car salesman?",
+   "ro": "Ă, cum vindeți chestiile astea de război – e ca la un vânzător de mașini?"
+  },
+  {
+   "key": "3033017555049533440",
+   "en": "Now, here's somethin' that oughta pique your interest.",
+   "ro": "Acum, uite ceva care o să te intereseze."
+  },
+  {
+   "key": "3033018392182280192",
+   "en": "Remember Tijuana's pacification? Peruvian Revolution? Then you know what this baby can do.",
+   "ro": "Îți amintești pacificarea Tijuanăi? Revoluția peruviană? Atunci știi ce poate face bebelușul ăsta."
+  },
+  {
+   "key": "3033018734471041024",
+   "en": "This here's the latest 2078 model. Not slated to be revealed for a couple more months.",
+   "ro": "Asta e cel mai nou model din 2078. Nu trebuia dat publicității încă vreo două luni."
+  },
+  {
+   "key": "3033019125849935872",
+   "en": "Improved AI support, reactive armor, additional cup holders – next-gen warfare, folks.",
+   "ro": "Suport AI îmbunătățit, armură reactivă, suporturi în plus pentru pahare – război din generația nouă, lume bună."
+  },
+  {
+   "key": "3033020111159054336",
+   "en": "Also comes in candy apple red for a little extra.",
+   "ro": "Vine și în roșu-caramel, dacă mai dai un pic în plus."
+  },
+  {
+   "key": "3050511534284361728",
+   "en": "Take your time. I'll need ten more minutes at least.",
+   "ro": "Ia-ți timp. Am nevoie de cel puțin încă zece minute."
+  },
+  {
+   "key": "3050516575368007680",
+   "en": "I couldn't get started earlier without risk of bein' compromised.",
+   "ro": "N-aveam cum să încep mai devreme, riscam să fiu compromis."
+  },
+  {
+   "key": "3051755363205402624",
+   "en": "Everyone knows Greyson. And this rock star. Yeah, I remember hearin' about this sale.",
+   "ro": "Toată lumea îl știe pe Greyson. Și pe rock star-ul ăsta. Da, îmi amintesc că am auzit despre vânzarea asta."
+  },
+  {
+   "key": "3051756546015907840",
+   "en": "Well, it fell apart. Greyson was a fool – he weaseled out in the final hour.",
+   "ro": "Păi, s-a dus naibii. Greyson a fost un fraier – a dat bir cu fugiții în ultima oră."
+  },
+  {
+   "key": "3051779778618085376",
+   "en": "True. War is an expensive hobby.",
+   "ro": "Adevărat. Războiul e un hobby scump."
+  },
+  {
+   "key": "3051787047212699648",
+   "en": "Huh. Not the kind to make reckless mistakes, that one…",
+   "ro": "Hm. Nu e genul care să facă greșeli imprudente, ăla…"
+  },
+  {
+   "key": "3051811179040100352",
+   "en": "Oh, I've visited many places, forged my fair share of stories, to be sure. Siberia was just one pitstop of many.",
+   "ro": "Of, am fost prin multe locuri, mi-am făcut partea mea de povești, sigur. Siberia a fost doar o escală dintre multe."
+  },
+  {
+   "key": "3051812869160062976",
+   "en": "It's easier to count the places I haven't been. I know where to find what no one else has, and who to call to get it.",
+   "ro": "E mai ușor să numeri locurile unde n-am fost. Știu unde să găsesc ce nu are nimeni altcineva și cui să-i dau un telefon ca s-o capăt."
+  },
+  {
+   "key": "3051869023911301120",
+   "en": "Murphy, we have foxes in the henhouse.",
+   "ro": "Murphy, avem vulpi în coteț."
+  },
+  {
+   "key": "3051871859512463360",
+   "en": "Are you sure?",
+   "ro": "Sigur?"
+  },
+  {
+   "key": "3051872773853958144",
+   "en": "Completely.",
+   "ro": "Complet."
+  },
+  {
+   "key": "3051878175664525312",
+   "en": "Uh, your friends are mistaken, I think.",
+   "ro": "Ăă, prietenii tăi se înșală, cred."
+  },
+  {
+   "key": "3051896884474957824",
+   "en": "I never worked for Petrochem.",
+   "ro": "N-am lucrat niciodată pentru Petrochem."
+  },
+  {
+   "key": "3051896884491735048",
+   "en": "I remember buying my way out.",
+   "ro": "Îmi amintesc că am plătit ca să ies."
+  },
+  {
+   "key": "3051896884491735060",
+   "en": "I don't remember.",
+   "ro": "Nu-mi amintesc."
+  },
+  {
+   "key": "3051942776200515588",
+   "en": "All change in the corporate world is effected with money. I could afford it.",
+   "ro": "Orice schimbare în lumea corporatistă se face cu bani. Mi-am putut permite."
+  },
+  {
+   "key": "3051942776200515596",
+   "en": "A convenient answer. Generic, uninspired and almost definitely untrue.",
+   "ro": "Un răspuns comod. Generic, banal și aproape sigur minciună."
+  },
+  {
+   "key": "3051942777995677708",
+   "en": "No, I'm afraid this is not true. I never worked for Petrochem.",
+   "ro": "Nu, mă tem că nu e adevărat. N-am lucrat niciodată pentru Petrochem."
+  },
+  {
+   "key": "3051942778012454916",
+   "en": "Oh, but you did. Maybe you've just forgotten?",
+   "ro": "Ba ai lucrat. Poate doar ai uitat?"
+  },
+  {
+   "key": "3052003245414174720",
+   "en": "Hm. If you do not like it, why make it your home?",
+   "ro": "Hm. Dacă nu-ți place, de ce ți-ai făcut din el casă?"
+  },
+  {
+   "key": "3052005844221710336",
+   "en": "I like eds. And NC's harvest of them is ripe as hell.",
+   "ro": "Îmi plac eddies. Și recolta de eddies a NC-ului e coaptă de nu se poate."
+  },
+  {
+   "key": "3052044205158322176",
+   "en": "Ah... It must've been someone like you. Very much like you.",
+   "ro": "Ah... Trebuie să fi fost cineva ca tine. Exact ca tine."
+  },
+  {
+   "key": "3052115332803088384",
+   "en": "What are the odds?",
+   "ro": "Ce șanse să fie?"
+  },
+  {
+   "key": "3052116337322119168",
+   "en": "You make it sound like you knew everyone in the joint.",
+   "ro": "Vorbești de parcă ai fi cunoscut pe toată lumea din locul ăla."
+  },
+  {
+   "key": "3052117478390910976",
+   "en": "Raquel, Ruth, there is no difference. I know none of them. I am just polite.",
+   "ro": "Raquel, Ruth, nu e nicio diferență. Nu cunosc pe niciuna. Sunt doar politicos."
+  },
+  {
+   "key": "3052118881402376192",
+   "en": "I was in the VIP wing. B and C Block have no access there.",
+   "ro": "Eram în aripa VIP. Blocurile B și C n-au acces acolo."
+  },
+  {
+   "key": "3052128556151754752",
+   "en": "Hahaha, yes, yes, that's the one. The fashion world isn't exactly my forte, so I'll need maybe a week to arrange it.",
+   "ro": "Hahaha, da, da, ăla e. Moda nu e chiar punctul meu forte, așa că-mi trebuie vreo săptămână ca să aranjez."
+  },
+  {
+   "key": "3052136991031316480",
+   "en": "Eurodyne – it was his tailor. I'll be happy to arrange something.",
+   "ro": "Eurodyne – era croitorul lui. Cu plăcere aranjez ceva."
+  },
+  {
+   "key": "3052138259204296712",
+   "en": "<mothertongue l=\"fra\" m=\"Ma chère amie\" b=\"\" a=\", it's been business all along.\"/>",
+   "ro": "<mothertongue l=\"fra\" m=\"Ma chère amie\" b=\"\" a=\", a fost afaceri tot timpul.\"/>"
+  },
+  {
+   "key": "3052162538000109568",
+   "en": "Le Collectif and we, um... have a history, like you and your NUSA. We do not, er… make love. No fucking love at all.",
+   "ro": "Le Collectif și noi, um... avem istorie, ca tine și NUSA-ul tău. Noi nu, er... facem dragoste. Niciun pic de dragoste, pula mea."
+  },
+  {
+   "key": "3052188727452389376",
+   "en": "Yet you're willing to risk this?",
+   "ro": "Și totuși ești dispusă să riști asta?",
+   "ro_m": "Și totuși ești dispus să riști asta?"
+  },
+  {
+   "key": "3052193120885166080",
+   "en": "Pff, mere rumors, Colonel.",
+   "ro": "Pff, doar zvonuri, Colonel."
+  },
+  {
+   "key": "3053228031003873280",
+   "en": "Songbird needs a moment to disarm the device.",
+   "ro": "Songbird îi mai trebuie un moment ca să dezarmeze dispozitivul."
+  },
+  {
+   "key": "3053229419083616256",
+   "en": "Songbird needs a moment to disarm the device.",
+   "ro": "Songbird îi mai trebuie un moment ca să dezarmeze dispozitivul."
+  },
+  {
+   "key": "3070835630461337600",
+   "en": "We haven't met yet. Name's Murphy.",
+   "ro": "Nu ne-am cunoscut încă. Eu sunt Murphy."
+  },
+  {
+   "key": "3070835924649820160",
+   "en": "We haven't met yet. Name's Murphy.",
+   "ro": "Nu ne-am cunoscut încă. Eu sunt Murphy."
+  },
+  {
+   "key": "3077935556475404288",
+   "en": "He is. Waitin' for you.",
+   "ro": "E. Te așteaptă."
+  },
+  {
+   "key": "3077935900827762688",
+   "en": "Fantastic.",
+   "ro": "Fantastic."
+  },
+  {
+   "key": "3077953393508139008",
+   "en": "I'm certain we haven't.",
+   "ro": "Sunt sigur că nu."
+  },
+  {
+   "key": "3077953513314238464",
+   "en": "<mothertongue l=\"fra\" m=\"Oui, oui\" b=\"\" a=\", you love to frequent the bordellos of Paris, no?\"/>",
+   "ro": "<mothertongue l=\"fra\" m=\"Oui, oui\" b=\"\" a=\", îți place să frecventezi bordelurile din Paris, nu?\"/>"
+  },
+  {
+   "key": "3077953862146113536",
+   "en": "I-- Uh– What?",
+   "ro": "Eu-- Ăă– Ce?"
+  },
+  {
+   "key": "3077953966903050240",
+   "en": "Hahaha, I'm only fucking with you, Murphy. It is a pleasure.",
+   "ro": "Hahaha, doar îmi bat joc de tine, pula mea, Murphy. E o plăcere."
+  },
+  {
+   "key": "3077956184549015552",
+   "en": "Situation's under control. He ordered everyone checked out, though. No exceptions.",
+   "ro": "Situația e sub control. A ordonat totuși să fie verificați toți. Fără excepții."
+  },
+  {
+   "key": "3077957076308377600",
+   "en": "Huh... is that so?",
+   "ro": "Hm... așa să fie?"
+  },
+  {
+   "key": "3088658380752076800",
+   "en": "That's right. Once an EBM and Petrochem monument to bloodsport, today a hub for global trade.",
+   "ro": "Așa e. Cândva un monument EBM și Petrochem al sportului sângeros, azi un hub pentru comerțul global."
+  },
+  {
+   "key": "3088658518325248000",
+   "en": "How very American.",
+   "ro": "Cât de american."
+  },
+  {
+   "key": "3088669993320235008",
+   "en": "Need you to leave your weapons here.",
+   "ro": "Trebuie să-ți lași armele aici."
+  },
+  {
+   "key": "3088696889361743872",
+   "en": "Huh, noticed and noted.",
+   "ro": "Hm, notat și reținut."
+  },
+  {
+   "key": "3088697860930322432",
+   "en": "My, my, a diplomat...",
+   "ro": "Vai, vai, un diplomat..."
+  },
+  {
+   "key": "3091250351723167744",
+   "en": "Got our people mannin' the whole stadium. Drone-aided scans providin' surveillance support, too.",
+   "ro": "Avem oameni pe tot stadionul. Scanări cu drone care oferă suport de supraveghere."
+  },
+  {
+   "key": "3091267547631370240",
+   "en": "Many wish your colonel dead. He must be vigilant.",
+   "ro": "Mulți își doresc moartea colonelului tău. Trebuie să fie cu ochii în patru."
+  },
+  {
+   "key": "3094169854652104704",
+   "en": "The situation's under control, though. He ordered everyone checked out. No exceptions.",
+   "ro": "Situația e sub control, totuși. A ordonat verificarea tuturor. Fără excepții."
+  },
+  {
+   "key": "3098630298062209028",
+   "en": "What's your operation here, exactly?",
+   "ro": "Care e operațiunea voastră aici, exact?"
+  },
+  {
+   "key": "3098631951943385088",
+   "en": "Arms tradin', mostly. Need to start a war? End one? Plannin' a coup, maybe? We don't ask these questions.",
+   "ro": "Arme, în principal. Vrei să pornești un război? Să-l termini? Poate o lovitură de stat? Nu punem întrebări din astea."
+  },
+  {
+   "key": "3098632535505289216",
+   "en": "Some. But our reach stretches 'round the globe. Japan, Australia, the Balkans, Lagos, you name it.",
+   "ro": "Unii. Dar influența noastră se întinde pe tot globul. Japonia, Australia, Balcanii, Lagos, numește tu."
+  },
+  {
+   "key": "3098633702494879744",
+   "en": "And this all is from Night City?",
+   "ro": "Și toate astea din Night City?"
+  },
+  {
+   "key": "3098635472793157632",
+   "en": "Kinda, heh, yeah. But wholesale only.",
+   "ro": "Cam da, heh. Dar doar en-gros."
+  },
+  {
+   "key": "3098635755422138368",
+   "en": "Suppose you're a dictator from some rinky-dink country. I dunno… Australia, let's say.",
+   "ro": "Să zicem că ești un dictator dintr-o țărișoară oarecare. Nu știu... Australia, să zicem."
+  },
+  {
+   "key": "3098635888935223296",
+   "en": "Tanks, choppers, subs – you want it, we got it. No red tape.",
+   "ro": "Tancuri, elicoptere, submarine – vrei, avem. Fără birocrație."
+  },
+  {
+   "key": "3098636131617652736",
+   "en": "You have submarines?",
+   "ro": "Aveți submarine?"
+  },
+  {
+   "key": "3098636308952825856",
+   "en": "Fresh out. But we sure did.",
+   "ro": "Nu mai avem. Dar am avut."
+  },
+  {
+   "key": "3098703050949443588",
+   "en": "The FIA knows about our meeting? They are interested?",
+   "ro": "FIA știe de întâlnirea noastră? Sunt interesați?"
+  },
+  {
+   "key": "3098703090023579648",
+   "en": "We are not in a hurry.",
+   "ro": "Nu ne grăbim."
+  },
+  {
+   "key": "3098703183237791744",
+   "en": "Your man mentioned trouble. That NUS intelligence is interested in our meeting today.",
+   "ro": "Omul tău a pomenit de probleme. Că serviciile NUS se interesează de întâlnirea noastră de azi."
+  },
+  {
+   "key": "3098703438452801536",
+   "en": "I do not mind waiting.",
+   "ro": "Nu mă deranjează să aștept."
+  },
+  {
+   "key": "3098704369487626244",
+   "en": "The FIA knows about our meeting?",
+   "ro": "FIA știe de întâlnirea noastră?"
+  },
+  {
+   "key": "3098704381869211648",
+   "en": "Murphy told us some shit hit the fan. That boogeymen know of us here, of our meeting.",
+   "ro": "Murphy ne-a spus că s-a dus totul dracu'. Că ne-au găsit bau-bau-ii ăștia aici, la întâlnire."
+  },
+  {
+   "key": "3098704382020206592",
+   "en": "Ugh, please, there is no need to hurry... We have a terrible hangover.",
+   "ro": "Ugh, te rog, nu e nevoie să te grăbești... Avem o mahmureală de groază."
+  },
+  {
+   "key": "3098704528854401024",
+   "en": "We are not in a hurry.",
+   "ro": "Nu ne grăbim."
+  },
+  {
+   "key": "3098707306238623744",
+   "en": "Heh. Both of you?",
+   "ro": "Heh. Amândoi?"
+  },
+  {
+   "key": "3098707418192986112",
+   "en": "A bit of rhetoric. Aymeric doesn't drink. But when I do, both of us suffer.",
+   "ro": "Un pic de retorică. Aymeric nu bea. Dar când beau eu, suferim amândoi."
+  },
+  {
+   "key": "3098708449538785280",
+   "en": "Well, we'll fix that right quick... Do you often conduct business hungover?",
+   "ro": "Ei, o să rezolvăm asta repede... Faci des afaceri mahmur?"
+  },
+  {
+   "key": "3098710229517516804",
+   "en": "[Move closer] Always.",
+   "ro": "[Apropie-te] Mereu."
+  },
+  {
+   "key": "3098710384270557184",
+   "en": "[Move closer and touch] This is my first time.",
+   "ro": "[Apropie-te și atinge] E prima dată."
+  },
+  {
+   "key": "3098710893979156480",
+   "en": "[Move closer] It was an accident.",
+   "ro": "[Apropie-te] A fost un accident."
+  },
+  {
+   "key": "3098710993937809408",
+   "en": "My first time, I give you my word.",
+   "ro": "Prima dată, îți jur pe cuvânt."
+  },
+  {
+   "key": "3098710996202733568",
+   "en": "Always. When your body believes it is dying, it does everything to survive. To be hungover is to be vigilant.",
+   "ro": "Mereu. Când corpul crede că moare, face tot ce poate ca să supraviețuiască. Mahmureala înseamnă vigilență."
+  },
+  {
+   "key": "3098710997763014656",
+   "en": "Ah well, it, uh, was an accident.",
+   "ro": "Păi, ăă, a fost un accident."
+  },
+  {
+   "key": "3098722028010782720",
+   "en": "Murphy exaggerates. And he spoke out of turn.",
+   "ro": "Murphy exagerează. Și a vorbit când nu trebuia."
+  },
+  {
+   "key": "3098722338087288832",
+   "en": "We have only suspicions. I assure you, caution is our creed.",
+   "ro": "Avem doar suspiciuni. Te asigur, prudența e crezul nostru."
+  },
+  {
+   "key": "3098740685852033024",
+   "en": "Oh, Colonel Kurt, you are too tense. I exaggerate. I wished only to see your reaction.",
+   "ro": "Colonele Kurt, ești prea încordat. Exagerez. Voiam doar să-ți văd reacția."
+  },
+  {
+   "key": "3098742805468725248",
+   "en": "Huh. A unique philosophy… One I never heard.",
+   "ro": "Hm. O filosofie unică… Nu am mai auzit una ca asta."
+  },
+  {
+   "key": "3098742923295113216",
+   "en": "Clever, no? It seems your clientele are painfully mundane, then.",
+   "ro": "Deștept, nu? Deci clienții tăi sunt îngrozitor de plictisitori."
+  },
+  {
+   "key": "3098746662517129216",
+   "en": "I'm sure it is.",
+   "ro": "Sigur că da."
+  },
+  {
+   "key": "3098746776082104320",
+   "en": "Pff, I know you don't believe me.",
+   "ro": "Pff, știu că nu mă crezi."
+  },
+  {
+   "key": "3098747091091111936",
+   "en": "But I do.",
+   "ro": "Ba da."
+  },
+  {
+   "key": "3098747163770011648",
+   "en": "Truly? Yet even I do not believe me.",
+   "ro": "Chiar? Și totuși nici eu nu mă cred."
+  },
+  {
+   "key": "3098747557917147136",
+   "en": "You got blackout blitzed by accident? How?",
+   "ro": "Te-ai îmbătat până la pană din greșeală? Cum?"
+  },
+  {
+   "key": "3098747667338149888",
+   "en": "A sad but common fate for a lover of vodka.",
+   "ro": "Un sfârșit trist, dar tipic pentru un amator de vodcă."
+  },
+  {
+   "key": "3098748284437708800",
+   "en": "Now that I understand.",
+   "ro": "Acum înțeleg."
+  },
+  {
+   "key": "3098749622236135428",
+   "en": "[Move closer] Of course I am.",
+   "ro": "[Apropie-te] Sigur că sunt."
+  },
+  {
+   "key": "3098749753366855680",
+   "en": "Hah... Are you testing me?",
+   "ro": "Hah... Mă testezi?"
+  },
+  {
+   "key": "3098749984070352896",
+   "en": "[Move closer and touch] Not testing – teasing.",
+   "ro": "[Apropie-te și atinge] Nu te testez – te tachinez."
+  },
+  {
+   "key": "3098750108204974080",
+   "en": "You check us out, we check you out... Kurt, it is the dance, it is the game! Loosen up!",
+   "ro": "Vă verificați pe noi, noi pe voi... Kurt, asta e dansul, e jocul! Relaxează-te!"
+  },
+  {
+   "key": "3098750108322414592",
+   "en": "No-no-no, we checked you before. Now I just tease.",
+   "ro": "Nu-nu-nu, v-am verificat deja. Acum doar tachinez."
+  },
+  {
+   "key": "3098751187097403392",
+   "en": "This means I like you, no?",
+   "ro": "Asta înseamnă că-mi placi, nu?"
+  },
+  {
+   "key": "3098751330492268544",
+   "en": "Hah! Fuck, you're entertaining.",
+   "ro": "Hah! Pula mea, ești tare distractivă.",
+   "ro_m": "Hah! Pula mea, ești tare distractiv."
+  },
+  {
+   "key": "3098752350278565888",
+   "en": "Well, someone's trying to play us. Question is who.",
+   "ro": "Ei, cineva încearcă să ne joace. Întrebarea e cine."
+  },
+  {
+   "key": "3098753062337167360",
+   "en": "Not your FIA, I 'ope.",
+   "ro": "Nu FIA voastră, sper."
+  },
+  {
+   "key": "3100052570845134848",
+   "en": "Oh, actually, before I forget – I learned recently that we have a mutual friend.",
+   "ro": "De fapt, înainte să uit – am aflat de curând că avem un prieten comun."
+  },
+  {
+   "key": "3100054602532438020",
+   "en": "A mutual friend?",
+   "ro": "Un prieten comun?"
+  },
+  {
+   "key": "3100054657259716608",
+   "en": "My, you must have an impressive set of contacts, Colonel.",
+   "ro": "Vai, trebuie să ai contacte impresionante, colonele."
+  },
+  {
+   "key": "3100054657779810304",
+   "en": "No. No, this is not something I wish to revisit. Not with someone I hardly know.",
+   "ro": "Nu. Nu, nu vreau să reiau asta. Nu cu cineva pe care abia îl cunosc."
+  },
+  {
+   "key": "3100054919739260928",
+   "en": "It's not a topic I like to discuss.",
+   "ro": "Nu-mi place să discut despre asta."
+  },
+  {
+   "key": "3100055673371803648",
+   "en": "Raquel. Asked me to say hello. She did her time under max security, C Block, said her rat tattoo might jog your memory.",
+   "ro": "Raquel. Mi-a zis să te salut. A stat la maximă securitate, în blocul C, și a zis că tatuajul cu șobolan îți mai trezește memoria."
+  },
+  {
+   "key": "3100134354840633344",
+   "en": "Ah, a fact about me not so easy to learn.",
+   "ro": "Ah, un lucru despre mine nu tocmai ușor de aflat."
+  },
+  {
+   "key": "3100137779070418944",
+   "en": "So true.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "3100137851212447744",
+   "en": "I went by a different name.",
+   "ro": "Am folosit un alt nume."
+  },
+  {
+   "key": "3100138063511339008",
+   "en": "Also true.",
+   "ro": "Și asta e adevărat."
+  },
+  {
+   "key": "3100138326276096000",
+   "en": "A name wiped from all databases.",
+   "ro": "Un nume șters din toate bazele de date."
+  },
+  {
+   "key": "3100138705055301632",
+   "en": "Well... not all, obviously.",
+   "ro": "Păi... nu din toate, evident."
+  },
+  {
+   "key": "3104418178290335744",
+   "en": "\"Trouble\" is an exaggeration. Many people try to stick their noses into my business. I know this, and so I'm careful.",
+   "ro": "„Trouble” e mult spus. Mulți vor să-și bage nasul în treaba mea. Știu asta, așa că fac atenție."
+  },
+  {
+   "key": "3104418467512762368",
+   "en": "Were I you, I would say no different.",
+   "ro": "În locul tău, aș spune la fel."
+  },
+  {
+   "key": "3104419053624803328",
+   "en": "Hm-hm. I'm sure. I hear you're not the type to do anything hastily.",
+   "ro": "Hm-hm. Sigur. Aud că nu ești genul care face lucrurile în grabă."
+  },
+  {
+   "key": "3104420892525117440",
+   "en": "Ahem... Think I'm lying?",
+   "ro": "Ahem... Crezi că mint?"
+  },
+  {
+   "key": "3104421193978134532",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3104421208976965632",
+   "en": "Of course you are.",
+   "ro": "Evident că minți."
+  },
+  {
+   "key": "3104421209161515008",
+   "en": "It makes no difference.",
+   "ro": "Nu schimbă nimic."
+  },
+  {
+   "key": "3104421445619597312",
+   "en": "It does not matter.",
+   "ro": "Nu contează."
+  },
+  {
+   "key": "3104421546853318656",
+   "en": "I said nothing of the sort.",
+   "ro": "N-am spus nimic de genul ăsta."
+  },
+  {
+   "key": "3104421710900936704",
+   "en": "I said no such thing.",
+   "ro": "N-am spus așa ceva."
+  },
+  {
+   "key": "3104423556025597952",
+   "en": "Then I'm fucking happy to know I misheard.",
+   "ro": "Atunci sunt al dracului de fericit că am auzit greșit."
+  },
+  {
+   "key": "3104424740799037440",
+   "en": "The value of my word, my honor, don't matter to you?",
+   "ro": "Cuvântul meu și onoarea mea nu înseamnă nimic pentru tine?"
+  },
+  {
+   "key": "3104424886106505216",
+   "en": "You are a criminal. As we are. This is business, not, uh... dinner with my grandmother.",
+   "ro": "Ești un criminal. Ca noi. E afacere, nu, ăă... cină cu bunica mea."
+  },
+  {
+   "key": "3104425308070264832",
+   "en": "Hah! We'll get along just fine.",
+   "ro": "Hah! O să ne înțelegem de minune."
+  },
+  {
+   "key": "3104425977279856640",
+   "en": "Excuse me?",
+   "ro": "Poftim?"
+  },
+  {
+   "key": "3104426087573274624",
+   "en": "The only question that matters is whether your lie brings any harm. If our arrangement is truly safe, why should I care?",
+   "ro": "Singurul lucru care contează e dacă minciuna ta face rău cuiva. Dacă înțelegerea e sigură, de ce să-mi pese?"
+  },
+  {
+   "key": "3104426473348579328",
+   "en": "I assure you it is. Y'know, I find your pragmatism refreshing.",
+   "ro": "Te asigur că da. Știi, îmi place pragmatismul tău."
+  },
+  {
+   "key": "3104473042152243200",
+   "en": "I was there under a false name.",
+   "ro": "Eram acolo sub un nume fals."
+  },
+  {
+   "key": "3104473252202987520",
+   "en": "Also true.",
+   "ro": "Și asta e adevărat."
+  },
+  {
+   "key": "3104473482017292288",
+   "en": "Alas, I did not know any Raquel, please excuse me.",
+   "ro": "Din păcate, n-am cunoscut nicio Raquel, scuze."
+  },
+  {
+   "key": "3104474692375986176",
+   "en": "And just who is this \"friend\" who remembers me so well?",
+   "ro": "Și cine e, de fapt, „prietenul” ăsta care mă ține minte atât de bine?"
+  },
+  {
+   "key": "3104475231495045120",
+   "en": "But she very much insisted. Old thieves' code and all that.",
+   "ro": "Dar a insistat foarte mult. Codul vechi al hoților și toate alea."
+  },
+  {
+   "key": "3104495753251438592",
+   "en": "Indeed.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "3104516996411342848",
+   "en": "Then it appears to be a great success. The things you have achieved here, impressive…",
+   "ro": "Atunci se pare că ai reușit. Ce ai făcut aici e impresionant…"
+  },
+  {
+   "key": "3104517413090279424",
+   "en": "The FIA is still interested in you.",
+   "ro": "FIA e încă interesată de tine."
+  },
+  {
+   "key": "3104517460116815872",
+   "en": "Why did you change sides?",
+   "ro": "De ce ai schimbat tabăra?"
+  },
+  {
+   "key": "3104517462767616000",
+   "en": "It seems your old friends are still interested in you. That is why the FIA sniff around.",
+   "ro": "Se pare că vechii tăi prieteni sunt încă interesați de tine. De aceea FIA dă târcoale."
+  },
+  {
+   "key": "3104517754405961728",
+   "en": "Why did you switch sides?",
+   "ro": "De ce ai trecut de partea cealaltă?"
+  },
+  {
+   "key": "3104523300467032064",
+   "en": "Call it a... sentimental attachment. The battle for NUSA's future drives us both.",
+   "ro": "Zi-i... atașament sentimental. Lupta pentru viitorul NUSA ne ține pe amândoi în mișcare."
+  },
+  {
+   "key": "3104525294774697984",
+   "en": "I win my battles.",
+   "ro": "Îmi câștig bătăliile."
+  },
+  {
+   "key": "3104526245573083136",
+   "en": "Because I don't need a convenient ideology to hide my business behind. I tossed the flag, but the suits in D.C. still remember me.",
+   "ro": "Pentru că nu am nevoie de o ideologie convenabilă în spatele căreia să-mi ascund afacerile. Am aruncat steagul, dar costumele din D.C. încă își amintesc de mine."
+  },
+  {
+   "key": "3104526498959376384",
+   "en": "President Myers too?",
+   "ro": "Și președinta Myers?"
+  },
+  {
+   "key": "3104526712969543680",
+   "en": "She called just six months ago, in fact. Asked me to help with a mess she couldn't clean up herself. Bureaucracy, red tape and all that.",
+   "ro": "De fapt, a sunat acum doar șase luni. M-a rugat să o ajut cu o mizerie pe care nu o putea curăța singură. Birocrație, hârtii și toate alea."
+  },
+  {
+   "key": "3104527249941118976",
+   "en": "Interesting... And, uh, she calls still?",
+   "ro": "Interesant... Și, ăă, mai sună?"
+  },
+  {
+   "key": "3104527605517434880",
+   "en": "Not lately. Her administration recently encountered some, uh… turbulence along its path.",
+   "ro": "Nu prea. Administrația ei a dat recent peste niște... ăă... turbulențe pe drum."
+  },
+  {
+   "key": "3104528970847272960",
+   "en": "Interesting. Then are you different?",
+   "ro": "Interesant. Deci tu ești altfel?"
+  },
+  {
+   "key": "3104530728143208448",
+   "en": "Ah, by the way... at the Sapphire, you asked me to contact a certain fashion type... Remind me who?",
+   "ro": "A, apropo... la Sapphire mi-ai cerut să contactez un tip din modă... Cine era?"
+  },
+  {
+   "key": "3104556205654327296",
+   "en": "Murphy, we have a Code Three Thirteen. Foxes in the henhouse.",
+   "ro": "Murphy, avem un Cod Trei Treisprezece. Vulpi în coteț."
+  },
+  {
+   "key": "3104560960837435396",
+   "en": "A tempting offer.",
+   "ro": "O ofertă tentantă."
+  },
+  {
+   "key": "3104560981943173120",
+   "en": "You know, Kurt... The arms trade – we keep our fingers out of this cookie jar.",
+   "ro": "Știi, Kurt... Comerțul cu arme – ținem degetele departe de borcanul ăsta cu fursecuri."
+  },
+  {
+   "key": "3104560982077390848",
+   "en": "Ooh, I have butterflies. A lucrative opportunity?",
+   "ro": "Ooh, am fluturi în stomac. O oportunitate profitabilă?"
+  },
+  {
+   "key": "3104561249405550592",
+   "en": "[Inspect Hansen's pistol] The arms trade is not for us.",
+   "ro": "[Inspectează pistolul lui Hansen] Comerțul cu arme nu e pentru noi."
+  },
+  {
+   "key": "3104563262956683264",
+   "en": "Mhm, but I shouldn't sugarcoat it – I'm asking for a lot of hard work.",
+   "ro": "Mhm, dar n-o să te păcălesc – cer multă muncă, și grea."
+  },
+  {
+   "key": "3104564247259168768",
+   "en": "I see, but all I need's a nudge in the right direction. Some introductions, a little intelligence, one-time request, say… two hundred thousand?",
+   "ro": "Înțeleg, dar tot ce-mi trebuie e doar un pic de imbold. Niște prezentări, puțină informație, o cerere unică, zic eu... două sute de mii?"
+  },
+  {
+   "key": "3104564514084012032",
+   "en": "Mmmm. Now I have butterflies.",
+   "ro": "Mmmm. Acum am și eu fluturi în stomac."
+  },
+  {
+   "key": "3105933321050439680",
+   "en": "Am I? But you're famous in Paris. You must have a connection.",
+   "ro": "Sunt? Dar ești cunoscută în Paris. Cu siguranță ai o pilă.",
+   "ro_m": "Sunt? Dar ești cunoscut în Paris. Cu siguranță ai o pilă."
+  },
+  {
+   "key": "3105941663890194432",
+   "en": "Hmm... Sounds fair, good enough.",
+   "ro": "Hmm... Sună corect, ajunge."
+  },
+  {
+   "key": "3105943116193120256",
+   "en": "Rumors can be very dangerous. Especially when investigated, pursued, even turned inside out for truth.",
+   "ro": "Zvonurile pot fi periculoase. Mai ales când sunt cercetate, urmărite, chiar întoarse pe dos în căutarea adevărului."
+  },
+  {
+   "key": "3105943238247366656",
+   "en": "Murphy! We have uninvited guests.",
+   "ro": "Murphy! Avem musafiri nepoftiți."
+  },
+  {
+   "key": "3105943741261856768",
+   "en": "Just like you and the NUSA.",
+   "ro": "La fel ca tine și NUSA."
+  },
+  {
+   "key": "3106008360236007424",
+   "en": "To work, then.",
+   "ro": "La treabă, atunci."
+  },
+  {
+   "key": "3106008829528293376",
+   "en": "Shall we?",
+   "ro": "Continuăm?"
+  },
+  {
+   "key": "3117323096554651648",
+   "en": "I see. Then he must trust you very much.",
+   "ro": "Înțeleg. Atunci trebuie să aibă multă încredere în tine."
+  },
+  {
+   "key": "3117325155270049792",
+   "en": "I heard the same about you.",
+   "ro": "Am auzit același lucru despre tine."
+  },
+  {
+   "key": "3117325161913827328",
+   "en": "How amusing. What else you must think of me, I wonder. What you must believe.",
+   "ro": "Ce amuzant. Mă întreb ce altceva trebuie să mai crezi despre mine."
+  },
+  {
+   "key": "3117325162702356480",
+   "en": "Then we have much in common, Colonel. I have heard the same about you.",
+   "ro": "Atunci avem multe în comun, colonelule. Am auzit același lucru despre tine."
+  },
+  {
+   "key": "3117325507893575680",
+   "en": "Let me guess what else you have heard.",
+   "ro": "Lasă-mă să ghicesc ce altceva ai auzit."
+  },
+  {
+   "key": "3117325667663003648",
+   "en": "I do not waste time and energy on insignificant matters.",
+   "ro": "Nu irosesc timp și energie pe fleacuri."
+  },
+  {
+   "key": "3117325857664974848",
+   "en": "I conserve energy.",
+   "ro": "Economisesc energie."
+  },
+  {
+   "key": "3117333419810537472",
+   "en": "Hm. Interesting. I usually hear the exact opposite about myself.",
+   "ro": "Hm. Interesant. De obicei aud exact invers despre mine."
+  },
+  {
+   "key": "3117334076135227392",
+   "en": "So many fear criminals for their weapons, muscles, chrome… but are blind to the mind underneath.",
+   "ro": "Atâția se tem de criminali pentru arme, mușchi, chrome… dar nu văd mintea de sub ele."
+  },
+  {
+   "key": "3117338289263263744",
+   "en": "A betrayed man, patient for his vengeance – he is dangerous.",
+   "ro": "Un om trădat, care așteaptă să se răzbune – e periculos."
+  },
+  {
+   "key": "3117342430383489024",
+   "en": "So I heard. Is that why strip yourself of your memories and store them in external databanks?",
+   "ro": "Așa am auzit. Asta e motivul pentru care îți golești memoria și o stochezi în bănci de date externe?"
+  },
+  {
+   "key": "3117343940953686016",
+   "en": "In my quest for… mental hygiene, for spiritual economy. Do you believe in God, Colonel Hansen?",
+   "ro": "În căutarea mea de… igienă mentală, de economie spirituală. Crezi în Dumnezeu, colonelule Hansen?"
+  },
+  {
+   "key": "3117344321578385408",
+   "en": "Hmm, which one? The eurodollar? The geopolitical powers that be? Or the Christian god? No, wastes of my time, all.",
+   "ro": "Hmm, care? Eurodolarul? Puterile geopolitice ale zilei? Sau Dumnezeul creștin? Nu, toate-s pierdere de timp."
+  },
+  {
+   "key": "3117345149366222848",
+   "en": "I see. Then I am curious how you will fare after this life has ended.",
+   "ro": "Înțeleg. Atunci mă întreb cum o să te descurci după ce se termină viața asta."
+  },
+  {
+   "key": "3117347346611093504",
+   "en": "The cliché of a netrunner-ascetic? A techno-modified monk who treats his body as a temple?",
+   "ro": "Cliché-ul netrunnerului ascet? Un călugăr techno-modificat care-și tratează corpul ca pe un templu?"
+  },
+  {
+   "key": "3117347963442216960",
+   "en": "What can I say? Guilty as charged.",
+   "ro": "Ce să zic? Vinovată, recunosc.",
+   "ro_m": "Ce să zic? Vinovat, recunosc."
+  },
+  {
+   "key": "3117348421611208704",
+   "en": "You think I train the kung fu, that I know the secret of the vibrating fist.",
+   "ro": "Crezi că practic kung fu, că știu secretul pumnului vibrător."
+  },
+  {
+   "key": "3117350439608303616",
+   "en": "Be careful, Colonel… perhaps I do.",
+   "ro": "Ai grijă, colonelule… poate că da."
+  },
+  {
+   "key": "3117401007412396036",
+   "en": "The stadium is impressive.",
+   "ro": "Stadionul e impresionant."
+  },
+  {
+   "key": "3117401049053446144",
+   "en": "Why did you stay in Night City? You are not from here.",
+   "ro": "De ce-ai rămas în Night City? Nu ești de aici."
+  },
+  {
+   "key": "3117401051318370304",
+   "en": "Your operation in the stadium is most impressive. Perhaps even more than the ball at the Sapphire.",
+   "ro": "Operațiunea ta de pe Stadion e foarte impresionantă. Poate chiar mai mult decât balul de la Sapphire."
+  },
+  {
+   "key": "3117401399311384576",
+   "en": "Say… it's been a while since you were last in Night City, hasn't it? Not since Cynosure.",
+   "ro": "Uite… a trecut ceva de când n-ai mai fost în Night City, nu? Nu de pe vremea Cynosure."
+  },
+  {
+   "key": "3117401735644233728",
+   "en": "You are not from here.",
+   "ro": "Nu ești de aici."
+  },
+  {
+   "key": "3117443717791924224",
+   "en": "One can't work without the other. To make billions from the arms trade, you have to first line the pockets of  the powerful with millions.",
+   "ro": "Una nu merge fără cealaltă. Ca să faci miliarde din comerțul cu arme, trebuie mai întâi să umpli buzunarele puternicilor cu milioane."
+  },
+  {
+   "key": "3117444517008162816",
+   "en": "The stadium is an integral part of my work in Night City.",
+   "ro": "Stadionul e o parte importantă din treaba mea în Night City."
+  },
+  {
+   "key": "3117445787563507712",
+   "en": "It's a good question. One I've asked myself many times.",
+   "ro": "E o întrebare bună. Mi-am pus-o și eu de multe ori."
+  },
+  {
+   "key": "3117446047560024064",
+   "en": "Of yours?",
+   "ro": "A ta?"
+  },
+  {
+   "key": "3117446200165580800",
+   "en": "Call it a symbol I've grown attached to. Like the NUS flag, Night City represents a great failure.",
+   "ro": "Zi-i un simbol de care m-am atașat. Ca steagul NUS, Night City e un eșec uriaș."
+  },
+  {
+   "key": "3117446895027535872",
+   "en": "Of principles.",
+   "ro": "De principii."
+  },
+  {
+   "key": "3117486434697789440",
+   "en": "Y'know, I checked whether anyone here knew you. They did mention a car... just not a Quadra.",
+   "ro": "Știi, am verificat dacă te cunoaște cineva aici. Au zis de o mașină... doar că nu era un Quadra."
+  },
+  {
+   "key": "3117500569552601088",
+   "en": "Then forgive me. I must be mistaken.",
+   "ro": "Atunci scuze. Cred că m-am înșelat."
+  },
+  {
+   "key": "3117503149301219328",
+   "en": "Not very American, I know, but it's a custom my friends in Siberia taught me to love.",
+   "ro": "Nu prea e american, știu, dar e un obicei care m-a făcut să-l îndrăgesc, datorită prietenilor mei din Siberia."
+  },
+  {
+   "key": "3117530544599121920",
+   "en": "Oh, you are a well-traveled man.",
+   "ro": "A, ești o persoană bine călătorită.",
+   "ro_m": "A, ești un om bine călătorit."
+  },
+  {
+   "key": "3117544370249842688",
+   "en": "Mhm, federal agents sniff around you still.",
+   "ro": "Mhm, agenții federali încă dau târcoale în jurul tău."
+  },
+  {
+   "key": "3117549421785694208",
+   "en": "It's complicated. When they don't want their John Hancocks on somethin', they wire me a transfer and I set to work. Later that night, I'll watch 'em condemn my \"terrorist act\" on the evening news.",
+   "ro": "E complicat. Când nu vor să-și pună semnătura pe ceva, îmi transferă banii și mă apuc de treabă. Mai târziu, în noaptea aia, o să-i văd cum îmi condamnă \"actul terorist\" la știrile de seară."
+  },
+  {
+   "key": "3117550709688680448",
+   "en": "So they sniff around, sure, but they prefer to call direct. That's not likely to change in this admin nor the next.",
+   "ro": "Așa că dau târcoale, sigur, dar preferă să sune direct. Nu prea o să se schimbe asta nici în administrația asta, nici în următoarea."
+  },
+  {
+   "key": "3118721358759116800",
+   "en": "We expected all to be handled professionally.",
+   "ro": "Ne-am așteptat ca totul să fie tratat profesionist."
+  },
+  {
+   "key": "3118723881515532288",
+   "en": "She said you did time together at La Santé, remembers you well.",
+   "ro": "A zis că ați făcut pușcărie împreună la La Santé. Își amintește bine de tine."
+  },
+  {
+   "key": "3118727761196400640",
+   "en": "I'd like to raise a little toast. To a successful day of business.",
+   "ro": "Aș vrea să ciocnim paharele. Pentru o zi de afaceri reușită."
+  },
+  {
+   "key": "3118728764977233924",
+   "en": "[Drink] To your health, Colonel.",
+   "ro": "[Bea] Pentru sănătatea ta, colonelule."
+  },
+  {
+   "key": "3118728806182076416",
+   "en": "Don't worry about the work, Colonel. Just your health.",
+   "ro": "Lasă munca, colonelule. Doar sănătatea ta."
+  },
+  {
+   "key": "3118728810829365248",
+   "en": "Well said, Colonel, well said.",
+   "ro": "Bine zis, colonelule, bine zis."
+  },
+  {
+   "key": "3118728968870739968",
+   "en": "[Drink] Well said.",
+   "ro": "[Bea] Bine zis."
+  },
+  {
+   "key": "3118729025795833856",
+   "en": "[Don't drink] Maybe once the work is done.",
+   "ro": "[Nu bea] Poate după ce se termină treaba."
+  },
+  {
+   "key": "3118730430099144704",
+   "en": "Work first, only then pleasure.",
+   "ro": "Mai întâi munca, abia apoi plăcerea."
+  },
+  {
+   "key": "3118730911873679360",
+   "en": "I must decline.",
+   "ro": "Mulțumesc, refuz."
+  },
+  {
+   "key": "3118731100416032768",
+   "en": "Your loss, little brother.",
+   "ro": "Paguba ta, frate."
+  },
+  {
+   "key": "3118731714831237120",
+   "en": "I am starting to like it here.",
+   "ro": "Încep să-mi placă aici."
+  },
+  {
+   "key": "3118731906091499520",
+   "en": "To your health!",
+   "ro": "Pentru sănătate!"
+  },
+  {
+   "key": "3118732448314343424",
+   "en": "Of course.",
+   "ro": "Sigur."
+  },
+  {
+   "key": "3118741420769460224",
+   "en": "That flag's a piss-soaked pile of ash now. What I built, I built with my own two hands, for me.",
+   "ro": "Steagul ăla e acum o grămadă de cenușă muiată în pișat. Ce-am făcut, cu mâinile astea, pentru mine."
+  },
+  {
+   "key": "3118742193192484864",
+   "en": "Hm. Touché, Colonel.",
+   "ro": "Hm. Touché, colonelule."
+  },
+  {
+   "key": "3118950962325274624",
+   "en": "You complement each other well... Listen, it seems we've got time to spare. There's another opportunity I'd like to discuss.",
+   "ro": "Vă completați bine... Ascultă, se pare că avem timp. Mai e o oportunitate despre care aș vrea să vorbim."
+  },
+  {
+   "key": "3118954745117720576",
+   "en": "Then what more do you need from us?",
+   "ro": "Atunci ce-ți mai trebuie de la noi?"
+  },
+  {
+   "key": "3118964987373207552",
+   "en": "An expansion, into Western Europe. What I need is a reliable partner on the ground. Two would be even better.",
+   "ro": "O expansiune, în Europa de Vest. Ce-mi trebuie e un partener de încredere pe teren. Doi ar fi și mai bine."
+  },
+  {
+   "key": "3118971024838934528",
+   "en": "Comms channels, supply chains, secure transport routes, the good graces of local authorities – these things I have, the groundwork is laid.",
+   "ro": "Canale de comunicații, lanțuri de aprovizionare, rute de transport securizate, bunăvoința autorităților locale – astea le am, temelia e pusă."
+  },
+  {
+   "key": "3118976885556690944",
+   "en": "I need an in with Le Collectif.",
+   "ro": "Am nevoie de o pilă la Le Collectif."
+  },
+  {
+   "key": "3118991569714331648",
+   "en": "Aha, I see… and appreciate both the honesty and the metaphor.",
+   "ro": "Aha, înțeleg… și apreciez și sinceritatea, și metafora."
+  },
+  {
+   "key": "3118992922947796992",
+   "en": "Oh, is that so? Just like that?",
+   "ro": "A, așa? Pur și simplu?"
+  },
+  {
+   "key": "3119002710020636672",
+   "en": "For four... mmm, yes, contact is possible.",
+   "ro": "Pentru patru... mmm, da, contactul e posibil."
+  },
+  {
+   "key": "3119003239257915392",
+   "en": "No \"buts,\" no conditions?",
+   "ro": "Fără „dar”, fără condiții?"
+  },
+  {
+   "key": "3119004051124174848",
+   "en": "Mhh. Close, sure, but not on the best terms from what I know.",
+   "ro": "Mhh. Apropiați, sigur, dar nu în cele mai bune relații, din câte știu eu."
+  },
+  {
+   "key": "3119008335605710848",
+   "en": "They say to the world they would put you down. In fact, they leave you a bowl of food by the back door.",
+   "ro": "Lumii zic că te-ar băga la pământ. De fapt, îți lasă o strachină cu mâncare la ușa din spate."
+  },
+  {
+   "key": "3119008455864795136",
+   "en": "I see what you mean...",
+   "ro": "Înțeleg ce vrei să spui..."
+  },
+  {
+   "key": "3119021915705098240",
+   "en": "Ah, So Mi.",
+   "ro": "A, So Mi."
+  },
+  {
+   "key": "3126008663676833792",
+   "en": "I come unarmed. Aymeric?",
+   "ro": "Vin neînarmat. Aymeric?"
+  },
+  {
+   "key": "3126010245197877248",
+   "en": "I have none. Aurore?",
+   "ro": "Nu am. Aurore?"
+  },
+  {
+   "key": "3194017080307372032",
+   "en": "Fuckin' useless! Broken, fuckin' FUCK!!!",
+   "ro": "Inutil de căcat! Stricat, pula mea, PULA MEA!!!"
+  },
+  {
+   "key": "3227406045538336768",
+   "en": "Well, seems I'm not the only one who's done their homework.",
+   "ro": "Păi, se pare că nu sunt singurul care și-a făcut temele."
+  },
+  {
+   "key": "3227408129218232320",
+   "en": "Quite right. But we almost flew here some time ago. Aymeric had other business in Night City.",
+   "ro": "Corect. Dar cu ceva timp în urmă aproape că am zburat până aici. Aymeric avea alte treburi în Night City."
+  },
+  {
+   "key": "3227408785844912128",
+   "en": "My brother is obsessed with cars, he collects them. I say to him how wonderfully pretentious he is.",
+   "ro": "Frate-miu e nebun după mașini, le colecționează. Îi zic că e tare pretențios."
+  },
+  {
+   "key": "3227409162308861952",
+   "en": "Interesting… And what rare gem brought you halfway 'round the world?",
+   "ro": "Interesant… Și ce raritate te-a adus până aici, din capătul lumii?"
+  },
+  {
+   "key": "3230424052434911232",
+   "en": "There are two ways to build a strong professional network. One is travel. The other – a prison term.",
+   "ro": "Sunt două moduri să-ți faci o rețea solidă. Unul e să călătorești. Celălalt, o condamnare la pușcărie."
+  },
+  {
+   "key": "3230426660386029568",
+   "en": "I thought you didn't drink.",
+   "ro": "Credeam că nu bei."
+  },
+  {
+   "key": "3230426791432863744",
+   "en": "I do not... but I understand the importance of ritual. It would be rude to reject Siberian hospitality.",
+   "ro": "Nu... dar înțeleg importanța ritualului. Ar fi nepoliticos să refuz ospitalitatea siberiană."
+  },
+  {
+   "key": "3230654616815452160",
+   "en": "By the way, Aymeric, I asked around a bit, doing my due diligence... They tell me you worked at Petrochem three years ago.",
+   "ro": "Apropo, Aymeric, am cam întrebat pe ici pe colo, să fiu sigur... Mi-au zis că ai lucrat la Petrochem acum trei ani."
+  },
+  {
+   "key": "3230684427210375168",
+   "en": "Corporations rarely let your caliber talent slip through their fingers. How did you wriggle out of the contract?",
+   "ro": "Corporațiile nu lasă un talent ca tine să le scape printre degete. Cum ai ieșit din contract?"
+  },
+  {
+   "key": "3230686565114232832",
+   "en": "Colonel, this may be difficult to believe, but I do not remember.",
+   "ro": "Colonelule, poate fi greu de crezut, dar nu-mi amintesc."
+  },
+  {
+   "key": "3230687618001977348",
+   "en": "You know more about me than I do.",
+   "ro": "Știi mai multe despre mine decât știu eu."
+  },
+  {
+   "key": "3230687947892375552",
+   "en": "There are many things I do not remember.",
+   "ro": "Sunt multe lucruri pe care nu mi le amintesc."
+  },
+  {
+   "key": "3230688250670792704",
+   "en": "You insult me.",
+   "ro": "Mă jignești."
+  },
+  {
+   "key": "3230689669234737152",
+   "en": "Hm?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "3230689765535956992",
+   "en": "I store my memories in external databanks. My databanks from that time were stolen.",
+   "ro": "Îmi salvez amintirile în baze de date externe. Bazele alea din perioada aia mi-au fost furate."
+  },
+  {
+   "key": "3230690037142306816",
+   "en": "Forgive me, I would like to answer, but I cannot.",
+   "ro": "Iartă-mă, aș vrea să răspund, dar nu pot."
+  },
+  {
+   "key": "3230690392919949312",
+   "en": "Please, it's no problem.",
+   "ro": "Te rog, nu-i nicio problemă."
+  },
+  {
+   "key": "3230691767728914432",
+   "en": "Given when this was, I'm amazed you claim to have any memory of it at all.",
+   "ro": "Dat fiind cât a trecut, mă mir că mai pretinzi că ții minte ceva."
+  },
+  {
+   "key": "3230693501050208256",
+   "en": "It's true, my memories from that time were stolen. Those two years and what I did are lost to me.",
+   "ro": "E adevărat, amintirile alea mi-au fost furate. Doi ani și ce-am făcut în ei sunt pierduți pentru mine."
+  },
+  {
+   "key": "3230693571078307840",
+   "en": "I don't remember most of those years. My memories from that time I kept in a databank in Switzerland… until they were stolen.",
+   "ro": "Nu-mi amintesc cea mai mare parte din ani. Amintirile alea le țineam într-o bază de date în Elveția… până le-au furat."
+  },
+  {
+   "key": "3230694140681568256",
+   "en": "You know me better than I know myself, it seems.",
+   "ro": "Se pare că mă cunoști mai bine decât mă cunosc eu."
+  },
+  {
+   "key": "3230695038195515392",
+   "en": "But I don't enjoy talking about it, and I did not expect you to know. I apologize.",
+   "ro": "Dar nu-mi place să vorbesc despre asta și nu mă așteptam să știi. Îmi cer scuze."
+  },
+  {
+   "key": "3230695713277132800",
+   "en": "I thought our collaboration was built on trust. I was sorely mistaken.",
+   "ro": "Credeam că lucrăm pe bază de încredere. Mă înșelam amarnic."
+  },
+  {
+   "key": "3230696043788288000",
+   "en": "Right. On \"trust.\"",
+   "ro": "Sigur. Pe „încredere”."
+  },
+  {
+   "key": "3234697654986362880",
+   "en": "This way.",
+   "ro": "Pe aici."
+  },
+  {
+   "key": "3234823078181621760",
+   "en": "Here we are, our stop.",
+   "ro": "Gata, am ajuns la stația noastră."
+  },
+  {
+   "key": "3234932941129797636",
+   "en": "This way.",
+   "ro": "Pe aici."
+  },
+  {
+   "key": "3234932942572638212",
+   "en": "So, Songbird told me a little about you. Said you two hail from Europe.",
+   "ro": "Deci, Songbird mi-a zis câte ceva despre voi. Că sunteți din Europa."
+  },
+  {
+   "key": "3234932942572638220",
+   "en": "That's right.",
+   "ro": "Așa e."
+  },
+  {
+   "key": "3234932942572638228",
+   "en": "And… did you enjoy yourselves at the Sapphire?",
+   "ro": "Și… v-a plăcut la Sapphire?"
+  },
+  {
+   "key": "3234932942572638236",
+   "en": "Police commissioner, a candidate for mayor, the Tyger Claws bookeeper – all gambling on the city's future together. Figuratively and not.",
+   "ro": "Comisarul, un candidat la primărie, contabilul Tyger Claws – toți pun bani pe viitorul orașului. Și în sens propriu, și-n figurat."
+  },
+  {
+   "key": "3234932945525428264",
+   "en": "'K… Here's our stop.",
+   "ro": "OK… Am ajuns."
+  },
+  {
+   "key": "3241669713482240000",
+   "en": "Follow me, please.",
+   "ro": "Urmați-mă, vă rog."
+  },
+  {
+   "key": "3241670541655953416",
+   "en": "Not much further now.",
+   "ro": "Mai e puțin."
+  },
+  {
+   "key": "3285591286339678208",
+   "en": "Cat got your tongues?",
+   "ro": "V-a mâncat pisica limba?"
+  },
+  {
+   "key": "3285601064352821256",
+   "en": "An enny for your thoughts?",
+   "ro": "Un enny pentru gândurile tale?"
+  },
+  {
+   "key": "3285602043370483720",
+   "en": "We're waiting…",
+   "ro": "Așteptăm…"
+  },
+  {
+   "key": "3285602090950668296",
+   "en": "Is something wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "3285604704337604616",
+   "en": "Cat got your tongues?",
+   "ro": "V-a mâncat pisica limba?"
+  },
+  {
+   "key": "3285605821213650952",
+   "en": "An enny for your thoughts?",
+   "ro": "Un enny pentru gândurile tale?"
+  },
+  {
+   "key": "3285605867401326596",
+   "en": "We're waiting…",
+   "ro": "Așteptăm…"
+  },
+  {
+   "key": "3285605867921420296",
+   "en": "Is something wrong?",
+   "ro": "S-a întâmplat ceva?"
+  },
+  {
+   "key": "3285622013777227776",
+   "en": "As agreed, you'll see the payments hit your account today.",
+   "ro": "Cum am zis, o să vedeți banii intrând în cont azi."
+  },
+  {
+   "key": "3285624769451732992",
+   "en": "Ahh, money and kept promises. Two of my three favorite things.",
+   "ro": "Ah, banii și promisiunile ținute. Două din cele trei lucruri care-mi plac."
+  },
+  {
+   "key": "3285624885264855040",
+   "en": "And the third?",
+   "ro": "Și al treilea?"
+  },
+  {
+   "key": "3285624980022571008",
+   "en": "Oh, no-no-no-no. Not yet, Kurt.",
+   "ro": "Hai, nu-nu-nu. Nu încă, Kurt."
+  },
+  {
+   "key": "3286909975045099520",
+   "en": "I collect many cars.",
+   "ro": "Adun o grămadă de mașini."
+  },
+  {
+   "key": "3286917311872651264",
+   "en": "Then give my regards to Ruth as well.",
+   "ro": "Atunci transmite-i salutări și lui Ruth."
+  },
+  {
+   "key": "3294263592633053184",
+   "en": "Colonel... May I see your knife?",
+   "ro": "Colonelule... Pot să văd cuțitul tău?"
+  },
+  {
+   "key": "3297074784875393024",
+   "en": "Hansen's waitin'.",
+   "ro": "Hansen așteaptă."
+  },
+  {
+   "key": "3297077823329873928",
+   "en": "Got a ways to go, still.",
+   "ro": "Mai avem de mers."
+  },
+  {
+   "key": "3297077913742290952",
+   "en": "Everything OK?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "3297077964493369352",
+   "en": "Somethin' the matter?",
+   "ro": "Ce-i, s-a întâmplat ceva?"
+  },
+  {
+   "key": "3297079087778312192",
+   "en": "Ugh, come on!",
+   "ro": "Uf, hai odată!"
+  },
+  {
+   "key": "3297080381033230344",
+   "en": "Move your ass, brother.",
+   "ro": "Mișcă-te, frate!"
+  },
+  {
+   "key": "3297080431499096072",
+   "en": "Aymeric…?",
+   "ro": "Aymeric…?"
+  },
+  {
+   "key": "3297088508570972168",
+   "en": "Hansen's waitin'.",
+   "ro": "Hansen așteaptă."
+  },
+  {
+   "key": "3297088509074288648",
+   "en": "Let's keep movin'.",
+   "ro": "Hai să mergem mai departe."
+  },
+  {
+   "key": "3297088509460164616",
+   "en": "Everything OK?",
+   "ro": "Totul e în regulă?"
+  },
+  {
+   "key": "3297088509879595012",
+   "en": "They're waitin' for us.",
+   "ro": "Ne așteaptă."
+  },
+  {
+   "key": "3297088510366134280",
+   "en": "Aurore…?",
+   "ro": "Aurore…?"
+  },
+  {
+   "key": "3297088510785564680",
+   "en": "We are waiting…",
+   "ro": "Așteptăm…"
+  },
+  {
+   "key": "3297088511204995080",
+   "en": "Shall we go?",
+   "ro": "Plecăm?"
+  },
+  {
+   "key": "3297088511607648264",
+   "en": "We have little time to waste.",
+   "ro": "Nu avem timp de pierdut."
+  },
+  {
+   "key": "3297094550532993024",
+   "en": "Aymeric…?",
+   "ro": "Aymeric…?"
+  },
+  {
+   "key": "3297096635789946888",
+   "en": "Shit, are you dead?",
+   "ro": "Căcat, ești mort?"
+  },
+  {
+   "key": "3297096678202748936",
+   "en": "Heh, classic Aymeric. He says very little.",
+   "ro": "Heh, tipic Aymeric. Zice foarte puțin."
+  },
+  {
+   "key": "3297096678739619848",
+   "en": "Dring-dring, hello…?",
+   "ro": "Dring-dring, alo…?"
+  },
+  {
+   "key": "3297100817829801992",
+   "en": "Aurore…?",
+   "ro": "Aurore…?"
+  },
+  {
+   "key": "3297102770496417796",
+   "en": "We are waiting…",
+   "ro": "Așteptăm…"
+  },
+  {
+   "key": "3297102778163605512",
+   "en": "Sister, dear?",
+   "ro": "Soră, dragă?"
+  },
+  {
+   "key": "3297102818093379592",
+   "en": "Are you daydreaming again?",
+   "ro": "Iar visezi cu ochii deschiși?"
+  },
+  {
+   "key": "3297108592995676160",
+   "en": "Best get to it, now.",
+   "ro": "Hai să ne punem pe treabă, acum."
+  },
+  {
+   "key": "3297149899524878336",
+   "en": "Time is money.",
+   "ro": "Timpul înseamnă bani."
+  },
+  {
+   "key": "3297150044110925832",
+   "en": "Can we get to work?",
+   "ro": "Ne apucăm de treabă?"
+  },
+  {
+   "key": "3297150141804654596",
+   "en": "Coming?",
+   "ro": "Vii?"
+  },
+  {
+   "key": "3297151181606170632",
+   "en": "Time is money.",
+   "ro": "Timpul înseamnă bani."
+  },
+  {
+   "key": "3297151182109487112",
+   "en": "Can we start the process?",
+   "ro": "Începem?"
+  },
+  {
+   "key": "3297151182545694728",
+   "en": "Are you coming?",
+   "ro": "Vii?"
+  },
+  {
+   "key": "3353248238781091840",
+   "en": "My people tell me the games went high stakes.",
+   "ro": "Oamenii mei zic că jocurile au fost cu mize mari."
+  },
+  {
+   "key": "3353250717044330500",
+   "en": "We won a pile of cash.",
+   "ro": "Am câștigat o grămadă de bani."
+  },
+  {
+   "key": "3353251366909792256",
+   "en": "We lost all at the end.",
+   "ro": "Am pierdut tot la final."
+  },
+  {
+   "key": "3353252246103019520",
+   "en": "By the end of the night, we lost our entire stack, but such is gambling.",
+   "ro": "Până la urmă ne-am pierdut tot stack-ul, da' așa e jocul."
+  },
+  {
+   "key": "3353252575204888576",
+   "en": "Indeed. I was pleased our fortune turned around in the end.",
+   "ro": "Da. M-am bucurat că la urmă ne-a surâs norocul."
+  },
+  {
+   "key": "3353253595293175812",
+   "en": "Winning is not everything.",
+   "ro": "Câștigul nu e totul."
+  },
+  {
+   "key": "3353255321920360448",
+   "en": "We had fun.",
+   "ro": "Ne-am distrat."
+  },
+  {
+   "key": "3353255571414339584",
+   "en": "I do not care about money.",
+   "ro": "Nu-mi pasă de bani."
+  },
+  {
+   "key": "3353260031905648640",
+   "en": "Does the end result matter at all? I play only for the thrill.",
+   "ro": "Chiar contează rezultatul? Eu joc doar pentru adrenalină."
+  },
+  {
+   "key": "3353260718043451392",
+   "en": "I care not for money, Colonel. Nor for what happens at the gambling table.",
+   "ro": "Nu mă interesează banii, Colonel. Nici ce se întâmplă la mese."
+  },
+  {
+   "key": "3353266503800606720",
+   "en": "The Black Sapphire is my pride 'n' joy. I worked hard to make it the go-to destination for Night City's royalty.",
+   "ro": "Black Sapphire e mândria mea. Am muncit pe brânci să-l fac locul preferat al elitei din Night City."
+  },
+  {
+   "key": "3353267353465933832",
+   "en": "Changing the subject… did you enjoy yourselves at the Sapphire? My people tell me the stakes went high.",
+   "ro": "Hai să schimbăm subiectul… v-ați distrat la Sapphire? Oamenii mei zic că s-au jucat mize mari."
+  },
+  {
+   "key": "3353267354120245248",
+   "en": "We won a mountain of cash in the end.",
+   "ro": "Până la urmă am câștigat o grămadă de bani."
+  },
+  {
+   "key": "3353267354120245260",
+   "en": "We lost it all.",
+   "ro": "Am pierdut tot."
+  },
+  {
+   "key": "3353267354304794632",
+   "en": "We, er, how do you say, uh… fucked the dog?",
+   "ro": "Am, ăă, cum să zic, uh… ne-am futut câinele?"
+  },
+  {
+   "key": "3353267354992660488",
+   "en": "It was magnificent. A joy to play.",
+   "ro": "A fost tare. O plăcere să joci."
+  },
+  {
+   "key": "3353267356351614976",
+   "en": "But we had fun.",
+   "ro": "Dar ne-am distrat."
+  },
+  {
+   "key": "3353267356368392196",
+   "en": "Irony, Colonel.",
+   "ro": "Ironie, Colonel."
+  },
+  {
+   "key": "3353267356368392208",
+   "en": "It's not about winning.",
+   "ro": "Nu e vorba despre câștig."
+  },
+  {
+   "key": "3353267356485832712",
+   "en": "Irony, my dear Colonel, is not your forte, no?",
+   "ro": "Ironia nu-i punctul tău forte, dragă Colonel, nu?"
+  },
+  {
+   "key": "3353267357190475784",
+   "en": "Life is not only about winning, Colonel. A man must learn to accept failure as well.",
+   "ro": "Nu e totul câștig, Colonel. Omul trebuie să învețe să accepte și înfrângerea."
+  },
+  {
+   "key": "3353267358465544192",
+   "en": "The Black Sapphire... My pride 'n' joy. I worked hard to make it the go-to destination for Night City's royalty.",
+   "ro": "Black Sapphire e mândria mea. Am muncit pe brânci ca să-l fac locul preferat al elitei din Night City."
+  },
+  {
+   "key": "3353706550295285760",
+   "en": "We lost everything.",
+   "ro": "Am pierdut tot."
+  },
+  {
+   "key": "3353706550295285772",
+   "en": "We won heaps of eddies.",
+   "ro": "Am câștigat o grămadă de eddies."
+  },
+  {
+   "key": "3353706550546944008",
+   "en": "We had losses but came out on top in the end.",
+   "ro": "Au fost și pierderi, dar până la urmă am ieșit pe plus."
+  },
+  {
+   "key": "3353706551956230148",
+   "en": "It was unfortunate how unluckily the night ended…",
+   "ro": "Ce ghinion a fost cum s-a terminat noaptea…"
+  },
+  {
+   "key": "3353706553499734016",
+   "en": "It wasn't our misfortune.",
+   "ro": "Nu a fost ghinionul nostru."
+  },
+  {
+   "key": "3353706553499734028",
+   "en": "One must lose for another to win.",
+   "ro": "Unul trebuie să piardă ca altul să câștige."
+  },
+  {
+   "key": "3353706553499734040",
+   "en": "I mean something else.",
+   "ro": "Vreau să spun altceva."
+  },
+  {
+   "key": "3353706553684283400",
+   "en": "For one to win, another must lose. For one to have luck, another must have none.",
+   "ro": "Ca unul să câștige, altul trebuie să piardă. Ca unul să aibă noroc, altul trebuie să n-aibă deloc."
+  },
+  {
+   "key": "3353706554690916360",
+   "en": "Apologies. My mind was elsewhere.",
+   "ro": "Scuze. Eram cu gândul în altă parte."
+  },
+  {
+   "key": "3353710773959413760",
+   "en": "We lost everything.",
+   "ro": "Am pierdut tot."
+  },
+  {
+   "key": "3353710773959413772",
+   "en": "We made a fat stack of cash.",
+   "ro": "Am făcut o grămadă de bani."
+  },
+  {
+   "key": "3353710774177517576",
+   "en": "I thought it a night at a casino, wine and cash until both run out. But then this new piece of ass joined our table.",
+   "ro": "Am crezut că o să fie o noapte la cazino, vin și bani, până se termină ambele. Dar apoi s-a băgat tipa asta nouă la masa noastră.",
+   "ro_m": "Am crezut că o să fie o noapte la cazino, vin și bani, până se termină ambele. Dar apoi s-a băgat tipul ăsta nou la masa noastră."
+  },
+  {
+   "key": "3353710774865383432",
+   "en": "There were many twists, and, uh, not all of them pleasant.",
+   "ro": "Au fost multe întorsături, și, ăă, nu toate plăcute."
+  },
+  {
+   "key": "3353710776241115136",
+   "en": "Someone butted into our game.",
+   "ro": "Cineva s-a băgat în jocul nostru."
+  },
+  {
+   "key": "3353710776241115148",
+   "en": "I speak of an unwelcome guest.",
+   "ro": "Vorbesc de un oaspete nepoftit."
+  },
+  {
+   "key": "3353710776241115160",
+   "en": "I don't like surprises.",
+   "ro": "Nu-mi plac surprizele."
+  },
+  {
+   "key": "3353710776358555652",
+   "en": "I speak of this nobody who crashed into our game and ruined my fun. You know who I mean.",
+   "ro": "Vorbesc de nimeniul ăsta care s-a băgat în jocul nostru și mi-a stricat distracția. Știi la cine mă refer."
+  },
+  {
+   "key": "3353710777130307592",
+   "en": "I, uh… I do not like situations I do not control.",
+   "ro": "Eu, ăă… nu-mi plac situațiile pe care nu le controlez."
+  },
+  {
+   "key": "3354965940403093504",
+   "en": "The anatomy of corruption is beautiful here.",
+   "ro": "Anatomia corupției e frumoasă aici."
+  },
+  {
+   "key": "3354967303333789696",
+   "en": "Uh, y-yeah... Took the words right outta my mouth.",
+   "ro": "Ăă, d-da... Mi-ai luat-o înainte."
+  },
+  {
+   "key": "3354998215253606400",
+   "en": "You two left richer and happier, I hope?",
+   "ro": "Ați plecat amândoi mai bogați și mai fericiți, sper?"
+  },
+  {
+   "key": "3354999546206928896",
+   "en": "And this brainless cunt joined. She lost everything.",
+   "en_m": "And this brainless prick joined. He lost everything.",
+   "ro": "Și s-a băgat pizda asta fără creier. A pierdut tot.",
+   "ro_m": "Și s-a băgat boule ăsta fără creier. A pierdut tot."
+  },
+  {
+   "key": "3355000052090322944",
+   "en": "Hm. I remember the cunt. She had it comin'.",
+   "en_m": "Hm. I remember the prick. He had it comin'.",
+   "ro": "Hm. Pe pizda aia o țin minte. Și-a căutat-o.",
+   "ro_m": "Hm. Pe boul ăla îl țin minte. Și-a căutat-o."
+  },
+  {
+   "key": "3355003296434798592",
+   "en": "How unlucky you were to… double your winnings? Interesting way to look at it.",
+   "ro": "Ce ghinion ai avut să-ți dublezi câștigurile? Mod interesant de a vedea lucrurile."
+  },
+  {
+   "key": "3355005477607096320",
+   "en": "Eh, philosophy was never my strong suit.",
+   "ro": "Eh, filosofia n-a fost niciodată punctul meu forte."
+  },
+  {
+   "key": "3355005601557168128",
+   "en": "Not even \"The Art of War\"?",
+   "ro": "Nici măcar „Arta războiului”?"
+  },
+  {
+   "key": "3355005815147905024",
+   "en": "Aha, with that exception.",
+   "ro": "Aha, cu excepția aia."
+  },
+  {
+   "key": "3355006877799989248",
+   "en": "Mhm. An honest mistake.",
+   "ro": "Mhm. O greșeală onestă."
+  },
+  {
+   "key": "3355008697070960640",
+   "en": "Judging by your tone, that doesn't seem to bother you at all.",
+   "ro": "Judecând după tonul tău, nu pare să te deranjeze deloc."
+  },
+  {
+   "key": "3355008806525517824",
+   "en": "Because it does not. I enjoy money, of course, but I do not allow it to control my life.",
+   "ro": "Pentru că nu. Îmi plac banii, sigur, dar nu-i las să-mi controleze viața."
+  },
+  {
+   "key": "3355009357539622912",
+   "en": "You know what they say about great minds. I think it's no surprise we find ourselves doing business together.",
+   "ro": "Știi ce se zice despre mințile mari. Nu-i de mirare că ne-am nimerit să facem afaceri împreună."
+  },
+  {
+   "key": "3355010843313094656",
+   "en": "You... were pleased? To go bust?",
+   "ro": "Tu... ai fost mulțumit? Să pierzi tot?"
+  },
+  {
+   "key": "3355012914242306048",
+   "en": "Huh, well I'd expect that sentiment from your sister, but... you, Aymeric?",
+   "ro": "Hm, păi, de la sora ta m-aș fi așteptat la părerea asta, dar tu, Aymeric?"
+  },
+  {
+   "key": "3355013020895068160",
+   "en": "We are siblings, are we not?",
+   "ro": "Suntem frați, nu-i așa?"
+  },
+  {
+   "key": "3355013966492516352",
+   "en": "An odd fuckin' philosophy, I must say.",
+   "ro": "O filosofie al dracului de ciudată, trebuie să zic."
+  },
+  {
+   "key": "3355022189257736192",
+   "en": "You two left richer and happier, I hope?",
+   "ro": "Ați plecat amândoi mai bogați și mai fericiți, sper?"
+  },
+  {
+   "key": "3355051690196910080",
+   "en": "I know the one.",
+   "ro": "O cunosc."
+  },
+  {
+   "key": "3355051951502049280",
+   "en": "Thanks to them – weiner weiner chicken dinner!",
+   "ro": "Mulțumită lor – weiner weiner chicken dinner!"
+  },
+  {
+   "key": "3355055964024913920",
+   "en": "You consider doubling your money an unpleasant twist?",
+   "ro": "Dublarea banilor ți se pare o chestie nasoală?"
+  },
+  {
+   "key": "3355061022372315136",
+   "en": "I remember.",
+   "ro": "Îmi aduc aminte."
+  },
+  {
+   "key": "3355061230443347968",
+   "en": "Yes, this shit for brains.",
+   "ro": "Da, descreieratul ăsta."
+  },
+  {
+   "key": "3355061918913183744",
+   "en": "An interesting choice, then, to play roulette.",
+   "ro": "Deci ruleta, ce interesant."
+  },
+  {
+   "key": "3355065784668962816",
+   "en": "Ah, I'm sorry to hear that.",
+   "ro": "Ah, păcat."
+  },
+  {
+   "key": "3355066087346716672",
+   "en": "No, it's OK. We will make back our losses today, and much more.",
+   "ro": "Nu, nu-i nimic. O să ne recuperăm pierderile azi, și cu vârf."
+  },
+  {
+   "key": "3355066632035811328",
+   "en": "Really? Even though you lost all you brought?",
+   "ro": "Serios? Chiar dacă ai pierdut tot ce ai adus?"
+  },
+  {
+   "key": "3355067437811941376",
+   "en": "Wrong. Winning is the one true measure of one's life.",
+   "ro": "Greșit. Câștigul e singurul lucru care contează în viață."
+  },
+  {
+   "key": "3355068324739465216",
+   "en": "Au contraire. I happen to be a master of it.",
+   "ro": "Ba dimpotrivă. Sunt maestru la asta."
+  },
+  {
+   "key": "3356810281333473280",
+   "en": "You remember the terms – one of you feeds in the access codes. The other stays with me.",
+   "ro": "Vă amintiți termenii – unul dintre voi introduce codurile de acces. Celălalt rămâne cu mine."
+  },
+  {
+   "key": "3356810794934386688",
+   "en": "You remember the terms – one of you feeds in the access codes. The other stays with me.",
+   "ro": "Vă amintiți termenii – unul dintre voi introduce codurile de acces. Celălalt rămâne cu mine."
+  },
+  {
+   "key": "3356810995422117888",
+   "en": "I will stay.",
+   "ro": "Rămân eu."
+  },
+  {
+   "key": "3356811393226686464",
+   "en": "Ooh, I volunteer to stay.",
+   "ro": "Ooh, rămân eu cu plăcere."
+  },
+  {
+   "key": "3356847671808802816",
+   "en": "I am sure my brother would like to go car shopping later. Then you and I can celebrate properly, perhaps pop a cork?",
+   "ro": "Sunt sigură că fratelui meu i-ar plăcea să meargă mai târziu să-și ia o mașină. Apoi putem sărbători ca lumea, poate deschidem o sticlă de șampanie?"
+  },
+  {
+   "key": "3356848143366012928",
+   "en": "Hm-hm-hm, maybe…",
+   "ro": "Hm-hm-hm, poate…"
+  },
+  {
+   "key": "3356848719411724288",
+   "en": "Speaking of, we'll process the transfer today. As soon as they're done.",
+   "ro": "Apropo, procesăm transferul azi. Imediat ce termină."
+  },
+  {
+   "key": "3356849243397734400",
+   "en": "Wonderful.",
+   "ro": "Minunat."
+  },
+  {
+   "key": "3364917731733614592",
+   "en": "An interesting knife...",
+   "ro": "Un cuțit interesant..."
+  },
+  {
+   "key": "3370930833350377472",
+   "en": "By all means. It's a tradtitional Yakut hunting knife.",
+   "ro": "Sigur. E un cuțit tradițional de vânătoare yakut."
+  },
+  {
+   "key": "3370931224393728000",
+   "en": "You see, I spent some time in the Philippines. I've had a keen eye for fine blades since.",
+   "ro": "Vezi tu, am petrecut ceva timp în Filipine. De atunci mă pricep la lame fine."
+  },
+  {
+   "key": "3370932357543673856",
+   "en": "Fascinating... Such a rare thing.",
+   "ro": "Fascinant... Chestie rară."
+  },
+  {
+   "key": "3501337272333127680",
+   "en": "I got tickets, choom, we can go.",
+   "ro": "Am bilete, choom, putem merge."
+  },
+  {
+   "key": "3501338690578305024",
+   "en": "How you land those? Same guy as always?",
+   "ro": "Cum le-ai luat? Același tip ca de obicei?"
+  },
+  {
+   "key": "3501338776293101568",
+   "en": "Who the fuck cares? It's a belt fight, light heavyweight. Can't pass that up.",
+   "ro": "Cine pula mea mai ține cont? E meci pe centură, la semigrea. Nu poți lăsa chestia asta baltă."
+  },
+  {
+   "key": "3501338969969283072",
+   "en": "I dunno, man… I kinda got some stuff…",
+   "ro": "Nu știu, frate… am niște chestii…"
+  },
+  {
+   "key": "3501339064240459776",
+   "en": "Refund's your problem, then. I'm goin'.",
+   "ro": "Rambursul e treaba ta, atunci. Eu mă car."
+  },
+  {
+   "key": "3501341292154081280",
+   "en": "Hansen already ordered for ya.",
+   "ro": "Hansen ți-a comandat deja."
+  },
+  {
+   "key": "3501341894288363520",
+   "en": "Order's already in. We'll have those drinks to your table soon.",
+   "ro": "Comanda e gata. Vă aducem băuturile la masă imediat."
+  },
+  {
+   "key": "3501663817220407296",
+   "en": "I'm only fucking with you, Murphy. It's a pleasure.",
+   "ro": "Doar îmi bat joc de tine, Murphy, pula mea. E o plăcere."
+  },
+  {
+   "key": "3501666858392797184",
+   "en": "Goodness, Murphy, your nerves are spent. Such tense shoulders.",
+   "ro": "Doamne, Murphy, ești terminat de nervi. Ce umeri încordați."
+  },
+  {
+   "key": "3505736144753180672",
+   "en": "Tense? Haha. No, no, never better.",
+   "ro": "Încordat? Haha. Nu, nu, n-am fost niciodată mai bine."
+  },
+  {
+   "key": "3505736706588590080",
+   "en": "Ah, a relief. How silly it would be for an impressive specimen such as you to worry.",
+   "ro": "Ah, ce ușurare. Ar fi ridicol ca un specimen ca tine să se streseze."
+  },
+  {
+   "key": "3505737398027993088",
+   "en": "Right…",
+   "ro": "Bine…"
+  },
+  {
+   "key": "3506961729139527680",
+   "en": "Please. Have a seat.",
+   "ro": "Te rog. Ia loc."
+  },
+  {
+   "key": "3506962721528631308",
+   "en": "Care to join me?",
+   "ro": "Vii cu mine?"
+  },
+  {
+   "key": "3536304410330476544",
+   "en": "To be honest, who cares?",
+   "ro": "Sincer, cui îi pasă?"
+  },
+  {
+   "key": "3536314485535223808",
+   "en": "Well, without money, you cannot sit at the table, it's true. But I do not need money to set that table ablaze.",
+   "ro": "Păi, fără bani nu stai la masă, e drept. Dar eu n-am nevoie de bani ca să dau foc mesei."
+  },
+  {
+   "key": "3537628876104871936",
+   "en": "As you can see, Colonel Hansen, we sometimes lack a soldier's discipline.",
+   "ro": "După cum vedeți, colonelul Hansen, uneori ne lipsește disciplina de soldat."
+  },
+  {
+   "key": "3537629440205205504",
+   "en": "We could pretend to trust each other... or we could focus on business.",
+   "ro": "Ne-am putea preface că ne avem încredere... sau ne-am putea vedea de afaceri."
+  },
+  {
+   "key": "3537629822071418880",
+   "en": "Well, hasn't this become awkward?",
+   "ro": "Păi, nu-i cam ciudat?"
+  },
+  {
+   "key": "3537630323273969664",
+   "en": "He is not, uh, hasty in action or response, as you can see.",
+   "ro": "Nu e, ăă, prea grăbit la acțiune sau răspuns, cum vedeți."
+  },
+  {
+   "key": "3537630439288418304",
+   "en": "D-dear Colonel… I-I thought we, er… commenced from the right foot, we did not?",
+   "ro": "C-colonelule dragă… C-credeam că am început bine, nu?"
+  },
+  {
+   "key": "3537630656855355392",
+   "en": "Mmm, like in Night City, I felt, uh... suffocated by the lies, hypocrisy… the corruption. I adored it.",
+   "ro": "Mmm, ca în Night City, mă simțeam ăă... sufocată de minciuni, ipocrizie… corupție. Adoram asta.",
+   "ro_m": "Mmm, ca în Night City, mă simțeam ăă... sufocat de minciuni, ipocrizie… corupție. Adoram asta."
+  },
+  {
+   "key": "3537631080094183424",
+   "en": "Hmm, it was a car owned by some rockerboy, no?",
+   "ro": "Hm, era mașina vreunui rockerboy, nu?"
+  },
+  {
+   "key": "3537631447750094848",
+   "en": "Aymeric does not partake.",
+   "ro": "Aymeric nu participă."
+  },
+  {
+   "key": "3537631868069687296",
+   "en": "A secret, Colonel.",
+   "ro": "Un secret, colonelule."
+  },
+  {
+   "key": "3537636274907459584",
+   "en": "Richer, poorer, it matters not. The game was an investment.",
+   "ro": "Bogat, sărac, nu contează. Jocul a fost o investiție."
+  },
+  {
+   "key": "3537651158881742848",
+   "en": "Aurore tells me of her friends often. Can you be more specific?",
+   "ro": "Aurore îmi vorbește des despre prietenii ei. Poți fi mai specific?"
+  },
+  {
+   "key": "3537672234336595968",
+   "en": "You and Myers know each other well?",
+   "ro": "Tu și Myers vă cunoașteți bine?"
+  },
+  {
+   "key": "3537672514599989248",
+   "en": "Mistaken, most likely.",
+   "ro": "Greșeală, cel mai probabil."
+  },
+  {
+   "key": "3537683201418145792",
+   "en": "Kerry Eurodyne. Aurore loves his style.",
+   "ro": "Kerry Eurodyne. Aurore îi adoră stilul."
+  },
+  {
+   "key": "3537683349024092160",
+   "en": "Even if my sister entertains the idea, I will not.",
+   "ro": "Chiar dacă sora mea se gândește la asta, eu n-o să fac."
+  },
+  {
+   "key": "3537685580679032832",
+   "en": "Opportunity breeds curiosity. We are listening.",
+   "ro": "Oportunitatea naște curiozitatea. Ascultăm."
+  },
+  {
+   "key": "3539228920134316032",
+   "en": "Clearly…",
+   "ro": "Evident…"
+  },
+  {
+   "key": "3539229510558101504",
+   "en": "No, you're right.",
+   "ro": "Nu, ai dreptate."
+  },
+  {
+   "key": "3539230547239055360",
+   "en": "Is that right? Seemed to me you put money on a pedestal.",
+   "ro": "Așa e? Mie mi s-a părut că pui banii pe un piedestal."
+  },
+  {
+   "key": "3539231232001126400",
+   "en": "Hm. Few have painted the city in such apt terms.",
+   "ro": "Hm. Puțini au descris orașul atât de bine."
+  },
+  {
+   "key": "3539231650307452928",
+   "en": "Ahhh, yes. Word of that sale got around.",
+   "ro": "Ahh, da. Vestea despre vânzare a umblat."
+  },
+  {
+   "key": "3539233982743130112",
+   "en": "In reality, my brother has no memories of that time – stolen. This fact gives Aymeric great shame. To steal from a thief… Ironic, no?",
+   "ro": "Pe bune, fratele meu n-are amintiri din perioada aia – i-au fost furate. Asta îi e lui Aymeric tare rușine. Să furi de la un hoț… Ironic, nu?"
+  },
+  {
+   "key": "3539234556876238848",
+   "en": "I have no doubt.",
+   "ro": "Nu mă îndoiesc deloc."
+  },
+  {
+   "key": "3539235154916880384",
+   "en": "A pragmatist – to my taste. Agreed.",
+   "ro": "Un pragmatist – pe gustul meu. De acord."
+  },
+  {
+   "key": "3539235741616123904",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "3539236372120678400",
+   "en": "An investment? What in, pray tell?",
+   "ro": "O investiție? În ce, mă rog?"
+  },
+  {
+   "key": "3539236424146825216",
+   "en": "In our cooperation. We enjoyed ourselves, for a host is only as happy as his guests.",
+   "ro": "În colaborarea noastră. Ne-am distrat, că gazda e fericită doar dacă și oaspeții sunt."
+  },
+  {
+   "key": "3539237401218330624",
+   "en": "I'm not so sure. Your sister strikes me as the social butterfly type.",
+   "ro": "Nu prea cred. Sora ta mi se pare de tipul fluture de salon."
+  },
+  {
+   "key": "3539237798184038400",
+   "en": "I've seen who she is when no one is watching, or so she believes. I respect her, in a way.",
+   "ro": "O văd cum e când crede că nu se uită nimeni. O respect, în felul ei."
+  },
+  {
+   "key": "3539238277710426112",
+   "en": "Pretentious and predictable, but she loves him all the same.",
+   "ro": "Pretensioasă și previzibilă, dar îl iubește la fel de mult."
+  },
+  {
+   "key": "3539238503582085120",
+   "en": "Is that so…?",
+   "ro": "Chiar așa…?"
+  },
+  {
+   "key": "3539239241460822016",
+   "en": "I'm not asking you.",
+   "ro": "Nu te întreb pe tine."
+  },
+  {
+   "key": "3559658738992463872",
+   "en": "Shit... You can't argue with that.",
+   "ro": "Rahat... Cu asta nu te poți certa."
+  },
+  {
+   "key": "3559680423376371712",
+   "en": "But with unique flaws come unique strengths.",
+   "ro": "Dar defectele unice vin la pachet cu punctele forte unice."
+  },
+  {
+   "key": "3559698851503980544",
+   "en": "I tell him always – they who do not drink must endure those who do. It never works.",
+   "ro": "Îi zic mereu – cine nu bea trebuie să-i suporte pe cei care beau. Nu merge niciodată."
+  },
+  {
+   "key": "3559699912193130496",
+   "en": "In our line of work, what isn't?",
+   "ro": "În meseria noastră, ce nu e?"
+  },
+  {
+   "key": "3559700383515459584",
+   "en": "Hm, so very true.",
+   "ro": "Hm, cât se poate de adevărat."
+  },
+  {
+   "key": "3559706259819249664",
+   "en": "Social, yes. But the name Raquel is not one I've heard. And we tell each other much.",
+   "ro": "Social, da. Numele Raquel însă nu-mi sună. Și ne spunem multe."
+  },
+  {
+   "key": "3559710912174800896",
+   "en": "And yet I am answering.",
+   "ro": "Și totuși răspund."
+  },
+  {
+   "key": "3559711094643802112",
+   "en": "Mhm...",
+   "ro": "Mhm..."
+  },
+  {
+   "key": "3562054079985401856",
+   "en": "Hey…",
+   "ro": "Hei…"
+  },
+  {
+   "key": "3562054639824322560",
+   "en": "Relax, soldier…",
+   "ro": "Relaxează-te, soldat…"
+  },
+  {
+   "key": "3562363308503908352",
+   "en": "The mainframe should be ready soon. So Mi's just making sure we'll need only the access codes from you.",
+   "ro": "Mainframe-ul e aproape gata. So Mi verifică doar că de la tine avem nevoie numai de codurile de acces."
+  },
+  {
+   "key": "3562377109374681088",
+   "en": "You deliver, the work's complete, I send payment.",
+   "ro": "Tu livrezi, treaba e gata, eu trimit plata."
+  },
+  {
+   "key": "3562391562258399232",
+   "en": "But no politics now.",
+   "ro": "Dar acum, fără politică."
+  },
+  {
+   "key": "3566828420073541632",
+   "en": "Next, we'll need to run some ID scans. Joke around as we might, get along as we do, ultimately…",
+   "ro": "Apoi o să rulăm niște scanări de ID. Glumim cât vrem, ne înțelegem cât ne înțelegem, da' până la urmă…"
+  },
+  {
+   "key": "3566832383573381140",
+   "en": "Next, we'll need to run some ID scans. Joke around as we might, get along as we do, ultimately…",
+   "ro": "Apoi o să rulăm niște scanări de ID. Glumim cât vrem, ne înțelegem cât ne înțelegem, da' până la urmă…"
+  },
+  {
+   "key": "3572327899086372864",
+   "en": "This is a place of serious business, you understand.",
+   "ro": "Aici e treabă serioasă, pricepi."
+  },
+  {
+   "key": "3572370945328988160",
+   "en": "This is a place of serious business, you understand.",
+   "ro": "Aici e treabă serioasă, pricepi."
+  },
+  {
+   "key": "3579632404075458564",
+   "en": "[Take Aymeric's drink] Your loss, brother.",
+   "ro": "[Ia băutura lui Aymeric] Pierderea ta, frate."
+  },
+  {
+   "key": "3627470876190257152",
+   "en": "[Run]",
+   "ro": "[Fugi]"
+  },
+  {
+   "key": "3660759989001465868",
+   "en": "[Run]",
+   "ro": "[Fugi]"
+  },
+  {
+   "key": "3733342692885999616",
+   "en": "Did you really expect I'd be fooled so easily?",
+   "ro": "Chiar te așteptai să fiu păcălit atât de ușor?"
+  },
+  {
+   "key": "3733345426515243008",
+   "en": "A regrettable miscalculation.",
+   "ro": "O greșeală regretabilă."
+  },
+  {
+   "key": "3744916497353748480",
+   "en": "I thought we'd have better chemistry…",
+   "ro": "Credeam că o să avem o chimie mai bună…"
+  },
+  {
+   "key": "3744920149434904576",
+   "en": "I didn't mean to make things awkward…",
+   "ro": "N-am vrut să devină ciudat…"
+  },
+  {
+   "key": "3744922278346174464",
+   "en": "A shame. I was hoping for better company.",
+   "ro": "Păcat. Speram la companie mai bună."
+  },
+  {
+   "key": "3744922770421919744",
+   "en": "Well, at least you were successful in wasting my time.",
+   "ro": "Păi, măcar ai reușit să-mi pierzi timpul."
+  }
+ ]
+}

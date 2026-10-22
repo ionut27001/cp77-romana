@@ -1,0 +1,225 @@
+{
+ "depot": "base\\localization\\en-us\\subtitles\\open_world\\voicesets\\gang_6th_m_03_mex_30.json",
+ "entries": [
+  {
+   "key": "1789744717535481860",
+   "en": "Drill or two'd do you good.",
+   "ro": "Un exercițiu sau două ți-ar prinde bine."
+  },
+  {
+   "key": "1789744717569036288",
+   "en": "Attention!",
+   "ro": "Atenție!"
+  },
+  {
+   "key": "1789744717636145156",
+   "en": "<kiroshi l=\"mex\" o=\"¡Vete!\" t=\"Get lost!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Vete!\" t=\"Dispari!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1789744717652922372",
+   "en": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Step back, \" a=\".\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Step back, \" a=\".\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Dă-te înapoi, \" a=\".\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Dă-te înapoi, \" a=\".\"/>"
+  },
+  {
+   "key": "1789744717736808452",
+   "en": "'Ey, 'ey! Better stash that.",
+   "ro": "'Ey, 'ey! Mai bine pune-o la loc."
+  },
+  {
+   "key": "1789744717753585668",
+   "en": "Secure your weapon!",
+   "ro": "Asigură-ți arma!"
+  },
+  {
+   "key": "1789744717820694532",
+   "en": "I will shoot!",
+   "ro": "O să trag!"
+  },
+  {
+   "key": "1789744717854248964",
+   "en": "Think about what you're doing.",
+   "ro": "Gândește-te ce faci."
+  },
+  {
+   "key": "1789744717904580612",
+   "en": "Exactly. Nice 'n' easy.",
+   "ro": "Exact. Ușor, ușor."
+  },
+  {
+   "key": "1789744717921357828",
+   "en": "Be good, now.",
+   "ro": "Fii cuminte acum."
+  },
+  {
+   "key": "1789744717971689476",
+   "en": "Huh?",
+   "ro": "Hm?"
+  },
+  {
+   "key": "1789744717988466692",
+   "en": "Whoever's there, ya better fuck off!",
+   "ro": "Cine-o fi acolo, mai bine cară-te!"
+  },
+  {
+   "key": "1789744718038798340",
+   "en": "Everything looks fine.",
+   "ro": "Totul pare în regulă."
+  },
+  {
+   "key": "1789744718072352768",
+   "en": "Prolly just the boosters.",
+   "ro": "Probabil doar boosterele."
+  },
+  {
+   "key": "1789744718105907204",
+   "en": "Come on out! Let's finish what we started!",
+   "ro": "Ieși afară! Hai să terminăm ce-am început!"
+  },
+  {
+   "key": "1789744718139461636",
+   "en": "Yeah, you better be scared! I'm comin'!",
+   "ro": "Da, mai bine să-ți fie frică! Vin!"
+  },
+  {
+   "key": "1789744718173016068",
+   "en": "Our guy down!",
+   "ro": "Unul de-al nostru a căzut!"
+  },
+  {
+   "key": "1789744718206570500",
+   "en": "Roger.",
+   "ro": "Am înțeles."
+  },
+  {
+   "key": "1789744718256902148",
+   "en": "I'm under fire!",
+   "ro": "Trag în mine!"
+  },
+  {
+   "key": "1789744718290456580",
+   "en": "Finish the enemy!",
+   "ro": "Termină inamicul!"
+  },
+  {
+   "key": "1789744718324011012",
+   "en": "<mothertongue l=\"mex\" m=\"puta\" b=\"Eat that, \" a=\"!\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Eat that, \" a=\"!\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"puta\" b=\"Na, ia de-aici, \" a=\"!\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Na, ia de-aici, \" a=\"!\"/>"
+  },
+  {
+   "key": "1789744718374342660",
+   "en": "<mothertongue l=\"mex\" m=\"mierda\" b=\"The hell is this \" a=\"?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mierda\" b=\"Ce dracu' e \" a=\" asta?\"/>"
+  },
+  {
+   "key": "1789744718391119876",
+   "en": "No pain! Only honor!",
+   "ro": "Fără durere! Doar onoare!"
+  },
+  {
+   "key": "1789744718441451524",
+   "en": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Căcat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1789744718475005956",
+   "en": "Regroup!",
+   "ro": "Regrupați-vă!"
+  },
+  {
+   "key": "1789744718525337604",
+   "en": "<mothertongue l=\"mex\" m=\"puta!\" b=\"Fucking \" a=\"\"/>",
+   "en_m": "<mothertongue l=\"mex\" m=\"puto!\" b=\"Fucking \" a=\"\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"puta!\" b=\"Pula mea, \" a=\"\"/>",
+   "ro_m": "<mothertongue l=\"mex\" m=\"puto!\" b=\"Pula mea, \" a=\"\"/>"
+  },
+  {
+   "key": "1789744718542114820",
+   "en": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>",
+   "ro": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Căcat!\" b=\"\" a=\"\"/>"
+  },
+  {
+   "key": "1789744718575669252",
+   "en": "Talk to me.",
+   "ro": "Vorbește cu mine."
+  },
+  {
+   "key": "1789744718626000900",
+   "en": "That you...? Sorry, didn't recognize... Why'd you change your number...?",
+   "ro": "Tu ești...? Scuze, nu te-am recunoscut... De ce ți-ai schimbat numărul...?"
+  },
+  {
+   "key": "1789744718659555328",
+   "en": "Yeah... Yeah, I could eat... That'd be great...",
+   "ro": "Da... Da, aș mânca... Ar fi grozav..."
+  },
+  {
+   "key": "1789744718726664192",
+   "en": "Flank her!",
+   "en_m": "Flank him!",
+   "ro": "Flanchează-o!",
+   "ro_m": "Flanchează-l!"
+  },
+  {
+   "key": "1789744718760218628",
+   "en": "Flankin' her!",
+   "en_m": "Flankin' him!",
+   "ro": "O flanchez!",
+   "ro_m": "Îl flanchez!"
+  },
+  {
+   "key": "1789744718793773060",
+   "en": "<mothertongue l=\"mex\" m=\"mierda\" b=\"The hell is this \" a=\"?\"/>",
+   "ro": "<mothertongue l=\"mex\" m=\"mierda\" b=\"Ce dracu' e \" a=\" asta?\"/>"
+  },
+  {
+   "key": "1789744718810550276",
+   "en": "Love you too.",
+   "ro": "Și eu te iubesc."
+  },
+  {
+   "key": "1789744718827327492",
+   "en": "What's going on...",
+   "ro": "Ce se întâmplă..."
+  },
+  {
+   "key": "1789744718877659140",
+   "en": "See anything – shoot on sight.",
+   "ro": "Vezi ceva – trage pe loc."
+  },
+  {
+   "key": "1789744718894436356",
+   "en": "Check your mag, let's go.",
+   "ro": "Verifică-ți încărcătorul, hai."
+  },
+  {
+   "key": "1789744718944768004",
+   "en": "Recon! Now!",
+   "ro": "Recunoaștere! Acum!"
+  },
+  {
+   "key": "1789744718978322436",
+   "en": "Do or die!",
+   "ro": "Fă sau mori!"
+  },
+  {
+   "key": "1789744719011876868",
+   "en": "Aaach...I'll kill... You...",
+   "ro": "Aaah... Te omor... Pe tine..."
+  },
+  {
+   "key": "1789798026787000320",
+   "en": "Ah, OK... sure, I understand... sure thing...",
+   "ro": "Ah, OK... sigur, înțeleg... desigur..."
+  },
+  {
+   "key": "1789798402328203264",
+   "en": "Just gotta take care of one more thing, be right back... yeah... sure...",
+   "ro": "Mai am ceva de rezolvat, revin imediat... da... sigur..."
+  }
+ ]
+}
