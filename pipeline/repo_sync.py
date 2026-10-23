@@ -57,7 +57,7 @@ def export():
             p = out / name
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(json.dumps({"depot": depot, "entries": chunk}, ensure_ascii=False, indent=1) + "\n",
-                         encoding="utf-8")
+                         encoding="utf-8", newline="\n")
             n += 1
     print(f"exported {sum(map(len, files.values()))} entries from {len(files)} game files into {n} files")
 

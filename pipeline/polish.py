@@ -111,6 +111,7 @@ DETECT = [
     (r"\b(acest|această|acești|aceste|acel|acea|acei|acele)\b", "demonstrativ livresc în vorbire -> ăsta/asta/ăla/aia"),
     (r"\b(căci|Iată)\b", "cuvânt livresc în vorbire"),
     (r"\bchoom(?:b?a)?-?(?:ul|ii|i|ilor|ule|e|ului)\b", "choom rămâne englezesc: choom / chooms, fără terminații"),
+    (r"\bc[ăa]c[ăa]ri[ei]", "„căcărie” sună de la țară -> căcat / căcaturi"),
     (r"\b(the|and|you|with|that|this|what|just|really)\b", "a rămas un cuvânt englezesc"),
 ]
 DETECT = [(re.compile(rx, re.I), msg) for rx, msg in DETECT]
