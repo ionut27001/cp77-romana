@@ -4810,5 +4810,37 @@
   "avoid": [
    "scop (scopul)"
   ]
+ },
+ {
+  "en": "Fuck. / Fuck... / Goddammit. (interjecție de frustrare sau resemnare)",
+  "match": "(^|[.!?…]\\s*)(fuck(in'?|ing)?|god ?damn(it)?|dammit)[.!?…]",
+  "senses": [
+   {
+    "when": "frustrare, resemnare, ghinion, „știam eu”, oboseală (decizia user-ului, 2026-10-23)",
+    "ro": [
+     "Băga-mi-aș.",
+     "Băga-mi-aș...",
+     "Băga-mi-aș!"
+    ]
+   },
+   {
+    "when": "durere bruscă, șoc, panică, țipăt în luptă, furie pe cineva",
+    "ro": [
+     "Futu-i!",
+     "Pula mea!",
+     "Căcat!"
+    ]
+   },
+   {
+    "when": "„fuck it” = las-o baltă",
+    "ro": [
+     "Dă-o-n pula mea.",
+     "Dă-o dracului."
+    ]
+   }
+  ],
+  "avoid": [
+   "„Pula mea.” / „Futu-i.” pentru un oftat resemnat (sună forțat; zi „Băga-mi-aș”)"
+  ]
  }
 ]
